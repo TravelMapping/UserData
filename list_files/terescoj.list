@@ -2062,6 +2062,7 @@ FL FL976 FL985 US1
 FL FL985 FL948 FL976
 FL FL997 US1 US41
 FL FL9336 ENP US1
+FL FLTpk 152 242
 GA GA3 GA37 GA133
 GA GA5 I-75 US76_E
 GA GA10 I-75/85 Bou
@@ -2908,6 +2909,7 @@ NY NY890 I-890 NY5
 NY BeltPkwy I-278 6
 NY BerCon I-87 NY/MA
 NY BroRivPkwy 2(S) SprBroPkwy
+NY CroCouPkwy 1 6
 NY FDRooDr I-478 18
 NY GraCenPkwy 4 13
 NY GarStaPkwy NJ/NY I-87/287
@@ -2915,6 +2917,7 @@ NY HenHudPkwy 8 24
 NY HarRivDr 18 10thAve
 NY HutRivPkwy 1 NY/CT
 NY PalIntPkwy NJ/NY US6/9W
+NY SawMillPkwy HenHudPkwy 26
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY TacStaPkwy BroRivPkwy I-90
 NY WanStaPkwy OcePkwy NorStaPkwy
