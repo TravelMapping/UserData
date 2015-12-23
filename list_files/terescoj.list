@@ -1891,7 +1891,7 @@ CO CO9 I-70(205) BorPassRd
 CO CO13 I-70 CO/WY
 CO CO17 NM/CO US160/285
 CO CO30 I-225 CO83
-CO CO41 US160 UT/CO
+CO CO41 US160 CO/UT
 CO CO63 I-76 US36
 CO CO82 I-70 US24
 CO CO83 CO2 CO30
@@ -2914,11 +2914,11 @@ NY CroCouPkwy 1 6
 NY FDRooDr I-478 18
 NY GraCenPkwy 4 13
 NY GarStaPkwy NJ/NY I-87/287
-NY HenHudPkwy 8 24
+NY HenHudPkwy 8 Bro/Wes
 NY HarRivDr 18 10thAve
 NY HutRivPkwy 1 NY/CT
 NY PalIntPkwy NJ/NY US6/9W
-NY SawMillPkwy HenHudPkwy 26
+NY SawMillPkwy Bro/Wes 26
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY TacStaPkwy BroRivPkwy I-90
 NY WanStaPkwy OcePkwy NorStaPkwy
