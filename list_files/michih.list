@@ -431,7 +431,7 @@ ROU A3Buc CenBuc DN1
 ROU A3 DN15 DN1_Gil
 ROU A6 DN6 A1
 ROU A11 A1 DN7
-ROU DN1 HUN/ROU BulDac_W
+ROU DN1 ROU/HUN BulDac_W
 ROU E60 HUN/ROU BulDac_W
 ROU DN1 DN79 DJ107R
 ROU E60 DN79 DJ107R
@@ -467,6 +467,12 @@ SWE E20 DNK/SWE 44
 SWE E20 86 Rv49
 SWE E22 Rv9 18
 SWE E65 14 Rv9_E
+#SWE R25 Halmstad (E6/E20) - Ljungby (E4)
+#SWE R26 Skoevde (O2889) - Borgunda (R46)
+#SWE R40 Flygplatsmotet (77) - Dalsjoefors (90) [Dalsjoefors - Ulricehamn is realigned]
+#SWE R46 Borgunda (R26) - Ulricehamn (R40)
+#SWE R49 Skara (E20) - Skoevde (R26)
+#SWE Aengelholmsleden Helsingborg - Kropp
 
 
 IL I-190 ChiOHAir 1C
