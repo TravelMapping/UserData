@@ -1281,6 +1281,7 @@ CT CT318 US44 CT219
 CT NY120AGre NY/CT CT/NY
 CT NY120ARiv NY/CT CT/NY
 CT CTTpk I-395 US6
+CT MilPkwy 2 3
 DC DC295 I-295 DC/MD
 DE DE1 160 165
 DE DE2 DE2Bus/273 DE52
@@ -1578,13 +1579,14 @@ NY NY787 I-787/7 NY32
 NY NY878 I-678 JFKExpy
 NY BeltPkwy 8 25
 NY BroRivPkwy 1(S) NY22
+NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
 NY FDRooDr I-478 18
 NY GarStaPkwy NJ/NY I-87/287
 NY GraCenPkwy 4 13
 NY GraCenPkwy 23 Que/Nas
 NY HarRivDr 18 10thAve
-NY HenHudPkwy 8 24
+NY HenHudPkwy 8 Bro/Wes
 NY HutRivPkwy 1 NY/CT
 NY LakeOntPkwy HamBeaPRd LakeAve
 NY MeaStaPkwy BayPkwy NorStaPkwy
@@ -1592,6 +1594,7 @@ NY NorStaPkwy Que/Nas 44
 NY PalIntPkwy NJ/NY US6/9W
 NY RobMosCswy CapSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
+NY SawMillPkwy Bro/Wes I-684
 NY SouStaPkwy CroIslExp 44
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY TacStaPkwy BroRivPkwy I-90
