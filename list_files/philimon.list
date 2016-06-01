@@ -99,6 +99,7 @@ BEL E46 N617 FRA/BEL
 BEL R0 E411/A4_N E411/A4_S
 BEL R1 E19/A1_N 7
 BEL R3 E42/A15_E RueMut
+BEL R8 A19 2
 BEL R9 30E 27O
 BEL R20 A10 R20
 BEL R21 N24 N206_E
@@ -122,9 +123,9 @@ BIH E761 M16_N A1_S
 BGR A1 I6 N795
 BGR A2 I3_E I1_Yan
 BGR A2Var I2_Shu I2_Var
-BGR A3 III106 A6/I6
+BGR A3 I1_Dup A6/I6
 BGR A5 I9_S I9_N
-BGR A6 I18 A3/I6
+BGR A6 II18 A3/I6
 
 BGR I1 II18 I6_E
 BGR I1Bla A3_N A3_S
@@ -135,8 +136,8 @@ BGR I4 A2/I2 I3
 BGR I5 II66_E I8_W
 BGR I5 III806 III5009_N
 BGR I5 II58 II507
+BGR I6 II66 III795
 BGR I6 II18 I1_N
-BGR I5 II66 III795
 BGR I6 A1 I9
 BGR I6Per A3/A6 II18
 BGR I8Sli SRB/BGR II18
@@ -147,7 +148,7 @@ BGR E70 I9 I2_Shu
 BGR E772 A2/N2 N3
 BGR E773 N795 N9
 BGR E79 BGR/GRC N8/N18
-BGR E79 A2/N18 A2/N17
+BGR E79 I1_Yan A2/17
 BGR E80 SRB/BGR N18_W
 BGR E83 N18 N4
 BGR E85 A4/N5 N66_E
@@ -180,7 +181,7 @@ CHE A22 A2/A3 A2
 CHE A51 1 3
 
 CHE BreLau 2 17
-CHE ZurRhe 14 CHE/DEU
+CHE ZubRhe 14 CHE/DEU
 
 CHE E23 A1_W 2
 CHE E23 19(A1) A1/A9
@@ -212,7 +213,7 @@ DEU A1Saa 120 150
 DEU A3 16 88
 DEU A4 81a DEU/POL
 DEU A4Kol 16 NLD/DEU
-DEU A5 40 DEU/CHE
+DEU A5 26a DEU/CHE
 DEU A6 FRA/DEU 48
 DEU A7 110 120
 DEU A8 41 82
@@ -232,7 +233,7 @@ DEU A52 NLD/DEU 14
 DEU A52Ess 21 22
 DEU A52Ess 22a 26
 DEU A57 15 30
-DEU A59Bon 31 34
+DEU A59Bon 31 39
 DEU A60 BEL/DEU 11
 DEU A61 NLD/DEU 16a
 DEU A61 20 65
@@ -240,6 +241,7 @@ DEU A62 1 10
 DEU A62 15 16
 DEU A64 LUX/DEU 4
 DEU A65 7 24
+DEU A67 1 6a
 DEU A81 9 20
 DEU A81 40 43
 DEU A92 1 6
@@ -247,10 +249,11 @@ DEU A93Obe DEU/AUT 56
 DEU A96 3 39
 DEU A98 1 7
 DEU A98Sto 11 13
-DEU A99 8 21
+DEU A99 4 21
 DEU A544 1 A44
 DEU A555 1 6
 DEU A559 1 3
+DEU A560 1 5
 DEU A565 4 12
 DEU A571 EhlStr A61
 DEU A573 1 2
@@ -260,13 +263,22 @@ DEU A623 1 7
 DEU A861 1 DEU/CHE
 DEU A995 1 6
 
+DEU B1 B1A_E A544
+DEU B1 NLD/DEU B57 
+DEU B2r A8 A9
+DEU B2r A95_E B13_S
+DEU B2r A96 A95_W
+DEU B3 B37 AdePla
+DEU B9 A65(24) DEU/FRA
+DEU B9dor B51_E A555
+DEU B9gel A57(2) L5_W
+
 DEU E29 109(A1) B418
 DEU E29Saa LUX/DEU DEU/FRA
 DEU E31 NLD/DEU 3(A57)
 DEU E31 15(A57) 65(A61)
 DEU E34 NLD/DEU A3/A40
-DEU E35 16(A3) A3/A67
-DEU E35 40(A5) DEU/CHE
+DEU E35 16(A3) DEU/CHE
 DEU E37 92a(A1) 101(A1)
 DEU E40 81a(A4) DEU/POL
 DEU E40 15(A4) BEL/DEU
@@ -470,32 +482,46 @@ GRC E952 A5 AktAir
 GRC E952 Ker EO3
 GRC E962 A1 A6/A8_W
 
-//GRC EO02 Thessaloniki Gefyra
-//GRC EO02 Yannitsa Edessa
-//GRC EO03 Ptolemaida FYROM
-//GRC EO03 Sofades Lamia
-//GRC EO03 Thiva Elefsina
-//GRC EO06 Volos Velestino
-//GRC EO06 Kileler Larisa
-//GRC EO06 Trikala Kalambaka Egnatia
-//GRC EO07 Mykines Dervenakia
-//GRC EO09 Patra Andravida
-//GRC EO12 Thessaloniki Serres
-//GRC EO15 Grevena Kalampaka
-//GRC EO30 Trikala Karditsa
-//GRC EO30 Mikrothives Volos
-//GRC EO44 Thiva Chalkida
-//GRC EO50 Sami Argostoli
-//GRC EO55 Xanthi ...
+//GRC EO02 Θεσσαλονίκη Γέφυρα
+//GRC EO02 Γιαννιτσά Έδεσσα
+//GRC E002 Βατοχώρι Σύνορα 
+//GRC EO03 Πτολεμαΐδα ΜΚΔ
+//GRC EO03 Νέο Μοναστήρι Λαμία
+//GRC EO03 Θήβα Ελευσίνα
+//GRC EO03 Μπράλος Θερμοπύλες
+//GRC E005 Αντίρριο Παράκαμψη Αγρινίου (Ν)
+//GRC E005 Παράκαμψη Αγρινίου (Β) Παράκαμψη Άρτας (Ν)
+//GRC E005 Παράκαμψη Άρτας (Β) Γιάννενα
+//GRC EO06 Βόλος Βελεστίνο
+//GRC EO06 Κιλελέρ Λάρισα
+//GRC EO06 Τρίκαλα Παναγιά
+//GRC EO07 Δερβενάκια Μυκήνες
+//GRC EO09 Πάτρα Πύργος
+//GRC EO12 Θεσσαλονίκη Σέρρες
+//GRC EO15 Καλαμπάκα Γρεβενά
+//GRC E015 Κορομηλιά Βατοχώρι
+//GRC E018 Πρέβεζα Ηγουμενίτσα 
+//GRC E020 Δροσοπηγή Γιάννενα
+//GRC E027 Άμφισσα Θερμοπύλες
+//GRC EO30 Τρίκαλα Νέο Μοναστήρι
+//GRC EO30 Μικροθήβες Βόλος
+//GRC E038 Βίνιανη Λαμία
+//GRC E042 Αμφιλοχία Βόνιτσα
+//GRC EO44 Θήβα Χαλκίδα
+//GRC E048 Δελφοί Αντίρριο
+//GRC EO50 Σάμη Αργοστόλι
+//GRC E051 Πέπλος Καστανιές
+//GRC EO55 Ξάνθη Σύνορα
 //GRC EO68 Mykines EO07
 //GRC EO69 all
-//GRC EO70 Korinthos Epidavrou-Kosta
-//GRC EO77 Aidipsos Oreoi
-//GRC EO81 Kifisia Kapandriti
-//GRC EO83 Kifisia Rafina
-//GRC EO87 Stavros Spata
-//GRC EO89 Markopoulo Lavrio
-//GRC EO91 Athina Sounio
+//GRC EO70 Κόρινθος Ναύπλιο
+//GRC E074 Τρίπολη Πύργος
+//GRC EO77 Αιδηψός Ωρεοί
+//GRC EO81 Κηφισιά Καπανδρίτι
+//GRC EO83 Κηφισιά Ραφήνα
+//GRC EO87 Σταυρός Σπάνα
+//GRC EO89 Μαρκόπουλο Λαύριο
+//GRC EO91 Αθήνα Σούνιο
 
 HRV A1 1 6
 HRV A2 SVN/HRV 7
@@ -592,14 +618,14 @@ LUX N10a CR140 LUX/DEU
 LUX N11 N7 DEU/LUX
 LUX N13 CR162 N3
 LUX N14 N1 CR347_E
-LUX N16 A3(11) CR155
+LUX N16 A13(11) CR155
 LUX N17 N19 N10_N
 LUX N27A B7 N7
 LUX N51 N52 A1
 
 MKD A1 SRB/MKD R1102_Dem
 MKD A1Gev R1102_Smo MKD/GRC
-MKD A1 R1103 A3
+MKD A1Pri R1103 A3
 MKD A2 A3 MKD/ALB 
 MKD A2 A4_W A1_N
 MKD A3 A1 Uli7Noe
@@ -692,6 +718,11 @@ NLD N62 NLD/BEL N290
 POL A4 DEU/POL 350
 POL A4 369 401
 
+POL DK7 DK79/94 DW794
+POL DK7mys DW967 A4
+POL DK7rab SVK/POL Lub
+POL DK79 S7 DW794
+
 POL S1 A4 DW934
 POL S7WKr A4 DK79_W
 POL S7Lub DW967 DK7_S
@@ -731,7 +762,7 @@ ROU E577 DN1 DN1D
 
 ROU DNCB A2 DN1_E
 ROU DN1 DN73A_S DN1B
-ROU DN1A DN1/DN1B DN1A_N
+ROU DN1A DN1B_E DN1B_W
 ROU DN1B DN1 DN1D
 ROU DN1D DN1B DN2A
 ROU DN2 DN1D DN2A
