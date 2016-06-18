@@ -3,7 +3,7 @@
 # Austrian B roads commented (autb)
 # Belgian N roads commented (beln)
 # Czech I roads commented (czei)
-# German B roads commented (deub >169)
+# German B roads commented (deub >172)
 # Some Spanish roads commented
 # Italian SS roads missing (itass)
 # Dutch N roads commented (nldn >200)
@@ -415,7 +415,7 @@ DEU B27 A81_Tau B37/B292
 DEU B27 L1095 A6
 DEU B27 L1125_W B463_W
 DEU B27 B33_W DEU/CHE
-DEU B27a B27 B14
+DEU B27aStu B27 B14
 DEU B28 B27 B312_N
 DEU B28 B10_Neu A7
 DEU B28Fre FRA/DEU A5
@@ -496,7 +496,7 @@ DEU B286 RobBosStr A3
 DEU B303Sch A7 B286
 DEU B468 B8 A3
 DEU B469 A45 B47
-#DEU B170 A4 GeoPla
+DEU B170 A4 GeoPla
 #DEU B173 A73 B85_N
 #DEU B176 Dach B4
 #DEU B176 Fro L2135
