@@ -14,11 +14,10 @@ al us78 I-20(140) ms/al
 
 
 
-
-ak i-a1 ak1 ak/yt 
+ 
 ak i-a2 ak3 ak1
 ak i-a4 ak1 ak2
-ak ak1 ak2 5thave_w
+ak ak1 ak/yt 5thave_w
 ak ak2 yt/ak ak11
 ak ak3 ak1 ak2
 ak ak4 ak2 ak1_s
@@ -34,7 +33,7 @@ ar US67 I-40(155) ar/mo
 ar us62 US67_n ar135
 ar us82 us65/278 ar/ms
 ar us425 ar8_w i-530
-ar us 63 ar81 i-40(193)
+ar us63 ar81 i-40(193)
 ar us82 ar133trk ar/ms
 
 az I-8 ca/az 178
@@ -47,7 +46,7 @@ az I-19 101 graave
 az I-40 ca/az az/nm
 az us60 I-10(31) us180/191_n
 az us70 us60 us191_s
-az us89 I-40nl/180 az/ut
+az us89 I-40bl/180 az/ut
 az us93 US60 az/nv
 az US160 US89 az/nm
 az us180 erimdr I-40(285)
@@ -75,8 +74,10 @@ AZ I-40BLHol i-40_W I-40_E
 az az24 az202 ellrd
 az az72 az95 us60
 az az64 I-40 erimdr
+az az61 us60 us191_n
 az az69 i-17 az89
 az az77 I-10 us60_e
+az az77 i-40(286) az377
 az az74 us60 I-17
 az az79 az77 us60
 az az79busflo az79_s az79_n
@@ -97,6 +98,7 @@ az az95bul ca/az az68
 az az95spar ca/az az95
 az az169 az69 I-17
 az az179 I-17 az89a 
+az az181 us191 pincanrd
 az az186 i-10 az181
 az az187 az387 az87
 az az188 us60 az87
@@ -245,7 +247,7 @@ ca tiopassrd ca120 bigoakrd
 ca kincanrd ca180 kantr
 ca us99hisind ca78_e i-10
 ca us395histem i-15(28) i-215
-ca us66hisned i-40(139) 1-40(144)
+ca us66hisnee i-40(139) 1-40(144)
 
 co I-25 nm/co co/wy 
 co I-70 286 ut/co
@@ -266,6 +268,7 @@ co co9 us40 i-70(203)
 co penablvd i-70 ter
 co us385 ok/co us50/287
 co us50 i-25(101) us287/385
+co co14 1-25 us287_n
 
 ct i-84 ny/ct 51
 ct i-84 61 ct/ma
@@ -291,7 +294,7 @@ ga I-185 I-85 10
 ga I-285 ga279 62
 ga I-20 al/ga ga/sc
 ga I-85 95 ga/sc
-ga tn/ga ga/tn
+ga i-24 tn/ga ga/tn
 
 gu gu1 gu2a gu9
 gu gu2 gu2a gu4
@@ -337,7 +340,7 @@ Id US20 id87 I-15(118)
 Id id87 US20 id/mt
 id id74 us93 US30
 id id128 wa/id us12 
-id id15 us95 us12
+id id13 us95 us12
 id id27 i-84 mainst
 id id167 id78 id67
 
@@ -370,7 +373,7 @@ il il140 i-55 il127_s
 
 
 in I-64 Il/in in/ky
-in I-65 210 129
+in I-65 230 129
 in I-65 106 ky/in
 in i-69 309 315
 in I-70 Il/in 73
@@ -403,9 +406,11 @@ Ia US30 us61_s US67_s
 ia US61 I-80(295) US30_e
 ia US67 I-80 US30_w
 
-ks I-35 50 222
+ks I-35 ok/ks ks/mo
 ks I-435 mo/ks ks/mo
 ks I-70 250 422c
+ks i-670 i-70 ks/mo
+ks i-470 1a 183(kt)
 ks US50 ks61_s  I-35(127a)
 ks US54 ok/ks I-35 
 Ks I-135 95 58
@@ -465,6 +470,7 @@ mo I-35 mo/ia ks/mo
 mo I-44 ok/mo I-70
 mo I-49 I-435 39b
 mo I-55 175 196
+mo i-55 ar/mo 66
 mo i-57 1 mo/il
 mo I-70 ks/mo mo/Il
 mo I-72 us61  mo/Il
@@ -475,7 +481,7 @@ mo i-435 49 mo/ks
 mo I-470 I-435 16b
 MO I-635 KS/MO 12
 mo I-670 ks/mo 2n
-mo us63 mo22 mo 763
+mo us63 mo22 mo763
 mo us65 i-44 ar/mo
 mo US67 ar/mo I-55(174)
 mo mo22 US63 US54bus_e 
@@ -513,14 +519,15 @@ ne I-180 9thst I-80
 ne US34 US75_n US75_s
 ne US75 I-80 us75bus_s
 ne us83 i-80 ks/ne
-ne ne2 ne50 ne/ia
+ne ne2lin ne50 ne/ia
+ne us81 i-80 ks/ne
 
 nd I-94 mt/nd 348
 ND I-29 23 63
 ND ND13 I-29 ND210
 ND ND210 ND13 9THST
 
-mn i-35 59 ia/mn
+mn i-35far 59 ia/mn
 mn mn21 mn60 i-35
 
 nv I-15 ca/nv nv/az
@@ -562,6 +569,7 @@ nv i-11futhen 56(us95) 61(us95)
 nv i-11futhoo az/nv 2
 nv sumpkwy us95 cr215
 nv us6 nv318 us50/93
+nv nv146 i-15 i-215
 
 
 nm I-10 az/nm nm/tx
@@ -610,7 +618,7 @@ NY I-90 48A(NYST) 39(NYST)
 NY I-287 NJ/NY 12
 NY I-95 22 NY/CT
 NY I-690 I-90 8
-NY I-481 I-81 1
+NY I-481 9 8
 Ny US20 ny5_sil ny16/78
 Ny us20altgen ny16/78_n ny77
 NY Us20trksil ny5_w US20_e
@@ -637,7 +645,7 @@ OH I-75 208 OH/MI
 OH I-76 1 60
 OH I-77 161B I-90
 OH I-80 IN/OH OH/PA
-OH I-271 1 27
+OH I-271 1 i-90
 OH I-280 1A I-75
 OH I-475 14 6
 OH I-480 I-80_W 26
@@ -660,11 +668,12 @@ ok I-44 115 134(35)
 ok I-240 1a I-40
 ok I-35 tx/ok ok/ks
 ok I-44 283 ok/mo
+ok i-235 4b 1a
 ok US69 I-44(283) tx/ok
 ok us70 US69/75 US177
 ok US177 us70 ok53
 ok ok53 US177 I-35(42)
-ok us385 tx/ok ok/co
+ok us287 tx/ok ok/co
 ok us54 tx/ok ok/ks
 ok indnattpk 1 63
 ok us271 tx/ok us271bushug_n
@@ -688,7 +697,7 @@ or or99w or22 US20/34
 or or207 us395_n us720
 or or224 I-205(13) or99e
 Or us395 or/wa I-84(209)
-Or us730 or/wa or207
+Or us730 or/wa us730
 
 
 pa I-70 wv/pa 161(76)
@@ -702,7 +711,7 @@ PA I-84 I-81/6 PA/NY
 PA I-86 1 PA/NY
 PA I-99 62 73
 PA US322 PA970 I-81/83
-pa pa72 licrd irobfird
+pa pa72 licrd irobrird
 pa pa970 us322 i-80
 
 RI I-295 RI/MA i-95
@@ -739,7 +748,7 @@ tx I-40 nm/tx tx/ok
 tx I-44 0 tx/ok
 tx I-45  25 284a
 tx I-410 I-35(145a) 53
-tx I-610  11a 38
+tx I-610  11a 11a
 tx us90 I-10(140a) I-10(603)
 tx us90althal holrd mainst_e
 tx US285 tx/nm I-10(257)
@@ -794,11 +803,11 @@ tx tx146 tx146busbay_s txspr330
 tx tx146 tx146busbay_n tx321
 tx tx321 us90/146 txlp573
 tx tx146busbay tx146_s tx146_n
-tx tx99buy tx146bus fm1405
+tx tx99bay tx146bus fm1405
 tx txlp573 tx105bus_e us59_n
 tx tx105 txlp336_e us59
 tx txlp336 i-45(84) tx105_e
-tx txlp8 i-45(60) jfkblvd
+tx txlp8 i-45(60c) jfkblvd
 
 ut I-15 az/ut 379
 ut I-84 340(15) id/ut
@@ -808,6 +817,7 @@ ut i-15blpar I-15_s i-15_n
 ut i-15blbea I-15_s I-15_n
 ut US89 ut12 ut143
 ut US89 bulave I-70(23)
+ur us89 300w/400s ut268
 ut I-80 nv/ut ut/wy
 ut I-215 12 i-15
 ut us191 az/ut i-70(157)
@@ -823,7 +833,7 @@ ut ut68 i-215(27) 500s_w
 ut ut97 i-15 hillafb
 ut ut138 i-80 wesst
 ut ut201 i-80 i-15/80
-ut ut148 ut148 ut14
+ut ut148 ut143 ut14
 ut ut143 i-15 us89
 ut brycynscedr ut63 end
 ut zioncyndr ut9 end
@@ -838,6 +848,7 @@ wa I-205 or/wa I-5
 wa wa14 I-5 6
 wa I-82 I-90 wa/or
 wa I-90 25 wa/id
+wa i-405 i-5(154) 17
 wa wa18 wa99 I-90
 wa wa99 wa599 lucst
 wa wa99 wa18 70thst
@@ -870,3 +881,10 @@ wy I-80 ut/wy wy/ne
 wy us212col mt/wy wy/sd
 wy US287 co/wy I-80(313)
 wy US20 us26/789_w wy120
+wy us191 wy28 i-80(99)
+wy wy28 us191 us287
+wy wy789 wy28 wy120
+wy wy120 us20 wy/mt
+
+
+bc bc93 bc3 usa/can
