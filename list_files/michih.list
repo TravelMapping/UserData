@@ -1,14 +1,13 @@
-# Date: 2016-07-17
+# Date: 2016-07-19
 # ----------------
 # Austrian B roads commented (autb)
 # Belgian N roads commented (beln)
 # Czech I roads commented (czei)
-# German B roads commented (deub B4xx)
 # Some Spanish roads commented
 # Italian SS roads missing (itass)
 # Dutch N roads commented (nldn > N200)
 # Slovenian G roads commented (svng)
-# Swiss H roads commented (chen)
+# Swiss H roads commented (cheh)
 # ----------------
 
 # AUSTRIA
@@ -661,8 +660,22 @@ DEU B426 B45_S B469
 DEU B429 B49 A480
 DEU B437 A29 A27
 DEU B446 A7 B247n
+DEU B452 B249 B7/B27
+DEU B463Bal A81 B27_E
+DEU B464 B295 A81
+DEU B464 B27_N L378
+DEU B466 B10_S L1160
+DEU B466 B13_S A6
+DEU B466AST B466_DonW B466_DonE
 DEU B468 B8 A3
 DEU B469 A45 B47
+DEU B473 B67 A3
+DEU B475 L831 B58
+DEU B476 A33 B68
+DEU B477 B266_W A1
+DEU B480 A33 B7_W
+DEU B482 B61AST A2
+DEU B485 L3200 B253_E
 DEU B505 A73 A3
 DEU B512 St2110_W A3
 DEU B514 B61 L546n
@@ -670,19 +683,6 @@ DEU B525 B70 A43
 DEU B528 L476 A42
 DEU B533 A3 B85_N
 DEU B999 BGL9 B319
-#DEU B452 B249 B7
-#DEU B463 A81 B27
-#DEU B464 B295 A81
-#DEU B464 B27 B28
-#DEU B466 B10 L1160
-#DEU B466 B13 A6
-#DEU B473 B67 A3
-#DEU B475 L831 B58
-#DEU B476 A33 B68
-#DEU B477 B266 A1
-#DEU B480 A33 B7
-#DEU B482 L780 A2
-#DEU B485 L3200 B253
 
 
 # DENMARK
