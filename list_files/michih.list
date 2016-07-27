@@ -1,4 +1,4 @@
-# Date: 2016-07-26
+# Date: 2016-07-27
 # ----------------
 # Austrian B roads commented (autb)
 # Belgian N roads commented (beln)
@@ -745,8 +745,8 @@ DNK PR41 E45 PR8
 DNK PR42 PR24 PR8
 DNK PR46 E45 PR15
 DNK PR52 PR15_E SR459_E
-DNK PRO2Hil PR6_N PR16_E
-DNK PRO4 E47/E55 5(21)
+DNK O2Hil PR6_N PR16_E
+DNK O4 E47/E55 5(21)
 
 
 # SPAIN
@@ -1002,13 +1002,19 @@ NLD E22 A4 NLD/DEU
 
 # NORWAY
 
-NOR E6 81 NOR/SWE
+NOR E6 E14 NOR/SWE
+# new E6 alignment u/c from Fv27 to Fv257
+NOR E6Tro E6 Rv706
+# http://tm.teresco.org/forum/index.php?topic=366
+NOR E14 E6 NOR/SWE
 NOR E16Osl Rv35 E18
 NOR E18 25 23
 NOR E18 16 E6_S
 NOR E134 Rv35 E18
 NOR Rv23 E18 E6
 NOR Rv35 E134 E16
+NOR Rv706 E6_N E6_S
+
 
 # POLAND
 
@@ -1082,6 +1088,7 @@ SWE YRingVag DNK/SWE 19
 SWE YstVag 11 14
 SWE E4 79 OceGat
 SWE E6 NOR/SWE Rv9
+SWE E14 NOR/SWE Rv87
 SWE E20 DNK/SWE Rv49
 SWE E22 Rv9 18
 SWE E65 14 Rv9_E
