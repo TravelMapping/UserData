@@ -1,4 +1,4 @@
-# Date: 2016-07-31
+# Date: 2016-08-01
 # ----------------
 # Austrian B roads commented (autb)
 # Belgian N roads commented (beln)
@@ -370,6 +370,7 @@ DEU E52 FRA/DEU 54(A5)
 DEU E54Lor FRA/DEU DEU/CHE
 DEU E54 13(A98) 3(A96)
 DEU E54 39(A96) 1(A995)
+DEU E55 GedRosFry DEU/CZE
 DEU E233 NLD/DEU A1
 DEU E251 TreStr A10/A111
 DEU E422 150(A1) A620
@@ -1016,8 +1017,6 @@ NLD E22 A4 NLD/DEU
 
 NOR E6 E14 NOR/SWE
 # new E6 alignment u/c from Fv27 to Fv257
-NOR E6Tro E6 Rv706
-# http://tm.teresco.org/forum/index.php?topic=366
 NOR E14 E6 NOR/SWE
 NOR E16Osl Rv35 E18
 NOR E18 25 23
@@ -1105,7 +1104,7 @@ SWE YRingVag DNK/SWE 19
 SWE YstVag 11 14
 SWE E4 84 OceGat
 SWE E4 133 188
-SWE E6 NOR/SWE Rv9
+SWE E6 NOR/SWE TreSasFry
 SWE E14 NOR/SWE E45_S
 SWE E18 Rv26_N Rv26_S
 SWE E18 110a 169(E4)
