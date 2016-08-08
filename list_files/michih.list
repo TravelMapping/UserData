@@ -7,7 +7,7 @@
 # Italian SS roads missing (itass)
 # Dutch N roads commented (nldn > N200)
 # Slovenian G roads commented (svng)
-# Swiss H roads commented (cheh)
+# Swiss H13 commented (cheh)
 # ----------------
 
 # AUSTRIA
@@ -148,13 +148,15 @@ CHE E27 28(A5) 2(A6)
 CHE E41 DEU/CHE A2
 CHE E54 DEU/CHE CHE/DEU
 CHE E62 FRA/CHE CHE/ITA
-#CHE H4 A3 A4a
-#CHE H4 33(A8) 32a(A8)
-#CHE H4 32(A8) 30(A8)
-#CHE H6 20(A8) 21(A8)
-#CHE H8 23(A8) 24(A8)
-#CHE H9 29(A9) H9(A9)
-#CHE H9 TerStr(A9) CHE/ITA
+CHE H4 H3_E ZubWie_Wie
+CHE H4 ZubWie_Bru A4a_Sih
+CHE H4 A8_GisS A8_LunN
+CHE H4 A8_LunS H6/H11
+CHE H6 A8_Gue A8_LeiW
+CHE H6 23(A8) DarE
+CHE H6 H4 A8_Unt
+CHE H9 A9_SieE A9_VisE
+CHE H9 A9_Bri CHE/ITA
 #CHE H13 DEU/CHE A4
 
 
