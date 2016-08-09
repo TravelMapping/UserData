@@ -1,4 +1,4 @@
-# Date: 2016-08-07
+# Date: 2016-08-09
 # ----------------
 # Austrian B roads commented (autb)
 # Belgian N roads commented (beln)
@@ -7,7 +7,6 @@
 # Italian SS roads missing (itass)
 # Dutch N roads commented (nldn > N200)
 # Slovenian G roads commented (svng)
-# Swiss H13 commented (cheh)
 # ----------------
 
 # AUSTRIA
@@ -148,6 +147,7 @@ CHE E27 28(A5) 2(A6)
 CHE E41 DEU/CHE A2
 CHE E54 DEU/CHE CHE/DEU
 CHE E62 FRA/CHE CHE/ITA
+CHE H4Sch DEU/CHE 2(A4)
 CHE H4 H3_E ZubWie_Wie
 CHE H4 ZubWie_Bru A4a_Sih
 CHE H4 A8_GisS A8_LunN
@@ -157,7 +157,8 @@ CHE H6 23(A8) DarE
 CHE H6 H4 A8_Unt
 CHE H9 A9_SieE A9_VisE
 CHE H9 A9_Bri CHE/ITA
-#CHE H13 DEU/CHE A4
+CHE H13 DEU/CHE A4_SchS
+CHE H15 DEU/CHE A4_Tha
 
 
 # CZECH REPUBLIC
@@ -707,11 +708,11 @@ DEU L124 B55 A4/A559
 DEU L232 A4 L231
 DEU L705 5 A40
 DEU N4 A73_N A73_S
-DEU FluZubMun A92 TerWestMit
-DEU FluZubMunAST FluZubMun TerWestMit
+DEU St2584 A92 TerWestMit
+DEU St2584AST FluZubMun TerWestMit
 DEU NordTanOld A293 A29
 DEU SudTanFur B8 A73
-DEU SudTanKar B10 A5
+DEU SudTanKar A65 A5
 
 
 # DENMARK
