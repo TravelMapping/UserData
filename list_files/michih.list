@@ -1,4 +1,4 @@
-# Date: 2016-08-30
+# Date: 2016-09-03
 # ----------------
 # Belgian N roads commented (beln)
 # Some Spanish roads commented
@@ -182,7 +182,10 @@ CZE D3 100 104
 CZE D5 1 CZE/DEU
 CZE D8Ust 80 CZE/DEU
 CZE D10 R1 46
-CZE MO I4/600 II333
+CZE 5KvePra Kon D1
+CZE MO II600 II333
+CZE RadRad D5 Buc
+CZE SteRad MO D0
 CZE E49 R4/I4 I29
 CZE E53 I22/191 I22_E
 CZE E55 104(D3) I39
