@@ -1,4 +1,4 @@
-# Date: 2016-10-24
+# Date: 2016-11-05
 # ----------------
 # Belgian N roads commented (beln)
 # Some Spanish roads commented
@@ -1086,11 +1086,10 @@ HUN F47 F4 F42
 HUN F58 F6 M60
 HUN F61 M7 F66/F610
 HUN F66 F61/F610 F6
-HUN F74 F761 M7
-HUN F76 F86 F761
+HUN F74 F76_W M7
+HUN F76 F86 F74/F762
 HUN F86 F8 F76
 HUN F430 M43 F43
-HUN F761 F76 F74
 
 
 # ITALY
