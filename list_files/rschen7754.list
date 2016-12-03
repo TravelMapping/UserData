@@ -182,11 +182,11 @@ DEU A73 34 VonTannStr
 DEU A93 32 28
 DEU A643 6 2
 #probably more than that but no point for it
-DEU B9 A48 B327AST
+DEU B9Kob A48 B327AST
 #only viable way
-DEU B18 B8_E A7_Est
+DEU B19 B8_E A7_Est
 #might be more but cannot be 100 percent certain
-DEU B27 A3 St2300
+DEU B27Wur A3 St2300
 DEU B85Cha A6 32(A93)
 ENG A2 A102/A207 M2(1)
 ENG A2 M2(7) A20_E
