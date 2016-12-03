@@ -1,9 +1,9 @@
-# Date: 2016-11-24
+# Date: 2016-12-03
 # ----------------
 # Belgian N roads commented (beln)
 # Some Spanish roads commented
 # Italian SS roads missing (itass)
-# Dutch N roads commented (nldn > N200)
+# Some Dutch N roads commented (nldn > N200)
 # Slovenian R roads commented (svnr)
 # ----------------
 
@@ -146,8 +146,6 @@ BEL E429 FRA/BEL E19/R0
 
 # SWITZERLAND
 
-# E roads should be removed when cheh system is "active"
-
 CHE A1 CHE/FRA 86
 CHE A1aPer 1 4
 CHE A1aGen A1 N1
@@ -176,10 +174,6 @@ CHE A9Bri H9 TerStr
 CHE A12 1 13
 CHE A13 1 11
 CHE A14 1 5
-CHE E27 28(A5) 2(A6)
-CHE E41 DEU/CHE A2
-CHE E54 DEU/CHE CHE/DEU
-CHE E62 FRA/CHE CHE/ITA
 CHE H1 A1a HodStr
 CHE H1 H13_N CHE/DEU
 CHE H2 H10/H26 SchStr
@@ -205,7 +199,7 @@ CHE H16 H13_BucW CHE/AUT
 CHE UmfBaz H16_Ric H16_Baz
 
 
-# CZECH REPUBLIC
+# CZECHIA
 
 # E roads should be removed when czei system is "active"
 
@@ -250,8 +244,8 @@ CZE I39 I4 I3
 CZE II112 I23_W III40610
 CZE II129 I19_Pra III1293
 CZE II248 DEU/CZE II528
-CZE II403 I23_N I38_N
-CZE II406 II602 III4062
+CZE II403 I23 I38_N
+CZE II406 II602 III4061
 CZE II523 I38_JihN I38_JihS
 CZE II528 II248 I13_E
 CZE II602 II406 II523_S
