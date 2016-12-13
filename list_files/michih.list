@@ -1,9 +1,8 @@
-# Date: 2016-12-04
+# Date: 2016-12-12
 # ----------------
 # Belgian N roads commented (beln)
 # Some Spanish roads commented
 # Italian SS roads missing (itass)
-# Some Dutch N roads commented (nldn > N200)
 # Slovenian R roads commented (svnr)
 # ----------------
 
@@ -1241,14 +1240,15 @@ NLD N48 A28/A37 N36
 NLD N62 N254 NLD/BEL
 NLD N65 A65_N 2
 NLD E22 A4 NLD/DEU
-#NLD N254 A58 N62
-#NLD N280 A2 NLD/DEU
-#NLD N297 A2 NLD/DEU
-#NLD N313 N18 NLD/DEU
-#NLD N319 NLD/DEU
-#NLD N325 A325 A12
-#NLD N326 A326 A73
-#NLD N348 Ellecom A348
+NLD N254 A58 N62
+NLD N280 A2 NLD/DEU
+NLD N297 A2 NLD/DEU
+NLD N313 N18 NLD/DEU
+NLD N319 N18 NLD/DEU
+NLD N325 A12/A348 A15/A325
+NLD N326 A326 A73
+NLD N348 ArnWeg A348
+NLD N662 A58 RitStr
 
 
 # NORWAY
