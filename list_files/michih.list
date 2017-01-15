@@ -1,4 +1,4 @@
-# Date: 2017-01-12
+# Date: 2017-01-15
 # ----------------
 # Belgian N roads commented (beln)
 # Some Spanish roads commented
@@ -304,7 +304,6 @@ DEU A44Aac BEL/DEU 10
 DEU A44Hac 12 13
 DEU A44Dus 21 34a
 DEU A44Vel 36 41
-DEU A44Wit B226 46
 DEU A44 51 70
 DEU A44Wal 76 78
 DEU A45 2 49
@@ -377,6 +376,7 @@ DEU A392 K1 6
 DEU A395 1 14
 DEU A445 58 62
 DEU A448 1 5
+DEU A448Wit B226 12
 DEU A480Ass 1 L3053
 DEU A480 3 5
 DEU A485 1 10
