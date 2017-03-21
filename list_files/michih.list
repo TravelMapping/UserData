@@ -1,7 +1,7 @@
-# Date: 2017-02-07
+# Date: 2017-03-18
 # ----------------
 # Some Belgian N roads commented (beln)
-# Some Spanish roads commented
+# Some Spanish regional roads commented
 # Italian SS roads missing (itass)
 # Slovenian R roads commented (svnr)
 # ----------------
@@ -818,8 +818,15 @@ DEU St511 B19 WU14
 DEU St511 WU29 Ste
 DEU St578 A3 BY/BW
 DEU St1066 B25 FeuStr
-DEU St2008Hoh
+DEU St2008Hoh B17 St2016
 DEU St2015 St2518 KauStr
+DEU St2025 St2026_W MN23
+DEU St2026 B16 St2025_E
+DEU St2084 A92 FS45
+DEU St2089 A8 KufStr
+DEU St2092 SeeStr A8
+DEU St2110 B512_S St2618
+DEU St2111 A92 St2074
 
 
 # DENMARK
@@ -909,10 +916,13 @@ ESP M30 A1/M11_S 4
 ESP S10 8 14
 ESP S30 3 S10
 ESP Z40 311A(A2) 33
-ESP E5Bea 364(A1) 445(NI)
+ESP NIBea 0 405
+ESP N156 AP7 A2
+ESP N230 N240_W LL11
+ESP N240 A23 A1219_W
+ESP N240 A2 N230_N
 # ESP GI40: northern GI-41 extension b/n GI20 and GI41
-# ESP GI41: northern A-15  extension b/n GI40 and A8
-# ESP N-I(A1): southern GI-11  extension b/n A8 and A15
+# ESP GI41: northern A-15 extension b/n GI40 and A8
 
 
 # FRANCE
