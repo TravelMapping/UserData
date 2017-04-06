@@ -171,7 +171,7 @@ MD I-595 7 24
 MD I-695 BroHwy 44
 MD I-795 1 9
 MD I-895 6 15
-MD I-895SprFer I-895SpurFur I-695
+MD I-895SprFer I-895SprFur I-695
 MD I-895SprFur 6 6B
 MD I-97 1 17
 MD US1 US40Trk_W MD129
@@ -428,7 +428,7 @@ NY SagStaPkwy S4 NorStaPkwy
 NY SouStaPkwy CroIslPkwy 31
 NY SouStaPkwy 40 41A
 NY SunMeaPkwy SM1 SM3E
-NY TacStaPkwy 1 I-90
+NY TacStaPkwy BroRivPkwy I-90
 NY WanStaPkwy OcePkwy NorStaPkwy
 NY NY2 I-87 NY/MA
 NY NY3 NY104A US9
