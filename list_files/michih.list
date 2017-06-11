@@ -1,4 +1,4 @@
-# Date: 2017-06-08
+# Date: 2017-06-11
 # ----------------
 # Some Belgian N roads commented (beln)
 # Some Spanish regional roads commented
@@ -1655,6 +1655,9 @@ ROU DN1 DJ101_E DNCB
 ROU DN7 ROU/HUN A11
 ROU DN7 DN68A A1_Bas
 ROU DN6 A1 A6
+ROU DN64 DN7 DN67_W
+ROU DN67 DN67C DN64_N
+ROU DN67C DN67 DN1/7
 ROU DN76 A1 DN7
 ROU DN73 A1 DN1
 ROU DN11 DN1 DNVO1K
