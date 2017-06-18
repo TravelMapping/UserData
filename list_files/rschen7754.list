@@ -62,7 +62,7 @@ CA CA58 CA99(24) 165
 CA CA58 172 US395
 CA CA58BusMoj CA58(165) CA58(172)
 CA CA67 1A CA78
-CA CA70 CA20_N 1
+CA CA70 CA20_E CA99
 CA CA73 I-5 18B
 CA CA74 CA79_W CA243
 CA CA75 CA282 13B
@@ -189,7 +189,7 @@ DEU A643 6 2
 #probably more than that but no point for it
 DEU B9Kob A48 B327AST
 #only viable way
-DEU B19 B8_E A7_Est
+DEU B19 B8_E A7(101)
 #might be more but cannot be 100 percent certain
 DEU B27Wur A3 St2300
 DEU B85Cha A6 32(A93)
