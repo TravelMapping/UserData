@@ -1,4 +1,4 @@
-# Date: 2017-07-01
+# Date: 2017-07-02
 # ----------------
 # Some Belgian N roads commented (beln)
 # Baden-Wuerttemberg L roads commented (deubwl)
@@ -1258,9 +1258,20 @@ ESP E9 N152/N260 C58_E
 
 EST E67 HelTalFry T1/T2_E
 EST E264 EST/LVA T2
-EST T2 T3 NarMaa_E
-EST T3 T6 T2
+EST T1 NarMaa_E T3
+EST T2 NarMaa_E T69
+EST T3 T6 T1
+EST T4 T1/T2 T8
+EST T4 T60 T6
+EST T6 T4 T69
 EST T6 T3 E264_W
+EST T8 T4 T17
+EST T9 T17 T31
+EST T10 T31 T60
+EST T17 T8 T9
+EST T31 T9 T10
+EST T60 T10 T4
+EST T69 T6 T2
 
 
 # FRANCE
