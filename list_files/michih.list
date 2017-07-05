@@ -1,4 +1,4 @@
-# Date: 2017-07-03
+# Date: 2017-07-04
 # ----------------
 # Some Belgian N roads commented (beln)
 # Baden-Wuerttemberg L roads commented (deubwl)
@@ -1278,19 +1278,29 @@ EST T69 T6 T2
 
 FIN Vt1 Vt4 45
 FIN Vt1 42 29
-FIN Vt3 Vt1 3
+FIN Vt3 Vt1 40
 FIN Vt4 Vt1 4
 FIN Vt4 5 8
-FIN Vt7 Vt4 53
+FIN Vt4 Vt9/23 Vt9/13
+FIN Vt5 23 24
+FIN Vt6 Vt26 Kt62_N
+FIN Vt7 Vt4 84
+FIN Vt9 32 40
+FIN Vt9 Vt12 Vt13_E
+FIN Vt13 Vt9/18 Kt62
+FIN Vt15 Vt5 Kt62
+FIN Vt26 Vt7 Vt6
 FIN Kt45 St145 Vt4
 FIN Kt50 Kt51 29
-FIN Kt50 44 50
+FIN Kt50 35 53
 FIN Kt51 Kt50 PorKatu
+FIN Kt62 Vt13/15 Vt6_W
 FIN KehaI Kt51 Vt1
-FIN KehaI St110 Vt3
+FIN KehaI HevKen Vt3
 FIN KehaI Kt45 St170
 FIN KehaII St110 Kt51
-FIN KehaIII 53 SeiKatu
+FIN KehaIII 35 SeiKatu
+FIN MooHelTam 9 LahKatu
 FIN E75 HelFry 8
 
 
