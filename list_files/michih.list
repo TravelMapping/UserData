@@ -1,6 +1,5 @@
-# Date: 2017-07-18
+# Date: 2017-07-22
 # ----------------
-# Some Belgian N roads commented (beln)
 # Baden-Wuerttemberg L roads commented (deubwl)
 # Some Spanish regional roads commented
 # Italian SS roads missing (itass)
@@ -150,8 +149,8 @@ BEL N184 R10 R1
 BEL N318 KalStr R31
 BEL N423 NLD/BEL R4
 BEL N577 N5 RueHie
-#BEL N827 N30 N815
-#BEL N815 N827 N68
+BEL N815 N827 N68
+BEL N827 N30 N815
 
 
 # SWITZERLAND
@@ -1129,7 +1128,7 @@ DNK SR153 PR22 E47(50)
 DNK SR160 SR165_N SR163
 DNK SR163 SR160 E20
 DNK SR165 O3 SR160_E
-DNK SR170 ToE45 DNK/DEU
+DNK SR170 AabVej_W DNK/DEU
 DNK SR195 PR52_S PR46_N
 DNK SR209 SR151 SR265
 DNK SR243 O4 SR151
