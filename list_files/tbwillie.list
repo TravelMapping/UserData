@@ -1,6 +1,7 @@
 az i-10 154 ca/az
 az i-17 214c 341
 az i-40blfla az89a us180_w
+az skyharblvd az202 ter3
 az us60 az188 i-17(201)
 az us180 i-40bl_w erimdr
 az az87 az188 us60
@@ -15,6 +16,8 @@ ca i-10 1 13
 ca i-10 ca/az 240
 ca i-405 40a 63b
 ca us101 vinave i-5
+ca ca91 24 36
+ca ca110 21 24a
 
 ct i-84 ct/ma ny/ct
 ct i-91 ct/ma 1
@@ -71,8 +74,7 @@ ct ct68 ct17 us5
 ct ct71 us5 mainst_e
 ct ct74 ct194 us44
 ct ct75 ct/ma ct159
-ct ct82 ct9 ct149
-ct ct82 ct2 ct156
+ct ct82 ct9 ct2
 ct ct83 ct/ma ct2
 ct ct85 us1 ct354
 ct ct87 ct32 us6
@@ -91,7 +93,7 @@ ct ct138 ct12_s ct165_e
 ct ct140 ct75 ct32/190
 ct ct147 ct17 ct66
 ct ct153 ct154 ct166
-ct ct154 ct82_e ct9(4)
+ct ct154 ct9(10) ct9(4)
 ct ct154 ct9(3) ct153
 ct ct154 mapave us1_c
 ct ct155 ct9 ct17
@@ -158,11 +160,13 @@ dc i-395 us50 va/dc
 dc i-695 i-395 i-295/295
 dc us50 dc/md i-395
 dc dc295 i-295/695 dc/md
+
 de i-95 md/de 5c
 de i-295 i-95 de/nj
 de us13 de1(156) md/de
 de de1 152 165
 fl i-75 1 5
+fl fltpk 39 99
 ga i-85 ga/sc 250(75)
 ga i-75 245 fl/ga
 il i-55 us41 286
@@ -351,7 +355,7 @@ ma ma146auxb ma122 ri/ma
 ma ma147 sprst us5
 ma ma148 ma122 us20
 ma ma149 ma28 us6
-ma ma150 i-496 ma110
+ma ma150 i-495 ma110
 ma ma151 ma28a ma28_e
 ma ma152 ri/ma us1
 ma ma159 ct/ma ma75/147
@@ -383,22 +387,35 @@ md md201 dc/md us50/295
 md md295 us50/201 i-695
 
 me i-95 nh/me 52
+me i-195 i-95 2
 me i-295 i-95_s 7
 me i-295 8 31
 me i-495 i-95 i-295
-me us1 i-95(3) me9_wele
+me us1 nh/me me9_wele
+me u1 me112 bro
 me us1 logcabrd bidcon
 me us1 i-295(28) me27_s
-me us1altpor us1_n vetmembri 
-me mtapprd i-95 scacon
+me us1altpor us1_n us1_s
+me mtapprd i-95 us1
 me scacon us1 mtapprd
-me me9 scaconn joncredr
+me me4 nh/me me9_e
+me me5 me98 me112_n
+me me9 joncredr memallrd
+me me9 me4_s i-95(19)
 me me9 us1_wels norst_ken 
+me me22 skydr i-295
+me me22 me25 me77
 me me24 me24bus_s us1_s 
 me me24 me24bus_n me196_w
 me me24busbru me24_n me24_s
+me me25 me22 me237
+me me25buswes me25_w me25_e
 me me27 me238_s us1_s
+me me77 me207 me22
+me me98 us1 me5
+me me112 us1 indpkrd
 me me196 i-295 me24_n
+me me207 us1 me77
 me me209 us1 seast 
 me me216 me209 hyderd
 me me238 me27_n me27_s
@@ -411,7 +428,7 @@ nh i-95 ma/nh nh/me
 nh i-293 3 8
 nh cirhwy us3 nh3a
 nh evetpk ma/nh 13(93)
-nh us1 ma/nh us1byp_s
+nh us1 mainst nh/me
 nh us1byppor us4 us1_s 
 nh us2 vt/nh nh16_n
 nh us3 i-93(20) nh132_b
@@ -422,6 +439,7 @@ nh us202 nh16_s nh16_n
 nh us202 ma/nh nh119
 nh us302 nh16_s us3
 nh nh3aman ma/nh cirhwy
+nh nh4 nh/me nh9/108
 nh nh10 nh10a nh120_end
 nh nh10a nh/vt nh10
 nh nh12 nh119 ma/nh
@@ -432,10 +450,15 @@ nh nh25 nh16_n us3_s
 nh nh26 errdamrd us3_n
 nh nh31 ma/nh nh124
 nh nh32 ma/nh nh119
+nh nh33 nh108 pevhillrd 
 nh nh63 ma/nh nh119_e
+nh nh88 us1 nh108
 nh nh101 nh13 nh1a
 nh nh104 us3 i-93
+nh nh107 us1 i-95
 nh nh107 nh101 nh156
+nh nh108 nh4 nh16
+nh nh108 nh33 nh88
 nh nh111 ma/nh nh111a_hol
 nh nh111 nh111a_nas us3
 nh nh111anas nh111_w nh111_e
@@ -484,7 +507,7 @@ ny i-190 i-90 9
 ny i-190 16 ny/can
 ny i-278 i-95 29
 ny i-278 nj/ny 16
-ny i-287 12 14a(87)
+ny i-287 nj/ny i-95
 ny i-290 i-190 i-90
 ny i-295 1 i-95
 ny i-481 6 i-81
@@ -509,6 +532,7 @@ ny gracenpkwy 4 que/nas
 ny harrivdr 24 18
 ny henhudpkwy 8 bro/wes
 ny hutrivpkwy 1 ny/ct
+ny mospkwy henhudpkwy soublvd
 ny norstapkwy que/nas 40
 ny sawmillpkwy i-684 henhudpkwy 
 ny soustapkwy croislexp 27
@@ -719,4 +743,4 @@ qc a-35 1 18
 qc a-720 1 4
 qc qc132 qc138_e a-15(42)
 qc qc133 usa/can a-35(38)
-qc qc138 qc132_e a-20(64)
+qc qc138mon qc132_e a-20(64)
