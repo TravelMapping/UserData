@@ -2056,7 +2056,7 @@ FL FL12 FL20 I-10
 FL FL15A FL44 US17_N
 FL FL19 CR42 US17
 FL FL20 FL85 FL285
-FL FL20 FL71 FL12_N
+FL FL20 FL71 FL12
 FL FL20Gai US301 FL21
 FL FL21 FL20 I-295
 FL FL24 I-75 US301
@@ -2668,7 +2668,7 @@ NC CliDomeRdCli TN/NC CliDomeTrl
 NC CliDomeRdLuf TN/NC NC/TN
 NC LinFalRd BlueRidPkwy LinFalDisCen
 #ND ND297 I-29 N3rdSt does not exist?
-ND ND810 I-194 7thSt Unnumbered part of Bismarck Expy
+#ND ND810 I-194 7thSt Unnumbered part of Bismarck Expy
 ND EastRivRd ParkRd SceLpDr
 ND SceLpDr EastRivRd_W EastRivRd_S
 NE NE2 NE2Bus_E US34_E
