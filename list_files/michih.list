@@ -1,7 +1,6 @@
 # Date: 2017-09-06
 # ----------------
 # Some Spanish regional roads commented
-# Slovenian R roads commented (svnr)
 # ----------------
 
 # ANDORRA
@@ -1850,9 +1849,9 @@ ROU DNVO1K DN73 DN11
 
 # SLOVENIA
 
-#SVN R201 SVN/AUT R452
-#SVN R209 R452 R634
-#SVN R452 R201 R209
+SVN R201 SVN/AUT R452
+SVN R209 R452 R634
+SVN R452 R201 R209
 
 
 # SWEDEN
