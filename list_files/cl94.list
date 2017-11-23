@@ -483,7 +483,7 @@ NY LoopPkwy LidoBlvd MeaStaPkwy
 NY MosPkwy BroParkEast HenHudPkwy
 NY NiaScePkwy NY104_Nia NY18
 NY NiaScePkwyNia I-190 JohnDalyBlvd
-NY NiaScePkwySpr NiaScePkwyPkwy FortNiaSP
+NY NiaScePkwySprPor NiaScePkwyPkwy FortNiaSP
 NY OcePkwy MeaStaPkwy CapSP
 NY OcePkwyBro SeaBreAve ChuAve
 NY PelPkwy US1 I-95
@@ -1114,6 +1114,11 @@ ON ON427 BroLn RR7
 ON ONDVP GarExpy ON401/404
 ON ONGar 139 LakeShoBlvdE
 ON ONQEW PeaBrg 139
+ON AllRd ON401 SheAveW
+ON DonValPkwy GarExpy ON401/404
+ON GarExpy 139 LakeShoBlvdE
+ON LinAlePkwy ON403 RHillVPkwy
+ON RedHillPkwy LinMAPkwy QEW
 ON ON3 ON24 TowRd
 ON ON3For ON140 RoseHillRd
 ON ON5 ON8_W ON6
