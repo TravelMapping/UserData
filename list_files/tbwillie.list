@@ -4,6 +4,7 @@ az i-40blfla az89a us180_w
 az skyharblvd az202 ter3
 az us60 az188 i-17(201)
 az us180 i-40bl_w erimdr
+az az64 us180_e erimdr
 az az87 az188 us60
 az az88 mainst az188
 az az89ased i-40bl az179
@@ -44,9 +45,10 @@ ct us202 ct179 ct219
 ct ct2 i-91 us1
 ct ct2a ct2_w ct2_e
 ct ct3 ct2 ct66
+ct ct4 oldmillln ct10
 ct ct8 ct/ma i-95
 ct ct9 i-95 i-84
-ct ct10 ct/ma us44_e
+ct ct10 ct/ma ct4
 ct ct10 i-95 ct34_w
 ct ct11 ct2 4
 ct ct12 ct/ma i-95
@@ -257,6 +259,7 @@ ma ma2 ny/ma ma28
 ma ma2acam ma2_w ma60_w
 ma ma2acam us3/16 ma2_e
 ma ma2agre ma2_w ma2_e
+ma ma2ashe ma2_w ma2_e
 ma ma3 us3 1
 ma ma3aply ma3_n whihorrd 
 ma ma3aman ma/nh us3_s
@@ -265,9 +268,9 @@ ma ma6ayar ma134 ma137
 ma ma6ayar us6_e ma28
 ma ma7alen us7_n ma183_w
 ma ma8 ct/ma ma2_e
-ma ma8acha ma8_s ma116_s 
+ma ma8acha ma/vt ma8_s
 ma ma9 us20_w ma28
-ma ma10 ct/ma ma63_n 
+ma ma10 ct/ma ma/nh 
 ma ma12 ct/ma ma/nh 
 ma ma13 ma12 ma/nh
 ma ma14 ma27_w ma3a
@@ -296,6 +299,7 @@ ma ma37 ma28 i-93
 ma ma38 ma28 ma129_e
 ma ma39 ma28/124 ma137
 ma ma40 ma119/225 ma3a
+ma ma41 i-90 ma102_w
 ma ma47 ma116_s ma63
 ma ma49 us20 ma9
 ma ma53 ma3a_n ma3a_s
@@ -311,6 +315,7 @@ ma ma67 us20 ma32
 ma ma68 ma32 ma122a
 ma ma70 ma9 ma2
 ma ma75 ct/ma ma147/159
+ma ma78 ma/nh ma2a
 ma ma79 ma105 us6
 ma ma80 ma3a carrd
 ma ma81 ri/ma i-195
@@ -333,7 +338,7 @@ ma ma110 ma2a/111 ma4/129
 ma ma110 i-495(49) ma97/113
 ma ma110 ma150 i-95
 ma ma111 ma/nh ma2/119
-ma ma112 us20 ma143_e
+ma ma112 ma/vt us20
 ma ma113 ma3a_s roubr
 ma ma113 i-495 ma97_e
 ma ma114 i-495 i-95
@@ -479,9 +484,14 @@ nh us202 ma/nh nh119
 nh us302 nh16_s us3
 nh nh3aman ma/nh cirhwy
 nh nh4 nh/me nh9/108
+nh nh9 vt/nh nh101
+nh nh9a nh9_w nh9_e
+nh nh10 ma/nh nh9_w
 nh nh10 nh10a nh120_end
 nh nh10a nh/vt nh10
+nh nh11 vt/nh nh12_s
 nh nh12 nh119 ma/nh
+nh nh12 nh63 nh11_w
 nh nh13 nh101 ma/nh
 nh nh16 mtwasautord us1byp
 nh nh16 nh26_e us2_e
@@ -490,7 +500,8 @@ nh nh26 errdamrd us3_n
 nh nh31 ma/nh nh124
 nh nh32 ma/nh nh119
 nh nh33 nh108 pevhillrd 
-nh nh63 ma/nh nh119_e
+nh nh63 ma/nh nh12
+nh nh78 ma/nh nh10/119
 nh nh88 us1 nh108
 nh nh101 nh13 nh1a
 nh nh104 us3 i-93
@@ -504,6 +515,7 @@ nh nh111anas nh111_w nh111_e
 nh nh113 nh16_con nh16_alb
 nh nh115 us3 us2
 nh nh119 vt/nh nh/ma
+nh nh123 nh/vt nh12_n
 nh nh124 nh/ma nh31
 nh nh153con emadrd nh16/113
 nh nh156 nh27 hamrd
@@ -532,11 +544,11 @@ nj us22 cr531 us1/9
 nj us130 us322 i-295(23)
 nj us322 pa/nj us130
 nj nj7 nj17 cr508
-nj nj17 nj/ny 
+nj nj17 nj/ny nj7
 nj nj18 bucdr i-95
 nj nj24 i-287 i-78
 nj nj73 njtpk i-295
-nj nj139 us1/9 nj/ny nj7
+nj nj139 us1/9 nj/ny
 
 ny i-78 nj/ny hudst
 ny i-81 25a pa/ny
@@ -634,8 +646,8 @@ ny ny312 i-84 ny22
 ny ny370 oswst us11
 ny ny481 i-81/481 ny3
 ny ny635 ny5 ny298
-nc us17 nc308_n nc/va
 
+nc us17 nc308_n nc/va
 oh i-80 in/oh oh/pa
 oh i-71 204 i-90
 oh i-75 oh/mi 208
@@ -756,17 +768,34 @@ sc us52 linest us17
 sc us501 coxferrd us17bus
 sc sc22 sc31 us17
 sc sc31 sc9 us501
+
 vt i-89 nh/vt vt/can
 vt i-91 ma/vt 13
 vt i-93 nh/vt 1
 vt us2 vt18 vt/nh
 vt us2 ny/vt i-89(17)
-vt us5 ma/vt vt119/142
+vt us5 ma/vt vt121
+vt vt8 vt100_n vt9
+vt vt8a ma/vt vt112
+vt vt9 vt/nh vt8
+vt vt9trkbra vt9_w vt9_e
+vt vt10 vt103 vt106
 vt vt10a nh/vt i-91
+vt vt11 vt35 vt103_n
+vt vt11 vt100_s vt121
+vt vt11 vt/nh vt106
 vt vt18 us2 i-93
+vt vt30 us5/9 vt100_n
+vt vt35 vt11 vt30
+vt vt100 vt8_n vt11_e
+vt vt103 vt10 vt11_w
+vt vt106 vt11 vt10
+vt vt112 ma/vt vt100
 vt vt119 vt/nh us5
+vt vt121 vt11 us5
+vt vt123 vt/nh us5
 vt vt142 ma/vt us5
-va i-64 296 282 
+va i-64 291 282 
 va i-95 84 170
 va i-295 43 1
 va i-395 1 va/dc
