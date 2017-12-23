@@ -67,7 +67,7 @@ NJ I-278 1 999
 NJ I-80 0 4
 NJ I-80 4B 57
 NJ I-287 41 999
-NJ I-95Tre 0 999
+NJ I-95Tre PA/NJ I-295
 NJ I-95 0 15
 NJ I-95 17A 999
 NJ I-95Sec 0 999
@@ -318,14 +318,11 @@ CA CA35 CA84 CA9
 CA CA82 HicBlvd MarSt
 CA CA92 CA1 8
 CA CA92 13 14A
-CA CA152 357(101) CasaFruPkwy
+CA CA130 ManAve MtHam
+CA CA152 US101(357) CasaFruPkwy
 # Should theoretically have multiplexes detected:
   # CA1 / I-280
-  # CA12 / I-80
-  # CA16 / I-80BL
-  # CA CA113 I-80(66A) 26
 # DON'T KNOW
-  CA CA130 I-680 MtHam
   # CA35 Daly City
 
 CT CT2 2 I-91
