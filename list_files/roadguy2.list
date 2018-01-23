@@ -450,6 +450,8 @@ NM NM122 I-40 NM117
 NM NM118 I-40(26) ElPasoCir
 NM NM597 US160 FourCorMon
 
+#newyork
+
 #northcarolina
 NC NC344 US17Byp US17
 NC NC904 FloStrRd CheGroRd
@@ -635,6 +637,7 @@ WY WY230 I-80(311) WY130_W
 CO NWPkwy 47 96St
 CO PenaBlvd I-70 Ter
 OK GilExpy US75 I-244
+NY GraCenPkwy 10 13
 
 #scenicroads
 CO MesaVerRd US160 SprCyn
