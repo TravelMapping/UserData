@@ -43,6 +43,13 @@ CA CA35 GistRd I-280(34)
 CA CA35 I-280(41B) CA1
 CA CA39 LaPalAve I-5
    #south to Crescent Avenue
+CA US40HisSac 5thSt_S 9thSt
+CA US40HisSac CapAve 46A(CA160)
+CA US40HisRos I-80(105B) KingRd
+   #also drove between Callison Road and Old State Highway
+CA US40HisRos CA193_S I-80(118)
+CA US40HisAub I-80(119A) HighSt_S
+CA US40HisAub CA49_N RusRd
 CA CA49 CA4Bus_E CA12
    #also New Chicago Road Drytown to CA 16
 CA CA49 CA193_N I-80(119C)
