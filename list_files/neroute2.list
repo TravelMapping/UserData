@@ -1,3 +1,13 @@
+FL I-75 329 FL/GA
+   #asleep north of Marion County rest area
+FL US192 FL535 HoaBlvd
+FL US301 FLTpk FL44
+FL US441 US17/192 FLTpk(254)
+FL FLTpk 254 304
+FL FL44 I-75 US301
+FL FL535 US192 I-4
+FL FL536 I-4 FL535
+
 CA CA1 YouAve DavAve
    #Mission Street Santa Cruz to Swanton Road (south)
 CA CA1 SwaRd GazCrkRd
@@ -33,6 +43,13 @@ CA CA35 GistRd I-280(34)
 CA CA35 I-280(41B) CA1
 CA CA39 LaPalAve I-5
    #south to Crescent Avenue
+CA US40HisSac 5thSt_S 9thSt
+CA US40HisSac CapAve 46A(CA160)
+CA US40HisRos I-80(105B) KingRd
+   #also drove between Callison Road and Old State Highway
+CA US40HisRos CA193_S I-80(118)
+CA US40HisAub I-80(119A) HighSt_S
+CA US40HisAub CA49_N RusRd
 CA CA49 CA4Bus_E CA12
    #also New Chicago Road Drytown to CA 16
 CA CA49 CA193_N I-80(119C)
@@ -45,7 +62,7 @@ CA I-80 1A 9
 CA I-80 9 12
    #rode a bus on this segment with questionable awakeness; also sight clinched on the frontage road at a later time (due to traffic on I-80)
 CA I-80 12 CA/NV
-   #was awake on the bus from 43 to 44C and 70 to 82; remainder was also by car
+   #was awake on the bus from 43 to 44C and 70 to 82; remainder was also by car; passenger east of Donner Summit rest area
 CA I-80BLSac 6 I-80(94B)
 CA CA82 4thAve Bro
    #north to Trousdale Drive
@@ -121,4 +138,75 @@ CA CRJ10 FSt CA99
 CA CRJ11 CA160 CRJ8
 CA CRJ12 CA99 CA88
 
-FL US192 FL535 HoaBlvd
+NV I-80 CA/NV 410
+   #passenger; partly asleep
+NV I-80BLWen I-80_W NV/UT
+   #passenger
+UT UT58 NV/UT 1stSt
+   #passenger
+UT I-80 1 117
+   #partly passenger
+UT I-215 2 22
+   #passenger
+UT I-15 291 298
+   #passenger
+UT UT71 I-15 US89_N
+   #passenger
+UT I-80 130 UT/WY
+   #partly passenger
+WY I-80 UT/WY 313
+   #partly passenger; partly asleep
+WY US287 CO/WY I-80(313)
+CO US287 CO14_E CO/WY
+CO CO14 US287_S I-25
+   #partly passenger
+CO I-25 214B 269
+   #passenger
+CO I-70 278 CO/KS
+   #partly passenger
+KS I-70 CO/KS KS/MO
+   #partly passenger
+KS KS99 MisSt I-70
+MO I-70 KS/MO 210
+   #partly passenger; partly asleep
+MO I-64 1 40A
+MO I-44 286 291B
+   #passenger
+MO MO30 I-55 I-44(290A)
+   #passenger
+MO I-170 1A 1E
+   #passenger
+MO I-64 40C MO/IL
+   #passenger
+IL I-64 MO/IL 73
+   #passenger
+IL I-57 44 96
+   #passenger
+IL I-24 I-57 IL/KY
+   #passenger; partly asleep
+KY I-24 IL/KY KY/TN
+   #passenger
+TN I-24 KY/TN 44
+   #passenger; partly asleep
+TN I-24 48 TN/GA
+   #passenger; partly asleep
+GA I-24 TN/GA GA/TN
+   #passenger
+TN I-24Cha GA/TN 184
+   #passenger
+TN I-65 59 88
+   #partly passenger
+TN TN96 I-65 TN252
+   #passenger
+TN I-840 31 42
+TN TN255 US31 I-65
+TN US31 TN255 WedAve
+TN I-40 210 221A
+TN TN45 TN265 US70
+TN US70 TN155(8) TN45
+TN I-75 GA/TN 1
+   #passenger
+GA I-75 FL/GA 156
+   #partly passenger; partly asleep
+GA I-75 177 GA/TN
+   #partly passenger; partly asleep
