@@ -23,7 +23,9 @@ NY OcePkwy MeaStaPkwy RobMosCswy
 NY KorWarPkwy NY440(1) DruRd
 NY CroBayPkwy ShoFroPkwy CroBayBri
 NY BroPelPkwy US1 I-95
-NY BayPkwy OcePkwyWanStaPkwy
+NY BayPkwy OcePkwy WanStaPkwy
+NY BearMtnPkwyYor US202 TacStaPkwy
+NY BetStaPkwy B1 PlaRd
 NY BroRivPkwy 1(S) SprBroPkwy
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
@@ -33,11 +35,16 @@ NY GraCenPkwy 4 Que/Nas
 NY HarRivDr 18 24
 NY HenHudPkwy 15 24
 NY HutRivPkwy 1 NY/CT
+NY JacRobPkwy 3 7
+NY KorWarPkwy NY440(1) DruRd
+NY LoopPkwy LidoBlvd MeaStaPkwy
 NY MeaStaPkwy BayPkwy NorStaPkwy
 NY NorStaPkwy Que/Nas NY347/454
+NY PelPkwy US1 I-95
 NY PalintPkwy NJ/NY 9
 NY RobMosCswy CapSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
+NY SunMeaPkwy SM1 Cir
 NY SawMillPkwy Bro/Wes 26
 NY SouStaPkwy CroIslExp 46
 NY SprBroPkwy BroRivPkwy TacStaPkwy
@@ -346,7 +353,7 @@ PA I-176 7A 11
 PA I-276 326 PA/NJ
 PA I-376 53 I-76
 PA I-476 I-95 3
-PA I-476 16 20
+PA I-476 16 56
 PA I-676 PA611 PA/NJ
 PA I-279 I-376 8
 PA I-579 I-279 PA885
@@ -374,6 +381,7 @@ PA PA501 US222/272 US222/30
 PA PA39 US22 I-81
 PA PA885 BirBri I-579
 PA PA115 LongPondRd I-80
+PA PA309 I-78(53) US22
 MD I-70 26 53
 MD I-270 2 32
 MD I-270SprAsh I-495 2
