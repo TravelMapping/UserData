@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2018-06-17
+#Last updated 2018-06-26
 
 #United States
 #Alabama
@@ -482,27 +482,42 @@ NY US209 NY42/97 US6_E
 NY US209 PA/NY US9W
 NY US219 PA/NY I-90_N
 NY US219BusSal US219_S US219_N
+NY BayPkwy OcePkwy WanStaPkwy
 NY BeltPkwy I-278 25
 NY BerCon I-87 NY/MA
-NY BroRivPkwy 1(S) NY22
+NY BetStaPkwy B1 PlaRd
+NY BroRivPkwy 1(S) TacStaPkwy
 NY CroIslPkwy 25A 36
-NY FDRooDr I-478 18
+NY FDRooDr I-478 17
 NY GarStaPkwy NJ/NY I-87/287
-NY GraCenPkwy 4 Que/Nas
-NY HarRivDr 18 10thAve
+NY GraCenPkwy 45(278) Que/Nas
+NY HarRivDr 17 10thAve
 NY HenHudPkwy 8 23
 NY HutRivPkwy 1 NY/CT
-NY LakeOntPkwy NY18 LakeAve
+NY JacRobPkwy JamAve 7
+NY KorWarPkwy NY440(1) DruRd
+NY LakeOntPkwy LakeOntPkwySpr LakeAve
+NY LakeOntPkwySprCar NY18 CampRd
+NY LakeWelDr SevLakDr PalIntPkwy
+NY LoopPkwy LidoBlvd MeaStaPkwy
 NY MeaStaPkwy BayPkwy NorStaPkwy
+NY NiaScePkwy NY104_Nia NY18
+NY NiaScePkwyNia I-190 JohnDalyBlvd
+NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NorStaPkwy Que/Nas NY347/454
+NY OcePkwy MeaStaPkwy WanStaPkwy
 NY PalIntPkwy NJ/NY US6/9W
+NY ProMtnHwy US9 End
 NY RobMosCswy CapSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
+NY SevLakDr JohRd US9W/202
+NY SouPkwy WestRivPkwy I-190
 NY SouStaPkwy CroIslPkwy 31
 NY SouStaPkwy 40 41A
 NY SunMeaPkwy SM1 SM3E
 NY TacStaPkwy BroRivPkwy I-90
 NY WanStaPkwy OcePkwy NorStaPkwy
+NY WestRivPkwy SouPkwy I-190
 NY NY2 I-87 NY/MA
 NY NY3 NY104A US9
 NY NY3A NY3_W NY3_E
@@ -1333,23 +1348,6 @@ QC QC303 QC301_S QC148_E
 QC QC307 A-50 QC366_W
 QC QC338 ChStFer A-30
 QC QC366 A-5_S QC307_S
-
-#Devel - USANYP
-#NY BayPkwy OcePkwy WanStaPkwy
-#NY BetStaPkwy B1 PlaRd
-#NY JacRobPkwy JamAve 7
-#NY KorWarPkwy NY440(1) DruRd
-#NY LakeOntPkwySprCar NY18 CampRd
-#NY LakeWelDr SevLakDr PalIntPkwy
-#NY LoopPkwy LidoBlvd MeaStaPkwy
-#NY NiaScePkwy NY104_Nia NY18
-#NY NiaScePkwyNia I-190 JohnDalyBlvd
-#NY NiaScePkwySprPor NiaScePkwy FortNiaSP
-#NY OcePkwy MeaStaPkwy WanStaPkwy
-#NY ProMtnHwy US9 End
-#NY SevLakDr JohRd US9W/202
-#NY SouPkwy WestRivPkwy I-190
-#NY WestRivPkwy SouPkwy I-190
 
 #Speculative - USAAL
 #AL AL149 I-65(259) 20thSt
