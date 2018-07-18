@@ -66,3 +66,23 @@ DNK SR243 SR151 O4 #        243 Ishøj                     /
 DNK SR261 SR151 HavPla #    261 Køge - Rødvig             /
 DNK SR275 HavGade_S E47 #   275 Rødby                     /
 DNK SR287 PR59_W SteVej #   287 Møn                       /
+
+#Fyn
+DNK O1Ode NybVej MidVej #   O1  Odense S                  /
+DNK O2Ode PR9_W SR161 #     O2  Odense S                  /
+DNK O3Ode NieBohAlle BreVej #O3 Odense Ø                  /
+#PR
+DNK PR8Faa E20 SR329 #      8   Nyborg - Faaborg          /
+DNK PR9 O2 SR305_E #        9   Odense - Rudkøbing        /
+DNK PR43 PR9 PR8/44 #       43  Odense - Faaborg          +
+DNK PR44 PR9 PR8/43 #       44  Svendborg - Faaborg       +
+#SR
+DNK SR160 SR163 SR165_S #   160 Nyborg                    /
+DNK SR161 O2 E20(53) #      161 Odense                    -1
+DNK SR161 E20(57) OstHougVej #161Nørre Aaby - Middelfart  -1
+DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
+DNK SR168 O2 E20 #          168 Odense                    -2
+DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                -2
+DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
+DNK SR323 SR329_S SR168/307 #323Haarby - Assens           /
+DNK SR329 PR8 E20 #         329 Faaborg - Aarup           /
