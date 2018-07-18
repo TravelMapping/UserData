@@ -1,0 +1,40 @@
+#DANMARK
+
+DNK E20 76 DNK/SWE #        E20 Esbjerg - Sverige         /
+DNK E45 34 DNK/DEU #        E45 Hobro - Tyskland          /
+DNK E47 SR152 50 #          E47 Helsingør - Rødby         /
+DNK E55 SR152 44 #          E55 Helsingør - Falster       /
+
+#Sjælland
+#Ved Hillerød og Nordsjælland
+DNK O2Hil PR6_S PR16_E #    O2  Hillerød                  +
+DNK O1Hel SR237_N SR237_S # O1  Helsingør                 +
+DNK O2Hel E47 O3_N #        O2  Helsingør N               /
+DNK O3Hel E47 SR237 #       O3  Helsingør N               /
+#PR
+DNK PR6 E20/E47 E47/E55 #   6   Køge bugt - Helsingør     /
+DNK PR16Cop O2_Cop HunFry # 16  Hundested - Kbh           +
+DNK PR19 1 PR16 #           19  Kbh - Hillerød            +
+DNK PR53 PR16 PR21 #        53  Hillerød - Holbæk         /
+#SR
+DNK SR152 O2 E47/E55 #      152 Strandvejen Kbh - Hel     +
+DNK SR201 PR19 O2 #         201 Kbh - Hillerød            +
+DNK SR205 O3 SR227 #        205 Helsingør - Gribskov      -1
+DNK SR205 SR251_N SR251_S # 205 Overlap 251               -1
+DNK SR205 SR267 PR16 #      205 Helsinge - Frederiksværk  -1
+DNK SR207 SR201 SR233_N #   207 Birkerød - Lynge          -2
+DNK SR207 PR6_S PR53_W #    207 Slangerup - Frederikssund -2
+DNK SR207Lyn StoKarVej PR16 #207 Sølager - Amagerhuse     /
+DNK SR211 O2 PR16_N #       211 Kbh - Frederiksværk       +
+DNK SR213 SR152 SR237 #     213 Espergærde - Ålsgårde     +
+DNK SR227 SR237/251 PR6 #   227 Gilleleje - Hillerød      +
+DNK SR233 PR17 PR6 #        233 Smørum - Hillerød         +
+DNK SR235 SR152 SR237 #     235 Espergærde - Hornbæk      +
+DNK SR237 O1 SR267 #        237 Helsingør - Tisvilde      +
+DNK SR251 SR267 SR227/237 # 251 Helsinge - Gilleleje      +
+DNK SR267 PR16 End #        267 Hillerød - Tisvilde       +
+#Rest Sjælland
+DNK O2Kob PR21_S PR21_W #   O2 København                  +
+DNK O3Kob PR16 SR151 #      O3 København S                /
+DNK O4Kob EngVej E20/E47 #  O4 København S                /
+DNK O1Ros FreVej_E KogeVej #O1 Roskilde Ø                 /
