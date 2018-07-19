@@ -1,13 +1,13 @@
-// Interstates sorted by state abbreviation
+# Interstates sorted by state abbreviation
 
-// Alabama Interstates
+# Alabama Interstates
 AL I-10 AL/FL MS/AL
 AL I-20 MS/AL 124
 AL I-59 MS/AL 124
 AL I-65 261 AL/TN
 AL I-459 I-20/59 29
 
-// Arkansas Interstates
+# Arkansas Interstates
 AR I-30 TX/AR 143
 AR I-40 OK/AR AR/TN
 AR I-49 20 93
@@ -18,13 +18,13 @@ AR I-440 I-30/530 3
 AR I-530 1 46
 AR I-540 12 1
 
-// Arizona Interstates
+# Arizona Interstates
 AZ I-10 161 CA/AZ
 AZ I-15 NV/AZ AZ/UT
 AZ I-17 194 340
 AZ I-40 195 AZ/NM
 
-// California Interstates (incomplete) 
+# California Interstates (incomplete) 
 CA I-5 19 20
 CA I-5 134A 446
 CA I-5 458A 473
@@ -37,34 +37,34 @@ CA I-205 I-580 I-5
 CA I-215 I-15 54B
 CA I-580 8B(80) I-5
 
-// Colorado Interstates
+# Colorado Interstates
 CO I-25 CO/WY 217
 CO I-70 UT/CO 284
 CO I-70 437 CO/KS
 CO I-76 1A CO/NE
 CO I-270 0 1
 
-// Connecticut Interstates
+# Connecticut Interstates
 CT I-84 NY/CT CT/MA
 CT I-91 29 1
 CT I-95 NY/CT CT/RI
 CT I-684 NY/CT CT/NY
 
-// District of Columbia Interstates
+# District of Columbia Interstates
 DC I-95 VA/DC DC/MD
 
-// Delaware Interstates
+# Delaware Interstates
 DE I-95 MD/DE 5D
 DE I-295 I-95 DE/NJ
 
-// Florida Interstates
+# Florida Interstates
 FL I-4 9 62A
 FL I-4 77 79
 FL I-10 296 AL/FL
 FL I-75 FL/GA 328
 FL I-75 101 261
 
-// Georgia Interstates
+# Georgia Interstates
 GA I-20 11 51
 GA I-24 TN/GA GA/TN
 GA I-75 GA/TN 177
@@ -73,7 +73,7 @@ GA I-85 78 GA/SC
 GA I-285 27 58
 GA I-475 I-75_S I-75_N
 
-// Iowa Interstates (incomplete)
+# Iowa Interstates (incomplete)
 IA I-29 IA/SD 71
 IA I-35 IA/MN MO/IA
 IA I-74 I-80 IA/IL
@@ -82,7 +82,7 @@ IA I-129 NE/IA 1
 IA I-480 NE/IA I-29
 IA I-680 13 29
 
-// Illinois Interstates
+# Illinois Interstates
 IL I-24 I-57 IL/KY
 IL I-39 IL/WI I-55
 IL I-41 WI/IL 1B
@@ -107,7 +107,7 @@ IL I-290 I-90 30
 IL I-294 I-94_W I-94_E
 IL I-355 I-80 I-290
 
-// Indiana Interstates
+# Indiana Interstates
 IN I-65 262 KY/IN
 IN I-69 IN/MI 200
 IN I-69Whe 20 87
@@ -118,44 +118,44 @@ IN I-90 IL/IN IN/OH
 IN I-94 IL/IN IN/MI
 IN I-275 KY/IN IN/OH
 
-// Kansas Interstates (incomplete)
+# Kansas Interstates (incomplete)
 KS I-35 127 OK/KS
 KS I-70 CO/KS 411
 KY I-75 KY/OH TN/KY
 
-// Kentucky Interstates
+# Kentucky Interstates
 KY I-24 IL/KY KY/TN
 KY I-64 1 17
 KY I-65 KY/IN 137
 KY I-69 52 106
 KY I-71 
 
-// Louisiana Interstates
+# Louisiana Interstates
 LA I-10 LA/MS TX/LA
 LA I-12 85 1A
 LA I-49bel 236 LA/AR 
 LA I-49 1A 206
 LA I-59 I-10/12 LA/MS
 
-// Massachusetts Interstates
+# Massachusetts Interstates
 MA I-84 CT/MA I-90
 MA I-90 2 MA1A
 MA I-93 4 37
 MA I-95 24 45
 
-// Maryland Interstates
+# Maryland Interstates
 MD I-68 WV/MD 82
 MD I-70 PA/MD 91
 MD I-81 MD/PA WV/MD
 MD I-95 DC/MD 52
 
-// Michigan Interstates
+# Michigan Interstates
 MI I-69 IN/MI 38
 MI I-94 IN/MI 171
 MI I-196 I-94 44
 MI I-375 I-75 MadSt
 
-// Missouri Interstates
+# Missouri Interstates
 MO I-29 3B 79
 MO I-35 MO/IA 16
 MO I-44 OK/MO 209(55)
@@ -163,46 +163,46 @@ MO I-55 AR/MO MO/IL
 MO I-64 36A MO/IL
 MO I-70 49 232
 
-// Mississippi Interstates
+# Mississippi Interstates
 MS I-10 MS/AL LA/MS
 MS I-20 131 MS/AL
 MS I-59 LA/MS MS/AL
 
-// Minnesota Interstates
+# Minnesota Interstates
 MN I-35Far 88A IA/MN
 MN I-35E 88A 104A
 MN I-35W 24 I-35(88)
 MN I-90 SD/MN 159
 MN I-94 235B MN/WI
 
-// North Carolina Interstates
+# North Carolina Interstates
 NC I-77 SC/NC NC/VA
 NC I-85 SC/NC 49
 
-// Nebraska Interstates
+# Nebraska Interstates
 NE I-76 CO/NE I-80
 NE I-80 WY/NE NE/IA
 
-// New Jersey Interstates
+# New Jersey Interstates
 NJ I-78 PA/NJ 59
 NJ I-80 PA/NJ 68
 NJ I-95Sec 16W I-95_S
 NJ I-95 15W PA/NJ
 
-// New Mexico Interstates
+# New Mexico Interstates
 NM I-25 223 203
 NM I-40 AZ/NM NM/TX
 
-// Nevada Interstates
+# Nevada Interstates
 NV I-15 CA/NV NV/AZ
 NV I-80 CA/NV NV/UT
 
-// New York Interstates
+# New York Interstates
 NY I-84 7A NY/CT
 NY I-90 PA/NY 48(NYST)
 NY I-95 2 NY/CT
 
-// Ohio Interstates
+# Ohio Interstates
 OH I-70 IN/OH OH/WV
 OH I-71 KY/OH 209
 OH I-74 IN/OH 9
@@ -216,16 +216,16 @@ OH I-90 188 OH/PA
 OH I-270 26 8
 OH I-275 28 43
 
-// Oklahoma Interstates
+# Oklahoma Interstates
 OK I-35 OK/KS TX/OK
 OK I-40 TX/OK 139
 OK I-40 200 OK/AR
 OK I-44 OK/MO 130
 
-//Oregon Interstates
+# Oregon Interstates
 OR I-205 10 OR/WA
 
-// Pennsylvania Interstates
+# Pennsylvania Interstates
 PA I-70 WV/PA PA/MD
 PA I-76 OH/PA 326
 PA I-78 1 PA/NJ
@@ -235,18 +235,18 @@ PA I-81 89 MD/PA
 PA I-90 OH/PA PA/NY
 PA I-476 9 131
 
-// Rhode Island Interstates
+# Rhode Island Interstates
 RI I-95 CT/RI 19
 
-// South Carolina Interstates
+# South Carolina Interstates
 SC I-77 82A SC/NC
 SC I-85 GA/SC SC/NC
 
-// South Dakota Interstates
+# South Dakota Interstates
 SD I-29 81 IA/SD
 SD I-90 396 SD/MN
 
-// Tennessee Interstates
+# Tennessee Interstates
 TN I-24 KY/TN TN/GA
 TN I-24Cha GA/TN 185
 TN I-40 AR/TN 221A
@@ -256,7 +256,7 @@ TN I-75 TN/KY 3(640)
 TN I-75 385(40) GA/TN
 TN I-81 59 1
 
-// Texas Interstates
+# Texas Interstates
 TX I-10 TX/LA 572
 TX I-20 238A 244
 TX I-27 1A 6A
@@ -270,13 +270,13 @@ TX I-40 NM/TX TX/OK
 TX I-45 48A 284
 TX I-69 I-610(8A) SweBlvd
 
-// Utah Interstates
+# Utah Interstates
 UT I-15 AZ/UT 324
 UT I-70 157 UT/CO
 UT I-80 NV/UT UT/WY
 UT I-84 87 120
 
-// Virginia Interstates
+# Virginia Interstates
 VA I-64 WV/VA 299
 VA I-66 1 28
 VA I-77 NC/VA VA/WV
@@ -289,13 +289,13 @@ VA I-264 14 ParAve
 VA I-295 1 53
 VA I-664 1 15
 
-//Washington State Interstates
+# Washington State Interstates
 WA I-5 7 167
 WA I-90 2 53
 WA I-205 OR/WA I-5
 WA I-405 I-5(154) 17
 
-// Wisconsin Interstates
+# Wisconsin Interstates
 WI I-39 187 IL/WI
 WI I-41 IL/WI 59
 WI I-43 1 149
@@ -306,7 +306,7 @@ WI I-94 305 301
 WI I-94 310 WI/IL
 WI I-894 1A 10
 
-// West Virginia Interstates
+# West Virginia Interstates
 WV I-64 6 WV/VA
 WV I-68 I-79 WV/MD
 WV I-70 OH/WV WV/PA
@@ -315,11 +315,11 @@ WV I-79 I-77 WV/PA
 WV I-81 WV/MD VA/WV
 
 
-// Wyoming Interstates
+# Wyoming Interstates
 WY I-25 186 CO/WY
 WY I-80 UT/WY WY/NE
 
-// US Highways Grouped By State
+# US Highways Grouped By State
 
 AR US65 I-530(46) AR/MO
 
@@ -370,7 +370,7 @@ VA US360 LabAve VA200
 VA US460 I-95(51) US501_N
 VA US522 VA/WV US17/50_S
 
-//State Highways Grouped by State
+# State Highways Grouped by State
 
 CA 
 
