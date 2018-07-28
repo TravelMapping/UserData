@@ -1930,9 +1930,9 @@ VA US522 US211_E US211_W
 CO US550 Purgatory NM/CO
 NM US550 NM/CO I-25(242)
 NC US601 I-85(75) I-85(58)
-SC US601 I-26 nearI-26 // just a bit near the exit
+SC US601 I-26 nearI-26 # just a bit near the exit
 SC US601 US301_N US301_S
-AL AL149 US31 nearUS31 // just a bit near the exit
+AL AL149 US31 nearUS31 # just a bit near the exit
 AL AL158 US45 I-65
 AK AK1 15thAve AK2
 AK AK2 AirWay YT/AK
@@ -1941,9 +1941,9 @@ AK AK4 AK1_E OldRicHwy_E
 AK AK8 AK3 DavDr
 AK AK98 AMHSFry AK/BC
 AK ParkRd AK3 EieVisCen
-AR AR1 I-40 JustSouth // just a bit near the exit
+AR AR1 I-40 JustSouth # just a bit near the exit
 AR AR7 I-30 SprSt
-AR AR27 I-40 JustSouth // just a bit near the exit
+AR AR27 I-40 JustSouth # just a bit near the exit
 AZ AZ64 US180_E US89
 AZ AZ66 I-40 Coc/Yav
 AZ AZ86 KinRd I-19
@@ -2461,7 +2461,7 @@ MA MA295 NY/MA MA41
 MD MD2 MD231 MD4_N
 MD MD2 MD408/422 US50/301_E
 MD MD2 MD100 I-95
-MD MD2 PraSt FaySt // really ConSt to FaySt
+MD MD2 PraSt FaySt # really ConSt to FaySt
 MD MD3 US50/301 I-97/32
 MD MD4 MD231 MD258
 MD MD5 MD236 MD231
@@ -3255,7 +3255,7 @@ PA PA147 US11_S I-80/180
 PA PA171 US6Bus PA247_N
 PA PA171 PA92_S PA92_N
 PA PA171 I-81 US11
-PA PA181 I-83 RuttersJustNorthOfI-83 // just a bit near the exit
+PA PA181 I-83 RuttersJustNorthOfI-83 # just a bit near the exit
 PA PA191 PA370 PA/NY
 PA PA222 I-78 PA145
 PA PA225 US22/322 PA325_E
