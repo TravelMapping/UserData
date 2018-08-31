@@ -197,9 +197,9 @@ DEU-BY A93 32 28
 DEU-HE A643 HE/RP 2
 DEU-RP A643 6 HE/RP
 #probably more than that but no point for it
-DEU-RP B9Kob A48 B327AST
+DEU-RP B9Kob A48 B327
 #only viable way
-DEU-BY B19Wur B8_E A7(101)
+DEU-BY B19Wur B8_E A7
 #might be more but cannot be 100 percent certain
 DEU-BY B27 A3 St2300
 DEU-BY B85 A6 32(A93)
@@ -228,6 +228,8 @@ ID I-15 36 72
 ID I-84 46 222
 ID I-86 1 63
 ID I-90 WA/ID ID/MT
+ID I-90BLWal I-90_W I-90_E
+ID ID5 US95 ParkRd
 ID ID6 US95_S US95_N
 ID ID8 WA/ID US95_S
 ID ID36 US91_S  US89
