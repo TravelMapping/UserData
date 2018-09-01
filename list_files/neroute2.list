@@ -93,9 +93,7 @@ FL FL434 I-4 CR427
    #west to Montgomery Road
 FL FL434 UniBlvd FL50
    #may be missing north of Central Florida Boulevard
-FL FL435 FL482 MajBlvd
-   #north to Vineland Road
-FL FL435 ConRd FL50
+FL FL435 FL482 FL50
 FL FL436 FL434 FL408
    #west to Bear Lake Road
 FL FL436 FL15 CargoRd
