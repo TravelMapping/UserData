@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2018-07-08
+#Last updated 2018-08-25
 
 #United States
 #Alabama
@@ -474,8 +474,6 @@ NY US11 PA/NY NY/QC
 NY US15 PA/NY I-86
 NY US20 NY354 NY/MA
 NY US20AltGen NY16_S US20_E
-NY US20HisBri I-81 I-88
-NY US20HisNew NY22_S NY/MA
 NY US44 US209 NY/CT
 NY US202 NJ/NY US9_S
 NY US202 NY22_S NY/CT
@@ -501,6 +499,7 @@ NY KorWarPkwy NY440(1) DruRd
 NY LakeOntPkwy LakeOntPkwySpr LakeAve
 NY LakeOntPkwySprCar NY18 CampRd
 NY LakeWelDr SevLakDr PalIntPkwy
+NY LaSExpy I-190(21) WilRd
 NY LoopPkwy LidoBlvd MeaStaPkwy
 NY MeaStaPkwy BayPkwy NorStaPkwy
 NY NiaScePkwy NY104_Nia NY18
@@ -668,7 +667,7 @@ NY NY79 NY13A NY/PA
 NY NY80 NY175 NY5
 NY NY81 NY145 US9W
 NY NY82 NY52 US9/23
-NY NY85 MedRd I-90
+NY NY85 CR353 I-90
 NY NY85A NY85_N NY85_S
 NY NY86 NY30 NY9N
 NY NY88 NY96 NY104
