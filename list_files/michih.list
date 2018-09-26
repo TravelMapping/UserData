@@ -1,4 +1,4 @@
-# Date: 2018-09-21
+# Date: 2018-09-24
 # ----------------
 
 
@@ -285,6 +285,7 @@ CHE A14 1 5
 CHE H1 A1a HodStr
 CHE H1 H13_N CHE/DEU
 CHE H2 H10/H26 SchStr
+CHE H2 A4_Bru A4_Gru
 CHE H4Sch DEU/CHE 2(A4)
 CHE H4 BadStr_Aus ZubWie(3)
 CHE H4 ZubWie(2) A4a
