@@ -21,8 +21,7 @@ FL US1 FL400 US92
    #may be missing Orange Avenue to US92, but do have US92 to Main Street
 FL US1 I-95(298) FL206
 FL US17 CR547 US192_W
-FL US17 FL50_E FL436
-   #north to Dog Track Road
+FL US17 FL50_E FL417(50)
 FL US17 I-95(380) FL/GA
 FL US17TrkKis US17_S US17_N
 FL US19 FL60 CR576
@@ -97,10 +96,8 @@ FL FL435 FL482 FL50
 FL FL436 FL434 FL408
    #west to Bear Lake Road
 FL FL436 FL15 CargoRd
-FL FL438 FL429 SprSt
-FL FL438 ClaRd CR435_S
-   #west to Ocoee Hills Road
-FL FL438 FL423 RioGraAve
+FL FL438 FL429 RioGraAve
+   #and west to Dillard Street where it's still signed
 #FL FL442 west of Old Mission Road
 FL FL482 I-4 FL528
 FL FL526 WasSt_E MagBlvd
