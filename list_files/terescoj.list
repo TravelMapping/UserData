@@ -2903,7 +2903,7 @@ NM NM101 NM478 I-10BL
 NM NM107 NM1 I-25
 NM NM117 NM36 I-40
 NM NM150 US64 ErnBlaRd
-NM NM163 +X434657 NM52 # replace with Luera Mountains turnaround point
+NM NM163 LueMtnAcc NM52
 NM NM165 NM536 I-25
 NM NM166 NM52 End
 NM NM169 US60/107 FR467 # actual probably not quite to FR467
