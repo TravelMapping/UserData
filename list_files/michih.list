@@ -1,4 +1,4 @@
-# Date: 2018-10-19
+# Date: 2018-10-20
 # ----------------
 
 
@@ -3183,9 +3183,7 @@ POL S6Slu UliSzc UliGda
 POL S8Ole LacDlu A1
 POL S8 A2 R1
 #POL DW629 S8 Marki S8/DW635
-POL S8 62 Nat
-POL DK8Dyb Nat DW694
-POL S8Zam 75 DW676
+POL S8 62 DW676
 POL DK8 DW676 POL/LTU
 POL DK3Swi UliLudMor Tro
 POL DK3Prz Ost UliWor
