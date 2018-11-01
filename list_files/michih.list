@@ -1,4 +1,4 @@
-# Date: 2018-10-20
+# Date: 2018-10-30
 # ----------------
 
 
@@ -304,6 +304,7 @@ CHE H16 H13_Tag T16_Ric
 CHE H16 T16_Baz H8_S
 CHE H16 H13_BucW CHE/LIE
 CHE UmfBaz H16_Ric H16_Baz
+CHE GTSZur H2_Iba H8_W
 
 
 # CZECHIA
