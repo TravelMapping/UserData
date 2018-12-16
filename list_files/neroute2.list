@@ -21,8 +21,7 @@ FL US1 FL400 US92
    #may be missing Orange Avenue to US92, but do have US92 to Main Street
 FL US1 I-95(298) FL206
 FL US17 CR547 US192_W
-FL US17 FL50_E FL436
-   #north to Dog Track Road
+FL US17 FL50_E FL417(50)
 FL US17 I-95(380) FL/GA
 FL US17TrkKis US17_S US17_N
 FL US19 FL60 CR576
@@ -50,6 +49,8 @@ FL US441 FL46 PineAve
    #north to Wolf Branch Road
 FL FLA1AFor I-395 FL887
 FL FLA1AFor FL826 FL856
+FL FLA1AVer AtlAve FL401
+   #south to Hendry Avenue
 FL FLA1ANSB CRA1A PalSt
 FL FLA1A US92 FL430
 FL FL9 FL817 FL826
@@ -64,11 +65,10 @@ FL FL44 I-75 US301
 FL FL44 I-4 FLA1A
 FL FL44NSB WasSt PenAve
 FL FL44BusNSB FL44 US1
+FL FL46 I-4 RinRd
 FL FL50 FL19 FL33_S
-FL FL50 CR565A_N FL408(1)
+FL FL50 CR565A_N FL417
    #sight clinch from Regatta Drive to CR 565A
-FL FL50 FL435 FL423
-FL FL50 US17/92_S FL417
 FL FL60 ManAve I-275
 FL FL60 AshDr US41Bus_S
 FL FL60 I-75 LakDr
@@ -99,17 +99,14 @@ FL FL435 FL482 FL50
 FL FL436 FL434 FL408
    #west to Bear Lake Road
 FL FL436 FL15 CargoRd
-FL FL438 FL429 SprSt
-FL FL438 ClaRd CR435_S
-   #west to Ocoee Hills Road
-FL FL438 FL423 RioGraAve
+FL FL438 FL429 RioGraAve
+   #and west to Dillard Street where it's still signed
 #FL FL442 west of Old Mission Road
 FL FL482 I-4 FL528
 FL FL526 WasSt_E MagBlvd
 FL FL527 FL482 GoreSt
 FL FL527Win US17/92_S US17/92_N
-FL FL528 I-4 11
-FL FL528 16 37
+FL FL528 I-4 FL401
 FL FL535 US192 I-4
 FL FL536 I-4 FL535
 FL FL551 FL408 UniBlvd
@@ -131,12 +128,9 @@ FL FL913 entire thing
 FL FL924 I-75 42nd/37thAveCon
 #FL FL985 FL94 76th Street
 
-CA CA1 YouAve DavAve
-   #Mission Street Santa Cruz to Swanton Road (south)
-CA CA1 SwaRd GazCrkRd
-   #Swanton Road (north) to Bean Hollow Road
-CA CA1 TunCrkRd 438(101)
-   #Stage Road north
+CA CA1 MisSt_E SwaRd_S
+CA CA1 SwaRd_N BeanHolRd
+CA CA1 StaRd 438(101)
 CA CA4 15 30
 CA CA4 I-5(472) 69
 CA CA4 CA4Bus_E MainSt_Mur
@@ -152,7 +146,7 @@ CA CA16 US50(9) FolBlvd
 CA CA16 CHE2 DilRd
 CA CA16 CA124 CA49
 CA CA17 1A 3
-   #also Glenwood Drive to CA 35
+CA CA17 GleDr CA35
 CA CA17BusSco CA17(3) CA17(5)
    #IMO GraCrkRd and CA17(5) are the same point, since southbound it's just a ramp (I came on from Glenwood Drive)
 CA CA24 2 15
@@ -174,7 +168,7 @@ CA US40HisRos CA193_S I-80(118)
 CA US40HisAub I-80(119A) HighSt_S
 CA US40HisAub CA49_N RusRd
 CA CA49 CA4Bus_E CA12
-   #also New Chicago Road Drytown to CA 16
+CA CA49 NewChiRd CA16
 CA CA49 CA193_N I-80(119C)
 CA CA49 I-80(119B) ElmAve_W
 CA US50 I-80 47
@@ -187,16 +181,12 @@ CA I-80 9 12
 CA I-80 12 CA/NV
    #was awake on the bus from 43 to 44C and 70 to 82; remainder was also by car; passenger east of Donner Summit rest area
 CA I-80BLSac 6 I-80(94B)
-CA CA82 4thAve Bro
-   #north to Trousdale Drive
-CA CA84 CanRd US101(408)
-   #west to Kings Mountain Road
+CA CA82 4thAve TroDr
+CA CA84 KinMtnRd US101(408)
 CA CA84Rye CouRd_E WestSacLim
    #as well as the entire former route to I-80
-CA CA88 CA12_E CHJ12
-   #east to Liberty Road
-CA CA88 SugPineDr ShaRidRd
-   #west to Defender Grade Road
+CA CA88 CA12_E LibRd
+CA CA88 DefGraRd ShaRidRd
 CA CA90Yor CA57 KraBlvd
    #turned off just west of Kramer Boulevard into the shopping center
 CA CA91 I-405 VerAve
@@ -224,10 +214,9 @@ CA CA160Rio CA4 SacLim
    #also drove the entirety of former CA160 in Sacramento in both directions
 CA CA160 AmeRiv 48
 CA CA170 5 11B
-CA CA193 TayRd I-80
+CA CA193 TayRd_W I-80
    #west to Old State Highway; came on at east end from Ophir Road but the rest is just a ramp so I'm counting it to I-80
-CA CA193Geo RockCrkRd ShooFlyRd
-   #north to Garden Valley Road
+CA CA193Geo RockCrkRd GarValRd
 CA CA193Geo MarRd CA49_N
 CA I-205 I-580 I-5
 CA CA219 CA99 CA108
