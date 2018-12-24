@@ -945,7 +945,7 @@ KY BluPkwy 21 72
 KY ComMtnPkwy US460 10
 KY CumPkwy 1 88
 KY HalRogPkwy 44 59
-KY MamCavePkwy KY70/255 FliRidRd
+KY MamCavePkwy KY70/255 End
 KY ParkCityRd KY255 MamCavePkwy
 KY PenPkwy 1 7
 
@@ -1045,10 +1045,9 @@ MD MD458 SuiPkwy MD4
 MD MD665 US50/301 MD2
 MD MD794 MD4/408 MD259
 
-MD BalWasPkwy US50 MD175
+MD BalWasPkwy US50/201 MD175
 MD ClaBarPkwy MacBlvd_W MD/DC
 MD SuiPkwy DC/MD MD4
-
 
 # Massachusetts
 MA US1 MA123 I-495
@@ -1170,7 +1169,8 @@ NV NV564 I-215/515 LakeLasPkwy
 NV NV589 I-15 LasVegBlvd
 NV NV593 I-15 ParRd
 
-NV WhePeakSceDr NV488 WheParkCamp
+NV EntRd NV488 VisCen
+NV WhePeakSceDr EntRd WheParkCamp
 
 # New Hampshire
 NH US3 I-93(20) US3Bus_S
@@ -2171,7 +2171,7 @@ VA GeoWasPkwy I-495 MarDr
 VA GWMemPkwy I-495 DC/VA
 VA GWMemPkwyCry VA/DC 1stSt
 VA GWMemPkwyMtV VA235 VA400
-VA SieRd EFlaVisCen US301
+VA SieRd VisCen US301
 VA SkyDr US250 US340
 
 # Washington
