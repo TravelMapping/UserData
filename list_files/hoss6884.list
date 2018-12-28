@@ -1,10 +1,18 @@
-BC BC99 57Ave PacSt
+# =========================
+# BC -- Updated 28 Dec 2018
+# =========================
+
+BC BC99 GraSt_S PacSt
 BC BC99 DenSt StaParkDr_S
+
+# =========================
+# ON -- Updated 28 Dec 2018
+# =========================
 
 ON ON400 21 241
 ON ON401 344A 348
 ON ON401 351 359
-ON ON403 80 123A(QEW)
+ON ON403 80 123(QEW)
 ON ON403 109 ON401_E
 ON ON407 1 24
 ON ON427 QEW FasDr
@@ -15,20 +23,36 @@ ON GarExpy 139 153
 ON ON12 ON400(141) ON400(147)
 ON ON69 ON400(241) ON17
 
-ITA A91 AGRA ViaAleGui
+# =========================
+# IT -- Updated 28 Dec 2018
+# =========================
+
+ITA A91 ViaMag_E ViaAleGui
 ITA E80 A12/A91 A91/AGRA
+
+# =========================
+# MX -- Updated 28 Dec 2018
+# =========================
 
 MEX-YUC MEX180D YUC79 MEX295
 
+# =========================
+# AL -- Updated 28 Dec 2018
+# =========================
+
 AL AL182 DolDr AL/FL
+
+# =========================
+# AZ -- Updated 28 Dec 2018
+# =========================
 
 AZ I-10 139 250
 AZ I-17 194 341
 AZ I-40 48 195
-AZ I-11FutHoo 2 AZ/NV
-AZ I-11FutKin 71(I-40) 48(I-40)
 AZ US60 I-17(201) 212
 AZ US93 I-40(71) AZ/NV
+AZ I-11FutHoo 2 AZ/NV
+AZ I-11FutKin 71(I-40) 48(I-40)
 AZ SkyHarBlvd BucRd AZ143
 AZ AZ77 InaRd AZ79
 AZ AZ79 AZ77 US60
