@@ -1,13 +1,5 @@
-# =========================
-# BC -- Updated 28 Dec 2018
-# =========================
-
 BC BC99 GraSt_S PacSt
 BC BC99 DenSt StaParkDr_S
-
-# =========================
-# ON -- Updated 28 Dec 2018
-# =========================
 
 ON ON400 21 241
 ON ON401 344A 348
@@ -23,28 +15,12 @@ ON GarExpy 139 153
 ON ON12 ON400(141) ON400(147)
 ON ON69 ON400(241) ON17
 
-# =========================
-# IT -- Updated 28 Dec 2018
-# =========================
-
 ITA A91 ViaMag_E ViaAleGui
 ITA E80 A12/A91 A91/AGRA
 
-# =========================
-# MX -- Updated 28 Dec 2018
-# =========================
-
 MEX-YUC MEX180D YUC79 MEX295
 
-# =========================
-# AL -- Updated 28 Dec 2018
-# =========================
-
 AL AL182 DolDr AL/FL
-
-# =========================
-# AZ -- Updated 28 Dec 2018
-# =========================
 
 AZ I-10 139 250
 AZ I-17 194 341
@@ -82,6 +58,7 @@ CO US87 I-25(213) I-25(216)
 CO US87 I-25(217) I-25(257)
 CO US287 I-70(289) US40_W
 CO PenaBlvd I-70 GunClubRd
+CO PenaBlvd JackGapRd Ter
 CO CO35 I-70 53rdPla
 CO CO58 US6 I-70
 CO CO470 US6 I-25
