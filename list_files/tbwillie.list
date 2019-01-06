@@ -29,10 +29,10 @@ ct i-395 76 ct/ma
 ct i-684 ny/ct ct/ny
 ct i-691 1 11
 ct cttpk i-395 us6
-ct milpkwy 3 2
+ct milpkwy 3 1
 ct us1 harave i-95(13)
 ct us1 conave ct135
-ct us1 i-95(24) linst
+ct us1 i-95(24) chust_n
 ct us1 ct337 i-95(51)
 ct us1 ct154_b i-95(75)
 ct us1 ct156_end ct/ri
@@ -42,8 +42,7 @@ ct us6 ct/ri i-84(38)
 ct us7 i-95 i-84(7)
 ct us7 ct/ma us44_e
 ct us44 ny/ct ct/ri
-ct us202 ct/ma us44_w 
-ct us202 ct179 ct219
+ct us202 ct/ma ny/ct
 ct ct2 i-91 us1
 ct ct2a ct2_w ct2_e
 ct ct3 ct2 ct66
@@ -51,6 +50,7 @@ ct ct4 oldmillln ct41
 ct ct8 ct/ma i-95
 ct ct9 i-95 i-84
 ct ct10 ct/ma ct120
+ct ct10 ct15 ct40
 ct ct10 i-95 ct34_w
 ct ct11 ct2 4
 ct ct12 ct/ma i-95
@@ -62,20 +62,22 @@ ct ct17a ct17_s ct17_n
 ct ct19 ct/ma ct190
 ct ct20 i-91 ct8
 ct ct21 ct12 ct193
-ct ct25 7 ct302
+ct ct25 i-95 ct302
 ct ct27 us1 ct184
 ct ct30 us5 ct190
 ct ct31 ct74 ct32
 ct ct32 ct/ma i-95
 ct ct33 i-95 ct15
 ct ct34 peast ct111
-ct ct34 i-95 ct15
+ct ct34 i-95 ct121
+ct ct40 i-91 ct10
 ct ct41 ny/ct ct/ma
 ct ct49 ct2 ct14a
 ct ct58 ct302 ct15
 ct ct66 i-91 ct17_n
 ct ct66 ct14 ct195
 ct ct68 ct17 us5
+ct ct71 ct173 ct372
 ct ct71 us5 i-691
 ct ct72 ct4 ct9
 ct ct74 ct194 us44
@@ -92,9 +94,10 @@ ct ct97 ct12 ct169_nors
 ct ct99 ct9 ct15
 ct ct101 ct/ri us44
 ct ct110 ct111 ct8
-ct ct111 ct25 ct34
+ct ct111 ct15 ct34
 ct ct117 us1 ct2
 ct ct120 ct10 ct322
+ct ct121 us1 ct34
 ct ct122 ct34 camave
 ct ct125 ct4 ct128
 ct ct128 ct4/43 ct125
@@ -123,7 +126,7 @@ ct ct169 ct/ma ct2/32
 ct ct171 i-84 us44
 ct ct173 i-84 us5
 ct ct174 ct176 ct173_s
-ct ct175 us5 eastst_s
+ct ct175 ct71 us5 
 ct ct176 us5 marst
 ct ct177 us44/202 ct4
 ct ct178 ct185 ct159
@@ -172,6 +175,7 @@ ct ct337 us1 souendrd_w
 ct ct343 ny/ct ct41
 ct ct349 uconn i-95
 ct ct354 ct85 ct82
+ct ct372 ct72_plaw ct71
 ct ct372 ct99 ct217
 dc i-395 us50 va/dc
 dc i-695 i-395 i-295/295
@@ -262,10 +266,7 @@ ma us20 ny/ma ma2_e
 ma us44 ri/ma ma3a
 ma us202 ct/ma ma2_e
 ma us202 ma2a_e ma/nh
-ma us20hisbec ma8_n end
 ma us20hishun us20 ma112
-ma us20hismar us20_w us20_e
-ma us20hisstu us20_w us20_e
 
 ma ma1anor us1_s us1_n
 ma ma1apro ri/ma us1
@@ -573,6 +574,7 @@ nj us1 i-287 i-95/295
 nj us9 i-78(57) us9trk_n
 nj us9 cr514_n i-278
 nj us9 cr516 gar(123)
+nj us9w i-95 palintpkwy_s
 nj us22 cr531 us1/9
 nj us46 nj/ny i-95(18)
 nj us130 us322 i-295(23)
@@ -620,7 +622,7 @@ ny croislpkwy 25a 36
 ny fdroodr i-478 17
 ny garstapkwy i-87/287 nj/ny
 ny gracenpkwy 4 que/nas
-ny harrivdr 24 17
+ny harrivdr 17 10thave
 ny henhudpkwy 8 bro/wes
 ny hutrivpkwy 1 ny/ct
 ny mospkwy henhudpkwy soublvd
@@ -637,6 +639,7 @@ ny us1 bosrd_s forrd
 ny us2 us11 ny/vt
 ny us6 ny9d palintpkwy(18) 
 ny us9 nj/ny bro
+ny us9 dycst ny117
 ny us9 ny9n_laks ny28
 ny us9 ny9j_s i-90(12)
 ny us11 us2 i-87
@@ -645,6 +648,7 @@ ny us20 ny14trk ny14a
 ny us20 ny32_n ny9j_n
 ny us20 ny/ma i-90(11)
 ny us44 ny/ct us209
+ny us202 ny/ct ny22_s
 ny us209 us9w ny28
 ny us209 us44 ny213_e
 ny ny2 ny32 ny/ma
@@ -666,6 +670,7 @@ ny ny17 pa/ny ny/pa
 ny ny17bin pa/ny 121
 ny ny22 stalinerd ny295
 ny ny22 ny312 ny71
+ny ny22 ny35 i-684(10)
 ny ny22 brorivpkwy ny120_n 
 ny ny23 ny/ma ny26
 ny ny25 2ndave ny25b_w
@@ -682,6 +687,7 @@ ny ny31 innloop ny250
 ny ny31f i-490 ny250
 ny ny32 ny213 i-587/28
 ny ny33 oakst ny78
+ny ny35 i-684 ny22
 ny ny38 ny200 ny366
 ny ny54 i-86 ny14
 ny ny54a ny54 ny14a_n
@@ -692,8 +698,10 @@ ny ny96 i-490(29) ny444
 ny ny106 norstapkwy bayave
 ny ny107 glencoveave norstapkwy
 ny ny110 norstapkwy ny25a
+ny ny117 us9 sawmillpkwy(43)
 ny ny127 hutrivpkwy halave
 ny ny169 i-90 annst
+ny ny172 ny117 i-684
 ny ny173 splrockrd us11
 ny ny175 us11 ny173_w
 ny ny182 whirapbri whist_s
