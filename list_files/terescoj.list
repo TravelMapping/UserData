@@ -2400,7 +2400,7 @@ KY KY1934 US31W/60 I-264
 KY KY3199 US60_W US60_E
 KY AudPkwy 1 24
 KY CaveCityRd MamCavePkwy KY255
-KY MamCavePkwy KY70/255 FliRidRd
+KY MamCavePkwy KY70/255 End
 LA LA27 LA82_W I-10
 LA LA49 I-10 US61
 LA LA82Hol TX/LA LA27_N
@@ -2784,7 +2784,7 @@ NC BlueRidPkwy NC191 US276
 NC CliDomeRd TN/NC NC/TN
 NC CliDomeRdCli TN/NC CliDomeTrl
 NC CliDomeRdLuf TN/NC NC/TN
-NC LinFalRd BlueRidPkwy LinFalDisCen
+NC LinFalRd BlueRidPkwy VisCen
 #ND ND297 I-29 N3rdSt does not exist?
 #ND ND810 I-194 7thSt Unnumbered part of Bismarck Expy
 ND EastRivRd ParkRd SceLpDr
@@ -3524,7 +3524,7 @@ UT UT270 I-15/80 US89
 UT UT274 UT143 I-15
 UT UT313 IslSkyRd US191
 UT ArcSceDr US191 DevGarCam
-UT BriViewDr TBD TBD
+UT BriViewDr UT275 BriViewDr_N
 UT IslSkySceDr UT313 End
 VA VA2 I-295 US301_N
 VA VA3 US1 I-95
