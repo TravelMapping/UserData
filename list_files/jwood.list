@@ -96,6 +96,8 @@ AZ US160 US64 AZ/NM
 AZ US180 I-40(201) I-40(285)
 AZ US191 I-40(333) I-40(339)
 
+BWA A33 Kaz BWA/NAM # Kazungula to Kaprivi Strip
+
 CA BigOakRd CA120 ElPorRd
 CA DayPassRd NorHwy CA/NV
 CA ElPorRd BigOakRd SouDr_E
@@ -297,6 +299,8 @@ LA I-49 19 201
 LA LA1 US190_W LA987-1
 LA LA6 I-49 LA6Bus/1
 LA LA6BusNat LA6_W LA1223
+LA LA76 LA415_S LA415/986
+LA LA415 I-10 LoopRd
 LA LA3132 1 7
 LA US61 US61Bus/190_N I-12
 LA US167 I-49(19) I-49(23) 
@@ -948,3 +952,17 @@ WY WY230Riv WY/CO I-80(235)
 WY WY530 WY/UT I-80BL
 WY WY585 I-90 US85
 WY WY789 US287Byp US16_E
+
+ZMB T1 ZMB/ZWE T2 # Victoria falls to  T2 (Kafue)
+ZMB T2 T4 M15 # Lusaka to Siavonga turn off 
+ZMB M15 T4 ZMB/ZWE # T4 to Siavonga (Zimbabwe Border)
+ZMB T4 T2 ZMB/MWI # Lusaka to Chipata (Malawi Border)
+ZMB M10 Ses T1 # Shesheke to Lstone (T1)
+
+ZWE A1 ZWE/ZMB A3/A5 # Siavonga to Harare
+ZWE A3 A1/A5 A9 # Harare to Mutare
+ZWE A9 A3 A6 # Mutare to south of Bulawayo
+ZWE A6 A9 A7 # South of Bulawayo to Downtown Bulawayo
+ZWE A7 A6 A5/A8
+ZWE A8 A5/A7 ZWE/ZMB # Bulawayo to Vic Falls
+ZWE A4 A9_W Mor # Masvingo to Great Zimbabwe turn off
