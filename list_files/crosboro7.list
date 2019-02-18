@@ -842,8 +842,8 @@ WY WY110 WY24 DevTowNM
 WY WY112 WY24 WY/MT
 WY WY390 WY22 TetVilRd
 WY DevTowRd WY110 VisCen
-WY GraLpRd NEntRd_E SEntRD
-WY GraLpRd NorCynRd_E NRimDR
+WY GraLpRd NEntRd_E NorCynRd_W
+WY GraLpRd NorCynRd_W SEntRd
 WY NEntRd GraLoopRd WY/MT
 WY NorCynRd GraLoopRd_W GraLoopRd_E
 WY RocMemPkwy GraTetNP YelNP
