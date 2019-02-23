@@ -602,7 +602,8 @@ WY US87BusBuf US16_W US16_E
 WY EEntRd GraLoopRd US14/16
 WY SEntRd US89/191 GraLoopRd
 WY WEntRd MT/WY GraLoopRd
-WY GraLpRd EEntRd SEntRd
+WY GraLpRd NEntRd_E EEntRd
+WY GraLpRd NEntRd_W SEntRd
 WY RocMemPkwy GraTetNP YelNP
 MT WEntRd US20/191 MT/WY
 CO US6 I-70(171) CO/NE
