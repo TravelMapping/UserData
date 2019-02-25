@@ -1,3 +1,33 @@
+############################################################
+#
+#  Traveled Highways (formatted for www.travelmapping.net)
+#
+#  Created by David L. Sterner
+#
+#  Originally created for the "Clinched Highway Mapping" site
+#  cmap.m-plex.com, which has been dormant since xxx nn, 20xx
+#
+#  Revived for the "Travel Mapping" site (www.travelmapping.net)
+#  which for the most part uses the same syntax in the traveled files.
+#
+#  My personal "ground rules" (not travel mapping.net's rules):
+#     Mostly common sense above anything else.
+#     Travel memory must be 100%
+#     Do not have to be the driver, but at least semi-aware.
+#     Not counting roads taken by motor coach.  Too hard to verify.
+#     Not worried about short jaunts off an interstate highway looking
+#        gas or food if a short distance.
+#     Concurrencies:  Both numbers listed only if significant.
+#        "Travel Mapping" will automatically include any concurrencies.
+#        The predecessor "Clinched Highway Mapping" didn't necessarily
+#        do them automatically - they had to be listed separately.
+#
+#  Last updated:  Feb 23, 2019
+#
+############################################################
+#
+# United States - Interstate highways
+
 AL I-10 MS/AL AL/FL
 AL I-20 124 129
 AL I-59 124 129
@@ -23,7 +53,7 @@ DC I-395 VA/DC US50
 DC I-495 VA/DC DC/MD
 DC I-695 I-395 I/DC295
 
-FL I-4 74A 132
+FL I-4 64 132
 FL I-10 AL/FL I-95
 FL I-75 228 256
 FL I-75 274 FL/GA
@@ -135,6 +165,7 @@ NC I-74 VA/NC 17
 NC I-74Hig 44(73) 72(73)
 NC I-77 6B NC/VA
 NC I-85 SC/NC NC/VA
+NC I-87 16(440) 13
 NC I-95 SC/NC NC/VA
 NC I-240 1A 9
 NC I-285 I-85 I-85Bus
@@ -222,6 +253,9 @@ WV I-79 I-77 WV/PA
 WV I-81 VA/WV WV/MD
 WV I-470 OH/WV 4
 
+############################################################
+#
+# United States - Business Loop Interstate highways
 
 MI I-94BLAnn US23_N I-94_E
 MI I-196BLHol US31Bus_N I-196_N
@@ -235,6 +269,9 @@ PA I-83BLYor I-83_S I-83_N
 
 SC I-85BLSpa I-85_S I-85_N
 
+############################################################
+#
+# United States - Future Interstate highways
 
 NY I-86FutBin 4A(81) 75
 
@@ -246,6 +283,10 @@ PA I-99FutMan 4thSt_W I-180
 
 VA I-785FutDan NC/VA US58/360_E
 
+############################################################
+#
+# United States - Named highways
+# Highways with names rather than numbers
 
 DC SuiPkwy SCapSt DC/MD
 
@@ -260,7 +301,14 @@ NJ NJTpk I-295(1) 4
 NJ NJTpk 6 7
 
 VA GWMemPkwy MarDr I-395
+VA SkyDr US33 US211
 
+############################################################
+#
+# United States - US highways
+#
+# Also includes bannered highways (including but not limited to):
+#    Alternate, Business, Bypass, Scenic, Truck
 
 AL US29 I-85(51) I-85(64)
 AL US80 I-65(167) I-65(168)
@@ -311,6 +359,7 @@ FL US1 FleSt I-395(2B)
 FL US1 ValRd FL528
 FL US1 I-95(348) I-95(350A)
 FL US17 US192_W US192/441_S
+FL US17 FL207 FL100_W
 FL US17 I-10(361) I-95(353B)
 FL US19 I-275(5) FL580
 FL US19 CR752 I-10(225)
@@ -331,7 +380,7 @@ FL US90 US301_S US301_N
 FL US90 I-95(350A) I-95(349)
 FL US92 FL583 US27
 FL US92 FL694 FL580
-FL US98 US98BusPen_E US231
+FL US98 FL295_S US231
 FL US98 FL267 FL589
 FL US98 US27_N US27_S
 FL US98 US441_N FL700_E
@@ -339,7 +388,7 @@ FL US98 FL700 US441_S
 FL US192 US27 FLA1A
 FL US231 US98 FL20
 FL US231 I-10(130) FL/AL
-FL US301 FL326 US1/23_S
+FL US301 FlTpk US1/23_S
 FL US331 US98 FL/AL
 FL US441 FL802 FL700
 FL US441 FL700_E US98_W
@@ -365,6 +414,10 @@ IN US421 I-465(31) I-74(132)
 KY US25 I-75(97) I-75(99)
 KY US25E TN/KY I-75
 KY US421 I-75(97) I-75(99)
+
+ME US1 GovSt US1AltYor_S
+
+ME US1AltYor US1_S ME103
 
 MD US1 US1AltWas MD144
 MD US1 I-695(32) MD/PA
@@ -542,6 +595,7 @@ TN US74 I-75(2) I-75(20)
 TN US321 US25/70_N US441_N
 TN US441 NC/TN US411_N
 
+VA US1 US1Trk_N VA10
 VA US1 I-295(43A) VA120
 VA US1 I-395(9) VA/DC
 VA US11 I-81(73) I-81(89)
@@ -575,6 +629,7 @@ VA US211 US211BusLur_W SkyDr
 VA US211 US522_S US522_N
 VA US220 I-81(143) I-81(150)
 VA US250 US29_S US29_N
+VA US301 US1Trk VA10
 VA US301 I-295(41) VA/MD
 VA US340 US211_E VA/WV
 VA US340Lou WV/VA VA/MD
@@ -590,6 +645,7 @@ VA US522 US60 VA/WV
 VA US15BusCul US522_S US522_N
 VA US15BusLee US15_S US15_N
 VA US17BusFre US1_S US1_N
+VA US17BusSal US17_S US17_N
 VA US29BusCul US522/15Bus_S US522_N
 VA US58BusVir US58 AtlAve
 VA US220AltRoa US221/460_E US220_N
@@ -606,6 +662,16 @@ WV US250 I-70(0A) I-70(1B)
 WV US340 VA/WV WV/VA
 WV US522 VA/WV WV/MD
 
+############################################################
+#
+# United States - State highways (primary)
+#     (Also includes District of Columbia)
+#
+# Also includes bannered highways (including but not limited to):
+#    Alternate, Business, Bypass, Scenic, Truck
+#
+# Secondary state systems are not included
+#    (since they are not in the Highway Browser at this time)
 
 AL AL55 FL/AL US331_N
 AL AL55 US29_S US31_N
@@ -645,37 +711,58 @@ DE DE896 I-95 DE/MD
 
 DC DC295 I-295 DC/MD
 
+FL FLA1AFer I-95 US1/23
 FL FL4 FL189 US90
 FL FL12 FL20 US90_E
+FL FL16 US301 FL21
 FL FL20 FL85 US90
 FL FL20Gai US441 US17
+FL FL21 FL16 I-295
 FL FL24 2ndSt US301
 FL FL24A FL24_W FL24_E
 FL FL26 US19/98 FL100
 FL FL26A FL26_W FL26_E
+FL FL29 FL80_W US27
+FL FL40 FL326 I-95
+FL FL60 ManAve FL618(8)
 FL FL69 I-10 US90
+FL FL70 US98/441 I-95
 FL FL79 US98 FL20
+FL FL80 US41Bus FL29_N
 FL FL85 US98 FL/AL
 FL FL87 US98 I-10
 FL FL100 FL26 FL207
+FL FL102 FL243 I-95
 FL FL121 I-75 US441
 FL FL121 CR239 I-10
 FL FL123 FL85_S FL85_N
-FL FL145 US98 FL85
+FL FL145FWB US98 FL85
 FL FL188 FL189 FL85
 FL FL189 FL4 FL/AL
 FL FL189FWB US98 FL397
 FL FL190 FL85 FL397
+FL FL207 US17 US1
 FL FL222 I-75 FL26
 FL FL267 US98 FL20
 FL FL281 US98 I-10
 FL FL285 FL20 US90
+FL FL289 US90/98 FL750
 FL FL293 US98 FL20
+FL FL326 I-75 FL40
 FL FL331 FL121 FL20/24
 FL FL388 FL79 FL77
 FL FL393 US98 FL189
 FL FL397 EAFBase FL85
 FL FL397EAF FL85 EAFBase
+FL FL528 I-4 42
+FL FL589 1 2A
+FL FL589 10 54
+FL FL700 CanSt US98/441
+FL FL997 US1 US41
+FL FL9336 EveNP US1
+
+ME ME103 ME236_Kit US1Alt
+ME ME236 ME103_Kit I-95
 
 MD MD2 LoreRd US1
 MD MD3 US50/301 I-97/32
@@ -912,8 +999,21 @@ PA PA897 PA501 PA419_N
 PA PA915 US30_W US30_E
 PA PA997 US30_E I-76
 
+VA VA3 US15Bus US301
+VA VA3BusFre VA3_W VA3_E
+VA VA5 VA106/156 BouSt_N
+VA VA5 US60Wil_E VA143
 VA VA7 I-81 VA400
+VA VA10 US1/301 VA106/156_N
+VA VA30 VA33_E US60
+VA VA33 I-64(205) I-64(220)
+VA VA33 VA30/249 US17Bus_N
+VA VA36 VA144 I-295
 VA VA76 VA288 I-195
+VA VA106 VA10/156 VA5/156
+VA VA123 I-95 VA286
+VA VA144 VA36 US1/301_N
+VA VA156 VA10/156Bus VA5/106
 VA VA195 I-195 I-95
 VA VA199 I-64(234) I-64(242)
 VA VA207 US1 US301
@@ -929,6 +1029,10 @@ WV WV24 US219 US50
 WV WV93 US50_W US220
 WV WV901 WV9 I-81
 
+############################################################
+#
+# Canada highways
+# Vacation:  August, 2015
 
 ON ON7 ON115(45) ON417
 ON ON115 ON401 ON7_E
@@ -941,6 +1045,10 @@ QC A-30 1 67
 QC A-40 ON/QC 32
 QC A-55 VT/QC 121(10)
 
+############################################################
+#
+# Iceland highways
+# Vacation:  September 3-13, 2017
 
 ISL TH1 TH49_N TH83
 ISL TH1 TH84 TH93
@@ -955,11 +1063,11 @@ ISL TH43 TH427 TH425
 ISL TH44 TH425 TH41
 ISL TH49 TH40 TH1
 ISL TH50 TH1_S TH518
-ISL TH83 TH1 TH84
-ISL TH84 Th1 TH83
+ISL TH83 TH1 TH84     # Former routing of TH1 near Akureyri
+ISL TH84 TH1 TH83     # Former routing of TH1 near Akureyri
 ISL TH85 TH1_W GarBra
 ISL TH93 TH1 TH94
-ISL TH95 TH1_N TH1_S
+ISL TH95 TH1_N TH1_S     # Former routing of TH1 near Egilsstaðir
 ISL TH99 TH1 VikBra
 ISL TH206 TH1 Hun
 ISL TH249 TH1 Sel
