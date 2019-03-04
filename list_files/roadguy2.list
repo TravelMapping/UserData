@@ -171,6 +171,8 @@ GA GA23 I-16 LanSt
 #to the Zaxby's, but close enough
 GA GA61 I-20 US78_W
 #sight clinch last block from CFA
+GA GA92 I-575 MainSt_Woo
+#GA GA92 MainSt_Woo HamesRd
 GA GA113 I-20 HicLevRd
 #actual south end Lovell Rd, but close enough
 GA GA136 US411 GA5/515
