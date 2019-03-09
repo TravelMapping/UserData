@@ -2520,3 +2520,67 @@ CO US50 UT/CO I-70(11)
 CO US85 I-25/I-70 I-70(276A)
 CO US287 US24_W I-70(288)
 
+
+# 1978 trip excerpts
+
+# Orly
+FRA N7Orl A106 AirOrly
+FRA A106 4 A6a/A6b # A106 and A6a/A6b do not technically have a...
+FRA A6a BlvdPer A106 # ...common point, ask forum?
+FRA BP A6a A13
+# Paris - Versailles
+FRA A13 BlvdPer 6
+# FRA D186 AveRockefeller A13
+FRA BP A13 19
+
+FRA N57 61 D67bis
+# FRA D67B N57 FRA/CHE
+CHE H10 FRA/CHE A1(31)
+# alternates reunite
+CHE A1 31 48
+CHE H2 A1 ZenStr # the parallel stretch of A2 wasn't completed yet
+CHE H4 ZenStr H2/H2a
+# Luzern, Hotel Raben am See, Kornmarkt 5, CH-6000
+# Kornmarkt is W of the N end of the Seebrucke where H2/H4 cross the river
+# halfway between ZenStr and H4_E
+CHE H2 H2a/H4 ZenStr
+CHE H4 ZenStr H2a_W
+CHE H2a HorStr H2/H4
+# Giant Ski Lift
+# Pilatus
+# cog railway
+CHE H4 A2 ChaGas
+CHE A2 27 29
+CHE H2a A2(27) H2/H4
+CHE H2 H2a/H4 ZenStr
+CHE H4 ZenStr H2/H2a
+# Luzern
+
+CHE H13 H16_BucE H3_W
+CHE H16 H13_BucE CHE/LIE
+LIE H16 CHE/LIE LIE/AUT ***** with a local road duck into Vaduz and back *****
+AUT L191a L190 AUT/LIE
+AUT L190 L191a A14(61)
+# the S/E end of A14 from exit 29 to 61 wasn't constructed yet in 1978
+AUT S16 53 61
+
+AUT B171 B177 L11_Inn
+AUT B177 DEU/AUT B171
+DEU-BY B2Wei St2562 DEU/AUT
+
+BEL A3 18 E314/A2
+BEL R21 N21 N3
+BEL N3Ter R20 R21
+BEL R20 N21 N3
+# Brussels -- Hotel Albert I, Place Rogier 20, B-1000
+BEL N21 R20 R21
+BEL R20 N9_W N21
+BEL N9 A10 R20_W
+BEL A10 4 21
+BEL R31 A10 SloStr
+BEL N34 R31_S N34f
+# Ostend
+# ferry
+# Dover
+# alternate 1
+ENG A20 A249_N A2_E
