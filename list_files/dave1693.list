@@ -2558,7 +2558,7 @@ CHE H4 ZenStr H2/H2a
 
 CHE H13 H16_BucE H3_W
 CHE H16 H13_BucE CHE/LIE
-LIE H16 CHE/LIE LIE/AUT ***** with a local road duck into Vaduz and back *****
+LIE H16 CHE/LIE LIE/AUT # with a local road duck into Vaduz and back
 AUT L191a L190 AUT/LIE
 AUT L190 L191a A14(61)
 # the S/E end of A14 from exit 29 to 61 wasn't constructed yet in 1978
