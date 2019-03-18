@@ -2560,13 +2560,72 @@ CHE H13 H16_BucE H3_W
 CHE H16 H13_BucE CHE/LIE
 LIE H16 CHE/LIE LIE/AUT # with a local road duck into Vaduz and back
 AUT L191a L190 AUT/LIE
-AUT L190 L191a A14(61)
-# the S/E end of A14 from exit 29 to 61 wasn't constructed yet in 1978
+AUT L190 L191a A14(57)
+# the S/E end of A14 from exit 29 to 57 wasn't constructed yet in 1978
+AUT A14 57 61
 AUT S16 53 61
-
+# AUT L97 S16(53) B197
+AUT B197 S16_Lan L68
+# AUT L68 B197 B171
+AUT B171 L68 *A12(94)
+AUT A12 73 *94
+AUT B174 B171 A12
+AUT B171 B174 L11_Inn
+# AUT B171 L11_Inn Innbrucke
+# AUT Innbrucke B171 Innstrasse
+# Innsbruck, Hotel Goldener Stern, Innstrasse 39, A-6020
+AUT B171 L11_Inn L8
+# Herrengasse, Rennweg, Universitaetstrasse, Angerzellgasse, Museumstrasse,
+# Amraserstrasse, Anton-Eder-Strasse, Resselstrasse, circle at A12/A13/L9
+# AUT L9Inn B174 Bilgenstr.
+# Bilgenstrasse leads to one set of the parking lots for the ski area
+# Olympic complex is south of town, near Igls
+# Back to Innsbruck along roads already covered if not straight backtrack
+# Route from Innsbruck to Muenchen goes via Seefeld Pass with a stop at
+# Garmisch-Partenkirchen.
 AUT B171 B177 L11_Inn
 AUT B177 DEU/AUT B171
-DEU-BY B2Wei St2562 DEU/AUT
+DEU-BY B2Wei *A95_Ohl DEU/AUT
+# connecting ramp at a now-gone
+# temporary interchange between exits 10 and 11 where the roadway used to end.
+DEU-BY A95 1 *B2_Ohl
+DEU-BY B2R A95_E B12
+# city streets inside route B2R, no signed highways
+# Muenchen, Hotel Alexandra, Amalienstrasse 20, D-8000
+# city streets through central Muenchen to the main plaza and the clock tower
+# then east for something, and out to the Olympic stadium on the NW side of town
+DEU-BY B2R IffStr Sap
+
+DEU-BW B3 L723 B37
+# Heidelberg, Hotel Bayerischer Hof, Rohrbacherstrasse 2, D-6900
+# Rohrbacherstrasse is route B3
+# Heidelberger Castle is E of hotel on B37, then we double back to the west
+DEU-BW B37Hei A656 KarTor
+DEU-BW A656 B37_W B37_E # in-place upgrade of old B37
+DEU-BW B37Man RP/BW A656
+DEU-RP B37Lud A650 RP/BW
+DEU-RP A650 5 9 # another in-place upgrade of B37
+DEU-RP A61 49 60
+DEU-RP B9Kob EngKaubFry A61
+# overshoot Bacharach, backtrack, boat tour from Bacharach to Bad Salzig
+DEU-RP B9Kob L207 L212
+DEU-RP L207 L214 B9
+DEU-RP L214 A61(40) L207
+DEU-RP A61 NW/RP 40
+DEU-NW A61 29 NW/RP
+DEU-NW A565 4 12
+DEU-NW A555 1 7
+DEU-NW B9Dor B51_E A555 # coincident with B51
+DEU-NW B51Kol GoldGas A555
+# appears to be best approach into Koeln on roads that existed in 1978
+# Koeln lunch and cathedral tour
+DEU-NW B51Kol B9Kol GoldGas
+DEU-NW B9Kol B9 B51
+DEU-NW B9Dor B9Kol L111
+DEU-NW L111 B55_W B9
+DEU-NW B55Kol A1 L111_W
+DEU-NW A1 103 104
+DEU-NW A4 4a 10
 
 BEL A3 18 E314/A2
 BEL R21 N21 N3
