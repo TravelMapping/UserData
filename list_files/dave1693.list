@@ -2638,10 +2638,60 @@ BEL N21 R20 R21
 BEL R20 N9_W N21
 BEL N9 A10 R20_W
 BEL A10 4 21
-BEL R31 A10 SloStr
-BEL N34 R31_S N34f
+BEL N340 N34 A10
+BEL N34 N340 KapStr
 # Ostend
 # ferry
 # Dover
 # alternate 1
-ENG A20 A249_N A2_E
+# ENG A20 B2011 A2_E # did A20 exist on current path between B2011 and A256?
+# alternate 2
+ENG A20 A256 A2_E
+ENG A256 B2011 A20
+ENG B2011 A20 A256
+# alternates combine
+ENG B2011 A260 A20
+ENG A260 A259_E B2011
+ENG A259 A2034 A260_E
+# alternate 1
+# ENG A259 M20 A2034
+# ENG A20 M20(12) M20(13) # was this the A20 routing pre-Chunnel?
+# ENG M20 12 13 # A20 multiplex with M20
+# alternate 2
+ENG A2034 M20 B2064
+ENG B2064 A2034 M20
+# alternates combine
+ENG A20 M20(8) M20(12)
+# alternate 1
+# ENG M20 3 8
+# ENG M26 2a 3
+# alternate 2
+# ENG A20 A249_N M20(8)
+# ENG A249 M20 A20_E
+# ENG M20 3 7
+# ENG M26 2a 3
+# ENG A20 A2_W M26
+# alternate 3, which I suspect is most likely, but whatever
+ENG A20 M26 M20(8)
+ENG A229 A20_W A20_E # multiplex in Maidstone
+# alternates combine
+ENG A20 A2_W M26
+ENG A2 A3 A20_W
+ENG A3 A2 A201
+ENG A302 A3/A201 A3203
+ENG A3203 A302 A3212
+ENG A3212 A4/A400 A3203
+ENG A4 A400/A3212 A3220
+# London, Ramsees Hotel, 32-36 Hogarth Rd, SW5 0QJ
+ENG A3220 A308_W A4
+ENG A308 A3220_N A217
+ENG A217 A308 A214/A3205
+ENG A214 A23_S A217
+# alternate 1
+ENG A23 A214/A216 AirWay
+ENG AirWay A23 LonWay
+# alternate 2
+# ENG A23 A214/A216 M23(7)
+# ENG M23 7 9
+# ENG AirWay 9 LonWay
+# Gatwick
