@@ -1,6 +1,6 @@
 # Note to self: delete unnecessary concurrencies,
 # (but check first before deleting anything!)
-# Image Number 8270
+# Image Number 8967
 
 # CANADA
 
@@ -62,7 +62,7 @@ NS NS325 NS208 NS103
 NS NS333 NS3_E NS3_W
 
 # Ontario Freeways
-ON ON400 21 229
+ON ON400 BlaCrkDr 229
 ON ON401 10A ON/QC
 ON ON402 USA/ON ON401
 ON ON403 ON401_w ON401_E
@@ -79,8 +79,8 @@ ON ON418 8 ON407
 ON ON420 MonRd StaAve
 ON ON427 QEW RR7
 ON ONQEW PeaBrg 139
-ON ONDVP DanAve ON401/404
-ON ONGar 139 JarSt
+ON ONDVP GarExpy ON401/404
+ON ONGar 139 LakeShoBlvdE
 
 # Ontario Provincial Highways
 ON ON2 1000IslPkwy ON401
