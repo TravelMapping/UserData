@@ -154,9 +154,10 @@ GA US23 I-985(24) US441BusCla
 #GA US29 (US 29/78 concurrency)
 GA US29 US19/41_N US78/278_W
 GA US41 UniAveSW US29_N
+GA US41 US78/278_E MarStNW
 GA US41 TechPkwy I-75(252A)
 GA US41 I-75(255) WPacFerRdNW
-#GA US41 (I-75 concurrency?)
+GA US41 I-285(19) WinHillRdSE
 #GA US76 (US 411 concurrency)
 GA US78 LakeAve MonDr
 #past Blvd/Monroe Dr, to Cook Out
@@ -179,6 +180,7 @@ GA GA20 US23_S I-985
 #not all the way to 23 from 985, but close enough
 GA GA23 I-16 LanSt
 #to the Zaxby's, but close enough
+GA GA42 I-85 DruHilRd
 GA GA61 I-20 US78_W
 #sight clinch last block from CFA
 GA GA92 I-575 MainSt_Woo
