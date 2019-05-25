@@ -615,7 +615,6 @@ NH US1 BreHillRd NH111
 NH US1 NH107 MA/NH
 MA US1 MA/NH I-95(15)
 MA US1 I-95(9) I-95(1)
-RI US1AltPro RI114_S US44_W
 RI US1 RanSt_Pro BroSt
 RI US1 RI4 RI138_E
 RI US1 EastAve_Wes CT/RI
@@ -3266,7 +3265,7 @@ NY GarStaPkwy NJ/NY I-87/287
 NY HenHudPkwy 8 Bro/Wes
 NY HarRivDr 17 10thAve
 NY HutRivPkwy 1 NY/CT
-NY LakeOntPkwy LakeOntPkwySprCar LakeAve
+NY LakeOntPkwy LakeOntPkwySpr LakeAve
 NY LakeOntPkwySprCar NY18 LakeOntPkwy
 NY MosPkwy GraCon HenHudPkwy
 NY PalIntPkwy NJ/NY US6/9W
@@ -3403,6 +3402,7 @@ PA PA944 PA114 I-81
 PA PA997 US30_W US30_E
 PA CenScrExp I-81 US11/307
 PA AutoTrk TBD TBD
+RI RI1APro RI114_S US44_W
 RI RI4 US1 I-95
 RI RI5 US44 RI146A_N
 RI RI7 I-95 BraAve
