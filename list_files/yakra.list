@@ -959,7 +959,7 @@ NH NH236 NH9 NH108
 NH NH108 NH236 LongHillRd #Construction detour between Willand Ave & Willand Pond Rd
 #NH NH16 9 7 #main entry above extended
 #NH NH108 NH16 NH85 #main entries above combined
-NH NH85 NH108 NH101
+NH NH85 NH108 NH101 #Construction detour, closed S from NH101
 #NH NH108 NH27_W MA/NH #main entries above combined
 MA MA108 MA/NH MA110
 MA MA110 MA108 MA125_S
