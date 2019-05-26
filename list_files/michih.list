@@ -2902,7 +2902,7 @@ GRC A29 1 EO2
 GRC EO2 ALB/GRC A29
 GRC EO2 EO3_N NeaPel
 #direct routing too http://forum.travelmapping.net/index.php?topic=3054
-GRC E02 Lou A1
+GRC EO2 Lou A1
 GRC EO3 GRC/MKD A27_Pto
 GRC EO111 A1 A24
 GRC E90 BarIgnFry 23(A2)
