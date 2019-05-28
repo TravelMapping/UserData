@@ -24,7 +24,7 @@ DNK SR201 PR19 O2 #         201 Kbh - Hillerød            +
 DNK SR205 O3 SR227 #        205 Helsingør - Gribskov      -1
 DNK SR205 SR251_N SR251_S # 205 Overlap 251               -1
 DNK SR205 SR267 PR16 #      205 Helsinge - Frederiksværk  -1
-DNK SR207 SR201 PR53_W #   207 Birkerød - Frederikssund   +
+DNK SR207 SR201 PR53_W #   207 Birkerød - Frederikssund   /
 DNK SR207Lyn StoKarVej PR16 #207Sølager - Amagerhuse      /
 DNK SR211 O2 PR16_N #       211 Kbh - Frederiksværk       +
 DNK SR213 SR152 SR237 #     213 Espergærde - Ålsgårde     +
@@ -105,7 +105,7 @@ DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 E45 PR42 #         24  Rødekro - Aabenraa        --
 DNK PR25 SR403 KolVej_W #   25  Jels - Vamdrup            /
 DNK PR41 E45 PR8 #          41  Aabenraa - Sønderborg     +
-DNK PR42 PR24 E45 #         42  Aabenraa - E45            +
+DNK PR42 PR24 E45 #         42  Aabenraa - E45            /
 DNK PR47 PR24/25 SR170 #    47  Gabøl - Haderslev         +
 #SR
 DNK SR170 AlmOstGade DNK/DEU #170Viuf - Tyskland          /
