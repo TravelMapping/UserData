@@ -6,6 +6,40 @@ DNK OstMot SonMot TauMot #  E20-E45 forbindelse           /
 DNK E45 34 DNK/DEU #        E45 Hobro - Tyskland          /
 DNK E47 HelHelFry 50 #      E47 Helsingør - Rødby         /
 DNK E55 HelFry 44 #         E55 Helsingør - Falster       /
+#Magueritruten
+#Sjælland
+DNK MRSja PR16_S O3_N #         Hillerød - Helsingør
+DNK MRSja KlaVej_E KlaVej_W #   Dyrehaven
+DNK MRSja SkoVej_W HumVej #     Furesø
+DNK MRSja TubVej PriGade #      København
+DNK MRSja VejAlle_E RabVej #    Amager - Ledøje
+DNK MRSja PR6_N O1_N #          Roskilde
+DNK MRSja SR155_E OreVej #      Lejre
+DNK MRSja SR261 SR261_S #       Stevns
+DNK MRSja HovGad_Fax SR151_DalN #Faxe
+DNK MRSja RinGade_N O_NaeN #    Næstved
+#Svendborg
+DNK MRSve PR44_Oll RanVej_E #   PR44 - Rantzausminde
+DNK MRSve PR43_N PR43_N #       PR43
+#Odense
+DNK MROde AssVej_W AssVej_E #   Middelfart
+DNK MROde SR168_S DreBae #      Odense
+DNK MROde VolVej_N AlbVej_S #   PR 43
+DNK MROde SR163_S SteVej_E #    Lundeborg
+#Esbjerg
+DNK MREsb SR401_KruW E45 #      Kruså
+DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
+#kolding
+DNK MR PR8_Son AabVej #         Sønderborg
+DNK MR RonVej SR401_KruE #      Flensborg Fjord
+DNK MR KelVej_W TonVej_W #      Kelstrup - Marstrup
+DNK MR HamByGade_N SimVej_N #   Hammelev - Simmerstedvej
+DNK MR SR170_Chr KonGade_N #    Christriansfeld
+DNK MR AnsLanVej_S SjoLanVej #  Hejlsminde
+DNK MR SR170_Kol KolVej_Ves #   Kolding
+DNK MR EgtVej BogVej_W #        Egtved
+DNK MR KolVej_Bil PR28/30 #     Billund
+DNK MR NyGade SleVej_N #        Fjerritslev
 
 #Sjælland
 #Ved Hillerød og Nordsjælland
