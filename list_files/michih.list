@@ -2906,7 +2906,7 @@ GRC EO2 EO3_N NeaPel
 #direct routing too http://forum.travelmapping.net/index.php?topic=3054
 GRC EO2 Lou A1
 GRC EO2 A2(22) A2(23)
-GRC EO02Kom A25 EO59
+GRC EO2Kom A25 EO59
 GRC EO3 GRC/MKD A27_Pto
 GRC EO12 EO57 EO14 #Next junction west of EO57 where road was closed due to construction
 GRC EO14 EO12 28esOkt
