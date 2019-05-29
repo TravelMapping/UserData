@@ -76,7 +76,7 @@ NJ I-295 60 NJ/PA
 NV I-80 0 999
 NY I-78 0 999
 NY I-278 0 999
-NY I-678 1 999
+NY I-678 1E I-95
 NY I-878 I-678 JFKExpy
 NY I-81 2 4A
 NY I-84 0 999
@@ -764,6 +764,7 @@ NY LakeOntPkwy LakeAve NY98
 NY MosPkwy I-87 HenHudPkwy
 NY NiaScePkwy NY18F/104 NY104_Nia
 NY NiaScePkwyNia JohnDalyBlvd I-190
+NY OcePkwyBro NY27 18thAve
 NY PalIntPkwy 9 18
 NY SawMillPkwy Bro/Wes I-684
 
@@ -990,3 +991,7 @@ NY HenHudPkwy Bro/Wes 8
 NY NY9A HenHudPkwy(23) I-478
 #NY FDRooDr I-478 1 #main entry above extended
 NY I-478 NY9A I-278
+# 2019-05-26
+NJ US1TrkNew NJ139 NJ7
+NJ NJ7 US1/9Trk CR508
+NJ I-280 17 I-80
