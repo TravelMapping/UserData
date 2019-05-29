@@ -2908,7 +2908,7 @@ GRC EO2 Lou A2(23)
 GRC EO2Kom A25 EO59
 GRC EO2Kom OdosDim A2(35)
 GRC EO3 GRC/MKD A27_Pto
-GRC EO12 A2/A25 EO65_N
+GRC EO12Ass A2/A25 EO65_N
 GRC EO12 EO57 EO14 #Next junction west of EO57 where road was closed due to construction
 GRC EO14 EO12 28esOkt
 GRC EO16 A1 EO16A
