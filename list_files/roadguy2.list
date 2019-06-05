@@ -781,6 +781,8 @@ UT UT127 UT110 UT108
 UT UT129 US89_S UT92
 UT UT130 UT14 I-15(57)
 UT UT131 UT140 HarDayDr
+UT UT133 I-15 CenSt_Mea
+#only to gas station, but close enough
 UT UT134 UT37 UT235
 UT UT135 2800W UT129
 UT UT138 I-80 UT36
@@ -863,6 +865,8 @@ UT ArcSceDr US191 DevGarCam
 UT BryCynSceDr UT63 End
 UT CapReefSceDr UT24 CapGorRd
 UT IslSkySceDr UT313 End
+UT KolCynRd I-15 End
+UT KolTerRd UT9 KolResRd
 UT ZionCynDr UT9 End
 
 
