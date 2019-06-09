@@ -214,23 +214,42 @@ GA GA141ConAtl GA237 GA141
 
 ID I-15 UT/ID ID/MT
 ID I-84 OR/ID ID/UT
-ID I-86 61 63
+ID I-86 1 63
 
 ID US20 I-15(119) ID/MT
 #ID US20 (I-84 and 15 concurrencies)
+ID US26 I-15(116) US20Bus
 #ID US26 (I-84 and 15 concurrencies)
+ID US30 US91_N I-86(58)
+#--used Maple Street as signed detour — Oak closed for construction
+ID US30 I-15(47) I-15BL_S
 #ID US30 (I-84 and 15, US 89 concurrencies)
 ID US89 UT/ID ID/WY
-ID US91 UT/ID I-86(61)
+ID US91 UT/ID I-15(36)
+#ID US91 I-15 concurrency
+ID US91 I-15(67) US26
+
 ID US93 I-84(173) ID25
 #--just to the gas station.
 
+ID I-15BLMcC I-15_S US30_E
+ID I-15BLInk I-15_S I-15_N
 ID I-15BLPoc I-15_S I-15_N
+ID I-15BLBla I-15_N US91_N
+ID I-15BLIda I-15_N US26_E
+ID I-86BLAme I-86_W I-86_E
+
+ID US20BusIda US26_E US20_E
 
 ID ID33 ID/WY US20
 ID ID33SprSug ID33 US20
 ID ID36 CRD1_S US91_S
+#ID ID39 BL86 concurrency
+ID ID40 I-15 US91
 #ID ID55 Eagle Rd block
+ID ID77 I-84 ID81_N
+ID ID81 ID77_N ID81Spr
+ID ID81SprCot ID81 I-84
 
 
 #illinois
@@ -855,6 +874,7 @@ UT UT315 WilBayStPrk US89
 #UT UT292 0 999
 #UT UT294 0 999
 #UT UT296 0 999
+#UT UT298 all public segments--DMV lot only
 #UT UT299 all public segments
 #UT UT306 0 999
 #UT UT312 0 999
