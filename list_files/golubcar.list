@@ -74,6 +74,7 @@ NY BroRivPkwy 5(S) TacStaPkwy
 NY CroCouPkwy 4 9
 NY CroIslPkwy 25A 36
 NY GraCenPkwy 45(278) Que/Nas
+NY HecPkwy 44 HecSP
 NY HenHudPkwy 24 Bro/Wes
 NY HutRivPkwy 1 NY/CT
 NY KorWarPkwy NY440(1) DruRd
@@ -86,7 +87,7 @@ NY RobMosCswy RobMosSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
 NY SawMillPkwy Bro/Wes 20
 NY SevLakDr JohRd US9W/202
-NY SouStaPkwy CroIslPkwy 43A
+NY SouStaPkwy CroIslPkwy 44
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY SunMeaPkwy SM1 SM5
 NY TacStaPkwy BroRivPkwy 37
@@ -132,7 +133,7 @@ NY NY107 MerRd GlenCoveAve
 NY NY108 WPulRd NY25A
 NY NY109 NY27A NY110
 NY NY110 NY27A YouHillRd
-NY NY111 I-495 NY25/25A
+NY NY111 NY27A NY25/25A
 NY NY112 EMainSt NY25A
 NY NY116 NY22_S NY/CT
 NY NY117 US9 NY448
