@@ -1,4 +1,4 @@
-# Date: 2019-06-19
+# Date: 2019-06-20
 # ----------------
 
 
@@ -2931,12 +2931,9 @@ GRC A25 EO2 GRC/BGR
 GRC A27 BorParKoz EO3
 GRC A27Flo EO2/3 EO3_Niki
 GRC A29 1 EO2
-GRC A123 A25 EO16
 GRC A242 A24 TheAirMak
 GRC EO2 ALB/GRC A29
-GRC EO2 EO3_N NeaPel
-#direct routing too http://forum.travelmapping.net/index.php?topic=3054
-GRC EO2 Lou A2(23)
+GRC EO2 EO3_N A2(23)
 GRC EO2Kom A25 EO59
 GRC EO2Kom OdosDim A2(35)
 GRC EO3 GRC/MKD A27_Pto
@@ -2954,6 +2951,7 @@ GRC EO67 EO16 RomOdos
 GRC EO77 EO44 A11
 GRC EO111 OdosTheKal A24
 GRC OdiAxoCas A24 Cas
+GRC PerOdosThe A2 EO16
 GRC E90 BarIgnFry 23(A2)
 
 
