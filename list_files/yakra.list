@@ -76,7 +76,7 @@ NJ I-295 60 NJ/PA
 NV I-80 0 999
 NY I-78 0 999
 NY I-278 0 999
-NY I-678 1 999
+NY I-678 1E I-95
 NY I-878 I-678 JFKExpy
 NY I-81 2 4A
 NY I-84 0 999
@@ -395,6 +395,8 @@ MA MA141 CabSt ProSt
 MA MA213 1 5
 MA MA225 PepRd MA2A
 MA LowCon 2 5
+MA SolFieRd HarSt StoDr
+MA StoDr SolFieRd MA28
 
 ME ME3 ME27 ME102_MD
 ME ME4 NH/ME ME145
@@ -704,6 +706,7 @@ NY NY22 NY372 NY313
 NY NY23 WestSt_One I-88(15)
 NY NY25 2ndAve I-495(19)
 NY NY26 US20_W US20_E
+NY NY27 1 PenAve
 NY NY27 ConAve CroBayBlvd
 NY NY28 I-88(15) I-88(17)
 NY NY28 US20_W US20_E
@@ -750,6 +753,7 @@ NY NY408 NY436 I-390
 NY NY414 NY14_S NY14/409
 NY NY436 ParkRd NY408
 NY NY440 8 10
+NY NY495 NJ/NY W34thSt #Don't remember actual endpoint but this seems most plausible for heading S toward Washington Square
 NY NY590 5 TitAve
 NY NY878 I-678 FarBlvd
 NY NY890 I-890 NY5
@@ -764,6 +768,7 @@ NY LakeOntPkwy LakeAve NY98
 NY MosPkwy I-87 HenHudPkwy
 NY NiaScePkwy NY18F/104 NY104_Nia
 NY NiaScePkwyNia JohnDalyBlvd I-190
+NY OcePkwyBro NY27 18thAve
 NY PalIntPkwy 9 18
 NY SawMillPkwy Bro/Wes I-684
 
@@ -928,7 +933,7 @@ MA I-90 NY/MA MA1A
 
 MA MA16 EveAve MA99
 MA MA99 MA16 US1_S
-MA MA3 MA28_N MA28_S
+MA MA28 MA3_S StoDr
 MA US20 CamSt MA2_E
 MA MA2 US20_E Cha
 
@@ -943,7 +948,7 @@ CT CT32 CT2(26) CT2(25)
 CT CT2 25 18
 CT CT16 CT2 CT66
 CT CT66 CT16 I-91
-NY NY27 1 5
+#NY NY27 1 5 #(combined)
 CT US6 NY/CT US44_E
 CT CT254 US6 MainSt_ThoN
 CT CT222 MainSt_S US6/8
@@ -957,10 +962,10 @@ MA MA16 MA12/193 I-395
 # 2019-05-23
 NH NH236 NH9 NH108
 NH NH108 NH236 LongHillRd #Construction detour between Willand Ave & Willand Pond Rd
-#NH NH16 9 7 #main entry above extended
-#NH NH108 NH16 NH85 #main entries above combined
+#NH NH16 9 7 #(combined)
+#NH NH108 NH16 NH85 #(combined)
 NH NH85 NH108 NH101 #Construction detour, closed S from NH101
-#NH NH108 NH27_W MA/NH #main entries above combined
+#NH NH108 NH27_W MA/NH #(combined)
 MA MA108 MA/NH MA110
 MA MA110 MA108 MA125_S
 MA MA125 MA110_W MA28
@@ -988,5 +993,15 @@ NY NY100B SprBroPkwy NY9A
 NY NY9A NY100B AshAve #No signage for right turn
 NY HenHudPkwy Bro/Wes 8
 NY NY9A HenHudPkwy(23) I-478
-#NY FDRooDr I-478 1 #main entry above extended
+#NY FDRooDr I-478 1 #(combined)
 NY I-478 NY9A I-278
+# 2019-05-26
+NJ US1TrkJer NJ139 NJ7
+NJ NJ7 US1/9Trk CR508
+NJ I-280 17 I-80
+# 2019-05-30
+#NY NY27 5 PenAve #(combined)
+NY JacRobPkwy JamAve 7
+NY GraCenPkwy 13 21
+NY I-295 NY25 10
+NY I-695 I-295 I-95
