@@ -645,9 +645,10 @@ PA PA901 PA61 PA183
 PA PA902 US209 PA443
 PA PA903 US209 PA115
 PA PA910 I-79 BabBlvd
-# PA PA910 PA8 AllisonRd ***** incomplete segment, bridge out *****
-# PA PA910 McIntyreRd MouViewRd ***** incomplete segment, bridge out *****
-PA PA910 MouViewRd FreRd
+# PA PA910 PA8 AllisonRd # incomplete segment, bridge out
+# bridge was out between AllisonRd and McIntyreRd
+# PA PA910 McIntyreRd OakRd # incomplete segment, bridge out
+PA PA910 OakRd FreRd
 PA PA913 PA26 PA655
 PA PA921 PA74 PA295
 PA PA924 PA61 PA339_S
