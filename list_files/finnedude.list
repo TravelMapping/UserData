@@ -23,6 +23,8 @@ DNK MRSja RinGade_N O_NaeN #    Næstved
 DNK MRSve PR44_Oll RanVej_E #   PR44 - Rantzausminde
 DNK MRSve PR43_N NySteVej_N #   PR43
 #Odense
+DNK MROde PR28_FreW KobGade_N # Fredericia
+DNK MROde KobGade_S SR161_W #   Fredericia - gl Lillebæltsbro
 DNK MROde AssVej_W AssVej_E #   Middelfart
 DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N AlbVej_S #   PR 43
@@ -34,10 +36,7 @@ DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 DNK MR PR8_Son AabVej #         Sønderborg
 DNK MR RonVej SR401_KruE #      Flensborg Fjord
 DNK MR KelVej_W TonVej_W #      Kelstrup - Marstrup
-DNK MR HamByGade_N SimVej_N #   Hammelev - Simmerstedvej
-DNK MR SR170_Chr KonGade_N #    Christriansfeld
-DNK MR AnsLanVej_S SjoLanVej #  Hejlsminde
-DNK MR SR170_Kol KolVej_Ves #   Kolding
+DNK MR HamByGade_N KolVej_Ves # Hammelev - Vester Nebel
 DNK MR EgtVej BogVej_W #        Egtved
 DNK MR KolVej_Bil PR28/30 #     Billund
 DNK MR SR569_Fje SleVej_N #     Fjerritslev
@@ -119,8 +118,9 @@ DNK PR44 PR9 PR8/43 #       44  Svendborg - Faaborg       +
 #SR
 DNK SR160 SR163 SR165_S #   160 Nyborg                    
 DNK SR161 O2 E20(53) #      161 Odense                    --
-DNK SR161 SR335 SR307 #     161 Vissenbjerg               --
+DNK SR161 SR335 SR329 #     161 Vissenbjerg               --
 DNK SR161 E20(57) OstHougVej #161Nørre Aaby - Middelfart  --
+DNK SR161 PR28 SR170 #      161 Gl. L.bæltsbro - Kolding  --
 DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
 DNK SR167 RarVej SR163_E #  167 Assensvej - Svendborg     
 DNK SR168 O2 E20 #          168 Odense                    --
