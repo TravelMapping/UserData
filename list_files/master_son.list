@@ -1466,6 +1466,7 @@ SC SC703 US17 I-526BS
 SD I-29 246 SD/ND
 SD I-29 IA/SD 84
 SD I-229 1A 10
+# Black hills region unsure - need to confirm
 SD I-90 WY/SD SD/MN
 SD I-190 SD44 I-90
 SD I-29BLElk I-29_S I-29_N
@@ -1880,6 +1881,7 @@ WI MN23 MN/WI WI/MN
 
 WY I-25 CO/WY 189
 WY I-80 359 WY/NE
+# I-90 segments were not all built during last pass
 WY I-90 58 153
 WY I-90 185 WY/SD
 WY I-25BLBuf US16_W I-25_N
@@ -1907,6 +1909,8 @@ WY DevTowRd WY110 VisCen
 WY EEntRd GraLoopRd US14/16
 WY GraLpRd NorCynRd_E NorCynRd_W
 WY NorCynRd GraLoopRd_W GraLoopRd_E
+
+# insert (CAN)BC here
 
 ON TCHLak 2ndSt_W JohnSt_Thu
 ON TCHVoy ON17 ON71_S
