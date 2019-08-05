@@ -487,6 +487,7 @@ PA US1 PA132 PA/NJ
 PA US6 I-476 I-81(187)
 PA US13 DE/PA 4thSt_E
 PA US13 9thSt_W PA352
+PA US13 PA3 PowAve_W
 PA US15 US30 I-76
 PA US22 I-376(71A) I-376(85)
 PA US22 US322_W I-81
@@ -506,7 +507,7 @@ PA US422Rea US322 PA72         #....................was PA US422_E
 PA US422Rea US222_S US222/12   #....................was PA US422_E
 PA US422Rea US422Bus US202     #....................was PA US422_E
 PA US522 US322_W US22/322_E
-PA US1AltTrkPhi US1_S US30_E
+PA US1AltTrkPhi US1_S US1_N    #....................does this turn on Conshochecken Ave for the last bit on the north end?
 PA US30BusDow US30_W US30_E
 PA US30BusTrkDow US30Bus_W US30Bus_E
 PA US220BusBed I-76 I-99(1)
@@ -1037,8 +1038,7 @@ NC CliDomeRdLuf TN/NC NC/TN
 NC CliDomeRd TN/NC NC/TN
 NC CliDomeRdCli TN/NC CliDomeTrl
 
-PA PA3 US322Bus I-476
-PA PA3 29thSt PA611
+PA PA3 US322Bus PA611
 PA PA10 PA472 I-176(1)
 PA PA23 PA441 US1
 PA PA29Pho US30 I-78/309
@@ -1066,7 +1066,7 @@ PA PA162 PA82/842 US322
 PA PA181 US30 I-83
 PA PA222 I-78 PA145 #................................(drove westbound from termini (6th) along Linden and 12th to Hamilton.  Need to drive eastbound from Hamilton to 12th to Walnut to 6th)
 PA PA241 US322_W US322_E
-PA PA252 US1 PA23
+PA PA252 BalAve PA23
 PA PA252AltTrkNew PA252_S PA252_N
 PA PA259 US30 KnuRd
 PA PA261 DE/PA PA491
@@ -1134,7 +1134,7 @@ TN TN32 BogRd US25/70
 TN TN39 US11_N US11_S
 TN TN60 US74_W US11Bus
 TN TN66Sev US411/441 TN448
-TN TN73 US321 SmoMouNP
+TN TN73Tow US321 SmoMouNP
 TN TN74 US74 US64
 TN TN92 US25W/70_E US25W/70_W
 TN TN95 US321_N US11
