@@ -215,7 +215,7 @@ GA GA400 1A 4
 #GA GA515 (concurrency with GA5)
 GA GA520 US17_N RivDr
 
-GA GA10LpAth US78 6
+GA GA10LpAth 1 6
 GA GA141ConAtl GA237 GA141
 
 #idaho
