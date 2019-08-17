@@ -164,8 +164,7 @@ GA US41 UniAveSW I-75(252A)
 GA US41 I-75(255) WPacFerRdNW
 GA US41 I-285(19) WinHillRdSE
 #GA US76 (US 411 concurrency)
-GA US78 LakeAve MonDr
-#past Blvd/Monroe Dr, to Cook Out
+GA US78 LakeAve US23_S
 GA US129 I-985(24) US129BusGai_N
 #only to Textile Dr, but close enough
 #GA US129 (US 441 concurrency)
@@ -186,7 +185,7 @@ GA GA20 US23_S I-985
 #not all the way to 23 from 985, but close enough
 GA GA23 I-16 LanSt
 #to the Zaxby's, but close enough
-GA GA42 I-85 DruHilRd
+GA GA42 US23/29 GA13
 GA GA61 I-20 US78_W
 #sight clinch last block from CFA
 GA GA74 I-85 SenRd_N
