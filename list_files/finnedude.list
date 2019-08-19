@@ -231,8 +231,22 @@ DEU-NI A261 HH/NI 4 #       A261  Hamborg           +
 
 NLD E19 A10 A16/A20 #       E19   Amsterdam - Rotterdam
 NLD E19 A15_W A15_E #       E19   Rotterdam Syd
+NLD E25 A13 A2/A12 #        E25   Rotterdam - Utrecht
 NLD E30 A20_E A1/A28 #      E30   Rotterdam - Amersfoort
 NLD E30 A50 NLD/DEU #       E30   Apeldoorm - Tyskland
 NLD E31 A16 A15/A50 #       E31   Rotterdam - Arnhem
+NLD E35 16(A10) A2/A10 #    E35   Amsterdam
+NLD E232 A1 A37 #           E232  Utrecht - Hoogeveen
+NLD E233 A28 NLD/DEU #      E233  Hoogeveen - Tyskland
 
+NLD A4 A10 A15 #            A4    Amsterdam - Rotterdam   +
+NLD A10 A4 16 #             A10   Amsterdam
 NLD A50 A15 A1 #            A50   Arnhem - Apeldoorm
+
+NLD S100Rot S103/S114 S113/S115 # S100  Rotterdam
+NLD S101Rot KorWeg S120 #         S101  Rotterdam
+NLD S102Rot A15 S101/S103 #       S102  Rotterdam         +
+NLD S103Rot S100/S114 A15/A29 #   S103  Rotterdam         +
+NLD S113Rot A13/A20 S100/S115 #   S113  Rotterdam
+NLD S115Ams S116/S117 BeeStr #    S115  Amsterdam
+NLD S116Ams A10 S115/S117 #       S116  Amsterdam
