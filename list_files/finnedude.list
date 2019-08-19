@@ -12,10 +12,10 @@ DNK E55 HelFry 44 #         E55 Helsingør - Falster
 DNK MRSja PR16_S O3_N #         Hillerød - Helsingør
 DNK MRSja KlaVej_E KlaVej_W #   Dyrehaven
 DNK MRSja SkoVej_W HumVej #     Furesø
-DNK MRSja TubVej PriGade #      København
+DNK MRSja TubVej VerGade_E #    København
 DNK MRSja VejAlle_E RabVej #    Amager - Ledøje
 DNK MRSja PR6_N O1_N #          Roskilde
-DNK MRSja SR155_E OreVej #      Lejre
+DNK MRSja SR155_E SR255_S #     Lejre
 DNK MRSja SR261 SR261_S #       Stevns
 DNK MRSja HovGad_Fax SR151_DalN #Faxe
 DNK MRSja RinGade_N O_NaeN #    Næstved
@@ -27,7 +27,7 @@ DNK MROde PR28_FreW KobGade_N # Fredericia
 DNK MROde KobGade_S SR161_W #   Fredericia - gl Lillebæltsbro
 DNK MROde AssVej_W AssVej_E #   Middelfart
 DNK MROde SR168_S DreBae #      Odense
-DNK MROde VolVej_N AlbVej_S #   PR 43
+DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR163_S SteVej_E #    Lundeborg
 #Esbjerg
 DNK MREsb SR401_KruW E45 #      Kruså
@@ -102,6 +102,7 @@ DNK SR219 TisVej PR22 #     219 Tissø - Ugerløse          +
 DNK SR225 SR155 RorFry #    225 Kalundborg - Rørvig       --
 DNK SR225 KatVej CemVej #   225 Tissø - PR23              --
 DNK SR243 SR151 O4 #        243 Ishøj                     
+DNK SR255 MR_E PR57_S #     255 Lejre - Stenlille
 DNK SR261 SR151 HavPla #    261 Køge - Rødvig             
 DNK SR275 HavGade_S E47 #   275 Rødby                     
 DNK SR287 PR59_W SteVej #   287 Møn                       
@@ -133,7 +134,7 @@ DNK SR335 PR8 E20 #         335 Svendborg - Vissenbjerg
 #Jylland
 #Sønderjylland
 DNK OHad SR170_N PR47 #     O   Haderslev                 +
-DNK OKol SR191_W TonVej_W # O   Kolding                   
+DNK OKol SR191_W SR191 #    O   Kolding                   +
 #PR
 DNK PR8 EllVej E45_N #      8   Sønderborg - E45          
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
