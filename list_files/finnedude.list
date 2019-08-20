@@ -212,19 +212,28 @@ DEU-NI E37Osn NW/NI NI/NW # E37   Osnabrück           +
 DEU-NW E37 NI/NW 72(A1) #   E37   Osnabrück
 DEU-SH E45 DNK/DEU SH/HH #  E45   Danmark - Hamborg   +
 DEU-HH E45 SH/HH 33(A7) #   E45   Hamborg
+DEU-NI E233 NLD/DEU A1 #    E233  Holland-Cloppenburg +
+DEU-HB E234 18(A27) HB/NI # E234  Bremen
+DEU-NI E234Oyt HB/NI NI/HB #E234  Bremen              +
+DEU-HB E234Mah NI/HB HB/NI #E234  Bremen              +
+DEU-NI E234 HB/NI 22(A27) # E234  Bremen
 
 #Slesvig-Holsten
-
 DEU-SH B199 L96_W B200_S #  B199  Flensborg
 DEU-SH B200 DNK/DEU A7 #    B200  Flensborg
-
-DEU-SH L17 DEU-SH L17 B199 #L17   Flensborg
 
 #Hamborg
 DEU-HH A261 1 HH/NI #       A261  Hamborg           +
 
 #Nedersaksen
+DEU-NI A28 24 26 #          A28   Bremen
 DEU-NI A261 HH/NI 4 #       A261  Hamborg           +
+
+DEU-NI B75Del A28 NI/HB #   B75   Bremen            +
+
+#Bremen
+DEU-HB B6 A27 B75 #         B6    Bremen
+DEU-HB B75 NI/HB B6 #       B75   Bremen            +
 
 
 #HOLLAND
@@ -241,12 +250,21 @@ NLD E233 A28 NLD/DEU #      E233  Hoogeveen - Tyskland
 
 NLD A4 A10 A15 #            A4    Amsterdam - Rotterdam   +
 NLD A10 A4 16 #             A10   Amsterdam
+NLD A12 S101 A4 #           A12   Haag
+NLD A15 A4 19 #             A15   Rotterdam               --
+NLD A15 A29 A50 #           A15   Rotterdam - Arnhem      --
 NLD A50 A15 A1 #            A50   Arnhem - Apeldoorm
 
 NLD S100Rot S103/S114 S113/S115 # S100  Rotterdam
+NLD S100Den S101_S RijWeg #       S100  Haag              --
+NLD S100Den S102 S101_N #         S100  Haag              --
 NLD S101Rot KorWeg S120 #         S101  Rotterdam
+NLD S101Den S100 A12 #            S101  Haag
 NLD S102Rot A15 S101/S103 #       S102  Rotterdam         +
+NLD S102Den S200 S100 #           S102  Haag              +
 NLD S103Rot S100/S114 A15/A29 #   S103  Rotterdam         +
 NLD S113Rot A13/A20 S100/S115 #   S113  Rotterdam
 NLD S115Ams S116/S117 BeeStr #    S115  Amsterdam
 NLD S116Ams A10 S115/S117 #       S116  Amsterdam
+
+NLD N14 A4 N440 #           N14   Haag                    +
