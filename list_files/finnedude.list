@@ -199,12 +199,12 @@ SWE L165 NOR/SWE E6 # L165  Norge - Munkedal
 #TYSKLAND
 
 #Europa-veje
-DEU-NI E22Buc HB/NI NI/HH # E22   Bremen - Hamborg    +
+DEU-NI E22Buc HB/NI 43(A1) #E22   Bremen - Hamborg    
 DEU-HB E22 NI/HB HB/NI #    E22   Bremen              +
 DEU-NI E22Dre HB/NI NI/HB # E22   Bremen              +
 DEU-HB E22Ars NI/HB HB/NI # E22   Bremen              +
 DEU-NI E22 A1/A28 NI/HB #   E22   Bremen
-DEU-NW E30Rhe NI/NW NW/NI # E30   Rheine - Osnabrück  +
+DEU-NW E30Rhe NI/NW 14(A30) #E30  Rheine - Osnabrück  
 DEU-NI E30Sch NLD/DEU NI/NW #E30  Holland- Rheine     +
 DEU-NI E37 58a(A1) NI/HB #  E37   Bremen - Osnabrück  +
 DEU-NW E37Wer NI/HB NW/NI # E37   Osnabrück           +
@@ -268,3 +268,21 @@ NLD S115Ams S116/S117 BeeStr #    S115  Amsterdam
 NLD S116Ams A10 S115/S117 #       S116  Amsterdam
 
 NLD N14 A4 N440 #           N14   Haag                    +
+
+
+#FINLAND
+
+#Oksevejen
+FIN HamHarTie Vt2 Vt10/2855 #   Ruostejärvi - Renko
+#Ringveje
+FIN KehaIII Kt51 44 #     O3    Jorvas - Vanda
+#Valta
+FIN Vt1 29 23 #           Vt1   Esbo - Lojo
+FIN Vt2 St133 Yt2802 #    Vt2   Högfors - Ruostejärvi
+FIN Vt3 14 24 #           Vt3   Hyvinge - Tavastehus
+FIN Vt10 Yt2831 Vt3 #     Vt10  Lietsa - Tavastehus
+FIN Vt25 AppTie Vt1(24) # Vt25  Hangö - Lojo
+#Kanta
+FIN Kt45 7 11 #           Kt45  Vanda - Korso         --
+FIN Kt45 Yt1403 Vt3 #     Kt45  Träskända - Hyvinge   --
+FIN Kt51 Kt50 Vt25 #      Kt51  Jorvas - Karis
