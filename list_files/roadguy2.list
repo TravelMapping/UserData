@@ -160,12 +160,13 @@ GA US23 I-985(24) US441BusCla
 #GA US29 (US 29/78 and 19/41 concurrency)
 GA US29 GA154/166_W US19/41_S
 GA US29 US19/41_N US78/278_W
+GA US29 US29Bus_S GA10Lp(1)
 GA US41 UniAveSW I-75(252A)
 GA US41 I-75(255) WPacFerRdNW
 GA US41 I-285(19) WinHillRdSE
 #GA US76 (US 411 concurrency)
-GA US78 LakeAve MonDr
-#past Blvd/Monroe Dr, to Cook Out
+GA US78 LakeAve US23_S
+GA US78 GA138 US29_AthS
 GA US129 I-985(24) US129BusGai_N
 #only to Textile Dr, but close enough
 #GA US129 (US 441 concurrency)
@@ -186,7 +187,7 @@ GA GA20 US23_S I-985
 #not all the way to 23 from 985, but close enough
 GA GA23 I-16 LanSt
 #to the Zaxby's, but close enough
-GA GA42 I-85 DruHilRd
+GA GA42 US23/29 GA13
 GA GA61 I-20 US78_W
 #sight clinch last block from CFA
 GA GA74 I-85 SenRd_N
@@ -198,6 +199,7 @@ GA GA113 I-20 HicLevRd
 #actual south end Lovell Rd, but close enough
 GA GA115 GA254 GA105
 GA GA136 US411 GA5/515
+GA GA138 I-20 US78
 #GA GA141 GA237 HighlandDr
 GA GA141 US19 GA141Con
 GA GA154 HillSt Blvd
@@ -207,11 +209,13 @@ GA GA237 GA13 GA141Con
 GA GA254 GA384 GA115
 #GA GA280 I-20 JosEBooBlvd
 GA GA280 EastWestCon ConRd
+GA GA316 I-85 US29_S
 GA GA384 US23 GA254
 GA GA400 1A 4
 #GA GA515 (concurrency with GA5)
 GA GA520 US17_N RivDr
 
+GA GA10LpAth 1 6
 GA GA141ConAtl GA237 GA141
 
 #idaho
