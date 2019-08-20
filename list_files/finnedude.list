@@ -12,10 +12,10 @@ DNK E55 HelFry 44 #         E55 Helsingør - Falster
 DNK MRSja PR16_S O3_N #         Hillerød - Helsingør
 DNK MRSja KlaVej_E KlaVej_W #   Dyrehaven
 DNK MRSja SkoVej_W HumVej #     Furesø
-DNK MRSja TubVej PriGade #      København
+DNK MRSja TubVej VerGade_E #    København
 DNK MRSja VejAlle_E RabVej #    Amager - Ledøje
 DNK MRSja PR6_N O1_N #          Roskilde
-DNK MRSja SR155_E OreVej #      Lejre
+DNK MRSja SR155_E SR255_S #     Lejre
 DNK MRSja SR261 SR261_S #       Stevns
 DNK MRSja HovGad_Fax SR151_DalN #Faxe
 DNK MRSja RinGade_N O_NaeN #    Næstved
@@ -27,7 +27,7 @@ DNK MROde PR28_FreW KobGade_N # Fredericia
 DNK MROde KobGade_S SR161_W #   Fredericia - gl Lillebæltsbro
 DNK MROde AssVej_W AssVej_E #   Middelfart
 DNK MROde SR168_S DreBae #      Odense
-DNK MROde VolVej_N AlbVej_S #   PR 43
+DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR163_S SteVej_E #    Lundeborg
 #Esbjerg
 DNK MREsb SR401_KruW E45 #      Kruså
@@ -102,6 +102,7 @@ DNK SR219 TisVej PR22 #     219 Tissø - Ugerløse          +
 DNK SR225 SR155 RorFry #    225 Kalundborg - Rørvig       --
 DNK SR225 KatVej CemVej #   225 Tissø - PR23              --
 DNK SR243 SR151 O4 #        243 Ishøj                     
+DNK SR255 MR_E PR57_S #     255 Lejre - Stenlille
 DNK SR261 SR151 HavPla #    261 Køge - Rødvig             
 DNK SR275 HavGade_S E47 #   275 Rødby                     
 DNK SR287 PR59_W SteVej #   287 Møn                       
@@ -133,7 +134,7 @@ DNK SR335 PR8 E20 #         335 Svendborg - Vissenbjerg
 #Jylland
 #Sønderjylland
 DNK OHad SR170_N PR47 #     O   Haderslev                 +
-DNK OKol SR191_W TonVej_W # O   Kolding                   
+DNK OKol SR191_W SR191 #    O   Kolding                   +
 #PR
 DNK PR8 EllVej E45_N #      8   Sønderborg - E45          
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
@@ -230,8 +231,22 @@ DEU-NI A261 HH/NI 4 #       A261  Hamborg           +
 
 NLD E19 A10 A16/A20 #       E19   Amsterdam - Rotterdam
 NLD E19 A15_W A15_E #       E19   Rotterdam Syd
+NLD E25 A13 A2/A12 #        E25   Rotterdam - Utrecht
 NLD E30 A20_E A1/A28 #      E30   Rotterdam - Amersfoort
 NLD E30 A50 NLD/DEU #       E30   Apeldoorm - Tyskland
 NLD E31 A16 A15/A50 #       E31   Rotterdam - Arnhem
+NLD E35 16(A10) A2/A10 #    E35   Amsterdam
+NLD E232 A1 A37 #           E232  Utrecht - Hoogeveen
+NLD E233 A28 NLD/DEU #      E233  Hoogeveen - Tyskland
 
+NLD A4 A10 A15 #            A4    Amsterdam - Rotterdam   +
+NLD A10 A4 16 #             A10   Amsterdam
 NLD A50 A15 A1 #            A50   Arnhem - Apeldoorm
+
+NLD S100Rot S103/S114 S113/S115 # S100  Rotterdam
+NLD S101Rot KorWeg S120 #         S101  Rotterdam
+NLD S102Rot A15 S101/S103 #       S102  Rotterdam         +
+NLD S103Rot S100/S114 A15/A29 #   S103  Rotterdam         +
+NLD S113Rot A13/A20 S100/S115 #   S113  Rotterdam
+NLD S115Ams S116/S117 BeeStr #    S115  Amsterdam
+NLD S116Ams A10 S115/S117 #       S116  Amsterdam
