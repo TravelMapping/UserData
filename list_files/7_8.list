@@ -273,21 +273,21 @@ LVA E22 P98 LieIela
 
 # Estonia
 
-# Estonia Põhimaanteed
+# Estonia 
 EST T2 T4 NarMaa_E
 EST T2 T1 JarTee
 EST T4 T8 T1/T2
 
 # France
 
-# Île-de-France Routes Départementales
+# 
 FRA-IDF D7-94 D107 D117
 FRA-IDF D7-94 VoieThi N186
 FRA-IDF D117-94 D7 D208
 
 # Iceland
 
-# Iceland Þjóðvegir
+# Iceland 
 ISL TH1 TH49_N TH36
 ISL TH1 TH215 TH49_S
 ISL TH30 TH1 TH359
