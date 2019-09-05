@@ -167,7 +167,7 @@ FL FL856 US1 FLA1A
 FL FL874 FL826 FLTpk
 FL FL907 FLA1A_S FLA1A_N
 FL FL907A I-195 FL907_N
-#  FL922 SansSouBlvd to FLA1A - no trackable segments
+FL FL922 SansSouBlvd FLA1A
 FL FL924 I-75 I-95
 #  FL933 NW2ndSt to NW3rdSt - no trackable segments
 FL FL934 FL9 FLA1A
