@@ -311,6 +311,8 @@ ND US85BusWat OldUS85 ND23_E
 ND US85 24thSt SceDr
 ND SceDr US85 OxbOve
 ND US85 SceDr 27thSt
+ND SceLpDr EastRivRd_N EastRivRd_W
+ND EastRivRd SceLpDr ParkRd
 ND I-94BLMed ParkRd I-94_E
 ND I-94 27 56
 ND ND22 I-94 ND200/22Bus
