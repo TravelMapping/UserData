@@ -579,6 +579,10 @@ NC NC60 NC/GA US64/74
 NC NC69 GA/NC US64
 NC NC147 14 16
 NC RalChaExpy I-40 I-440
+OK I-35 TX/OK 15
+OK US70 US69/75 OK32
+OK US75 TX/OK US70
+OK OK32 US70 I-35
 PA I-76 327 331
 PA I-81 MD/PA 3
 PA I-83 MD/PA 19
@@ -653,6 +657,22 @@ TN US70 1stAve KorVetBlvd
 TN US74 I-75(2) I-75(20)
 TN US64BypCle TN60/311_S US64_E
 TN TN60 GA/TN I-75
+TX I-30 45B 46B
+TX I-35Gai 467 TX/OK
+TX I-35E 425C 428E
+TX I-35E 440 467
+TX I-45 283 284A
+TX I-635 13 36
+TX US75 I-30 ForLn
+TX US75 AraRd TX/OK
+TX US287 TX114_E US287BusDec_N
+TX TX114 TX121_S US81/287_N
+TX TX121 I-635 TX114_W
+#  TX180 DavAve MarAve - supposedly no longer a state highway, but still signed?
+TX TX289 ForLn RoyLn
+TX TXLp12 DalNorThwy US75 # actual west end is Inwood Rd
+TX TXSpr366 US75 FieSt # counts service roads; if they don't count, truncate to PeaSt
+#  FM156 TX114 DouEagBlvd - not sure if there are plans to include FM roads at some point
 VT I-89 NH/VT 8
 VT US2 US2Bus_W MemDr
 VT US2BusMon US2_W TaySt
