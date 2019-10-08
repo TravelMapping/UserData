@@ -202,7 +202,7 @@ md i-895 13 15
 MI I-69 IN/MI mi/can
 MI I-75 OH/MI mi/can
 MI I-94 IN/MI MI/Can
-MI I-96 1a I-75_N
+MI I-96 1a I-75
 MI I-194 1 hamave
 MI I-196 i-94 i-96
 MI I-275 i-75 165(96)
@@ -901,7 +901,7 @@ il il394 il1_s i-80/94
 IN US6 IL/IN in/oh
 in us12 il/in in/mi
 in us20 il/in in13
-in us24 i-69 in/oh
+in us24 i-69(302) in/oh
 in us27 in44_w i-69
 IN US30 IL/IN IN/OH
 IN US31 2(465) 234
@@ -1154,7 +1154,7 @@ KY US641 TN/KY US641Spr
 KY US641SprBen US641 JulMCPkwy
 ky ky1 us23 i-64
 ky ky3 donbrard us23_s
-ky ky8 ky10 us23
+ky ky8van ky10 us23
 ky ky8sspo ky8 ky/oh
 ky ky10 ky8 ky/oh
 ky ky11 ky11bus/32 ky324
@@ -1229,11 +1229,15 @@ MA US1 MA286 MA/NH
 md us1 md161 md222
 md us1busbel us1_s us1_n
 MD US13 VA/MD MD/DE
+md us13buspoc us13_s us13_n
+md us13bussal us13_s us13_n
 md us40 pa/md i-70(9)
 md us40 i-70(53) i-70(82)
 MD US40 i-695(15) MD/DE
 md us50 md8 us113
+md us50bussal us50_w us50_e
 md us113 us13 md/de
+md us113bussno us113_s us113_n
 md us301 md8 md313
 md md42 us219 md/pa
 md md155 md161 us40/7
@@ -1241,7 +1245,7 @@ md md161 md155 us1
 md md222 us40 us1
 md md272 us40 md/pa
 md md763 md155 junst
-md md896 pa/md md/de
+md md896 de/md md/pa
 ME US1 NH/ME ME91
 ME ME4 NH/ME ME236_S
 ME ME91 US1 ME236
@@ -1250,6 +1254,7 @@ MI US2iro wi/mi MI/WI
 MI US2 WI/MI US8
 MI US2 US41_S i-75
 MI US8 WI/MI US2
+mi us2busiro wi/mi us2
 mi us10 laust i-75
 mi us10busree us10_w us10_e
 mi us10busmid us10_w us10_e
@@ -1265,6 +1270,14 @@ mi us31bushar us31 johnst
 MI US41 WI/MI FortWilSP
 MI US45 US2 OntSt
 mi us127 oh/mi i-75
+mi us127busjac us127_s us127_n
+mi us127busstj us127_s us127_n
+mi us127busith us127_s us127_n
+mi us127busalm us127_s us127_n
+mi us127busstl us127_s us127_n
+mi us127busmou us127_s us127_n
+mi us127buscla us127_s us127_n
+mi us127bushar us127_s us127_n
 mi us131 in/mi us31
 mi us131buscon us131_s us131_n
 mi us131busthr us131_s us131_n
@@ -1707,8 +1720,8 @@ oh us6 oh528 oh11
 oh us6busnap us6_w us6_e
 OH US20 us127_s OH511_Obe
 oh us20 us42 oh/pa
-oh us20altmau oh15_s us127
-oh us20altmau oh109 us20_e
+oh us20altmau oh15_s us127_n
+oh us20altmau oh109_n us20_e
 oh us22 220 oh/wv
 oh us23 ky/oh highst_s
 oh us23 us62 us40/62
@@ -1839,7 +1852,7 @@ pa us30 pa168 pa462_e
 pa us40 wv/pa pa519
 pa us40 pa281_s pa/md
 pa pa5 pa832 pa5alteri_e
-pa pa5alt_eri pa5_w pa5_e
+pa pa5alteri pa5_w pa5_e
 pa pa68 oh/pa pa168_s
 pa pa168 pa68_w us30
 pa pa174 us11/533 i-81
@@ -2000,7 +2013,7 @@ TX TX121 I-35W/287 US75
 tx tx124 tx87 us69
 tx tx137 fm307 i-20bl
 tx tx176 us385 fm1788
-tx tx302 us385 tx18
+tx tx302 us285 tx18
 UT US6 nv/ut UT/CO
 ut us40 us191_s ut/co
 ut us50 nv/ut us6_e
@@ -2101,7 +2114,7 @@ WV US33 I-77(146) FroCrkRd
 wv us40 oh/wv wv/pa
 wv us50 oh/wv wv16
 WV US50 US19 I-79(119)
-wv us250 oh/wv wv7
+wv us250 oh/wv wv7_e
 wv us250 us19 i-79
 wv wv2 wv16 us22_w
 wv wv7 oh/wv wv2_s
