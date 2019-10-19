@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2019-09-03
+#Last updated 2019-10-13
 
 #United States
 #Alabama
@@ -472,9 +472,8 @@ NY I-95 NJ/NY NY/CT
 NY I-295 NY25 I-95
 NY I-495 2ndAve 73
 NY I-695 I-295 I-95
-NY I-895 I-278 I-95
 NY I-99 PA/NY I-86
-NY US1 NJ/NY I-95(2B)
+NY US1 NJ/NY NY/CT
 NY US2 US11 NY/VT
 NY US4 US9/20 NY/VT
 NY US6 PA/NY NY/CT
@@ -501,12 +500,13 @@ NY BearMtnPkwyYor US202 TacStaPkwy
 NY BerCon I-87 NY/MA
 NY BetStaPkwy B1 PlaRd
 NY BroRivPkwy 1(S) TacStaPkwy
+NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
 NY FDRooDr I-478 17
 NY GarStaPkwy NJ/NY I-87/287
 NY GraCenPkwy 45(278) Que/Nas
 NY HarRivDr 17 10thAve
-NY HenHudPkwy 8 23
+NY HenHudPkwy 8 Bro/Wes
 NY HutRivPkwy 1 NY/CT
 NY JacRobPkwy JamAve 7
 NY KorWarPkwy NY440(1) DruRd
@@ -516,15 +516,18 @@ NY LakeWelDr SevLakDr PalIntPkwy
 NY LaSExpy I-190(21) WilRd
 NY LoopPkwy LidoBlvd MeaStaPkwy
 NY MeaStaPkwy BayPkwy NorStaPkwy
+NY MosPkwy SouBlvd HenHudPkwy
 NY NiaScePkwy FinDr NY18
 NY NiaScePkwyNia I-190 JohnDalyBlvd
 NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NorStaPkwy Que/Nas NY347/454
 NY OcePkwy MeaStaPkwy WanStaPkwy
 NY PalIntPkwy NJ/NY US6/9W
+NY PelPkwy US1 I-95
 NY ProMtnHwy US9 End
 NY RobMosCswy CapSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
+NY SawMillPkwy Bro/Wes I-684
 NY SevLakDr JohRd US9W/202
 NY SouPkwy WestRivPkwy I-190
 NY SouStaPkwy CroIslPkwy 31
@@ -592,7 +595,7 @@ NY NY19 PA/NY LakeOntSPkwy
 NY NY19TrkBro NY19_S NY19_N
 NY NY19A NY19_S NY19_N
 NY NY21 NY417 NY104
-NY NY22 NY119 US11
+NY NY22 US1 US11
 NY NY22A NY22 NY/VT
 NY NY22B NY22 NY3
 NY NY23 NY26 NY/MA
@@ -699,7 +702,7 @@ NY NY96A NY96 US20/5
 NY NY96B NY96_S NY13/96
 NY NY97 US6/209 NY17
 NY NY98 NY16_S LakeOntSPkwy
-NY NY100 NY119_E NY119_W
+NY NY100 I-87 NY119_W
 NY NY100 NY9A/141 US202
 NY NY103 NY5S NY5
 NY NY104 NY384 NY13
@@ -1005,6 +1008,7 @@ NY NY840 NY5/8 HalRd
 NY NY878 CroBayBlvd FarBlvd
 NY NY878Far BayAve AtlBeaBr
 NY NY890 I-890 NY5
+NY NY895 I-278 I-95
 NY PA44Cer PA/NY NY417
 NY PA434Bar PA/NY NY55/97
 
