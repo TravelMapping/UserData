@@ -2565,22 +2565,35 @@ CO US287 US24_W I-70(288)
 # 1978 trip excerpts
 
 # Orly
-FRA N7Orl A106 AirOrly
-FRA A106 4 A6a/A6b # A106 and A6a/A6b do not technically have a...
-FRA A6a BlvdPer A106 # ...common point, ask forum?
-FRA BP A6a A13
+## FRA N7Orl A106 AirOrly
+## FRA A106 4 A6a/A6b
+## FRA A6a BlvdPer A106
+## FRA BP A6a A13
+FRA-IDF N7 A106 AirOrly
+FRA-IDF A106 4 A6a/A6b # A106 and A6a/A6b do not technically have a...
+FRA-IDF A6a BlvdPer A106 # ...common point, ask forum?
+FRA-IDF BP A6a A13
 # Paris - Versailles
-FRA A13 BlvdPer 6
-# FRA D186 AveRockefeller A13
-FRA BP A13 19
+## FRA A13 BlvdPer 6
+FRA-IDF A13 BlvdPer 6
+## FRA D186 AveRockefeller A13
+FRA-IDF D186-78 A13 AveRoc_S
+## FRA BP A13 19
+FRA-IDF BP A13 19
 
-FRA A4 BlvdPer A86_S
-FRA A86 A4_W N406
-FRA N406 A86 N19
-FRA N19Mar N406 N104
+## FRA A4 BlvdPer A86_S
+## FRA A86 A4_W N406
+## FRA N406 A86 N19
+## FRA N19Mar N406 N104
+FRA-IDF A4 BlvdPer A86_S
+FRA-IDF A86 A4_W N406
+FRA-IDF N406 A86 N19
+FRA-IDF N19 N406 N104
 
-FRA N57 61 D67bis
-# FRA D67B N57 FRA/CHE
+## FRA N57 61 D67bis
+## FRA D67B N57 FRA/CHE
+FRA-BFC N57 61 D67bis
+# FRA-BFC D67B N57 FRA/CHE
 CHE H10 FRA/CHE A1(31)
 # alternates reunite
 CHE A1 31 48
