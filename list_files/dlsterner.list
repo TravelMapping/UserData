@@ -16,13 +16,14 @@
 #     Do not have to be the driver, but at least semi-aware.
 #     Not counting roads taken by motor coach.  Too hard to verify.
 #     Not worried about short jaunts off an interstate highway looking
-#        gas or food if a short distance.
+#        for gas or food if a short distance.
 #     Concurrencies:  Both numbers listed only if significant.
 #        "Travel Mapping" will automatically include any concurrencies.
 #        The predecessor "Clinched Highway Mapping" didn't necessarily
 #        do them automatically - they had to be listed separately.
 #
 #  Last updated:  Apr 02, 2019
+#  Last updated:  Oct 13, 2019
 #
 ############################################################
 #
@@ -40,6 +41,7 @@ CA I-280 9 49B
 CA I-405 42A 63C
 
 CT I-84 NY/CT CT/MA
+CT I-91 32A CT/MA
 CT I-95 NY/CT CT/RI
 
 DE I-95 MD/DE DE/PA
@@ -87,7 +89,10 @@ KY I-275 84 KY/IN
 
 LA I-10 266 LA/MS
 
-ME I-95 0 3
+ME I-95 0 182
+ME I-295 11 28
+ME I-395 1 6
+ME I-495 I-95 I-295
 
 MD I-68 WV/MD 82
 MD I-70 PA/MD 94
@@ -95,7 +100,7 @@ MD I-81 WV/MD MD/PA
 MD I-83 1 MD/PA
 MD I-95 DC/MD MD/DE
 MD I-97 1 17
-MD I-195 TerRd 4
+MD I-195 TerRd 4     # Also traveled on former designation MD46
 MD I-270 I-495 32
 MD I-270SprAsh I-495 2
 MD I-295 I-95/495 MD/DC
@@ -111,12 +116,12 @@ MD I-895SprFer I-895Spr I-695
 MD I-895SprFur 6 6B
 
 MA I-84 CT/MA I-90
-MA I-90 NY/MA 4
-MA I-90 9 11A
-MA I-91 14 MA/VT
+MA I-90 NY/MA 11A
+MA I-91 CT/MA MA/VT
 MA I-93 44 MA/NH
 MA I-95 4 6
 MA I-95 59 MA/NH
+MA I-290 7 26
 MA I-295 RI/MA 2
 MA I-495 13 I-95
 
@@ -144,14 +149,14 @@ NH I-95 MA/NH NH/ME
 
 NJ I-76 PA/NJ 1A
 NJ I-78 PA/NJ 29
+NJ I-80 PA/NJ 43
 NJ I-95 PA/NJ 7
 NJ I-287 21 NJ/NY
 NJ I-295 DE/NJ 56
 
 NY I-81 PA/NY NY/Can
 NY I-84 PA/NY NY/CT
-NY I-87 8(NYST) 15(NYST)
-NY I-87 17(NYST) 1
+NY I-87 8(NYST) 7
 NY I-88 0 25A
 NY I-90 25A(NYST) NY/MA
 NY I-95 22 NY/CT
@@ -191,18 +196,19 @@ PA I-70 WV/PA PA/MD
 PA I-76 OH/PA PA/NJ
 PA I-78 1 PA/NJ
 PA I-79 0 116
-PA I-80 OH/PA 277
+PA I-80 OH/PA PA/NJ
 PA I-81 MD/PA PA/NY
 PA I-83 MD/PA 51
 PA I-84 0 PA/NY
 PA I-95 DE/PA 7
+PA I-95 40 PA/NJ
 PA I-99 1 MusLn
 PA I-176 0 11
 PA I-180 I-80 29
 PA I-276 326 PA/NJ
 PA I-283 0 3
 PA I-376 85 I-76
-PA I-380 24 I-81
+PA I-380 1 I-81
 PA I-476 0 131
 
 RI I-95 CT/RI 11
@@ -223,7 +229,7 @@ TN I-75 2 TN/KY
 TN I-81 1 TN/VA
 TN I-640 I-40_W I-40_E
 
-VT I-89 NH/VT 0A
+VT I-89 NH/VT 10
 VT I-91 MA/VT 10
 VT I-91 19 VT/Can
 VT I-93 NH/VT I-91
@@ -293,9 +299,10 @@ DC SuiPkwy SCapSt DC/MD
 
 FL FLTpk 49 93
 FL FLTpk 109 309
-FL FLMainParkRd FL9336 End
+FL MainParkRd FL9336 End
 
 MD BalWasPkwy US50/201 MD175
+MD CabJohnPkwy ClaBarPkwy I-495
 
 NV CR215 12 17
 
@@ -303,16 +310,21 @@ NJ NJTpk I-295(1) 4
 NJ NJTpk 6 7
 
 NC BlueRidPkwy US25 US70
-NC CliDomeRdLuf TN/NC NC/TN
-NC CliDomeRd TN/NC NC/TN
-NC CliDomeRdCli TN/NC CliDomeTrl
-
-TN CliDomeRdNew NewGapRd TN/NC
-TN CliDomeRd NC/TN TN/NC
-TN CliDomeRdCol NC/TN TN/NC
 
 VA GWMemPkwy MarDr I-395
 VA SkyDr US33 US211
+
+# Clingman's Dome Road is unusual. It starts in Tennessee but
+# is mostly in North Carolina.  Even so, it crosses the border
+# (unmarked) several times.  Because of this, it seems clearer
+# to list it separately, rather than split between TN and NC.
+
+TN CliDomeRdNew NewGapRd TN/NC
+NC CliDomeRdLuf TN/NC NC/TN
+TN CliDomeRd NC/TN TN/NC
+NC CliDomeRd TN/NC NC/TN
+TN CliDomeRdCol NC/TN TN/NC
+NC CliDomeRdCli TN/NC CliDomeTrl
 
 ############################################################
 #
@@ -427,8 +439,11 @@ KY US25E TN/KY I-75
 KY US421 I-75(97) I-75(99)
 
 ME US1 GovSt US1AltYor_S
+ME US1 I-295(28) ME3_E
+ME US302 NH/ME ME5/113
 
 ME US1AltYor US1_S ME103
+ME US1AltBan I-395(6) US1_E
 ME US1BypPor GorRd US1_N
 
 MD US1 US1AltWas MD144
@@ -474,6 +489,8 @@ MS US90 I-110(1A) MyrSt
 
 NV US93 AZ/NV I-15(42)
 NV US95 US93_S DecBlvd
+
+NH US302 NH113_W NH/ME
 
 NJ US30 CutRd I-295
 NJ US40 DE/NJ NJTpk_N
@@ -606,6 +623,10 @@ TN US70 US25/25E US321_W
 TN US74 I-75(2) I-75(20)
 TN US321 US25/70_N US441_N
 TN US441 NC/TN US411_N
+
+VT US2 MemDr I-91
+VT US4 WatHilRd I-89
+VT US5 VT119/142 I-91(3)
 
 VA US1 US1Trk_N VA10
 VA US1 I-295(43A) VA120
@@ -781,6 +802,7 @@ FL FL583 US92 FL580
 FL FL584 FL586 FL580
 FL FL589 1 2A
 FL FL589 10 54
+FL FL618 1A 15
 FL FL700 CanSt US98/441
 FL FL802 US441 FLTpk
 FL FL820 FLTpk 28thAve
@@ -791,7 +813,10 @@ FL FL9336 EveNP US1
 
 IA IA165 NE/IA IA/NE    # My most pathetic travel in a whole state! - Carter Lake IA
 
+ME ME3 US1_S ME233_E
+ME ME25 ME113 I-95
 ME ME103 ME236_Kit US1Alt
+ME ME113 ME25 US302_W
 ME ME236 ME103_Kit I-95
 
 MD MD2 LoreRd US1
@@ -812,7 +837,7 @@ MD MD22 I-95 US40
 MD MD24 US40 MD165
 MD MD26 MD97 NorPkwy
 MD MD27 MD108 I-70
-MD MD28 ShaGroRd MD182
+MD MD28 MD85 MD182
 MD MD30 MD140 MD/PA
 MD MD32 I-97 MD26
 MD MD41 MD147 WalWooRd
@@ -825,7 +850,7 @@ MD MD68 MD56 US40Alt
 MD MD70 MD450 End
 MD MD75 MD355 MD144
 MD MD80 I-270 MD27
-MD MD85 I-270 I-70
+MD MD85 MD28 MonBlvd
 MD MD90 US50 MD528
 MD MD97 US29/384 MD26
 MD MD97 MD140_W MD/PA
@@ -954,7 +979,10 @@ MI MI14 US23_S US23_N
 MI MI37 MI6 I-96(30)
 MI MI104 US31 I-96(10)
 
+NH NH16 NH112 NH113_Con
 NH NH101 I-93/293 I-95
+NH NH112 I-93 NH16
+NH NH113 NH112 NH/ME
 
 NJ NJ38 CutBlvd I-295
 NJ NJ41 US30 NJ73
@@ -962,6 +990,7 @@ NJ NJ70 NJ38 NJ73
 NJ NJ73 NJ41 NJ70
 
 NY NY7 NY79_E DKLifDr
+NY NY7 I-87(6) BenByp
 NY NY8 NY17 NY7
 NY NY17Bin 4A(81) 84
 NY NY28 NY23 NY80_E
@@ -997,6 +1026,7 @@ PA PA10 US1 I-176(1)
 PA PA16 US522 I-81
 PA PA23 US30_E US30_W
 PA PA34 PA94 US11_N
+PA PA39 I-81 US22_E
 PA PA41 US1 US30
 PA PA61 US222 PA895_E
 PA PA61 I-81 PA924
@@ -1042,6 +1072,9 @@ PA PA997 US30_E I-76
 TN TN66Sev US411/441 I-40
 TN TN73 US321 I-40
 
+VT VT9 VT279 I-91(3)
+VT VT279 NY/VT VT9
+
 VA VA3 US15Bus US301
 VA VA3BusFre VA3_W VA3_E
 VA VA5 VA106/156 BouSt_N
@@ -1052,7 +1085,9 @@ VA VA30 VA33_E US60
 VA VA33 I-64(205) I-64(220)
 VA VA33 VA30/249 US17Bus_N
 VA VA36 VA144 I-295
+VA VA55 US340/522 VA79
 VA VA76 VA288 I-195
+VA VA79 VA55 I-66
 VA VA100 US221 I-81(98)
 VA VA106 VA10/156 VA5/156
 VA VA123 I-95 VA286
@@ -1070,6 +1105,7 @@ VA VA895 I-95/150 I-295
 WV WV9 US522_N WV901
 WV WV9 US340_N US340_S
 WV WV24 US219 US50
+WV WV51 WV115 US340/9
 WV WV93 US50_W US220
 WV WV901 WV9 I-81
 
