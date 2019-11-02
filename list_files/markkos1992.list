@@ -1241,7 +1241,7 @@ MA US1 I-95(15) I-93(1)
 MA US1 StaSt MA/NH
 MA US3 I-95(33) I-95(32A)
 #State Routes
-MA MA1A MA113 US1_Sal #Change to StaSt if point request is done
+MA MA1ASal MA113 US1_Sal #Change to StaSt if point request is done
 MA MA110 BroSt US1/1A
 MA MA113 BriSt MA1A
 MA MA128 45(95) 12(95)
