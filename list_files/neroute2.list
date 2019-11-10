@@ -31,6 +31,7 @@ FL US23 US1/17 I-95
 FL US27 CR547 I-4
 FL US27 FL19 FLTpk(285)
    #south to Lakeridge Winery
+FL US27 FL200 US301/441_N
 #FL US41 Broadway Avenue I-4
 FL US41BusTam FL618(9) FL60_E
 FL US92 22ndAve 38thAve
@@ -75,6 +76,8 @@ FL FL60 I-75 LakDr
 FL FL94 FL985 FL826
 FL FL115 FL113 MLKJrPkwy
 FL FL139 FL115 US1/17
+FL FL200 I-75 US27/301
+   #and west to 44th Court
 FL FL206 I-95 US1
 FL FL400 I-4/95 US1
 FL FL405 US1_S FL407
@@ -100,6 +103,7 @@ FL FL438 FL429 RioGraAve
    #and west to Dillard Street where it's still signed
 #FL FL442 west of Old Mission Road
 FL FL482 I-4 FL528
+FL FL492 US27/301 8thAve
 FL FL526 WasSt_E MagBlvd
 FL FL527 FL482 GoreSt
 FL FL527Win US17/92_S US17/92_N
