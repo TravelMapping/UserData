@@ -136,7 +136,7 @@ FL FL24 I-75 FL121
 FL FL26 I-75 FL26A_E
 FL FL26A FL121 FL26_E
 FL FL40 US27/301 25thAve
-FL FL44 US17/92 PalSt
+FL FL44DeL US17/92 PalSt
 FL FL44NSB WasSt PenAve
 FL FL51 CR136 US129
 FL FL70 I-95 FL713
@@ -632,7 +632,7 @@ SC SC4 SC118/302 US301/601_N
 SC SC6 US321_S I-26
 SC SC19 SC118 I-20
 SC SC30 US17 3
-SC SC118 SC19 SC4/302
+SC SC118 SC19_N SC4/302
 SC SC162 DixPlaRd US17
 SC SC171 SC30 SC700_E
 SC SC700 RivRd US17
@@ -670,7 +670,7 @@ TX TX114 TX121_S US81/287_N
 TX TX121 I-635 TX114_W
 #  TX180 DavAve MarAve - supposedly no longer a state highway, but still signed?
 TX TX289 ForLn RoyLn
-TX TXLp12 DalNorThwy US75 # actual west end is Inwood Rd
+TX TXLp12 DalNorTlwy US75 # actual west end is Inwood Rd
 TX TXSpr366 US75 FieSt # counts service roads; if they don't count, truncate to PeaSt
 #  FM156 TX114 DouEagBlvd - not sure if there are plans to include FM roads at some point
 VT I-89 NH/VT 8
