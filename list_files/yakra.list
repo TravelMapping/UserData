@@ -99,7 +99,6 @@ NY I-790 NY8/12 GenSt
 NY I-890 7 1B
 NY I-95 0 999
 NY I-495 15 57
-NY I-895 0 999
 PA I-70 161(76) 148
 PA I-76 161 312
 PA I-76 328 999
@@ -760,6 +759,7 @@ NY NY495 NJ/NY W34thSt #Don't remember actual endpoint but this seems most plaus
 NY NY590 5 TitAve
 NY NY878 I-678 FarBlvd
 NY NY890 I-890 NY5
+NY NY895 I-278 I-95
 NY BeltPkwy 17 19
 NY BroRivPkwy 5(S) TacStaPkwy
 NY CroCouPkwy 1 HutRivPkwy
