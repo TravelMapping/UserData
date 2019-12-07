@@ -248,6 +248,8 @@ GA GA400 1A 7
 #GA GA515 (concurrency with GA5)
 GA GA520 US17_N RivDr
 
+GA GA5ConKen I-75 US41
+#actually only to Roberts Blvd, but close enough
 GA GA10LpAth 1 6
 GA GA141ConAtl GA237 GA141
 
