@@ -221,11 +221,27 @@ DEU-HB E234Mah NI/HB HB/NI #E234  Bremen              +
 DEU-NI E234 HB/NI 22(A27) # E234  Bremen
 
 #Slesvig-Holsten
-DEU-SH B199 L96_W B200_S #  B199  Flensborg
-DEU-SH B200 DNK/DEU A7 #    B200  Flensborg
+DEU-SH A21 6 13 #               A21   Nettelsee-Bad Segeberg
+
+DEU-SH B76 L265 B404 #          B76   Eckernförde - Kiel
+DEU-SH B199 L96_W B200_S #      B199  Flensborg
+DEU-SH B200 DNK/DEU A7 #        B200  Flensborg
+DEU-SH B404Kie B76/B202 A21(6) #B404  Kiel                +
+DEU-SH B432Gla K99 SH/HH #      B432  Hamborg
+DEU-SH B432Tan HH/SH SH/HH #    B432  Hamborg             +
+DEU-SH B432 HH/SH A21 #         B432  Hamborg-Bad Segeberg
+DEU-SH B433 HH/SH HH/SH #       B433  Hamborg             +
+
+DEU-SH L265 A7 B76 #            L265  Eckernförde
 
 #Hamborg
+DEU-HH Ring3 A7/A23 HH/SH # O3    Hamborg NV
+
 DEU-HH A261 1 HH/NI #       A261  Hamborg           +
+
+DEU-HH B432DuW SH/HH HH/SH #B432  Hamborg           +
+DEU-HH B432DuN SH/HH HH/SH #B432  Hamborg           +
+DEU-HH B433 SH/HH SenStr #  B433  Hamborg
 
 #Nedersaksen
 DEU-NI A28 24 26 #          A28   Bremen
