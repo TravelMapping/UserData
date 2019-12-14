@@ -22,10 +22,12 @@ DNK MRSja RinGade_N O_NaeN #    Næstved
 #Svendborg
 DNK MRSve PR44_Oll RanVej_E #   PR44 - Rantzausminde
 DNK MRSve PR43_N NySteVej_N #   PR43
+DNK MRSve SR329_Fal PR8_W #     Horne
 #Odense
 DNK MROde PR28_FreW KobGade_N # Fredericia
 DNK MROde KobGade_S SR161_W #   Fredericia - gl Lillebæltsbro
 DNK MROde AssVej_W AssVej_E #   Middelfart
+DNK MROde SR329_Buk FroVej_W #  Glamsbjerg
 DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR163_S SteVej_E #    Lundeborg
@@ -36,6 +38,7 @@ DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 DNK MR PR8_Son AabVej #         Sønderborg
 DNK MR RonVej SR401_KruE #      Flensborg Fjord
 DNK MR KelVej_W TonVej_W #      Kelstrup - Marstrup
+DNK MR PR42_W SR170_Gen #       Aabenraa - Genner
 DNK MR HamByGade_N KolVej_Ves # Hammelev - Vester Nebel
 DNK MR EgtVej BogVej_W #        Egtved
 DNK MR KolVej_Bil PR28/30 #     Billund
@@ -128,7 +131,7 @@ DNK SR168 O2 E20 #          168 Odense                    --
 DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                --
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
 DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
-DNK SR329 PR8 E20 #         329 Faaborg - Aarup           
+DNK SR329 PR8 SR161 #         329 Faaborg - Aarup           
 DNK SR335 PR8 E20 #         335 Svendborg - Vissenbjerg   
 
 #Jylland
@@ -138,8 +141,9 @@ DNK OKol SR191_W SR191 #    O   Kolding                   +
 #PR
 DNK PR8 EllVej E45_N #      8   Sønderborg - E45          
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
-DNK PR24 E45 PR42 #         24  Rødekro - Aabenraa        --
-DNK PR25 SR403 KolVej_W #   25  Jels - Vamdrup            
+DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
+DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
+DNK PR25 E45 SR170 #        25  Kolding S                 -2
 DNK PR41 E45 PR8 #          41  Aabenraa - Sønderborg     +
 DNK PR42 PR24 E45 #         42  Aabenraa - E45            
 DNK PR47 PR24/25 SR170 #    47  Gabøl - Haderslev         +
@@ -149,7 +153,7 @@ DNK SR179 KasVej SR429 #    179 Paintball - Hellevad
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
 DNK SR401 MR_KruE E45 #     401 Kruså                     
-DNK SR403 PR25 SR435 #      403 Jels - Marstrupvej        
+DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +        
 DNK SR429 SR175/179 PR24 #  429 Hellevad - Rødekro        
 DNK SR435 SR170 RanVej #    435 Haderslev - Agerskov      
 DNK SR437 KonVej HarByVej # 437 Rødding - Harreby         
@@ -172,9 +176,9 @@ DNK PR30 SR176 8(18) #      30  Give
 DNK SR176 SR170 PR18 #      176 Kolding - Give
 DNK SR181 SR431_E BejVej #  181 Varde - Nissum Fjord
 DNK SR195 HerMot_W FreGade #195 Herning
-DNK SR417 StuVej SR469 #    417 Billund
+DNK SR417 StuVej AsboVej #  417 Billund - Bække
 DNK SR431 SR475 SR181_N #   431 Varde
-DNK SR469 SR417 KroVej #    469 Billund
+DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
 DNK SR475 RibeVej SR431 #   475 Varde
 DNK SR569 PR11 MR_Fje #     569 Fjerritslev
 
@@ -219,11 +223,27 @@ DEU-HB E234Mah NI/HB HB/NI #E234  Bremen              +
 DEU-NI E234 HB/NI 22(A27) # E234  Bremen
 
 #Slesvig-Holsten
-DEU-SH B199 L96_W B200_S #  B199  Flensborg
-DEU-SH B200 DNK/DEU A7 #    B200  Flensborg
+DEU-SH A21 6 13 #               A21   Nettelsee-Bad Segeberg
+
+DEU-SH B76 L265 B404 #          B76   Eckernförde - Kiel
+DEU-SH B199 L96_W B200_S #      B199  Flensborg
+DEU-SH B200 DNK/DEU A7 #        B200  Flensborg
+DEU-SH B404Kie B76/B202 A21(6) #B404  Kiel                +
+DEU-SH B432Gla K99 SH/HH #      B432  Hamborg
+DEU-SH B432Tan HH/SH SH/HH #    B432  Hamborg             +
+DEU-SH B432 HH/SH A21 #         B432  Hamborg-Bad Segeberg
+DEU-SH B433 HH/SH HH/SH #       B433  Hamborg             +
+
+DEU-SH L265 A7 B76 #            L265  Eckernförde
 
 #Hamborg
+DEU-HH Ring3 A7/A23 HH/SH # O3    Hamborg NV
+
 DEU-HH A261 1 HH/NI #       A261  Hamborg           +
+
+DEU-HH B432DuW SH/HH HH/SH #B432  Hamborg           +
+DEU-HH B432DuN SH/HH HH/SH #B432  Hamborg           +
+DEU-HH B433 SH/HH SenStr #  B433  Hamborg
 
 #Nedersaksen
 DEU-NI A28 24 26 #          A28   Bremen
@@ -286,3 +306,56 @@ FIN Vt25 AppTie Vt1(24) # Vt25  Hangö - Lojo
 FIN Kt45 7 11 #           Kt45  Vanda - Korso         --
 FIN Kt45 Yt1403 Vt3 #     Kt45  Träskända - Hyvinge   --
 FIN Kt51 Kt50 Vt25 #      Kt51  Jorvas - Karis
+
+
+#USA
+
+#Puerto Rico
+PR PR3 PR955_F PR982 #    Luquillo - Del Rey
+PR PR191 PR3 PR9938_N #   Luquillo - El Yunque
+PR PR940 PR3_W PR983 #    Luquillo
+PR PR955 PR191 PR3_F #    Luquillo
+PR PR983 PR940 PR988_S #  Las Paylas            +
+PR PR988 PR191 PR983_W #  El Yunque - Las Paylas
+
+#Massachusetts
+MA I-90 24 MA1A #     Boston
+MA I-93 1 20 #        Boston
+MA I-95 RI/MA 45 #    Providence - Peabody
+
+MA MA1ASal I-90 MA129 #   Boston - Lynn
+MA MA1ASal MA22 MA107 #   Salem
+MA MA22 MA127 MA1A #      Salem
+MA MA107 MA114 MA1A #     Salem
+MA MA114 MA107 MA129 #    Salem
+MA MA127 MA22 MA127A_S #  Salem - Gloucester
+MA MA128 14 12(95) #      Gloucester - Boston
+MA MA129 LynnShoDr MA114 #Lynn - Salem
+MA MA133 MA128 MA127 #    Gloucester
+
+#Rhode Island
+RI I-95 CT/RI RI/MA # Connecticut - Massachusetts
+RI I-195 1 4 #        Providence
+
+#Connecticut
+CT US1 I-95(86) CT349 #     Groton  --
+CT US1 AllSt CT27 #         Mystic  --
+
+CT I-95 86 CT/RI #          Groton - Rhode Island
+
+CT CT12 I-95 CT184 #        Groton
+CT CT27 US1 CT234 #         Mystic
+CT CT215 ProHillRd US1_N #  Mystic
+CT CT349 US1 I-95 #         Groton
+
+#Kalifornien
+CA US101 406 431 #            Redwood City - San Francisco--
+CA US101 VanNessAve_N 450B #  San Francisco - San Quentin --
+
+CA I-280 54 5thSt #           San Fran
+CA I-580 2A 8B(80) #          San Quentin - Emeryville
+CA I-880 21 46B #             Newark - Emeryville
+
+CA CA82 CA84 WhiAve #         Redwood City
+CA CA84 CA82 I-880(21) #      Redwood City - Newark
+CA CA1 438(101) SeaDr #       San Fran - Muir Beach
