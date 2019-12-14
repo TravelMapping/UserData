@@ -1,4 +1,4 @@
-# Date: 2019-12-09
+# Date: 2019-12-10
 # ----------------
 
 
@@ -5028,7 +5028,7 @@ QC QC134 RueOnt BoulTas_N
 
 #DEU-NW  Düsseldorf Hbf               DEU-BY  Aschaffenburg Hbf
 
-#ENG     Birmingham Moor Street       ENG     Solihull
+#ENG StrLn BMO SOL   #Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma
 
@@ -5056,18 +5056,19 @@ QC QC134 RueOnt BoulTas_N
 
 #DEU-HE  ONE OR TWO ROUTES IN FRANKFURT I DON'T REMEMBER
 
-#ENG     London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
-#ENG     London Northern Line:       Edgware - Morden (via Bank, eastern branch)
-#ENG     London Northern Line:       Edgware - Leicester Square (western branch)
-#ENG     London Piccadelly Line:     Uxbridge - Cockfosters
-#ENG     London Metropolitian Line:  Uxbridge - Baker Street
-#ENG     London Circle Line:         Baker Street - Victoria
-#ENG     London Victoria Line:       Finsbury Park - Brixton
-#ENG     London District Line:       Aldgate East - West Ham
-#ENG     London Jubilee Line:        West Ham - Baker Street
-#ENG     London Central Line:        West Ruislip - Oxford Circle
-#ENG     Newcastle Airport           ENG     South Hylton
-#ENG     Newcastle St James          ENG     South Shields                               #whole loop
+#ENG BakLn HRW EPH     #London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
+#ENG NorLnBar CTN MDN  #London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
+#ENG NorLnEdg EGW LSQ  #London Northern Line:       Edgware - Leicester Square (western branch)
+#ENG PicLnUxb UXB ACT  #London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
+#ENG PicLnHT5 ACT CKS  #London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
+#ENG MetLnUxb UXB BAS  #London Metropolitian Line:  Uxbridge - Baker Street
+#ENG CirLn BAS VIC     #London Circle Line:         Baker Street - Victoria (via Aldgate)
+#ENG VicLn FPK BRX     #London Victoria Line:       Finsbury Park - Brixton
+#ENG DisLnRic ALE WEH  #London District Line:       Aldgate East - West Ham
+#ENG JubLn BAS WEH     #London Jubilee Line:        West Ham - Baker Street
+#ENG CenLnRui WRU OXC  #London Central Line:        West Ruislip - Oxford Circle
+#ENG YelLn SHL APT     #Newcastle Airport           ENG     South Hylton
+#ENG GreLn SJM SSS     #Newcastle St James          ENG     South Shields                               #whole loop
 
 #FRA-IDF Paris M1 La Defense         FRA-IDF Paris M1 Chateau de Vincennes
 #FRA-IDF Paris M7 La Couneuve        FRA-IDF Paris M7 Porte de Choisy
