@@ -325,11 +325,23 @@ FIN Kt45 Yt1403 Vt3 #     Kt45  Träskända - Hyvinge   --
 FIN Kt51 Kt50 Vt25 #      Kt51  Jorvas - Karis
 
 
+#ITALIEN
+
+ITA E80 A10/1 SS1_Civ #       Genua - Civitavecchia
+ITA E840 ViaVen SS125/199 #   Olbia
+ITA E840 SS125_N OlbCitFry #  Olbia
+
+ITA A12 A7 SR68 #             Genua - Livorno
+
+ITA SS125 SP73 ViaPunIst #    Olbia
+ITA SS698 A12 CivFer #        Civitavecchia
+
+
 #USA
 
 #Puerto Rico
 PR PR3 PR955_F PR982 #    Luquillo - Del Rey
-PR PR191 PR955 PR9938_N #   Luquillo - El Yunque
+PR PR191 PR955 PR9938_N # Luquillo - El Yunque
 PR PR940 PR3_W PR983 #    Luquillo
 PR PR955 PR191 PR3_F #    Luquillo
 PR PR983 PR940 PR988_S #  Las Paylas            +
