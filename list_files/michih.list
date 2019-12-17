@@ -1,4 +1,4 @@
-# Date: 2019-12-10
+# Date: 2019-12-17
 # ----------------
 
 
@@ -3333,7 +3333,7 @@ FRA-OCC A66 A61 4a
 FRA-OCC A68 A61/A62 11
 FRA-OCC A75 ARA/OCC A9
 FRA-OCC A620 A61 A62
-FRA-OCC A621 A620 RueMarDor
+FRA-OCC A621 A620 4
 FRA-OCC A624 A620 3
 FRA-OCC A645 A64 N125
 FRA-OCC A680 A68 D112
@@ -3349,6 +3349,7 @@ FRA-OCC N106 N113 D907B
 FRA-OCC N109 D619 D65
 FRA-OCC N113 D112 N106
 FRA-OCC N320 N20_N N22_W
+FRA-OCC N2621 A621 AveRome
 FRA-OCC D901 A624 A621
 FRA-OCC D902 A621 5
 FRA-OCC D980 A624 D120a
@@ -4243,7 +4244,7 @@ POL S1Mil DK1_N Zwa
 POL S3Ost Tro Ost
 POL S3 DK3_N A2
 POL S3Leg 47 54
-POL S5Raw 50 A8
+POL S5 50 A8
 POL S6 DW468 A1
 POL S6Kol A6 15
 POL S6Slu UliSzc UliGda
@@ -5045,6 +5046,10 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie
 #DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)
 #DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Österreichischer Platz
+#DEU-BW  Stuttgart Charlottenplatz   DEU-BW  Stuttgart Rotebühlplatz
+#DEU-BW  Stuttgart Pragfriedhof      DEU-BW  Stuttgart Charlottenplatz
+#DEU-BW  Stuttgart Löwentor          DEU-BW  Stuttgart Charlottenplatz (via Nordbahnhof)
+#DEU-BW  Stuttgart Wilhelmsplatz     DEU-BW  Stuttgart Löwentor
 #DEU-BW  Stuttgart Stadtmitte        DEU-BW  Esslingen
 
 #DEU-BY  München Hbf                 DEU-BY  München Südtiroler Straße
