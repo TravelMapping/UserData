@@ -185,19 +185,36 @@ DNK SR569 PR11 MR_Fje #     569 Fjerritslev
 
 #SVERIGE
 
-
 SWE E4 160 OceGat #   E4    Stockholm - Helsingborg
-SWE E6 101 85 #       E6    Munkedal - Göteborg
-SWE E22 12 51 #       E22   Malmø - Karlshamn
+SWE E6 101 12 #       E6    Munkedal - Malmø
+SWE E18 AlvVag SveGat #     Töcksfors - Grums
 SWE E20 DNK/SWE 74 #  E20   Danmark - Göteborg
 SWE E20 143 StoTalFry #E20  Södertälje - Stockholm Siljaline
+SWE E22 12 51 #       E22   Malmø - Karlshamn
+SWE E45 L166 75 #     E45   Mellerud - Göteborg
 
+SWE IRingVag TreVag R11 #   Malmø
+SWE TreVag 12 StaGat #      Malmø
 SWE AngLed LarVag 30 #      Helsingborg
 
+SWE R11 IRingVag E6/E20 #   Malmø
 SWE R29 R27_E E22 #   R29   Tingsryd - Karlshamn
+SWE R44 L172 O678 #         Uddevalla
+SWE R44 E45_N E45_S #       Trollhättan
 
 SWE L120 G781 L122 #  L120  Tingsryd - Rävemåla
+SWE L160 O710 E6 #          Tjörn
 SWE L165 NOR/SWE E6 # L165  Norge - Munkedal
+SWE L166 L172_N E45 #       Bäckefors - Mellerud
+SWE L168 MarFry E6 #        Marstrand             +
+SWE L172 R61 R44 #          Arvika - Uddevalla    +
+
+
+#NORGE
+
+NOR Fv21 Fv106 Rv21 #       Halden
+NOR Fv22 Rv21 NOR/SWE #     Halden
+NOR Fv106 Fv21 NOR/SWE #    Halden
 
 
 #TYSKLAND
@@ -232,7 +249,7 @@ DEU-SH B404Kie B76/B202 A21(6) #B404  Kiel                +
 DEU-SH B432Gla K99 SH/HH #      B432  Hamborg
 DEU-SH B432Tan HH/SH SH/HH #    B432  Hamborg             +
 DEU-SH B432 HH/SH A21 #         B432  Hamborg-Bad Segeberg
-DEU-SH B433 HH/SH HH/SH #       B433  Hamborg             +
+DEU-SH B433 HH/SH SH/HH #       B433  Hamborg             +
 
 DEU-SH L265 A7 B76 #            L265  Eckernförde
 
@@ -308,11 +325,23 @@ FIN Kt45 Yt1403 Vt3 #     Kt45  Träskända - Hyvinge   --
 FIN Kt51 Kt50 Vt25 #      Kt51  Jorvas - Karis
 
 
+#ITALIEN
+
+ITA E80 A10/1 SS1_Civ #       Genua - Civitavecchia
+ITA E840 ViaVen SS125/199 #   Olbia
+ITA E840 SS125_N OlbCitFry #  Olbia
+
+ITA A12 A7 SR68 #             Genua - Livorno
+
+ITA SS125 SP73 ViaPunIst #    Olbia
+ITA SS698 A12 CivFer #        Civitavecchia
+
+
 #USA
 
 #Puerto Rico
 PR PR3 PR955_F PR982 #    Luquillo - Del Rey
-PR PR191 PR3 PR9938_N #   Luquillo - El Yunque
+PR PR191 PR955 PR9938_N # Luquillo - El Yunque
 PR PR940 PR3_W PR983 #    Luquillo
 PR PR955 PR191 PR3_F #    Luquillo
 PR PR983 PR940 PR988_S #  Las Paylas            +
