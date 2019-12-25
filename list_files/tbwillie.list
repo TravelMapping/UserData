@@ -73,7 +73,7 @@ ct ct10 i-95 ct34_w
 ct ct11 ct2 4
 ct ct12 ct/ma i-95
 ct ct14 ct/ri ct66
-ct ct14a ct14_e ct12_s
+ct ct14a ct14_e ct14_w
 ct ct15 ny/ct i-84
 ct ct16 ct66 ct196
 ct ct17 ct2 i-91
@@ -95,8 +95,7 @@ ct ct41 ny/ct ct/ma
 ct ct49 ct2 ct14a
 ct ct58 ct302 ct15
 ct ct66 i-91 ct16
-ct ct66 ct196 ct316
-ct ct66 ct14 ct195
+ct ct66 ct196 ct14
 ct ct68 ct17 us5
 ct ct71 ct173 ct372
 ct ct71 us5 i-691
@@ -137,7 +136,7 @@ ct ct155 ct9 ct17
 ct ct156 ct82 us1_wat
 ct ct157 ct66 ct68
 ct ct159 ct/ma i-91(34)
-ct ct160 us5 rochlglafy_w 
+ct ct160 us5 rochlglafry_w 
 ct ct161 ct156 ct85
 ct ct163 ct32 ct2
 ct ct164 ct2 ct138
@@ -205,12 +204,13 @@ ct ct372 ct72_plaw ct71
 ct ct372 ct99 ct217
 dc i-66 va/dc us29
 dc i-95 va/dc dc/md
+dc i-295 md/dc 5
 dc i-395 us50 va/dc
 dc i-695 i-395 i-295/295
 dc us1 va/dc rhoislave_w
 dc us29 va/dc 11thave_s
 dc us29 dc/md 11thave_n
-de us50 va/dc dc/md
+dc us50 va/dc dc/md
 dc beadr rockcrkpkwy tidstnw
 dc gwmempkwy va/dc dc/va
 dc rockcrkpkwy linmemcir beadrnw
@@ -286,6 +286,8 @@ ma i-391 1 6
 ma i-395 ct/ma 7
 ma i-495 1 i-95
 ma lowcon us3 gorst
+ma solfierd harst stodr
+ma stodr solfierd ma28
 ma us1 ri/ma ma97
 ma us3 ma/nh ma3
 ma us5 ct/ma ma/vt
@@ -391,7 +393,7 @@ ma ma112 ma/vt us20
 ma ma113 ma3a_s roubr
 ma ma113 i-495 ma97_e
 ma ma114 i-495 i-95
-ma ma114asee ma/ri us6
+ma ma114asee ma/ri ri/ma
 ma ma115 ma140 ma27
 ma ma116 ma20a ma8
 ma ma117 ma12 us20
@@ -453,7 +455,7 @@ md i-95 22 md/de
 md i-295 md/dc i-95/495
 md i-395 i-95 mlkjblvd
 md i-395was i-395 md295
-md i-495 md/va 31
+md i-495 md/va 22
 md i-695 44 brohwy
 md i-895 i-95 15
 md us1 md410 md200
@@ -659,7 +661,6 @@ ny i-684pur i-287 ny/ct
 ny i-690 8 i-481
 ny i-695 i-295 i-95
 ny i-787 i-87 ny7_e
-ny i-895 i-278 i-95
 ny beltpkwy 3 11
 ny beltpkwy 20 25
 ny bercon ny/ma i-87
@@ -775,6 +776,7 @@ ny ny415 ny54_s cr11
 ny ny419 ny329 watglesp
 ny ny481 i-81/481 ny3
 ny ny635 ny5 ny298
+ny ny895 i-278 i-95
 
 nc us17 nc308_n nc/va
 oh i-80 in/oh oh/pa
@@ -845,7 +847,7 @@ ri us6 ct/ri ri/ma
 ri us6altjoh us6_w us6_e
 ri us44 us1_s ri/ma
 ri us44 ct/ri ri5
-ri ri1a us1_n ri102
+ri ri1a us1_n ri138
 ri ri1apro us1 ri114_n 
 ri ri1awes us1_s us1_n
 ri ri2 us1_n ri37
@@ -871,9 +873,7 @@ ri ri98 ri/ma ri100
 ri ri99 ri146 ri122
 ri ri100 ri/ma ri102
 ri ri101 ct/ri us6
-ri ri102 ri14_w ri5/146a
-ri ri102 i-95 ri3_s
-ri ri102 ri1a ri2_n 
+ri ri102 ri5/146a ri1a 
 ri ri103 ri/ma i-195
 ri ri103a ri103_w ri103_e
 ri ri104 ri122 us44
@@ -881,9 +881,9 @@ ri ri107 ri100 ri102
 ri ri112 ri138 ri91
 ri ri113 ri5 us1
 ri ri114 ri122 ri123
-ri ri114 shoexpy abbst
-ri ri114 ri103_barw ri24
+ri ri114 abbst ri138_w
 ri ri114a ma/ri ri114 
+ri ri114asep ri/ma ri114
 ri ri116 ri5/104_n us6
 ri ri117 ri14 brost
 ri ri120 ri/ma ri122
@@ -891,9 +891,9 @@ ri ri121 ri/ma ri114
 ri ri122 ri/ma ri123
 ri ri123 ri/ma ri114
 ri ri123 ri146 brost_n
-ri ri126 ri/ma ri122_n
-ri ri126 sayhillrd ri123_w
-ri ri138a ri138_w thast
+ri ri126 ri/ma ri123_w
+ri ri136 ri103 ri114 
+ri ri138a ri138_w ri138_e
 ri ri138 ri110 ri24(5)
 ri ri138 ct/ri ri112
 ri ri146 i-95 ri/ma
@@ -901,7 +901,7 @@ ri ri146a ri146_s ri/ma
 ri ri152 ri/ma us1alt
 ri ri165 ct/ri ri3
 ri ri216 ri/ct ri91_e
-ri ri238 ri138a_e ri138
+ri ri238 goatisrd ri138
 ri ri246 us1/44 ri116/146
 ri ri402 us1 ri2
 ri ri403 ri4 comparkrd
