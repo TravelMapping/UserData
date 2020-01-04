@@ -11,7 +11,7 @@ DNK E55 HelFry 44 #         E55 Helsingør - Falster
 #Sjælland
 DNK MRSja PR16_S O3_N #         Hillerød - Helsingør
 DNK MRSja KlaVej_E KlaVej_W #   Dyrehaven
-DNK MRSja SkoVej_W HumVej #     Furesø
+DNK MRSja LudVej_E VanVej #     Dyrehaven - Furesø - Vangede
 DNK MRSja TubVej VerGade_E #    København
 DNK MRSja VejAlle_E RabVej #    Amager - Ledøje
 DNK MRSja PR6_N O1_N #          Roskilde
@@ -74,7 +74,7 @@ DNK SR267 PR16 End #        267 Hillerød - Tisvilde       +
 #Rest Sjælland
 DNK O2Kob PR21_S PR21_W #   O2  København                 +
 DNK O3Kob PR16 SR151 #      O3  København S               
-DNK O4Kob EngVej E20/E47 #  O4  København S               
+DNK O4Kob E47/E55 E20/E47 # O4  København                 +
 DNK O1Ros FreVej_E KogeVej #O1  Roskilde Ø                
 DNK O2Ros PR6 PR14 #        O2  Roskilde                  +
 DNK ONae VorVej RinVej_W #  O   Næstved V                 +
@@ -111,8 +111,10 @@ DNK SR275 HavGade_S E47 #   275 Rødby
 DNK SR287 PR59_W SteVej #   287 Møn                       
 
 #Fyn
-DNK O1Ode NybVej MidVej #   O1  Odense S                  
-DNK O2Ode PR9_W SR161 #     O2  Odense S                  
+DNK O1Ode NybVej SR303_S #  O1  Odense C    --
+DNK O1Ode SR303_N KocGade_E#O1  Odense C    --
+DNK O2Ode PR9_W SR161 #     O2  Odense S    -2
+DNK O2Ode SR303 SR165 #     O2  Odense N    -2
 DNK O3Ode NieBohAlle BreVej #O3 Odense Ø                  
 #PR
 DNK PR8Faa E20 MR_W #       8   Nyborg - Horne            
@@ -126,20 +128,22 @@ DNK SR161 SR335 SR329 #     161 Vissenbjerg               --
 DNK SR161 E20(57) OstHougVej #161Nørre Aaby - Middelfart  --
 DNK SR161 PR28 SR170 #      161 Gl. L.bæltsbro - Kolding  --
 DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
+DNK SR165 MR_W O2 #         165 Munkebo - Odense
 DNK SR167 RarVej SR163_E #  167 Assensvej - Svendborg     
 DNK SR168 O2 E20 #          168 Odense                    --
 DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                --
+DNK SR303 O2 SR335 #        303 Odense - Morud
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
-DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
-DNK SR329 PR8 SR161 #         329 Faaborg - Aarup           
-DNK SR335 PR8 E20 #         335 Svendborg - Vissenbjerg   
+DNK SR323 SR329_S SR168/307#323Haarby - Assens           
+DNK SR329 PR8 SR161 #       329 Faaborg - Aarup           
+DNK SR335 PR8 SR303 #       335 Svendborg - Morud   
 
 #Jylland
 #Sønderjylland
 DNK OHad SR170_N PR47 #     O   Haderslev                 +
 DNK OKol SR191_W SR191 #    O   Kolding                   +
 #PR
-DNK PR8 EllVej E45_N #      8   Sønderborg - E45          
+DNK PR8 EllVej E45_N #      8   Sønderborg - E45
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
 DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
@@ -166,8 +170,10 @@ DNK OHer SR195_E SR195 #    O   Herning                   +
 DNK PR11 OstGade PR29_S #   11  Fjerritslev               --
 DNK PR11 MulByv PR28_E #    11  Spjald - Tarm             --
 DNK PR11 PR12_S E20 #       11  Varde - Esbjerg           --
-DNK PR15 PR18_N SR181 #     15  Herning - Søndervig
-DNK PR16 PR28_N PR15 #      16  Nissum Fjord - Ringkøbing
+DNK PR15 SR587 48(E45) #    15  Hornslet - Aarhus         -2
+DNK PR15 PR18_N SR181 #     15  Herning - Søndervig       -2
+DNK PR16 SR563 E45(40) #    16  Auning - Randers          3-
+DNK PR16 PR28_N PR15 #      16  Nissum Fjord - Ringkøbing 3-
 DNK PR18 8 PR15_E #         18  Give - Herning
 DNK PR28 E45 PR11_N #       28  Vejle - Skjern
 DNK PR29 E45 PR11_N #       29  E45 - Fjerritslev
@@ -180,6 +186,8 @@ DNK SR417 StuVej AsboVej #  417 Billund - Bække
 DNK SR431 SR475 SR181_N #   431 Varde
 DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
 DNK SR475 RibeVej SR431 #   475 Varde
+DNK SR547 StrVej PR16_W #   547 Fjellerup - Allingåbro
+DNK SR563 PR15 PR16 #       563 Hornslet - Auning
 DNK SR569 PR11 MR_Fje #     569 Fjerritslev
 
 
