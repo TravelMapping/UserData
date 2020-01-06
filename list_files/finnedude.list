@@ -37,9 +37,8 @@ DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 #kolding
 DNK MR PR8_Son AabVej #         Sønderborg
 DNK MR RonVej SR401_KruE #      Flensborg Fjord
-DNK MR KelVej_W TonVej_W #      Kelstrup - Marstrup
 DNK MR PR42_W SR170_Gen #       Aabenraa - Genner
-DNK MR HamByGade_N KolVej_Ves # Hammelev - Vester Nebel
+DNK MR KelVej_W  KolVej_Ves #   Kelstrup - Vester Nebel
 DNK MR EgtVej BogVej_W #        Egtved
 DNK MR KolVej_Bil PR28/30 #     Billund
 DNK MR SR569_Fje SleVej_N #     Fjerritslev
