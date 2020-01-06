@@ -51,7 +51,7 @@ MA I-495 1 1-95
 MS I-10 LA/MS MS/AL
 NV I-15 34 45
 NH I-89 I-93 NH/VT
-NH I-93 MA/NH 20
+NH I-93 MA/NH 42
 NH I-95 MA/NH NH/ME
 NJ I-78 PA/NJ 29
 NJ I-80 PA/NJ 68
@@ -164,3 +164,20 @@ CA US50 I-80BL(1A) SawRd
 CA US101 VanNessAve_N CA156_W
 
 CA CA1 511 US101_SLu
+
+
+##### International
+
+UGA M3 A109 EntRd
+UGA EA1 M3/A109 KabKisRd
+UGA EA1.8 MbaByp Kat
+
+BLZ AR1 BurBoomRd HumHwy
+BLZ AR2 IntAirRd BurBoomRd 
+BLZ AR3 GeoPriHwy SouHwy
+BLZ AR4 PlaRd HumHwy
+BLZ D200 GeoPriHwy PhiGolHwy
+
+CYM A1 A2 TownHallRd
+
+
