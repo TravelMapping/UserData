@@ -33,6 +33,7 @@ DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR163_S SteVej_E #    Lundeborg
 #Esbjerg
 DNK MREsb SR401_KruW E45 #      Kruså
+DNK MREsb E20_W SR447_E #       Esbjerg Midt
 DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 #kolding
 DNK MR PR8_Son AabVej #         Sønderborg
@@ -183,6 +184,7 @@ DNK SR181 SR431_E BejVej #  181 Varde - Nissum Fjord
 DNK SR195 HerMot_W FreGade #195 Herning
 DNK SR417 StuVej AsboVej #  417 Billund - Bække
 DNK SR431 SR475 SR181_N #   431 Varde
+DNK SR463 E20 SR431 #       463 Esbjerg - Oksbøl
 DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
 DNK SR475 RibeVej SR431 #   475 Varde
 DNK SR547 StrVej PR16_W #   547 Fjellerup - Allingåbro
