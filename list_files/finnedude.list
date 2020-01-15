@@ -31,6 +31,7 @@ DNK MROde SR329_Buk FroVej_W #  Glamsbjerg
 DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR163_S SteVej_E #    Lundeborg
+DNK MROde SR301_BirN E20(45) #  Tietgenbyen - Nyborg
 #Esbjerg
 DNK MREsb SR401_KruW E45 #      Kruså
 DNK MREsb E20_W SR447_E #       Esbjerg Midt
@@ -132,6 +133,7 @@ DNK SR165 MR_W O2 #         165 Munkebo - Odense
 DNK SR167 RarVej SR163_E #  167 Assensvej - Svendborg     
 DNK SR168 O2 E20 #          168 Odense                    --
 DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                --
+DNK SR301 MR_N PR9 #        301 Tietgenbyen
 DNK SR303 O2 SR335 #        303 Odense - Morud
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
 DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
