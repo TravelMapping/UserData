@@ -190,6 +190,8 @@ GA US41 UniAveSW I-75(252A)
 GA US41 I-75(255) WPacFerRdNW
 GA US41 I-285(19) WinHillRdSE
 #GA US76 (US 411 concurrency)
+GA US78 GA113 GA61/101
+GA US78 SweRd US278_W
 GA US78 GA70 US23_S
 GA US78 GA138 US29_AthS
 GA US80 AL/GA I-185
@@ -205,6 +207,7 @@ GA US441BusCla US23/441 GA17/115_N
 GA GA5 I-20 RoseAve_S
 #actual Concourse Pkwy-Arbor Crossing, but close enough
 GA GA5 GA5Bus/372 GA136
+GA GA6 US78/278 I-20
 GA GA9 I-285 HamDr
 GA GA9 NorRd GA120_W
 #GA120_W is actually King St, but close enough
@@ -218,7 +221,6 @@ GA GA23 I-16 LanSt
 #to the Zaxby's, but close enough
 GA GA42 US23/29 GA13
 GA GA61 I-20 US78_W
-#sight clinch last block from CFA
 #GA GA61 I-20 HickoryLevelRd
 GA GA70 US78/278 I-20
 GA GA74 I-85 SenRd_N
@@ -229,7 +231,7 @@ GA GA92 GA9/120 CraRd
 #GA GA92 CraRd WestwindBlvd
 #GA GA101 concurrency with GA 61
 GA GA105 US23/441 GA17
-GA GA113 I-20 HicLevRd
+GA GA113 HicLevRd US78
 GA GA115 GA254 GA105
 GA GA136 US411 GA5/515
 GA GA138 I-20 US78
