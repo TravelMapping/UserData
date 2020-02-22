@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2020-01-19
+#Last updated 2020-02-16
 
 #United States
 #Alabama
@@ -514,6 +514,7 @@ NY BearMtnPkwyYor US202 TacStaPkwy
 NY BerCon I-87 NY/MA
 NY BetStaPkwy B1 PlaRd
 NY BroRivPkwy 1(S) TacStaPkwy
+NY CroBayPkwy ShoFroPkwy CroBayBri
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
 NY FDRooDr I-478 17
@@ -536,6 +537,7 @@ NY NiaScePkwyNia I-190 JohnDalyBlvd
 NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NorStaPkwy Que/Nas NY347/454
 NY OcePkwy MeaStaPkwy WanStaPkwy
+NY OcePkwyBro SeaBreAve NY27
 NY PalIntPkwy NJ/NY US6/9W
 NY PelPkwy US1 I-95
 NY ProMtnHwy US9 End
@@ -543,6 +545,7 @@ NY RobMosCswy CapSP SouStaPkwy
 NY SagStaPkwy S4 NorStaPkwy
 NY SawMillPkwy Bro/Wes I-684
 NY SevLakDr JohRd US9W/202
+NY ShoFroPkwy Bea108thSt Bea73rdSt
 NY SouPkwy WestRivPkwy I-190
 NY SouStaPkwy CroIslPkwy 31
 NY SouStaPkwy 40 41A
@@ -624,7 +627,7 @@ NY NY25 CR58_W Ferry
 NY NY25A NY101 GlenCoveRd
 NY NY25A NY25_W NY111
 NY NY26 PA/NY NY12
-NY NY27 CroBayBlvd MeaStaPkwy
+NY NY27 1 MeaStaPkwy
 NY NY27 41 End
 NY NY27A NY231 RobMosCswy
 NY NY28 NY32 US9
@@ -725,7 +728,7 @@ NY NY103 NY5S NY5
 NY NY104 NY384 NY13
 NY NY104A NY104/370 NY104
 NY NY104B NY104 NY3
-NY NY106 NY107_S BroRd
+NY NY106 NY107_S NY107_N
 NY NY107 NY106_S NY106_N
 NY NY107 GlenCoveRd GlenCoveAve
 NY NY101 NY25A AstLn
@@ -1443,7 +1446,6 @@ QC QC132 QC116 QC175_S
 QC QC134 RueOnt BoulTas_N
 QC QC136 A-73 RueNotDame
 QC QC138Mon A-55 QC157
-QC QC138Mon QC360_A RueMan
 QC QC148 QC303_S BoulGre
 QC QC155 A-55 QC153
 QC QC157 QC138 A-40
