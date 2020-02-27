@@ -482,8 +482,8 @@ GA GA49 GA247Con I-75
    #west to Lilly Creek Road
 GA GA52 MainSt GA115_E
    #west to just past Ridge Road
-GA60 CooGapRd GA180
-GA60 OldDialRd OldUS76_E
+GA GA60 CooGapRd GA180
+GA GA60 OldDialRd OldUS76_E
 GA GA60BusDah GA60_S MainSt_W
 GA GA74 CraLn I-85
 GA GA75 US129 GA180
