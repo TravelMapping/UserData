@@ -692,22 +692,31 @@ TN US70 1stAve KorVetBlvd
 TN US74 I-75(2) I-75(20)
 TN US64BypCle TN60/311_S US64_E
 TN TN60 GA/TN I-75
+TX I-30 11 13
 TX I-30 45B 46B
 TX I-35Gai 467 TX/OK
 TX I-35E 425C 428E
 TX I-35E 440 467
+TX I-35W 52A 52B
 TX I-45 283 284A
 TX I-635 13 36
 TX US75 I-30 ForLn
 TX US75 AraRd TX/OK
 TX US287 TX114_E US287BusDec_N
 TX TX114 TX121_S US81/287_N
-TX TX121 I-635 TX114_W
+TX TX121 I-35W/287 TX183_E
+TX TX121 TX114_W TX26/2499
 #  TX180 DavAve MarAve - supposedly no longer a state highway, but still signed?
+TX TX183 I-820(24A) TXSpr97
 TX TX289 ForLn RoyLn
 TX TXLp12 DalNorTlwy US75 # actual west end is Inwood Rd
+TX TXSpr97 TX183 TX114/121
+TX TXSpr280 6thSt I-35W
+#  TXSpr347 I-35W HamSt - not long enough for a segment
 TX TXSpr366 US75 FieSt # counts service roads; if they don't count, truncate to PeaSt
 #  FM156 TX114 DouEagBlvd - not sure if there are plans to include FM roads at some point
+#  FM2499 TX121 FM3040
+#  FM3040 FM2499 LakeForBlvd
 VT I-89 NH/VT 8
 VT US2 US2Bus_W MemDr
 VT US2BusMon US2_W TaySt
