@@ -153,6 +153,7 @@ DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
 DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
 DNK PR25 E45 SR170 #        25  Kolding S                 -2
+DNK PR32 SR403 SR417 #      32  Vejen - Foldingbro
 DNK PR41 E45 PR8 #          41  Aabenraa - Sønderborg     +
 DNK PR42 PR24 E45 #         42  Aabenraa - E45            
 DNK PR47 PR24/25 SR170 #    47  Gabøl - Haderslev         +
@@ -161,7 +162,6 @@ DNK SR170 AlmOstGade DNK/DEU #170Viuf - Tyskland
 DNK SR175 PR25 SR419 #      175 Toftlund - Skærbæk
 DNK SR179 KasVej SR429 #    179 Paintball - Hellevad      
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
-DNK SR191 SR403_S SR425_S # 191 Vejen - Holsted           --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
 DNK SR401 MR_KruE E45 #     401 Kruså                     
 DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +        
