@@ -161,6 +161,7 @@ DNK SR170 AlmOstGade DNK/DEU #170Viuf - Tyskland
 DNK SR175 PR25 SR419 #      175 Toftlund - Skærbæk
 DNK SR179 KasVej SR429 #    179 Paintball - Hellevad      
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
+DNK SR191 SR403_S SR425_S # 191 Vejen - Holsted           --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
 DNK SR401 MR_KruE E45 #     401 Kruså                     
 DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +        
@@ -189,6 +190,7 @@ DNK SR176 SR170 PR18 #      176 Kolding - Give
 DNK SR181 SR431_E BejVej #  181 Varde - Nissum Fjord
 DNK SR195 HerMot_W FreGade #195 Herning
 DNK SR417 StuVej AsboVej #  417 Billund - Bække
+DNK SR425 HedVej PR28/30 #  425 Holsted - Billund
 DNK SR431 SR475 SR181_N #   431 Varde
 DNK SR463 E20 SR431 #       463 Esbjerg - Oksbøl
 DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
@@ -350,6 +352,17 @@ ITA A12 A7 SR68 #             Genua - Livorno
 
 ITA SS125 SP73 ViaPunIst #    Olbia
 ITA SS698 A12 CivFer #        Civitavecchia
+
+
+#GRÆKENLAND
+
+GRC A6 16 EO89 #            Athen - ATH
+GRC A62 ExhCen K2 #         ATH lufthavn
+GRC A64 Y1 Y7 #             Athen
+
+GRC EO54 BasAle PanKan #    Athen
+GRC EO89 ToA6 EO91 #        ATH - Sounio
+GRC EO91 EO91a_N EO89 #     Athen - Sounio
 
 
 #USA
