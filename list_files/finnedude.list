@@ -153,6 +153,7 @@ DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
 DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
 DNK PR25 E45 SR170 #        25  Kolding S                 -2
+DNK PR32 SR403 SR417 #      32  Vejen - Foldingbro
 DNK PR41 E45 PR8 #          41  Aabenraa - Sønderborg     +
 DNK PR42 PR24 E45 #         42  Aabenraa - E45            
 DNK PR47 PR24/25 SR170 #    47  Gabøl - Haderslev         +
@@ -189,6 +190,7 @@ DNK SR176 SR170 PR18 #      176 Kolding - Give
 DNK SR181 SR431_E BejVej #  181 Varde - Nissum Fjord
 DNK SR195 HerMot_W FreGade #195 Herning
 DNK SR417 StuVej AsboVej #  417 Billund - Bække
+DNK SR425 HedVej PR28/30 #  425 Holsted - Billund
 DNK SR431 SR475 SR181_N #   431 Varde
 DNK SR463 E20 SR431 #       463 Esbjerg - Oksbøl
 DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
@@ -350,6 +352,17 @@ ITA A12 A7 SR68 #             Genua - Livorno
 
 ITA SS125 SP73 ViaPunIst #    Olbia
 ITA SS698 A12 CivFer #        Civitavecchia
+
+
+#GRÆKENLAND
+
+GRC A6 16 EO89 #            Athen - ATH
+GRC A62 ExhCen K2 #         ATH lufthavn
+GRC A64 Y1 Y7 #             Athen
+
+GRC EO54 BasAle PanKan #    Athen
+GRC EO89 ToA6 EO91 #        ATH - Sounio
+GRC EO91 EO91a_N EO89 #     Athen - Sounio
 
 
 #USA
