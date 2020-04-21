@@ -1983,11 +1983,17 @@ ON ON71 USA/ON ON17
 
 MEX-BC MEX1D MEX1_S MEX1_RosS
 MEX-BC MEX2D MEX2_Rum MEX2_MexE
+MEX-BC MEX1 AveGas MEX1D_S
+MEX-BC MEX1 EX1D_RosS LibSur
+MEX-BC MEX2 COrtRub MEX2D_MexW
+MEX-BC MEX2 MEX2D_MexE BC1
+MEX-BC MEX2 BC2_AlgE BC/SON
+MEX-BC MEX3 MEX1_N AveMigHid 
+
+MEX-SON MEX2 MEX2 C26
 
 
 
 #The below items are not active yet.  listing for future use but subject to change 
-
-
-#National Park Scenic Routes USA
-
+#MEX-BC Select Autopistas
+MEX-BC LibSur MEX1 BlvdDiazOrd
