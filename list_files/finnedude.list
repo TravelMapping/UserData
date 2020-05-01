@@ -232,9 +232,9 @@ SWE L172 R61 R44 #          Arvika - Uddevalla    +
 
 #NORGE
 
-NOR Fv21 Fv106 Rv21 #       Halden
-NOR Fv22 Rv21 NOR/SWE #     Halden
-NOR Fv106 Fv21 NOR/SWE #    Halden
+NOR Fv21 Fv106 Fv220 #      Halden
+NOR Fv220 Fv21 NOR/SWE #    Halden
+NOR Fv106 Fv21 NOR/SWE #    Halden    +
 
 
 #TYSKLAND
