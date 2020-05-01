@@ -371,7 +371,9 @@ GRC EO91 EO91a_N EO89 #     Athen - Sounio
 #USA
 
 #Puerto Rico
-PR PR3 PR955_F PR982 #    Luquillo - Del Rey
+PR PR3 PR66/187 PR982 #   Luquillo - Del Rey
+PR PR26 8 15 #            Lufthavn
+PR PR66 PR3/26 PR3/187 #  Lufthavn - Luquillo   +
 PR PR191 PR955 PR9938_N # Luquillo - El Yunque
 PR PR940 PR3_W PR983 #    Luquillo
 PR PR955 PR191 PR3_F #    Luquillo
