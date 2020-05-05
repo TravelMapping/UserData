@@ -41,10 +41,7 @@ DNK MREsb SR429_E PR11/SR175 #  Løgumkloster - Skærbæk
 DNK MREsb E20_W SR447_E #       Esbjerg Midt
 DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 #kolding
-DNK MR PR8_Son AabVej #         Sønderborg
-DNK MR RonVej E45(75) #         Rønshoved - Kruså
-DNK MR HarVej SR170/481 #       Gejlå - Søgård
-DNK MR PR42_W KolVej_Ves #      Aabenraa - Vester Nebel
+DNK MR BojFynFry KolVej_Ves #   Fynshav - Vester Nebel
 DNK MR EgtVej BogVej_W #        Egtved
 DNK MR KolVej_Bil PR28/30 #     Billund
 DNK MR SR569_Fje SleVej_N #     Fjerritslev
@@ -167,7 +164,8 @@ DNK SR179 KasVej SR429 #    179 Paintball - Hellevad
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
 DNK SR401 MR_KruE E45 #     401 Kruså                     
-DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +        
+DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +  
+DNK SR405 NorVej OksVej #   405 Nordals
 DNK SR429 MR_Log PR24 #     429 Løgumkloster - Rødekro        
 DNK SR435 SR170 RanVej #    435 Haderslev - Agerskov      
 DNK SR437 KonVej HarByVej # 437 Rødding - Harreby         
