@@ -473,7 +473,7 @@ mo i-49bljop i-49_s i-49_n
 mo i-49blneo i-49_s i-49_n
 mo i-49blnev i-49_s i-49_n
 mo i-55blnew i-55_s i-55_n
-mo i-55blcap i-55_s i-55_nmo i-55blcry i-55_s i-55_n
+mo i-55blcap i-55_s i-55_n
 mo i-57blcha i-57_s i-57_n
 mo i-70blboo i-70_w i-70_e
 MO I-70BLCol I-70_W I-70_E
@@ -964,6 +964,7 @@ IA US20BusSio NE/IA US20_E
 IA US20BusFor US20_W US20_E
 ia us30bustol us30_w us30_e
 IA US30BusMar US30_W US30_E
+IA US34Buscha US34_W US34_E
 IA US34BusOtt US34_W US34_E
 IA US34BusFai US34_W US34_E
 IA US34BusMtP US34_W US34_E
@@ -984,6 +985,11 @@ ia us169busfor us169_s us169_n
 IA US218BusMtP US218_S US218_N
 ia us218buswav us218_s us218_n
 IA US218BusCha us218_s us218_n
+IA US6HisCou ia192 kanblvd
+IA US6Hisatl us6/71 us6_e
+IA US6Hisnew 46thave us6/14
+IA US6Hisiow 1stave_n scoblvd
+IA US6Hisdur us6_w hicgrord
 IA IA1 IA2 US151
 IA IA2 NE/IA US61/61Bus
 ia ia2buscla ia2 us71_n
@@ -1011,6 +1017,7 @@ ia ia32 us20 us52/3
 ia ia37 ia175 us59
 IA IA38 IA92 ia3
 IA IA44 US30 IA141
+ia ia48 us59 us6
 ia ia51 us18/52 ia9
 ia ia56 ia150 ia13
 IA IA57 US65 US218/58
@@ -1427,7 +1434,9 @@ MO US69 KS/MO MO/IA
 mo us69sprbet i-35 us69
 MO US71 AR/MO MO/IA
 mo us71bussav us71_s us71_n
+mo us71busmar us71_s us71_n
 MO US136 NE/MO MO/IA
+MO US136busalb us136_w us136_e
 MO US159 NE/MO US59
 MO US160 KS/MO US67
 MO US166 KS/MO I-44
@@ -1485,6 +1494,7 @@ MO MO73 US65 OldMO73_S
 MO MO79 I-70 US36
 MO MO81 MO16 MO/IA
 MO MO83 US54_E US54_W
+mo mo85 us136bus_w us136
 mo mo91 mo25_s mo51
 mo mo92 ks/mo us69
 mo mo100 us50 i-44
@@ -1749,9 +1759,9 @@ OH US42 US30 OH603
 oh us42 i-90 pubsqu
 oh us50 oh124_w oh/wv
 OH US52 IN/OH I-75(2B)
-oh us52 us62/68 oh41_e
+oh us52 us62/68 oh41_n
 oh us52 oh852 oh7
-oh us62 oh41_e oh138_e
+oh us62 oh41_abe oh138_e
 oh us62 us23_s oh317
 OH US62 US30_W I-77(107B)
 oh us68 us30 i-75
