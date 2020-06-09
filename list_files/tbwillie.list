@@ -136,7 +136,7 @@ ct ct155 ct9 ct17
 ct ct156 ct82 us1_wat
 ct ct157 ct66 ct68
 ct ct159 ct/ma i-91(34)
-ct ct160 us5 rochlglafry_w 
+ct ct160 us5 rhlglafry_w 
 ct ct161 ct156 ct85
 ct ct163 ct32 ct2
 ct ct164 ct2 ct138
@@ -166,10 +166,10 @@ ct ct191 us5 ct190
 ct ct192 ct/ma ct190
 ct ct193 ct/ma ct12
 ct ct194 us5 ct30
-ct ct195 ct66 ct89
+ct ct195 ct66 ct74
 ct ct196 ct66 ct16
 ct ct197 ct/ma ct171 
-ct ct198 ct/ma ct244 
+ct ct198 ct/ma us6
 ct ct200 ct12 ct193
 ct ct201 ct12 ct184
 ct ct205 ct12 ct169
@@ -461,6 +461,7 @@ md i-70 73 80
 md i-70 87 94
 md i-95 dc/md 19
 md i-95 22 md/de
+md i-97 1 7
 md i-295 md/dc i-95/495
 md i-395 i-95 mlkjblvd
 md i-395was i-395 md295
@@ -481,6 +482,7 @@ md beadr dc/md md410
 md cabjohnpkwy i-495 clabarpkwy
 md clabarpkwy md/dc cabjohnpkwy
 md md7 md24 md543
+md md7elk soust md281
 md md18 md213 us301
 md md24 i-95 md7
 md md28 md355 md586/911
@@ -509,8 +511,8 @@ md md212 powmillrd_e powmillrd_w
 md md213 us301 md18
 md md268 md279 mainst
 md md272 us40 warrd
-md md279 md/de md316
-md md281 md/de soust
+md md279 md/de md286
+md md281 md/de md7
 md md282 md/de sasrd
 md md290 us301_s md313_s
 md md295 md175 us40
@@ -560,10 +562,10 @@ me me207 us1 me77
 me me209 us1 seast 
 me me216 me209 hyderd
 me me238 me27_n me27_s
-
 mi i-94 in/mi 180
 mi i-94blann i-94_w us23bus_n
 mi us23 oh/mi i-94
+
 nh i-89 0 nh/vt
 nh i-93 ma/nh nh/vt
 nh i-95 ma/nh nh/me
@@ -753,7 +755,7 @@ ny ny14a ny14 us20/5
 ny ny14trkgen ny14_n ny14_s
 ny ny17 pa/ny ny/pa
 ny ny17bin pa/ny 121
-ny ny22 stalinerd ny295
+ny ny22 ny203 ny295
 ny ny22 ny312 ny71
 ny ny22 ny35 i-684(10)
 ny ny22 brorivpkwy ny120_n 
@@ -776,6 +778,7 @@ ny ny35 i-684 ny22
 ny ny38 ny200 ny366
 ny ny54 i-86 ny14
 ny ny54a ny54 ny14a_n
+ny ny66 us20_w ny295
 ny ny71 ny/ma ny22
 ny ny79 ny414 ny366
 ny ny82 us9/23 ny343
@@ -792,11 +795,12 @@ ny ny175 us11 ny173_w
 ny ny182 whirapbri whist_s
 ny ny199 us9w/209 us44/22
 ny ny200 ny38 ny221
+ny ny203 us20 ny22
 ny ny213 ny32 us209_s
 ny ny221 ny38 ny26/41
 ny ny230 ny54 ny14a
 ny ny250 ny31 whard
-ny ny295 ny/ma tacstapkwy
+ny ny295 ny/ma ny66
 ny ny298 ny298trk_e kinst
 ny ny301 ny9d tacstapkwy
 ny ny312 i-84 ny22
@@ -886,10 +890,9 @@ ri us1 ct/ri ri/ma
 ri us1buswar us1_n us1_s
 ri us6 ct/ri ri/ma
 ri us6altjoh us6_w us6_e
-ri us44 us1_s ri/ma
-ri us44 ct/ri ri5
+ri us44 ct/ri ri/ma
 ri ri1a us1_n ri138
-ri ri1apro us1 ri114_n 
+ri ri1apro ri/ma us1 
 ri ri1awes us1_s us1_n
 ri ri2 us1_n ri37
 ri ri2 ri402 ri102_s
@@ -942,7 +945,7 @@ ri ri146a ri146_s ri/ma
 ri ri152 ri/ma us1alt
 ri ri165 ct/ri ri3
 ri ri216 ri/ct ri91_e
-ri ri238 goatisrd ri138
+ri ri238 goatislrd ri138a
 ri ri246 us1/44 ri116/146
 ri ri402 us1 ri2
 ri ri403 ri4 comparkrd
