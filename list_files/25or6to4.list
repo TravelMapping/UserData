@@ -836,8 +836,8 @@ WY WY789 RaiSt WY114
 
 WY DevTowRd WY110 VisCen
 WY EEntRd GraLoopRd US14/16
-WY GraLoopRd NorCynRd_E EEntRd
-WY GraLoopRd SEntRd NorCynRd_W
+WY GraLpRd NorCynRd_E EEntRd
+WY GraLpRd SEntRd NorCynRd_W
 WY RocMemPkwy GraTetNP YelNP
 WY SEntRd US89/191 GraLoopRd
 FL FLA1AKey BerSt US1
