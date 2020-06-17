@@ -838,6 +838,7 @@ WY DevTowRd WY110 VisCen
 WY EEntRd GraLoopRd US14/16
 WY GraLpRd NorCynRd_E EEntRd
 WY GraLpRd SEntRd NorCynRd_W
+WY NorCynRd GraLoopRd_W GraLoopRd_E
 WY RocMemPkwy GraTetNP YelNP
 WY SEntRd US89/191 GraLoopRd
 FL FLA1AKey BerSt US1
