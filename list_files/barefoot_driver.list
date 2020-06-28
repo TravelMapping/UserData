@@ -1224,7 +1224,7 @@ la la98 la91_s la1120
 la la100 la91_n la91/1120
 la la406 la23 la407
 la la407 la406 la428
-la la428 la23_s lamst
+la la428 la23_e lamst
 la la428alg behave la407
 la la1120 la91/100 la98
 la la1256 la27/108 us90
@@ -1996,7 +1996,7 @@ TX US87 I-27(110) TX/NM
 TX US90 I-10(763) I-10(775)
 TX US90 I-10(855) TX/LA
 TX US96 TX87_S US59/84
-TX US175 US69 I-45(283)
+TX US175 US69 I-45
 tx us180elp nm/tx i-10(23b)
 tx us180 nm/tx us83/277
 TX US190 US96 TX/LA
@@ -2013,7 +2013,7 @@ TX US377 US77/380 US380_E
 TX US377 I-30(9B) I-35W(52A)
 TX US380 NM/TX TX214
 TX US380 US385/62_W US87
-TX US380 TX207/Lp46 FM1081
+TX US380 TX207 FM1081
 TX US380 US183/283 US281/114
 TX US380 US77/377 US75
 TX US380 US69_N I-30(94A)
@@ -2221,7 +2221,7 @@ wi wi57busstu wi57_s wi57_n
 wy us14 us89/191 wy/sd
 wy us16 us89/191 wy/sd
 wy us18 i-25 wy/sd
-wy us20 mt/wy us89/191
+wy us20 yelnp us89/191
 wy us20 gralooprd_n wy/ne
 wy us26 id/wy us89/191_n
 wy us26 us20/789_w i-25(92)

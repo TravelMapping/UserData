@@ -17,10 +17,6 @@
 #     Not counting roads taken by motor coach.  Too hard to verify.
 #     Not worried about short jaunts off an interstate highway looking
 #        for gas or food if a short distance.
-#     If a segment of a road is difficult to obtain (existing examples
-#        include entrances to military bases and international crossings),
-#        a "visual clinch" (being able to see the segment in question)
-#        will be permitted on a case by case basis.
 #     Concurrencies:  Both numbers listed only if significant.
 #        "Travel Mapping" will automatically include any concurrencies.
 #        The predecessor "Clinched Highway Mapping" didn't necessarily
@@ -28,6 +24,8 @@
 #
 #  Last updated:  Apr 02, 2019
 #  Last updated:  Oct 13, 2019
+#  Last updated:  Jan 12, 2020
+#  Last updated:  Jun 14, 2020
 #
 ############################################################
 #
@@ -101,7 +99,7 @@ ME I-295 11 28
 ME I-395 1 6
 ME I-495 I-95 I-295
 
-MD I-68 WV/MD 82
+MD I-68 WV/MD 82     # Also traveled on former designation US48
 MD I-70 PA/MD 94
 MD I-81 WV/MD MD/PA
 MD I-83 1 MD/PA
@@ -194,6 +192,7 @@ OH I-76 1 OH/PA
 OH I-77 WV/OH 125
 OH I-80 64 OH/PA
 OH I-90 64 142
+OH I-270 I-71 26
 OH I-271 1 18
 OH I-275 IN/OH 25
 OH I-470 I-70 OH/WV
@@ -303,14 +302,20 @@ VA I-785FutDan NC/VA US58/360_E
 # Highways with names rather than numbers
 
 DC ClaBarPkwy MD/DC ChaBriRd
+DC GWMemPkwy VA/DC US50
 DC SuiPkwy SCapSt DC/MD
 
 FL FLTpk 49 93
 FL FLTpk 109 309
 FL MainParkRd FL9336 End
 
+ME CadSumRd ParkLpRd CadMtn
+ME ParHillRd ParkLpRd ME3
+ME ParkLpRd SieMonRd_S SieMonRd_N
+
 MD BalWasPkwy US50/201 MD175
 MD CabJohnPkwy ClaBarPkwy I-495
+MD ClaBarPkwy CabJohnPkwy MD/DC
 
 NV CR215 12 17
 
@@ -319,7 +324,7 @@ NJ NJTpk 6 7
 
 NC BlueRidPkwy US25 US70
 
-VA GWMemPkwy MarDr I-395
+VA GWMemPkwyCry 1stSt VA/DC
 VA SkyDr US33 US211
 
 # Clingman's Dome Road is unusual. It starts in Tennessee but
@@ -385,6 +390,7 @@ DE US13BusWil MarRd US13_N
 
 DC US1 VA/DC I-395
 DC US29 MStNW I-66
+DC US29 ArkAve DC/MD
 DC US50 VA/DC DC/MD
 
 DC US1AltWas US1_S DC/MD
@@ -404,6 +410,7 @@ FL US27 US19/98_S US90
 FL US41 FL997 FL865
 FL US41 US27Alt_N US27_S
 FL US41 US441_S I-75(414)
+FL US41 CR40/484 FL40
 FL US41 FL47 US90
 FL US90 FL4 FL85
 FL US90 FL285 US331_S
@@ -612,7 +619,7 @@ PA US522 US22_W US22/322
 
 PA US22BusMon DonDr US22_E
 PA US30BusDow US30_W US30_E
-PA US220AltMil PA144/150 US220_N
+PA US220AltMil PA144/150 US220_N     # Was designated US 220 when traveled on
 PA US220BusBed I-76 I-99(1)
 PA US222BusRea US222_S US422
 PA US322TrkDow US322_W US30Bus_E
@@ -714,7 +721,7 @@ WV US40 I-70(0A) I-70(1A)
 WV US50 US19 I-79
 WV US50 WV24 WV/MD
 WV US50Rom MD/WV WV972
-WV US119 I-64(58A0 BufRd
+WV US119 I-64(58A) I-64(58B)
 WV US219 WV24 WV/MD
 WV US220 WV972 WV/MD
 WV US250 I-70(0A) I-70(1B)
@@ -733,7 +740,8 @@ WV US522 VA/WV WV/MD
 # Secondary state systems are not included
 #    (since they are not in the Highway Browser at this time)
 
-AL AL55 FL/AL US331_N
+AL AL10 AL185 US31
+AL AL55 FL/AL StaAve
 AL AL55 US29_S US31_N
 AL AL106 I-65 US31
 AL AL137 FL/AL US29
@@ -772,6 +780,7 @@ DE DE896 I-95 DE/MD
 DC DC295 I-295 DC/MD
 
 FL FLA1AFor I-395 FL820
+FL FLA1AVer US192 FL528(46)
 FL FLA1AFer I-95 US1/301
 FL FL4 FL189 US90
 FL FL12 FL20 US90_W
@@ -928,7 +937,7 @@ MD MD192 MD185 SemRd
 MD MD193 MD185 MD202
 MD MD197 US301 MD198
 MD MD198 MD650 MD32
-MD MD200 3 19
+MD MD200 3 US1
 MD MD201 DC/MD MD212
 MD MD202 MD450 MD725
 MD MD212 MD193 MD201
@@ -1104,6 +1113,7 @@ TN TN66Sev US411/441 I-40
 TN TN73 US321 I-40
 
 VT VT9 VT279 I-91(3)
+VT VT9TrkBra VT9_W VT9_E
 VT VT279 NY/VT VT9
 
 VA VA3 US15Bus US301
@@ -1120,6 +1130,7 @@ VA VA55 US340/522 VA79
 VA VA76 VA288 I-195
 VA VA79 VA55 I-66
 VA VA100 US221 I-81(98)
+VA VA105 I-64 US17
 VA VA106 VA10/156 VA5/156
 VA VA123 I-95 VA286
 VA VA144 VA36 US1/301_N
