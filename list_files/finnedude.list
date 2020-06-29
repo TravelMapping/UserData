@@ -25,13 +25,11 @@ DNK MRSja HovGad_Fax SR151_DalN #Faxe
 DNK MRSja RinGade_N O_NaeN #    Næstved
 #Svendborg
 DNK MRSve SR305/PR9 RanVej_E #  Rudkøbing - Rantzausminde
-DNK MRSve PR43_N NySteVej_N #   PR43
-DNK MRSve SR329_Fal PR8_W #     Horne
+DNK MRSve PR44_Faa PR8_W #      Faaborg - Horne
 #Odense
 DNK MROde SR445_Ry KjaMolVej #  Ry - Laven
 DNK MROde PR28_FreW KobGade_N # Fredericia
-DNK MROde KobGade_S AssVej_E #  Fredericia - Kaulunde
-DNK MROde SR329_Buk FroVej_W #  Glamsbjerg
+DNK MROde KobGade_S FroVej_W #  Fredericia - Glamsbjerg
 DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR167_S E20(45) #     Kværndrup - Nyborg
@@ -135,7 +133,7 @@ DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
 DNK SR165 MR_W O2 #         165 Munkebo - Odense
 DNK SR167 MR_S SR163_E #    167 Kværndrup - Svendborg     
 DNK SR168 O2 E20 #          168 Odense                    --
-DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                --
+DNK SR168 DoleVej SR329_N # 168 Glamsbjerg                --
 DNK SR301 MR_W PR9 #        301 Tietgenbyen
 DNK SR303 O2 SR335 #        303 Odense - Morud
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
