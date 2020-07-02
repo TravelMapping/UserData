@@ -5,7 +5,7 @@ DNK AmaMot MR 20 #          E20 Afkørsel                  +
 DNK OstMot SonMot TauMot #  E20-E45 forbindelse           +
 DNK E45 34 DNK/DEU #        E45 Hobro - Tyskland          
 DNK E47 HelHelFry 50 #      E47 Helsingør - Rødby         
-DNK E55 HelFry 44 #         E55 Helsingør - Falster
+DNK E55 HelFry GedRosFry #  E55 Helsingør - Gedser        +
 
 #Magueritruten
 #Sjælland
@@ -24,18 +24,15 @@ DNK MRSja SR261 SR261_S #       Stevns
 DNK MRSja HovGad_Fax SR151_DalN #Faxe
 DNK MRSja RinGade_N O_NaeN #    Næstved
 #Svendborg
-DNK MRSve PR44_Oll RanVej_E #   PR44 - Rantzausminde
-DNK MRSve PR43_N NySteVej_N #   PR43
-DNK MRSve SR329_Fal PR8_W #     Horne
+DNK MRSve SR305/PR9 RanVej_E #  Rudkøbing - Rantzausminde
+DNK MRSve PR44_Faa PR8_W #      Faaborg - Horne
 #Odense
 DNK MROde SR445_Ry KjaMolVej #  Ry - Laven
 DNK MROde PR28_FreW KobGade_N # Fredericia
-DNK MROde KobGade_S AssVej_E #  Fredericia - Kaulunde
-DNK MROde SR329_Buk FroVej_W #  Glamsbjerg
+DNK MROde KobGade_S FroVej_W #  Fredericia - Glamsbjerg
 DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
-DNK MROde SR163_S SteVej_E #    Lundeborg
-DNK MROde SR301_BirN E20(45) #  Tietgenbyen - Nyborg
+DNK MROde SR167_S E20(45) #     Kværndrup - Nyborg
 #Esbjerg
 DNK MREsb SR401_KruW E45 #      Kruså
 DNK MREsb SR429_E PR11/SR175 #  Løgumkloster - Skærbæk
@@ -46,6 +43,8 @@ DNK MR BojFynFry KolVej_Ves #   Fynshav - Vester Nebel
 DNK MR EgtVej BogVej_W #        Egtved
 DNK MR KolVej_Bil PR28/30 #     Billund
 DNK MR SR569_Fje SleVej_N #     Fjerritslev
+#Nykøbing Falster
+DNK MRNyk E55 EnhVej #          Nykøbing - Frejlev skov
 
 #Sjælland
 #Ved Hillerød og Nordsjælland
@@ -62,9 +61,7 @@ DNK PR53 OnsVej PR21 #      53  Onsved - Holbæk           --
 #SR
 DNK SR152 O2 E47/E55 #      152 Strandvejen Kbh - Hel     +
 DNK SR201 PR19 O2 #         201 Kbh - Hillerød            +
-DNK SR205 O3 SR227 #        205 Helsingør - Gribskov      -
-DNK SR205 SR251_N SR251_S # 205 Overlap 251               -
-DNK SR205 SR267 PR16 #      205 Helsinge - Frederiksværk  -
+DNK SR205 O3 PR16 #         205 Helsingør - Frederiksværk +
 DNK SR207 SR201 PR53_W #    207 Birkerød - Frederikssund  -2
 DNK SR207 MR_S KulSolFry #  207 Jægerspris - Kulhuse      -2
 DNK SR207Lyn KulSolFry PR16 #207Sølager - Amagerhuse      +
@@ -85,6 +82,7 @@ DNK O2Ros PR6 PR14 #        O2  Roskilde                  +
 DNK ONae VorVej RinVej_W #  O   Næstved V                 +
 DNK O2Nae PR54_E PR14 #     O2  Næstved NØ                
 #PR
+DNK PR9Nyk SpoTarsFry VesVej #9 Tårs - Nykøbing F.
 DNK PR14 PR54/O2 O2 #       14  Næstved - Ringsted        +
 DNK PR17 E47/E55 3 #        17  Jyllingevej - Smørum      +
 DNK PR21 O2 OddEbeFry #     21  Kbh - Sjællands Odde      +
@@ -124,20 +122,19 @@ DNK O2Ode SR303 SR165 #     O2  Odense N    -2
 DNK O3Ode NieBohAlle BreVej #O3 Odense Ø                  
 #PR
 DNK PR8Faa E20 MR_W #       8   Nyborg - Horne            
-DNK PR9 O2 JohJorVej #      9   Odense - Svendborg        
+DNK PR9 O2 MR_Vin #         9   Odense - Tåsinge          --
+DNK PR9 MR_Lun SpoTarsFry # 9   Lundby - Spodsbjerg       --
 DNK PR43 PR9 PR8/44 #       43  Odense - Faaborg          +
 DNK PR44 PR9 PR8/43 #       44  Svendborg - Faaborg       +
 #SR
 DNK SR160 SR163 SR165_S #   160 Nyborg                    
-DNK SR161 O2 E20(53) #      161 Odense                    --
-DNK SR161 SR335 SR329 #     161 Vissenbjerg               --
-DNK SR161 E20(57) SR170 #   161 Nørre Aaby - Kolding      --
+DNK SR161 O2 SR170 #        161 Odense - Kolding          +
 DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
 DNK SR165 MR_W O2 #         165 Munkebo - Odense
-DNK SR167 RarVej SR163_E #  167 Assensvej - Svendborg     
+DNK SR167 MR_S SR163_E #    167 Kværndrup - Svendborg     
 DNK SR168 O2 E20 #          168 Odense                    --
-DNK SR168 SR329_S SR329_N # 168 Glamsbjerg                --
-DNK SR301 MR_N PR9 #        301 Tietgenbyen
+DNK SR168 DoleVej SR329_N # 168 Glamsbjerg                --
+DNK SR301 MR_W PR9 #        301 Tietgenbyen
 DNK SR303 O2 SR335 #        303 Odense - Morud
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
 DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
