@@ -101,6 +101,106 @@ MA I-93 7 24
 #Maryland I-495
 MD I-495 MD/VA 36
 
+#Minnesota I-94
+MN I-94 167 216
+
+#Minnesota I-494
+MN I-494 1A 27
+
+#Missouri I-55
+MO I-55 95 AR/MO
+
+#Missouri I-57
+MO I-57 MO/IL 1
+
+#Missouri I-155
+MO I-155 MO/TN 1
+
+#Mississippi I-55
+MS I-55 291 96C
+
+#North Carolina I-26
+NC I-26 54 31
+
+#North Carolina I-40
+NC I-40 46 51
+
+#New Jersey I-78
+NJ I-78 NJ/NY 59
+
+#New Jersey I-95
+NJ I-95 14 13A
+
+#Nevada I-15
+NV I-15 48 34
+
+#Nevada I-80
+NV I-80 CA/NV 21
+
+#Nevada I-580
+NV I-580 68 US50/395
+
+#New York I-495
+NY I-495 23B 2ndAve
+
+#New York I-678
+NY I-678 12 JFKAir
+
+#Ohio I-71
+OH I-71 KY/OH 2
+
+#Ohio I-75
+OH I-75 1B KY/OH
+
+#Ohio I-471
+OH I-471 KY/OH 7
+
+#Oregon I-5
+OR I-5 299B 301
+
+#Oregon I-84
+OR I-84 6 I-5
+
+#Oregon I-205
+OR I-205 21B 24
+
+#South Carolina I-85
+SC I-85 GA/SC 44B
+
+#Tennessee I-24
+TN I-24 54 KY/TN
+
+#Tennesse I-40
+TN I-40 221A 204
+TN I-40 AR/TN 80
+
+#Tennessee I-65
+TN I-65 46 88
+
+#Tennessee I-155
+TN I-155 MO/TN 15
+
+#Tennessee I-440
+TN I-440 I-24 I-40
+
+#Virginia I-66
+VA I-66 67 VA/DC
+
+#Virginia I-95
+VA I-95 126 170
+
+#Virginia I-395
+VA I-395 1 VA/DC
+
+#Virginia I-495
+VA I-495 MD/VA 170(95)
+
+#Washington I-5
+WA I-5 154 182
+
+#Washington I-405
+WA I-405 I-5(182) 23
+
 #(California State Highways)
 
 #CA-1:
@@ -428,14 +528,91 @@ CA CA273 CypAve I-5(681B)
 #CA-299:
 CA CA299 2 AdaRd
 
+
+#[Mexico]
+
+#(Mexico Federal Expressways)
+
+#Distrito Federal 95D:
+MEX-DF MEX95DMex MOR/DF HColMil
+
+#Guanajuato 45D:
+MEX-GTO MEX45D QRO/GTO GTO51
+
+#Morelos 95D:
+MEX-MOR MEX95DMex HColMil MOR/DF
+
+#Morelos 115D:
+MEX-MOR MEX115D MEX95D Top
+
+#Queretaro 45D:
+MEX-QRO MEX45D QRO/GTO MEX45
+
+#Queretaro 57D:
+MEX-QRO MEX57DSJu QRO100 MEX57/111
+
+#(Mexico Carreteras Federales)
+
+#Baja California Sur MEX1:
+MEX-BCS MEX1D/19 AerIntCab
+MEX-BCS MEX19_N BlvdFunSud_N
+
+#Baja California Sur MEX1 Pichilingue Spur:
+MEX-BCS MEX1Pic Paz_N Pic
+
+#Baja California Sur MEX19:
+MEX-BCS MEX19 MEX1D/1 MEX1_N
+
+#Guerrero MX200:
+MEX-GRO MEX200 AerIntZih_W Ixta
+
+#Guerrero MX200 Zihuatanejo Airport West Spur:
+MEX-GRO MEX200AZW AerIntZih MEX200
+
+#Jalisco MX23:
+MEX-JAL MEX23Cha AerIntGua AreVFG
+
+#Jalisco MX200:
+MEX-JAL MEX200 NAY/JAL BlvdMedAsc_S
+
+#Nayarit MEX200:
+MEX-NAY MEX200 NAY/JAL SanFra
+
+#Nayarit MEX200 Punta de Mita Spur:
+MEX-NAY MEX200Mit MEX200 PunMita
+
+#Oaxaca MEX131:
+MEX-OAX MEX131 MX200 Ref
+
+#Oaxaca MEX175:
+MEX-OAX MEX175 AerIntOax MEX190_W
+
+#Oaxaca MEX179:
+MEX-OAX MEX179 SanLorAlb MEX190D/190
+
+#Oaxaca MEX190:
+MEX-OAX MEX190 Oax_W MEX190D/179
+
+#Oaxaca MEX200:
+MEX-OAX MX200 AerPueEsc Zip
+
+#Queretaro MEX45:
+MEX-QRO MEX45 MEX45D MEX57
+
+#Queretaro MEX57:
+MEX-QRO MEX45_N QRO100
+
+#Quintana Roo MEX307:
+MEX-QROO MEX307 AveCoba Coba
+
 #[Zambia]
 
 #(Zambia Main Roads)
 
-#M10:
+#Southern M10:
 ZMB M10 T1 Kaz
 
 #(Zambia Trunk Roads)
 
-#T1:
+#Southern T1:
 ZMB T1 ZMB/ZWE AirRd
