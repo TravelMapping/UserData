@@ -289,7 +289,7 @@ ID I-86 1 63
 
 ID US20 I-15(119) ID/MT
 #ID US20 (I-84 and 15 concurrencies)
-ID US26 I-15(116) US20Bus
+ID US26 I-15(116) ID43
 #ID US26 (I-84 and 15 concurrencies)
 ID US30 US91_N I-86(58)
 #--used Maple Street as signed detour — Oak closed for construction
@@ -317,6 +317,7 @@ ID ID33SprSug ID33 US20
 ID ID36 CRD1_S US91_S
 #ID ID39 BL86 concurrency
 ID ID40 I-15 US91
+ID ID43 US26 US20
 #ID ID55 Eagle Rd block
 ID ID77 I-84 ID81_N
 ID ID81 ID77_N ID81Spr
@@ -444,8 +445,10 @@ MT US12 ToI-90 MT141
 MT US20 ID/MT US191/287_N
 MT US89 GoiSunRd ManyGlaRd
 MT US93 I-90(101) LionMouRd
-MT US191 WY/MT MT64
 MT US191WYe US20_W MT/WY
+MT US191 WY/MT DierLn
+#actually turnaround just south of there
+
 
 MT I-15BLDil I-15_N MT41_E
 
