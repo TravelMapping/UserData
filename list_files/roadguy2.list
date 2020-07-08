@@ -442,13 +442,16 @@ MT I-90 96 122(I-15)
 MT US2 MT40 GoiSunRd
 MT US12 ToI-90 MT141
 #and I-90 concurrency
-MT US20 ID/MT US191/287_N
+MT US20 ID/MT YelNP
+MT US89 YelNP JarRd
+#slightly further north, to the grocery store
 MT US89 GoiSunRd ManyGlaRd
 MT US93 I-90(101) LionMouRd
 MT US191WYe US20_W MT/WY
+#plus US 20 concurrency
 MT US191 WY/MT DierLn
 #actually turnaround just south of there
-
+#MT US287 US191 concurrency
 
 MT I-15BLDil I-15_N MT41_E
 
@@ -464,6 +467,9 @@ MT MT141 US12 MT200
 MT MT200 US93_N I-90(109)
 MT MT200 MT141 MT83
 MT SR487 US93 OutPostAve
+
+MT NEntRd WY/MT US89
+MT WEntRd US20/191 MT/WY
 
 MT GoiSunRd US2 US89
 
@@ -1106,8 +1112,12 @@ WY WY530 I-80BL RivDr
 #Actually E 2nd S, but close enough
 WY WY789 CO/WY I-80BL_E
 
+WY GraLpRd WEntRd NEntRd_W
+WY GraLpRd NorCynRd_E FirLakeDr_N
+WY NorCynRd GraLoopRd_W GraLoopRd_E
+WY NEntRd GraLoopRd WY/MT
 WY SEntRd US89/191 GraLoopRd
-WY GraLpRd SEntRd OldFaiRd
+WY WEntRd MT/WY GraLoopRd
 
 
 #UK ROADS
