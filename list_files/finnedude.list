@@ -211,13 +211,13 @@ DNK SR569 PR11 MR_Fje #     569 Fjerritslev
 
 #SVERIGE
 
-SWE E4 160 OceGat #   E4    Stockholm - Helsingborg
-SWE E6 101 12 #       E6    Munkedal - Malmø
-SWE E18 AlvVag SveGat #     Töcksfors - Grums
-SWE E20 DNK/SWE 74 #  E20   Danmark - Göteborg
-SWE E20 143 StoTalFry #E20  Södertälje - Stockholm Siljaline
-SWE E22 12 51 #       E22   Malmø - Karlshamn
-SWE E45 L166 75 #     E45   Mellerud - Göteborg
+SWE E4 160 OceGat #     E4  Stockholm - Helsingborg
+SWE E6 101 12 #         E6  Munkedal - Malmø
+SWE E18 AlvVag SveGat # E18 Töcksfors - Grums
+SWE E20 DNK/SWE 74 #    E20 Danmark - Göteborg
+SWE E20 143 StoTalFry # E20 Södertälje - Stockholm Siljaline
+SWE E22 12 51 #         E22 Malmø - Karlshamn
+SWE E45 L166 75 #       E45 Mellerud - Göteborg
 
 SWE IRingVag TreVag R11 #   Malmø
 SWE TreVag 12 StaGat #      Malmø
@@ -225,18 +225,18 @@ SWE AngLed LarVag 30 #      Helsingborg
 
 SWE R11 IRingVag E6/E20 #   Malmø
 SWE R27 R41 L156 #          Borås - Uddebo
-SWE R29 R27_E E22 #   R29   Tingsryd - Karlshamn
+SWE R29 R27_E E22 #         Tingsryd - Karlshamn
 SWE R41 R40/R42 R27 #       Borås
 SWE R41 E6/E20 L153 #       Varberg
 SWE R42 E45 R40/R41 #       Trollhättan - Borås   +
 SWE R44 L172 O678 #         Uddevalla
 SWE R44 E45_N E45_S #       Trollhättan
 
-SWE L120 G781 L122 #  L120  Tingsryd - Rävemåla
+SWE L120 G781 L122 #        Tingsryd - Rävemåla
 SWE L154 L156 E6/E20 #      Uddebo - Falkenberg
 SWE L156 L154 R27 #         Uddebo
 SWE L160 O710 E6 #          Tjörn
-SWE L165 NOR/SWE E6 # L165  Norge - Munkedal
+SWE L165 NOR/SWE E6 #       Norge - Munkedal
 SWE L166 L172_N E45 #       Bäckefors - Mellerud
 SWE L168 MarFry E6 #        Marstrand             +
 SWE L172 R61 R44 #          Arvika - Uddevalla    +
