@@ -988,6 +988,8 @@ IA US218BusCha us218_s us218_n
 IA US6HisCou ia192 kanblvd
 IA US6Hisatl us6/71 us6_e
 IA US6Hisnew 46thave us6/14
+ia us6hisbro us63_s clayst_s
+ia us6hisbro ia21 aave
 IA US6Hisiow 1stave_n scoblvd
 IA US6Hisdur us6_w hicgrord
 IA IA1 IA2 US151
@@ -1340,7 +1342,7 @@ MN US71 IA/MN MN/Can
 MN US75 IA/MN end
 MN US169 IA/MN US53
 mn us169bussha us169_s us169_n
-MN US212 SD/MN us169
+MN US212 SD/MN mn62_e
 MN US218 IA/MN I-35(40)
 mn mn1 mn89_s us71_n
 mn mn3 mn50 cr66
@@ -1387,7 +1389,6 @@ mn mn76 ia/mn i-90
 mn mn86 ia/mn mn60
 mn mn89 us2 mn1_e
 mn mn101cha mn5 towrd
-mn mn101ch2 cr61 cr14
 mn mn105 ia/mn i-90
 mn mn107 mn65 mn70_e
 mn mn135 us53 mn37
@@ -2221,7 +2222,6 @@ wi wi57busstu wi57_s wi57_n
 wy us14 us89/191 wy/sd
 wy us16 us89/191 wy/sd
 wy us18 i-25 wy/sd
-wy us20 yelnp us89/191
 wy us20 gralooprd_n wy/ne
 wy us26 id/wy us89/191_n
 wy us26 us20/789_w i-25(92)
@@ -2276,7 +2276,7 @@ wy wy225 wy222 i-80(358)
 wy wy253 i-25 us20/26
 wy wy254 us20bus/26bus i-25
 wy wy321 i-25_s i-25_n
-wy wy332 us87 i-90bl
+wy wy332 us87 wy334
 wy wy334 us87 wy332
 wy wy376 i-80bl_w i-80bl_e
 wy wy387 wy259 wy50

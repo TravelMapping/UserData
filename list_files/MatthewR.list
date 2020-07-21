@@ -40,6 +40,9 @@ CA I-238 17 14
 #California I-280
 CA I-280 I-680 5thSt
 
+#California I-305
+CA I-305 1A 6
+
 #California I-380
 CA I-380 5A 7
 
@@ -131,6 +134,9 @@ NJ I-78 NJ/NY 59
 #New Jersey I-95
 NJ I-95 14 13A
 
+#Nevada I-11
+NV I-11 61 AZ/NV
+
 #Nevada I-15
 NV I-15 48 34
 
@@ -200,6 +206,53 @@ WA I-5 154 182
 
 #Washington I-405
 WA I-405 I-5(182) 23
+
+#(US Business Interstates)
+
+#Arizona I-8 Business Yuma
+AZ I-8BLYum AZ195 US95
+
+#California I-5 Business Dunsmuir
+CA I-5BLDun I-5(729) I-5(732)
+
+#California I-8 Business Winterhaven
+CA I-8BLYum I-8(170) I-8(172)
+
+#California I-80 Business Sacramento
+CA I-80BLSac I-80(82) 6
+
+#Kentucky I-24 Business Paducah
+KY I-24BLPad US45 I-24_E
+
+#(Kentucky Parkways)
+
+#Bluegrass Parkway
+KY BluPkwy 1 72
+
+#Purchase Parkway
+KY PurPkwy TN/KY 21
+
+#Western Kentucky Parkway
+KY WesKYPkwy 38 US31W
+
+#(US Numbered Highways)
+
+#Alabama US-82
+AL US82 I-59(73) MS/AL
+
+#Arizona US-93 AZ/NV 2
+
+#Arizona US-95
+AZ US95 I-8BL ForRd
+
+#California US-50
+CA US50 I-80 CA/NV
+
+#California US-101
+CA US101 WilCrkRd CA60
+
+#California US-395 South Section
+CA US395 CA108 CA168_W
 
 #(California State Highways)
 
@@ -528,6 +581,12 @@ CA CA273 CypAve I-5(681B)
 #CA-299:
 CA CA299 2 AdaRd
 
+#[Botswana]
+
+#(Botswana A Roads)
+
+#Botswana A33 KasAir Kaz
+
 
 #[Mexico]
 
@@ -562,6 +621,15 @@ MEX-BCS MEX1Pic Paz_N Pic
 
 #Baja California Sur MEX19:
 MEX-BCS MEX19 MEX1D/1 MEX1_N
+
+#Distrito Federal MEX95:
+MEX-DF MEX95 MOR/DF ViadTla
+
+#Guanajuato MEX51:
+MEX-GTO MEX51 SanMigAll_S AveJim_S
+
+#Guanajuato MEX111:
+MEX-GTO MEX111 QRO/GTO MEX51
 
 #Guerrero MX200:
 MEX-GRO MEX200 AerIntZih_W Ixta
@@ -602,8 +670,89 @@ MEX-QRO MEX45 MEX45D MEX57
 #Queretaro MEX57:
 MEX-QRO MEX45_N QRO100
 
+#Queretaro MEX111:
+MEX-QRO MEX111 MEX57D/57 QRO/GTO
+
 #Quintana Roo MEX307:
 MEX-QROO MEX307 AveCoba Coba
+
+#(Queretaro Carreteras Estatales)
+
+#Queretaro 100
+MEX-QRO QRO100 QRO200 MEX57D/57
+
+#Queretaro 200
+MEX-QRO QRO200 QRO100 AerIntQue
+
+#(Mexico Select Freeways)
+
+#Viaducto Tlalpan
+MEX-DF ViadTla AveIns ClazTla
+
+#(Mexico City Ejes)
+
+#Eje Central
+MEX-DF EjeCen AveHid Eje3Sur
+
+#Eje 1 Parte
+MEX-DF Eje1Pte Eje3Sur CtoBic_N
+
+#Eje 3 Sur
+MEX-DF Eje3Sur CalzAntAbad AveParLira
+
+#Eje 10 Sur
+MEX-DF Eje10Sur AniPer DelMad
+
+
+#[Morocco]
+
+#(Morocco Autoroutes)
+
+#Morocco A1:
+MAR A1 A3 P3010
+
+#Morocco A3:
+MAR A3 A1 N8
+
+#Morocco A301:
+MAR A301 A3 N9
+
+#(Morocco Routes Nationales)
+
+#Morocco N7:
+MAR N7 N8/N9 R209
+
+#Morocco N8:
+MAR N8 P2201 N25_S
+
+#Morocco N9:
+MAR N9 N8_E N7/N8
+
+#Morocco N25:
+MAR N25 N8_E Azi
+
+
+#[South Africa]
+
+#(South Africa National Highways)
+
+#South Africa N1:
+ZAF N1 M62 10(W)
+
+#South Africa N2:
+ZAF N2 M62 18(W)
+
+#South Africa N3:
+ZAF N3 113(N) 121(N)
+
+#South Africa N12:
+ZAF N12 420 113(N3)
+
+#[South Africa Main Provincial Roads)
+
+#South Africa R24
+ZAF R24 TamIntAir N3/N12
+
 
 #[Zambia]
 
