@@ -34,8 +34,7 @@ DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR167_S E20(45) #     Kværndrup - Nyborg
 #Esbjerg
-DNK MREsb SR401_KruW E45 #      Kruså
-DNK MREsb SR429_E PR11/SR175 #  Løgumkloster - Skærbæk
+DNK MREsb SR401_KruW PR11/SR175 #Kruså - Skærbæk
 DNK MREsb E20_W SR447_E #       Esbjerg Midt
 DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 #kolding
@@ -149,6 +148,7 @@ DNK OKol SR191_W SR191 #    O   Kolding                   +
 DNK PR8 EllVej SR175/179 #  8   Sønderborg - Gejlå
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
+DNK PR25 SR401_E PR24/47 #  25  Løgumkloster - Gabøl      -2
 DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
 DNK PR25 E45 SR170 #        25  Kolding S                 -2
 DNK PR32 SR403 SR417 #      32  Vejen - Foldingbro
@@ -161,8 +161,8 @@ DNK SR175 PR25 SR419 #      175 Toftlund - Skærbæk
 DNK SR179 KasVej SR429 #    179 Paintball - Hellevad      
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
-DNK SR401 PR8(11) MR_Rin #  401 Dybbøl - Gråsten          -2
-DNK SR401 MR_KruE E45 #     401 Kruså                     -2
+DNK SR401 PR8(11) E45 #     401 Dybbøl - Kruså            -2
+DNK SR401 SR429_E PR25_N #  401 Løgumkloster              -2
 DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +  
 DNK SR405 NorVej OksVej #   405 Nordals
 DNK SR429 MR_Log PR24 #     429 Løgumkloster - Rødekro        
