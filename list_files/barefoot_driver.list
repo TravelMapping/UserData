@@ -988,6 +988,8 @@ IA US218BusCha us218_s us218_n
 IA US6HisCou ia192 kanblvd
 IA US6Hisatl us6/71 us6_e
 IA US6Hisnew 46thave us6/14
+ia us6hisbro us63_s clayst_s
+ia us6hisbro ia21 aave
 IA US6Hisiow 1stave_n scoblvd
 IA US6Hisdur us6_w hicgrord
 IA IA1 IA2 US151
@@ -1224,7 +1226,7 @@ la la98 la91_s la1120
 la la100 la91_n la91/1120
 la la406 la23 la407
 la la407 la406 la428
-la la428 la23_s lamst
+la la428 la23_e lamst
 la la428alg behave la407
 la la1120 la91/100 la98
 la la1256 la27/108 us90
@@ -1340,7 +1342,7 @@ MN US71 IA/MN MN/Can
 MN US75 IA/MN end
 MN US169 IA/MN US53
 mn us169bussha us169_s us169_n
-MN US212 SD/MN us169
+MN US212 SD/MN mn62_e
 MN US218 IA/MN I-35(40)
 mn mn1 mn89_s us71_n
 mn mn3 mn50 cr66
@@ -1387,7 +1389,6 @@ mn mn76 ia/mn i-90
 mn mn86 ia/mn mn60
 mn mn89 us2 mn1_e
 mn mn101cha mn5 towrd
-mn mn101ch2 cr61 cr14
 mn mn105 ia/mn i-90
 mn mn107 mn65 mn70_e
 mn mn135 us53 mn37
@@ -1996,7 +1997,7 @@ TX US87 I-27(110) TX/NM
 TX US90 I-10(763) I-10(775)
 TX US90 I-10(855) TX/LA
 TX US96 TX87_S US59/84
-TX US175 US69 I-45(283)
+TX US175 US69 I-45
 tx us180elp nm/tx i-10(23b)
 tx us180 nm/tx us83/277
 TX US190 US96 TX/LA
@@ -2013,7 +2014,7 @@ TX US377 US77/380 US380_E
 TX US377 I-30(9B) I-35W(52A)
 TX US380 NM/TX TX214
 TX US380 US385/62_W US87
-TX US380 TX207/Lp46 FM1081
+TX US380 TX207 FM1081
 TX US380 US183/283 US281/114
 TX US380 US77/377 US75
 TX US380 US69_N I-30(94A)
@@ -2221,7 +2222,6 @@ wi wi57busstu wi57_s wi57_n
 wy us14 us89/191 wy/sd
 wy us16 us89/191 wy/sd
 wy us18 i-25 wy/sd
-wy us20 mt/wy us89/191
 wy us20 gralooprd_n wy/ne
 wy us26 id/wy us89/191_n
 wy us26 us20/789_w i-25(92)
@@ -2276,7 +2276,7 @@ wy wy225 wy222 i-80(358)
 wy wy253 i-25 us20/26
 wy wy254 us20bus/26bus i-25
 wy wy321 i-25_s i-25_n
-wy wy332 us87 i-90bl
+wy wy332 us87 wy334
 wy wy334 us87 wy332
 wy wy376 i-80bl_w i-80bl_e
 wy wy387 wy259 wy50
