@@ -34,8 +34,7 @@ DNK MROde SR168_S DreBae #      Odense
 DNK MROde VolVej_N PR43 #       PR 43
 DNK MROde SR167_S E20(45) #     Kværndrup - Nyborg
 #Esbjerg
-DNK MREsb SR401_KruW E45 #      Kruså
-DNK MREsb SR429_E PR11/SR175 #  Løgumkloster - Skærbæk
+DNK MREsb SR401_KruW PR11/SR175 #Kruså - Skærbæk
 DNK MREsb E20_W SR447_E #       Esbjerg Midt
 DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
 #kolding
@@ -149,6 +148,7 @@ DNK OKol SR191_W SR191 #    O   Kolding                   +
 DNK PR8 EllVej SR175/179 #  8   Sønderborg - Gejlå
 DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
 DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
+DNK PR25 SR401_E PR24/47 #  25  Løgumkloster - Gabøl      -2
 DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
 DNK PR25 E45 SR170 #        25  Kolding S                 -2
 DNK PR32 SR403 SR417 #      32  Vejen - Foldingbro
@@ -161,8 +161,8 @@ DNK SR175 PR25 SR419 #      175 Toftlund - Skærbæk
 DNK SR179 KasVej SR429 #    179 Paintball - Hellevad      
 DNK SR191 SR170 VejVej_N #  191 Kolding                   --
 DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
-DNK SR401 PR8(11) MR_Rin #  401 Dybbøl - Gråsten          -2
-DNK SR401 MR_KruE E45 #     401 Kruså                     -2
+DNK SR401 PR8(11) E45 #     401 Dybbøl - Kruså            -2
+DNK SR401 SR429_E PR25_N #  401 Løgumkloster              -2
 DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +  
 DNK SR405 NorVej OksVej #   405 Nordals
 DNK SR429 MR_Log PR24 #     429 Løgumkloster - Rødekro        
@@ -211,26 +211,32 @@ DNK SR569 PR11 MR_Fje #     569 Fjerritslev
 
 #SVERIGE
 
-SWE E4 160 OceGat #   E4    Stockholm - Helsingborg
-SWE E6 101 12 #       E6    Munkedal - Malmø
-SWE E18 AlvVag SveGat #     Töcksfors - Grums
-SWE E20 DNK/SWE 74 #  E20   Danmark - Göteborg
-SWE E20 143 StoTalFry #E20  Södertälje - Stockholm Siljaline
-SWE E22 12 51 #       E22   Malmø - Karlshamn
-SWE E45 L166 75 #     E45   Mellerud - Göteborg
+SWE E4 160 OceGat #     E4  Stockholm - Helsingborg
+SWE E6 101 12 #         E6  Munkedal - Malmø
+SWE E18 AlvVag SveGat # E18 Töcksfors - Grums
+SWE E20 DNK/SWE 74 #    E20 Danmark - Göteborg
+SWE E20 143 StoTalFry # E20 Södertälje - Stockholm Siljaline
+SWE E22 12 51 #         E22 Malmø - Karlshamn
+SWE E45 L166 75 #       E45 Mellerud - Göteborg
 
 SWE IRingVag TreVag R11 #   Malmø
 SWE TreVag 12 StaGat #      Malmø
 SWE AngLed LarVag 30 #      Helsingborg
 
 SWE R11 IRingVag E6/E20 #   Malmø
-SWE R29 R27_E E22 #   R29   Tingsryd - Karlshamn
+SWE R27 R41 L156 #          Borås - Uddebo
+SWE R29 R27_E E22 #         Tingsryd - Karlshamn
+SWE R41 R40/R42 R27 #       Borås
+SWE R41 E6/E20 L153 #       Varberg
+SWE R42 E45 R40/R41 #       Trollhättan - Borås   +
 SWE R44 L172 O678 #         Uddevalla
 SWE R44 E45_N E45_S #       Trollhättan
 
-SWE L120 G781 L122 #  L120  Tingsryd - Rävemåla
+SWE L120 G781 L122 #        Tingsryd - Rävemåla
+SWE L154 L156 E6/E20 #      Uddebo - Falkenberg
+SWE L156 L154 R27 #         Uddebo
 SWE L160 O710 E6 #          Tjörn
-SWE L165 NOR/SWE E6 # L165  Norge - Munkedal
+SWE L165 NOR/SWE E6 #       Norge - Munkedal
 SWE L166 L172_N E45 #       Bäckefors - Mellerud
 SWE L168 MarFry E6 #        Marstrand             +
 SWE L172 R61 R44 #          Arvika - Uddevalla    +
@@ -277,6 +283,8 @@ DEU-SH B432Tan HH/SH SH/HH #    B432  Hamborg             +
 DEU-SH B432 HH/SH A21 #         B432  Hamborg-Bad Segeberg
 DEU-SH B433 HH/SH SH/HH #       B433  Hamborg             +
 
+DEU-SH L16 L17 B200 #           L16   Flensborg           +
+DEU-SH L17 DNK/DEU L16 #        L17   Flensborg
 DEU-SH L265 A7 B76 #            L265  Eckernförde
 
 #Hamborg
@@ -336,19 +344,24 @@ NLD N14 A4 N440 #           N14   Haag                    +
 #FINLAND
 
 #Oksevejen
-FIN HamHarTie Vt2 Vt10/2855 #   Ruostejärvi - Renko
+FIN HamHarTie Vt2 Vt10/2855 # Ruostejärvi - Renko
 #Ringveje
-FIN KehaIII Kt51 44 #     O3    Jorvas - Vanda
+FIN KehaIII Kt51 44 #         Jorvas - Vanda
 #Valta
-FIN Vt1 29 23 #           Vt1   Esbo - Lojo
-FIN Vt2 St133 Yt2802 #    Vt2   Högfors - Ruostejärvi
-FIN Vt3 14 24 #           Vt3   Hyvinge - Tavastehus
-FIN Vt10 Yt2831 Vt3 #     Vt10  Lietsa - Tavastehus
-FIN Vt25 AppTie Vt1(24) # Vt25  Hangö - Lojo
+FIN Vt1 29 23 #               Esbo - Lojo
+FIN Vt2 St133 Yt2802 #        Högfors - Ruostejärvi
+FIN Vt3 14 24 #               Hyvinge - Tavastehus
+FIN Vt10 Yt2831 Vt3 #         Lietsa - Tavastehus
+FIN Vt25 AppTie Vt1(24) #     Hangö - Lojo
 #Kanta
-FIN Kt45 7 11 #           Kt45  Vanda - Korso         --
-FIN Kt45 Yt1403 Vt3 #     Kt45  Träskända - Hyvinge   --
-FIN Kt51 Kt50 Vt25 #      Kt51  Jorvas - Karis
+FIN Kt45 7 11 #               Vanda - Korso         --
+FIN Kt45 Yt1403 Vt3 #         Träskända - Hyvinge   --
+FIN Kt51 Kt50 Vt25 #          Jorvas - Karis
+#Seutu
+FIN St140 St146 KarVay #      Järvenpää
+FIN St146 St140 GraTie #      Järvenpää - Paipis
+FIN St152 Kt45 Yt1521 #       Vantaa
+FIN St186 Vt25 HalVag #       Svartå
 
 
 #ITALIEN
@@ -387,9 +400,9 @@ PR PR983 PR940 PR988_S #  Las Paylas            +
 PR PR988 PR191 PR983_W #  El Yunque - Las Paylas
 
 #Massachusetts
-MA I-90 24 MA1A #     Boston
-MA I-93 1 20 #        Boston
-MA I-95 RI/MA 45 #    Providence - Peabody
+MA I-90 24 MA1A #         Boston
+MA I-93 1 20 #            Boston
+MA I-95 RI/MA 45 #        Providence - Peabody
 
 MA MA1ASal I-90 MA129 #   Boston - Lynn
 MA MA1ASal MA22 MA107 #   Salem
@@ -402,8 +415,8 @@ MA MA129 LynnShoDr MA114 #Lynn - Salem
 MA MA133 MA128 MA127 #    Gloucester
 
 #Rhode Island
-RI I-95 CT/RI RI/MA # Connecticut - Massachusetts
-RI I-195 1 4 #        Providence
+RI I-95 CT/RI RI/MA #     Connecticut - Massachusetts
+RI I-195 1 4 #            Providence
 
 #Connecticut
 CT US1 I-95(86) CT349 #     Groton  --
