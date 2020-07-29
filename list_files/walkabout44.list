@@ -1,3 +1,4 @@
+# Arizona Interstate Highways
 AZ I-8 CA/AZ 178
 AZ I-10 CA/AZ AZ/NM
 AZ I-15 NV/AZ AZ/UT
@@ -5,6 +6,7 @@ AZ I-17 194 341
 AZ I-19 I-19BL 101
 AZ I-40 CA/AZ AZ/NM
 
+# Arizona Business Interstate Highways
 AZ I-8BLYum CA/AZ I-8_E
 AZ I-8BLGil I-8_W I-8_E
 AZ I-10BLQua I-10_W I-10_E
@@ -22,6 +24,7 @@ AZ I-40BLJos I-40_W I-40_E
 AZ I-40BLHol I-40_W I-40_E
 AZ I-40BLWil I-40_W I-40_E
 
+# Arizona US Highways
 AZ US60 I-10(31) AZ/NM
 AZ US64 US160 AZ/NM
 AZ US70 US60 AZ/NM
@@ -33,14 +36,18 @@ AZ US163 US160 AZ/UT
 AZ US180 GraCynNP US191_S
 AZ US191 AZ80_E AZ/UT
 
+# Arizona Future Interstate Highways
 AZ I-11FutKin 71(40) 48(40)
 AZ I-11FutHoo 2 AZ/NV
 
+# Arizona Select Named Freeways
 AZ SkyHarBlvd I-10 AZ202
 
+# Arizona Auxiliary Numbered Highways
 AZ US89AltFre US89 AZ/UT
 AZ US93TrkLau US93 AZ/NV
 
+# Arizona State Highways
 AZ AZ24 AZ202 EllRd
 AZ AZ51 I-10 15
 AZ AZ61 US60 US191_N
@@ -106,5 +113,27 @@ AZ AZ387 AZ84 AZ87
 AZ AZ389 UT/AZ US89Alt
 AZ AZ587 I-10 AZ87
 
+# Arizona Select National Park Highways
+AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
+#AZ LoopRd US89_S US89_N       34      # Sunset Crater & Wupatki NM - Loop Road
+AZ MonCanRd AZ83 AZ92               # Coronado NM
+AZ NRimDr US191 CR525               # Canyon de Chelley NM
+#AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
+AZ PetForRd US180 I-40              # Petrified Forest NM
+AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
+AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 
-
+# Arizona US Historic Highways
+AZ US66HisAsh I-40(144) I-40(146)
+AZ US66HisFla I-40(191) I-40(204)
+AZ US66HisHol I-40(285) I-40(289)
+AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisKin I-40(1) I-40(44)
+#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014
+AZ US66HisKin ToUS93 I-40(139)
+AZ US66HisLup I-40(359) AZ/NM
+AZ US66HisWil I-40(161) I-40(165)
+AZ US66HisWin I-40(252) I-40(257)
+AZ US80HisDou I-10(303) AZ/NM
+AZ US80HisFlo US60(212) AZ77_S
+AZ US89AHisCla AZ89A_S AZ89A_N
