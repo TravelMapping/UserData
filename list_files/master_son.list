@@ -11,7 +11,7 @@ AL I-10 20 FL I-10 296
 # I-14 not driven
 CA I-15 6B UT I-15 132
 UT I-15 258 UT I-15 341
-ID I-15 72 ID I-15 1118
+ID I-15 72 ID I-15 118
 MT I-15 121 MT I-15 297
 # I-16 see GA
 # I-17 see AZ
@@ -30,7 +30,7 @@ SC I-26 116 SC I-26 221
 MO I-29 2H(35) ND I-29 145
 TX I-30 I-20 AR I-30 143
 # I-35 split may cause problems - keep an eye on the log. MN and TX Splits shown here too in 4 field entry format
-TX I-35 467 MN I-35 88A
+TX I-35Gai 467 MN I-35Far 88A
 MN I-35 127 MN I-35 259
 MN I-35E 88A 127
 MN I-35W 0 I-35
