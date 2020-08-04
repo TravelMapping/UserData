@@ -116,7 +116,8 @@ AZ AZ587 I-10 AZ87
 # Arizona Select National Park Highways
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 #AZ LoopRd US89_S US89_N       34      # Sunset Crater & Wupatki NM - Loop Road
-AZ MonCanRd AZ83 AZ92               # Coronado NM
+AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
+
 AZ NRimDr US191 CR525               # Canyon de Chelley NM
 #AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
@@ -127,7 +128,8 @@ AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
-AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisJos I-40(274) I-40(277)CA I-280 I-680/101 5thSt
+
 AZ US66HisKin I-40(1) I-40(44)
 #AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014
 AZ US66HisKin ToUS93 I-40(139)
@@ -137,3 +139,51 @@ AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60(212) AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
+
+# California
+CA I-5 MEX/USA CA/OR
+CA I-8 SunCliBlvd CA/AZ
+CA I-10 1 CA/AZ
+CA I-15 6B CA/NV
+CA I-40 I-15 CA/AZ
+CA I-80 1A CA/NV
+CA I-105 1A 18
+CA I-110 GafSt 21
+CA I-205 I-580 I-5
+CA I-210 1A 45
+CA I-215 I-15 54B
+CA I-238 14 17
+CA I-280 I-680/101 5thSt
+CA I-305 1A 7C
+CA I-380 5A 7
+CA I-405 I-5(94A) I-5(158)
+CA I-505 1A I-5
+CA I-580 1A I-5
+CA I-605 CA22 27                    # Missed Huntington Drive extension
+CA I-680 I-280/101 71
+CA I-710 22 ValBlvd
+CA I-780 1A 7
+CA I-805 I-5(1A) I-5(31)
+CA I-880 I-280 46B
+CA I-980 I-880 2B
+
+# Nevada
+NV I-11 AZ/NV 61
+NV I-15 CA/NV NV/AZ
+NV I-80 CA/NV NV/UT
+NV I-215 1 12
+NV I-515 61 76
+NV I-580 US50/395 68
+
+# Utah
+UT I-15 AZ/UT UT/ID
+UT I-70 0 UT/CO
+UT I-80 NV/UT UT/WY
+UT I-84 ID/UT 120
+UT I-215 I-80 I-15
+
+
+# Not on
+#CA I-5TrkNew I-5_S I-5_N  #      Ramp.  Can cars drive on it?
+#CA I-605 27 HunDr         # .40 length
+
