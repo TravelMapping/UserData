@@ -834,7 +834,6 @@ NS NS142 NS104 NS2
 NS NS162 NS105 PriMineCon
 NS BedByp NS7 NS101/1
 NS CabTrl NS105(7) NS105(11)
-ON ONQEW 0 139
 ON ON400 BlaCrkDr 241
 ON ON401 1 ON/QC
 ON ON402 USA/ON ON401
@@ -851,8 +850,15 @@ ON ON416 0 75B
 ON ON417 QC/ON 187
 ON ON420 MonRd StaAve
 ON ON427 EvaAve RR7
+ON ONQEW 0 139
 ON ONGar 139 LakeShoBlvdE
 ON ONDVP GarExpy ON401/404
+ON LinAlePkwy ON403 RedHillPkwy
+ON RedHillPkwy LinAlePkwy QEW
+ON ONAll ON401 TraRd
+ON ECRowExpy OjiPkwy BanRd
+ON RR174 ON417 RR57
+# also traveled non-freeway segment, and continuing on CR17 to end
 QC A-5 ON/QC QC366_E
 QC A-10 1 143
 QC A-13 1 22
@@ -3625,8 +3631,6 @@ MN MN310 MN11/89 USA/CAN
 MN MN336 I-94 US10
 MN MN371BusBra MN371_N OakSt
 MN MN610 I-94 US10_E
-ON RR174 ON417 RR57
-# also traveled non-freeway segment, and continuing on CR17 to end
 ON ON3 CenAve_S ON4
 ON ON3 ON24 ON6
 ON ON3Win AmbBrg HowAve
