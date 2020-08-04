@@ -1923,11 +1923,11 @@ ON ON427 BroLn RR7
 ON ONDVP GarExpy ON401/404
 ON ONGar 139 LakeShoBlvdE
 ON ONQEW PeaBrg 139
-ON AllRd EglAveW SheAveW
+ON AllRd EglAve TraRd
 ON DonValPkwy GarExpy ON401/404
 ON GarExpy 139 LakeShoBlvdE
-ON LinAlePkwy ON403 RHillVPkwy
-ON RedHillPkwy LinMAPkwy QEW
+ON LinAlePkwy ON403 RedHillPkwy
+ON RedHillPkwy LinAlePkwy QEW
 ON ON3 ON24 TowRd
 ON ON3For ON140 RoseHillRd
 ON ON5 ON8_W ON6
