@@ -851,11 +851,11 @@ ON ON417 QC/ON 187
 ON ON420 MonRd StaAve
 ON ON427 EvaAve RR7
 ON ONQEW 0 139
-ON ONGar 139 LakeShoBlvdE
-ON ONDVP GarExpy ON401/404
+ON GarExpy 139 LakeShoBlvdE
+ON DonValExpy GarExpy ON401/404
 ON LinAlePkwy ON403 RedHillPkwy
 ON RedHillPkwy LinAlePkwy QEW
-ON ONAll ON401 TraRd
+ON AllRd ON401 TraRd
 ON ECRowExpy OjiPkwy BanRd
 ON RR174 ON417 RR57
 # also traveled non-freeway segment, and continuing on CR17 to end
