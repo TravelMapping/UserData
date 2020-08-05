@@ -128,8 +128,7 @@ AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
-AZ US66HisJos I-40(274) I-40(277)CA I-280 I-680/101 5thSt
-
+AZ US66HisJos I-40(274) I-40(277)
 AZ US66HisKin I-40(1) I-40(44)
 #AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014
 AZ US66HisKin ToUS93 I-40(139)
@@ -161,7 +160,7 @@ CA I-505 1A I-5
 CA I-580 1A I-5
 CA I-605 CA22 27                    # Missed Huntington Drive extension
 CA I-680 I-280/101 71
-CA I-710 22 ValBlvd
+CA I-710 1A ValBlvd
 CA I-780 1A 7
 CA I-805 I-5(1A) I-5(31)
 CA I-880 I-280 46B
@@ -182,8 +181,33 @@ UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
 
+# North Carolina                Mileage  
+NC I-26 4A(240) NC/SC          # 43
+NC I-26Fau TN/NC 9             #  9 =52 vs 53
+NC I-40 TN/NC 420              #420
+NC I-73 22 123                 #101 vs 98
+NC I-74 VA/NC 17               # 17
+NC I-74Hig 55 22(73)           # 89 (overlap) vs 21
+NC I-74Pem 194 213             # 19 vs 47 (incl some fut) 
+NC I-77 SC/NC NC/VA            #107 vs 105
+NC I-85 SC/NC NC/VA            #237 vs 205
+NC I-87 16(440) 13             # 13 vs 10
+NC I-95 SC/NC NC/VA            #184 vs 181
+NC I-140 14 20                 #  7 of 19
+NC I-240 1A 9                  #  9 vs 10
+NC I-277 1B 5                  #  4
+NC I-440 1 16                  # 17
+NC I-485 30 I-85(48)           # 66 vs 67
+NC I-540 1 26                  # 26
+NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
+NC I-795 38(264) 24            # 26
+NC I-840 103(73) 6             #  6 of 8
+
+
 
 # Not on
-#CA I-5TrkNew I-5_S I-5_N  #      Ramp.  Can cars drive on it?
-#CA I-605 27 HunDr         # .40 length
+#CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
+#CA I-605 27 HunDr             #  0.40 length N end
+#NC I-140 1 14                 # 12    Wilmington extension opened 2017
+#NC I-840 6 8                  #  2    Added 2020
 
