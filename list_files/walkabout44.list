@@ -196,6 +196,7 @@ NC I-95 SC/NC NC/VA            #184 vs 181
 NC I-140 14 20                 #  7 of 19
 NC I-240 1A 9                  #  9 vs 10
 NC I-277 1B 5                  #  4
+NC I-285 I-85 107(52)          # 23
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
@@ -203,6 +204,18 @@ NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
 NC I-795 38(264) 24            # 26
 NC I-840 103(73) 6             #  6 of 8
 
+# South Carolina
+SC I-20 GA/SC 141              #144 vs 142
+SC I-26 NC/SC 221              #224 vs 221
+SC I-77 I-26 SC/NC             # 92 vs 91
+SC I-85 GA/SC SC/NC            #108 vs 106
+SC I-95 GA/SC SC/NC            #202 vs 199
+SC I-126 I-26 GadSt            #  4
+SC I-185 I-385 HenAve          # 18 vs 17
+SC I-385 I-26 42               # 42
+SC I-520 GA/SC I-20            #  8 vs 7
+SC I-526 10 30                 # 20 vs 19
+SC I-585 ValFalRd 25B          #  3
 
 
 # Not on
