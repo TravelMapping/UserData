@@ -116,7 +116,8 @@ AZ AZ587 I-10 AZ87
 # Arizona Select National Park Highways
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 #AZ LoopRd US89_S US89_N       34      # Sunset Crater & Wupatki NM - Loop Road
-AZ MonCanRd AZ83 AZ92               # Coronado NM
+AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
+
 AZ NRimDr US191 CR525               # Canyon de Chelley NM
 #AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
@@ -137,3 +138,89 @@ AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60(212) AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
+
+# California
+CA I-5 MEX/USA CA/OR
+CA I-8 SunCliBlvd CA/AZ
+CA I-10 1 CA/AZ
+CA I-15 6B CA/NV
+CA I-40 I-15 CA/AZ
+CA I-80 1A CA/NV
+CA I-105 1A 18
+CA I-110 GafSt 21
+CA I-205 I-580 I-5
+CA I-210 1A 45
+CA I-215 I-15 54B
+CA I-238 14 17
+CA I-280 I-680/101 5thSt
+CA I-305 1A 7C
+CA I-380 5A 7
+CA I-405 I-5(94A) I-5(158)
+CA I-505 1A I-5
+CA I-580 1A I-5
+CA I-605 CA22 27                    # Missed Huntington Drive extension
+CA I-680 I-280/101 71
+CA I-710 1A ValBlvd
+CA I-780 1A 7
+CA I-805 I-5(1A) I-5(31)
+CA I-880 I-280 46B
+CA I-980 I-880 2B
+
+# Nevada
+NV I-11 AZ/NV 61
+NV I-15 CA/NV NV/AZ
+NV I-80 CA/NV NV/UT
+NV I-215 1 12
+NV I-515 61 76
+NV I-580 US50/395 68
+
+# Utah
+UT I-15 AZ/UT UT/ID
+UT I-70 0 UT/CO
+UT I-80 NV/UT UT/WY
+UT I-84 ID/UT 120
+UT I-215 I-80 I-15
+
+# North Carolina                Mileage  
+NC I-26 4A(240) NC/SC          # 43
+NC I-26Fau TN/NC 9             #  9 =52 vs 53
+NC I-40 TN/NC 420              #420
+NC I-73 22 123                 #101 vs 98
+NC I-74 VA/NC 17               # 17
+NC I-74Hig 55 22(73)           # 89 (overlap) vs 21
+NC I-74Pem 194 213             # 19 vs 47 (incl some fut) 
+NC I-77 SC/NC NC/VA            #107 vs 105
+NC I-85 SC/NC NC/VA            #237 vs 205
+NC I-87 16(440) 13             # 13 vs 10
+NC I-95 SC/NC NC/VA            #184 vs 181
+NC I-140 14 20                 #  7 of 19
+NC I-240 1A 9                  #  9 vs 10
+NC I-277 1B 5                  #  4
+NC I-285 I-85 107(52)          # 23
+NC I-440 1 16                  # 17
+NC I-485 30 I-85(48)           # 66 vs 67
+NC I-540 1 26                  # 26
+NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
+NC I-795 38(264) 24            # 26
+NC I-840 103(73) 6             #  6 of 8
+
+# South Carolina
+SC I-20 GA/SC 141              #144 vs 142
+SC I-26 NC/SC 221              #224 vs 221
+SC I-77 I-26 SC/NC             # 92 vs 91
+SC I-85 GA/SC SC/NC            #108 vs 106
+SC I-95 GA/SC SC/NC            #202 vs 199
+SC I-126 I-26 GadSt            #  4
+SC I-185 I-385 HenAve          # 18 vs 17
+SC I-385 I-26 42               # 42
+SC I-520 GA/SC I-20            #  8 vs 7
+SC I-526 10 30                 # 20 vs 19
+SC I-585 ValFalRd 25B          #  3
+
+
+# Not on
+#CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
+#CA I-605 27 HunDr             #  0.40 length N end
+#NC I-140 1 14                 # 12    Wilmington extension opened 2017
+#NC I-840 6 8                  #  2    Added 2020
+
