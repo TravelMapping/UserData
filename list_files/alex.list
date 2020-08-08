@@ -1,3 +1,7 @@
+###############
+# INTERSTATES #
+###############
+
 #######
 # I-5 #
 #######
@@ -14,6 +18,7 @@ CA I-205 I-580 I-5
 CA I-305 1A 6
 
 CA I-405 I-5(94A) I-5(158)
+OR I-405 1D I-5(302B)
 WA I-405 I-5(154) I-5(182)
 
 CA I-505 1A I-5
@@ -24,7 +29,7 @@ CA I-605 19 25
 ########
 # I-10 #
 ########
-CA I-10 1 117
+CA I-10 1 120
 
 CA I-110 20B 21
 
@@ -41,6 +46,7 @@ UT I-15 304 362
 ID I-15 72 119
 
 CA I-215 34 40
+UT I-215 I-80 6
 
 ########
 # I-40 #
@@ -91,18 +97,40 @@ MT I-90 ID/MT 33
 #########
 CA I-238 14 17
 
+###############
+# US HIGHWAYS #
+###############
+
 #######
 # US2 #
 #######
 WA US2 I-5 WA204
 WA US2 WA522 MillSt
-MT US2 SR486 MarPass
+MT US2 MT40 MarPass
+
+########
+# US12 #
+########
+WA US12 US101 WA8
+WA US12 TucRd WA131
+
+########
+# US30 #
+########
+ID US20 311 I-15(119)
 
 ########
 # US26 #
 ########
+OR US26 64 74
+OR US26 US97_S OR35
 ID US26 I-15(93) I-15(116)
 ID US26 ID43 ID31
+
+########
+# US30 #
+########
+ID US30 ID74 ID50
 
 ########
 # US50 #
@@ -132,11 +160,24 @@ UT US91 I-15 US89_N
 ########
 NV US93 I-80 NV/ID
 ID US93 NV/ID ID74
+MT US93 MT28 MT82
+MT US93 MT40 USA/CAN
+
+########
+# US95 #
+########
+NV US95 76(515) NV373 
+
+########
+# US97 #
+########
+CA US97 I-5 CA/OR
+OR US97 CA/OR US197
 
 #########
 # US101 #
 #########
-CA US101 CA60 385B
+CA US101 CA60 388B
 CA US101 397 CA/OR
 OR US101 CA/OR OR/WA
 WA US101 OR/WA WA401
@@ -147,9 +188,25 @@ WA US101 RodSt PenCreRd
 WA US101 WA8 I-5
 
 #########
+# US180 #
+#########
+AZ US180 AZ64_S GraCynNP
+
+#########
 # US191 #
 #########
 WY US191 US26/89_S LizCreCam
+
+#########
+# US197 #
+#########
+OR US197 US97 I-84
+
+#########
+# US199 #
+#########
+CA US199 SForkRd CA/OR
+OR US199 CA/OR I-5
 
 #########
 # US395 #
@@ -157,5 +214,40 @@ WY US191 US26/89_S LizCreCam
 CA US395 I-15 CA/NV
 NV US395 CA/NV NV88
 
+##########
+# CANADA #
+##########
+
+########################
+# Trans-Canada Highway #
+########################
+BC TCHMai 92 170
+BC TCHMai BC95 BC/AB
+
+BC TCHYel BC5 BC/AB
+AB TCHYel BC/AB AB93
+
+##########################
+# BC Provincial Highways #
+##########################
+BC BC3 170 177
+
+BC BC5 177 BC16
+
+BC BC93 BC95_N USA/CAN
+
+BC BC95 BC1 BC3/BC93
+
+###############################
+# Alberta Provincial Highways #
+###############################
+AB AB93AJas AB16 AB93
+
+AB AB93A AB93_N AB93_S
+
+AB AB93 AB93AJas AB93A_N
+AB AB93 AB93A_S BC/AB
+
+AB AB1 BC/AB AB1A_W
 
 
