@@ -442,7 +442,7 @@ NV NV160 BufDr LasVegBlvd
 NV NV431 NV28 US395Alt
 NV NV445 I-80 NV659
 NV NV445 QueWay EagCanRd
-NV NV589 NV595 I-15
+# NV NV589 NV595 I-15 #Sahara Blvd
 NV NV595 NV589 US95
 NV NV647 I-80 NV659
 NV NV648 NV667 NV659
@@ -515,12 +515,14 @@ OK US62BusMus US62_W US62_E
 OK US64BusMus US64_W US64_E
 OK US69AltBax US69_S OK/KS
 OK US69BusChe US69_S US69_N
+OK US69BusDur MainSt_W US69_N
 OK US69BusEuf US69_S US69_N
 OK US69BusMcA US69_S US69_N
 OK US70BusHug US70_W US70_E
 OK US70BypIda US70 US259_S
 OK US75AltTul OK117A US75_N
 OK US75AltTul OK16_W US75_S
+OK US75BusDur MainSt_W US75_N
 OK US75BusHen US75_S US75_N
 OK US270BusSha US270_W US270_E
 OK US271BusHug US271_S US271_N
@@ -597,6 +599,7 @@ OK OK74F OK74 OK33
 OK OK77D US77 End
 OK OK77DCed US77 OK77D
 OK OK77H US77 I-240
+OK OK78 US69/75 MainSt_W
 OK OK80 US62/10 OK51
 OK OK80A OK80_S OK80_N
 OK OK82 I-40 RaiAve
@@ -824,6 +827,7 @@ TX TXSpr544 ToI-37 WatSt_S
 
 TX DalNorTlwy I-35E US380
 TX GeoBushTpk I-635 WBeltLineRd
+TX GeoBushTpk JosLn DalNorTlwy
 
 #Just keeping these saved for now.  Will uncomment if Farm-To-Market/Ranch-to-Market Roads are added
 #---------------------------------------------------------------------------------------------------
