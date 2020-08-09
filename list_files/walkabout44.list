@@ -130,7 +130,7 @@ AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
 AZ US66HisJos I-40(274) I-40(277)
 AZ US66HisKin I-40(1) I-40(44)
-#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014
+#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014  
 AZ US66HisKin ToUS93 I-40(139)
 AZ US66HisLup I-40(359) AZ/NM
 AZ US66HisWil I-40(161) I-40(165)
@@ -138,6 +138,23 @@ AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60(212) AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
+
+# Washington
+WA I-5 OR/WA WA/Can            #279 vs 277
+WA I-82 I-90 WA/OR             #132 vs 133
+WA I-90 WA519 WA/ID            #299 vs 297
+WA I-182 I-82 14               # 15
+WA I-205 OR/WA I-5             # 11
+WA I-405 I-5(154) I-5(182)     # 30
+WA I-705 I-5 StaWay            #  2 vs 1
+
+# Oregon
+OR I-5 CA/OR OR/WA             #312 vs 308
+OR I-82 WA/OR 11               # 11
+OR I-84 I-5 OR/ID              #378 vs 375
+OR I-105 OR99/126 4            #  3
+OR I-205 I-5 OR/WA             # 26
+OR I-405 I-5(299B) I-5(302B)   #  4
 
 # California
 CA I-5 MEX/USA CA/OR
@@ -224,7 +241,7 @@ IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
 
-# North Carolina                Mileage  
+# North Carolina
 NC I-26 4A(240) NC/SC          # 43
 NC I-26Fau TN/NC 9             #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
@@ -261,9 +278,9 @@ SC I-526 10 30                 # 20 vs 19
 SC I-585 ValFalRd 25B          #  3
 
 
-# Not on
+# Interstates Not on
 #CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
-#CA I-605 27 HunDr             #  0.40 length N end
+#CA I-605 27 HunDr             #  0.40 N end
 #NC I-140 1 14                 # 12    Wilmington extension opened 2017
 #NC I-840 6 8                  #  2    Added 2020
 
