@@ -824,6 +824,7 @@ TX TXSpr544 ToI-37 WatSt_S
 
 TX DalNorTlwy I-35E US380
 TX GeoBushTpk I-635 WBeltLineRd
+TX GeoBushTpk JosLn DalNorTlwy
 
 #Just keeping these saved for now.  Will uncomment if Farm-To-Market/Ranch-to-Market Roads are added
 #---------------------------------------------------------------------------------------------------
