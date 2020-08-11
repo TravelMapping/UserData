@@ -1156,6 +1156,23 @@ $DEU A643 1 6
 #DEU E531 A864/B33 A81
 #DEU E641 AUT/DEU DEU/AUT
 
+======ΔΑΝΙΑ======
+
+DNK E20 64 E45_N
+DNK E39 HirFry E45
+DNK E45 E39 DNK/DEU
+
+DNK ArhSMot OstMot 3
+DNK SonMot 10 SonJysMot
+DNK SonJysMot OstMot DNK/DEU
+DNK OstMot 46 SonMot
+DNK HirMot 1 NorMot
+
+DNK MR PR8_Son AabVej
+DNK MR JylGade_W E39/597
+
+DNK PR8 MR_Son E45_S
+DNK SR501 E45 3
 
 ======ΑΓΓΛΙΑ======
 
@@ -2123,6 +2140,18 @@ NLD RingSHer A2_N A2/A65
 NLD RingSHer A65_W A59_S
 NLD RingSHer A65_W A59_S
 NLD CenRingDen S101_N S102
+
+======ΝΟΡΒΗΓΙΑ======
+
+NOR E18 47 49
+NOR E134 Fv360 Fv3344
+
+NOR Fv32 E18_W RekOrnsGate_N
+NOR Fv302 SkyVei E18
+NOR Fv303 Rv400 E18
+NOR Fv360 E134 Fv3340_N
+
+NOR Rv400 Fv303 LarFry
 
 ======ΠΟΛΩΝΙΑ======
 
