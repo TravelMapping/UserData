@@ -483,8 +483,8 @@ NE US83 I-80 PhiAve
 # - only to Halligan Dr
 
 #NE NE61 US 26 concurrency and south to Prospector Drive
-NE NE71 I-80(20) Rd28
-# - actually only to Kimball welcome center
+#NE NE71 I-80(20) Kimball Welcome Center
+#NE NE71 I-80 concurrency
 
 #nevada
 
