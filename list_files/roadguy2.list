@@ -473,6 +473,19 @@ MT WEntRd US20/191 MT/WY
 
 MT GoiSunRd US2 US89
 
+#nebraska
+
+NE I-80 WY/NE 177
+
+NE US26 I-80 US30_E
+# - only to Stagecoach Trail
+NE US83 I-80 PhiAve
+# - only to Halligan Dr
+
+#NE NE61 US 26 concurrency and south to Prospector Drive
+#NE NE71 I-80(20) Kimball Welcome Center
+#NE NE71 I-80 concurrency
+
 #nevada
 
 NV I-15 122 NV/AZ
@@ -1079,12 +1092,16 @@ WA WA522 WA202 I-405
 #wyoming
 
 WY I-25 CO/WY 8
-WY I-80 UT/WY 359
+WY I-80 UT/WY WY/NE
+WY I-180 I-80 I-80BL/30
 
 #WY US26 (US-89 concurrency)
 #WY US30 WY89_S Sage
 WY US30 WY374 I-80(66)
 #WY US30 (I-80, US 189? concurrencies)
+#WY US85 (I-180 concurrency)
+WY US85 I-80BL/30 19thSt
+#WY US85 19thSt 26thSt
 #WY US87 CO/WY I-25(8)
 WY US89 ID/WY OldFaiRd
 WY US189 I-80(18) US26/89_S
@@ -1095,13 +1112,17 @@ WY US191NYe MT/WY WY/MT
 WY US287 I-80(215) I-80BL_W
 #plus I-80, US-89 concurrencies
 
+#WY I-25BLChe (I-180/US 85 concurrencies)
 WY I-80BLEva I-80_W I-80_E
 WY I-80BLLym I-80_W I-80_E
 WY I-80BLGre I-80_W I-80_E
 WY I-80BLRoc I-80_W SunDr
 WY I-80BLRaw I-80_W I-80_E
+WY I-80BLLar I-80_W CedSt
+# - actually McCue St but close enough
 
 #WY US30Bus I-80BL concurrencies
+#WY US87BusChe I-180/US 85 concurrencies
 #WY US189Bus I-80BL concurrency
 #WY US287BypRaw US287_S MahoneySt
 
