@@ -342,6 +342,10 @@ IN US31 CouAve KY/IN
 
 #iowa
 
+#IA I-29 I-80 concurrency
+IA I-29 48 MO/IA
+IA I-80 NE/IA 4
+
 IA US18 SD/IA IA182
 
 #kansas
@@ -402,13 +406,16 @@ MA MA3 MainSt MA28_S
 MA MA16 I-93 MA2_W
 
 #missouri
+#MO I-29 (I-35 concurrency)
+MO I-29 1 MO/IA
+MO I-35 2H 8B
 MO I-35 KS/MO 2U
 MO I-44 11 272
 MO I-44 290B I-70
 MO I-49 7 46
 MO I-55 196 MO/IL
 MO I-64 1 MO/IL
-MO I-70 2L 210
+MO I-70 2H 210
 MO I-70 235C 249
 MO I-170 1E 10
 MO I-270 1 3
@@ -418,11 +425,19 @@ MO I-670 2T 2N
 
 MO US24 I-435 NDelSt
 #MO US50 (I-44 concurrency)
-MO US56 BroSt JCNicPkwy
+MO US56 US71 WardPkwy_E
+#MO US56 WardPkwy_E 51stSt
+#MO US59 (I-29 concurrency)
 #MO US61 (I-64 concurrency)
 MO US63 I-44 MOsE_Phe
 MO US65 I-70 MOsH_Sal
 #MO US71 (I-49 concurrency)
+MO US71 US56 I-70(2L)
+#MO US71 (I-70, 35, and 29 concurrencies)
+MO US136 I-29 US275
+# - only to Sinclair on top of hill
+MO US159 I-29 MOsBB
+# - actually east from 29 to rte F (Holt 223?)
 
 MO I-44BLRol 14thSt I-44_E
 
@@ -475,12 +490,20 @@ MT GoiSunRd US2 US89
 
 #nebraska
 
-NE I-80 WY/NE 177
+NE I-80 WY/NE NE/IA
+NE I-180 I-80 9thSt
 
 NE US26 I-80 US30_E
 # - only to Stagecoach Trail
+#NE US34 I-80 concurrency
+NE US34 I-180_S OSt
+#NE US34 OSt 13thSt
+#NE US77 I-80 concurrency
+NE US81 I-80 LinAve
+# - only to 35th St/Rd 10
 NE US83 I-80 PhiAve
 # - only to Halligan Dr
+NE US275 I-80 108thSt
 
 #NE NE61 US 26 concurrency and south to Prospector Drive
 #NE NE71 I-80(20) Kimball Welcome Center
