@@ -425,8 +425,8 @@ MO I-670 2T 2N
 
 MO US24 I-435 NDelSt
 #MO US50 (I-44 concurrency)
-MO US56 US71 BroSt
-#MO US56 BroSt SummitSt
+MO US56 US71 WardPkwy_E
+#MO US56 WardPkwy_E 51stSt
 #MO US59 (I-29 concurrency)
 #MO US61 (I-64 concurrency)
 MO US63 I-44 MOsE_Phe
