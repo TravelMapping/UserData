@@ -475,7 +475,7 @@ MO US136 I-29 US275
 MO US159 I-29 MOsBB
 # - actually east from 29 to rte F (Holt 223?)
 
-MO I-44BLRol 14thSt I-44_E
+#MO I-44BLRol (US 63 concurrency)
 
 MO MO7 I-49(157) MO13/18
 MO MO13 MO7/18 I-44
