@@ -1235,6 +1235,7 @@ WY ChiCreRdSceDr FosButRd VisCen
 WY GraLpRd NEntRd_W OldFaiRd
 WY GraLpRd NorRimDr NorCynRd_E
 WY NorCynRd GraLoopRd_W GraLoopRd_E
+WY NEntRd GraLoopRd WY/MT
 WY WEntRd MT/WY GraLoopRd
 WY WY89 UT/WY US30_E
 WY WY412 I-80 US189
