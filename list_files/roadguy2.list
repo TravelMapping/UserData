@@ -4,6 +4,14 @@
 
 #alabama
 
+AL I-20 124 
+#AL I-59 (I-20 concurrency)
+AL I-22 MS/AL I-65
+AL I-65 265A 261
+
+AL US43 I-22 CR35Ham
+#- actually S to Shell parking lot
+#AL US78 (I-22, 20 concurrency)
 AL US80 US280/431_N AL/GA
 #AL US80 US280/431 concurrency
 #AL US82 US431 concurrency
@@ -11,7 +19,7 @@ AL US80 US280/431_N AL/GA
 AL US231 FL/AL US431
 AL US280 US80_E US431_S
 AL US431 US231 US280_E
-#AL US431 US280/80 concurrencies
+#AL US431 (I-20, US280/80 concurrencies)
 
 AL US431BusDot US231/431 US84/431
 
@@ -205,7 +213,7 @@ FL FL536 I-4 FL535
 #georgia
 
 GA I-16 1 157
-GA I-20 19 114
+GA I-20 AL/GA 114
 GA I-75 165 293
 GA I-85 21 78
 GA I-85 85 113
@@ -425,15 +433,15 @@ MA MA16 I-93 MA2_W
 
 #mississippi
 
-MS I-22 12 86
+MS I-22 12 MS/AL
 MS I-55 MS/TN 283
 #MS I-69 (I-55 concurrency)
 MS I-269 1 16
 
-MS US45 I-22/78 MS178
+MS US45 MS178 BarCroRd
 #MS US78 (I-22 concurrency)
 
-MS MS145 MS178 MelDr
+MS MS145 MS178 BarCroRd
 MS MS178 US45_N MS145
 
 #missouri
