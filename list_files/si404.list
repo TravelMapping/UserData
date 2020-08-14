@@ -1,3 +1,4 @@
+#Roads#
 ##UK##
 ###England###
 ENG A1Lon A40 A41_N
@@ -195,6 +196,7 @@ ENG A201 A2/A100 A501/A5200
 ENG A202 A2 A2215
 ENG A202 A3 A302
 ENG A205 A214/A3036 A218/A3209
+ENG A205 A307 A4
 ENG A206 A2211 A200
 ENG A206 MarSt A282
 ENG A207 A209 A221_S
@@ -247,7 +249,7 @@ ENG A300 A3211 A3
 ENG A301 A3202 A4
 ENG A302 A3/A201 A4
 ENG A303 M3 A37/A372
-ENG A306 A4 A219/A315
+ENG A306Ham A4 A219/A315
 ENG A308 A309 A332_N
 ENG A308 B3028 A308M
 ENG A308M M4 A308
@@ -1012,7 +1014,7 @@ WLS B4560 Cri A479
 WLS E22 LlaRd WLS/ENG
 WLS E30 42(M4) WLS/ENG
 WLS M4 ENG/WLS 42
-WLS M48 WLS/ENG M4
+WLS M48 ENG/WLS M4
 
 ##EU##
 ###Ireland###
@@ -1303,3 +1305,77 @@ IDN AH150 JlMerJoh Men
 IDN T1 13(JN) 20(JW)
 IDN T2 13(N) 10(N)
 IDN T3 20 31
+
+#Rail#
+###England###
+London Underground: all
+London Overground: all save via New Cross Gate
+DLR: all
+Tramlink: West Croydon - Mitcham Jct
+NR:
+Charing Cross - London Bridge
+Cannon Street - London Bridge
+London Bridge - Welling
+London Bridge - Mottingham
+Lewisham - Hither Green
+London Bridge - Knockholt - Tonbridge - Ashford - Margate
+London Bridge - Peckham Rye - Norbury - East Croydon
+Blackfriars - Bromley North
+Bromley North - Canterbury East
+Ramsgate - Dover - Ashford
+Ashford - Hastings
+Mitcham Junction - Epsom Downs
+Sutton - Wimbledon
+Hendon - Blackfriars - London Bridge - East Croydon
+Victoria - East Croydon - Horsham - Havant - Southampton
+Portsmouth Harbour - Cosham
+Guildford - Havant
+Waterloo - Woking - Basingstoke - Bournemouth
+Waterloo - Richmond - Addlestone (-curve)
+Guildford - Reading
+Reading - Basingstoke
+Basingstoke - Grateley (-curve)
+Southampton - Dean (-curve)
+Ryde Pier Head - Esplande
+Paddington - Bristol TM
+Swindon - Bristol Pkwy
+Bristol Pkwy - Bristol TM
+Reading - Banbury
+Beaconsfield - Banbury - Moor Street
+Leamington - Coventry
+Marylebone - Aylesbury
+Euston - Rugby - Wolverhampton
+Wolverhampton - Telford Central
+Wolverhampton - Stafford
+Rugby - Stafford
+Rugby - Stoke - Stockport
+Stafford - Crewe - Liverpool
+Crewe - Chester
+Chester - Hamilton Square - Moorfields - Lime Street
+Hamilton Square - Moreton
+St Pancras - Wellingborough
+Moorgate - Finsbury Park
+Brimsdown - Stratford
+Stansted - Tottenham Hale
+Liverpool St - Romford
+Fenchurch St - Upminster
+
+###Scotland###
+Fort William - Mallaig
+
+###Germany###
+Frankfurt Airport - Hbf
+Frankfurt Hbf - Bensheim
+Bensheim - Heidelberg Hbf
+
+###Italy###
+Bergamo - Lecco
+Bergamo - Monza - Milano Centrale
+M3 Centrale - Duomo
+M1 Duomo - Cairoli
+
+###Spain###
+Barcelona Metro: Canyelles - Catalunya
+
+###USA###
+LA Metro: Gold Line: Del Mar - Union Station
