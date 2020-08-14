@@ -115,7 +115,7 @@ AZ AZ587 I-10 AZ87
 
 # Arizona Select National Park Highways
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
-#AZ LoopRd US89_S US89_N       34      # Sunset Crater & Wupatki NM - Loop Road
+AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
 AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
 
 AZ NRimDr US191 CR525               # Canyon de Chelley NM
@@ -241,6 +241,25 @@ IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
 
+# Virginia
+VA I-64 WV/VA 299              #301 vs 299
+VA I-66 1 VA/DC                # 75
+VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
+VA I-81 TN/VA VA/WV            #326 vs 325
+VA I-85 NC/VA 68               # 69
+VA I-95 NC/VA VA/DC            #179
+VA I-195 VA146 I-64            #  3   #missed ramp 195 to 95
+VA I-264 I-64/664 ParAve       # 25
+VA I-295 53 1                  # 52
+VA I-381 ComAve 1              #  1
+VA I-395 1 VA/DC               # 10
+VA I-464 1 6B                  #  6 vs 5
+VA I-495 MD/VA VA/DC           # 22 vs 15 overlap 95
+VA I-564 4 VA337               #  3
+VA I-581 1 6                   #  6 vs 7
+VA I-664 1 15                  # 21 vs 20
+
+
 # North Carolina
 NC I-26 4A(240) NC/SC          # 43
 NC I-26Fau TN/NC 9             #  9 =52 vs 53
@@ -281,6 +300,7 @@ SC I-585 ValFalRd 25B          #  3
 # Interstates Not on
 #CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
 #CA I-605 27 HunDr             #  0.40 N end
+#VA I-195 I-64 I-95            #  .030 ramp 195 to 95
 #NC I-140 1 14                 # 12    Wilmington extension opened 2017
 #NC I-840 6 8                  #  2    Added 2020
 
