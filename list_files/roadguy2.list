@@ -40,6 +40,24 @@ AZ AZ389 UT/AZ US89Alt
 
 AZ US66HisFla AZ89A US180_W
 
+#arkansas
+
+#AR I-40 (I-55 concurrency)
+AR I-55 23 TN/AR
+AR I-555 45 1
+
+#AR US61 (I-55 concurrency)
+#AR US62 (US63 concurrency)
+#AR US63 (I-55/555 concurrencies)
+AR US63 I-555(45) AR/MO
+#AR US64 (I-55 concurrency)
+#AR US70 (I-55 concurrency)
+#AR US79 (I-55 concurrency)
+#AR US412 (US63 concurrency)
+
+AR AR69Tru I-555 AR198/214
+AR AR198Tru AR69 Shell_gas_station
+
 #california
 
 CA I-5 17A 29
@@ -405,6 +423,19 @@ MA MA2 50 US3_N
 MA MA3 MainSt MA28_S
 MA MA16 I-93 MA2_W
 
+#mississippi
+
+MS I-22 12 86
+MS I-55 MS/TN 283
+#MS I-69 (I-55 concurrency)
+MS I-269 1 16
+
+MS US45 I-22/78 MS178
+#MS US78 (I-22 concurrency)
+
+MS MS145 MS178 MelDr
+MS MS178 US45_N MS145
+
 #missouri
 #MO I-29 (I-35 concurrency)
 MO I-29 1 MO/IA
@@ -413,6 +444,7 @@ MO I-35 KS/MO 2U
 MO I-44 11 272
 MO I-44 290B I-70
 MO I-49 7 46
+MO I-49 157 I-435
 MO I-55 196 MO/IL
 MO I-64 1 MO/IL
 MO I-70 2H 210
@@ -428,11 +460,15 @@ MO US24 I-435 NDelSt
 MO US56 US71 WardPkwy_E
 #MO US56 WardPkwy_E 51stSt
 #MO US59 (I-29 concurrency)
+MO US60 US65 US63_S
 #MO US61 (I-64 concurrency)
-MO US63 I-44 MOsE_Phe
-MO US65 I-70 MOsH_Sal
-#MO US71 (I-49 concurrency)
-MO US71 US56 I-70(2L)
+MO US63 AR/MO US60_E
+#MO US63 (US 60 concurrency)
+#MO US63 I-44 WalnutSt
+MO US65 I-44 US60/65Bus
+#MO US65 I-70 just north of cloverleaf
+#MO US71 (I-49 concurrencies)
+MO US71 I-435 I-70(2L)
 #MO US71 (I-70, 35, and 29 concurrencies)
 MO US136 I-29 US275
 # - only to Sinclair on top of hill
@@ -441,11 +477,14 @@ MO US159 I-29 MOsBB
 
 MO I-44BLRol 14thSt I-44_E
 
+MO MO7 I-49(157) MO13/18
+MO MO13 MO7/18 I-44
 MO MO30 MO141 I-270
-MO MO141 I-44 MO30
 MO MO43 AR/MO MOsO_McD
-MO MO90 MO43 MO59_N
 MO MO59 MO90_W MOsEE_E
+MO MO90 MO43 MO59_N
+MO MO141 I-44 MO30
+MO MO142 US63_N RisnerAve
 
 MO US66HisMan ClaRd SkiBlvd_N
 
@@ -722,8 +761,19 @@ SD SD115 MinAve_N BenRd_E
 
 #tennessee
 
+TN I-40 1 1D
+TN I-55 TN/AR MS/TN
+
+TN US51 I-40 US64/70_W
+#TN US61 (I-55 concurrency)
+#TN US64 (I-55 concurrency)
+#TN US64 CarolinaSt GeorgiaSt (Memphis)
 TN US64 US411 OceWhiCen
+#TN US70 (I-55 concurrency)
+#TN US70 (US 64 concurrency Memphis)
 #TN US74 (US 64 concurrency)
+#TN US79 (I-55 concurrency)
+#TN US79 (US 64 concurrency Memphis)
 TN US411 GA/TN TN30_E
 #actually Spring Creek Road, north of TN30
 
