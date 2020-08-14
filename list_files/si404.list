@@ -1295,7 +1295,6 @@ NV I-15 34 40
 NV I-215 1 12
 NV US93BusBou US93_S US93_N
 NV NV172 US93 End
-NV NV589 I-15 LasVegBlvd
 NV NV593 I-15 ParRd
 NV CR215 12 19
 
@@ -1308,11 +1307,8 @@ IDN T3 20 31
 
 #Rail#
 ###England###
-London Underground: all
-London Overground: all save via New Cross Gate
-DLR: all
-Tramlink: West Croydon - Mitcham Jct
 NR:
+London Overground: all save via New Cross Gate
 Charing Cross - London Bridge
 Cannon Street - London Bridge
 London Bridge - Welling
@@ -1359,6 +1355,9 @@ Brimsdown - Stratford
 Stansted - Tottenham Hale
 Liverpool St - Romford
 Fenchurch St - Upminster
+London Underground: all
+DLR: all
+Tramlink: West Croydon - Mitcham Jct
 
 ###Scotland###
 Fort William - Mallaig
