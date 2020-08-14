@@ -1,0 +1,306 @@
+# Arizona Interstate Highways
+AZ I-8 CA/AZ 178
+AZ I-10 CA/AZ AZ/NM
+AZ I-15 NV/AZ AZ/UT
+AZ I-17 194 341
+AZ I-19 I-19BL 101
+AZ I-40 CA/AZ AZ/NM
+
+# Arizona Business Interstate Highways
+AZ I-8BLYum CA/AZ I-8_E
+AZ I-8BLGil I-8_W I-8_E
+AZ I-10BLQua I-10_W I-10_E
+AZ I-10BLBen I-10_W I-10_E
+AZ I-10BLWil I-10_W I-10_E
+AZ I-10BLBow I-10_W I-10_E
+AZ I-10BLSan I-10_W I-10_E
+AZ I-19BLNog MEX/USA I-19_N
+AZ I-40BLSel I-40_W I-40_E
+AZ I-40BLAsh I-40_W I-40_E
+AZ I-40BLFla I-40_W I-40_E
+AZ I-40BLWin I-40_W I-40_E
+AZ I-40BSWin I-40BL *OldHwy66
+AZ I-40BLJos I-40_W I-40_E
+AZ I-40BLHol I-40_W I-40_E
+AZ I-40BLWil I-40_W I-40_E
+
+# Arizona US Highways
+AZ US60 I-10(31) AZ/NM
+AZ US64 US160 AZ/NM
+AZ US70 US60 AZ/NM
+AZ US89 I-40BL/180 AZ/UT
+AZ US93 US60 AZ/NV
+AZ US95 MEX/USA AZ/CA
+AZ US160 US89 AZ/NM
+AZ US163 US160 AZ/UT
+AZ US180 GraCynNP US191_S
+AZ US191 AZ80_E AZ/UT
+
+# Arizona Future Interstate Highways
+AZ I-11FutKin 71(40) 48(40)
+AZ I-11FutHoo 2 AZ/NV
+
+# Arizona Select Named Freeways
+AZ SkyHarBlvd I-10 AZ202
+
+# Arizona Auxiliary Numbered Highways
+AZ US89AltFre US89 AZ/UT
+AZ US93TrkLau US93 AZ/NV
+
+# Arizona State Highways
+AZ AZ24 AZ202 EllRd
+AZ AZ51 I-10 15
+AZ AZ61 US60 US191_N
+AZ AZ64 I-40 US89
+AZ AZ66 I-40 Coc/Yav
+AZ AZ68 AZ95 US93
+AZ AZ69 I-17 AZ89
+AZ AZ71 US93 AZ89
+AZ AZ72 AZ95 US60
+AZ AZ73 US60/77 AZ260
+AZ AZ74 US60 I-17
+AZ AZ75 US70 US191/78
+AZ AZ77 I-10 End
+AZ AZ78 US191/75 AZ/NM
+AZ AZ79 AZ77 US60
+AZ AZ79BusFlo AZ79_S AZ79_N
+AZ AZ80 I-10BL AZ/NM
+AZ AZ82 I-19BL AZ80
+AZ AZ83 ParCanRd I-10
+AZ AZ84 I-8 AZ287/387
+AZ AZ84Elo AZ87 I-10
+AZ AZ85 MEX/USA I-10
+AZ AZ86 AZ85 ValRd
+AZ AZ86 I-19 16thAve
+AZ AZ87 AZ84 AZ264
+AZ AZ88 US60 AZ188
+AZ AZ89 US93 I-40
+AZ AZ89ASed 317 I-40BL
+AZ AZ90 AZ80 I-10
+AZ AZ92 AZ90 AZ80
+AZ AZ95 I-10BL/95 I-40
+AZ AZ95Bul PassCanRd AZ/NV
+AZ AZ95SPaD AZ95 TakPoiRd
+AZ AZ95SPar CA/AZ AZ95
+AZ AZ96 BruMineRd HilRd
+AZ AZ97 US93 AZ96
+AZ AZ98 US89 BIA6331
+AZ AZ101 1 61B
+AZ AZ143 BroRd McDRd
+AZ AZ169 AZ69 I-17
+AZ AZ177 AZ77 US60
+AZ AZ179 I-17 AZ89A
+AZ AZ181 US191 PinCanRd
+AZ AZ186 I-10BL_E AZ181
+AZ AZ187 AZ387 AZ87
+AZ AZ188 US60 AZ87
+AZ AZ189 MEX/USA I-19BL
+AZ AZ195 AveE I-8
+AZ AZ202 1A 40thSt
+AZ AZ210 BroBlvd GolfLinRd
+AZ AZ238 End AZ347
+AZ AZ260 AZ89A MainSt_E
+AZ AZ264 US160 AZ/NM
+AZ AZ277 AZ260 AZ377
+AZ AZ287 I-10 AZ79
+AZ AZ288 AZ88 FR152
+AZ AZ289 End I-19
+AZ AZ303 I-10 I-17
+AZ AZ347 AZ84 I-10
+AZ AZ366 FR819 US191
+AZ AZ377 AZ277 AZ77
+AZ AZ387 AZ84 AZ87
+AZ AZ389 UT/AZ US89Alt
+AZ AZ587 I-10 AZ87
+
+# Arizona Select National Park Highways
+AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
+AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
+AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
+
+AZ NRimDr US191 CR525               # Canyon de Chelley NM
+#AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
+AZ PetForRd US180 I-40              # Petrified Forest NM
+AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
+AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
+
+# Arizona US Historic Highways
+AZ US66HisAsh I-40(144) I-40(146)
+AZ US66HisFla I-40(191) I-40(204)
+AZ US66HisHol I-40(285) I-40(289)
+AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisKin I-40(1) I-40(44)
+#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014  
+AZ US66HisKin ToUS93 I-40(139)
+AZ US66HisLup I-40(359) AZ/NM
+AZ US66HisWil I-40(161) I-40(165)
+AZ US66HisWin I-40(252) I-40(257)
+AZ US80HisDou I-10(303) AZ/NM
+AZ US80HisFlo US60(212) AZ77_S
+AZ US89AHisCla AZ89A_S AZ89A_N
+
+# Washington
+WA I-5 OR/WA WA/Can            #279 vs 277
+WA I-82 I-90 WA/OR             #132 vs 133
+WA I-90 WA519 WA/ID            #299 vs 297
+WA I-182 I-82 14               # 15
+WA I-205 OR/WA I-5             # 11
+WA I-405 I-5(154) I-5(182)     # 30
+WA I-705 I-5 StaWay            #  2 vs 1
+
+# Oregon
+OR I-5 CA/OR OR/WA             #312 vs 308
+OR I-82 WA/OR 11               # 11
+OR I-84 I-5 OR/ID              #378 vs 375
+OR I-105 OR99/126 4            #  3
+OR I-205 I-5 OR/WA             # 26
+OR I-405 I-5(299B) I-5(302B)   #  4
+
+# California
+CA I-5 MEX/USA CA/OR
+CA I-8 SunCliBlvd CA/AZ
+CA I-10 1 CA/AZ
+CA I-15 6B CA/NV
+CA I-40 I-15 CA/AZ
+CA I-80 1A CA/NV
+CA I-105 1A 18
+CA I-110 GafSt 21
+CA I-205 I-580 I-5
+CA I-210 1A 45
+CA I-215 I-15 54B
+CA I-238 14 17
+CA I-280 I-680/101 5thSt
+CA I-305 1A 7C
+CA I-380 5A 7
+CA I-405 I-5(94A) I-5(158)
+CA I-505 1A I-5
+CA I-580 1A I-5
+CA I-605 CA22 27                    # Missed Huntington Drive extension
+CA I-680 I-280/101 71
+CA I-710 1A ValBlvd
+CA I-780 1A 7
+CA I-805 I-5(1A) I-5(31)
+CA I-880 I-280 46B
+CA I-980 I-880 2B
+
+# Nevada
+NV I-11 AZ/NV 61
+NV I-15 CA/NV NV/AZ
+NV I-80 CA/NV NV/UT
+NV I-215 1 12
+NV I-515 61 76
+NV I-580 US50/395 68
+
+# Utah
+UT I-15 AZ/UT UT/ID
+UT I-70 0 UT/CO
+UT I-80 NV/UT UT/WY
+UT I-84 ID/UT 120
+UT I-215 I-80 I-15
+
+# Illinois
+IL I-24 I-57 IL/KY             # 39
+IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
+IL I-41 WI/IL 1B               #  1 vs 0 all overlap
+IL I-55 MO/IL US41             #298 vs 294
+IL I-57 MO/IL 359              #363 vs 359
+IL I-64 MO/IL IL/IN            #132 vs 124 overlap
+IL I-70 MO/IL IL/IN            #161 vs 157
+IL I-72 MO/IL 182              #184 vs 177
+IL I-74 IA/IL IL/IN            #222 vs 214 overlap I-55
+IL I-80 IA/IL IL/IN            #165 vs 164
+IL I-88 1 I-290                #142 vs 141
+IL I-90 WI/IL IL/IN            #109
+IL I-94 WI/IL IL/IN            # 78 vs 59
+IL I-155 0 I-74                # 32
+IL I-172 0 19                  # 19 vs 20
+IL I-180 IL26_S I-80           # 13
+IL I-190 I-90 ChiOHAir         #  3
+IL I-255 MO/IL 31              # 27
+IL I-270 MO/IL 15              # 15
+IL I-280 IA/IL I-80            # 18 vs 8 overlap 74
+IL I-290 I-90 30               # 30
+IL I-294 I-94_E I-94_W         # 53 vs 48 overlap
+IL I-355 0 I-290               # 32
+IL I-474 0 15                  # 14 vs 15
+
+# Indiana
+IN I-64 IL/IN IN/KY            #124 vs 123
+IN I-65 KY/IN 262              #265 vs 261
+IN I-69 200 IN/MI              #160 vs 156
+IN I-69Whe KenAve 134          #136 vs 118  
+IN I-70 IL/IN IN/OH            #158 vs 154
+IN I-74 IL/IN IN/OH            #174 vs 151 overlap
+IN I-80 IL/IN IN/OH            #153 vs 152
+IN I-90 IL/IN IN/OH            #158 vs 21 overlap
+IN I-94 IL/IN IN/MI            # 46 vs 30 overlap
+#IN I-164 deleted              #  0 vs 21 chd to I-69
+IN I-265 0 7                   #  7
+IN I-275 KY/IN IN/OH           #  3
+IN I-465 I-65 53               # 53
+IN I-469 0 31                  # 31
+IN I-865 I-65 I-465            #  4 
+
+# Virginia
+VA I-64 WV/VA 299              #301 vs 299
+VA I-66 1 VA/DC                # 75
+VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
+VA I-81 TN/VA VA/WV            #326 vs 325
+VA I-85 NC/VA 68               # 69
+VA I-95 NC/VA VA/DC            #179
+VA I-195 VA146 I-64            #  3   #missed ramp 195 to 95
+VA I-264 I-64/664 ParAve       # 25
+VA I-295 53 1                  # 52
+VA I-381 ComAve 1              #  1
+VA I-395 1 VA/DC               # 10
+VA I-464 1 6B                  #  6 vs 5
+VA I-495 MD/VA VA/DC           # 22 vs 15 overlap 95
+VA I-564 4 VA337               #  3
+VA I-581 1 6                   #  6 vs 7
+VA I-664 1 15                  # 21 vs 20
+
+
+# North Carolina
+NC I-26 4A(240) NC/SC          # 43
+NC I-26Fau TN/NC 9             #  9 =52 vs 53
+NC I-40 TN/NC 420              #420
+NC I-73 22 123                 #101 vs 98
+NC I-74 VA/NC 17               # 17
+NC I-74Hig 55 22(73)           # 89 (overlap) vs 21
+NC I-74Pem 194 213             # 19 vs 47 (incl some fut) 
+NC I-77 SC/NC NC/VA            #107 vs 105
+NC I-85 SC/NC NC/VA            #237 vs 205
+NC I-87 16(440) 13             # 13 vs 10
+NC I-95 SC/NC NC/VA            #184 vs 181
+NC I-140 14 20                 #  7 of 19
+NC I-240 1A 9                  #  9 vs 10
+NC I-277 1B 5                  #  4
+NC I-285 I-85 107(52)          # 23
+NC I-440 1 16                  # 17
+NC I-485 30 I-85(48)           # 66 vs 67
+NC I-540 1 26                  # 26
+NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
+NC I-795 38(264) 24            # 26
+NC I-840 103(73) 6             #  6 of 8
+
+# South Carolina
+SC I-20 GA/SC 141              #144 vs 142
+SC I-26 NC/SC 221              #224 vs 221
+SC I-77 I-26 SC/NC             # 92 vs 91
+SC I-85 GA/SC SC/NC            #108 vs 106
+SC I-95 GA/SC SC/NC            #202 vs 199
+SC I-126 I-26 GadSt            #  4
+SC I-185 I-385 HenAve          # 18 vs 17
+SC I-385 I-26 42               # 42
+SC I-520 GA/SC I-20            #  8 vs 7
+SC I-526 10 30                 # 20 vs 19
+SC I-585 ValFalRd 25B          #  3
+
+
+# Interstates Not on
+#CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
+#CA I-605 27 HunDr             #  0.40 N end
+#VA I-195 I-64 I-95            #  .030 ramp 195 to 95
+#NC I-140 1 14                 # 12    Wilmington extension opened 2017
+#NC I-840 6 8                  #  2    Added 2020
+
