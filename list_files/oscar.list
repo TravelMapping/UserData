@@ -852,7 +852,7 @@ ON ON420 MonRd StaAve
 ON ON427 EvaAve RR7
 ON ONQEW 0 139
 ON GarExpy 139 LakeShoBlvdE
-ON DonValExpy GarExpy ON401/404
+ON DonValPkwy GarExpy ON401/404
 ON LinAlePkwy ON403 RedHillPkwy
 ON RedHillPkwy LinAlePkwy QEW
 ON AllRd ON401 TraRd
@@ -5096,7 +5096,10 @@ NV NV147 LosRd LkMeadNRA
 NV NV156 NV158 US95
 NV NV157 KyleCanCir SkyPoiRd
 NV NV159 NV160 NV612
-# route split needed, adjust this entry accordingly
+# remove preceding line when route file updated
+NV NV159 NV160 CR215
+NV NV159 MLKBlvd GraCenPkwy
+NV NV159 NV582 NV612
 NV NV160 US95 LasVegBlvd
 NV NV161 EsmSt LasVegBlvd
 NV NV163 US95 NV/AZ
@@ -5132,6 +5135,8 @@ NV NV431 US395_N US395_S
 NV NV487 UT/NV US6/50
 NV NV488 NV487 LehCavVC
 NV NV490 US93 End
+# remove preceding line when route file updated
+NV NV490 US93 ElyStaPri
 NV NV562 LasVegBlvd AnnOakDr
 NV NV564 I-215/515 LkMeadNRA
 NV NV573 FreRd NV604
@@ -5143,7 +5148,8 @@ NV NV582 I-11 8thSt
 NV NV592Spr NV595 I-15 
 NV NV592 ParRd NV582
 NV NV593 DeanMarDr NV582
-# route split needed, adjust this entry accordingly
+# remove preceding line when route file updated
+NV NV593 MarPkwy NV582
 NV NV595 TroAve US95
 NV NV596 SahAve SmoRanRd
 NV NV599 RedAve US95_N
