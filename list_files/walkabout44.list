@@ -241,6 +241,41 @@ IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
 
+# Delaware
+DE I-95 MD/DE DE/PA            # 23 vs 24
+DE I-295 I-95 DE/NJ            #  5 vs 6
+DE I-495 I-95 6                # 11
+
+# Maryland
+MD I-68 WV/MD 82               # 80 vs 81            
+MD I-70 PA/MD 94               # 94
+MD I-81 WV/MD MD/PA            # 12
+MD I-83 1 MD/PA                # 34
+MD I-95 DC/MD MD/DE            #109 vs 110
+MD I-97 1 17                   # 17 vs 18
+MD I-195 TerRd 4               #  4 vs 5
+MD I-270 I-495 32              # 33+
+MD I-270SprAsh I-495 2         #  2=35 vs 34
+MD I-295 I-95/495 MD/DC        #  1
+MD I-370 1 3                   #  2 vs 3
+MD I-395 I-95 ConSt            #  1+
+MD I-395Was I-395 MD295        #  1=2 vs 2
+MD I-495 DC/MD MD/VA           # 41 vs 16 overlap
+MD I-595 7 24                  # 20 (unsigned)
+MD I-695 BroHwy 44             # 52 vs 51
+MD I-795 1 9                   #  9
+MD I-895 I-95 15               # 15+
+MD I-895SprFer I-895SprFur I-695 #1+
+MD I-895SprFur I-895 MD2       #  2=18 vs 11 Table 3 only has 11
+
+# DC
+DC I-66 VA/DC US29             #  1 vs 2
+DC I-95 VA/DC DC/MD            #  0 vs 0
+DC I-295 MD/DC 5               #  5
+DC I-395 VA/DC US50            #  4 vs 3
+DC I-495 VA/DC DC/MD           #  0
+DC I-695 I-395 2A              #  2
+
 # Virginia
 VA I-64 WV/VA 299              #301 vs 299
 VA I-66 1 VA/DC                # 75
@@ -259,6 +294,14 @@ VA I-564 4 VA337               #  3
 VA I-581 1 6                   #  6 vs 7
 VA I-664 1 15                  # 21 vs 20
 
+# West Virginia
+WV I-64 KY/WV WV/VA            #182 vs 125 overlap I-77
+WV I-68 I-79 WV/MD             # 31 vs 32
+WV I-70 OH/WV WV/PA            # 14
+WV I-77 VA/WV WV/OH            #184 vs 187
+WV I-79 I-77 WV/PA             #157 vs 161
+WV I-81 VA/WV WV/MD            # 26
+WV I-470 OH/WV 4               #  4
 
 # North Carolina
 NC I-26 4A(240) NC/SC          # 43
@@ -295,6 +338,21 @@ SC I-385 I-26 42               # 42
 SC I-520 GA/SC I-20            #  8 vs 7
 SC I-526 10 30                 # 20 vs 19
 SC I-585 ValFalRd 25B          #  3
+
+# Florida
+FL I-4 I-275 132               #134 vs 132
+FL I-10 AL/FL I-95             #367 vs 362=T3
+FL I-75 1 FL/GA                #479 vs 471=T3
+FL I-95 US1 FL/GA              #389 vs 382=T3
+FL I-110 1 6                   #  6 vs 7
+FL I-175 I-275 FL687           #  1 vs 2
+FL I-195 1 FL907A              #  4
+FL I-275 I-75_S I-75_N         # 60 vs 61
+FL I-295 I-95 61               # 62 vs 61
+FL I-375 I-275 US19Alt         #  1
+FL I-395 1 FLA1A               #  1
+FL I-595 I-75 12               # 14 vs 13
+
 
 
 # Interstates Not on
