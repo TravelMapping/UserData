@@ -5095,11 +5095,9 @@ NV NV146 SouHigPkwy I-215
 NV NV147 LosRd LkMeadNRA
 NV NV156 NV158 US95
 NV NV157 KyleCanCir SkyPoiRd
-NV NV159 NV160 NV612
-# remove preceding line when route file updated
 NV NV159 NV160 CR215
-NV NV159 MLKBlvd GraCenPkwy
-NV NV159 NV582 NV612
+NV NV159Dow MLKBlvd GraCenPkwy
+NV NV159Sun NV582 NV612
 NV NV160 US95 LasVegBlvd
 NV NV161 EsmSt LasVegBlvd
 NV NV163 US95 NV/AZ
@@ -5134,8 +5132,6 @@ NV NV375 NV318 US6
 NV NV431 US395_N US395_S
 NV NV487 UT/NV US6/50
 NV NV488 NV487 LehCavVC
-NV NV490 US93 End
-# remove preceding line when route file updated
 NV NV490 US93 ElyStaPri
 NV NV562 LasVegBlvd AnnOakDr
 NV NV564 I-215/515 LkMeadNRA
@@ -5147,8 +5143,6 @@ NV NV579 US95Bus LasVegBlvd
 NV NV582 I-11 8thSt
 NV NV592Spr NV595 I-15 
 NV NV592 ParRd NV582
-NV NV593 DeanMarDr NV582
-# remove preceding line when route file updated
 NV NV593 MarPkwy NV582
 NV NV595 TroAve US95
 NV NV596 SahAve SmoRanRd
