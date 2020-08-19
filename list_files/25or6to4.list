@@ -794,7 +794,7 @@ OR OR226 US20 FishHatRd
 SD SD44 I-90BL_W US16_E
 SD SD79 US18/385 US16Trk
 SD SD244 MtRusNP US16Alt
-US US30 TonyGroRd UT/WY
+UT UT30 TonyGroRd UT/WY
 UT UT68 UT209 I-215(13)
 UT UT154 I-80 TerDr
 UT UT209 UT68 I-15
@@ -851,7 +851,7 @@ WY NorCynRd GraLoopRd_W GraLoopRd_E
 WY RocMemPkwy GraTetNP YelNP
 WY SEntRd US89/191 GraLoopRd
 WY FosButRd US30 ChiCreRdSceDr
-WY ChiCreRdSceDr FosButRd FosLakeRTrl_N
+WY ChiCreRdSceDr FosButRd FosLakeTrl_N
 FL FLA1AKey BerSt US1
 
 NE NE2BusNeb SteParkRd US75Bus
