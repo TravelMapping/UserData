@@ -198,6 +198,35 @@ UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
 
+# Texas
+TX I-2 130 176                 # 47
+TX I-10 NM/TX TX/LA            #893 vs 879 2 overlap w/I-35
+TX I-14 US190BusCop I-35       # 25
+TX I-20 I-10 TX/LA             #645 vs 636
+TX I-27 1A 123B                #126 vs 124
+TX I-30 I-20 TX/AR             #227 vs 224
+TX I-35 TX359 370B             #378+
+TX I-35Gai 467 TX/OK           # 37=415 vs 407
+TX I-35E 370B 467              # 98 vs 97
+TX I-35W I-35(370B) 85         # 87 vs 85
+TX I-37 US181 142              #146 vs 143
+TX I-40 NM/TX TX/OK            #179 vs 177
+TX I-44 1 TX/OK                # 15
+TX I-45 1A 284A                #290 vs 285
+TX I-69 TXSpr529 167           # 76 vs 75
+TX I-69C 1 FM490               # 18
+TX I-69E PolkSt 51             # 52 vs 54+
+TX I-69ERob FM2826 I-37        # 10 vs 7=61 Table 3 has 61
+TX I-69W WorTraBri I-35        #  2 vs 1
+TX I-110 MEX/USA I-10          #  1
+TX I-169 I-69E FM1847          #  3; Table 3 has 1.5
+TX I-345 284A 286              #  1 Unsigned
+TX I-369 TXLp151 I-30          #  4
+TX I-410 I-35(145A) 53         # 53 vs 49 think T3 is short
+TX I-610 TX288 38              # 39 vs 38
+TX I-635 1C 36                 # 37
+TX I-820 1A 34                 # 35 
+
 # Illinois
 IL I-24 I-57 IL/KY             # 39
 IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
@@ -241,6 +270,65 @@ IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
 
+# Ohio
+OH I-70 IN/OH OH/WV            #228 vs 226
+OH I-71 KY/OH I-90             #251 vs 246 2 mi overlap
+OH I-74 IN/OH I-75             # 19
+OH I-75 KY/OH OH/MI            #213 vs 211
+OH I-76 1 OH/PA                # 82
+OH I-77 WV/OH I-90             #164 vs 160
+OH I-80 IN/OH OH/PA            #240 vs 237
+OH I-90 IN/OH OH/PA            #247 vs 102 overlap 80
+OH I-270 I-71 55               # 55
+OH I-271 1 I-90                # 40
+OH I-275 IN/OH OH/KY           # 56 vs 53 overlap 74
+OH I-277 1 4                   #  4
+OH I-280 1A I-75               # 13 vs 12
+OH I-470 I-70 OH/WV            #  6 vs 7
+OH I-471 KY/OH 7               #  1
+OH I-475 I-75 20               # 20
+OH I-480 I-80_W I-80_E         # 42+ 
+OH I-480War I-480 I-271        #  1=43 vs 42
+OH I-490 1A 55thSt             #  2
+OH I-670 I-70 10               # 10 vs 9
+OH I-675 I-75 26               # 26 vs 27
+OH I-680 1 I-76                # 17 vs 16
+
+# Delaware
+DE I-95 MD/DE DE/PA            # 23 vs 24
+DE I-295 I-95 DE/NJ            #  5 vs 6
+DE I-495 I-95 6                # 11
+
+# Maryland
+MD I-68 WV/MD 82               # 80 vs 81            
+MD I-70 PA/MD 94               # 94
+MD I-81 WV/MD MD/PA            # 12
+MD I-83 1 MD/PA                # 34
+MD I-95 DC/MD MD/DE            #109 vs 110
+MD I-97 1 17                   # 17 vs 18
+MD I-195 TerRd 4               #  4 vs 5
+MD I-270 I-495 32              # 33+
+MD I-270SprAsh I-495 2         #  2=35 vs 34
+MD I-295 I-95/495 MD/DC        #  1
+MD I-370 1 3                   #  2 vs 3
+MD I-395 I-95 ConSt            #  1+
+MD I-395Was I-395 MD295        #  1=2 vs 2
+MD I-495 DC/MD MD/VA           # 41 vs 16 overlap
+MD I-595 7 24                  # 20 (unsigned)
+MD I-695 BroHwy 44             # 52 vs 51
+MD I-795 1 9                   #  9
+MD I-895 I-95 15               # 15+
+MD I-895SprFer I-895SprFur I-695 #1+
+MD I-895SprFur I-895 MD2       #  2=18 vs 11 Table 3 only has 11
+
+# DC
+DC I-66 VA/DC US29             #  1 vs 2
+DC I-95 VA/DC DC/MD            #  0 vs 0
+DC I-295 MD/DC 5               #  5
+DC I-395 VA/DC US50            #  4 vs 3
+DC I-495 VA/DC DC/MD           #  0
+DC I-695 I-395 2A              #  2
+
 # Virginia
 VA I-64 WV/VA 299              #301 vs 299
 VA I-66 1 VA/DC                # 75
@@ -259,6 +347,14 @@ VA I-564 4 VA337               #  3
 VA I-581 1 6                   #  6 vs 7
 VA I-664 1 15                  # 21 vs 20
 
+# West Virginia
+WV I-64 KY/WV WV/VA            #182 vs 125 overlap I-77
+WV I-68 I-79 WV/MD             # 31 vs 32
+WV I-70 OH/WV WV/PA            # 14
+WV I-77 VA/WV WV/OH            #184 vs 187
+WV I-79 I-77 WV/PA             #157 vs 161
+WV I-81 VA/WV WV/MD            # 26
+WV I-470 OH/WV 4               #  4
 
 # North Carolina
 NC I-26 4A(240) NC/SC          # 43
@@ -295,6 +391,21 @@ SC I-385 I-26 42               # 42
 SC I-520 GA/SC I-20            #  8 vs 7
 SC I-526 10 30                 # 20 vs 19
 SC I-585 ValFalRd 25B          #  3
+
+# Florida
+FL I-4 I-275 132               #134 vs 132
+FL I-10 AL/FL I-95             #367 vs 362=T3
+FL I-75 1 FL/GA                #479 vs 471=T3
+FL I-95 US1 FL/GA              #389 vs 382=T3
+FL I-110 1 6                   #  6 vs 7
+FL I-175 I-275 FL687           #  1 vs 2
+FL I-195 1 FL907A              #  4
+FL I-275 I-75_S I-75_N         # 60 vs 61
+FL I-295 I-95 61               # 62 vs 61
+FL I-375 I-275 US19Alt         #  1
+FL I-395 1 FLA1A               #  1
+FL I-595 I-75 12               # 14 vs 13
+
 
 
 # Interstates Not on
