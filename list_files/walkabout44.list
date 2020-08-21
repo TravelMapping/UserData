@@ -198,6 +198,35 @@ UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
 
+# Texas
+TX I-2 130 176                 # 47
+TX I-10 NM/TX TX/LA            #893 vs 879 2 overlap w/I-35
+TX I-14 US190BusCop I-35       # 25
+TX I-20 I-10 TX/LA             #645 vs 636
+TX I-27 1A 123B                #126 vs 124
+TX I-30 I-20 TX/AR             #227 vs 224
+TX I-35 TX359 370B             #378+
+TX I-35Gai 467 TX/OK           # 37=415 vs 407
+TX I-35E 370B 467              # 98 vs 97
+TX I-35W I-35(370B) 85         # 87 vs 85
+TX I-37 US181 142              #146 vs 143
+TX I-40 NM/TX TX/OK            #179 vs 177
+TX I-44 1 TX/OK                # 15
+TX I-45 1A 284A                #290 vs 285
+TX I-69 TXSpr529 167           # 76 vs 75
+TX I-69C 1 FM490               # 18
+TX I-69E PolkSt 51             # 52 vs 54+
+TX I-69ERob FM2826 I-37        # 10 vs 7=61 Table 3 has 61
+TX I-69W WorTraBri I-35        #  2 vs 1
+TX I-110 MEX/USA I-10          #  1
+TX I-169 I-69E FM1847          #  3; Table 3 has 1.5
+TX I-345 284A 286              #  1 Unsigned
+TX I-369 TXLp151 I-30          #  4
+TX I-410 I-35(145A) 53         # 53 vs 49 think T3 is short
+TX I-610 TX288 38              # 39 vs 38
+TX I-635 1C 36                 # 37
+TX I-820 1A 34                 # 35 
+
 # Illinois
 IL I-24 I-57 IL/KY             # 39
 IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
@@ -240,6 +269,30 @@ IN I-275 KY/IN IN/OH           #  3
 IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
+
+# Ohio
+OH I-70 IN/OH OH/WV            #228 vs 226
+OH I-71 KY/OH I-90             #251 vs 246 2 mi overlap
+OH I-74 IN/OH I-75             # 19
+OH I-75 KY/OH OH/MI            #213 vs 211
+OH I-76 1 OH/PA                # 82
+OH I-77 WV/OH I-90             #164 vs 160
+OH I-80 IN/OH OH/PA            #240 vs 237
+OH I-90 IN/OH OH/PA            #247 vs 102 overlap 80
+OH I-270 I-71 55               # 55
+OH I-271 1 I-90                # 40
+OH I-275 IN/OH OH/KY           # 56 vs 53 overlap 74
+OH I-277 1 4                   #  4
+OH I-280 1A I-75               # 13 vs 12
+OH I-470 I-70 OH/WV            #  6 vs 7
+OH I-471 KY/OH 7               #  1
+OH I-475 I-75 20               # 20
+OH I-480 I-80_W I-80_E         # 42+ 
+OH I-480War I-480 I-271        #  1=43 vs 42
+OH I-490 1A 55thSt             #  2
+OH I-670 I-70 10               # 10 vs 9
+OH I-675 I-75 26               # 26 vs 27
+OH I-680 1 I-76                # 17 vs 16
 
 # Delaware
 DE I-95 MD/DE DE/PA            # 23 vs 24
