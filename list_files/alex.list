@@ -14,6 +14,8 @@ WA I-5 OR/WA WA/Can
 CA I-105 1A 18
 
 CA I-205 I-580 I-5
+OR I-205 I-5 OR/WA
+WA I-205 27 I-5
 
 CA I-305 1A 6
 
@@ -49,10 +51,22 @@ CA I-215 34 40
 UT I-215 I-80 6
 
 ########
+# I-17 #
+########
+AZ I-17 337 340
+
+########
+# I-35 #
+########
+MN I-35 127 237
+
+MN I-35W 27 I-35(127)
+
+########
 # I-40 #
 ########
 CA I-40 I-15 CA/AZ
-AZ I-40 CA/AZ 165
+AZ I-40 CA/AZ 195
 
 ########
 # I-80 #
@@ -94,6 +108,18 @@ WA I-90 WA519 WA/ID
 ID I-90 WA/ID ID/MT
 MT I-90 ID/MT 33
 
+########
+# I-94 #
+########
+MN I-94 231A 241B
+
+MN I-394 5A 8B
+
+MN I-494 1A 7
+
+MN I-694 35A 41
+
+
 #########
 # I-238 #
 #########
@@ -118,9 +144,10 @@ WA US12 US101 WA8
 WA US12 TucRd WA131
 
 ########
-# US30 #
+# US20 #
 ########
 ID US20 311 I-15(119)
+OR US20 IndForRd US97(135A)
 
 ########
 # US26 #
@@ -139,6 +166,17 @@ ID US30 ID74 ID50
 # US50 #
 ########
 CA US50 I-80 CA/NV
+NV US50 CA/NV LakDr
+
+########
+# US53 #
+########
+MN US53 MN33 RivSt
+
+########
+# US66 #
+########
+CA US66HisHol I-10 BunDr
 
 ########
 # US89 #
@@ -217,13 +255,20 @@ CA US395 I-15 CA/NV
 NV US395 CA/NV NV88
 
 
-################
-# STATE ROUTES #
-################
+##################
+# STATE HIGHWAYS #
+##################
 
-###########################
-# California State Routes #
-###########################
+##########################
+# Arizona State Highways #
+##########################
+AZ AZ64 I-40 US89
+
+AZ AZ89ASed AZ179 I-17(340)
+
+#############################
+# California State Highways #
+#############################
 CA CA1 CA133 MacBlvd
 CA CA1 ElSegBlvd OldStaHwy
 CA CA1 CA128 LitLakeRd
@@ -380,6 +425,158 @@ CA CA254 US101(645) US101(674)
 CA CA261 1 6B
 
 CA CA330 CA210 CA18
+
+########################
+# Idaho State Highways #
+########################
+ID ID31 US26 ID33
+
+ID ID33 ID31 ID/WY
+
+ID ID50 US30 I-84
+
+ID ID74 US93 US30
+
+############################
+# Minnesota State Highways #
+############################
+MN MN5 I-494(1A) MSPApt
+
+MN MN33 I-35 US53
+
+MN MN77 CR38 I-494
+
+MN MN100 I-494 I-694
+
+##########################
+# Montana State Highways #
+##########################
+MT MT28 MT200 US93
+
+MT MT35 MT82 SR206
+
+MT MT40 US93 US2
+
+MT MT82 US93 MT35
+
+MT MT135 I-90 MT200
+
+MT MT200 MT28 MT135
+
+MT SR206 MT35 US2
+
+#########################
+# Nevada State Highways #
+#########################
+NV NV28 CA/NV VilBlvd
+
+NV NV373 CA/NV US95
+
+#######################
+# Oregon State Routes #
+#######################
+OR OR35 US26 OR/WA
+
+OR OR62 OR234 US97
+
+OR OR138 SusCreRd CraLakeHwy
+
+OR OR234 OR99_E OR62
+
+OR OR422 OR62 US97_N
+
+#######################
+# Utah State Highways #
+#######################
+UT UT9 I-15 US89
+
+UT UT12 US89 UT63
+
+UT UT63 UT12 BryCanNP
+
+UT UT190 I-215 MillBSTrl
+
+#############################
+# Washington State Highways #
+#############################
+WA WA3 WA16 WA104
+
+WA WA4 US101 WA401
+
+WA WA7 US12 AldCut
+
+WA WA8 US12 US101
+
+WA WA9 WA20_W WA542_E
+WA WA9 LinRd WA/BC
+
+WA WA14 6 HoodRivBri
+
+WA WA16 I-5 WA3
+
+WA WA18 I-5 WA164
+
+WA WA19 WA104 WA20
+
+WA WA20 WA525 WA9_N
+WA WA20 WA530 NFD600_W
+
+WA WA20Por WA19 PorCouFry
+
+WA WA99 WA599 175thSt
+WA WA99 168thSt WA525
+
+WA WA104 US101 KinEdmFry
+
+WA WA107 US101 US12
+
+WA WA131 GifPinNF US12
+
+WA WA141 WA141Alt GulRd
+
+WA WA141AltUnd WA14 WA141
+
+WA WA161 WasAve WA512/167
+
+WA WA164 WA18 WA410
+
+WA WA167 WA161/512 I-405
+
+WA WA202 WA203 I-90
+
+WA WA401 US101 WA4
+
+WA WA410 WA164 SunParkRd
+
+WA WA513 WA520 65thSt
+
+WA WA520 I-5 I-405
+
+WA WA522 I-5 US2
+
+WA WA525 I-5 CliMukFry
+
+WA WA525Fre CliMukFry WA20
+
+WA WA526 WA525 I-5
+
+WA WA530 I-5 WA20
+
+WA WA536 WA20 I-5
+
+WA WA542 I-5 VanWyckRd
+WA WA542 WA9_S AusPass
+
+WA WA543 I-5 WA/BC
+
+WA WA544 PoleRd WA9
+
+WA WA706 WA7 MouRaiNP
+
+##########################
+# Wyoming State Highways #
+##########################
+WY WY22 ID/WY US26/89
 
 
 ##########################
