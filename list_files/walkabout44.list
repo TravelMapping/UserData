@@ -294,6 +294,56 @@ OH I-670 I-70 10               # 10 vs 9
 OH I-675 I-75 26               # 26 vs 27
 OH I-680 1 I-76                # 17 vs 16
 
+# New York
+NY I-78 NJ/NY HudSt            #  1
+NY I-81 PA/NY 45               #             8 MILES MISSING
+NY I-81 47 50                  #176 of 184
+NY I-84 PA/NY NY/CT            # 72
+NY I-86 PA/NY NY/PA            #206+
+NY I-86Bin 75 79               #  9=215 vs 216 9 new since 02
+NY I-87 I-278 USA/CAN          #335 vs 334
+NY I-88 I-81 I-90              #118
+NY I-90 PA/NY NY/MA            #390 vs 386
+NY I-95 NJ/NY NY/CT            # 24
+#NY I-99 PA/NY I-86             # 12    Built 2013 signed 2014 NEVER ON 
+NY I-190 I-90 USA/CAN          # 28
+NY I-278 NJ/NY I-95            # 34
+NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87
+NY I-290 I-190 I-90            # 10
+NY I-295 1 I-95                #  9 vs 8 .17 MILES MISSING
+NY I-390 I-86 20               # 76
+NY I-478 I-278 NY9A            #  2
+NY I-481 I-81 9                # 15
+NY I-490 I-90(47) I-90(45)     # 38 vs 37
+NY I-495 2ndAve 73             # 71 vs 66
+NY I-587 I-87 NY32             #  1
+NY I-590 I-390 5               #  5
+NY I-678 JFKAir 19             # 15 vs 14
+NY I-684 CT/NY 10              # 22+
+NY I-684Pur I-287 NY/CT        #  5=27
+NY I-690 1 I-481               # 14     .45 MILES MISSING
+NY I-695 I-295 I-95            #  1
+#NY I-781 1 4                   #  4  Built 2012  NEVER ON
+NY I-787 I-87 8thSt            # 10
+NY I-790 NY5A/5S GenSt         #  2 vs 4 T3 has 2
+NY I-878 I-678 JFKExpy         #  1
+NY I-890 I-90(26) I-90(25)     #  9
+#NY I-895                            decommissioned 10/12/2019
+NY I-990 I-290 5               #  6
+
+# New Jersey
+NJ I-76 PA/NJ 1A               #  3
+NJ I-78 PA/NJ NJ/NY            # 68
+NJ I-80 PA/NJ 68               # 68
+NJ I-95 PA/NJ NJ/NY            # 79+
+NJ I-95Sec I-95_S I-95_N       # 10=89 vs 98 (matches T3=98)
+NJ I-195 1A 35                 # 34
+NJ I-278 US1/9 NJ/NY           #  2
+NJ I-280 I-80 I-95             # 17 vs 18     .31 ramp
+NJ I-287 I-95 NJ/NY            # 67
+NJ I-295 DE/NJ NJ/PA           # 77 vs 68 old alignment
+NJ I-676 1 NJ/PA               #  4 vs 5
+
 # Delaware
 DE I-95 MD/DE DE/PA            # 23 vs 24
 DE I-295 I-95 DE/NJ            #  5 vs 6
@@ -410,8 +460,14 @@ FL I-595 I-75 12               # 14 vs 13
 
 # Interstates Not on
 #CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
-#CA I-605 27 HunDr             #  0.40 N end
+#CA I-605 27 HunDr             #  0.40 North end
+#NY I-81 45 47                 #  2    Watertown
+#NY I-81 50 USA/CAN            #  6    NY12 to border
+#NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
+#NY I-295 NY25 1               #   .17 South end
+#NY I-690 I-90 1               #   .45 West end
+#NY I-781 1 4                  #  4  Built 2012  NEVER ON
 #VA I-195 I-64 I-95            #  .030 ramp 195 to 95
 #NC I-140 1 14                 # 12    Wilmington extension opened 2017
-#NC I-840 6 8                  #  2    Added 2020
+#NC I-840 6 8                  #  2    Greensboro opened 2020
 
