@@ -136,11 +136,11 @@ DNK SR168 O2 E20 #          168 Odense
 DNK SR168 SR335 SR307/313 # -168Verninge - Assens         
 DNK SR301 MR_W PR9 #        301 Tietgenbyen
 DNK SR303 O2 SR335 #        303 Odense - Morud
-DNK SR307 SR161 MR_Ort #    307 Vissenbjerg - Ladegård    
-DNK SR307 SR329_N SR168/323 #-307Ørsted - Assens           
+DNK SR307 SR161 SR168/323 # 307 Vissenbjerg - Assens      +
+DNK SR311 SR317/329 FugBak #311 Bogense
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
 DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
-DNK SR329 PR8 MR_Pad #      329 Faaborg - Paddesø           
+DNK SR329 PR8 SR311 #       329 Faaborg - Bogense         +           
 DNK SR335 PR8 SR303 #       335 Svendborg - Morud   
 
 #Jylland
