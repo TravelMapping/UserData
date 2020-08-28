@@ -1422,7 +1422,8 @@ NJ NJ347 NJ47_S NJ47_N
 NJ GarStaPkwy 0 10
 NJ GarStaPkwy 13 36
 NJ GarStaPkwy 37 83
-NJ NJTpk I-295(1) 72(95)
+NJ NJTpk I-295(1) 15
+NJ NJTpk 17A 72(95)
 #
 # New York
 #
