@@ -210,6 +210,29 @@ UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
 
+# Nebraska
+# 482 miles
+NE I-76 CO/NE I-80             #  3
+NE I-80 WY/NE NE/IA            #462 vs 456
+NE I-129 1 NE/IA               #  3
+NE I-180 I-80 9thSt            #  3
+NE I-480 I-80 NE/IA            #  4
+NE I-680 I-80 NE/IA            # 13
+
+# Iowa
+# 781 miles
+IA I-29 MO/IA IA/SD            #154 vs 152 overlap I-80
+IA I-35 MO/IA IA/MN            #222 vs 218
+IA I-74 I-80 IA/IL             #  5
+IA I-80 NE/IA IA/IL            #311 vs 289 overlap I-35
+IA I-129 NE/IA 1               #  0
+IA I-235 I-80(123) I-80(137)   # 14
+IA I-280 I-80 IA/IL            # 10 vs 9
+IA I-380 0 MitAve              # 74 vs 73
+IA I-480 NE/IA I-29            #  1
+IA I-680 NE/IA 3               #  3
+IA I-880 0 16                  # 17
+
 # Kansas
 # 874 miles
 KS I-35 OK/KS KS/MO            #238 vs 235
@@ -354,6 +377,29 @@ MI I-475 I-75(111) I-75(125)   # 17
 MI I-496 I-96(95) I-96(106)    # 12
 MI I-675 I-75(150) I-75(155)   #  8
 MI I-696 I-96 28               # 29
+
+# Maine
+# 367 miles
+ME I-95 NH/ME USA/CAN          #307 vs 299
+ME I-195 I-95 ME5              #  2
+ME I-295 I-95(44) I-95(103)    # 53 vs 11 (think Table 3 wrong)
+ME I-395 US2 6                 #  5
+ME I-495 I-95 I-295            #  4 vs 50
+
+# New Hampshire
+# 225 miles
+NH I-89 I-93 NH/VT             # 61
+NH I-93 MA/NH NH/VT            #132
+NH I-95 MA/NH NH/ME            # 16
+NH I-293 I-93_S I-93_N         # 11
+NH I-393 I-93 NH9              #  4 vs 5
+
+# Vermont
+# 320 miles
+VT I-89 NH/VT VT/Can           #130
+VT I-91 MA/VT VT/Can           #177
+VT I-93 NH/VT I-91             # 11
+VT I-189 I-89 US7              #  1 vs 2
 
 # Massachusetts
 MA I-84 CT/MA I-90             #  8
@@ -595,3 +641,7 @@ FL I-595 I-75 12               # 14 vs 13
 #13 NC I-140 1 14                 # 12    Wilmington extension opened 2017
 #14 NC I-840 6 8                  #  2    Greensboro opened 2020
 
+# Table 3 differences
+I-95 new alignment PA-NJ
+I-680 Iowa 17 miles changed to I-880
+I-295 Maine ~40 miles Table 3 has 495 should be 295
