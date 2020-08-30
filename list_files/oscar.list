@@ -1707,7 +1707,7 @@ MI US12 IN/MI CassAve
 MI US23 OH/MI I-75(338)
 MI US24 OH/MI I-75
 MI US31 IN/MI I-75
-# check old maps for segments between exits 154 and 170, and between US 10 and MI55, declinched by new construction since you last covered them in 1990s
+# check old maps for segments between exits 154 and 170, and between US10 and MI55, declinched by new construction since you last covered them in 1990s
 MI US41 WI/MI ManRd_N
 MI US45 US2 MI26
 MI US127 OH/MI I-75
@@ -2733,7 +2733,7 @@ BC YT1 YT/BC BC/YT
 BC YT2 AK/BC BC/YT
 BC YT3 AK/BC BC/YT 
 DC DC295 I-295/695 DC/MD
-MI MI3 I-676 I-94(243)
+MI MI3 I-696 I-94(243)
 MI MI5 I-96(164) I-96(165)
 MI MI6 I-196 I-96
 MI MI8 MI10 GalSt 
