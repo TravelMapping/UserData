@@ -139,6 +139,18 @@ AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60(212) AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
 
+# Hawaii 
+# 55 miles
+HI I-H1 1A 10                  # 10+
+#HI I-H1 10 15                  #  5+        MISSING
+HI I-H1 15 AinAve              # 12=27
+HI I-H2 1 9                    #  8
+#HI I-H3 1A 1B                  #  1+        MISSING
+HI I-H3 1B 15                  # 14+      
+#HI I-H3 15 KanSta              #  1=15 vs 16 MISSING
+#HI I-H201 1A 1D                #  1+        MISSING
+HI I-H201 1D I-H1              #  3=4 
+
 # Washington
 WA I-5 OR/WA WA/Can            #279 vs 277
 WA I-82 I-90 WA/OR             #132 vs 133
@@ -197,6 +209,62 @@ UT I-70 0 UT/CO
 UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
+
+# Nebraska
+# 482 miles
+NE I-76 CO/NE I-80             #  3
+NE I-80 WY/NE NE/IA            #462 vs 456
+NE I-129 1 NE/IA               #  3
+NE I-180 I-80 9thSt            #  3
+NE I-480 I-80 NE/IA            #  4
+NE I-680 I-80 NE/IA            # 13
+
+# Iowa
+# 781 miles
+IA I-29 MO/IA IA/SD            #154 vs 152 overlap I-80
+IA I-35 MO/IA IA/MN            #222 vs 218
+IA I-74 I-80 IA/IL             #  5
+IA I-80 NE/IA IA/IL            #311 vs 289 overlap I-35
+IA I-129 NE/IA 1               #  0
+IA I-235 I-80(123) I-80(137)   # 14
+IA I-280 I-80 IA/IL            # 10 vs 9
+IA I-380 0 MitAve              # 74 vs 73
+IA I-480 NE/IA I-29            #  1
+IA I-680 NE/IA 3               #  3
+IA I-880 0 16                  # 17
+
+# Kansas
+# 874 miles
+KS I-35 OK/KS KS/MO            #238 vs 235
+KS I-70 CO/KS KS/MO            #430 vs 424
+KS I-135 I-35 95               # 97 vs 96
+KS I-235 1A 16                 # 16
+KS I-335 127 177               # 51 vs 50
+KS I-435 MO/KS KS/MO           # 28
+KS I-470 1A 183(KT)            # 13 vs 14
+KS I-635 1A KS/MO              #  9
+KS I-670 I-70 KS/MO            #  2
+
+# Missouri
+# 1387 miles
+MO I-29 2H(35) MO/IA           #130 vs 125 overlap I-35
+MO I-35 KS/MO MO/IA            #116 vs 114 overlap I-70
+MO I-44 OK/MO I-70             #292 vs 293
+MO I-49 5 I-435                #181 vs 179
+MO I-55 AR/MO MO/IL            #213 vs 209
+MO I-57 1 MO/IL                # 22
+MO I-64 1 MO/IL                # 41
+MO I-70 KS/MO MO/IL            #252 vs 250
+MO I-72 US61 MO/IL             #  2
+MO I-155 1 MO/TN               # 11
+MO I-170 1A 10                 # 11
+MO I-229 1A 14                 # 15
+MO I-255 1A MO/IL              #  4
+MO I-270 1 MO/IL               # 36
+MO I-435 KS/MO MO/KS           # 55 vs 53
+MO I-470 I-435 16B             # 17
+MO I-635 KS/MO 12              #  4
+MO I-670 KS/MO 2N              #  2 vs 1
 
 # Texas
 TX I-2 130 176                 # 47
@@ -295,6 +363,7 @@ OH I-675 I-75 26               # 26 vs 27
 OH I-680 1 I-76                # 17 vs 16
 
 # Michigan
+# 1241 miles
 MI I-69 IN/MI MI/Can           #204 vs 193 overlap I-96, I-94
 MI I-75 OH/MI MI/Can           #399 vs 396
 MI I-94 IN/MI MI/Can           #278 vs 276
@@ -308,9 +377,64 @@ MI I-475 I-75(111) I-75(125)   # 17
 MI I-496 I-96(95) I-96(106)    # 12
 MI I-675 I-75(150) I-75(155)   #  8
 MI I-696 I-96 28               # 29
-#1241 miles
+
+# Maine
+# 367 miles
+ME I-95 NH/ME USA/CAN          #307 vs 299
+ME I-195 I-95 ME5              #  2
+ME I-295 I-95(44) I-95(103)    # 53 vs 11 (think Table 3 wrong)
+ME I-395 US2 6                 #  5
+ME I-495 I-95 I-295            #  4 vs 50
+
+# New Hampshire
+# 225 miles
+NH I-89 I-93 NH/VT             # 61
+NH I-93 MA/NH NH/VT            #132
+NH I-95 MA/NH NH/ME            # 16
+NH I-293 I-93_S I-93_N         # 11
+NH I-393 I-93 NH9              #  4 vs 5
+
+# Vermont
+# 320 miles
+VT I-89 NH/VT VT/Can           #130
+VT I-91 MA/VT VT/Can           #177
+VT I-93 NH/VT I-91             # 11
+VT I-189 I-89 US7              #  1 vs 2
+
+# Massachusetts
+MA I-84 CT/MA I-90             #  8
+MA I-90 NY/MA MA1A             #139 vs 136
+MA I-91 CT/MA MA/VT            # 55
+MA I-93 1 MA/NH                # 46 vs 47
+MA I-95 RI/MA MA/NH            # 91 vs 92
+MA I-190 I-290 8               # 19
+MA I-195 RI/MA 22              # 40 vs 41
+MA I-290 7 26                  # 20
+MA I-291 1 I-90                #  5
+MA I-295 RI/MA 2               #  4
+MA I-391 1 6                   #  5
+MA I-395 CT/MA 7               # 12
+MA I-495 1 I-95                #121 vs 122
+
+# Rhode Island
+# 68 miles
+RI I-95 CT/RI RI/MA            # 42
+RI I-195 1 RI/MA               #  4
+RI I-295 I-95 RI/MA            # 23 vs 22
+
+# Connecticut
+# 346 miles
+CT I-84 NY/CT CT/MA            # 98
+CT I-91 1 CT/MA                # 58
+CT I-95 NY/CT CT/RI            #112
+CT I-291 1 6                   #  6
+CT I-384 I-84 US6/44           #  8
+CT I-395 I-95 CT/MA            # 55
+CT I-684 NY/CT CT/NY           #  1
+CT I-691 1 11                  #  8
 
 # New York
+# 1731 miles - 1707 on 24 not on
 NY I-78 NJ/NY HudSt            #  1
 NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
@@ -501,15 +625,23 @@ FL I-595 I-75 12               # 14 vs 13
 
 
 # Interstates Not on
-#CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
-#CA I-605 27 HunDr             #  0.40 North end
-#NY I-81 45 47                 #  2    Watertown
-#NY I-81 50 USA/CAN            #  6    NY12 to border
-#NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
-#NY I-295 NY25 1               #   .17 South end
-#NY I-690 I-90 1               #   .45 West end
-#NY I-781 1 4                  #  4  Built 2012  NEVER ON
-#VA I-195 I-64 I-95            #  .030 ramp 195 to 95
-#NC I-140 1 14                 # 12    Wilmington extension opened 2017
-#NC I-840 6 8                  #  2    Greensboro opened 2020
+#01 HI I-H1 10 15                  #  5        MISSING
+#02 HI I-H3 1A 1B                  #  1        MISSING
+#03 HI I-H3 15 KanSta              #  1        MISSING
+#04 HI I-H201 1A 1D                #  1        MISSING
+#   CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
+#05 CA I-605 27 HunDr             #  0.40 North end
+#06 NY I-81 45 47                 #  2    Watertown
+#07 NY I-81 50 USA/CAN            #  6    NY12 to border
+#08 NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
+#09 NY I-295 NY25 1               #   .17 South end
+#10 NY I-690 I-90 1               #   .45 West end
+#11 NY I-781 1 4                  #  4  Built 2012  NEVER ON
+#12 VA I-195 I-64 I-95            #  .030 ramp 195 to 95
+#13 NC I-140 1 14                 # 12    Wilmington extension opened 2017
+#14 NC I-840 6 8                  #  2    Greensboro opened 2020
 
+# Table 3 differences
+I-95 new alignment PA-NJ
+I-680 Iowa 17 miles changed to I-880
+I-295 Maine ~40 miles Table 3 has 495 should be 295
