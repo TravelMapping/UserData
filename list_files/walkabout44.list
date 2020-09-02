@@ -608,6 +608,38 @@ SC I-520 GA/SC I-20            #  8 vs 7
 SC I-526 10 30                 # 20 vs 19
 SC I-585 ValFalRd 25B          #  3
 
+# Georgia
+# 1250 miles (T3 1244)
+GA I-16 1 167                  #168 vs 167
+GA I-20 AL/GA GA/SC            #204 vs 203
+GA I-24 TN/GA GA/TN            #  4
+GA I-59 AL/GA I-24             # 20 vs 21
+GA I-75 FL/GA GA/TN            #361 vs 355
+GA I-85 AL/GA GA/SC            #182 vs 172 overlap I-75
+GA I-95 FL/GA GA/SC            #114 vs 112
+GA I-185 1 I-85                # 49
+GA I-285 GA279 62              # 63  overlap I-85
+GA I-475 I-75_S I-75_N         # 16
+GA I-516 MilSt 8               #  7 vs 6
+GA I-520 1 GA/SC               # 16 vs 16 (T3 only has 10)
+GA I-575 I-75 GA5              # 31
+GA I-675 I-75 I-285            # 10 vs 11
+GA I-985 I-85 24               # 24
+
+# Alabama
+# 1001 miles
+AL I-10 MS/AL AL/FL            # 67 vs 66
+AL I-20 MS/AL AL/GA            #217 vs 85 overlap I-59
+AL I-22 MS/AL I-65             # 97 vs 96
+AL I-59 MS/AL AL/GA            #244 vs 241
+AL I-65 0 AL/TN                #371 vs 367
+AL I-85 I-65 AL/GA             # 81 vs 80
+AL I-165 1 US90                #  5
+AL I-359 I-20/59 LurWalBlvd    #  2
+AL I-459 I-20/59 33            # 34 vs 33
+AL I-565 1 21                  # 22 vs 21
+AL I-759 I-59 4                #  5
+
 # Florida
 FL I-4 I-275 132               #134 vs 132
 FL I-10 AL/FL I-95             #367 vs 362=T3
@@ -642,6 +674,7 @@ FL I-595 I-75 12               # 14 vs 13
 #14 NC I-840 6 8                  #  2    Greensboro opened 2020
 
 # Table 3 differences
-I-95 new alignment PA-NJ
-I-680 Iowa 17 miles changed to I-880
-I-295 Maine ~40 miles Table 3 has 495 should be 295
+# I-95 new alignment PA-NJ
+# I-680 Iowa 17 miles changed to I-880
+# I-295 Maine ~40 miles Table 3 has I-495 should be I-295
+# I-520 Georgia Table 3 has only 10 should be 16
