@@ -210,6 +210,19 @@ UT I-80 NV/UT UT/WY
 UT I-84 ID/UT 120
 UT I-215 I-80 I-15
 
+# Minnesota
+# 913 miles
+MN I-35 127 259                #134+
+MN I-35Far IA/MN 88A           # 89=220
+MN I-35E 88A 127               # 40 vs 39
+MN I-35W I-35(88) I-35(127)    # 42
+MN I-90 SD/MN MN/WI            #279 vs 276
+MN I-94 ND/MN MN/WI            #263 vs 259
+MN I-394 1A WasAve             # 10
+MN I-494 58A 27                # 43
+MN I-535 WI/MN I-35            #  2
+MN I-694 27 58                 # 31 vs 22 overlap I-35, I-94
+
 # Nebraska
 # 482 miles
 NE I-76 CO/NE I-80             #  3
@@ -295,6 +308,33 @@ TX I-610 TX288 38              # 39 vs 38
 TX I-635 1C 36                 # 37
 TX I-820 1A 34                 # 35 
 
+# Wisconsin
+875 miles Table 3 has bad total of 742; I-41 on table but not included in total
+WI I-39 IL/WI 187              #184 vs 183
+WI I-41 IL/WI 171              #177 vs 132 overlap I-94, I-894, I-43
+WI I-43 1 192                  #193 vs 192
+WI I-90 MN/WI WI/IL            #190 vs 109 overlap I-39
+WI I-94 MN/WI WI/IL            #352 vs 249 overlap I-90, I-39
+WI I-535 5thSt WI/MN           #  1
+WI I-794 1A 3                  #  4
+WI I-894 1A 10                 # 10 vs 5 overlap I-43
+
+# Michigan
+# 1241 miles
+MI I-69 IN/MI MI/Can           #204 vs 193 overlap I-96, I-94
+MI I-75 OH/MI MI/Can           #399 vs 396
+MI I-94 IN/MI MI/Can           #278 vs 276
+MI I-96 1A I-75                #194 vs 192
+MI I-194 1 HamAve              #  3
+MI I-196 I-94 I-96             # 81
+MI I-275 I-75 165(96)          # 36 vs 30 overlap I-96
+MI I-296 86 I-96               #  3
+MI I-375 I-75 BeaSt            #  1
+MI I-475 I-75(111) I-75(125)   # 17
+MI I-496 I-96(95) I-96(106)    # 12
+MI I-675 I-75(150) I-75(155)   #  8
+MI I-696 I-96 28               # 29
+
 # Illinois
 IL I-24 I-57 IL/KY             # 39
 IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
@@ -361,22 +401,6 @@ OH I-490 1A 55thSt             #  2
 OH I-670 I-70 10               # 10 vs 9
 OH I-675 I-75 26               # 26 vs 27
 OH I-680 1 I-76                # 17 vs 16
-
-# Michigan
-# 1241 miles
-MI I-69 IN/MI MI/Can           #204 vs 193 overlap I-96, I-94
-MI I-75 OH/MI MI/Can           #399 vs 396
-MI I-94 IN/MI MI/Can           #278 vs 276
-MI I-96 1A I-75                #194 vs 192
-MI I-194 1 HamAve              #  3
-MI I-196 I-94 I-96             # 81
-MI I-275 I-75 165(96)          # 36 vs 30 overlap I-96
-MI I-296 86 I-96               #  3
-MI I-375 I-75 BeaSt            #  1
-MI I-475 I-75(111) I-75(125)   # 17
-MI I-496 I-96(95) I-96(106)    # 12
-MI I-675 I-75(150) I-75(155)   #  8
-MI I-696 I-96 28               # 29
 
 # Maine
 # 367 miles
@@ -485,7 +509,8 @@ NJ I-295 DE/NJ NJ/PA           # 77 vs 68 old alignment
 NJ I-676 1 NJ/PA               #  4 vs 5
 
 # Pennsylvania
-PA I-70 WV/PA PA/MD            #169 vs 81overlap I-76
+# 1862 miles (same total; 3 roads renamed I-95, I-276, I-295)
+PA I-70 WV/PA PA/MD            #169 vs 81 overlap I-76
 PA I-76 OH/PA PA/NJ            #352 vs 351
 PA I-78 1 PA/NJ                # 78
 PA I-79 WV/PA 183              #183 vs 179 overlap I-70
@@ -496,48 +521,51 @@ PA I-84 I-81/6 PA/NY           # 54 vs 55
 PA I-86 1 PA/NY                #  7
 PA I-86SWa NY/PA 60            #  0.24
 PA I-90 OH/PA PA/NY            # 47 vs 46
-PA I-95 DE/PA PA/NJ            # 44 vs 51 switched to I-295 adjust
+PA I-95 DE/PA PA/NJ            # 44 vs 40 (Table 3 51) 7 switched to I-295, 4 overlap I-276
 PA I-99 1 MusLn                # 86
 PA I-176 I-76 11               # 12 vs 11
 PA I-180 I-80/147 29           # 29 
-PA I-276 326 I-95              # 30 vs 33 last 3 miles dropped ->95 adjust
+PA I-276 326 I-95              # 30 vs 29 (Table 3 32) last 3 miles dropped ->95 adjust
 PA I-279 I-376 I-79            # 13
 PA I-283 I-76 3                #  3
-PA I-295 I-95/276 PA/NJ        # 11 vs 0 not on table yet
+PA I-295 I-95/276 PA/NJ        # 11 (Table 3 0) formerly I-95 N of Tpk
 PA I-376 1A 85                 # 84 vs 86
 PA I-380 1 I-81/6              # 28 vs 25
 PA I-476 I-95 131B             #132 vs 130
-PA I-579 I-279 PA885           #  1  (3 on table 3?)
+PA I-579 I-279 PA885           #  1  (Table 3 3)
 PA I-676 I-76 PA/NJ            #  3 vs 2 
 
 # Delaware
+# 41 miles 
 DE I-95 MD/DE DE/PA            # 23 vs 24
 DE I-295 I-95 DE/NJ            #  5 vs 6
 DE I-495 I-95 6                # 11
 
 # Maryland
+# 500 miles (Table 3 480) diff 20: I-695 20
 MD I-68 WV/MD 82               # 80 vs 81            
 MD I-70 PA/MD 94               # 94
 MD I-81 WV/MD MD/PA            # 12
 MD I-83 1 MD/PA                # 34
 MD I-95 DC/MD MD/DE            #109 vs 110
 MD I-97 1 17                   # 17 vs 18
-MD I-195 TerRd 4               #  4 vs 5
+MD I-195 TerRd 4               #  4
 MD I-270 I-495 32              # 33+
 MD I-270SprAsh I-495 2         #  2=35 vs 34
 MD I-295 I-95/495 MD/DC        #  1
 MD I-370 1 3                   #  2 vs 3
 MD I-395 I-95 ConSt            #  1+
-MD I-395Was I-395 MD295        #  1=2 vs 2
+MD I-395Was I-395 MD295        #  1=2
 MD I-495 DC/MD MD/VA           # 41 vs 16 overlap
 MD I-595 7 24                  # 20 (unsigned)
-MD I-695 BroHwy 44             # 52 vs 51
+MD I-695 BroHwy 44             # 52 vs 51 (Table 3 31)
 MD I-795 1 9                   #  9
 MD I-895 I-95 15               # 15+
 MD I-895SprFer I-895SprFur I-695 #1+
 MD I-895SprFur I-895 MD2       #  2=18 vs 11 Table 3 only has 11
 
 # DC
+# 12 miles
 DC I-66 VA/DC US29             #  1 vs 2
 DC I-95 VA/DC DC/MD            #  0 vs 0
 DC I-295 MD/DC 5               #  5
@@ -546,6 +574,7 @@ DC I-495 VA/DC DC/MD           #  0
 DC I-695 I-395 2A              #  2
 
 # Virginia
+# 1117 miles
 VA I-64 WV/VA 299              #301 vs 299
 VA I-66 1 VA/DC                # 75
 VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
@@ -564,6 +593,7 @@ VA I-581 1 6                   #  6 vs 7
 VA I-664 1 15                  # 21 vs 20
 
 # West Virginia
+# 549 miles
 WV I-64 KY/WV WV/VA            #182 vs 125 overlap I-77
 WV I-68 I-79 WV/MD             # 31 vs 32
 WV I-70 OH/WV WV/PA            # 14
@@ -572,30 +602,68 @@ WV I-79 I-77 WV/PA             #157 vs 161
 WV I-81 VA/WV WV/MD            # 26
 WV I-470 OH/WV 4               #  4
 
+# Kentucky
+# 954 miles (Table 3 913 miles) diff 31: I-69 31, I-265 10
+KY I-24 IL/KY KY/TN            # 95 vs 93
+KY I-64 IN/KY KY/WV            #193 vs 185
+KY I-65 TN/KY KY/IN            #139 vs 137
+KY I-69 21 148                 #129 vs 112 Mayfield to I-24 31 miles not on Table 3; overlap I-24
+KY I-71 1 KY/OH                # 97 vs 78 overlap I-75
+KY I-75 TN/KY KY/OH            #194 vs 192
+KY I-165 1 70                  # 72 vs 70
+KY I-264 0 23                  # 23
+#KY I-265 0 10                  # 10 vs 0; new bridge not on Table 3 or Travel Mapping
+KY I-265 10 35                 # 25 vs 24
+KY I-275 OH/KY KY/IN           # 25
+KY I-471 1 KY/OH               #  5
+
+# Tennessee
+# 1200 miles (Table 3 1100 - difference 77+23)
+TN I-24 KY/TN TN/GA            #169+
+TN I-24Cha GA/TN 185           # 14=183 vs 178 overlap I-40/65
+TN I-26 1 TN/NC                # 54 (Table 3 shows only 31; off by 23)
+TN I-40 AR/TN TN/NC            #458 vs 455
+TN I-55 MS/TN TN/AR            # 12
+TN I-65 AL/TN TN/KY            #123 vs 121 overlap I-40
+TN I-75 GA/TN TN/KY            #160 vs 142 overlap I-40
+TN I-81 1 TN/VA                # 76
+TN I-124 I-24 TenRiv           #  2
+TN I-140 1C 11                 # 11
+TN I-155 MO/TN 15              # 16
+TN I-240 12 I-40               # 20 vs 19
+TN I-269 MS/TN 19              # 19
+TN I-275 I-40 3                #  3
+TN I-440 I-40 I-24             #  8
+TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
+TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
+
 # North Carolina
-NC I-26 4A(240) NC/SC          # 43
+# 1363 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
+NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 9             #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
-NC I-73 22 123                 #101 vs 98
-NC I-74 VA/NC 17               # 17
-NC I-74Hig 55 22(73)           # 89 (overlap) vs 21
-NC I-74Pem 194 213             # 19 vs 47 (incl some fut) 
+NC I-73 22 123                 #101 vs 99
+NC I-74 VA/NC 17               # 17+
+NC I-74Hig 55 22(73)           # 89+ (overlap) vs 21
+NC I-74Pem 194 213             # 19=125 vs 66 (incl some fut) (Table 3 56) 
 NC I-77 SC/NC NC/VA            #107 vs 105
-NC I-85 SC/NC NC/VA            #237 vs 205
+NC I-85 SC/NC NC/VA            #237 vs 205 overlap I-40
 NC I-87 16(440) 13             # 13 vs 10
 NC I-95 SC/NC NC/VA            #184 vs 181
-NC I-140 14 20                 #  7 of 19
+NC I-140 14 20                 #  7 of 21 (Table 3 7)
 NC I-240 1A 9                  #  9 vs 10
 NC I-277 1B 5                  #  4
 NC I-285 I-85 107(52)          # 23
+NC I-295 21A 34                # 23 (Table 3 14) (14 completed)
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
 NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
 NC I-795 38(264) 24            # 26
-NC I-840 103(73) 6             #  6 of 8
+NC I-840 103(73) 6             #  8 vs 5; 2 not on, 2 not on Table 3 
 
 # South Carolina
+# 851 miles
 SC I-20 GA/SC 141              #144 vs 142
 SC I-26 NC/SC 221              #224 vs 221
 SC I-77 I-26 SC/NC             # 92 vs 91
@@ -609,7 +677,7 @@ SC I-526 10 30                 # 20 vs 19
 SC I-585 ValFalRd 25B          #  3
 
 # Georgia
-# 1250 miles (T3 1244)
+# 1250 miles (Table 3 1244) - diff 6: I-520 6.
 GA I-16 1 167                  #168 vs 167
 GA I-20 AL/GA GA/SC            #204 vs 203
 GA I-24 TN/GA GA/TN            #  4
@@ -641,6 +709,7 @@ AL I-565 1 21                  # 22 vs 21
 AL I-759 I-59 4                #  5
 
 # Florida
+# 1498 miles
 FL I-4 I-275 132               #134 vs 132
 FL I-10 AL/FL I-95             #367 vs 362=T3
 FL I-75 1 FL/GA                #479 vs 471=T3
@@ -669,12 +738,29 @@ FL I-595 I-75 12               # 14 vs 13
 #09 NY I-295 NY25 1               #   .17 South end
 #10 NY I-690 I-90 1               #   .45 West end
 #11 NY I-781 1 4                  #  4  Built 2012  NEVER ON
-#12 VA I-195 I-64 I-95            #  .030 ramp 195 to 95
-#13 NC I-140 1 14                 # 12    Wilmington extension opened 2017
-#14 NC I-840 6 8                  #  2    Greensboro opened 2020
+#12 VA I-195 I-64 I-95            #  .030 ramp 195 to 95 NEVER ON
+#13 NC I-140 1 14                 # 14    Wilmington extension opened 2017
+#14 NC I-295 12 21A               #  9    Fayetteville extension opened Aug 2020
+#15 NC I-840 6 8                  #  2    Greensboro opened 2020
 
 # Table 3 differences
 # I-95 new alignment PA-NJ
 # I-680 Iowa 17 miles changed to I-880
 # I-295 Maine ~40 miles Table 3 has I-495 should be I-295
+# WI overall; I-41 on table but not included in total (143 miles)
+# I-95 PA -7: 11 miles changed to I-295, 4 miles replaced I-276
+# I-276 PA -4: 4 miles changed to I-95
+# I-295 PA 11 miles replaced old I-95
+# I-69 Kentucky 31 miles not on Table 3
+# I-265 Kentucky 10 miles new bridge not on Table 3 (or Travel Mapping)
+# I-26 Tennessee 23 miles not on Table 3
+# TN overall; I-840 on table but not included in total (77 miles)
+# I-74 North Carolina, 10 miles new segments not on Table 3
+# I-140 North Carolina, 14 miles opened 2017 not on Table 3
+# I-295 North Carolina, 9 miles opened Aug 2020 not on Table 3
+# I-840 North Carolina, 2 opened 2020 not on Table 3
 # I-520 Georgia Table 3 has only 10 should be 16
+
+# Travel Mapping differences
+# AZ 202 new section not on Travel Mapping count
+# I-265 Kentucky 10 miles new bridge not on Table 3 (or Travel Mapping)
