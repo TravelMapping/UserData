@@ -1,4 +1,5 @@
 # Arizona Interstate Highways
+# 1169 miles
 AZ I-8 CA/AZ 178
 AZ I-10 CA/AZ AZ/NM
 AZ I-15 NV/AZ AZ/UT
@@ -152,6 +153,7 @@ HI I-H3 1B 15                  # 14+
 HI I-H201 1D I-H1              #  3=4 
 
 # Washington
+# 764 miles
 WA I-5 OR/WA WA/Can            #279 vs 277
 WA I-82 I-90 WA/OR             #132 vs 133
 WA I-90 WA519 WA/ID            #299 vs 297
@@ -161,12 +163,30 @@ WA I-405 I-5(154) I-5(182)     # 30
 WA I-705 I-5 StaWay            #  2 vs 1
 
 # Oregon
+# 727 miles
 OR I-5 CA/OR OR/WA             #312 vs 308
 OR I-82 WA/OR 11               # 11
 OR I-84 I-5 OR/ID              #378 vs 375
 OR I-105 OR99/126 4            #  3
 OR I-205 I-5 OR/WA             # 26
 OR I-405 I-5(299B) I-5(302B)   #  4
+
+
+# Idaho
+# 612 miles
+ID I-15 UT/ID ID/MT            #199 vs 196
+ID I-84 OR/ID ID/UT            #280 vs 276
+ID I-86 1 63                   # 64 vs 63
+ID I-90 WA/ID ID/MT            # 73
+ID I-184 0 US20/26             #  3 vs 4
+
+# Montana
+# 1191 miles
+MT I-15 ID/MT USA/CAN          #398 vs 396
+MT I-90 ID/MT MT/WY            #553 vs 544 overlap I-15
+MT I-94 0 MT/ND                #252 vs 249
+MT I-115 I-15/90 ClaSt         #  1
+MT I-315 I-15 US87Byp          #  1
 
 # California
 CA I-5 MEX/USA CA/OR
@@ -309,7 +329,7 @@ TX I-635 1C 36                 # 37
 TX I-820 1A 34                 # 35 
 
 # Wisconsin
-875 miles Table 3 has bad total of 742; I-41 on table but not included in total
+# 875 miles Table 3 has bad total of 742; I-41 on table but not included in total
 WI I-39 IL/WI 187              #184 vs 183
 WI I-41 IL/WI 171              #177 vs 132 overlap I-94, I-894, I-43
 WI I-43 1 192                  #193 vs 192
@@ -336,6 +356,7 @@ MI I-675 I-75(150) I-75(155)   #  8
 MI I-696 I-96 28               # 29
 
 # Illinois
+# 2203 miles
 IL I-24 I-57 IL/KY             # 39
 IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
 IL I-41 WI/IL 1B               #  1 vs 0 all overlap
@@ -362,16 +383,17 @@ IL I-355 0 I-290               # 32
 IL I-474 0 15                  # 14 vs 15
 
 # Indiana
+# 1285 miles (Table 3 1306) 
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
-IN I-69 200 IN/MI              #160 vs 156
-IN I-69Whe KenAve 134          #136 vs 118  
+IN I-69 200 IN/MI              #160+    vs 159+    
+IN I-69Whe KenAve 134          #136=296 vs 135=294 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 154
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
 IN I-90 IL/IN IN/OH            #158 vs 21 overlap
 IN I-94 IL/IN IN/MI            # 46 vs 30 overlap
-#IN I-164 deleted              #  0 vs 21 chd to I-69
+#IN I-164 deleted              #  0 (Table 3 21)
 IN I-265 0 7                   #  7
 IN I-275 KY/IN IN/OH           #  3
 IN I-465 I-65 53               # 53
@@ -379,6 +401,7 @@ IN I-469 0 31                  # 31
 IN I-865 I-65 I-465            #  4 
 
 # Ohio
+# 1572 miles
 OH I-70 IN/OH OH/WV            #228 vs 226
 OH I-71 KY/OH I-90             #251 vs 246 2 mi overlap
 OH I-74 IN/OH I-75             # 19
@@ -426,6 +449,7 @@ VT I-93 NH/VT I-91             # 11
 VT I-189 I-89 US7              #  1 vs 2
 
 # Massachusetts
+# 566 miles
 MA I-84 CT/MA I-90             #  8
 MA I-90 NY/MA MA1A             #139 vs 136
 MA I-91 CT/MA MA/VT            # 55
@@ -441,10 +465,10 @@ MA I-395 CT/MA 7               # 12
 MA I-495 1 I-95                #121 vs 122
 
 # Rhode Island
-# 68 miles
+# 69 miles
 RI I-95 CT/RI RI/MA            # 42
 RI I-195 1 RI/MA               #  4
-RI I-295 I-95 RI/MA            # 23 vs 22
+RI I-295 I-95 RI/MA            # 23
 
 # Connecticut
 # 346 miles
@@ -496,16 +520,17 @@ NY I-890 I-90(26) I-90(25)     #  9
 NY I-990 I-290 5               #  6
 
 # New Jersey
+# 431 miles (same total, 9 miles I-95->I-295)
 NJ I-76 PA/NJ 1A               #  3
 NJ I-78 PA/NJ NJ/NY            # 68
 NJ I-80 PA/NJ 68               # 68
 NJ I-95 PA/NJ NJ/NY            # 79+
-NJ I-95Sec I-95_S I-95_N       # 10=89 vs 98 (matches T3=98)
+NJ I-95Sec I-95_S I-95_N       # 10=89 (Table 3=98)
 NJ I-195 1A 35                 # 34
 NJ I-278 US1/9 NJ/NY           #  2
 NJ I-280 I-80 I-95             # 17 vs 18     .31 ramp
 NJ I-287 I-95 NJ/NY            # 67
-NJ I-295 DE/NJ NJ/PA           # 77 vs 68 old alignment
+NJ I-295 DE/NJ NJ/PA           # 77 (Table 3=68)
 NJ I-676 1 NJ/PA               #  4 vs 5
 
 # Pennsylvania
@@ -748,6 +773,7 @@ FL I-595 I-75 12               # 14 vs 13
 # I-680 Iowa 17 miles changed to I-880
 # I-295 Maine ~40 miles Table 3 has I-495 should be I-295
 # WI overall; I-41 on table but not included in total (143 miles)
+# I-164 IN -21: 21 miles now I-69
 # I-95 PA -7: 11 miles changed to I-295, 4 miles replaced I-276
 # I-276 PA -4: 4 miles changed to I-95
 # I-295 PA 11 miles replaced old I-95
