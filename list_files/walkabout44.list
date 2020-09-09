@@ -171,7 +171,6 @@ OR I-105 OR99/126 4            #  3
 OR I-205 I-5 OR/WA             # 26
 OR I-405 I-5(299B) I-5(302B)   #  4
 
-
 # Idaho
 # 612 miles
 ID I-15 UT/ID ID/MT            #199 vs 196
@@ -189,46 +188,68 @@ MT I-115 I-15/90 ClaSt         #  1
 MT I-315 I-15 US87Byp          #  1
 
 # California
-CA I-5 MEX/USA CA/OR
-CA I-8 SunCliBlvd CA/AZ
-CA I-10 1 CA/AZ
-CA I-15 6B CA/NV
-CA I-40 I-15 CA/AZ
-CA I-80 1A CA/NV
-CA I-105 1A 18
-CA I-110 GafSt 21
-CA I-205 I-580 I-5
-CA I-210 1A 45
-CA I-215 I-15 54B
-CA I-238 14 17
-CA I-280 I-680/101 5thSt
-CA I-305 1A 7C
-CA I-380 5A 7
-CA I-405 I-5(94A) I-5(158)
-CA I-505 1A I-5
-CA I-580 1A I-5
-CA I-605 CA22 27                    # Missed Huntington Drive extension
-CA I-680 I-280/101 71
-CA I-710 1A ValBlvd
-CA I-780 1A 7
-CA I-805 I-5(1A) I-5(31)
-CA I-880 I-280 46B
-CA I-980 I-880 2B
+# 2456 miles
+CA I-5 MEX/USA CA/OR           #806 vs 797
+CA I-8 SunCliBlvd CA/AZ        #172 vs 170
+CA I-10 1 CA/AZ                #246 vs 241 overlap I-5
+CA I-15 6B CA/NV               #291 vs 287
+CA I-40 I-15 CA/AZ             #157 vs 155
+CA I-80 1A CA/NV               #204 vs 199
+CA I-105 1A 18                 # 17
+CA I-110 GafSt 21              # 21
+CA I-205 I-580 I-5             # 13
+CA I-210 1A 45                 # 45 vs 49
+CA I-215 I-15 54B              # 55
+CA I-238 14 17                 #  2
+CA I-280 I-680/101 5thSt       # 57
+CA I-305 1A 7C                 #  7 vs 6
+CA I-380 5A 7                  #  2 vs 3
+CA I-405 I-5(94A) I-5(158)     # 73 vs 72
+CA I-505 1A I-5                # 34 vs 33
+CA I-580 1A I-5                # 80 vs 76
+CA I-605 CA22 27               # 29 vs 28   Missed Huntington Drive extension
+CA I-680 I-280/101 71          # 71
+CA I-710 1A ValBlvd            # 22 vs 20
+CA I-780 1A 7                  #  7
+CA I-805 I-5(1A) I-5(31)       # 29 vs 28
+CA I-880 I-280 46B             # 46 vs 47
+CA I-980 I-880 2B              #  2
 
 # Nevada
-NV I-11 AZ/NV 61
-NV I-15 CA/NV NV/AZ
-NV I-80 CA/NV NV/UT
-NV I-215 1 12
-NV I-515 61 76
-NV I-580 US50/395 68
+# 624 miles
+NV I-11 AZ/NV 61               # 23
+NV I-15 CA/NV NV/AZ            #126 vs 124
+NV I-80 CA/NV NV/UT            #416 vs 411
+NV I-215 1 12                  # 11
+NV I-515 61 76                 # 15 vs 20
+NV I-580 US50/395 68           # 35
 
 # Utah
-UT I-15 AZ/UT UT/ID
-UT I-70 0 UT/CO
-UT I-80 NV/UT UT/WY
-UT I-84 ID/UT 120
-UT I-215 I-80 I-15
+# 938 miles
+UT I-15 AZ/UT UT/ID            #407 vs 401
+UT I-70 0 UT/CO                #232
+UT I-80 NV/UT UT/WY            #199 vs 193
+UT I-84 ID/UT 120              #120 vs 83 overlap I-15
+UT I-215 I-80 I-15             # 29
+
+# New Mexico
+# 1000 miles
+NM I-10 AZ/NM NM/TX            #167 vs 164
+NM I-25 I-10 NM/CO             #468 vs 462
+NM I-40 AZ/NM NM/TX            #378 vs 374
+
+# North Dakota
+# 571 miles
+ND I-29 SD/ND USA/CAN          #221 vs 218
+ND I-94 MT/ND ND/MN            #357 vs 352
+ND I-194 I-94 I-94BL           #  1
+
+# South Dakota
+# 678 miles
+SD I-29 IA/SD SD/ND            #256 vs 252
+SD I-90 WY/SD SD/MN            #418 vs 413
+SD I-190 SD44 1A               #  1 vs 2
+SD I-229 1A 10                 # 11
 
 # Minnesota
 # 913 miles
@@ -299,9 +320,34 @@ MO I-470 I-435 16B             # 17
 MO I-635 KS/MO 12              #  4
 MO I-670 KS/MO 2N              #  2 vs 1
 
+# Oklahoma
+# 930 miles
+OK I-35 TX/OK OK/KS            #240 vs 236
+OK I-40 TX/OK OK/AR            #335 vs 330 overlap I-35
+OK I-44 TX/OK OK/MO            #335 vs 324 overlap I-35
+OK I-235 1A 4B                 #  5
+OK I-240 1A I-40               # 17 vs 16
+OK I-244 1A I-44               # 16
+OK I-444 I-244_W I-244_E       #  2 vs 3
+
+# Arkansas
+# 750 miles (Table 3 745) diff 5: I-49 5
+AR I-30 TX/AR 143              #145 vs 143
+AR I-40 OK/AR AR/TN            #287 vs 285
+AR I-49 20 93                  # 72+    vs 73+
+AR I-49Tex LA/AR AR/TX         # 42=114 vs 42=115 5 new miles not on Table 3=110
+AR I-55 TN/AR AR/MO            # 74 vs 70 2 overlap I-40
+AR I-430 I-30 13               # 13
+AR I-440 I-30/530 11           # 10
+AR I-530 1 46                  # 47 vs 44
+AR I-540 1 14                  # 14
+AR I-555 1 45                  # 44 vs 45
+AR I-630 1 8                   #  8 vs 7
+
 # Texas
+# 3470 miles (Table 3 3501) diff -31: I-69 -31
 TX I-2 130 176                 # 47
-TX I-10 NM/TX TX/LA            #893 vs 879 2 overlap w/I-35
+TX I-10 NM/TX TX/LA            #893 vs 879 2 overlap I-35
 TX I-14 US190BusCop I-35       # 25
 TX I-20 I-10 TX/LA             #645 vs 636
 TX I-27 1A 123B                #126 vs 124
@@ -314,19 +360,36 @@ TX I-37 US181 142              #146 vs 143
 TX I-40 NM/TX TX/OK            #179 vs 177
 TX I-44 1 TX/OK                # 15
 TX I-45 1A 284A                #290 vs 285
-TX I-69 TXSpr529 167           # 76 vs 75
+TX I-69 TXSpr529 167           # 76 (-31, Table 3 has 110)
 TX I-69C 1 FM490               # 18
 TX I-69E PolkSt 51             # 52 vs 54+
-TX I-69ERob FM2826 I-37        # 10 vs 7=61 Table 3 has 61
+TX I-69ERob FM2826 I-37        # 10 vs 7=61
 TX I-69W WorTraBri I-35        #  2 vs 1
 TX I-110 MEX/USA I-10          #  1
-TX I-169 I-69E FM1847          #  3; Table 3 has 1.5
-TX I-345 284A 286              #  1 Unsigned
+TX I-169 I-69E FM1847          #  3
+TX I-345 284A 286              #  2 Unsigned
 TX I-369 TXLp151 I-30          #  4
-TX I-410 I-35(145A) 53         # 53 vs 49 think T3 is short
+TX I-410 I-35(145A) 53         # 53 vs 50 think T3 is slightly short
 TX I-610 TX288 38              # 39 vs 38
 TX I-635 1C 36                 # 37
 TX I-820 1A 34                 # 35 
+
+# Louisiana
+# 938 miles (Table 3 934) diff 4: I-49 4
+LA I-10 TX/LA LA/MS            #279 vs 274
+LA I-12 1A 85                  # 87 vs 86
+LA I-20 TX/LA LA/MS            #192 vs 190
+LA I-49 1A                     #210+    vs 206+
+LA I-49Bel 210 LA/AR           # 37=247 vs  37=243 Table 3 239 4 miles added 2019
+LA I-55 I-10 LA/MS             # 67 vs 66
+LA I-59 I-10/12 LA/MS          # 12 vs 11
+LA I-110 I-10 8A               #  9
+LA I-210 1 12                  # 12
+LA I-220 1B 17B                # 18
+LA I-310 1 US90                # 12 vs 11
+LA I-510 1A LA47_S             #  3
+LA I-610 1A I-10_E             #  4
+LA I-910 US90Bus_W I-10        # 10
 
 # Wisconsin
 # 875 miles Table 3 has bad total of 742; I-41 on table but not included in total
@@ -383,7 +446,7 @@ IL I-355 0 I-290               # 32
 IL I-474 0 15                  # 14 vs 15
 
 # Indiana
-# 1285 miles (Table 3 1306) 
+# 1285 miles (Table 3 1306) diff -21, I-164 -21
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
 IN I-69 200 IN/MI              #160+    vs 159+    
@@ -769,23 +832,28 @@ FL I-595 I-75 12               # 14 vs 13
 #15 NC I-840 6 8                  #  2    Greensboro opened 2020
 
 # Table 3 differences
-# I-95 new alignment PA-NJ
-# I-680 Iowa 17 miles changed to I-880
-# I-295 Maine ~40 miles Table 3 has I-495 should be I-295
+# I-49 AR 5 miles on in 2017 not on table
+# I-49 LA 4 miles not on table
+# I-69 TX -34 miles extra on table
+# I-680 IA 17 miles changed to I-880 (no mileage diff)
 # WI overall; I-41 on table but not included in total (143 miles)
 # I-164 IN -21: 21 miles now I-69
+# I-295 ME ~40 miles Table 3 has I-495 should be I-295 (no mileage diff)
+# I-95 NJ -9: 9 miles changed to I-295
+# I-295 NJ 9 miles replaced old I-95
 # I-95 PA -7: 11 miles changed to I-295, 4 miles replaced I-276
 # I-276 PA -4: 4 miles changed to I-95
 # I-295 PA 11 miles replaced old I-95
-# I-69 Kentucky 31 miles not on Table 3
-# I-265 Kentucky 10 miles new bridge not on Table 3 (or Travel Mapping)
-# I-26 Tennessee 23 miles not on Table 3
+# I-69 KY 31 miles not on Table 3
+# I-265 KY 10 miles new bridge not on Table 3 (or Travel Mapping)
+# I-26 TN 23 miles not on Table 3
 # TN overall; I-840 on table but not included in total (77 miles)
-# I-74 North Carolina, 10 miles new segments not on Table 3
-# I-140 North Carolina, 14 miles opened 2017 not on Table 3
-# I-295 North Carolina, 9 miles opened Aug 2020 not on Table 3
-# I-840 North Carolina, 2 opened 2020 not on Table 3
-# I-520 Georgia Table 3 has only 10 should be 16
+# I-695 MD, 20 miles not on Table 3
+# I-74 NC, 10 miles new segments not on Table 3
+# I-140 NC, 14 miles opened 2017 not on Table 3
+# I-295 NC, 9 miles opened Aug 2020 not on Table 3
+# I-840 NC, 2 opened 2020 not on Table 3
+# I-520 GA, 6 miles Table 3 has only 10 should be 16
 
 # Travel Mapping differences
 # AZ 202 new section not on Travel Mapping count
