@@ -141,7 +141,7 @@ AZ US80HisFlo US60(212) AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
 
 # Hawaii 
-# 55 miles
+# 55 miles: 47 on 8 not on
 HI I-H1 1A 10                  # 10+
 #HI I-H1 10 15                  #  5+        MISSING
 HI I-H1 15 AinAve              # 12=27
@@ -151,6 +151,15 @@ HI I-H3 1B 15                  # 14+
 #HI I-H3 15 KanSta              #  1=15 vs 16 MISSING
 #HI I-H201 1A 1D                #  1+        MISSING
 HI I-H201 1D I-H1              #  3=4 
+
+# Alaska
+# 1082 miles: 880 on 202 not on
+AK I-A1 5thAve_W AK2           #316+
+#AK I-A1 AK2 AK/YT              # 90=406 vs 92=408 Tok to Yukon line MISSING
+AK I-A2 AK1 AK3                #203 vs 202
+AK I-A3 KenSpurHwy 5thAve      #147 vs 148
+AK I-A4 AK1 HeaSpurRd          #214+
+#AK I-A4 HeaSpurRd AK2          #109=323 vs 110=324 Healy to Fairbanks MISSING
 
 # Washington
 # 764 miles
@@ -187,8 +196,15 @@ MT I-94 0 MT/ND                #252 vs 249
 MT I-115 I-15/90 ClaSt         #  1
 MT I-315 I-15 US87Byp          #  1
 
+# Wyoming
+# 914 miles                  
+WY I-25 CO/WY 300              #306 vs 301
+WY I-80 UT/WY WY/NE            #406 vs 403
+WY I-90 MT/WY WY/SD            #210 vs 209
+WY I-180 I-80 I-80BL/30        #  1
+
 # California
-# 2456 miles
+# 2456 miles: 2455 on 1 not on
 CA I-5 MEX/USA CA/OR           #806 vs 797
 CA I-8 SunCliBlvd CA/AZ        #172 vs 170
 CA I-10 1 CA/AZ                #246 vs 241 overlap I-5
@@ -231,6 +247,14 @@ UT I-70 0 UT/CO                #232
 UT I-80 NV/UT UT/WY            #199 vs 193
 UT I-84 ID/UT 120              #120 vs 83 overlap I-15
 UT I-215 I-80 I-15             # 29
+
+# Colorado
+# 952 miles
+CO I-25 NM/CO CO/WY            #303 vs 299
+CO I-70 UT/CO CO/KS            #449 vs 450
+CO I-76 1A CO/NE               #187 vs 185
+CO I-225 1 12                  # 12
+CO I-270 0 I-70                #  6 vs 7
 
 # New Mexico
 # 1000 miles
@@ -300,14 +324,14 @@ KS I-635 1A KS/MO              #  9
 KS I-670 I-70 KS/MO            #  2
 
 # Missouri
-# 1387 miles
+# 1386 miles
 MO I-29 2H(35) MO/IA           #130 vs 125 overlap I-35
 MO I-35 KS/MO MO/IA            #116 vs 114 overlap I-70
 MO I-44 OK/MO I-70             #292 vs 293
 MO I-49 5 I-435                #181 vs 179
 MO I-55 AR/MO MO/IL            #213 vs 209
 MO I-57 1 MO/IL                # 22
-MO I-64 1 MO/IL                # 41
+MO I-64 1 MO/IL                # 41 vs 40
 MO I-70 KS/MO MO/IL            #252 vs 250
 MO I-72 US61 MO/IL             #  2
 MO I-155 1 MO/TN               # 11
@@ -345,7 +369,7 @@ AR I-555 1 45                  # 44 vs 45
 AR I-630 1 8                   #  8 vs 7
 
 # Texas
-# 3470 miles (Table 3 3501) diff -31: I-69 -31
+# 3470 miles (Table 3 3501) diff -31: I-69 -34
 TX I-2 130 176                 # 47
 TX I-10 NM/TX TX/LA            #893 vs 879 2 overlap I-35
 TX I-14 US190BusCop I-35       # 25
@@ -360,14 +384,14 @@ TX I-37 US181 142              #146 vs 143
 TX I-40 NM/TX TX/OK            #179 vs 177
 TX I-44 1 TX/OK                # 15
 TX I-45 1A 284A                #290 vs 285
-TX I-69 TXSpr529 167           # 76 (-31, Table 3 has 110)
+TX I-69 TXSpr529 167           # 76 (-34, Table 3 has 110)
 TX I-69C 1 FM490               # 18
 TX I-69E PolkSt 51             # 52 vs 54+
 TX I-69ERob FM2826 I-37        # 10 vs 7=61
 TX I-69W WorTraBri I-35        #  2 vs 1
 TX I-110 MEX/USA I-10          #  1
-TX I-169 I-69E FM1847          #  3
-TX I-345 284A 286              #  2 Unsigned
+TX I-169 I-69E FM1847          #  3 vs 1
+TX I-345 284A 286              #  2 vs 1 Unsigned
 TX I-369 TXLp151 I-30          #  4
 TX I-410 I-35(145A) 53         # 53 vs 50 think T3 is slightly short
 TX I-610 TX288 38              # 39 vs 38
@@ -379,7 +403,7 @@ TX I-820 1A 34                 # 35
 LA I-10 TX/LA LA/MS            #279 vs 274
 LA I-12 1A 85                  # 87 vs 86
 LA I-20 TX/LA LA/MS            #192 vs 190
-LA I-49 1A                     #210+    vs 206+
+LA I-49 1A 206                 #210+    vs 206+
 LA I-49Bel 210 LA/AR           # 37=247 vs  37=243 Table 3 239 4 miles added 2019
 LA I-55 I-10 LA/MS             # 67 vs 66
 LA I-59 I-10/12 LA/MS          # 12 vs 11
@@ -391,8 +415,20 @@ LA I-510 1A LA47_S             #  3
 LA I-610 1A I-10_E             #  4
 LA I-910 US90Bus_W I-10        # 10
 
+# Mississippi
+# 831 miles
+MS I-10 LA/MS MS/AL            # 78 vs 77
+MS I-20 LA/MS MS/AL            #156 vs 129 overlap I-55/59
+MS I-22 12 MS/AL               #107 vs 106
+MS I-55 LA/MS MS/TN            #296 vs 290
+MS I-59 LA/MS MS/AL            #174 vs 172
+MS I-69 MS713 MS/TN            # 24 vs 15 overlap I-55
+MS I-110 1A 4                  #  4
+MS I-220 1A I-55               # 12
+MS I-269 1 MS/TN               # 26
+
 # Wisconsin
-# 875 miles Table 3 has bad total of 742; I-41 on table but not included in total
+# 875 miles (Table 3 742)  diff 133: I-41 133
 WI I-39 IL/WI 187              #184 vs 183
 WI I-41 IL/WI 171              #177 vs 132 overlap I-94, I-894, I-43
 WI I-43 1 192                  #193 vs 192
@@ -446,12 +482,12 @@ IL I-355 0 I-290               # 32
 IL I-474 0 15                  # 14 vs 15
 
 # Indiana
-# 1285 miles (Table 3 1306) diff -21, I-164 -21
+# 1286 miles (Table 3 1307) diff -21, I-164 -21
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
 IN I-69 200 IN/MI              #160+    vs 159+    
 IN I-69Whe KenAve 134          #136=296 vs 135=294 Table 3 294
-IN I-70 IL/IN IN/OH            #158 vs 154
+IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
 IN I-90 IL/IN IN/OH            #158 vs 21 overlap
@@ -461,7 +497,7 @@ IN I-265 0 7                   #  7
 IN I-275 KY/IN IN/OH           #  3
 IN I-465 I-65 53               # 53
 IN I-469 0 31                  # 31
-IN I-865 I-65 I-465            #  4 
+IN I-865 I-65 I-465            #  4 vs 5
 
 # Ohio
 # 1572 miles
@@ -545,7 +581,7 @@ CT I-684 NY/CT CT/NY           #  1
 CT I-691 1 11                  #  8
 
 # New York
-# 1731 miles - 1707 on 24 not on
+# 1730 miles: 1706 on 24 not on
 NY I-78 NJ/NY HudSt            #  1
 NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
@@ -630,11 +666,11 @@ DE I-295 I-95 DE/NJ            #  5 vs 6
 DE I-495 I-95 6                # 11
 
 # Maryland
-# 500 miles (Table 3 480) diff 20: I-695 20
+# 500 miles (Table 3 480) diff 20: I-695 20, overall -1 Total table off from detail
 MD I-68 WV/MD 82               # 80 vs 81            
 MD I-70 PA/MD 94               # 94
 MD I-81 WV/MD MD/PA            # 12
-MD I-83 1 MD/PA                # 34
+MD I-83 1 MD/PA                # 34 vs 35
 MD I-95 DC/MD MD/DE            #109 vs 110
 MD I-97 1 17                   # 17 vs 18
 MD I-195 TerRd 4               #  4
@@ -662,7 +698,7 @@ DC I-495 VA/DC DC/MD           #  0
 DC I-695 I-395 2A              #  2
 
 # Virginia
-# 1117 miles
+# 1117 miles: 1117 on .03 not on
 VA I-64 WV/VA 299              #301 vs 299
 VA I-66 1 VA/DC                # 75
 VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
@@ -691,7 +727,7 @@ WV I-81 VA/WV WV/MD            # 26
 WV I-470 OH/WV 4               #  4
 
 # Kentucky
-# 954 miles (Table 3 913 miles) diff 31: I-69 31, I-265 10
+# 944 miles (Table 3 913 miles) diff 31: I-69 31
 KY I-24 IL/KY KY/TN            # 95 vs 93
 KY I-64 IN/KY KY/WV            #193 vs 185
 KY I-65 TN/KY KY/IN            #139 vs 137
@@ -700,8 +736,8 @@ KY I-71 1 KY/OH                # 97 vs 78 overlap I-75
 KY I-75 TN/KY KY/OH            #194 vs 192
 KY I-165 1 70                  # 72 vs 70
 KY I-264 0 23                  # 23
-#KY I-265 0 10                  # 10 vs 0; new bridge not on Table 3 or Travel Mapping
 KY I-265 10 35                 # 25 vs 24
+#KY I-265 34 ?                  # new bridge not yet designated I-265
 KY I-275 OH/KY KY/IN           # 25
 KY I-471 1 KY/OH               #  5
 
@@ -727,6 +763,7 @@ TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 
 # North Carolina
 # 1363 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
+# 1338 on 25 not on
 NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 9             #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
@@ -811,7 +848,11 @@ FL I-375 I-275 US19Alt         #  1
 FL I-395 1 FLA1A               #  1
 FL I-595 I-75 12               # 14 vs 13
 
-
+# Puerto Rico
+# 250 miles: 0 on, 250 not on
+#PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
+#PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
+#PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
 
 # Interstates Not on
 #01 HI I-H1 10 15                  #  5        MISSING
@@ -830,13 +871,21 @@ FL I-595 I-75 12               # 14 vs 13
 #13 NC I-140 1 14                 # 14    Wilmington extension opened 2017
 #14 NC I-295 12 21A               #  9    Fayetteville extension opened Aug 2020
 #15 NC I-840 6 8                  #  2    Greensboro opened 2020
+# Alaska & Puerto Rico Not on
+#16 AK I-A1 AK2 AK/YT             # 92  AK2 to Yukon line
+#17 AK HeaSpurRd AK2              #110  Healy to Fairbanks 
+#18 PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
+#19 PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
+#20 PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
+
+
 
 # Table 3 differences
 # I-49 AR 5 miles on in 2017 not on table
 # I-49 LA 4 miles not on table
-# I-69 TX -34 miles extra on table
+# I-69 TX -34 miles extra on Table
 # I-680 IA 17 miles changed to I-880 (no mileage diff)
-# WI overall; I-41 on table but not included in total (143 miles)
+# WI overall; I-41 on table but not included in total (133 miles)
 # I-164 IN -21: 21 miles now I-69
 # I-295 ME ~40 miles Table 3 has I-495 should be I-295 (no mileage diff)
 # I-95 NJ -9: 9 miles changed to I-295
@@ -845,16 +894,16 @@ FL I-595 I-75 12               # 14 vs 13
 # I-276 PA -4: 4 miles changed to I-95
 # I-295 PA 11 miles replaced old I-95
 # I-69 KY 31 miles not on Table 3
-# I-265 KY 10 miles new bridge not on Table 3 (or Travel Mapping)
 # I-26 TN 23 miles not on Table 3
 # TN overall; I-840 on table but not included in total (77 miles)
 # I-695 MD, 20 miles not on Table 3
+# MD overall; -1, total table 1 mile more than details add to
 # I-74 NC, 10 miles new segments not on Table 3
 # I-140 NC, 14 miles opened 2017 not on Table 3
 # I-295 NC, 9 miles opened Aug 2020 not on Table 3
 # I-840 NC, 2 opened 2020 not on Table 3
+# SC overall; total table 4 less than detail total
 # I-520 GA, 6 miles Table 3 has only 10 should be 16
 
 # Travel Mapping differences
 # AZ 202 new section not on Travel Mapping count
-# I-265 Kentucky 10 miles new bridge not on Table 3 (or Travel Mapping)
