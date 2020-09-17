@@ -429,7 +429,7 @@ PA US1 BurRd AdaAve
 PA US1 PA63_W PA/NJ
 PA US11 PA114 HarTayBr
 PA US11 PA34/74 LocPoiRd
-PA US11 PA54 StaHosDr
+PA US11 PA54 StaHosDr # and really to Woodbine Lane, but there's no waypoint there, and I certainly haven't been up to County Line Dr.
 PA US11 PA307_S ScrCarHwy
 PA US13 BulLn BalPk_W
 PA US13 CobCrePkwy 34thSt
@@ -990,6 +990,7 @@ PA PA97Lit MD/PA US15
 PA PA100 US202 *TreRd
 PA PA100 US222_S HolValRd
 PA PA113 US30Bus 2ndAve
+# maybe I can claim the section from 2ndAve to PA73?
 PA PA113 PA73 GodRd
 PA PA113 CouLineRd PA611
 PA PA114 US15 US11
