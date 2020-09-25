@@ -1,4 +1,4 @@
-# Date: 2020-09-22
+# Date: 2020-09-23
 # ----------------
 
 
@@ -1644,8 +1644,7 @@ DEU-BB B2 B166_E B198_N
 DEU-BB B2Lin A10/A11 BB/BE
 DEU-BB B2Pot BE/BB L20
 DEU-BB B2Pot HegAll_E BB/ST
-DEU-BB B5 A14(11) B189_S
-DEU-BB B5 K7007 B107_N
+DEU-BB B5 A14(11) B102
 DEU-BB B5 B188 BB/BE
 DEU-BB B5Mun L38 B112_S
 DEU-BB B87 SN/BB A13
@@ -1661,7 +1660,8 @@ DEU-BB B96aSch BE/BB B96
 DEU-BB B101 BE/BB BB/ST
 DEU-BB B101Lie ST/BB B87
 DEU-BB B101Lie B183 B169_N
-DEU-BB B102 A9 Wei
+DEU-BB B102 B5 Wei
+DEU-BB B102 B101/B115 B101_W
 DEU-BB B103 MV/BB B107
 DEU-BB B107Pri B103 B5_W
 DEU-BB B107Pri K7005 BB/ST
@@ -1762,13 +1762,18 @@ DEU-HH A24 1 HH/SH
 DEU-HH A25 1 HH/SH
 DEU-HH A255 1 A1
 DEU-HH A261 1 HH/NI
+DEU-HH B5 Ring2_E A25
 DEU-HH B73 NI/HH B73Hei
 DEU-HH B73Hei B73 A7
 DEU-HH B75 ZweStr 6
 DEU-HH B75 Kor WinStr
+DEU-HH B207 SH/HH B5
 DEU-HH B432 A7 HH/SH
 DEU-HH B432DuW SH/HH HH/SH
 DEU-HH B432DuN SH/HH HH/SH
+DEU-HH B433 SH/HH Ring2_E
+DEU-HH Ring2 B433_N B5_E
+DEU-HH Ring3Pop SH/HH LanCha
 
 
 
@@ -2030,8 +2035,7 @@ DEU-MV A20 SH/MV MV/BB
 DEU-MV A20Pas BB/MV MV/BB
 DEU-MV A24 SH/MV MV/BB
 DEU-MV A24Suc BB/MV MV/BB
-DEU-MV B5 L05_S B321
-DEU-MV B5 B191_S A14
+DEU-MV B5 L05_S A14
 DEU-MV B96 TreStr B196
 DEU-MV B96 L296_W A20
 DEU-MV B96Neu NeuStr_W MV/BB
@@ -2059,7 +2063,7 @@ DEU-MV B321 B5 B392
 DEU-MV B392 B321 B192
 DEU-MV L22 B103/B105 L22Ros
 DEU-MV L22Ros L22 A19
-DEU-MV L04 L042 A24
+DEU-MV L04 L042 B321_E
 DEU-MV L05 L042 MV/NI
 DEU-MV L042 L04/L05 B106
 DEU-MV L072 A14 MV/BB
@@ -2576,10 +2580,12 @@ DEU-SN B181 ST/SN B87
 DEU-SN B182 B87/B183 SN/BB
 DEU-SN B182Rie BB/SN B169
 DEU-SN B183 ST/SN SN/BB
+DEU-SN B184 ST/SN B2
 DEU-SN B186 B181 B2
 DEU-SN B282 TH/SN B92
 DEU-SN B283 S277 B101
 DEU-SN S1 A9 A14
+DEU-SN S9 B2_N B2_S
 DEU-SN S59 BruStr B97
 DEU-SN S73 A4 B173
 DEU-SN S82 CosStr B6
@@ -2654,7 +2660,7 @@ DEU-ST B180n A36 B185
 DEU-ST B181 A9 ST/SN
 DEU-ST B183 L141_S ST/SN
 DEU-ST B184 B1 B187
-DEU-ST B184 B185_W B100_W
+DEU-ST B184 B185_W ST/SN
 DEU-ST B185 B242 B180n
 DEU-ST B185 15(A36) B184_S
 DEU-ST B187 B184 A9
@@ -2715,19 +2721,21 @@ DEU-SH B203 A7 B199/B201
 DEU-SH B205 A7 A21
 DEU-SH B206 L167 A20
 DEU-SH B207Feh RodPutFry 5
-DEU-SH B207 B75 A24
+DEU-SH B207 B75 SH/HH
 DEU-SH B404 A1/A21 SH/NI
 DEU-SH B404Kie B76/B202 A21(6)
 DEU-SH B432Gla HH/SH K100
 DEU-SH B432Gla K99 SH/HH
 DEU-SH B432Tan HH/SH SH/HH
 DEU-SH B432 HH/SH A21
+DEU-SH B433 Ring3_E SH/HH
 DEU-SH B501 A1(5) A1(13)
 DEU-SH L208 K80 B5/B404
 DEU-SH L230 A1 L309
 DEU-SH L249 B199/B200 K28
 DEU-SH L309 L230 K25
 DEU-SH L332 K5 K23
+DEU-SH Ring3 B433_S SH/HH
 
 
 
@@ -5571,6 +5579,19 @@ QC QC134 RueOnt BoulTas_N
 #DEU-MV  Schwerin 2 Lankow           DEU-MV  Hegelstraße (both directions)
 #DEU-MV  Schwerin 3 Neu Pankow       DEU-MV  Hegelstraße
 #DEU-MV  Schwerin 4 Kliniken         DEU-MV  Neu Pankow
+
+#DEU-SN Leipzig  1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz
+#DEU-SN Leipzig  2 Grünau-Nord - W-L-Platz
+#DEU-SN Leipzig  2 Bay Bhf - Naunhofer Straße
+#DEU-SN Leipzig  4 G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße
+#DEU-SN Leipzig  8 Grünau-Nord - Angerbrücke
+#DEU-SN Leipzig  9 Thekla - Hbf-West - Neues Rathaus
+#DEU-SN Leipzig  9 Bay Bhf - Wiedebachplatz
+#DEU-SN Leipzig 10 Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig (bis Connewitz concurrent to 11)
+#DEU-SN Leipzig 11 Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost
+#DEU-SN Leipzig 15 Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf
+#DEU-SN Leipzig 16 Messegelände - Hbf - Lößnig
+#DEU-SN Leipzig 32 Gohlis-Nord - Nordplatz - Hbf
 
 #DEU-ST Magdeburg 9  Neustädter See  DEU-ST  Reform (via Domplatz)
 #DEU-ST Magdeburg 1  IKEA            DEU-ST  Kastanienstraße
