@@ -99,7 +99,7 @@ VA I-66 67 VA/DC
 ########
 # I-70 #
 ########
-CO I-70 UT/CO 203
+CO I-70 UT/CO 260
 
 ########
 # I-74 #
@@ -227,6 +227,12 @@ WA US2 I-5 WA204
 WA US2 WA522 MillSt
 MT US2 MT40 MarPass
 
+#######
+# US6 #
+#######
+CO US6 I-70(205) MonRd
+CO US6 CO58/93 CO470
+
 ########
 # US12 #
 ########
@@ -260,6 +266,22 @@ VA US29BusChr US250Bus US29_N
 # US30 #
 ########
 ID US30 ID74 ID50
+
+########
+# US34 #
+########
+CO US34 US40 US34Bus/36
+
+########
+# US36 #
+########
+CO US36 US34_E Bdwy_W
+CO US36 CO119_W TabMesaDr
+
+########
+# US40 #
+########
+CO US40 CO9 US34
 
 ########
 # US41 #
@@ -543,6 +565,15 @@ CA CA254 US101(645) US101(674)
 CA CA261 1 6B
 
 CA CA330 CA210 CA18
+
+###########################
+# Colorado State Highways #
+###########################
+CO CO9 BucSt US40
+
+CO CO93 US6 TabMesaDr
+
+CO CO470 US6 2
 
 ##############################
 # Connecticut State Highways #
