@@ -1337,6 +1337,13 @@ MA LowCon US3 GorSt
 MA SolFieRd HarSt StoDr
 MA StoDr SolFieRd MA28
 #
+# Michigan
+#
+MI I-69 IN/MI MI/Can
+MI I-94 271 MI/Can
+MI I-94BLMar I-94_W I-69_S
+MI I-96 91 97
+#
 # Minnesota
 #
 MN I-35 245 253A
