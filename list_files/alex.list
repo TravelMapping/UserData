@@ -49,7 +49,7 @@ CA I-15 59 246
 NV I-15 42 NV/AZ
 AZ I-15 NV/AZ AZ/UT
 UT I-15 AZ/UT 16
-UT I-15 304 362
+UT I-15 257B 362
 ID I-15 72 119
 
 CA I-215 34 40
@@ -113,6 +113,8 @@ IN I-74 IL/IN 15
 CA I-80 1A CA/NV
 NV I-80 CA/NV NV/UT
 UT I-80 NV/UT 128
+
+NV I-80BLElk NV225 I-80_E
 
 NV I-80BLFer US50Alt_E I-80_E
 
@@ -232,6 +234,7 @@ MT US2 MT40 MarPass
 #######
 CO US6 I-70(205) MonRd
 CO US6 CO58/93 CO470
+UT US6 I-15(257B) I-70(157)
 
 ########
 # US12 #
@@ -244,6 +247,11 @@ WA US12 I-5(68) WA131
 ########
 ID US20 311 I-15(119)
 OR US20 IndForRd US97(135A)
+
+########
+# US24 #
+########
+CO US24 CO91 CO300
 
 ########
 # US26 #
@@ -314,6 +322,7 @@ CA US66HisHol I-10 BunDr
 ########
 AZ US89 AZ64 US89Alt
 UT US89 US89Alt UT12
+UT US89 I-80 1300S
 UT US89 US91_S UT/ID
 ID US89 UT/ID ID/WY
 WY US89 ID/WY LizCreCam
@@ -370,6 +379,7 @@ AZ US180 AZ64_S GraCynNP
 #########
 # US191 #
 #########
+UT US191 UT128 I-70(182)
 WY US191 US26/89_S LizCreCam
 
 #########
@@ -571,6 +581,8 @@ CA CA330 CA210 CA18
 ###########################
 CO CO9 BucSt US40
 
+CO CO91 US24 I-70
+
 CO CO93 US6 TabMesaDr
 
 CO CO470 US6 2
@@ -663,6 +675,10 @@ MT SR206 MT35 US2
 #########################
 NV NV28 CA/NV VilBlvd
 
+NV NV225 I-80BL I-80
+
+NV NV227 I-80BL FR660
+
 NV NV373 CA/NV US95
 
 NV NV487 NV488 US6/50
@@ -698,7 +714,17 @@ UT UT12 US89 UT63
 
 UT UT63 UT12 BryCanNP
 
+UT UT71 I-80 UT186
+
+UT UT128 US191 2ndSt
+
 UT UT190 I-215 MillBSTrl
+
+UT UT269 I-15/80 UT270
+
+UT UT270 WTem US89
+
+UT UT313 IslSkyRd US191
 
 ###########################
 # Virginia State Highways #
@@ -830,7 +856,11 @@ OR CraLakeHwy RimDr OR138
 
 OR CraLakeRimDr CraLakeHwy_W CraLakeHwy_E
 
+UT ArcSceDr US191 DelArchRd
+
 UT BryCynSceDr UT63 BryPoiRd
+
+UT IslSkySceDr UT313 CynNP
 
 UT ZionCynDr UT9 End
 
