@@ -251,15 +251,14 @@ GA US41 UniAveSW GA3ConMar
 #GA US76 (US 411 concurrency)
 GA US76 GA5/515 GA17/515
 GA US78 GA113 GA61/101
-GA US78 SweRd US278_W
-GA US78 GA70 US29_N
-GA US78 GA410(5) GA236
+GA US78 SweRd JefDavDr
 GA US78 GA138 US29_AthS
 GA US80 AL/GA I-185
 GA US129 I-985(24) US129BusGai_N
 #only to Textile Dr, but close enough
 #GA US129 (US 441, US 19 concurrencies)
-#GA US278 (US 29/78 concurrency)
+GA US278 GA6Spr US78_W
+#GA US278 (US 78 concurrency)
 GA US278 US23/78 GA10_E
 GA US278 GA154Spr I-285(43)
 GA US411 I-75 GA/TN
@@ -271,7 +270,7 @@ GA US441BusCla US23/441 GA17/115_N
 GA GA5 I-20 RoseAve_S
 #actual Concourse Pkwy-Arbor Crossing, but close enough
 GA GA5 GA5Bus/372 US76_W
-GA GA6 US78/278 I-20
+GA GA6 US78/278 I-85
 GA GA9 I-285 HamDr
 GA GA9 NorRd GA92/140
 #GA120_W is actually King St, but close enough
@@ -344,6 +343,7 @@ GA GA520 US17_N RivDr
 GA GA3ConMar US41 GA120
 GA GA5ConKen I-75 US41
 #actually only to Roberts Blvd, but close enough
+GA GA6SprAus US278 PowSprRd
 GA GA10LpAth 1 6
 GA GA13ConDor US23 GA141
 GA GA14ConAtl US29 I-85/285
