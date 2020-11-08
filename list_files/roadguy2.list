@@ -884,9 +884,9 @@ TN TN8Cha US76 MLKingBlvd_W
 #TN TN8Cha MLKingBlvd_W 12thSt
 #Essentially: S on Market, W on MLKing, S on Broad past 12th, then back E on 12th to Market, then S to Main
 TN TN27 I-24 US41/64
-#TN TN134 TN156 concurrency
+TN TN134 US41/64 TN156_W
 TN TN148 GA/TN US11/41
-TN TN156 TN377 US41/64
+TN TN156 TN377 TN134_E
 TN TN377 TN156 AL/TN
 
 #texas
