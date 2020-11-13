@@ -20,7 +20,7 @@ CA I-105 1A 18
 
 CA I-205 I-580 I-5
 OR I-205 I-5 OR/WA
-WA I-205 27 I-5
+WA I-205 OR/WA I-5
 
 CA I-305 1A 6
 
@@ -49,7 +49,7 @@ CA I-15 59 246
 NV I-15 42 NV/AZ
 AZ I-15 NV/AZ AZ/UT
 UT I-15 AZ/UT 16
-UT I-15 304 362
+UT I-15 257B 362
 ID I-15 72 119
 
 CA I-215 34 40
@@ -97,6 +97,11 @@ VA I-66 43 53
 VA I-66 67 VA/DC
 
 ########
+# I-70 #
+########
+CO I-70 UT/CO 260
+
+########
 # I-74 #
 ########
 IL I-74 179 IL/IN
@@ -109,9 +114,13 @@ CA I-80 1A CA/NV
 NV I-80 CA/NV NV/UT
 UT I-80 NV/UT 128
 
+NV I-80BLElk NV225 I-80_E
+
+NV I-80BLFer US50Alt_E I-80_E
+
 CA I-280 12 5thSt
 
-CA I-380 5A 6
+CA I-380 5A 7
 
 CA I-580 1A I-5
 
@@ -217,8 +226,15 @@ NJ US1 CR571 NJ18
 # US2 #
 #######
 WA US2 I-5 WA204
-WA US2 WA522 MillSt
+WA US2 WA522 US97_S
 MT US2 MT40 MarPass
+
+#######
+# US6 #
+#######
+CO US6 I-70(205) MonRd
+CO US6 CO58/93 CO470
+UT US6 I-15(257B) I-70(157)
 
 ########
 # US12 #
@@ -231,6 +247,11 @@ WA US12 I-5(68) WA131
 ########
 ID US20 311 I-15(119)
 OR US20 IndForRd US97(135A)
+
+########
+# US24 #
+########
+CO US24 CO91 CO300
 
 ########
 # US26 #
@@ -255,6 +276,22 @@ VA US29BusChr US250Bus US29_N
 ID US30 ID74 ID50
 
 ########
+# US34 #
+########
+CO US34 US40 US34Bus/36
+
+########
+# US36 #
+########
+CO US36 US34_E Bdwy_W
+CO US36 CO119_W TabMesaDr
+
+########
+# US40 #
+########
+CO US40 CO9 US34
+
+########
 # US41 #
 ########
 IL US41 I-55 RanSt
@@ -265,6 +302,12 @@ IN US41 I-74 IN55_S
 ########
 CA US50 I-80 CA/NV
 NV US50 CA/NV LakDr
+NV US50 US50Alt NV/UT
+UT US50 NV/UT UT/CO
+
+NV US50AltFer I-80BL/95Spr US50_E
+
+CA US50AltPol US50_W US50_E
 
 ########
 # US53 #
@@ -281,6 +324,7 @@ CA US66HisHol I-10 BunDr
 ########
 AZ US89 AZ64 US89Alt
 UT US89 US89Alt UT12
+UT US89 I-80 1300S
 UT US89 US91_S UT/ID
 ID US89 UT/ID ID/WY
 WY US89 ID/WY LizCreCam
@@ -312,6 +356,7 @@ NV US95 76(515) NV373
 ########
 CA US97 I-5 CA/OR
 OR US97 CA/OR US197
+WA US97 WA970 US2_W
 
 #########
 # US101 #
@@ -325,6 +370,10 @@ WA US101 UppHohRd WA104
 WA US101 RodSt PenCreRd
 WA US101 WA8 I-5
 
+CA US101BusNov US101_S US101_N
+CA US101BusPet US101_S US101_N
+CA US101BusPis US101_S CA US101BusPis US101_N
+
 #########
 # US180 #
 #########
@@ -333,6 +382,7 @@ AZ US180 AZ64_S GraCynNP
 #########
 # US191 #
 #########
+UT US191 UT128 I-70(182)
 WY US191 US26/89_S LizCreCam
 
 #########
@@ -355,8 +405,7 @@ NJ US206 CR533_S NJ27
 # US395 #
 #########
 CA US395 I-15 CA/NV
-NV US395 CA/NV NV88
-
+NV US395 CA/NV NV756
 
 ##################
 # STATE HIGHWAYS #
@@ -447,7 +496,7 @@ CA CA85 1A 19A
 
 CA CA87 1A 9
 
-CA CA88 US50Alt/89 CA89
+CA CA88 US50Alt_W CA/NV
 
 CA CA89 CA4 I-80(188B)
 CA CA89 CA36_W LasVolNP
@@ -528,6 +577,17 @@ CA CA254 US101(645) US101(674)
 CA CA261 1 6B
 
 CA CA330 CA210 CA18
+
+###########################
+# Colorado State Highways #
+###########################
+CO CO9 BucSt US40
+
+CO CO91 US24 I-70
+
+CO CO93 US6 TabMesaDr
+
+CO CO470 US6 2
 
 ##############################
 # Connecticut State Highways #
@@ -617,7 +677,21 @@ MT SR206 MT35 US2
 #########################
 NV NV28 CA/NV VilBlvd
 
+NV NV88 CA/NV US395
+
+NV NV207 US50 NV206
+
+NV NV225 I-80BL I-80
+
+NV NV227 I-80BL FR660
+
 NV NV373 CA/NV US95
+
+NV NV487 NV488 US6/50
+
+NV NV488 LehCavVC NV487
+
+NV NV756 NV88 US395
 
 #############################
 # New Jersey State Highways #
@@ -648,7 +722,17 @@ UT UT12 US89 UT63
 
 UT UT63 UT12 BryCanNP
 
+UT UT71 I-80 UT186
+
+UT UT128 US191 2ndSt
+
 UT UT190 I-215 MillBSTrl
+
+UT UT269 I-15/80 UT270
+
+UT UT270 WTem US89
+
+UT UT313 IslSkyRd US191
 
 ###########################
 # Virginia State Highways #
@@ -692,6 +776,8 @@ WA WA99 168thSt WA525
 
 WA WA104 US101 KinEdmFry
 
+WA WA104Edm EdmKinFry I-5
+
 WA WA107 US101 US12
 
 WA WA131 GifPinNF US12
@@ -710,21 +796,31 @@ WA WA202 WA203 I-90
 
 WA WA204 US2 WA9
 
+WA WA305 WinFry WA3
+
 WA WA401 US101 WA4
 
 WA WA410 WA164 SunParkRd
 
+WA WA509 WA518 WA99
+
 WA WA513 WA520 65thSt
+
+WA WA518 WA509 I-5
 
 WA WA520 I-5 I-405
 
 WA WA522 I-5 US2
+
+WA WA523 WA99 WA522
 
 WA WA525 I-5 CliMukFry
 
 WA WA525Fre CliMukFry WA20
 
 WA WA526 WA525 I-5
+
+WA WA529 Bro I-5(198)
 
 WA WA530 I-5 WA20
 
@@ -737,7 +833,13 @@ WA WA543 I-5 WA/BC
 
 WA WA544 PoleRd WA9
 
+WA WA599 I-5 WA99
+
 WA WA706 WA7 MouRaiNP
+
+WA WA903 WA970 OakAve_S
+
+WA WA970 I-90 US97
 
 ##########################
 # Wyoming State Highways #
@@ -780,7 +882,11 @@ OR CraLakeHwy RimDr OR138
 
 OR CraLakeRimDr CraLakeHwy_W CraLakeHwy_E
 
+UT ArcSceDr US191 DelArchRd
+
 UT BryCynSceDr UT63 BryPoiRd
+
+UT IslSkySceDr UT313 CynNP
 
 UT ZionCynDr UT9 End
 

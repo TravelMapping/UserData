@@ -1147,7 +1147,7 @@ KY US41 US62 KY/IN
 KY US51 TN/KY KY/IL
 KY US60 IL/KY US51/62_S
 KY US60 US62Pad_E KY109_W
-ky us60 ky86_w i-64(4)
+ky us60 ky259/261 i-64(4)
 KY US62 IL/KY US51_S
 ky us62 us231_s ky79
 KY US62 US60Pad_E US41
@@ -1173,10 +1173,12 @@ ky ky56 il/ky ky109
 ky ky61 ky55/439 us68_e
 ky ky69 us231_s ky54_e
 ky ky70 us41/262 us231_n
+ky ky70cam mamcavenp i-65
 ky ky74 tn/ky ky3485
 ky ky78 us127 us27
+ky ky79 ky86_w ky261
 ky ky80 ky914_n i-75
-ky ky86 us60_e ky261_n
+ky ky86 us60_w ky261_n
 ky ky90 ky100 ky92
 ky ky92 ky90 us27_n
 ky ky94 us51 us641/121
@@ -1188,10 +1190,16 @@ ky ky109 ky56 us60_w
 ky ky166 ky125 ky1648
 ky ky185 ky2766 ky79
 ky ky190 ky3484 us25e
+ky ky255mam mamcavenp_s mamcavenp_n
 ky ky261 ky54 ky79
 ky ky324 us62 ky11
 ky ky914 ky80_e cumpkwy
 ky ky949 us431 ky106
+ky ky3484 ky3485 ky190
+ky ky3485 ky74 ky190
+ky cavecityrd mamcavepkwy ky255
+ky mamcavepkwy ky70/255 end
+ky parkcityrd ky255 mamcavepkwy
 la us11 us90 i-10(254)
 la us61 us90 clepky
 la us61 i-12 la/ms
@@ -1865,7 +1873,6 @@ or or18 us101 or99w_s
 or or18buswil or18/22 or18
 or or22 us101 us20/126
 or or42 us101 i-5
-OR OR42BusCoq or42_w or42_e
 or or42s us101 or42
 or or82 or3 or204
 or or99 depst i-5(98)
