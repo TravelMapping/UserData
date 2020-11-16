@@ -1255,7 +1255,7 @@ CA I-280 57 54
 CA I-405 1A 63C
 CA I-405 71A I-5
 CA I-580 I-5 8B(80)
-CA I-710 1C ValBlvd
+CA I-710 1B ValBlvd
 CA US66HisHol CA1 US101
 CA US66HisSPa MonRd CA110
 CA US66HisAzu ToCA710 CA19
@@ -1295,7 +1295,6 @@ NV I-15 34 40
 NV I-215 1 12
 NV US93BusBou US93_S US93_N
 NV NV172 US93 End
-NV NV593 I-15 ParRd
 NV CR215 12 19
 
 ##ASIA##
@@ -1307,54 +1306,60 @@ IDN T3 20 31
 
 #Rail#
 ###England###
-NR:
-London Overground: all save via New Cross Gate
-Charing Cross - London Bridge
+####National Rail####
+ENG ArunVlyLn TBD BAA
+ENG AylLn MYB AYS
+ENG BML VIC TBD
+ENG CamLn WVH TFC
+ENG ChaML SRT CBE
+ENG ChiML BCF BMO
+ENG CotLn RDG OXF
+ENG GEML LST RMF
+ENG GWML PAD BRI
+ENG IslLn RYP RYD
+ENG KentCoaLn AFK FAV
+ENG LeaVlyLn SRA TOM
+ENG MML STP WEL
+ENG MshLn HGS AFK
+ENG NDowLn RDG GLD
+ENG NorCityLn MOG FPK
+ENG NWalML CRW CTR
+ENG OxCanLn OXF BAN
+ENG ReaBasLn RDG BSK
+ENG SEML CHX RAM
+ENG StkLn MAN RGL
+ENG StoLn RUG Stafford
+ENG SWalML SWI BPW
+ENG SWML WAT BMH
+ENG XCML BRI BPW
+ENG WAML LST SST
+ENG WCML EUS CRE
+ENG WCwy FOD CSA
+ENG WesML DEN PMH #curve
+ENG WoELn BSK GRT #curve
+Richmond - Stratford
+Clapham Junction - Stratford
+Gospel Oak - Barking
+Romford - Upminster
+Highbury & Islington - New Cross
+Surrey Quays - Clapham Junction
+Euston - Watford HS - Watford Junction
 Cannon Street - London Bridge
 London Bridge - Welling
 London Bridge - Mottingham
 Lewisham - Hither Green
-ENG SEML #London Bridge - Knockholt - Tonbridge - Ashford - Margate
 London Bridge - Peckham Rye - Norbury - East Croydon
 Blackfriars - Bromley South
-ENG ChaML #Bromley South - Canterbury East
-ENG KentCoaLn #Ramsgate - Dover - Ashford
-ENG MshLn #Ashford - Hastings
 Mitcham Junction - Epsom Downs
 Sutton - Wimbledon
-ENG ThaLnk #Hendon - Blackfriars - London Bridge - East Croydon
-Victoria - East Croydon - Horsham - Havant - Southampton
-Portsmouth Harbour - Cosham
+Hendon - Blackfriars - London Bridge - East Croydon
 Guildford - Havant
-Waterloo - Woking - Basingstoke - Bournemouth
-Waterloo - Richmond - Addlestone (-curve)
-Guildford - Reading
-Reading - Basingstoke
-Basingstoke - Grateley (-curve)
-Southampton - Dean (-curve)
-ENG IslLn #Ryde Pier Head - Esplande
-ENG GWML #Paddington - Bristol TM
-ENG SWML #Swindon - Bristol Pkwy
-ENG XCML #Bristol Pkwy - Bristol TM
-ENG CotLn #Reading - Oxford
-ENG OxfCanLn #Oxford - Banbury
-ENG ChiML #Beaconsfield - Banbury - Moor Street
+Waterloo - Richmond - Staines
+Staines - Addlestone (-curve)
 Leamington - Coventry
-ENG AylLn #Marylebone - Aylesbury
-ENG WCML #Euston - Crewe
-ENG CamLn #Wolverhampton - Telford Central
-Wolverhampton - Stafford
-Rugby - Wolverhampton - Stafford
-Rugby - Stoke - Stockport
-Stafford - Crewe - Liverpool
-ENG NWML #Crewe - Chester
 Chester - Hamilton Square - Moorfields - Lime Street
 Hamilton Square - Moreton
-ENG MML #St Pancras - Wellingborough
-ENG NorCityLn #Moorgate - Finsbury Park
-Brimsdown - Stratford
-Stansted - Tottenham Hale
-Liverpool St - Romford
+Stansted Mountfitchet - Stansted Airport
 Fenchurch St - Upminster
 #####London Underground#####
 ENG BakLn HRW EPH
@@ -1379,6 +1384,7 @@ ENG PicLnHT5 HWV CKS
 ENG PicLnUxb UXB ACT
 ENG VicLn WHC BRX
 ENG WaCLn WAT BAN
+####LightRail/Tram####
 ENG DLRBec TOG BKT
 ENG DLRLew BAN LEW
 ENG DLRStr CAW SRA
