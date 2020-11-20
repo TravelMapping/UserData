@@ -555,7 +555,7 @@ MA I-91 CT/MA MA/VT            # 55
 MA I-93 1 MA/NH                # 46 vs 47
 MA I-95 RI/MA MA/NH            # 91 vs 92
 MA I-190 I-290 8               # 19
-MA I-195 RI/MA 22              # 40 vs 41
+MA I-195 RI/MA 40              # 40 vs 41
 MA I-290 7 26                  # 20
 MA I-291 1 I-90                #  5
 MA I-295 RI/MA 2               #  4
