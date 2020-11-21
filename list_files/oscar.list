@@ -7030,7 +7030,7 @@ QC QC148 QC344_W A-50(254)
 # check for more segments taken while A-50 was unfinished
 QC QC155 A-55 QC169
 QC QC158 A-15 StLauFry
-QC QC169 QC175 ChGLTacDel
+QC QC169 QC175 ChTacDel
 QC QC169 AvPontNord QC169_S
 QC QC170 QC169 QC138
 QC QC172 AvPontNord QC138
