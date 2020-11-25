@@ -717,13 +717,14 @@ TX TX121 TX114_W TX26/2499
 TX TX183 I-820(24A) TXSpr97
 TX TX289 ForLn RoyLn
 TX TXLp12 DalNorTlwy US75 # actual west end is Inwood Rd
-TX TXSpr97 TX183 TX114/121
+TX TXSpr97 TX183 IntPkwy
 TX TXSpr280 6thSt I-35W
 #  TXSpr347 I-35W HamSt - not long enough for a segment
 TX TXSpr366 US75 FieSt # counts service roads; if they don't count, truncate to PeaSt
 #  FM156 TX114 DouEagBlvd - not sure if there are plans to include FM roads at some point
 #  FM2499 TX121 FM3040
 #  FM3040 FM2499 LakeForBlvd
+TX IntPkwy TXSpr97 TX114/121
 VT I-89 NH/VT 8
 VT US2 US2Bus_W MemDr
 VT US2BusMon US2_W TaySt
