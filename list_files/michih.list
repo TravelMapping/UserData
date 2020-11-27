@@ -1,4 +1,4 @@
-# Date: 2020-11-21
+# Date: 2020-11-26
 # ----------------
 
 
@@ -3440,13 +3440,13 @@ FIN Kt82 Vt4 Vt5_S
 FIN Kt86 Vt8 Kt88
 FIN Kt88 Kt86 Vt27
 FIN Kt98 Vt21 FIN/SWE
+FIN St101 Kt51 St170
+FIN St102 St110 Kt51
+FIN St103 Vt7 SeiKatu
 FIN St120 St101 Kt50
+FIN St135 Kt50 ParTie
 FIN St170 St101 St103
-FIN LenTie Kt50 ParTie
-FIN KehaI Kt51 St170
-FIN KehaII St110 Kt51
-FIN KehaIII 35 SeiKatu
-FIN MooHelTam 9 LahKatu
+FIN MooHelTam 9 KuoTie
 FIN E18 SatKatu 84
 FIN E63 Vt8 SatKatu_S
 FIN E75 HelFry Kt82
