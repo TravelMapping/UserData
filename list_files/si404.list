@@ -1307,68 +1307,78 @@ IDN T3 20 31
 #Rail#
 ###England###
 ####National Rail####
+ENG ActLn RMD WIJ
 ENG ArunVlyLn TBD BAA
 ENG AylLn MYB AYS
 ENG BML VIC TBD
+ENG BexLn PMR WLI
 ENG CamLn WVH TFC
+ENG CatLp EPH BKL
 ENG ChaML SRT CBE
+ENG CheLp FEL ASN #curve
+ENG ChiBra HAC CHI
 ENG ChiML BCF BMO
 ENG CotLn RDG OXF
+ENG DulLn LBG STE
+ENG EHanLn GLD BDH
+ENG ELonLn HHY SQE
+ENG EnfLn LST EDR
 ENG GEML LST RMF
+ENG GOBLn GPO BKG
+ENG GreLn CST LBG
 ENG GWML PAD BRI
 ENG IslLn RYP RYD
 ENG KentCoaLn AFK FAV
 ENG LeaVlyLn SRA TOM
+ENG LTSLn FST UPM
 ENG MML STP WEL
 ENG MshLn HGS AFK
 ENG NDowLn RDG GLD
+ENG NKentLn NWX BKH
+ENG NLonLn SPB SRA
 ENG NorCityLn MOG FPK
+ENG NXBra SQE NWX
 ENG NWalML CRW CTR
 ENG OxCanLn OXF BAN
 ENG ReaBasLn RDG BSK
 ENG SEML CHX RAM
+ENG SidLn SAJ MTG
+ENG SLonLn SQE CLJ
+ENG SouLp EDR CHN
+ENG StaBra SST SSD
 ENG StkLn MAN RGL
-ENG StoLn RUG Stafford
+ENG StoLn RUG STA
+ENG SutLn MIJ SUO
 ENG SWalML SWI BPW
 ENG SWML WAT BMH
+ENG ThaLnk HEN ECR
+ENG UpmLn RMF UPM
 ENG XCML BRI BPW
 ENG WAML LST SST
+ENG WalLn STE SRS
+ENG WalLn SUO EPD
+ENG WatLn EUS WFJ
 ENG WCML EUS CRE
 ENG WCwy FOD CSA
 ENG WesML DEN PMH #curve
+ENG WimLp BFR EPH
+ENG WimLp WIM SUO
+ENG WinLn WAT SNS
+ENG WLonLn CLJ SPB
 ENG WoELn BSK GRT #curve
-Richmond - Stratford
-Clapham Junction - Stratford
-Gospel Oak - Barking
-Romford - Upminster
-Highbury & Islington - New Cross
-Surrey Quays - Clapham Junction
-Euston - Watford HS - Watford Junction
-Cannon Street - London Bridge
-London Bridge - Welling
-London Bridge - Mottingham
-Lewisham - Hither Green
-London Bridge - Peckham Rye - Norbury - East Croydon
-Blackfriars - Bromley South
-Mitcham Junction - Epsom Downs
-Sutton - Wimbledon
-Hendon - Blackfriars - London Bridge - East Croydon
-Guildford - Havant
-Waterloo - Richmond - Staines
-Staines - Addlestone (-curve)
+Crewe - Lime Street
 Leamington - Coventry
 Chester - Hamilton Square - Moorfields - Lime Street
 Hamilton Square - Moreton
-Stansted Mountfitchet - Stansted Airport
-Fenchurch St - Upminster
 #####London Underground#####
 ENG BakLn HRW EPH
-ENG CenLnEal EAL WOO
-ENG CenLnRui WRU EPP
+ENG CenLn WRU EPP
+ENG CenLnEal EAL NOA
+ENG CenLnHai LES WOO
 ENG CirLn HAM ERD_2
+ENG DisLn RMD UPM
 ENG DisLnEal EAL TUG
 ENG DisLnOly KPA EAC
-ENG DisLnRic RMD UPM
 ENG DisLnWim WIM ERD
 ENG HaCLn HAM BKG
 ENG JubLn STM SRA
@@ -1376,20 +1386,26 @@ ENG MetLnAme AMR CFO
 ENG MetLnChe CHE WEP
 ENG MetLnUxb UXB ALD
 ENG MetLnWat WAF WEP
-ENG NorLnBar HBT MDN
-ENG NorLnEdg EGW KNG
+ENG NorLn CTN MDN
+ENG NorLnBar HBT CTN
+ENG NorLnBat CTN KNG
+ENG NorLnEdg EGW CTN
 ENG NorLnMHE MHL FYC
+ENG PicLn HWV CKS
 ENG PicLnHT4 HNX HXX
-ENG PicLnHT5 HWV CKS
 ENG PicLnUxb UXB ACT
 ENG VicLn WHC BRX
 ENG WaCLn WAT BAN
 ####LightRail/Tram####
-ENG DLRBec TOG BKT
-ENG DLRLew BAN LEW
+ENG DLRBan BAN CGT
+ENG DLRBec CGT BKT
+ENG DLRLew WES LEW
+ENG DLRSti SFA CGT
 ENG DLRStr CAW SRA
-ENG DLRWoo SFA WWA
-Tramlink: West Croydon - Mitcham Jct
+ENG DLRTow TOG SHA
+ENG DLRWoo CGT WWA
+ENG LTLBec WPK WCY
+ENG LTLWim WPK MIJ
 
 ###Scotland###
 Fort William - Mallaig
