@@ -438,7 +438,8 @@ NV US395BusCar US395_S FaiDr
 
 NV NV28 CA/NV US50
 NV NV146 I-15 I-215
-NV NV159 I-15 NV582
+# NV NV159 I-15 NV582
+NV NV159Dow MLKBlvd GraCenPkwy
 NV NV160 BufDr LasVegBlvd
 NV NV431 NV28 US395Alt
 NV NV445 I-80 NV659
@@ -820,7 +821,8 @@ TX TXLp375 I-10 21
 TX TXLp375 44B SanFeSt
 TX TXLp390 US59 US80_E
 TX TXLp396 I-35 TXSpr298
-TX TXSpr97 TX183 TX114/121
+
+TX TXSpr97 TX183 IntPkwy
 TX TXSpr298 NewRd TXLp396
 TX TXSpr348 TX114 TXLp12 
 TX TXSpr366 BecAve US75
@@ -832,6 +834,7 @@ TX TXSpr544 ToI-37 WatSt_S
 TX DalNorTlwy I-35E US380
 TX GeoBushTpk I-635 WBeltLineRd
 TX GeoBushTpk JosLn DalNorTlwy
+TX IntPkwy TXSpr97 TX114/121
 
 #Just keeping these saved for now.  Will uncomment if Farm-To-Market/Ranch-to-Market Roads are added
 #---------------------------------------------------------------------------------------------------
