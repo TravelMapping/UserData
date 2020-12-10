@@ -520,6 +520,7 @@ SD I-29BLElk I-29_S I-29_N
 SD I-29BSSio I-29 I-90BL
 sd i-29bsbro mainave i-29
 sd i-90blspe i-90_w i-90_e
+sd i-90blrap i-90_w i-90_e
 sd i-90blpre i-90_w i-90_e
 sd i-90blcha i-90_w i-90_e
 sd i-90blmit i-90_w i-90_e
@@ -578,7 +579,7 @@ WY I-80BLRoc I-80_W I-80_E
 WY I-80BLRaw I-80_W I-80_E
 WY I-80BLlar I-80_W I-80_E
 wy i-80blche i-80_w i-80_e
-WY I-80BLpin I-80_W wy/nE
+WY I-80BLpin I-80_W wy/ne
 WY I-90BLshe I-90_W I-90_E
 WY I-90BLgil I-90_W I-90_E
 WY I-90BLmoo I-90_W I-90_E
@@ -862,7 +863,7 @@ il us67 il17 il/ia
 IL US136 IA/IL IL/IN
 IL US150 US6 I-74(215)
 il il1 il13 il33
-il il1 us30 i-57
+il il1 indave i-57
 il il3 i-57 il146_e
 il il3 il154/159 i-55(2c)
 il il5 us67 i-74
@@ -898,6 +899,7 @@ il il242 il142 il15
 il il251 il116_e il71/351
 il il336 i-172 us136
 il il394 il1_s i-80/94
+il us66hischi il43_s ogdave_n
 IN US6 IL/IN in/oh
 in us12 il/in in/mi
 in us20 il/in in13
@@ -995,7 +997,7 @@ IA US6Hisdur us6_w hicgrord
 IA IA1 IA2 US151
 IA IA2 NE/IA US61/61Bus
 ia ia2buscla ia2 us71_n
-IA IA3 SD/IA US61/151
+IA IA3 SD/IA nwart
 IA IA4 IA44 IA/MN
 IA IA5 MO/IA I-35
 ia ia7 ia3 us169
@@ -1015,7 +1017,6 @@ ia ia24 us18 us63bus_s
 ia ia25 ia2 us30
 IA IA27 MO/IA IA/MN
 IA IA28 IA92 I-35/80
-ia ia32 us20 us52/3
 ia ia37 ia175 us59
 IA IA38 IA92 ia3
 IA IA44 US30 IA141
@@ -1146,7 +1147,7 @@ KY US41 US62 KY/IN
 KY US51 TN/KY KY/IL
 KY US60 IL/KY US51/62_S
 KY US60 US62Pad_E KY109_W
-ky us60 ky86_w i-64(4)
+ky us60 ky259/261 i-64(4)
 KY US62 IL/KY US51_S
 ky us62 us231_s ky79
 KY US62 US60Pad_E US41
@@ -1172,10 +1173,12 @@ ky ky56 il/ky ky109
 ky ky61 ky55/439 us68_e
 ky ky69 us231_s ky54_e
 ky ky70 us41/262 us231_n
+ky ky70cam mamcavenp i-65
 ky ky74 tn/ky ky3485
 ky ky78 us127 us27
+ky ky79 ky86_w ky261
 ky ky80 ky914_n i-75
-ky ky86 us60_e ky261_n
+ky ky86 us60_w ky261_n
 ky ky90 ky100 ky92
 ky ky92 ky90 us27_n
 ky ky94 us51 us641/121
@@ -1187,10 +1190,16 @@ ky ky109 ky56 us60_w
 ky ky166 ky125 ky1648
 ky ky185 ky2766 ky79
 ky ky190 ky3484 us25e
+ky ky255mam mamcavenp_s mamcavenp_n
 ky ky261 ky54 ky79
 ky ky324 us62 ky11
 ky ky914 ky80_e cumpkwy
 ky ky949 us431 ky106
+ky ky3484 ky3485 ky190
+ky ky3485 ky74 ky190
+ky cavecityrd mamcavepkwy ky255
+ky mamcavepkwy ky70/255 end
+ky parkcityrd ky255 mamcavepkwy
 la us11 us90 i-10(254)
 la us61 us90 clepky
 la us61 i-12 la/ms
@@ -1306,6 +1315,7 @@ mi mi6 i-196 i-96
 mi mi11 us131 i-96(24)
 mi mi13 i-69(123) us23
 mi mi13conkaw i-75 mi13
+mi mi25 i-75 mi142_w
 MI MI28 us2 mi129
 mi mi28busish mi28_w mi28_e
 mi mi32 mi66 i-75bl_e
@@ -1314,6 +1324,7 @@ mi mi37 piedr 15mird
 MI MI38 US45 US41
 mi mi43 i-69/96 i-96
 mi mi52 oh/mi mainst
+mi mi53 mi81 mi142_w
 mi mi60 us12 mi60bus
 mi mi60busnil mi51 mi60
 mi mi61 us127 us23
@@ -1321,9 +1332,12 @@ mi mi66 us12_w mi78
 mi mi66 mi32 us31
 MI MI67 US41 MI94
 mi mi78 mi66 i-69(48)
+mi mi81 casscityrd mi53
+mi mi84 mi13_w i-75bs
 MI MI94 MI67 MI28_E
 MI MI123 i-75(352) MI28_E
 mi mi139 us12 i-94bl
+mi mi142 mi25_w mi53_s
 mi mi143 micave mi43
 mn us2 mn6_s us169_n
 MN US2 MN33 MN/WI
@@ -1371,6 +1385,7 @@ mn mn38 us2 cr19
 mn mn41 us212 mn5
 MN MN42 I-90 US61
 mn mn50 mn3 us61
+mn mn55 mn28 us61
 mn mn56 cr16 mn60_e
 MN MN58 us52/60 US61/63
 MN MN60 IA/MN US71_N
@@ -1718,7 +1733,7 @@ nv nv564 i-215/515 lkmeadnra
 nv nv599 us95_s us95_n
 nv nv573 frerd nv604
 nv nv573las us95 decblvd
-nv nv604 tonave i-15
+nv nv604 carave i-15
 nv sumpkwy cr215 us95
 NY US1 NJ/NY I-95(1)
 NY US9 NJ/NY NY9A_Bro
@@ -1858,7 +1873,6 @@ or or18 us101 or99w_s
 or or18buswil or18/22 or18
 or or22 us101 us20/126
 or or42 us101 i-5
-OR OR42BusCoq or42_w or42_e
 or or42s us101 or42
 or or82 or3 or204
 or or99 depst i-5(98)
@@ -2092,6 +2106,7 @@ ut ut154 ut171 i-80
 ut ut158 ut39 norvalwy
 ut ut161 i-70 i-15
 ut ut162 us191 ut/co
+ut ut171 ut154 us89
 ut ut201 us89 i-80
 ut ut256 us89_s us89_n
 VA US1 US58_E I-85(15)
@@ -2163,7 +2178,7 @@ wi us14 mn/wi cry_dan
 wi us14 us51 wi/il
 WI US18 IA/WI linmemdr
 WI US41 IL/WI us45
-wi us41 i-43(192) wi/mi
+wi us41 i-41(170) wi/mi
 WI US45 US8/47 US8_E
 WI US45 IL/WI wi29_w
 WI US51 IL/WI US2

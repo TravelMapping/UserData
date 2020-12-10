@@ -1,3 +1,4 @@
+#Roads#
 ##UK##
 ###England###
 ENG A1Lon A40 A41_N
@@ -195,6 +196,7 @@ ENG A201 A2/A100 A501/A5200
 ENG A202 A2 A2215
 ENG A202 A3 A302
 ENG A205 A214/A3036 A218/A3209
+ENG A205 A307 A4
 ENG A206 A2211 A200
 ENG A206 MarSt A282
 ENG A207 A209 A221_S
@@ -247,7 +249,7 @@ ENG A300 A3211 A3
 ENG A301 A3202 A4
 ENG A302 A3/A201 A4
 ENG A303 M3 A37/A372
-ENG A306 A4 A219/A315
+ENG A306Ham A4 A219/A315
 ENG A308 A309 A332_N
 ENG A308 B3028 A308M
 ENG A308M M4 A308
@@ -1012,7 +1014,7 @@ WLS B4560 Cri A479
 WLS E22 LlaRd WLS/ENG
 WLS E30 42(M4) WLS/ENG
 WLS M4 ENG/WLS 42
-WLS M48 WLS/ENG M4
+WLS M48 ENG/WLS M4
 
 ##EU##
 ###Ireland###
@@ -1253,7 +1255,7 @@ CA I-280 57 54
 CA I-405 1A 63C
 CA I-405 71A I-5
 CA I-580 I-5 8B(80)
-CA I-710 1C ValBlvd
+CA I-710 1B ValBlvd
 CA US66HisHol CA1 US101
 CA US66HisSPa MonRd CA110
 CA US66HisAzu ToCA710 CA19
@@ -1293,8 +1295,6 @@ NV I-15 34 40
 NV I-215 1 12
 NV US93BusBou US93_S US93_N
 NV NV172 US93 End
-NV NV589 I-15 LasVegBlvd
-NV NV593 I-15 ParRd
 NV CR215 12 19
 
 ##ASIA##
@@ -1303,3 +1303,110 @@ IDN AH150 JlMerJoh Men
 IDN T1 13(JN) 20(JW)
 IDN T2 13(N) 10(N)
 IDN T3 20 31
+
+#Rail#
+###England###
+####National Rail####
+ENG ArunVlyLn TBD BAA
+ENG AylLn MYB AYS
+ENG BML VIC TBD
+ENG CamLn WVH TFC
+ENG ChaML SRT CBE
+ENG ChiML BCF BMO
+ENG CotLn RDG OXF
+ENG GEML LST RMF
+ENG GWML PAD BRI
+ENG IslLn RYP RYD
+ENG KentCoaLn AFK FAV
+ENG LeaVlyLn SRA TOM
+ENG MML STP WEL
+ENG MshLn HGS AFK
+ENG NDowLn RDG GLD
+ENG NorCityLn MOG FPK
+ENG NWalML CRW CTR
+ENG OxCanLn OXF BAN
+ENG ReaBasLn RDG BSK
+ENG SEML CHX RAM
+ENG StkLn MAN RGL
+ENG StoLn RUG Stafford
+ENG SWalML SWI BPW
+ENG SWML WAT BMH
+ENG XCML BRI BPW
+ENG WAML LST SST
+ENG WCML EUS CRE
+ENG WCwy FOD CSA
+ENG WesML DEN PMH #curve
+ENG WoELn BSK GRT #curve
+Richmond - Stratford
+Clapham Junction - Stratford
+Gospel Oak - Barking
+Romford - Upminster
+Highbury & Islington - New Cross
+Surrey Quays - Clapham Junction
+Euston - Watford HS - Watford Junction
+Cannon Street - London Bridge
+London Bridge - Welling
+London Bridge - Mottingham
+Lewisham - Hither Green
+London Bridge - Peckham Rye - Norbury - East Croydon
+Blackfriars - Bromley South
+Mitcham Junction - Epsom Downs
+Sutton - Wimbledon
+Hendon - Blackfriars - London Bridge - East Croydon
+Guildford - Havant
+Waterloo - Richmond - Staines
+Staines - Addlestone (-curve)
+Leamington - Coventry
+Chester - Hamilton Square - Moorfields - Lime Street
+Hamilton Square - Moreton
+Stansted Mountfitchet - Stansted Airport
+Fenchurch St - Upminster
+#####London Underground#####
+ENG BakLn HRW EPH
+ENG CenLnEal EAL WOO
+ENG CenLnRui WRU EPP
+ENG CirLn HAM ERD_2
+ENG DisLnEal EAL TUG
+ENG DisLnOly KPA EAC
+ENG DisLnRic RMD UPM
+ENG DisLnWim WIM ERD
+ENG HaCLn HAM BKG
+ENG JubLn STM SRA
+ENG MetLnAme AMR CFO
+ENG MetLnChe CHE WEP
+ENG MetLnUxb UXB ALD
+ENG MetLnWat WAF WEP
+ENG NorLnBar HBT MDN
+ENG NorLnEdg EGW KNG
+ENG NorLnMHE MHL FYC
+ENG PicLnHT4 HNX HXX
+ENG PicLnHT5 HWV CKS
+ENG PicLnUxb UXB ACT
+ENG VicLn WHC BRX
+ENG WaCLn WAT BAN
+####LightRail/Tram####
+ENG DLRBec TOG BKT
+ENG DLRLew BAN LEW
+ENG DLRStr CAW SRA
+ENG DLRWoo SFA WWA
+Tramlink: West Croydon - Mitcham Jct
+
+###Scotland###
+Fort William - Mallaig
+
+###Germany###
+Frankfurt Airport - Hbf
+Frankfurt Hbf - Bensheim
+Bensheim - Heidelberg Hbf
+
+###Italy###
+Bergamo - Lecco
+Bergamo - Monza - Milano Centrale
+M3 Centrale - Duomo
+M1 Duomo - Cairoli
+
+###Spain###
+Barcelona Metro: Canyelles - Catalunya
+
+###USA###
+LA Metro: Gold Line: Del Mar - Union Station
