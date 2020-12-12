@@ -2926,7 +2926,7 @@ CHE GTSGen A1a RueAlp
 CHE A1aGen A1 H1
 CHE A1 9 19
 CHE A9 19(A1) 15a
-CHE H9 RueGam RouLon ***** actual S/E end is further N at Veytaux-Chillon *****
+CHE H9 RueGam RouLon # actual S/E end is further N at Veytaux-Chillon
 
 # Montreux, Chateau de Chillon, 20 May
 # presumably same routes back to Geneva
@@ -2957,10 +2957,10 @@ CHE A2 H2a/H4 BruStr_Luz
 
 CHE H2a HorStr A2(27)
 CHE A2 2 27
-CHE A1 46 47 ***** concurrent with A2 *****
-CHE A3 2(A2) 9(A2) ***** concurrent with A2 *****
-CHE H3 A2(2) A2(4) ***** concurrent with A2 *****
-CHE H7 A2(2) A2(4) ***** concurrent with A2 *****
+CHE A1 46 47 # concurrent with A2
+CHE A3 2(A2) 9(A2) # concurrent with A2
+CHE H3 A2(2) A2(4) # concurrent with A2
+CHE H7 A2(2) A2(4) # concurrent with A2
 # CHE surface roads in Basel, double check later
 
 
