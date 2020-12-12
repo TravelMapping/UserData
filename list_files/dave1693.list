@@ -2015,7 +2015,7 @@ OH OH821 OH60 I-77(6)
 
 KY I-71 185(75) KY/OH
 KY I-75 185 KY/OH
-KY I-275 74 76
+# KY I-275 74 76
 KY I-275 84 4
 KY I-471 1 KY/OH
 KY US25 I-75(188) KY/OH
@@ -2237,7 +2237,8 @@ NC I-26 31 59
 NC I-40 TN/NC 152
 NC I-40 193A 293
 NC I-40 328 420
-NC I-40BLWin 5D I-40_E
+# NC I-40BLWin 5D I-40_E
+NC I-40BLWin 233A I-40_E
 NC I-73 72 97A
 NC I-74 VA/NC 6
 NC I-74Hig 70 71B
@@ -2320,7 +2321,8 @@ NC US401 I-440 US1
 NC US401BusFay HaySt RamSt
 NC US421 US17/76 US74/133
 NC US421 I-85(126) I-73(97A)
-NC US421 I-40(212) I-40BL(5D)
+# NC US421 I-40(212) I-40BL(5D)
+NC US421 I-40(212) 233A
 NC US501 NC24/27_W US1San_N
 NC US501 US64 I-85(176)
 NC US501 NC157 NC/VA
@@ -2362,7 +2364,8 @@ NC NC132 US17Bus I-40
 NC NC133 DawsCrkRd US74_E
 NC NC147 5 I-85
 NC NC150 *I-85(82) US29/70_E
-NC NC150 I-40BL(5D) I-40BL(15)
+# NC NC150 I-40BL(5D) I-40BL(15)
+NC NC150 US421(233A) US421(221)
 NC NC152 US29_S I-85(68)
 NC NC157 HurMilRd US158/501
 NC NC168 VA/NC MilRd
@@ -2804,6 +2807,163 @@ ENG AirWay A23 LonWay
 
 
 # 1984 trip excerpts
+
+# Orly
+FRA-IDF N7Orl A106 AirOrly
+FRA-IDF A106 4 A6a/A6b
+FRA-IDF A6a BlvdPer A106
+FRA-IDF BP A6a D920
+FRA-IDF D920-92Mon Par/HdS D50 # Avenue Aristide Briand
+FRA-IDF D50 D920 HdS/VdM # Rue Barb{'e}s, E end actually a bit further west
+# Paris -- Hotel Ibis (South) Paris Porte d'Orleans, 33 Rue Barbes, Montrouge
+FRA-IDF BP D920 N13
+# Arc de Triomphe, Seine cruise, Tuileries, 15 May
+
+# Paris
+# D50 from hotel to D920
+FRA-IDF D920-92Mon D50 HdS/VdM
+FRA-IDF D920-94 HdS/VdM D257
+FRA-IDF D920-92 VdM/HdS HdS/Ess
+FRA-IDF N20-91 HdS/Ess 5(A10)
+FRA-IDF A10 4 A11
+FRA-IDF A11 A10 IDF/CVL
+FRA-CVL A11 IDF/CVL 2
+# FRA-CVL D910-28 N10_E A11
+# FRA-CVL N10Cha D910/923 D910
+# FRA-CVL D923-28 D7154 N10/910
+# day trip to Chartres, 16 May
+# FRA-CVL D7154-28 D923 N10/910
+# FRA-CVL N10Cha D7154 D910
+# FRA-CVL D910-28 N10_E A11
+FRA-CVL A11 IDF/CVL 2
+FRA-IDF A11 A10 IDF/CVL
+FRA-IDF A10 A6a/A6b A11
+FRA-IDF A6a BlvdPer A6/A10
+FRA-IDF BP A6a D920
+# D920 and D50 back to hotel
+# Paris
+
+# Sainte Chappelle (on Ile de la Cite), 17 May
+
+# Pont-St-Michel, Blvd St-Michel, Ave Denfert-Rochereau,
+# Ave Jean Moulin, Ave de la Porte de Chatillon
+FRA-IDF D906-92 Par/HdS A86
+FRA-IDF A86 30 N12
+FRA-IDF N12 1 2
+FRA-IDF D186-78 AveRoc_S N12
+FRA-IDF D10-78 D186_S D186_W
+
+# Versailles, 17 May
+
+# Presumably reverse of outbound route to get back to Paris
+
+# Paris
+
+# Bus over all local roads to Place de la Madeleine, 18 May
+# Eiffel Tower, Louvre, concert at Notre Dame, 18 May
+# concert at the American School, 18 May, near corner of D180 and D907
+
+FRA-IDF D907-92 A13 D180
+FRA-IDF A13 BlvdPer 3
+FRA-IDF BP A6a A13
+
+# Paris
+
+FRA-IDF A6 A6a/A6b IDF/CVL
+FRA-CVL A6 IDF/CVL CVL/BFC
+FRA-BFC A6 CVL/BFC A38
+FRA-BFC A38 A6 34
+FRA-BFC N274 A38 35
+# FRA D971 N274 D905
+# roads in Dijon
+# lunch in Dijon, 19 May
+# FRA D905 
+
+FRA-BFC N274 45 47
+FRA-BFC A311 A31 47
+FRA-BFC A31 A6 A311
+FRA-BFC A6 A31 26
+FRA-BFC E607 A6 N80_E
+FRA-BFC N80 D673/D906 A6
+FRA-BFC D673-71 N80 D978B
+FRA-BFC D978B-71 D673 D978
+FRA-BFC D978-71Ger D978B D678
+FRA-BFC D678-71 D978 SeL/Jura
+FRA-BFC D678-39 SeL/Jura N5
+FRA-BFC N5 D437/D678 D415/1005
+FRA-BFC D415-39 D29 N5
+FRA-BFC D29-39 H123 D415
+
+# At this point the route was noted as "road with lots of hairpin turns, probably H123"
+# But this route is apparently no longer signed and will never be in the HB.
+# To make up the mileage I have substituted a more direct route that ALSO has lots of
+# hairpin turns.
+
+# APPARENT ACTUAL ROUTE
+# CHE N123 FRA/CHE A1
+# CHE A1 5 11
+# CHE N101 A1 N1/Quai_du_Mont_Blanc
+# CHE N1 N101 Rue_de_Monthoux
+
+# SUBSTITUED ROUTE
+FRA-BFC D29-39 D1005 H123
+FRA-BFC D1005-39 D29 BFC/ARA
+# FRA-ARA D1005-01 BFC/ARA D984C_S
+# FRA-ARA D984C-01 D1005_N D35A
+# FRA-ARA D35A-01 D984C D35
+# FRA-ARA D35-01 D35A D1005
+# FRA-ARA D1005-01 D35 FRA/CHE
+# CHE H106 FRA/CHE A1
+CHE A1 5 7
+# CHE H101 A1 N1
+CHE GTSGen H101 RueLem
+
+# Geneva, 19-20 May; base Emmanuel Church, Rue de Monthoux 3
+# morning service @ Emmanuel Church
+
+# CHE N1 Rue_de_Monthoux A1a/H1
+CHE GTSGen A1a RueAlp
+CHE A1aGen A1 H1
+CHE A1 9 19
+CHE A9 19(A1) 15a
+CHE H9 RueGam RouLon # actual S/E end is further N at Veytaux-Chillon
+
+# Montreux, Chateau de Chillon, 20 May
+# presumably same routes back to Geneva
+# evening concert @ Emmanuel Church, 20 May
+# Geneva, 20-21 May
+
+# CHE N1 Rue_de_Monthoux A1a/H1
+CHE GTSGen A1a RueAlp
+CHE A1aGen A1 H1
+CHE A1 9 19
+CHE A9 19(A1) 14
+CHE A12 1 13
+CHE A1 34 47
+CHE A2 15 26
+# CHE Militarstrasse A2 H2
+# CHE H2 KasPla Klosterstrasse
+# CHE Klosterstrasse H2 Bruchstrasse
+
+# Luzern, 21-22 May, Hotel Drei Koenige, Bruchstrasse 35
+
+CHE A2 H2a/H4 BruStr_Luz
+
+# boat ride on Lake Lucerne
+# if roads were used to the cog railway, probably subset of 1978
+# cog railway
+# lunch on Pilatus
+# cable cars
+
+CHE H2a HorStr A2(27)
+CHE A2 2 27
+CHE A1 46 47 # concurrent with A2
+CHE A3 2(A2) 9(A2) # concurrent with A2
+CHE H3 A2(2) A2(4) # concurrent with A2
+CHE H7 A2(2) A2(4) # concurrent with A2
+# CHE surface roads in Basel, double check later
+
+
 
 # England
 ENG A2 M2(7) A20_E
