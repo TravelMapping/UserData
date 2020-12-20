@@ -1364,6 +1364,7 @@ MD MD658 MD53 MD49 # not a clinch, northernmost block missing
 MD MD665 US50/301 BywRd
 MD MD702 MD150 I-695
 MD MD704 DC/MD MD450
+MD MD713 End MD175
 MD MD713 AruWay MD176
 MD MD717 MD4 MD725
 MD MD725 BroStaRd US301
@@ -2279,9 +2280,10 @@ NC US52 I-40BL I-40
 NC US52 I-85BL I-85(76)
 NC US64 US21/115 US21
 NC US64 US29/70W US29/70E
-NC US64 NC49_S US15/501
+NC US64 352 US15/501
 NC US64 US1 I-40(293)
 NC US64 US64BusWen_W US301
+NC US64BusAsh NC49_S US64_E
 NC US64BusWen I-440 US64_W
 NC US64TrkHen I-40(27) US64_E
 NC US70 I-40(65) I-40(72)
@@ -2809,12 +2811,12 @@ ENG AirWay A23 LonWay
 # 1984 trip excerpts
 
 # Orly
-FRA-IDF N7Orl A106 AirOrly
+FRA-IDF N7 A106 AirOrly
 FRA-IDF A106 4 A6a/A6b
 FRA-IDF A6a BlvdPer A106
 FRA-IDF BP A6a D920
 FRA-IDF D920-92Mon Par/HdS D50 # Avenue Aristide Briand
-FRA-IDF D50 D920 HdS/VdM # Rue Barb{'e}s, E end actually a bit further west
+FRA-IDF D50-92 D920 HdS/VdM # Rue Barb{'e}s, E end actually a bit further west
 # Paris -- Hotel Ibis (South) Paris Porte d'Orleans, 33 Rue Barbes, Montrouge
 FRA-IDF BP D920 N13
 # Arc de Triomphe, Seine cruise, Tuileries, 15 May
@@ -2873,7 +2875,7 @@ FRA-IDF A6 A6a/A6b IDF/CVL
 FRA-CVL A6 IDF/CVL CVL/BFC
 FRA-BFC A6 CVL/BFC A38
 FRA-BFC A38 A6 34
-FRA-BFC N274 A38 35
+FRA-BFC N274 A38 D971
 # FRA D971 N274 D905
 # roads in Dijon
 # lunch in Dijon, 19 May
@@ -2890,7 +2892,7 @@ FRA-BFC D978B-71 D673 D978
 FRA-BFC D978-71Ger D978B D678
 FRA-BFC D678-71 D978 SeL/Jura
 FRA-BFC D678-39 SeL/Jura N5
-FRA-BFC N5 D437/D678 D415/1005
+FRA-BFC N5 D437/D678 D415/D1005
 FRA-BFC D415-39 D29 N5
 FRA-BFC D29-39 H123 D415
 
@@ -2947,7 +2949,9 @@ CHE A2 15 26
 
 # Luzern, 21-22 May, Hotel Drei Koenige, Bruchstrasse 35
 
-CHE A2 H2a/H4 BruStr_Luz
+# CHE H2 Bruchstrasse KasPla
+CHE H2 KasPla ZenStr
+CHE H4 H2/H2a ZenStr
 
 # boat ride on Lake Lucerne
 # if roads were used to the cog railway, probably subset of 1978
