@@ -364,7 +364,8 @@ WA I-90 WA519 MA I-90 MA1A
 IL I-190 0 999
 IL I-290 0 30
 MA I-190 I-290 MA2
-MA I-290 7 26
+MA I-290 7 26  # old exit number set
+MA I-290 12 32 # new exit number set - intentional break ahead of renumber
 OH I-490 1A 55thSt
 SD I-190 SD44 I-90
 ID I-90BLWal I-90_W I-90_E
@@ -411,7 +412,8 @@ MD I-95 109 PA I-95 22
 VA I-95 84 VA I-95 170
 PA I-95 40 ME I-95 52
 NJ I-95Sec I-95_S I-95_N # East split of NJTpk by Secaucus
-CT I-395 I-95 MA I-395 7
+CT I-395 I-95 MA I-395 7 # old exit number set
+CT I-395 I-95 MA I-395 12 # new exit number set - intentional break ahead of renumber
 DE I-295 I-95 NJ I-295 40
 DE I-495 I-95 6
 FL I-195 1 FL907A
@@ -479,7 +481,8 @@ VT US2TrkSSJ US2_W I-93(1)
 WI US2AltAsh US2_W US2_E
 WI US2TrkSup US2_W US2_E
 # US 3
-MA US3 I-95(33) I-95(32A)
+MA US3 I-95(33) I-95(32A)  # old exit number set
+MA US3 I-95(51) I-95(50A) # new exit number set - intentional break ahead of renumber
 NH US3 I-93(33) NH141
 # US 4
 NH US4 I-93(17) KingRd
