@@ -422,7 +422,7 @@ ME I-295 2 11
 ME I-495 I-95 I-295
 MD I-495 MD/VA 31 # DC Cap Bltwy with disconnect
 VA I-495 170 MD/VA # DC Cap Bltwy with disconnect
-RI I-195 1 MA I-195 22
+RI I-195 1 MA I-195 40
 RI I-295 I-95 MA I-295 2
 MA I-495 1 I-95
 NY I-295 NY25 I-95
