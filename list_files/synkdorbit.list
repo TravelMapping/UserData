@@ -1,5 +1,5 @@
 #====================================#
-# List revised 11/18/2020
+# List revised 12/26/2020
 #====================================#
 
 ### UNITED STATES
@@ -543,7 +543,6 @@ WV US60 I-77(97) I-77(96A)
 FL FLTpk 0 309
 FL FLTpkMia 0X 4X
 FL HartExpy FL228 US90
-#FL PoiPkwy CypPkwy RonReaPkwy
 FL FLA1AKey BerSt US1
 FL FLA1AFor I-395 US1
 FL FLA1ANor US1_S US1_N 
@@ -563,6 +562,7 @@ FL FL7 US98/441 FL704
 FL FL9 US1 I-95
 FL FL9BJac I-295 CR2209
 FL FL10 FL5 FLA1A_S
+FL FL10AJac FL115 FL10
 FL FL10ALak US90_W US90_E
 FL FL11 US17 US1
 FL FL12 FL20 US27
@@ -970,7 +970,6 @@ FL FL9336 EveNP US1
 
 
 #Not available on site
-##FL FL538 US17 MarigoldAve #Poinciana Parkway
 ##FL FL686A Start End #Gateway Expressway (future)
 ##FL FL690 Start End #Gateway Expressway (future)
 ##FL OrchardPondPkwy BainbridgeRdCR157 NorthMeridianRdCR155
