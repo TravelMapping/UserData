@@ -1455,7 +1455,12 @@ CO ParkRd CO150 End              # -- Great Sand Dunes NP Road
 # Connecticut
 # ---------------------
 CT CT4 CT167 I-84
+CT CT10 US44_E US44/202
+CT CT12 US6_E US6_W
+CT CT12 US44_W US44_E
+CT CT31 US44_E US44_W
 CT CT167 CT4 US44/202
+CT CT169 US44_W US44_E
 
 # Delaware (DE)
 # ---------------------
