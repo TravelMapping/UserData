@@ -1287,7 +1287,10 @@ KY US641 US62_W KY US641 KY453
 # Alabama (AL)
 # ---------------------
 AL AL20 US43/72_S I-65/565
-# --other routes detected thru auto-concurrencies
+AL AL22 US31/145 I-65
+AL AL67 US72ALT/20_E US72ALT/20_W
+AL AL69 I-65(299) I-65(304)
+AL AL157 US72ALT_E US72ALT_W
 
 # Arizona (AZ)
 # ---------------------
