@@ -467,14 +467,6 @@ FL US1BusStA US1_S FLA1A_N
 NH US1BypPor US1_S ME US1BypPor US1_N
 RI US1BusWar US1_S US1_N
 # US 2
-# TODO: testing tool syntax for US 2 in MN, WI, MI
-# MI US2Iro WI/MI MI/WI #Section east of here is US2Flo
-# MI US2 WI/MI I-75 # Section west of here is US2Flo
-# MN US2 MN33 WI US2 WI/MI #Section east of here is US2Iro
-# MT US2 US93 MT49
-# ND US2 US81Bus MN US2 MN220_N
-# VT US2 US302 I-91
-# WA US2 AirDr I-90(281)
 WA US2 AirDr WA US2 I-90(281)
 MT US2 US93 MT US2 MT49
 ND US2 US81Bus MN US2 MN220_N
