@@ -408,8 +408,8 @@ MD I-95 109 PA I-95 22
 VA I-95 84 VA I-95 170
 PA I-95 40 ME I-95 52
 NJ I-95Sec I-95_S I-95_N      # West split of NJTpk by Secaucus
-CT I-395 I-95 MA I-395 7      # TODO: old exit number set (MassDOT exit renumber)
-CT I-395 I-95 MA I-395 12     # NOTE: new exit number set - intentional break ahead of renumber
+CT I-395 47 MA I-395 7        # TODO: old exit number set (MassDOT exit renumber)
+CT I-395 47 MA I-395 12       # NOTE: new exit number set - intentional break ahead of renumber
 DE I-295 I-95 NJ I-295 40
 DE I-495 I-95 6
 FL I-195 1 FL907A
