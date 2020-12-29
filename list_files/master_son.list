@@ -1445,6 +1445,10 @@ CA WawRd CA41 SouDr              # -- Yosemite NP - Wawona Road
 # ---------------------
 CO PenaBlvd I-70 Ter             # -- Peña Blvd (Den Intl Airport)
 CO CO82 I-70 CO133
+CO CO9 I-70(203) I-70(205)
+CO CO17 US160/285 US160_E
+CO CO52 I-76(66A) I-76(75)
+CO CO88 I-25(199) I-25(197)
 CO CO150 US160 PinCir
 CO ParkRd CO150 End              # -- Great Sand Dunes NP Road
 
