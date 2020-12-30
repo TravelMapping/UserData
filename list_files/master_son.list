@@ -1778,8 +1778,9 @@ LA LA3194 LA173 US71/1
 
 # Maine (ME)
 # ---------------------
-ME ME5 US1_N UniAve
-ME ME9 US1_Sca ScaConn
+ME ME5 UniAve US1_N
+ME ME9 US1_Sca ScaCon
+ME ME26 I-295_S I-295_N
 
 # Maryland (MD)
 # ---------------------
