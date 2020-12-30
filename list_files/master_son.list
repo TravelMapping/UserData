@@ -1743,13 +1743,20 @@ KS KS96 I-235(13) US54/400
 # ---------------------
 KY PurPkwy TN/KY 21              # -- Purchase Parkway
 KY PenPkwy 1 34                  # -- Pennyrille Parkway
+KY KY58 US51/123 US51_S
 KY KY58 US45_S KY121Bus_S
+KY KY80 I-69(22) I-69(21)
 KY KY80 KY303 KY164
+KY KY121 KY80_E KY80/97
 KY KY121BusMay US45/58 KY303
+KY KY131 KY284_E US62
 KY KY303 KY121Bus KY80
 KY KY339 PurPkwy US45_N
 KY KY453 KenLakeDr I-24
-KY WooTra US68 KY453
+KY KY780 US51_N US51_S
+KY KY924 US51_N US51_S
+KY KY1954 I-24 US60/62
+KY WooTra US68 KY453             # -- Woodlands Trace - Land between the Lakes NRA
 
 # Louisiana (LA)
 # ---------------------
