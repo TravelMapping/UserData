@@ -1797,14 +1797,24 @@ MD MD544 US301 MD313
 
 # Massachusetts (MA)
 # ---------------------
+MA MA1ASal US1_New US1_Sal
+MA MA2 I-91(26) I-91(27)
 MA MA2 32 33
-MA MA3 1 16  
-MA MA3 7(93) MA28_S
+MA MA3 1 16
+MA MA3 43 MA28_S
 MA MA6APro US6_W US6_E
-MA MA6AYar US6 US6_E
+MA MA6AYar US6(89) US6_E
 MA MA24 3 4
+MA MA28 US6_E US6_W
+MA MA28 MA3_N MA3_S
 MA MA103 RI/MA I-195
-MA MA128 45(95) 12(95)
+MA MA128 45(95) 12(95)           # TODO: old exit number set (MassDOT exit renumber)
+MA MA128 64(95) 26(95)           # NOTE: new exit number set - intentional break ahead of renumber
+MA MA129 US1_S US1_N
+MA MA138 BriSt US6/103
+MA MA140 US44_E US44/138
+MA MA140 I-495(11) I-495(12)
+MA US6HisPro MayAve MA6A_Pro
 
 # Michigan (MI)
 # ---------------------
