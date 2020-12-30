@@ -1929,10 +1929,19 @@ MO MO96 I-49BL/171 I-49
 MO MO100 JefAve Bro
 MO MO110Han I-35(12) I-35(54)
 MO MO110Han US61 MO/IL
+MO MO162 US61_N I-55
+MO MO164 US61_S I-55
 MO MO171 MO249 I-49
 MO MO249 I-44 I-49BL/171
+MO MO291 I-470(10B) I-470(16B)
 MO MO367 US67 I-70
 MO MO370 I-70 I-270
+MO US66HisStL I-44(172) I-44(176)
+MO US66HisStL I-44(261) I-44(277A)
+MO US66HisStL I-270(34) MO/IL
+MO US66HisEJo US66His_W I-44/49BL
+MO US66HisMan JefAve US66His_E
+MO US66HisFlo US66His_W US67_N
 
 # Montana (MT)
 # ---------------------
@@ -1946,6 +1955,7 @@ MT GoiSunRd US2 LakeMcDon        # Glacier NP - Going-to-the-Sun Road
 MT NEntRd WY/MT US89             # Yellowstone NP - North Entrance Road to Gardiner
 MT NEEntRd WY/MT US212           # Yellowstone NP - Northeast Entrance Road to Cooke City
 MT WEntRd US20/191 MT/WY         # Yellowstone NP - West Entrance Road to West Yellowstone
+MT SR471 ID/MT MT200
 
 # Nebraska (NE)
 # ---------------------
