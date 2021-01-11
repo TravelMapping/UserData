@@ -3730,9 +3730,6 @@ FRA-GES E420 BEL/FRA D877/D985
 #FRA D4 A35 FRA/DEU #Strasbourg
 #FRA D1063 D1340 A35 #Strasbourg
 #FRA D1340 A340 D1063 #Strasbourg
-#FRA D222 N4 D400 #Strasbourg
-#FRA D400 D222 A35 #Strasbourg
-#FRA D500 A352 A35 #Strasbourg
 
 
 
