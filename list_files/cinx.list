@@ -334,7 +334,7 @@ CHL R70 17 18
 
 CHL AccVialAMB R70 TerCarInt
 CHL AvGenVel 11 16
-CHL CosNor15 R68
+CHL CosNor 15 R68
 
 ######## CZECHIA ########
 
@@ -1669,10 +1669,12 @@ EST E67 HelTalFry SuurAme
 
 ######## FAROE ISLANDS ########
 
-FRO Lv10 EysRingVeg Lv24
+FRO Lv10 EysRingVeg Lv11
+FRO Lv10 Lv13 Lv70
 FRO Lv11 Lv45 Lv10
 FRO Lv12 MarVeg GamSkoFry
-FRO Lv12San GamSkoFry Lv40/43
+FRO Lv12San Lv47 Lv40/43
+FRO Lv13 Lv11 Lv10
 FRO Lv21 Lv11 HeyGota
 FRO Lv23 Lv10 KirVeg
 FRO Lv24 Lv10 Lv70/71
@@ -1681,6 +1683,7 @@ FRO Lv41 Lv40 Ska
 FRO Lv42 Lv40 GerVeg
 FRO Lv43 Lv12/40 UtiStod
 FRO Lv45 Lv11 ByrVeg
+FRO Lv47 GamSkoFry Lv12
 FRO Lv50 VesRinVeg Lv11
 FRO Lv51 Lv21 Ska
 FRO Lv52 Lv10 FlaBre
@@ -1693,13 +1696,16 @@ FRO Lv59 Lv21 VikVeg
 FRO Lv60 Lv62 VidGjo
 FRO Lv61 Lv23 Lv60
 FRO Lv66 Lv10 UtBak
-FRO Lv70 Lv24/71 BakVeg_W
+FRO Lv70 Lv10 BakVeg_W
 FRO Lv71 Lv24/70 EdmStr
+FRO Lv73 Lv70 ForGota
 FRO Lv74 Lv70 Nor
+FRO Lv75 Lv70 Muli
 FRO Lv76 Bak Tro
 FRO Lv81 Lv21 KroVeg
 FRO Lv82 Lv10 Lv23
 FRO Lv93 Lv11 End
+FRO Lv97 Lv70_S Lv70_N
 
 
 ######## FINLAND ########
