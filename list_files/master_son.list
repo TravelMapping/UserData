@@ -2293,11 +2293,12 @@ WA WA18 I-5 WA167
 WA WA99 WA599 AurAve
 WA WA104 US101 WA3
 WA WA167 WA18 GraWay
+WA WA240 I-182(4) I-182(5)
 WA WA504 I-5 JohRid
 WA WA504SprKid WA504 End
 WA WA599 I-5 WA99
-WA HurRidRd ParkAve End
-
+WA WA900 I-405(4B) I-405(5)
+WA HurRidRd ParkAve End          # Olympic NP - Hurricane Ridge Rd
 # West Virginia (WV)
 # ---------------------
 # --- No routes have been accessed in WV
