@@ -2483,7 +2483,12 @@ WI MN23 MN/WI WI/MN
 # Wyoming (WY)
 # ---------------------
 WY WY24 US14 WY110
+WY WY50 I-90 US14/16
+WY WY59 US14/16_E I-90BL_W
 WY WY110 WY24 DevTowNM
+WY WY116 US16_E US16_W
+WY WY120 US14/16_E US14/14Alt
+WY WY789 US20/26_E US14/16_W
 WY DevTowRd WY110 VisCen               # -- Devil's Tower NP - Park Road
 WY TetParkRd US26/89 US89/191          # -- Grand Teton NP Park Road
 WY RocMemPkwy GraTetNP YelNP           # -- John D Rockefeller Mem Parkway
