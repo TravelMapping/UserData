@@ -2090,6 +2090,9 @@ NC NC222 US117_N US117_S
 
 # North Dakota (ND)
 # ---------------------
+ND ND1 I-94(288) I-94(283)
+ND ND3 I-94(208) I-94(200)
+ND ND22BypDic I-94(59) I-94(56)
 ND ND1804 BisExpy I-94
 ND EastRivRd ParkRd SceLpDr      # -- East River Road
 
