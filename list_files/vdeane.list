@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2020-11-19
+#Last updated 2021-01-17
 
 #United States
 #Alabama
@@ -210,7 +210,7 @@ MA MA18 US6 I-195
 MA MA23 NY/MA US7/183
 MA MA23 MA8_N MA8_S
 MA MA24 3 I-93
-MA MA25 I-495 MA28
+MA MA25 1 10
 MA MA28 MA25 US6_W
 MA MA41 CT/MA US20
 MA MA43 NY/MA MA2
@@ -526,6 +526,7 @@ NY FDRooDr I-478 17
 NY GarStaPkwy NJ/NY I-87/287
 NY GraCenPkwy 45(278) Que/Nas
 NY HarRivDr 17 10thAve
+NY HecPkwy 44 HecSP
 NY HenHudPkwy 8 Bro/Wes
 NY HutRivPkwy 1 NY/CT
 NY JacRobPkwy JamAve 7
@@ -541,7 +542,7 @@ NY NiaScePkwy FinDr NY18
 NY NiaScePkwyNia I-190 JohnDalyBlvd
 NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NorStaPkwy Que/Nas NY347/454
-NY OcePkwy MeaStaPkwy WanStaPkwy
+NY OcePkwy MeaStaPkwy CapSP
 NY OcePkwyBro SeaBreAve NY27
 NY PalIntPkwy NJ/NY US6/9W
 NY PelPkwy US1 I-95
@@ -552,10 +553,9 @@ NY SawMillPkwy Bro/Wes I-684
 NY SevLakDr JohRd US9W/202
 NY ShoFroPkwy Bea108thSt Bea73rdSt
 NY SouPkwy WestRivPkwy I-190
-NY SouStaPkwy CroIslPkwy 31
-NY SouStaPkwy 40 41A
+NY SouStaPkwy CroIslPkwy 44
 NY SprBroPkwy BroRivPkwy TacStaPkwy
-NY SunMeaPkwy SM1 SM3E
+NY SunMeaPkwy SM1 SM5
 NY TacStaPkwy BroRivPkwy I-90
 NY WanStaPkwy OcePkwy NorStaPkwy
 NY NY2 I-87 NY/MA
@@ -628,8 +628,7 @@ NY NY25A NY101 GlenCoveRd
 NY NY25A NY25_W NY111
 NY NY25B NY25_W CroIslPkwy
 NY NY26 PA/NY NY12
-NY NY27 1 MeaStaPkwy
-NY NY27 41 End
+NY NY27 1 End
 NY NY27A NY231 RobMosCswy
 NY NY28 NY32 US9
 NY NY28A NY28_W NY28_E
@@ -846,7 +845,7 @@ NY NY226 I-86 NY14A
 NY NY227 NY79 NY96
 NY NY228 NY224 NY227
 NY NY230 NY54 NY14A
-NY NY231 NY27A NY27
+NY NY231 NY27A SouStaPkwy
 NY NY232 I-81 US11
 NY NY233 NY12B NY49/365
 NY NY235 NY7 NY41/206
