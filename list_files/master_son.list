@@ -421,8 +421,7 @@ ME I-495 I-95 I-295
 VA I-495 MD/VA VA I-495 170(95)
 MD I-495 31 MD I-495 MD/VA
 RI I-195 1 MA I-195 40
-RI I-295 I-95 MA I-295 2      # TODO: old exit number set (MassDOT exit renumber)
-RI I-295 I-95 MA I-295 4      # NOTE: new exit number set - intentional break ahead of renumber
+RI I-295 I-95 MA I-295 4
 MA I-495 1 I-95
 NY I-295 NY25 I-95
 NY I-495 2ndAve 73
@@ -473,7 +472,7 @@ WA US2 AirDr WA US2 I-90(281)
 MT US2 US93 MT US2 MT49
 ND US2 US81Bus MN US2 MN220_N
 MN US2 MN33 MI US2 I-75
-# WI US2Flo MI/WI WI/MI #Section west of here is US2Iro
+VT US2 US302 VT US2 I-91
 MI US2BusIro WI/MI US2
 ND US2BusGrF US2 ND/MN
 VT US2TrkSSJ US2_W I-93(1)
