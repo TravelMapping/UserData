@@ -69,11 +69,10 @@ AZ AZ80 I-10BL AZ/NM
 AZ AZ82 I-19BL AZ80
 AZ AZ83 ParCanRd I-10
 AZ AZ84 I-8 AZ287/387
-AZ AZ84Elo AZ87 I-10
 AZ AZ85 MEX/USA I-10
 AZ AZ86 AZ85 ValRd
 AZ AZ86 I-19 16thAve
-AZ AZ87 AZ84 AZ264
+AZ AZ87 I-10 AZ264
 AZ AZ88 US60 AZ188
 AZ AZ89 US93 I-40
 AZ AZ89ASed 317 I-40BL
@@ -97,7 +96,7 @@ AZ AZ187 AZ387 AZ87
 AZ AZ188 US60 AZ87
 AZ AZ189 MEX/USA I-19BL
 AZ AZ195 AveE I-8
-AZ AZ202 1A 40thSt
+AZ AZ202 1A 78
 AZ AZ210 BroBlvd GolfLinRd
 AZ AZ238 End AZ347
 AZ AZ260 AZ89A MainSt_E
@@ -740,6 +739,9 @@ KY I-265 10 35                 # 25 vs 24
 #KY I-265 34 ?                  # new bridge not yet designated I-265
 KY I-275 OH/KY KY/IN           # 25
 KY I-471 1 KY/OH               #  5
+
+KY CumPkwy 1 88                # non interstate, was I-66 Fut
+
 
 # Tennessee
 # 1200 miles (Table 3 1100 - difference 77+23)
