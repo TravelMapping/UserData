@@ -3505,6 +3505,12 @@ VA GWMemPkwyMtV VA235 VA400
 VA SieRd VisCen US301
 VA SkyDr US250 US340
 #
+# Washington
+#
+WA WA9 MooSt WA20_E
+WA WA20 MooSt NFD400
+WA WA542 WA9_S MouBakLod
+#
 # West Virginia
 #
 WV I-64 KY/WV 6
