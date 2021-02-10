@@ -677,7 +677,7 @@ VT US5 VT14_N I-91(26)
 VT US5 VT25A VT119/142
 MA US5 MA2 MA2A
 MA US5 MA116_N CT/MA
-CT US5 CT/MA CT140
+CT US5 CT/MA CT14
 CT US5 I-91(29) DevSt
 MA US6 MA6A_Pro MA28_Bou
 MA US6 LeesRivAve RI/MA
@@ -3332,6 +3332,7 @@ NY GarStaPkwy NJ/NY I-87/287
 NY HenHudPkwy 8 Bro/Wes
 NY HarRivDr 17 10thAve
 NY HutRivPkwy 1 NY/CT
+NY InnLoop I-490 UniSt
 NY LakeOntPkwy LakeOntPkwySpr LakeAve
 NY LakeOntPkwySprCar NY18 LakeOntPkwy
 NY MosPkwy GraCon HenHudPkwy
