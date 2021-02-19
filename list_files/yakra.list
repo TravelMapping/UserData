@@ -752,7 +752,7 @@ NY NY408 NY436 I-390
 NY NY414 NY14_S NY14/409
 NY NY436 ParkRd NY408
 NY NY440 8 10
-NY NY495 NJ/NY W34thSt #Don't remember actual endpoint but this seems most plausible for heading S toward Washington Square
+NY NY495 NJ/NY 34thSt #Don't remember actual endpoint but this seems most plausible for heading S toward Washington Square
 NY NY590 5 TitAve
 NY NY878 I-678 FarBlvd
 NY NY890 I-890 NY5
@@ -764,6 +764,7 @@ NY FDRooDr I-478 17
 NY GarStaPkwy NJ/NY I-87/287
 NY HarRivDr 17 20A
 NY HutRivPkwy 1 NY/CT
+NY InnLoop I-490 UniSt
 NY LakeOntPkwy LakeAve NY98
 NY MosPkwy I-87 HenHudPkwy
 NY NiaScePkwy NY18F/104 FinDr
