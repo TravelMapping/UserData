@@ -215,7 +215,7 @@ NC US117 OBerRd NC581_N
 NC US117AltCal MainSt OutRd #actually from OBerRd but no waypoint
 NC US117 US117Con NC55
 NC US117ConCal I-40 US117
-NC US158 NC168 NC12
+NC US158 NC168 US64
 NC US178 US64 NC/SC
 NC US220 I-40(218) US29/70
 NC US221BusMar US221_S US221_N
@@ -407,7 +407,7 @@ MD MD500 DC/MD MD410
 # MI MI66 IN/MI US12_W #really only to just south of W South St
 MN MN5 I-494(10) MSPApt
 # MN MN22 US14 CR102 #unsure, depends on how got to Mankato
-NC NC12 HatFry_E HarRd
+NC NC12 HatFry_E US64/158
 NC NC12 ProAve NorBeaRd
 NC NC12Ocr OcrFry HatFry_W
 NC NC45 Fry US13/158
