@@ -119,6 +119,7 @@ ENG A41 B5136 A5227
 ENG A42 M1 A453
 ENG A43 M40 A45
 ENG A44 A40 A422
+ENG A44Chi A44_E A361
 ENG A45 AirWay A46_N
 ENG A45 MainRd A14
 ENG A46Str A420 StaLn
@@ -418,7 +419,7 @@ ENG A523 A537_E A6
 ENG A533 A56_E A558
 ENG A534 A41 A51_E
 ENG A550 WLS/ENG A494_E
-ENG A551 A5027_N X02
+ENG A551 LinLn B5192
 ENG A552 A551 A5227
 ENG A555 B5358 A5102
 ENG A557 A56 A533/A562
@@ -561,7 +562,6 @@ ENG A3217 A302 A3216
 ENG A3218 A4 A3220
 ENG A3220 A315 A40
 ENG A3290 A329 ThaValPark
-ENG A3400 A44 A361
 ENG A4006 A404/A409 A5
 ENG A4008 M1 B4542
 ENG A4010 B4009_E M40
@@ -620,7 +620,6 @@ ENG A4538 A44 M5
 ENG A4540 1 A435
 ENG A4600 A428 A4053
 ENG A4640 M54 A5
-ENG A5027 M53 B5192
 ENG A5068 M58 A577
 ENG A5076 A5123_S A45_E
 ENG A5091 A592 A66
@@ -1307,68 +1306,78 @@ IDN T3 20 31
 #Rail#
 ###England###
 ####National Rail####
+ENG ActLn RMD WIJ
 ENG ArunVlyLn TBD BAA
 ENG AylLn MYB AYS
 ENG BML VIC TBD
+ENG BexLn PMR WLI
 ENG CamLn WVH TFC
+ENG CatLp EPH BKL
 ENG ChaML SRT CBE
+ENG CheLp FEL ASN #curve
+ENG ChiBra HAC CHI
 ENG ChiML BCF BMO
 ENG CotLn RDG OXF
+ENG DulLn LBG STE
+ENG EHanLn GLD BDH
+ENG ELonLn HHY SQE
+ENG EnfLn LST EDR
 ENG GEML LST RMF
+ENG GOBLn GPO BKG
+ENG GreLn CST LBG
 ENG GWML PAD BRI
 ENG IslLn RYP RYD
 ENG KentCoaLn AFK FAV
 ENG LeaVlyLn SRA TOM
+ENG LivBra CRE LIV
+ENG LTSLn FST UPM
 ENG MML STP WEL
 ENG MshLn HGS AFK
 ENG NDowLn RDG GLD
+ENG NKentLn NWX BKH
+ENG NLonLn SPB SRA
 ENG NorCityLn MOG FPK
+ENG NXBra SQE NWX
 ENG NWalML CRW CTR
 ENG OxCanLn OXF BAN
 ENG ReaBasLn RDG BSK
 ENG SEML CHX RAM
+ENG SidLn SAJ MTG
+ENG SLonLn SQE CLJ
+ENG SouLp EDR CHN
+ENG StaBra SST SSD
 ENG StkLn MAN RGL
-ENG StoLn RUG Stafford
+ENG StoLn RUG STA
+ENG SutLn MIJ SUO
 ENG SWalML SWI BPW
 ENG SWML WAT BMH
+ENG ThaLnk HEN ECR
+ENG UpmLn RMF UPM
 ENG XCML BRI BPW
 ENG WAML LST SST
+ENG WalLn STE SRS
+ENG WalLn SUO EPD
+ENG WwkLn LMS COV
+ENG WatLn EUS WFJ
 ENG WCML EUS CRE
 ENG WCwy FOD CSA
 ENG WesML DEN PMH #curve
+ENG WimLp BFR EPH
+ENG WimLp WIM SUO
+ENG WinLn WAT SNS
+ENG WLonLn CLJ SPB
+ENG WKirBra BNQ MRT
 ENG WoELn BSK GRT #curve
-Richmond - Stratford
-Clapham Junction - Stratford
-Gospel Oak - Barking
-Romford - Upminster
-Highbury & Islington - New Cross
-Surrey Quays - Clapham Junction
-Euston - Watford HS - Watford Junction
-Cannon Street - London Bridge
-London Bridge - Welling
-London Bridge - Mottingham
-Lewisham - Hither Green
-London Bridge - Peckham Rye - Norbury - East Croydon
-Blackfriars - Bromley South
-Mitcham Junction - Epsom Downs
-Sutton - Wimbledon
-Hendon - Blackfriars - London Bridge - East Croydon
-Guildford - Havant
-Waterloo - Richmond - Staines
-Staines - Addlestone (-curve)
-Leamington - Coventry
-Chester - Hamilton Square - Moorfields - Lime Street
-Hamilton Square - Moreton
-Stansted Mountfitchet - Stansted Airport
-Fenchurch St - Upminster
+ENG WirLn LIV CTR
 #####London Underground#####
 ENG BakLn HRW EPH
-ENG CenLnEal EAL WOO
-ENG CenLnRui WRU EPP
+ENG CenLn WRU EPP
+ENG CenLnEal EAL NOA
+ENG CenLnHai LES WOO
 ENG CirLn HAM ERD_2
+ENG DisLn RMD UPM
 ENG DisLnEal EAL TUG
 ENG DisLnOly KPA EAC
-ENG DisLnRic RMD UPM
 ENG DisLnWim WIM ERD
 ENG HaCLn HAM BKG
 ENG JubLn STM SRA
@@ -1376,23 +1385,29 @@ ENG MetLnAme AMR CFO
 ENG MetLnChe CHE WEP
 ENG MetLnUxb UXB ALD
 ENG MetLnWat WAF WEP
-ENG NorLnBar HBT MDN
-ENG NorLnEdg EGW KNG
+ENG NorLn CTN MDN
+ENG NorLnBar HBT CTN
+ENG NorLnBat CTN KNG
+ENG NorLnEdg EGW CTN
 ENG NorLnMHE MHL FYC
+ENG PicLn HWV CKS
 ENG PicLnHT4 HNX HXX
-ENG PicLnHT5 HWV CKS
 ENG PicLnUxb UXB ACT
 ENG VicLn WHC BRX
 ENG WaCLn WAT BAN
 ####LightRail/Tram####
-ENG DLRBec TOG BKT
-ENG DLRLew BAN LEW
+ENG DLRBan BAN CGT
+ENG DLRBec CGT BKT
+ENG DLRLew WES LEW
+ENG DLRSti SFA CGT
 ENG DLRStr CAW SRA
-ENG DLRWoo SFA WWA
-Tramlink: West Croydon - Mitcham Jct
+ENG DLRTow TOG SHA
+ENG DLRWoo CGT WWA
+ENG LTLBec WPK WCY
+ENG LTLWim WPK MIJ
 
 ###Scotland###
-Fort William - Mallaig
+SCT WHigLn FTW MLG
 
 ###Germany###
 Frankfurt Airport - Hbf
