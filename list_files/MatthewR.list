@@ -377,7 +377,7 @@ CA CA56 1A 9
 CA CA58 US101 ElCamReal
 
 #CA-59:
-CA CA59 CA99(187B) CA140_W
+CA CA59 CA99(187B) CA99(188)
 
 #CA-61: Oakland Airport Section
 CA CA61 HarBayPkwy I-880(34)
@@ -563,7 +563,7 @@ CA CA168Bis US395_N US395_S
 CA CA169 US101 KlaMillRd
 
 #CA-175:
-CA CA175 CA29/CA29Bus CA29_S
+CA CA175 CA29/29Bus CA29_S
 
 #CA-180 Fresno Section:
 CA CA180 BelAve KinCanNP
@@ -629,7 +629,7 @@ CA CA273 CypAve I-5(681B)
 CA CA299 2 AdaRd
 
 
-#(California Regional & National Roads)
+#(California Federal Roads)
 
 #Big Oak Flat Rd, Yosemite NP
 CA BigOakRd CA120 ElPorRd
@@ -641,10 +641,10 @@ CA ElPorRd CA140 ElCapDr_N
 CA GenHwy KinCanRd CA198
 
 #Lassen Peak Highway, Lassen Volcanic NP
-CA LasPeakHwy CA89_S CA89_N
+CA LasPeakHwy CA89_S CA44/89
 
 #Minaret Summit Rd, Inyo NF
-CA MinSumRd CA203 RedMeaRes
+CA MinSumRd CA203 RedsMeaRes
 
 #Tioga Pass Rd, Yosemite NP
 CA TioPassRd BigOakRd CA120
