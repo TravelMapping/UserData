@@ -1,4 +1,6 @@
-#Interstates
+#----UNITED STATES----
+
+#--Interstates--
 
 #2di
 FL I-4 67 72
@@ -411,3 +413,29 @@ MI MI153 BeckRd US24
 
 #Florida State Roads
 FL FL528 I-4 11
+
+
+#----CANADA----
+
+#--Trans-Canada Highway--
+
+BC TCHMai 3 BC7_E
+
+
+#--British Columbia Provincial Highways--
+
+BC BC1 3 BC7_E
+BC BC1A BC15 BC13
+BC BC3 170 177
+BC BC5 177 286
+BC BC5A BC97C_E BC5(286)
+BC BC7 BarHwy BC1
+BC BC9 BC7_E BC7_W
+BC BC10 BC1A LanByp_E
+BC BC11 USA/CAN BC7
+BC BC15 USA/CAN BC1/17
+BC BC17Ric BriDr BC1/15
+BC BC91 BC99 23
+BC BC97 USA/CAN BC33
+BC BC97C BC97 BC5
+BC BC99 USA/CAN AlpWay
