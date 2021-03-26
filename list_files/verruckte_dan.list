@@ -850,8 +850,7 @@ KY CaveCityRd MamCavePkwy KY255
 KY MamCavePkwy KY70/255 End
 KY ParkCityRd KY255 MamCavePkwy
 
-LA LA1 LudLn US90
-LA LA1 LA182_E LA182_W
+LA LA1 End LA182_W
 LA LA1 LA648 LA1011
 LA LA1 I-10 LA76/987-4
 LA LA1 US190_E US190_W
@@ -876,7 +875,8 @@ LA LA22 LA70 US190
 LA LA23 JumpBasRd LA428_N
 #LA LA24 LA20 LA311 #....................................driven southbound; need to drive northbound
 LA LA24 US90 LA660
-LA LA24 LA312 LA661
+LA LA24 LA312 LA3087
+LA LA24 LA659_E LA3235
 LA LA25 US190 LA10/16
 LA LA28 LA496 I-49(84)
 LA LA30 SBlvd LA44 #....................................previously extended to LA73_W (road transfer?)
@@ -939,6 +939,7 @@ LA LA308 LA1 LA1011
 LA LA308 LA70 LA3089
 LA LA311 LA182 LA24
 LA LA312 LA182 LA24
+LA LA315 LA661 LA182/3197
 LA LA327 LA327Spr LA30
 LA LA327SprBat LA327 LA42
 LA LA345 LA86 LA679
@@ -977,6 +978,14 @@ LA LA541 LA18_A LA18_D
 LA LA546 US80/15 LA838
 LA LA560-2 LA18 LA541
 LA LA560-4 End LA45
+#LA LA574-1 CarLn End #...............................................not in system
+#LA LA574-3 LA1 End #.................................................not in system
+#LA LA574-4 LA1 End #.................................................not in system
+#LA LA574-5 LA1 End #.................................................not in system
+#LA LA574-6 LA1 End #.................................................not in system
+#LA LA574-7 LA1 End #.................................................not in system
+#LA LA574-8 LA1 End #.................................................not in system
+#LA LA574-9 LA1 End #.................................................not in system
 LA LA594 MeaLarkDr US80
 #LA LA594 US80 RowRd.........................................Rowland Rd waypoint not in system
 LA LA611-1 JefHeiAve MonAve
@@ -997,8 +1006,12 @@ LA LA641 LA44 I-10
 LA LA643 LA20 End
 LA LA644 LA20 LA643
 LA LA648 LA20 LA308
-LA LA659 LA24/57 LA3087
-LA LA661 LA3040 LA659
+LA LA654 LA1 GolRanGate
+LA LA655 LA1 LA308
+LA LA655SprLoc LA1 LA655
+LA LA657 LA3235 LarComSta
+LA LA659 LA24/57 LA24_E
+LA LA661 LA315 LA659
 LA LA662 OilRd LA398
 LA LA679 LA345 LA3083
 #LA LA838 LA546 Landry Vineyard..............................Not enough for a segment yet
@@ -1064,8 +1077,9 @@ LA LA3073 US167 US90
 LA LA3081 US11/41 I-59
 LA LA3081SprPea LA3081 End
 LA LA3083 LA679 LA352
-LA LA3087 LA659 LA182
+LA LA3087 LA24 LA182
 LA LA3089 LA1/18 LA70
+LA LA3090 End LA1
 LA LA3120 LA18 LA70
 LA LA3125 LA3213 LA70
 LA LA3127 I-310 LA70
@@ -1074,11 +1088,15 @@ LA LA3137 LA39_S LA39_N
 LA LA3139 MonSt LA3154
 LA LA3141 LA3127 LA18
 LA LA3142 LA3127 LA18
+#LA LA3150 LA1 End #...............................................not in system
+#LA LA3151 LA1_W LA1_E #...........................................not in system
 LA LA3152 US90/48 I-10
 LA LA3154 LA48 US61
 LA LA3156 La182 FroSt
 LA LA3158 I-12 US190
 LA LA3160 LA3127 LA18
+LA LA3161 LA3235 LA1
+LA LA3162 LA3235 LA308
 LA LA3177 HerDupRd I-10
 LA LA3184 I-10 AmbCafPkwy_S
 LA LA3185 LA308 LA20
@@ -1088,6 +1106,7 @@ LA LA3193 LA44 LA3125
 LA LA3197 LA182/315 CouClubDr
 LA LA3213 LA3127 LA641/3125
 LA LA3219 LA3127 LA18
+LA LA3235 LA1 LA 24
 LA LA3246 I-10 US61/73
 LA LA3257 SEnd NEnd
 LA LA3266 LA308 40ArpRd
