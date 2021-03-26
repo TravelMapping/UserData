@@ -231,6 +231,8 @@ GA US29AltAtl US29_S US29_N
 GA US29BusWin US29_S US29_N
 GA US41BusGri US41_S US41_N
 GA US278BypWar US278_W GA171
+# GA US441BusCla DemMtAHwy GA17/197_S # pending addition of point at DemMtAHwy
+GA US441BusCla GA197Con GA17/197_S # can only claim this for now
 GA GA1LpRom US27 GA53
 GA GA3ConMar US41 GA120
 GA GA5 US78_W US76_E
@@ -252,6 +254,7 @@ GA GA14 US29_N TedTurDr
 GA GA14ConAtl US29 I-85/285
 GA GA15AltAth GA11Bus_S GA15_N
 GA GA16 US27Alt/29 US129/441
+GA GA17 HilCroRd US441Bus_S # fudging a little, really just from fairgrounds to 441Bus
 GA GA17 GA75Alt US76_E
 GA GA17 US76_W GA/NC
 GA GA20 AL/GA LowWooRd
