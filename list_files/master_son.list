@@ -1216,9 +1216,7 @@ MD US301 MD544 MD US301 MD313
 VT US302 US2 VT US302 BerSH
 # US 310
 MT US310 US212_W MT US310 I-90
-# US 311
-NC US311 I-40(196) NC US311 I-40(193A)
-NC US311 US52(109) NC US311 US52(110B)
+# US 311 not driven
 # US 319 not driven
 # US 321
 TN US321 US441_S TN US321 US441_N
@@ -1768,7 +1766,7 @@ KY WooTra US68 KY453             # -- Woodlands Trace - Land between the Lakes N
 
 # Louisiana (LA)
 # ---------------------
-LA LakePonCswy I-10 I-12         # -- Lake Pontchartrain Causeway
+LA LakePonCswy EspAve US190/22   # -- Lake Pontchartrain Causeway
 LA LA1 LA3032 LA/TX
 LA LA2 TX/LA ParSt_N
 LA LA2 US71_S US71_N
