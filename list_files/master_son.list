@@ -1766,7 +1766,7 @@ KY WooTra US68 KY453             # -- Woodlands Trace - Land between the Lakes N
 
 # Louisiana (LA)
 # ---------------------
-LA LakePonCswy I-10 I-12         # -- Lake Pontchartrain Causeway
+LA LakePonCswy EspAve US190/22   # -- Lake Pontchartrain Causeway
 LA LA1 LA3032 LA/TX
 LA LA2 TX/LA ParSt_N
 LA LA2 US71_S US71_N
