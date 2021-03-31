@@ -1,0 +1,26 @@
+AZ I-8 178 CA I-8 SunCliBlvd #surely got off at the end once? otherwise it's the waypoint before which would be like... oof
+AZ I-10 CA/AZ AZ/NM #incomplete
+AZ I-17 194 341
+AZ I-19 8 101
+AZ I-40 195 OK I-40 151B
+AZ I-19BLNog AZ82 I-19_N
+AZ I-40BLFla US180_W 1-40_E
+#US numbered highways incomplete
+AZ US89 I-40BL/180 UT US89 US6_W #approximate
+WY US89 US189/191_S #i think we took the 191 here
+WY SEntRd US89/191 GraLoopRd
+WY GraLpRd NEntRd_W NEntRd_E
+WY WEntRd MT/WY GraLoopRd
+MT WEntRd MT/WY US20/191
+MT US191WYe YelNP_S MT/WY
+WY US191NYe MT/WY WY/MT
+MT US191 WY/MT MT84/85
+MT MT85 US191 I-90
+MT I-90 298A 274
+MT US287 I-90 MT2_W
+MT MT2 US287_S LCCavRd
+MT US89 SheCreRd US2_W #south end somewhere around there (whitebark pine thing), north end glacier
+MT US2 US89_N MT49
+MT MT49 US2 TwoMedRd
+MT TwoMedRd MT49 TwoMedLk
+#maybe i should split these by trip

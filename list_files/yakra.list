@@ -30,8 +30,6 @@ IL I-280 0 999
 IN I-69 309 315
 IN I-469 19 31
 MA I-84 0 I-90
-MA I-90 0 24
-MA I-90 26 MA1A
 MA I-190 0 999
 MA I-290 7 26
 MA I-91 0 999
@@ -754,7 +752,7 @@ NY NY408 NY436 I-390
 NY NY414 NY14_S NY14/409
 NY NY436 ParkRd NY408
 NY NY440 8 10
-NY NY495 NJ/NY W34thSt #Don't remember actual endpoint but this seems most plausible for heading S toward Washington Square
+NY NY495 NJ/NY 34thSt #Don't remember actual endpoint but this seems most plausible for heading S toward Washington Square
 NY NY590 5 TitAve
 NY NY878 I-678 FarBlvd
 NY NY890 I-890 NY5
@@ -766,6 +764,7 @@ NY FDRooDr I-478 17
 NY GarStaPkwy NJ/NY I-87/287
 NY HarRivDr 17 20A
 NY HutRivPkwy 1 NY/CT
+NY InnLoop I-490 UniSt
 NY LakeOntPkwy LakeAve NY98
 NY MosPkwy I-87 HenHudPkwy
 NY NiaScePkwy NY18F/104 FinDr
@@ -892,7 +891,7 @@ NB NB1 233 *OldNB1_Lin
 WA WA99Fed WA518 188thSt
 WA WA518 DesMoiDr I-5
 WA I-5 152 182
-WA WA525 I-5 CliMukFry
+WA WA525 I-5 MukSpe
 WA I-405 I-5(182) I-5(154)
 WA WA99 WA599 SeaFwy
 WA WA509 WA99 DesMoiDr
@@ -942,7 +941,7 @@ MA MA2 US20_E Cha
 
 MA US1 MA152 MA/NH
 #MA MA152 US1 RobTonBlvd #(combined)
-MA I-295 2 RI/MA
+MA I-295 4 RI/MA
 RI I-295 RI/MA 9A
 RI US6 CT/RI I-195(2)
 CT US6 CT/RI CTTpk

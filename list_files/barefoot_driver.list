@@ -48,7 +48,7 @@ ca i-210 1a 45
 ca i-215 i-15 54b
 ca i-238 14 17
 ca i-280 i-680/101 5thst
-ca i-305 1a 7c
+ca i-305 1a 6
 ca i-380 5a 7
 ca i-405 i-5(94a) i-5(158)
 CA I-505 1A i-5
@@ -704,7 +704,7 @@ ca ca110 21 glest
 ca ca127 ca190 ca178_e
 ca ca138 ca14(49) ca18_s
 ca ca139 ca36 ca299_w
-ca ca140 ca59_n ca49_s
+ca ca140 ca999(188) ca49_s
 ca ca147 ca89 ca36
 ca ca152 ca1 ca99
 ca ca166 ca33_s i-5
@@ -767,7 +767,6 @@ co co142 us285 co159
 co co159 co142 us160
 co co196 us50 us287
 co co318 ut/co us40
-co acablvd covdr/harst drerd
 ct ct15 ny/ct 34
 ct ct104 ct137 ct15
 ct ct137 us1 ct104
@@ -1237,7 +1236,7 @@ la la407 la406 la428
 la la428 la23_e lamst
 la la428alg behave la407
 la la1120 la91/100 la98
-la la1256 la27/108 us90
+la la1256 la27/108 i-10
 la la3094 us79/80 us71/1
 la la3226 us190 us171
 MA US1 MA286 MA/NH
@@ -1441,6 +1440,7 @@ MO US62 AR/MO MO25
 MO US62 US61/60Bus MO/IL
 MO US63 AR/MO MO/IA
 mo us63bustha us63_s us63_n
+mo us63buskir us63_s us63_n
 MO US65 AR/MO MO/IA
 mo us65busspr us65_s us65_n
 mo us65busmar us65_s us65_n
@@ -1518,6 +1518,7 @@ mo mo113 us59 us136
 mo mo116 mo371 i-35
 mo mo118 mo111 us59
 MO MO119 MOsVV MO32
+mo mo128 mo146 crosp
 mo mo146 us136 mo6
 mo mo148 us71/136 mo/ia
 mo mo150 ks/mo mo7_n
@@ -1802,7 +1803,7 @@ oh oh41 us52_w oh32
 oh oh58 us224 us6
 oh oh66 oh15_s us24
 oh oh66trkede oh66_s oh66_n
-oh oh66trkwde oh66_s oh66_n
+oh oh66trkdef oh66_s oh66_n
 oh oh93 oh140 oh279_e
 oh oh109 us20alt_e oh/mi
 oh oh126 i-275 i-71
@@ -2020,10 +2021,11 @@ TX US271 TX31/155 I-30(160)
 TX US271 TX37 US271BusPar_S
 TX US277 I-20BL US277BusSta/6
 TX US277 US82/281/287 TX/OK
-TX US281 US82/287 TX/OK
+TX US281 tx79_s TX/OK
 TX US283 I-20BL I-20(307)
 tx us285 i-20 tx302
 TX US287 TX87 I-35W(60)
+tx us287 fm368 us70/183
 TX US287 TX207 TX/OK
 TX US377 US77/380 US380_E
 TX US377 I-30(9B) I-35W(52A)
@@ -2042,6 +2044,7 @@ tx tx18 tx302 tx115_s
 tx tx33 us83 rm2654
 tx tx49 us59 tx/la
 tx tx73 tx87_s i-10(873)
+tx tx79 fm2224 us82_w
 tx tx82 la/tx tx73
 tx tx87 clamlakerd tx62/73
 tx tx87gal i-45 portbolfry
