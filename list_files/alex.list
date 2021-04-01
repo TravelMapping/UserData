@@ -429,8 +429,7 @@ AZ AZ89ASed AZ179 I-17(340)
 # California State Highways #
 #############################
 CA CA1 CA133 MacBlvd
-CA CA1 ElSegBlvd OldStaHwy
-CA CA1 CA128 LitLakeRd
+CA CA1 ElSegBlvd LitLakeRd
 
 CA CA2 CenAve AveSta
 CA CA2 US101(4B) BigPinHwy
@@ -467,7 +466,7 @@ CA CA29 CA12/121 CA175_S
 CA CA33 CA152_W I-5(403)
 
 CA CA35 54 CA1
-CA CA35 CA17 CA84
+CA CA35 CA17 I-280(41B)
 
 CA CA36 I-5 CA89_N
 
