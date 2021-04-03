@@ -7,7 +7,7 @@ CA I-5 MEX/USA CA I-5 554
 OR I-5 288 WA I-5 WA/Can
 CA I-105 1A 18
 CA I-205 0 I-5
-CA I-305 1A 7C
+CA I-305 1A 6
 CA I-405 1A I-5
 CA I-505 1A I-5
 CA I-605 CA22 HunDr
@@ -227,6 +227,7 @@ TN I-69FutMem MS/TN US51
 TN I-69FutTri 15(155) TNs183_End
 TN I-69FutUni US45W_S TN/KY
 TN I-269FutMem 19 US51
+MI I-69BLLan I-69_W I-96BL
 # I-70
 UT I-70 0 IL I-70 21
 IN I-70 73 MD I-70 1A
@@ -421,7 +422,7 @@ ME I-495 I-95 I-295
 VA I-495 MD/VA VA I-495 170(95)
 MD I-495 31 MD I-495 MD/VA
 RI I-195 1 MA I-195 40
-RI I-295 I-95 MA I-295 2
+RI I-295 I-95 MA I-295 4
 MA I-495 1 I-95
 NY I-295 NY25 I-95
 NY I-495 2ndAve 73
@@ -433,6 +434,7 @@ MI I-196 I-94 I-96
 MI I-296 86 I-96
 MI I-496 I-96(95) I-96(106)
 MI I-696 1 28
+MI I-96BLLan I-69BL I-96_E
 MI I-196BLHol I-196_S I-196_N
 # I-97 not driven
 # I-99
@@ -459,7 +461,8 @@ CT US1 I-95(84) CT US1 I-95(85)
 RI US1 RI138_E RI US1 RI4
 RI US1 CowRd RI US1 US44_E
 RI US1 RI126 RI US1 I-95(29)
-MA US1 I-95(15) ME US1 ME101
+MA US1 I-95(15) ME US1 ME101      # TODO: old exit number for I-95 (MassDOT exit renumber)
+MA US1 I-95(29) ME US1 ME101      # NOTE: new exit number for I-95 - intentional break ahead of renumber
 ME US1 I-195 ME US1 ScaCon
 ME US1 I-295(4) ME US1 I-295(9)
 FL US1AltJac US1_N FL115_S
@@ -471,16 +474,17 @@ WA US2 AirDr WA US2 I-90(281)
 MT US2 US93 MT US2 MT49
 ND US2 US81Bus MN US2 MN220_N
 MN US2 MN33 MI US2 I-75
-# WI US2Flo MI/WI WI/MI #Section west of here is US2Iro
+VT US2 US302 VT US2 I-91
 MI US2BusIro WI/MI US2
 ND US2BusGrF US2 ND/MN
 VT US2TrkSSJ US2_W I-93(1)
 WI US2AltAsh US2_W US2_E
 WI US2TrkSup US2_W US2_E
 # US 3
-MA US3 I-95(33) MA US3 I-95(32A)     # TODO: old exit number set (MassDOT exit renumber)
-MA US3 I-95(51) MA US3 I-95(50A)     # NOTE: new exit number set - intentional break ahead of renumber
+MA US3 I-95(33) MA US3 I-95(32A)     # TODO: old exit number for I-95 (MassDOT exit renumber)
+MA US3 I-95(51) MA US3 I-95(50A)     # NOTE: new exit number for I-95 - intentional break ahead of renumber
 NH US3 I-93(33) NH US3 NH141
+NH US3 I-93(13) US202_W
 # US 4
 NH US4 I-93(17) NH US4 KingRd
 # US 5
@@ -500,6 +504,7 @@ OH US6 OH2San_W OH US6 OH2San_E
 PA US6 I-81(194) PA US6 I-81(187)
 NY US6 NY17(130A) NY US6 US9_N
 CT US6 I-84(39) MA US6 MA6A_Pro
+RI US6AltJoh RI5 RI128
 IN US6BusHig US41 US6_E
 CA US6HisSan US99His_N SolCanRd_W
 IA US6HisIow 1stAve_S IA1_N
@@ -585,9 +590,11 @@ WY US20 I-25(160) WY US20 I-25(126)
 NE US20 NE12 IN US20 IN13
 OH US20 OH2_W OH US20 CenRd
 NY US20 AdiNor NY US20 NY85
-MA US20 I-91(9) MA US20 I-291(5)
+MA US20 I-91(9) MA US20 I-291(5)     # TODO: old exit number for I-91 (MassDOT exit renumber)
+MA US20 I-91(7) MA US20 I-291(5)     # NOTE: new exit number for I-91 - intentional break ahead of renumber
 IL US20BusFre US20_W US20_E
 IL US20BusRoc US20_W US20_E
+OH US20HisPai OH2 CenRd
 # US 21
 SC US21 US17/17Alt SC US21 SC68
 SC US21 I-77(90) NC US21 I-77(13)
@@ -834,6 +841,7 @@ CA US66HisHol EchoParkAve Bdwy_S
 AZ US66HisKin I-40BL_SelW I-40BL_SelE
 AZ US66HisFla I-40(191) US89_N
 AZ US66HisWin I-40(252) I-40BL_E
+OK US66HisOkl I-44(128A) I-44(128B)
 IL US66HisChi MO/IL I-270(3)
 IL US66HisChi I-270(4A) I-270(4B)
 IL US66HisChi I-55(80) I-55(82)
@@ -1049,8 +1057,8 @@ WI US141 I-43(178) MI US141 US41/28
 
 WI US141BusCol US141_S US141_N
 # US 150
-IL US150 US6 IL US150 I-74(54)
-IL US150 IL78_N IL US150 IL78_S
+IL US150 US6 I-74(54)
+IL US150 IL78_N BellSchRd
 # US 151
 IA US151 I-80 WI US151 US10
 IA US151BusCed US151_S US151_N
@@ -1208,9 +1216,7 @@ MD US301 MD544 MD US301 MD313
 VT US302 US2 VT US302 BerSH
 # US 310
 MT US310 US212_W MT US310 I-90
-# US 311
-NC US311 I-40(196) NC US311 I-40(193A)
-NC US311 US52(109) NC US311 US52(110B)
+# US 311 not driven
 # US 319 not driven
 # US 321
 TN US321 US441_S TN US321 US441_N
@@ -1356,7 +1362,6 @@ CA CA4 69 CA99(252B)
 CA CA12 I-80(39B) I-80(43)
 CA CA12 CA113 CA160
 CA CA14 I-5 49
-CA CA14TrkNew I-5_N I-5_S
 CA CA14U SieHwy_S FriValPkwy
 CA CA15 1A 6B
 CA CA17 1A 22
@@ -1573,6 +1578,7 @@ IL IL31 I-88 IL56_E
 IL IL35 US20 IL/WI
 IL IL37 ShawColRd IL169
 IL IL38 IL251_S IL251_N
+IL IL40 I-88 IL78
 IL IL43 US12/20 US14/58
 IL IL43 IL176 US41
 IL IL47 US6_W US6_E
@@ -1739,6 +1745,7 @@ KS KS31 I-35(160) I-35(162)
 KS KS96 I-235(13) US54/400
 
 # Kentucky (KY)
+# usaky, usakyp
 # ---------------------
 KY PurPkwy TN/KY 21              # -- Purchase Parkway
 KY PenPkwy 1 34                  # -- Pennyrille Parkway
@@ -1759,7 +1766,7 @@ KY WooTra US68 KY453             # -- Woodlands Trace - Land between the Lakes N
 
 # Louisiana (LA)
 # ---------------------
-LA LakePonCswy I-10 I-12         # -- Lake Pontchartrain Causeway
+LA LakePonCswy EspAve US190/22   # -- Lake Pontchartrain Causeway
 LA LA1 LA3032 LA/TX
 LA LA2 TX/LA ParSt_N
 LA LA2 US71_S US71_N
@@ -1798,22 +1805,25 @@ MD MD544 US301 MD313
 # Massachusetts (MA)
 # ---------------------
 MA MA1ASal US1_New US1_Sal
-MA MA2 I-91(26) I-91(27)
+MA MA2 I-91(26) I-91(27)         # TODO: old exit number for I-91 (MassDOT exit renumber)
+MA MA2 I-91(43) I-91(46)         # NOTE: new exit number for I-91 - intentional break ahead of renumber
 MA MA2 32 33
 MA MA3 1 16
 MA MA3 43 MA28_S
 MA MA6APro US6_W US6_E
 MA MA6AYar US6(89) US6_E
 MA MA24 3 4
+MA MA25 1 10
 MA MA28 US6_E US6_W
 MA MA28 MA3_N MA3_S
 MA MA103 RI/MA I-195
-MA MA128 45(95) 12(95)           # TODO: old exit number set (MassDOT exit renumber)
-MA MA128 64(95) 26(95)           # NOTE: new exit number set - intentional break ahead of renumber
+MA MA128 45(95) 12(95)           # TODO: old exit number for I-95 (MassDOT exit renumber)
+MA MA128 64(95) 26(95)           # NOTE: new exit number for I-95 - intentional break ahead of renumber
 MA MA129 US1_S US1_N
 MA MA138 BriSt US6/103
 MA MA140 US44_E US44/138
-MA MA140 I-495(11) I-495(12)
+MA MA140 I-495(11) I-495(12)     # TODO: old exit number for I-495 (MassDOT exit renumber)
+MA MA140 I-495(30) I-495(31)     # NOTE: new exit number for I-495 - intentional break ahead of renumber
 MA US6HisPro MayAve MA6A_Pro
 
 # Michigan (MI)
@@ -1830,6 +1840,7 @@ MI MI28 US2 US41_S
 MI MI35 US2/41_S US2/41_N
 MI MI38 US45 MI26_E
 MI MI43 38(131) 49(131)
+MI MI43 I-69/96 I-96BL
 MI MI46 I-75 MI25
 MI MI53 I-696(23) VanDykeAve_S
 MI MI55 I-75(227) I-75(215)
@@ -1952,9 +1963,9 @@ MT MT135 I-90 MT200
 MT MT200 ID/MT I-90(101)
 MT MT200 I-15(290) US191_S
 MT GoiSunRd US2 LakeMcDon        # Glacier NP - Going-to-the-Sun Road
-MT NEntRd WY/MT US89             # Yellowstone NP - North Entrance Road to Gardiner
-MT NEEntRd WY/MT US212           # Yellowstone NP - Northeast Entrance Road to Cooke City
-MT WEntRd US20/191 MT/WY         # Yellowstone NP - West Entrance Road to West Yellowstone
+MT NEntRd WY/MT US89             # Yellowstone NP - North Entrance Road to Gardiner (MT Only)
+MT NEEntRd WY/MT US212           # Yellowstone NP - Northeast Entrance Road to Cooke City (MT Only)
+MT WEntRd US20/191 MT/WY         # Yellowstone NP - West Entrance Road to West Yellowstone (MT Only)
 MT SR471 ID/MT MT200
 
 # Nebraska (NE)
@@ -2005,7 +2016,7 @@ NH NH141 I-93 US3
 # ---------------------
 NJ GarStaPkwy NJ109 NJ/NY        # -- Garden State Parkway
 NJ NJTpk I-295(1) 72(95)         # -- New Jersey Turnpike
-NJ PalIntPkwy I-95 NJ/NY         # -- Palisades Interstate Parkway
+NJ PalIntPkwy I-95 NJ/NY         # -- Palisades Interstate Parkway (NJ Portion)
 NJ NJ3 GarStaPkwy NJ120
 NJ NJ7 CR508 US1/9Trk
 NJ NJ17 I-287(66) NJ/NY
@@ -2037,17 +2048,17 @@ NM NM597 US160 FourCorNM
 NM NM494 BanMineRd I-10BL
 NM DunDr US70 LoopDr             # -- White Sands NM - Dunes Drive
 
-# New York
+# New York - usany, usanyp
 # ---------------------
 NY BeltPkwy I-278 25             # -- Belt Parkway (NYC)
 NY CroIslPkwy 25A 36             # -- Cross Island Parkway
 NY FDRooDr I-478 17              # -- FDR Drive (NYC)
-NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jerse)
+NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
 NY HenHudPkwy 8 24               # -- Henry Hudson Parkway
 NY HutRivPkwy 1 3                # -- Hutchinson River Parkway
 NY NorStaPkwy Que/Nas 36         # -- Northern State Parkway (LI)
-NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway
+NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway (NY portion)
 NY SouStaPkwy CroIslExp 44       # -- Southern State Parkway (LI)
 NY HarRivDr 17 24                # -- Harlem River Drive (NY)
 NY HenHudPkwy 8 15
@@ -2073,10 +2084,11 @@ NY NY895 I-278 I-95
 
 # North Carolina (NC)
 # ---------------------
-NC NC8 I-40Bus US52_N
+NC NC8 US52(109) US52(114)
 NC NC12 HatFry_E US64/158
 NC NC12Ced US70 CedIslFry
 NC NC12Ocr OcrFry HatFry_W
+NC NC16 I-277(2A) I-277(5)
 NC NC42 US70Bus_W US70Bus_E
 NC NC50 I-40(298) US70_E
 NC NC55 US17/70 US70_E
@@ -2089,23 +2101,31 @@ NC NC222 US117_N US117_S
 
 # North Dakota (ND)
 # ---------------------
+ND ND1 I-94(288) I-94(283)
+ND ND3 I-94(208) I-94(200)
+ND ND22BypDic I-94(59) I-94(56)
 ND ND1804 BisExpy I-94
 ND EastRivRd ParkRd SceLpDr      # -- East River Road
 
 # Ohio
 # ---------------------
 OH OH2 I-280 161(90)
-OH OH2 174B(90) US20_E
+OH OH2 196B 227
 OH OH4 I-70(41) I-70(47)
 OH OH10 I-480(1) I-480(1B)
 OH OH11 I-80/680 228(80)
 OH OH12 US23_S US23_N
+OH OH14 I-271(23) I-480(42)
 OH OH18 US23_N US224
 OH OH41 US52_E US52_W
 OH OH44 I-90(200) US6_E
 OH OH46 MahAve I-80(223)
 OH OH49 I-70(26) I-70(24)
+OH OH53 OH2(115) OH2(124)
+OH OH100TrkSTi OH100_S OH53_S
 OH OH199 OH18_E US6_W
+OH OH231TrkTif OH231_S OH53_S
+OH OH269 OH2_E OH2_W
 OH OH283 I-90(176) I-90(179)
 OH OH528 I-90(212) OH84_W
 OH OH743 US52_W US52_E
@@ -2113,53 +2133,76 @@ OH OH743 US52_W US52_E
 # Oklahoma (OK)
 # ---------------------
 OK IndNatTpk 63 104                 # Indian Nation Turnpike
+OK OK3 I-44(123B) I-40(166)
+OK OK3Ada US69_N US69/75
+OK OK3Ada US70_E US259_S
+OK OK9 I-35(106) I-35(108A)
+OK OK9 OK112_S OK/AR
 OK OK20 AR43_S OK/AR
+OK OK34 I-40(32) I-40(41)
+OK OK37 I-44(108) I-44(110)
+OK OK43 US69_N US69_S
+OK OK53 I-35(42) I-35(40)
+OK OK66 I-44(123B) I-35(141)
+OK OK66 I-44(221) I-44(241)
 OK OK112 US59/271 US271_N
 
 # Oregon (OR)
 # ---------------------
 OR US30BypPor I-5(305) I-205
 OR OR99E KilSt I-5(307)
-OR OR213 ColBlvd AirWay
 OR OR212 OR224_W US26
+OR OR213 ColBlvd AirWay
 OR OR224 I-205 OR212_E
 
 # Pennsylvania (PA)
 # ---------------------
-PA NY17SWa NY/PA PA/NY
+PA PA26 US322Bus I-80
 PA PA28TrkBro I-80(78) PA28_N
-PA PA26 US322BusAth I-80
 PA PA44 US220_N US220_S
 PA PA45 US322BusSta_W US322BusSta_E
 PA PA51 IndSt I-70
 PA PA51 US19Trk_S I-376(69B)
 PA PA56 PA66_S PA210
-PA PA56 US422_W PA286
+PA PA56 US422_W US119/422
+PA PA65TrkMcK I-79(65) PA65_N
 PA PA66 US119 PA56_E
 PA PA66 I-80(64) I-80(60)
+PA PA74 US15_S US15_N
+PA PA116 US15Bus_S US30_E
 PA PA144TrkPot PA144_N US322BusSta_E
 PA PA156 PA56_W PA210
+PA PA160TrkWil US219/22 US22_E
 PA PA210 PA56/156 US422
 PA PA271 US422_E US422_W
 PA PA283 EisDr AirCon
 PA PA286TrkInd PA286_W US119/422
 PA PA309 I-81(165) I-81(170)
 PA PA350 I-99 PA550/45Trk
+PA PA420AltTrkPro PA420_S I-95(8)
+PA PA519TrkHou PA519_S I-79(54)
 PA PA581 1 6
+PA PA715TrkNTa I-80(299A) I-80(298)
+PA PA715TrkSTa PA715_S I-80(302)
+PA PA867TrkRoa I-99(7) I-99(23)
+PA PA915 US30_W US30_E
+PA PA997 US30_W US30_E
 
 # Rhode Island (RI)
 # ---------------------
 RI RI1APro EddySt_N I-195(7)
-RI US6AltJoh RI5 RI128
+RI RI2 RI117 I-295
 RI US44 CT/RI RI/MA
 RI RI2 RI117 I-295
-RI RI4 US1 8
+RI RI4 US1 I-95
 RI RI10 RI12 I-95(22)
 RI RI12 US1 RI10
 RI RI37 NatAve US1
+RI RI102 US44_E US44_W
 RI RI103 RI114_BarS RI/MA
 RI RI113 RI2 US1
 RI RI114 RI138_W RI103_BarE
+RI RI116 US44_W US44_E
 RI RI117 RI2 PostRd
 RI RI138 US1_N RI114_N
 
@@ -2170,6 +2213,7 @@ SC SC703 US17 I-526BS
 
 # South Dakota
 # ---------------------
+SD SD11 SD42_W SD42_E
 SD SD19 NE/SD SD50
 SD SD34 I-90(23) I-90(30)
 SD SD37 I-90(332) I-90(330)
@@ -2188,20 +2232,38 @@ SD SD244 US16/385 US16Alt
 
 # Tennessee (TN)
 # ---------------------
-TN TN385 I-240 US51
-TN TN396 US31 I-65
 TN SamCooBlvd US64/70 10         # -- Sam Cooper Blvd
 TN TN1 US51/14 US64/70
+TN TN3 US64/70 TN14_N
 TN TN14 US64/70 I-40(1F)
+TN TN19 US51_N US51_S
+TN TN21 US51_S US51_N
+TN TN22 US45W/51 US51/5
+TN TN33 US441_S I-40/275
+TN TN56 I-40(273) I-40(280)
 TN TN57 US64/70 US72_E
+TN TN58 I-40(352) I-40(356)
+TN TN58 I-40(352) I-40(356)
+TN TN63 I-75(141) I-75(134)
 TN TN162 I-140(1C) CusRd
+TN TN175 US61_S US61_N
 TN TN176 KniArnRd I-240
+TN TN177 US72/57_W US72/57_E
+TN TN247 US31_S US31_N
+TN TN299 I-40(338) I-40(340)
+TN TN385 I-240 US51
+TN TN396 US31 I-65
 
 # Texas (TX)
 # ---------------------
+TX TX16 I-410(49) I-410(53)
+TX TX17 I-10(209) I-10(212)
 TX TX49 FM727 TX/LA
+TX TX79 US281_S US82_E
+TX TX130 53(410) 581(10)
 TX TX121 I-635 TX26/2499
 TX TX183 I-820(22) I-35E
+TX TX359 I-35 US83_S
 TX TXLp20 ManHeinRd RivDr
 TX TXLp151 US59/93 TX/AR
 TX TXLp289 I-27(1A)_W US62/82_W
@@ -2221,10 +2283,13 @@ UT ZionCynDr UT9 End             # Zion NP - Zion Canyon Scenic Drive
 
 # Vermont (VT)
 # ---------------------
+VT VT9TrkBra VT9_W I-91(3)
 VT VT62 I-89 BerSH
 
 # Virginia (VA)
 # ---------------------
+VA VA33 I-64(205) I-64(220)
+VA VA134 I-64(263) I-64(262)
 VA VA168 NC/VA 15A
 
 # Washington (WA)
@@ -2236,11 +2301,12 @@ WA WA18 I-5 WA167
 WA WA99 WA599 AurAve
 WA WA104 US101 WA3
 WA WA167 WA18 GraWay
+WA WA240 I-182(4) I-182(5)
 WA WA504 I-5 JohRid
 WA WA504SprKid WA504 End
 WA WA599 I-5 WA99
-WA HurRidRd ParkAve End
-
+WA WA900 I-405(4B) I-405(5)
+WA HurRidRd ParkAve End          # Olympic NP - Hurricane Ridge Rd
 # West Virginia (WV)
 # ---------------------
 # --- No routes have been accessed in WV
@@ -2411,8 +2477,8 @@ WI WI191 WI23 WI39
 WI WI193 WI60 WI80
 WI WI213 IL/WI US14
 WI WI312 I-94 US53
-WI WI241 I-94 WI24       # Old Jct
-WI WI241 7MileRd WI24    # point of only Trailblazer in Racine Co.
+WI WI241 I-94 WI24                     # Old Jct
+WI WI241 7MileRd WI24                  # point of only Trailblazer in Racine Co.
 WI WI241 I-41/94 WI24
 WI WI243 MN/WI WI35
 WI WI253 US53 US63
@@ -2425,15 +2491,20 @@ WI MN23 MN/WI WI/MN
 # Wyoming (WY)
 # ---------------------
 WY WY24 US14 WY110
+WY WY50 I-90 US14/16
+WY WY59 US14/16_E I-90BL_W
 WY WY110 WY24 DevTowNM
+WY WY116 US16_E US16_W
+WY WY120 US14/16_E US14/14Alt
+WY WY789 US20/26_E US14/16_W
 WY DevTowRd WY110 VisCen               # -- Devil's Tower NP - Park Road
-WY TetParkRd US26/89 US89/191          # -- Grand Teton NP Park Road
+WY TetParkRd US26/89 US89/191          # -- Grand Teton NP - Park Road
 WY RocMemPkwy GraTetNP YelNP           # -- John D Rockefeller Mem Parkway
-WY NEEntRd GraLoopRd WY/MT             # -- Yellowstone NP East Entrance to Tower Jct
-WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road to Mammoth Springs
+WY NEEntRd GraLoopRd WY/MT             # -- Yellowstone NP Northeast Entrance to Tower Jct (WY Only)
+WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road to Mammoth Springs (WY Only)
 WY SEntRd US89/191 GraLoopRd           # -- Yellowstone NP South Entrance Road to Yellowstone Lake
 WY EEntRd GraLoopRd US14/16            # -- Yellowstone NP East Entrance Rd to Fishing Bridge
-WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct
+WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct (WY Only)
 WY GraLpRd NEntRd_W NEntRd_E           # -- Yellowstone NP Grand Loop Road
 WY NorCynRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
