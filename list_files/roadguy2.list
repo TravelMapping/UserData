@@ -9,14 +9,21 @@ AL I-22 MS/AL I-65
 #AL I-59 (I-20 concurrency)
 AL I-59 130 AL/GA
 AL I-65 265A 261
+AL I-65 340 AL/TN
 AL I-85 51 AL/GA
 AL I-459 I-20/59 33
+AL I-565 1 21
 AL I-759 I-59 4
 
+AL US11 US278/431_W US278/431_E
 AL US11 AL117_S AL117_N
 #AL US29 part of I-85 concurrency
+#AL US31 US280 concurrency
+#AL US31 I-65 concurrency
 AL US43 I-22 CR35Ham
 #- actually S to Shell parking lot
+#AL US72 US231 concurrency
+AL US72 US231/431_N I-565(21)
 #AL US78 (I-22, 20 concurrency)
 AL US80 AL169_N AL169_S
 #AL US80 US280/431 concurrency
@@ -24,7 +31,10 @@ AL US80 US280/431_N AL/GA
 #AL US82 US431 concurrency
 #AL US84 US431 concurrency
 AL US231 FL/AL US431
-AL US278 US411 AL291
+AL US231 US278 US72_E
+AL US278 US231 US11_S
+#AL US278 US11 concurrency
+AL US278 US11_N AL/GA
 AL US280 I-20/59 I-85(58)
 #AL US280 I-85 concurrency
 AL US280 US80_E US431_S
@@ -33,12 +43,14 @@ AL US431 US231 US280_E
 #AL US431 US280/80 concurrency
 #AL US431 I-20 concurrency
 #AL US431 US278 concurrency
+#AL US431 part of US231 concurrency
 
 AL US431BusDot US231/431 US84/431
 
 AL AL22 CR75 AL/GA
 #actually barely past GA border but need to count it
 AL AL51 AL169 I-85
+AL AL53 TN110 I-65
 AL AL71 AL73 AL/GA
 AL AL73 AL/TN AL71
 AL AL75 I-59 US11
@@ -283,6 +295,7 @@ GA US27 GA39Con US280_E
 #GA US27 US280 concurrency
 GA US27 GA219_S US29_N
 #GA US27 US29_N MootyBridgeRd
+GA US27 US278_W US278_E
 GA US27 GA140 GA48
 GA US27 GA337 GA136_W
 #GA US29 (US27 concurrency)
@@ -317,7 +330,9 @@ GA US129 US80_E GA11_N
 GA US129 I-985(24) US129BusGai_N
 #only to Textile Dr, but close enough
 #GA US129 (US 441, US 19 concurrencies)
-GA US278 GA6Spr US78_W
+GA US278 AL/GA US27_S
+#GA US278 US27 concurrency
+GA US278 US27_N US78_W
 #GA US278 (US 78 concurrency)
 GA US278 US23/78 I-20(75)
 #GA US278 I-20 concurrency
@@ -1055,28 +1070,44 @@ SD SD115 MinAve_N BenRd_E
 
 #tennessee
 
+TN I-24 48 50
 TN I-24 158 TN/GA
 TN I-24Cha GA/TN 185
 TN I-40 1 1D
+TN I-40 209B 211
 TN I-55 TN/AR MS/TN
+TN I-65 AL/TN 80
+#TN I-65 part of I-40 concurrency
 TN I-75 GA/TN 2
 TN I-124 I-24 TenRiv
+TN I-440 1A 5
 
 #TN US11 (US 64 concurrencies)
 #TN US27 (I-24 and 124 concurrency)
 TN US27 I-124(TenRiv) US127
+#TN US31 I-65 concurrency
+#TN US31 parts of US41 concurrency
+#TN US31W part of US41 concurrency
 #TN US41 (US 76 Main St and Ringgold Rd concurrencies)
 #TN US41 (US 64 concurrency in and W of Chattanooga)
+TN US41 DemonbreunSt US70/431
+TN US41 3rdAve MainSt
 TN US51 I-40 US64/70_W
 #TN US61 (I-55 concurrency)
 #TN US64 (I-55 concurrency)
 #TN US64 CarolinaSt GeorgiaSt (Memphis)
+TN US64 I-65(14) McBRd_W
+#only to gas station, but close enough
 TN US64 TN27 TN134/156
 TN US64 BroFerRd US41/76_S
 TN US64 US41/76_N GerRd
 TN US64 US411 OceWhiCen
 #TN US70 (I-55 concurrency)
 #TN US70 (US 64 concurrency Memphis)
+TN US70 US431/70S 1stAve
+#TN US70 1stAve JohnSeigPedBr
+TN US70S TN100 US431_S
+#TN US70S US431 concurrency
 #TN US72 (US 64 concurrencies in and W of Chattanooga) 
 #TN US74 (US 64 concurrency)
 #TN US76 12thSt US41_N
@@ -1088,12 +1119,20 @@ TN US127 US76 US27
 TN US127 US27 MouCrkRd
 TN US411 GA/TN TN30_E
 #actually Spring Creek Road, north of TN30
+TN US431 US70S_W US70_NasW
+#TN US431 US70 concurrency
+#TN US431 part of US 41 concurrency
 
+TN TN7Ard AL/TN I-65
 TN TN8Cha US41/72 US76
 TN TN27 I-24 US41/64
+TN TN100 TN254 US70S
+TN TN110 AL/TN LincolnCo
 TN TN134 US41/64 TN156_W
 TN TN148 GA/TN US11/41
 TN TN156 TN377 TN134_E
+TN TN254 TN100 VauRd
+#TN TN254 VauRd ChickeringRd
 TN TN377 TN156 AL/TN
 
 #texas
