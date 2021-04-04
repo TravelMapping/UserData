@@ -1070,10 +1070,11 @@ SD SD115 MinAve_N BenRd_E
 
 #tennessee
 
+TN I-24 48 50
 TN I-24 158 TN/GA
 TN I-24Cha GA/TN 185
 TN I-40 1 1D
-TN I-40 209B 209C
+TN I-40 209B 211
 TN I-55 TN/AR MS/TN
 TN I-65 AL/TN 80
 #TN I-65 part of I-40 concurrency
@@ -1085,10 +1086,12 @@ TN I-440 1A 5
 #TN US27 (I-24 and 124 concurrency)
 TN US27 I-124(TenRiv) US127
 #TN US31 I-65 concurrency
-TN US31 US41/31Alt US70/431
-#actually only to Demonbreun St
+#TN US31 parts of US41 concurrency
+#TN US31W part of US41 concurrency
 #TN US41 (US 76 Main St and Ringgold Rd concurrencies)
 #TN US41 (US 64 concurrency in and W of Chattanooga)
+TN US41 DemonbreunSt US70/431
+TN US41 3rdAve MainSt
 TN US51 I-40 US64/70_W
 #TN US61 (I-55 concurrency)
 #TN US64 (I-55 concurrency)
@@ -1118,6 +1121,7 @@ TN US411 GA/TN TN30_E
 #actually Spring Creek Road, north of TN30
 TN US431 US70S_W US70_NasW
 #TN US431 US70 concurrency
+#TN US431 part of US 41 concurrency
 
 TN TN7Ard AL/TN I-65
 TN TN8Cha US41/72 US76
