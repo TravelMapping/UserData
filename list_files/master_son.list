@@ -7,7 +7,7 @@ CA I-5 MEX/USA CA I-5 554
 OR I-5 288 WA I-5 WA/Can
 CA I-105 1A 18
 CA I-205 0 I-5
-CA I-305 1A 7C
+CA I-305 1A 6
 CA I-405 1A I-5
 CA I-505 1A I-5
 CA I-605 CA22 HunDr
@@ -194,6 +194,7 @@ IL I-355 I-80 I-290
 MO I-155 1 TN I-155 15
 MO I-255 1A IL I-255 31
 IL I-55BLSpr I-55_S I-55_N
+IL I-55BLLin I-55_S I-55_N
 IL I-55BLBlo I-55_S I-55_N
 MO I-55BLCap MO34/74 I-55(99)
 # I-57
@@ -202,14 +203,18 @@ MO I-57 1 IL I-57 359
 AL I-459 15 17
 # I-64
 MO I-64 1 IN I-64 29
+IN I-64 105 KY I-64 6
 KY I-64 75 KY I-64 81
 WV I-64 6 WV I-64 121
 VA I-64 200 VA I-64 291
+KY I-264 8 23
 VA I-564 0 999
 # I-65
 AL I-65 I-10 IN I-65 262
 AL I-165 1 US90
 AL I-565 1 21
+IN I-265 0 7
+KY I-265 10 35
 IN I-465 I-65 53
 IN I-865 I-65 I-465
 # I-66 not driven
@@ -229,8 +234,7 @@ TN I-69FutUni US45W_S TN/KY
 TN I-269FutMem 19 US51
 MI I-69BLLan I-69_W I-96BL
 # I-70
-UT I-70 0 IL I-70 21
-IN I-70 73 MD I-70 1A
+UT I-70 0 MD I-70 1A
 CO I-270 0 I-70
 MO I-270 1 IL I-270 15
 KS I-470 1A 183(KT)
@@ -664,6 +668,7 @@ AL US31 I-65(205) AL US31 AL22/145
 AL US31 I-65(284) AL US31 I-65(287)
 AL US31 ALT72_W AL US31 ALT72_E
 AL US31 US72 TN US31 I-65(1)
+KY US31W KY841/1934 I-264
 TN US31 TN396 TN US31 TN247_E
 IN US31 BroStaWay IN US31 I-65(4)
 IN US31 2(465) IN US31 123
@@ -690,7 +695,7 @@ CO US36 I-270(0) CO US36 I-70(316)
 MO US36 I-229 MO US36 US169
 MO US36 US69/36Bus MO US36 I-35
 MO US36 US61 IL US36 I-72(133)
-IN US36 I-465(13) IN US36 I-465(42)
+IN US36 RonReaPkwy IN US36 I-465(42)
 # US 40
 CO US40 3rdSt CO US40 I-70(259)
 CO US40 I-70(288) CO US40 I-70(359)
@@ -1216,9 +1221,7 @@ MD US301 MD544 MD US301 MD313
 VT US302 US2 VT US302 BerSH
 # US 310
 MT US310 US212_W MT US310 I-90
-# US 311
-NC US311 I-40(196) NC US311 I-40(193A)
-NC US311 US52(109) NC US311 US52(110B)
+# US 311 not driven
 # US 319 not driven
 # US 321
 TN US321 US441_S TN US321 US441_N
@@ -1364,7 +1367,6 @@ CA CA4 69 CA99(252B)
 CA CA12 I-80(39B) I-80(43)
 CA CA12 CA113 CA160
 CA CA14 I-5 49
-CA CA14TrkNew I-5_N I-5_S
 CA CA14U SieHwy_S FriValPkwy
 CA CA15 1A 6B
 CA CA17 1A 22
@@ -1581,6 +1583,7 @@ IL IL31 I-88 IL56_E
 IL IL35 US20 IL/WI
 IL IL37 ShawColRd IL169
 IL IL38 IL251_S IL251_N
+IL IL40 I-88 IL78
 IL IL43 US12/20 US14/58
 IL IL43 IL176 US41
 IL IL47 US6_W US6_E
@@ -1660,6 +1663,7 @@ IL IL394 SaukTr I-80/94
 
 # Indiana (IN)
 # ---------------------
+IN SamJonExpy I-74/465 I-70
 IN IN2 US41_S US41_N
 IN IN9TrkShe I-74_E IN9_N
 IN IN13 US20 I-80/90
@@ -1676,6 +1680,7 @@ IN IN57 I-69(18) I-69(21)
 IN IN67 I-465(8) I-465(42)
 IN IN152 I-80/94 US20
 IN IN249 US20 US12
+IN IN265 7 IN/KY
 IN IN312 WhiOakAve US12
 IN IN331 US20_W US20_E
 IN IN912 I-90 US6Bus
@@ -1747,6 +1752,7 @@ KS KS31 I-35(160) I-35(162)
 KS KS96 I-235(13) US54/400
 
 # Kentucky (KY)
+# usaky, usakyp
 # ---------------------
 KY PurPkwy TN/KY 21              # -- Purchase Parkway
 KY PenPkwy 1 34                  # -- Pennyrille Parkway
@@ -1761,13 +1767,15 @@ KY KY303 KY121Bus KY80
 KY KY339 PurPkwy US45_N
 KY KY453 KenLakeDr I-24
 KY KY780 US51_N US51_S
+KY KY841 1 KY/IN
 KY KY924 US51_N US51_S
+KY KY1865 KY841 KY907
 KY KY1954 I-24 US60/62
 KY WooTra US68 KY453             # -- Woodlands Trace - Land between the Lakes NRA
 
 # Louisiana (LA)
 # ---------------------
-LA LakePonCswy I-10 I-12         # -- Lake Pontchartrain Causeway
+LA LakePonCswy EspAve US190/22   # -- Lake Pontchartrain Causeway
 LA LA1 LA3032 LA/TX
 LA LA2 TX/LA ParSt_N
 LA LA2 US71_S US71_N
@@ -1964,9 +1972,9 @@ MT MT135 I-90 MT200
 MT MT200 ID/MT I-90(101)
 MT MT200 I-15(290) US191_S
 MT GoiSunRd US2 LakeMcDon        # Glacier NP - Going-to-the-Sun Road
-MT NEntRd WY/MT US89             # Yellowstone NP - North Entrance Road to Gardiner
-MT NEEntRd WY/MT US212           # Yellowstone NP - Northeast Entrance Road to Cooke City
-MT WEntRd US20/191 MT/WY         # Yellowstone NP - West Entrance Road to West Yellowstone
+MT NEntRd WY/MT US89             # Yellowstone NP - North Entrance Road to Gardiner (MT Only)
+MT NEEntRd WY/MT US212           # Yellowstone NP - Northeast Entrance Road to Cooke City (MT Only)
+MT WEntRd US20/191 MT/WY         # Yellowstone NP - West Entrance Road to West Yellowstone (MT Only)
 MT SR471 ID/MT MT200
 
 # Nebraska (NE)
@@ -2017,7 +2025,7 @@ NH NH141 I-93 US3
 # ---------------------
 NJ GarStaPkwy NJ109 NJ/NY        # -- Garden State Parkway
 NJ NJTpk I-295(1) 72(95)         # -- New Jersey Turnpike
-NJ PalIntPkwy I-95 NJ/NY         # -- Palisades Interstate Parkway
+NJ PalIntPkwy I-95 NJ/NY         # -- Palisades Interstate Parkway (NJ Portion)
 NJ NJ3 GarStaPkwy NJ120
 NJ NJ7 CR508 US1/9Trk
 NJ NJ17 I-287(66) NJ/NY
@@ -2049,17 +2057,17 @@ NM NM597 US160 FourCorNM
 NM NM494 BanMineRd I-10BL
 NM DunDr US70 LoopDr             # -- White Sands NM - Dunes Drive
 
-# New York
+# New York - usany, usanyp
 # ---------------------
 NY BeltPkwy I-278 25             # -- Belt Parkway (NYC)
 NY CroIslPkwy 25A 36             # -- Cross Island Parkway
 NY FDRooDr I-478 17              # -- FDR Drive (NYC)
-NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jerse)
+NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
 NY HenHudPkwy 8 24               # -- Henry Hudson Parkway
 NY HutRivPkwy 1 3                # -- Hutchinson River Parkway
 NY NorStaPkwy Que/Nas 36         # -- Northern State Parkway (LI)
-NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway
+NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway (NY portion)
 NY SouStaPkwy CroIslExp 44       # -- Southern State Parkway (LI)
 NY HarRivDr 17 24                # -- Harlem River Drive (NY)
 NY HenHudPkwy 8 15
@@ -2478,8 +2486,8 @@ WI WI191 WI23 WI39
 WI WI193 WI60 WI80
 WI WI213 IL/WI US14
 WI WI312 I-94 US53
-WI WI241 I-94 WI24       # Old Jct
-WI WI241 7MileRd WI24    # point of only Trailblazer in Racine Co.
+WI WI241 I-94 WI24                     # Old Jct
+WI WI241 7MileRd WI24                  # point of only Trailblazer in Racine Co.
 WI WI241 I-41/94 WI24
 WI WI243 MN/WI WI35
 WI WI253 US53 US63
@@ -2499,13 +2507,13 @@ WY WY116 US16_E US16_W
 WY WY120 US14/16_E US14/14Alt
 WY WY789 US20/26_E US14/16_W
 WY DevTowRd WY110 VisCen               # -- Devil's Tower NP - Park Road
-WY TetParkRd US26/89 US89/191          # -- Grand Teton NP Park Road
+WY TetParkRd US26/89 US89/191          # -- Grand Teton NP - Park Road
 WY RocMemPkwy GraTetNP YelNP           # -- John D Rockefeller Mem Parkway
-WY NEEntRd GraLoopRd WY/MT             # -- Yellowstone NP East Entrance to Tower Jct
-WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road to Mammoth Springs
+WY NEEntRd GraLoopRd WY/MT             # -- Yellowstone NP Northeast Entrance to Tower Jct (WY Only)
+WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road to Mammoth Springs (WY Only)
 WY SEntRd US89/191 GraLoopRd           # -- Yellowstone NP South Entrance Road to Yellowstone Lake
 WY EEntRd GraLoopRd US14/16            # -- Yellowstone NP East Entrance Rd to Fishing Bridge
-WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct
+WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct (WY Only)
 WY GraLpRd NEntRd_W NEntRd_E           # -- Yellowstone NP Grand Loop Road
 WY NorCynRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
