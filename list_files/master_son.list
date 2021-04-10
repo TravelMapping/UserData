@@ -364,7 +364,7 @@ VT I-89 I-91 VT I-89 7
 WA I-90 WA519 MA I-90 MA1A
 IL I-190 0 999
 IL I-290 0 30
-MA I-190 I-290 MA2
+MA I-190 I-290 19
 MA I-290 7 26                    # TODO: old exit number set (MassDOT exit renumber)
 MA I-290 12 32                   # NOTE: new exit number set - intentional break ahead of renumber
 OH I-490 1A 55thSt
