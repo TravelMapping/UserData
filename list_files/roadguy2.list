@@ -358,9 +358,14 @@ GA US29BusWin US29_S GA324
 GA US441BusCla US23/441 GA17/115_N
 
 #GA GA4 US25BusAug concurrency
-GA GA5 I-20 RoseAve_S
-#actual Concourse Pkwy-Arbor Crossing, but close enough
-#GA GA5 concurrencies with GA280, GA120, GA120Alt
+#GA GA5 I-20 Concourse Parkway-Arbor Crossing
+#GA GA5 part of US78 concurrency
+GA GA5 US78/278 GA280_S
+#GA GA5 GA280 concurrency
+GA GA5 GA280_N GA120_E
+#GA GA5 GA120, GA120Alt, US41 concurrencies
+GA GA5 US41_N I-75(267)
+#GA GA5 I-75 and I-575 concurrencies
 GA GA5 GA5Bus/372 US76_W
 GA GA6 US78/278 I-85
 GA GA7 US41_N I-75(136)
@@ -425,10 +430,8 @@ GA GA85 GA139 I-75
 GA GA92 NewHopeRd US29_S
 #GA GA92 US29 concurrency
 GA GA92 US29_N GA70/154_E
-GA GA92 I-575 MainSt_Woo
-#GA GA92 MainSt_Woo HamesRd
-GA GA92 GA9/120 CraRd
-#GA GA92 CraRd WestwindBlvd
+#GA GA92 US41 concurrency
+GA GA92 I-75 GA9/120
 #GA GA101 concurrency with GA 61
 GA GA104 I-20 US25Bus
 GA GA105 US23/441 GA17
@@ -455,8 +458,7 @@ GA GA140 US27 I-75
 GA GA140 GA5Con GA5Bus_N
 GA GA140 GA372 GA9/120
 #GA GA140 GA9 concurrency
-GA GA140 GA9/92 US19/400
-#GA GA140 HolcombBridgeRd GA141
+GA GA140 GA9/92 GA141
 GA GA140 GA141 I-85
 GA GA141 US19 GA20
 #GA GA151 (GA 136 concurrency)
@@ -511,8 +513,9 @@ GA GA520 US17_N RivDr
 
 GA GA3ConMar US41 GA120
 GA GA3ConDal I-75 US41
-GA GA5ConKen I-75 US41
-#actually only to Roberts Blvd, but close enough
+GA GA5SprMar I-75 CanRd
+#GA GA5ConKen RobertsBlvd I-75
+GA GA5ConKen I-75 I-575
 GA GA5BusCan GA5Con GA5_N
 GA GA5ConCan GA140 GA5Bus
 GA GA5BusBal GA5_S GA372_S

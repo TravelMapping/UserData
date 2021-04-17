@@ -27,6 +27,7 @@ CA I-10 1 131
 
 #California I-15
 CA I-15 19 109
+CA I-15 179 246
 
 #California I-80
 CA I-80 1A CA/NV
@@ -258,6 +259,9 @@ CA US101 WilCrkRd CA60
 #California US-101 Bus Salinas Section
 CA US101BusSal US101/183 US101_S
 
+#California US-101 Bus Paso Robles Section
+CA US101BusPas CRG14 US101_S
+
 #DC US-1
 DC US1 US50_W VA/DC
 
@@ -266,6 +270,7 @@ DC US50 VA/DC ConAve
 
 #California US-395 South Section
 CA US395 CA108 CA168_W
+CA US395 GarRd SeaStaRd
 
 #(California State Highways)
 
@@ -309,6 +314,8 @@ CA CA12 CA88_W CA88_E
 
 #CA-13: 
 CA CA13 ClaAve 1A
+
+#CA-14: CA58 RedRanRd
 
 #CA-16 Sierra Foothills Section:
 CA CA16Wil CA124 CA49
@@ -375,6 +382,7 @@ CA CA56 1A 9
 
 #CA-58:
 CA CA58 US101 ElCamReal
+CA CA58 CA99(24) I-15
 
 #CA-59:
 CA CA59 CA99(187B) CA99(188)
@@ -453,7 +461,9 @@ CA CA92 CA1 End
 #CA-99:
 CA CA99 CA20 CA113
 CA CA99 319 6(50)
-CA CA99 242 87
+CA CA99 254A 255
+CA CA99 242 21
+
 CA CA99 3 I-5(221)
 
 #CA-108:
@@ -487,6 +497,9 @@ CA CA123 UniAve I-580
 
 #CA-124:
 CA CA124 CA88 CA16
+
+#CA-127:
+CA CA127 CA178_W I-15
 
 #CA-128:
 CA CA128 CA1 GeyAve_S
@@ -565,14 +578,23 @@ CA CA169 US101 KlaMillRd
 #CA-175:
 CA CA175 CA29/29Bus CA29_S
 
+#CA-178 Sierra Section:
+CA CA178 TroRd PinRd
+
+#CA-178 Shoshone Section:
+CA CA178Sho DeaValNP CA127_S
+
 #CA-180 Fresno Section:
 CA CA180 BelAve KinCanNP
 
 #CA-183:
 CA CA183 CA1 US101Bus_S
 
-#CA-190:
+#CA-190 Central Valley Section:
 CA CA190 CA65 QuaAspCamp
+
+#CA-190 Death Valley Section:
+CA CA190Dea SalValRd BadRd
 
 #CA-192:
 CA CA192 HotSprRd CA154
@@ -613,6 +635,9 @@ CA CA237 CA82 9B
 #CA-242:
 CA CA242 I-680 3B
 
+#CA-246:
+CA CA246 AveFla CA154
+
 #CA-254:
 CA CA254 US101(674) US101(645)
 
@@ -629,10 +654,22 @@ CA CA273 CypAve I-5(681B)
 CA CA299 2 AdaRd
 
 
+#(Nevada State Highways)
+
+#NV-374:
+NV NV374 DeaValNP US95
+
+
 #(California Federal Roads)
+
+#Badwater Rd, Death Valley NP
+CA BadRd CA190 CA178
 
 #Big Oak Flat Rd, Yosemite NP
 CA BigOakRd CA120 ElPorRd
+
+#Daylight Pass Rd, Death Valley NP
+CA DayPassRd NorHwy CA/NV
 
 #El Portal Rd, Yosemite NP
 CA ElPorRd CA140 ElCapDr_N
@@ -646,8 +683,17 @@ CA LasPeakHwy CA89_S CA44/89
 #Minaret Summit Rd, Inyo NF
 CA MinSumRd CA203 RedsMeaRes
 
+#Scotty’s Castle Rd, Death Valley NP
+CA ScoCasRd CA190 UbeCraRd
+
 #Tioga Pass Rd, Yosemite NP
 CA TioPassRd BigOakRd CA120
+
+
+#(Nevada Federal Roads)
+
+#Daylight Pass Rd, Death Valley NP
+NV DayPassRd CA/NV NV374
 
 
 #[Botswana]
