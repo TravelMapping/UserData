@@ -116,6 +116,7 @@ CA BadRd Bad CA190
 CA LosPatPkwy CowCampRd OsoPkwy
 CA ScoCasRd CA190 ScoCas
 CA GenHwy CA198 LodRd
+CA ParkBlvd CA62_W CA62_E
 
 #CA_StateHighways
 
@@ -276,6 +277,8 @@ CA CA198 105B SeqNP
 CA CA18 CA138_W I-15(150)
 CA CA2 BigPinHwy CA138
 CA CA173 CA138 PacCreTr
+CA CA111Pal CA111Bus_N CA111Bus_S
+CA CA62 I-10 UtahTr
 
 #CA_USHighways
 
