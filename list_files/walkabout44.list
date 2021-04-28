@@ -218,7 +218,7 @@ CA I-210 1A 45                 # 45 vs 49
 CA I-215 I-15 54B              # 55
 CA I-238 14 17                 #  2
 CA I-280 I-680/101 5thSt       # 57
-CA I-305 1A 7C                 #  7 vs 6
+CA I-305 1A 6                  #  7 vs 6
 CA I-380 5A 7                  #  2 vs 3
 CA I-405 I-5(94A) I-5(158)     # 73 vs 72
 CA I-505 1A I-5                # 34 vs 33
