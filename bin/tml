@@ -1,0 +1,38 @@
+#!/bin/csh
+#
+# Script to move one or more TM list files to the list_files directory,
+# correcting for any common problems with file extensions.
+#
+if ( $#argv < 1 ) then
+  echo "Usage: $0 listfilenames"
+  exit 0
+endif
+
+set listdir=~/travelmapping/UserData/list_files
+
+# loop over all command line parameters
+foreach arg ( $* )
+  if ( -f ${arg} ) then
+    # try for common file extension formats and fix as needed
+    set username=`echo ${arg} | cut -d'.' -f1`
+    if ( ${arg} == ${username}.list ) then
+      set destfilename=${arg}
+    else if ( ${arg} == ${username}.list.txt ) then
+      set destfilename=${username}.list
+    else if ( ${arg} == ${username}.txt ) then
+      set destfilename=${username}.list
+    else 
+      echo "Unexpected extension on ${arg}, aborting!"
+      exit 1
+    endif
+
+    echo "Moving ${arg} as ${destfilename}"
+    chmod 644 ${arg}
+    if ( ! -f ${listdir}/${destfilename} ) then
+      echo "NOTE: this appears to be a new user list file."
+    endif
+    mv ${arg} ${listdir}/${destfilename}
+  else
+    echo "ERROR: no file ${arg}, ignoring"
+  endif
+end
