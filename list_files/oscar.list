@@ -30,6 +30,9 @@ CA I-15 6B CA/NV
 CA I-40 I-15 CA/AZ
 CA I-80 1A CA/NV
 CA I-105 1A 18
+CA I-105 18 StuRd
+# may be state-maintained HOV-restricted lanes, not
+# truly part of I-105, the PQT notwithstanding
 CA I-205 I-580 I-5
 CA I-405 I-5(94A) I-5(158)
 CA I-505 1A I-5
@@ -37,7 +40,7 @@ CA I-605 CA22 HunDr
 CA I-805 I-5(1A) I-5(31)
 CA I-110 GafSt 21
 CA I-210 1A 45
-CA I-710 1A ValBlvd
+CA I-710 1 ValBlvd
 CA I-215 I-15 54B
 CA I-238 14 17
 CA I-280 I-680/101 5thSt
@@ -45,6 +48,8 @@ CA I-380 5A 7
 CA I-580 1A I-5
 CA I-680 I-280/101 I-80
 CA I-780 1A 7
+CA I-780 LemSt 7
+# consider west end extension to end of freeway at Lemon Street
 CA I-880 I-280 46B
 CA I-980 I-880 2B
 CA I-5TrkNew I-5_S I-5_N
@@ -2556,6 +2561,7 @@ MB TCHMin MB16_W MB16_E
 MB TCHWin 1 42
 AZ SkyHarBlvd I-10 AZ202
 CA WesPkwy StoHwy TruAve
+CA LosPatPkwy CowCampRd OsoPkwy
 CO E470 I-25 46
 CO PenaBlvd I-70 Ter
 CO NWPkwy 47 96St
@@ -5097,7 +5103,8 @@ AZ AZ202 1A 78
 AZ AZ210 BroBlvd GolfLinRd
 AZ AZ260 I-17 US180/191
 AZ AZ303 LilSt I-10
-AZ AZ303 CanTraBlvd
+AZ AZ303 CanTraBlvd I-10
+AZ AZ303 103 I-10
 AZ AZ303 I-10 I-17
 AZ AZ366 End US191
 NT NT1 AB/NT TulWinRd
