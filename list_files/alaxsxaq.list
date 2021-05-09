@@ -13,7 +13,7 @@ MT I-15BLGre US87Byp_N RivDr
 MT US87BypWGr I-15BL_S WireMillRd
 MT US87BypGre US87_N GiaSprRd
 MT US89 SheCreRd US2_W #~whitebark pine thing to browning
-MT US87 US89/3 SR225 #extend to morony dam road
+MT US87 US89/3 MorDamRd
 MT US12 I-15 BroSt #helena to missoula
 MT MT200 I-90(99) US89_N #missoula to vaughn
 MT SR431 I-15 7thRd_W #at least
@@ -66,6 +66,11 @@ AZ WalCanRd I-40 VisCen
 #patagonia
 AZ AZ83 I-10 AZ82 #I-10 to sonoita
 AZ AZ82 AZ83 I-19BL #sonoita to nogales
+#mt graham & morenci
+AZ US70 US60 US191_N
+AZ US191 US70_W AZ366 #safford to az366
+AZ US191 US70_E FR12 #us70 to north of morenci
+AZ AZ366 US191 End #us191 to shannon campground
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -114,8 +119,10 @@ AZ US160 US191_N US89
 #OK
 OK OK9 US62_E US77
 OK US77 MainSt_Nor MagRd
+OK US77 I-35(113) TecRd
 OK I-240 4A 1A
 OK I-44 115 116A
+OK US62 OK9_E I-44(115) #newcastle
 #dallas
 OK I-35 126 TX/OK
 TX I-35Gai TX/OK 467
