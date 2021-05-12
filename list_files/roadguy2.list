@@ -553,8 +553,7 @@ GA GA520 US17_N RivDr
 GA GA3ConMar US41 GA120
 GA GA3ConDal I-75 US41
 GA GA5SprMar I-75 CanRd
-#GA GA5ConKen RobertsBlvd I-75
-GA GA5ConKen I-75 I-575
+GA GA5ConKen US41 I-575
 GA GA5BusCan GA5Con GA5_N
 GA GA5ConCan GA140 GA5Bus
 GA GA5BusBal GA5_S GA372_S
@@ -1184,8 +1183,8 @@ TN US70 US431/70S 1stAve
 #TN US70 1stAve JohnSeigPedBr
 TN US70S TN100 US431_S
 #TN US70S US431 concurrency
-TN US72 CedAve I-24(152)
-#TN US72 (US 64 concurrencies in and W of Chattanooga) 
+TN US72Cha CedAve I-24(152)
+#TN US72Cha (US 64 concurrencies in and W of Chattanooga) 
 #TN US74 (US 64 concurrency)
 TN US76 US127 US41_N
 #TN US76 (US41 concurrency)
