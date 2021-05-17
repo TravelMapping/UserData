@@ -120,7 +120,10 @@ PA I-76 OH/PA 339
 PA I-76 344 345
 PA I-76 346C 347
 
+PA I-276 I-476 I-95
+
 PA I-476 I-95 1
+PA I-476 13 20
 
 PA I-676 I-76 I-95
 
@@ -128,7 +131,7 @@ PA I-676 I-76 I-95
 # I-78 #
 ########
 
-NJ I-278 US1/9 NJ/NY
+NJ I-278 1 NJ/NY
 NY I-278 NJ/NY 20
 
 ########
@@ -329,15 +332,15 @@ WY US26 US20/26Bus I-25(189)
 # US29 #
 ########
 DC US29 11thSt_N RhoIslAve_E
-
 VA US29 US250_E I-66(52)
-
 VA US29BusChr US250Bus US29_N
 
 ########
 # US30 #
 ########
 ID US30 ID74 ID50
+PA US30 US1 LanAve_E
+PA US30 RadCheRd I-476
 
 ########
 # US34 #
@@ -798,10 +801,14 @@ NV NV756 NV88 US395
 NJ NJ18 I-95 US1
 
 ###########################
+# New York State Highways #
+###########################
+NY NY25A MidRd SunMeaPkwy
+
+###########################
 # New York State Parkways #
 ###########################
-NY BeltPkwy 1 5
-NY BeltPkwy 6 25
+NY BeltPkwy 1 25
 
 NY SagStaPkwy S2 NorStaPkwy
 
