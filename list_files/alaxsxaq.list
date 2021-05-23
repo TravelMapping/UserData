@@ -117,7 +117,7 @@ WY NorCynRd GraLoopRd_W GraLoopRd_E
 #bryce canyon
 UT UT12 US89 UT63
 UT UT63 UT12 BryCanNP
-UT UT BryCynSceDr UT63 End
+UT BryCynSceDr UT63 End
 #moab
 UT US6 US89_S I-70(182)
 UT US191 I-70(182) AZ US191 US160_E
@@ -137,12 +137,16 @@ TX I-635 27B 8
 TX I-30 56B 39
 #CA (incomplete)
 CA US101 VanNessAve_N CA255_S #SF to eureka
-CA US395 CA14 CA120_W #ridgecrest to lee vining
+CA I-15 115 141
+CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
+CA CA41 YosNP 126A #yosemite to fresno
+CA CA99 131 97 #fresno to visalia
 #yosemite
 CA TioPassRd CA120 BigOakRd
 CA BigOakRd TioPassRd ElPorRd
-CA ElPorRd BigOakRd WawRd #which way did we exit
+CA ElPorRd BigOakRd WawRd
+CA WawRd BriFalTr CA41
 #sequoia
 CA CA198 CA216_E SeqNP
 CA GenHwy CA198 CreMeaRd #to sentinel tree
@@ -171,7 +175,7 @@ AB AB3 AB512_W AB23
 AB AB23 AB3 AB519
 AB AB519 AB23 AB2
 AB AB2 AB519 AB216(78) 
-AB AB216 78 25
+AB AB216 AB2 25
 AB AB16 378 340
 AB AB43 AB16 BC/AB
 BC BC2 BC/AB BC97
@@ -189,6 +193,7 @@ YT YT1 BC/YT YT/AK
 AK AK2 YT/AK MakTr #to scoby way
 AK AK1 AK2 OMalRd
 AK HicPkwy AK1 CSt
+AK HicPkwy RasRd TudRd
 
 #CA
 #thunder bay
