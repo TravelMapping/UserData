@@ -49,6 +49,10 @@ DC DC295 I-295/695 DC/MD
 
 # Maine
 
+ME I-95 NH/ME 44
+
+ME US1 I-295(8A)
+
 
 # Maryland
 
@@ -79,8 +83,24 @@ MD BalWasPkwy US50/201 MD175
 
 # Massachusetts
 
+MA I-90 NY/MA 51
+MA I-93 1 28
+MA I-95 RI/MA 26
+MA I-95 55 MA/NH
+MA I-291 1 I-90
+
+MA US5 I-91(13) LinSt
+MA US20 NY/MA US202_N
+MA MA23 NY/MA US20
+MA US202 US20_W MainSt
+
 
 # New Hampshire
+
+NH I-89 I-93 NH/VT
+NH I-95 MA/NH NH/ME
+
+NH NH101 7(93) NH1A
 
 
 # New Jersey
