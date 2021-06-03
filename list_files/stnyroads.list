@@ -1,11 +1,4 @@
 
-NY I-78 NJ/NY HudSt
-VA I-81 188 VA/WV
-WV I-81 VA/WV WV/MD
-MD I-81 WV/MD MD/PA
-NY I-81 PA/NY 52
-
-
 # Connecticut
 
 
@@ -19,6 +12,8 @@ NY I-81 PA/NY 52
 
 
 # Maryland
+
+MD I-81 WV/MD MD/PA
 
 
 # Massachusetts
@@ -617,7 +612,12 @@ PA CenScrExp I-81 US11/307
 
 # Virginia
 
+VA I-81 188 VA/WV
+
+
 
 # West Virginia
+
+WV I-81 VA/WV WV/MD
 
 # vim: commentstring=#%s
