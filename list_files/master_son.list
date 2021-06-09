@@ -1762,6 +1762,7 @@ KS KS96 I-235(13) US54/400
 # ---------------------
 KY PurPkwy TN/KY 21              # -- Purchase Parkway
 KY PenPkwy 1 34                  # -- Pennyrille Parkway
+KY KY18 MallRd I-71/75
 KY KY58 US51/123 US51_S
 KY KY58 US45_S KY121Bus_S
 KY KY80 I-69(22) I-69(21)
