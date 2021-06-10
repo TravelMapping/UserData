@@ -1685,17 +1685,28 @@ FRA-NOR N12 CVL/NOR A28
 #FRA AntChiMaz 5(A10) 7(A10)
 
 =====ΦΕΡΟΕ=====
-FRO Lv10 EysRingVeg Lv11
+FRO Lv10 EysRingVeg Lv13
 FRO Lv11 Lv10 Lv22
-FRO Lv13 Lv11 Lv66
+FRO Lv13 Lv11 Lv23
+FRO Lv13 Lv60 Lv10
 FRO Lv21 Lv11 HeyGota
 FRO Lv22 Lv11 Lv45
+FRO Lv23 Lv13 KirVeg
+FRO Lv25 Lv10 Lv68
 FRO Lv45 Lv22 ByrVeg
 FRO Lv51 Lv21 Ska
 FRO Lv53 Lv13 Sak
 FRO Lv54 Lv13 SanBak
+FRO Lv60 Lv13 VidGjo
+FRO Lv61 Lv23 Lv60\
+FRO Lv62 Lv60 VidAlv
+FRO Lv66 Lv13 UtBak
+FRO Lv67 Lv10 Nes
+FRO Lv68 RitVeg FjoVeg
+FRO Lv69 Lv10 ForVeg
 FRO Lv81 Lv21 KroVeg
 FRO Lv93 Lv11 End
+FRO Lv95 Lv67 Lv68
 
 ====ΕΛΛΑΔΑ=====
 
