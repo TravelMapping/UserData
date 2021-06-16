@@ -35,7 +35,7 @@ AZ US60 AZ260_E TegSt #show low to wickenburg
 AZ AZ101 1 44 #maybe further
 AZ SkyHarBlvd I-10 42ndSt #at least
 AZ AZ51 15 I-10
-AZ AZ202 78 55
+#AZ AZ202 78 55
 AZ AZ202 34 30 #kiwa
 AZ AZ202 1A 12
 #grand canyon
@@ -142,13 +142,16 @@ CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
 CA CA41 YosNP 126A #yosemite to fresno
 CA CA99 131 97 #fresno to visalia
+CA CA65 SprAve CA99 #visalia to bakersfield
+CA CA99 30 I-5(221)
+CA I-5 221 144
 #yosemite
 CA TioPassRd CA120 BigOakRd
 CA BigOakRd TioPassRd ElPorRd
 CA ElPorRd BigOakRd WawRd
 CA WawRd BriFalTr CA41
 #sequoia
-CA CA198 CA216_E SeqNP
+CA CA198 101 SeqNP
 CA GenHwy CA198 CreMeaRd #to sentinel tree
 #big bear
 CA CA38 GarAve PolCanRd #at least (at base), to cougar creek trail
@@ -194,7 +197,5 @@ AK AK2 YT/AK MakTr #to scoby way
 AK AK1 AK2 OMalRd
 AK HicPkwy AK1 CSt
 AK HicPkwy RasRd TudRd
-
-#CA
-#thunder bay
-#prescott?
+AK AK3 AK1 HeaSpurRd
+AK ParkRd AK3 StoHillOve #denali
