@@ -16,12 +16,13 @@ FL US1 FL992 I-95
    #missing a tiny bit north of FL992 (turned into shopping center)
 FL US1 FL856 IvesDaiRd
 FL US1 FL405_S FL44Bus
-FL US1 FL400 US92
-   #may be missing Orange Avenue to US92, but do have US92 to Main Street
+FL US1 FL400 LPGABlvd
+   #may be missing Orange Avenue to US92
+   #north to Hand Avenue
 FL US1 I-95(298) FL206
 FL US17 US41 SweRd
 FL US17 FL540_W FL540_E #north to Avenue G
-FL US17 CenAve FL46_W
+FL US17 CenAve US92_E
 FL US17 I-95(380) FL/GA
 FL US17TrkKis US17_S US17_N
 FL US19 CR296 CouBlvd
@@ -42,7 +43,7 @@ FL US92 I-4(7A) I-4(7B)
    #west to Orient Road
 FL US92 FL559 FL655
 FL US92 MainSt FL544
-FL US92 I-4(129) FLA1A
+FL US92 US17_S FLA1A
 FL US98 I-4 FL37/548
 FL US98 LakeHenRd APCutRd
 FL US192 US27 I-95
@@ -57,6 +58,8 @@ FL FLA1AVer AtlAve FL401
    #south to Hendry Avenue
 FL FLA1ANSB CRA1A FL44
 FL FLA1A US92 FL430
+FL FL5ADay FL400 GolfAve
+   #north to Hand Avenue
 FL FL9 FL817 FL826
 FL FL9BJac I-295 4
 FL FL10 ArlExpy I-295
@@ -101,10 +104,13 @@ FL FL408 FLTpk ChaPkwy
 FL FL414 34(429) US17/92
 FL FL417 2 55
 FL FL419 FL426 US17/92
+FL FL421 CR4009 I-95
 FL FL423 ChuSt US17/92
 FL FL424 ParSt FL423
 FL FL426 FL424 FL419/434
 FL FL429 1 34
+FL FL430 FL5A US1
+   #east to Beach Street
 #FL FL430 east of the Intracoastal
 FL FL434 FL423 US17/92
 FL FL434 UniBlvd FL50
