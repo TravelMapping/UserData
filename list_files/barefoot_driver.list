@@ -484,7 +484,6 @@ mt i-90blhar i-90_w i-90_e
 mt i-90bllau i-90_w i-90_e
 mt i-90blliv i-90_w i-90_e
 mt i-90blmis i-90_w i-90_e
-ne i-80blpin wy/ne i-80_e
 nm i-10bllor i-10_w i-10_e
 nm i-10bldem i-10_w i-10_e
 nm i-25bltru i-25_s i-25_n
@@ -546,7 +545,7 @@ TX I-20BLBai I-20_W I-20_E
 TX I-27BLHal I-27_S I-27_N
 TX I-27BLPla I-27_S I-27_N
 TX I-35BLAlv I-35_S I-35_N
-TX I-40BSGle TX/NM I-40
+TX I-40BlGle TX/NM I-40
 TX I-40BLAdr I-40_W I-40_E
 TX I-40BLVeg I-40_W I-40_E
 TX I-40BLAma I-40_W I-40_E
@@ -704,7 +703,7 @@ ca ca110 21 glest
 ca ca127 ca190 ca178_e
 ca ca138 ca14(49) ca18_s
 ca ca139 ca36 ca299_w
-ca ca140 ca999(188) ca49_s
+ca ca140 ca99(188) ca49_s
 ca ca147 ca89 ca36
 ca ca152 ca1 ca99
 ca ca166 ca33_s i-5
@@ -988,9 +987,8 @@ IA US218BusCha us218_s us218_n
 IA US6HisCou ia192 kanblvd
 IA US6Hisatl us6/71 us6_e
 IA US6Hisnew 46thave us6/14
-ia us6hisbro us63_s clayst_s
-ia us6hisbro ia21 aave
-IA US6Hisiow 1stave_n scoblvd
+ia us6hisbro us6/63 us6_e
+IA US6Hisiow us6_w us6_e
 IA US6Hisdur us6_w hicgrord
 IA IA1 IA2 US151
 IA IA2 NE/IA US61/61Bus
@@ -1061,6 +1059,7 @@ ia ia188 ia3 us63
 ia ia191 i-680 ia37
 IA IA202 MO/IA IA2
 IA IA210 IA141 US65
+IA IA212 IA21 US6
 IA IA220 US6 US151
 IA IA224 I-80 IA14
 IA IA281 WatLim IA150
@@ -1704,7 +1703,6 @@ nv us6 ca/nv nv/ut
 nv us6busely us6_w us6_e
 nv us50 ca/nv nv/ut
 nv us50altfer us50_w us50_e
-nv us50buscar us395_s us50_e
 NV US93 AZ/NV us50_w
 NV US95 ca/nv nv/or
 nv us95altyer us95_s us95_n
