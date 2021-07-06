@@ -251,6 +251,20 @@ MD I-695 23 33
 #########
 CA I-238 14 17
 
+#########
+# I-AK1 #
+#########
+AK I-A1 5thAve_W AK3_N
+
+#########
+# I-AK3 #
+#########
+AK I-A3 AK9 OldSewHwy_N
+
+#########
+# I-AK4 #
+#########
+AK I-A4 AK1 DenNPRd
 
 ###############
 # US HIGHWAYS #
@@ -495,6 +509,11 @@ NV US395 CA/NV NV756
 # STATE HIGHWAYS #
 ##################
 
+#########################
+# Alaska State Highways #
+#########################
+AK AK9 RaiAve AK1
+
 ##########################
 # Arizona State Highways #
 ##########################
@@ -550,6 +569,8 @@ CA CA36 I-5 CA89_N
 CA CA37 US101 21
 
 CA CA38 I-10 CA18_S
+
+CA CA41 128 132
 
 CA CA44 CA89_S CA89_N
 
@@ -646,7 +667,7 @@ CA CA187 CA1 I-405
 
 CA CA190Dea PanValRd CA127
 
-CA CA198 CA65 SeqNP
+CA CA198 I-5 SeqNP
 
 CA CA203 Mad/Mon US395
 
@@ -1052,6 +1073,8 @@ WY TetParkRd US26/89 BeaCrk
 ##################
 # OTHER HIGHWAYS #
 ##################
+AK HicPkwy AK1 TudRd
+
 NY CroCouPkwy 4 HutRivPkwy
 
 NY HutRivPkwy 15 NY/CT
