@@ -794,8 +794,7 @@ MT US89 GoiSunRd ManyGlaRd
 MT US93 I-90(101) LionMouRd
 MT US191WYe US20_W MT/WY
 #plus US 20 concurrency
-MT US191 WY/MT DierLn
-#actually turnaround just south of there
+MT US191 WY/MT MT84/85
 #MT US287 US191 concurrency
 
 MT I-15BLDil I-15_N MT41_E
@@ -807,6 +806,8 @@ MT MT64 US191 WhiOttRd
 #MT MT64 LitCoyRd RidgebackRd
 MT MT82 US93 MT35
 MT MT83 MT200 MT35
+#MT MT84 WarmSpringsBoatLaunch ColdSprRd
+MT MT84 ColdSprRd US191
 #MT MT88 I-90 US12
 MT MT141 US12 MT200
 MT MT200 US93_N I-90(109)
