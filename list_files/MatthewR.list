@@ -262,15 +262,65 @@ CA US101BusSal US101/183 US101_S
 #California US-101 Bus Paso Robles Section
 CA US101BusPas CRG14 US101_S
 
+#California US-395 South Section
+CA US395 CA108 CA168_W
+CA US395 GarRd SeaStaRd
+
 #DC US-1
 DC US1 US50_W VA/DC
 
 #DC US-50
 DC US50 VA/DC ConAve
 
-#California US-395 South Section
-CA US395 CA108 CA168_W
-CA US395 GarRd SeaStaRd
+#Illinois US-51
+IL US51 I-57(1) KY/IL
+
+#Illinois US-60
+IL US60 US51_N IL/KY
+
+#Kentucky US-25
+KY US25 US60/421 US27/68
+
+#Kentucky US-27
+KY US27 US25/60 I-75(113)
+
+#Kentucky US-45
+KY US45 KY/IL US60/62
+
+#Kentucky US-51
+KY US51 KY/IL KY121
+
+#Kentucky US-60
+KY US60 IL/KY I-24
+KY US60 US45_N KY967_E
+KY US60 BlueGraPkwy US25/27
+
+#Kentucky US-62
+KY US62 IL/KY KY121_W
+KY US62 KY453 US45/60
+
+#Kentucky US-68
+KY US68 US62 I-24(16)
+KY US68 US25/60 I-64/75
+
+#Kentucky US-641
+KY US641 US68_W KY453
+
+#Missouri US-60
+MO US60 I-57(1) MO/IL
+
+#Missouri US-62
+MO US62 MO/IL US61/60Bus
+
+#Nevada US-50
+NV US50 CA/NV LakDr
+
+#Tennessee US-51
+TN US51 I-155 TN/KY
+
+#Tennessee US-79
+TN US79 TN374_E I-24
+
 
 #(California State Highways)
 
@@ -307,9 +357,11 @@ CA CA4 I-5(471) 69
 CA CA9 SarAve CA1
 
 #CA-12:
-CA CA12 CalRd NapaRd_W
+CA CA12 CA116 7A
+CA CA12 CalRd CA121_S
 CA CA12 NapaRd_E CA29_S
 CA CA12 I-80(39B) I-80(43)
+CA CA12 CA84 CA160
 CA CA12 CA88_W CA88_E
 
 #CA-13: 
@@ -418,7 +470,8 @@ CA CA75 TarRd 13B
 CA CA79 I-15(61) I-15(58)
 
 #CA-82:
-CA CA82 SneLn WolRd
+CA CA82 I-280 MarSt
+CA CA82 CheAve WolRd
 CA CA82 CruzBlvd I-880
 
 #CA-83:
@@ -480,7 +533,7 @@ CA CA113 I-80(66A) I-80(70)
 CA CA113 I-5(538) CA99
 
 #CA-116:
-CA CA116 RivRd US101(472B)
+CA CA116 RivRd LakHwy_S
 
 #CA-120 Central Section:
 CA CA120 1 YosNP
@@ -550,7 +603,7 @@ CA CA152 CA99 WatRd
 CA CA154 US101(101B) US101(146)
 
 #CA-156:
-CA CA156 CA1 US101(345)
+CA CA156 CA1 CHG1
 CA CA156 CA156Bus_S CA152
 
 #CA-156 Business Hollister:
@@ -653,12 +706,39 @@ CA CA273 CypAve I-5(681B)
 #CA-299:
 CA CA299 2 AdaRd
 
-
 #(Nevada State Highways)
 
 #NV-374:
 NV NV374 DeaValNP US95
 
+#(Kentucky State Highways)
+
+#KY-95:
+KY KY95 KY2595 KY282
+
+#KY-121:
+KY KY121 US51/60 KY286
+
+#KY-282:
+KY KY282 US62/641 KY95
+
+#KY-286:
+KY KY286 KY121 US62
+
+#KY-348:
+KY KY348 I-69 US641
+
+#KY-453:
+KY KY453 KenLakeDr RivDr
+
+#KY-1523:
+KY KY1523 I-24/69 KY282
+
+#KY-2595:
+KY KY2595 KY95 US641
+
+#Missouri State Highways
+MO MO77 US60/62_E MOsD_Sco
 
 #(California Federal Roads)
 
@@ -696,6 +776,12 @@ CA TioPassRd BigOakRd CA120
 NV DayPassRd CA/NV NV374
 
 
+#(Kentucky Federal Roads)
+
+#Woodlands Trace Highway, Land Between the Lakes NRA
+Ky WooTra FSR135 KY453
+
+
 #[Botswana]
 
 #(Botswana A Roads)
@@ -706,6 +792,9 @@ NV DayPassRd CA/NV NV374
 #[Mexico]
 
 #(Mexico Federal Expressways)
+
+#Baja California Sur 1D:
+MEX-BCS MEX1D AerLosCab MEX1_S
 
 #Distrito Federal 95D:
 MEX-DF MEX95DMex MOR/DF HColMil
@@ -728,7 +817,7 @@ MEX-QRO MEX57DSJu QRO100 MEX57/111
 #(Mexico Carreteras Federales)
 
 #Baja California Sur MEX1:
-MEX-BCS MEX1 MEX1D/19 AerIntCab
+MEX-BCS MEX1 MEX1D/19 CaboPul
 MEX-BCS MEX1 MEX19_N BlvdFunSud_N
 
 #Baja California Sur MEX1 Pichilingue Spur:

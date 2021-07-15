@@ -110,9 +110,7 @@ FL FL423 ChuSt US17/92
 FL FL424 ParSt FL423
 FL FL426 FL424 FL419/434
 FL FL429 1 34
-FL FL430 FL5A US1
-   #east to Beach Street
-#FL FL430 east of the Intracoastal
+FL FL430 FL483 FLA1A
 FL FL434 FL423 US17/92
 FL FL434 UniBlvd FL50
    #may be missing north of Central Florida Boulevard
