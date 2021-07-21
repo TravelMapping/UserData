@@ -1322,74 +1322,94 @@ NV CR215 12 19
 IDN AH150 JlMerJoh Men
 IDN T1 13(JN) 20(JW)
 IDN T2 13(N) 10(N)
-IDN T3 20 31
+IDN T3 20 32
 
 #Rail#
 ###England###
 ####National Rail####
-ENG ActLn RMD WIJ
-ENG ArunVlyLn TBD BAA
-ENG AylLn MYB AYS
-ENG BML VIC TBD
-ENG BexLn PMR WLI
-ENG CamLn WVH TFC
-ENG CatLp EPH BKL
-ENG ChaML SRT CBE
-ENG CheLp FEL ASN #curve
-ENG ChiBra HAC CHI
-ENG ChiML BCF BMO
-ENG CotLn RDG OXF
-ENG DulLn LBG STE
-ENG EHanLn GLD BDH
-ENG ELonLn HHY SQE
-ENG EnfLn LST EDR
-ENG GEML LST RMF
-ENG GOBLn GPO BKG
-ENG GreLn CST LBG
-ENG GWML PAD BRI
-ENG IslLn RYP RYD
-ENG KentCoaLn AFK FAV
-ENG LeaVlyLn SRA TOM
-ENG LivBra CRE LIV
-ENG LTSLn FST UPM
-ENG MML STP WEL
-ENG MshLn HGS AFK
-ENG NDowLn RDG GLD
-ENG NKentLn NWX BKH
-ENG NLonLn SPB SRA
-ENG NorCityLn MOG FPK
-ENG NXBra SQE NWX
-ENG NWalML CRW CTR
-ENG OxCanLn OXF BAN
-ENG ReaBasLn RDG BSK
-ENG SEML CHX RAM
-ENG SidLn SAJ MTG
-ENG SLonLn SQE CLJ
-ENG SouLp EDR CHN
-ENG StaBra SST SSD
-ENG StkLn MAN RGL
-ENG StoLn RUG STA
-ENG SutLn MIJ SUO
-ENG SWalML SWI BPW
-ENG SWML WAT BMH
-ENG ThaLnk HEN ECR
-ENG UpmLn RMF UPM
-ENG XCML BRI BPW
-ENG WAML LST SST
-ENG WalLn STE SRS
-ENG WalLn SUO EPD
-ENG WwkLn LMS COV
-ENG WatLn EUS WFJ
-ENG WCML EUS CRE
-ENG WCwy FOD CSA
-ENG WesML DEN PMH #curve
-ENG WimLp BFR EPH
-ENG WimLp WIM SUO
-ENG WinLn WAT SNS
-ENG WLonLn CLJ SPB
-ENG WKirBra BNQ MRT
-ENG WoELn BSK GRT #curve
-ENG WirLn LIV CTR
+##AW##
+New Street - Telford
+##CC##
+Fenchurch Street - Upminster
+##CH##
+Marylebone - Aylesbury
+Beaconsfield - Birmingham Moor Street
+##EM##
+St Pancras - Wellingborough
+##GA##
+Liverpool Street - Tottenham Hale - ?
+Stratford - Tottenham Hale
+Tottenham Hale - Stansted
+##GN##
+Moorgate - Finsbury Park
+##GW##
+Paddington - Bristol Parkway
+Paddington - Bristol Temple Meads
+Reading - Basingstoke
+Southampton - Portsmouth
+Reading - Guildford
+##LO##
+Euston - Watford Junction
+Richmond - Stratford
+Clapham Junction - Stratford
+Clapham Junction - Highbury & Islington
+New Cross - Dalston
+Romford - Upminster
+Gospel Oak - Barking
+Liverpool Street - Chingford
+Liverpool Street - Cheshunt
+##LN##
+Watford - Milton Keynes
+Birmingham International - Liverpool
+##MR##
+Chester - Birkenhead
+Birkenhead - Moreton
+Moreton - Liverpool Lime Street (via Moorfields)
+##SE##
+Charing Cross - Orpington (avoid Lewisham)
+Charing Cross - Ashford - Canterbury
+Bromley - Faversham - Canterbury
+Margate - Deal - Dover - Ashford
+Margate - Canterbury - Ashford
+Peckham Rye - Lewisham - Welling
+London Bridge - Mottingham (both via and not via Lewisham)
+##SN##
+Victoria - Gatwick - Barnham
+Southampton - Barnham
+Ashford - Hastings
+Mitcham Junction - Sutton
+Sutton - Epsom Downs
+London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
+##SW##
+Ryde Pier Head - Ryde Esplanade
+Waterloo - Bournemouth
+Southampton - Portsmouth
+Waterloo - Basingstoke - Grateley - curve
+curve - Dean - Southampton
+Guildford - Havant - Fareham
+Winnersh - Reading
+Waterloo - Richmond - Staines - Addlestone - curve
+##TL##
+Hendon - West Hampstead
+Kentish Town - Blackfriars
+Farringdon - East Croydon
+Blackfriars - Bromley
+Wimbledon - Sutton
+##VT##
+Watford - Wolverhampton
+Euston - Stoke - Stockport
+Euston - Stafford - New Street
+Watford - Chester
+##XC##
+Bristol Parkway - Bristol Temple Meads
+Wolverhampton - Bournemouth (via Solihull and Coventry)
+##XR##
+Paddington - Ealing
+Liverpool St - Romford
+##WM##
+New Street - Telford
+####Heritage####
+Swanage Railway
 #####London Underground#####
 ENG BakLn HRW EPH
 ENG CenLn WRU EPP
