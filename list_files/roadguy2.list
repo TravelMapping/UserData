@@ -637,8 +637,16 @@ ID ID81SprCot ID81 I-84
 IL I-55 MO/IL 10
 IL I-64 MO/IL 3
 IL I-70 3 10
+IL I-90 78 85
+#IL I-90 I-94 concurrency
+IL I-94 43B 50B
+IL I-190 ChiOHAir BesColDr
+IL I-190 2 I-90
 IL I-255 25 31
 IL I-270 MO/IL 7
+
+#IL US45 I-190 CoffeyRd
+#IL US12 US45 concurrency
 
 #IL IL3 (I-55 concurrency)
 
