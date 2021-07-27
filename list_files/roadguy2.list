@@ -634,13 +634,36 @@ ID ID81SprCot ID81 I-84
 
 #illinois
 
+#IL I-41 I-94 overlap
 IL I-55 MO/IL 10
 IL I-64 MO/IL 3
 IL I-70 3 10
+IL I-90 78 85
+#IL I-90 I-94 overlap
+IL I-94 WI/IL 1B
+IL I-94 29 50B
+IL I-190 I-90 ChiOHAir
 IL I-255 25 31
 IL I-270 MO/IL 7
 
+#IL US12 US45 concurrency
+IL US41 18thDr WacDr
+IL US41 IL64 LakShoDr_N
+#IL US41 GolfRd OldOrchardRd
+#IL US41 I-94/Edens overlap
+IL US41 I-94_W I-94(1)
+#IL US41 I-41/94 overlap
+#IL US45 I-190 CoffeyRd
+
 #IL IL3 (I-55 concurrency)
+IL IL43 I-90 US14_E
+#IL IL43 US14 concurrency
+IL IL43 US14/58 IL58_W
+#IL IL58 IL43 concurrency
+IL IL58 I-94 US41
+IL IL64 LasBlvd_S US41
+#actually only from frontage road, but close enough
+
 
 #indiana
 
@@ -1624,6 +1647,23 @@ WA I-405 11 23
 WA WA520 I-5 WA202
 WA WA202 WA520 WA522
 WA WA522 WA202 I-405
+
+
+#wisconsin
+
+WI I-94 342 WI/IL
+#WI I-41 I-94 overlap
+
+#WI US41 I-41/94 overlap
+
+WI WI31 IL/WI WI165
+#actually CTH ML north end
+WI WI32 WI165 WI50
+#WI WI32 WI50 56thSt
+WI WI158 I-94 WI32
+WI WI165 WI31 WI32
+#actually CTH ML west end
+
 
 #wyoming
 
