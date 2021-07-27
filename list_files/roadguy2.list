@@ -660,6 +660,8 @@ IL US41 I-94_W I-94(1)
 IL IL43 I-90 US14_E
 #IL IL43 US14 concurrency
 IL IL43 US14/58 IL58_W
+IL IL50 IL19 I-94
+#actually Lawrence Ave to I-94
 #IL IL58 IL43 concurrency
 IL IL58 I-94 US41
 IL IL64 LasBlvd_S US41
