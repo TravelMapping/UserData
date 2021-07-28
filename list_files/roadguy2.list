@@ -647,6 +647,7 @@ IL I-255 25 31
 IL I-270 MO/IL 7
 
 #IL US12 US45 concurrency
+IL US14 IL43/58 IL43_S
 IL US41 18thDr WacDr
 IL US41 IL64 LakShoDr_N
 #IL US41 GolfRd OldOrchardRd
@@ -659,6 +660,8 @@ IL US41 I-94_W I-94(1)
 IL IL43 I-90 US14_E
 #IL IL43 US14 concurrency
 IL IL43 US14/58 IL58_W
+IL IL50 IL19 I-94
+#actually Lawrence Ave to I-94
 #IL IL58 IL43 concurrency
 IL IL58 I-94 US41
 IL IL64 LasBlvd_S US41
