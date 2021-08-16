@@ -329,8 +329,8 @@ GA US23 GA54Con US29/78_S
 #GA US23 US29 concurrency
 GA US23 US29/78_N I-985(4)
 #GA US23 I-985 concurrency
-GA US23 I-985(24) US123
-GA US23 GA17 US76_E
+GA US23 I-985(24) OldClaRd
+GA US23 OldClaRd LedfordRd_Dillard
 #plus various concurrencies
 #GA US25 brief US 1 concurrency
 GA US27 GA39Con US280_E
@@ -1188,13 +1188,12 @@ SD SD115 MinAve_N BenRd_E
 
 TN I-24 KY/TN 44
 #TN I-24 I-65 concurrency
-TN I-24 48 50
-TN I-24 52B 53
-TN I-24 74 TN/GA
+TN I-24 46 50
+#TN I-24 I-40 concurrency
+TN I-24 52B TN/GA
 TN I-24Cha GA/TN 185
 TN I-40 AR/TN 176
-TN I-40 206 211
-TN I-40 213 235
+TN I-40 206 235
 TN I-55 TN/AR MS/TN
 TN I-65 AL/TN 82
 #TN I-65 I-40 concurrency
