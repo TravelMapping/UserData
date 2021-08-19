@@ -32,6 +32,10 @@ CA I-15 179 246
 #California I-80
 CA I-80 1A CA/NV
 
+#California I-110
+CA I-110 GafSt 3A
+CA I-110 4 21
+
 #California I-205
 CA I-205 I-580 I-5
 
@@ -62,6 +66,9 @@ CA I-580 1A I-5
 
 #California I-680
 CA I-680 30 71
+
+#California I-710
+CA I-710 1B 9
 
 #California I-880
 CA I-880 7 I-280
@@ -329,6 +336,7 @@ CA CA1 LitLakeRd CA128
 CA CA1 OldStaHwy ValRd
 CA CA1 226 62B(101)
 CA CA1 109 1(10)
+CA CA1 CreBlvd I-110
 CA CA1 CA55 JamRd
 
 #CA-1 Bus Cayucos:
@@ -390,6 +398,9 @@ CA CA24 2 15
 
 #CA-25:
 CA CA25 US101 TresPinRd
+
+#CA-27:
+CA CA27 US101 CA1
 
 #CA-29:
 CA CA29 I-80 CA175_S
@@ -521,6 +532,9 @@ CA CA99 3 I-5(221)
 
 #CA-108:
 CA CA108 CA120_W US395
+
+#CA-110:
+CA CA110 21 26
 
 #CA-111:
 CA CA111pal PalmSprLim CA111Bus_N
