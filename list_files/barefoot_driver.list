@@ -832,7 +832,6 @@ id id55 id52 us95_n
 id id67 perrd id51
 id id78 id55 id67
 id id128 wa/id us12
-id id128sprlew id128 us12
 id id167 id78 id67
 IL US6 IA/IL IL/IN
 IL US12 WI/IL IL/IN
@@ -864,7 +863,8 @@ il il1 il13 il33
 il il1 indave i-57
 il il3 i-57 il146_e
 il il3 il154/159 i-55(2c)
-il il5 us67 i-74
+il il5 us67 i-88
+il il7 us6_w il43
 il il13 il1 il/ky
 il il33 il130_s il1
 il il34 il146_w us45/13
@@ -873,8 +873,7 @@ il il43 us30 us14/58
 il il50 us45/52 us41
 il il53 lakecookrd i-290(4)
 il il64 ia/il us41
-il il71 i-180 il251/351
-il il71 il178 i-80
+il il71 i-180 i-80
 il il78 il104 il125
 il il83 us30 il/wi
 il il84 us6 il/wi
@@ -896,6 +895,7 @@ il il192 il92 il94
 il il242 il142 il15
 il il251 il116_e il71/351
 il il336 i-172 us136
+il il351 il251 i-80
 il il394 il1_s i-80/94
 il us66hischi il43_s ogdave_n
 IN US6 IL/IN in/oh
@@ -989,7 +989,7 @@ IA US6Hisatl us6/71 us6_e
 IA US6Hisnew 46thave us6/14
 ia us6hisbro us6/63 us6_e
 IA US6Hisiow us6_w us6_e
-IA US6Hisdur us6_w hicgrord
+IA US6Hisdur us6_w us67
 IA IA1 IA2 US151
 IA IA2 NE/IA US61/61Bus
 ia ia2buscla ia2 us71_n
@@ -1733,7 +1733,7 @@ nv nv599 us95_s us95_n
 nv nv573 frerd nv604
 nv nv573las us95 decblvd
 nv nv604 carave i-15
-nv sumpkwy cr215 us95
+nv nv613 cr215 us95
 NY US1 NJ/NY I-95(1)
 NY US9 NJ/NY NY9A_Bro
 ny us20 pa/ny shord
