@@ -245,7 +245,7 @@ MO I-470 I-435 16B
 OH I-470 I-70 WV I-470 4
 UT I-70BSSal LosCreRd US50_W
 # I-71
-KY I-71 5 OH I-71 17
+KY I-71 1 OH I-71 17
 OH I-71 106 107
 OH I-71 233 I-90
 OH I-271 21 I-90
@@ -748,8 +748,7 @@ CT US44 CT219 MA US44 MA3A
 # US 45
 KY US45 TN/KY KY US45 KY1648_N
 KY US45 KY339_N IL US45 IL169
-IL US45 US52/49 IL US45 US52_W
-IL US45 US12/20 MI US45 OntSt
+IL US45 US52/49 MI US45 OntSt
 KY US45BusPad US45_S I-24BL_W 
 WI US45BusNew US45_S US45_N
 #US 46
@@ -1586,7 +1585,7 @@ ID ID200 US95 ID/MT
 
 # Illinois (IL)
 # ---------------------
-IL IL1 IL394_N I-57
+IL IL1 IL17_W I-57
 IL IL2 IL40 IL/WI
 IL IL3 IL37 IL146_W
 IL IL3 I-255(6) I-255(10)
@@ -1600,10 +1599,12 @@ IL IL15 US51_S US51_N
 IL IL16 JoePageBr IL100_S
 IL IL16 IL127_N IL127_S
 IL IL16 US51_S US51_N
+IL IL17 IL94_S IL94_N
 IL IL17 US150_W US150_E
+IL IL17 US34_W US34_E
 IL IL17 IL78_N IL78_S
 IL IL17 IL251_S IL251_N
-IL IL17 US45/52_N US45/52_S
+IL IL17 US45/52_N IL1_N
 IL IL19 IL83 US41
 IL IL21 I-94 IL132
 IL IL21 IL176 US41
@@ -1652,6 +1653,7 @@ IL IL75 IL26 IL/WI
 IL IL76 US20Bus IL/WI
 IL IL78 US150_E IL/WI
 IL IL82 US6_E US6_W
+IL IL83 US30 US6_W
 IL IL83 IL19 IL/WI
 IL IL84 US6 IL/WI
 IL IL89 IL71 US6_W
@@ -2062,7 +2064,6 @@ NE S41C NE14 EastAve
 # Nevada (NV)
 # ---------------------
 NV CR215 12 I-15                 # -- Las Vegas Beltway
-NV SumPkwy US95 CR215            # -- Summerlin Parkway (Metro Las Vegas)
 NV US395BusCar US395_S US395_N
 NV US93TrkLau US95_S US93_N
 NV NV28 CA/NV US50
@@ -2072,7 +2073,7 @@ NV NV169 LkMeadNRA I-15
 NV NV170 I-15 I-15BL
 NV NV172 I-11 End
 NV NV592Spr NV596 I-15
-NV NV593 DeanMarDr ParRd
+NV NV613 US95 CR215              # -- Summerlin Parkway (Metro Las Vegas)
 
 # New Hampshire (NH)
 # ---------------------
@@ -2123,12 +2124,12 @@ NJ NJ495 I-95 NJ/NY
 # ---------------------
 NM NM597 US160 FourCorNM
 NM NM494 BanMineRd I-10BL
-NM DunDr US70 LoopDr             # -- White Sands NM - Dunes Drive
+NM DunDr US70 LoopDr             # -- White Sands NP - Dunes Drive
 
 # New York - usany, usanyp
 # ---------------------
 NY BeltPkwy I-278 25             # -- Belt Parkway (NYC)
-NY CroIslPkwy 25A 36             # -- Cross Island Parkway
+NY CroIslPkwy 25A 36             # -- Cross Island Parkway (LI)
 NY FDRooDr I-478 17              # -- FDR Drive (NYC)
 NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
@@ -2386,6 +2387,7 @@ WA WA504SprKid WA504 End
 WA WA599 I-5 WA99
 WA WA900 I-405(4B) I-405(5)
 WA HurRidRd ParkAve End          # Olympic NP - Hurricane Ridge Rd
+
 # West Virginia (WV)
 # ---------------------
 # --- No routes have been accessed in WV
