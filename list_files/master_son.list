@@ -1351,11 +1351,12 @@ KY US641 US62_W KY US641 KY453
 # US 701 not driven
 # US 730 not driven
 
-# Interstate National Park routes
+# DC Metro National Park routes
 # -----------------------------------
 MD ClaBarPkwy I-495 DC ClaBarPkwy ChaBriRd        # -- Clara Barton Pkwy - Carderock MD to DC
 VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495          # -- George Washington Mem Pkwy - I-495 (DC) to Alexandria VA via DC
 VA GWMemPkwyMtV VA235 VA400                       # -- George Washington Mem Pkwy - Alexandria VA to Mt. Vernon Mansion
+DC SuiPkwy SCapSt MD SuiPkwy MD4                  # -- Suitland Parkway - I-295 (DC) to Westphalia MD
 
 # Alabama (AL)
 # ---------------------
