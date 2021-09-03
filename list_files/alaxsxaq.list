@@ -142,13 +142,16 @@ CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
 CA CA41 YosNP 126A #yosemite to fresno
 CA CA99 131 97 #fresno to visalia
+CA CA65 SprAve CA99 #visalia to bakersfield
+CA CA99 30 I-5(221)
+CA I-5 221 144
 #yosemite
 CA TioPassRd CA120 BigOakRd
 CA BigOakRd TioPassRd ElPorRd
 CA ElPorRd BigOakRd WawRd
 CA WawRd BriFalTr CA41
 #sequoia
-CA CA198 CA216_E SeqNP
+CA CA198 101 SeqNP
 CA GenHwy CA198 CreMeaRd #to sentinel tree
 #big bear
 CA CA38 GarAve PolCanRd #at least (at base), to cougar creek trail
@@ -191,9 +194,11 @@ BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 OMalRd
+AK AK1 AK2 PorGlaRd
 AK HicPkwy AK1 CSt
 AK HicPkwy RasRd TudRd
+AK AK3 AK1 HeaSpurRd
+AK ParkRd AK3 StoHillOve #denali
 
 #CA
 #thunder bay
