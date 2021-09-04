@@ -420,7 +420,7 @@ WY I-90BLGil I-90_W I-90_E
 FL I-95 US1 SC I-95 86
 NC I-95 119 ME I-95 52
 NJ I-95Sec I-95_S I-95_N      # West split of NJTpk by Secaucus
-CT I-395 47 MA I-395 7        # TODO: old exit number set (MassDOT exit renumber)
+# CT I-395 47 MA I-395 7        TODO: old exit number set (MassDOT exit renumber)
 CT I-395 47 MA I-395 12       # NOTE: new exit number set - intentional break ahead of renumber
 DE I-295 I-95 PA I-295 I-95/276
 DE I-495 I-95 6
