@@ -420,8 +420,7 @@ WY I-90BLGil I-90_W I-90_E
 FL I-95 US1 SC I-95 86
 NC I-95 119 ME I-95 52
 NJ I-95Sec I-95_S I-95_N      # West split of NJTpk by Secaucus
-# CT I-395 47 MA I-395 7        TODO: old exit number set (MassDOT exit renumber)
-CT I-395 47 MA I-395 12       # NOTE: new exit number set - intentional break ahead of renumber
+CT I-395 47 MA I-395 12
 DE I-295 I-95 PA I-295 I-95/276
 DE I-495 I-95 6
 DC I-695 I-395 2A
@@ -2261,7 +2260,7 @@ OH OH46 MahAve I-80(223)
 OH OH49 I-70(26) I-70(24)
 OH OH49 I-80/90 US20_W
 OH OH53 OH2(115) OH2(124)
-OH OH82 OH21 WieRd               # NOTE: Possible point on Riverview Road pending maintainer approval
+OH OH82 OH21 RivRd
 OH OH82 US422 OH11
 OH OH100TrkSTi OH100_S OH53_S
 OH OH176 16 I-71
@@ -2269,7 +2268,7 @@ OH OH199 OH18_E US6_W
 OH OH231TrkTif OH231_S OH53_S
 OH OH269 OH2_E OH2_W
 OH OH283 I-90(176) I-90(179)
-OH OH303 I-271 OH8               # NOTE: Possible point on Riverview Road pending maintainer approval
+OH OH303 I-271 RivRd
 OH OH528 I-90(212) OH84_W
 OH OH562 I-75 I-71
 OH OH743 US52_W US52_E
