@@ -60,8 +60,7 @@ FL FL5ADay US1_S GolfAve
 FL FL9 FL817 FL826
 FL FL9BJac I-295 4
 FL FL10 ArlExpy I-295
-FL FL15Orl FL528 CR506
-FL FL15Orl FL408(12B) US17/92
+FL FL15Orl FL528 US17/92
 FL FL15A US17_S FL44
 FL FL17 MainSt_W CR542
 FL FL19 FL33/50 CR48
@@ -114,10 +113,8 @@ FL FL434 FL423 US17/92
 FL FL434 UniBlvd FL50
    #may be missing north of Central Florida Boulevard
 FL FL435 FL482 FL50
-FL FL436 FL434 FL408
-   #west to Bear Lake Road
-FL FL436 FL15 FL528
-   #and south into OIA
+FL FL436 FL434 FL528
+   #west to Bear Lake Road and south into OIA
 FL FL438 FL429 RioGraAve
    #and west to Dillard Street where it's still signed
 FL FL441 FLA1A US92
