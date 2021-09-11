@@ -727,7 +727,7 @@ IL US41 I-94_W I-94(1)
 #IL US41 I-41/94 overlap
 IL US45 I-24(37) IL145
 #sight clinch past welcome center
-#IL US45 I-190 CoffeyRd
+IL US45 I-190 CofRd
 #IL US50 I-64 concurrency
 
 #IL IL3 (I-55 concurrency)
