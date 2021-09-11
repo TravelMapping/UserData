@@ -194,11 +194,12 @@ BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 PorGlaRd
+AK AK1 AK2 AK9
 AK HicPkwy AK1 CSt
-AK HicPkwy RasRd TudRd
+AK HicPkwy TudRd DimBlvd
 AK AK3 AK1 HeaSpurRd
 AK ParkRd AK3 StoHillOve #denali
+AK AK9 AK1 RaiAve #seward
 
 #CA
 #thunder bay
