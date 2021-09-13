@@ -1,6 +1,15 @@
+#AK_Other
+
+AK HicPkwy AK1 TudRd
+AK ParkRd AK3 IglCrkCamp
+
 #AK_StateHighways
 
+AK AK1 End AK3-N
+AK AK2 SanClaLn HimRd
 AK AK3 SheCrkRd AK2
+AK AK3 AK1 DenNPRd
+AK AK6 AK2 JeepTr
 
 #AL_Interstates
 
