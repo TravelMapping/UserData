@@ -627,8 +627,7 @@ WY US20 I-25(160) WY US20 I-25(126)
 NE US20 NE12 OH US20 I-90(186)
 OH US20 OH2_W OH US20 CenRd
 NY US20 AdiNor NY US20 NY85
-MA US20 I-91(9) MA US20 I-291(5)     # TODO: old exit number for I-91 (MassDOT exit renumber)
-MA US20 7(91) MA US20 5(291)         # NOTE: new exit number for I-91 - intentional break ahead of renumber
+MA US20 I-91(7) MA US20 I-291(5)
 IL US20BusFre US20_W US20_E
 IL US20BusRoc US20_W US20_E
 OH US20HisPai OH2 CenRd
@@ -1929,8 +1928,7 @@ MD BalWasPkwy US50/201 MD175     # Baltimore Washington Parkway (NPS)
 # Massachusetts (MA)
 # ---------------------
 MA MA1ASal US1_New US1_Sal
-MA MA2 I-91(26) I-91(27)         # TODO: old exit number for I-91 (MassDOT exit renumber)
-MA MA2 43(91) 46(91)             # NOTE: new exit number for I-91 - intentional break ahead of renumber
+MA MA2 43(91) 46(91)
 MA MA2 32 33
 MA MA3 1 16
 MA MA3 43 MA28_S
@@ -1945,8 +1943,7 @@ MA MA128 26(95) 37
 MA MA129 US1_S US1_N
 MA MA138 BriSt US6/103
 MA MA140 US44_E US44/138
-MA MA140 I-495(11) I-495(12)     # TODO: old exit number for I-495 (MassDOT exit renumber)
-MA MA140 30(495) 31(495)         # NOTE: new exit number for I-495 - intentional break ahead of renumber
+MA MA140 30(495) 31(495)
 MA US6HisPro MayAve MA6A_Pro
 
 # Michigan (MI)

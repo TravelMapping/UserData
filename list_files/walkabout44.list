@@ -51,7 +51,7 @@ AZ US93TrkLau US93 AZ/NV
 # Arizona State Highways
 AZ AZ24 AZ202 EllRd
 AZ AZ51 I-10 15
-AZ AZ61 US60 US191_N
+AZ AZ61 US60 AZ/NM
 AZ AZ64 I-40 US89
 AZ AZ66 I-40 Coc/Yav
 AZ AZ68 AZ95 US93
@@ -558,7 +558,7 @@ MA I-93 1 MA/NH                # 46 vs 47
 MA I-95 RI/MA MA/NH            # 91 vs 92
 MA I-190 I-290 8               # 19
 MA I-195 RI/MA 40              # 40 vs 41
-MA I-290 7 26                  # 20
+MA I-290 12 32                 # 20
 MA I-291 1 I-90                #  5
 MA I-295 RI/MA 2               #  4
 MA I-391 1 6                   #  5
