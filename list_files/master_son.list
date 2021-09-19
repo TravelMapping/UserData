@@ -375,8 +375,7 @@ WA I-90 WA519 MA I-90 MA1A
 IL I-190 0 999
 IL I-290 0 30
 MA I-190 I-290 19
-MA I-290 7 26                    # TODO: old exit number set (MassDOT exit renumber)
-MA I-290 12 32                   # NOTE: new exit number set - intentional break ahead of renumber
+MA I-290 12 32
 OH I-490 1A 55thSt
 SD I-190 SD44 I-90
 ID I-90BLWal I-90_W I-90_E
