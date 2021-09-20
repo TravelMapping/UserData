@@ -162,7 +162,7 @@ NY        HutRivPkwy        4        26A
 PA        I-81        MD/PA        187
 MD        I-81        MD/PA        WV/MD
 WV        I-81        MD/WV        WV/VA
-VA        I-81        WV/VA        143
+VA        I-81        VA/WV        143
 VA        I-581        1        6
 VA        US220        I-81(150)        NC/VA
 VA        VA101        ValViewBlvd        I-581
@@ -358,7 +358,7 @@ NC  I-77  83  1B
 NC  I-485 67  51
 NC  US74  253 255
 NC  US74BypMon  255 273
-NC  US74  273 US52_E
+NC  US74  273 US74BusWhi_W
 NC  US52  US74_E  NC/SC
 SC  US52  NC/SC US52TrkChe_N
 SC  US52TrkChe  US52_N  US1
@@ -366,9 +366,17 @@ SC  US1 US1/52Trk_N SC9_S
 SC  SC9 US1_N SC38/9Bus_S
 SC  SC31  SC22  SC9
 SC  SC65  US17  SC9
-SC  SC9 SC65  US17_N
+SC  SC9 SC65  SC410/9Bus
 SC  US17  CelCir  SC90_End
 VA  US220BusRoc US220_N VA40_E
 VA  US250 I-81  VA261 
 VA  US11  VA37_N  I-81(317)
 PA  PA315 LafRd I-81(175B)
+VA  I-81  143 VA/WV
+MA I-190 I-290 19
+MA  MA2 33  40
+MA I-290 12 32
+NC  NC410 US74  SC/NC
+SC SC410 US701 SC/NC 
+SC  US701 SC410 SC22
+  
