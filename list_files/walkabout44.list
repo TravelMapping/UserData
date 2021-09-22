@@ -106,7 +106,7 @@ AZ AZ277 AZ260 AZ377
 AZ AZ287 I-10 AZ79
 AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
-AZ AZ303 I-10 I-17
+AZ AZ303 CanTraBlvd I-17
 AZ AZ347 AZ84 I-10
 AZ AZ366 FR819 US191
 AZ AZ373 AZ260 End
@@ -560,9 +560,9 @@ MA I-190 I-290 8               # 19
 MA I-195 RI/MA 40              # 40 vs 41
 MA I-290 12 32                 # 20
 MA I-291 1 I-90                #  5
-MA I-295 RI/MA 2               #  4
+MA I-295 RI/MA 4               #  4
 MA I-391 1 6                   #  5
-MA I-395 CT/MA 7               # 12
+MA I-395 CT/MA 12              # 12
 MA I-495 1 I-95                #121 vs 122
 
 # Rhode Island

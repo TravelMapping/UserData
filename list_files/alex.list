@@ -947,6 +947,8 @@ WA WA164 WA18 WA410
 
 WA WA167 WA161/512 I-405
 
+WA WA169 WA164 WA900
+
 WA WA202 WA203 I-90
 
 WA WA204 US2 WA9
@@ -1092,7 +1094,8 @@ WA WSeaBri I-5(163A) AdmWay
 # Trans-Canada Highway #
 ########################
 BC TCHMai 92 170
-BC TCHMai BC95 BC/AB
+BC TCHMai 362 BC/AB
+AB TCHMai BC/AB 118
 
 BC TCHYel BC5 BC/AB
 AB TCHYel BC/AB AB93
@@ -1115,14 +1118,14 @@ BC BC99 USA/CAN 3(BC1)
 ###############################
 # Alberta Provincial Highways #
 ###############################
+AB AB40Kan KanLakTrl AB1
+
 AB AB93AJas AB16 AB93
 
 AB AB93A AB93_N AB93_S
 
 AB AB93 AB93AJas AB93A_N
 AB AB93 AB93A_S AB1A
-
-AB AB1 BC/AB AB1A_W
 
 #########
 # ITALY #
