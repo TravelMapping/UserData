@@ -426,8 +426,9 @@ GA GA5 US41_N I-75(267)
 GA GA5 GA5Bus/372 US76_W
 GA GA6 US78/278 I-85
 GA GA7 US41_N I-75(136)
+#GA GA9 US19 southern concurrency
 GA GA9 I-285 GA306_W
-#GA GA9 US19 concurrency
+#GA GA9 US19 northern concurrency
 #GA120_W is actually King St, but close enough
 GA GA10 I-75/85 US29/78
 GA GA10 US278_E GA410(5)
