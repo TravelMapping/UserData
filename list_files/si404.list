@@ -257,7 +257,9 @@ ENG A308M M4 A308
 ENG A309 A243 A308
 ENG A311 A312 A308
 ENG A312 A311 EasLnN
+ENG A314 A315 B361
 ENG A315 A4_E A219/A306
+ENG A315 A314 BellRd
 ENG A316 A4 M3
 ENG A317 A318 A320
 ENG A320 A308 A245
@@ -524,6 +526,7 @@ ENG A2211 A206 A20/A21
 ENG A2215 A202 A2214
 ENG A2990 A299 A291
 ENG A3002 A4 A4020
+ENG A3006 A3005 VicFarmRd
 ENG A3020 CowECowFry A3055
 ENG A3021 A3054 ECowCowFry
 ENG A3024 A33_W M27
@@ -553,11 +556,13 @@ ENG A3201 A2/A3 A301
 ENG A3202 A3 A302
 ENG A3203 A302 A3212
 ENG A3204 A3 A202
+ENG A3205 PonRd A3216
 ENG A3209 A3/A218 A219
 ENG A3211 A302 A100
 ENG A3212 A4/A400 A3217
 ENG A3213 A202 A3217
 ENG A3214 B323 A3213
+ENG A3216 SouSt A3205
 ENG A3216 A3217 A4
 ENG A3217 A302 A3216
 ENG A3218 A4 A3220
@@ -680,6 +685,7 @@ ENG B266 A215 A212
 ENG B300 A3 A23/A302
 ENG B323 A3203/A3212 A3214
 ENG B324 B323 A202
+ENG B361 StaRd A314
 ENG B376 A308_W ToM25
 ENG B384 A38/A4040 A38_N
 ENG B386 UpdHill A30
@@ -1320,76 +1326,88 @@ NV CR215 12 19
 ##ASIA##
 ###Indonesia###
 IDN AH150 JlMerJoh Men
+IDN-KA AH150 JlMerJoh Men
 IDN T1 13(JN) 20(JW)
+IDN-JW T1 13(JN) 20(JW)
 IDN T2 13(N) 10(N)
-IDN T3 20 31
+IDN-JW T2 13(N) 10(N)
+IDN T3 20 32
+IDN-JW T3 20 32
 
 #Rail#
 ###England###
 ####National Rail####
-ENG ActLn RMD WIJ
-ENG ArunVlyLn TBD BAA
-ENG AylLn MYB AYS
-ENG BML VIC TBD
-ENG BexLn PMR WLI
-ENG CamLn WVH TFC
-ENG CatLp EPH BKL
-ENG ChaML SRT CBE
-ENG CheLp FEL ASN #curve
-ENG ChiBra HAC CHI
-ENG ChiML BCF BMO
-ENG CotLn RDG OXF
-ENG DulLn LBG STE
-ENG EHanLn GLD BDH
-ENG ELonLn HHY SQE
-ENG EnfLn LST EDR
-ENG GEML LST RMF
-ENG GOBLn GPO BKG
-ENG GreLn CST LBG
-ENG GWML PAD BRI
-ENG IslLn RYP RYD
-ENG KentCoaLn AFK FAV
-ENG LeaVlyLn SRA TOM
-ENG LivBra CRE LIV
-ENG LTSLn FST UPM
-ENG MML STP WEL
-ENG MshLn HGS AFK
-ENG NDowLn RDG GLD
-ENG NKentLn NWX BKH
-ENG NLonLn SPB SRA
-ENG NorCityLn MOG FPK
-ENG NXBra SQE NWX
-ENG NWalML CRW CTR
-ENG OxCanLn OXF BAN
-ENG ReaBasLn RDG BSK
-ENG SEML CHX RAM
-ENG SidLn SAJ MTG
-ENG SLonLn SQE CLJ
-ENG SouLp EDR CHN
-ENG StaBra SST SSD
-ENG StkLn MAN RGL
-ENG StoLn RUG STA
-ENG SutLn MIJ SUO
-ENG SWalML SWI BPW
-ENG SWML WAT BMH
-ENG ThaLnk HEN ECR
-ENG UpmLn RMF UPM
-ENG XCML BRI BPW
-ENG WAML LST SST
-ENG WalLn STE SRS
-ENG WalLn SUO EPD
-ENG WwkLn LMS COV
-ENG WatLn EUS WFJ
-ENG WCML EUS CRE
-ENG WCwy FOD CSA
-ENG WesML DEN PMH #curve
-ENG WimLp BFR EPH
-ENG WimLp WIM SUO
-ENG WinLn WAT SNS
-ENG WLonLn CLJ SPB
-ENG WKirBra BNQ MRT
-ENG WoELn BSK GRT #curve
-ENG WirLn LIV CTR
+ENG AylLn MYB AYS #CH Marylebone - Aylesbury
+ENG BruLn RDG BSK #GW Reading - Basingstoke
+ENG CamLn BHI TFC #AW International - Telford
+ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
+ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
+ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
+ENG EliLnShe LST RMF #XR Liverpool St - Romford
+ENG ELLCla ZCW CLJ #LO Canada Water - Clapham Junction
+ENG ELLCro HHY ZCW #LO Highbury & Islington - Canada Water
+ENG ELLNew ZLW NWX #LO Whitechapel - New Cross
+ENG GreBra WEA GFD #GW West Ealing - Greenford
+ENG Goblin GPO BKG #LO Gospel Oak - Barking
+ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
+ENG HEx HXX HWV #HX Central - T5
+ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
+ENG LVLChe LST CHN #LO Liverpool Street - Cheshunt
+ENG LVLChi LST CHI #LO Liverpool Street - Chingford
+ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
+ENG NewRvrLn LST BMD #GA Liverpool Street - Brimsdown
+ENG NLLRic RMD SRA #LO Richmond - Willesden Junction; West Hampstead - Stratford
+ENG NLLCla CLJ FNY #LO Finchley Road & Frognal - Clapham Junction
+ENG NorCityLn MOG FPK #GN Moorgate - Finsbury Park
+ENG RomUpmShu RMF UPM #LO Romford - Upminster
+ENG ShrLn BHM TFC #WM New Street - Telford
+ENG StaExp TOM SSD #GA Tottenham Hale - Stansted
+ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
+ENG ThaLnk ZFD ECR #TL Farringdon - East Croydon
+ENG ThaLnkSut HEN WHP #TL Hendon - West Hampstead
+ENG ThaLnkSut KTN STE_2 #TL Kentish Town - Wimbledon - Sutton - Streatham
+ENG ThaVlyLn SLO RDG #GW Slough - Reading
+ENG WAMLStr SRA TOM #GA Stratford - Tottenham Hale
+ENG WatDC EUS WFJ #LO Euston - Watford Junction
+ENG WCMLBir WFJ WVH #VT Watford - Wolverhampton
+ENG WCMLChe MKC CTR #VT Milton Keynes - Chester
+ENG WCMLLiv WFJ STA #VT Watford Junction - Stafford
+ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
+ENG WCMLRun BNM LIV #LN Birmingham International - Liverpool
+ENG WCMLSto BNM STA #VT New Street - Stafford (diversion)
+ENG WCMLTre WFJ MKC #LN Watford - Milton Keynes
+ENG WesML SOU PMS #GW Southampton - Portsmouth
+ENG WirLn BKQ CTR #ME Chester - Birkenhead
+ENG WirLnWKi LVJ_2 MRT #ME Birkenhead - Moreton
+ENG WirLnWKi LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
+#EM St Pancras - Wellingborough
+#SE Charing Cross - Orpington (avoid Lewisham)
+#SE Charing Cross - Ashford - Canterbury
+#SE Bromley - Faversham - Canterbury
+#SE Margate - Deal - Dover - Ashford
+#SE Margate - Canterbury - Ashford
+#SE Peckham Rye - Lewisham - Welling
+#SE London Bridge - Mottingham (both via and not via Lewisham)
+#SN Victoria - Gatwick - Barnham
+#SN Southampton - Barnham
+#SN Ashford - Hastings
+#SN Mitcham Junction - Sutton
+#SN Sutton - Epsom Downs
+#SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
+#SW Ryde Pier Head - Ryde Esplanade
+#SW Waterloo - Bournemouth
+#SW Southampton - Portsmouth
+#SW Waterloo - Basingstoke - Grateley - curve (diversion)
+#SW curve - Dean - Southampton (diversion)
+#SW Guildford - Havant - Fareham
+#SW Winnersh - Reading
+#SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
+#SE Blackfriars - Bromley
+#XC Bristol Parkway - Bristol Temple Meads
+#XC Wolverhampton - Coventry - Bournemouth
+#XC Birmingham - (Solihull) - Reading
+####Heritage####
+Swanage Railway Nordon P&R - Swanage
 #####London Underground#####
 ENG BakLn HRW EPH
 ENG CenLn WRU EPP
@@ -1402,14 +1420,12 @@ ENG DisLnOly KPA EAC
 ENG DisLnWim WIM ERD
 ENG HaCLn HAM BKG
 ENG JubLn STM SRA
+ENG MetLn CHE ALD
 ENG MetLnAme AMR CFO
-ENG MetLnChe CHE WEP
-ENG MetLnUxb UXB ALD
-ENG MetLnWat WAF WEP
-ENG NorLn CTN MDN
-ENG NorLnBar HBT CTN
-ENG NorLnBat CTN KNG
-ENG NorLnEdg EGW CTN
+ENG MetLnUxb UXB HOH
+ENG MetLnWat WAF MOP
+ENG NorLn EDG MDN
+ENG NorLnBat HBT BPS
 ENG NorLnMHE MHL FYC
 ENG PicLn HWV CKS
 ENG PicLnHT4 HNX HXX
@@ -1417,15 +1433,13 @@ ENG PicLnUxb UXB ACT
 ENG VicLn WHC BRX
 ENG WaCLn WAT BAN
 ####LightRail/Tram####
-ENG DLRBan BAN CGT
-ENG DLRBec CGT BKT
-ENG DLRLew WES LEW
+ENG DLR BAN LEW
+ENG DLRRoy WES BKT
 ENG DLRSti SFA CGT
 ENG DLRStr CAW SRA
 ENG DLRTow TOG SHA
 ENG DLRWoo CGT WWA
-ENG LTLBec WPK WCY
-ENG LTLWim WPK MIJ
+ENG WimBec WIM WCY
 
 ###Scotland###
 SCT WHigLn FTW MLG
