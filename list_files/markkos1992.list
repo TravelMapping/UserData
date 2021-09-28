@@ -2277,7 +2277,11 @@ AR AR249 US70 AR11
 AR AR440 11 13
 #Tennessee
 #Interstates
+TN I-24 46 53
 TN I-40 AR/TN 421
+TN I-65 82 86
+TN I-69FutMem 1E(40) US51
+TN I-440 I-40 I-24
 #US Routes
 #State Routes
 #Oklahoma
