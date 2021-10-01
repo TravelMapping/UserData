@@ -251,6 +251,20 @@ MD I-695 23 33
 #########
 CA I-238 14 17
 
+#########
+# I-AK1 #
+#########
+AK I-A1 5thAve_W AK3_N
+
+#########
+# I-AK3 #
+#########
+AK I-A3 AK9 OldSewHwy_N
+
+#########
+# I-AK4 #
+#########
+AK I-A4 AK1 DenNPRd
 
 ###############
 # US HIGHWAYS #
@@ -416,6 +430,8 @@ MT US93 MT40 USA/CAN
 ########
 # US95 #
 ########
+ID US95 438 SupSt
+ID US95 US2/200 USA/CAN
 NV US95 76(515) NV373 
 
 ########
@@ -495,6 +511,11 @@ NV US395 CA/NV NV756
 # STATE HIGHWAYS #
 ##################
 
+#########################
+# Alaska State Highways #
+#########################
+AK AK9 RaiAve AK1
+
 ##########################
 # Arizona State Highways #
 ##########################
@@ -550,6 +571,8 @@ CA CA36 I-5 CA89_N
 CA CA37 US101 21
 
 CA CA38 I-10 CA18_S
+
+CA CA41 128 132
 
 CA CA44 CA89_S CA89_N
 
@@ -646,7 +669,7 @@ CA CA187 CA1 I-405
 
 CA CA190Dea PanValRd CA127
 
-CA CA198 CA65 SeqNP
+CA CA198 I-5 SeqNP
 
 CA CA203 Mad/Mon US395
 
@@ -729,6 +752,8 @@ ID ID31 US26 ID33
 ID ID33 ID31 ID/WY
 
 ID ID50 US30 I-84
+
+ID ID53 HauLkRd US95
 
 ID ID74 US93 US30
 
@@ -926,6 +951,8 @@ WA WA164 WA18 WA410
 
 WA WA167 WA161/512 I-405
 
+WA WA169 WA164 WA900
+
 WA WA202 WA203 I-90
 
 WA WA204 US2 WA9
@@ -1052,6 +1079,8 @@ WY TetParkRd US26/89 BeaCrk
 ##################
 # OTHER HIGHWAYS #
 ##################
+AK HicPkwy AK1 TudRd
+
 NY CroCouPkwy 4 HutRivPkwy
 
 NY HutRivPkwy 15 NY/CT
@@ -1069,7 +1098,8 @@ WA WSeaBri I-5(163A) AdmWay
 # Trans-Canada Highway #
 ########################
 BC TCHMai 92 170
-BC TCHMai BC95 BC/AB
+BC TCHMai 362 BC/AB
+AB TCHMai BC/AB 118
 
 BC TCHYel BC5 BC/AB
 AB TCHYel BC/AB AB93
@@ -1083,23 +1113,23 @@ BC BC3 170 177
 
 BC BC5 177 BC16
 
-BC BC93 BC95_N USA/CAN
+BC BC93 BC/AB USA/CAN
 
-BC BC95 BC1 BC3/BC93
+BC BC95 BC1 USA/CAN
 
 BC BC99 USA/CAN 3(BC1)
 
 ###############################
 # Alberta Provincial Highways #
 ###############################
+AB AB40Kan KanLakTrl AB1
+
 AB AB93AJas AB16 AB93
 
 AB AB93A AB93_N AB93_S
 
 AB AB93 AB93AJas AB93A_N
-AB AB93 AB93A_S AB1A
-
-AB AB1 BC/AB AB1A_W
+AB AB93 AB93A_S BC/AB
 
 #########
 # ITALY #
