@@ -4,7 +4,7 @@ FL FLA1A HigRd FL202
 #Acadia All American Road
 ME ME3 MyrSt SieMonRd
 ME ParkLpRd SieMonRd_S SieMonRd_N
-##missing Paradise Hill Road
+ME ParHillRd ParkLpRd VisCenRd
 
 #Alaska's Marine Highway
 ##missing bit: everything as it is all ferries
@@ -17,24 +17,24 @@ NC BlueRidPkwy US441 VA BlueRidPkwy US250
 
 #Chesapeake Country Scenic Byway
 MD MD18 MD8 MD213
-MD MD213 MD8 BasAve
+MD MD213 MD18 BasAve
 MD MD445 End MD20
 MD MD20 MD445 MD291
 MD MD291 MD20 MD213
 
 #Chinook Scenic Byway (Stephen Mather Memorial Parkway)
-WA WA164 WA167 WA410
+WA WA164 WA169 WA410
 WA WA410 WA164 US12
 
 #Colonial Parkway
 VA ColPkwy BalSt IslDr
 
 #Creole Nature Trail
-LA LA27 US90 CamFry
-LA LA27Cam CamFry LA397
+LA LA27 US90 CamFer
+LA LA27Cam CamFer LA397
 LA LA397 LA27 I-10
-LA LA82Hol TX/LA CamFry
-LA LA82 CamFry PR147
+LA LA82Hol TX/LA CamFer
+LA LA82 CamFer PR147
 ##missing section along PR357
 LA LA384 LA385_S LA27_S
 LA LA385 LA384_S End
@@ -42,7 +42,7 @@ LA LA14 LA397_N LA3186
 LA LA3186 LA385 LA14
 
 #Flaming Gorge - Green River Basin Scenic Byway
-WY SR530 I-80BL WY/UT
+WY WY530 I-80BL WY/UT
 WY US191 UT/WY I-80(99)
 
 #Florida Keys Scenic Highway
@@ -50,7 +50,7 @@ FL US1 FleSt MorAve
 
 #George Washington Memorial Parkway
 VA GWMemPkwyMtV VA235 VA400
-VA400 GeoWasPkwy 1stSt
+VA VA400 GeoWasPkwy 1stSt
 VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495
 
 #Great River Road
@@ -70,13 +70,12 @@ MN MN210 MN25 CR20
 ##missing section in Brainerd
 MN MN371BusBra MN371_S QuinSt
 MN MN371 MN115 MN371Bus
-MN MN115 GroRd MN371
-##missing section on county routes
+##missing section on MN115 and county routes
 MN MN101 CR42 CR39
 ##missing section on county routes
 MN US169 CR12_S CR12_N
 ##missing section on county routes
-MN MN252 BroDr I-94/964
+MN MN252 BroDr I-94/694
 MN I-694 35B 36
 ##missing section on county routes
 MN MN55 *MinPkwy MN62_E
@@ -103,7 +102,7 @@ IA US52 US67 US61/151_N
 IA US67 US61Bus_S US52
 IA US61BusDav IA22 US67_N
 IA IA22 US61Bus/38 US61Bus
-IA US61BusMus CRX61 IA22
+IA US61BusMus CRX61 IA22_E
 ##missing section on county routes
 IA US61 27 CRX62
 IA US61BusFtM US61_S US61_N
@@ -124,7 +123,7 @@ IA US52 DekSt CRC9Y_N
 ##missing section on county routes
 IA IA3 CRC9Y NWArt
 ##missing section on county routes
-IA US20 IA946 IL US20 IA84_S
+IA US20 IA946 IL US20 IL84_S
 IL IL84 US20_W IL92_W
 IL IL92 CRTT_E IL84_N
 ##missing section on county routes
@@ -133,13 +132,15 @@ IL IL92 NewBosRd CRTT_W
 IL IL17 CR14 KeiRd
 ##missing section on county routes
 IL IL164 US34 CR3
-IL US34 CarRd IL164
+IL US34 CarRd IL164_A
 ##missing section on county routes
 IL IL96 US24_W CarRd
 IL US24 IL57/104 IL96_N
-IL IL57 I172 US24/104
+IL IL57 IL172 US24/104
 
 IL IL3 BriBypRd I-270
+##missing section
+IL IL150 RanSt BriBypRd
 ##missing section on county routes
 IL IL3 IL37 WatSt
 KY US51 KY1203 IL US51 I-57(1)
@@ -190,7 +191,7 @@ LA LA1BusNew LA1_S LA1_N
 LA LA1 LA416 LA1BusNew_S
 LA LA416 LA1 LA415
 LA LA415 LA986_N LA416
-LA LA986 JefAve LA415
+LA LA986 JefAve LA415_N
 ##missing section on local roads
 LA LA987-4 LA987-6 LA987-5
 LA LA987-5 LA987-4 LA987-6
@@ -237,8 +238,7 @@ MD MD335 MD16 WilDr
 ##missing section along Key Wallace Drive, Greenbrier Road and Bucktown Road
 MD MD16 MD750_W GroRd
 ##missing sections - spurs around Preston
-##missing section - Grove Road
-MD MD578 GroRd MD16
+##missing section - Grove Road, MD578
 MD MD16 MD578 MD313/404
 MD MD313 MD16_W MD311
 MD MD311 MD313 MD287
@@ -257,7 +257,7 @@ OR OR351 OR82/350 End
 
 #Historic Columbia River Highway
 OR US30HisCol I-84(18) I-84(37)
-OR US30 I-84(69) CheLp
+OR US30 I-84(69) CheLoop
 
 #Historic National Road
 ##missing section from Eads Bridge to Collinsville
@@ -296,7 +296,7 @@ PA US40BusBro US40_W US40_E
 PA US40 US40BusBro_E US119/43_N
 PA US40BusUni US40_W US40_E
 PA US40 US40BusUni_E MD US40 US40AltCum_W
-MD US40AltCum_W US40_W US40_E
+MD US40AltCum US40_W US40_E
 MD US40 I-68(44) I-68(46A)
 MD MD144Fli US220_N US40Sce
 MD US40ScePin MD144_W MD144_E
@@ -345,7 +345,7 @@ WA US2 WA20 ID US2 US95_N
 ID US95 US2/200 ID1
 ID ID1 US95 USA/CAN
 
-#Lakes to Locks Passage	New York
+#Lakes to Locks Passage
 NY US4 NY32_Wat NY/VT
 NY NY22 US4_S US9_N
 NY US9 NY22_S BakRd
@@ -359,7 +359,7 @@ NY NY373 US9 BurPKFry
 NY US2 US11 NY/VT
 
 #Las Vegas Strip
-NV LasVegBlvd RusRd SahAve
+##NV LasVegBlvd RusRd SahAve
 
 #Natchez Trace Parkway
 MS NatTraPkwy LibRd TN NatTraPkwy TN100
@@ -395,7 +395,8 @@ CO CO145 US160 CO62
 UT UT12 US89 UT24
 
 #Selma to Montgomery March Byway
-##missing section in Selma: MLK Street - Alabama Avenue - Broad Street
+##missing section in Selma: Alabama Avenue - Broad Street
+AL US80BusSel AL22_W US80/41
 AL US80 BUS80/41 US31
 AL AL21 US80_W US31_N
 ##missing section in Montgomery: Mobile Highway - Fairview Avenue - Oak Street - Davis Avenue - Holt Street - Mobile Street - Montgomery Street - Dexter Avenue
@@ -414,7 +415,7 @@ MA MA2ACam BatRd MA60_W
 
 #Trail Ridge Road/Beaver Meadow Road
 CO US34 PorRd US34Bus
-CO US34Bus US34 US36_W
+CO US34BusEst US34 US36_W
 CO US36 US34_W US34Bus_W
 
 #Volcanic Legacy Scenic Byway
