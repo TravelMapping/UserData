@@ -1,4 +1,4 @@
-# Date: 2021-10-15
+# Date: 2021-10-17
 # ----------------
 
 
@@ -2210,11 +2210,11 @@ DEU-HB A281 3 B6
 DEU-HB B6Bhv B71 HB/NI
 DEU-HB B6 A27 HB/NI
 DEU-HB B6n B6 A1
-DEU-HB B71 B6 A27
+DEU-HB B71 B6 HB/NI
 DEU-HB B74 FarFry A270
 DEU-HB B74Bur NI/HB HB/NI
 DEU-HB B75 NI/HB B6
-DEU-HB B212 A27 ColStr_E
+DEU-HB B212 A27 BreNorFry
 DEU-HB HocBreWeg B6 RemRing
 
 
@@ -2621,8 +2621,10 @@ DEU-NI B68 L109_E A1
 DEU-NI B69 A1 B51/B214
 DEU-NI B70 B438 B214
 DEU-NI B70Sal NW/NI NI/NW
+DEU-NI B71 HB/NI L143
 DEU-NI B71 L122_W B75_N
 DEU-NI B71 A7 B209_N
+DEU-NI B72 HafStr B436_E
 DEU-NI B72 B438 A1
 DEU-NI B73 A27(2) NI/HH
 DEU-NI B74Ber B212_W BerFry
@@ -2636,7 +2638,11 @@ DEU-NI B191 B248a NI/MV
 DEU-NI B195 MV/NI NI/MV
 DEU-NI B209Ret B215 A7
 DEU-NI B209 A7 NI/SH
-DEU-NI B212 L866 B74
+DEU-NI B210 A31 A29
+DEU-NI B211 A293 B212_Bra
+DEU-NI B211A B211 B212
+DEU-NI B212 BreNorFry A28
+DEU-NI B212Ber B212 L875
 DEU-NI B213 B402_N A29
 DEU-NI B213Gan A1 A28
 DEU-NI B214 B70/B213 L344
@@ -2659,6 +2665,7 @@ DEU-NI B248a B216 B191
 DEU-NI B322 A28 B6
 DEU-NI B402 NLD/DEU B213_N
 DEU-NI B404 SH/NI A39
+DEU-NI B436 B72_N A29
 DEU-NI B437 A29 A27
 DEU-NI B438 B70 B72
 DEU-NI B439 B322 B51
@@ -2669,6 +2676,11 @@ DEU-NI B446 A7 B247n
 DEU-NI B446Dud L569 B247
 DEU-NI B482 B441 NI/NW
 DEU-NI B493 B248_N L256_S
+DEU-NI L2Kru L3/L4 A31
+DEU-NI L4 L25 L2/L3
+DEU-NI L5 L27 B72
+DEU-NI L25 L27 L4
+DEU-NI L27 L5 L25
 DEU-NI L47 A31 B70
 DEU-NI L79 B218 NI/NW
 DEU-NI L80 L846 L79_E
@@ -2676,8 +2688,12 @@ DEU-NI L91 A30 K216
 DEU-NI L93 K216_E NI/NW
 DEU-NI L109 B68_S B51
 DEU-NI L111 L140 A26
+DEU-NI L121 HB/NI B437
 DEU-NI L122 B71_W B74_S
 DEU-NI L130 B73 A1
+DEU-NI L133 HB/NI L154
+DEU-NI L135 A27 NI/HB
+DEU-NI L143 A27 L135_N
 DEU-NI L149 HB/NI A27
 DEU-NI L171 MaxPlaStr A27
 DEU-NI L180 L190 A7
@@ -2704,13 +2720,18 @@ DEU-NI L429 NW/NI B83
 DEU-NI L466 B243_S A7
 DEU-NI L569 WesStr_W B446
 DEU-NI L776 L338_W L340
+DEU-NI L820 A29 L825/L862
 DEU-NI L846 B214_E L80
 DEU-NI L853 L846 B51
+DEU-NI L862 L820/L825 L864
+DEU-NI L864 L862 B211
 DEU-NI L865 NordTanOld B212
 DEU-NI L873 L338/L872 A1
+DEU-NI L875 B212_N B212_S
 DEU-NI L875 K217_S L877
 DEU-NI L877 L875 NI/HB
 DEU-NI L885 LemVegFry K217
+DEU-NI L887 A28 NI/HB
 DEU-NI IndStrNord A39 Vwt
 DEU-NI NordTanOld A293 A29
 
@@ -6232,6 +6253,7 @@ QC QC134 RueOnt BoulTas_N
 #SWE     Trelleborg                   DEU-MV  Rostock
 #EST     Tallinn                      FIN     Helsinki
 #SWE     Helsingborg                  DNK     Helsingor
+#DEU-HB  Bremerhaven                  DEU-NI  Nordenham
 #DEU-HB  Farge                        DEU-NI  Ranzenbüttel
 #DEU-HB  Vegesack                     DEU-NI  Lemwerder
 #DEU-RP  Engelsburg                   DEU-RP  Korb
@@ -6301,7 +6323,16 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BE  Möckernbrücke               DEU-BE  Südstern
 #DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER
 
-#DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt #All routes as of 2020
+#DEU-HB  U1  Huchting                DEU-HB  Mahndorf                    #All routes as of 2021
+#DEU-HB  U2  Gröpelingen             DEU-HB  Sebaldsbrück
+#DEU-HB  U3  Gröpelingen             DEU-HB  Weserwehr
+#DEU-NI  U4  Lilienthal              DEU-HB  Arsten
+#DEU-HB  U5  Bürgerpark              DEU-HB  Doventor                    #2021 routing
+#DEU-HB  U6  Uni-Nord                DEU-HB  Flughafen-Süd
+#DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting
+#DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück
+
+#DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                    #All routes as of 2020
 #DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf
 #DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg
 #DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)
@@ -6310,7 +6341,7 @@ QC QC134 RueOnt BoulTas_N
 
 #DEU-HE  ONE OR TWO ROUTES IN FRANKFURT I DON'T REMEMBER
 
-#DEU-MV  Schwerin 1 Klinken          DEU-MV  Hegelstraße #All routes as of 2020
+#DEU-MV  Schwerin 1 Klinken          DEU-MV  Hegelstraße                 #All routes as of 2020
 #DEU-MV  Schwerin 2 Lankow           DEU-MV  Hegelstraße (both directions)
 #DEU-MV  Schwerin 3 Neu Pankow       DEU-MV  Hegelstraße
 #DEU-MV  Schwerin 4 Kliniken         DEU-MV  Neu Pankow
