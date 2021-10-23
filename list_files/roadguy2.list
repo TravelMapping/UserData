@@ -697,6 +697,7 @@ GA GA53ConGai GA53 GA369
 GA GA54ConFor GA54 US23
 GA GA54ConAtl GA42Spr GA54
 GA GA60ConGai GA60 GA11Bus
+GA GA60SprMin GA60 GA/NC
 #GA GA75AltCle part of US129 concurrency
 GA GA75AltCle US129_N GA348
 GA GA120AltMar GA120_E GA120_W
@@ -1104,54 +1105,94 @@ NY GraCenPkwy 10 13
 
 #northcarolina
 
+#NC I-26 I-240 concurrency
+NC I-40 27 131B(85)
+#NC I-40 I-85 concurrency
 NC I-40 385 418
 NC I-74Pem 209 213
+NC I-85 131B 172
 NC I-95 13 138
 NC I-140 14 20
+NC I-240 1A 9
+
+#NC I-85BLGre I-40 concurrency
 
 NC US13 NC11/43 US17Byp_N
+NC US15 107 108B
 NC US17 HicRd US421_N
 NC US17 US64_W US13/US17BypWin_S
 NC US17 US17BypWin_N US17BypEli_S
 NC US19 GA/NC US64/74_W
 #NC US19 (US 64 concurrency)
-NC US19 US64_E US19BusMur_N
+NC US19 US64_E US441_N
+#NC US19 I-26/240 concurrency
+#NC US23 part of Smoky Mtn US74 concurrency
+#NC US23 I-26/240 concurrency
+#NC US29 I-40 concurrency
+NC US52 107 109
 NC US64 TN/NC NC175
 NC US64 464 515
+#NC US70 I-240 concurrency
+#NC US70 I-40 concurrency Eastern C.D.
+#NC US70 I-40 concurrency Greensboro
+#NC US70 part of I-85 Durham concurrency
 #NC US70 NC11/55 NC11/55
 #NC US74 (US 64, 19 concurrency)
+NC US74 BlueRidPkwy I-40(27)
+#NC US74 I-40 concurrency
 NC US74 NC130 I-74(209)
 NC US74 US17_S US17/421_N
 NC US76 NC904_S NC242
 NC US76 US17_S US17/74_N
 #NC US117 I-40(390) I-40(390)
-#NC US129 (part of US 19, 64, 74 concurrencies)
+#NC US129 (US19 concurrency)
+#NC US158 part of US421 concurrency
+#NC US220 I-40 concurrency
 #NC US258 NC11/55 NC11/55
 #NC US258 (US-64 concurrency)
 #NC US301 (I-95 concurrency)
+NC US311 US52 MLKDr_S
 NC US421 US17/74_W I-140
+#NC US421 I-40 concurrency
+NC US421 232A 233A
+#NC US441 US19 concurrency
+NC US441 US19/441Bus BlueRidPkwy
+#NC US501 part of US15 concurrency
 
+#NC US74AltAsh I-240 concurrencies
 #NC US264AltWil NC903 NC903
 NC US17BypWin US17_S US17_N
 NC US17BypEli US17_S NC344
 NC US19BusMur US19_S US19_N
 NC US64BusHay US64_W US64_E
 NC US64BusRoc US64_W US301
+#NC US19TrkWay part of US74 concurrency
+#NC US64TrkHen I-40, part of US74 concurrencies
 
+#NC NC8 part of US52 concurrency
 NC NC11 NC241 US13/64
+#NC NC28 US19/74 concurrency
 NC NC41 NC111_N I-40
 NC NC43 US64_W US64_E
 NC NC43 US264Alt_W US13_N
 NC NC55 NC11_S NC11_N
+NC NC60 US64/74 NC/GA
 NC NC69 GA/NC US64Bus
 %NC NC87 US 17 concurrency
 NC NC111 NC41_S NC24
+NC NC147 16 I-85
 NC NC175 GA/NC US64
 NC NC241 NC41/111 NC11
 NC NC344 US17Byp US17
 #didn't quite make it all the way to east end
+NC NC751 DukeUniRd US15/501
 NC NC903 NC11Win US13_N
 NC NC904 FloStrRd CheGroRd
+
+#NC NC86TrkHil I-40 concurrency
+
+NC BlueRidPkwy US441 US23/74
+
 
 #oklahoma
 
