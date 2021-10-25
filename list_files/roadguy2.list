@@ -1166,6 +1166,8 @@ NC US17BypEli US17_S NC344
 NC US19BusMur US19_S US19_N
 NC US64BusHay US64_W US64_E
 NC US64BusRoc US64_W US301
+NC US70BusDur 15thSt MarAve
+NC US70BusDur CampusDr GregsonSt
 #NC US19TrkWay part of US74 concurrency
 #NC US64TrkHen I-40, part of US74 concurrencies
 
