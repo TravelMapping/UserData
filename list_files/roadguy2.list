@@ -1,6 +1,6 @@
 #marked routes have been crossed
 #but not traveled on
-#applies only to us 70NC 264 41FL 117
+#applies only to us 264 41FL 117
 
 #alabama
 
@@ -1108,13 +1108,25 @@ NY GraCenPkwy 10 13
 #NC I-26 I-240 concurrency
 NC I-40 27 131B(85)
 #NC I-40 I-85 concurrency
+NC I-40 259 284
 NC I-40 385 418
+#NC I-73 I-85 concurrency (if you consider it to exist)
+NC I-73 97A 100
+NC I-74Hig 71B 75
 NC I-74Pem 209 213
-NC I-85 131B 172
+NC I-77 SC/NC 13
+NC I-85 SC/NC 120
+#NC I-85 120 121 (I did not travel this but really deserve credit for it... what happened to 1PPI)
+NC I-85 121 172
 NC I-95 13 138
 NC I-140 14 20
 NC I-240 1A 9
+NC I-277 1B 5
+NC I-485 64 67
+NC I-540 1 2
+#NC I-885 not sure if this exists, but whatever is concurrent with NC 147
 
+NC I-85BLGre 33 36A
 #NC I-85BLGre I-40 concurrency
 
 NC US13 NC11/43 US17Byp_N
@@ -1126,20 +1138,25 @@ NC US19 GA/NC US64/74_W
 #NC US19 (US 64 concurrency)
 NC US19 US64_E US441_N
 #NC US19 I-26/240 concurrency
+#NC US21 I-77 concurrency
 #NC US23 part of Smoky Mtn US74 concurrency
 #NC US23 I-26/240 concurrency
-#NC US29 I-40 concurrency
+#NC US29 Salisbury-Lexington I-85 concurrency
+#NC US29 I-85/85BL/40 Greensboro concurrencies
+#NC US52 I-85 concurrency
 NC US52 107 109
 NC US64 TN/NC NC175
 NC US64 464 515
 #NC US70 I-240 concurrency
-#NC US70 I-40 concurrency Eastern C.D.
-#NC US70 I-40 concurrency Greensboro
+#NC US70 I-40 concurrency Eastern Cont Divide
+#NC US70 Salisbury-Lexington I-85 concurrency
+#NC US70 I-85/85BL/40 Greensboro concurrencies
 #NC US70 part of I-85 Durham concurrency
 #NC US70 NC11/55 NC11/55
 #NC US74 (US 64, 19 concurrency)
 NC US74 BlueRidPkwy I-40(27)
 #NC US74 I-40 concurrency
+#NC US74 I-277 concurrency
 NC US74 NC130 I-74(209)
 NC US74 US17_S US17/421_N
 NC US76 NC904_S NC242
@@ -1152,15 +1169,21 @@ NC US76 US17_S US17/74_N
 #NC US258 (US-64 concurrency)
 #NC US301 (I-95 concurrency)
 NC US311 US52 MLKDr_S
+NC US321 NC7 I-85
 NC US421 US17/74_W I-140
+#NC US421 I-85 concurrency
+#NC US421 part of I-73 concurrency
 #NC US421 I-40 concurrency
 NC US421 232A 233A
 #NC US441 US19 concurrency
 NC US441 US19/441Bus BlueRidPkwy
 #NC US501 part of US15 concurrency
+#NC US601 I-85 concurrency
 
 #NC US74AltAsh I-240 concurrencies
 #NC US264AltWil NC903 NC903
+NC US15BusDur NC751 UniDr_W
+#actually Fosters Market at Hope Valley Rd, but close enough
 NC US17BypWin US17_S US17_N
 NC US17BypEli US17_S NC344
 NC US19BusMur US19_S US19_N
@@ -1168,26 +1191,35 @@ NC US64BusHay US64_W US64_E
 NC US64BusRoc US64_W US301
 NC US70BusDur 15thSt MarAve
 NC US70BusDur CampusDr GregsonSt
+#NC US501BusDur US15BusDur concurrency
 #NC US19TrkWay part of US74 concurrency
 #NC US64TrkHen I-40, part of US74 concurrencies
 
+NC NC7 US321SB US321NB
 #NC NC8 part of US52 concurrency
 NC NC11 NC241 US13/64
+#NC NC16 I-277 concurrency
+#NC NC27 I-277 concurrency
 #NC NC28 US19/74 concurrency
 NC NC41 NC111_N I-40
 NC NC43 US64_W US64_E
 NC NC43 US264Alt_W US13_N
+NC NC51 SC/NC I-485(64)
 NC NC55 NC11_S NC11_N
 NC NC60 US64/74 NC/GA
 NC NC69 GA/NC US64Bus
-%NC NC87 US 17 concurrency
+#NC NC87 US 17 concurrency
+NC NC87 SweRd I-40/85
+#actually Moore St/Sheetz, but close enough
 NC NC111 NC41_S NC24
+NC NC147 5 13
 NC NC147 16 I-85
 NC NC175 GA/NC US64
 NC NC241 NC41/111 NC11
 NC NC344 US17Byp US17
 #didn't quite make it all the way to east end
-NC NC751 DukeUniRd US15/501
+NC NC751 OKeChaRd I-409(274)
+NC NC751 US15Bus/501Bus US15/501
 NC NC903 NC11Win US13_N
 NC NC904 FloStrRd CheGroRd
 
@@ -1270,10 +1302,7 @@ OR OR7 I-84 OR86
 SC I-20 GA/SC 6
 SC I-26 28 38
 SC I-26 51 52
-SC I-85 GA/SC 2
-SC I-85 21 35
-SC I-85 51B 69
-SC I-85 72 77
+SC I-85 GA/SC SC/NC
 SC I-95 GA/SC 5
 SC I-185 I-385 HenAve
 SC I-385 42 I-26
@@ -1287,12 +1316,16 @@ SC I-385BSGre US29 I-385
 SC US1 GA/SC US25_N
 SC US17 GA/SC I-95(5)
 SC US17 I-526(29) HarBlvd
+SC US21 SC51 I-77(90)
+#SC US21 I-77 concurrency
 #SC US25 (US 1 concurrency)
 SC US25 US1/78_N SC230
 SC US25 SC291 I-185(7)
 SC US29 GA/SC SC187
-#SC US29 part I-85, all I-185 concurrencies
+#SC US29 I-85, I-185 concurrencies
 SC US29 HenAve SC183
+SC US29 I-85(106) SC/NC
+# sight clinch to S/L beyond Pilot station
 SC US52 I-526(18) RedRd
 SC US76 GA/SC US123_N
 SC US78 I-526(18) RedRd
@@ -1329,6 +1362,7 @@ SC SC24 SC187_S SC28
 SC SC28 US76/28Bus SC24
 #SC SC28 US76/123 concurrency
 SC SC31 SC9 US501
+SC SC51Pin US21 SC/NC
 SC SC56 I-26 SC146
 SC SC56 US221_S HenSt_E
 SC SC59 I-85 SC182/243
