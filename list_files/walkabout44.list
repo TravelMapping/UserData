@@ -1,3 +1,7 @@
+# 10/24/2021
+# v38 
+# Added NY I-99
+
 # Arizona Interstate Highways
 # 1169 miles
 AZ I-8 CA/AZ 178
@@ -583,7 +587,7 @@ CT I-684 NY/CT CT/NY           #  1
 CT I-691 1 11                  #  8
 
 # New York
-# 1730 miles: 1706 on 24 not on
+# 1730 miles: 1718 on 12 not on
 NY I-78 NJ/NY HudSt            #  1
 NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
@@ -594,7 +598,7 @@ NY I-87 I-278 USA/CAN          #335 vs 334
 NY I-88 I-81 I-90              #118
 NY I-90 PA/NY NY/MA            #390 vs 386
 NY I-95 NJ/NY NY/CT            # 24
-#NY I-99 PA/NY I-86             # 12    Built 2013 signed 2014 NEVER ON 
+NY I-99 PA/NY                  # 12    Built 2013 signed 2014
 NY I-190 I-90 USA/CAN          # 28
 NY I-278 NJ/NY I-95            # 34
 NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87
