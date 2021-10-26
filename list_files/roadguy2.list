@@ -1,6 +1,6 @@
 #marked routes have been crossed
 #but not traveled on
-#applies only to us 70NC 264 41FL 117
+#applies only to us 264 41FL 117
 
 #alabama
 
@@ -326,7 +326,7 @@ GA US19 US80_W US41/19Bus_S
 #GA US19 US41 concurrency
 GA US19 US41_N I-285(25)
 #GA US19 I-285 concurrency
-GA US19 I-285(27) CleSt
+GA US19 I-285(27) US76_E
 #GA US19 US76 concurrency
 GA US19 US76_W GA/NC
 GA US23 GA138_E GA138_W
@@ -361,7 +361,8 @@ GA US41 GA7_N US341
 GA US41 US19/41Bus_S GA/TN
 #GA US76 (US 41 concurrency)
 #GA US76 (US 411 concurrency)
-GA US76 GA5/515 GA17/515
+GA US76 GA5/515 GA288_W
+GA US76 GA75_N GA288_E
 GA US76 US23/441_S GA/SC
 GA US78 US27 GA61/101
 GA US78 SweRd GA84
@@ -384,7 +385,8 @@ GA US129 US80_E GA11_N
 #GA US129 I-985 concurrency
 GA US129 I-985(24) US129BusGai_N
 #only to Textile Dr, but close enough
-#GA US129 most of US19 concurrency
+GA US129 US129BypCle_N GA75Alt_N
+#GA US129 (US19 concurrency)
 GA US278 AL/GA US27_S
 #GA US278 US27 concurrency
 GA US278 US27_N US78_W
@@ -412,8 +414,12 @@ GA US29AltAtl US29_S US29_N
 #GA US29BusGainesville clinched
 GA US29BusWin US29_S GA324
 #GA US41BusGri GA155, GA16, GA92 concurrencies
+GA US129BypCle GA115 US129_N
 GA US441BusCla US23/441 GA17/115_N
 
+#GA GA2 US41/76 concurrency
+#GA GA2 US411 concurrency
+#GA GA2 US76 concurrency segments across NGa
 #GA GA4 US25BusAug concurrency
 #GA GA5 I-20 Concourse Parkway-Arbor Crossing
 #GA GA5 part of US78 concurrency
@@ -427,13 +433,14 @@ GA GA5 GA5Bus/372 US76_W
 GA GA6 US78/278 I-85
 GA GA7 US41_N I-75(136)
 #GA GA9 US19 southern concurrency
-GA GA9 I-285 GA306_W
+GA GA9 I-285 US19_S
 #GA GA9 US19 northern concurrency
 #GA120_W is actually King St, but close enough
 GA GA10 I-75/85 US29/78
 GA GA10 US278_E GA410(5)
 GA GA11 US129/22_N GA16/83
 GA GA11 I-985 GA60/11Bus_S
+#GA GA11 US129 concurrency Cleveland
 #GA GA11 US19/129 concurrency
 GA GA13 US19 US23_S
 #GA GA13 US23 concurrency
@@ -452,10 +459,12 @@ GA GA17 GA17Byp US78_E
 GA GA17 US123_S US23/441
 GA GA17 US441Bus_S GA105
 GA GA17 GA75_S GA180
+#GA GA17 parts of US76 concurrency
 GA GA17 US76_W GA/NC
 GA GA20 GA5Bus/140 I-575(16)
 #GA GA20 I-575 concurrency
-GA GA20 I-575(19) GA306
+GA GA20 I-575(19) GA9_N
+#GA GA20 GA9 concurrency
 #GA GA20 US 23 concurrency
 GA GA20 I-985 I-85
 GA GA20 GA316 GA84
@@ -481,15 +490,21 @@ GA GA43 US78 US378_W
 #GA GA44 (US 78 concurrency)
 GA GA48 AL/GA US27
 #GA GA49 US280 concurrency
+#GA GA52 US76/411 concurrency
+#GA GA52 GA9/US19 concurrency
 GA GA53 US41 I-75
 #GA GA53 GA5/515 concurrency
-GA GA53 I-985 GA13
+#GA GA53 GA9 concurrency
+GA GA53 GA306 GA211_S
 GA GA54 GA16 GA154
 GA GA54 GA34 GA74
 #GA GA54 US19/41 concurrency
 GA GA54 US19/41_N I-75/85
+GA GA60 I-985 GA369_W
+#GA GA60 GA369 concurrency
+GA GA60 US129Bus GA60Con
 #GA GA60 US19 concurrency
-GA GA60 US19_N GA180
+GA GA60 US19_N GA5/68
 GA GA61 I-20 US78_W
 #GA GA61 I-20 HickoryLevelRd
 GA GA63 I-85 GA184
@@ -500,7 +515,9 @@ GA GA70 GA154/166 US78/278
 GA GA72 US29 GA172
 GA GA74 GA54 US29
 GA GA75 GA384 GA17_S
-#GA GA75 GA17 concurrency
+#GA GA75 part of GA17 concurrency
+#GA GA75 most of US76 concurrency
+GA GA75 US76_W GA/NC
 #GA GA81 GA20/155 concurrency
 GA GA83 GA380 GA11/16
 GA GA84 US78 GA20
@@ -522,6 +539,7 @@ GA GA105 US23/441 GA17
 GA GA112 I-16 US80
 GA GA113 HicLevRd US78
 #GA GA113 US41 MainStreetMarketPlace (Kroger)
+GA GA115 GA284 US129Byp
 GA GA115 GA254 GA105
 #GA GA115 GA17 concurrency
 #GA GA119 US280 concurrency
@@ -580,6 +598,7 @@ GA GA180 GA60 US19/129_S
 GA GA180 US19/129_N GA17/75
 GA GA184 GA63 US123_S
 GA GA189 GA136 GA/TN
+GA GA211 GA347 GA53_W
 GA GA212 GA155 GA20_S
 GA GA212 GA36 GA16_W
 #GA GA212 GA16 concurrency
@@ -596,14 +615,21 @@ GA GA260 US23 I-20
 GA GA264 GA124 US78
 GA GA279 GA85 US29
 GA GA280 GA139 I-75
+#GA GA283 GA284 concurrency
+GA GA284 GA11Bus GA115
+GA GA288 US76_W US76_E
 GA GA299 GA/TN US11
 GA GA306 GA20 GA9_S
+#GA GA306 GA9 concurrency
+GA GA306 GA9_N GA53
 GA GA301 GA136 GA/AL
 GA GA314 GA85 GA139
 GA GA316 I-85 GA10Lp(1)
 GA GA324 GA20 US29Bus
 GA GA331 GA85 GA54
 GA GA337 AL/GA US27
+GA GA347 I-985 GA211
+GA GA348 GA75Alt GA180
 GA GA355 GA26 US80
 #GA GA360 GA120 concurrency
 GA GA360 GA120_E GA5/120
@@ -649,6 +675,9 @@ GA GA5BusBal GA5_S GA372_S
 #plus GA 372 concurrency
 GA GA6SprAus US278 PowSprRd
 GA GA10LpAth 1 US78
+#GA GA11BusGai GA60 concurrency
+GA GA11BusGai GA60Con GA284
+#GA GA11BypCle US129BypCle concurrency
 GA GA13ConDor US23 GA141
 GA GA14ConAtl US29 I-85/285
 GA GA15LpTal GA15_N GA15_S
@@ -662,9 +691,15 @@ GA GA39SprOma GA39 AL/GA
 GA GA42SprAtl GA54 US23
 #sight clinch over bridge - can see either end from either side
 GA GA42ConAtl GA10 US23
+GA GA53ConGai GA53 GA369
+#GA GA53ConGai GA60 concurrency
 #GA GA53Spr (GA136ConCal concurrency)
 GA GA54ConFor GA54 US23
 GA GA54ConAtl GA42Spr GA54
+GA GA60ConGai GA60 GA11Bus
+GA GA60SprMin GA60 GA/NC
+#GA GA75AltCle part of US129 concurrency
+GA GA75AltCle US129_N GA348
 GA GA120AltMar GA120_E GA120_W
 GA GA136ConCal GA136 US41
 GA GA138SprJon GA138 US19/41
@@ -673,6 +708,8 @@ GA GA154ConAtl GA154 I-20
 GA GA154SprDec GA154 US278
 GA GA180SprBra GA180 End
 #GA GA404SprSav part of US17 concurrency
+
+GA TN68 GA5/60 GA/TN
 
 GA HarTruPkwy GA21 US80
 
@@ -1068,50 +1105,128 @@ NY GraCenPkwy 10 13
 
 #northcarolina
 
+#NC I-26 I-240 concurrency
+NC I-40 27 131B(85)
+#NC I-40 I-85 concurrency
+NC I-40 259 284
 NC I-40 385 418
+#NC I-73 I-85 concurrency (if you consider it to exist)
+NC I-73 97A 100
+NC I-74Hig 71B 75
 NC I-74Pem 209 213
+NC I-77 SC/NC 13
+NC I-85 SC/NC 120
+#NC I-85 120 121 (I did not travel this but really deserve credit for it... what happened to 1PPI)
+NC I-85 121 172
 NC I-95 13 138
 NC I-140 14 20
+NC I-240 1A 9
+NC I-277 1B 5
+NC I-485 64 67
+NC I-540 1 2
+#NC I-885 not sure if this exists, but whatever is concurrent with NC 147
+
+NC I-85BLGre 33 36A
+#NC I-85BLGre I-40 concurrency
 
 NC US13 NC11/43 US17Byp_N
+NC US15 107 108B
 NC US17 HicRd US421_N
 NC US17 US64_W US13/US17BypWin_S
 NC US17 US17BypWin_N US17BypEli_S
 NC US19 GA/NC US64/74_W
 #NC US19 (US 64 concurrency)
-NC US64 US19_S NC69
+NC US19 US64_E US441_N
+#NC US19 I-26/240 concurrency
+#NC US21 I-77 concurrency
+#NC US23 part of Smoky Mtn US74 concurrency
+#NC US23 I-26/240 concurrency
+#NC US29 Salisbury-Lexington I-85 concurrency
+#NC US29 I-85/85BL/40 Greensboro concurrencies
+#NC US52 I-85 concurrency
+NC US52 107 109
+NC US64 TN/NC NC175
 NC US64 464 515
+#NC US70 I-240 concurrency
+#NC US70 I-40 concurrency Eastern Cont Divide
+#NC US70 Salisbury-Lexington I-85 concurrency
+#NC US70 I-85/85BL/40 Greensboro concurrencies
+#NC US70 part of I-85 Durham concurrency
 #NC US70 NC11/55 NC11/55
-#NC US74 (US 64 concurrency)
+#NC US74 (US 64, 19 concurrency)
+NC US74 BlueRidPkwy I-40(27)
+#NC US74 I-40 concurrency
+#NC US74 I-277 concurrency
 NC US74 NC130 I-74(209)
 NC US74 US17_S US17/421_N
 NC US76 NC904_S NC242
 NC US76 US17_S US17/74_N
 #NC US117 I-40(390) I-40(390)
-#NC US129 (US 19 concurrency)
+#NC US129 (US19 concurrency)
+#NC US158 part of US421 concurrency
+#NC US220 I-40 concurrency
 #NC US258 NC11/55 NC11/55
 #NC US258 (US-64 concurrency)
 #NC US301 (I-95 concurrency)
+NC US311 US52 MLKDr_S
+NC US321 NC7 I-85
 NC US421 US17/74_W I-140
+#NC US421 I-85 concurrency
+#NC US421 part of I-73 concurrency
+#NC US421 I-40 concurrency
+NC US421 232A 233A
+#NC US441 US19 concurrency
+NC US441 US19/441Bus BlueRidPkwy
+#NC US501 part of US15 concurrency
+#NC US601 I-85 concurrency
 
+#NC US74AltAsh I-240 concurrencies
 #NC US264AltWil NC903 NC903
+NC US15BusDur NC751 UniDr_W
+#actually Fosters Market at Hope Valley Rd, but close enough
 NC US17BypWin US17_S US17_N
 NC US17BypEli US17_S NC344
+NC US19BusMur US19_S US19_N
+NC US64BusHay US64_W US64_E
 NC US64BusRoc US64_W US301
+NC US70BusDur 15thSt MarAve
+NC US70BusDur CampusDr GregsonSt
+#NC US501BusDur US15BusDur concurrency
+#NC US19TrkWay part of US74 concurrency
+#NC US64TrkHen I-40, part of US74 concurrencies
 
+NC NC7 US321SB US321NB
+#NC NC8 part of US52 concurrency
 NC NC11 NC241 US13/64
+#NC NC16 I-277 concurrency
+#NC NC27 I-277 concurrency
+#NC NC28 US19/74 concurrency
 NC NC41 NC111_N I-40
 NC NC43 US64_W US64_E
 NC NC43 US264Alt_W US13_N
+NC NC51 SC/NC I-485(64)
 NC NC55 NC11_S NC11_N
-NC NC69 US64 GA/NC
-%NC NC87 US 17 concurrency
+NC NC60 US64/74 NC/GA
+NC NC69 GA/NC US64Bus
+#NC NC87 US 17 concurrency
+NC NC87 SweRd I-40/85
+#actually Moore St/Sheetz, but close enough
 NC NC111 NC41_S NC24
+NC NC147 5 13
+NC NC147 16 I-85
+NC NC175 GA/NC US64
 NC NC241 NC41/111 NC11
 NC NC344 US17Byp US17
 #didn't quite make it all the way to east end
+NC NC751 OKeChaRd I-409(274)
+NC NC751 US15Bus/501Bus US15/501
 NC NC903 NC11Win US13_N
 NC NC904 FloStrRd CheGroRd
+
+#NC NC86TrkHil I-40 concurrency
+
+NC BlueRidPkwy US441 US23/74
+
 
 #oklahoma
 
@@ -1187,10 +1302,7 @@ OR OR7 I-84 OR86
 SC I-20 GA/SC 6
 SC I-26 28 38
 SC I-26 51 52
-SC I-85 GA/SC 2
-SC I-85 21 35
-SC I-85 51B 69
-SC I-85 72 77
+SC I-85 GA/SC SC/NC
 SC I-95 GA/SC 5
 SC I-185 I-385 HenAve
 SC I-385 42 I-26
@@ -1204,12 +1316,16 @@ SC I-385BSGre US29 I-385
 SC US1 GA/SC US25_N
 SC US17 GA/SC I-95(5)
 SC US17 I-526(29) HarBlvd
+SC US21 SC51 I-77(90)
+#SC US21 I-77 concurrency
 #SC US25 (US 1 concurrency)
 SC US25 US1/78_N SC230
 SC US25 SC291 I-185(7)
 SC US29 GA/SC SC187
-#SC US29 part I-85, all I-185 concurrencies
+#SC US29 I-85, I-185 concurrencies
 SC US29 HenAve SC183
+SC US29 I-85(106) SC/NC
+# sight clinch to S/L beyond Pilot station
 SC US52 I-526(18) RedRd
 SC US76 GA/SC US123_N
 SC US78 I-526(18) RedRd
@@ -1246,6 +1362,7 @@ SC SC24 SC187_S SC28
 SC SC28 US76/28Bus SC24
 #SC SC28 US76/123 concurrency
 SC SC31 SC9 US501
+SC SC51Pin US21 SC/NC
 SC SC56 I-26 SC146
 SC SC56 US221_S HenSt_E
 SC SC59 I-85 SC182/243
@@ -1324,6 +1441,7 @@ TN US64 US11_S US41/76_S
 #TN US64 US11-//41//-76 concurrency
 TN US64 US41/76_N GerRd
 TN US64 US411 OceWhiCen
+TN US64 TN68 TN/NC
 #TN US70 (I-55 concurrency)
 #TN US70 (US 64 concurrency Memphis)
 TN US70 US431/70S 1stAve
@@ -1332,7 +1450,7 @@ TN US70S TN100 US431_S
 #TN US70S US431 concurrency
 TN US72Cha CedAve I-24(152)
 #TN US72Cha (US 64 concurrencies in and W of Chattanooga) 
-#TN US74 (US 64 concurrency)
+#TN US74 (parts of US 64 concurrency)
 TN US76 US127 US41_N
 #TN US76 (US41 concurrency)
 #TN US79 (I-55 concurrency)
@@ -1356,6 +1474,7 @@ TN TN27 I-24 US41/64
 TN TN50Win US41Alt_N US64_E
 #TN TN50Win part of US64 concurrency
 TN TN64 US41Alt TN437
+TN TN68 GA/TN US64/74
 TN TN100 TN254 US70S
 TN TN110 AL/TN LincolnCo
 TN TN134 US41/64 GA/TN
