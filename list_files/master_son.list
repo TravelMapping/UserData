@@ -962,7 +962,6 @@ NE US75 US30_E NE US75 US30_W
 NE US75 I-129(1) IA US75 IA9_W
 MN US75 MN27_E MN US75 CR10_A
 MN US75 I-94 MN US75 US10_E
-OK US75AltTul I-44(221) US75_N
 # US 76 not driven
 # US 77
 TX US77 I-35(334A) TX US77 I-35(370)
@@ -2270,7 +2269,6 @@ OH OH743 US52_W US52_E
 
 # Oklahoma (OK)
 # ---------------------
-OK IndNatTpk 63 104                 # Indian Nation Turnpike
 OK OK3 I-44(123B) I-40(166)
 OK OK3Ada US69_N US69/75
 OK OK3Ada US70_E US259_S
@@ -2284,6 +2282,7 @@ OK OK53 I-35(42) I-35(40)
 OK OK66 I-44(123B) I-35(141)
 OK OK66 I-44(221) I-44(241)
 OK OK112 US59/271 US271_N
+OK OK375 63 104                 # Indian Nation Turnpike
 
 # Oregon (OR)
 # ---------------------
