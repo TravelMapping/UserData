@@ -338,6 +338,8 @@ GA US23 I-985(24) OldClaRd
 GA US23 OldClaRd LedfordRd_Dillard
 #plus various concurrencies
 #GA US25 brief US 1 concurrency
+#GA US27 ClinicSt_Carrollton MapSt
+GA US27 MapSt GA113
 GA US27 GA39Con US280_E
 #GA US27 US280 concurrency
 GA US27 GA219_S US29_N
@@ -417,6 +419,7 @@ GA US29BusWin US29_S GA324
 GA US129BypCle GA115 US129_N
 GA US441BusCla US23/441 GA17/115_N
 
+#GA GA1 any US27 concurrencies
 #GA GA2 US41/76 concurrency
 #GA GA2 US411 concurrency
 #GA GA2 US76 concurrency segments across NGa
@@ -448,6 +451,7 @@ GA GA13 US23_N GA369
 GA GA14 US29_N TedTurDr
 #plus US 29 concurrency to the south
 #GA GA15 US280 concurrency
+#GA GA16 part of US27 concurrency
 #GA GA16 US29 concurrency
 GA GA16 US27Alt/29 GA54
 GA GA16 US19Bus_N US19Bus_S
@@ -537,7 +541,7 @@ GA GA92 I-75 GA9/120
 GA GA104 I-20 US25Bus
 GA GA105 US23/441 GA17
 GA GA112 I-16 US80
-GA GA113 HicLevRd US78
+GA GA113 US27 US78
 #GA GA113 US41 MainStreetMarketPlace (Kroger)
 GA GA115 GA284 US129Byp
 GA GA115 GA254 GA105
