@@ -1,4 +1,4 @@
-# Date: 2021-10-31
+# Date: 2021-11-06
 # ----------------
 
 
@@ -2629,8 +2629,7 @@ DEU-NI B69 A1 B51/B214
 DEU-NI B70 B438 B214
 DEU-NI B70Sal NW/NI NI/NW
 DEU-NI B71 HB/NI L143
-DEU-NI B71 L122_W GloStr
-DEU-NI B71 A7 B209_N
+DEU-NI B71 L122_W B209_N
 DEU-NI B72 HafStr B436_E
 DEU-NI B72 B438 A1
 DEU-NI B73 A27(2) NI/HH
@@ -2685,6 +2684,7 @@ DEU-NI B446 A7 B247n
 DEU-NI B446Dud L569 B247
 DEU-NI B482 B441 NI/NW
 DEU-NI B493 B248_N L256_S
+DEU-NI B494 A7 B6
 DEU-NI L2Kru L3/L4 A31
 DEU-NI L4 L25 L2/L3
 DEU-NI L5 L27 B72
@@ -6338,11 +6338,13 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf (via Nürnberg Hbf)
 #DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf (via Treuchtlingen)
 
-#DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf
+#DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #RE4
+#DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #RE4
 
 #DEU-NW  Düsseldorf Hbf               DEU-BY  Aschaffenburg Hbf
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf
+#DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf (Stuttgart, Mannheim, Frankfurt Flughafen, Köln, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück) #ICE1164
 
 #DNK Roskilde Copenhagen
 
