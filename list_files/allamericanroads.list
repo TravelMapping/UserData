@@ -136,7 +136,7 @@ IL US34 CarRd IL164_A
 ##missing section on county routes
 IL IL96 US24_W CarRd
 IL US24 IL57/104 IL96_N
-IL IL57 IL172 US24/104
+IL IL57 I-172 US24/104
 
 IL IL3 BriBypRd I-270
 ##missing section
@@ -415,7 +415,7 @@ MA MA2ACam BatRd MA60_W
 
 #Trail Ridge Road/Beaver Meadow Road
 CO US34 PorRd US34Bus
-CO US34BusEst US34 US36_W
+CO US34BusEst US34_W US36_W
 CO US36 US34_W US34Bus_W
 
 #Volcanic Legacy Scenic Byway
