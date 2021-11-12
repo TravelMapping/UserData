@@ -1097,6 +1097,7 @@ WA WSeaBri I-5(163A) AdmWay
 ########################
 # Trans-Canada Highway #
 ########################
+BC TCHMai 2 27
 BC TCHMai 92 170
 BC TCHMai 362 BC/AB
 AB TCHMai BC/AB 118
@@ -1107,17 +1108,20 @@ AB TCHYel BC/AB AB93
 ##########################
 # BC Provincial Highways #
 ##########################
-BC BC1 2 17
 
 BC BC3 170 177
 
 BC BC5 177 BC16
+
+BC BC91 BC99 22
 
 BC BC93 BC/AB USA/CAN
 
 BC BC95 BC1 USA/CAN
 
 BC BC99 USA/CAN 3(BC1)
+
+BC KniSt BC91 63rdAve
 
 ###############################
 # Alberta Provincial Highways #
