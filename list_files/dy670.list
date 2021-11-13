@@ -82,8 +82,7 @@ TX I-45 284A 1A
 ## Interstate 49
 
 # Missouri
-MO I-49 I-435 53
-MO I-49 39B 4
+MO I-49 I-435 4
 
 # Arkansas
 AR I-49 20 93
@@ -204,7 +203,10 @@ MI I-94 194 213B
 ## Interstate 95
 
 # Florida
-FL I-95 24 1
+FL I-95 24 US1
+
+# Rhode Island
+RI I-95 13 21
 
 
 ## Interstate 96
@@ -231,10 +233,16 @@ MO I-170 1A 10
 NE I-180 I-80 9thSt
 
 
-# Interstate 190
+## Interstate 190
 
 # New York
 NY I-190 I-90 21
+
+
+## Interstate 229
+
+# Missouri
+MO I-229 1A 14 
 
 
 ## Interstate 270
@@ -392,6 +400,10 @@ TX I-820 16A 22B
 # Florida
 FL US1 1stSt I-95(2A)
 
+# Rhode Island
+RI US1 US1Bus/117 RI37
+RI US1 EmpSt ExcTer
+
 # Virginia/Washington, DC
 VA US1 I-395(9) DC US1 ConAve_E
 
@@ -404,6 +416,10 @@ CO US6 I-25/70 I-70(276A)
 
 # Iowa
 IA US6 I-80(1A) I-80(8)
+
+# Rhode Island
+RI US6 RI128 RI10_S
+RI US6 I-95(21) I-195(1)
 
 
 ## US 19
@@ -498,6 +514,12 @@ WV US40 I-70(5) PA US40 LibSt
 MD US40 I-70(1A) I-70(9)
 
 
+## US 44
+
+# Rhode Island
+RI US44 WasPl RI15/104
+
+
 ## US 50
 
 # From Hutchinson, KS to east of Jefferson City, MO
@@ -511,6 +533,12 @@ OH US50 I-71(1A) I-71(1D)
 
 # Washington, DC
 DC US50 23rdSt ConAve_E
+
+
+## US 53
+
+# Minnesota
+MN US53 MN33 MN169
 
 
 ## US 54
@@ -535,11 +563,10 @@ KS US56 KS/MO KS177_S
 ## US 59
 
 # Texas
-TX US59 TXSpr91 I-69(123)
-TX US59 I-69(149A) US79_N
+TX US59 TXSpr91 US79_N
 
 # From Texarkana, AR to Acorn, AR
-TX US59 TXLp151 US71/270
+TX US59 TXLp151 AR US59 US71/270
 
 # Oklahoma
 OK US59 US69_N I-44/60
@@ -801,10 +828,25 @@ KS KS268 US75/31 KS68
 LA LA27 LA82_W LA1256
 
 ## LA-82
-LA LA82Hol LA/TX LA27_N
+LA LA82Hol TX/LA LA27_N
 
 ## LA-1256
 LA LA1256 LA27/108 I-10
+
+
+### Minnesota State Highways
+
+## MN-1
+MN MN1 MN169_S MN169_N
+
+## MN-33
+MN MN33 I-35 US53
+
+## MN-37
+MN MN37 US53_S US53_N
+
+## MN 169
+MN MN169 US53 CR58
 
 
 ### Missouri State Highways
@@ -1001,7 +1043,7 @@ PA PA51 FerSt SewBri
 PA PA65 BroSt I-279
 
 ## PA-130
-PA PA130 PA130 PA8
+PA PA130 PA48 PA8
 
 ## PA-136
 PA PA136 ValViewRd PA43
@@ -1026,6 +1068,18 @@ PA PA885 HotMetSt HazAve
 ## PA-910
 PA PA910 I-79 HarRd
 PA PA910 FreRd IndRd
+
+
+### Rhode Island State Highways
+
+## RI-10
+RI RI10 US6_W 1B
+
+## RI-37
+RI RI37 2A 3
+
+## RI-128
+RI RI128 GreAve_E US6
 
 
 ### Texas State Highways
