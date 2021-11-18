@@ -486,11 +486,8 @@ CO US40 MouViewDr I-70(244)
 CO US40 I-70(252) I-70(254)
 CO US40 I-70(288) I-70(359)
 
-# Kansas
-KS US40 I-70(76) KS4_E
-
-# From west of Lawrence, KS to east of St. Louis, MO
-KS US40 CR442 IL US40 I-55(17)
+# From east of CO/KS to east of St. Louis, MO
+KS US40 I-70(76) IL US40 I-55(17)
 
 # Illinois
 IL US40 I-70(30) I-70(36)
@@ -527,6 +524,7 @@ KS US50 KS61_N MO US50 US63_S
 
 # Missouri
 MO US50 I-44(247) I-44(277A)
+MO US50BusCal US50_W US50_E
 
 # Ohio
 OH US50 I-71(1A) I-71(1D)
@@ -601,6 +599,9 @@ MO US61 I-64(28A) I-70
 
 # Ohio
 OH US62 I-77(107B) AtlBlvd
+
+# Oklahoma
+OK US62 I-40(240) US75_N
 
 
 ## US 63
@@ -683,10 +684,13 @@ KS US73 KS92_E I-70
 TX US75 I-30 OK US75 US69_N
 
 # Kansas
-KS US75 I-470(5) I-70(358A)
+KS US75 I-70(358A) I-35
 
 # Nebraska
 NE US75 US75Bus_S NE2_W
+
+# Oklahoma
+OK US75 I-40(240) I-44
 
 
 ## US 77
@@ -750,11 +754,19 @@ NY US219 I-90_N I-90_S
 # Ohio
 OH US224 I-76(18) I-77/277
 
+## US 412
+
+# Oklahoma
+OK US412 I-44/364 I-44(236B)
+
 
 ### Iowa State Highways
 
 ## IA-2
 IA IA2 I-29 NE/IA
+
+## IA-146
+IA IA146 I-80 US6
 
 
 ### Kansas State Highways
@@ -791,8 +803,7 @@ KS KS18 KS113 KS177_S
 
 ## K-31
 KS KS31 US56_E US56_W
-KS KS31 US75_N 6thSt
-KS KS31 I-35(162) I-35(160)
+KS KS31 US75_N I-35(162)
 KS KS31 US169_N US169_S
 
 ## K-32
@@ -808,7 +819,7 @@ KS KS52 US69_N US69_S
 KS KS61 11thAve KS14/96_S
 
 ## K-68
-KS KS68 KS33 I-35
+KS KS68 KS33 US75/31
 
 ## K-92
 KS KS92 KS4 KS/MO
@@ -827,6 +838,15 @@ KS KS237 US24 PerLakeSP
 
 ## K-268
 KS KS268 US75/31 KS68
+
+## K-276
+KS KS276 OliLim US75
+
+## K-278
+KS KS278 FaiRd US75/31
+
+## K-368
+KS KS368 KS268 229thSt
 
 
 ### Louisiana State Highways
@@ -1031,6 +1051,15 @@ OH OH283 E185thSt LakShoBlvd_W
 OH OH283 StCAve I-90(176)
 
 
+### Oklahoma State Highways
+
+## OK-66
+OK OK66 I-44(224) I-44(241)
+
+## OK-375
+OK OK375 63 104
+
+
 ### Pennsylvania State Highways
 
 ## PA-8
@@ -1185,6 +1214,9 @@ TX DalNorTlwy I-635 MocLn
 
 ## Hardy Toll Road
 TX HarTollRd I-45 AirCon
+
+## International Parkway
+TX IntPkwy TXSpr97 TX114/121
 
 ## NASA 1
 TX NASA1 I-45 TX146
