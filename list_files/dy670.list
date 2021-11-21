@@ -71,7 +71,7 @@ OK I-44 224 MO I-44 18
 
 # Missouri
 MO I-44 70 277A
-
+MO I-44BLRol I-44_W I-44_E
 
 ## Interstate 45
 
@@ -82,8 +82,7 @@ TX I-45 284A 1A
 ## Interstate 49
 
 # Missouri
-MO I-49 I-435 53
-MO I-49 39B 4
+MO I-49 I-435 4
 
 # Arkansas
 AR I-49 20 93
@@ -204,7 +203,10 @@ MI I-94 194 213B
 ## Interstate 95
 
 # Florida
-FL I-95 24 1
+FL I-95 24 US1
+
+# Rhode Island
+RI I-95 13 21
 
 
 ## Interstate 96
@@ -231,10 +233,16 @@ MO I-170 1A 10
 NE I-180 I-80 9thSt
 
 
-# Interstate 190
+## Interstate 190
 
 # New York
 NY I-190 I-90 21
+
+
+## Interstate 229
+
+# Missouri
+MO I-229 1A 14 
 
 
 ## Interstate 270
@@ -392,6 +400,10 @@ TX I-820 16A 22B
 # Florida
 FL US1 1stSt I-95(2A)
 
+# Rhode Island
+RI US1 US1Bus/117 RI37
+RI US1 EmpSt ExcTer
+
 # Virginia/Washington, DC
 VA US1 I-395(9) DC US1 ConAve_E
 
@@ -404,6 +416,10 @@ CO US6 I-25/70 I-70(276A)
 
 # Iowa
 IA US6 I-80(1A) I-80(8)
+
+# Rhode Island
+RI US6 RI128 RI10_S
+RI US6 I-95(21) I-195(1)
 
 
 ## US 19
@@ -470,11 +486,8 @@ CO US40 MouViewDr I-70(244)
 CO US40 I-70(252) I-70(254)
 CO US40 I-70(288) I-70(359)
 
-# Kansas
-KS US40 I-70(76) KS4_E
-
-# From west of Lawrence, KS to east of St. Louis, MO
-KS US40 CR442 IL US40 I-55(17)
+# From east of CO/KS to east of St. Louis, MO
+KS US40 I-70(76) IL US40 I-55(17)
 
 # Illinois
 IL US40 I-70(30) I-70(36)
@@ -498,6 +511,12 @@ WV US40 I-70(5) PA US40 LibSt
 MD US40 I-70(1A) I-70(9)
 
 
+## US 44
+
+# Rhode Island
+RI US44 WasPl RI15/104
+
+
 ## US 50
 
 # From Hutchinson, KS to east of Jefferson City, MO
@@ -505,12 +524,19 @@ KS US50 KS61_N MO US50 US63_S
 
 # Missouri
 MO US50 I-44(247) I-44(277A)
+MO US50BusCal US50_W US50_E
 
 # Ohio
 OH US50 I-71(1A) I-71(1D)
 
 # Washington, DC
 DC US50 23rdSt ConAve_E
+
+
+## US 53
+
+# Minnesota
+MN US53 MN33 MN169
 
 
 ## US 54
@@ -535,11 +561,11 @@ KS US56 KS/MO KS177_S
 ## US 59
 
 # Texas
-TX US59 TXSpr91 I-69(123)
+TX US59 TXSpr91 I-69(139)
 TX US59 I-69(149A) US79_N
 
 # From Texarkana, AR to Acorn, AR
-TX US59 TXLp151 US71/270
+TX US59 TXLp151 AR US59 US71/270
 
 # Oklahoma
 OK US59 US69_N I-44/60
@@ -573,6 +599,9 @@ MO US61 I-64(28A) I-70
 
 # Ohio
 OH US62 I-77(107B) AtlBlvd
+
+# Oklahoma
+OK US62 I-40(240) US75_N
 
 
 ## US 63
@@ -655,16 +684,25 @@ KS US73 KS92_E I-70
 TX US75 I-30 OK US75 US69_N
 
 # Kansas
-KS US75 I-470(5) I-70(358A)
+KS US75 I-70(358A) I-35
 
 # Nebraska
 NE US75 US75Bus_S NE2_W
+
+# Oklahoma
+OK US75 I-40(240) I-44
 
 
 ## US 77
 
 # Texas
 TX US77 TX89 TXSpr91
+
+
+## US 79
+
+# From Carthage, TX to Shreveport, LA
+TX US79 US59_S LA US79 US80/169
 
 
 ## US 90
@@ -716,11 +754,19 @@ NY US219 I-90_N I-90_S
 # Ohio
 OH US224 I-76(18) I-77/277
 
+## US 412
+
+# Oklahoma
+OK US412 I-44/364 I-44(236B)
+
 
 ### Iowa State Highways
 
 ## IA-2
 IA IA2 I-29 NE/IA
+
+## IA-146
+IA IA146 I-80 US6
 
 
 ### Kansas State Highways
@@ -757,8 +803,7 @@ KS KS18 KS113 KS177_S
 
 ## K-31
 KS KS31 US56_E US56_W
-KS KS31 US75_N 6thSt
-KS KS31 I-35(162) I-35(160)
+KS KS31 US75_N I-35(162)
 KS KS31 US169_N US169_S
 
 ## K-32
@@ -774,7 +819,7 @@ KS KS52 US69_N US69_S
 KS KS61 11thAve KS14/96_S
 
 ## K-68
-KS KS68 KS33 I-35
+KS KS68 KS33 US75/31
 
 ## K-92
 KS KS92 KS4 KS/MO
@@ -794,6 +839,15 @@ KS KS237 US24 PerLakeSP
 ## K-268
 KS KS268 US75/31 KS68
 
+## K-276
+KS KS276 OliLim US75
+
+## K-278
+KS KS278 FaiRd US75/31
+
+## K-368
+KS KS368 KS268 229thSt
+
 
 ### Louisiana State Highways
 
@@ -801,10 +855,28 @@ KS KS268 US75/31 KS68
 LA LA27 LA82_W LA1256
 
 ## LA-82
-LA LA82Hol LA/TX LA27_N
+LA LA82Hol TX/LA LA27_N
+
+## LA-169
+LA LA169 US80_W I-20
 
 ## LA-1256
 LA LA1256 LA27/108 I-10
+
+
+### Minnesota State Highways
+
+## MN-1
+MN MN1 MN169_S MN169_N
+
+## MN-33
+MN MN33 I-35 US53
+
+## MN-37
+MN MN37 US53_S US53_N
+
+## MN 169
+MN MN169 US53 CR58
 
 
 ### Missouri State Highways
@@ -979,6 +1051,15 @@ OH OH283 E185thSt LakShoBlvd_W
 OH OH283 StCAve I-90(176)
 
 
+### Oklahoma State Highways
+
+## OK-66
+OK OK66 I-44(224) I-44(241)
+
+## OK-375
+OK OK375 63 104
+
+
 ### Pennsylvania State Highways
 
 ## PA-8
@@ -1001,7 +1082,7 @@ PA PA51 FerSt SewBri
 PA PA65 BroSt I-279
 
 ## PA-130
-PA PA130 PA130 PA8
+PA PA130 PA48 PA8
 
 ## PA-136
 PA PA136 ValViewRd PA43
@@ -1026,6 +1107,18 @@ PA PA885 HotMetSt HazAve
 ## PA-910
 PA PA910 I-79 HarRd
 PA PA910 FreRd IndRd
+
+
+### Rhode Island State Highways
+
+## RI-10
+RI RI10 US6_W 1B
+
+## RI-37
+RI RI37 2A 3
+
+## RI-128
+RI RI128 GreAve_E US6
 
 
 ### Texas State Highways
@@ -1121,6 +1214,9 @@ TX DalNorTlwy I-635 MocLn
 
 ## Hardy Toll Road
 TX HarTollRd I-45 AirCon
+
+## International Parkway
+TX IntPkwy TXSpr97 TX114/121
 
 ## NASA 1
 TX NASA1 I-45 TX146
