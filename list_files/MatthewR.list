@@ -26,11 +26,14 @@ CA I-8 170 CA/AZ
 CA I-10 1 131
 
 #California I-15
-CA I-15 19 109
+CA I-15 19 115
 CA I-15 179 246
 
 #California I-80
 CA I-80 1A CA/NV
+
+#California I-105
+CA I-105 1A 7B
 
 #California I-110
 CA I-110 GafSt 3A
@@ -260,6 +263,10 @@ AZ US95 I-8BL ForRd
 #California US-50
 CA US50 I-80 CA/NV
 
+#California US-66 Hollywood Historic Section
+CA US66HisHol WilBlvd SanVinBlvd
+CA US66HisHol SprSt DalySt
+
 #California US-101
 CA US101 WilCrkRd CA60
 
@@ -336,7 +343,9 @@ CA CA1 LitLakeRd CA128
 CA CA1 OldStaHwy ValRd
 CA CA1 226 62B(101)
 CA CA1 109 1(10)
+CA CA1 I-105 LAX
 CA CA1 CreBlvd I-110
+CA CA1 SeaBeaBlvd CA39
 CA CA1 CA55 JamRd
 
 #CA-1 Bus Cayucos:
@@ -352,7 +361,9 @@ CA CA1BusMon CA1(401A) CA1(399B)
 CA CA1BusSea CA1(401B) CA1(404)
 
 #CA-2:
+CA CA2 WilBlvd SanVinBlvd
 CA CA2 US101(7) US101(4B)
+CA CA2 13A PacCreTr
 
 #CA-3:
 CA CA3 CA299_E CA299_W
@@ -386,6 +397,12 @@ CA CA17 26 1A
 #CA-17 Bus Scotts Valley
 CA CA17BusSco ScoValDr CA17(3)
 
+#CA-18:
+CA CA18 CA210 KelPeakRd
+
+#CA-19:
+CA CA19 WhiBlvd WasBlvd
+
 #CA-20:
 CA CA20 US101(568) CA29
 CA CA20 CA99 I-80
@@ -418,6 +435,9 @@ CA CA36 I-5BL_S CA89_N
 #CA-37:
 CA CA37 US101 21
 
+#CA-39 Azusa Section:
+CA CA39Azu FooBlvd End
+
 #CA-41:
 CA CA41 CA1 US101
 CA CA41 CA46_W CA46_E
@@ -438,7 +458,7 @@ CA CA49 CA108Bus_E CA120_E
 CA CA49 CA140_W CA140_E
 
 #CA-55:
-CA CA55 1 5A
+CA CA55 1 11A
 
 #CA-56:
 CA CA56 1A 9
@@ -677,6 +697,7 @@ CA CA203 Mad/Mon US395
 
 #CA-210:
 CA CA210 45 54
+CA CA210 64A 81
 
 #CA-216:
 CA CA216 CA198_E CHJ23/J34
@@ -719,6 +740,9 @@ CA CA273 CypAve I-5(681B)
 
 #CA-299:
 CA CA299 2 AdaRd
+
+#CA-330:
+CA CA330 CA210 CA18
 
 #(Nevada State Highways)
 
