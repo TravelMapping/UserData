@@ -1,6 +1,12 @@
-# 10/24/2021
-# v38 
-# Added NY I-99
+# 11/20/2021
+# v39
+# Completed AZ AZ71
+# Completed AZ US66HisKin
+# Completed AZ AZ95Bul
+# Completed CA I-605
+# Completed CA I-710
+# Added CA I-5TrkNew
+# Fixed NY I-99
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -60,7 +66,7 @@ AZ AZ64 I-40 US89
 AZ AZ66 I-40 Coc/Yav
 AZ AZ68 AZ95 US93
 AZ AZ69 I-17 AZ89
-AZ AZ71 US93 AZ89
+AZ AZ71 US60 AZ89
 AZ AZ72 AZ95 US60
 AZ AZ73 US60/77 AZ260
 AZ AZ74 US60 I-17
@@ -83,7 +89,7 @@ AZ AZ89ASed 317 I-40BL
 AZ AZ90 AZ80 I-10
 AZ AZ92 AZ90 AZ80
 AZ AZ95 I-10BL/95 I-40
-AZ AZ95Bul PassCanRd AZ/NV
+AZ AZ95Bul CA/AZ AZ/NV
 AZ AZ95SPaD AZ95 TakPoiRd
 AZ AZ95SPar CA/AZ AZ95
 AZ AZ96 BruMineRd HilRd
@@ -136,9 +142,7 @@ AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
 AZ US66HisJos I-40(274) I-40(277)
-AZ US66HisKin I-40(1) I-40(44)
-#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014  
-AZ US66HisKin ToUS93 I-40(139)
+AZ US66HisKin I-40(1) I-40(139)
 AZ US66HisLup I-40(359) AZ/NM
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
@@ -210,8 +214,9 @@ WY I-90 MT/WY WY/SD            #210 vs 209
 WY I-180 I-80 I-80BL/30        #  1
 
 # California
-# 2456 miles: 2455 on 1 not on
+# 2456 miles
 CA I-5 MEX/USA CA/OR           #806 vs 797
+CA I-5TrkNew I-5_S I-5_N       #  1 vs 0
 CA I-8 SunCliBlvd CA/AZ        #172 vs 170
 CA I-10 1 CA/AZ                #246 vs 241 overlap I-5
 CA I-15 6B CA/NV               #291 vs 287
@@ -229,9 +234,9 @@ CA I-380 5A 7                  #  2 vs 3
 CA I-405 I-5(94A) I-5(158)     # 73 vs 72
 CA I-505 1A I-5                # 34 vs 33
 CA I-580 1A I-5                # 80 vs 76
-CA I-605 CA22 27               # 29 vs 28   Missed Huntington Drive extension
+CA I-605 CA22 HunDr            # 29 vs 28
 CA I-680 I-280/101 71          # 71
-CA I-710 1A ValBlvd            # 22 vs 20
+CA I-710 1 ValBlvd             # 22 vs 20
 CA I-780 1A 7                  #  7
 CA I-805 I-5(1A) I-5(31)       # 29 vs 28
 CA I-880 I-280 46B             # 46 vs 47
@@ -598,7 +603,7 @@ NY I-87 I-278 USA/CAN          #335 vs 334
 NY I-88 I-81 I-90              #118
 NY I-90 PA/NY NY/MA            #390 vs 386
 NY I-95 NJ/NY NY/CT            # 24
-NY I-99 PA/NY                  # 12    Built 2013 signed 2014
+NY I-99 PA/NY 13               # 12    Built 2013 signed 2014
 NY I-190 I-90 USA/CAN          # 28
 NY I-278 NJ/NY I-95            # 34
 NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87
