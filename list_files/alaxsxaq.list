@@ -7,9 +7,9 @@ AZ I-40 195 OK I-40 151B
 AZ I-19BLNog AZ82 I-19_N
 AZ I-40BLFla AZ89A I-40_E
 #other major interstate sections
-UT I-15 95 MT I-15 302 #UT20 to power
+UT I-15 95 MT I-15 USA/CAN #UT20 to canada
 #MT
-MT I-15BLGre US87Byp_N RivDr
+MT I-15BLGre I-15_S I-15_N #i-15 business route through great falls 100% completed 2021
 MT US87BypWGr I-15BL_S WireMillRd
 MT US87BypGre US87_N GiaSprRd
 MT US89 SheCreRd US2_W #~whitebark pine thing to browning
@@ -71,6 +71,8 @@ AZ US70 US60 US191_N
 AZ US191 US70_W AZ366 #safford to az366
 AZ US191 US70_E FR12 #us70 to north of morenci
 AZ AZ366 US191 End #us191 to shannon campground
+#fredonia (mohave)
+AZ AZ389 US89Alt SixMileRd
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -112,6 +114,10 @@ WY GraLpRd NEntRd_W NEntRd_E
 WY WEntRd MT/WY GraLoopRd
 MT WEntRd MT/WY US20/191
 WY NorCynRd GraLoopRd_W GraLoopRd_E
+#bryce canyon
+UT UT12 US89 UT63
+UT UT63 UT12 BryCanNP
+UT BryCynSceDr UT63 End
 #moab
 UT US6 US89_S I-70(182)
 UT US191 I-70(182) AZ US191 US160_E
@@ -131,14 +137,21 @@ TX I-635 27B 8
 TX I-30 56B 39
 #CA (incomplete)
 CA US101 VanNessAve_N CA255_S #SF to eureka
-CA US395 CA14 CA120_W #ridgecrest to lee vining
+CA I-15 115 141
+CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
+CA CA41 YosNP 126A #yosemite to fresno
+CA CA99 131 97 #fresno to visalia
+CA CA65 SprAve CA99 #visalia to bakersfield
+CA CA99 30 I-5(221)
+CA I-5 221 144
 #yosemite
 CA TioPassRd CA120 BigOakRd
 CA BigOakRd TioPassRd ElPorRd
-CA ElPorRd BigOakRd WawRd #which way did we exit
+CA ElPorRd BigOakRd WawRd
+CA WawRd BriFalTr CA41
 #sequoia
-CA CA198 CA216_E SeqNP
+CA CA198 101 SeqNP
 CA GenHwy CA198 CreMeaRd #to sentinel tree
 #big bear
 CA CA38 GarAve PolCanRd #at least (at base), to cougar creek trail
@@ -157,7 +170,36 @@ NM US66HisSan I-40(275) NM91
 #thunder bay (incomplete)
 ON ON17 SH590 SupShoRd #extend to ouimet canyon road
 #ON587 (sleeping giant)
+ON SH587 ON11/17 SH587_End
 #mount mckay?
+#transit through canada
+AB AB4 USA/CAN AB512 
+AB AB3 AB512_W AB23
+AB AB23 AB3 AB519
+AB AB519 AB23 AB2
+AB AB2 AB519 AB216(78) 
+AB AB216 AB2 25
+AB AB16 378 340
+AB AB43 AB16 BC/AB
+BC BC2 BC/AB BC97
+BC BC97 BC2 BC/YT
+YT BC97Con BC/YT YT/BC
+BC BC97Con YT/BC BC/YT
+YT BC97Lia BC/YT YT/BC
+BC BC97Lia YT/BC BC/YT
+YT BC97Yuk BC/YT YT/BC
+BC BC97Low YT/BC BC/YT
+YT YT1Wat BC/YT YT/BC
+BC YT1 YT/BC BC/YT
+YT YT1 BC/YT YT/AK
+#AK
+AK AK2 YT/AK MakTr #to scoby way
+AK AK1 AK2 AK9
+AK HicPkwy AK1 CSt
+AK HicPkwy TudRd DimBlvd
+AK AK3 AK1 HeaSpurRd
+AK ParkRd AK3 StoHillOve #denali
+AK AK9 AK1 RaiAve #seward
 
 #CA
 #thunder bay
