@@ -76,7 +76,7 @@ MA I-93 1 MA/NH
 MA I-95 RI/MA MA/NH
 MA I-190 I-290 MA2
 MA I-195 RI/MA 14
-MA I-290 7 26
+MA I-290 12 32 #MA must have switched to milepost based exit numbers since I moved out...
 MA I-395 CT/MA 7
 MA I-495 1 I-95
 RI I-95 CT/RI RI/MA
@@ -768,7 +768,7 @@ CT CT187 CT189_N CT20
 CT CT189 CT187_N CT315
 CT CT229 I-84 US6
 CT CT272 CT4 MarLakeRd
-CT CT287 US5 CT3
+CT CT287 US5_S CT3
 CT CT309 StrBroRd CT167
 CT CT313 CT115_N CT67
 CT CT315 US202 CT189
@@ -972,7 +972,7 @@ PA PA23 BriAve RockHillRd
 PA PA23AltTrkKop PA23_W PA23_E
 PA PA24 PA462 US30
 PA PA29Pho US30 I-78
-PA PA29TrkMac *TreRd_S PA100_S
+#PA PA29TrkMac *TreRd_S PA100_S #hum, what happened to this one?
 PA PA32 US1 PA32AltTrk_N
 PA PA32 TreAve WooRd
 PA PA32 DarkHolRd BriSt_Fre
@@ -1153,7 +1153,7 @@ PA PA934 US422 I-81
 PA PA940 I-80 PA437
 PA PA997 MD/PA PA641_W
 PA BetRossBri I-95 PA/NJ
-PA CenScrExp I-81 US11/307
+PA PreBidExpy I-81 US11/307 #Naming highways after people who are still alive is unusual, no?
 
 NJ NJ3 NJ21 NJ495
 NJ NJ12 PA/NJ CR523
