@@ -5,8 +5,8 @@
 # gspeterson7@gmail.com
 # 508-472-4001
 #
-# Last Updated: Dec 16, 2021
-# Last Excel sync date: 
+# Last Updated: Dec 17, 2021
+# Last Excel sync date: Dec 17, 2021
 #
 # Mail to: travmap@teresco.org
 #
@@ -530,7 +530,8 @@ RI I-295 I-95 RI/MA
 # SC - South Carolina
 #
 SC I-20 GA/SC 141
-SC I-26 19 108
+Sc I-26 NC/SC 18
+SC I-26 108 221
 SC I-77 I-26 SC/NC
 SC I-85 GA/SC SC/NC
 SC I-95 GA/SC 86
@@ -650,4 +651,35 @@ WI I-894 1A 10
 WY I-25 CO/WY 191
 WY I-80 359 362
 WY I-180 I-80 I-80BL/30
+
+#
+#####################################
+#
+#
+# Canada Highways
+#
+
+ON ON400 21 105
+ON ON401 183 ON/QC
+ON ON402 1 ON401
+ON ON403 ON401_W 80
+ON ON405 QEW ON/USA
+ON ON417 QC/ON ON17_Bra
+ON ONQEW 37 100
+
+QC A-10 1 121
+QC A-20 ON/QC 75
+QC A-30 1 5
+QC A-40 1 32
+QC A-55 QC247 121(10)
+
+NB NB1 USA/CAN NB2
+NB NB2 187 NB/NS
+NB NB11 NB15 32
+NB NB95 USA/CAN NB2
+
+NS NS101 1G NS3
+NS NS102 BayRd 15
+NS NS103 1 HarRd
+
 
