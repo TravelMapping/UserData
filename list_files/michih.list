@@ -1,4 +1,4 @@
-# Date: 2021-12-23
+# Date: 2021-12-25
 # ----------------
 
 
@@ -4012,7 +4012,8 @@ EST T69 T6 T2
 FIN Vt1 Vt4 Vt10
 FIN Vt2 Vt1 Vt8_N
 FIN Vt3 Vt1 40
-FIN Vt4 Vt1 Kt82
+FIN Vt4 Vt1 55
+FIN Vt4 60 Kt82
 FIN Vt5 23 24
 FIN Vt5 61 94
 FIN Vt5 Vt20 Kt82_W
@@ -4050,10 +4051,11 @@ FIN St103 Vt7 SeiKatu
 FIN St120 St101 Kt50
 FIN St135 Kt50 ParTie
 FIN St170 St101 St103
+FIN St624 MatTie Vt4/13_N
 FIN MooHelTam 9 KuoTie
 FIN E18 SatKatu 84
 FIN E63 Vt8 SatKatu_S
-FIN E75 HelFry Kt82
+FIN E75 HelFry 55
 
 
 
