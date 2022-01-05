@@ -2203,7 +2203,7 @@ NY FDRooDr I-478 17              # -- FDR Drive (NYC)
 NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
 NY HenHudPkwy 8 24               # -- Henry Hudson Parkway
-NY HutRivPkwy 1 3                # -- Hutchinson River Parkway
+NY HutRivPkwy 1A 1C              # -- Hutchinson River Parkway
 NY NorStaPkwy Que/Nas 36         # -- Northern State Parkway (LI)
 NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway (NY portion)
 NY SouStaPkwy CroIslExp 44       # -- Southern State Parkway (LI)
