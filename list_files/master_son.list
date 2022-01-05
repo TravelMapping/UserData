@@ -1540,6 +1540,7 @@ CT CT169 US44_W US44_E
 # ---------------------
 DE PunRunCon  US13 DE1           # -- Puncheon Run Connector (Dover)
 DE DE1 97 165
+DE DE2 DE41/62 DE141
 DE DE4 DE279 DE273
 DE DE4 HarRd DE58
 DE DE4 DE7_N DE141
