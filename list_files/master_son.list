@@ -1540,6 +1540,7 @@ CT CT169 US44_W US44_E
 # ---------------------
 DE PunRunCon  US13 DE1           # -- Puncheon Run Connector (Dover)
 DE DE1 97 165
+DE DE2 DE41/62 DE141
 DE DE4 DE279 DE273
 DE DE4 HarRd DE58
 DE DE4 DE7_N DE141
@@ -1552,6 +1553,7 @@ DE DE41 DE2/62 DE/PA
 DE DE62 DE141 DE4
 DE DE141 3 6
 DE DE273 DE4 I-95
+DE DE279 MD/DE DE4/896
 DE DE404 MD/DE US13_S
 DE DE896 I-95 DE279
 
@@ -1921,13 +1923,13 @@ MD MD140 MD91 I-795
 MD MD144Han US40Sce_W WilRd
 MD MD144Fre FraSt_E I-70(59)
 MD MD152 AbeProGro US1
-MD MD43 US1 I-95
+MD MD159 End US40/7
 MD MD162 AndRd MD170
 MD MD170 StoRunRd MD648
 MD MD200 3 US1
 MD MD201 DC/MD US50/295
 MD MD213 MD290/313 MD279
-MD MD279 MD213 I-95
+MD MD279 MD213 MD/DE
 MD MD290 MD313_S MD213
 MD MD235 MD4 MD5_N
 MD MD295 MD175 I-95
@@ -1941,6 +1943,7 @@ MD MD544 US301 MD313
 MD MD658 MD53 I-68
 MD MD710 MD2 MD10
 MD MD715 End US40
+MD MD755 ObsDr US40
 MD MD924 MD24 US1/24
 MD BalWasPkwy US50/201 MD175     # Baltimore Washington Parkway (NPS)
 
@@ -2203,7 +2206,7 @@ NY FDRooDr I-478 17              # -- FDR Drive (NYC)
 NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
 NY HenHudPkwy 8 24               # -- Henry Hudson Parkway
-NY HutRivPkwy 1 3                # -- Hutchinson River Parkway
+NY HutRivPkwy 1A 1C              # -- Hutchinson River Parkway
 NY NorStaPkwy Que/Nas 36         # -- Northern State Parkway (LI)
 NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway (NY portion)
 NY SouStaPkwy CroIslExp 44       # -- Southern State Parkway (LI)
