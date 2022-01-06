@@ -719,6 +719,9 @@ ENG B488 A41 A4146
 ENG B489 WinRd B4506
 ENG B500 A4/A40 A201
 ENG B501 ChaSt A5201
+ENG B506 A40 A501/A4201
+ENG B506Blo A400 A4200
+ENG B507 A501 A5205
 ENG B509 A41 A502
 ENG B510 BroGar B520
 ENG B519 B550 A1/A400
@@ -1118,6 +1121,10 @@ FRA-BRE N165 39 56
 FRA-BRE N165 26 33
 FRA-BRE N166 N24 N165
 FRA-BRE N176 NOR/BRE N12
+FRA-BRE D118-22 RueDin CdA/IeV
+FRA-BRE D366-22 D766_S D28_W
+FRA-BRE D766-22 IeV/CdA N176_W
+FRA-BRE D768-22 IeV/CdA N12_E
 
 ####Centre Val-de-Loire####
 FRA-CVL A10 IDF/CVL CVL/NAQ
@@ -1140,6 +1147,24 @@ FRA-GES E50 A34 24(A4)
 FRA-GES N4 A26 N67
 FRA-GES N44 A4 N4_W
 FRA-GES N67 N4 D619
+FRA-GES D44-10 D46/D619 D44A
+FRA-GES D44A-10 D619 D44
+FRA-GES D73-10 HMa/Aub D384
+FRA-GES D384-10 D73 D4B/D396
+FRA-GES D619-10 D44A Aub/HMa
+FRA-GES D3-51 D401_E N44
+FRA-GES D401-51 D951 D3_E
+FRA-GES D951-51 A344 D401
+FRA-GES D27-52 D60 HMa/Aub
+FRA-GES D60-52 D27 D151
+FRA-GES D67A-52 N67 D217
+FRA-GES D114-52 D151 D156/D217
+FRA-GES D151-52 D60 D114
+FRA-GES D181-52 D217 D200_N
+FRA-GES D200-52 D60 N67
+FRA-GES D217-52Vau D67A D114/D156
+FRA-GES D427-52 D60 D114_N
+FRA-GES D619-52 Aub/HMa N67
 
 ####Hauts-de-France####
 FRA-HDF A1Pla IDF/HDF HDF/IDF
@@ -1198,10 +1223,15 @@ FRA-NAQ N11 D137 N237
 FRA-NOR A84 36 44
 FRA-NOR E3 CheFry N13/N174
 FRA-NOR E46 CheFry 38(N13)
+FRA-NOR E401 BRE/NOR 44(A84)
 FRA-NOR N13 38 CheFry
 FRA-NOR N175 N176 A84_N
 FRA-NOR N176 N175 NOR/BRE
-FRA-NOR E401 BRE/NOR 44(A84)
+FRA-NOR D6-14 D675_E D6A_Bay
+FRA-NOR D6-14 D6A_N D572
+FRA-NOR D6A-14Bay D6/D94 D6_S
+FRA-NOR D613-14Bay N13(38) D5A
+FRA-NOR D675-14Vil D6_N A84(44)
 
 ####Pays-de-Loire####
 FRA-PDL A83 N844 1
@@ -1345,9 +1375,11 @@ ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
 ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
 ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
 ENG EliLnShe LST RMF #XR Liverpool St - Romford
-ENG ELLCla ZCW CLJ #LO Canada Water - Clapham Junction
-ENG ELLCro HHY ZCW #LO Highbury & Islington - Canada Water
-ENG ELLNew ZLW NWX #LO Whitechapel - New Cross
+ENG ELL HHY WCY #LO Highbury & Islington - West Croydon
+ENG ELLCla SQE CLJ #LO Surrey Quays - Clapham Junction
+ENG ELLCry SYD CYP #LO Sydenham - Crystal Palace
+ENG ELLNew SQE NWX #LO Surrey Quays - New Cross
+#ENG ELLBat #LO Wandsworth Road - Battersea Park
 ENG GreBra WEA GFD #GW West Ealing - Greenford
 ENG Goblin GPO BKG #LO Gospel Oak - Barking
 ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
@@ -1366,7 +1398,8 @@ ENG StaExp TOM SSD #GA Tottenham Hale - Stansted
 ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
 ENG ThaLnk ZFD ECR #TL Farringdon - East Croydon
 ENG ThaLnkSut HEN WHP #TL Hendon - West Hampstead
-ENG ThaLnkSut KTN STE_2 #TL Kentish Town - Wimbledon - Sutton - Streatham
+ENG ThaLnkSut KTN SUT #TL Kentish Town - Wimbledon - Sutton
+ENG ThaLnkSut MIJ STR_2 #TL Mitcham Junction - Streatham
 ENG ThaVlyLn SLO RDG #GW Slough - Reading
 ENG WAMLStr SRA TOM #GA Stratford - Tottenham Hale
 ENG WatDC EUS WFJ #LO Euston - Watford Junction
@@ -1392,9 +1425,9 @@ ENG WirLnWKi LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
 #SN Victoria - Gatwick - Barnham
 #SN Southampton - Barnham
 #SN Ashford - Hastings
-#SN Mitcham Junction - Sutton
-#SN Sutton - Epsom Downs
+#SN West Croydon - Sutton - Epsom Downs
 #SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
+#SN Crystal Palace - Beckenham Junction
 #SW Ryde Pier Head - Ryde Esplanade
 #SW Waterloo - Bournemouth
 #SW Southampton - Portsmouth
@@ -1440,7 +1473,9 @@ ENG DLRSti SFA CGT
 ENG DLRStr CAW SRA
 ENG DLRTow TOG SHA
 ENG DLRWoo CGT WWA
-ENG WimBec WIM WCY
+ENG WimBec WIM BKJ
+ENG WimElm WIM ELE
+ENG CroAdd ECR_1 NAD
 
 ###Scotland###
 SCT WHigLn FTW MLG
