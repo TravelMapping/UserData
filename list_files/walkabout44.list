@@ -1,12 +1,8 @@
-# 11/20/2021
-# v39
-# Completed AZ AZ71
-# Completed AZ US66HisKin
-# Completed AZ AZ95Bul
-# Completed CA I-605
-# Completed CA I-710
-# Added CA I-5TrkNew
-# Fixed NY I-99
+# 01/08/2022
+# v40
+# Added AZ AZ180ACon
+# Completed AZ AZ277
+# Completed AZ NRimDr Canyon de Chelly
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -101,6 +97,7 @@ AZ AZ143 BroRd McDRd
 AZ AZ169 AZ69 I-17
 AZ AZ177 AZ77 US60
 AZ AZ179 I-17 AZ89A
+AZ AZ180ACon AZ61 US180
 AZ AZ181 US191 PinCanRd
 AZ AZ186 I-10BL_E AZ181
 AZ AZ187 AZ387 AZ87
@@ -112,7 +109,7 @@ AZ AZ210 BroBlvd GolfLinRd
 AZ AZ238 End AZ347
 AZ AZ260 AZ89A US180/191
 AZ AZ264 US160 AZ/NM
-AZ AZ277 AZ260 AZ377
+AZ AZ277 AZ260 AZ77
 AZ AZ287 I-10 AZ79
 AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
@@ -130,9 +127,7 @@ AZ AZ587 I-10 AZ87
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
 AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
-
-AZ NRimDr US191 CR525               # Canyon de Chelley NM
-#AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
+AZ NRimDr US191 BIA12               # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
 AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
