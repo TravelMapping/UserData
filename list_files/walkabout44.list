@@ -1,3 +1,9 @@
+# 01/08/2022
+# v40
+# Added AZ AZ180ACon
+# Completed AZ AZ277
+# Completed AZ NRimDr Canyon de Chelly
+
 # Arizona Interstate Highways
 # 1169 miles
 AZ I-8 CA/AZ 178
@@ -51,12 +57,12 @@ AZ US93TrkLau US93 AZ/NV
 # Arizona State Highways
 AZ AZ24 AZ202 EllRd
 AZ AZ51 I-10 15
-AZ AZ61 US60 US191_N
+AZ AZ61 US60 AZ/NM
 AZ AZ64 I-40 US89
 AZ AZ66 I-40 Coc/Yav
 AZ AZ68 AZ95 US93
 AZ AZ69 I-17 AZ89
-AZ AZ71 US93 AZ89
+AZ AZ71 US60 AZ89
 AZ AZ72 AZ95 US60
 AZ AZ73 US60/77 AZ260
 AZ AZ74 US60 I-17
@@ -79,7 +85,7 @@ AZ AZ89ASed 317 I-40BL
 AZ AZ90 AZ80 I-10
 AZ AZ92 AZ90 AZ80
 AZ AZ95 I-10BL/95 I-40
-AZ AZ95Bul PassCanRd AZ/NV
+AZ AZ95Bul CA/AZ AZ/NV
 AZ AZ95SPaD AZ95 TakPoiRd
 AZ AZ95SPar CA/AZ AZ95
 AZ AZ96 BruMineRd HilRd
@@ -91,6 +97,7 @@ AZ AZ143 BroRd McDRd
 AZ AZ169 AZ69 I-17
 AZ AZ177 AZ77 US60
 AZ AZ179 I-17 AZ89A
+AZ AZ180ACon AZ61 US180
 AZ AZ181 US191 PinCanRd
 AZ AZ186 I-10BL_E AZ181
 AZ AZ187 AZ387 AZ87
@@ -102,11 +109,11 @@ AZ AZ210 BroBlvd GolfLinRd
 AZ AZ238 End AZ347
 AZ AZ260 AZ89A US180/191
 AZ AZ264 US160 AZ/NM
-AZ AZ277 AZ260 AZ377
+AZ AZ277 AZ260 AZ77
 AZ AZ287 I-10 AZ79
 AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
-AZ AZ303 I-10 I-17
+AZ AZ303 CanTraBlvd I-17
 AZ AZ347 AZ84 I-10
 AZ AZ366 FR819 US191
 AZ AZ373 AZ260 End
@@ -120,9 +127,7 @@ AZ AZ587 I-10 AZ87
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
 AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
-
-AZ NRimDr US191 CR525               # Canyon de Chelley NM
-#AZ NRimDr US191 BIA12         14      # Canyon de Chelley NM - North Rim Drive
+AZ NRimDr US191 BIA12               # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
 AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
@@ -132,9 +137,7 @@ AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
 AZ US66HisJos I-40(274) I-40(277)
-AZ US66HisKin I-40(1) I-40(44)
-#AZ US66HisKin I-40(44) ToUS93  5   # In town Kingman missed 2014  
-AZ US66HisKin ToUS93 I-40(139)
+AZ US66HisKin I-40(1) I-40(139)
 AZ US66HisLup I-40(359) AZ/NM
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
@@ -206,8 +209,9 @@ WY I-90 MT/WY WY/SD            #210 vs 209
 WY I-180 I-80 I-80BL/30        #  1
 
 # California
-# 2456 miles: 2455 on 1 not on
+# 2456 miles
 CA I-5 MEX/USA CA/OR           #806 vs 797
+CA I-5TrkNew I-5_S I-5_N       #  1 vs 0
 CA I-8 SunCliBlvd CA/AZ        #172 vs 170
 CA I-10 1 CA/AZ                #246 vs 241 overlap I-5
 CA I-15 6B CA/NV               #291 vs 287
@@ -225,9 +229,9 @@ CA I-380 5A 7                  #  2 vs 3
 CA I-405 I-5(94A) I-5(158)     # 73 vs 72
 CA I-505 1A I-5                # 34 vs 33
 CA I-580 1A I-5                # 80 vs 76
-CA I-605 CA22 27               # 29 vs 28   Missed Huntington Drive extension
+CA I-605 CA22 HunDr            # 29 vs 28
 CA I-680 I-280/101 71          # 71
-CA I-710 1A ValBlvd            # 22 vs 20
+CA I-710 1 ValBlvd             # 22 vs 20
 CA I-780 1A 7                  #  7
 CA I-805 I-5(1A) I-5(31)       # 29 vs 28
 CA I-880 I-280 46B             # 46 vs 47
@@ -558,11 +562,11 @@ MA I-93 1 MA/NH                # 46 vs 47
 MA I-95 RI/MA MA/NH            # 91 vs 92
 MA I-190 I-290 8               # 19
 MA I-195 RI/MA 40              # 40 vs 41
-MA I-290 7 26                  # 20
+MA I-290 12 32                 # 20
 MA I-291 1 I-90                #  5
-MA I-295 RI/MA 2               #  4
+MA I-295 RI/MA 4               #  4
 MA I-391 1 6                   #  5
-MA I-395 CT/MA 7               # 12
+MA I-395 CT/MA 12              # 12
 MA I-495 1 I-95                #121 vs 122
 
 # Rhode Island
@@ -583,7 +587,7 @@ CT I-684 NY/CT CT/NY           #  1
 CT I-691 1 11                  #  8
 
 # New York
-# 1730 miles: 1706 on 24 not on
+# 1730 miles: 1718 on 12 not on
 NY I-78 NJ/NY HudSt            #  1
 NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
@@ -594,7 +598,7 @@ NY I-87 I-278 USA/CAN          #335 vs 334
 NY I-88 I-81 I-90              #118
 NY I-90 PA/NY NY/MA            #390 vs 386
 NY I-95 NJ/NY NY/CT            # 24
-#NY I-99 PA/NY I-86             # 12    Built 2013 signed 2014 NEVER ON 
+NY I-99 PA/NY 13               # 12    Built 2013 signed 2014
 NY I-190 I-90 USA/CAN          # 28
 NY I-278 NJ/NY I-95            # 34
 NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87

@@ -73,6 +73,12 @@ AZ US191 US70_E FR12 #us70 to north of morenci
 AZ AZ366 US191 End #us191 to shannon campground
 #fredonia (mohave)
 AZ AZ389 US89Alt SixMileRd
+#2021-12 casa grande ruins nm & tonto nm
+AZ AZ387 I-10 AZ87
+AZ AZ87 AZ387 AZ287_E
+AZ AZ287 AZ87_N AdaRd #to attaway road
+AZ AZ79 HuntHwy US60
+AZ AZ188 US60 AZ87
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -194,11 +200,12 @@ BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 PorGlaRd
+AK AK1 AK2 AK9
 AK HicPkwy AK1 CSt
-AK HicPkwy RasRd TudRd
+AK HicPkwy TudRd DimBlvd
 AK AK3 AK1 HeaSpurRd
 AK ParkRd AK3 StoHillOve #denali
+AK AK9 AK1 RaiAve #seward
 
 #CA
 #thunder bay
