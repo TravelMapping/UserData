@@ -58,8 +58,7 @@ CA I-305 1A 6
 CA I-380 5A 7
 
 #California I-405
-CA I-405 7 57A
-CA I-405 63C I-5(158)
+CA I-405 7 I-5(158)
 
 #California I-505
 CA I-505 1A I-5
@@ -270,6 +269,9 @@ CA US66HisHol SprSt DalySt
 
 #California US-101
 CA US101 WilCrkRd CA60
+
+#California US-101 Bus Arroyo Grande Section
+CA US101BusArr CA227_N US101_S
 
 #California US-101 Bus Salinas Section
 CA US101BusSal US101/183 US101_S
@@ -717,11 +719,16 @@ CA CA217 3 MesRd
 #CA-218:
 CA CA218 CA68 CA1
 
-#CA-221
+#CA-221:
 CA CA221 CA121 CA12/29
 
 #CA-233:
 CA CA233 CA99 FroSt
+
+#CA-227:
+CA CA227 US101(201) HigSt
+CA CA227 OrcRd BidRanRd
+CA CA227 HuaRd TraWay
 
 #CA-236:
 CA CA236 CA9_S CA9_N
