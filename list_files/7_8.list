@@ -39,9 +39,7 @@ BC BC93 BC3_E BC/AB
 BC BC95 BC3/BC93 BC93
 BC BC97 PriAve JohnHinDr
 BC BC99 28 OakSt_N
-BC BC99 GeoSt_E StaParkDr_S
-BC BC99 StaParkDr_N MarDr_E
-BC BC99 3(BC1) AlpWay
+BC BC99 GraSt_S AlpWay
 
 # Manitoba Provincial Highways
 MB MB10 MB357 MB19
