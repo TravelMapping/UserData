@@ -1,4 +1,4 @@
-# Date: 2022-04-01
+# Date: 2022-04-03
 # ----------------
 
 
@@ -4760,7 +4760,7 @@ FRA-NAQ A837 31 A10
 FRA-NAQ N10 58 A10(39)
 FRA-NAQ N11 N248 N237
 FRA-NAQ N89 N230 9
-FRA-NAQ N134 D2 FRA/ESP
+FRA-NAQ N134 D802 FRA/ESP
 FRA-NAQ N137 N11/N237 D937
 FRA-NAQ N141 N10_S N520
 FRA-NAQ N145 ARA/NAQ N147
@@ -4774,10 +4774,11 @@ FRA-NAQ N537 N237 PorAtlRoc
 FRA-NAQ E5 CVL/NAQ FRA/ESP
 FRA-NAQ E72 BlvdJJBosc NAQ/OCC
 FRA-NAQ E602 N11/N237 A10
-
-#FRA-NAQ D218-33 CouLamPla D259 #La Teste
-#FRA-NAQ D259-33 D218 N250 #La Teste
-#FRA-NAQ D1250-33 BlvdGenLec D259 #La Teste
+FRA-NAQ D137-17 N137 32(A837)
+FRA-NAQ D218-33 CouLamPla D259
+FRA-NAQ D259-33 D218 N250
+FRA-NAQ D1250-33 BlvdGenLec N250
+FRA-NAQ D802-64 D834 N134
 
 
 
@@ -6527,8 +6528,9 @@ QC QC134 RueOnt BoulTas_N
 #DEU-NW  Düsseldorf Hbf               DEU-BY  Aschaffenburg Hbf
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf
-#DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf (Stuttgart, Mannheim, Frankfurt Flughafen, Köln, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück) #ICE1164
+#DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf (Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück) #ICE1164
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg
+#DEU-BW  Ulm Hbf                      DEU-BY  München Hbf #ICE512
 
 #DNK Roskilde Copenhagen
 
@@ -6566,8 +6568,13 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Ulm Söflingen               DEU-BW  Böfingen
 #DEU-BW  Ulm Kuhberg-Schulzentrum    DEU-BW  Science Park II
 
-#DEU-BY  München Hbf                 DEU-BY  München Südtiroler Straße
-#DEU-BY  München Sendlinger Tor      DEU-BY  München Fröttmaning
+#DEU-BY  U1 München OEZ              DEU-BY  München Mangfallplatz
+#DEU-BY  U2 München Feldmoching      DEU-BY  München Messestadt Ost
+#DEU-BY  U3 München Moosach          DEU-BY  München Sendlinger Tor     # not traveled at south end
+#DEU-BY  U4 München Westendstraße    DEU-BY  München Arabellapark
+#DEU-BY  U5 München Laimer Platz     DEU-BY  München Neuperlach Süd
+#DEU-BY  U6 München Sendlinger Tor   DEU-BY  München Fröttmaning        # not traveled at both ends
+#DEU-BY  S1 München Feldmoching      DEU-BY  München Moosach
 
 #DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke
 #DEU-BE  Möckernbrücke               DEU-BE  Südstern
