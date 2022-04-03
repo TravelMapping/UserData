@@ -689,7 +689,8 @@ NC US21 ChuSt MurSt
    #north end only to Old Murdock Road
 NC NC150 WilRd I-77
 NC I-77 19 36
-NC I-485 23A 52
+NC I-485 23A I-85(48)
+NC I-485 30 52
 NC US74 I-77 US601_S
 NC US74BypMon 255 259
 NC I-277 1B 5
