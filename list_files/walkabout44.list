@@ -1,8 +1,8 @@
-# 01/08/2022
-# v40
-# Added AZ AZ180ACon
-# Completed AZ AZ277
-# Completed AZ NRimDr Canyon de Chelly
+# 03/12/2022
+# v41
+# Added and completed AZ AZ286
+# Completed AZ AZ86
+# Completed AZ AZ87
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -76,9 +76,8 @@ AZ AZ82 I-19BL AZ80
 AZ AZ83 ParCanRd I-10
 AZ AZ84 I-8 AZ287/387
 AZ AZ85 MEX/USA I-10
-AZ AZ86 AZ85 ValRd
-AZ AZ86 I-19 16thAve
-AZ AZ87 I-10 AZ264
+AZ AZ86 AZ85 16thAve
+AZ AZ87 PhiRd AZ264
 AZ AZ88 US60 AZ188
 AZ AZ89 US93 I-40
 AZ AZ89ASed 317 I-40BL
@@ -110,6 +109,7 @@ AZ AZ238 End AZ347
 AZ AZ260 AZ89A US180/191
 AZ AZ264 US160 AZ/NM
 AZ AZ277 AZ260 AZ77
+AZ AZ286 MEX/USA AZ86
 AZ AZ287 I-10 AZ79
 AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
@@ -868,24 +868,22 @@ FL I-595 I-75 12               # 14 vs 13
 #02 HI I-H3 1A 1B                  #  1        MISSING
 #03 HI I-H3 15 KanSta              #  1        MISSING
 #04 HI I-H201 1A 1D                #  1        MISSING
-#   CA I-5TrkNew I-5_S I-5_N      #  -    Ramp.  Not on total
-#05 CA I-605 27 HunDr             #  0.40 North end
-#06 NY I-81 45 47                 #  2    Watertown
-#07 NY I-81 50 USA/CAN            #  6    NY12 to border
-#08 NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
-#09 NY I-295 NY25 1               #   .17 South end
-#10 NY I-690 I-90 1               #   .45 West end
-#11 NY I-781 1 4                  #  4  Built 2012  NEVER ON
-#12 VA I-195 I-64 I-95            #  .030 ramp 195 to 95 NEVER ON
-#13 NC I-140 1 14                 # 14    Wilmington extension opened 2017
-#14 NC I-295 12 21A               #  9    Fayetteville extension opened Aug 2020
-#15 NC I-840 6 8                  #  2    Greensboro opened 2020
+#05 NY I-81 45 47                 #  2    Watertown
+#06 NY I-81 50 USA/CAN            #  6    NY12 to border
+#07 NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
+#08 NY I-295 NY25 1               #   .17 South end
+#09 NY I-690 I-90 1               #   .45 West end
+#10 NY I-781 1 4                  #  4  Built 2012  NEVER ON
+#11 VA I-195 I-64 I-95            #  .030 ramp 195 to 95 NEVER ON
+#12 NC I-140 1 14                 # 14    Wilmington extension opened 2017
+#13 NC I-295 12 21A               #  9    Fayetteville extension opened Aug 2020
+#14 NC I-840 6 8                  #  2    Greensboro opened 2020
 # Alaska & Puerto Rico Not on
-#16 AK I-A1 AK2 AK/YT             # 92  AK2 to Yukon line
-#17 AK HeaSpurRd AK2              #110  Healy to Fairbanks 
-#18 PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
-#19 PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
-#20 PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
+#15 AK I-A1 AK2 AK/YT             # 92  AK2 to Yukon line
+#16 AK HeaSpurRd AK2              #110  Healy to Fairbanks 
+#17 PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
+#18 PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
+#19 PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
 
 
 
@@ -914,5 +912,4 @@ FL I-595 I-75 12               # 14 vs 13
 # SC overall; total table 4 less than detail total
 # I-520 GA, 6 miles Table 3 has only 10 should be 16
 
-# Travel Mapping differences
-# AZ 202 new section not on Travel Mapping count
+
