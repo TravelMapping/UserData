@@ -469,6 +469,10 @@ PA I-99FutLoc 107 PA44_S
 PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
+# I-H1
+HI I-H1 3 16
+# I-H2
+# I-H3
 
 # usaus, usausb, usaush - routes concurrent with usai may not be catalogued here
 # ---------------------
@@ -1629,6 +1633,10 @@ GA GA257 US23_N US23_S
 GA GA404SprSav I-16 GA/SC
 GA GA520 US1/23_N US1/23_S
 GA GA540 I-75(149) I-16(2)
+
+# Hawaii (HI)
+# --------------------
+HI HI8930 KapPkwy I-H1
 
 # Idaho (ID)
 # ---------------------
