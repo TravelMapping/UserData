@@ -469,6 +469,14 @@ PA I-99FutLoc 107 PA44_S
 PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
+# I-H1
+HI I-H1 1A AinAve
+# I-H2
+HI I-H2 1 9
+# I-H3
+HI I-H3 1A KanSta
+# I-H201
+HI I-H201 1D I-H1
 
 # usaus, usausb, usaush - routes concurrent with usai may not be catalogued here
 # ---------------------
@@ -1630,6 +1638,29 @@ GA GA404SprSav I-16 GA/SC
 GA GA520 US1/23_N US1/23_S
 GA GA540 I-75(149) I-16(2)
 
+# Hawaii (HI)
+# --------------------
+HI HI61 HI98 End
+HI HI63 HI92 HI83
+HI HI64 SandIslSRA HI92
+HI HI65 HI83 KanBayDr_E
+HI HI72 HI61 AinAve
+HI HI76 End I-H1/750
+HI HI80 I-H2 HI99
+HI HI83 HI63 HI65
+HI HI92 PeaHarNB KalAve
+HI HI93 I-H1 KaePtSP
+HI HI98 I-H1(20B) I-H1(22)
+HI HI99 HI80 I-H2
+HI HI99 HI83/930 I-H1(15)
+HI HI750 I-H1/76 HI99
+HI HI930 KaePtSP HI83/99
+HI HI7012 HI80 WahNR
+HI HI7101 HI99 HI76/7110
+HI HI7110 HI76/7101 OldFWRd
+HI HI7310 HI92 I-H201
+HI HI8930 KapPkwy I-H1
+
 # Idaho (ID)
 # ---------------------
 ID ID4 I-90(62) Burke
@@ -2023,6 +2054,7 @@ MN MN3 MN21 CR47
 MN MN5 PraCenDr MN120
 MN MN7 MN41 MN100
 MN MN11 US53_S US53_N
+MN MN13 US65 US69
 MN MN16 I-90 US14/61
 MN MN19 CR59 MN3_N
 MN MN21 MN60 MN3
