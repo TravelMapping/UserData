@@ -476,7 +476,7 @@ HI I-H2 1 9
 # I-H3
 HI I-H3 1A KanSta
 # I-H201
-HI I-H201 1D I-H1
+HI I-H201 1A I-H1
 
 # usaus, usausb, usaush - routes concurrent with usai may not be catalogued here
 # ---------------------
@@ -1646,8 +1646,9 @@ HI HI64 SandIslSRA HI92
 HI HI65 HI83 KanBayDr_E
 HI HI72 HI61 AinAve
 HI HI76 End I-H1/750
+HI HI78 HI99 I-H1/201
 HI HI80 I-H2 HI99
-HI HI83 HI63 HI65
+HI HI83 HI99/930 HI61
 HI HI92 PeaHarNB KalAve
 HI HI93 I-H1 KaePtSP
 HI HI98 I-H1(20B) I-H1(22)
