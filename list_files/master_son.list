@@ -1640,8 +1640,8 @@ GA GA540 I-75(149) I-16(2)
 
 # Hawaii (HI)
 # --------------------
-HI HI11 KekSt HawVolNP
-HI HI19 HI190 HI11/190
+HI HI11 HI19 HawVolNP
+HI HI19 End HI11/190
 HI HI61 HI98 End
 HI HI63 HI92 HI83
 HI HI64 SandIslSRA HI92
@@ -1657,8 +1657,13 @@ HI HI98 I-H1(20B) I-H1(22)
 HI HI99 HI80 I-H2
 HI HI99 HI83/930 I-H1(15)
 HI HI130 HI11 End
+HI HI139 HI11 HI130
 HI HI190 HI19 KuaHwy
 HI HI200 HI2000 HI190
+HI HI220 HI19 AkaFalSP
+HI HI240 HI19 WaiValRd
+HI HI250 HI19 HI270
+HI HI270 HI19 End
 HI HI750 I-H1/76 HI99
 HI HI930 KaePtSP HI83/99
 HI HI2000 RaiAve KauDr
@@ -1667,7 +1672,8 @@ HI HI7101 HI99 HI76/7110
 HI HI7110 HI76/7101 OldFWRd
 HI HI7310 HI92 I-H201
 HI HI8930 KapPkwy I-H1
-HI CraRimDr NamPaioTr HI11       # Hawaii Volcanoes NP - Crater Rim Drive
+HI CraRimDr NamPaioTr ChaCraRd       # Hawaii Volcanoes NP - Crater Rim Drive
+HI ChaCraRd CraRimDr HolSeaArch      # Hawaii Volcanoes NP - Chain of Craters Road
 
 # Idaho (ID)
 # ---------------------
