@@ -85,8 +85,14 @@ FL I-4 80 132
 #Florida I-95
 FL I-95 260 363
 
+#Georgia I-75
+GA I-75 242 251
+
 #Georgia I-85
 GA I-85 72 GA/SC
+
+#Georgia I-985
+GA I-985 I-85 8
 
 #Illinois I-24
 IL I-24 IL/KY 37
@@ -288,6 +294,12 @@ DC US1 US50_W VA/DC
 
 #DC US-50
 DC US50 VA/DC ConAve
+
+#Georgia US-23
+GA US23 I-985(8) I-985(4)
+
+#Georgia US-29
+GA US29 GA6 WasAve
 
 #Illinois US-51
 IL US51 I-57(1) KY/IL
@@ -760,10 +772,13 @@ CA CA299 2 AdaRd
 #CA-330:
 CA CA330 CA210 CA18
 
-#(Nevada State Highways)
+# (Georgia State Highways)
 
-#NV-374:
-NV NV374 DeaValNP US95
+#GA-6:
+GA GA6 I-85 US29
+
+#GA-347:
+GA GA347 LanIslPkwy_W I-985
 
 #(Kentucky State Highways)
 
@@ -791,8 +806,14 @@ KY KY1523 I-24/69 KY282
 #KY-2595:
 KY KY2595 KY95 US641
 
-#Missouri State Highways
+# (Missouri State Highways)
 MO MO77 US60/62_E MOsD_Sco
+
+#(Nevada State Highways)
+
+#NV-374:
+NV NV374 DeaValNP US95
+
 
 #(California Federal Roads)
 
