@@ -29,10 +29,7 @@ CA I-10 1 CA/AZ
 CA I-15 6B CA/NV
 CA I-40 I-15 CA/AZ
 CA I-80 1A CA/NV
-CA I-105 1A 18
 CA I-105 1A StuRd
-# from 18 to StuRd may be state-maintained HOV-restricted lanes,
-# not truly part of I-105, the PQT notwithstanding
 CA I-205 I-580 I-5
 CA I-405 I-5(94A) I-5(158)
 CA I-505 1A I-5
@@ -47,9 +44,7 @@ CA I-280 I-680/101 5thSt
 CA I-380 5A 7
 CA I-580 1A I-5
 CA I-680 I-280/101 I-80
-CA I-780 1A 7
-# CA I-780 LemSt 7
-# consider west end extension to end of freeway at Lemon Street
+CA I-780 LemSt 7
 CA I-880 I-280 46B
 CA I-980 I-880 2B
 CA I-5TrkNew I-5_S I-5_N
@@ -755,7 +750,7 @@ NY I-78 NJ/NY HudSt
 NY I-81 PA/NY NY/Can
 NY I-84 PA/NY NY/CT
 NY I-86 PA/NY NY/PA
-NY I-86Bin 75 79
+NY I-86Bin 72A 79
 NY I-87 I-278 NY/Can
 NY I-88 I-81 25A
 NY I-90 PA/NY NY/MA
