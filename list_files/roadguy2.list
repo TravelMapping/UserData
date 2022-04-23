@@ -1431,6 +1431,19 @@ OR I-84 179 OR/ID
 
 OR OR7 I-84 OR86
 
+#pennsylvania
+
+PA I-376 53 72
+
+#PA US19 I-376 overlap
+#PA US22 part of I-376 overlap
+#PA US30 part of I-376 overlap
+
+#PA US19TrkPit whatever there is of I-376 overlap
+
+PA PA837 BirBri I-376
+PA PA885 ForAve I-579
+
 #southcarolina
 
 SC I-20 GA/SC 6
