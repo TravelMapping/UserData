@@ -1042,6 +1042,7 @@ IRL M1 1 2
 IRL M50 2 3
 IRL R101 J74 R131
 IRL R105 R138/R148 J76
+#IRL R105 UppCliRd WestPier #add points
 IRL R110 R138/R840 J16
 IRL R111 R131/R802 J58
 IRL R114 R137_N R117/R811
@@ -1549,6 +1550,9 @@ ENG CroAdd ECR_1 NAD
 
 ###Scotland###
 SCT WHigLn FTW MLG
+
+###Ireland###
+Grand Canal Dock - Howth
 
 ###Germany###
 Frankfurt Airport - Hbf
