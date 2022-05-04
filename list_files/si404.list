@@ -21,7 +21,7 @@ ENG A3 A397 B2154
 ENG A3M 1 A27
 ENG A4 A40/A4208 A315/A3216
 ENG A4 A3218 A3002
-ENG A4 A312 M4(4A)
+ENG A4 A312 A3044_S
 ENG A4 M4(5) M4(7)
 ENG A4 A404 A327
 ENG A4 M4(12) A340_N
@@ -535,6 +535,7 @@ ENG A3024 A33_W M27
 ENG A3025 A33 A27/A3024
 ENG A3035 A33 A3024
 ENG A3036 A302 A3/A214
+ENG A3044 A4_E A3113
 ENG A3047 A30_E A393
 ENG A3049 A348_N A350
 ENG A3051 A334 X01
@@ -553,6 +554,7 @@ ENG A3083 A394 LigRd
 ENG A3090 M3 B3335_N
 ENG A3090 GarLn A36
 ENG A3095 A329/A322 A330
+ENG A3113 M25 A3044
 ENG A3200 A3 A23/A302
 ENG A3201 A2/A3 A301
 ENG A3202 A3 A302
@@ -1037,21 +1039,23 @@ WLS M48 ENG/WLS M4
 
 ##EU##
 ###Ireland###
-IRL E20 ProRd DubLivFry
+IRL E1 M1/M50 2(M1)
+IRL E20 3(M50) DubLivFry
 IRL M1 1 2
-IRL M50 2 3
+IRL M50 1 3
+IRL N1Dub R132 M50
 IRL R101 J74 R131
 IRL R105 R138/R148 J76
-#IRL R105 UppCliRd WestPier #add points
+IRL R105 UppCliRd WestPier
 IRL R108 J21 R148
-IRL R110 R138/R840 J19 #Brabston Place add point
+IRL R110 R138/R840 BraPla
 IRL R111 R131/R802 J58
 IRL R114 R137_N R117/R811
 IRL R117 R114/R811 J58
 IRL R118 R138 J55
 IRL R131 ToM50 R111/R802
 IRL R132 R803 R135/R804
-IRL R132 R131 ToM50 #need to add point
+IRL R132 BelRd ToM50
 IRL R137 R118/R138 J19
 IRL R138 R105/R148 J57
 IRL R148 R105/R138 R804
@@ -1196,10 +1200,36 @@ FRA-BRE N176 NOR/BRE N12
 
 ####Centre Val-de-Loire####
 FRA-CVL A10 IDF/CVL CVL/NAQ
-FRA-CVL A85 PDL/CVL 5
-FRA-CVL D37 D88 D910
+FRA-CVL D8-37 D760 D21_E
+FRA-CVL D8-37Chi D749/D751E D221/D757
+FRA-CVL D21-37 D8/D57 D101
+FRA-CVL D31-37 D976_E D25/D764
+FRA-CVL D35-37 D235/D749 D952
+FRA-CVL D37-37 2 10
+FRA-CVL D40-37 D81 D80_S
+FRA-CVL D57-37 D952_W D58/D760
+FRA-CVL D80-37 D40_W D976
+FRA-CVL D81-37 D40 D376/D976
+FRA-CVL D101-37 D21 D760_E
+FRA-CVL D128-37 D910 D101
+FRA-CVL D749-37 D749Bou_S D357/D749C
+FRA-CVL D749-37Bou D35/D235 D749_S
+FRA-CVL D749C-37 D357/D749 AveQue
+FRA-CVL D751-37 PDL/CVL D751E/D759
+FRA-CVL D751-37 D751E_E D37
+FRA-CVL D751E-37 D751/D759 D751_E
+FRA-CVL D757-37 D8/D221 GraRue
+FRA-CVL D760-37 D749 D943
+FRA-CVL D764-37 D81 D943
+FRA-CVL D910-37 D37 D108/D760
+FRA-CVL D943-37 D764 D760
+FRA-CVL D952-37 PDL/CVL D57_S
+FRA-CVL D976-37 D31_S D81/D376
+FRA-CVL D976-37 D80 IeL/LeC
+FRA-CVL D764-41 D976 D81
+FRA-CVL D976-41 IeL/LeC D764
 FRA-CVL E5 IDF/CVL CVL/NAQ
-FRA-CVL E60 PDL/CVL A10/A19
+FRA-CVL E60 A10/A85 A10/A19
 
 ####Grand Est####
 FRA-GES A4 A34 24
@@ -1441,63 +1471,93 @@ IDN-JW T2 13(N) 10(N)
 IDN T3 20 32
 IDN-JW T3 20 32
 
+
 #Rail#
 ###England###
 ####National Rail####
-ENG AylLn MYB AYS #CH Marylebone - Aylesbury
-ENG BruLn RDG BSK #GW Reading - Basingstoke
+#####AW#####
 ENG CamLn BHI TFC #AW International - Telford
+
+#####CC##### (finalised)
+ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
+
+#####CH#####
+ENG AylLn MYB AYS #CH Marylebone - Aylesbury
 ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
 ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
-ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
-ENG EliLnShe LST RMF #XR Liverpool St - Romford
+
+#####GA##### (finalised)
+ENG NewRvrLn LST BMD #GA Liverpool Street - Brimsdown
+ENG StaExp TOM SSD #GA Tottenham Hale - Stansted
+ENG WAMLStr SRA TOM #GA Stratford - Tottenham Hale
+
+#####GN##### (finalised)
+ENG NorCityLn MOG FPK #GN Moorgate - Finsbury Park
+
+#####GW##### (finalised)
+ENG BruLn RDG BSK #GW Reading - Basingstoke
+ENG GreBra WEA GFD #GW West Ealing - Greenford
+ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
+ENG HEx HXX HWV #HX Central - T5
+ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
+ENG ThaVlyLn SLO RDG #GW Slough - Reading
+ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
+ENG WesML SOU PMS #GW Southampton - Portsmouth
+
+#####LN###### (finalised)
+ENG BirLivLn BNM LIV #LN Birmingham New Street - Liverpool Lime Street
+ENG NhpLn BHI BNM #LN Birmingham International - Birmingham New Street
+ENG PotLn BNM STA #VT New Street - Stafford (diversion - via Tame Bridge)
+ENG TreVlyLn WFJ MKC #LN Watford - Milton Keynes
+
+######LO###### (finalised, all done)
 ENG ELL HHY WCY #LO Highbury & Islington - West Croydon
 ENG ELLCla SQE CLJ #LO Surrey Quays - Clapham Junction
 ENG ELLCry SYD CYP #LO Sydenham - Crystal Palace
 ENG ELLNew SQE NWX #LO Surrey Quays - New Cross
 #ENG ELLBat #LO Wandsworth Road - Battersea Park
-ENG GreBra WEA GFD #GW West Ealing - Greenford
 ENG Goblin GPO BKG #LO Gospel Oak - Barking
-ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
-ENG HEx HXX HWV #HX Central - T5
-ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
-ENG LVLChe LST CHN #LO Liverpool Street - Cheshunt
+ENG LVL LST CHN #LO Liverpool Street - Cheshunt
 ENG LVLChi LST CHI #LO Liverpool Street - Chingford
-ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
-ENG NewRvrLn LST BMD #GA Liverpool Street - Brimsdown
-ENG NLLRic RMD SRA #LO Richmond - Willesden Junction; West Hampstead - Stratford
-ENG NLLCla CLJ FNY #LO Finchley Road & Frognal - Clapham Junction
-ENG NorCityLn MOG FPK #GN Moorgate - Finsbury Park
+ENG NLL CLJ SRA #LO Finchley Road & Frognal - Clapham Junction; West Hampstead - Stratford
+ENG NLLRic RMD WIJ #LO Richmond - Willesden Junction
 ENG RomUpmShu RMF UPM #LO Romford - Upminster
-ENG ShrLn BHM TFC #WM New Street - Telford
-ENG StaExp TOM SSD #GA Tottenham Hale - Stansted
-ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
-ENG ThaLnk ZFD ECR #TL Farringdon - East Croydon
-ENG ThaLnkSut HEN WHP #TL Hendon - West Hampstead
-ENG ThaLnkSut KTN SUT #TL Kentish Town - Wimbledon - Sutton
-ENG ThaLnkSut MIJ STR_2 #TL Mitcham Junction - Streatham
-ENG ThaVlyLn SLO RDG #GW Slough - Reading
-ENG WAMLStr SRA TOM #GA Stratford - Tottenham Hale
 ENG WatDC EUS WFJ #LO Euston - Watford Junction
+
+######ME###### (finalised)
+ENG WirLn BKQ CTR #ME Chester - Birkenhead
+ENG WirLn LVJ_2 BKQ #ME Moreton - Liverpool Lime Street (via Moorfields)
+ENG WirLn LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
+ENG WirLnWKi BKQ MRT #ME Birkenhead - Moreton
+
+#####TL##### (finalised)
+ENG ThaLnk HEN WHP #TL Hendon - West Hampstead
+ENG ThaLnk KTN ECR #TL Kentish Town - Blackfriars; Farringdon - East Croydon
+ENG ThaLnkSut BFR MIJ #TL Blackfriars - Mitcham Junction
+ENG ThaLnkSut SUO STR_2 #TL Sutton - Wimbledon - Streatham
+
+######VT######
 ENG WCMLBir WFJ WVH #VT Watford - Wolverhampton
 ENG WCMLChe MKC CTR #VT Milton Keynes - Chester
 ENG WCMLLiv WFJ STA #VT Watford Junction - Stafford
 ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
-ENG WCMLRun BNM LIV #LN Birmingham International - Liverpool
-ENG WCMLSto BNM STA #VT New Street - Stafford (diversion)
-ENG WCMLTre WFJ MKC #LN Watford - Milton Keynes
-ENG WesML SOU PMS #GW Southampton - Portsmouth
-ENG WirLn BKQ CTR #ME Chester - Birkenhead
-ENG WirLnWKi LVJ_2 MRT #ME Birkenhead - Moreton
-ENG WirLnWKi LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
+
+#####WM##### (finalised)
+ENG SalLn BHM TFC #WM New Street - Telford
+
+#####XR##### (finalised)
+ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
+ENG EliLnShe LST RMF #XR Liverpool St - Romford
+
 #EM St Pancras - Wellingborough
 #SE Charing Cross - Orpington (avoid Lewisham)
 #SE Charing Cross - Ashford - Canterbury
-#SE Bromley - Faversham - Canterbury
+#SE Blackfriars (via Herne Hill) - Bromley - Faversham - Canterbury
 #SE Margate - Deal - Dover - Ashford
 #SE Margate - Canterbury - Ashford
 #SE Peckham Rye - Lewisham - Welling
 #SE London Bridge - Mottingham (both via and not via Lewisham)
+#SN London Bridge - East Croydon (fast)
 #SN Victoria - Gatwick - Barnham
 #SN Southampton - Barnham
 #SN Ashford - Hastings
@@ -1507,18 +1567,20 @@ ENG WirLnWKi LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
 #SW Ryde Pier Head - Ryde Esplanade
 #SW Waterloo - Bournemouth
 #SW Southampton - Portsmouth
-#SW Waterloo - Basingstoke - Grateley - curve (diversion)
-#SW curve - Dean - Southampton (diversion)
+#SW Waterloo - Basingstoke - Grateley - curve (XC diversion)
+#SW curve - Dean - Southampton (XC diversion)
 #SW Guildford - Havant - Fareham
 #SW Winnersh - Reading
 #SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
-#SE Blackfriars - Bromley
+#SW Queenstown Road Battersea - Hounslow
 #XC Bristol Parkway - Bristol Temple Meads
 #XC Wolverhampton - Coventry - Bournemouth
 #XC Birmingham - (Solihull) - Reading
+
 ####Heritage####
 Swanage Railway Nordon P&R - Swanage
-#####London Underground#####
+
+#####London Underground##### (all done)
 ENG BakLn HRW EPH
 ENG CenLn WRU EPP
 ENG CenLnEal EAL NOA
@@ -1542,7 +1604,7 @@ ENG PicLnHT4 HNX HXX
 ENG PicLnUxb UXB ACT
 ENG VicLn WHC BRX
 ENG WaCLn WAT BAN
-####LightRail/Tram####
+####LightRail/Tram#### (all DLR, all Tramlink)
 ENG DLR BAN LEW
 ENG DLRRoy WES BKT
 ENG DLRSti SFA CGT
@@ -1554,7 +1616,7 @@ ENG WimElm WIM ELE
 ENG CroAdd ECR_1 NAD
 
 ###Scotland###
-SCT WHigLn FTW MLG
+SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
 
 ###Ireland###
 Grand Canal Dock - Howth
