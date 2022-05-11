@@ -888,21 +888,27 @@ ID I-15 UT/ID ID/MT
 ID I-84 OR/ID ID/UT
 ID I-86 1 63
 
+#ID US20 I-84 Caldwell concurrency
+#ID US20 I-84 Boise-Mtn Home concurrency
+#ID US20 I-15 concurrency
 ID US20 I-15(119) ID/MT
-#ID US20 (I-84 and 15 concurrencies)
-ID US26 I-15(116) ID43
-#ID US26 (I-84 and 15 concurrencies)
-ID US30 US91_N I-86(58)
+#ID US26 I-84 Caldwell concurrency
+#ID US26 I-84 Boise-Bliss concurrency
+#ID US26 I-15 concurrency
+ID US26 I-15(116) ID31
+#ID US30 I-84 New Plymouth-Bliss concurrency
+#ID US30 I-84 Heyburn-86 concurrency
+#ID US30 I-86 concurrency
+ID US30 I-86(58) US91_N
 #--used Maple Street as signed detour — Oak closed for construction
+#ID US30 US91 concurrency including I-15
 ID US30 I-15(47) ID/WY
-#ID US30 (I-84 and I-15 concurrencies)
 ID US89 UT/ID US30_E
 #ID US89 US30 concurrency
 ID US89 US30_W ID/WY
 ID US91 UT/ID I-15(36)
 #ID US91 I-15 concurrency
 ID US91 I-15(67) US26
-
 ID US93 I-84(173) ID25
 #--just to the gas station.
 
@@ -914,7 +920,10 @@ ID I-15BLIda I-15_N US26_E
 ID I-86BLAme I-86_W I-86_E
 
 ID US20BusIda US26_E US20_E
+ID US26BusRir US26_W US26_E
 
+ID ID31 US26 ID33
+ID ID32 ID33 ID47
 ID ID33 I-15(143) ID/WY
 ID ID33SprSug ID33 US20
 ID ID34 US91 US30_W
@@ -926,6 +935,7 @@ ID ID36 ID34_N US89
 #ID ID39 BL86 concurrency
 ID ID40 I-15 US91
 ID ID43 US26 US20
+ID ID47 US20 ID32
 #ID ID55 Eagle Rd block
 ID ID61 WY/ID US89
 ID ID77 I-84 ID81_N
