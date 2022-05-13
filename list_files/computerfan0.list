@@ -11,6 +11,7 @@ IRL M20 1 5
 IRL M50 1 9
 
 # -- National roads --
+IRL N1Dub R132 R104
 IRL N1 18 IRL/GBR
 IRL N2Dub 1 2
 IRL N2 M2 IRL/GBR
