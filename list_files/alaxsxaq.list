@@ -10,7 +10,6 @@ AZ I-40BLFla AZ89A I-40_E
 UT I-15 95 MT I-15 USA/CAN #UT20 to canada
 #MT
 MT I-15BLGre I-15_S I-15_N #i-15 business route through great falls 100% completed 2021
-MT US87BypWGr I-15BL_S WireMillRd
 MT US87BypGre US87_N GiaSprRd
 MT US89 SheCreRd US2_W #~whitebark pine thing to browning
 MT US87 US89/3 MorDamRd
@@ -40,7 +39,7 @@ AZ AZ202 34 30 #kiwa
 AZ AZ202 1A 12
 #grand canyon
 AZ US180 I-40BL_W GraCynNP
-AZ AZ64 GraCynNP ERimDr
+AZ AZ64 GraCynNP SouEntRd_N
 #payson
 AZ AZ87 SheaBlvd AZ260_E #at least from shea blvd
 AZ AZ260 AZ87_S WooLakeRd #payson to ~pinetop
@@ -73,12 +72,6 @@ AZ US191 US70_E FR12 #us70 to north of morenci
 AZ AZ366 US191 End #us191 to shannon campground
 #fredonia (mohave)
 AZ AZ389 US89Alt SixMileRd
-#2021-12 casa grande ruins nm & tonto nm
-AZ AZ387 I-10 AZ87
-AZ AZ87 AZ387 AZ287_E
-AZ AZ287 AZ87_N AdaRd #to attaway road
-AZ AZ79 HuntHwy US60
-AZ AZ188 US60 AZ87
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -133,8 +126,9 @@ OK OK9 US62_E US77
 OK US77 MainSt_Nor MagRd
 OK US77 I-35(113) TecRd
 OK I-240 4A 1A
-OK I-44 115 116A
+OK I-44 115 116B
 OK US62 OK9_E I-44(115) #newcastle
+OK OK152 I-44 MerAve
 #dallas
 OK I-35 126 TX/OK
 TX I-35Gai TX/OK 467
@@ -201,11 +195,15 @@ YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
 AK AK1 AK2 AK9
-AK HicPkwy AK1 CSt
-AK HicPkwy TudRd DimBlvd
+AK HicPkwy AK1 TudRd
 AK AK3 AK1 HeaSpurRd
 AK ParkRd AK3 StoHillOve #denali
 AK AK9 AK1 RaiAve #seward
+AK AK4 AK1_W AK10 #wrangell-st elias
+AK AK10 AK4 McCarRd
+AK McCarRd AK10 KenRiv
+#MO
+MO I-29 13 8
 
 #CA
 #thunder bay
