@@ -1106,6 +1106,7 @@ LA US80 US171/3094 I-20(16B)
 LA US90 NasAve TulAve_E
 #LA US167 I-49 overlap
 LA US171 I-20 US79/80
+LA US371 I-49 LA510
 
 #LA US71BypAle I-49 overlap
 #LA US90BusNew I-10 overlap
@@ -1113,6 +1114,7 @@ LA US171 I-20 US79/80
 LA LA6 I-49 LA504
 #LA LA8 I-49 overlap
 #LA LA28 I-49 overlap
+#LA LA177 part of US371 overlap
 LA LA3045 CapLakeRd I-110
 
 
