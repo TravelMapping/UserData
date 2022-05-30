@@ -1239,7 +1239,7 @@ MT US87 US89/3 US87Byp_N
 MT US89 YelNP JarRd
 #slightly further north, to the grocery store
 MT US89 MT86 US12_W
-MT US89 US87Byp I-15
+MT US89 US87Byp I-15(278)
 #MT US89 I-15 overlap
 #MT US89 US2 overlap
 MT US89 GoiSunRd ManyGlaRd
