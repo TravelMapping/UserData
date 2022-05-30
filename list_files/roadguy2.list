@@ -1154,8 +1154,8 @@ MS I-269 1 16
 MS US45 MS178 BarCroRd
 #MS US78 (I-22 concurrency)
 
-MS MS145 MS178 BarCroRd
-MS MS178 US45_N MS145
+MS MS145Tup MS178 BarCroRd
+MS MS178 MS145 US45
 
 #missouri
 #MO I-29 (I-35 concurrency)
