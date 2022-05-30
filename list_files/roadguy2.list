@@ -1224,7 +1224,7 @@ MT I-90 96 219
 MT I-90 227 298A
 MT I-90 306 309
 MT I-115 I-15/90 ClaSt
-#MT I-315 US89 overlap
+MT I-315 I-15 6thSt
 
 MT US2 US93 I-15BL_N
 #MT US12 US93 overlap
@@ -1239,7 +1239,8 @@ MT US87 US89/3 US87Byp_N
 MT US89 YelNP JarRd
 #slightly further north, to the grocery store
 MT US89 MT86 US12_W
-MT US89 US87Byp I-15(278)
+MT US89 US87Byp 6thSt
+#MT US89 I-315 overlap
 #MT US89 I-15 overlap
 #MT US89 US2 overlap
 MT US89 GoiSunRd ManyGlaRd
