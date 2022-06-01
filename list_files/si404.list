@@ -1464,13 +1464,13 @@ NV CR215 12 19
 ##ASIA##
 ###Indonesia###
 IDN AH150 JlMerJoh Men
-IDN-KA AH150 JlMerJoh Men
+#IDN-KA AH150 JlMerJoh Men
 IDN T1 13(JN) 20(JW)
-IDN-JW T1 13(JN) 20(JW)
+#IDN-JW T1 13(JN) 20(JW)
 IDN T2 13(N) 10(N)
-IDN-JW T2 13(N) 10(N)
+#IDN-JW T2 13(N) 10(N)
 IDN T3 20 32
-IDN-JW T3 20 32
+#IDN-JW T3 20 32
 
 
 #Rail#
@@ -1548,10 +1548,10 @@ ENG SalLn BHM TFC #WM New Street - Telford
 
 #####XR##### (finalised)
 ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
-ENG EliLn PAD ABW #XR Paddington -Abbey Wood
-ENG EliLnShe LST ??? #XR Liverpool St - Shenfield
+ENG EliLn PAD ABW #XR Paddington - Abbey Wood
+ENG EliLnShe LST SNF #XR Liverpool St - Shenfield
 
-#GA Liv St - Shenfield
+#GA LST SNF Liv St - Shenfield
 #EM St Pancras - Wellingborough
 #SE Charing Cross - Orpington (avoid Lewisham)
 #SE Charing Cross - Ashford - Canterbury
@@ -1582,7 +1582,7 @@ ENG EliLnShe LST ??? #XR Liverpool St - Shenfield
 #XC Birmingham - (Solihull) - Reading
 
 ####Heritage####
-Swanage Railway Nordon P&R - Swanage
+#Swanage Railway Nordon P&R - Swanage
 
 #####London Underground##### (all done)
 ENG BakLn HRW EPH
@@ -1623,21 +1623,21 @@ ENG CroAdd ECR_1 NAD
 SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
 
 ###Ireland###
-Grand Canal Dock - Howth
+#Grand Canal Dock - Howth
 
 ###Germany###
-Frankfurt Airport - Hbf
-Frankfurt Hbf - Bensheim
-Bensheim - Heidelberg Hbf
+#Frankfurt Airport - Hbf
+#Frankfurt Hbf - Bensheim
+#Bensheim - Heidelberg Hbf
 
 ###Italy###
-Bergamo - Lecco
-Bergamo - Monza - Milano Centrale
-M3 Centrale - Duomo
-M1 Duomo - Cairoli
+#Bergamo - Lecco
+#Bergamo - Monza - Milano Centrale
+#M3 Centrale - Duomo
+#M1 Duomo - Cairoli
 
 ###Spain###
-Barcelona Metro: Canyelles - Catalunya
+#Barcelona Metro: Canyelles - Catalunya
 
 ###USA###
-LA Metro: Gold Line: Del Mar - Union Station
+#LA Metro: Gold Line: Del Mar - Union Station
