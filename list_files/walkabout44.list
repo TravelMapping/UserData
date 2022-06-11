@@ -1,8 +1,16 @@
-# 05/30/2022
-# v43
-# Added and completed AZ266, AZ US191SprBow, AZ US191BusDou
-# Completed AZ186, AZ366
-# Corrected AZ US191
+# 06/10/2022
+# v44
+# Adjustments for Travel Mapping Interstate Updates
+# SC I-26 new section already on
+# TX I-69 new section already on
+# TX I-69E new section already on
+# IN I-69Whe new section already on
+# AR I-555 new section already on
+# SC I-585 correct starting point
+# NY I-86Bin correct starting point
+# AL I-359 correct ending point
+
+
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -376,7 +384,7 @@ AR I-430 I-30 13               # 13
 AR I-440 I-30/530 11           # 10
 AR I-530 1 46                  # 47 vs 44
 AR I-540 1 14                  # 14
-AR I-555 1 45                  # 44 vs 45
+AR I-555 1 49                  # 49 vs 45
 AR I-630 1 8                   #  8 vs 7
 
 # Texas
@@ -395,9 +403,9 @@ TX I-37 US181 142              #146 vs 143
 TX I-40 NM/TX TX/OK            #179 vs 177
 TX I-44 1 TX/OK                # 15
 TX I-45 1A 284A                #290 vs 285
-TX I-69 TXSpr529 167           # 76 (-34, Table 3 has 110)
+TX I-69 94 167                 # 76 (-34, Table 3 has 110)
 TX I-69C 1 FM490               # 18
-TX I-69E PolkSt 51             # 52 vs 54+
+TX I-69E PolkSt 56             # 52 vs 54+
 TX I-69ERob FM2826 I-37        # 10 vs 7=61
 TX I-69W WorTraBri I-35        #  2 vs 1
 TX I-110 MEX/USA I-10          #  1
@@ -497,7 +505,7 @@ IL I-474 0 15                  # 14 vs 15
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
 IN I-69 200 IN/MI              #160+    vs 159+    
-IN I-69Whe KenAve 134          #136=296 vs 135=294 Table 3 294
+IN I-69Whe KenAve 140A         #136=296 vs 135=294 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
@@ -598,7 +606,7 @@ NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
 NY I-84 PA/NY NY/CT            # 72
 NY I-86 PA/NY NY/PA            #206+
-NY I-86Bin 75 79               #  9=215 vs 216 9 new since 02
+NY I-86Bin 72A 79              #  9=215 vs 216 9 new since 02
 NY I-87 I-278 USA/CAN          #335 vs 334
 NY I-88 I-81 I-90              #118
 NY I-90 PA/NY NY/MA            #390 vs 386
@@ -804,7 +812,7 @@ NC I-840 103(73) 6             #  8 vs 5; 2 not on, 2 not on Table 3
 # South Carolina
 # 851 miles
 SC I-20 GA/SC 141              #144 vs 142
-SC I-26 NC/SC 221              #224 vs 221
+SC I-26 NC/SC US17_S           #224 vs 221
 SC I-77 I-26 SC/NC             # 92 vs 91
 SC I-85 GA/SC SC/NC            #108 vs 106
 SC I-95 GA/SC SC/NC            #202 vs 199
@@ -813,7 +821,7 @@ SC I-185 I-385 HenAve          # 18 vs 17
 SC I-385 I-26 42               # 42
 SC I-520 GA/SC I-20            #  8 vs 7
 SC I-526 10 30                 # 20 vs 19
-SC I-585 ValFalRd 25B          #  3
+SC I-585 I-85BL 25B            #  3
 
 # Georgia
 # 1250 miles (Table 3 1244) - diff 6: I-520 6.
@@ -842,7 +850,7 @@ AL I-59 MS/AL AL/GA            #244 vs 241
 AL I-65 0 AL/TN                #371 vs 367
 AL I-85 I-65 AL/GA             # 81 vs 80
 AL I-165 1 US90                #  5
-AL I-359 I-20/59 LurWalBlvd    #  2
+AL I-359 I-20/59 2             #  2
 AL I-459 I-20/59 33            # 34 vs 33
 AL I-565 1 21                  # 22 vs 21
 AL I-759 I-59 4                #  5

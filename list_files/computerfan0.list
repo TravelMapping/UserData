@@ -184,9 +184,8 @@ NIR B524 QueSt B507
 NIR B528 ShiSt A2_N
 NIR B529 A2 B507
 
-
-
-
+# -- E-roads (segments not included in any other system) --
+NIR E18 A3 2(M12)
 
 # ===== SPAIN =====
 
