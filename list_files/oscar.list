@@ -465,7 +465,8 @@ IL I-55BLBlo I-55_N I-55_S
 IL I-72BLJac I-72_W I-72_E
 IN I-64 IL/IN IN/KY
 IN I-65 KY/IN 262
-IN I-69Whe KenAve 140
+IN I-69Whe KenAve 134
+# new alignment north of exit 134
 IN I-69 200 IN/MI
 IN I-70 IL/IN IN/OH
 IN I-74 IL/IN IN/OH
