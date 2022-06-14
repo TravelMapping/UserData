@@ -1,15 +1,11 @@
-# 06/10/2022
-# v44
-# Adjustments for Travel Mapping Interstate Updates
-# SC I-26 new section already on
-# TX I-69 new section already on
-# TX I-69E new section already on
-# IN I-69Whe new section already on
-# AR I-555 new section already on
-# SC I-585 correct starting point
-# NY I-86Bin correct starting point
-# AL I-359 correct ending point
-
+# 06/12/2022
+# v45
+# Completed new section of AZ24 to Williams Field Road
+# Adjustments for Travel Mapping Arizona Updates:
+# Removed AZ US191SprBow - unsigned
+# Removed AZ NRimDr - Canyon de Chelley - not NPS road
+# Removed AZ SRimDr - Canyon de Chelley - not NPS road
+# Correct northern endpoint of AZHisFlo from US60(212) to US60 
 
 
 # Arizona Interstate Highways
@@ -60,11 +56,10 @@ AZ SkyHarBlvd I-10 AZ202
 
 # Arizona Auxiliary Numbered Highways
 AZ US89AltFre US89 AZ/UT
-AZ US191SprBow US191 I-10
 AZ US191BusDou MEX/USA AZ80
 
 # Arizona State Highways
-AZ AZ24 AZ202 EllRd
+AZ AZ24 AZ202 WilFieRd
 AZ AZ51 I-10 15
 AZ AZ61 US60 AZ/NM
 AZ AZ64 I-40 US89
@@ -140,9 +135,7 @@ AZ AZ587 I-10 AZ87
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
 AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
-AZ NRimDr US191 BIA12               # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
-AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 
 # Arizona US Historic Highways
@@ -155,7 +148,7 @@ AZ US66HisLup I-40(359) AZ/NM
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
-AZ US80HisFlo US60(212) AZ77_S
+AZ US80HisFlo US60 AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
 
 # Hawaii 

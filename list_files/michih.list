@@ -1,4 +1,4 @@
-# Date: 2022-06-11
+# Date: 2022-06-12
 # ----------------
 
 
@@ -1705,6 +1705,7 @@ DEU-BY St2125 B15 B12
 DEU-BY St2125Pas B8 DEU/AUT
 DEU-BY St2126 B533 B85
 DEU-BY St2127 CZE/DEU St2125
+DEU-BY St2128Thu St2322 B85
 DEU-BY St2128 B12 DEU/AUT
 DEU-BY St2129 St2132 B85
 DEU-BY St2130 St2127 B388
@@ -1953,7 +1954,7 @@ DEU-BY St2319 B12 St2320
 DEU-BY St2320 St2132 B388
 DEU-BY St2321 B533 St2127_E
 DEU-BY St2321 St2127_W B12
-DEU-BY St2322 St2125 St2134
+DEU-BY St2322 St2125 B85
 DEU-BY St2323 St2125 B12
 DEU-BY St2323Rud St2323 B85
 DEU-BY St2324 St2083 St2112
@@ -6820,6 +6821,11 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg
 #DEU-BW  Ulm Hbf                      DEU-BY  München Hbf #ICE512
 #DEU-BW  Ulm Hbf                      DEU-BY  Senden
+#DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen #RE55 via Munderkingen, Fridlingen
+#DEU-BW  Donaueschingen               DEU-BW  Freiburg Hbf   #S10
+#DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg      #RB26 via Pforzheim, NOT via Bietigheim-Bissingen
+#DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf  #RE2
+#DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf  #IRE1
 
 #DNK Roskilde Copenhagen
 
@@ -6842,6 +6848,12 @@ QC QC134 RueOnt BoulTas_N
 #CZE     Praha MA Nemocnice Motol    CZE     Praha MA Depo Hostivar
 #CZE     Praha MB Zlicin             CZE     Praha MB Cerny Most
 #CZE     Praha MC Letnany            CZE     Praha MC Haje
+
+#DEU-BW  2 Freiburg Hbf              DEU-BW  FR-Günterstal
+
+#DEU-BW  S4 Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)
+#DEU-BW  1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)
+#DEU-BW  2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz #via ZKM, Europaplatz
 
 #DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie
 #DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)
