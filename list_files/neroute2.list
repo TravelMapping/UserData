@@ -111,8 +111,7 @@ FL FL426 FL424 FL419/434
 FL FL429 1 44
 FL FL430 FL483 FLA1A
 FL FL434 FL423 US17/92
-FL FL434 UniBlvd FL50
-   #may be missing north of Central Florida Boulevard
+FL FL434 FL419_N FL50
 FL FL435 FL482 FL50
 FL FL436 FL434 FL528
    #west to Bear Lake Road and south into OIA
@@ -457,6 +456,7 @@ NC I-95 SC/NC 46
 NC I-95BLFay I-95_S GilSt
    #not quite to GilSt; came on at Owen Drive
 NC I-440 1 10
+NC I-885 5 9
 NC US1 BurDrv I-440(4)
    #also NC78 to Carthage Street
 NC US15 NC147 US70Bus
@@ -484,9 +484,10 @@ NC NC55 US70BusDur I-85
 NC NC78 US1 US421Bus
 NC NC87 I-95 MouDr
 NC NC87 23(295) US1Bus/42
-NC NC147 1 16
+NC NC147 1A 7
 NC NC295 21A 23
 NC NC540 56 1
+NC NC885 1 5
 NC AllAmeFwy OwenDr I-295
 NC RalChaExpy I-40 I-440
 
