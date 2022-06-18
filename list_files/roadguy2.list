@@ -933,11 +933,14 @@ ID I-86 1 63
 
 #ID US20 I-84 Caldwell concurrency
 #ID US20 I-84 Boise-Mtn Home concurrency
+ID US20 US26/93 US26_E
 #ID US20 I-15 concurrency
 ID US20 I-15(119) ID/MT
 #ID US26 I-84 Caldwell concurrency
 #ID US26 I-84 Boise-Bliss concurrency
-ID US26 US93_S ID75
+ID US26 US93_S ID75 US20_W
+#ID US26 US20 Arco concurrency
+ID US26 US20_E I-15(93)
 #ID US26 I-15 concurrency
 ID US26 I-15(116) ID31
 #ID US30 I-84 New Plymouth-Bliss concurrency
@@ -954,8 +957,9 @@ ID US89 US30_W ID/WY
 ID US91 UT/ID I-15(36)
 #ID US91 I-15 concurrency
 ID US91 I-15(67) US26
+#ID US93 u-turnbyCanyonCrest US93Bus
 ID US93 US93Bus US26_W
-#ID US93 US26 Shoshone tiny concurrency
+#ID US93 US26 concurrency
 ID US93 ID75_N ID/MT
 
 ID I-15BLMcC I-15_S US30_E
