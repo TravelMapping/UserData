@@ -826,9 +826,9 @@ HRV A6 1 8
 HRV A7 4 D8
 HRV A8 1 9
 HRV A9 2 10
-HRV D8 A8 D66 # at time of travel, D8 met A8 at-grade, which doesn't seem to match any maps?
+HRV D8 A8 D66
 HRV D30 A3 Air
-#   D42 A6 Z5034 - not mappable
+HRV D42 A6 Z5034
 HRV D44 Z5209 Z5007
 HRV D66 D8 Z5053 # a little farther into Opatija, but not sure exactly where
 HRV D66 A9 D75/D400
