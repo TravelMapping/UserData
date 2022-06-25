@@ -463,7 +463,6 @@ MN I-94BLFar ND/MN I-94_E
 MO I-29BLStJ I-29_S i-29_n
 mo i-35blcam i-35_s i-35_n
 mo i-44bljop i-44_w i-44_e
-mo i-44blleb i-44_w i-44_e
 mo i-44blpac i-44_w i-44_e
 mo i-44blspr i-44_w i-44_e
 mo i-44blway i-44_w i-44_e
@@ -640,7 +639,6 @@ ar ar440 11 us67/167
 az us60 az73 az/nm
 az us64 us160 az/nm
 az us93 i-40(71) az/nv
-az us93trklau us93 az/nv
 az us95 mex/usa az/ca
 az us160 us163 az/nm
 az us163 us160 az/ut
@@ -931,10 +929,12 @@ in in66 us231 in70_w
 in in70 us231 in66
 in in114 i-65 us231
 in in145 in62 carrd
+in in152 i-80/94 us20
 in in162 in245_s i-64
 in in250bro us50 in7
 in in250 in62_w in56
 in in262 us50 in56
+in in312 whioakave us12
 in in912 i-90 us6bus
 in in930 i-69 i-469
 IA US6 NE/IA IA/IL
@@ -1041,7 +1041,7 @@ IA IA117 IA163 ia330
 ia ia122 i-35 mclim
 ia ia128 ia13 us52
 IA IA130 IA38 I-80
-IA IA136 us52/3 il/ia
+IA IA136 us20 il/ia
 IA IA141 I-35/80 I-29
 IA IA144 IA141 IA175
 IA IA146 US63 US30
@@ -1251,6 +1251,7 @@ md us50 md8 us113
 md us50bussal us50_w us50_e
 md us113 us13 md/de
 md us113bussno us113_s us113_n
+md us219 md42 i-68(22)
 md us301 md8 md313
 md md7hav us40 us40/155
 md md7nor us40 us40/279
@@ -1552,7 +1553,7 @@ ms us61 ms713 stalinrd
 ms us84 la/ms us61_n
 ms us84 us51 us49
 MS US278 AR/MS US61/82
-ms us425 la/ms us61
+ms us425 la/ms us61_s
 mt us2 id/mt sr548
 mt us12 id/mt i-90(174)
 mt us20 id/mt mt/wy
@@ -1624,7 +1625,6 @@ ne ne51 us275 ne/ia
 ne ne59cre 552ave us81
 ne ne71 ne88_e us20_w
 ne ne84 ne14 ne13
-ne ne85 ne370 us275/92
 ne ne87 l7e ne/sd
 ne ne88 ne71_n us385/92
 ne ne92 ne71_n ne71_s
