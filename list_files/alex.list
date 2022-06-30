@@ -261,7 +261,7 @@ AK I-A1 5thAve_W AK3_N
 #########
 # I-AK3 #
 #########
-AK I-A3 AK9 OldSewHwy_N
+AK I-A3 AK9 5thAve
 
 #########
 # I-AK4 #
@@ -339,6 +339,7 @@ CO US24 CO91 CO300
 # US26 #
 ########
 OR US26 64 74
+OR US26 BurRd OR173
 OR US26 US97_S OR35
 ID US26 I-15(93) I-15(116)
 ID US26 ID43 ID31
@@ -516,6 +517,8 @@ NV US395 CA/NV NV756
 #########################
 # Alaska State Highways #
 #########################
+AK AK7Jun MainSt MenLpRd_N
+
 AK AK9 RaiAve AK1
 
 ##########################
@@ -852,6 +855,8 @@ OR OR62 OR234 US97
 
 OR OR138 SusCreRd CraLakeHwy
 
+OR OR173 US26 TimLodge
+
 OR OR217 US26 8
 
 OR OR234 OR99_E OR62
@@ -927,7 +932,7 @@ WA WA18 I-5 WA164
 
 WA WA19 WA104 WA20
 
-WA WA20 WA525 WA9_N
+WA WA20 WA525 CapeHornRd
 WA WA20 WA530 NFD600_W
 
 WA WA20Por WA19 PorCouFry
@@ -1030,6 +1035,8 @@ WY WY450 US16 WY59
 ##########################
 # NATIONAL PARK HIGHWAYS #
 ##########################
+AK ParkRd AK3 EieVisCen
+
 CA BadRd CA190 Bad
 
 CA BigOakRd CA120 ElPorRd
