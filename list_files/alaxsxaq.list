@@ -206,7 +206,7 @@ BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 AK9
+AK AK1 AK2 End
 AK HicPkwy AK1 TudRd
 AK AK3 AK1 AK2
 AK ParkRd AK3 StoHillOve #denali
@@ -216,7 +216,7 @@ AK AK10 AK4 McCarRd
 AK McCarRd AK10 KenRiv
 AK AK2 AK3 AirWay
 AK AK2 3rdSt AK11 #college rd
-AK AK11 AK2 ArcCirWay #south bonanza creek
+AK AK11 AK2 PipRd286 #south bonanza creek
 #MO
 MO I-29 13 8
 
