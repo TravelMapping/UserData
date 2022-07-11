@@ -1,4 +1,4 @@
-# Date: 2022-06-19
+# Date: 2022-07-03
 # ----------------
 
 
@@ -491,7 +491,7 @@ CZE D48Chl II482 45
 CZE D48 TGMas 70
 CZE D52 III15280 II381/395
 CZE D55 16 I49
-CZE D56 39 I48
+CZE D56 39 51
 CZE 5KvePra Kon D1
 CZE MO ProRad Pru
 CZE ChuRad MO D0
@@ -556,6 +556,7 @@ CZE I52 D52(26) CZE/AUT
 CZE I55 D35 D1(272)
 CZE I55 I51 CZE/AUT
 CZE I56 D1 D56(39)
+CZE I56Fry D56 I48
 CZE I62 DEU/CZE I13_E
 CZE I64 DEU/CZE II217
 CZE II112 I23_W III40610
@@ -4354,7 +4355,7 @@ FRA-ARA A51 10 D1075
 FRA-ARA A71 CVL/ARA A711
 FRA-ARA A72 5.1 N88
 FRA-ARA A75 A711 ARA/OCC
-FRA-ARA A79 D2371 N79_Bru
+FRA-ARA A79 BFC/ARA D2371
 FRA-ARA A89 NAQ/ARA A6
 FRA-ARA A404 A40 D31
 FRA-ARA A406 A40 ARA/BFC
@@ -4373,7 +4374,6 @@ FRA-ARA A719 A71 16
 FRA-ARA N7 BFC/ARA D707_ViN
 FRA-ARA N7 D707_ViS N209
 FRA-ARA N7Val 35 31
-FRA-ARA N79 BFC/ARA A79_Bru
 FRA-ARA N85 A480 ARA/PAC
 FRA-ARA N87 A41 A480
 FRA-ARA N88 16 20
@@ -5576,8 +5576,7 @@ ITA A35 SS11BS A58
 ITA A36 A8 SS35
 ITA A50 A8 A1_S
 ITA A51 1 23
-ITA A52Rho A50 ViaPia #future A52 b/n ViaPia and SP35 also traveled
-ITA A52 A51 SP35
+ITA A52 A51 A50
 ITA A53 A7 A54
 ITA A54 SS35_N SS35_S
 ITA A55 A5 SS29
@@ -6619,7 +6618,7 @@ ENG A1210 A100/A1203 A11/A1211
 ENG A1214 ScrDr A12/A14
 ENG A1231 A1 A19
 ENG A1261 A1203 A13_E
-ENG A1307Hun A141 *A14
+ENG A1307 A141 *A14
 ENG A1307 HunSta A14(24)
 ENG A1307 A14(30) DryDraRd
 ENG A2070 A259 M20
@@ -6886,6 +6885,18 @@ QC QC134 RueOnt BoulTas_N
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #S9 via Mainz-Kastel, Airport
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #RB75 via Mainz Hbf, Groß-Gerau
 
+#DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #RS5
+#DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #MEX13 via Waiblingen, Aalen (two travels merged)
+#DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #RE80
+#DEU-BW  Heilbronn Hbf                DEU-BW  Heidelberg Hbf        #RE10b via Sinsheim
+#DEU-BW  Heidelberg Hbf               DEU-BW  Mannheim Hbf          #S2
+#DEU-BW  Mannheim Hbf                 DEU-RP  Koblenz Hbf           #RE1 via Saarbrücken, Trier
+#DEU-RP  Koblenz Hbf                  DEU-RP  Mainz Hbf             #RB26
+#DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #RB75 via Darmstadt
+#DEU-BY  Aschaffenburg Hbf            DEU-BY  Würzburg Hbf          #RE55 via Gemünden
+#DEU-BY  Würzburg Hbf                 DEU-BW  Stuttgart Hbf         #RE8
+
+
 #DNK Roskilde Copenhagen
 
 #ENG StrLn BMO SOL   #Birmingham Moor Street - Solihull
@@ -6913,6 +6924,12 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  S4 Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)
 #DEU-BW  1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)
 #DEU-BW  2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz #via ZKM, Europaplatz
+
+#Mannheim tram main station was closed due to construction, July 2022
+#DEU-BW  1  Mannheim Marktplatz      DEU-BW  Mannheim Schönau
+#DEU-BW  3  Mannheim Sandhofen       DEU-BW  Mannheim Schloss
+#DEU-BW  4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz
+#DEU-RP  4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall #via Wasserturm
 
 #DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie
 #DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)
@@ -7003,6 +7020,12 @@ QC QC134 RueOnt BoulTas_N
 #DEU-NW  Cologne 16 Niehl-Seba.str.  DEU-NW  Sürth
 #DEU-NW  Cologne 17 Severinstr.      DEU-NW  Sürth
 #DEU-NW  Cologne 18 Thielenbruch     DEU-NW  Sülzgürtel
+
+#All relations at main station traveled, 59 does not run on weekend
+#DEU-RP  Mainz   50 Römerquelle      DEU-RP  Bürgerhaus
+#DEU-RP  Mainz   51 Poststraße       DEU-RP  Hindemithstraße
+#DEU-RP  Mainz   52 Bahnstraße       DEU-RP  Am Schinnergraben 
+#DEU-RP  Mainz   53 Hindemithstraße  DEU-RP  Bürgerhaus
 
 #DEU-SN Dresden  1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              (end to end)
 #DEU-SN Dresden  2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          (end to end)
