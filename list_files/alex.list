@@ -33,6 +33,8 @@ CA I-505 1A I-5
 CA I-605 9B 14A
 CA I-605 19 25
 
+WA I-705 I-5 StaWay
+
 ########
 # I-10 #
 ########
@@ -259,7 +261,7 @@ AK I-A1 5thAve_W AK3_N
 #########
 # I-AK3 #
 #########
-AK I-A3 AK9 OldSewHwy_N
+AK I-A3 AK9 5thAve
 
 #########
 # I-AK4 #
@@ -337,6 +339,7 @@ CO US24 CO91 CO300
 # US26 #
 ########
 OR US26 64 74
+OR US26 BurRd OR173
 OR US26 US97_S OR35
 ID US26 I-15(93) I-15(116)
 ID US26 ID43 ID31
@@ -430,6 +433,8 @@ MT US93 MT40 USA/CAN
 ########
 # US95 #
 ########
+ID US95 438 SupSt
+ID US95 US2/200 USA/CAN
 NV US95 76(515) NV373 
 
 ########
@@ -512,6 +517,8 @@ NV US395 CA/NV NV756
 #########################
 # Alaska State Highways #
 #########################
+AK AK7Jun MainSt MenLpRd_N
+
 AK AK9 RaiAve AK1
 
 ##########################
@@ -751,6 +758,8 @@ ID ID33 ID31 ID/WY
 
 ID ID50 US30 I-84
 
+ID ID53 HauLkRd US95
+
 ID ID74 US93 US30
 
 ##########################
@@ -846,6 +855,8 @@ OR OR62 OR234 US97
 
 OR OR138 SusCreRd CraLakeHwy
 
+OR OR173 US26 TimLodge
+
 OR OR217 US26 8
 
 OR OR234 OR99_E OR62
@@ -903,6 +914,8 @@ WA WA3 WA16 WA104
 
 WA WA4 US101 WA401
 
+WA WA7 WA702 WA704
+
 WA WA7 US12 AldCut
 
 WA WA8 US12 US101
@@ -919,7 +932,7 @@ WA WA18 I-5 WA164
 
 WA WA19 WA104 WA20
 
-WA WA20 WA525 WA9_N
+WA WA20 WA525 CapeHornRd
 WA WA20 WA530 NFD600_W
 
 WA WA20Por WA19 PorCouFry
@@ -943,9 +956,13 @@ WA WA141AltUnd WA14 WA141
 
 WA WA161 WasAve WA512/167
 
+WA WA163 WA16 ParkWay
+
 WA WA164 WA18 WA410
 
 WA WA167 WA161/512 I-405
+
+WA WA169 WA164 WA900
 
 WA WA202 WA203 I-90
 
@@ -990,6 +1007,8 @@ WA WA544 PoleRd WA9
 
 WA WA599 I-5 WA99
 
+WA WA704 SpaLpRd WA7
+
 WA WA706 WA7 MouRaiNP
 
 WA WA903 WA970 OakAve_S
@@ -1016,6 +1035,8 @@ WY WY450 US16 WY59
 ##########################
 # NATIONAL PARK HIGHWAYS #
 ##########################
+AK ParkRd AK3 EieVisCen
+
 CA BadRd CA190 Bad
 
 CA BigOakRd CA120 ElPorRd
@@ -1091,8 +1112,10 @@ WA WSeaBri I-5(163A) AdmWay
 ########################
 # Trans-Canada Highway #
 ########################
+BC TCHMai 2 27
 BC TCHMai 92 170
-BC TCHMai BC95 BC/AB
+BC TCHMai 362 BC/AB
+AB TCHMai BC/AB 118
 
 BC TCHYel BC5 BC/AB
 AB TCHYel BC/AB AB93
@@ -1100,29 +1123,32 @@ AB TCHYel BC/AB AB93
 ##########################
 # BC Provincial Highways #
 ##########################
-BC BC1 2 17
 
 BC BC3 170 177
 
 BC BC5 177 BC16
 
-BC BC93 BC95_N USA/CAN
+BC BC91 BC99 22
 
-BC BC95 BC1 BC3/BC93
+BC BC93 BC/AB USA/CAN
+
+BC BC95 BC1 USA/CAN
 
 BC BC99 USA/CAN 3(BC1)
+
+BC KniSt BC91 63rdAve
 
 ###############################
 # Alberta Provincial Highways #
 ###############################
+AB AB40Kan KanLakTrl AB1
+
 AB AB93AJas AB16 AB93
 
 AB AB93A AB93_N AB93_S
 
 AB AB93 AB93AJas AB93A_N
-AB AB93 AB93A_S AB1A
-
-AB AB1 BC/AB AB1A_W
+AB AB93 AB93A_S BC/AB
 
 #########
 # ITALY #

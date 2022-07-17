@@ -48,7 +48,7 @@ ar us270 i-30(98) ar88
 ar us70bushot ar7 us70_e
 ar ar7 ar88_n whiave
 ar ar51roc us270_n us270_s
-ar ar88 us70/270 ar7_e
+ar ar88hot us70/270 ar7_e
 ca i-5 114 134b
 ca i-10 1 13
 ca i-10 ca/az 240
@@ -336,10 +336,10 @@ ma i-95 ri/ma ma/nh
 ma i-190 0 ma2
 ma i-195 ri/ma 40
 ma i-295 ri/ma 4
-ma i-290 7 26
+ma i-290 12 32
 ma i-291 1 i-90
 ma i-391 1 6
-ma i-395 ct/ma 7
+ma i-395 ct/ma 12
 ma i-495 1 i-95
 ma lowcon us3 gorst
 ma solfierd harst stodr
@@ -349,7 +349,7 @@ ma us3 ma/nh ma3
 ma us5 ct/ma ma/vt
 ma us6 ri/ma ma24
 ma us6 braave lecholrd
-ma us7 ct/ma us20_w
+ma us7 ct/ma ma/vt
 ma us20 ny/ma ma2_e
 ma us44 ri/ma ma3a
 ma us202 ct/ma ma2_e
@@ -372,7 +372,7 @@ ma ma4 ma2 ma3a
 ma ma6ayar us6_w ma130
 ma ma6ayar ma134 ma124
 ma ma6ayar us6_e ma28
-ma ma7alen us7_n ma183_w
+ma ma7alen us7_n us7_s
 ma ma8 ct/ma ma2_e
 ma ma8acha ma/vt ma8_s
 ma ma9 us20_w ma28
@@ -404,7 +404,7 @@ ma ma37 ma28 i-93
 ma ma38 ma28 ma129_e
 ma ma39 ma28/124 ma28
 ma ma40 ma119/225 ma3a
-ma ma41 ct/ma ma295
+ma ma41 ct/ma us20
 ma ma47 ma116_s ma63
 ma ma49 us20 ma9
 ma ma53 ma3a_n ma3a_s
@@ -656,7 +656,7 @@ md md586 md97 md28/911
 md md614 md191 macblvd
 md md648 md168 md176
 md md650 dc/md md108_n
-md md662wye md213 md404
+md md662 md213 md404
 md md710 md2 md173
 md md713 end md176
 md md717 md4 md725
@@ -801,6 +801,7 @@ nj us9w nj/ny i-95
 nj us22 cr531 us1/9
 nj us30 pa/nj us130/38
 nj us46 nj/ny nj17
+nj us46 nj20 nj21
 nj us130 us1/171 nj33/526
 nj us130 i-295(57) us30/38
 nj us130 i-295(23) us322
@@ -910,6 +911,8 @@ ny ny5 ny28_n ny28_s
 ny ny5 ny167_s ny169_s
 ny ny5 ny10_s ny30a_s
 ny ny5s ny10 i-90(29)
+ny ny7 i-787 ny40
+ny ny7 ny/vt benbyp
 ny ny8 ny28 peavalrd
 ny ny9a henhudpkwy(23) i-478
 ny ny9d us6/202 ny301
@@ -922,9 +925,11 @@ ny ny14a ny14 us20/5
 ny ny17 pa/ny ny/pa
 ny ny17bin i-87(15a) 131
 ny ny17bin pa/ny 121
-ny ny22 ny295 ny312 
+ny ny22 ny40 ny22a
+ny ny22 us20_e ny312 
 ny ny22 ny35 i-684(10)
 ny ny22 brorivpkwy ny120_n 
+ny ny22a ny/vt ny22
 ny ny23 ny/ma ny26
 ny ny23b ny23 ny9h/23
 ny ny25 2ndave ny25b_w
@@ -944,9 +949,10 @@ ny ny32 ny199 ny213
 ny ny33 oakst ny78
 ny ny35 i-684 ny22
 ny ny38 ny200 ny366
+ny ny40 ny7 ny22
 ny ny54 i-86 ny14
 ny ny54a ny54 ny14a_n
-ny ny66 us20_w ny295
+ny ny66 ny2 ny295
 ny ny71 ny/ma ny22
 ny ny79 ny414 ny366
 ny ny82 us9/23 ny343
@@ -1206,8 +1212,9 @@ ut i-70bssal i-70 us50_w
 ut us89 us89alt ut143
 ut us89altkan az/ut us89
 ut us191 i-70(157) archnp
-ut arcscedr us191 devgarcam
 ut brycynscedr ut63 end
+ut delarchrd mainparkrd delarch 
+ut mainparkrd us191 devgarcam
 ut ut9 us89 ut59
 ut ut12 us89 kodway
 ut ut59 az/ut ut9
@@ -1222,10 +1229,18 @@ vt us2 ny/vt i-89(17)
 vt us4 ny/vt vt/nh
 vt us4busrut us4_w us4_e
 vt us5 ma/vt vt103
-vt us7 us4_w  vt3
+vt us7 vt3 vt7bcla_n
+vt us7 vt7bcla_s vt7bwal_n
+vt us7 vt7bwal_s vt7a_c
+vt us7 ma/vt us279_w
 vt vt3 us4bus us7
+vt vt4a us4 us4bus
+vt vt7a us7_s us7_n
+vt vt7bcla us7_s us7_n
+vt vt7bwal us7_s us7_n
 vt vt8 vt100_n vt9
 vt vt8a ma/vt vt112
+vt vt9 ny/vt vt279
 vt vt9 vt/nh vt8
 vt vt9trkbra vt9_w vt9_e
 vt vt10 vt103 vt106
@@ -1234,6 +1249,7 @@ vt vt11 vt35 vt103_n
 vt vt11 vt100_s vt121
 vt vt11 vt/nh vt106
 vt vt18 us2 i-93
+vt vt22a ny/vt us4
 vt vt30 us5/9 vt100_n
 vt vt35 vt11 vt30
 vt vt100 vt8_n vt11_e
@@ -1244,12 +1260,14 @@ vt vt119 vt/nh us5
 vt vt121 vt11 us5
 vt vt123 vt/nh us5
 vt vt142 ma/vt us5
+vt vt279 ny/vt vt9
 
 va i-64 291 282 
 va i-66 va/dc 1
 va i-81 tn/va va/wv
 va i-85 nc/va 68
-va i-95 nc/va va/dc
+va i-95 nc/va 170
+va i-95 va/dc 177(95)
 va i-295 43 1
 va i-395 1 va/dc
 va i-495 md/va 170(95)
