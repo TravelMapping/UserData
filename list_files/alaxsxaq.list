@@ -137,6 +137,7 @@ TX I-635 27B 8
 TX I-30 56B 39
 #CA (incomplete)
 CA US101 VanNessAve_N CA255_S #SF to eureka
+CA CA37 US101 CA121 #sonoma
 CA I-15 115 141
 CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
@@ -164,6 +165,17 @@ CA US101 13 19A
 CA I-405 63C 53B
 #menifee
 CA CA79 I-10 SanAve_N
+#kolkon 2022
+CA US101 390 431 #ca87 to i280
+CA I-280 49B 12 #ca1 to ca85
+CA CA85 19A 2 #i280 to cottle
+CA CA17 26 20 #i880 to ca9
+CA CA9 CA17 CA35
+CA I-380 5A 6 #aaaa
+CA I-280 54 5thSt #us101 to downtown sf
+CA CA1 438(101) 49B(280) #us101 to i280
+CA CA87 1A 9
+CA I-880 3 I-280 #airport (is 3 right?) to i280
 #NM91 santa rosa lake
 NM US66HisSan I-40(275) NM91
 #NM91?
@@ -194,14 +206,17 @@ BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
 AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 AK9
+AK AK1 AK2 End
 AK HicPkwy AK1 TudRd
-AK AK3 AK1 HeaSpurRd
+AK AK3 AK1 AK2
 AK ParkRd AK3 StoHillOve #denali
 AK AK9 AK1 RaiAve #seward
 AK AK4 AK1_W AK10 #wrangell-st elias
 AK AK10 AK4 McCarRd
 AK McCarRd AK10 KenRiv
+AK AK2 AK3 AirWay
+AK AK2 3rdSt AK11 #college rd
+AK AK11 AK2 PipRd286 #south bonanza creek
 #MO
 MO I-29 13 8
 

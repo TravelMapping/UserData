@@ -1,9 +1,12 @@
-# 04/26/2022
-# v42
-# Added and completed AZ AZ473
-# Added and completed AZ AZ273
-# Added and completed AZ AZ261
-# Completed AZ US180
+# 06/12/2022
+# v45
+# Completed new section of AZ24 to Williams Field Road
+# Adjustments for Travel Mapping Arizona Updates:
+# Removed AZ US191SprBow - unsigned
+# Removed AZ NRimDr - Canyon de Chelley - not NPS road
+# Removed AZ SRimDr - Canyon de Chelley - not NPS road
+# Correct northern endpoint of AZHisFlo from US60(212) to US60 
+
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -42,7 +45,7 @@ AZ US95 MEX/USA AZ/CA
 AZ US160 US89 AZ/NM
 AZ US163 US160 AZ/UT
 AZ US180 GraCynNP AZ/NM
-AZ US191 AZ80_E AZ/UT
+AZ US191 AZ80 AZ/UT
 
 # Arizona Future Interstate Highways
 AZ I-11FutKin 71(40) 48(40)
@@ -53,10 +56,10 @@ AZ SkyHarBlvd I-10 AZ202
 
 # Arizona Auxiliary Numbered Highways
 AZ US89AltFre US89 AZ/UT
-AZ US93TrkLau US93 AZ/NV
+AZ US191BusDou MEX/USA AZ80
 
 # Arizona State Highways
-AZ AZ24 AZ202 EllRd
+AZ AZ24 AZ202 WilFieRd
 AZ AZ51 I-10 15
 AZ AZ61 US60 AZ/NM
 AZ AZ64 I-40 US89
@@ -99,7 +102,7 @@ AZ AZ177 AZ77 US60
 AZ AZ179 I-17 AZ89A
 AZ AZ180ACon AZ61 US180
 AZ AZ181 US191 PinCanRd
-AZ AZ186 I-10BL_E AZ181
+AZ AZ186 I-10 AZ181
 AZ AZ187 AZ387 AZ87
 AZ AZ188 US60 AZ87
 AZ AZ189 MEX/USA I-19BL
@@ -110,6 +113,7 @@ AZ AZ238 End AZ347
 AZ AZ260 AZ89A US180/191
 AZ AZ261 AZ260 AZ273
 AZ AZ264 US160 AZ/NM
+AZ AZ266 FortGraRd_S US191
 AZ AZ273 BigLakeRd AZ260
 AZ AZ277 AZ260 AZ77
 AZ AZ286 MEX/USA AZ86
@@ -118,7 +122,7 @@ AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
 AZ AZ303 CanTraBlvd I-17
 AZ AZ347 AZ84 I-10
-AZ AZ366 FR819 US191
+AZ AZ366 End US191
 AZ AZ373 AZ260 End
 AZ AZ377 AZ277 AZ77
 AZ AZ387 AZ84 AZ87
@@ -131,9 +135,7 @@ AZ AZ587 I-10 AZ87
 AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
 AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
 AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
-AZ NRimDr US191 BIA12               # Canyon de Chelley NM - North Rim Drive
 AZ PetForRd US180 I-40              # Petrified Forest NM
-AZ SRimDr BIA64 SpiRockOve          # Canyon de Chelley NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 
 # Arizona US Historic Highways
@@ -146,7 +148,7 @@ AZ US66HisLup I-40(359) AZ/NM
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
-AZ US80HisFlo US60(212) AZ77_S
+AZ US80HisFlo US60 AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
 
 # Hawaii 
@@ -375,7 +377,7 @@ AR I-430 I-30 13               # 13
 AR I-440 I-30/530 11           # 10
 AR I-530 1 46                  # 47 vs 44
 AR I-540 1 14                  # 14
-AR I-555 1 45                  # 44 vs 45
+AR I-555 1 49                  # 49 vs 45
 AR I-630 1 8                   #  8 vs 7
 
 # Texas
@@ -394,9 +396,9 @@ TX I-37 US181 142              #146 vs 143
 TX I-40 NM/TX TX/OK            #179 vs 177
 TX I-44 1 TX/OK                # 15
 TX I-45 1A 284A                #290 vs 285
-TX I-69 TXSpr529 167           # 76 (-34, Table 3 has 110)
+TX I-69 94 167                 # 76 (-34, Table 3 has 110)
 TX I-69C 1 FM490               # 18
-TX I-69E PolkSt 51             # 52 vs 54+
+TX I-69E PolkSt 56             # 52 vs 54+
 TX I-69ERob FM2826 I-37        # 10 vs 7=61
 TX I-69W WorTraBri I-35        #  2 vs 1
 TX I-110 MEX/USA I-10          #  1
@@ -496,7 +498,7 @@ IL I-474 0 15                  # 14 vs 15
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
 IN I-69 200 IN/MI              #160+    vs 159+    
-IN I-69Whe KenAve 134          #136=296 vs 135=294 Table 3 294
+IN I-69Whe KenAve 140A         #136=296 vs 135=294 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
@@ -597,7 +599,7 @@ NY I-81 PA/NY 45               #             8 MILES MISSING
 NY I-81 47 50                  #176 of 184
 NY I-84 PA/NY NY/CT            # 72
 NY I-86 PA/NY NY/PA            #206+
-NY I-86Bin 75 79               #  9=215 vs 216 9 new since 02
+NY I-86Bin 72A 79              #  9=215 vs 216 9 new since 02
 NY I-87 I-278 USA/CAN          #335 vs 334
 NY I-88 I-81 I-90              #118
 NY I-90 PA/NY NY/MA            #390 vs 386
@@ -803,7 +805,7 @@ NC I-840 103(73) 6             #  8 vs 5; 2 not on, 2 not on Table 3
 # South Carolina
 # 851 miles
 SC I-20 GA/SC 141              #144 vs 142
-SC I-26 NC/SC 221              #224 vs 221
+SC I-26 NC/SC US17_S           #224 vs 221
 SC I-77 I-26 SC/NC             # 92 vs 91
 SC I-85 GA/SC SC/NC            #108 vs 106
 SC I-95 GA/SC SC/NC            #202 vs 199
@@ -812,7 +814,7 @@ SC I-185 I-385 HenAve          # 18 vs 17
 SC I-385 I-26 42               # 42
 SC I-520 GA/SC I-20            #  8 vs 7
 SC I-526 10 30                 # 20 vs 19
-SC I-585 ValFalRd 25B          #  3
+SC I-585 I-85BL 25B            #  3
 
 # Georgia
 # 1250 miles (Table 3 1244) - diff 6: I-520 6.
@@ -841,7 +843,7 @@ AL I-59 MS/AL AL/GA            #244 vs 241
 AL I-65 0 AL/TN                #371 vs 367
 AL I-85 I-65 AL/GA             # 81 vs 80
 AL I-165 1 US90                #  5
-AL I-359 I-20/59 LurWalBlvd    #  2
+AL I-359 I-20/59 2             #  2
 AL I-459 I-20/59 33            # 34 vs 33
 AL I-565 1 21                  # 22 vs 21
 AL I-759 I-59 4                #  5
