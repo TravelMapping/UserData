@@ -1,11 +1,13 @@
-# 06/12/2022
-# v45
-# Completed new section of AZ24 to Williams Field Road
-# Adjustments for Travel Mapping Arizona Updates:
-# Removed AZ US191SprBow - unsigned
-# Removed AZ NRimDr - Canyon de Chelley - not NPS road
-# Removed AZ SRimDr - Canyon de Chelley - not NPS road
-# Correct northern endpoint of AZHisFlo from US60(212) to US60 
+# 07/26/2022
+# v46
+# Completed 4 Interstate Highways in North Carolina
+#  Completed I-140 near Wilmington
+#  Completed I-295 near Fayetteville
+#  Started and completed I-885 including newly constructed section
+#  Completed I-840 near Greenville
+#  Added NC I-26Fau section already completed
+# Completed new I-49 Bella Vista bypass in Missouri and Arkansas
+
 
 
 # Arizona Interstate Highways
@@ -340,7 +342,7 @@ KS I-670 I-70 KS/MO            #  2
 MO I-29 2H(35) MO/IA           #130 vs 125 overlap I-35
 MO I-35 KS/MO MO/IA            #116 vs 114 overlap I-70
 MO I-44 OK/MO I-70             #292 vs 293
-MO I-49 5 I-435                #181 vs 179
+MO I-49 AR/MO I-435            #181 vs 179
 MO I-55 AR/MO MO/IL            #213 vs 209
 MO I-57 1 MO/IL                # 22
 MO I-64 1 MO/IL                # 41 vs 40
@@ -370,7 +372,7 @@ OK I-444 I-244_W I-244_E       #  2 vs 3
 # 750 miles (Table 3 745) diff 5: I-49 5
 AR I-30 TX/AR 143              #145 vs 143
 AR I-40 OK/AR AR/TN            #287 vs 285
-AR I-49 20 93                  # 72+    vs 73+
+AR I-49 20 AR/MO               # 72+    vs 73+
 AR I-49Tex LA/AR AR/TX         # 42=114 vs 42=115 5 new miles not on Table 3=110
 AR I-55 TN/AR AR/MO            # 74 vs 70 2 overlap I-40
 AR I-430 I-30 13               # 13
@@ -780,7 +782,7 @@ TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 # 1363 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
 # 1338 on 25 not on
 NC I-26 4A(240) NC/SC          # 43+
-NC I-26Fau TN/NC 9             #  9 =52 vs 53
+NC I-26Fau TN/NC 13            #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
 NC I-73 22 123                 #101 vs 99
 NC I-74 VA/NC 17               # 17+
@@ -794,13 +796,15 @@ NC I-140 14 20                 #  7 of 21 (Table 3 7)
 NC I-240 1A 9                  #  9 vs 10
 NC I-277 1B 5                  #  4
 NC I-285 I-85 107(52)          # 23
-NC I-295 21A 34                # 23 (Table 3 14) (14 completed)
+NC I-295 12 34                 # 23 (Table 3 14) (14 completed) - now 22 completed
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
 NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
 NC I-795 38(264) 24            # 26
-NC I-840 103(73) 6             #  8 vs 5; 2 not on, 2 not on Table 3 
+NC I-840 103(73) 10            #  8 vs 5; 2 not on, 2 not on Table 3
+NC I-885 5 13                  #  all new
+ 
 
 # South Carolina
 # 851 miles
