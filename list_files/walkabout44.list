@@ -1,13 +1,7 @@
 # 07/26/2022
-# v46
-# Completed 4 Interstate Highways in North Carolina
-#  Completed I-140 near Wilmington
-#  Completed I-295 near Fayetteville
-#  Started and completed I-885 including newly constructed section
-#  Completed I-840 near Greenville
-#  Added NC I-26Fau section already completed
-# Completed new I-49 Bella Vista bypass in Missouri and Arkansas
-
+# v47
+# Completed I-240 near Wilmington, NC (missed in previous version)
+# Completed I-195 in Richmond, VA
 
 
 # Arizona Interstate Highways
@@ -719,7 +713,7 @@ VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
 VA I-81 TN/VA VA/WV            #326 vs 325
 VA I-85 NC/VA 68               # 69
 VA I-95 NC/VA VA/DC            #179
-VA I-195 VA146 I-64            #  3   #missed ramp 195 to 95
+VA I-195 VA146 I-95            #  3
 VA I-264 I-64/664 ParAve       # 25
 VA I-295 53 1                  # 52
 VA I-381 ComAve 1              #  1
@@ -792,7 +786,7 @@ NC I-77 SC/NC NC/VA            #107 vs 105
 NC I-85 SC/NC NC/VA            #237 vs 205 overlap I-40
 NC I-87 16(440) 13             # 13 vs 10
 NC I-95 SC/NC NC/VA            #184 vs 181
-NC I-140 14 20                 #  7 of 21 (Table 3 7)
+NC I-140 1 20                  #  7 of 21 (Table 3 7)
 NC I-240 1A 9                  #  9 vs 10
 NC I-277 1B 5                  #  4
 NC I-285 I-85 107(52)          # 23
