@@ -71,8 +71,12 @@ WY I-25 189 210
 # I-35 #
 ########
 MN I-35 127 237
+MN I-35 253A 256A
 
-MN I-35W 27 I-35(127)
+MN I-35E 103B 127
+
+MN I-35W 9A 13
+MN I-35W 26B I-35(127)
 
 ########
 # I-40 #
@@ -221,7 +225,7 @@ MN I-94 231A 241B
 
 IL I-294 8 40A
 
-MN I-394 5A 8B
+MN I-394 3 8B
 
 MN I-494 1A 7
 
@@ -285,6 +289,8 @@ NJ US1 CR571 NJ18
 WA US2 I-5 WA204
 WA US2 WA522 US97_S
 MT US2 MT40 MarPass
+MN US2 I-35(253A) MN/WI
+WI US2 MN/WI US53Bus/35
 
 #######
 # US6 #
@@ -466,6 +472,11 @@ WA US101 WA8 I-5
 CA US101BusNov US101_S US101_N
 CA US101BusPet US101_S US101_N
 CA US101BusPis US101_S CA US101BusPis US101_N
+
+#########
+# US169 #
+#########
+MN US169 MN7 63rdAve
 
 #########
 # US180 #
@@ -777,13 +788,21 @@ IN IN341 IN55 IN28
 ############################
 # Minnesota State Highways #
 ############################
-MN MN5 I-494(1A) MSPApt
+MN MN5 I-494(1A) I-35E
 
 MN MN33 I-35 US53
+
+MN MN61 I-35 60thAve
+
+MN MN70 I-35 MN/WI
 
 MN MN77 CR38 I-494
 
 MN MN100 I-494 I-694
+
+MN MN135 CR100/110 MN1/169
+
+MN MN169 US53 CR88_E
 
 ##########################
 # Montana State Highways #
@@ -1014,6 +1033,12 @@ WA WA706 WA7 MouRaiNP
 WA WA903 WA970 OakAve_S
 
 WA WA970 I-90 US97
+
+############################
+# Wisconsin State Highways #
+############################
+WI WI35 WI70_W US2
+WI WI70 MN/WI WI35_N
 
 ##########################
 # Wyoming State Highways #
