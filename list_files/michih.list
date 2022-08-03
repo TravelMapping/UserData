@@ -1,4 +1,4 @@
-# Date: 2022-07-26
+# Date: 2022-07-31
 # ----------------
 
 
@@ -124,13 +124,15 @@ AUT B180 A12 AUT/ITA
 AUT B181 DEU/AUT B169/B171
 AUT B187 DEU/AUT B179
 AUT B189 B179 B171_Ims
-AUT L190 DEU/AUT L202
+AUT L190 DEU/AUT L3_Lau
 AUT L190 L200 L191a
 AUT L191a L190 AUT/LIE
 AUT B198 L200 B179
 AUT L200 L190 L198
 AUT L201 DEU/AUT Baa
 AUT L202 CHE/AUT L190
+AUT L203 L202 L204_W
+AUT L204 CHE/AUT L203_N
 AUT B221 B226/B227 B1
 AUT B224 WeiGas A23
 AUT B227 A22 B221/B226
@@ -553,7 +555,7 @@ CHE H1 A1a GTS_E
 CHE H1 H6_S H12_N
 CHE H1 H22_Her H2
 CHE H1 H26_N A1(68)
-CHE H1 H16 CHE/DEU
+CHE H1 H7_S CHE/DEU
 CHE H2 H1 A1
 CHE H2 H23 SchStr
 CHE H2 A4_Bru A4_Gru
@@ -583,7 +585,7 @@ CHE H6 GTS_S H19
 CHE H7 DEU/CHE A2(3)
 CHE H7 H7Ste H295.4
 CHE H7 A50_W H4
-CHE H7 H13_N CHE/AUT
+CHE H7 H1_N CHE/AUT
 CHE H7Ste DEU/CHE H7
 CHE H8 H2 H16_N
 CHE H9 FRA/CHE H132
@@ -601,7 +603,7 @@ CHE H14 DEU/CHE H13_Neu
 CHE H14 A23 H16
 CHE H15 DEU/CHE H13/H14
 CHE H15 A53 H17
-CHE H16 H13_Tag T16_Ric
+CHE H16 DEU/CHE T16_Ric
 CHE H16 T16_Baz H8_S
 CHE H16 H13_BucW CHE/LIE
 CHE H17 H7 H5
@@ -836,8 +838,7 @@ DEU-BW B32 B27 L321
 DEU-BW B32Hec B27 B32
 DEU-BW B33 B28 A81
 DEU-BW B33Mar KonMeeFry B30
-DEU-BW B33Rad A81 OldL220
-DEU-BW B33Rad ReiWal KonMeeFry
+DEU-BW B33Rad A81 KonMeeFry
 DEU-BW B33Kon B33 DEU/CHE
 DEU-BW B33a A5 B3/B33
 DEU-BW B34Rhe CHE/DEU A98(11)
@@ -1121,7 +1122,8 @@ DEU-BW L315 L317 L330
 DEU-BW L316 L275 L317
 DEU-BW L317 B30/B32 L317a
 DEU-BW L317a L314 L317
-DEU-BW L320 L333 L321_S
+DEU-BW L320 BY/BW L321_N
+DEU-BW L321Rat A96 L320
 DEU-BW L321 L320 B32
 DEU-BW L323 L317 L324
 DEU-BW L324 L317 L326
@@ -1735,6 +1737,7 @@ DEU-BY B533 A3 B12
 DEU-BY B588 B20 A94
 DEU-BY B999 BGL9 DEU/AUT
 DEU-BY B999Buc AUT/DEU B319
+DEU-BY St320 BW/BY B12
 DEU-BY St507 St2309 BY/BW
 DEU-BY St508 BW/BY St2315
 DEU-BY St511 B19 BY/BW
@@ -7238,6 +7241,12 @@ QC QC134 RueOnt BoulTas_N
 ####   RAILWAYS   ####
 ######################
 
+#DEU-BW  Ulm Hbf                      DEU-BY  Memmingen         #RE75
+#DEU-BY  Memmingen                    DEU-BY  München Hbf       #RE72
+#DEU-BY  München Hbf                  DEU-BY  Ingolstadt Hbf    #RE1
+#DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #RB13
+#DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #RE8
+#DEU-BY  Donauwörth                   DEU-BW  Ulm Hbf           #RB15
 #DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf (via Nürnberg Hbf)
 #DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf (via Treuchtlingen)
 
@@ -7332,10 +7341,10 @@ QC QC134 RueOnt BoulTas_N
 
 #DEU-BY  U1 München OEZ              DEU-BY  München Mangfallplatz
 #DEU-BY  U2 München Feldmoching      DEU-BY  München Messestadt Ost
-#DEU-BY  U3 München Moosach          DEU-BY  München Sendlinger Tor     # not traveled at south end
+#DEU-BY  U3 München Moosach          DEU-BY  München Fürstenried West
 #DEU-BY  U4 München Westendstraße    DEU-BY  München Arabellapark
 #DEU-BY  U5 München Laimer Platz     DEU-BY  München Neuperlach Süd
-#DEU-BY  U6 München Sendlinger Tor   DEU-BY  München Fröttmaning        # not traveled at both ends
+#DEU-BY  U6 München Klinik. G'hadern DEU-BY  München Garching Forschungszentrum
 #DEU-BY  S1 München Feldmoching      DEU-BY  München Moosach
 #DEU-BY  18 München Hbf Süd          DEU-BY  München Schwanseestraße
 #DEU-BY  19 München Hbf Süd          DEU-BY  München Berg am Laim
