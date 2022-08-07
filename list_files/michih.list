@@ -1,4 +1,4 @@
-# Date: 2022-07-31
+# Date: 2022-08-06
 # ----------------
 
 
@@ -2196,6 +2196,7 @@ DEU-BY St2371 St2065 St2370
 DEU-BY St2372 B2/B472 B2_S
 DEU-BY St2374 LI6 St2375
 DEU-BY St2375 BW/BY St2374
+DEU-BY St2375 DtAlpStr_S B12
 DEU-BY St2377 A7 St2011
 DEU-BY St2379 St2051 St2052
 DEU-BY St2380 St2035 B2
@@ -2344,6 +2345,7 @@ DEU-BY MaxPlaStr OdeRing A3
 DEU-BY OdeRing St2125 B15
 DEU-BY SudTanFur B8 A73
 DEU-BY ZubFluMun A92 ZubFluMun_E
+DEU-BY DtAlpStr ZwaStr A96
 DEU-BY DtAlpStrMie AltStr EntStr_N
 DEU-BY RomStr BW/BY St2212_S
 DEU-BY RomStr B2_N St2215_S
@@ -7241,8 +7243,10 @@ QC QC134 RueOnt BoulTas_N
 ####   RAILWAYS   ####
 ######################
 
-#DEU-BW  Ulm Hbf                      DEU-BY  Memmingen         #RE75
+#DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #RE75 via Memmingen
 #DEU-BY  Memmingen                    DEU-BY  München Hbf       #RE72
+#DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #RE70
+#DEU-BY  Lindau-Insel                 DEU-BY  Lindau-Reutin     #S1
 #DEU-BY  München Hbf                  DEU-BY  Ingolstadt Hbf    #RE1
 #DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #RB13
 #DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #RE8
@@ -7265,6 +7269,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg      #RB26 via Pforzheim, NOT via Bietigheim-Bissingen
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf  #RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf  #IRE1
+#DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin  #RE5 via FN-Stadt, Biberach
 
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #S1 via Flörsheim, Höchst
 #DEU-HE  Frankfurt Rödelheim          DEU-HE  Darmstadt Hbf         #S3 via Ffm Hbf, Ostendstr, Südbahnhof, Langen
@@ -7283,6 +7288,8 @@ QC QC134 RueOnt BoulTas_N
 #DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #RB75 via Darmstadt
 #DEU-BY  Aschaffenburg Hbf            DEU-BY  Würzburg Hbf          #RE55 via Gemünden
 #DEU-BY  Würzburg Hbf                 DEU-BW  Stuttgart Hbf         #RE8
+
+#DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #RE6 via Biberach, Balingen, Tübingen
 
 #DEU-NW  Dortmund Dorstfeld           DEU-NW  Bochum Hbf            #S1 via Oespel, Langendreer
 #DEU-NW  Mülheim Hbf                  DEU-NW  Duisburg Hbf          #S1
