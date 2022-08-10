@@ -1866,7 +1866,8 @@ WY US287 I-80(235) I-80(215)
 WY US287 US26/89_S WY/MT
 WY TetParkRd JenLakeLp_S US89/191
 WY RocMemPkwy GraTetNP YelNP
-WY GraLpRd NEntRd_W NEEntRd
+WY GraLoopRd NEntRd_W BlaPlaDr_E
+WY GraLoopRd BlaPlaDr_W NEntRd_E
 WY NEntRd GraLoopRd WY/MT
 WY SEntRd US89/191 GraLoopRd
 WY WEntRd MT/WY GraLoopRd
