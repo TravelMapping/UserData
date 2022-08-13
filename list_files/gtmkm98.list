@@ -429,8 +429,7 @@ LA I-20 LA/MS 186
 AR US278 AR/MS AR142
 MT WEntRd US20/191 MT/WY
 WY WEntRd MT/WY GraLoopRd
-WY GraLoopRd NorCanRd_W LavaCrePArea
-WY GraLoopRd LavaCrePArea SouRimDr
+WY GraLoopRd SouRimDr NorCanRd_W
 WY GraLoopRd SEntRd NorCanRd_W
 WY NorCanRd GraLoopRd_W GraLoopRd_E
 WY RocMemPkwy GraTetNP YelNP
