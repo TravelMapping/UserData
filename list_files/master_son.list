@@ -289,7 +289,7 @@ OH I-76 I-71 NJ I-76 1A
 PA I-176 I-76 11
 PA I-276 326 I-95
 PA I-376 1A I-76
-PA I-476 0 19
+PA I-476 I-95 131B
 PA I-676 I-76 NJ I-676 1
 # I-77
 SC I-77 I-26 NC I-77 13
@@ -348,7 +348,7 @@ PA I-283 I-76 3
 # I-84
 OR I-84 I-5 ID I-84 222
 UT I-84 341(15) UT I-84 120
-CT I-84 39 MA I-84 I-90
+PA I-84 I-81/6 MA I-84 I-90
 CT I-384 I-84 US6/44
 ID I-184 0 US20/26
 # I-85
@@ -367,7 +367,7 @@ PA I-86FutSWa 60 PA/NY
 # I-87
 NY I-87 0(MDE) NY I-87 16(NYST)
 NY I-87 24(NYST) NY I-87 4
-NJ I-287 I-95 NY I-287 8(87)
+NJ I-287 I-95 NY I-287 I-95
 # I-88
 IL I-88 1 IL I-88 I-290
 NY I-88 0 NY I-88 25A
@@ -390,8 +390,8 @@ SD I-90BLWal I-90_W I-90_E
 SD I-90BLCha I-90_W I-90_E
 SD I-90BSSio 60thSt I-90
 # I-91
-CT I-91 32A VT I-91 10
-VT I-91 19 21
+CT I-91 17 VT I-91 10
+VT I-91 19 VT I-91 21
 CT I-291 1 6
 MA I-291 1 I-90
 MA I-391 1 6
@@ -1589,6 +1589,7 @@ CT CT4 CT167 I-84
 CT CT10 US44_E US44/202
 CT CT12 US6_E US6_W
 CT CT12 US44_W US44_E
+CT CT15 NY/CT 68N-E
 CT CT31 US44_E US44_W
 CT CT167 CT4 US44/202
 CT CT169 US44_W US44_E
@@ -2333,6 +2334,7 @@ NY GarStaPkwy NJ/NY I-87/287     # -- Garden State Parkway (from New Jersey)
 NY GraCenPkwy 4 Que/Nas          # -- Grand Central Parkway (NYC)
 NY HenHudPkwy 8 24               # -- Henry Hudson Parkway
 NY HutRivPkwy 1A 1C              # -- Hutchinson River Parkway
+NY HutRivPkwy 15 NY/CT
 NY NorStaPkwy Que/Nas 36         # -- Northern State Parkway (LI)
 NY PalIntPkwy NJ/NY US6/9W       # -- Palisades Interstate Parkway (NY portion)
 NY SouStaPkwy CroIslExp 44       # -- Southern State Parkway (LI)
