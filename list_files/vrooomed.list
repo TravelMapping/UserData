@@ -108,9 +108,7 @@ VA US1 I-95(161) SR642
 MD US1 MD410 I-95/495
 NJ US1 MenParkDr GarStaPkwy
 NJ US1 NJ81 I-78(58)
-NY US1 BroRivPkwy PelPkwy
-NY US1 HutRivPkwy I-95(15)
-NY US1 NY125 NY127
+NY US1 BroRivPkwy NY127
 NY US1 NY120 I-287
 CT US1 NY/CT HarAve
 CT US1 US7 BelAve
@@ -530,8 +528,7 @@ NY BearMtnPkwy US6/9 US202
 NY BearMtnPkwyYor US202 TacStaPkwy
 NY BerCon I-87 NY/MA
 NY BetStaPkwy B1 PlaRd
-NY BroRivPkwy 4(S) SprBroPkwy
-NY BroRivPkwy 9 TacStaPkwy
+NY BroRivPkwy 4(S) TacStaPkwy
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
 NY GraCenPkwy 45(278) 9E
