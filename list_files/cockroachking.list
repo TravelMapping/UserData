@@ -31,8 +31,7 @@ CT I-691 1 11
 NY I-86FutMon 131 I-87
 SC I-20BSFlo I-20 RadDr
 PA I-83BLYor US30 I-83_N
-NY US1 HutRivPkwy I-95(15)
-NY US1 NY125 NY127
+NY US1 BroRivPkwy NY127
 NY US1 NY120 I-287
 CT US1 US7 BelAve
 NY US6 NY284 CT US6 I-84(8)
@@ -185,8 +184,7 @@ NJ NJTpk 17A 69(95)
 NJ PalIntPkwy 4 NY PalIntPkwy US6/9W
 NY BearMtnPkwy US6/9 US202
 NY BearMtnPkwyYor US202 TacStaPkwy
-NY BroRivPkwy 11(S) SprBroPkwy
-NY BroRivPkwy 22 TacStaPkwy
+NY BroRivPkwy 7(S) TacStaPkwy
 NY CroCouPkwy 1 HutRivPkwy
 NY GraCenPkwy 45(278) 9E
 NY HenHudPkwy 23 Bro/Wes
