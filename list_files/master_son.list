@@ -2861,8 +2861,8 @@ WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road t
 WY SEntRd US89/191 GraLoopRd           # -- Yellowstone NP South Entrance Road to Yellowstone Lake
 WY EEntRd GraLoopRd US14/16            # -- Yellowstone NP East Entrance Rd to Fishing Bridge
 WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct (WY Only)
-WY GraLpRd NEntRd_W NEntRd_E           # -- Yellowstone NP Grand Loop Road
-WY NorCynRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP Norris Canyon Rd - Norris Geyser Basin to Canyon Village
+WY GraLoopRd NEntRd_W NEntRd_E         # -- Yellowstone NP - Grand Loop Road
+WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
 # Canada
 # British Columbia (CAN-BC)
