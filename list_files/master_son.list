@@ -2502,8 +2502,7 @@ PA PA419 US322 PA72
 PA PA420AltTrkPro PA420_S I-95(8)
 PA PA519TrkHou PA519_S I-79(54)
 PA PA581 1 6
-PA PA611 I-95 WasAve
-PA PA611 PA3 I-676
+PA PA611 I-95 I-676
 PA PA739 NJ/PA US209
 PA PA715TrkNTa I-80(299A) I-80(298)
 PA PA715TrkSTa PA715_S I-80(302)
@@ -2713,7 +2712,6 @@ WI WI39 US18 WI69
 WI WI40 US12/29 WI27
 WI WI40BusBru WI40_S WI40_N
 WI WI42 WI23/28 Ferry
-WI WI42BusMan WI42_S WI42_N
 WI WI42BusStu WI42_S WI42_N
 WI WI44 WI22 US45_S
 WI WI46 US63/64 WI35
@@ -2862,8 +2860,8 @@ WY NEntRd GraLoopRd WY/MT              # -- Yellowstone NP North Entrance Road t
 WY SEntRd US89/191 GraLoopRd           # -- Yellowstone NP South Entrance Road to Yellowstone Lake
 WY EEntRd GraLoopRd US14/16            # -- Yellowstone NP East Entrance Rd to Fishing Bridge
 WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to Madison Jct (WY Only)
-WY GraLpRd NEntRd_W NEntRd_E           # -- Yellowstone NP Grand Loop Road
-WY NorCynRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP Norris Canyon Rd - Norris Geyser Basin to Canyon Village
+WY GraLoopRd NEntRd_W NEntRd_E         # -- Yellowstone NP - Grand Loop Road
+WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
 # Canada
 # British Columbia (CAN-BC)
