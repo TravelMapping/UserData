@@ -2464,7 +2464,7 @@ OR OR224 I-205 OR212_E
 
 # Pennsylvania (PA)
 # ---------------------
-PA BetRossBri I-95 PA/NJ        # Betsy Ross Bridge
+PA BetRossBri AraAve PA/NJ      # Betsy Ross Bridge
 PA PA3 SchAve PA611
 PA PA26 US322Bus I-80
 PA PA28TrkBro I-80(78) PA28_N
