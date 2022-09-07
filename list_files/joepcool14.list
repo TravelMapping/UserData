@@ -90,6 +90,7 @@ IL IL390 6 15			#7/21/22
 
 IN I-65 KY/IN 106
 IN I-65 129 259A
+IN I-65 259B 262			#9/6/22
 IN I-74 94 IN/OH
 IN I-80 16 21
 IN I-90 IL/IN IN/OH
@@ -122,10 +123,14 @@ MI I-196 I-94 77
 MI I-275 17 165(96)		#8/10/22
 MI I-696 1A 12			#8/10/22
 MI US23 45 60			#8/11/22
+MI US31 30(94) 110				#9/6/22
+MI US31BusMus US31_S NorAve		#9/6/22
+MI US31BusMus WesAve MI120		#9/6/22
 MI US41 WI/MI 10thSt
 MI US131 86 177
-MI MI14 I-94 I-96		#8/10/22
+MI MI14 I-94 I-96				#8/10/22
 MI MI39 1 15
+MI MI120 US31Bus LakeAve		#9/6/22
 
 ######
 # OH #
@@ -234,6 +239,7 @@ WI WI794 ColAve I-794	#5/25/22
 # CHANGE LOG #
 ##############
 
+# 9/6/22  - Muskegon, MI trip
 # 8/30/22 - Clinched IL-60 and IL-134
 # 8/30/22 - Added segments from multiple routes (IL-83, IL-53,  IL-120, IL-131)
 # 8/27/22 - Added IL-59 section near Prarie Stone (I-90)
