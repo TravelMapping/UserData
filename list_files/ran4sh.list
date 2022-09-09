@@ -477,3 +477,52 @@ FL	I-295	10	21
 FL	US17	FL224	I-10(361)
 FL	I-95	337	352B
 FL	I-295	35	61
+
+#Trucking
+CA	I-5	135C	WA	I-5	127
+CA	I-15	115			184A
+# I-15 in LA area
+MS	I-55	185	IL	I-55	100
+# I-55 Chicago area
+IL	I-57	44			96
+IL	I-57	235			237
+MS	I-59	67	GA	I-59	I-24
+# AL I-65
+# AL I-65
+IN	I-65	123			259B
+# I-65 Bham to Huntsville, Indianapolis to Chicago
+IN	I-69	200			296
+# IN I-69 for US 30, Toll Road
+OH	I-71	KY/OH			106
+OH	I-71	119			209
+FL	I-75	261	GA	I-75	156
+GA	I-75	177	KY	I-75	KY/OH
+OH	I-75	192			195
+# I-77 Wytheville south to end, WV section
+# I-79 from I-80 to PA tpk
+# I-81 Syracuse south to end
+# I-83 whole route except end in Baltimore
+# I-85
+# I-95 Jacksonville to Philadelphia, NYC area to Connecticut
+
+# I-4 I-75 to US 27
+# I-10 I-75 to I-95
+# I-16
+# I-20
+# I-22
+# I-24
+# I-26
+# I-40 from I-95 west to end
+# I-64 a STL-Nashville route, b WV and VA sections
+# I-66 whole route except end in Washington
+# I-70 STL-Breezewood
+# I-72 IL
+# I-74 IL-IN
+# I-76 PA tpk
+# I-78
+# I-80 Chicago to New York
+# I-82 OR/WA?
+# I-84 both in OR and in PA-CT
+# I-86 NY
+# I-90 WA section, Ohio to Syracuse
+# I-94
