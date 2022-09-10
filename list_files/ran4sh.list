@@ -477,3 +477,71 @@ FL	I-295	10	21
 FL	US17	FL224	I-10(361)
 FL	I-95	337	352B
 FL	I-295	35	61
+
+#Trucking
+CA	I-5	135C	WA	I-5	127
+OR	I-205	I-5	WA	I-205	I-5
+CA	I-15	115			184A
+# I-15 in LA area
+MS	I-55	185	IL	I-55	100
+# I-55 Chicago area
+MO	I-255	1A	IL	I-255	31
+IL	I-57	44			96
+IL	I-57	235			237
+MS	I-59	67	GA	I-59	I-24
+# AL I-65
+# AL I-65
+IN	I-65	123			259B
+# I-65 Bham to Huntsville, Indianapolis to Chicago
+IN	I-69	200			296
+# IN I-69 for US 30, Toll Road
+OH	I-71	KY/OH			106
+OH	I-71	119			209
+FL	I-75	261	GA	I-75	156
+GA	I-75	177	KY	I-75	KY/OH
+OH	I-75	192			195
+# I-77 Wytheville south to end, WV section
+# I-79 from I-80 to PA tpk
+# I-81 Syracuse south to end
+# I-83 whole route except end in Baltimore
+# I-85
+# I-95 Jacksonville to Philadelphia, NYC area to Connecticut
+VA	I-195	VA76/147	I-64
+
+# I-4 I-75 to US 27
+CA	I-10	135C(5)			66
+FL	I-10	199			258
+CA	I-210	1A	45
+# See also CA210
+# I-16
+# I-20 see I-59
+MS	I-22	12	AL	I-22	85
+IL	I-24	I-57	TN	I-24Cha	185
+# I-26
+# I-40 from I-95 west to end
+TN	I-240	12	20
+TN	I-240	21	31
+# I-64 a STL-Nashville route, b WV and VA sections
+# I-66 whole route except end in Washington
+# I-70 STL-Breezewood
+# I-72 IL
+# I-74 IL-IN
+
+# I-76 PA tpk
+PA	I-176	I-76			11
+
+# I-78
+
+# I-80 Chicago to New York
+# I-180 PA see US 15
+
+# I-82 OR/WA?
+# I-182 see US 395
+
+# I-84 both in OR and in PA-CT
+# I-86 NY
+# I-90 WA section, Ohio to Syracuse
+# I-94
+
+PA	US15	I-80	NY	US15	I-99(13)
+OR	US395	AirWay	WA	US395	WA17
