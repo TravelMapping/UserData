@@ -184,7 +184,7 @@ NC	I-26	4A(240)	SC	I-26	18
 SC	I-26	107			216
 SC	I-95	160	DE	I-95	5C
 SC	I-126	I-26			US21
-SC	I-385	36			42
+SC	I-385	35			42
 SC	I-526	10			17
 SC I-85BLSpa	I-85_S			6
 # I-185 see US 29
@@ -486,6 +486,7 @@ CA	I-15	115			184A
 MS	I-55	185	IL	I-55	100
 # I-55 Chicago area
 MO	I-255	1A	IL	I-255	31
+IL	I-355	0	4
 IL	I-57	44			96
 IL	I-57	235			237
 MS	I-59	67	GA	I-59	I-24
@@ -505,8 +506,12 @@ OH	I-75	192			195
 # I-81 Syracuse south to end
 # I-83 whole route except end in Baltimore
 # I-85
+NC	I-285	I-85	107(52)
+NJ	I-287	41	NY	I-287	I-95
 # I-95 Jacksonville to Philadelphia, NYC area to Connecticut
 VA	I-195	VA76/147	I-64
+FL	I-295	10	61
+VA	I-295	1	43
 
 # I-4 I-75 to US 27
 CA	I-10	135C(5)			66
@@ -517,22 +522,29 @@ CA	I-210	1A	45
 # I-20 see I-59
 MS	I-22	12	AL	I-22	85
 IL	I-24	I-57	TN	I-24Cha	185
-# I-26
+SC	I-26	104	216
 # I-40 from I-95 west to end
 TN	I-240	12	20
 TN	I-240	21	31
 # I-64 a STL-Nashville route, b WV and VA sections
 # I-66 whole route except end in Washington
 # I-70 STL-Breezewood
+MO	I-270	1	20A
+IL	I-270	6	15
+OH	I-270	I-71	26
+OH	I-270	43	55
 # I-72 IL
 # I-74 IL-IN
 
 # I-76 PA tpk
 PA	I-176	I-76			11
+PA	I-376	60	85
+# I-376 see US 22
 
 # I-78
 
 # I-80 Chicago to New York
+OH	I-280	1A	1B
 # I-180 PA see US 15
 
 # I-82 OR/WA?
@@ -542,6 +554,9 @@ PA	I-176	I-76			11
 # I-86 NY
 # I-90 WA section, Ohio to Syracuse
 # I-94
+IL	I-294	0	12
 
 PA	US15	I-80	NY	US15	I-99(13)
+OH	US22	I-77	PA	US22	I-376(85)
+# US22 see also I-376
 OR	US395	AirWay	WA	US395	WA17
