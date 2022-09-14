@@ -490,7 +490,6 @@ CA I-5TrkNew	I-5_S			I-5_N
 OR	I-205	I-5	WA	I-205	I-5
 CA	I-605	19			27
 CA	I-15	115			184A
-# I-15 in LA area
 MS	I-55	185	IL	I-55	100
 IL	I-55	245			257
 MO	I-255	1A	IL	I-255	31
@@ -506,6 +505,7 @@ IN	I-65	123			259B
 IN	I-465	I-65			20
 IN	I-465	25			53
 AL	I-565	1			21
+IN	I-865	I-65			I-465
 IN	I-69	200			296
 IN	I-69	356			357
 IN	I-469	0			31
@@ -518,24 +518,27 @@ OH	I-75	51			61
 OH	I-75	192			195
 GA	I-475	I-75_S			I-75_N
 OH	I-475	I-75			4
-# I-77 Wytheville south to end, WV section
-# I-79 from I-80 to PA tpk
-# I-81 Syracuse south to end
+SC	I-77	I-26	VA	I-77	41
+OH	I-77	44			47
+PA	I-79	77			116
+TN	I-81	1	NY	I-81	25A
 NY	I-481	I-81			6
 VA	I-581	1			4
-# I-83 whole route except end in Baltimore
-# I-85
+MD	I-83	12	PA	I-83	51
 NC	I-285	I-85			107(52)
 NC	I-485	30			I-85(48)
+NC	I-885	5			13
+# I-87 NC see US 64
 NJ	I-287	41	NY	I-287	I-95
 CT	I-691	1			11
-# I-95 Jacksonville to Philadelphia, NYC area to Connecticut
+FL	I-95	337	DE	I-95	8
 VA	I-195	VA76/147		I-64
 FL	I-295	10			61
 VA	I-295	1			43
 CT	I-395	I-95			28
 DE	I-495	I-95			6
 MD	I-695	11			24
+# I-99 see US 15
 
 FL	I-4	9			64
 CA	I-10	135C(5)			66
@@ -550,6 +553,7 @@ CA	I-40	I-15	NC	I-40	309
 TN	I-240	12			20
 TN	I-240	21			31
 NC	I-440	1			16
+TN	I-840	53			76
 MO	I-64	1	IL	I-64	78
 WV	I-64	40	VA	I-64	299
 VA	I-66	1			64
@@ -565,31 +569,34 @@ OH	I-270	43			55
 OH	I-470	I-70	WV	I-470	4
 IL	I-72	60			182
 IL	I-74	179	IN	I-74	66
-
-# I-76 PA tpk
+OH	I-76	1			219
+PA	I-76	28			286
+PA	I-76	298			312
 PA	I-176	I-76			11
 PA	I-376	60			85
 # I-376 see also US 22
 PA	I-476	I-95			131A
-
-# I-78
-
-# I-80 Chicago to New York
+IL	I-80	126	IN	I-80	72
+IN	I-80	96	NJ	I-80	43
 OH	I-280	1A			1B
 # I-180 PA see US 15
-
-# I-82 OR/WA?
+WA	I-82	I-90			63
+WA	I-82	113	OR	I-82	11
 # I-182 see US 395
-
-# I-84 both in OR and in PA-CT
-# I-86 NY
-# I-90 WA section, Ohio to Syracuse
+OR	I-84	6			182
+PA	I-84	I-81/6	CT	I-84	27
+NY	I-86	36			44
+# I-90 IN see I-80
+IN	I-90	96	NY	I-90	31(NYST)
+WA	I-90	106			176
 NY	I-390	I-86			2
 NY	I-690	I-90			1
-# I-94
+NY	I-790	NY5A/5S			GenSt
+# I-94 see I-80
 IL	I-294	0			12
 
 PA	US15	I-80	NY	US15	I-99(13)
 OH	US22	I-77	PA	US22	I-376(85)
+NC	US64	404			464
 # US22 see also I-376
 OR	US395	AirWay	WA	US395	WA17
