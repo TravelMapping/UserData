@@ -79,7 +79,7 @@ NM US550 NM516 CO US550 CR2
 NM US550 I-25(242) US64_W
 
 #Arizona State Routes
-AZ AZ24 AZ202 WilFieRd
+AZ AZ24 AZ202 IroRd
 AZ AZ51 I-10 15
 AZ AZ61 US60 AZ180A
 AZ AZ64 US180_E ERimDr
@@ -175,6 +175,7 @@ UT UT313 IslSkyRd US191
 
 #Misc Routes
 AZ BonCanRd PinCanRd MasPt
+AZ NorPkwy AZ303 5
 AZ PetForRd US180 I-40
 CO MesaVerRd US160 SprCyn
 UT DelArchRd MainParkRd CacValRd
