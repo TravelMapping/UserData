@@ -664,6 +664,33 @@ CHE B317 DEU/CHE CHE/DEU
 
 
 
+# CYPRUS
+
+CYP
+
+CYP A1 B18 E147/E604
+CYP A2 A1 B2
+CYP A3 LarIntAir E306/E327
+CYP A6 28 E608/E710
+CYP A9 B18 B9
+CYP B1 E102 E105
+CYP B2 A2/A3 B3
+CYP B3 B2 A3(66)
+CYP B4 B2 E336
+CYP B5 A3 B2
+CYP B6 E147 E810
+CYP B6 A6(42A) B7/B20
+CYP B7 B6/B20 ArkMakIII
+CYP B8 A1 B9
+CYP B9 E903 B8
+CYP B18 A9 A1
+#CYP E102 A1 B1 #Nisou
+#CYP E105 A1 B1 #Skarinou
+#CYP E903 B9 A9 #Lakatamia
+#CYP E949 B9 A9 #Kokkinotrimithia
+
+
+
 # CZECHIA
 
 CZE D0 76 28
@@ -7439,7 +7466,8 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BY  U4    München Westendstraße    DEU-BY  München Arabellapark                              #2022
 #DEU-BY  U5    München Laimer Platz     DEU-BY  München Neuperlach Süd                            #2022
 #DEU-BY  U6    München Klinik. G'hadern DEU-BY  München Garching Forschungszentrum                #2022
-#DEU-BY  S1    München Feldmoching      DEU-BY  München Moosach                                   #2022
+#DEU-BY  S1    München Airport          DEU-BY  München Hbf                                       #2022 via Moosach
+#DEU-BY  S8    München Airport          DEU-BY  München Pasing                                    #2022 via Hbf, Leuchtenbergring
 #DEU-BY  STR18 München Hbf Süd          DEU-BY  München Schwanseestraße                           #2022
 #DEU-BY  STR19 München Hbf Süd          DEU-BY  München Berg am Laim                              #2022
 #DEU-BY  STR21 München Maxmonument      DEU-BY  München St.-Veit-Straße                           #2022
