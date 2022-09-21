@@ -1,4 +1,4 @@
-# Date: 2022-09-11
+# Date: 2022-09-20
 # ----------------
 
 
@@ -661,6 +661,35 @@ CHE GTSZer H9 A9
 CHE E23 FRA/CHE 3
 CHE E43 AUT/CHE 40
 CHE B317 DEU/CHE CHE/DEU
+
+
+
+# CYPRUS
+
+CYP
+
+CYP A1 B18 E147/E604
+CYP A2 A1 B2
+CYP A3 LarIntAir E306/E327
+CYP A5 A1 A3
+CYP A6 28 E608/E710
+CYP A9 B18 B9
+CYP B1 E102 E105
+CYP B2 A2/A3 B3
+CYP B3 B2 A3(66)
+CYP B4 B2 E336
+CYP B5 A3 B2
+CYP B6 E147 E810
+CYP B6 A6(42A) B7/B20
+CYP B7 B6/B20 Kan
+CYP B7 NikMou ArkMakIII
+CYP B8 A1 B9
+CYP B9 E903 B8
+CYP B18 A9 A1
+#CYP E102 A1 B1 #Nisou
+#CYP E105 A1 B1 #Skarinou
+#CYP E903 B9 A9 #Lakatamia
+#CYP E949 B9 A9 #Kokkinotrimithia
 
 
 
@@ -7401,23 +7430,23 @@ QC QC134 RueOnt BoulTas_N
 #CZE     Praha MB Zlicin             CZE     Praha MB Cerny Most    #2019
 #CZE     Praha MC Letnany            CZE     Praha MC Haje          #2019
 
-#DEU-BB Potsdam 91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
-#DEU-BB Potsdam 92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
-#DEU-BB Potsdam 93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
-#DEU-BB Potsdam 94 Platz d. Einheit-West - Fontanestr                                                                   #2022
-#DEU-BB Potsdam 96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
+#DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
+#DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
+#DEU-BB Potsdam STR93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
+#DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
+#DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
 
-#DEU-BW  2 Freiburg Hbf              DEU-BW  FR-Günterstal                                     #2022
+#DEU-BW  STR2 Freiburg Hbf              DEU-BW  FR-Günterstal                                     #2022
 
-#DEU-BW  S4 Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz                               #2022, via ZKM, Europaplatz
+#DEU-BW  S4    Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)                                   #2022
+#DEU-BW  STR1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)                                   #2022
+#DEU-BW  STR2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz                               #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-#DEU-BW  1  Mannheim Marktplatz      DEU-BW  Mannheim Schönau                                  #2022
-#DEU-BW  3  Mannheim Sandhofen       DEU-BW  Mannheim Schloss                                  #2022
-#DEU-BW  4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz                       #2022
-#DEU-RP  4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+#DEU-BW  STR1  Mannheim Marktplatz      DEU-BW  Mannheim Schönau                                  #2022
+#DEU-BW  STR3  Mannheim Sandhofen       DEU-BW  Mannheim Schloss                                  #2022
+#DEU-BW  STR4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz                       #2022
+#DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
 #DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie                           #201x
 #DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)      #201x
@@ -7430,19 +7459,20 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Ludwigsburg                                       #2022, S4
 #DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Renningen                                         #2020
 
-#DEU-BW  Ulm Söflingen               DEU-BW  Böfingen                                          #2020
-#DEU-BW  Ulm Kuhberg-Schulzentrum    DEU-BW  Science Park II                                   #2020
+#DEU-BW  Ulm STR1 Söflingen               DEU-BW  Böfingen                                          #2020
+#DEU-BW  Ulm STR2 Kuhberg-Schulzentrum    DEU-BW  Science Park II                                   #2020
 
-#DEU-BY  U1 München OEZ              DEU-BY  München Mangfallplatz                             #2022
-#DEU-BY  U2 München Feldmoching      DEU-BY  München Messestadt Ost                            #2022
-#DEU-BY  U3 München Moosach          DEU-BY  München Fürstenried West                          #2022
-#DEU-BY  U4 München Westendstraße    DEU-BY  München Arabellapark                              #2022
-#DEU-BY  U5 München Laimer Platz     DEU-BY  München Neuperlach Süd                            #2022
-#DEU-BY  U6 München Klinik. G'hadern DEU-BY  München Garching Forschungszentrum                #2022
-#DEU-BY  S1 München Feldmoching      DEU-BY  München Moosach                                   #2022
-#DEU-BY  18 München Hbf Süd          DEU-BY  München Schwanseestraße                           #2022
-#DEU-BY  19 München Hbf Süd          DEU-BY  München Berg am Laim                              #2022
-#DEU-BY  21 München Maxmonument      DEU-BY  München St.-Veit-Straße                           #2022
+#DEU-BY  U1    München OEZ              DEU-BY  München Mangfallplatz                             #2022
+#DEU-BY  U2    München Feldmoching      DEU-BY  München Messestadt Ost                            #2022
+#DEU-BY  U3    München Moosach          DEU-BY  München Fürstenried West                          #2022
+#DEU-BY  U4    München Westendstraße    DEU-BY  München Arabellapark                              #2022
+#DEU-BY  U5    München Laimer Platz     DEU-BY  München Neuperlach Süd                            #2022
+#DEU-BY  U6    München Klinik. G'hadern DEU-BY  München Garching Forschungszentrum                #2022
+#DEU-BY  S1    München Airport          DEU-BY  München Hbf                                       #2022 via Moosach
+#DEU-BY  S8    München Airport          DEU-BY  München Pasing                                    #2022 via Hbf, Leuchtenbergring
+#DEU-BY  STR18 München Hbf Süd          DEU-BY  München Schwanseestraße                           #2022
+#DEU-BY  STR19 München Hbf Süd          DEU-BY  München Berg am Laim                              #2022
+#DEU-BY  STR21 München Maxmonument      DEU-BY  München St.-Veit-Straße                           #2022
 
 #DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
 #DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
@@ -7476,16 +7506,16 @@ QC QC134 RueOnt BoulTas_N
 #DEU-HE  U7 Ffm Praunheim Heerstr    DEU-HE  Frankfurt Enkheim                                 #2022
 #DEU-HE  U8 Frankfurt Riedberg       DEU-HE  Frankfurt Südbahnhof                              #2022
 #DEU-HE  U9 Ffm Nieder-Eschbach      DEU-HE  Frankfurt Ginnheim                                #2022
-#DEU-HE  12 Ffm Rothschildallee      DEU-HE  Frankfurt Rohrbachstr                             #2022
-#DEU-HE  18 Frankfurt Rohrbachstr    DEU-HE  Frankfurt Südbahnhof                              #2022, via Konstablerwache, Frankensteiner Platz
+#DEU-HE  STR12 Ffm Rothschildallee   DEU-HE  Frankfurt Rohrbachstr                             #2022
+#DEU-HE  STR18 Frankfurt Rohrbachstr DEU-HE  Frankfurt Südbahnhof                              #2022, via Konstablerwache, Frankensteiner Platz
 
-#DEU-HE  Kassel   4 Rathaus/Fünffen. DEU-HE  Hess.Lichtenau Bürgerhaus                         #2022
-#DEU-HE  Kassel   4 Am Stern         DEU-HE  Helsa Am Steinhof                                 #2022
+#DEU-HE  Kassel   STR4 Rathaus/Fünffen. DEU-HE  Hess.Lichtenau Bürgerhaus                         #2022
+#DEU-HE  Kassel   STR4 Am Stern         DEU-HE  Helsa Am Steinhof                                 #2022
 
-#DEU-MV  Schwerin 1 Klinken          DEU-MV  Hegelstraße                                       #2020, All routes as of 2020
-#DEU-MV  Schwerin 2 Lankow           DEU-MV  Hegelstraße                                       #2020, both directions
-#DEU-MV  Schwerin 3 Neu Pankow       DEU-MV  Hegelstraße                                       #2020
-#DEU-MV  Schwerin 4 Kliniken         DEU-MV  Neu Pankow                                        #2020
+#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                       #2020, All routes as of 2020
+#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                       #2020, both directions
+#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                       #2020
+#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                        #2020
 
 #DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
 #DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
@@ -7513,17 +7543,17 @@ QC QC134 RueOnt BoulTas_N
 #DEU-NW  Bonn Hbf                    DEU-NW  Bonn-Oberkassel                                   #2022, Tram 62
 #DEU-NW  Siegburg Bf                 DEU-NW  Bad Honnef                                        #2022, U66
 
-#DEU-NW  Cologne  1 Weiden-West      DEU-NW  Bensberg                                          #2021
-#DEU-NW  Cologne  3 H-Böckler-Platz  DEU-NW  Thielenbruch                                      #2021
-#DEU-NW  Cologne  4 H-Böckler-Platz  DEU-NW  Mülheim-Wiener Platz                              #2021
-#DEU-NW  Cologne  5 SButzenweilerhof DEU-NW  Heumarkt                                          #2021
-#DEU-NW  Cologne  7 Benzenrath       DEU-NW  Zündorf                                           #2021
-#DEU-NW  Cologne  9 Neumarkt         DEU-NW  Königsforst                                       #2021
-#DEU-NW  Cologne 12 Ebertplatz       DEU-NW  Zollstock Südfriedhof                             #2021
-#DEU-NW  Cologne 13 Holweide-Visch.  DEU-NW  Sülzgürtel                                        #2021
-#DEU-NW  Cologne 16 Niehl-Seba.str.  DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne 17 Severinstr.      DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne 18 Thielenbruch     DEU-NW  Sülzgürtel                                        #2021
+#DEU-NW  Cologne U 1 Weiden-West      DEU-NW  Bensberg                                          #2021
+#DEU-NW  Cologne U 3 H-Böckler-Platz  DEU-NW  Thielenbruch                                      #2021
+#DEU-NW  Cologne U 4 H-Böckler-Platz  DEU-NW  Mülheim-Wiener Platz                              #2021
+#DEU-NW  Cologne U 5 SButzenweilerhof DEU-NW  Heumarkt                                          #2021
+#DEU-NW  Cologne U 7 Benzenrath       DEU-NW  Zündorf                                           #2021
+#DEU-NW  Cologne U 9 Neumarkt         DEU-NW  Königsforst                                       #2021
+#DEU-NW  Cologne U12 Ebertplatz       DEU-NW  Zollstock Südfriedhof                             #2021
+#DEU-NW  Cologne U13 Holweide-Visch.  DEU-NW  Sülzgürtel                                        #2021
+#DEU-NW  Cologne U16 Niehl-Seba.str.  DEU-NW  Sürth                                             #2021
+#DEU-NW  Cologne U17 Severinstr.      DEU-NW  Sürth                                             #2021
+#DEU-NW  Cologne U18 Thielenbruch     DEU-NW  Sülzgürtel                                        #2021
 
 #DEU-NW  Dortmund U41 Brambauer Verkehrshof  Clarenberg                                        #2022
 #DEU-NW  Dortmund U42 Grevel                 Grotenbachstraße                                  #2022
@@ -7544,63 +7574,63 @@ QC QC134 RueOnt BoulTas_N
 #DEU-NW  Wuppertal Vohwinkel         DEU-NW  Wuppertal Oberbarmen                              #2022, route 60
 
 #All relations at main station traveled, 59 does not run on weekend
-#DEU-RP  Mainz   50 Römerquelle      DEU-RP  Bürgerhaus                                        #2022
-#DEU-RP  Mainz   51 Poststraße       DEU-RP  Hindemithstraße                                   #2022
-#DEU-RP  Mainz   52 Bahnstraße       DEU-RP  Am Schinnergraben                                 #2022
-#DEU-RP  Mainz   53 Hindemithstraße  DEU-RP  Bürgerhaus                                        #2022
+#DEU-RP  Mainz   STR50 Römerquelle      DEU-RP  Bürgerhaus                                        #2022
+#DEU-RP  Mainz   STR51 Poststraße       DEU-RP  Hindemithstraße                                   #2022
+#DEU-RP  Mainz   STR52 Bahnstraße       DEU-RP  Am Schinnergraben                                 #2022
+#DEU-RP  Mainz   STR53 Hindemithstraße  DEU-RP  Bürgerhaus                                        #2022
 
-#DEU-SN Chemnitz 1 Schönau - Zentralhaltestelle                                                #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz 2 Zentralhaltestelle - Bernsdorf                                              #2022, no loop to main station nor Stefan-Heym-Platz due to construction
-#DEU-SN Chemnitz 3 Roter Turm - Zentralhaltestelle - Technopark                                #2022
-#DEU-SN Chemnitz 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
+#DEU-SN Chemnitz STR 1 Schönau - Zentralhaltestelle                                                #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
+#DEU-SN Chemnitz STR 2 Zentralhaltestelle - Bernsdorf                                              #2022, no loop to main station nor Stefan-Heym-Platz due to construction
+#DEU-SN Chemnitz STR 3 Roter Turm - Zentralhaltestelle - Technopark                                #2022
+#DEU-SN Chemnitz STR 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
+#DEU-SN Chemnitz STR 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
 
-#DEU-SN Dresden  1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              #2020, end to end
-#DEU-SN Dresden  2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          #2020, end to end
-#DEU-SN Dresden  3 Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf                                                              #2020
-#DEU-SN Dresden  4 Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)    #2020, end to end
-#DEU-SN Dresden  6 Striesen - Niedersedlitz (E)                                                                                                        #2020
-#DEU-SN Dresden  7 Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)                                                        #2020, end to end
-#DEU-SN Dresden  8 Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf                                                                                #2020
-#DEU-SN Dresden  9 Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)  #2020, end to end
-#DEU-SN Dresden 11 Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen                                     #2020
-#DEU-SN Dresden 12 Leutewitz (E) - Löbtau - Postplatz                                                                                                  #2020
-#DEU-SN Dresden 13 Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße                                                                          #2020
-#DEU-SN Dresden S1 Bischofsplatz - Bf Mitte - Hbf                                                                                                      #2020
+#DEU-SN Dresden STR 1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              #2020, end to end
+#DEU-SN Dresden STR 2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          #2020, end to end
+#DEU-SN Dresden STR 3 Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf                                                              #2020
+#DEU-SN Dresden STR 4 Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)    #2020, end to end
+#DEU-SN Dresden STR 6 Striesen - Niedersedlitz (E)                                                                                                        #2020
+#DEU-SN Dresden STR 7 Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)                                                        #2020, end to end
+#DEU-SN Dresden STR 8 Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf                                                                                #2020
+#DEU-SN Dresden STR 9 Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)  #2020, end to end
+#DEU-SN Dresden STR11 Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen                                     #2020
+#DEU-SN Dresden STR12 Leutewitz (E) - Löbtau - Postplatz                                                                                                  #2020
+#DEU-SN Dresden STR13 Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße                                                                          #2020
+#DEU-SN Dresden S 1 Bischofsplatz - Bf Mitte - Hbf                                                                                                      #2020
 
-#DEU-SN Leipzig  1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
-#DEU-SN Leipzig  2 Grünau-Nord - W-L-Platz                                                                              #2020
-#DEU-SN Leipzig  2 Bay Bhf - Naunhofer Straße                                                                           #2020
-#DEU-SN Leipzig  4 G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße #2020
-#DEU-SN Leipzig  8 Grünau-Nord - Angerbrücke                                                                            #2020
-#DEU-SN Leipzig  9 Thekla - Hbf-West - Neues Rathaus                                                                    #2020
-#DEU-SN Leipzig  9 Bay Bhf - Wiedebachplatz                                                                             #2020
-#DEU-SN Leipzig 10 Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig                                  #2020, up toConnewitz concurrent to servicee 11
-#DEU-SN Leipzig 11 Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost           #2020
-#DEU-SN Leipzig 15 Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf                #2020
-#DEU-SN Leipzig 16 Messegelände - Hbf - Lößnig                                                                          #2020
-#DEU-SN Leipzig 32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
+#DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
+#DEU-SN Leipzig STR 2 Grünau-Nord - W-L-Platz                                                                              #2020
+#DEU-SN Leipzig STR 2 Bay Bhf - Naunhofer Straße                                                                           #2020
+#DEU-SN Leipzig STR 4 G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße #2020
+#DEU-SN Leipzig STR 8 Grünau-Nord - Angerbrücke                                                                            #2020
+#DEU-SN Leipzig STR 9 Thekla - Hbf-West - Neues Rathaus                                                                    #2020
+#DEU-SN Leipzig STR 9 Bay Bhf - Wiedebachplatz                                                                             #2020
+#DEU-SN Leipzig STR10 Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig                                  #2020, up toConnewitz concurrent to servicee 11
+#DEU-SN Leipzig STR11 Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost           #2020
+#DEU-SN Leipzig STR15 Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf                #2020
+#DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
+#DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
 
-#DEU-ST Halle    2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
-#DEU-ST Halle    3 Vogelweide - Beesen                                                                                                                                  #2022
-#DEU-ST Halle    4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
-#DEU-ST Halle    5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
-#DEU-ST Halle    5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
-#DEU-ST Halle    7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
-#DEU-ST Halle    8 Franckeplatz - Elsa-Brändström-Straße                                                                                                                #2022
-#DEU-ST Halle   10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
+#DEU-ST Halle   STR 2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
+#DEU-ST Halle   STR 3 Vogelweide - Beesen                                                                                                                                  #2022
+#DEU-ST Halle   STR 4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
+#DEU-ST Halle   STR 5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
+#DEU-ST Halle   STR 5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
+#DEU-ST Halle   STR 7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
+#DEU-ST Halle   STR 8 Franckeplatz - Elsa-Brändström-Straße                                                                                                                #2022
+#DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
 
-#DEU-ST Magdeburg 9  Neustädter See  Reform (via Domplatz)                                        #2020
-#DEU-ST Magdeburg 1  IKEA            Kastanienstraße                                              #2020
-#DEU-ST Magdeburg 10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
-#DEU-ST Magdeburg 2  Hasselbachplatz Westerhüsen                                                  #2020
+#DEU-ST Magdeburg STR 9 Neustädter See  Reform (via Domplatz)                                        #2020
+#DEU-ST Magdeburg STR 1 IKEA            Kastanienstraße                                              #2020
+#DEU-ST Magdeburg STR10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
+#DEU-ST Magdeburg STR 2 Hasselbachplatz Westerhüsen                                                  #2020
 
-#DEU-TH Erfurt    1  Europaplatz     Thüringenhalle                                               #2022, via Salinenstraße
-#DEU-TH Erfurt    2  P+R Messe       Wiesenhügel                                                  #2022
-#DEU-TH Erfurt    3  Europaplatz     Urbicher Kreuz                                               #2022
-#DEU-TH Erfurt    4  Bindersleben    Ringelberg                                                   #2022, both directions west of Anger
-#DEU-TH Erfurt    5  Zoopark         Hbf                                                          #2022
-#DEU-TH Erfurt    6  Rieth           Steigerstraße                                                #2022, both directions at south end
+#DEU-TH Erfurt    STR 1 Europaplatz     Thüringenhalle                                               #2022, via Salinenstraße
+#DEU-TH Erfurt    STR 2 P+R Messe       Wiesenhügel                                                  #2022
+#DEU-TH Erfurt    STR 3 Europaplatz     Urbicher Kreuz                                               #2022
+#DEU-TH Erfurt    STR 4 Bindersleben    Ringelberg                                                   #2022, both directions west of Anger
+#DEU-TH Erfurt    STR 5 Zoopark         Hbf                                                          #2022
+#DEU-TH Erfurt    STR 6 Rieth           Steigerstraße                                                #2022, both directions at south end
 
 #DNK Copenhagen M1 Vanløse Vestamager                                                             #2020
 #DNK Copenhagen M2 Vanløse Lufthavnen                                                             #2020
