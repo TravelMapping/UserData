@@ -124,6 +124,9 @@ MA I-93 7 24
 #Maryland I-495
 MD I-495 MD/VA 36
 
+#Maryland I-595
+MD I-595 24 7
+
 #Minnesota I-94
 MN I-94 167 216
 
@@ -294,6 +297,7 @@ DC US1 US50_W VA/DC
 
 #DC US-50
 DC US50 VA/DC ConAve
+DC US50 DC/MD US1Alt_N
 
 #Georgia US-23
 GA US23 I-985(8) I-985(4)
@@ -334,6 +338,9 @@ KY US68 US25/60 I-64/75
 
 #Kentucky US-641
 KY US641 US68_W KY453
+
+#Maryland US-50
+MD US50 DC/MD MD16_W
 
 #Missouri US-60
 MO US60 I-57(1) MO/IL
@@ -772,6 +779,11 @@ CA CA299 2 AdaRd
 #CA-330:
 CA CA330 CA210 CA18
 
+# (Delaware State Highways)
+
+#DE-14:
+DE DE14 MD/DE CatBraRd
+
 # (Georgia State Highways)
 
 #GA-6:
@@ -806,13 +818,85 @@ KY KY1523 I-24/69 KY282
 #KY-2595:
 KY KY2595 KY95 US641
 
+# (Maryland State Highways)
+
+#MD-2:
+MD MD2 MD648_E US50(27)
+
+#MD-16:
+MD MD16 MD341 SmiRd
+
+#MD-18:
+MD MD18 MD656 US50
+
+#MD-33:
+MD MD33 MD322 WasSt
+
+#MD-162:
+MD MD162 MD170 MD176
+
+#MD-170:
+MD MD170 I-195 MD162
+
+#MD-176:
+MD MD176 MD162 MD648
+
+#MD-313:
+MD MD313 MD404/619 MD317
+
+#MD-317:
+MD MD317 MD313 MD/DE
+
+#MD-322:
+MD MD322 US50_N US50_S
+
+#MD-328:
+MD MD328 US50 MD404
+
+#MD-331:
+MD MD331 US50_N BlaDogAly
+
+#MD-335:
+MD MD335 SmiRd WilDr
+
+#MD-341:
+MD MD341 MD16 MD343
+
+#MD-343:
+MD MD343 US50 End
+
+#MD-404:
+MD MD404 MD328 MD313/619
+
+#MD-456:
+MD MD456 US50 MD656
+
+#MD565 Easton Section:
+MD MD565Eas MD322 LeeTer
+
+#MD-648:
+MD MD648 MD176 MD2_E
+
+#MD656:
+MD MD656 MD456 MD18
+
+#MD-662:
+MD MD662 US50_C US50_D
+
 # (Missouri State Highways)
+
+#MO-77:
 MO MO77 US60/62_E MOsD_Sco
 
 #(Nevada State Highways)
 
 #NV-374:
 NV NV374 DeaValNP US95
+
+# (Virginia State Highways)
+
+#VA-267:
+VA VA267 I-66 DulAirRd
 
 
 #(California Federal Roads)
