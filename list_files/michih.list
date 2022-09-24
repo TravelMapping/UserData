@@ -1,4 +1,4 @@
-# Date: 2022-09-22
+# Date: 2022-09-24
 # ----------------
 
 
@@ -6515,6 +6515,8 @@ NOR Fv213 Fv311 MesVeg
 POL A1 1 24
 POL A1Gli 36 POL/CZE
 POL A2 1 32
+POL A2Min 33 37
+POL E30 36(A2) DK2/92
 POL A4 DEU/POL 62
 POL A6 DEU/POL 7
 POL A8 2 7
@@ -6523,6 +6525,8 @@ POL S1Mie A1 3
 POL S1 5 DK1/86_S
 POL S1Bie S52 DK1_S
 POL S1Mil DK1_N Zwa
+POL S2 R9 R10b
+POL S2 R10c R17
 POL S3 Tro 30
 POL S3 47 54
 POL S5Sar A1 6
@@ -6533,10 +6537,13 @@ POL S6Kol A6 15
 POL S6Slu UliSzc UliGda
 POL S7Elb 9 51
 POL S7NDw 55 58
-POL S8 DK98 24(A1)
-POL S8 A2 DW629
+POL S7 71 102
+POL S8 7 28
+POL S8 57 R1
 POL DW629 UliWol_N DW632
-POL S8 62 DW676
+POL S8 64 DK8
+POL S17 1 10(S12)
+POL S19Rze 39 63(A4)
 POL S19Rze 571(A4) DK19
 POL S52 S1 Jab
 POL DK1Uje 3 5
@@ -6550,12 +6557,15 @@ POL DK6 DK11_N UliSzc_E
 POL DK6Leb UliGda DW468
 POL DK7Zal UliPlo DK10/50
 POL DK7Lom S8_MarE UliWar_Czo
-POL DK7War DK79 S8
+POL DK7War S2/S8 S8
+POL DK7Tar S7(71) S8_Wol
 POL DK8Klo CZE/POL DW381
 POL DK8 S8 17(S61)
 POL DK8 19(S61) POL/LTU
+POL DK9 DW987 A4
 POL DK10Szc DEU/POL A6
 POL DK11Kos S11(2) DK6_E
+POL DK17Rud DK92 A2
 POL DK18 DEU/POL 71
 POL DK19Rze DW883 POL/SVK
 POL DK30 A4 DW352
@@ -6563,21 +6573,33 @@ POL DK34 DK5 DK35
 POL DK35 DW371 DW381
 POL DK36 DW323_S S5
 POL DK44 A4(316) A1
+POL DK50 DW680_N S17
 POL DK52Cie Jab POL/CZE
+POL DK73 DK78 DK94_E
+POL DK78 DK73 S7_N
 POL DK79 DW902 S86
 POL DK79War AleKra DK7
 POL DK86Kat DK79 S1
+POL DK92Min DW638 A2(37)
 POL DK93 KarFry POL/DEU
 POL DK93Prz DK3 KarFry
+POL DK94Tar DK73_N DW987
 POL DW112 S6 S11
 POL DW292 DK36_E UliSze
 POL DW332 DEU/POL POL/CZE
 POL DW333 DK36_E S3(47)
 POL DW381 DK35 DK8
-POL DW621 DK79 Uli17Sty
+POL DW621 DK79 S2
 POL DW662 S61 PloOsi
+POL DW680 DW799 DK50
+POL DW718 DW719 A2
+POL DW719 S2/S8 DW718
+POL DW797 DK50 UliSwiKaz
+POL DW799 DW680 DW801/805
+POL DW805 DW799/801 DK17
 POL DW883 S19 DK19
 POL DW902 A1 DK79
+POL DW987 DK9 DK94
 
 
 
@@ -7697,3 +7719,11 @@ QC QC134 RueOnt BoulTas_N
 #ITA     Roma MB Laurentina          ITA     Roma MB Rebibbia                      #2019
 #ITA     Roma MB Laurentina          ITA     Roma MB Jonio                         #2019
 #ITA     Roma MC San Giovanni        ITA     Roma MC Montecompatri/Pantano         #2019
+
+#POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
+#POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
+#POL     Warsaw T6  Metro Mlociny      POL   Goclawek                              #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
+#POL     Warsaw T7  P+R Al. Krakowska  POL   Centrum                               #2022, via Plac Zawiszy
+#POL     Warsaw T24 Centrum            POL   Goclawek                              #2022, via Most Poniatowskiego, Kinowa
+#POL     Warsaw T26 Metro Mlociny      POL   Metro Bemowo                          #2022, via Aspekt, Radiowa
+#POL     Warsaw T33 Metro Mlociny      POL   Rondo ONZ                             #2022, via Aspket, Sady Zoliborskiego, Stawki
