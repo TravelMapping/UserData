@@ -1,4 +1,4 @@
-# Date: 2022-09-26
+# Date: 2022-09-28
 # ----------------
 
 
@@ -2965,7 +2965,7 @@ DEU-MV A20 SH/MV MV/BB
 DEU-MV A20Pas BB/MV MV/BB
 DEU-MV A24 SH/MV MV/BB
 DEU-MV A24Suc BB/MV MV/BB
-DEU-MV B5 L05_S A14
+DEU-MV B5 SH/MV A14
 DEU-MV B96 TreStr B196
 DEU-MV B96 L296_W A20
 DEU-MV B96Neu NeuStr_W MV/BB
@@ -2977,8 +2977,7 @@ DEU-MV B104 L35 B197
 DEU-MV B104Pas B109_S DEU/POL
 DEU-MV B105Gre B104 B106
 DEU-MV B105 A14 B96_S
-DEU-MV B106 B105 L031
-DEU-MV B106 B104_E B321
+DEU-MV B106 B105 B321
 DEU-MV B109 B110_E MV/BB
 DEU-MV B110 B194_S DEU/POL
 DEU-MV B122 B198 MV/BB
@@ -2992,6 +2991,8 @@ DEU-MV B198 B103 B122
 DEU-MV B208 SH/MV B106
 DEU-MV B321 B5 B392
 DEU-MV B392 B321 B192
+DEU-MV L10 B105 K41
+DEU-MV L10 L132 K12
 DEU-MV L14 B104_W A19
 DEU-MV L22 B103/B105 L22Ros
 DEU-MV L22Ros L22 A19
@@ -3003,6 +3004,8 @@ DEU-MV L05 L042 MV/NI
 DEU-MV L031 L03 B106
 DEU-MV L042 L04/L05 B106
 DEU-MV L072 A14 MV/BB
+DEU-MV L103 B106 B105
+DEU-MV L132 L10 SudRing_E
 DEU-MV L296 B96_W B96/B196
 DEU-MV E55 GedRosFry 4(A19)
 
@@ -3050,6 +3053,7 @@ DEU-NI A392 3 6
 DEU-NI A36 1 NI/ST
 DEU-NI B1 B243 A7
 DEU-NI B1Hel B245a NI/ST
+DEU-NI B3Buc L235_N B73_W
 DEU-NI B3Cel A7 B214_W
 DEU-NI B3Cel StGeoGar A37
 DEU-NI B3 A37 B6/B65_E
@@ -3082,6 +3086,7 @@ DEU-NI B72 B438 A1
 DEU-NI B73 A27(2) NI/HH
 DEU-NI B74Ber B212 BerFry
 DEU-NI B74 HB/NI L122_N
+DEU-NI B74 B71_N B73
 DEU-NI B75Del A28 NI/HB
 DEU-NI B75 A1(50) A1(42)
 DEU-NI B82 A7 B6/B82Gos
@@ -3131,6 +3136,7 @@ DEU-NI B475 NW/NI B51
 DEU-NI B482 B441 NI/NW
 DEU-NI B493 B248_N L256_S
 DEU-NI B494 A7 B6
+DEU-NI B495 WisGluFry B71/B74
 DEU-NI L2Kru L3/L4 A31
 DEU-NI L4 L25 L2/L3
 DEU-NI L5 L27 B72
@@ -3149,9 +3155,12 @@ DEU-NI L109 B68_S B51
 DEU-NI L111 L140 A26
 DEU-NI L121 HB/NI B437
 DEU-NI L122 B71_W B74_S
+DEU-NI L125 A26 L140
 DEU-NI L130 B73 A1
 DEU-NI L133 HB/NI L154
 DEU-NI L135 A27 NI/HB
+DEU-NI L140 L125 NI/HH
+DEU-NI L140Kon HH/NI NI/HH
 DEU-NI L143 A27 L135_N
 DEU-NI L149 HB/NI A27
 DEU-NI L171 MaxPlaStr A27
@@ -3160,6 +3169,7 @@ DEU-NI L190 L180 B214
 DEU-NI L190 A2 KleStr
 DEU-NI L190 L380_N B6
 DEU-NI L232Neu MV/NI B195
+DEU-NI L235Rub HH/NI B3
 DEU-NI L252 B4 L254
 DEU-NI L254 L252 B191
 DEU-NI L256 B493_W NI/ST
@@ -4069,8 +4079,8 @@ DEU-SH A210 2 7
 DEU-SH A215 1 5
 DEU-SH A226 1 3
 DEU-SH B4 B206 SH/HH
-DEU-SH B5 DNK/DEU L136
-DEU-SH B5Lau A25 L208
+DEU-SH B5 DNK/DEU A23
+DEU-SH B5Lau A25 SH/MV
 DEU-SH B75 B432 K20_N
 DEU-SH B76 B201 B75
 DEU-SH B77 B76 B206
@@ -4083,7 +4093,7 @@ DEU-SH B202 L33_W A210
 DEU-SH B202Lut A215 A1
 DEU-SH B203 Bau B199/B201
 DEU-SH B205 A7 A21
-DEU-SH B206 B77 A20
+DEU-SH B206 A23 A20
 DEU-SH B207Feh RodPutFry 5
 DEU-SH B207 B75 SH/HH
 DEU-SH B208 B75 B207
@@ -4100,6 +4110,7 @@ DEU-SH B432Tan HH/SH SH/HH
 DEU-SH B432 HH/SH StrAll
 DEU-SH B433 Ring3_E SH/HH
 DEU-SH B433 HH/SH SH/HH
+DEU-SH B495 B431 GluWisFry
 DEU-SH B501 A1(5) A1(13)
 DEU-SH B502 B76/B202 L165
 DEU-SH B503 L44/L45 B76
@@ -4117,10 +4128,12 @@ DEU-SH L69 B430 A20
 DEU-SH L79 L167_W L80
 DEU-SH L80 L234 L79
 DEU-SH L83 B206 B75
+DEU-SH L92 B75 L200
 DEU-SH L98 B432 SH/HH
-DEU-SH L136 B5 L170
+DEU-SH L136 B5 B431
 DEU-SH L153 L238 B5
 DEU-SH L156 L305 B203
+DEU-SH L159 L220 B404
 DEU-SH L163 L174 L178
 DEU-SH L167 B206 L79_S
 DEU-SH L170 L136 B431
@@ -4131,11 +4144,15 @@ DEU-SH L184 L306 L332
 DEU-SH L194 L48 L321
 DEU-SH L194Lan L194Lan_W L194Lan_E
 DEU-SH L199 B207 L218
+DEU-SH L200 L92 L220
 DEU-SH L202 L203 L218
 DEU-SH L203 B208 L202
+DEU-SH L205Gee B5 L219
 DEU-SH L208 K80 B5/B404
 DEU-SH L216 L258_W L178_W
 DEU-SH L218 L199 L202
+DEU-SH L219 B207/B404 L205
+DEU-SH L220 L200 L159
 DEU-SH L228 L56 L174
 DEU-SH L234 L80 L320
 DEU-SH L238 L153 B5
@@ -4147,7 +4164,7 @@ DEU-SH L284 L326 B432
 DEU-SH L285 B76 L45
 DEU-SH L305 L33 L156
 DEU-SH L306 B76 L184
-DEU-SH L309 L230 K25
+DEU-SH L309 L230 L332
 DEU-SH L318 B404 L49
 DEU-SH L319 A7 B206
 DEU-SH L320 L234 L326
@@ -6579,7 +6596,7 @@ POL DK7Tar S7(71) S8_Wol
 POL DK8Klo CZE/POL DW381
 POL DK8 S8 17(S61)
 POL DK8 19(S61) POL/LTU
-POL DK9 DW987 A4
+POL DK9 PlacWol A4
 POL DK10Szc DEU/POL A6
 POL DK11Kos S11(2) DK6_E
 POL DK12 168(S8) A1
@@ -7364,6 +7381,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Kollerinsel                  DEU-BW  Brühl
 #DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
 #DEU-RP  Neuburg                      DEU-BW  Neuburgweier
+#DEU-SH  Glückstadt                   DEU-NI  Wischhafen
 #FRA-GES Seitz                        DEU-BW  Plittersdorf
 #FRA-GES Drusenheim                   DEU-BW  Greffern
 #FRA-GES Rhinau                       DEU-BW  Kappel
@@ -7577,13 +7595,18 @@ QC QC134 RueOnt BoulTas_N
 #DEU-HE  STR12 Ffm Rothschildallee   DEU-HE  Frankfurt Rohrbachstr                             #2022
 #DEU-HE  STR18 Frankfurt Rohrbachstr DEU-HE  Frankfurt Südbahnhof                              #2022, via Konstablerwache, Frankensteiner Platz
 
-#DEU-HE  Kassel   STR4 Rathaus/Fünffen. DEU-HE  Hess.Lichtenau Bürgerhaus                         #2022
-#DEU-HE  Kassel   STR4 Am Stern         DEU-HE  Helsa Am Steinhof                                 #2022
+#DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
+#DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                       #2020, All routes as of 2020
-#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                       #2020, both directions
-#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                       #2020
-#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                        #2020
+#DEU-MV  Rostock  STR1 Mecklenburger Allee  DEU-MV Hafenallee                                  #2022, via Lange Straße
+#DEU-MV  Rostock  STR3 Neuer Friedhof       DEU-MV Dierkower Allee                             #2022, via Lange Straße
+#DEU-MV  Rostock  STR5 Mecklenburger Allee  DEU-MV Südblick                                    #2022, via Lange Straße
+#DEU-MV  Rostock  STR6 Neuer Friedhof       DEU-MV Campus Südstadt                             #2022, via Lange Straße
+
+#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
+#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
+#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
+#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
 
 #DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
 #DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
