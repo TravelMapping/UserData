@@ -1,4 +1,4 @@
-# Date: 2022-09-29
+# Date: 2022-09-30
 # ----------------
 
 
@@ -3051,28 +3051,26 @@ DEU-NI A369 1 4
 DEU-NI A391 1 8
 DEU-NI A392 3 6
 DEU-NI A36 1 NI/ST
-DEU-NI B1 B243 A7
+DEU-NI B1 L460_N A391
 DEU-NI B1Hel A39 NI/ST
 DEU-NI B3Buc L235_N A7
 DEU-NI B3Cel A7 A37
-DEU-NI B3 A37 B6/B65_E
-DEU-NI B3 B443 NI/HE
+DEU-NI B3 A37 NI/HE
 DEU-NI B4 A39 A391
 DEU-NI B4Har B6 NI/TH
 DEU-NI B6Lox HB/NI A27
 DEU-NI B6 HB/NI B322
 DEU-NI B6 L332 B214_S
-DEU-NI B6 B214_N B1
-DEU-NI B6 A7 A39
+DEU-NI B6 B214_N L515
 DEU-NI B6 B82_W A369
-DEU-NI B27 A7 B243_W
+DEU-NI B27 ST/NI A7
 DEU-NI B51 B439 L344_E
 DEU-NI B51 B214_E NI/NW
 DEU-NI B51Boh NW/NI A33
 DEU-NI B51Ibu L94 B475
 DEU-NI B61 B214_E B441
 DEU-NI B64 NW/NI B243/B248
-DEU-NI B65 B217 B3/B6
+DEU-NI B65 B217 A7
 DEU-NI B68 L109_E A1
 DEU-NI B69 A1 B51/B214
 DEU-NI B70 B438 B214
@@ -3088,6 +3086,7 @@ DEU-NI B74 B71_N B73
 DEU-NI B75Del A28 NI/HB
 DEU-NI B75 A1(50) A1(42)
 DEU-NI B82 A7 B6/B82Gos
+DEU-NI B82Gos B82_W B241_S
 DEU-NI B83 B217 L429
 DEU-NI B188 L290_N B244
 DEU-NI B191 B3 L254
@@ -3110,7 +3109,8 @@ DEU-NI B215 B441_W K14
 DEU-NI B216 B4/B209 B248a
 DEU-NI B217 B65 B83
 DEU-NI B218 A1 B51/B65
-DEU-NI B243 B1 B27_W
+DEU-NI B241 B243_N B82_W
+DEU-NI B243 B1 B27_E
 DEU-NI B244 B4 L282
 DEU-NI B244 L287 K99
 DEU-NI B244 B188 A2
@@ -3195,8 +3195,11 @@ DEU-NI L381 A7 BerStr
 DEU-NI L384 B6 L380
 DEU-NI L393 AlteDohStr K260
 DEU-NI L393 KarStr B6_S
+DEU-NI L402 K226 B3
 DEU-NI L429 NW/NI B83
+DEU-NI L460 B3 B1_E
 DEU-NI L466 B243_S A7
+DEU-NI L515 B6 B82
 DEU-NI L569 WesStr_W B446
 DEU-NI L625 L295 A39
 DEU-NI L776 L338_W L340
@@ -4008,14 +4011,15 @@ DEU-ST A38 TH/ST ST/SN
 DEU-ST A71 1 ST/TH
 DEU-ST A143 3 6
 DEU-ST B1 NI/ST ST/BB
-DEU-ST B2 BB/ST L131_E
-DEU-ST B2 B100 ST/SN
+DEU-ST B2 BB/ST ST/SN
 DEU-ST B2Zei SN/ST ST/TH
-DEU-ST B6Hal B100 B80
-DEU-ST B6Hal EurCha ST/SN
+DEU-ST B2n DrBehStr B187
 DEU-SN B6 ST/SN B2/B87_S
 DEU-ST B6 A14/A36 B183
-DEU-ST B27 A36 B81_W
+DEU-ST B6Thu L141 A9
+DEU-ST B6Hal B100 B80
+DEU-ST B6Hal EurCha ST/SN
+DEU-ST B27 A36 ST/NI
 DEU-ST B71 B248_N B188_N
 DEU-ST B71 B189 B81
 DEU-ST B80 L176 B6
@@ -4025,9 +4029,11 @@ DEU-ST B87 TH/ST B180_S
 DEU-ST B88 TH/ST B87/B180
 DEU-ST B91 B6 B2
 DEU-ST B100 B6 B183_S
+DEU-ST B100 B107_N B2
 DEU-ST B101 BB/ST ST/BB
 DEU-ST B107 BB/ST ST/BB
 DEU-ST B107Cos BB/ST A9
+DEU-ST B107Gra A9 B100_E
 DEU-ST B176 L212 L207
 DEU-ST B180 B81 B86/B242
 DEU-ST B180 L176 L177
@@ -4040,6 +4046,9 @@ DEU-ST B184 B185_W ST/SN
 DEU-ST B185 B242 B180n
 DEU-ST B185 15(A36) B184_S
 DEU-ST B187 B184 A9
+DEU-ST B187 RosStr TriStr
+DEU-ST B187a B184 AkenFry
+DEU-ST B187aAke AkenFry B185
 DEU-ST B188 B71_N ST/BB
 DEU-ST B189 BB/ST B71
 DEU-ST B190 B71/B248 B189
@@ -4065,12 +4074,20 @@ DEU-ST L34 BB/ST B1
 DEU-ST L38 B189_Dol K1174
 DEU-ST L44 L24 B189_N
 DEU-ST L50 B81_W L73_E
+DEU-ST L50Kon Saa B6/B100
 DEU-ST L52 B1_N A2(75)
+DEU-ST L55 L121 B184/B187a
 DEU-ST L72 L50 SteBru
 DEU-ST L72 L71/L73_E A36
 DEU-ST L73 L72_S HohStr_W
+DEU-ST L73 L148 LeiStr_N
 DEU-ST L85Wer A36 B81
-DEU-ST L141 B183_E B100
+DEU-ST L85 B27 L240
+DEU-ST L121 L55 QuerStr
+DEU-ST L141 B6 B100
+DEU-ST L144 L145_S L141
+DEU-ST L145 L144_E L50
+DEU-ST L148 B6/B185 L73
 DEU-ST L159 HetStr B80
 DEU-ST L165 FreStr KatKolStr
 DEU-ST L176 B80 B180
@@ -4079,6 +4096,7 @@ DEU-ST L205 L207 PostRing
 DEU-ST L207 B176/B180 L205
 DEU-ST L212 L177 B176
 DEU-ST L230Obe A38 ST/TH
+DEU-ST L240 A36 L85
 
 
 
@@ -7398,6 +7416,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
 #DEU-RP  Neuburg                      DEU-BW  Neuburgweier
 #DEU-SH  Glückstadt                   DEU-NI  Wischhafen
+#DEU-ST  Aken                         DEU-ST  Steutz
 #FRA-GES Seitz                        DEU-BW  Plittersdorf
 #FRA-GES Drusenheim                   DEU-BW  Greffern
 #FRA-GES Rhinau                       DEU-BW  Kappel
@@ -7723,14 +7742,17 @@ QC QC134 RueOnt BoulTas_N
 #DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
 #DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
 
+#DEU-ST Hallle  STR 1 Frohe Zukunft - Marktplatz                                                                                                                           #2022
 #DEU-ST Halle   STR 2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
 #DEU-ST Halle   STR 3 Vogelweide - Beesen                                                                                                                                  #2022
 #DEU-ST Halle   STR 4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
 #DEU-ST Halle   STR 5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
 #DEU-ST Halle   STR 5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
 #DEU-ST Halle   STR 7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
-#DEU-ST Halle   STR 8 Franckeplatz - Elsa-Brändström-Straße                                                                                                                #2022
+#DEU-ST Halle   STR 7 Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum                                                                                      #2022
+#DEU-ST Halle   STR 8 Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße                                                              #2022
 #DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
+#DEU-ST Halle   STR12 Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz                                                                                               #2022
 
 #DEU-ST Magdeburg STR 9 Neustädter See  Reform (via Domplatz)                                        #2020
 #DEU-ST Magdeburg STR 1 IKEA            Kastanienstraße                                              #2020
