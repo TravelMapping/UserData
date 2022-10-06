@@ -1,4 +1,4 @@
-# Date: 2022-10-03
+# Date: 2022-10-06
 # ----------------
 
 
@@ -6939,24 +6939,29 @@ SWE L383 L356 E4/E10
 # TURKEY
 
 TUR O1 1 15
-TUR O2 O3 1
-TUR O2 O6 10
+TUR O2 O3 10
 TUR O2Ese 1 O3
-TUR O3 18 O2_W
-TUR O3 O2_E O1
-TUR O4 O1 O2
-TUR O4 O5 17
-TUR O5 1 7
+TUR O3 10 O1
+TUR O4 O1 17
+TUR O5 1 25
+TUR O6 O6 D200
 TUR O6Ist O2 O7_N   #It's signed as O7
+TUR O7 102 O3
 TUR O7 7 O4
 TUR O7Cob 184 O6
 TUR O7Dem O7 O4/O5
 TUR O7Koc O7 O4
 TUR O22 O5 D160/D200
+TUR O30 9 24
+TUR O33 1 End      #Not end but temporary end, not 1 but 23 because O33 extends!
+TUR D100 D110 O3(103)
 TUR D100 O7_W 3(O1)
 TUR D100 I34-11 GozKop
+TUR D110 O6 D100
 TUR D130 O5 D595
 TUR D160 O22 D595   #Also western bypass, now D160!
+TUR D200 D210/D550 O6(15)
+TUR D550 D200/D210 O33
 TUR D595 D130 D160  #Including through road in Yenisehir
 
 
@@ -7852,3 +7857,15 @@ QC QC134 RueOnt BoulTas_N
 #POL     Warsaw T24 Centrum            POL   Goclawek                              #2022, via Most Poniatowskiego, Kinowa
 #POL     Warsaw T26 Metro Mlociny      POL   Metro Bemowo                          #2022, via Aspekt, Radiowa
 #POL     Warsaw T33 Metro Mlociny      POL   Rondo ONZ                             #2022, via Aspket, Sady Zoliborskiego, Stawki
+
+#TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
+#TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
+#TUR     Istanbul M2  Haciosman - Yenikapi                                         #2022, via Levent, Sishane
+#TUR     Istanbul M2  Seyrantepe - Sanayi Mahallesi                                #2022 "Shuttle"
+#TUR     Istanbul M3  Kirazli Bagcilar - Mahmutbey                                 #2022
+#TUR     Istanbul M6  Levent - Bogazici Uni                                        #2022
+#TUR     Istanbul M7  Mahmutbey - Karadeniz                                        #2022
+#TUR     Istanbul F1  Taksim - Kabatas                                             #2022
+#TUR     Istanbul F3  Vadi Istanbul - Seyrantepe                                   #2022
+#TUR     Istanbul T1  Bagcilar Merkez - Kabatas                                    #2022, via Mehmet Atif, Merkezefendi, Findizade, Sultanahmet, Tophane
+#TUR     Istanbul T4  Karadeniz Mahallesi - Pazartekke                             #2022, via Rami, Yatan
