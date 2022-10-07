@@ -1,4 +1,4 @@
-# Date: 2022-10-06
+# Date: 2022-10-07
 # ----------------
 
 
@@ -6941,27 +6941,31 @@ SWE L383 L356 E4/E10
 TUR O1 1 15
 TUR O2 O3 10
 TUR O2Ese 1 O3
-TUR O3 10 O1
+TUR O3 1 O1
+TUR O3Har 16 165    #Not signed though
 TUR O4 O1 17
 TUR O5 1 25
 TUR O6 O6 D200
 TUR O6Ist O2 O7_N   #It's signed as O7
-TUR O7 102 O3
-TUR O7 7 O4
-TUR O7Cob 184 O6
+TUR O7 102 O4       #West end is O3 branch though
+TUR O7Cob 185 O6    #not signed between 184 and 185, end of motorway at 184
 TUR O7Dem O7 O4/O5
 TUR O7Koc O7 O4
 TUR O22 O5 D160/D200
 TUR O30 9 24
 TUR O33 1 End      #Not end but temporary end, not 1 but 23 because O33 extends!
-TUR D100 D110 O3(103)
-TUR D100 O7_W 3(O1)
+TUR D020 D100 D567 #Realigned at west end and onto Pinarhisar bypass
+TUR D100 Esk D020
+TUR D100 D567_N D569
+TUR D100 O3(165) 3(O1)
 TUR D100 I34-11 GozKop
 TUR D110 O6 D100
 TUR D130 O5 D595
 TUR D160 O22 D595   #Also western bypass, now D160!
 TUR D200 D210/D550 O6(15)
 TUR D550 D200/D210 O33
+TUR D567 D020 D100_E
+TUR D569 O3 D100
 TUR D595 D130 D160  #Including through road in Yenisehir
 
 
