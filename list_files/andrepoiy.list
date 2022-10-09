@@ -246,7 +246,7 @@ NY I-81 USA/CAN 45
 NY I-81 26 21
 NY I-481 4 6
 NY I-781 1 4
-NY I-90 55A(NYST) 53(NYST)
+NY I-90 PA/NY 53(NYST)
 NY I-90 51(NYST) 47(NYST)
 NY I-90 34A(NYST) 33(NYST)
 NY I-190 USA/CAN I-90
@@ -264,7 +264,9 @@ NY US62 PacRd NY265 #Actual end at 80th Street****
 NY US219 I-90_N NY179
 
 NY NY3 I-81 NY12_S
+NY NY5 NY384 NY33
 NY NY5 NY179 I-190
+NY NY5 NY60 #end at Central Ave****
 NY NY5 HerRd_W I-790
 NY NY5S I-790 GenSt
 NY NY12 I-790 MulRd
@@ -272,19 +274,49 @@ NY NY12 TreRd NY3_W
 NY NY18 LakeOntPkwy NiaScePkwy
 NY NY26 NY12_S NY812_N #actual end at Summit Ave***
 NY NY31 HigAve I-490(18)
+NY NY33 NY5 NY198
 NY NY49 NY26/46 I-790 #actual start South Geroge St***
+NY NY60 US20 NY5
 NY NY104 NY18F NY384
 NY NY179 US219 NY5
+NY NY198 I-190 NY33
 NY NY265 US62 CayDr_S #Actual start at Walmart****
 NY NY298 I-690 I-81_W #actual end at Solar St***
 NY NY365 I-90 NY49_E
 NY NY383 ExcSt NY31
+NY NY384 RaiBri RaiBlvd
+NY NY384 NiaSq NY5
 NY InnLoop I-490 UniSt
 NY LakeOntPkwy LakeAve LakeOntPkwySpr
 NY LakeOntPkwySprCar LakeOntPkwy NY18
 NY NiaScePkwy NY18 NY18F/104
 NY NiaScePkwySprPor NiaScePkwy FortNiaSP
+NY NiaScePkwyNia JohnDalyBlvd I-190
 NY LaSExpy NY384 I-190(21A)
 
+#Ohio
 
+OH I-90 OH/PA 159
+
+OH US6 OH252 #end at Dover Center Road****
+
+OH OH2 207 195A
+OH OH11 OH531 94
+
+OH OH252 I-90(159) US6
+OH OH254 CroRd #end at Dover Center Road****
+OH OH531 OH11 LakeAve_N
+
+#Pennsylvania
+
+PA I-79 183 178
+PA I-90 PA/NY 32
+PA I-90 22 OH/PA
+
+PA PA5 StaSt PA832
+
+PA PA290 I-90 PA5_E
+PA PA290 StaSt I-79/5
+
+PA PA832 PreIsleSP PA5
 
