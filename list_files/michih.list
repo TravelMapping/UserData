@@ -1,4 +1,4 @@
-# Date: 2022-10-08
+# Date: 2022-10-09
 # ----------------
 
 
@@ -6957,6 +6957,7 @@ TUR O22 O5 D160/D200
 TUR O30 9 24
 TUR O33 1 End      #Not end but temporary end, not 1 but 23 because O33 extends!
 TUR D020 D100 D567 #Realigned at west end and onto Pinarhisar bypass
+TUR D020 IstAir O7
 TUR D100 Esk D020
 TUR D100 D567_N D569
 TUR D100 O3(165) 3(O1)
