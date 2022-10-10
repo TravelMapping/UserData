@@ -294,15 +294,35 @@ NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NiaScePkwyNia JohnDalyBlvd I-190
 NY LaSExpy NY384 I-190(21A)
 
+#Michigan
+
+MI I-75 OH/MI 20
+MI I-275 I-75 17
+MI I-94 194 198
+
 #Ohio
 
 OH I-90 OH/PA 159
+OH I-75 208 OH/MI
+OH I-280 7 9
+OH I-280 11 I-75
 
 OH US6 OH252 #end at Dover Center Road****
+OH US6 OH2San_W WaySt_N
+OH US6 OH4 OH2San
+OH US20 I-90(173A) US322_E #actual start E 30th St
+OH US322 PubSqu US20_E #actual start at E 6th St****
 
-OH OH2 207 195A
+OH OH2 207 117thSt
+OH OH2 161(90) US6_B
+OH OH2 US6_A 121
+OH OH2 LakDrv I-280
 OH OH11 OH531 94
-
+OH OH25 OH120 I-280
+OH OH51 OH65_N US24 #actual end at West Bancroft****
+OH OH65 OH51_N OH120
+OH OH120 OH65 OH25
+OH OH163 OH2Con WLakDr
 OH OH252 I-90(159) US6
 OH OH254 CroRd #end at Dover Center Road****
 OH OH531 OH11 LakeAve_N
@@ -314,9 +334,7 @@ PA I-90 PA/NY 32
 PA I-90 22 OH/PA
 
 PA PA5 StaSt PA832
-
 PA PA290 I-90 PA5_E
 PA PA290 StaSt I-79/5
-
 PA PA832 PreIsleSP PA5
 
