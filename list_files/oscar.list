@@ -1988,7 +1988,7 @@ KY US68BusOld US68 KY9/10
 KY US127BusAlb KY696 US127_N
 KY US127BusJam US127_S KY92_W
 # northern segment of business route temporarily closed by police
-KY US421 US421_S KY388
+KY US421BusRic US421_S KY388
 KY US641SprBen US641 JulMCPkwy
 IN US6 IL/IN IN/OH
 IN US12 IL/IN IN/MI
