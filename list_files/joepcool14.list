@@ -195,7 +195,7 @@ WI US12 321A WI/IL
 WI US14 WI33 WI35_S
 WI US14 CRK_Iow WI19/78
 WI US14 WI130_S WI23_S
-WI US18 IA/WI 267(12)		#10/15/22
+WI US18 IA/WI I-94			#10/16/22
 WI US41 170B WI/MI
 WI US45 IL/WI WI36/100		#10/8/22
 WI US45 60(43) 59(41)
@@ -267,6 +267,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 10/16/22 - Added long segment of US-18 in Wisconsin
 # 10/15/22 - Closed missing segment of US-18, clinched WI-130, added segments for WI-23 and WI-154
 # 10/9/22 - Fixed south end segment of WI-241
 # 10/8/22 - Added segments for WI-20 in Racine, US-45 and WI-100
