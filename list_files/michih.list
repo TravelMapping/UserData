@@ -1,4 +1,4 @@
-# Date: 2022-10-23
+# Date: 2022-10-24
 # ----------------
 
 
@@ -6961,8 +6961,8 @@ TUR O3Har 16 165    #Not signed though
 TUR O4 O1 17
 TUR O5 1 25
 TUR O6 O6 D200
-TUR O6Ist O2 O7_N   #It's signed as O7
 TUR O7 102 O4       #West end is O3 branch though
+TUR O7Cek O2 O7
 TUR O7Cob 185 O6    #not signed between 184 and 185, end of motorway at 184
 TUR O7Dem O7 O4/O5
 TUR O7Koc O7 O4
