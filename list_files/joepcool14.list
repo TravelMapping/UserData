@@ -178,6 +178,13 @@ TN I-75 3(640) TN/KY
 TN I-640 3 I-40_E
 
 ######
+# TX #	Note: In most cases, distance traveled on feeder roads will be counted.
+######
+
+TX TX71 I-35 KelRd		#10/25/22
+TX TX130 451 449		#10/25/22
+
+######
 # WI #
 ######
 
@@ -267,6 +274,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 10/25/22 - Added segments for TX-71 and TX-130 (Austin)
 # 10/16/22 - Added long segment of US-18 in Wisconsin
 # 10/15/22 - Closed missing segment of US-18, clinched WI-130, added segments for WI-23 and WI-154
 # 10/9/22 - Fixed south end segment of WI-241
