@@ -414,13 +414,14 @@ NY NY304 NJ/NY NY59
 NY NY440 NJ/NY 10
 NY NY495 NJ/NY 34thSt
 NY NY878 CroBayBlvd FarBlvd
-NY NY878Far BurAve BayAve
+NY NY878Far RocTpk AtlBeaBri
 NY BeltPkwy I-278 25
 NY SouStaPkwy CroIslExp 28
 NY GraCenPkwy 45(278) 4
 NY GraCenPkwy 21 Que/Nas
 NY NorStaPkwy Que/Nas 36A
 NY MeaStaPkwy M10 M8
+NY LoopPkwy LidoBlvd MeaStaPkwy
 NY FDRooDr I-478 17
 NY HarRivDr 17 24
 NY HutRivPkwy 15 NY/CT
@@ -756,7 +757,7 @@ CA CA19 CA1 WarRd
 CA CA12 7A I-80(43)
 CA CA24 2 15
 CA CA28 CA267 CA/NV
-CA CA49 OldHwy49_S I-80(119B)
+CA CA49 OldHwy49_N I-80(119B)
 CA CA55 5C 11A
 CA CA56 1A 6
 CA CA82 SanBruAve SneLn
