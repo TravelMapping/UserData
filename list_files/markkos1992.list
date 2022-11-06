@@ -1022,7 +1022,6 @@ DC US50 VA/DC DC/MD
 #DC Routes
 DC DC295 I-295/695 DC/MD
 #Other
-DC BeaDr RockCrkPkwy DC/MD
 DC ClaBarPkwy MD/DC ChaBriRd
 DC GWMemPkwy VA/DC DC/VA
 DC RockCrkPkwy LinMemCir CalSt
@@ -1544,7 +1543,6 @@ MD MD953 MD193 LanSt
 MD WV46Elk WV/MD MD135
 #Other
 MD BalWasPkwy US50/201 MD175
-MD BeaDr DC/MD MD410
 MD CabJohnPkwy ClaBarPkwy I-495
 MD ClaBarPkwy MacBlvd_W MD/DC
 MD ParkCenRd MD77 FoxDeeRd
