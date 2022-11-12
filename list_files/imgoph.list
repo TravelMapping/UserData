@@ -200,7 +200,7 @@ DC US50 VA/DC DC/MD
 DC US1AltWas US1_S DC/MD
 DC ClaBarPkwy MD/DC ChaBriRd
 DC GWMemPkwy VA/DC DC/VA
-DC BeaDr RockCrkPkwy DC/MD
+DC BeaDr RockCrkPkwy BroBraRd
 DC RockCrkPkwy LinMemCir CalSt
 DC SuiPkwy SouCapSt DC/MD
 DC DC295 1A DC/MD
@@ -527,7 +527,6 @@ MD US219BusGra US219_S US219_N
 MD CabJohnPkwy ClaBarPkwy I-495
 MD BalWasPkwy US50/201 MD175
 MD ClaBarPkwy MacBlvd_W MD/DC
-MD BeaDr DC/MD MD410
 MD SuiPkwy DC/MD MD4
 MD MD2 MD260 US50(27)
 MD MD2 KeyHwy US1
