@@ -83,7 +83,7 @@ ENG A30 A340 ToM3
 ENG A30 M5(29) A39_S
 ENG A30 A3047_E A390
 ENG A30 A394 End
-ENG A31Alt A281/A322 GuiParkRd
+	ENG A31Alt A281/A322 GuiParkRd
 ENG A31Alt StaRd M3(10)
 ENG A31 A36 B3074
 ENG A32 A27_E B3385
@@ -970,7 +970,7 @@ ENG BouRR A347_W A347_E
 ENG CamRR A1309_S A1309_N
 ENG ChiRR B2178_N B2178_S
 ENG CovRR 1 B4113
-ENG LeiOR A6/A653 A5460_S
+ENG LeiOR A6/A563 A5460_S
 ENG LonNCir A4 A1_S
 ENG LonNCir A105 A12
 ENG LonNCir A117/A1020 WooFry
@@ -978,28 +978,28 @@ ENG LonRR A1202 A1210
 ENG LonSCir WooFry A206
 ENG LonSCir A214/A3036 A218/A3209
 ENG LonSCir A307 A4
-ENG ManRR 21 8
+ENG ManRROut 21 8
 ENG NhtRR A5123_S A428
 ENG NorRR A11 A147_N
 ENG OxfRR A420_W A420_E
-ENG SheRR 1 A57_E
+ENG SheRRInn 1 A57_E
 ENG SkeRR A5068_W A5068_E
 ENG SouRR A33_N A335
 ENG WatRR A411_N A411_W
 ENG WolRR A4123_E A4123_W
 ENG H3 V6 V7
-ENG H3 V8 V9
+ENG H3 B4034 V9
 ENG H5 A5 V11
-ENG H6 V6 V9
+ENG H6 V6 OverGate
 ENG H7 V1 V2
-ENG H8 V2 A421_W
+ENG H8 V2 H9
 ENG H9 A5 A421
 ENG H10 V4/V6 V11
 ENG V1 H7 A421
 ENG V2 H7 A421
 ENG V6 A422 H10/V4
 ENG V7 WolRd A422
-ENG V7 H6 H7
+ENG V7 A509 H6
 ENG V7 H9 LocRd
 ENG V8 V7 A422
 ENG V8 H9 BondAve
@@ -1133,8 +1133,8 @@ IRL DubIOACW J6 R802
 IRL DubIOCW J1 J17
 IRL DubIOCW J20 R804
 IRL DubIOCW J31 J32
-IRL DubIOClo J33 J35
-IRL DubIOClo J38 R105
+IRL DubIOCW J33 J35
+IRL DubIOCW J38 R105
 IRL DubOO J78 J51_S
 IRL DubOO J51_N J58
 
@@ -1471,14 +1471,15 @@ CA CA27 CA1 US101
 CA CA60 I-10(16B) 1A
 CA CA85 11A 24B
 CA CA110 21 GleSt
-CA CA118 CA23_N 44A
+CA CA118 CA23_N 44B
 CA CA134 1A 5B
 CA I-5 16A 94A
 CA I-5 130C 134A
 CA I-5 156A 446
 CA I-8 1 4B
 CA I-10 1A 16B
-CA I-80 8B 2
+CA I-80 2 *OldBayBri_W
+CA I-80 *OldBayBri_E 8B
 CA I-105 1A 7B
 CA I-110 14 21
 CA I-280 57 54
@@ -1575,7 +1576,7 @@ ENG WesML SOU PMS #GW Southampton - Portsmouth
 ENG BirLivLn BNM LIV #LN Birmingham New Street - Liverpool Lime Street
 ENG NhpLn BHI BNM #LN Birmingham International - Birmingham New Street
 ENG PotLn BNM STA #VT New Street - Stafford (diversion - via Tame Bridge)
-ENG TreVlyLn WFJ MKC #LN Watford - Milton Keynes
+ENG TreVlyLn WFJ MKC #LN Euston - Stafford
 
 ######LO###### (finalised, all done)
 ENG ELL HHY WCY #LO Highbury & Islington - West Croydon
@@ -1583,7 +1584,7 @@ ENG ELLCla SQE CLJ #LO Surrey Quays - Clapham Junction
 ENG ELLCry SYD CYP #LO Sydenham - Crystal Palace
 ENG ELLNew SQE NWX #LO Surrey Quays - New Cross
 #ENG ELLBat #LO Wandsworth Road - Battersea Park
-ENG Goblin GPO BKG #LO Gospel Oak - Barking
+ENG Goblin GPO BKR #LO Gospel Oak - Barking Riverside
 ENG LVL LST CHN #LO Liverpool Street - Cheshunt
 ENG LVLChi LST CHI #LO Liverpool Street - Chingford
 ENG NLL CLJ SRA #LO Finchley Road & Frognal - Clapham Junction; West Hampstead - Stratford
@@ -1613,9 +1614,11 @@ ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
 ENG SalLn BHM TFC #WM New Street - Telford
 
 #####XR##### (finalised)
-ENG EliLnHea PAD HXX #XR Paddington - Heathrow T23
-ENG EliLn PAD ABW #XR Paddington - Abbey Wood
-ENG EliLnShe LST SNF #XR Liverpool St - Shenfield
+ENG EliLnHea HWV HXX #XR Heathrow T5 - Heathrow T23
+ENG EliLnRea RDG HAY #XR Reading - Hayes & Harlington
+ENG EliLn HAF ABW #XR Reading - Abbey Wood
+ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
+#XR into Paddington and Liverpool Street Mainline stations
 
 #GA LST SNF Liv St - Shenfield
 #EM St Pancras - Wellingborough
@@ -1684,6 +1687,9 @@ ENG DLRWoo CGT WWA
 ENG WimBec WIM BKJ
 ENG WimElm WIM ELE
 ENG CroAdd ECR_1 NAD
+####People Movers####
+#Heathrow T5 Airside A-B
+#London Cable Car
 
 ###Scotland###
 SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
@@ -1703,7 +1709,8 @@ SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
 #M1 Duomo - Cairoli
 
 ###Spain###
-#Barcelona Metro: Canyelles - Catalunya
+####Barcelona Metro####
+ESP-CT L3 Canyelles Catalunya
 
 ###USA###
 #LA Metro: Gold Line: Del Mar - Union Station
