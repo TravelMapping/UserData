@@ -268,6 +268,7 @@ WI WI175 I-41 GoodHopeRd	#10/7/22
 WI WI191 WI23 WI39
 WI WI193 WI60 WI80			#5/17/22
 WI WI241 I-41/94 RawAve		#10/9/22
+WI WI311 CRKR WI11		#11/15/22	CLINCHED
 WI WI441 287(10) 291(10)	#6/21/22
 WI WI794 ColAve I-794		#5/25/22
 
@@ -275,6 +276,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 11/15/22 - Clinched WI-311
 # 10/25/22 - Added segments for TX-71 and TX-130 (Austin)
 # 10/16/22 - Added long segment of US-18 in Wisconsin
 # 10/15/22 - Closed missing segment of US-18, clinched WI-130, added segments for WI-23 and WI-154
