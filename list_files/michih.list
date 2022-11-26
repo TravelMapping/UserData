@@ -1,4 +1,4 @@
-# Date: 2022-11-19
+# Date: 2022-11-25
 # ----------------
 
 
@@ -6742,9 +6742,7 @@ NOR Fv213 Fv311 MesVeg
 
 # POLAND
 
-POL A1 1 27
-POL DK1Pio 27(A1) 28(A1)
-POL A1Gli 28 POL/CZE
+POL A1 1 POL/CZE
 POL A2 1 32
 POL A2Min 33 37
 POL E30 36(A2) DK2/92
