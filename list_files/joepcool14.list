@@ -42,15 +42,16 @@ FL US27 GriRd I-75(23)		#10/7/22
 # IL #
 ######
 
-IL I-39 104 IL/WI				#9/12/22
+IL I-39 104 IL/WI		#9/12/22
 IL I-41 WI/IL 1B
-IL I-55 165 277B				#7/15/22
+IL I-55 165 277B		#7/15/22
 IL I-55 292 293D
+IL I-57 349 358			#11/29/22
 IL I-80 IA/IL 4
-IL I-80 137 155					#8/11/22
+IL I-80 137 155			#8/11/22
 IL I-88 1 I-294_N
 IL I-90 WI/IL IL/IN
-IL I-94 WI/IL 58B
+IL I-94 WI/IL 66A		#11/29/22
 IL I-94 74 IL/IN
 IL I-190 I-90 ChiOHAir
 IL I-290 I-90 7
@@ -230,7 +231,7 @@ WI WI31 IL/WI WI32
 WI WI32 WI165 DreBlvd
 WI WI32 DreBlvd OklaAve		#8/21/22
 WI WI32 I-794 US18_E		#5/25/22
-WI WI32 I-43(82) I-43(93)
+WI WI32 I-43(82) GraAve		#11/29/22
 WI WI32 I-43(100) I-43(113)
 WI WI32 WI22_E WI22_W
 WI WI35 IL/WI US14/61_W
@@ -285,6 +286,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 11/29/22 - Added segment of WI-32 in Port Washington, I-94 on south side of Chicago, I-57 segments
 # 11/21/22 - Fixed Baraboo segment of WI-113
 # 11/21/22 - Madison trip: Cliched WI-39
 # 11/21/22 - Madison trip: Added segments of US-51, WI-30, WI-113, WI-92, WI-69, US-14, I-90
