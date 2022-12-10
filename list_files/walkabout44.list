@@ -1,7 +1,10 @@
-# 07/26/2022
-# v47
-# Completed I-240 near Wilmington, NC (missed in previous version)
-# Completed I-195 in Richmond, VA
+# 12/08/2022
+# v48
+# Added Northern Parkway near Phoenix, AZ
+# Completed I-690 near Syracuse, NY
+# Completed two stretches of I-81 in northern NY
+# Completed I-781 near Watertown, NY
+# Added portion of I-587 near Wilson, NC
 
 
 # Arizona Interstate Highways
@@ -48,6 +51,7 @@ AZ I-11FutKin 71(40) 48(40)
 AZ I-11FutHoo 2 AZ/NV
 
 # Arizona Select Named Freeways
+AZ NorPkwy AZ303 NorAve
 AZ SkyHarBlvd I-10 AZ202
 
 # Arizona Auxiliary Numbered Highways
@@ -234,7 +238,7 @@ CA I-580 1A I-5                # 80 vs 76
 CA I-605 CA22 HunDr            # 29 vs 28
 CA I-680 I-280/101 71          # 71
 CA I-710 1 ValBlvd             # 22 vs 20
-CA I-780 1A 7                  #  7
+CA I-780 1A 7                  #  7          .26 MISSING         
 CA I-805 I-5(1A) I-5(31)       # 29 vs 28
 CA I-880 I-280 46B             # 46 vs 47
 CA I-980 I-880 2B              #  2
@@ -384,7 +388,7 @@ TX I-14 US190BusCop I-35       # 25
 TX I-20 I-10 TX/LA             #645 vs 636
 TX I-27 1A 123B                #126 vs 124
 TX I-30 I-20 TX/AR             #227 vs 224
-TX I-35 TX359 370B             #378+
+TX I-35 US83/359 370B          #378+
 TX I-35Gai 467 TX/OK           # 37=415 vs 407
 TX I-35E 370B 467              # 98 vs 97
 TX I-35W I-35(370B) 85         # 87 vs 85
@@ -591,8 +595,7 @@ CT I-691 1 11                  #  8
 # New York
 # 1730 miles: 1718 on 12 not on
 NY I-78 NJ/NY HudSt            #  1
-NY I-81 PA/NY 45               #             8 MILES MISSING
-NY I-81 47 50                  #176 of 184
+NY I-81 PA/NY USA/CAN          #184
 NY I-84 PA/NY NY/CT            # 72
 NY I-86 PA/NY NY/PA            #206+
 NY I-86Bin 72A 79              #  9=215 vs 216 9 new since 02
@@ -605,7 +608,7 @@ NY I-190 I-90 USA/CAN          # 28
 NY I-278 NJ/NY I-95            # 34
 NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87
 NY I-290 I-190 I-90            # 10
-NY I-295 1 I-95                #  9 vs 8 .17 MILES MISSING
+NY I-295 1 12                  #  9 vs 8 .17 MILES MISSING
 NY I-390 I-86 20               # 76
 NY I-478 I-278 NY9A            #  2
 NY I-481 I-81 9                # 15
@@ -616,9 +619,9 @@ NY I-590 I-390 5               #  5
 NY I-678 JFKAir 19             # 15 vs 14
 NY I-684 CT/NY 10              # 22+
 NY I-684Pur I-287 NY/CT        #  5=27
-NY I-690 1 I-481               # 14     .45 MILES MISSING
+NY I-690 I-90 I-481            # 14
 NY I-695 I-295 I-95            #  1
-#NY I-781 1 4                   #  4  Built 2012  NEVER ON
+NY I-781 1 4                   #  4
 NY I-787 I-87 8thSt            # 10
 NY I-790 NY5A/5S GenSt         #  2 vs 4 T3 has 2
 NY I-878 I-678 JFKExpy         #  1
@@ -773,8 +776,8 @@ TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
 TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 
 # North Carolina
-# 1363 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
-# 1338 on 25 not on
+# 1406 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
+# 1400 on 6 not on
 NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 13            #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
@@ -794,6 +797,7 @@ NC I-295 12 34                 # 23 (Table 3 14) (14 completed) - now 22 complet
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
+NC I-587 29 56                 # 27  NEW 2022 6 not completed
 NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
 NC I-795 38(264) 24            # 26
 NC I-840 103(73) 10            #  8 vs 5; 2 not on, 2 not on Table 3
@@ -868,30 +872,27 @@ FL I-595 I-75 12               # 14 vs 13
 #PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
 
 # Interstates Not on
-#01 HI I-H1 10 15                  #  5        MISSING
-#02 HI I-H3 1A 1B                  #  1        MISSING
-#03 HI I-H3 15 KanSta              #  1        MISSING
-#04 HI I-H201 1A 1D                #  1        MISSING
-#05 NY I-81 45 47                 #  2    Watertown
-#06 NY I-81 50 USA/CAN            #  6    NY12 to border
-#07 NY I-99 PA/NY I-86            # 12    Built 2013 signed 2014 never on
-#08 NY I-295 NY25 1               #   .17 South end
-#09 NY I-690 I-90 1               #   .45 West end
-#10 NY I-781 1 4                  #  4  Built 2012  NEVER ON
-#11 VA I-195 I-64 I-95            #  .030 ramp 195 to 95 NEVER ON
-#12 NC I-140 1 14                 # 14    Wilmington extension opened 2017
-#13 NC I-295 12 21A               #  9    Fayetteville extension opened Aug 2020
-#14 NC I-840 6 8                  #  2    Greensboro opened 2020
+#01  HI I-H1 10 15                  #  5        MISSING
+#02  HI I-H3 1A 1B                  #  1        MISSING
+#03  HI I-H3 15 KanSta              #  1        MISSING
+#04  HI I-H201 1A 1D                #  1        MISSING
+#05  NC I-587 23 29                 #  6        NEW 2022
+
+#0-1 CA I-105 18 StuRd              #   .32 East end past I-605
+#0-2 CA I-780 LemSt 1A              #   .26 West end past I-80
+#0-3 TX I-35 HidSt US83/359         #   .13 2 blocks South end
+#0-4 NY I-295 NY25 1                #   .17 South end past I-495
+
 # Alaska & Puerto Rico Not on
-#15 AK I-A1 AK2 AK/YT             # 92  AK2 to Yukon line
-#16 AK HeaSpurRd AK2              #110  Healy to Fairbanks 
-#17 PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
-#18 PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
-#19 PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
+#15 AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
+#16 AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
+#17 AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E MISSING
+#18 AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W MISSING
+#19 AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao MISSING
 
 
 
-# Table 3 differences
+# Table 3 differences - See spreadsheet
 # I-49 AR 5 miles on in 2017 not on table
 # I-49 LA 4 miles not on table
 # I-69 TX -34 miles extra on Table
