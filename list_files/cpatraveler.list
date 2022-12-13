@@ -1,4 +1,3 @@
-
 FL FL12 FL20 I-10  #10022022 Trip to take Mom Home
 FL I-10 174 356
 FL I-295 21 35
@@ -43,8 +42,58 @@ FL FL390 US231 US98  #often
 FL FL77 FL390 FL20 #Trip to Ft. Walton Beach for shopping 12102022
 FL FL20 FL77 FL85
 FL FL85 FL20 US98
-FL US98 FL85 FL79
-FL US98 FL79 US 231 #often
+FL US98 CR399 FL79
+FL US98 FL79 US231 #often
+FL FL388 FL77 FL79  #often
+FL FL77 FL390 US98Bus  #often
+FL FL79 FL20 FL30  #often
+FL FL30 DelPl RicJacBlvd  #often
+FL FL392A FL30_W FL30_E  #often
+FL FL30PCB FL392A_E US98_E  #often
+FL US98 US231 MarSt_W  #often
+FL FL22 US98Bus CR2315  #often
+FL US98BusPan US98_W US98_E  #often
+FL FL368 US231 US98  #often
+FL FL327 FL368 FL390  #often
+FL FL389 US231 US98Bus  #often
+TN TN357 TN75 I-81 # often 
+TN I-81 63 1  #often
+TN I-40 421 24 #often
+TN US23 I-26(8) TN/VA  #often
+VA US23 TN/VA US58/421_W  #often
+VA US58 US23_S I-81(1)  #often
+VA VA224 TN/VA US58/421  #often
+TN TN93 TN/VA I-26  #often
+TN US11W SilLakeRd TN/VA  #often
+VA US11W TN/VA US11/11E  #often
+TN TN36 US23/346 I-81  #often
+VA US23BusGat US23_S US23_N  #often
+VA VA71 US23Bus/58Bus US58Alt_E  #often
+VA US58 US23_N TN/VA  #often
+TN US58 TN/VA US25E  #often
+TN US25E TN33_W TN/KY  #often
+TN TN63 US25E_S I-75(134)  #often
+KY US25E TN/KY I-75  #often
+KY I-75 29 118  #often
+KY I-64 KY/WV IN/KY  #often
+IN I-64 IN/KY IL/IN  #often
+IL I-64 IL/IN MO/IL  #often
+MO I-64 MO/IL 1  #often
+MO I-70 MO/IL KS/MO  #often
+KS I-70 KS/MO CO/KS  #often
+CO I-70 CO/KS UT/CO  #often
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
