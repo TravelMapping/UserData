@@ -219,6 +219,21 @@ AK AK2 3rdSt AK11 #college rd
 AK AK11 AK2 PipRd286 #south bonanza creek
 #MO
 MO I-29 13 8
+#HI
+HI HI19 KeaAirRd HI11/190
+HI HI190 KuaHwy HI19
+HI HI19 HI190 HI270
+HI HI270 HI19 PuuHeiNHS
+HI HI200 HI190 HI2000
+HI HI2000 HI200 KomSt
+HI HI19 HI11 HI220 
+HI HI220 HI19 AkaFalSP
+HI HI11 HI19 HI19/190
+HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
+HI HI139 HI11 HI130
+HI HI130 HI139 CR132 #to leilani estates
+HI ChaCraRd CraRimDr HolSeaArch
+HI HI160 HI11 PuuHonNHP
 
 #CA
 #thunder bay
