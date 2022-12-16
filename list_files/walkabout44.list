@@ -1,10 +1,6 @@
-# 12/08/2022
-# v48
-# Added Northern Parkway near Phoenix, AZ
-# Completed I-690 near Syracuse, NY
-# Completed two stretches of I-81 in northern NY
-# Completed I-781 near Watertown, NY
-# Added portion of I-587 near Wilson, NC
+# 12/14/2022
+# v49
+# Added US Future Interstate Highways
 
 
 # Arizona Interstate Highways
@@ -877,18 +873,56 @@ FL I-595 I-75 12               # 14 vs 13
 #03  HI I-H3 15 KanSta              #  1        MISSING
 #04  HI I-H201 1A 1D                #  1        MISSING
 #05  NC I-587 23 29                 #  6        NEW 2022
-
+#0 mile extensions
 #0-1 CA I-105 18 StuRd              #   .32 East end past I-605
 #0-2 CA I-780 LemSt 1A              #   .26 West end past I-80
 #0-3 TX I-35 HidSt US83/359         #   .13 2 blocks South end
 #0-4 NY I-295 NY25 1                #   .17 South end past I-495
-
 # Alaska & Puerto Rico Not on
-#15 AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
-#16 AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
-#17 AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E MISSING
-#18 AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W MISSING
-#19 AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao MISSING
+#AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
+#AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
+#AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E MISSING
+#AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W MISSING
+#AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao MISSING
+
+
+# US Future Interstate Highways (outside Arizona)
+NC I-26FutAsh 13 4A(240)
+LA I-49FutMor LA308 LA182_B
+LA I-49FutFra LA182_W LA318
+LA I-49FutNIb LA83_W LA675
+# AR I-49FutBar 187 193             # Barling - Ft Smith SE
+TN I-69FutMem MS/TN US51
+TN I-69FutTri 15(155) TN183_End
+TN I-69FutUni US45W/51 TN/KY
+KY I-69Fut TN/KY 21
+IN I-69FutInd 4(465) 37(465)
+# SC I-73FutMyr US17 US701          # Myrtle Beach NE
+NC I-73FutMad NC68 NC/VA
+NC I-73FutRoc NC38 US1
+# SC I-74FutMyr SC544 SC9           # Myrtle Beach bypass
+NC I-74FutPil I-74_W US52
+NC I-74FutRoc US1 US74BusRoc_E
+NC I-74FutLau 181 194
+# NC I-74FutWhi 228 248             # Whiteville, W of Wilmington, missed in 22
+PA I-86FutSWa 60 PA/NY
+NY I-86FutBin PA/NY 72A
+NY I-86FutDep 79 EvaRd
+NY I-86FutMon BushHilRd I-87
+NC I-87FutRoc 13 464(64)
+PA I-99FutLoc 107 OldUS220
+PA I-99FutMan 4thSt_W PA/NY
+IN I-265FutLou 7 IN/KY
+KY I-265FutLou 35 KY/IN
+TN I-269FutMem 19 US51
+# SC I-526FutCha SC30_E 3           # Charleston S bridge
+NC I-785FutRei US29Bus_S US158/14
+# NC I-785FutRei US158/14 NC/VA     # N of Reidsville
+# VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
+FL I-795FutJac I-295 4
+NC I-840FutEGr 14 I-85
+CA I-905FutOta 1A USA/MEX
+
 
 
 
