@@ -25,22 +25,19 @@ DNK MRSja HovGad_Fax SR151_DalN #Faxe
 DNK MRSja RinGade_N O_NaeN #    Næstved
 #Svendborg
 DNK MRSve SR305/PR9 RanVej_E #  Rudkøbing - Rantzausminde
-DNK MRSve PR44_Faa PR8_W #      Faaborg - Horne
+DNK MRSve PR44_Ske PR8_W #      Vester Skerninge - Horne
 #Odense
 DNK MROde SR445_Ry KjaMolVej #  Ry - Laven
 DNK MROde PR28_W KobGade_N #    Vejle - Fredericia
-DNK MROde KobGade_S FroVej_W #  Fredericia - Glamsbjerg
-DNK MROde SR168_S DreBae #      Odense
-DNK MROde VolVej_N PR43 #       PR 43
+DNK MROde KobGade_S BreGade_S # Fredericia - Skamby
+DNK MROde SR303_Mor PR8/167 #   Morud - Kværndrup
 DNK MROde SR167_S E20(45) #     Kværndrup - Nyborg
 #Esbjerg
 DNK MREsb SR401_KruW PR11/SR175 #Kruså - Skærbæk
-DNK MREsb E20_W SR447_E #       Esbjerg Midt
-DNK MREsb SR463_S Nor_S #       Esbjerg - Ringkøbing
+DNK MREsb VesVedVej_E Nor_S #   Ribe - Ringkøbing
 #kolding
 DNK MR BojFynFry KolVej_Ves #   Fynshav - Vester Nebel
-DNK MR EgtVej BogVej_W #        Egtved
-DNK MR KolVej_Bil PR28/30 #     Billund
+DNK MR Har SdrRingVej_E #       Vester Nebel - Give
 DNK MR SR569_Fje SleVej_N #     Fjerritslev
 #Nykøbing Falster
 DNK MRNyk E55 EnhVej #          Nykøbing - Frejlev skov
@@ -55,14 +52,14 @@ DNK O3Hel E47 SR237 #       O3  Helsingør N
 DNK PR6 E20/E47 E47/E55 #   6   Køge bugt - Helsingør     
 DNK PR16Cop O2_Cop HunFry # 16  Hundested - Kbh           +
 DNK PR19 1 PR16 #           19  Kbh - Hillerød            +
-DNK PR53 PR16 ElmVej #      53  Hillerød - Lyngerup       --
-DNK PR53 OnsVej PR21 #      53  Onsved - Holbæk           --
+DNK PR53 PR16 ElmVej #      53  Hillerød - Lyngerup       
+DNK PR53 OnsVej PR21 #      -53 Onsved - Holbæk           
 #SR
 DNK SR152 O2 E47/E55 #      152 Strandvejen Kbh - Hel     +
 DNK SR201 PR19 O2 #         201 Kbh - Hillerød            +
 DNK SR205 O3 PR16 #         205 Helsingør - Frederiksværk +
-DNK SR207 SR201 PR53_W #    207 Birkerød - Frederikssund  -2
-DNK SR207 MR_S KulSolFry #  207 Jægerspris - Kulhuse      -2
+DNK SR207 SR201 PR53_W #    207 Birkerød - Frederikssund  
+DNK SR207 MR_S KulSolFry #  -207Jægerspris - Kulhuse      
 DNK SR207Lyn KulSolFry PR16 #207Sølager - Amagerhuse      +
 DNK SR211 O2 PR16_N #       211 Kbh - Frederiksværk       +
 DNK SR213 SR152 SR237 #     213 Espergærde - Ålsgårde     +
@@ -85,27 +82,27 @@ DNK PR9Nyk SpoTarsFry VesVej #9 Tårs - Nykøbing F.
 DNK PR14 PR54/O2 O2 #       14  Næstved - Ringsted        +
 DNK PR17 E47/E55 3 #        17  Jyllingevej - Smørum      +
 DNK PR21 O2 OddEbeFry #     21  Kbh - Sjællands Odde      +
-DNK PR22 E20 SR150 #        22  Slagelse                  --
-DNK PR22 SR219 PR23_E #     22  Ugerløse - Kalundborg     --
+DNK PR22 E20 SR150 #        22  Slagelse                  
+DNK PR22 SR219 PR23_E #     -22 Ugerløse - Kalundborg     
 DNK PR23 PR21 PR22_S #      23  Holbæk - Kalundborg       
 DNK PR54 E47/E55 PR14 #     54  Næstved                   
 DNK PR57 E20 PR21 #         57  Sorø - Holbæk             
 DNK PR59 E47/E55 SR287_N #  59  Møn                       +
 #SR
-DNK SR150 PR14_N MR_Sor #   150 Ringsted - Sorø           --
-DNK SR150 E20(38) E20(40b) #150 Slagelse                  --
+DNK SR150 PR14_N MR_Sor #   150 Ringsted - Sorø           
+DNK SR150 E20(38) E20(40b) #-150Slagelse                  
 DNK SR151 O2 SR209/261 #    151 Kbh - Køge                
 DNK SR153 HavGade_S E47(50) #153Rødby                     
 DNK SR154 E47/E55 RadVej_E #154 Faxe                      
-DNK SR155 PR14 PR21(14) #   155 Roskilde                  --
-DNK SR155 OreVej PR21(15) # 155 Lejre                     --
-DNK SR155 ToPR53 PR23(1) #  155 PR57(kørt forkert)        --
-DNK SR155 SR225 PR23_W #    155 Kalundborg                --
+DNK SR155 PR14 PR21(14) #   155 Roskilde                  
+DNK SR155 OreVej PR21(15) # -155Lejre                     
+DNK SR155 ToPR53 PR23(1) #  -155PR57(kørt forkert)        
+DNK SR155 SR225 PR23_W #    -155Kalundborg                
 DNK SR156 O2 PR6 #          156 Kbh - Roskilde            +
 DNK SR209 TingVej SR151 #   209 Hårlev - Køge             
 DNK SR219 TisVej PR22 #     219 Tissø - Ugerløse          +
-DNK SR225 SR155 RorFry #    225 Kalundborg - Rørvig       --
-DNK SR225 KatVej CemVej #   225 Tissø - PR23              --
+DNK SR225 SR155 RorFry #    225 Kalundborg - Rørvig       
+DNK SR225 KatVej CemVej #   -225Tissø - PR23              
 DNK SR243 SR151 O4 #        243 Ishøj                     
 DNK SR255 MR_E PR57_S #     255 Lejre - Stenlille
 DNK SR261 SR151 HavPla #    261 Køge - Rødvig
@@ -114,15 +111,14 @@ DNK SR275 HavGade_S E47 #   275 Rødby
 DNK SR287 PR59_W SteVej #   287 Møn                       
 
 #Fyn
-DNK O1Ode NybVej SR303_S #  O1  Odense C    --
-DNK O1Ode SR303_N KocGade_E #O1 Odense C    --
-DNK O2Ode PR9_W SR161 #     O2  Odense S    -2
-DNK O2Ode SR303 SR165 #     O2  Odense N    -2
+DNK O1Ode NybVej SR303_S #  O1  Odense C    
+DNK O1Ode SR303_N KocGade_E #O1 Odense C    
+DNK O2Ode PR9_W PR9_E #     O2  Odense    
 DNK O3Ode NieBohAlle BreVej #O3 Odense Ø                  
 #PR
 DNK PR8Faa E20 MR_W #       8   Nyborg - Horne            
-DNK PR9 O2 MR_Vin #         9   Odense - Tåsinge          --
-DNK PR9 MR_Lun SpoTarsFry # 9   Lundby - Spodsbjerg       --
+DNK PR9 O2 MR_Vin #         9   Odense - Tåsinge          
+DNK PR9 MR_Lun SpoTarsFry # -9  Lundby - Spodsbjerg       
 DNK PR43 PR9 PR8/44 #       43  Odense - Faaborg          +
 DNK PR44 PR9 PR8/43 #       44  Svendborg - Faaborg       +
 #SR
@@ -131,14 +127,15 @@ DNK SR161 O2 SR170 #        161 Odense - Kolding          +
 DNK SR163 E20 PR9/44 #      163 Nyborg - Svendborg        +
 DNK SR165 MR_W O2 #         165 Munkebo - Odense
 DNK SR167 MR_S SR163_E #    167 Kværndrup - Svendborg     
-DNK SR168 O2 E20 #          168 Odense                    --
-DNK SR168 DoleVej SR329_N # 168 Glamsbjerg                --
+DNK SR168 O2 SR307/313 #    168 Odense - Assens           +
 DNK SR301 MR_W PR9 #        301 Tietgenbyen
-DNK SR303 O2 SR335 #        303 Odense - Morud
+DNK SR303 O1 SR335 #        303 Odense - Morud
+DNK SR307 SR161 SR168/323 # 307 Vissenbjerg - Assens      +
+DNK SR311 SR317/329 FugBak #311 Bogense
 DNK SR313 E20 SR168/323 #   313 Nørre Aaby - Assens       +
-DNK SR323 SR329_S SR168/307 #323Haarby - Assens           
-DNK SR329 PR8 SR161 #       329 Faaborg - Aarup           
-DNK SR335 PR8 SR303 #       335 Svendborg - Morud   
+DNK SR323 PR9 SR168/307 #   323 Ringe - Assens           
+DNK SR329 PR8 SR311 #       329 Faaborg - Bogense         +           
+DNK SR335 PR8 SR311 #       335 Svendborg - Søndersø      +   
 
 #Jylland
 #Sønderjylland
@@ -146,44 +143,44 @@ DNK OHad SR170_N PR47 #     O   Haderslev                 +
 DNK OKol SR191_W SR191 #    O   Kolding                   +
 #PR
 DNK PR8 EllVej SR175/179 #  8   Sønderborg - Gejlå
-DNK PR24 PR32 PR25/47 #     24  Ribe - Gabøl              --
-DNK PR24 SR403 PR42 #       24  Over Jerstal - Aabenraa   --
-DNK PR25 SR401_E PR24/47 #  25  Løgumkloster - Gabøl      -2
-DNK PR25 RodVej SR469 #     25  Nustrup - Vamdrup         -2
-DNK PR25 E45 SR170 #        25  Kolding S                 -2
-DNK PR32 SR403 SR417 #      32  Vejen - Foldingbro
+DNK PR24 E20 PR42 #         24  Esbjerg - Aabenraa        +
+DNK PR25 SR401_E SR170 #    25  Løgumkloster - Kolding
+DNK PR32 E45 PR11/24 #      32  Lunderskov - Ribe         +
 DNK PR41 E45 PR8 #          41  Aabenraa - Sønderborg     +
 DNK PR42 PR24 E45 #         42  Aabenraa - E45            
 DNK PR47 PR24/25 SR170 #    47  Gabøl - Haderslev         +
 #SR
 DNK SR170 PR28_E DNK/DEU #  170 Vejle - Tyskland       
 DNK SR175 PR25 SR419 #      175 Toftlund - Skærbæk
+DNK SR179 SR435 PR24 #      175 Agerskov - Ribe
 DNK SR179 KasVej SR429 #    179 Paintball - Hellevad      
-DNK SR191 SR170 VejVej_N #  191 Kolding                   --
-DNK SR191 E20(76) StrKirVej #191Esbjerg                   --
-DNK SR401 PR8(11) E45 #     401 Dybbøl - Kruså            -2
-DNK SR401 SR429_E PR25_N #  401 Løgumkloster              -2
+DNK SR191 SR170 SR463 #     191 Kolding - Esbjerg
+DNK SR191 E20(76) StrKirVej #-191Esbjerg                   
+DNK SR401 PR8(11) E45 #     401 Dybbøl - Kruså            
+DNK SR401 SR429_E PR25_N #  -401Løgumkloster              
 DNK SR403 E20 PR24 #        403 Vejen - Over Jerstal      +  
 DNK SR405 NorVej OksVej #   405 Nordals
 DNK SR429 MR_Log PR24 #     429 Løgumkloster - Rødekro        
-DNK SR435 SR170 RanVej #    435 Haderslev - Agerskov      
-DNK SR437 KonVej HarByVej # 437 Rødding - Harreby         
+DNK SR435 SR170 SR175/179 # 435 Haderslev - Agerskov      
+DNK SR437 SR403 PR11/24 #   437 Jels - Ribe               +
 DNK SR443 PR24 SR170 #      443 Aabenraa                  
-DNK SR449 PR24_W HauVej #   449 Gram - Rødding            
+DNK SR449 PR24_W PR32 #     449 Gram - Brørup            
 DNK SR481 SR401 MR_N #      481 Dybbøl - Kliplev
 #Rest Jylland
-DNK HerMot EdwRahVej 26 #       Aarhus - Silkeborg        --
-DNK HerMot MidMot SR195_W #     Herning                   --
+DNK MidMot OstMot HerMot #      Vejle - Herning
+DNK HerMot EdwRahVej 26 #       Aarhus - Silkeborg        
+DNK HerMot MidMot SR195_W # -   Herning                   
 DNK OHer SR195_E SR195 #    O   Herning                   +
 DNK O1Aar SkaVej MR_S #     O1  Aarhus
 #PR
-DNK PR11 OstGade PR29_S #   11  Fjerritslev               --
-DNK PR11 MulByv PR28_E #    11  Spjald - Tarm             --
-DNK PR11 PR12_S E20 #       11  Varde - Esbjerg           --
-DNK PR15 SR587 26 #         15  Hornslet - Silkeborg      -2
-DNK PR15 PR18_N SR181 #     15  Herning - Søndervig       -2
-DNK PR16 SR563 E45(40) #    16  Auning - Randers          3-
-DNK PR16 PR28_N PR15 #      16  Nissum Fjord - Ringkøbing 3-
+DNK PR11 OstGade PR29_S #   11  Fjerritslev               
+DNK PR11 MulByv PR28_E #    -11 Spjald - Tarm             
+DNK PR11 PR12_S E20 #       -11 Varde - Esbjerg           
+DNK PR11 PR32 LunVej #      -11 Ribe                      
+DNK PR15 SR587 26 #         15  Hornslet - Silkeborg      
+DNK PR15 PR18_N SR181 #     -15 Herning - Søndervig       
+DNK PR16 SR563 E45(40) #    16  Auning - Randers          
+DNK PR16 PR28_N PR15 #      -16 Nissum Fjord - Ringkøbing 
 DNK PR18 8 PR15_E #         18  Give - Herning
 DNK PR28 E45 PR11_N #       28  Vejle - Skjern
 DNK PR29 E45 PR11_N #       29  E45 - Fjerritslev
@@ -191,18 +188,19 @@ DNK PR30 SR176 8(18) #      30  Give
 #SR
 DNK SR176 SR170 PR18 #      176 Kolding - Give
 DNK SR181 SR431_E BejVej #  181 Varde - Nissum Fjord
-DNK SR195 SR180/O2 HerMot_E #195Aarhus                  --
-DNK SR195 AskVej BogVej #   195 Silkeborg               --
-DNK SR195 HerMot_W FreGade #195 Herning                 --
-DNK SR417 StuVej AsboVej #  417 Billund - Bække
+DNK SR195 SR180/O2 HerMot_E #195Aarhus                  
+DNK SR195 AskVej BogVej #   -195Silkeborg               
+DNK SR195 HerMot_W FreGade #-195Herning                 
+DNK SR417 VesGade PR32 #    417 Egtved - Brørup
 DNK SR425 HedVej PR28/30 #  425 Holsted - Billund
 DNK SR431 SR475 SR181_N #   431 Varde
 DNK SR445 SR461_N E45 #     445 Himmelbjerget - Skanderborg
 DNK SR455 SR445 MR_W #      455 Ry
 DNK SR461 SR445_E Tal #     461 Himmelbjerget
-DNK SR463 E20 SR431 #       463 Esbjerg - Oksbøl
+DNK SR463 SR191 SR431 #     463 Esbjerg - Oksbøl
 DNK SR469 SR417 PR25 #      469 Bække - Vamdrup
 DNK SR475 RibeVej SR431 #   475 Varde
+DNK SR487 PR18 RinVej #     487 Give
 DNK SR501 E45 3 #           501 Aarhus                  +
 DNK SR547 StrVej PR16_W #   547 Fjellerup - Allingåbro
 DNK SR563 PR15 PR16 #       563 Hornslet - Auning
