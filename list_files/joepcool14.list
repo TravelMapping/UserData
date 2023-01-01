@@ -45,7 +45,7 @@ FL US27 GriRd I-75(23)		#10/7/22
 IL I-39 104 IL/WI				#9/12/22
 IL I-41 WI/IL 1B
 IL I-55 165 277B				#7/15/22
-IL I-55 292 293D
+IL I-55 292 US41				#12/14/22
 IL I-57 349 358					#11/29/22
 IL I-80 IA/IL 4
 IL I-80 137 155					#8/11/22
@@ -63,6 +63,7 @@ IL US14 IL176 IL68				#9/25/22
 IL US14 IL43/58 IL43_S
 IL US20 IA/IL IL23				#10/2/22
 IL US20 IL47_N US12/45			#8/18/22
+IL US41 YatBlvd I-55			#12/14/22
 IL US41 RanSt LakShoDr_N
 IL US41 US14 IL/WI
 IL US45 US20_W IL/WI			#10/2/22
@@ -82,6 +83,7 @@ IL IL58 IL25 US41				#9/8/22
 IL IL59 I-90 US12_W				#9/25/22
 IL IL60 IL120 US41				#8/30/22
 IL IL62 IL25 IL59/68			#9/9/22
+IL IL62 RosRd IL83				#12/30/22
 IL IL64 IA/IL IL84_S
 IL IL64 I-39 IL59				#9/12/22
 IL IL68 IL72 I-94				#8/18/22
@@ -288,6 +290,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 12/30/22 - Added segments for IL-62
 # 12/10/22 - Clinched I-88 (IL), added several segments in IL and WI
 # 11/29/22 - Added segment of WI-32 in Port Washington, I-94 on south side of Chicago, I-57 segments
 # 11/21/22 - Fixed Baraboo segment of WI-113
