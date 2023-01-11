@@ -1,3 +1,21 @@
+VA VA247 VA165 I-64  #Airport to Mom's House 01042023
+VA US460 VA337_N US60  #Includes previous trips to Norfolk and visiting Natalie
+VA VA173 End US60  # Travel on 01052023 while visiting mom
+VA VA173 US17 DanLoopRd
+VA VA171 VA134 End
+VA VA172 YorRd BigBetRd
+VA VA30 I-64(231) US60  # Travel on 01062023 while visiting mom
+VA VA321 SR613 ComDr
+VA VA162 2ndSt VA143
+VA VA132 VA143 VA5_N
+VA VA132 VA5_S VA199
+VA VA132WyeWil VA132 ColPkwy
+VA VA238 VA143 BalSt_W
+VA VA312 US17 US60
+VA I-64 296 284  #Visit Natalie for Dinner at Wasserhund Brewing 01072023
+VA VA168BusChe VA168_N VolPkwy
+VA I-264 14 I-64/664
+TN TN126 CooValRd TN93_N  # Drive back from TRI to Scott County 01082023
 FL FL77 CR279 I-10  #Trip to Tallahassee for Trader Joe  12312022
 FL I-10 120 174
 FL US319 FL160 US27
@@ -508,7 +526,7 @@ KS US160 KS15_S US81_N
 KS US81 US160_E I-135(1B)
 KS US50 I-35(133) KS14/96_S  #02232020  Trip to Ark Valley for FW
 KS KS254 I-135 US54/77  #07052020  Butler FW
-KS US77TrkE1D US77_S US77_N
+KS US77TrkElD US77_S US77_N
 KS US54 US54Trk_E US77_N
 KS US400 US281 I-35(53A)  #11302020  Trip to Ninnescah FW
 KS KS61 US54/400 I-135
@@ -523,7 +541,7 @@ KS KS99 US24 I-70
 KS US56 KS177_S KS/MO  #Trip to SW Electric FW  #02282021 and Return Trip
 KS US50 KS14/96_S US56_E
 KS US56 US50_E OK/KS
-KS KS51 WasStUS56_E
+KS KS51 WasSt US56_E
 KS US54 OK/KS I-235
 KS I-235 7 16
 KS US54 US54Trk_E US75
@@ -562,6 +580,49 @@ KS US160 KS1 I-35
 KS KS156 US283 KS4  #SW and Colorado FW Trip 03202022
 KS KS156 KS140 I-70
 KS US283 KS156 US50/56
+VA I-395 VA/DC 1  # Visit with Mom and Dad on 01122017 visit in DC
+VA I-95 VA/DC 84
+VA US17 US360_E VA216
+VA US360 US17_N VA3Bus_W
+VA VA3BusWar US360_W VA3_W
+VA VA3 VA3BusWar VA204
+VA VA204 VA3 End
+VA VA3VA3BusWar VA33_W
+VA VA33 VA3_W US17_N
+VA US11 I-81(162) VA43_S  #Travel to Highland Tel 03072017
+VA VA43Buc US11_S BlueRidPkwy
+VA BlueRidPkwy VA43 US501
+VA US501 BlueRidPkwy US60 
+VA US60 US501 I-81 
+VA VA262 I-64/81 US250
+VA US250 VA262 WV/VA  # includes known trips to/from Highland
+VA US220 VA84 VA/WV
+VA US240 VA7 VA/WV  #04122017  Travel to Highland Board Meeting 
+VA VA7 US340 I-81
+VA I-81 315 221  #includes known travels to Highland and Spruce
+VA US11 BelGroRd I-81(298)
+VA I-66 VA/DC 1  #includes know travels to DC and I-81
+VA US340 I-66 SkyDr
+VA SkyDr US340 US33
+VA US33 SkyDr VA/WV  #includes multilple trips to Spruce from I-81
+VA VA276 US33 VA253
+VA VA257 I-81 VA42_S
+VA VA42 JenGapRd VA257_E
+VA VA16 NC/VA I-81  #Skyline Trip 05012017
+VA I-495 VA/DC MD/VA  #includes numerous trips to DC  Part of 07102017 CFC Meeting
+VA VA28 SR846 VA7
+VA VA7 US15/7Bus VA28 
+VA US15 VA7_E VA/MD
+VA VA70 TN/VA US58  #SCTC Board Meeting 07172017
+VA US23 US58/421_W VA/KY  # SCTC Meeting then to EKN for Proposal 07242017
+
+
+
+
+
+
+
+ 
   
 
 
