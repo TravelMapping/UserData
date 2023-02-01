@@ -505,9 +505,20 @@ ID ID36 US91_N ID34_N
 ID ID38 MainSt I-15
 ID ID47 US20 SnoPark
 
-#*****FINISHED TO HERE*************************************
 #Louisana
 #I10 see TX
+#US90 see TX
+
+#Maine
+#I-95 see NH
+ME I-295 I-95(44) 28
+ME I-395 1 6
+
+ME US1 I-295(28) ME3_E
+ME US1AltBan I-395(6) US1_E
+
+ME ME3 US1_N MainSt
+ME ME35 I-95_N ME9
 
 #Maryland
 MD I-70 53 94
@@ -523,9 +534,7 @@ MD I-695 33 44
 MD I-895 I-95 15
 MD I-97 7 15
 
-#Maine
-#I-95 see HH
-ME I-295 I-95(44) 28
+#*****FINISHED TO HERE*************************************
 
 #Mass
 MA I-93 1 NH I-93 32
@@ -544,7 +553,7 @@ MT WEntRd WY WEntRd GraLoopRd
 NH I-89 1 VT I-89 10
 #I-93 see MA
 NH I-293 I-93_S I-93_N
-NH I-95 2 ME I-95 44
+NH I-95 2 ME I-95 182
 
 #New Jersey
 #I-76 see PA
@@ -640,11 +649,12 @@ PA I-295 I-95/276 5
 
 #Texas
 #TX I-10 see NM
-TX I-10 743 LA I-10 25
+TX I-10 743 LA I-10 4
 TX I-110 MEX/USA I-10
 TX I-610 TX288 38
 TX I-45 1A 66A
 
+TX US90 I-10(743) LA US90 LA109/3112
 #Utah
 #I-15-80 see CA
 UT I-15BLBea I-15_S I-15_N
