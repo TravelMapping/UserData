@@ -699,19 +699,28 @@ NV NV856 NV396 I-80
 NV NV877 US395Alt_S US395Alt_N
 NV NV880 MalWay NV445
 
-
 NV DayPassRd CA/NV NV374
 NV EntRd NV488 VisCen
 
-#*****FINISHED TO HERE*************************************
 #New Hampshire
 NH I-89 1 VT I-89 10
 #I-93 see MA
 NH I-293 I-93_S I-93_N
-NH I-95 2 ME I-95 182
+NH I-95 5 ME I-95 182
 
+NH US1 NH101 US1Byp_S
+NH US1BypPor US1_S US4
 #US3 South see MA
+NH US3 RayWieDr I-93(13)
+NH US3 I-93(20) I-93(24)
 
+NH NH101 3(293) US1
+NH NH112 I-93 CLGraWan
+
+NH CirHwy US3 NH3A
+NH EveTpk MA/NH 13(93)
+
+#*****FINISHED TO HERE*************************************
 #New Jersey
 #I-76 see PA
 #I-95 see PA
