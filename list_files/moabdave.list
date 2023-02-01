@@ -549,16 +549,22 @@ MA I-95 26 55
 MA US3 MA3 NH US3 I-93(24)
 MA MA3 US3 MA28_S
 
-#*****FINISHED TO HERE*************************************
 #Montana
 #I-15 see CA
 #I-90 see WA
 
+MT US2 US93Alt GoiSunRd
 #US12 see ID
 #US20 see ID
-MT US93 US12_W US12_E
-MT WEntRd WY WEntRd GraLoopRd
+MT US93 US12_W US2
+MT US93AltKal US93_S 4
 
+MT MT1 I-90(208) I-90(153)
+
+MT WEntRd WY WEntRd GraLoopRd
+MT GoiSunRd US2 US89
+
+#*****FINISHED TO HERE*************************************
 #New Hampshire
 NH I-89 1 VT I-89 10
 #I-93 see MA
