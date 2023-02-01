@@ -735,12 +735,17 @@ NJ US9  NJ88 I-195
 NJ NJ29 I-195/295
 NJ NJ88 US9 NewHamAve
 
-#*****FINISHED TO HERE*************************************
 #New Mexico
-NM I-10 142 TX I-10 34
+NM I-10 139 TX I-10 34
+NM I-25 I-10 6
+#*****FINISHED TO HERE*************************************
 
 NM US491 US64_E UT US491 US191
-NM US550 US64_W CO US550 US50
+NM US550 US64_W CO US550 CR7900
+
+NM ChaLoopRd ChaCanRd ChaEntRd
+NM ChaEntRd ChaLoopRd_W CR7985
+
 
 #New york
 NY I-81 25A USA/CAN
