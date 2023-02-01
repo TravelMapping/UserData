@@ -720,7 +720,6 @@ NH NH112 I-93 CLGraWan
 NH CirHwy US3 NH3A
 NH EveTpk MA/NH 13(93)
 
-#*****FINISHED TO HERE*************************************
 #New Jersey
 #I-76 see PA
 #I-95 see PA
@@ -730,6 +729,13 @@ NJ I-195 1A 28
 #I676 see PA
 NJ NJTpk I-295(1) 13
 
+#US1 See PA
+NJ US9  NJ88 I-195
+
+NJ NJ29 I-195/295
+NJ NJ88 US9 NewHamAve
+
+#*****FINISHED TO HERE*************************************
 #New Mexico
 NM I-10 142 TX I-10 34
 
@@ -778,6 +784,8 @@ PA I-676 I-76 NJ I-676 5
 PA I-81 70 124
 PA I-95 12 NJ I-95 13
 PA I-295 I-95/276 5
+
+PA US1 PA611 NJ US1 NJ29
 
 #Texas
 #TX I-10 see NM
