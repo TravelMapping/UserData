@@ -2,6 +2,7 @@
 #User - Moabdave
 
 #Inactive
+#ARG
 #Bah
 #BVI
 #Cayman
@@ -11,25 +12,25 @@
 #Nicaragua
 #Peru
 #Qatar
+#Saudi
 
-#Argentina ***** Inactive
+#Argentina
 ARG RN8 RN9 SanMar
 
 #Australia 
-#Ausm 
+
 AUS-VIC M1 W4 C422
 AUS-VIC M2 1 19
 AUS-VIC M420 SybAve B420/B460
-#ausvicb 
+
 AUS-VIC B420 M420 C478
-#ausvicc
+
 AUS-VIC C419 C422 M420
 AUS-VIC C421 C419_N C423
 AUS-VIC C422 C419 M1
 AUS-VIC C478 B420 C473
 AUS-VIC C473 C478 TheBlvd
 
-#************RECHECK
 #Bahrain
 BHR M80 SAAKAve BHR/SAU
 
@@ -55,7 +56,6 @@ BC YT2 AK/BC BC/YT
 YT YT2 BC/YT CarRd
 
 #Chile
-#**********RECHECK
 CHL R21CH R25 CenRadTom
 CHL R23CH R25 B241
 CHL R25 AerLoa R21CH
@@ -70,7 +70,6 @@ CHL TunSanCri R70 AvKen
 #Estonia
 EST T1 EST/RUS T91_E
 
-#*********RECHECK
 #France
 FRA-CVL A10 20 21
 FRA-CVL D801-37 A10 D938
@@ -124,12 +123,9 @@ RUS A118 A180 ZSD_S
 RUS A180 RUS/EST A118
 
 RUS M8 MKAD UliKal
-RUS M10 A118 UliSanPet
-RUS M10 KhrUli RabUli
-RUS M10 PetSho_S MKAD
-RUS M11 Oku M10_Kol
+RUS M10 MKAD A118
 
-#Saudi Arabia *** Inactive
+#Saudi Arabia
 SAU M5 M80_E M25
 SAU M80 BHR/SAU M5_N
 
@@ -827,7 +823,7 @@ NM NM516 MainSt US550
 NM ChaLoopRd ChaCanRd ChaEntRd
 NM ChaEntRd ChaLoopRd_W CR7985
 
-#New york -RECHECK *****
+#New york
 NY I-81 25A USA/CAN
 NY I-87 23(NYST) 24(NYST)
 NY I-90 53(NYST) 6A
@@ -860,7 +856,7 @@ NC I-95 180 DE I-95 5C
 
 NC US29 JoshBirPkwy MulChuRd
 
-#Ohio -Recheck*****
+#Ohio
 OH I-71 239 I-90
 OH I-271 27B 34
 OH I-77 161B I-90
