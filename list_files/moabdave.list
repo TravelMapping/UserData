@@ -827,8 +827,7 @@ NM NM516 MainSt US550
 NM ChaLoopRd ChaCanRd ChaEntRd
 NM ChaEntRd ChaLoopRd_W CR7985
 
-
-#New york
+#New york -RECHECK *****
 NY I-81 25A USA/CAN
 NY I-87 23(NYST) 24(NYST)
 NY I-90 53(NYST) 6A
@@ -861,12 +860,22 @@ NC I-95 180 DE I-95 5C
 
 NC US29 JoshBirPkwy MulChuRd
 
-#Ohio
+#Ohio -Recheck*****
 OH I-71 239 I-90
 OH I-271 27B 34
 OH I-77 161B I-90
 OH I-480 10 26
 OH I-90 170B 175
+
+OH US6 192(2) PubSqu
+OH US6AltRoc 45thSt US6_E
+OH US20 LakeAve 14thSt
+OH US42  I-71(245A) PubSqu
+OH US322 TayRd I-271
+OH US422 OH10_W PubSqu
+
+OH OH2 LakeAve 175(90)
+OH OH237 RocRivDr OH17
 #*****FINISHED TO HERE*************************************
 
 #Oregon
