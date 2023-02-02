@@ -1,6 +1,17 @@
 #travmap@teresco.org
 #User - Moabdave
 
+#Inactive
+#Bah
+#BVI
+#Cayman
+#Colombia 
+#Dominican Republic
+#Ecuador
+#Nicaragua
+#Peru
+#Qatar
+
 #Argentina - Inactive
 ARG RN8 RN9 SanMar
 
@@ -18,6 +29,10 @@ AUS-VIC C421 C419_N C423
 AUS-VIC C422 C419 M1
 AUS-VIC C478 B420 C473
 AUS-VIC C473 C478 TheBlvd
+
+#************RECHECK
+#Bahrain
+M80 SAAKAve BHR/SAU
 
 #Canada
 #*********************RECHECK
@@ -53,10 +68,7 @@ CHL AccVialAMB CosNor TerCarInt
 CHL CosNor 11 31
 CHL TunSanCri R70 AvKen
 
-#Ecuador - not active
-
 #Estonia
-#estp
 EST T1 EST/RUS T91_E
 
 #*********RECHECK
@@ -66,6 +78,9 @@ FRA-IDF A86 10 12
 FRA-IDF A1 1 AerChaGau
 
 FRA-IDF BP N13 A1
+
+#Jamaica
+JAM A1 B15_E QueCreDr
 
 #Mexico
 #Baja California
@@ -103,8 +118,6 @@ NLD A4 A10 2
 NLD S100Ams ZeeDijk Dro
 NLD S112Ams S100 A10
 
-#Nicaragua - Not Active
-
 #************RECHECK
 #Russia
 RUS A118 A180 ZSD_S
@@ -115,6 +128,11 @@ RUS M10 A118 UliSanPet
 RUS M10 KhrUli RabUli
 RUS M10 PetSho_S MKAD
 RUS M11 Oku M10_Kol
+
+#***********RECHECK
+#Saudi Arabia
+SAU M5 M80_E M25
+SAU M80 BHR/SAU M5_N
 
 #************RECHECK
 #Sweden
@@ -136,7 +154,6 @@ SCT M8 1 3
 SCT A8Edi B700 M9
 
 #USA 
-
 #Alaska
 AK I-A1 5thAve_W AK3_N
 AK I-A3 5thAve PorGlaRd
@@ -934,3 +951,7 @@ WI I-39 153 187
 WY I-80BLEva I-80_W I-80_E
 
 WY GraLoopRd OldFaiRd WEntRd
+
+#US Virgin Islands
+VI VI30 SubBaseRd VI313
+VI VI313 VI30 VI138
