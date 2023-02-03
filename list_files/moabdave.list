@@ -1187,7 +1187,6 @@ UT DelArchRd MainParkRd CacValRd
 UT IslSkySceDr UT313 End
 UT MainParkRd US191 DevGarCam
 UT NeeSceDr UT211 End
-#*****FINISHED TO HERE*************************************
 
 #Virginia
 WV I-64 48(77) VA I-64 124
@@ -1205,6 +1204,8 @@ VA US50 LynnSt MD US50 MD201
 
 #Vermont
 #I-89 see NH
+VT100 US2_E VT108
+#*****FINISHED TO HERE*************************************
 
 #West Virginia
 #i-64 see VA
