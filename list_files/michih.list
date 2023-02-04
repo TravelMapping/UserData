@@ -1,4 +1,4 @@
-# Date: 2023-01-21
+# Date: 2023-02-03
 # ----------------
 
 
@@ -1561,10 +1561,8 @@ DEU-BW L1200 L1016 B466
 DEU-BW L1200a A8 AllStr
 DEU-BW L1201 L1199 L1200
 DEU-BW L1202 L1192/L1200 L1205
-DEU-BW L1204 K1269 L1209
-DEU-BW L1204 L1202_N L1192
-DEU-BW L1205 A831 L1204_E
-DEU-BW L1205 B312_N B313
+DEU-BW L1204 L1192/L1205 L1192_E
+DEU-BW L1205 A831 B313
 DEU-BW L1205Moh B27 L1205
 DEU-BW L1207 B313 L1200
 DEU-BW L1208 B27_N B27_S
@@ -7729,6 +7727,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
+#DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
 
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
