@@ -66,11 +66,18 @@ CA I-505 1A I-5
 #California I-580
 CA I-580 1A I-5
 
+#California I-605
+CA I-605 27 19
+CA I-605 7A 1A
+
 #California I-680
 CA I-680 30 71
 
 #California I-710
 CA I-710 1B 9
+
+#California I-805
+CA I-805 I-5(31) 17B
 
 #California I-880
 CA I-880 7 I-280
@@ -276,30 +283,34 @@ CA US66HisHol WilBlvd SanVinBlvd
 CA US66HisHol SunBlvd_W FigSt
 CA US66HisHol SprSt DalySt
 
-#California US-101
+#California US-101:
 CA US101 WilCrkRd CA60
 
-#California US-101 Bus Arroyo Grande Section
+#California US-101 Bus Arroyo Grande Section:
 CA US101BusArr CA227_N US101_S
 
-#California US-101 Bus Salinas Section
+#California US-101 Bus Salinas Section:
 CA US101BusSal US101/183 US101_S
 
-#California US-101 Bus Paso Robles Section
+#California US-101 Bus Paso Robles Section:
 CA US101BusPas CRG14 US101_S
 
-#California US-395 South Section
+#California US-101 Historic San Diego Section:
+CA US101HisSan I-5(54C) NauSt
+CA US101HisSan SeaWorDr I-5(11A)
+
+#California US-395 South Section:
 CA US395 CA108 CA168_W
 CA US395 GarRd SeaStaRd
 
-#DC US-1
+#DC US-1:
 DC US1 US50_W VA/DC
 
-#DC US-50
+#DC US-50:
 DC US50 VA/DC ConAve
 DC US50 DC/MD US1Alt_N
 
-#Georgia US-23
+#Georgia US-23:
 GA US23 I-985(8) I-985(4)
 
 #Georgia US-29
@@ -365,7 +376,7 @@ CA CA1 LitLakeRd CA128
 CA CA1 OldStaHwy ValRd
 CA CA1 226 62B(101)
 CA CA1 109 1(10)
-CA CA1 ElSegBlvd VenBlvd
+CA CA1 VenBlvd ManBeaBlvd
 CA CA1 CreBlvd I-110
 CA CA1 SealBeaBlvd DohParkRd
 
@@ -408,7 +419,7 @@ CA CA12 CA88_W CA88_E
 CA CA13 ClaAve 1A
 
 #CA-14: 
-CA CA14 I-5_S 42
+CA CA14 I-5 42
 CA CA14 CA58 RedRanRd
 
 #CA-16 Sierra Foothills Section:
@@ -503,6 +514,9 @@ CA CA57 16 21
 CA CA58 US101 ElCamReal
 CA CA58 CA99(24) I-15
 
+#CA-58 Westside Section:
+CA CA58Wes I-5(253) StoHwy_E
+
 #CA-59:
 CA CA59 CA99(187B) CA99(188)
 
@@ -528,7 +542,7 @@ CA CA66 CA210 MonVisAve
 CA CA68 SinAve US101
 
 #CA-70:
-CA CA70 CA99 RockCrkCamp
+CA CA70 CA99 RocCamp
 
 #CA70 Bus Oroville:
 CA CA70BusOro CA70(46) CA162_E
@@ -581,8 +595,14 @@ CA CA90 CA1 2
 #CA-90 Yorba Linda Section:
 CA CA90Yor KraBlvd CA39
 
+#CA-91:
+CA CA91 6 24
+
 #CA-92:
 CA CA92 CA1 End
+
+#CA-94:
+CA CA94 3 CA188
 
 #CA-99:
 CA CA99 CA20 CA113
@@ -594,7 +614,7 @@ CA CA99 242 I-5(221)
 CA CA108 CA120_W US395
 
 #CA-110:
-CA CA110 21 26
+CA CA110 21 31B
 
 #CA-111:
 CA CA111pal PalmSprLim CA111Bus_N
@@ -607,7 +627,8 @@ CA CA113 I-80(66A) I-80(70)
 CA CA113 I-5(538) CA99
 
 #CA-116:
-CA CA116 RivRd LakHwy_S
+CA CA116 RivRd_E CA12
+CA CA116 LakRd_S ArnDr_N
 
 #CA-120 Central Section:
 CA CA120 1 YosNP
@@ -620,7 +641,7 @@ CA CA121 NapaRd TraSt
 CA CA121 CA12_W CA37
 
 #CA-123:
-CA CA123 UniAve I-580
+CA CA123 SanPabAve_S UniAve
 
 #CA-124:
 CA CA124 CA88 CA16
@@ -726,6 +747,9 @@ CA CA183 CA1 US101Bus_S
 #CA-187:
 CA CA187 CA1 I-10
 
+#CA-188:
+CA CA188 CA94 MEX/USA
+
 #CA-190 Central Valley Section:
 CA CA190 CA65 QuaAspCamp
 
@@ -787,6 +811,9 @@ CA CA254 US101(674) US101(645)
 
 #CA-261:
 CA CA261 1 6B
+
+#CA-269:
+CA CA269 I-5 JayAve
 
 #CA-270:
 CA CA270 US395 End
