@@ -26,11 +26,13 @@ IA I-80 137 IA/IL
 IA I-380 65 MitAve
 IA US18 US52_S IA/WI
 IA US20 215 IA/IL
-IA US52 US18_E IA62		#5/13/22
+IA US52 US18_E IA62			#5/13/22
 IA US52 US67 IA/IL
 IA US151 77 IA/WI
-IA IA3 CRX3C NWArt		#5/13/22
-IA IA64 US61 IA/IL
+IA US151BusCas IA136_S US151_N		#02/11/23
+IA IA3 CRX3C NWArt			#5/13/22
+IA IA64 IA136_N IA/IL		#02/11/23
+IA IA136 IA64_E US20		#02/11/23
 
 ######
 # FL #
@@ -228,6 +230,7 @@ WI US45 IL/WI WI36/100		#10/8/22
 WI US45 60(43) 59(41)
 WI US45 95(41) 99(41)
 WI US51 US12/18 WI30		#11/21/22
+WI US51 IL/WI BroSt_W		#02/11/23
 WI US61 IA/WI WI60_E		#5/17/22
 WI US61 WI35_S WI33		#5/17/22
 WI US151 IA/WI 261(12)
@@ -303,6 +306,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 02/11/23 - Added segments: US-51, IA-64, IA-136, US-151 BUSN
 # 01/22/23 - Clinched WI-50, WI-158. Removed WI-32 segment for likely not being completed. Fixed US-31 in Michigan.
 # 01/21/23 - Fixed IL-21. Several segments and routes clinched.
 # 01/14/23 - Loves Park trip: Clinched IL-76, IL-120, added several other segments.
