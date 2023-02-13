@@ -98,8 +98,9 @@ IL IL62 RosRd IL83				#12/30/22
 IL IL64 IA/IL IL84_S
 IL IL64 I-39 IL59				#9/12/22
 IL IL68 IL72 I-94				#8/18/22		CLINCHED
-IL IL72 US20/47_E IL68			#8/18/22
+IL IL72 IL73 IL68				#02/12/23
 IL IL72 IL83_N IL171
+IL IL73 US52/64 IL/WI			#02/12/23		CLINCHED
 IL IL75 US51/251 IL/WI			#01/14/23
 IL IL76 US20Bus IL/WI			#01/14/23		CLINCHED
 IL IL78 US20_E IL/WI
@@ -306,6 +307,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 02/12/23 - Added segments for IL-72, clinched IL-73
 # 02/11/23 - Added segments: US-51, IA-64, IA-136, US-151 BUSN
 # 01/22/23 - Clinched WI-50, WI-158. Removed WI-32 segment for likely not being completed. Fixed US-31 in Michigan.
 # 01/21/23 - Fixed IL-21. Several segments and routes clinched.
