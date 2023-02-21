@@ -844,7 +844,7 @@ HRV A7 4 D8
 HRV A8 1 9
 HRV A9 2 10
 HRV D8 A8 D66
-HRV D30 A3 Air
+HRV D30 A3 D430
 HRV D42 A6 Z5034
 HRV D44 Z5209 Z5007
 HRV D66 D8 Z5053 # a little farther into Opatija, but not sure exactly where
@@ -861,6 +861,7 @@ HRV D231 Z3056 A3 # W endpoint really at Svetonedeljska cesta; fudging it slight
 HRV D302 VukSka_W A9
 HRV D303 Z5096 A8/A9
 HRV D400 D66/D75 43IstDiv
+HRV D430 D30 Air
 ISL TH1 TH49_N TH36
 ISL TH1 TH35 TH49_S
 ISL TH35 TH1 Gul
