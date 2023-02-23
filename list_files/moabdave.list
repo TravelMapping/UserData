@@ -914,7 +914,7 @@ OR US26 53 I-405(1C)
 OR US26 OR35 US97_S
 OR US30 US101 I-84(64)
 OR US30HisCas I-84(44) I-84(51)
-OR US30HisCol BriVeilRd MulFall
+OR US30HisCol BriVeilRd I-84(35)
 #OR US30Bus Saint Helens Not Active *************
 #US95 see NV
 #US97 see CA
