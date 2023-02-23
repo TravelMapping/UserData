@@ -362,21 +362,28 @@ OH OH531 OH11 LakeAve_N
 #Pennsylvania
 
 PA I-76 OH/PA 28
+PA I-376 77 85
 PA I-79 183 178
 PA I-79 77 72
 PA I-279 I-79 2A
 PA I-579 I-279 PA885
 PA I-90 PA/NY 32
 PA I-90 22 OH/PA
+PA I-99 28 71
 
 PA US20 PA5 OH/PA
+PA US22 I-376(77) I-99
+PA US322BusSta VaiBlvd ParkAve #actual end at Curtin Rd****
 
 PA PA5 PA/NY PA5AltEri_E
 PA PA5 StaSt PA832
 PA PA5 PA5AltEri_W US20
 PA PA5AltEri PA5_E PA5_W
+PA PA26 US322Bus UniDr #actual start at Burrowes***
 PA PA290 I-90 PA5_E
 PA PA290 StaSt I-79/5
 PA PA832 PreIsleSP PA5
 PA PA837 10thSt_B 18thSt #actual end at S 19th St***
+PA PA885 I-579 ForAve
+
 
