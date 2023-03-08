@@ -215,6 +215,28 @@ NIR B529 A2 B507
 # -- E-roads (segments not included in any other system) --
 NIR E18 A3 2(M12)
 
+# ===== FRANCE =====
+
+# === Ile-de-France
+# -- Autoroutes
+FRA-IDF A3 BlvdPer A86_S
+FRA-IDF A4 BlvdPer 14
+FRA-IDF A6a BlvdPer A6b
+FRA-IDF A6b 2 3
+FRA-IDF A86 A3_S 20
+FRA-IDF A106 4 A6a/A6b
+
+# -- Routes nationales --
+FRA-IDF N486 A86 A4
+
+# -- Routes departementales
+# - Seine-et-Marne
+FRA-IDF D344P-77 BlvdParc A4
+
+# -- Others --
+FRA-IDF BP A6a D7_W
+FRA-IDF BP N13 A4_N
+
 # ===== SPAIN =====
 
 # === Tenerife ===
