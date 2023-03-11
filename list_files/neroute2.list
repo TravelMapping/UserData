@@ -728,9 +728,8 @@ NC NC73 BufAve CorAve
 NC US601 SC/NC I-85(58)
 
 VA I-95 NC/VA VA/DC
-VA I-395 6 8
-VA I-395 10C VA/DC
-VA US1 VA235_N VA7
+VA I-395 6 VA/DC
+VA US1 VA235_N VA/DC #sight clinch one block in Alexandria from Cameron Street to VA7
 VA VA7 VA402 VA400
 VA VA27 I-395 BouDr
 VA VA235 MouVer US1_N
