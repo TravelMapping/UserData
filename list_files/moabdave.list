@@ -152,13 +152,16 @@ SCT A8Edi B700 M9
 
 #USA 
 #Alaska
-AK I-A1 5thAve_W AK3_N
-AK I-A3 5thAve PorGlaRd
-AK I-A4 AK1 AK2
+#AK I-A1 5thAve_W AK3_N
+#AK I-A3 5thAve PorGlaRd
+#AK I-A4 AK1 AK2
 AK HicPkwy AK1 TudRd
 
 AK AK1 PorGlaRd AK3_N
-AK AK3 AK1 AirWay
+AK AK3 AK1 TalSpurRd
+AK AK3 DenViewCamp KenDr
+#AK AK3 SheCrkRd AK2
+
 AK AK7Jun MainSt MenLpRd_N
 AK AK7Ket TotRow AirShuRd
 AK AK98 AMHSFry AK/BC
