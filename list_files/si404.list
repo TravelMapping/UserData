@@ -83,7 +83,7 @@ ENG A30 A340 ToM3
 ENG A30 M5(29) A39_S
 ENG A30 A3047_E A390
 ENG A30 A394 End
-	ENG A31Alt A281/A322 GuiParkRd
+ENG A31Alt A281/A322 GuiParkRd
 ENG A31Alt StaRd M3(10)
 ENG A31 A36 B3074
 ENG A32 A27_E B3385
@@ -429,7 +429,8 @@ ENG A518 A442 A4640
 ENG A518 A5187 A34_N
 ENG A518 A522 A50
 ENG A522 A518 A50
-ENG A523 A537_E A6
+ENG A523 A537_E B5092_S
+ENG A523 A555_E A6
 ENG A533 A56_E A558
 ENG A534 A41 A51_E
 ENG A550 WLS/ENG A494_E
@@ -889,6 +890,7 @@ ENG B5032 B5031 UttRd
 ENG B5061 A5 A5223
 ENG B5069 A483/A495 A5/A483
 ENG B5072 A5223 M54
+ENG B5092 A523_S A523/A555
 ENG B5120 A505 TheGre
 ENG B5287 A591_S A591_N
 ENG B5289 A66 B5292
@@ -1377,12 +1379,21 @@ FRA-IDF N186Orl 25 A6b
 FRA-NAQ A10 CVL/NAQ A83
 FRA-NAQ A83Oul PDL/NAQ NAQ/PDL
 FRA-NAQ A83 PDL/NAQ A10
+FRA-NAQ D137-17Mar PDL/NAQ N11
+FRA-NAQ D743B-79 D743T N149
+FRA-NAQ D743T-79 D949B D743B
+FRA-NAQ D949B-79 PDL/NAQ D743T
+FRA-NAQ D20D-86 A10 D910
+FRA-NAQ D910-86 D20C N147
 FRA-NAQ E3 PDL/NAQ N237
 FRA-NAQ E5 CVL/NAQ A83
+FRA-NAQ E62 D743B/D949 D910
 FRA-NAQ E601 D137 N237
 FRA-NAQ E602 N11/N237 D108
 FRA-NAQ E602 N11/N237 D108
 FRA-NAQ N11 D137 N237
+FRA-NAQ N147 N149 D910
+FRA-NAQ N149 D743B/D949 N147
 
 ####Normandy####
 FRA-NOR A84 36 44
@@ -1408,12 +1419,39 @@ FRA-NOR N176 N175 NOR/BRE
 
 ####Pays-de-Loire####
 FRA-PDL A83 N844 1
-FRA-PDL A83 6 PDL/NAQ
+FRA-PDL A83 7 PDL/NAQ
 FRA-PDL A83Ben NAQ/PDL PDL/NAQ
 FRA-PDL A85 2 PDL/CVL
 FRA-PDL A844 36 37
+FRA-PDL D79-49Ros D53/D347 D214
+FRA-PDL D214-49Lon D79 D952
+FRA-PDL D347-49 D938_N D53/D79
+FRA-PDL D347-49 D767 D952
+FRA-PDL D751A-49 D947 PDL/CVL
+FRA-PDL D767-49 A85 D347
+FRA-PDL D938-49 A85 D347
+FRA-PDL D947-49 D952 D751A
+FRA-PDL D952-49 D214 PDL/CVL
+FRA-PDL D21-85Tal D949_W D949_E
+FRA-PDL D46-85 D949 D746
+FRA-PDL D46B-85 D105 D2747
+FRA-PDL D91A-85 CheRoi D105
+FRA-PDL D105-85 D21_E D46/D747
+FRA-PDL D105A-85 D21 D105
+FRA-PDL D137-85 A83 PDL/NAQ
+FRA-PDL D160-85 D763 D32/D949
+FRA-PDL D201-85 D746 D949
+FRA-PDL D206-85 D938T A83
+FRA-PDL D746-85Tri D201 D46
+FRA-PDL D747-85 BlvdGasGui D46/D105
+FRA-PDL D763-85 D1137/D1763 D160
+FRA-PDL D938T-85 D949B_E D206
+FRA-PDL D949-85 D32/D160 A83
+FRA-PDL D949B-85 D938T_S PDL/NAQ
+FRA-PDL D1763-85 A83 D763/D1137
+FRA-PDL D2747-85 D1/D46 D46/D747
 FRA-PDL E3 BRE/PDL 4(A83)
-FRA-PDL E3 6(A83) PDL/NAQ
+FRA-PDL E3 7(A83) PDL/NAQ
 FRA-PDL E60 A82/A844 37(A844)
 FRA-PDL E60 3(A85) PDL/CVL
 FRA-PDL N137 BRE/PDL A844
@@ -1544,92 +1582,76 @@ IDN T3 20 32
 ###England###
 ####National Rail####
 #####AW#####
-ENG CamLn BHI TFC #AW International - Telford
+#ENG CamLn BHI TFC #AW International - Telford
 
-#####CC##### (finalised)
-ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
+#####CC#####
+#ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
 
 #####CH#####
-ENG AylLn MYB AYS #CH Marylebone - Aylesbury
-ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
-ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
+#ENG AylLn MYB AYS #CH Marylebone - Aylesbury
+#ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
+#ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
 
-#####GA##### (finalised)
-ENG NewRvrLn LST BMD #GA Liverpool Street - Brimsdown
-ENG StaExp TOM SSD #GA Tottenham Hale - Stansted
-ENG WAMLStr SRA TOM #GA Stratford - Tottenham Hale
+#####GN#####
+#ENG NorCityLn MOG FPK #GN Moorgate - Finsbury Park
 
-#####GN##### (finalised)
-ENG NorCityLn MOG FPK #GN Moorgate - Finsbury Park
+#####GW#####
+#ENG BruLn RDG BSK #GW Reading - Basingstoke
+#ENG GreBra WEA GFD #GW West Ealing - Greenford
+#ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
+#ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
+#ENG ThaVlyLn SLO RDG #GW Slough - Reading
+#ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
+#ENG WesML SOU PMS #GW Southampton - Portsmouth
 
-#####GW##### (finalised)
-ENG BruLn RDG BSK #GW Reading - Basingstoke
-ENG GreBra WEA GFD #GW West Ealing - Greenford
-ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
-ENG HEx HXX HWV #HX Central - T5
-ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
-ENG ThaVlyLn SLO RDG #GW Slough - Reading
-ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
-ENG WesML SOU PMS #GW Southampton - Portsmouth
+#####HX#####
+#ENG HEx HXX HWV #HX Central - T5
 
-#####LN###### (finalised)
-ENG BirLivLn BNM LIV #LN Birmingham New Street - Liverpool Lime Street
-ENG NhpLn BHI BNM #LN Birmingham International - Birmingham New Street
-ENG PotLn BNM STA #VT New Street - Stafford (diversion - via Tame Bridge)
-ENG TreVlyLn WFJ MKC #LN Euston - Stafford
+#####IL#####
+#ENG IslLn RYP RYD #IL Ryde Pier Head - Ryde Esplanade
 
-######LO###### (finalised, all done)
-ENG ELL HHY WCY #LO Highbury & Islington - West Croydon
-ENG ELLCla SQE CLJ #LO Surrey Quays - Clapham Junction
-ENG ELLCry SYD CYP #LO Sydenham - Crystal Palace
-ENG ELLNew SQE NWX #LO Surrey Quays - New Cross
-#ENG ELLBat #LO Wandsworth Road - Battersea Park
-ENG Goblin GPO BKR #LO Gospel Oak - Barking Riverside
-ENG LVL LST CHN #LO Liverpool Street - Cheshunt
-ENG LVLChi LST CHI #LO Liverpool Street - Chingford
-ENG NLL CLJ SRA #LO Finchley Road & Frognal - Clapham Junction; West Hampstead - Stratford
-ENG NLLRic RMD WIJ #LO Richmond - Willesden Junction
-ENG RomUpmShu RMF UPM #LO Romford - Upminster
-ENG WatDC EUS WFJ #LO Euston - Watford Junction
+#####LE#####
+#ENG GEML LST SNF #LE Liv St - Shenfield
+#ENG NewRvrLn LST BMD #LE Liverpool Street - Brimsdown
+#ENG WAMLStr SRA TOM #LE Stratford - Tottenham Hale
 
-######ME###### (finalised)
-ENG WirLn BKQ CTR #ME Chester - Birkenhead
-ENG WirLn LVJ_2 BKQ #ME Moreton - Liverpool Lime Street (via Moorfields)
-ENG WirLn LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
-ENG WirLnWKi BKQ MRT #ME Birkenhead - Moreton
+#####LN######
+#ENG BirLivLn BNM LIV #LN Birmingham New Street - Liverpool Lime Street
+#ENG NhpLn BHI BNM #LN Birmingham International - Birmingham New Street
+#ENG PotLn BNM STA #VT New Street - Stafford (diversion - via Tame Bridge)
+#ENG TreVlyLn WFJ MKC #LN Euston - Stafford
 
-#####TL##### (finalised)
-ENG ThaLnk HEN WHP #TL Hendon - West Hampstead
-ENG ThaLnk KTN ECR #TL Kentish Town - Blackfriars; Farringdon - East Croydon
-ENG ThaLnkSut BFR MIJ #TL Blackfriars - Mitcham Junction
-ENG ThaLnkSut SUO STR_2 #TL Sutton - Wimbledon - Streatham
+######LO###### (fully clinched)
+#ENG ELL HHY WCY #LO Highbury & Islington - West Croydon
+#ENG ELLCla SQE CLJ #LO Surrey Quays - Clapham Junction
+#ENG ELLCry SYD CYP #LO Sydenham - Crystal Palace
+#ENG ELLNew SQE NWX #LO Surrey Quays - New Cross
+##ENG ELLBat #LO Wandsworth Road - Battersea Park
+#ENG Goblin GPO BKR #LO Gospel Oak - Barking Riverside
+#ENG LVL LST CHN #LO Liverpool Street - Cheshunt
+#ENG LVLChi LST CHI #LO Liverpool Street - Chingford
+#ENG NLL CLJ SRA #LO Finchley Road & Frognal - Clapham Junction; West Hampstead - Stratford
+#ENG NLLRic RMD WIJ #LO Richmond - Willesden Junction
+#ENG RomUpmShu RMF UPM #LO Romford - Upminster
+#ENG WatDC EUS WFJ #LO Euston - Watford Junction
 
-######VT######
-ENG WCMLBir WFJ WVH #VT Watford - Wolverhampton
-ENG WCMLChe MKC CTR #VT Milton Keynes - Chester
-ENG WCMLLiv WFJ STA #VT Watford Junction - Stafford
-ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
+######ME######
+#ENG WirLn BKQ CTR #ME Chester - Birkenhead
+#ENG WirLn LVJ_2 BKQ #ME Moreton - Liverpool Lime Street (via Moorfields)
+#ENG WirLn LVJ_1 LIV #ME Moreton - Liverpool Lime Street (via Moorfields)
+#ENG WirLnWKi BKQ MRT #ME Birkenhead - Moreton
 
-#####WM##### (finalised)
-ENG SalLn BHM TFC #WM New Street - Telford
-
-#####XR##### (finalised)
-ENG EliLnHea HWV HXX #XR Heathrow T5 - Heathrow T23
-ENG EliLnRea RDG HAY #XR Reading - Hayes & Harlington
-ENG EliLn HAF ABW #XR Reading - Abbey Wood
-ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
-#XR into Paddington and Liverpool Street Mainline stations
-
-#GA LST SNF Liv St - Shenfield
-#EM St Pancras - Wellingborough
+#####SE#####
 #SE Charing Cross - Orpington (avoid Lewisham)
 #SE Charing Cross - Ashford - Canterbury
 #SE Blackfriars (via Herne Hill) - Bromley - Faversham - Canterbury
 #SE Margate - Deal - Dover - Ashford
-#Se Abbey Wood - Cannon Street
+#SE Abbey Wood - Cannon Street
 #SE Margate - Canterbury - Ashford
 #SE Peckham Rye - Lewisham - Welling
 #SE London Bridge - Mottingham (both via and not via Lewisham)
+
+#####SN#####
 #SN London Bridge - East Croydon (fast)
 #SN Victoria - Gatwick - Barnham
 #SN Southampton - Barnham
@@ -1637,7 +1659,8 @@ ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
 #SN West Croydon - Sutton - Epsom Downs
 #SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
 #SN Crystal Palace - Beckenham Junction
-#SW Ryde Pier Head - Ryde Esplanade
+
+#####SW#####
 #SW Waterloo - Bournemouth
 #SW Southampton - Portsmouth
 #SW Waterloo - Basingstoke - Grateley - curve (XC diversion)
@@ -1646,6 +1669,33 @@ ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
 #SW Winnersh - Reading
 #SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
 #SW Queenstown Road Battersea - Hounslow
+
+#####SX#####
+#ENG StaExp TOM SSD #SX Tottenham Hale - Stansted
+
+#####TL#####
+#ENG ThaLnk HEN WHP #TL Hendon - West Hampstead
+#ENG ThaLnk KTN ECR #TL Kentish Town - Blackfriars; Farringdon - East Croydon
+#ENG ThaLnkSut BFR MIJ #TL Blackfriars - Mitcham Junction
+#ENG ThaLnkSut SUO STR_2 #TL Sutton - Wimbledon - Streatham
+
+######VT######
+#ENG WCMLBir WFJ WVH #VT Watford - Wolverhampton
+#ENG WCMLChe MKC CTR #VT Milton Keynes - Chester
+#ENG WCMLLiv WFJ STA #VT Watford Junction - Stafford
+#ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
+
+#####WM#####
+#ENG SalLn BHM TFC #WM New Street - Telford
+
+#####XR##### (fully clinched)
+#ENG EliLnHea HWV HXX #XR Heathrow T5 - Heathrow T23
+#ENG EliLnRea RDG HAY #XR Reading - Hayes & Harlington
+#ENG EliLn HAF ABW #XR Heathrow T4 - Abbey Wood
+#ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
+##XR into Paddington and Liverpool Street Mainline stations
+
+#EM St Pancras - Wellingborough
 #XC Bristol Parkway - Bristol Temple Meads
 #XC Wolverhampton - Coventry - Bournemouth
 #XC Birmingham - (Solihull) - Reading
@@ -1653,46 +1703,49 @@ ENG EliLnShe ZWL SNF #XR Whitechapel - Shenfield
 ####Heritage####
 #Swanage Railway Nordon P&R - Swanage
 
-#####London Underground##### (all done)
-ENG BakLn HRW EPH
-ENG CenLn WRU EPP
-ENG CenLnEal EAL NOA
-ENG CenLnHai LES WOO
-ENG CirLn HAM ERD_2
-ENG DisLn RMD UPM
-ENG DisLnEal EAL TUG
-ENG DisLnOly KPA EAC
-ENG DisLnWim WIM ERD
-ENG HaCLn HAM BKG
-ENG JubLn STM SRA
-ENG MetLn CHE ALD
-ENG MetLnAme AMR CFO
-ENG MetLnUxb UXB HOH
-ENG MetLnWat WAF MOP
-ENG NorLn EDG MDN
-ENG NorLnBat HBT BPS
-ENG NorLnMHE MHL FYC
-ENG PicLn HWV CKS
-ENG PicLnHT4 HNX HXX
-ENG PicLnUxb UXB ACT
-ENG VicLn WHC BRX
-ENG WaCLn WAT BAN
-####LightRail/Tram#### (all DLR, all Tramlink)
-ENG DLR BAN LEW
-ENG DLRRoy WES BKT
-ENG DLRSti SFA CGT
-ENG DLRStr CAW SRA
-ENG DLRTow TOG SHA
-ENG DLRWoo CGT WWA
-ENG WimBec WIM BKJ
-ENG WimElm WIM ELE
-ENG CroAdd ECR_1 NAD
+#####London Underground##### (fully clinched)
+#ENG BakLn HRW EPH
+#ENG CenLn WRU EPP
+#ENG CenLnEal EAL NOA
+#ENG CenLnHai LES WOO
+#ENG CirLn HAM ERD_2
+#ENG DisLn RMD UPM
+#ENG DisLnEal EAL TUG
+#ENG DisLnOly KPA EAC
+#ENG DisLnWim WIM ERD
+#ENG HaCLn HAM BKG
+#ENG JubLn STM SRA
+#ENG MetLn CHE ALD
+#ENG MetLnAme AMR CFO
+#ENG MetLnUxb UXB HOH
+#ENG MetLnWat WAF MOP
+#ENG NorLn EDG MDN
+#ENG NorLnBat HBT BPS
+#ENG NorLnMHE MHL FYC
+#ENG PicLn HWV CKS
+#ENG PicLnHT4 HNX HXX
+#ENG PicLnUxb UXB ACT
+#ENG VicLn WHC BRX
+#ENG WaCLn WAT BAN
+####LightRail/Tram#### (fully clinched DLR and London Trams)
+#ENG DLR BAN LEW
+#ENG DLRRoy WES BKT
+#ENG DLRSti SFA CGT
+#ENG DLRStr CAW SRA
+#ENG DLRTow TOG SHA
+#ENG DLRWoo CGT WWA
+#ENG WimBec WIM BKJ
+#ENG WimElm WIM ELE
+#ENG CroAdd ECR_1 NAD
 ####People Movers####
-#Heathrow T5 Airside A-B
-#London Cable Car
+#ENG HT5T A B #Heathrow Terminal5 Airside Transit
+#ENG HPRT5A Terminal5 ParkingA #Terminal 5 PodParking (fully clinched)
+#ENG HPRT5B Terminal5 ParkingB #Terminal 5 PodParking (fully clinched)
+#ENG HPRTAB ParkingA ParkingB #Terminal 5 PodParking (fully clinched)
+#ENG LCC RoyalDocks GreenwichPeninsula #London Cable Car
 
 ###Scotland###
-SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
+#SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
 
 ###Ireland###
 #Grand Canal Dock - Howth
@@ -1710,7 +1763,25 @@ SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
 
 ###Spain###
 ####Barcelona Metro####
-ESP-CT L3 Canyelles Catalunya
+#ESP-CT L3 Canyelles Catalunya
 
 ###USA###
 #LA Metro: Gold Line: Del Mar - Union Station
+
+##Stations##
+###Alighted/Embarked###
+####ENG
+#####London Area: Amersham, Chesham, Chalfont, Rickmansworth, Watford, Northwood, North Harrow, Uxbridge, Hillingdon, Ickenham, West Harrow, Harrow-on-the-Hill, Northwick Park, Wembley Park, Finchley Road, Baker Street, Great Portland Street, Euston Square, Kings Cross St Pancras, Farringdon, Barbican, Moorgate, Liverpool Street LU, Aldgate, Canons Park, Neasden, Willesden Green, West Hampstead LU, Swiss Cottage, St Johns Wood, Bond Street, Green Park, Westminster, Waterloo LU, Southwark, London Bridge LU, Canary Wharf LU, North Greenwich, Canning Town, West Ham, Stratford, Park Royal, North Ealing, Heathrow Terminal 5 LU, Heathrow Terminal 4 LU, Heathrow T2&3 LU, Hatton Cross, Hounslow West, Northfields, South Ealing, Turnham Green, Hammersmith DP, Barons Court, Earls Court, Gloucester Road, South Kensington, Knightsbridge, Hyde Park Corner, Piccadilly Circus, Leicester Square, Covent Garden, Holborn, Russell Square, Arsenal, Manor House, Turnpike Lane, Cockfosters, West Ruislip, Hanger Lane, West Acton, White City, Shepherds Bush LU, Lancaster Gate, Marble Arch, Tottenham Court Road, Chancery Lane, St Pauls, Bank, Bethnal Green LU, Leyton, Leytonstone, Wanstead, Gants Hill, Chigwell, Roding Valley, Woodford, Kenton, South Kenton, Paddington BCD, Edgware Road Bak, Marylebone LU, Regents Park, Charing Cross LU, Embankment, Elephant & Castle, Richmond, Gunnersbury, West Kensington, Olympia, Wimbledon, Edgware Road CDH, Victoria LU, Temple, Blackfriars LU, Cannon Street LU, Monument, Tower Hill, Aldgate East, Upminster, Hammersmith CH, Wood Lane, Westbourne Park, Paddington CH, Slough, Heathrow T5 NR, Heathrow T4 NR, Heathrow T2&3 NR, Paddington NR, Paddington XR, Liverpool Street XR, Canary Wharf XR, Custom House, Romford, Woolwich, Abbey Wood, Edgware, Hendon Central, High Barnet, Finchley Central, Highgate, Archway, Tufnell Park, Chalk Farm, Camden Town, Euston LU, Angel, Old Street, Borough, Warren Stret, Goodge Street, Nine Elms, Battersea Power Station, South Wimbledon, Pimlico, Highbury & Islington, Seven Sisters LU, Tottenham Hale LU, Watford Junction, Watford High Street, Bushey, Euston NR, West Hampstead NR, Finchley Road & Frognal, Hoxton, Wapping, Rotherhithe, Surrey Quays, Queens Road Peckham, Peckham Rye, West Croydon, Theobalds Grove, Cheshunt, Chingford, Highams Park, Tower Gateway, Westferry, Poplar, All Saints, Stratford International, West India Quay, Canary Wharf DLR, Heron Quays, Island Gardens, Cutty Sark, Royal Victoria, London City Airport, Woolwich Arsenal, Marylebone NR, Hendon, West Hampstead Thameslink, St Pancras International, City Thameslink, Blackfriars NR, Victoria NR, Battersea Park, Waterloo NR, Waterloo East, Charing Cross NR, Cannon Street NR, London Bridge NR, East Croydon, Mitcham Junction, Epsom Downs, Caterham, Beckenham Junction, Hounslow, Queenstown Road Battersea, Orpington, Knockholt, Grove Park, Mottingham, Welling, Lea Bridge, Brimsdown
+#####Elsewhere: West Kirkby, Liverpool Lime Street, Stockport, Macclesfield, Stafford, Telford Central, Wolverhampton, Birmingham New Street, Birmingham Moor Street, Coventry, Leamington Spa, Bristol Temple Meads, Reading, Winnersh Triangle, Winchester, Southampton Airport Parkway, Swaythling, Cosham, Southampton Central, Portsmouth Harbour, Portsmouth & Southsea, Ryde Pier Head, Ryde Esplanade, Bournemouth, Pokesdown, Christchurch, Aylesbury, Great Missenden, Beaconsfield, Margate, Canterbury West, Canterbury East, Hastings
+####SCT: Fort William, Mallaig
+####IRL: Grand Canal Dock, Howth
+####DEU: Frankfurt Airport, Bensheim, Heidelberg Hbf
+####ITA: Bergamo, Lecco, Cairoli
+####CA Del Mar, Union Station
+###Changed###
+####ENG
+#####London Area: Moor Park, Rayners Lane, Stanmore, Bermondsey, Canada Water, Acton Town, Barons Court, Finsbury Park, Greenford, Ealing Broadway, Mile End, Leyton, Epping, Harrow & Wealdstone, Willesden Junction, West Brompton, Whitechapel, Barking, Upney, West Ealing, Shenfield, Hampstead, Mill Hill East, Kentish Town, Kennington, Stockwell, Morden, Brixton, Walthamstow Central, Gospel Oak, Hackney Downs, Hackney Central, Dalston Junction, New Cross, Clapham Junction, Enfield Town, Crystal Palace, Shadwell, Limehouse, Greenwich, Lewisham, King George V, Beckton
+#####Elsewhere: Birmingham International, Bristol Parkway, Basingstoke, Fareham, Barnham, High Wycombe, Ashford, Shenfield, Milton Keynes Central
+####SCT: Glenfinnan, Arisag
+####DEU: Frankfurt Hbf
+####ITA Duomo, Milano Centrale, Centrale
