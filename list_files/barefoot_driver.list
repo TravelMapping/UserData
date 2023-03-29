@@ -423,7 +423,6 @@ AZ I-40BLWil i-40_w i-40_e
 co i-25blwal i-25_s i-25_n
 CO I-70BLBur I-70_W I-70_E
 CO I-70BLLim I-70_W I-70_E
-CO I-76BSKee WooAve I-76
 co i-76blfmo i-76_w i-76_e
 IA I-35BLAme I-35_S I-35_N
 IA I-35BLCle I-35_S I-35_N
@@ -523,7 +522,6 @@ sd i-90blpre i-90_w i-90_e
 sd i-90blcha i-90_w i-90_e
 sd i-90blmit i-90_w i-90_e
 sd i-90blwal i-90_w i-90_e
-SD I-90BSSio I-90 SD42
 SD I-229BLSio I-229_S I-229_N
 tx i-10blsie i-10_w i-10_e
 tx i-10blvan i-10_w i-10_e
@@ -854,6 +852,7 @@ IL US54 MO/IL I-72
 IL US60 MO/IL IL/KY
 IL US62 MO/IL IL/KY
 il us67 us24 il125
+il us67 us136_e us34/164
 il us67 il17 il/ia
 IL US136 IA/IL IL/IN
 IL US150 US6 I-74(215)
@@ -879,6 +878,8 @@ il il92 ia/il us34
 il il94 il61_s us34_e
 il il96 il100 il94
 il il104 il78 i-55
+il il110 mo/il us136
+il il110 us67_n i-90/94
 il il116 il251_n i-57
 il il125 us67/100 il97
 il il130 us50/250 il33_e
@@ -1700,14 +1701,12 @@ nm nm609 us491 i-40bl
 nm nm610 nm564/602 nm609
 nm us66hisgal i-40(8) i-40(26)
 nv us6 ca/nv nv/ut
-nv us6busely us6_w us6_e
 nv us50 ca/nv nv/ut
 nv us50altfer us50_w us50_e
 NV US93 AZ/NV us50_w
 NV US95 ca/nv nv/or
 nv us95altyer us95_s us95_n
 nv us95buslsv us95_s us95_n
-nv us95sprfer us95alt i-80
 nv us95trkhaw us95_s us95_n
 NV US395 ca/nv NV/CA
 NV US395BusCar US395_S US395_N
@@ -2193,7 +2192,7 @@ WI US8 MN/WI WI/MI
 wi us10 mn/wi us63_n
 wi us10 us53_n us53_s
 wi us10 wi13_s wi13_n
-wi us10 i-39(165) ferry
+wi us10 i-39(165) lakemicfry
 WI US12 MN/WI I-94(4)
 wi us12 i-94(143) wi16/131
 wi us12 us12bussau_e us18_e
@@ -2212,7 +2211,7 @@ WI US63 MN/WI us2
 wi us141 i-43(178) US41_n
 WI US141 US8_W WI/MI
 WI US141flo MI/WI WI/MI
-WI US151 IA/WI us10
+WI US151 IA/WI i-43
 wi us2altash us2_w us2_e
 wi us12bussau wi78 us12_e
 wi us18busver us18_w us18_e
@@ -2234,6 +2233,7 @@ wi wi35 wi171 wi82_e
 wi wi35 us53_lac wi157
 WI WI35 WI25_S US63
 wi wi35 crc_dou_e wi105
+wi wi42 us151_s us10_e
 wi wi42 wi29 wi57
 wi wi47 us10 us45_s
 WI WI47 US8_W US8/45
@@ -2268,7 +2268,7 @@ wy us26 wy156 us85_n
 WY US30 id/wy wy/ne
 wy us85 co/wy i-25(17)
 wy us85 wy156_s wy/sd
-wy us87 co/wy end
+wy us87 co/wy wy193/346
 wy us87she end wy/mt
 wy us89 id/wy us20/191
 wy us189 ut/wy us26/89
@@ -2317,6 +2317,7 @@ wy wy254 us20bus/26bus i-25
 wy wy321 i-25_s i-25_n
 wy wy332 us87 wy334
 wy wy334 us87 wy332
+wy wy346 us87/193 fetmon
 wy wy376 i-80bl_w i-80bl_e
 wy wy387 wy259 wy50
 wy wy413 i-80 i-80bl
@@ -2324,8 +2325,8 @@ wy wy414 i-80 i-80bl
 wy wy530 i-80bl rivdr
 wy wy585 i-90bl us85
 wy eentrd gralooprd us14/16
-wy gralprd wentrd sentrd
-wy norcynrd gralooprd_w gralooprd_e
+wy gralooprd wentrd sentrd
+wy norcanrd gralooprd_w gralooprd_e
 wy rocmempkwy gratetnp yelnp
 wy sentrd us89/191 gralooprd
 wy wentrd mt/wy gralooprd

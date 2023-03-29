@@ -18,7 +18,7 @@ az us93 us60 i-40(48)
 az us180 i-40(201) erimdr
 az us66hiskin i-40(139) tous93
 az us89altfre az/ut us89
-az az24 az202 ellrd
+az az24 az202 irord
 az az51 i-10 15
 az az64 i-40 us89
 az az66 i-40 coc/yav
@@ -35,7 +35,7 @@ az az101 23b 55a
 az az143 brord mcdrd
 az az179 i-17 az89a
 az az188 az87 us60
-az az202 1a 47
+az az202 1a 78
 az az260 i-17 az87_s
 az az389 ut/az us89alt
 az az587 i-10 az87
@@ -73,6 +73,7 @@ ct i-684 ny/ct ct/ny
 ct i-691 1 11
 ct cttpk i-395 us6
 ct milpkwy 3 1
+ct wilbrocon ct9 ct71a/372
 ct us1 ny/ct i-95(13)
 ct us1 conave ct135
 ct us1 i-95(24) chust_n
@@ -127,6 +128,7 @@ ct ct72 ct4 ct9
 ct ct74 ct194 us44
 ct ct75 ct/ma ct159
 ct ct78 ct/ri ct2
+ct ct81 us1 ct154
 ct ct82 ct9 ct2
 ct ct83 ct/ma ct2
 ct ct85 us1 us6/44
@@ -150,6 +152,7 @@ ct ct131 ct12 ct/ma
 ct ct135 us1 ct58
 ct ct138 ct/ri ct97
 ct ct140 ct75 ct32/190
+ct ct145 i-95 us1
 ct ct146 us1_n us1_s
 ct ct147 ct17 ct66
 ct ct153 ct154 ct166
@@ -244,12 +247,14 @@ dc dc295 i-295/695 dc/md
 de i-95 md/de de/pa
 de i-295 i-95 de/nj
 de i-495 i-95 6
+de us9 us13 capemayfry
 de us13 de/pa md/de
 de us13buswil de48 de202
 de us40 md/de de/nj
+de us113 md/de de1
 de us202 de/pa de141(1)
 de us301 md/de de1
-de de1 147 165
+de de1 165 us113/1bus
 de de2 de52 de273
 de de9 us13_s us13bus
 de de15 de71/896 de286
@@ -377,7 +382,7 @@ ma ma2acam us3/16 ma2_e
 ma ma2agre ma2_w ma2_e
 ma ma2ashe ma2_w ma2_e
 ma ma3 us3 1
-ma ma3aply ma3_n whihorrd 
+ma ma3aply ma3_n ma3_s
 ma ma3alow ma/nh us3_s
 ma ma4 ma2 ma3a
 ma ma6ayar us6_w ma130
@@ -541,6 +546,7 @@ md us1 md161 md273
 md us1altbal us1_s us1_n
 md us1altwas dc/md us1_n
 md us13 va/md md/de
+md us13bussal us13_n us13_s
 md us15 va/md 13
 md md22 i-95 beahillrd
 md us29 dc/md daledr
@@ -551,11 +557,13 @@ md us40 md7_w us40trk/151
 md us40trkbal us40_e us40_w
 md us50 dc/md md459
 md us50 5 md404 
+md us50 md346_e md611
+md us113 md/de us13
+md us113bussno us113_n us113_s
 md us220 wv/md md/pa
 md us301 va/md md/de
 md us340 va/md 12
 md balwaspkwy us50/201 md175
-md beadr dc/md md410
 md cabjohnpkwy i-495 clabarpkwy
 md clabarpkwy md/dc macblvd_w
 md md2 i-95 md408/422
@@ -567,6 +575,7 @@ md md7elk soust md281
 md md7hav us40 us40/155
 md md7nor us40 us40/279
 md md7per us40 perpoihos
+md md12 va/md us113
 md md17 va/md md180
 md md18 md213 us301
 md md22 us40 belave
@@ -645,7 +654,9 @@ md md313 md213/290 md299/330
 md md316 md277 md279
 md md320 dc/md md650
 md md327 md7 end
+md md346 us50_e us113
 md md355 dc/md frelim
+md md376 md611 md818
 md md384 us29/97 md390
 md md390 dc/md md97
 md md396 md/dc md614
@@ -665,6 +676,7 @@ md md501 md212 md500
 md md543 i-95 md7
 md md547 md355 md185
 md md586 md97 md28/911
+md md611 us50 asssp
 md md614 md191 macblvd
 md md648 md168 md176
 md md650 dc/md md108_n
@@ -674,7 +686,7 @@ md md713 end md176
 md md717 md4 md725
 md md725 us301 brostard
 md md758 ridrd storunrd
-md md787 md195 md320
+md md818 md374 md376
 md md911 md355 md28/586
 
 me i-95 nh/me 52
@@ -723,6 +735,7 @@ mo i-70 ks/mo mo/il
 mn i-90 sd/mn mn/wi
 mn i-94 nd/mn mn/wi
 mn mn29 i-94 cr46
+mn mn34 i-94 mn9
 mn mn51 i-94 midpkwy
 mt i-94 mt/nd 242
 mt us212 mt323 sr326
@@ -773,7 +786,7 @@ nh nh11 vt/nh nh12_s
 nh nh12 nh119 ma/nh
 nh nh12 lakest nh12akee_s
 nh nh12 nh63 nh12acla_s
-nh nh12acla nh12_s nh12_n
+nh nh12acla nh12_s stgaurd
 nh nh12akee nh12_s nh12_n
 nh nh13 nh101 ma/nh
 nh nh16 us1byp nh26_e
@@ -819,7 +832,7 @@ nj i-278 us1/9 nj/ny
 nj i-280 i-95 16
 nj i-287 nj/ny i-95
 nj i-295 de/nj nj/pa
-nj garstapkwy nj/ny 123
+nj garstapkwy nj/ny 0
 nj njtpk i-295(1) 72(95)
 nj palintpkwy nj/ny tous9w
 nj us1 nj/ny nj81
@@ -831,6 +844,7 @@ nj us1trkjer nj440 bro_e
 nj us9 nj/ny nj81
 nj us9 cr514_n i-278
 nj us9 cr516 gar(123)
+nj us9 nj109 capemayfry
 nj us9w nj/ny i-95
 nj us22 cr531 us1/9
 nj us30 pa/nj us130/38
@@ -843,7 +857,7 @@ nj us202 pa/nj nj/ny
 nj us206 i-295 us202_n
 nj us322 pa/nj us130
 nj nj3 nj17 nj120
-nj nj4 nj20 cr507
+nj nj4 nj20 parrd
 nj nj7 nj17 cr508
 nj nj10 i-287 troyhilrd
 nj nj17 nj/ny nj7
@@ -856,6 +870,7 @@ nj nj33 us1 nj133
 nj nj73 njtpk nj90
 nj nj81 i-95 us1/9
 nj nj90 pa/nj nj73
+nj nj109 us9 garstapkwy
 nj nj120 nj3 nj17
 nj nj124 us202 i-287
 nj nj133 i-95 cr571
@@ -1051,6 +1066,7 @@ oh i-277 1 4
 oh i-280 1a i-75
 oh i-470 oh/wv i-70
 oh i-480 0 i-80_e
+oh i-480war i-480 i-271
 oh i-490 1a 55thst
 oh i-670 i-70 5
 oh i-680 1 11
@@ -1152,8 +1168,7 @@ ri us44 ct/ri ri/ma
 ri ri1a us1_n ri138
 ri ri1apro ri/ma us1 
 ri ri1awes us1_s us1_n
-ri ri2 us1_n ri37
-ri ri2 ri402 ri102_s
+ri ri2 us1_n us1_s
 ri ri3 ri165 ri102_n
 ri ri3 highst_n ri138_e
 ri ri4 us1 i-95
@@ -1202,7 +1217,7 @@ ri ri146 i-95 ri/ma
 ri ri146a ri146_s ri/ma
 ri ri152 ri/ma us1alt
 ri ri165 ct/ri ri3
-ri ri216 ri/ct ri91_e
+ri ri216 ri/ct us1
 ri ri238 ri138 goatislrd
 ri ri246 us1/44 ri116/146
 ri ri402 us1 ri2
@@ -1328,11 +1343,10 @@ va i-66 va/dc 1
 va i-81 tn/va va/wv
 va i-85 nc/va 68
 va i-95 nc/va 170
-va i-95 va/dc 177(95)
+va i-95 va/dc 177
 va i-295 43 1
 va i-395 1 va/dc
 va i-495 md/va 170(95)
-va i-495 va/dc 177(95)
 va gwmempkwy dc/va i-495
 va gwmempkwycry va/dc 1stst
 va gwmempkwymtv va235 va400
@@ -1340,6 +1354,8 @@ va sporunpkwy gwmempkwy va124
 va us1 va/dc va235_n
 va us17 i-64(291) nc/va
 va us13 i-64(282) va/md
+va us13busexm us13_n us13_s
+va us13busonl us13_n us13_s
 va us15 va/md us15bus_n
 va us15 va7_w va267
 va us15buslee us15_s us15_n
@@ -1361,13 +1377,24 @@ va va28 i-66 dulairrd
 va va110 i-66 i-395
 va va123 va/dc va7
 va va124 us29 sporunpkwy
+va va126 us13bus va179
+va va175 us13 mainst
+va va178 us13bus sr620
+va va179 us13bus va126
+va va180 us13_s atlave
+va va180wyewac va180 sr624
+va va181 us13 sr609
+va va182 us13 sr605
+va va183 us13bus sr613
+va va187 sr679 winrd
 va va193 va7 va123
 va va228 va7 sr657
-va va228trkher va228_s eldst
+va va228trkher va228_s va228_n
 va va233 us1 geowaspkwy
 va va235 us1_n mouver
 va va267 1 i-66
 va va287 va/md va7bus
+va va316 us13bus va187
 va va400 geowaspkwy 1stst
 va va895 i-95/150 i-295
 
@@ -1391,12 +1418,15 @@ wi wi60 i-43 us45
 wi wi75 wi50/83 wi20/s
 wi wi83 il/wi wi20/36
 wi wi100 i-94(322) wi32
+wi wi100 i-43(82) wi57
 wi wi119 i-94 wi38
 wi wi165 i-41/94 wi31
+wi wi167 i-41(57) wi175
 wi wi175 wi167 cre_mil 
 wi wi175 i-94 gmblvd
 wi wi181 wi167 silsprdr
 wi wi241 i-94 i-894 
+wi wi312 i-94 us12_w
 wv i-70 wv/pa 5a
 wv i-81 va/wv wv/md
 wv i-470 oh/wv 4
