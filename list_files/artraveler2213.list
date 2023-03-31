@@ -1,7 +1,45 @@
-#3.39.23
-	#Initial Population - Arkansas Routes
+#3.30.23
+#Added I69 in Memphis
+
 
 #TODO
+#Incorrect format line (4 or 6 fields expected, found 5): TX US67 I-35E(428A) US67 I-30(135)
+#Waypoint label US49S not found in line: AR US49buspar US49S US412Bus_E
+#Waypoint labels AR385 and AR367 not found in line: AR AR13 AR385 AR367
+#Waypoint labels AR367 and AR385 not found in line: AR AR13 AR367 AR385
+#Waypoint label AR9S not found in line: AR AR14 AR9S AR341
+#Waypoint labels ROEARRD and AR9S not found in line: AR AR14 RoEarRd AR9S
+#Waypoint label AR7N not found in line: AR AR14 AR7N AR268
+#Waypoint label AR89/297 not found in line: AR AR15 US79Bus AR89/297
+#Waypoint label AR223BAT_N not found in line: AR AR25 US64 AR223Bat_N
+#Waypoint label US-65_N not found in line: AR AR27 AR14 US-65_N
+#Unknown region/highway combo in line: AR AR_60 US65Bus/365 AR28
+#Unknown region/highway combo in line: AR AR_60 AR28 US65Bus/365
+#Waypoint labels AR94_W and US62 not found in line: AR AR72 AR94_W US62
+#Waypoint labels AR27 and AR66 not found in line: AR AR74 AR27 AR66
+#Waypoint labels AR66 and AR27 not found in line: AR AR74 AR66 AR27
+#Waypoint labels US65 and AR377 not found in line: AR AR74 US65 AR377
+#Waypoint label AR57-387 not found in line: AR AR76poi AR24 AR57-387
+#Waypoint labels AR66 and AR14 not found in line: AR AR87 AR66 AR14
+#Waypoint labels AR14 and AR66 not found in line: AR AR87 AR14 AR66
+#Unknown region/highway combo in line: AR AR_109 AR22_E US64
+#Waypoint label US-64_N not found in line: AR AR113mor US64/95 US-64_N
+#Waypoint labels I-40 and SERRD not found in line: AR AR131 I-40 SerRd
+#Waypoint labels END and US65_N not found in line: AR AR114 End US65_N
+#Waypoint label CR24 not found in line: AR AR187 CR24 AR23
+#Waypoint label CRALSLRD not found in line: AR AR227 US270_W CralslRd
+#Waypoint labels CRALSLRD and US270 not found in line: AR AR227 CralslRd US270
+#Waypoint label US270 not found in line: AR AR227 US270 US70
+#Unknown region/highway combo in line: AR AR_285woo US65/25 BlyRd
+#Waypoint label PHILRD not found in line: AR AR363pot PhilRd US64/247
+#add pa 283 lancaster harrisburg
+#add IN-62
+#Add US41 - Evansville
+#Add IN-66
+#Fix KY-4
+#Add US-60 KY-Lexington
+#Add TN-33 - Maryuville
+#Add TN-168 Maryville
 
 
 #Multi-state - Interstate Routes
@@ -230,6 +268,8 @@ TN I-240 I-40 12
 TN I-440 I-40 I-24
 TN I-640 I-40_W I-40_E
 TN I-840 76 1
+TN I-69FutMem MS/TN TN I-69FutMem US51
+
 
 #Texas 
 TX I-20 238A 421
@@ -773,9 +813,7 @@ AR AR341 AR14 AR5_S
 AR AR352 US64 AR219
 AR AR363 AR105 End
 AR AR363pot PhilRd US64/247
-AR AR365 US65Bus/79Bus US65Bus/60
 AR AR365 US65Bus/60 US65Bus/79Bus
-AR AR365s AR365 I-530
 AR AR365s I-530 AR365
 AR AR367 AR5/321 US412/34
 AR AR367 US412/34 AR5/321
@@ -938,7 +976,7 @@ UT UT59 UT9 AZ/UT
 
 AZ LoopRd US89_S US89_N
 AZ PetForRd I-40 US180
-DC GWMemPkwy VA/DC DC/VA
+VA GWMemPkwyCry I-395 I-495
 GA LafHwy US27_S US27_N
 MS NatTraPkwy LibRd TN NatTraPkwy TN100
 NC BlueRidPkwy US441 NC191
