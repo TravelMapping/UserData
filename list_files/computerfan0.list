@@ -58,7 +58,10 @@ IRL R131 ToM50 R801
 IRL R132 J34 N1_Dub
 IRL R132 M1(2) L1140
 IRL R132 CockLn M1(11)
-IRL R132 ToM1/N33 R172_N
+IRL R132 ToM1/N33 R934
+IRL R132 N52_N M1(18)
+IRL R132 19(N1) 20(N1)
+
 IRL R135 R132/R804 M50
 IRL R138 R105/R148 J46
 IRL R138 J47 LesStLow_N
@@ -133,6 +136,7 @@ IRL R868 R183_E R183_W
 
 IRL R907 N25_W R629
 IRL R927 N2_S N2_N
+IRL R934 R132 M1
 IRL R937 N2 N54
 IRL R938 N53 R181
 
@@ -214,6 +218,28 @@ NIR B529 A2 B507
 
 # -- E-roads (segments not included in any other system) --
 NIR E18 A3 2(M12)
+
+# ===== FRANCE =====
+
+# === Ile-de-France
+# -- Autoroutes
+FRA-IDF A3 BlvdPer A86_S
+FRA-IDF A4 BlvdPer 14
+FRA-IDF A6a BlvdPer A6b
+FRA-IDF A6b 2 3
+FRA-IDF A86 A3_S 20
+FRA-IDF A106 4 A6a/A6b
+
+# -- Routes nationales --
+FRA-IDF N486 A86 A4
+
+# -- Routes departementales
+# - Seine-et-Marne
+FRA-IDF D344P-77 BlvdParc A4
+
+# -- Others --
+FRA-IDF BP A6a D7_W
+FRA-IDF BP N13 A4_N
 
 # ===== SPAIN =====
 
