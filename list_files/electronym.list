@@ -237,8 +237,14 @@ VT VT100 VT9_E StrArlRd
 VT VT100 VT107 VT100Alt_S
 VT VT108 VT100 BigSprRd
 
+##### International - Canada
 
-##### International
+AB AB1 BC/AB BnsRd
+AB AB2 258 266
+
+BC BC1 TowSt BC/AB
+
+##### Other International
 
 UGA M3 A109 EntRd
 UGA EA1 M3/A109 KabKisRd
