@@ -1,36 +1,6 @@
-#4.3.23
-#added ar AR114 AR530 US65
-#added KY KY4 5 15
-#added AR84 MidRd AR7
-#added AR AR171Wil US270 Hot/Gar
-#added AR US64BusWyn US64 AR284_E
-#added TN US70S TN100 TN155_W
-#added TX TX77 TX/LA US59_N
-#added LA LA1 LA/TX US71_N
-#added MO MO84 US412_E I-155
-#added MO MO165 MO265_N 76CouBlvd
-#added OK I-40BLElk OK6_W I-40_W
-#added OK I-40BLCli I-40_E I-40_W
-#added OH I-675 I-75 26
-#added OH OH343 US68 OH72
-#added OH OH370 OH343 JohnBryStaPk
-#added MD I-495 38 MD/VA
-#added SC SC703 US17 41stAve
-#added AR AR92 AR9_N AR5/25
-#added AR AR11 AR87 to somewhere :)
-#added IN VetMemPkwy US41 IN VetMemPkwy RivDr
-#added AR AR69SJac AR69 DilSt
-#added AR AR18 US67 AR367
-#added AR AR192 US70 NorDr
-#fixed Waypoint label AR-238 not found in line: AR US79 AR1_N AR-238
-#fixed Waypoint label AR169N not found in line: AR US165 AR212_W AR169N
-#fixed Waypoint label AR169N not found in line: AR US165 AR169N AR212_W
-#fixed Incorrect format line (4 or 6 fields expected, found 5): I-57 1 IL I-57 163
-#fixed format line (4 or 6 fields expected, found 2): I-75 26
-#fixed Incorrect format line (4 or 6 fields expected, found 3): AR US61 AR14
-#fixed Waypoint label US271/27 not found in line: AR US278 US278BusHop_W US271/27
-#fixed Unknown region/highway combo US190 LA22 in line: LA US190 LA US190 LA22 I-12
-#fixed Waypoint label I-495 not found in line: VA GWMemPkwyCry I-395 I-495
+
+#5.3.23
+#added a few small Arkansas Highways
 
 
 #TODO
@@ -624,6 +594,7 @@ AR AR12 I-49(85) US62/94
 AR AR13 US70 VinRd
 AR AR13Jud AR258 AR367
 AR AR13Sea AR367 AR385
+AR AR14 US65_N RidRd
 AR AR14 US61 AR163_S
 AR AR14 AR69 US67
 AR AR14 AR25_S US167/25
