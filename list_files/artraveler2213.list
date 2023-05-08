@@ -1,12 +1,5 @@
-#5.7.23
-Added Bella Vista Bypass
-Added 412 Alt
-Added AR612
-Added LL Tilsdale
-Added Tulsa Airport
-Added 75S to Henryetta
-Added 266
-Added 64 to Sallisaw
+#5.8.23
+Fixed and tidied OK 
 
 
 #TODO
@@ -456,6 +449,7 @@ OK US169 I-244 US64/364
 OK US59 US412Alt_W US412_E
 OK US60 I-44/59 OK66
 OK US62 I-44(40A) OK115
+OK US64 OK/AR OK64D
 OK US64 US266 I-40(311)
 OK US69 US69Alt_S US60_W
 OK US75 I-244(6B) US64_E
