@@ -1,3 +1,10 @@
+#5/11
+OH I-71 2 1B(75)
+KY US42 I-75(180) KY237
+KY237 PheDr KY3503
+
+
+
 #5/9 Way Out
 OH I-75 1F 1B
 KY I-71 77 1
@@ -15,13 +22,15 @@ IN US50 US421/129 IN/OH
 IN I-275 16 IN/OH 
 OH I-275 IN/OH 25
 OH I-74 5 I-75
-OH I-75 OH I-75 1G 
+#fixed
+OH I-75 4 1G 
 
 
 
 #510 
 OH US42 I-471 I-71(2)
-OH US23 I-71(2B) EdenParkDr
+#fixed
+OH US22 I-71(2B) EdenParkDr
 
 
 
