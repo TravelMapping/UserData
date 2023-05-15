@@ -1,4 +1,4 @@
-# Date: 2023-05-09
+# Date: 2023-05-14
 # ----------------
 
 
@@ -3084,7 +3084,8 @@ DEU-NI B51 B214_E NI/NW
 DEU-NI B51Boh NW/NI A33
 DEU-NI B51Ibu L94 B475
 DEU-NI B61 B214_E B441
-DEU-NI B64 NW/NI B243/B248
+DEU-NI B64 NW/NI NeueStr
+DEU-NI B64 K71 B243/B248
 DEU-NI B65 B217 A7
 DEU-NI B68 L109_E A1
 DEU-NI B69 A1 B51/B214
@@ -3216,6 +3217,7 @@ DEU-NI L460 B3 B1_E
 DEU-NI L466 B243_S A7
 DEU-NI L515 B6 B82
 DEU-NI L569 WesStr_W B446
+DEU-NI L580 NeueStr_N NeueStr_S
 DEU-NI L625 L295 A39
 DEU-NI L776 L338_W L340
 DEU-NI L820 A29 L825/L862
@@ -7833,6 +7835,11 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
 #DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
 
+#DEU-BY  Kempten                      DEU-BY  Augsburg Hbf          #2023, RE7
+#DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
+#DEU-BY  Weilheim (Oberbayern)        DEU-BY  München Hbf           #2023, RB6
+
+
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
 #ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
@@ -7901,6 +7908,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BY  STR18 München Hbf Süd          DEU-BY  München Schwanseestraße                           #2022
 #DEU-BY  STR19 München Hbf Süd          DEU-BY  München Berg am Laim                              #2022
 #DEU-BY  STR21 München Maxmonument      DEU-BY  München St.-Veit-Straße                           #2022
+#DEU-BY  STR19 München Pasing           DEU-BY  München Hbf                                       #2023
 
 #DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
 #DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
