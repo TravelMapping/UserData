@@ -2904,30 +2904,53 @@ WY GraLoopRd NEntRd_W NEntRd_E         # -- Yellowstone NP - Grand Loop Road
 WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
 # Canada
-# British Columbia (CAN-BC)
 # ---------------------
-BC TCHMai 3 27
+
+# Trans Canada Highway
+## Main Route
+BC TCHMai 3 BC TCHMai 27
+SK TCHMai RR2212 SK TCHMai 258
+SK TCHMai 232 MB TCHMai MB207_W
+ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
+
+## Yellowhead Route
+
+## Voyaguers Route
+ON TCHVoy ON17 ON71_S
+
+# British Columbia (CAN-BC)
 BC BC1 3 27
 BC BC7 BC99 RupSt
 BC BC99 USA/CAN SeaDr
 
 # Manitoba (CAN-MB)
 # ---------------------
+## Provincial Trunk Highways
+MB MB1 SK/MB MB207_W
 MB MB75 USA/CAN MB100
+
+### Winnepeg City Routes
 MB Rte42 MB75/100 Rte165
+MB Rte52 MB1_E Rte57_E
 MB Rte90 Rte165 WelAve
-MB Rte165 Rte90 Rte42
+MB Rte135 MB1/150 MB100/101
 MB Rte145 Rte90 Rte80
+MB Rte150 MB1/135 Rte52
+MB Rte165 Rte90 Rte42
 
 # Ontario (CAN-ON)
 # ---------------------
-ON TCHLak 2ndSt_W JohnSt_Thu
-ON TCHVoy ON17 ON71_S
 ON ON11 ON71_S ON71_N
 ON ON11 ON17_N JohnSt_Thu
 ON ON17 2ndSt_W JohnSt_Thu
 ON ON61 USA/ON ON11/17
 ON ON71 USA/ON ON17
+
+# Saskatchewan (CAN-SK)
+SK SK1 RR2212 258
+SK SK1 232 SK/MB
+SK SK6 RingRd_S RingRd_N
+SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Mexico
 # Baja California (MEX-BC)
