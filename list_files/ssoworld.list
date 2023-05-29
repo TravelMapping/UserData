@@ -2929,6 +2929,7 @@ SK TCHMai RR2212 MB TCHMai MB207_W
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 MB TCHWin 42 1
+MB TCHPor MB240_N MB240_S
 
 ## Yellowhead Route
 
@@ -2944,9 +2945,14 @@ BC BC99 USA/CAN SeaDr
 # ---------------------
 ## Provincial Trunk Highways
 MB MB1 SK/MB MB207_W
+MB MB1APor MB240_N MB240_S
 MB MB75 USA/CAN MB100
 MB MB100 42 1
 MB MB101 42 1
+MB MB240 MB1 MB1A_E
+
+## Provincial Roads
+MB MB240 MB1 MB1A_W
 
 ### Winnepeg City Routes
 MB Rte42 MB75/100 Rte165
