@@ -40,8 +40,24 @@ FL FLTpk 5 47 #1 lane each way is express south of 11A
 FL FLTpk 47A 86
 FL FLTpk 249 272
 FL FLTpkMia I-95/826 4X
+FL US19 CR611 FL580
+FL US192 WorDr I-4
 FL FLA1AFor I-395 FouSt
+FL FL9BJac I-295 CR2209
+FL FL13 AcoExpy_S RivAve
+FL FL60 FL589(2A) I-275
 FL FL112 US27 I-95/195
+FL FL202 I-95 SanPabRd
+FL FL408 1 21
+FL FL414 34(429) 4B
+FL FL414 4B 9
+FL FL414 MaiSumBlvd HopeRd
+FL FL417 26 38 #under construction from 6 to 26
+FL FL429 30 34 #under construction from 18 to 30
+FL FL453 FL429 FL46
+FL FL528 I-4 13 #under construction from 13 to 16
+FL FL589 1 14 #northbound is split into 2 2-lane roadways near 2B
+FL FL618 8 10
 FL FL826 FL94 FLTpk
 FL FL836 FLTpk(26) I-95/395
 FL FL856 US1 FLA1A
