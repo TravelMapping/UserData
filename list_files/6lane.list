@@ -176,6 +176,53 @@ MN US212 MN5/60 I-494
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
 
+
+NJ I-76 PA/NJ 1A
+NJ I-676 1 NJ/PA #tiny bit of 2 lanes southbound near 5B
+NJ I-78 PA/NJ 29
+NJ I-78 29 59
+NJ I-78 NJ139 MarBlvd
+NJ I-278 3 NJ/NY
+NJ I-80 4A 47A
+NJ I-80 47A 68
+NJ I-280 4 13
+NJ I-280 15 17
+NJ I-287 I-95 21
+NJ I-287 21 59
+NJ I-287 66 NJ/NY
+NJ I-95 6A NJ/NY #south almost to PA/NJ
+NJ I-95Sec I-95_S 16W
+NJ I-195 1A 1C
+NJ I-295 13 26
+NJ I-295 26 26A #the connection from NJ42 to I-76 is 6 lanes, and this is the only route covering that segment
+NJ I-295 26A NJ/PA
+NJ AtlCityExpy 1 31
+NJ GarStaPkwy 36 168 #under construction south of 36
+NJ NJTpk 4 72(95)
+NJ US1 NorAve US1TrkJer_S
+NJ US9 NJ35_Say SmiSt
+NJ US9 NJ440 NJ184
+NJ US22 NJ27 US1/9
+NJ US30 PA/NJ CR537
+NJ US46 NJ21 NJ20
+NJ NJ3 US46 BloAve
+NJ NJ3 NJ21 NJ495
+NJ NJ19 GarStaPkwy I-80
+NJ NJ21 US1/9 NJ27
+NJ NJ21 3rdAve 12
+NJ NJ23 I-80 AlpsRd
+NJ NJ24 7 9
+NJ NJ29 I-195/295 NJ129
+NJ NJ29 US1 CalSt
+NJ NJ42 AtlCityExpy I-295
+NJ NJ90 PA/NJ HadRd
+NJ NJ120 NJ3 CR503
+NJ NJ139 CenAve MarBlvd #I guess CenAve is the point for 139U
+NJ NJ208 BecDic I-287
+NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
+NJ NJ495 NJ3 NJ/NY
+
+
 NH I-93 MA/NH I-89
 NH I-95 MA/NH NH/ME
 NH I-293 I-93_S 2
