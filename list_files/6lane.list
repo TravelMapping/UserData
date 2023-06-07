@@ -334,7 +334,17 @@ VA I-64 234 267
 VA I-64 276C 291
 VA I-464 1 4
 
+WI US10 287 291 # Need to verify west of 286
+WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell in MIL)
+WI US41 113 139 # Fox Cities - south end of 6ln is 1 mile south of interchange
+WI US41 161 173 # Green Bay - south end of 6ln is 1 mile south of interchange
+WI I-43 61 # does not include west of Hale Int (I-894), north end ambigous - under construction (expansion) System Ints 316 (Mitchell on 94) and 72(Marquette) are 2 ln thru
+WI I-90 108(90) WI/IL
 WI I-94 MN/WI 4
+WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
+WI I-94 290 WI/IL # 4ln throu
+WI US51 187 193
+WI WI175 WI59 LloydSt
 
 #EUROPE#
 ##Belgium##
