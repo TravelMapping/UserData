@@ -7,6 +7,65 @@ CO I-70 247 286
 CO I-76 1A 6
 CO I-225 1 12 
 
+DE I-95 MD/DE 6A
+DE I-95 11 DE/PA
+DE I-295 I-95 DE/NJ
+DE I-495 I-95 5 
+DE DE1 147 156
+
+FL I-4 I-275 132
+FL I-10 10 22
+FL I-10 196 203A
+FL I-10 350 I-95
+FL I-110 3 6
+FL I-75 1 23 #there's a tiny bit of 2 lane northbound at 19
+FL I-75 101 FL/GA
+FL I-175 I-275 MLKJrSt
+FL I-275 17A 20
+FL I-275 20 22
+FL I-275 22 45B
+FL I-275 45B I-75_N
+FL I-375 I-275 10thSt
+FL I-95 1A 351B
+FL I-95 352C FL/GA
+FL I-195 1 5
+FL I-295 I-95 22
+FL I-295 41 45
+FL I-295 52 58
+FL I-295 58 61
+#FL I-395 under construction
+FL I-595 I-75 10
+FL I-595 10 12
+FL FLTpk 5 47 #1 lane each way is express south of 11A
+FL FLTpk 47A 86
+FL FLTpk 249 272
+FL FLTpkMia I-95/826 4X
+FL US19 CR611 FL580
+FL US192 WorDr I-4
+FL FLA1AFor I-395 FouSt
+FL FL9BJac I-295 CR2209
+FL FL13 AcoExpy_S RivAve
+FL FL60 FL589(2A) I-275
+FL FL112 US27 I-95/195
+FL FL202 I-95 SanPabRd
+FL FL408 1 21
+FL FL414 34(429) 4B
+FL FL414 4B 9
+FL FL414 MaiSumBlvd HopeRd
+FL FL417 26 38 #under construction from 6 to 26
+FL FL429 30 34 #under construction from 18 to 30
+FL FL453 FL429 FL46
+FL FL528 I-4 13 #under construction from 13 to 16
+FL FL589 1 14 #northbound is split into 2 2-lane roadways near 2B
+FL FL618 8 10
+FL FL826 FL94 FLTpk
+FL FL836 FLTpk(26) I-95/395
+FL FL856 US1 FLA1A
+FL FL869 I-75/595 21
+FL FL874 FLTpk FL826
+FL FL924 I-75 32ndAve
+
+
 IL I-55 0 3
 IL I-55 3 11
 IL I-55 82 92
@@ -57,6 +116,19 @@ IN I-94 0 IN/MI
 IN I-465 0 25
 IN I-465 25 53
 
+IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
+IA I-35 68 94 # south end is 1 mi south of interchange
+IA I-74 3 IA/IL
+IA I-80 NE/IA 5 # Council Bluffs
+IA I-80 118 143 # Des Moines
+IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-235 I-80(123) I-80(137)
+IA I-380 16 24B
+IA I-380 0 2
+IA I-480 NE/IA I-29
+IA US218 71(380) MitAve
+IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+
 MA I-84 CT/MA I-90
 MA I-90 78 134
 MA I-91 CT/MA 1
@@ -69,6 +141,15 @@ MA I-195 RI/MA 24
 MA I-290 12 32
 MA I-391 1 6
 MA I-495 19 119
+MA US1 MA99_S MA60 #short piece of 2 lanes southbound near BeaSt
+MA US3 72 MA/NH
+MA LowCon 2 5
+MA MA2 127 135
+MA MA3 38 43
+MA MA18 US6 I-195
+MA MA24 22 41
+MA MA25 1 10
+MA MA57 MA159 US5
 
 ME I-95 NH/ME 44
 ME I-295 7 8A
@@ -117,6 +198,53 @@ MN US212 MN5/60 I-494
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
 
+
+NJ I-76 PA/NJ 1A
+NJ I-676 1 NJ/PA #tiny bit of 2 lanes southbound near 5B
+NJ I-78 PA/NJ 29
+NJ I-78 29 59
+NJ I-78 NJ139 MarBlvd
+NJ I-278 3 NJ/NY
+NJ I-80 4A 47A
+NJ I-80 47A 68
+NJ I-280 4 13
+NJ I-280 15 17
+NJ I-287 I-95 21
+NJ I-287 21 59
+NJ I-287 66 NJ/NY
+NJ I-95 6A NJ/NY #south almost to PA/NJ
+NJ I-95Sec I-95_S 16W
+NJ I-195 1A 1C
+NJ I-295 13 26
+NJ I-295 26 26A #the connection from NJ42 to I-76 is 6 lanes, and this is the only route covering that segment
+NJ I-295 26A NJ/PA
+NJ AtlCityExpy 1 31
+NJ GarStaPkwy 36 168 #under construction south of 36
+NJ NJTpk 4 72(95)
+NJ US1 NorAve US1TrkJer_S
+NJ US9 NJ35_Say SmiSt
+NJ US9 NJ440 NJ184
+NJ US22 NJ27 US1/9
+NJ US30 PA/NJ CR537
+NJ US46 NJ21 NJ20
+NJ NJ3 US46 BloAve
+NJ NJ3 NJ21 NJ495
+NJ NJ19 GarStaPkwy I-80
+NJ NJ21 US1/9 NJ27
+NJ NJ21 3rdAve 12
+NJ NJ23 I-80 AlpsRd
+NJ NJ24 7 9
+NJ NJ29 I-195/295 NJ129
+NJ NJ29 US1 CalSt
+NJ NJ42 AtlCityExpy I-295
+NJ NJ90 PA/NJ HadRd
+NJ NJ120 NJ3 CR503
+NJ NJ139 CenAve MarBlvd #I guess CenAve is the point for 139U
+NJ NJ208 BecDic I-287
+NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
+NJ NJ495 NJ3 NJ/NY
+
+
 NH I-93 MA/NH I-89
 NH I-95 MA/NH NH/ME
 NH I-293 I-93_S 2
@@ -162,7 +290,56 @@ NY I-678 PerRd 19
 NY I-295 1 12
 NY I-495 14 72
 
+PA I-70 18 21
+PA I-76 28 48
+PA I-76 67 75
+PA I-76 201 226
+PA I-76 242 247
+PA I-76 339 344
+PA I-76 349 PA/NJ
+PA I-78 53 60
+PA I-78 75 PA/NJ
+PA I-79 34 38
+PA I-79 54 59
+PA I-79 72 76
+PA I-81 57 72
+PA I-81 185 188
+PA I-83 41A 44B
+PA I-83 47 51
+PA I-84 I-81/6 2
+PA I-95 DE/PA 40
+PA I-276 326 351
+PA I-279 2A 5
+PA I-295 8 PA/NJ
+PA I-376 79B 85
+PA I-380 2(84) I-81/6
+PA I-476 9 31B
+PA I-676 5thSt PA/NJ
+PA US1 I-76(339) WisAve
+PA US1 PA132 I-276
+PA US22 I-376(79B) I-376(85)
+PA US30 PA283 PA23_E
+PA US202 US30 US422
+PA US222 US422_W PapMillRd 
+PA US422Rea US222_S PapMillRd
+PA PA63 US1_N KniRd
+PA BetRossBri I-95 PA/NJ
+
 SD I-29 75 84
+
+UT I-15 5 6 
+UT I-15 8 10
+UT I-15 13 16
+UT I-15 248 362
+UT I-80 113 120
+UT I-80 123 128
+UT I-80 130 146
+UT I-215 1 26
+UT US89 I-15(324) 397
+UT UT154 1 3
+UT UT154 7 9
+UT UT154 11 16
+UT UT201 10 I-15/80
 
 VA I-64 173 186
 VA I-64 190 197
@@ -171,7 +348,18 @@ VA I-64 234 267
 VA I-64 276C 291
 VA I-464 1 4
 
+WI US10 287 291 # Need to verify west of 286
+WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell in MIL)
+WI US41 113 139 # Fox Cities - south end of 6ln is 1 mile south of interchange
+WI US41 161 173 # Green Bay - south end of 6ln is 1 mile south of interchange
+WI I-43 61 73C # does not include west of Hale Int (I-894), north end ambigous - under construction (expansion) System Ints 316 (Mitchell on 94) and 72(Marquette) are 2 ln thru
+WI I-90 108(90) WI/IL # 4-lane NB through 142 (Beltline in MSN)
 WI I-94 MN/WI 4
+WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
+WI I-94 290 WI/IL # 4ln throu
+WI I-794 1A 3
+WI US51 187 193
+WI WI175 WI59 LloydSt
 
 #EUROPE#
 ##Belgium##
