@@ -123,7 +123,7 @@ IA I-80 NE/IA 5 # Council Bluffs
 IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
 IA I-80 237 249 # Iowa City - most of it under construction as of 2023
 IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B
+IA I-380 16 24B # Waterloo
 IA I-380 0 2
 IA I-480 NE/IA I-29
 IA US218 71(380) MitAve
