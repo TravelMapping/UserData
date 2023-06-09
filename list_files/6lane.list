@@ -66,6 +66,29 @@ FL FL874 FLTpk FL826
 FL FL924 I-75 32ndAve
 
 
+GA I-16 164 165 #construction in Macon
+GA I-20 24 93
+GA I-20 194 200 #construction into SC
+GA I-520 1 5
+GA I-75 FL/GA 165 #brief 2 lane southbound at 156
+GA I-75 177 GA/TN
+GA I-475 I-75_S 15
+GA I-675 5 I-285
+GA I-85 35 78
+GA I-85 78 129
+GA I-185 1 12
+GA I-285 GA279 20
+GA I-285 20 62
+GA I-95 FL/GA GA/SC
+GA US78 GA410(1) GA410(2)
+GA US78 GA410(2) WParkPlaBlvd
+GA GA141 I-285 PeaIndBlvd
+GA GA166 SylRd I-75/85
+GA GA232 SNixMemDr I-20/520
+GA GA400 1A 4
+GA GA400 4 GA369
+
+
 IL I-55 0 3
 IL I-55 3 11
 IL I-55 82 92
@@ -117,13 +140,13 @@ IN I-465 0 25
 IN I-465 25 53
 
 IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange
+IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
 IA I-74 3 IA/IL
 IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines
+IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
 IA I-80 237 249 # Iowa City - most of it under construction as of 2023
 IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B
+IA I-380 16 24B # Waterloo
 IA I-380 0 2
 IA I-480 NE/IA I-29
 IA US218 71(380) MitAve
@@ -197,6 +220,41 @@ MN US212 MN5/60 I-494
 
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
+
+
+NC I-26Fau TN/NC 9 #doesn't quite make it to 9
+NC I-26 31 33 #construction from 33 to 49
+NC I-40 44 46
+NC I-40 66 72 #westbound doesn't quite make it to 66
+NC I-40 180 188
+NC I-40 188 196
+NC I-40 206 259 #very brief 4 lane between the ramps at 219 and 220, but in the "wrong" order; ditto westbound with 222 and 223
+NC I-40 270 301
+NC I-40 301 306 #construction from 306 to 312
+NC I-240 3A 4A
+NC I-240 5B 7 #very brief westbound 2 lanes at 6
+NC I-440 4 16 #construction west of 4
+NC I-540 1 16
+NC I-540 16 26
+NC NC540 55 1
+NC I-840 103(73) 14
+NC I-73 95 103
+NC I-73 103 107
+NC NC74 43 53 #westbound left lane temporarily ends at 43
+NC I-74Hig 67 71B
+NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
+NC I-277 1B 2B
+NC I-277 2B 5
+#NC I-85 
+NC I-485 30 41
+NC I-485 59 I-85(48) #construction from 51 to 59
+NC NC885 1 5
+NC I-885 9 10
+NC I-885 10 13
+NC I-87 16(440) 3
+NC I-87 3 13
+NC I-87FutRoc 13 14
+#NC I-95 construction from 58 to 81
 
 
 NJ I-76 PA/NJ 1A
@@ -325,6 +383,33 @@ PA US422Rea US222_S PapMillRd
 PA PA63 US1_N KniRd
 PA BetRossBri I-95 PA/NJ
 
+
+RI I-95 24B RI/MA
+RI I-195 1 RI/MA
+RI I-295 9A RI/MA
+RI US6 I-295(9) US6Alt_E #under construction east of this
+RI RI4 7B I-95
+
+
+SC I-20 51 82
+SC I-26 101 108B #construction west of 101
+SC I-26 108B 125
+SC I-26 194 220
+SC I-26 220 221
+SC I-126 I-26 US21/176
+SC I-126 US21/176 GadSt
+SC I-77 I-26 24
+SC I-77 77 SC/NC
+SC I-85 19 80 #construction north of 80 all the way to SC/NC
+SC I-385 26 42
+SC I-95 160 170
+SC US17 I-26(220) SC703
+SC SC12 US378 US21
+SC SC22 SC31 US17
+SC SC31 SC707 US501
+SC SC31 US501 SC9
+
+
 SD I-29 75 84
 
 UT I-15 5 6 
@@ -353,7 +438,7 @@ WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell i
 WI US41 113 139 # Fox Cities - south end of 6ln is 1 mile south of interchange
 WI US41 161 173 # Green Bay - south end of 6ln is 1 mile south of interchange
 WI I-43 61 73C # does not include west of Hale Int (I-894), north end ambigous - under construction (expansion) System Ints 316 (Mitchell on 94) and 72(Marquette) are 2 ln thru
-WI I-90 108(90) WI/IL # 4-lane NB through 142 (Beltline in MSN)
+WI I-90 108 WI/IL # 4-lane NB through 142 (Beltline in MSN)
 WI I-94 MN/WI 4
 WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
 WI I-94 290 WI/IL # 4ln throu
