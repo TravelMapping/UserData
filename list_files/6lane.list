@@ -117,10 +117,10 @@ IN I-465 0 25
 IN I-465 25 53
 
 IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange
+IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
 IA I-74 3 IA/IL
 IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines
+IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
 IA I-80 237 249 # Iowa City - most of it under construction as of 2023
 IA I-235 I-80(123) I-80(137)
 IA I-380 16 24B
