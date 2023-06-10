@@ -245,16 +245,28 @@ NC I-74Hig 67 71B
 NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
 NC I-277 1B 2B
 NC I-277 2B 5
-#NC I-85 
+NC I-85 10A 163
+NC I-85 172 178
 NC I-485 30 41
 NC I-485 59 I-85(48) #construction from 51 to 59
 NC NC885 1 5
 NC I-885 9 10
 NC I-885 10 13
+NC I-85BLGre 33 I-85_N #very brief 4 lane between the ramps at 36A and 220(40), but in the "wrong" order; ditto southbound with 222(40) and 223(40)
 NC I-87 16(440) 3
 NC I-87 3 13
 NC I-87FutRoc 13 14
 #NC I-95 construction from 58 to 81
+NC US1 69A 71
+NC US1 98 I-40
+NC US15 108B 174A(85)
+NC US17 NC24/53_W NC24/53_E
+NC US29 135 136
+NC US74 242 244
+NC US74 253 255
+NC US421 238 240
+NC NC87 23(295) OliSt
+NC NC147 6 7
 
 
 NJ I-76 PA/NJ 1A
