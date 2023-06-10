@@ -1,5 +1,15 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
+CA I-5 MEX/USA 133 # 5 or less thru east-LA Int
+CA I-5 134B 221
+CA I-5 458A 525B
+CA I-5 664 685
+CA I-8 1 19 # 2-ln through exit 2
+CA I-15 6B 184A
+CA I-80 1A 128
+CA I-805 I-5(1A) I-5(31)
+
+CA CA15 1D 6B # some 5 or less through system interchanges with CA 94 and I-805
 
 CO I-25 128 243
 CO I-70 232 243
@@ -221,6 +231,11 @@ MN US212 MN5/60 I-494
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
 
+NE I-80 395 NE/IA
+NE I-680 I-80 5
+
+NE US6 NE31_N I-680
+NE US75 ChaRd SorPkwy
 
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
 NC I-26 31 33 #construction from 33 to 49
@@ -443,7 +458,13 @@ WI I-94 MN/WI 4
 WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
 WI I-94 290 WI/IL # 4ln throu
 WI I-794 1A 3
+
 WI US51 187 193
+WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
+WI US151 97 100
+
+WI WI32 I-41(168A) WI29_E
+WI WI172 I-41 WebSt
 WI WI175 WI59 LloydSt
 
 #EUROPE#
