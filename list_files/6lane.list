@@ -1,5 +1,17 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
+
+AZ I-10 117 164
+AZ I-10 185 263
+AZ I-17 194 229
+AZ I-19 99 101
+AZ US60 201(17) 193
+# AZ AZ143 under construction
+AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
+AZ AZ101 1 61B
+AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ303 104 131
+ 
 CA I-5 MEX/USA 133 # 5 or less thru East-LA Int
 CA I-5 134B 221
 CA I-5 458A 525B
@@ -57,10 +69,10 @@ CA CA52 7A 13
 CA CA54 1A 12(125)
 CA CA55 3 18
 CA CA57 1D 25B
-CA CA58 CA99(24) 117
+CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
 CA CA60 I-10(16B) 66
 CA CA67 1C 2
-CA CA71 4 15 # GP + HOV
+CA CA71 4 15
 CA CA73 I-5 18
 CA CA78 1A 17A
 CA CA84 UniAve I-880(21)
@@ -70,6 +82,7 @@ CA CA90 1 SlaAve
 CA CA91 6 65B
 CA CA92 13 26
 CA CA94 1A 10A
+# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
 CA CA99 I-5(221) 57
 CA CA99 94 143
 CA CA99 151 157
