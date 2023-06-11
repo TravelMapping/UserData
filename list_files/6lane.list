@@ -456,7 +456,9 @@ VA I-664 1 5
 VA I-664 13 15
 VA I-66 40 64
 VA I-66 GeoWasPkwy VA/DC
-#VA I-81 
+VA I-81 TN/VA 7
+VA I-81 72 81
+VA I-81 141 143 #construction south to 137
 VA I-581 1 6
 VA I-95 51 170
 VA I-95 170 VA/DC
@@ -465,6 +467,23 @@ VA I-295 9 43 #brief 2 lanes northbound at merge from 28A
 VA I-295 43 53
 VA I-395 1 VA/DC
 VA I-495 MD/VA VA/DC
+VA GWMemPkwyCry ReaNatAir_N I-395
+VA US1 15thSt I-395(8C)
+VA US50 SR608 I-66(57)
+VA US50 10thSt GeoWasPkwy #not quite a freeway west of 10thSt
+VA US220 US220BusRoa_S I-81(143)
+VA VA7 US15/7Bus AlgPkwy
+VA VA27 I-395 BouDr
+VA VA28 US29 I-66 #it may be continuous at I-66 post-construction
+VA VA28 I-66 VA7
+VA VA76 VA150 I-195
+VA VA110 I-395 MemAve
+VA VA150 I-95/895 VA76
+VA VA195 I-195 2ndSt
+VA VA267 2 9
+VA VA267 9 18
+VA VA286 I-95 BarRd
+VA VA286 US29 US50
 
 
 WI US10 287 291 # Need to verify west of 286
