@@ -190,6 +190,10 @@ GA GA232 SNixMemDr I-20/520
 GA GA400 1A 4
 GA GA400 4 GA369
 
+HI I-H1 1A 18
+HI I-H1 19 AinAve
+HI I-H2 1 5
+HI I-H201 1B I-H1
 
 IL I-55 0 3
 IL I-55 3 11
@@ -420,6 +424,11 @@ NJ NJ139 CenAve MarBlvd #I guess CenAve is the point for 139U
 NJ NJ208 BecDic I-287
 NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
 NJ NJ495 NJ3 NJ/NY
+
+NM I-25 220 242
+NM I-40 154 175
+NM I-10 144 NM/TX # SB at TX border drops lane 3 right before exit
+NM US285 166 168 #only section that is 6 - the rest are 5 lane (truck lanes?)
 
 NV I-11 14 23
 NV I-15 1 54
