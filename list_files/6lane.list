@@ -1,6 +1,108 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
 
+AZ I-10 117 164
+AZ I-10 185 263
+AZ I-17 194 229
+AZ I-19 99 101
+AZ US60 201(17) 193
+# AZ AZ143 under construction
+AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
+AZ AZ101 1 61B
+AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ303 104 131
+ 
+CA I-5 MEX/USA 133 # 5 or less thru East-LA Int
+CA I-5 134B 221
+CA I-5 458A 525B
+CA I-5 664 685
+CA I-8 1 19 # 2-ln through exit 2
+CA I-10 1A 16A # 5 or less thru East LA Int
+CA I-10 134C(5) 135B(5)
+CA I-10 19A 145
+CA I-15 6B 184A
+CA I-80 1A 128
+CA I-105 1D 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
+CA I-405 I-5(94A) I-5(158)
+CA I-605 1A HunDr
+CA I-805 I-5(1A) I-5(31)
+CA I-205 I-580 I-5
+CA I-210 1A 25
+CA I-210 26 45
+CA I-110 1A 21
+CA I-710 1B 21
+CA I-215 1 48
+CA I-215 54A 54B
+CA I-238 14 16
+CA I-280 I-680/101 57
+CA I-380 5A 6
+CA I-580 7A 12
+CA I-580 13(80) 65
+CA I-680 I-280/101 58A
+CA I-880 I-280 46B
+CA I-980 1B 2B
+CA I-80BLSac 1A 14C
+
+CA US50 1A 35
+CA US101 1A 1C
+CA US101 1E 87B
+CA US101 94B 105
+CA US101 167 175 # undergoing expansion at west end
+CA US101 355 433B
+CA US101 437 463
+CA US101 479 498 # undergoing expansion at south end
+
+CA CA1 508 509B
+CA CA2 12 21
+CA CA4 66A 68A
+CA CA11 1A 1B
+CA CA14 I-5 44
+CA CA15 1D 6B # some 5 or less through system interchanges with CA 94 and I-805
+CA CA17 22 26
+CA CA22 1 17A
+CA CA23 13 20
+CA CA24 2 15
+CA CA41 126A 135
+CA CA52 1A 1B
+CA CA52 3 6
+CA CA52 7A 13
+CA CA54 1A 12(125)
+CA CA55 3 18
+CA CA57 1D 25B
+CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
+CA CA60 I-10(16B) 66
+CA CA67 1C 2
+CA CA71 4 15
+CA CA73 I-5 18
+CA CA78 1A 17A
+CA CA84 UniAve I-880(21)
+CA CA85 1A 24B
+CA CA87 1A 9
+CA CA90 1 SlaAve
+CA CA91 6 65B
+CA CA92 13 26
+CA CA94 1A 10A
+# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
+CA CA99 I-5(221) 57
+CA CA99 94 143
+CA CA99 151 157
+CA CA99 171 185
+CA CA99 198 201
+CA CA99 209 264A
+CA CA99 286 6(50)
+CA CA110 21 31B
+CA CA118 22 46A
+CA CA125 15 22
+CA CA133 10A 14
+CA CA163 2A I-15
+CA CA168 1A 7
+CA CA170 5 11B
+CA CA178 MSt 6
+CA CA180 58 64
+CA CA210 45 83 # remainder under expansion as of 5/2023
+CA CA237 3A 9B
+CA CA905 2B USA/MEX
+
 CO I-25 128 243
 CO I-70 232 243
 CO I-70 247 286
@@ -88,6 +190,10 @@ GA GA232 SNixMemDr I-20/520
 GA GA400 1A 4
 GA GA400 4 GA369
 
+HI I-H1 1A 18
+HI I-H1 19 AinAve
+HI I-H2 1 5
+HI I-H201 1B I-H1
 
 IL I-55 0 3
 IL I-55 3 11
@@ -104,9 +210,7 @@ IL I-64 3 16
 IL I-74 0 3
 IL I-74 89 93
 IL I-74 99 102
-IL I-80 137 155
-IL I-80 161 IL/IN
-IL I-88 113 I-294_N
+IL I-80 137 IL/IN
 IL I-90 0 17
 IL I-90 17 84
 IL I-90 100 107
@@ -221,6 +325,11 @@ MN US212 MN5/60 I-494
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
 
+NE I-80 395 NE/IA
+NE I-680 I-80 5
+
+NE US6 NE31_N I-680
+NE US75 ChaRd SorPkwy
 
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
 NC I-26 31 33 #construction from 33 to 49
@@ -314,6 +423,22 @@ NJ NJ208 BecDic I-287
 NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
 NJ NJ495 NJ3 NJ/NY
 
+NM I-25 220 242
+NM I-40 154 175
+NM I-10 144 NM/TX # SB at TX border drops lane 3 right before exit
+NM US285 166 168 #only section that is 6 - the rest are 5 lane (truck lanes?)
+
+NV I-11 14 23
+NV I-15 1 54
+NV I-80 9 20
+NV I-215 2 12
+NV I-515 61 76
+NV I-580 12 36
+
+NV US95 14(11) 96
+NV US395 12(580) 70
+
+NV CR215 12 32
 
 NH I-93 MA/NH I-89
 NH I-95 MA/NH NH/ME
@@ -455,7 +580,13 @@ WI I-94 MN/WI 4
 WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
 WI I-94 290 WI/IL # 4ln throu
 WI I-794 1A 3
+
 WI US51 187 193
+WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
+WI US151 97 100
+
+WI WI32 I-41(168A) WI29_E
+WI WI172 I-41 WebSt
 WI WI175 WI59 LloydSt
 
 #EUROPE#
