@@ -1,6 +1,50 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
 
+AL I-10 13 26B #construction at 13; may currently begin just east
+AL I-20 71 106
+AL I-20 118 130
+AL I-20 132 162
+AL I-20 173 188
+AL I-20 205 AL/GA
+AL I-22 52 57
+AL I-22 63 I-65
+AL I-59 71 106
+AL I-59 118 132
+AL I-359 I-20/59 2
+AL I-459 6 32
+AL I-65 0 13
+AL I-65 167 179
+AL I-65 238 289
+AL I-165 1 US90
+AL I-565 1 7A
+AL I-565 9 19C
+AL I-85 I-65 9
+AL US231 US431/53 US72_W
+AL US280 I-20/59 US31_S
+AL US280 US31_S HolBlvd
+AL AL255 OldMadPike US72
+
+
+AR I-30 116A 138 #under construction west to 111
+AR I-30 138 143 #4 lanes between 139B and 140A but in the "wrong" order; will probably be 6 after construction
+AR I-430 1 13
+AR I-630 1 8
+AR I-40 125 147
+AR I-40 147 153B
+AR I-40 153B 155
+AR I-40 277 279B
+AR I-40 280 AR/TN
+AR I-440 I-30/530 11
+AR AR440 11 12
+AR I-49Tex 26 29B
+AR I-49Tex 29B 31
+AR I-49 62 83 #construction north to 85
+AR I-49 85 88
+AR US67 I-40(155) MainSt
+AR US67 AR161 AR5/321
+
+
 AZ I-10 117 164
 AZ I-10 185 263
 AZ I-17 194 229
