@@ -300,6 +300,33 @@ IA I-480 NE/IA I-29
 IA US218 71(380) MitAve
 IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
+
+LA I-10 8 25 #doesn't quite make it west to 8
+LA I-10 30B 33
+LA I-10 33 34
+LA I-10 34 44
+LA I-10 103 115
+LA I-10 153 155B
+LA I-10 155B 159
+LA I-10 159 173
+LA I-10 220 234A
+LA I-10 234C 267
+LA I-110 I-10 8 #southbound is 2 lanes from 1D to 1E in the "wrong" order
+LA I-610 1A 4A
+LA I-910 US90Bus_W 13
+LA I-910 13 I-10
+LA I-12 1A 19
+LA I-12 59 65 #construction may not be done, but it's pretty close
+LA I-12 80 85
+LA I-20 10 19A
+LA I-20 19A 20C
+LA I-20 115 116B
+LA I-10 117C 118
+LA I-49 199 206
+LA US90 GirRd LA182 #why is there no point at 115A?
+LA LA3139 LARd LA3154
+
+
 MA I-84 CT/MA I-90
 MA I-90 78 134
 MA I-91 CT/MA 1
