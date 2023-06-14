@@ -788,6 +788,7 @@ WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq 
 WI I-94 290 WI/IL # 4ln throu
 WI I-794 1A 3
 
+WI US12 255 267
 WI US51 187 193
 WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
 WI US151 97 100
@@ -795,6 +796,53 @@ WI US151 97 100
 WI WI32 I-41(168A) WI29_E
 WI WI172 I-41 WebSt
 WI WI175 WI59 LloydSt
+
+# CANADA
+AB AB2 230 305
+AB AB2 391 394
+AB AB2 517 19Ave
+AB AB2 AB14 18(216) # 2 at 216's Exit 18 is an at-grade
+AB AB14 AB2 AB216_N
+AB AB16 378 383
+AB AB16 389 405
+AB AB201 38 60
+AB AB201 68 101
+AB AB201SWC AB2 26
+# AB216 has several sections of 4-lane under construction
+AB AB216 14 16
+AB AB216 18 33
+AB AB216 46 66
+AB AB216 73 78
+AB CroTrl GleTrl AB201
+AB TCHMai 177 SarTrl # section to Exit 172 under construction
+AB TCHMai 68St AB201_E
+
+BC TCHMai 26 *59 # The 6-lane east end is at this non-interchange.
+BC TCHMai 362 369
+BC BC91 8 9 # Just the bridge - a waste.
+
+ON ON7Wat RR58 RR28
+ON ON7Wat ON8_E ON85
+ON ON8 RR58 RR38
+ON ON400 20 105
+ON ON401 2 63 # west of exit 2 under construction with Gorde Howe bridge
+ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
+ON ON401 611 623
+ON ON403 70 104
+ON ON403 109 ON401_E
+ON ON404 17 45
+ON ON407 1 112
+ON ON409 ON427 ON401
+ON ON410 ON403 18
+ON ON417 112 145
+ON ON427 TheQueWay 19
+ON ONQEW RR124 2
+ON ONQEW 34 99
+ON ONQEW 101 139
+ON AllRd LawAve TraRd
+ON DonValPkwy QueSt ON401/404
+ON GarExpy 139 157
+
 
 #EUROPE#
 ##Belgium##
