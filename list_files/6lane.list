@@ -58,7 +58,8 @@ AZ AZ303 104 131
  
 CA I-5 MEX/USA 133 # 5 or less thru East-LA Int
 CA I-5 134B 221
-CA I-5 458A 525B
+CA I-5 458A 485 # drops to 4 north of SR 12
+CA I-5 506 525B
 CA I-5 664 685
 CA I-8 1 19 # 2-ln through exit 2
 CA I-10 1A 16A # 5 or less thru East LA Int
@@ -511,13 +512,14 @@ NM US285 166 168 #only section that is 6 - the rest are 5 lane (truck lanes?)
 
 NV I-11 14 23
 NV I-15 1 54
-NV I-80 9 20
+NV I-80 12 18 # west of here is 5 lanes to Exit 9, east of here to 21 is auxiliary lanes between interchanges
 NV I-215 2 12
 NV I-515 61 76
-NV I-580 12 36
+# NV I-580 8 10 # 6 lanes over Lakeview Hill, SB may be an auxiliary lane, remove comment if we want to include this
+NV I-580 16 36 # Lane drop 3/4 mile south of Exit 16, most of distance between 12 and 16 is 4 lanes
 
 NV US95 14(11) 96
-NV US395 12(580) 70
+NV US395 16(580) 70
 
 NV CR215 12 32
 
@@ -551,7 +553,7 @@ NY I-890 4C 7
 NY I-87 I-278 16(NYST)
 NY I-87 23(NYST) 24(NYST)
 NY I-87 1 22
-NY I-787 1 9
+NY I-787 1 9 # 8 lanes over Collar City Bridge - do we want to count these as auxiliary or mainline?
 NY I-287 15(87) 11
 NY I-95 NJ/NY 6A
 NY I-95 6B NY/CT
