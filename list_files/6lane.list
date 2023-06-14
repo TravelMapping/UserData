@@ -302,6 +302,25 @@ IA US218 71(380) MitAve
 IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
 
+KY I-64 IN/KY 1
+KY I-64 1 6 #brief eastbound 2 lanes from 5 to 5B in the "wrong" order
+KY I-64 12 32
+KY I-64 75 81
+KY I-64 81 98
+KY I-264 1 19
+KY I-264 19 22
+KY I-65 TN/KY 137
+KY I-65 137 KY/IN
+#KY I-71 construction from 9 to 14
+KY I-471 
+KY I-75 29 118
+KY I-75 118 KY/OH
+KY I-275 OH/KY 6 #brief 2 lanes eastbound at 84
+KY I-471 1 KY/OH
+KY KY4 5 7
+KY KY4 8 ColCir
+
+
 LA I-10 8 25 #doesn't quite make it west to 8
 LA I-10 30B 33
 LA I-10 33 34
@@ -796,6 +815,21 @@ WI US151 97 100
 WI WI32 I-41(168A) WI29_E
 WI WI172 I-41 WebSt
 WI WI175 WI59 LloydSt
+
+
+WV I-64 11 15
+WV I-64 39 40
+WV I-64 45 59
+WV I-77 40 48
+WV I-77 98 101
+WV I-77 101 104
+WV I-77 173 176
+WV I-79 117 125
+WV I-79 135 137
+WV I-81 12 23
+WV US50 OH/WV CR34/4
+WV US50 WV68_S WV68_N
+
 
 # CANADA
 AB AB2 230 305
