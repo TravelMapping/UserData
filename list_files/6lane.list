@@ -699,6 +699,52 @@ NY MeaStaPkwy BayPkwy NorStaPkwy
 NY WanStaPkwy W6 W4
 NY NY135 1 13
 
+
+OH I-70 29 33
+OH I-70 33 93
+OH I-70 93 96
+OH I-70 97 99
+OH I-70 99 101A
+OH I-70 101A 108
+OH I-70 108 112
+OH I-70 129 132 #goes east about halfway to 141
+OH I-70 218 219
+#OH I-270 
+#OH I-670 
+OH I-71 KY/OH 1B(75)
+OH I-71 1B(75) US50_E
+OH I-71 1B 28
+OH I-71 65 69 #goes south about halfway to 58
+OH I-71 94 101
+OH I-71 101 106
+OH I-71 106 107
+OH I-71 107 238
+OH I-71 239 I-90 #2 lanes northbound from 247 to 246 in the "wrong" order
+OH I-271 18 I-90 #2 lanes northbound thru 21, but the third lane exits and rejoins just so I-480 west can merge into the middle
+OH I-471 KY/OH 6A
+OH I-74 5 9
+OH I-75 KY/OH 1B
+OH I-75 1B 74
+OH I-75 156 192
+OH I-75 192 197 #construction north of here
+OH I-75 202B 204 #construction south of here
+OH I-75 204 208
+OH I-75 208 OH/MI
+#OH I-275 
+#OH I-475 
+#OH I-675 
+#OH I-76 
+#OH I-77 
+#OH I-277 
+#OH I-80 
+#OH I-280 
+#OH I-480 
+#OH I-480War 
+#OH I-680 
+#OH I-90 
+OH I-490 1A I-77
+
+
 OR I-5 +x5(OR99E) 299A
 OR I-5 299B 300A
 OR I-5 +x61 OR/WA
