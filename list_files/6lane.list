@@ -1,5 +1,7 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
+AK AK1 DimBlvd OldSewHwy_N
+AK AK1 BraSt ArtRd
 
 AL I-10 13 26B #construction at 13; may currently begin just east
 AL I-20 71 106
@@ -884,6 +886,14 @@ VA VA267 9 18
 VA VA286 I-95 BarRd
 VA VA286 US29 US50
 
+WA I-5 OR/WA 7A
+WA I-5 7 52
+WA I-5 82 225
+WA I-205 OR/WA 30
+WA I-90 2 62
+WA I-90 276 293
+WA I-405 I-5(154) I-5(182)
+WA WA520 84thAve LakSamPkwy # under construction west of 84thAve
 
 WI US10 287 291 # Need to verify west of 286
 WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell in MIL)
