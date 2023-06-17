@@ -847,15 +847,20 @@ TX I-40 63 78
 TX I-44 1 3A
 TX I-45 1A 112
 TX I-45 213 284A
+TX I-69 94 167
 TX I-69C 1C 10
 TX I-69E PolkSt 26A
 TX I-69W WorTraBri 2
 TX I-410 3B 26A
 TX I-410 165(35) 164A(35)
+TX I-610 TX288 38 # there are sections under construction but were 6 lane prior to said construction
 TX I-635 1C 35
 TX I-820 1A 22A
 TX I-820 23 24B
 TX I-820 26 31 # under construction AT TX121 (HOV install)
+TX US54ElP MonAve TXLp375_N
+TX US59 FM2919 TX105
+TX US69 11thSt DowRd
 TX US75 I-30 RosPkwy
 TX US90 TXLp1604 I-10(585)
 TX US90 I-10(741) I-10(775)
@@ -866,6 +871,7 @@ TX US175 BexSt SilDr
 TX US183 TX71 LakBlvd
 TX US281 I-37(135) OvePkwy
 TX US290 IndOaksBlvd TX45/130
+TX US290 FieStoRd I-610
 TX TX45 LakeCrkPkwy HeaBlvd
 TX TX45 TX130(432) TX130(449)
 TX TX121 I-35W/287 ScrParkDr
@@ -873,13 +879,22 @@ TX TX121 I-820(24A) I-820(23)
 TX TX121 BedEulRd TX183_E #north of the concurrency - managed lane (not always open)
 TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Frontage road!) - except US75 concurrency
 TX TX121 US75_S US75_N
+TX TX146 FaiPkwy TX146BusBay_N
 TX TX183 BedEulRd I-35E
 TX TX183A US183_S RM2243
 TX TX199 NorAve NineMileRd
+TX TX225 I-610 TX146
+TX TX249 TXLp8 HarStoRd
+TX TX288 CR58 I-45
 TX TXLp1 BayLn TX45_N
+TX TXLp8 TX225_S I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
+TX TXLp375 48 58
+TX TXSpr330 WadeRd TX146
 TX TXSpr366 BecAve RouSt
 TX ChiTrlPkwy SycSchRd I-30
+TX DalNorTlwy OakLawnAve CR26
 TX GeoBushTpk TX180 I-30(61B)
+TX HarTollRd I-610 TX99
 TX IntPkwy TXSpr97 TX114/121
 
 
