@@ -824,7 +824,49 @@ TN TN162 DutRd I-140(1C)
 TN TN319 AmnHwy_W AccRd
 TN TN385 I-240 WinRd
 
+# TEXAS - counting MAIN THROUGH LANES, not frontage roads.
+TX I-2 130 175
+TX I-10 11 35
+TX I-10 546 585 # under construction to 599
+TX I-10 732 833 # under construction to 709
+TX I-10 849 875 # under construction between 833 and 849
+TX I-14 US190BusCop FroRd # under construction from here to I-35
+TX I-20 428 480
+TX I-20 480A 487
+TX I-30 I-20 45A
+TX I-30 45B 68
+TX I-35 HidSt 4A
+# TX I-35 4A 9 --- under construction between FM1472 and I-69W interchanges including some length past each
+TX I-35 9 12A
+TX I-35 145A 370B
+TX I-35Gai 467 469 # 6 lanes section continues into 35E
+TX I-35E 381 467 # under construction to expand south of 381.
+TX I-35W 36 60
+TX I-40 63 78
+TX I-44 1 3A
+TX I-45 1A 112
+TX I-45 213 284A
+TX I-69C 1C 10
+TX I-69E PolkSt 26A
+TX I-69W WorTraBri 2
 TX I-635 1C 35
+TX I-820 1A 22A
+TX I-820 23 24B
+TX I-820 26 31 # under construction AT TX121 (HOV install)
+TX US75 I-30 RosPkwy
+TX US175 BexSt SilDr
+TX TX121 I-35W/287 ScrParkDr
+TX TX121 I-820(24A) I-820(23)
+TX TX121 BedEulRd TX183_E #north of the concurrency - managed lane (not always open)
+TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Frontage road!) - except US75 concurrency
+TX TX121 US75_S US75_N
+TX TX183 BedEulRd I-35E
+TX TX199 NorAve NineMileRd
+TX TXSpr366 BecAve RouSt
+TX ChiTrlPkwy SycSchRd I-30
+TX GeoBushTpk TX180 I-30(61B)
+TX IntPkwy TXSpr97 TX114/121
+
 
 UT I-15 5 6 
 UT I-15 8 10
