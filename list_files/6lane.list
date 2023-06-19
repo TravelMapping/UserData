@@ -277,8 +277,24 @@ HI I-H1 19 AinAve
 HI I-H2 1 5
 HI I-H201 1B I-H1
 
+
+IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
+IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
+IA I-74 3 IA/IL
+IA I-80 NE/IA 5 # Council Bluffs
+IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
+IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-235 I-80(123) I-80(137)
+IA I-380 16 24B # Waterloo
+IA I-380 0 2
+IA I-480 NE/IA I-29
+IA US218 71(380) MitAve
+IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+
+
 ID I-84 36 57
 ID I-184 0 US20/26
+
 
 IL I-55 0 3
 IL I-55 3 11
@@ -309,10 +325,11 @@ IL I-290 15 I-90/94
 IL I-294 0 52
 IL I-355 0 I-290
 
-IN I-65 0 16
-IN I-65 50 68
+
+IN I-65 KY/IN 16
+IN I-65 50 68 #southbound 3 lanes ends just shy of 50; it appears the same happens northbound at 68
 IN I-65 90 110B
-IN I-65 110A 112
+IN I-65 110B 112
 IN I-65 112 123
 IN I-65 129 146
 IN I-65 168 178
@@ -322,24 +339,14 @@ IN I-69Whe 114 125
 IN I-69 200 226
 IN I-69 302 316
 IN I-70 66 80
-IN I-70 83 104
+IN I-70 83 96 #east to 104 was under construction in May 2023, with the east half barely begun
 IN I-90 10 21
-IN I-94 0 IN/MI
-IN I-465 0 25
+IN I-94 IL/IN IN/MI
+IN I-465 I-65 25
 IN I-465 25 53
-
-IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
-IA I-74 3 IA/IL
-IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
-IA I-80 237 249 # Iowa City - most of it under construction as of 2023
-IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B # Waterloo
-IA I-380 0 2
-IA I-480 NE/IA I-29
-IA US218 71(380) MitAve
-IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+IN KeyPkwy I-465 106thSt
+IN IN62 FulAve US41_S #and west to the end of the freeway
+IN IN66 US41_S BoeRd #and east to the end of the freeway
 
 
 KS I-35 214 KS/MO
