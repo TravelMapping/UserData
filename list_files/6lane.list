@@ -396,7 +396,7 @@ LA I-12 80 85
 LA I-20 10 19A
 LA I-20 19A 20C
 LA I-20 115 116B
-LA I-10 117C 118
+LA I-20 117C 118
 LA I-49 199 206
 LA US90 GirRd LA182 #why is there no point at 115A?
 LA LA3139 LARd LA3154
@@ -972,7 +972,7 @@ TN I-75 385(40) 3(640)
 TN I-75 3(640) 112
 TN I-275 I-40 3
 TN I-81 74 TN/VA
-TN SamCooBlvd 
+TN SamCooBlvd 7 10 #construction west of 7
 TN US27 I-24(178A) MorSprRd
 TN US129 CheTrl I-40 #southbound is 2 lanes from US11/70 to KinPk but in the "wrong" order
 TN TN14 I-40(8) OldAPeayHwy_N
