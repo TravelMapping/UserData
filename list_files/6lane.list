@@ -342,6 +342,21 @@ IA US218 71(380) MitAve
 IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
 
+KS I-35 214 KS/MO
+KS I-135 3A 11
+KS I-235 13 16
+KS I-435 MO/KS KS/MO
+KS I-635 1A 8
+KS I-70 362A 363
+KS I-70 183(KT) 204(KT)
+KS I-70 224(KT) 411
+KS I-70 411 421B
+KS I-70 423C KS/MO
+KS I-670 I-70 KS/MO
+KS US69 I-435 I-35(225B)
+KS US400 MaiRd KS96
+
+
 KY I-64 IN/KY 1
 KY I-64 1 6 #brief eastbound 2 lanes from 5 to 5B in the "wrong" order
 KY I-64 12 32
@@ -381,7 +396,7 @@ LA I-12 80 85
 LA I-20 10 19A
 LA I-20 19A 20C
 LA I-20 115 116B
-LA I-10 117C 118
+LA I-20 117C 118
 LA I-49 199 206
 LA US90 GirRd LA182 #why is there no point at 115A?
 LA LA3139 LARd LA3154
@@ -958,7 +973,7 @@ TN I-75 385(40) 3(640)
 TN I-75 3(640) 112
 TN I-275 I-40 3
 TN I-81 74 TN/VA
-TN SamCooBlvd 
+TN SamCooBlvd 7 10 #construction west of 7
 TN US27 I-24(178A) MorSprRd
 TN US129 CheTrl I-40 #southbound is 2 lanes from US11/70 to KinPk but in the "wrong" order
 TN TN14 I-40(8) OldAPeayHwy_N
