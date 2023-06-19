@@ -342,6 +342,21 @@ IA US218 71(380) MitAve
 IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
 
+KS I-35 214 KS/MO
+KS I-135 3A 11
+KS I-235 13 16
+KS I-435 MO/KS KS/MO
+KS I-635 1A 8
+KS I-70 362A 363
+KS I-70 183(KT) 204(KT)
+KS I-70 224(KT) 411
+KS I-70 411 421B
+KS I-70 423C KS/MO
+KS I-670 I-70 KS/MO
+KS US69 I-435 I-35(225B)
+KS US400 MaiRd KS96
+
+
 KY I-64 IN/KY 1
 KY I-64 1 6 #brief eastbound 2 lanes from 5 to 5B in the "wrong" order
 KY I-64 12 32
