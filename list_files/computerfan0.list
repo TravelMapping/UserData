@@ -253,7 +253,9 @@ FRA-IDF BP N13 A4_N
 
 # ===== SPAIN =====
 
-# === Tenerife ===
+# === Canary Islands ===
 ESP-CN TF1 6 73
 ESP-CN TF2 TF1 TF5
 ESP-CN TF5 7 32
+
+ESP-CN LZ2 Aer LZ701
