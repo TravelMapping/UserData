@@ -991,7 +991,7 @@ WY US287 US30_E CO/WY
 # ###################################################
 ON ON401 189 235
 ON ON402 1 65
-ON ON403 1 109(QEW)
+ON ON403 ON401_W 113(QEW)
 ON ONQEW 100 109
 
 ON HigAve PowSt ON401
