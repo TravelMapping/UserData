@@ -280,13 +280,14 @@ HI I-H201 1B I-H1
 ID I-84 36 57
 ID I-184 0 US20/26
 
-IL I-55 0 3
-IL I-55 3 11
+
+IL I-55 0 3A
+IL I-55 3A 11
 IL I-55 82 92
-IL I-55 105 127
+IL I-55 105A 127
 IL I-55 157 167
 IL I-55 250 292
-IL I-55 293A US41
+IL I-55 292 US41
 IL I-57 53 65
 IL I-57 92 96
 IL I-57 157 163
@@ -294,20 +295,37 @@ IL I-57 345 358
 IL I-64 3 16
 IL I-74 0 3
 IL I-74 89 93
+IL I-74 94 95B #even though it's short, the west end at 94 is clearly 6 thru lanes, not exit/entrance lanes
 IL I-74 99 102
-IL I-80 137 IL/IN
+IL I-80 137 155
+IL I-80 155 IL/IN
+IL I-88 113 I-294_N
 IL I-90 0 17
-IL I-90 17 84
+IL I-90 17 84 #is there really a gap east of here? or is that just temporary for construction?
+IL I-90 43B(94) 59A(94)
 IL I-90 100 107
-IL I-94 0 25A
+IL I-94 0 25B
 IL I-94 29 63
-IL I-94 65 74
+IL I-94 65A 74
+IL I-190 0 2
 IL I-255 0 30
+IL IL255 I-270 2
+IL I-270 6 9
 IL I-290 0 7
 IL I-290 7 15
-IL I-290 15 I-90/94
+IL I-290 15A I-90/94 #and the continuation on Congress Street
 IL I-294 0 52
 IL I-355 0 I-290
+IL US41 57thDr ColDr
+IL US41 RanSt LakShoDr_N #one intersection at Chicago Avenue but otherwise a full freeway; the continuation of LSD beyond LakShoDr_N is 6 lanes
+IL US41 I-94(34A) ClaRd
+IL US45 IL171 I-55
+IL IL38 IL83 I-294
+IL IL53 I-90 IL68_E
+IL IL83 US34 I-88
+IL IL390 7B 12
+IL IL390 12 14
+
 
 IN I-65 0 16
 IN I-65 50 68
