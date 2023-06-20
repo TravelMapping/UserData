@@ -257,18 +257,31 @@ GA I-475 I-75_S I-75_N
 GA I-285 GA279 10
 GA I-285 58 62
 
+IL I-55 2 145
+IL I-55 154 US41
 IL I-64 3 8
 IL I-70 MO/IL 3
+IL I-90 53B(94) IL/IN
+IL I-94 53B 59A
 IL I-190 2 ChiOHAir
 IL I-255 MO/IL 20
 
+IL I-55BLBlo GenEleRd I-55_N
+
 IL US12 I-190 IL56
 IL US20 US12/45 IL56
+IL US41 ColDr I-55
 IL US45 I-190 IL56
+IL US136 I-55 US51
 
 IL IL19 IL83 US12/45
 IL IL56 HigAve US12/20
 IL IL83 IL56 IL19
+
+IL US66HisChi 550N 850N_E
+
+IN I-90 IL/IN 21
+IN I-94 16 IN/MI
 
 KS I-35 OK/KS 50
 KS I-35 222 KS/MO
@@ -309,6 +322,9 @@ KS KS247 EllLim I-70
 KY US45 TN/KY KY94/1529
 
 KY KY94 US45_S US641Bus
+
+MI I-69 38 USA/CAN
+MI I-94 IN/MI 110
 
 LA I-10 103 LA/MS
 LA I-20 TX/LA 17B
@@ -968,6 +984,17 @@ WY I-80 UT/WY 313
 WY I-80BLEva WY89_N I-80_E
 
 WY US287 US30_E CO/WY
+
+
+# ###################################################
+# #  CANADA                                         #
+# ###################################################
+ON ON401 189 235
+ON ON402 1 65
+ON ON403 ON401_W 113(QEW)
+ON ONQEW 100 109
+
+ON HigAve PowSt ON401
 
 # ###################################################
 # #   EUROPE                                        #

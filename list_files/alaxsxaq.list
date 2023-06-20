@@ -69,9 +69,17 @@ AZ AZ82 AZ83 I-19BL #sonoita to nogales
 AZ US70 US60 US191_N
 AZ US191 US70_W AZ366 #safford to az366
 AZ US191 US70_E FR12 #us70 to north of morenci
-AZ AZ366 US191 End #us191 to shannon campground
+AZ AZ366 US191 FR352 #us191 to shannon campground
 #fredonia (mohave)
 AZ AZ389 US89Alt SixMileRd
+#2021-12 casa grande ruins nm & tonto nm
+AZ AZ387 I-10 AZ87
+AZ AZ87 AZ387 AZ287_E
+AZ AZ287 AZ87_N AdaRd #to attaway road
+AZ AZ79 HuntHwy US60
+AZ AZ188 US60 AZ87
+#page (antelope canyon)
+AZ AZ98 US89 BIA222
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -109,10 +117,10 @@ MT US287 I-90 MT2_W
 MT MT2 US287_S LCCavRd
 #in yellowstone
 WY SEntRd US89/191 GraLoopRd
-WY GraLpRd NEntRd_W NEntRd_E
+WY GraLoopRd NEntRd_W NEntRd_E
 WY WEntRd MT/WY GraLoopRd
 MT WEntRd MT/WY US20/191
-WY NorCynRd GraLoopRd_W GraLoopRd_E
+WY NorCanRd GraLoopRd_W GraLoopRd_E
 #bryce canyon
 UT UT12 US89 UT63
 UT UT63 UT12 BryCanNP
@@ -164,7 +172,7 @@ CA CA134 13B 1A
 CA US101 13 19A
 CA I-405 63C 53B
 #menifee
-CA CA79 I-10 SanAve_N
+CA CA79Bea I-10 RamExpy_W
 #kolkon 2022
 CA US101 390 431 #ca87 to i280
 CA I-280 49B 12 #ca1 to ca85
@@ -205,7 +213,7 @@ YT YT1Wat BC/YT YT/BC
 BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
-AK AK2 YT/AK MakTr #to scoby way
+AK AK2 YT/AK AK11
 AK AK1 AK2 End
 AK HicPkwy AK1 TudRd
 AK AK3 AK1 AK2
@@ -214,9 +222,14 @@ AK AK9 AK1 RaiAve #seward
 AK AK4 AK1_W AK10 #wrangell-st elias
 AK AK10 AK4 McCarRd
 AK McCarRd AK10 KenRiv
-AK AK2 AK3 AirWay
-AK AK2 3rdSt AK11 #college rd
 AK AK11 AK2 PipRd286 #south bonanza creek
+AK AK6 AK2 PedDomeRd
+#dempster
+AK AK5 AK2 AK/YT
+YT YT9 YT/AK GeoBlaFry
+YT YT2 GeoBlaFry YT5
+YT YT5 YT2 YT/NT
+NT NT8 YT/NT TetGwiRd
 #MO
 MO I-29 13 8
 #HI
