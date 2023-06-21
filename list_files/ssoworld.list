@@ -2925,6 +2925,7 @@ WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - 
 ## Main Route
 BC TCHMai 3 BC TCHMai 27
 BC TCHMai 3 BC TCHMai 27
+AB TCHMai AB2 AB201_E
 SK TCHMai RR2212 MB TCHMai MB207_W
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
@@ -2935,6 +2936,13 @@ MB TCHPor MB240_N MB240_S
 
 ## Voyaguers Route
 ON TCHVoy ON17 ON71_S
+
+# Alberta
+AB AB1 AB2 AB201_E
+AB AB2 258 AB216(78)
+AB AB216 AB2 23
+AB AB201 74 78
+
 
 # British Columbia (CAN-BC)
 BC BC1 3 27
