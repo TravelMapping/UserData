@@ -294,7 +294,7 @@ IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
 ID I-84 36 57
 ID I-184 0 US20/26
-
+ID US20 I-184 13thSt
 
 IL I-55 0 3A
 IL I-55 3A 11
