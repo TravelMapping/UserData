@@ -294,10 +294,10 @@ IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
 
 ID I-84 36 57
 ID I-184 0 US20/26
+ID US20 I-184 13thSt
 
-
-IL I-55 0 3
-IL I-55 3 11
+IL I-55 0 3A
+IL I-55 3A 11
 IL I-55 82 92
 IL I-55 105A 127
 IL I-55 157 167
@@ -316,8 +316,7 @@ IL I-80 137 155
 IL I-80 155 IL/IN
 IL I-88 113 I-294_N
 IL I-90 0 17
-IL I-90 17 84 #is there really a gap east of here? or is that just temporary for construction?
-IL I-90 43B(94) 59A(94)
+IL I-90 17 59A(94)
 IL I-90 100 107
 IL I-94 0 25B
 IL I-94 29 63
@@ -342,7 +341,6 @@ IL IL390 7B 12
 IL IL390 12 14
 
 
-
 IN I-65 KY/IN 16
 IN I-65 50 68 #southbound 3 lanes ends just shy of 50; it appears the same happens northbound at 68
 IN I-65 90 110B
@@ -361,6 +359,7 @@ IN I-90 10 21
 IN I-94 IL/IN IN/MI
 IN I-465 I-65 25
 IN I-465 25 53
+IN US31 123 132
 IN KeyPkwy I-465 106thSt
 IN IN62 FulAve US41_S #and west to the end of the freeway
 IN IN66 US41_S BoeRd #and east to the end of the freeway
