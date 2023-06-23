@@ -2931,9 +2931,9 @@ ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 MB TCHWin 42 1
 MB TCHPor MB240_N MB240_S
-AB TCHYel 340 389
 
 ## Yellowhead Route
+AB TCHYel 340 389
 
 ## Voyaguers Route
 ON TCHVoy ON17 ON71_S
@@ -2949,8 +2949,10 @@ AB AB201 74 78
 
 # British Columbia (CAN-BC)
 BC BC1 3 27
-BC BC2 BC49 BC/AB
+BC BC2 BC97 BC/AB
 BC BC7 BC99 RupSt
+BC BC77 BC97 BC/NT
+BC BC97 BC2 BC77
 BC BC99 USA/CAN SeaDr
 
 # Manitoba (CAN-MB)
@@ -2975,6 +2977,9 @@ MB Rte135 MB1/150 MB100/101
 MB Rte145 Rte90 Rte80
 MB Rte150 MB1/135 Rte52
 MB Rte165 Rte90 Rte42
+
+# Northwest Territories
+NT NT7 BC/NT +X510173                  # Closest to end of pavement on hwy (as of 2023) - TEST
 
 # Ontario (CAN-ON)
 # ---------------------
