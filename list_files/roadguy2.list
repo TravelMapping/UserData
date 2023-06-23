@@ -2462,6 +2462,7 @@ TN US411 GA/TN TN30_E
 TN US431 US70S_W US70_NasW
 #TN US431 US70 concurrency
 #TN US431 part of US 41 concurrency
+TN US441 CumAve I-40/275
 TN US641 I-40 TN192_S
 #actually I-40 to Loves just south
 
@@ -2472,6 +2473,7 @@ TN TN7Ard AL/TN I-65
 TN TN8Cha US41/72 US76
 TN TN27 I-24 US41/64
 #TN TN32 US25E overlap
+#TN TN33 US441 overlap
 #TN TN33 US25E overlap
 #TN TN34 US11E overlap
 TN TN50Win US41Alt_N US64_E
