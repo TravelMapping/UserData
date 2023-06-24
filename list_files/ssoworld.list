@@ -2938,7 +2938,7 @@ AB TCHYel 340 389
 ## Voyaguers Route
 ON TCHVoy ON17 ON71_S
 
-# Alberta
+# Alberta (CAN-AB)
 AB AB1 AB2 AB201_E
 AB AB2 258 AB216(78)
 AB AB16 340 389
@@ -2952,7 +2952,7 @@ BC BC1 3 27
 BC BC2 BC97 BC/AB
 BC BC7 BC99 RupSt
 BC BC77 BC97 BC/NT
-BC BC97 BC2 BC77
+BC BC97 BC2 BC BC97Low BC/YT
 BC BC99 USA/CAN SeaDr
 
 # Manitoba (CAN-MB)
@@ -2978,7 +2978,7 @@ MB Rte145 Rte90 Rte80
 MB Rte150 MB1/135 Rte52
 MB Rte165 Rte90 Rte42
 
-# Northwest Territories
+# Northwest Territories (CAN-NT)
 NT NT7 BC/NT +X510173                  # Closest to end of pavement on hwy (as of 2023) - TEST
 
 # Ontario (CAN-ON)
@@ -2994,6 +2994,10 @@ SK SK1 RR2212 SK/MB
 SK SK6 SK39_E RingRd_N
 SK SK39 SK6_N SK/ND
 SK RingRd SK1/11 PasSt                 # Regina Ring Road
+
+# Yukon (CAN-YT)
+YT YT1Wat BC/YT YT YT1 TwoMileRdS
+
 
 # Mexico
 # Baja California (MEX-BC)
