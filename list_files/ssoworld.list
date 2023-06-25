@@ -472,6 +472,13 @@ PA I-99FutLoc 107 PA44_S
 PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
+# I-A1
+AK I-A2 AK1 AK3
+# I-A2
+# I-A3
+# I-A4
+AK I-A4 CanDr AK2
+
 # I-H1
 HI I-H1 1A AinAve
 # I-H2
@@ -1453,6 +1460,11 @@ AL AL22 US31/145 I-65
 AL AL67 US72ALT/20_E US72ALT/20_W
 AL AL69 I-65(299) I-65(304)
 AL AL157 US72ALT_E US72ALT_W
+
+# Alaska (AK)
+# ---------------------
+AK AK2 YT/AK AK3
+AK AK3 CanDr AK2
 
 # Arizona (AZ)
 # ---------------------
@@ -2996,8 +3008,7 @@ SK SK39 SK6_N SK/ND
 SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Yukon (CAN-YT)
-YT YT1Wat BC/YT YT YT1 TwoMileRdS
-
+YT YT1Wat BC/YT YT YT1 YT/AK
 
 # Mexico
 # Baja California (MEX-BC)
