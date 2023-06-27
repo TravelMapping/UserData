@@ -477,8 +477,7 @@ AK I-A2 AK1 AK3
 # I-A2
 # I-A3
 # I-A4
-AK I-A4 CanDr AK2
-
+AK I-A4 AK8 AK2
 # I-H1
 HI I-H1 1A AinAve
 # I-H2
@@ -1464,7 +1463,10 @@ AL AL157 US72ALT_E US72ALT_W
 # Alaska (AK)
 # ---------------------
 AK AK2 YT/AK AK3
-AK AK3 CanDr AK2
+AK AK3 AK8 AK2
+AK AK8 ButLakeRd AK3
+AK ParkRd AK3 +X348051                          # -- Denali Park Road - Denali National Park and Preserve
+                                                # Shaping point is East fork Bridge Mile 43 - furthest allowed due to pretty rock landslide - pending PR https://github.com/TravelMapping/HighwayData/pull/6682
 
 # Arizona (AZ)
 # ---------------------
