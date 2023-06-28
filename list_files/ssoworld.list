@@ -473,11 +473,14 @@ PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
 # I-A1
-AK I-A2 AK1 AK3
+AK I-A1 5thAve_W AK3_N
+AK I-A1 AK2 AK/YT
 # I-A2
+AK I-A2 AK1 AK3
 # I-A3
+AK I-A3 OMalRd 5thAve
 # I-A4
-AK I-A4 AK8 AK2
+AK I-A4 AK1 AK2
 # I-H1
 HI I-H1 1A AinAve
 # I-H2
@@ -1462,11 +1465,12 @@ AL AL157 US72ALT_E US72ALT_W
 
 # Alaska (AK)
 # ---------------------
+AK AK1 OMalRd AK3_N
 AK AK2 YT/AK AK3
 AK AK3 AK8 AK2
 AK AK8 ButLakeRd AK3
-AK ParkRd AK3 +X348051                          # -- Denali Park Road - Denali National Park and Preserve
-                                                # Shaping point is East fork Bridge Mile 43 - furthest allowed due to pretty rock landslide - pending PR https://github.com/TravelMapping/HighwayData/pull/6682
+AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
+AK HicPkwy AK1 TudRd
 
 # Arizona (AZ)
 # ---------------------
