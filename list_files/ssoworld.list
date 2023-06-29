@@ -478,7 +478,7 @@ AK I-A1 AK2 AK/YT
 # I-A2
 AK I-A2 AK1 AK3
 # I-A3
-AK I-A3 OMalRd 5thAve
+AK I-A3 KenSpurHwy 5thAve
 # I-A4
 AK I-A4 AK1 AK2
 # I-H1
@@ -1465,7 +1465,7 @@ AL AL157 US72ALT_E US72ALT_W
 
 # Alaska (AK)
 # ---------------------
-AK AK1 OMalRd AK3_N
+AK AK1 AMHSFry AK3_N
 AK AK2 YT/AK AK3
 AK AK3 AK8 AK2
 AK AK8 ButLakeRd AK3
