@@ -59,30 +59,38 @@ AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider the
 AZ AZ101 1 61B
 AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
 AZ AZ303 104 131
- 
+
+
 CA I-5 MEX/USA 134B #134B is the point for US 101
 CA I-5 134B 221
 CA I-5 458A 485 # drops to 4 north of SR 12
 CA I-5 506 525B
-CA I-5 664 685
-CA I-8 1 19 # 2-ln through exit 2
-CA I-10 1A 16A # 5 or less thru East LA Int
-CA I-10 134C(5) 135B(5)
-CA I-10 19A 145
+CA I-5 664 680
+CA I-5 681B 685
+CA I-8 1 2A
+CA I-8 2A 19
+CA I-10 1 135C(5) #4 lanes from 16B to 16A in the "wrong" order
+CA I-10 135C(5) 145 #and the SBD Freeway west to US 101
 CA I-15 6B 184A
-CA I-80 1A 128
-CA I-105 1D 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
-CA I-405 I-5(94A) I-5(158)
-CA I-605 1A HunDr
-CA I-805 I-5(1A) I-5(31)
+CA I-15 248 265
+CA I-15 281 291 #southbound begins just south of 291
+CA I-80 1A 82
+CA I-80 82 128
+CA I-105 1A 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
 CA I-205 I-580 I-5
-CA I-210 1A 25
-CA I-210 26 45
+CA I-405 I-5(94A) I-5(158)
+CA I-605 1A 27
+CA I-805 I-5(1A) I-5(31)
 CA I-110 1A 21
-CA I-710 1B 21
-CA I-215 1 48
+CA I-210 1A 25
+CA I-210 25 45
+CA I-710 1 1E
+CA I-710 1B 22
+CA I-215 1 29
+CA I-215 29 34
+CA I-215 34 48 #brief southbound 2 lanes at 46C
 CA I-215 54A 54B
-CA I-238 14 16
+CA I-238 14 17
 CA I-280 I-680/101 57
 CA I-380 5A 6
 CA I-580 7A 12
