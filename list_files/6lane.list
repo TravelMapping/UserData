@@ -2,6 +2,8 @@
 # through lanes.
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
+AK HicPkwy RasRd TudRd
+
 
 AL I-10 13 26B #construction at 13; may currently begin just east
 AL I-20 71 106
@@ -58,7 +60,7 @@ AZ AZ101 1 61B
 AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
 AZ AZ303 104 131
  
-CA I-5 MEX/USA 133 # 5 or less thru East-LA Int
+CA I-5 MEX/USA 134B #134B is the point for US 101
 CA I-5 134B 221
 CA I-5 458A 485 # drops to 4 north of SR 12
 CA I-5 506 525B
