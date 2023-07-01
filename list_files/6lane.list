@@ -91,23 +91,29 @@ CA I-215 29 34
 CA I-215 34 48 #brief southbound 2 lanes at 46C
 CA I-215 54A 54B
 CA I-238 14 17
-CA I-280 I-680/101 57
+CA I-280 I-680/101 54
+CA I-280 54 57
 CA I-380 5A 6
 CA I-580 7A 12
-CA I-580 13(80) 65
-CA I-680 I-280/101 58A
-CA I-880 I-280 46B
-CA I-980 1B 2B
-CA I-80BLSac 1A 14C
+CA I-580 13(80) 8B (80)
+CA I-580 8B (80) 65
+CA I-680 I-280/101 30
+CA I-680 30 58A
+CA I-880 I-280 46A
+CA I-980 1A 2B #1A is 12th Street, where the onramp that creates the third lane comes from
+CA I-80BLSac 1A 6
+CA I-80BLSac 6 14C #2 lanes eastbound from 10A to 9B, in the "wrong" order
 
 CA US50 1A 35
-CA US101 1A 1C
-CA US101 1E 87B
+CA US101 1A 1D
+CA US101 1D 65
+CA US101 66A 70B
+CA US101 70B 87B #construction from 87B to 92
 CA US101 94B 105
-CA US101 167 175 # undergoing expansion at west end
+CA US101 167 175
 CA US101 355 433B
-CA US101 437 463
-CA US101 479 498 # undergoing expansion at south end
+CA US101 437 463 #construction from 463 to 472A
+CA US101 472A 498
 
 CA CA1 508 509B
 CA CA2 12 21
@@ -126,7 +132,8 @@ CA CA52 7A 13
 CA CA54 1A 12(125)
 CA CA55 3 18
 CA CA57 1D 25B
-CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
+CA WesPkwy AllRd MohSt
+CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
 CA CA67 1C 2
 CA CA71 4 15
