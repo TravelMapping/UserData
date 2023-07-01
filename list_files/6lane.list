@@ -49,107 +49,142 @@ AR US67 I-40(155) MainSt
 AR US67 AR161 AR5/321
 
 
-AZ I-10 117 164
-AZ I-10 185 263
-AZ I-17 194 229
+AZ I-10 112 164 #west to 112 opened in May 2023 https://azdot.gov/projects/central-district-projects/i-10-sr85-verrado-way-improvements
+AZ I-10 185 263 #doesn't quite make it west to 185
+AZ I-17 194 200A
+AZ I-17 200A 229
 AZ I-19 99 101
+AZ SkyHarBlvd Ter3 AZ143
 AZ US60 201(17) 193
-# AZ AZ143 under construction
 AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
 AZ AZ101 1 61B
+AZ AZ143 3 5 #short southbound 2 lanes thru 3; construction south of 2
 AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ210 BroBlvd 4
 AZ AZ303 104 131
- 
+
+
 CA I-5 MEX/USA 134B #134B is the point for US 101
 CA I-5 134B 221
 CA I-5 458A 485 # drops to 4 north of SR 12
 CA I-5 506 525B
-CA I-5 664 685
-CA I-8 1 19 # 2-ln through exit 2
-CA I-10 1A 16A # 5 or less thru East LA Int
-CA I-10 134C(5) 135B(5)
-CA I-10 19A 145
+CA I-5 664 680
+CA I-5 681B 685
+CA I-8 1 2A
+CA I-8 2A 19
+CA I-10 1 135C(5) #4 lanes from 16B to 16A in the "wrong" order
+CA I-10 135C(5) 145 #and the SBD Freeway west to US 101
 CA I-15 6B 184A
-CA I-80 1A 128
-CA I-105 1D 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
-CA I-405 I-5(94A) I-5(158)
-CA I-605 1A HunDr
-CA I-805 I-5(1A) I-5(31)
+CA I-15 248 265
+CA I-15 281 291 #southbound begins just south of 291
+CA I-80 1A 82
+CA I-80 82 128
+CA I-105 1A 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
 CA I-205 I-580 I-5
-CA I-210 1A 25
-CA I-210 26 45
+CA I-405 I-5(94A) I-5(158)
+CA I-605 1A 27
+CA I-805 I-5(1A) I-5(31)
 CA I-110 1A 21
-CA I-710 1B 21
-CA I-215 1 48
+CA I-210 1A 25
+CA I-210 25 45
+CA I-710 1 1E
+CA I-710 1B 22
+CA I-215 1 29
+CA I-215 29 34
+CA I-215 34 48 #brief southbound 2 lanes at 46C
 CA I-215 54A 54B
-CA I-238 14 16
-CA I-280 I-680/101 57
+CA I-238 14 17
+CA I-280 I-680/101 54
+CA I-280 54 57
 CA I-380 5A 6
 CA I-580 7A 12
-CA I-580 13(80) 65
-CA I-680 I-280/101 58A
-CA I-880 I-280 46B
-CA I-980 1B 2B
-CA I-80BLSac 1A 14C
+CA I-580 13(80) 8B (80)
+CA I-580 8B (80) 65
+CA I-680 I-280/101 30
+CA I-680 30 58A
+CA I-880 I-280 46A
+CA I-980 1A 2B #1A is 12th Street, where the onramp that creates the third lane comes from
+CA I-80BLSac 1A 6
+CA I-80BLSac 6 14C #2 lanes eastbound from 10A to 9B, in the "wrong" order
 
 CA US50 1A 35
-CA US101 1A 1C
-CA US101 1E 87B
+CA US101 1A 1D
+CA US101 1D 65
+CA US101 66A 70B
+CA US101 70B 87B #construction from 87B to 92
 CA US101 94B 105
-CA US101 167 175 # undergoing expansion at west end
+CA US101 167 175
 CA US101 355 433B
-CA US101 437 463
-CA US101 479 498 # undergoing expansion at south end
+CA US101 437 463 #construction from 463 to 472A
+CA US101 472A 498
 
+CA CA1 404 409
 CA CA1 508 509B
-CA CA2 12 21
-CA CA4 66A 68A
-CA CA11 1A 1B
+CA CA1 49B(280) AleBlvd
+CA CA2 12 13A
+CA CA2 13A 21
+CA CA4 9 15A
+CA CA4 15A 31
+CA CA4 I-5(472) 68B
+CA CA11 1A 1B #but will the right lane always exit at 1B? if so, this is just weaving lanes
 CA CA14 I-5 44
-CA CA15 1D 6B # some 5 or less through system interchanges with CA 94 and I-805
+CA CA15 1B 2B
+CA CA15 2B 3
+CA CA15 3 6B
 CA CA17 22 26
-CA CA22 1 17A
-CA CA23 13 20
+CA CA22 I-405(21) 17B
+CA CA23 12 20
 CA CA24 2 15
 CA CA41 126A 135
-CA CA52 1A 1B
-CA CA52 3 6
-CA CA52 7A 13
+CA CA52 3 13 #4 lanes between 7B and 6 in the "wrong" order
 CA CA54 1A 12(125)
-CA CA55 3 18
-CA CA57 1D 25B
-CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
+CA CA55 19thSt 18
+CA CA57 1A 25B
+CA WesPkwy AllRd MohSt
+CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
-CA CA67 1C 2
-CA CA71 4 15
+CA CA67 1A 2
+CA CA71 4 12B
+CA CA71 12B #construction north of 12B
+CA CA71 14A 15
 CA CA73 I-5 18
 CA CA78 1A 17A
 CA CA84 UniAve I-880(21)
 CA CA85 1A 24B
 CA CA87 1A 9
-CA CA90 1 SlaAve
+CA CA90 CulBlvd SlaAve
 CA CA91 6 65B
 CA CA92 13 26
-CA CA94 1A 10A
-# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
+CA CA94 1A 9B
 CA CA99 I-5(221) 57
-CA CA99 94 143
+CA CA99 94 115 #construction south of 94 and from 115 to 118
+CA CA99 118 143
 CA CA99 151 157
-CA CA99 171 185
-CA CA99 198 201
+CA CA99 164 166
+CA CA99 171 185 #begins about 1-2 mi north of 171
+CA CA99 198 201 #construction from 193 to 198 and 201 to 209
 CA CA99 209 264A
 CA CA99 286 6(50)
-CA CA110 21 31B
-CA CA118 22 46A
-CA CA125 15 22
-CA CA133 10A 14
-CA CA163 2A I-15
+CA CA110 21 31A
+CA CA118 22 46B
+CA CA125 11 15
+CA CA125 15 18B
+CA CA125 18B 22
+CA CA126 13 40
+CA CA133 10A 14 #northbound 3 lanes begins just north of 10A
+CA CA134 1A 13B
+CA CA163 2B I-15
 CA CA168 1A 7
 CA CA170 5 11B
 CA CA178 MSt 6
-CA CA180 58 64
-CA CA210 45 83 # remainder under expansion as of 5/2023
-CA CA237 3A 9B
+CA CA180 56 57A
+CA CA180 57A 64 #4 lanes between 60B and 59 in the "wrong" order
+CA CA210 45 79 #some construction beyond here
+CA CA237 3B 9B
+CA CA241 22B 27
+CA CA241 32 39
+CA CA242 I-680 3B
+CA CA262 I-880 WarmSprBlvd
 CA CA905 2B USA/MEX
 
 CO I-25 128 243
