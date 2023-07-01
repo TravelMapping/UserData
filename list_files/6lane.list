@@ -49,15 +49,18 @@ AR US67 I-40(155) MainSt
 AR US67 AR161 AR5/321
 
 
-AZ I-10 117 164
-AZ I-10 185 263
-AZ I-17 194 229
+AZ I-10 112 164 #west to 112 opened in May 2023 https://azdot.gov/projects/central-district-projects/i-10-sr85-verrado-way-improvements
+AZ I-10 185 263 #doesn't quite make it west to 185
+AZ I-17 194 200A
+AZ I-17 200A 229
 AZ I-19 99 101
+AZ SkyHarBlvd Ter3 AZ143
 AZ US60 201(17) 193
-# AZ AZ143 under construction
 AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
 AZ AZ101 1 61B
+AZ AZ143 3 5 #short southbound 2 lanes thru 3; construction south of 2
 AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ210 BroBlvd 4
 AZ AZ303 104 131
 
 
