@@ -140,23 +140,26 @@ CA CA57 1A 25B
 CA WesPkwy AllRd MohSt
 CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
-CA CA67 1C 2
-CA CA71 4 15
+CA CA67 1A 2
+CA CA71 4 12B
+CA CA71 12B #construction north of 12B
+CA CA71 14A 15
 CA CA73 I-5 18
 CA CA78 1A 17A
 CA CA84 UniAve I-880(21)
 CA CA85 1A 24B
 CA CA87 1A 9
-CA CA90 1 SlaAve
+CA CA90 CulBlvd SlaAve
 CA CA91 6 65B
 CA CA92 13 26
-CA CA94 1A 10A
-# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
+CA CA94 1A 9B
 CA CA99 I-5(221) 57
-CA CA99 94 143
+CA CA99 94 115 #construction south of 94 and from 115 to 118
+CA CA99 118 143
 CA CA99 151 157
-CA CA99 171 185
-CA CA99 198 201
+CA CA99 164 166
+CA CA99 171 185 #begins about 1-2 mi north of 171
+CA CA99 198 201 #construction from 193 to 198 and 201 to 209
 CA CA99 209 264A
 CA CA99 286 6(50)
 CA CA110 21 31B
