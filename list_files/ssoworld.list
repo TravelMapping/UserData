@@ -473,8 +473,7 @@ PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
 # I-A1
-AK I-A1 5thAve_W AK3_N
-AK I-A1 AK2 AK/YT
+AK I-A1 5thAve_W AK/YT
 # I-A2
 AK I-A2 AK1 AK3
 # I-A3
@@ -1465,9 +1464,10 @@ AL AL157 US72ALT_E US72ALT_W
 
 # Alaska (AK)
 # ---------------------
-AK AK1 AMHSFry AK3_N
+AK AK1 End AK2
 AK AK2 YT/AK AK3
 AK AK3 AK8 AK2
+AK AK4 AK1_W AK1_E
 AK AK8 ButLakeRd AK3
 AK AK9 RaiAve AK1
 AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
