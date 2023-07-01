@@ -615,7 +615,16 @@ ID ID47 US20 SnoPark
 
 #Louisana
 #I10 see TX
+LA I-10 221 254
+LA I-910 7 I-10
+LA US11 I-10 US190
 #US90 see TX
+LA US190 FloSt_W US11
+
+LA LA23 US90Bus(7) JumpBasRd
+LA LA428 US90Bus LA23_E
+
+LA LakePonCswy EspAve ECswyApp
 
 #Maine
 #I-95 see NH

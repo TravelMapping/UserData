@@ -1,5 +1,156 @@
 # This list is intended for mapping out freeway segments that have 6 or more
 # through lanes.
+AK AK1 DimBlvd OldSewHwy_N
+AK AK1 BraSt ArtRd
+AK HicPkwy RasRd TudRd
+
+
+AL I-10 13 26B #construction at 13; may currently begin just east
+AL I-20 71 106
+AL I-20 118 130
+AL I-20 132 162
+AL I-20 173 188
+AL I-20 205 AL/GA
+AL I-22 52 57
+AL I-22 63 I-65
+AL I-59 71 106
+AL I-59 118 132
+AL I-359 I-20/59 2
+AL I-459 6 32
+AL I-65 0 13
+AL I-65 167 179
+AL I-65 238 289
+AL I-165 1 US90
+AL I-565 1 7A
+AL I-565 9 19C
+AL I-85 I-65 9
+AL US231 US431/53 US72_W
+AL US280 I-20/59 US31_S
+AL US280 US31_S HolBlvd
+AL AL255 OldMadPike US72
+
+
+AR I-30 116A 138 #under construction west to 111
+AR I-30 138 143 #4 lanes between 139B and 140A but in the "wrong" order; will probably be 6 after construction
+AR I-430 1 13
+AR I-630 1 8
+AR I-40 125 147
+AR I-40 147 153B
+AR I-40 153B 155
+AR I-40 277 279B
+AR I-40 280 AR/TN
+AR I-440 I-30/530 11
+AR AR440 11 12
+AR I-49Tex 26 29B
+AR I-49Tex 29B 31
+AR I-49 62 83 #construction north to 85
+AR I-49 85 88
+AR US67 I-40(155) MainSt
+AR US67 AR161 AR5/321
+
+
+AZ I-10 117 164
+AZ I-10 185 263
+AZ I-17 194 229
+AZ I-19 99 101
+AZ US60 201(17) 193
+# AZ AZ143 under construction
+AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
+AZ AZ101 1 61B
+AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ303 104 131
+ 
+CA I-5 MEX/USA 134B #134B is the point for US 101
+CA I-5 134B 221
+CA I-5 458A 485 # drops to 4 north of SR 12
+CA I-5 506 525B
+CA I-5 664 685
+CA I-8 1 19 # 2-ln through exit 2
+CA I-10 1A 16A # 5 or less thru East LA Int
+CA I-10 134C(5) 135B(5)
+CA I-10 19A 145
+CA I-15 6B 184A
+CA I-80 1A 128
+CA I-105 1D 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
+CA I-405 I-5(94A) I-5(158)
+CA I-605 1A HunDr
+CA I-805 I-5(1A) I-5(31)
+CA I-205 I-580 I-5
+CA I-210 1A 25
+CA I-210 26 45
+CA I-110 1A 21
+CA I-710 1B 21
+CA I-215 1 48
+CA I-215 54A 54B
+CA I-238 14 16
+CA I-280 I-680/101 57
+CA I-380 5A 6
+CA I-580 7A 12
+CA I-580 13(80) 65
+CA I-680 I-280/101 58A
+CA I-880 I-280 46B
+CA I-980 1B 2B
+CA I-80BLSac 1A 14C
+
+CA US50 1A 35
+CA US101 1A 1C
+CA US101 1E 87B
+CA US101 94B 105
+CA US101 167 175 # undergoing expansion at west end
+CA US101 355 433B
+CA US101 437 463
+CA US101 479 498 # undergoing expansion at south end
+
+CA CA1 508 509B
+CA CA2 12 21
+CA CA4 66A 68A
+CA CA11 1A 1B
+CA CA14 I-5 44
+CA CA15 1D 6B # some 5 or less through system interchanges with CA 94 and I-805
+CA CA17 22 26
+CA CA22 1 17A
+CA CA23 13 20
+CA CA24 2 15
+CA CA41 126A 135
+CA CA52 1A 1B
+CA CA52 3 6
+CA CA52 7A 13
+CA CA54 1A 12(125)
+CA CA55 3 18
+CA CA57 1D 25B
+CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
+CA CA60 I-10(16B) 66
+CA CA67 1C 2
+CA CA71 4 15
+CA CA73 I-5 18
+CA CA78 1A 17A
+CA CA84 UniAve I-880(21)
+CA CA85 1A 24B
+CA CA87 1A 9
+CA CA90 1 SlaAve
+CA CA91 6 65B
+CA CA92 13 26
+CA CA94 1A 10A
+# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
+CA CA99 I-5(221) 57
+CA CA99 94 143
+CA CA99 151 157
+CA CA99 171 185
+CA CA99 198 201
+CA CA99 209 264A
+CA CA99 286 6(50)
+CA CA110 21 31B
+CA CA118 22 46A
+CA CA125 15 22
+CA CA133 10A 14
+CA CA163 2A I-15
+CA CA168 1A 7
+CA CA170 5 11B
+CA CA178 MSt 6
+CA CA180 58 64
+CA CA210 45 83 # remainder under expansion as of 5/2023
+CA CA237 3A 9B
+CA CA905 2B USA/MEX
 
 CO I-25 128 243
 CO I-70 232 243
@@ -7,12 +158,153 @@ CO I-70 247 286
 CO I-76 1A 6
 CO I-225 1 12 
 
-IL I-55 0 3
-IL I-55 3 11
+
+CT I-84 2 3
+CT I-84 3 7
+CT I-84 20 51 #only 2 lanes eastbound from 39A to 39 in the "wrong" order
+CT I-84 51 54
+CT I-84 54 CT/MA
+CT I-384 I-84 5
+CT I-684 NY/CT CT/NY
+CT I-91 1 17
+CT I-91 17 CT/MA #only 4 lanes from 32A to 29A/31 in the "wrong" order
+CT I-691 6 9
+CT I-95 NY/CT 54
+CT I-95 68 70
+CT I-95 83 89 #northbound drops to 2 lanes 1/2 mi before 89
+CT US7 I-95 CT123
+CT CT2 I-91 2
+CT CT2 2 5
+CT CT15 89 91
+CT CT25 2 CT111
+CT CT72 I-84(35) CT9
+
+
+DC I-66 VA/DC US50_E
+DC I-295 MD/DC 1
+DC I-295 2 5
+DC I-395 VA/DC 1
+DC I-395 1 7
+DC I-395 7 10
+DC I-495 VA/DC DC/MD
+DC I-695 I-395 2A
+DC US50 US1Alt_N DC/MD
+DC DC295 ECapSt DC/MD
+
+
+DE I-95 MD/DE 5D
+DE I-95 5D 6A
+DE I-95 11 DE/PA
+DE I-295 I-95 DE/NJ
+DE I-495 I-95 5 
+DE DE1 147 156
+
+FL I-4 I-275 132
+FL I-10 10 22
+FL I-10 196 203A
+FL I-10 350 I-95
+FL I-110 3 6
+FL I-75 1 23 #there's a tiny bit of 2 lane northbound at 19
+FL I-75 101 FL/GA
+FL I-175 I-275 MLKJrSt
+FL I-275 17A 20
+FL I-275 20 22
+FL I-275 22 45B
+FL I-275 45B I-75_N
+FL I-375 I-275 10thSt
+FL I-95 1A 351B
+FL I-95 352C FL/GA
+FL I-195 1 5
+FL I-295 I-95 22
+FL I-295 41 45
+FL I-295 52 58
+FL I-295 58 61
+#FL I-395 under construction
+FL I-595 I-75 10
+FL I-595 10 12
+FL FLTpk 5 47 #1 lane each way is express south of 11A
+FL FLTpk 47A 86
+FL FLTpk 249 272
+FL FLTpkMia I-95/826 4X
+FL US19 CR611 FL580
+FL US192 WorDr I-4
+FL FLA1AFor I-395 FouSt
+FL FL9BJac I-295 CR2209
+FL FL13 AcoExpy_S RivAve
+FL FL60 FL589(2A) I-275
+FL FL112 US27 I-95/195
+FL FL202 I-95 SanPabRd
+FL FL408 1 21
+FL FL414 34(429) 4B
+FL FL414 4B 9
+FL FL414 MaiSumBlvd HopeRd
+FL FL417 26 38 #under construction from 6 to 26
+FL FL429 30 34 #under construction from 18 to 30
+FL FL453 FL429 FL46
+FL FL528 I-4 13 #under construction from 13 to 16
+FL FL589 1 14 #northbound is split into 2 2-lane roadways near 2B
+FL FL618 8 10
+FL FL826 FL94 FLTpk
+FL FL836 FLTpk(26) I-95/395
+FL FL856 US1 FLA1A
+FL FL869 I-75/595 21
+FL FL874 FLTpk FL826
+FL FL924 I-75 32ndAve
+
+
+GA I-16 164 165 #construction in Macon
+GA I-20 24 93
+GA I-20 194 200 #construction into SC
+GA I-520 1 5
+GA I-75 FL/GA 165 #brief 2 lane southbound at 156
+GA I-75 177 GA/TN
+GA I-475 I-75_S 15
+GA I-675 5 I-285
+GA I-85 35 78
+GA I-85 78 129
+GA I-185 1 12
+GA I-285 GA279 20
+GA I-285 20 62
+GA I-95 FL/GA GA/SC
+GA US78 GA410(1) GA410(2)
+GA US78 GA410(2) WParkPlaBlvd
+GA GA141 I-285 PeaIndBlvd
+GA GA166 SylRd I-75/85
+GA GA232 SNixMemDr I-20/520
+GA GA400 1A 4
+GA GA400 4 GA369
+
+HI I-H1 1A 18
+HI I-H1 19 AinAve
+HI I-H2 1 5
+HI I-H201 1B I-H1
+
+
+IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
+IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
+IA I-74 3 IA/IL
+IA I-80 NE/IA 5 # Council Bluffs
+IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
+IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-235 I-80(123) I-80(137)
+IA I-380 16 24B # Waterloo
+IA I-380 0 2
+IA I-480 NE/IA I-29
+IA US218 71(380) MitAve
+IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+
+
+ID I-84 36 57
+ID I-184 0 US20/26
+ID US20 I-184 13thSt
+
+IL I-55 0 3A
+IL I-55 3A 11
 IL I-55 82 92
-IL I-55 105 127
+IL I-55 105A 127
 IL I-55 157 167
-IL I-55 250 293
+IL I-55 250 292
+IL I-55 292 US41
 IL I-57 53 65
 IL I-57 92 96
 IL I-57 157 163
@@ -20,43 +312,187 @@ IL I-57 345 358
 IL I-64 3 16
 IL I-74 0 3
 IL I-74 89 93
+IL I-74 94 95B #even though it's short, the west end at 94 is clearly 6 thru lanes, not exit/entrance lanes
 IL I-74 99 102
 IL I-80 137 155
-IL I-80 161 163
-IL I-88 113 139
+IL I-80 155 IL/IN
+IL I-88 113 I-294_N
 IL I-90 0 17
-IL I-90 17 84
+IL I-90 17 59A(94)
 IL I-90 100 107
-IL I-94 0 25
+IL I-94 0 25B
 IL I-94 29 63
-IL I-94 65 74
+IL I-94 65A 74
+IL I-190 0 2
 IL I-255 0 30
+IL IL255 I-270 2
+IL I-270 6 9
 IL I-290 0 7
 IL I-290 7 15
-IL I-290 15 29
-IL I-294 0 53
-IL I-355 0 32
+IL I-290 15A I-90/94 #and the continuation on Congress Street
+IL I-294 0 52
+IL I-355 0 I-290
+IL US41 57thDr ColDr
+IL US41 RanSt LakShoDr_N #one intersection at Chicago Avenue but otherwise a full freeway; the continuation of LSD beyond LakShoDr_N is 6 lanes
+IL US41 I-94(34A) ClaRd
+IL US45 IL171 I-55
+IL IL38 IL83 I-294
+IL IL53 I-90 IL68_E
+IL IL83 US34 I-88
+IL IL390 7B 12
+IL IL390 12 14
 
-IN I-65 0 16
-IN I-65 50 68
-IN I-65 90 110
-IN I-65 110 112
+
+IN I-65 KY/IN 16
+IN I-65 50 68 #southbound 3 lanes ends just shy of 50; it appears the same happens northbound at 68
+IN I-65 90 110B
+IN I-65 110B 112
 IN I-65 112 123
 IN I-65 129 146
 IN I-65 168 178
-IN I-65 240 259
-IN I-69 114 125
-IN I-69 156 163
+IN I-65 240 259A
+IN I-69Whe 114 125
+#IN I-69 156 163
 IN I-69 200 226
 IN I-69 302 316
 IN I-70 66 80
-IN I-70 83 104
+IN I-70 83 96 #east to 104 was under construction in May 2023, with the east half barely begun
 IN I-90 10 21
-IN I-94 0 45
-IN I-465 0 25
+IN I-94 IL/IN IN/MI
+IN I-465 I-65 25
 IN I-465 25 53
+IN US31 123 132
+IN KeyPkwy I-465 106thSt
+IN IN62 FulAve US41_S #and west to the end of the freeway
+IN IN66 US41_S BoeRd #and east to the end of the freeway
+
+
+KS I-35 214 KS/MO
+KS I-135 3A 11
+KS I-235 13 16
+KS I-435 MO/KS KS/MO
+KS I-635 1A 8
+KS I-70 362A 363
+KS I-70 183(KT) 204(KT)
+KS I-70 224(KT) 411
+KS I-70 411 421B
+KS I-70 423C KS/MO
+KS I-670 I-70 KS/MO
+KS US69 I-435 I-35(225B)
+KS US400 MaiRd KS96
+
+
+KY I-64 IN/KY 1
+KY I-64 1 6 #brief eastbound 2 lanes from 5 to 5B in the "wrong" order
+KY I-64 12 32
+KY I-64 75 81
+KY I-64 81 98
+KY I-264 1 19
+KY I-264 19 22
+KY I-65 TN/KY 137
+KY I-65 137 KY/IN
+#KY I-71 construction from 9 to 14
+KY I-471 
+KY I-75 29 118
+KY I-75 118 KY/OH
+KY I-275 OH/KY 6 #brief 2 lanes eastbound at 84
+KY I-471 1 KY/OH
+KY KY4 5 7
+KY KY4 8 ColCir
+
+
+LA I-10 8 25 #doesn't quite make it west to 8
+LA I-10 30B 33
+LA I-10 33 34
+LA I-10 34 44
+LA I-10 103 115
+LA I-10 153 155B
+LA I-10 155B 159
+LA I-10 159 173
+LA I-10 220 234A
+LA I-10 234C 267
+LA I-110 I-10 8 #southbound is 2 lanes from 1D to 1E in the "wrong" order
+LA I-610 1A 4A
+LA I-910 US90Bus_W 13
+LA I-910 13 I-10
+LA I-12 1A 19
+LA I-12 59 65 #construction may not be done, but it's pretty close
+LA I-12 80 85
+LA I-20 10 19A
+LA I-20 19A 20C
+LA I-20 115 116B
+LA I-20 117C 118
+LA I-49 199 206
+LA US90 GirRd LA182 #why is there no point at 115A?
+LA LA3139 LARd LA3154
+
+
+MA I-84 CT/MA I-90
+MA I-90 78 134
+MA I-91 CT/MA 1
+MA I-91 3 14
+MA I-93 1 19
+MA I-93 20 MA/NH
+MA I-95 RI/MA MA/NH
+MA I-190 I-290 4
+MA I-195 RI/MA 24
+MA I-290 12 32
+MA I-391 1 6
+MA I-495 19 119
+MA US1 MA99_S MA60 #short piece of 2 lanes southbound near BeaSt
+MA US3 72 MA/NH
+MA LowCon 2 5
+MA MA2 127 135
+MA MA3 38 43
+MA MA18 US6 I-195
+MA MA24 22 41
+MA MA25 1 10
+MA MA57 MA159 US5
+
+
+MD I-70 52 53
+MD I-70 53 82
+MD I-70 87 91
+MD I-270 I-495 2
+MD I-270 2 18
+MD I-270SprAsh I-495 2
+MD I-370 1 3
+MD I-83 3 12
+MD I-83 14 20
+MD I-95 DC/MD 27
+MD I-95 27 MD/DE
+MD I-295 I-95/495 MD/DC
+MD I-395 I-95 MLKBlvd
+MD I-495 DC/MD 34
+MD I-495 34 MD/VA
+MD I-695 2 4
+MD I-695 4 11
+MD I-695 11 36 #brief CW 2 lanes at 33
+MD I-795 1 4
+MD I-97 5 7
+MD I-97 7 17
+MD BalWasPkwy US50/201 MD450
+MD US29 FaiRd GreRd
+MD US29 13 15
+MD US29 16 25
+MD US40 US1 MLKBlvd
+MD US50 DC/MD MD201
+MD US50 5 32
+MD US50 37 US301_N
+MD MD5 MD223 I-95/495
+MD MD10 MD100_E MD100_W
+MD MD10 MD177 MD710
+MD MD32 13 16
+MD MD100 US29 5
+MD MD200 3 19
+MD MD201 DC/MD US50
+MD MD210 LivRd I-95/495 #specifically the ramps to I-295
+MD MD295 MD175 MD100
+MD MD295 I-195 I-95 #construction in Baltimore may end up removing lanes?
+
 
 ME I-95 NH/ME 44
+ME I-295 7 8A
 
 MI I-69 133 143
 MI I-75 0 51
@@ -69,13 +505,12 @@ MI I-94 167 171
 MI I-94 180 243
 MI I-96 91 97
 MI I-96 133 148
-MI I-96 148 163
-MI I-96 165 171
-MI I-96 171 191
-MI I-196 77 80
+MI I-96 148 164
+MI I-96 165 191
+MI I-196 77 I-96
 MI I-275 2 29
 MI I-475 4 7
-MI I-696 0 28
+MI I-696 I-96 28
 
 MN I-35E 92 101
 MN I-35E 107A 117
@@ -83,7 +518,7 @@ MN I-35W 1 16A
 MN I-35W 17A 23B
 MN I-35W 23C 33
 MN I-35 127 132
-MN I-94 ND/MN 1
+MN I-94 ND/MN 1A
 MN I-94 178 193
 MN I-94 202 34(694)
 MN I-94 225 230B
@@ -103,6 +538,171 @@ MN US212 MN5/60 I-494
 MN MN100 77thSt CR81
 MN MN610 MN252 US10_W
 
+
+MO I-29 2 3B
+MO I-29 3B 13
+MO I-29 14 17
+MO I-35 KS/MO 2U
+MO I-35 2Y 2H
+MO I-35 2H 8B
+MO I-435 KS/MO 22
+MO I-435 36 41
+MO I-435 47 52B
+MO I-435 52B 71
+MO I-435 71 MO/KS
+MO I-635 10 12
+MO I-44 251 290B
+MO I-44 290B 291A
+MO I-49 176 I-435
+MO I-55 180 207B
+MO I-255 1A MO/IL
+MO I-64 10 40
+MO I-64 40B MO/IL
+MO I-70 KS/MO 2A
+MO I-70 2B 2H
+MO I-70 2H 2L
+MO I-70 2L 20
+MO I-70 210 249
+MO I-170 1A 7
+MO I-170 7 9B
+MO I-270 1 33
+MO I-470 I-435 7
+MO I-670 KS/MO 2T
+MO I-670 2T 2N
+MO US60 SNatAve US65
+MO US65 MOsJ/CC US60/65Bus
+MO US65 US60/65Bus I-44
+MO US71 I-49(176) MOsW
+MO US71 55thSt I-70(2L)
+MO MO364 8A 20 #and the continuation as Route D
+MO MO370 I-70 I-270
+
+
+MS I-10 28 57
+MS I-20 41 44
+MS I-20 44 46
+MS I-20 46 54
+MS I-55 85 92C
+MS I-55 92C 94
+MS I-55 94 108
+MS I-55 289 MS/TN
+
+
+NE I-80 395 NE/IA
+NE I-680 I-80 5
+
+NE US6 NE31_N I-680
+NE US75 ChaRd SorPkwy
+
+NC I-26Fau TN/NC 9 #doesn't quite make it to 9
+NC I-26 31 33 #construction from 33 to 49
+NC I-40 44 46
+NC I-40 66 72 #westbound doesn't quite make it to 66
+NC I-40 180 188
+NC I-40 188 196
+NC I-40 206 259 #very brief 4 lane between the ramps at 219 and 220, but in the "wrong" order; ditto westbound with 222 and 223
+NC I-40 270 301
+NC I-40 301 306 #construction from 306 to 312
+NC I-240 3A 4A
+NC I-240 5B 7 #very brief westbound 2 lanes at 6
+NC I-440 4 16 #construction west of 4
+NC I-540 1 16
+NC I-540 16 26
+NC NC540 55 1
+NC I-840 103(73) 14
+NC I-73 95 103
+NC I-73 103 107
+NC NC74 43 53 #westbound left lane temporarily ends at 43
+NC I-74Hig 67 71B
+NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
+NC I-277 1B 2B
+NC I-277 2B 5
+NC I-85 10A 163
+NC I-85 172 178
+NC I-485 30 41
+NC I-485 59 I-85(48) #construction from 51 to 59
+NC NC885 1 5
+NC I-885 9 10
+NC I-885 10 13
+NC I-85BLGre 33 I-85_N #very brief 4 lane between the ramps at 36A and 220(40), but in the "wrong" order; ditto southbound with 222(40) and 223(40)
+NC I-87 16(440) 3
+NC I-87 3 13
+NC I-87FutRoc 13 14
+#NC I-95 construction from 58 to 81
+NC US1 69A 71
+NC US1 98 I-40
+NC US15 108B 174A(85)
+NC US17 NC24/53_W NC24/53_E
+NC US29 135 136
+NC US74 242 244
+NC US74 253 255
+NC US421 238 240
+NC NC87 23(295) OliSt
+NC NC147 6 7
+
+
+NJ I-76 PA/NJ 1A
+NJ I-676 1 NJ/PA #tiny bit of 2 lanes southbound near 5B
+NJ I-78 PA/NJ 29
+NJ I-78 29 59
+NJ I-78 NJ139 MarBlvd
+NJ I-278 3 NJ/NY
+NJ I-80 4A 47A
+NJ I-80 47A 68
+NJ I-280 4 13
+NJ I-280 15 17
+NJ I-287 I-95 21
+NJ I-287 21 59
+NJ I-95 6A NJ/NY #south almost to PA/NJ
+NJ I-95Sec I-95_S 16W
+NJ I-195 1A 1C
+NJ I-295 13 26
+NJ I-295 26 26A #the connection from NJ42 to I-76 is 6 lanes, and this is the only route covering that segment
+NJ I-295 26A NJ/PA
+NJ AtlCityExpy 1 31
+NJ GarStaPkwy 36 168 #under construction south of 36
+NJ NJTpk 4 72(95)
+NJ US1 NorAve US1TrkJer_S
+NJ US9 NJ35_Say SmiSt
+NJ US9 NJ440 NJ184
+NJ US22 NJ27 US1/9
+NJ US30 PA/NJ CR537
+NJ US46 NJ21 NJ20
+NJ NJ3 US46 BloAve
+NJ NJ3 NJ21 NJ495
+NJ NJ19 GarStaPkwy I-80
+NJ NJ21 US1/9 NJ27
+NJ NJ21 3rdAve 12
+NJ NJ23 I-80 AlpsRd
+NJ NJ24 7 9
+NJ NJ29 I-195/295 NJ129
+NJ NJ29 US1 CalSt
+NJ NJ42 AtlCityExpy I-295
+NJ NJ90 PA/NJ HadRd
+NJ NJ120 NJ3 CR503
+NJ NJ139 CenAve MarBlvd #I guess CenAve is the point for 139U
+NJ NJ208 BecDic I-287
+NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
+NJ NJ495 NJ3 NJ/NY
+
+NM I-25 220 242
+NM I-40 154 175
+NM I-10 144 NM/TX # SB at TX border drops lane 3 right before exit
+NM US285 166 168 #only section that is 6 - the rest are 5 lane (truck lanes?)
+
+NV I-11 14 23
+NV I-15 1 54
+NV I-80 12 18 # west of here is 5 lanes to Exit 9, east of here to 21 is auxiliary lanes between interchanges
+NV I-215 2 12
+NV I-515 61 76
+# NV I-580 8 10 # 6 lanes over Lakeview Hill, SB may be an auxiliary lane, remove comment if we want to include this
+NV I-580 16 36 # Lane drop 3/4 mile south of Exit 16, most of distance between 12 and 16 is 4 lanes
+
+NV US95 14(11) 96
+NV US395 16(580) 70
+
+NV CR215 12 32
+
 NH I-93 MA/NH I-89
 NH I-95 MA/NH NH/ME
 NH I-293 I-93_S 2
@@ -112,14 +712,15 @@ NH EveTpk MA/NH 8
 ND I-29 62 67
 ND I-94 349 ND/MN
 
-NY I-90 55A(NYST) 50(NYST)
+NY I-90 55(NYST) 50(NYST)
 NY I-90 45(NYST) 44(NYST)
 NY I-90 25A(NYST) 24(NYST)
 NY I-90 1 11
 NY I-190 I-90 9
 NY I-290 I-190 I-90
 NY I-990 I-290 3
-NY I-490 8 15
+NY I-490 6 8
+NY I-490 9 15
 NY I-490 16 25
 NY I-490 27 29
 NY I-590 I-390 5
@@ -133,7 +734,7 @@ NY I-890 4C 7
 NY I-87 I-278 16(NYST)
 NY I-87 23(NYST) 24(NYST)
 NY I-87 1 22
-NY I-787 1 9
+NY I-787 1 9 # 8 lanes over Collar City Bridge - do we want to count these as auxiliary or mainline?
 NY I-287 15(87) 11
 NY I-95 NJ/NY 6A
 NY I-95 6B NY/CT
@@ -147,17 +748,507 @@ NY I-278 51 54
 NY I-678 PerRd 19
 NY I-295 1 12
 NY I-495 14 72
+NY NY17Bin 69 72
+NY NY17Bin 122A 124
+NY NY33 GooSt I-90
+NY NY198 ParAve NY33
+NY NY390 21 24
+NY NY590 5 10
+NY NY104 LakeAve BayRd
+NY NY5 NewRd NY695
+NY NY695 NY5 I-690
+NY TacStaPkwy 2 20
+NY SprBroPkwy BroRivPkwy TacStaPkwy
+NY BroRivPkwy 5(S) SprBroPkwy
+NY CroCouPkwy 3 HutRivPkwy
+NY HutRivPkwy 1A 4A
+NY SawMillPkwy Bro/Wes 4
+NY HenHudPkwy 8 14
+NY HenHudPkwy 15 18
+NY HenHudPkwy 24 Bro/Wes
+NY FDRooDr 2 17
+NY HarRivDr 20A 24
+NY BeltPkwy 3 23
+NY BeltPkwy 24A 25
+NY CroIslPkwy 25A 36
+NY GraCenPkwy 4 13
+NY GraCenPkwy 14 Que/Nas
+NY NorStaPkwy Que/Nas 33
+NY NY27 1 5
+NY NY27 37 46B
+NY NY27 46C 53
+NY SouStaPkwy CroIslPkwy 40
+NY SouStaPkwy 41A 44
+NY HecPkwy 44 45
+NY MeaStaPkwy BayPkwy NorStaPkwy
+NY WanStaPkwy W6 W4
+NY NY135 1 13
+
+OH I-70 29 33
+OH I-70 33 93
+OH I-70 93 96
+OH I-70 97 99
+OH I-70 99 101A
+OH I-70 101A 108
+OH I-70 108 112
+OH I-70 129 132 #goes east about halfway to 141
+OH I-70 218 219
+OH I-270 I-71 8
+OH I-270 8 43 #2 lanes CCW from 33 to 35 in the "wrong" order
+OH I-270 43 46
+OH I-270 46 52
+OH I-270 52 55
+OH I-670 I-70 5
+OH I-670 5 10
+OH I-71 KY/OH 1B(75)
+OH I-71 1B(75) US50_E
+OH I-71 1B 28
+OH I-71 65 69 #goes south about halfway to 58
+OH I-71 94 101
+OH I-71 101 106
+OH I-71 106 107
+OH I-71 107 238
+OH I-71 239 I-90 #2 lanes northbound from 247 to 246 in the "wrong" order
+OH I-271 18 I-90 #2 lanes northbound thru 21, but the third lane exits and rejoins just so I-480 west can merge into the middle
+OH I-471 KY/OH 6A
+OH I-74 5 9
+OH I-75 KY/OH 1B
+OH I-75 1B 74
+OH I-75 156 192
+OH I-75 192 197 #construction north of here
+OH I-75 202B 204 #construction south of here
+OH I-75 204 208
+OH I-75 208 OH/MI
+OH I-275 25 28
+OH I-275 28 49
+OH I-275 49 69
+OH I-275 71 OH/KY
+OH I-475 8 14
+OH I-475 18A 20
+OH I-675 2 17
+OH I-76 13 18
+OH I-76 18 20
+OH I-76 20 23
+OH I-76 23 27 #construction east of 234
+OH I-77 104 122
+OH I-77 122 125
+OH I-77 125 129
+OH I-77 129 137
+OH I-77 146 156
+OH I-77 156 162A
+OH I-277 1 4
+OH I-80 59 218
+OH I-80 219 224
+OH I-80 224 228
+OH I-280 7 I-75
+OH I-480 1 10
+OH I-480 10 26
+OH I-480 26(271) 21(271)
+OH I-480War I-480 I-271
+OH I-680 6B 11
+OH I-90 151 170B
+OH I-90 170B 174B
+OH I-90 174B 185
+OH I-90 185 188
+OH I-90 188 195
+OH I-490 1A I-77
+OH US22 242 244A
+OH US23 US35_E US35_W
+OH US30 OH297 I-77 #possible construction in Mansfield
+OH US33 107 108
+OH US35 JHMcGBlvd I-75
+OH US35 I-75 42
+OH US50 ElbAve FreAve
+OH US50 FreAve I-75
+OH OH2 LakeAve 194
+OH OH2 195A 196B
+OH OH2 196B 207
+OH OH2 207 221
+OH OH8 I-76/77 14B
+OH OH161 40 43
+OH OH176 16 18
+OH OH315 I-70/71 1D
+OH OH315 1F 12
+
+OK I-35 106 127
+OK I-35 133 141
+OK I-40 127 157C
+OK I-44 115 138A(35)
+OK I-44 225 34(364)
+OK I-235 1A 4B
+OK I-240 1A 3B
+OK I-244 1A I-44
+OK I-444 I-244_W I-244_E
+OK US75 I-244(2) I-244(4B)
+OK US75 HouAve PeoAve
+OK US77 I-35(113) 33rdSt
+OK US169 OK364_E 56thSt
+OK OK51 AdaRd US64_E
+OK OK74 I-44 JohnKilTpk
+
+OR I-5 194 195
+OR I-5 +x4(OR99E) 299A
+OR I-5 299B 300A
+OR I-5 +x61 OR/WA
+OR I-84 I-5 +x7(US30)
+OR I-84 9A 17
+OR I-205 I-5 3
+OR I-205 9 OR/WA
+OR I-405 1 +x1(US26)
+OR I-405 2B I-5(302B)
+OR US26 62 74
+OR US30 VauSt I-405(3)
+OR OR217 US26 2A
+OR OR217 6 7
+
+PA I-70 18 21
+PA I-76 28 48
+PA I-76 67 75
+PA I-76 201 226
+PA I-76 242 247
+PA I-76 339 344
+PA I-76 349 PA/NJ
+PA I-78 53 60
+PA I-78 75 PA/NJ
+PA I-79 34 38
+PA I-79 54 59
+PA I-79 72 76
+PA I-81 57 72
+PA I-81 185 188
+PA I-83 41A 44B
+PA I-83 47 51
+PA I-84 I-81/6 2
+PA I-95 DE/PA 40
+PA I-276 326 351
+PA I-279 2A 5
+PA I-295 8 PA/NJ
+PA I-376 79B 85
+PA I-380 2(84) I-81/6
+PA I-476 9 31B
+PA I-676 5thSt PA/NJ
+PA US1 I-76(339) WisAve
+PA US1 PA132 I-276
+PA US22 I-376(79B) I-376(85)
+PA US30 PA283 PA23_E
+PA US202 US30 US422
+PA US222 US422_W PapMillRd 
+PA US422Rea US222_S PapMillRd
+PA PA63 US1_N KniRd
+PA BetRossBri I-95 PA/NJ
+
+
+RI I-95 24B RI/MA
+RI I-195 1 RI/MA
+RI I-295 9A RI/MA
+RI US6 I-295(9) US6Alt_E #under construction east of this
+RI RI4 7B I-95
+
+
+SC I-20 51 82
+SC I-26 101 108B #construction west of 101
+SC I-26 108B 125
+SC I-26 194 220
+SC I-26 220 221
+SC I-126 I-26 US21/176
+SC I-126 US21/176 GadSt
+SC I-77 I-26 24
+SC I-77 77 SC/NC
+SC I-85 19 80 #construction north of 80 all the way to SC/NC
+SC I-385 26 42
+SC I-95 160 170
+SC US17 I-26(220) SC703
+SC SC12 US378 US21
+SC SC22 SC31 US17
+SC SC31 SC707 US501
+SC SC31 US501 SC9
+
 
 SD I-29 75 84
 
-VA I-64 173 186
+
+TN I-24 44 46
+TN I-24 46 50
+TN I-24 50 52B
+TN I-24 52B 81
+TN I-24Cha 178 185
+TN I-124 I-24 TenRiv
+TN I-40 AR/TN 1
+TN I-40 1 1E
+TN I-40 1E 12B
+TN I-40 12B 18
+TN I-40 80 87 #construction from 79 to 80
+TN I-40 196 208
+TN I-40 208 210
+TN I-40 210 211
+TN I-40 211 213
+TN I-40 213 236
+TN I-40 368 421
+TN I-240 12 25
+TN I-240 25 32 #2 lanes eastbound from 31 to 30A in the "wrong" order
+TN I-440 I-40 I-24
+TN I-640 I-40_W I-40_E
+TN I-55 MS/TN 6
+TN I-55 6 7
+TN I-55 7 11
+TN I-65 59 82
+TN I-65 82 84
+TN I-65 84 86
+TN I-65 86 97
+TN I-65 121 TN/KY #construction south to 117
+TN I-75 GA/TN 11
+TN I-75 84 385(40)
+TN I-75 385(40) 3(640)
+TN I-75 3(640) 112
+TN I-275 I-40 3
+TN I-81 74 TN/VA
+TN SamCooBlvd 7 10 #construction west of 7
+TN US27 I-24(178A) MorSprRd
+TN US129 CheTrl I-40 #southbound is 2 lanes from US11/70 to KinPk but in the "wrong" order
+TN TN14 I-40(8) OldAPeayHwy_N
+TN TN153 I-75 6
+TN TN155 6 15
+TN TN158 JamWhiPkwy_S I-40
+TN TN162 DutRd I-140(1C)
+TN TN319 AmnHwy_W AccRd
+TN TN385 I-240 WinRd
+
+# TEXAS - counting MAIN THROUGH LANES, not frontage roads.
+TX I-2 130 175
+TX I-10 11 35
+TX I-10 546 585 # under construction to 599
+TX I-10 732 833 # under construction to 709
+TX I-10 849 875 # under construction between 833 and 849
+TX I-14 US190BusCop FroRd # under construction from here to I-35
+TX I-20 428 480
+TX I-20 480A 487
+TX I-30 I-20 45A
+TX I-30 45B 68
+TX I-35 HidSt 4A
+# TX I-35 4A 9 --- under construction between FM1472 and I-69W interchanges including some length past each
+TX I-35 9 12A
+TX I-35 145A 370B
+TX I-35Gai 467 469 # 6 lanes section continues into 35E
+TX I-35E 381 467 # under construction to expand south of 381.
+TX I-35W 36 60
+TX I-37 135 142
+TX I-40 63 78
+TX I-44 1 3A
+TX I-45 1A 112
+TX I-45 213 284A
+TX I-69 94 167
+TX I-69C 1C 10
+TX I-69E PolkSt 26A
+TX I-69W WorTraBri 2
+TX I-410 3B 26A
+TX I-410 165(35) 164A(35)
+TX I-610 TX288 38 # there are sections under construction but were 6 lane prior to said construction
+TX I-635 1C 35
+TX I-820 1A 22A
+TX I-820 23 24B
+TX I-820 26 31 # under construction AT TX121 (HOV install)
+TX US54ElP MonAve TXLp375_N
+TX US59 FM2919 TX105
+TX US69 11thSt DowRd
+TX US75 I-30 RosPkwy
+TX US90 TXLp1604 I-10(585)
+TX US90 I-10(741) I-10(775)
+TX US90 MerDr FM526_S
+TX US90 TXLp8 SheRd
+TX US90 I-10(851) I-10(875)
+TX US175 BexSt SilDr
+TX US183 TX71 LakBlvd
+TX US281 I-37(135) OvePkwy
+TX US290 IndOaksBlvd TX45/130
+TX US290 FieStoRd I-610
+TX TX45 LakeCrkPkwy HeaBlvd
+TX TX45 TX130(432) TX130(449)
+TX TX121 I-35W/287 ScrParkDr
+TX TX121 I-820(24A) I-820(23)
+TX TX121 BedEulRd TX183_E #north of the concurrency - managed lane (not always open)
+TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Frontage road!) - except US75 concurrency
+TX TX121 US75_S US75_N
+TX TX146 FaiPkwy TX146BusBay_N
+TX TX183 BedEulRd I-35E
+TX TX183A US183_S RM2243
+TX TX199 NorAve NineMileRd
+TX TX225 I-610 TX146
+TX TX249 TXLp8 HarStoRd
+TX TX288 CR58 I-45
+TX TXLp1 BayLn TX45_N
+TX TXLp8 TX225_S I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
+TX TXLp375 48 58
+TX TXSpr330 WadeRd TX146
+TX TXSpr366 BecAve RouSt
+TX ChiTrlPkwy SycSchRd I-30
+TX DalNorTlwy OakLawnAve CR26
+TX GeoBushTpk TX180 I-30(61B)
+TX HarTollRd I-610 TX99
+TX IntPkwy TXSpr97 TX114/121
+
+
+UT I-15 5 6 
+UT I-15 8 10
+UT I-15 13 16
+UT I-15 248 362
+UT I-80 113 120
+UT I-80 123 128
+UT I-80 130 146
+UT I-215 1 26
+UT US89 I-15(324) 397
+UT UT154 1 3
+UT UT154 7 9
+UT UT154 11 16
+UT UT201 10 I-15/80
+
+
+VA I-64 173 187
+VA I-64 187 190
 VA I-64 190 197
 VA I-64 200 205
 VA I-64 234 267
-VA I-64 276C 291
-VA I-464 1 4`
+VA I-64 276C 284
+VA I-64 284 291 #construction from 291 to 299
+VA I-264 3 7
+VA I-264 8 9
+VA I-264 9 14
+VA I-264 14 ParAve
+VA I-464 1 4
+VA I-564 4 Gate3A
+VA I-664 1 5
+VA I-664 13 15
+VA I-66 40 64
+VA I-66 GeoWasPkwy VA/DC
+VA I-81 TN/VA 7
+VA I-81 72 81
+VA I-81 141 143 #construction south to 137
+VA I-581 1 6
+VA I-95 51 170
+VA I-95 170 VA/DC
+VA I-195 VA76/147 I-64
+VA I-295 9 43 #brief 2 lanes northbound at merge from 28A
+VA I-295 43 53
+VA I-395 1 VA/DC
+VA I-495 MD/VA VA/DC
+VA GWMemPkwyCry ReaNatAir_N I-395
+VA US1 15thSt I-395(8C)
+VA US50 SR608 I-66(57)
+VA US50 10thSt GeoWasPkwy #not quite a freeway west of 10thSt
+VA US220 US220BusRoa_S I-81(143)
+VA VA7 US15/7Bus AlgPkwy
+VA VA27 I-395 BouDr
+VA VA28 US29 I-66 #it may be continuous at I-66 post-construction
+VA VA28 I-66 VA7
+VA VA76 VA150 I-195
+VA VA110 I-395 MemAve
+VA VA150 I-95/895 VA76
+VA VA195 I-195 2ndSt
+VA VA267 2 9
+VA VA267 9 18
+VA VA286 I-95 BarRd
+VA VA286 US29 US50
 
+WA I-5 OR/WA 7A
+WA I-5 7 52
+WA I-5 82 225
+WA I-205 OR/WA 30
+WA I-90 2 62
+WA I-90 276 293
+WA I-405 I-5(154) I-5(182)
+WA WA520 84thAve LakSamPkwy # under construction west of 84thAve
+
+WI US10 287 291 # Need to verify west of 286
+WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell in MIL)
+WI US41 113 139 # Fox Cities - south end of 6ln is 1 mile south of interchange
+WI US41 161 173 # Green Bay - south end of 6ln is 1 mile south of interchange
+WI I-43 61 73C # does not include west of Hale Int (I-894), north end ambigous - under construction (expansion) System Ints 316 (Mitchell on 94) and 72(Marquette) are 2 ln thru
+WI I-90 108 WI/IL # 4-lane NB through 142 (Beltline in MSN)
 WI I-94 MN/WI 4
+WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
+WI I-94 290 WI/IL # 4ln throu
+WI I-794 1A 3
+
+WI US12 255 267
+WI US51 187 193
+WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
+WI US151 97 100
+
+WI WI32 I-41(168A) WI29_E
+WI WI172 I-41 WebSt
+WI WI175 WI59 LloydSt
+
+
+WV I-64 11 15
+WV I-64 39 40
+WV I-64 45 59
+WV I-77 40 48
+WV I-77 98 101
+WV I-77 101 104
+WV I-77 173 176
+WV I-79 117 125
+WV I-79 135 137
+WV I-81 12 23
+WV US50 OH/WV CR34/4
+WV US50 WV68_S WV68_N
+
+
+# CANADA
+AB AB2 230 305
+AB AB2 391 394
+AB AB2 517 19Ave
+AB AB2 AB14 18(216) # 2 at 216's Exit 18 is an at-grade
+AB AB14 AB2 AB216_N
+AB AB16 378 383
+AB AB16 389 405
+AB AB201 38 60
+AB AB201 68 101
+AB AB201SWC AB2 26
+# AB216 has several sections of 4-lane under construction
+AB AB216 14 16
+AB AB216 18 33
+AB AB216 46 66
+AB AB216 73 78
+AB CroTrl GleTrl AB201
+AB TCHMai 177 SarTrl # section to Exit 172 under construction
+AB TCHMai 68St AB201_E
+
+BC TCHMai 26 *59 # The 6-lane east end is at this non-interchange.
+BC TCHMai 362 369
+BC BC91 8 9 # Just the bridge - a waste.
+
+ON ON7Wat RR58 RR28
+ON ON7Wat ON8_E ON85
+ON ON8 RR58 RR38
+ON ON400 20 105
+ON ON401 2 63 # west of exit 2 under construction with Gorde Howe bridge
+ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
+ON ON401 611 623
+ON ON403 70 104
+ON ON403 109 ON401_E
+ON ON404 17 45
+ON ON407 1 112
+ON ON409 ON427 ON401
+ON ON410 ON403 18
+ON ON417 112 145
+ON ON427 TheQueWay 19
+ON ONQEW RR124 2
+ON ONQEW 34 99
+ON ONQEW 101 139
+ON AllRd LawAve TraRd
+ON DonValPkwy QueSt ON401/404
+ON GarExpy 139 157
+
+QC A-13 1 22
+QC A-15 45 45(AL)
+QC A-20 54A 102
+QC A-19 BoulHenBou 8
+QC A-25 A-20 1
+QC A-25 5 8
+QC A-40 32 98A
+QC A-40 302 318
+QC A-73 137 151
+QC A-740 BoulHoc BoulLeb
+QC A-973 RueCroRou 4
+QC QC136Mon 1 7
 
 #EUROPE#
 ##Belgium##
@@ -379,6 +1470,7 @@ WLS A494 A548_E WLS/ENG
 IRL M1 1 4
 IRL M7 9 11
 IRL M50 2 14
+IRL N2Dub 1 2
 IRL N4Dub 1 5
 IRL N7 1 9
 IRL N40 3 7
