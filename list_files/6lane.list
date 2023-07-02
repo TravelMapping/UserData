@@ -554,22 +554,27 @@ ME I-295 7 8A
 
 
 MI I-69 133 143
-MI I-75 0 51
+MI I-75 OH/MI 51 #only 4 lanes from 49A to 48 in the "wrong" direction
 MI I-75 51 111
 MI I-75 115 164
-MI I-94 0 34
-MI I-94 74 80
-MI I-94 138 142
+MI I-94 IN/MI 34
+MI I-94 74 80 #78 to 80 to be completed in August 2023?
+#MI I-94 138 142 under construction
 MI I-94 167 171
 MI I-94 180 243
 MI I-96 91 97
 MI I-96 133 148
 MI I-96 148 164
-MI I-96 165 191
+MI I-96 165 I-275_S
+MI I-96 I-275_S 191A
 MI I-196 77 I-96
 MI I-275 2 29
-MI I-475 4 7
-MI I-696 I-96 28
+MI I-296 86 89
+MI I-375 LarSt I-75
+MI I-475 4A 11 #4 lanes from 7 to 6 in the "wrong" order
+MI I-496 7 9
+MI I-696 1A 28
+
 
 MN I-35E 92 101
 MN I-35E 107A 117
