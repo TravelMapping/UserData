@@ -194,8 +194,13 @@ CO I-70 247 274
 CO I-70 274 284 #a little weird westbound at 282
 CO I-76 5 6
 CO I-76 9 12
-CO I-225 1 12 
-
+CO I-225 1 12
+CO PenaBlvd 6 Ter
+CO US6 I-70(261) I-25(209A) #and 6th Avenue Freeway east to Kalamath Street
+CO US36 CO157 I-270(0)
+CO CO470 1 4
+CO CO470 13 26
+CO E470 1A 20
 
 CT I-84 2 3
 CT I-84 3 7
