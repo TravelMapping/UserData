@@ -1468,6 +1468,7 @@ AK AK1 End AK2
 AK AK2 YT/AK AK3
 AK AK3 AK8 AK2
 AK AK4 AK1_W AK1_E
+AK AK5 AK2 AK/YT
 AK AK8 ButLakeRd AK3
 AK AK9 RaiAve AK1
 AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
@@ -3016,6 +3017,8 @@ SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Yukon (CAN-YT)
 YT YT1Wat BC/YT YT YT1 YT/AK
+YT YT2 YT1_S GeoBlaFry
+YT YT9 GeoBlaFry YT/AK
 
 # Mexico
 # Baja California (MEX-BC)
