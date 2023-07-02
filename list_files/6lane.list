@@ -202,6 +202,7 @@ CO CO470 1 4
 CO CO470 13 26
 CO E470 1A 20
 
+
 CT I-84 2 3
 CT I-84 3 7
 CT I-84 20 51 #only 2 lanes eastbound from 39A to 39 in the "wrong" order
@@ -241,6 +242,7 @@ DE I-95 11 DE/PA
 DE I-295 I-95 DE/NJ
 DE I-495 I-95 5 
 DE DE1 147 156
+
 
 FL I-4 I-275 132
 FL I-10 10 22
@@ -317,29 +319,37 @@ GA GA232 SNixMemDr I-20/520
 GA GA400 1A 4
 GA GA400 4 GA369
 
+
 HI I-H1 1A 18
 HI I-H1 19 AinAve
 HI I-H2 1 5
-HI I-H201 1B I-H1
+HI I-H201 1A I-H1
 
 
-IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
+IA I-29 47 49
+IA I-29 49 51
+IA I-29 51 52 #construction north of 52
+IA I-29 143 151
+IA I-35 68 87 #south end is 1 mi south of 68; 2 lanes northbound from 124(80) to 72 in the "wrong" direction
+IA I-35 87 94
 IA I-74 3 IA/IL
-IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
-IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-80 NE/IA 5
+IA I-80 121 123
+IA I-80 123 137
+IA I-80 137 143
+IA I-80 240 246 #construction from 237 to 240, 246 to 249
 IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B # Waterloo
-IA I-380 0 2
+#IA I-380 0 2 under construction
+IA I-380 16 24B
+IA I-380 71 MitAve
 IA I-480 NE/IA I-29
-IA US218 71(380) MitAve
-IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+IA US218 WasSt 187
 
 
-ID I-84 36 57
+ID I-84 28 57 #west end of 6 lanes completed in 2023 may be at 29, not 28
 ID I-184 0 US20/26
 ID US20 I-184 13thSt
+
 
 IL I-55 0 3A
 IL I-55 3A 11
