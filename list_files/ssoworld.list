@@ -473,12 +473,13 @@ PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
 # I-A1
-AK I-A2 AK1 AK3
+AK I-A1 5thAve_W AK/YT
 # I-A2
+AK I-A2 AK1 AK3
 # I-A3
+AK I-A3 KenSpurHwy 5thAve
 # I-A4
-AK I-A4 CanDr AK2
-
+AK I-A4 AK1 AK2
 # I-H1
 HI I-H1 1A AinAve
 # I-H2
@@ -1463,8 +1464,15 @@ AL AL157 US72ALT_E US72ALT_W
 
 # Alaska (AK)
 # ---------------------
+AK AK1 End AK2
 AK AK2 YT/AK AK3
-AK AK3 CanDr AK2
+AK AK3 AK8 AK2
+AK AK4 AK1_W AK1_E
+AK AK5 AK2 AK/YT
+AK AK8 ButLakeRd AK3
+AK AK9 RaiAve AK1
+AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
+AK HicPkwy AK1 TudRd
 
 # Arizona (AZ)
 # ---------------------
@@ -3009,6 +3017,8 @@ SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Yukon (CAN-YT)
 YT YT1Wat BC/YT YT YT1 YT/AK
+YT YT2 YT1_S GeoBlaFry
+YT YT9 GeoBlaFry YT/AK
 
 # Mexico
 # Baja California (MEX-BC)
