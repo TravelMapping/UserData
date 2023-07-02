@@ -98,8 +98,8 @@ CA I-280 I-680/101 54
 CA I-280 54 57
 CA I-380 5A 6
 CA I-580 7A 12
-CA I-580 13(80) 8B (80)
-CA I-580 8B (80) 65
+CA I-580 13(80) 8B(80)
+CA I-580 8B(80) 65
 CA I-680 I-280/101 30
 CA I-680 30 58A
 CA I-880 I-280 46A
@@ -144,8 +144,7 @@ CA WesPkwy AllRd MohSt
 CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
 CA CA67 1A 2
-CA CA71 4 12B
-CA CA71 12B #construction north of 12B
+CA CA71 4 12B #construction north of 12B
 CA CA71 14A 15
 CA CA73 I-5 18
 CA CA78 1A 17A
@@ -187,11 +186,21 @@ CA CA242 I-680 3B
 CA CA262 I-880 WarmSprBlvd
 CA CA905 2B USA/MEX
 
-CO I-25 128 243
-CO I-70 232 243
-CO I-70 247 286
-CO I-76 1A 6
-CO I-225 1 12 
+
+CO I-25 138 243 #some construction near Loveland-Fort Collins
+CO I-70 205 I-70_U1
+CO I-70 232 243 #left shoulder is open as an express lane during peak periods; westbound begins a bit west of 243
+CO I-70 247 274
+CO I-70 274 284 #a little weird westbound at 282
+CO I-76 5 6
+CO I-76 9 12
+CO I-225 1 12
+CO PenaBlvd 6 Ter
+CO US6 I-70(261) I-25(209A) #and 6th Avenue Freeway east to Kalamath Street
+CO US36 CO157 I-270(0)
+CO CO470 1 4
+CO CO470 13 26
+CO E470 1A 20
 
 
 CT I-84 2 3
@@ -233,6 +242,7 @@ DE I-95 11 DE/PA
 DE I-295 I-95 DE/NJ
 DE I-495 I-95 5 
 DE DE1 147 156
+
 
 FL I-4 I-275 132
 FL I-10 10 22
@@ -309,29 +319,37 @@ GA GA232 SNixMemDr I-20/520
 GA GA400 1A 4
 GA GA400 4 GA369
 
+
 HI I-H1 1A 18
 HI I-H1 19 AinAve
 HI I-H2 1 5
-HI I-H201 1B I-H1
+HI I-H201 1A I-H1
 
 
-IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
+IA I-29 47 49
+IA I-29 49 51
+IA I-29 51 52 #construction north of 52
+IA I-29 143 151
+IA I-35 68 87 #south end is 1 mi south of 68; 2 lanes northbound from 124(80) to 72 in the "wrong" direction
+IA I-35 87 94
 IA I-74 3 IA/IL
-IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
-IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-80 NE/IA 5
+IA I-80 121 123
+IA I-80 123 137
+IA I-80 137 143
+IA I-80 240 246 #construction from 237 to 240, 246 to 249
 IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B # Waterloo
-IA I-380 0 2
+#IA I-380 0 2 under construction
+IA I-380 16 24B
+IA I-380 71 MitAve
 IA I-480 NE/IA I-29
-IA US218 71(380) MitAve
-IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+IA US218 WasSt 187
 
 
-ID I-84 36 57
+ID I-84 28 57 #west end of 6 lanes completed in 2023 may be at 29, not 28
 ID I-184 0 US20/26
 ID US20 I-184 13thSt
+
 
 IL I-55 0 3A
 IL I-55 3A 11
@@ -427,11 +445,10 @@ KY I-264 19 22
 KY I-65 TN/KY 137
 KY I-65 137 KY/IN
 #KY I-71 construction from 9 to 14
-KY I-471 
+KY I-471 1 KY/OH
 KY I-75 29 118
 KY I-75 118 KY/OH
 KY I-275 OH/KY 6 #brief 2 lanes eastbound at 84
-KY I-471 1 KY/OH
 KY KY4 5 7
 KY KY4 8 ColCir
 
