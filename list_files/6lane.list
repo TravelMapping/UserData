@@ -98,8 +98,8 @@ CA I-280 I-680/101 54
 CA I-280 54 57
 CA I-380 5A 6
 CA I-580 7A 12
-CA I-580 13(80) 8B (80)
-CA I-580 8B (80) 65
+CA I-580 13(80) 8B(80)
+CA I-580 8B(80) 65
 CA I-680 I-280/101 30
 CA I-680 30 58A
 CA I-880 I-280 46A
@@ -144,8 +144,7 @@ CA WesPkwy AllRd MohSt
 CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
 CA CA67 1A 2
-CA CA71 4 12B
-CA CA71 12B #construction north of 12B
+CA CA71 4 12B #construction north of 12B
 CA CA71 14A 15
 CA CA73 I-5 18
 CA CA78 1A 17A
@@ -187,10 +186,14 @@ CA CA242 I-680 3B
 CA CA262 I-880 WarmSprBlvd
 CA CA905 2B USA/MEX
 
-CO I-25 128 243
-CO I-70 232 243
-CO I-70 247 286
-CO I-76 1A 6
+
+CO I-25 138 243 #some construction near Loveland-Fort Collins
+CO I-70 205 I-70_U1
+CO I-70 232 243 #left shoulder is open as an express lane during peak periods; westbound begins a bit west of 243
+CO I-70 247 274
+CO I-70 274 284 #a little weird westbound at 282
+CO I-76 5 6
+CO I-76 9 12
 CO I-225 1 12 
 
 
@@ -427,11 +430,10 @@ KY I-264 19 22
 KY I-65 TN/KY 137
 KY I-65 137 KY/IN
 #KY I-71 construction from 9 to 14
-KY I-471 
+KY I-471 1 KY/OH
 KY I-75 29 118
 KY I-75 118 KY/OH
 KY I-275 OH/KY 6 #brief 2 lanes eastbound at 84
-KY I-471 1 KY/OH
 KY KY4 5 7
 KY KY4 8 ColCir
 
