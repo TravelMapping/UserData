@@ -3017,7 +3017,8 @@ SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Yukon (CAN-YT)
 YT YT1Wat BC/YT YT YT1 YT/AK
-YT YT2 YT1_S GeoBlaFry
+YT YT2 YT8 GeoBlaFry
+YT YT8 YT1 YT2
 YT YT9 GeoBlaFry YT/AK
 
 # Mexico
