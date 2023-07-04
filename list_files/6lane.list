@@ -669,12 +669,6 @@ MS I-55 94 108
 MS I-55 289 MS/TN
 
 
-NE I-80 395 NE/IA
-NE I-680 I-80 5
-
-NE US6 NE31_N I-680
-NE US75 ChaRd SorPkwy
-
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
 NC I-26 31 33 #construction from 33 to 49
 NC I-40 44 46
@@ -722,6 +716,18 @@ NC NC87 23(295) OliSt
 NC NC147 6 7
 
 
+NE I-80 395 446
+NE I-80 446 NE/IA
+NE I-480 I-80 2B
+NE I-480 4 NE/IA
+NE I-680 I-80 5
+
+NE US6 NE31_N I-680
+NE US75 US275/92 I-80
+NE US75 I-80 I-480(2B)
+NE US75 I-480(2B) SorPkwy
+
+
 NJ I-76 PA/NJ 1A
 NJ I-676 1 NJ/PA #tiny bit of 2 lanes southbound near 5B
 NJ I-78 PA/NJ 29
@@ -766,10 +772,15 @@ NJ NJ208 BecDic I-287
 NJ NJ440 StaSt I-95/287 #very brief 2-lane northbound just before merge from US9
 NJ NJ495 NJ3 NJ/NY
 
-NM I-25 220 242
-NM I-40 154 175
+
 NM I-10 144 NM/TX # SB at TX border drops lane 3 right before exit
+NM I-25 215 242
+NM I-40 154 175
+NM US70 I-25 RinBlvd
 NM US285 166 168 #only section that is 6 - the rest are 5 lane (truck lanes?)
+NM US285 177 ViaSt
+NM NM423 NM45 I-25
+
 
 NV I-11 14 23
 NV I-15 1 54
