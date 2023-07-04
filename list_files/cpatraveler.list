@@ -1,3 +1,23 @@
+MO US69 MO9 I-35(14)  #06302023 Travel to Airport after KC Office Trip
+MO MO291 KanSt I-435
+MO US169 188thSt I-29(2) #06292023 United Board Meeting at Hertoz Foundation
+MO US56 TroAve US71  #06282023 Drive after work to get some roads
+MO US71 US56 I-70(2L)
+KS KS5 US69 I-635(8)
+KS KS5 I-635(7) I-435(15)
+MO US169 I-29(2) I-70(2C)  # Previous trips from Airport thru downtown by old airport
+MO MO9 I-29 I-70  #06272023 Travel to KC for meetings with Kevin and United Board Meeting
+MO I-670 2N KS/MO
+KS I-670 KS/MO I-70
+KS KS32 US69 NetAve  #Got on KS7 added to NetAve where Cathy worked when we lived in OP
+KS KS7 KS32 I-35
+TN US19E US19/19W EliHwy  #06222023 Travel to TRI from Gate City going by Ridgeway BBQ
+TN TN44 US19E TN390
+TN TN390 TN44 TN394
+TN TN394 TN390 US11E/19
+VA VA152 US60 LakDr  #06182023 Travel to Norfolk Airport from Mom
+VA US60AltNor US60_W US460_W
+VA VA168 US460 VA165
 CO CO12 US160 I-25 #06122023 Travel to SW Electric for Meeting
 NM I-25 450 412
 NM I-25BLSpr US56/412 I-25_N
@@ -14,7 +34,7 @@ CO US287 CO59 CO94
 CO CO94 US40/287 US24
 NV NV562 LasVegBlvd AnnOakDr #06142023 Travel to Mohave Bd Mtg, waiting for Robert
 NV NV582 NV593 I-11
-NV US93BusBou UN93_N RaiPassRd
+NV US93BusBou US93_N RaiPassRd
 NV US93BusBou NV173 US93_S
 NV NV172 I-11 End
 NV NV564 I-215/515 LkMeadNRA
@@ -23,7 +43,7 @@ NV US95BusLsV NV574 US95_N
 NV NV613 CR215 US95
 NV NV595 US95 TroAve
 NV NV592Spr NV595 I-15
-VA VA165 AzaGarRd US460 #06162023 Visit Mom Trip
+VA VA165 VA247 US460 #06162023 Visit Mom Trip
 VA I-564 4 VA337
 VA VA238 BalSt_W NelRd 
 FL FL293 FL20 FL85  #06092023 Trip to Pensacola for BofA Change Accounts
@@ -31,6 +51,7 @@ FL FL85 FL293 US90
 FL US90 FL4 US98_E
 FL FL281 US90 US98
 FL FL87 US90_E I-10
+FL US98 US98BusPen_E US90_E 
 TN US431 I-840 US31Alt/431Bus_N #06082023 Trip home from TN Broadband Meeting
 TN US31AltBusLew US31Alt_N  US31Alt_S
 TN US31AltNas US31AltBus_S I-65(22)

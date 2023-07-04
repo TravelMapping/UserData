@@ -213,6 +213,7 @@ ENG A214 A212 A232
 ENG A215 A3 A2199
 ENG A215 A212_E B266
 ENG A217 M25 A240
+ENG A218 B235 A238
 ENG A219 A3209 AriWay
 ENG A219 A238 B285
 ENG A222 A212 A222Cro
@@ -223,6 +224,7 @@ ENG A229 M20 A230
 ENG A230 A231 A229
 ENG A231 A230 MarWay
 ENG A232 A224 A214
+ENG A238 A218 B285_N
 ENG A240 A217 A3
 ENG A243 CheWorAdv A24
 ENG A244 M25 A243
@@ -666,6 +668,7 @@ ENG A5183 M1 B5120
 ENG A5187 A34 A518
 ENG A5200 A40 A503
 ENG A5201 A401 A10
+ENG A5202 A501 A503
 ENG A5203 A501 A503
 ENG A5204 A5 A400
 ENG A5205 A5 A4201
@@ -701,7 +704,9 @@ ENG B186 A1306_W A1306_E
 ENG B214 A2 WelWay
 ENG B215 A2 A202
 ENG B216 A2 B215
+ENG B235 A218 A219
 ENG B240 A3/A3202 A201
+ENG B285 A219 A238_E
 ENG B266 A215 A212
 ENG B300 A3 A23/A302
 ENG B323 A3203/A3212 A3214
@@ -1678,6 +1683,7 @@ IDN T3 20 32
 #SW Winnersh - Reading
 #SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
 #SW Queenstown Road Battersea - Hounslow
+#SW Richmond - Wimbledon
 
 #####SX#####
 #ENG StaExp TOM SSD #SX Tottenham Hale - Stansted
@@ -1780,7 +1786,7 @@ IDN T3 20 32
 ##Stations##
 ###Alighted/Embarked###
 ####ENG
-#####London Area: Amersham, Chesham, Chalfont, Rickmansworth, Watford, Northwood, North Harrow, Uxbridge, Hillingdon, Ickenham, West Harrow, Harrow-on-the-Hill, Northwick Park, Wembley Park, Finchley Road, Baker Street, Great Portland Street, Euston Square, Kings Cross St Pancras, Farringdon, Barbican, Moorgate, Liverpool Street LU, Aldgate, Canons Park, Neasden, Willesden Green, West Hampstead LU, Swiss Cottage, St Johns Wood, Bond Street, Green Park, Westminster, Waterloo LU, Southwark, London Bridge LU, Canary Wharf LU, North Greenwich, Canning Town, West Ham, Stratford, Park Royal, North Ealing, Heathrow Terminal 5 LU, Heathrow Terminal 4 LU, Heathrow T2&3 LU, Hatton Cross, Hounslow West, Northfields, South Ealing, Turnham Green, Hammersmith DP, Barons Court, Earls Court, Gloucester Road, South Kensington, Knightsbridge, Hyde Park Corner, Piccadilly Circus, Leicester Square, Covent Garden, Holborn, Russell Square, Arsenal, Manor House, Turnpike Lane, Cockfosters, West Ruislip, Hanger Lane, West Acton, White City, Shepherds Bush LU, Lancaster Gate, Marble Arch, Tottenham Court Road, Chancery Lane, St Pauls, Bank, Bethnal Green LU, Leyton, Leytonstone, Wanstead, Gants Hill, Chigwell, Roding Valley, Woodford, Kenton, South Kenton, Paddington BCD, Edgware Road Bak, Marylebone LU, Regents Park, Charing Cross LU, Embankment, Elephant & Castle, Richmond, Gunnersbury, West Kensington, Olympia, Wimbledon, Edgware Road CDH, Victoria LU, Temple, Blackfriars LU, Cannon Street LU, Monument, Tower Hill, Aldgate East, Upminster, Hammersmith CH, Wood Lane, Westbourne Park, Paddington CH, Slough, Heathrow T5 NR, Heathrow T4 NR, Heathrow T2&3 NR, Paddington NR, Paddington XR, Liverpool Street XR, Canary Wharf XR, Custom House, Romford, Woolwich, Abbey Wood, Edgware, Hendon Central, High Barnet, Finchley Central, Highgate, Archway, Tufnell Park, Chalk Farm, Camden Town, Euston LU, Angel, Old Street, Borough, Warren Stret, Goodge Street, Nine Elms, Battersea Power Station, South Wimbledon, Pimlico, Highbury & Islington, Seven Sisters LU, Tottenham Hale LU, Watford Junction, Watford High Street, Bushey, Euston NR, West Hampstead NR, Finchley Road & Frognal, Hoxton, Wapping, Rotherhithe, Surrey Quays, Queens Road Peckham, Peckham Rye, West Croydon, Theobalds Grove, Cheshunt, Chingford, Highams Park, Tower Gateway, Westferry, Poplar, All Saints, Stratford International, West India Quay, Canary Wharf DLR, Heron Quays, Island Gardens, Cutty Sark, Royal Victoria, London City Airport, Woolwich Arsenal, Marylebone NR, Hendon, West Hampstead Thameslink, St Pancras International, City Thameslink, Blackfriars NR, Victoria NR, Battersea Park, Waterloo NR, Waterloo East, Charing Cross NR, Cannon Street NR, London Bridge NR, East Croydon, Mitcham Junction, Epsom Downs, Caterham, Beckenham Junction, Hounslow, Queenstown Road Battersea, Orpington, Knockholt, Grove Park, Mottingham, Welling, Lea Bridge, Brimsdown
+#####London Area: Amersham, Chesham, Chalfont, Rickmansworth, Watford, Northwood, North Harrow, Uxbridge, Hillingdon, Ickenham, West Harrow, Harrow-on-the-Hill, Northwick Park, Wembley Park, Finchley Road, Baker Street, Great Portland Street, Euston Square, Kings Cross St Pancras, Farringdon, Barbican, Moorgate, Liverpool Street LU, Aldgate, Canons Park, Neasden, Willesden Green, West Hampstead LU, Swiss Cottage, St Johns Wood, Bond Street, Green Park, Westminster, Waterloo LU, Southwark, London Bridge LU, Canary Wharf LU, North Greenwich, Canning Town, West Ham, Stratford, Park Royal, North Ealing, Heathrow Terminal 5 LU, Heathrow Terminal 4 LU, Heathrow T2&3 LU, Hatton Cross, Hounslow West, Northfields, South Ealing, Turnham Green, Hammersmith DP, Barons Court, Earls Court, Gloucester Road, South Kensington, Knightsbridge, Hyde Park Corner, Piccadilly Circus, Leicester Square, Covent Garden, Holborn, Russell Square, Arsenal, Manor House, Turnpike Lane, Cockfosters, West Ruislip, Hanger Lane, West Acton, White City, Shepherds Bush LU, Lancaster Gate, Marble Arch, Tottenham Court Road, Chancery Lane, St Pauls, Bank, Bethnal Green LU, Leyton, Leytonstone, Wanstead, Gants Hill, Chigwell, Roding Valley, Woodford, Kenton, South Kenton, Paddington BCD, Edgware Road Bak, Marylebone LU, Regents Park, Charing Cross LU, Embankment, Elephant & Castle, Richmond, Gunnersbury, West Kensington, Olympia, Wimbledon, Edgware Road CDH, Victoria LU, Temple, Blackfriars LU, Cannon Street LU, Monument, Tower Hill, Aldgate East, Upminster, Hammersmith CH, Wood Lane, Westbourne Park, Paddington CH, Slough, Heathrow T5 NR, Heathrow T4 NR, Heathrow T2&3 NR, Paddington NR, Paddington XR, Liverpool Street XR, Canary Wharf XR, Custom House, Romford, Woolwich, Abbey Wood, Edgware, Hendon Central, High Barnet, Finchley Central, Highgate, Archway, Tufnell Park, Chalk Farm, Camden Town, Euston LU, Angel, Old Street, Borough, Warren Stret, Goodge Street, Nine Elms, Battersea Power Station, South Wimbledon, Pimlico, Highbury & Islington, Seven Sisters LU, Tottenham Hale LU, Watford Junction, Watford High Street, Bushey, Euston NR, West Hampstead NR, Finchley Road & Frognal, Hoxton, Wapping, Rotherhithe, Surrey Quays, Queens Road Peckham, Peckham Rye, West Croydon, Theobalds Grove, Cheshunt, Chingford, Highams Park, Tower Gateway, Westferry, Poplar, All Saints, Stratford International, West India Quay, Canary Wharf DLR, Heron Quays, Island Gardens, Cutty Sark, Royal Victoria, London City Airport, Woolwich Arsenal, Marylebone NR, Hendon, West Hampstead Thameslink, St Pancras International, City Thameslink, Blackfriars NR, Victoria NR, Battersea Park, Waterloo NR, Waterloo East, Charing Cross NR, Cannon Street NR, London Bridge NR, East Croydon, Mitcham Junction, Epsom Downs, Caterham, Beckenham Junction, Hounslow, Queenstown Road Battersea, Orpington, Knockholt, Grove Park, Mottingham, Welling, Lea Bridge, Brimsdown, Camden Road
 #####Elsewhere: West Kirkby, Liverpool Lime Street, Stockport, Macclesfield, Stafford, Telford Central, Wolverhampton, Birmingham New Street, Birmingham Moor Street, Coventry, Leamington Spa, Bristol Temple Meads, Reading, Winnersh Triangle, Winchester, Southampton Airport Parkway, Swaythling, Cosham, Southampton Central, Portsmouth Harbour, Portsmouth & Southsea, Ryde Pier Head, Ryde Esplanade, Bournemouth, Pokesdown, Christchurch, Aylesbury, Great Missenden, Beaconsfield, Margate, Canterbury West, Canterbury East, Hastings
 ####SCT: Fort William, Mallaig
 ####IRL: Grand Canal Dock, Howth

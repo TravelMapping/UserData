@@ -2,6 +2,8 @@
 # through lanes.
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
+AK HicPkwy RasRd TudRd
+
 
 AL I-10 13 26B #construction at 13; may currently begin just east
 AL I-20 71 106
@@ -47,114 +49,158 @@ AR US67 I-40(155) MainSt
 AR US67 AR161 AR5/321
 
 
-AZ I-10 117 164
-AZ I-10 185 263
-AZ I-17 194 229
+AZ I-10 112 164 #west to 112 opened in May 2023 https://azdot.gov/projects/central-district-projects/i-10-sr85-verrado-way-improvements
+AZ I-10 185 263 #doesn't quite make it west to 185
+AZ I-17 194 200A
+AZ I-17 200A 229
 AZ I-19 99 101
+AZ SkyHarBlvd Ter3 AZ143
 AZ US60 201(17) 193
-# AZ AZ143 under construction
 AZ AZ51 I-10 15 # 2 SB gen lanes split from SB HOV at short stack - consider them thru to I-10EB
 AZ AZ101 1 61B
+AZ AZ143 3 5 #short southbound 2 lanes thru 3; construction south of 2
 AZ AZ202 1A 78 # 2 gen lanes split from HOV at short stack (1A) - consider them thru to/from I-10WB
+AZ AZ210 BroBlvd 4
 AZ AZ303 104 131
- 
-CA I-5 MEX/USA 133 # 5 or less thru East-LA Int
+
+
+CA I-5 MEX/USA 134B #134B is the point for US 101
 CA I-5 134B 221
 CA I-5 458A 485 # drops to 4 north of SR 12
 CA I-5 506 525B
-CA I-5 664 685
-CA I-8 1 19 # 2-ln through exit 2
-CA I-10 1A 16A # 5 or less thru East LA Int
-CA I-10 134C(5) 135B(5)
-CA I-10 19A 145
+CA I-5 664 680
+CA I-5 681B 685
+CA I-8 1 2A
+CA I-8 2A 19
+CA I-10 1 135C(5) #4 lanes from 16B to 16A in the "wrong" order
+CA I-10 135C(5) 145 #and the SBD Freeway west to US 101
 CA I-15 6B 184A
-CA I-80 1A 128
-CA I-105 1D 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
-CA I-405 I-5(94A) I-5(158)
-CA I-605 1A HunDr
-CA I-805 I-5(1A) I-5(31)
+CA I-15 248 265
+CA I-15 281 291 #southbound begins just south of 291
+CA I-80 1A 82
+CA I-80 82 128
+CA I-105 1A 18 # becomes 4 or less lanes at the ramps to 605 (Exit 18) which are HOV only
 CA I-205 I-580 I-5
-CA I-210 1A 25
-CA I-210 26 45
+CA I-405 I-5(94A) I-5(158)
+CA I-605 1A 27
+CA I-805 I-5(1A) I-5(31)
 CA I-110 1A 21
-CA I-710 1B 21
-CA I-215 1 48
+CA I-210 1A 25
+CA I-210 25 45
+CA I-710 1 1E
+CA I-710 1B 22
+CA I-215 1 29
+CA I-215 29 34
+CA I-215 34 48 #brief southbound 2 lanes at 46C
 CA I-215 54A 54B
-CA I-238 14 16
-CA I-280 I-680/101 57
+CA I-238 14 17
+CA I-280 I-680/101 54
+CA I-280 54 57
 CA I-380 5A 6
 CA I-580 7A 12
-CA I-580 13(80) 65
-CA I-680 I-280/101 58A
-CA I-880 I-280 46B
-CA I-980 1B 2B
-CA I-80BLSac 1A 14C
+CA I-580 13(80) 8B(80)
+CA I-580 8B(80) 65
+CA I-680 I-280/101 30
+CA I-680 30 58A
+CA I-880 I-280 46A
+CA I-980 1A 2B #1A is 12th Street, where the onramp that creates the third lane comes from
+CA I-80BLSac 1A 6
+CA I-80BLSac 6 14C #2 lanes eastbound from 10A to 9B, in the "wrong" order
 
 CA US50 1A 35
-CA US101 1A 1C
-CA US101 1E 87B
+CA US101 1A 1D
+CA US101 1D 65
+CA US101 66A 70B
+CA US101 70B 87B #construction from 87B to 92
 CA US101 94B 105
-CA US101 167 175 # undergoing expansion at west end
+CA US101 167 175
 CA US101 355 433B
-CA US101 437 463
-CA US101 479 498 # undergoing expansion at south end
+CA US101 437 463 #construction from 463 to 472A
+CA US101 472A 498
 
+CA CA1 404 409
 CA CA1 508 509B
-CA CA2 12 21
-CA CA4 66A 68A
-CA CA11 1A 1B
+CA CA1 49B(280) AleBlvd
+CA CA2 12 13A
+CA CA2 13A 21
+CA CA4 9 15A
+CA CA4 15A 31
+CA CA4 I-5(472) 68B
+CA CA11 1A 1B #but will the right lane always exit at 1B? if so, this is just weaving lanes
 CA CA14 I-5 44
-CA CA15 1D 6B # some 5 or less through system interchanges with CA 94 and I-805
+CA CA15 1B 2B
+CA CA15 2B 3
+CA CA15 3 6B
 CA CA17 22 26
-CA CA22 1 17A
-CA CA23 13 20
+CA CA22 I-405(21) 17B
+CA CA23 12 20
 CA CA24 2 15
 CA CA41 126A 135
-CA CA52 1A 1B
-CA CA52 3 6
-CA CA52 7A 13
+CA CA52 3 13 #4 lanes between 7B and 6 in the "wrong" order
 CA CA54 1A 12(125)
-CA CA55 3 18
-CA CA57 1D 25B
-CA CA58 CA99(24) 117 # CA 58 west realignment of CA 99 is not yet fully open
+CA CA55 19thSt 18
+CA CA57 1A 25B
+CA WesPkwy AllRd MohSt
+CA CA58 CA99(24) 117
 CA CA60 I-10(16B) 66
-CA CA67 1C 2
-CA CA71 4 15
+CA CA67 1A 2
+CA CA71 4 12B #construction north of 12B
+CA CA71 14A 15
 CA CA73 I-5 18
 CA CA78 1A 17A
 CA CA84 UniAve I-880(21)
 CA CA85 1A 24B
 CA CA87 1A 9
-CA CA90 1 SlaAve
+CA CA90 CulBlvd SlaAve
 CA CA91 6 65B
 CA CA92 13 26
-CA CA94 1A 10A
-# CA CA99 is undergoing expansion to 6+ in several locations. Only those verified are listed here
+CA CA94 1A 9B
 CA CA99 I-5(221) 57
-CA CA99 94 143
+CA CA99 94 115 #construction south of 94 and from 115 to 118
+CA CA99 118 143
 CA CA99 151 157
-CA CA99 171 185
-CA CA99 198 201
+CA CA99 164 166
+CA CA99 171 185 #begins about 1-2 mi north of 171
+CA CA99 198 201 #construction from 193 to 198 and 201 to 209
 CA CA99 209 264A
 CA CA99 286 6(50)
-CA CA110 21 31B
-CA CA118 22 46A
-CA CA125 15 22
-CA CA133 10A 14
-CA CA163 2A I-15
+CA CA110 21 31A
+CA CA118 22 46B
+CA CA125 11 15
+CA CA125 15 18B
+CA CA125 18B 22
+CA CA126 13 40
+CA CA133 10A 14 #northbound 3 lanes begins just north of 10A
+CA CA134 1A 13B
+CA CA163 2B I-15
 CA CA168 1A 7
 CA CA170 5 11B
 CA CA178 MSt 6
-CA CA180 58 64
-CA CA210 45 83 # remainder under expansion as of 5/2023
-CA CA237 3A 9B
+CA CA180 56 57A
+CA CA180 57A 64 #4 lanes between 60B and 59 in the "wrong" order
+CA CA210 45 79 #some construction beyond here
+CA CA237 3B 9B
+CA CA241 22B 27
+CA CA241 32 39
+CA CA242 I-680 3B
+CA CA262 I-880 WarmSprBlvd
 CA CA905 2B USA/MEX
 
-CO I-25 128 243
-CO I-70 232 243
-CO I-70 247 286
-CO I-76 1A 6
-CO I-225 1 12 
+
+CO I-25 138 243 #some construction near Loveland-Fort Collins
+CO I-70 205 I-70_U1
+CO I-70 232 243 #left shoulder is open as an express lane during peak periods; westbound begins a bit west of 243
+CO I-70 247 274
+CO I-70 274 284 #a little weird westbound at 282
+CO I-76 5 6
+CO I-76 9 12
+CO I-225 1 12
+CO PenaBlvd 6 Ter
+CO US6 I-70(261) I-25(209A) #and 6th Avenue Freeway east to Kalamath Street
+CO US36 CO157 I-270(0)
+CO CO470 1 4
+CO CO470 13 26
+CO E470 1A 20
 
 
 CT I-84 2 3
@@ -196,6 +242,7 @@ DE I-95 11 DE/PA
 DE I-295 I-95 DE/NJ
 DE I-495 I-95 5 
 DE DE1 147 156
+
 
 FL I-4 I-275 132
 FL I-10 10 22
@@ -272,32 +319,40 @@ GA GA232 SNixMemDr I-20/520
 GA GA400 1A 4
 GA GA400 4 GA369
 
+
 HI I-H1 1A 18
 HI I-H1 19 AinAve
 HI I-H2 1 5
-HI I-H201 1B I-H1
+HI I-H201 1A I-H1
 
 
-IA I-29 47 53B #Unknown north of 53B - under construction as of 2023 
-IA I-35 68 94 # south end is 1 mi south of interchange, reduced lanes at mixmasters
+IA I-29 47 49
+IA I-29 49 51
+IA I-29 51 52 #construction north of 52
+IA I-29 143 151
+IA I-35 68 87 #south end is 1 mi south of 68; 2 lanes northbound from 124(80) to 72 in the "wrong" direction
+IA I-35 87 94
 IA I-74 3 IA/IL
-IA I-80 NE/IA 5 # Council Bluffs
-IA I-80 118 143 # Des Moines, reduced lanes at mixmasters
-IA I-80 237 249 # Iowa City - most of it under construction as of 2023
+IA I-80 NE/IA 5
+IA I-80 121 123
+IA I-80 123 137
+IA I-80 137 143
+IA I-80 240 246 #construction from 237 to 240, 246 to 249
 IA I-235 I-80(123) I-80(137)
-IA I-380 16 24B # Waterloo
-IA I-380 0 2
+#IA I-380 0 2 under construction
+IA I-380 16 24B
+IA I-380 71 MitAve
 IA I-480 NE/IA I-29
-IA US218 71(380) MitAve
-IA US218 181A 187 # Covers I-380 in Waterloo N of US 20 (rest is 4 lane)
+IA US218 WasSt 187
 
 
-ID I-84 36 57
+ID I-84 28 57 #west end of 6 lanes completed in 2023 may be at 29, not 28
 ID I-184 0 US20/26
+ID US20 I-184 13thSt
 
 
-IL I-55 0 3
-IL I-55 3 11
+IL I-55 0 3A
+IL I-55 3A 11
 IL I-55 82 92
 IL I-55 105A 127
 IL I-55 157 167
@@ -316,8 +371,7 @@ IL I-80 137 155
 IL I-80 155 IL/IN
 IL I-88 113 I-294_N
 IL I-90 0 17
-IL I-90 17 84 #is there really a gap east of here? or is that just temporary for construction?
-IL I-90 43B(94) 59A(94)
+IL I-90 17 59A(94)
 IL I-90 100 107
 IL I-94 0 25B
 IL I-94 29 63
@@ -342,7 +396,6 @@ IL IL390 7B 12
 IL IL390 12 14
 
 
-
 IN I-65 KY/IN 16
 IN I-65 50 68 #southbound 3 lanes ends just shy of 50; it appears the same happens northbound at 68
 IN I-65 90 110B
@@ -361,6 +414,7 @@ IN I-90 10 21
 IN I-94 IL/IN IN/MI
 IN I-465 I-65 25
 IN I-465 25 53
+IN US31 123 132
 IN KeyPkwy I-465 106thSt
 IN IN62 FulAve US41_S #and west to the end of the freeway
 IN IN66 US41_S BoeRd #and east to the end of the freeway
@@ -391,11 +445,10 @@ KY I-264 19 22
 KY I-65 TN/KY 137
 KY I-65 137 KY/IN
 #KY I-71 construction from 9 to 14
-KY I-471 
+KY I-471 1 KY/OH
 KY I-75 29 118
 KY I-75 118 KY/OH
 KY I-275 OH/KY 6 #brief 2 lanes eastbound at 84
-KY I-471 1 KY/OH
 KY KY4 5 7
 KY KY4 8 ColCir
 
@@ -422,20 +475,26 @@ LA I-20 19A 20C
 LA I-20 115 116B
 LA I-20 117C 118
 LA I-49 199 206
-LA US90 GirRd LA182 #why is there no point at 115A?
+LA US90 115A 115B
 LA LA3139 LARd LA3154
 
 
 MA I-84 CT/MA I-90
-MA I-90 78 134
-MA I-91 CT/MA 1
-MA I-91 3 14
-MA I-93 1 19
-MA I-93 20 MA/NH
-MA I-95 RI/MA MA/NH
+MA I-90 78 123A
+MA I-90 123B 134
+MA I-91 CT/MA 1 #northbound ends a bit before 1
+MA I-91 3 6
+MA I-91 6 14
+MA I-93 1 7
+MA I-93 7 MA/NH #southbound 19-20 the left lane is HOV
+MA I-95 RI/MA 26
+MA I-95 26 64
+MA I-95 64 MA/NH
 MA I-190 I-290 4
 MA I-195 RI/MA 24
 MA I-290 12 32
+MA I-291 1 4
+MA I-295 RI/MA 2
 MA I-391 1 6
 MA I-495 19 119
 MA US1 MA99_S MA60 #short piece of 2 lanes southbound near BeaSt
@@ -490,26 +549,43 @@ MD MD295 MD175 MD100
 MD MD295 I-195 I-95 #construction in Baltimore may end up removing lanes?
 
 
-ME I-95 NH/ME 44
+ME I-95 NH/ME 44 #construction from 44 to 48
 ME I-295 7 8A
 
+
 MI I-69 133 143
-MI I-75 0 51
+MI I-75 OH/MI 51 #only 4 lanes from 49A to 48 in the "wrong" direction
 MI I-75 51 111
 MI I-75 115 164
-MI I-94 0 34
-MI I-94 74 80
-MI I-94 138 142
+MI I-94 IN/MI 34
+MI I-94 74 80 #78 to 80 to be completed in August 2023?
+#MI I-94 138 142 under construction
 MI I-94 167 171
 MI I-94 180 243
 MI I-96 91 97
 MI I-96 133 148
 MI I-96 148 164
-MI I-96 165 191
+MI I-96 165 I-275_S
+MI I-96 I-275_S 191A
 MI I-196 77 I-96
 MI I-275 2 29
-MI I-475 4 7
-MI I-696 I-96 28
+MI I-296 86 89
+MI I-375 LarSt I-75
+MI I-475 4A 11 #4 lanes from 7 to 6 in the "wrong" order
+MI I-496 7 9
+MI I-696 1A 28
+MI US23 42 45
+MI US127 158 162
+MI US131 75 89
+MI MI5 13MiRd I-96(164)
+MI MI8 MI10 GalSt
+MI MI10 1B 14C
+MI MI10 14C 18C
+MI MI14 18 I-96
+MI MI39 1 6
+MI MI39 6 16
+MI MI59 39 VanDykeAve
+
 
 MN I-35E 92 101
 MN I-35E 107A 117

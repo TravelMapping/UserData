@@ -472,6 +472,14 @@ PA I-99FutLoc 107 PA44_S
 PA I-99FutMan 4thSt_W I-180
 # route has no associated parent under system guideline
 CA I-238 14 17
+# I-A1
+AK I-A1 5thAve_W AK/YT
+# I-A2
+AK I-A2 AK1 AK3
+# I-A3
+AK I-A3 KenSpurHwy 5thAve
+# I-A4
+AK I-A4 AK1 AK2
 # I-H1
 HI I-H1 1A AinAve
 # I-H2
@@ -1453,6 +1461,18 @@ AL AL22 US31/145 I-65
 AL AL67 US72ALT/20_E US72ALT/20_W
 AL AL69 I-65(299) I-65(304)
 AL AL157 US72ALT_E US72ALT_W
+
+# Alaska (AK)
+# ---------------------
+AK AK1 End AK2
+AK AK2 YT/AK AK3
+AK AK3 AK8 AK2
+AK AK4 AK1_W AK1_E
+AK AK5 AK2 AK/YT
+AK AK8 ButLakeRd AK3
+AK AK9 RaiAve AK1
+AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
+AK HicPkwy AK1 TudRd
 
 # Arizona (AZ)
 # ---------------------
@@ -2925,6 +2945,7 @@ WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - 
 ## Main Route
 BC TCHMai 3 BC TCHMai 27
 BC TCHMai 3 BC TCHMai 27
+AB TCHMai AB2 AB201_E
 SK TCHMai RR2212 MB TCHMai MB207_W
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
@@ -2932,13 +2953,26 @@ MB TCHWin 42 1
 MB TCHPor MB240_N MB240_S
 
 ## Yellowhead Route
+AB TCHYel 340 389
 
 ## Voyaguers Route
 ON TCHVoy ON17 ON71_S
 
+# Alberta (CAN-AB)
+AB AB1 AB2 AB201_E
+AB AB2 258 AB216(78)
+AB AB16 340 389
+AB AB43 BC/AB AB16
+AB AB216 AB2 23
+AB AB201 74 78
+
+
 # British Columbia (CAN-BC)
 BC BC1 3 27
+BC BC2 BC97 BC/AB
 BC BC7 BC99 RupSt
+BC BC77 BC97 BC/NT
+BC BC97 BC2 BC BC97Low BC/YT
 BC BC99 USA/CAN SeaDr
 
 # Manitoba (CAN-MB)
@@ -2964,6 +2998,9 @@ MB Rte145 Rte90 Rte80
 MB Rte150 MB1/135 Rte52
 MB Rte165 Rte90 Rte42
 
+# Northwest Territories (CAN-NT)
+NT NT7 BC/NT +X510173                  # Closest to end of pavement on hwy (as of 2023) - TEST
+
 # Ontario (CAN-ON)
 # ---------------------
 ON ON11 ON71_S ON71_N
@@ -2977,6 +3014,12 @@ SK SK1 RR2212 SK/MB
 SK SK6 SK39_E RingRd_N
 SK SK39 SK6_N SK/ND
 SK RingRd SK1/11 PasSt                 # Regina Ring Road
+
+# Yukon (CAN-YT)
+YT YT1Wat BC/YT YT YT1 YT/AK
+YT YT2 YT8 GeoBlaFry
+YT YT8 YT1 YT2
+YT YT9 GeoBlaFry YT/AK
 
 # Mexico
 # Baja California (MEX-BC)
