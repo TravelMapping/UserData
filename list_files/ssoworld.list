@@ -2944,7 +2944,7 @@ WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - 
 # Trans Canada Highway
 ## Main Route
 BC TCHMai 3 27
-BC TCHMai BC97_N 368
+BC TCHMai BC97_N BC95
 AB TCHMai AB2 AB201_E
 SK TCHMai RR2212 MB TCHMai MB207_W
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
@@ -2970,7 +2970,7 @@ AB AB201 74 78
 
 # British Columbia (CAN-BC)
 BC BC1 3 27
-BC BC1 BC97_N 368
+BC BC1 BC97_N BC95
 BC BC2 BC97 BC/AB
 BC BC7 BC99 RupSt
 BC BC16 BC37_N BC97
