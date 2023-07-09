@@ -957,7 +957,7 @@ WA WA20 WA525 WA153
 
 WA WA20Por WA19 PorCouFry
 
-WA WA20SprAna WA20 SunAve
+WA WA20SprAna WA20 AnaFry
 
 WA WA92 WA9 MtnLpHwy
 
@@ -966,7 +966,7 @@ WA WA99 168thSt AirRd
 
 WA WA104 US101 KinEdmFry
 
-WA WA104Edm EdmKinFry I-5
+WA WA104Edm EdmKinFry WA522
 
 WA WA107 US101 US12
 
@@ -1013,7 +1013,7 @@ WA WA513 WA520 65thSt
 
 WA WA518 WA509 I-5
 
-WA WA520 I-5 I-405
+WA WA520 I-5 LakSamPkwy
 
 WA WA522 I-5 US2
 
@@ -1162,13 +1162,21 @@ AB TCHMai BC/AB 118
 BC TCHYel BC5 BC/AB
 AB TCHYel BC/AB AB93
 
+BC TCHVan BC19_N BC19A
+
 ##########################
 # BC Provincial Highways #
 ##########################
 
 BC BC3 170 177
 
+BC BC4 TofHar BC19
+
 BC BC5 177 BC16
+
+BC BC17Ric TsaFry 13
+
+BC BC19 DukePtFry 60
 
 BC BC91 BC99 22
 
