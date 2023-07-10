@@ -178,7 +178,7 @@ CA CA170 5 11B
 CA CA178 MSt 6
 CA CA180 56 57A
 CA CA180 57A 64 #4 lanes between 60B and 59 in the "wrong" order
-CA CA210 45 79 #some construction beyond here
+CA CA210 45 85 #construction is done https://www.aaroads.com/forum/index.php?topic=18416.msg2854584#msg2854584
 CA CA237 3B 9B
 CA CA241 22B 27
 CA CA241 32 39
