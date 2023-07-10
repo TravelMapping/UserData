@@ -804,51 +804,72 @@ NH EveTpk MA/NH 8
 ND I-29 62 67
 ND I-94 349 ND/MN
 
+NY I-278 NJ/NY 5
+NY I-278 5 20 #eastbound has 3 lanes from 20 to 22 when the reversible lane is in that direction
+NY I-278 22 26
+NY I-278 29B 35 #2 lanes westbound in the "wrong" order from 32A to 32B
+NY I-278 35 42
+NY I-278 44 46
+NY I-278 48 50
+NY I-278 50 54
+NY I-678 JFKAir 13 #very brief southbound 2 lanes at 1E
+NY I-678 13 16
+NY I-678 16 19
+NY I-81 2 4A
+NY I-81 4A 5A
+NY I-81 16A 18
+NY I-81 19 32
+NY I-84 39 41 #westbound right lane is a shoulder during off-peak times
+NY I-684Pur 1 NY/CT
+NY I-684 CT/NY 9 #4 lanes between 6 and 5 in the "wrong" order
+NY I-87 2(MDE) 7(MDE) #northbound right lane from I-278 ends to make room for the merge at 2(MDE)
+NY I-87 7(MDE) 8(NYST)
+NY I-87 8(NYST) 16(NYST)
+NY I-87 23(NYST) 24(NYST)
+NY I-87 1 22
+NY I-287 15(87) I-95
+NY I-787 1 5
+NY I-787 5 9 # 8 lanes over Collar City Bridge - do we want to count these as auxiliary or mainline?
 NY I-90 55(NYST) 50(NYST)
 NY I-90 45(NYST) 44(NYST)
-NY I-90 25A(NYST) 24(NYST)
-NY I-90 1 11
+NY I-90 25A(NYST) 25(NYST)
+NY I-90 25(NYST) 24(NYST)
+NY I-90 1 6A
+NY I-90 6A 11
 NY I-190 I-90 9
 NY I-290 I-190 I-90
-NY I-990 I-290 3
+NY I-390 12A 15A
+NY I-390 15A 20
 NY I-490 6 8
-NY I-490 9 15
+NY I-490 9 13
+NY I-490 13 16
 NY I-490 16 25
 NY I-490 27 29
 NY I-590 I-390 5
-NY I-390 12A 20
-NY I-81 2 5A
-NY I-81 16A 18
-NY I-81 19 32
-NY I-690 4 11
-NY I-690 13 16
-NY I-890 4C 7
-NY I-87 I-278 16(NYST)
-NY I-87 23(NYST) 24(NYST)
-NY I-87 1 22
-NY I-787 1 9 # 8 lanes over Collar City Bridge - do we want to count these as auxiliary or mainline?
-NY I-287 15(87) 11
-NY I-95 NJ/NY 6A
-NY I-95 6B NY/CT
-NY I-684Pur 1 NY/CT
-NY I-684 CT/NY 9
-NY I-278 NJ/NY 20
-NY I-278 22 26
-NY I-278 29B 42
-NY I-278 44 46
-NY I-278 51 54
-NY I-678 PerRd 19
-NY I-295 1 12
+NY I-690 4 6
+NY I-690 6 11
+NY I-690 I-81 16
+NY I-690 16 I-481
+NY I-890 4 7
+NY I-990 I-290 3
+NY I-95 NJ/NY 6B #only 4 lanes from 6B to 6A but in the "wrong" order
+NY I-95 6B NY/CT # tiny bit of 2 lanes northbound approaching 7C
+NY I-295 2 7
+NY I-295 7 10
+NY I-295 10 12
 NY I-495 14 72
-NY NY17Bin 69 72
-NY NY17Bin 122A 124
+NY I-695 I-295 I-95
+NY NY17Bin 69 72A
+NY NY17Bin 122A Old125
 NY NY33 GooSt I-90
 NY NY198 ParAve NY33
 NY NY390 21 24
 NY NY590 5 10
 NY NY104 LakeAve BayRd
 NY NY5 NewRd NY695
+NY NY495 NJ/NY DyerAve
 NY NY695 NY5 I-690
+NY NY878 CroBayBlvd 1 #2 lanes thru interchange west of LefBlvd
 NY TacStaPkwy 2 20
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY BroRivPkwy 5(S) SprBroPkwy
@@ -875,6 +896,7 @@ NY HecPkwy 44 45
 NY MeaStaPkwy BayPkwy NorStaPkwy
 NY WanStaPkwy W6 W4
 NY NY135 1 13
+
 
 OH I-70 29 33
 OH I-70 33 93
