@@ -782,18 +782,20 @@ NM US285 177 ViaSt
 NM NM423 NM45 I-25
 
 
-NV I-11 14 23
-NV I-15 1 54
+NV I-11 17 23
+NV I-15 1 54 #construction to 58
 NV I-80 12 18 # west of here is 5 lanes to Exit 9, east of here to 21 is auxiliary lanes between interchanges
-NV I-215 2 12
+NV I-215 1 12
 NV I-515 61 76
 # NV I-580 8 10 # 6 lanes over Lakeview Hill, SB may be an auxiliary lane, remove comment if we want to include this
 NV I-580 16 36 # Lane drop 3/4 mile south of Exit 16, most of distance between 12 and 16 is 4 lanes
 
-NV US95 14(11) 96
+NV US95 17(11) 96
 NV US395 16(580) 70
 
+#NV NV171 I215 McCAir
 NV CR215 12 32
+
 
 NH I-93 MA/NH I-89
 NH I-95 MA/NH NH/ME
