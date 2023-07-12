@@ -1057,38 +1057,46 @@ OR OR217 6 8
 
 
 PA I-70 18 21
-PA I-76 28 48
+PA I-76 OH/PA 10 #west end is 2.0 mi east of the state line
+PA I-76 28 39 #east end is 1.7 mi west of 39
+PA I-76 39 48 #east end is 1.2 mi east of 48
 PA I-76 67 75
 PA I-76 201 226
 PA I-76 242 247
 PA I-76 339 344
+PA I-76 346C 347
 PA I-76 349 PA/NJ
 PA I-78 53 60
 PA I-78 75 PA/NJ
 PA I-79 34 38
 PA I-79 54 59
 PA I-79 72 76
-PA I-81 57 72
-PA I-81 185 188
+PA I-81 57 59
+PA I-81 59 70
+PA I-81 70 72
+PA I-81 185 187
 PA I-83 41A 44B
 PA I-83 47 51
-PA I-84 I-81/6 2
-PA I-95 DE/PA 40
+PA I-84 I-81/6 2 #construction to 4?
+PA I-95 DE/PA 7
+PA I-95 7 39
 PA I-276 326 351
-PA I-279 2A 5
+PA I-279 2A 4
 PA I-295 8 PA/NJ
+PA I-376 71A 72
+PA I-376 72 74
 PA I-376 79B 85
-PA I-380 2(84) I-81/6
-PA I-476 9 31B
+PA I-476 9 20
+PA I-476 20 31B #about halfway to 44 - is it being widened?
+PA I-676 I-76 PA611
 PA I-676 5thSt PA/NJ
-PA US1 I-76(339) WisAve
-PA US1 PA132 I-276
-PA US22 I-376(79B) I-376(85)
-PA US30 PA283 PA23_E
+PA US1 I-76(340) RobAve #not sure if construction has cut this back permanently to FoxSt
+PA US1 PA132 I-276 #construction north to at least US1BusPen_S?
+PA US30 PA283 US222_N
 PA US202 US30 US422
 PA US222 US422_W PapMillRd 
-PA US422Rea US222_S PapMillRd
 PA PA63 US1_N KniRd
+PA PA65 I-279 US19_S
 PA BetRossBri I-95 PA/NJ
 
 
