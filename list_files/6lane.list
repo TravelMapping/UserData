@@ -1167,15 +1167,24 @@ TN TN162 DutRd I-140(1C)
 TN TN319 AmnHwy_W AccRd
 TN TN385 I-240 WinRd
 
+
 # TEXAS - counting MAIN THROUGH LANES, not frontage roads.
-TX I-2 130 175
+TX I-2 130 176
 TX I-10 11 35
-TX I-10 546 585 # under construction to 599
-TX I-10 732 833 # under construction to 709
-TX I-10 849 875 # under construction between 833 and 849
-TX I-14 US190BusCop FroRd # under construction from here to I-35
+TX I-10 548 570
+TX I-10 570 572
+TX I-10 572 574
+TX I-10 574 587 #under construction to 597
+TX I-10 716 729 #under construction to between 709 and 713
+TX I-10 732 833 #westbound ends just before 732; under construction to 729; 4 lanes between 768A and 769A in the "wrong" order
+TX I-10 849 853A #under construction to 833
+TX I-10 853A 876 #east end is at the Woodlark Street exit, whatever that's numbered; under construction to TX/LA
+TX I-14 US190BusCop FM2410_E # under construction from here to I-35
+TX I-20 414 421
 TX I-20 428 480
-TX I-20 480A 487
+TX I-20 480 487
+TX I-27 1A 8
+TX I-27 119A 123B
 TX I-30 I-20 45A
 TX I-30 45B 68
 TX I-35 HidSt 4A
