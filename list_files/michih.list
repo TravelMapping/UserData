@@ -1,4 +1,4 @@
-# Date: 2023-07-02
+# Date: 2023-07-11
 # ----------------
 
 
@@ -7140,16 +7140,15 @@ POL DK1Zwa Zwa POL/SVK
 POL DK2Swi DEU/POL DK29
 POL DK5 DK34 S3
 POL DK3Swi UliLudMor Tro
-POL DK6 DK11_N UliSzc_E
+POL DK6Kos DK11_N S6(25)
+POL DK6 Kar UliSzc_E
 POL DK6Leb S6(37) S6(47)
-#POL DK6Rum UliWej_W DW468                      #will it get a DW number?
 POL DK7Zal UliPlo DK10/50
 POL DK7Lom S8_MarE UliWar_Czo
 POL DK7War S2/S8 S8
 #POL DK7Tar S7(71) S8_Wol                      #will it get a DW number?
 POL DK8Klo CZE/POL DW381
 POL DK8 S8 S61
-#POL DK8 19(S61) POL/LTU                       #will it get a DW number? DW662? https://www.skyscrapercity.com/threads/441854/post-181722924
 POL DK9 PlacWol A4
 POL DK10Szc DEU/POL A6
 POL DK11Kos S11(2) DK6_E
@@ -7186,6 +7185,7 @@ POL DW292 DK36_E UliSze
 POL DW332 DEU/POL POL/CZE
 POL DW333 DK36_E S3(47)
 POL DW381 DK35 DK8
+POL DW468 S7 S6
 POL DW621 DK79 S2
 POL DW628 DW638 S17
 POL DW662 PloOsi Bud
@@ -8035,6 +8035,7 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1
 #DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
+#DEU-BW  Kornwestheim                 DEU-BW  Stgt-Untertürkheim    #2023, rerouted via Münster, Zazenhausen
 
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S1 via Flörsheim, Höchst
 #DEU-HE  Frankfurt Rödelheim          DEU-HE  Darmstadt Hbf         #2022, S3 via Ffm Hbf, Ostendstr, Südbahnhof, Langen
@@ -8138,16 +8139,24 @@ QC QC134 RueOnt BoulTas_N
 #DEU-BW  STR4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz                       #2022
 #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-#DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie                           #201x
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)      #201x
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Österreichischer Platz                  #201x
-#DEU-BW  Stuttgart Charlottenplatz   DEU-BW  Stuttgart Rotebühlplatz                           #201x
-#DEU-BW  Stuttgart Pragfriedhof      DEU-BW  Stuttgart Charlottenplatz                         #201x
-#DEU-BW  Stuttgart Löwentor          DEU-BW  Stuttgart Charlottenplatz (via Nordbahnhof)       #201x
-#DEU-BW  Stuttgart Wilhelmsplatz     DEU-BW  Stuttgart Löwentor                                #201x
-#DEU-BW  Stuttgart Stadtmitte        DEU-BW  Esslingen                                         #201x
+#DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie                           #201x, U1
+#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz                           #201x, any via Berliner Platz
+#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Österreichischer Platz                  #201x, any
+#DEU-BW  Stuttgart Charlottenplatz   DEU-BW  Stuttgart Rotebühlplatz                           #201x, any
+#DEU-BW  Stuttgart Pragfriedhof      DEU-BW  Stuttgart Charlottenplatz                         #201x, any
+#DEU-BW  Stuttgart Löwentor          DEU-BW  Stuttgart Charlottenplatz                         #201x, U12? via Nordbahnhof
+#DEU-BW  Stuttgart Wilhelmsplatz     DEU-BW  Stuttgart Löwentor                                #201x, U13/U16?
+#DEU-BW  Stuttgart Stadtmitte        DEU-BW  Esslingen                                         #201x, S1
 #DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Ludwigsburg                                       #2022, S4
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Renningen                                         #2020
+#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Bietigheim-Bissingen                              #2023, S5
+#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Renningen                                         #2020, S6
+#DEU-BW  Stuttgart-Vaihingen         DEU-BW  Stuttgart-SSB-Zentrum                             #2023, U3
+#DEU-BW  Stuttgart-Feuerbach         DEU-BW  Stuttgart-Pragsattel                              #2023, U6
+#DEU-BW  Stuttgart-Mönchfeld         DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U7 via Pragfriedhof
+#DEU-BW  Neckargröningen/Remseck     DEU-BW  Stuttgart-Dürrlewang                              #2023, U12 via Hallschlag, Budapester Platz, Bopser
+#DEU-BW  Stuttgart-Mühlhausen        DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+#DEU-BW  Stuttgart-Stammheim         DEU-BW  Stuttgart-Pragsattel                              #2023, U15
+#DEU-BW  Stuttgart-Botnang           DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U29 extended onto U2 service to Botnang
 
 #DEU-BW  Ulm STR1 Söflingen               DEU-BW  Böfingen                                          #2020
 #DEU-BW  Ulm STR2 Kuhberg-Schulzentrum    DEU-BW  Science Park II                                   #2020
