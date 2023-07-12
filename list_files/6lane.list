@@ -1351,15 +1351,15 @@ WI I-94 310C WI/IL #4 lanes between 317 and 316 in the "wrong" order
 WI I-794 1A 1E
 WI I-794 1F 3
 
-WI US10 287 291 # Need to verify west of 286
-WI US12 255 267
+WI US10 287 291
+WI US12 257 267
 WI US41 161 173
 WI US51 MilSt WI30 #it's short but it's clearly designed as 6 thru lanes
 WI US51 187 191A
-WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
-WI US151 97 100
+WI US151 83A RayRd # south end of 6ln is 0.5 from 83A
+WI US151 97 101
 
-WI WI32 I-41(168A) WI29_E
+WI WI145 FDLAve_N I-41(48A)
 WI WI172 I-41 WebSt
 WI WI175 I-94 LloydSt
 
