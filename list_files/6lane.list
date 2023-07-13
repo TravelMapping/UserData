@@ -1216,14 +1216,17 @@ TX I-69 128B 167
 TX I-69C 1C 9
 TX I-69E 1A 26B
 TX I-69W WorTraBri 2 #https://apps3.txdot.gov/apps-cq/project_tracker/ shows it's still under construction but claims estimated completion 2/4/2022
+#is any of I-110 now 6 lanes post-construction?
 TX I-345 284A 286
-TX I-410 3B 26A
+TX I-410 4 27
 TX I-410 165(35) 164A(35)
-TX I-610 TX288 38 # there are sections under construction but were 6 lane prior to said construction
-TX I-635 1C 35
-TX I-820 1A 22A
-TX I-820 23 24B
-TX I-820 26 31 # under construction AT TX121 (HOV install)
+TX I-610 TX288 17B # there are sections under construction but were 6 lane prior to said construction; 2 lanes southbound from 11A to 13B in the "wrong" order
+TX I-610 17B 38
+TX I-635 1C 36 #tiny bit of 2 lanes eastbound at 27B
+TX I-820 1A 22B
+TX I-820 22B 24B #construction from 24B to 26
+TX I-820 26 30A
+TX I-820 33A 34
 TX US54ElP MonAve TXLp375_N
 TX US59 FM2919 TX105
 TX US69 11thSt DowRd
