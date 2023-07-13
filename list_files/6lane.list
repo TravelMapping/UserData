@@ -1250,7 +1250,11 @@ TX US181 I-37 TX35_N #not sure how construction will end up affecting this
 TX US183 TX71 I-35 #part of this is really 183 Toll, not US 183
 TX US183 I-35 TX183A_S
 TX US281 I-37(135) BorDr
-TX US290 IndOaksBlvd TX45/130
+TX US287 I-820(33A) I-30
+TX US287 I-30 I-35W(52A)
+TX US287 US82_W I-44(3A)
+TX US290 BrodLn I-35(230)
+TX US290 US183 TX45/130 #this is Toll 290; US 290 is on the frontage roads
 TX US290 FieStoRd I-610
 TX TX45 LakeCrkPkwy HeaBlvd
 TX TX45 TX130(432) TX130(449)
@@ -1269,6 +1273,7 @@ TX TX288 CR58 I-45
 TX TXLp1 BayLn TX45_N
 TX TXLp8 TX225_S I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
 TX TXLp375 48 58
+TX TXSpr280 6thSt I-35W
 TX TXSpr330 WadeRd TX146
 TX TXSpr366 BecAve RouSt
 TX ChiTrlPkwy SycSchRd I-30
