@@ -1208,12 +1208,15 @@ TX I-37 4A 17
 TX I-37 135 142
 TX I-40 64 78
 TX I-44 1 3A
-TX I-45 1A 112
+TX I-45 1A 46
+TX I-45 46 113 #construction to 118?
 TX I-45 213 284A
-TX I-69 94 167
-TX I-69C 1C 10
-TX I-69E PolkSt 26A
-TX I-69W WorTraBri 2
+TX I-69 94 128B
+TX I-69 128B 167
+TX I-69C 1C 9
+TX I-69E 1A 26B
+TX I-69W WorTraBri 2 #https://apps3.txdot.gov/apps-cq/project_tracker/ shows it's still under construction but claims estimated completion 2/4/2022
+TX I-345 284A 286
 TX I-410 3B 26A
 TX I-410 165(35) 164A(35)
 TX I-610 TX288 38 # there are sections under construction but were 6 lane prior to said construction
