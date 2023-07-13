@@ -1185,15 +1185,16 @@ TX I-20 428 480
 TX I-20 480 487
 TX I-27 1A 8
 TX I-27 119A 123B
-TX I-30 I-20 45A
+TX I-30 I-20 2
+TX I-30 5B 45B
 TX I-30 45B 68
-TX I-35 HidSt 4A
-# TX I-35 4A 9 --- under construction between FM1472 and I-69W interchanges including some length past each
-TX I-35 9 12A
-TX I-35 145A 370B
+TX I-35 HidSt 6 #under construction from 6 to 9
+TX I-35 9 12B
+TX I-35 148 370B #2 lanes southbound from 155C to 156 in the "wrong" order
+TX I-35E 370B 467
+TX I-35W 37 52B
+TX I-35W 52B 67 #north of 54A there are only 4 main lanes but also 4 toll lanes; extension to 67 opened in June 2023
 TX I-35Gai 467 469 # 6 lanes section continues into 35E
-TX I-35E 381 467 # under construction to expand south of 381.
-TX I-35W 36 60
 TX I-37 135 142
 TX I-40 63 78
 TX I-44 1 3A
