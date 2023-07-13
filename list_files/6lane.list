@@ -1256,13 +1256,13 @@ TX US287 US82_W I-44(3A)
 TX US290 BrodLn I-35(230)
 TX US290 US183 TX45/130 #this is Toll 290; US 290 is on the frontage roads
 TX US290 FieStoRd I-610
-TX TX45 LakeCrkPkwy HeaBlvd
-TX TX45 TX130(432) TX130(449)
-TX TX121 I-35W/287 ScrParkDr
-TX TX121 I-820(24A) I-820(23)
-TX TX121 BedEulRd TX183_E #north of the concurrency - managed lane (not always open)
-TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Frontage road!) - except US75 concurrency
-TX TX121 US75_S US75_N
+TX TX45 US183 AWGriBlvd
+TX TX71 BrodLn US183
+TX TX114 TX170 TX183
+TX TX121 I-35W/287 HanEdeRd #construction beyond
+TX TX121 I-820(22) DenTapRd #left lane from HarRd to FM157 is toll and not always open
+TX TX121 DenTapRd US75_S #this is (mostly) only the Sam Rayburn Tollway; SH 121 is on the frontage roads where they exist
+TX TX130 428B 449
 TX TX146 FaiPkwy TX146BusBay_N
 TX TX183 BedEulRd I-35E
 TX TX183A US183_S RM2243 #construction north to TX29, but not sure how many lanes
