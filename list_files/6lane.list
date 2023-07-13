@@ -1175,26 +1175,38 @@ TN TN162 DutRd I-140(1C)
 TN TN319 AmnHwy_W AccRd
 TN TN385 I-240 WinRd
 
+
 # TEXAS - counting MAIN THROUGH LANES, not frontage roads.
-TX I-2 130 175
+TX I-2 130 176
 TX I-10 11 35
-TX I-10 546 585 # under construction to 599
-TX I-10 732 833 # under construction to 709
-TX I-10 849 875 # under construction between 833 and 849
-TX I-14 US190BusCop FroRd # under construction from here to I-35
+TX I-10 548 570
+TX I-10 570 572
+TX I-10 572 574
+TX I-10 574 587 #under construction to 597
+TX I-10 716 729 #under construction to between 709 and 713
+TX I-10 732 833 #westbound ends just before 732; under construction to 729; 4 lanes between 768A and 769A in the "wrong" order
+TX I-10 849 853A #under construction to 833
+TX I-10 853A 876 #east end is at the Woodlark Street exit, whatever that's numbered; under construction to TX/LA
+TX I-14 US190BusCop FM2410_E # under construction from here to I-35
+TX I-20 414 421
 TX I-20 428 480
-TX I-20 480A 487
-TX I-30 I-20 45A
+TX I-20 480 487
+TX I-27 1A 8
+TX I-27 119A 123B
+TX I-30 I-20 2
+TX I-30 5B 45B
 TX I-30 45B 68
-TX I-35 HidSt 4A
-# TX I-35 4A 9 --- under construction between FM1472 and I-69W interchanges including some length past each
-TX I-35 9 12A
-TX I-35 145A 370B
+TX I-35 HidSt 6 #under construction from 6 to 9
+TX I-35 9 12B
+TX I-35 148 370B #2 lanes southbound from 155C to 156 in the "wrong" order
+TX I-35E 370B 467
+TX I-35W 37 52B
+TX I-35W 52B 67 #north of 54A there are only 4 main lanes but also 4 toll lanes; extension to 67 opened in June 2023
 TX I-35Gai 467 469 # 6 lanes section continues into 35E
-TX I-35E 381 467 # under construction to expand south of 381.
-TX I-35W 36 60
+TX I-37 1F 4A #construction south of 1F, which is actually exit 1E
+TX I-37 4A 17
 TX I-37 135 142
-TX I-40 63 78
+TX I-40 64 78
 TX I-44 1 3A
 TX I-45 1A 112
 TX I-45 213 284A
