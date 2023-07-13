@@ -1227,15 +1227,24 @@ TX I-820 1A 22B
 TX I-820 22B 24B #construction from 24B to 26
 TX I-820 26 30A
 TX I-820 33A 34
-TX US54ElP MonAve TXLp375_N
-TX US59 FM2919 TX105
-TX US69 11thSt DowRd
+TX US54ElP I-10 SunValDr
+TX US59 FM2919 I-69(128B) #construction south of FM2919
+TX US59 I-69(128B) TXLp573_S
+TX US67 BeltLineRd I-20
+TX US67 I-20 I-35E(428A)
+TX US69 11thSt DowRd #construction may have widened it from I-10(853A) to 11thSt and from DowRd to ChiLn
+TX US69 ChiLn TramRd
 TX US75 I-30 RosPkwy
-TX US90 TXLp1604 I-10(585)
-TX US90 I-10(741) I-10(775)
-TX US90 MerDr FM526_S
+TX US75 TX91_S US82 #construction from TX91_S south to FM1417
+TX US82 TXLp289_W AveL
+TX US82 FaiBlvd US277/281
+TX US83 US83BusAbi_S 7thSt #northbound begins a bit beyond US83BusAbi_S
+TX US87 I-27(123B) US60/287 #US87 northbound and US287 southbound are 3 lanes between US60/287 and TXLp395
+TX US87 US287_S TXLp434_S
+TX US90 TXLp1604 I-410(6)
+TX US90 I-410(6) I-10(574)
+TX US90 I-10(775) FM526_S
 TX US90 TXLp8 SheRd
-TX US90 I-10(851) I-10(875)
 TX US175 BexSt SilDr
 TX US183 TX71 LakBlvd
 TX US281 I-37(135) OvePkwy
