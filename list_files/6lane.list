@@ -885,7 +885,7 @@ NY BeltPkwy 3 25
 NY BroRivPkwy 5(S) SprBroPkwy
 NY CroCouPkwy 3 HutRivPkwy
 NY CroIslPkwy 25A 33
-NY CroIsPkwy 33 36
+NY CroIslPkwy 33 36
 NY FDRooDr 2 5
 NY FDRooDr 5 12
 NY FDRooDr 12 17
@@ -1057,38 +1057,46 @@ OR OR217 6 8
 
 
 PA I-70 18 21
-PA I-76 28 48
+PA I-76 OH/PA 10 #west end is 2.0 mi east of the state line
+PA I-76 28 39 #east end is 1.7 mi west of 39
+PA I-76 39 48 #east end is 1.2 mi east of 48
 PA I-76 67 75
 PA I-76 201 226
 PA I-76 242 247
 PA I-76 339 344
+PA I-76 346C 347
 PA I-76 349 PA/NJ
 PA I-78 53 60
 PA I-78 75 PA/NJ
 PA I-79 34 38
 PA I-79 54 59
 PA I-79 72 76
-PA I-81 57 72
-PA I-81 185 188
+PA I-81 57 59
+PA I-81 59 70
+PA I-81 70 72
+PA I-81 185 187
 PA I-83 41A 44B
 PA I-83 47 51
-PA I-84 I-81/6 2
-PA I-95 DE/PA 40
+PA I-84 I-81/6 2 #construction to 4?
+PA I-95 DE/PA 7
+PA I-95 7 39
 PA I-276 326 351
-PA I-279 2A 5
+PA I-279 2A 4
 PA I-295 8 PA/NJ
+PA I-376 71A 72
+PA I-376 72 74
 PA I-376 79B 85
-PA I-380 2(84) I-81/6
-PA I-476 9 31B
+PA I-476 9 20
+PA I-476 20 31B #about halfway to 44 - is it being widened?
+PA I-676 I-76 PA611
 PA I-676 5thSt PA/NJ
-PA US1 I-76(339) WisAve
-PA US1 PA132 I-276
-PA US22 I-376(79B) I-376(85)
-PA US30 PA283 PA23_E
+PA US1 I-76(340) RobAve #not sure if construction has cut this back permanently to FoxSt
+PA US1 PA132 I-276 #construction north to at least US1BusPen_S?
+PA US30 PA283 US222_N
 PA US202 US30 US422
 PA US222 US422_W PapMillRd 
-PA US422Rea US222_S PapMillRd
 PA PA63 US1_N KniRd
+PA PA65 I-279 US19_S
 PA BetRossBri I-95 PA/NJ
 
 
@@ -1301,34 +1309,59 @@ VA VA267 9 18
 VA VA286 I-95 BarRd
 VA VA286 US29 US50
 
-WA I-5 OR/WA 7A
-WA I-5 7 52
-WA I-5 82 225
+
+WA I-5 OR/WA 7B
+WA I-5 7 52 #continues north about halfway to 57
+WA I-5 82 224 #2 lanes northbound from 165 to 164 in the "wrong" order
+WA I-182 5 12A
 WA I-205 OR/WA 30
-WA I-90 2 62
-WA I-90 276 293
+WA I-90 2 62 #east end is 1.2 mi west of 62
+WA I-90 277 293
 WA I-405 I-5(154) I-5(182)
-WA WA520 84thAve LakSamPkwy # under construction west of 84thAve
+WA AirExpy WA518 Ter
+WA WSeaBri DelWay WA99
+WA US101 BlaLakeBlvd I-5
+WA US395FutSpo FreSt US2
+WA WA3 WA303 WA308
+WA WA16 I-5 OlyDr
+WA WA99 WA509 MarWay
+WA WA167 15thSt_S I-405
+WA WA240 I-182(5) ColCenBlvd
+WA WA509 CloSt WA99
+WA WA512 I-5 WA7
+WA WA518 AirExpy I-5
+WA WA520 84thAve WA202 # under construction west of 84thAve
 
-WI US10 287 291 # Need to verify west of 286
-WI US41 IL/WI 59 # 4 ln through 1A on 894 (Zoo in MIL) and 316 on 94 (Mitchell in MIL)
-WI US41 113 139 # Fox Cities - south end of 6ln is 1 mile south of interchange
-WI US41 161 173 # Green Bay - south end of 6ln is 1 mile south of interchange
-WI I-43 61 73C # does not include west of Hale Int (I-894), north end ambigous - under construction (expansion) System Ints 316 (Mitchell on 94) and 72(Marquette) are 2 ln thru
-WI I-90 108 WI/IL # 4-lane NB through 142 (Beltline in MSN)
+
+WI I-41 IL/WI 47B #tiny bit of 2 lanes northbound approaching 316(94) at the Grange Avenue overpass
+WI I-41 48A 59
+WI I-41 113 139 # south end of 6ln is 1 mile south of 113
+WI I-41 161 170B # south end of 6ln is 1 mile south of 161
+WI I-43 61 316(94)
+WI I-43 316(94) 72A
+WI I-43 72A 76 #under construction from 76 to 78 and at least partly from 78 to 85
+WI I-90 108 142
+WI I-90 142 WI/IL
 WI I-94 MN/WI 4
-WI I-94 108(90) 244 # 4ln thru 24 (Badger in MSN), 305 (Zoo in MIL), 310C (Marq in MIL), 316 (Mitchell in MIL)
-WI I-94 290 WI/IL # 4ln throu
-WI I-794 1A 3
+WI I-94 108(90) 240
+WI I-94 240 244
+WI I-94 290 305
+WI I-94 305 310C
+WI I-94 310C WI/IL #4 lanes between 317 and 316 in the "wrong" order
+WI I-794 1A 1E
+WI I-794 1F 3
 
-WI US12 255 267
-WI US51 187 193
-WI US151 83A RayRd # south end of 6ln is 0.5 from interchange
-WI US151 97 100
+WI US10 287 291
+WI US12 257 267
+WI US41 161 173
+WI US51 MilSt WI30 #it's short but it's clearly designed as 6 thru lanes
+WI US51 187 191A
+WI US151 83A RayRd # south end of 6ln is 0.5 from 83A
+WI US151 97 101
 
-WI WI32 I-41(168A) WI29_E
+WI WI145 FDLAve_N I-41(48A)
 WI WI172 I-41 WebSt
-WI WI175 WI59 LloydSt
+WI WI175 I-94 LloydSt
 
 
 WV I-64 11 15
