@@ -1245,9 +1245,11 @@ TX US90 TXLp1604 I-410(6)
 TX US90 I-410(6) I-10(574)
 TX US90 I-10(775) FM526_S
 TX US90 TXLp8 SheRd
-TX US175 BexSt SilDr
-TX US183 TX71 LakBlvd
-TX US281 I-37(135) OvePkwy
+TX US175 TX310 I-20
+TX US181 I-37 TX35_N #not sure how construction will end up affecting this
+TX US183 TX71 I-35 #part of this is really 183 Toll, not US 183
+TX US183 I-35 TX183A_S
+TX US281 I-37(135) BorDr
 TX US290 IndOaksBlvd TX45/130
 TX US290 FieStoRd I-610
 TX TX45 LakeCrkPkwy HeaBlvd
@@ -1259,7 +1261,7 @@ TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Fron
 TX TX121 US75_S US75_N
 TX TX146 FaiPkwy TX146BusBay_N
 TX TX183 BedEulRd I-35E
-TX TX183A US183_S RM2243
+TX TX183A US183_S RM2243 #construction north to TX29, but not sure how many lanes
 TX TX199 NorAve NineMileRd
 TX TX225 I-610 TX146
 TX TX249 TXLp8 HarStoRd
