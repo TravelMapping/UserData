@@ -1,3 +1,7 @@
+TN TN394 TN390 US421/435  #07112023 Travel to Abingdon to meet Jimmy
+TN TN435 US421/394 US421_S
+TN TN44 US421_S TN/VA
+VA VA75 TN/VA I-81 
 FL FL263 US27 I-10 #07082023 Travel to Gate City via various routes inc previous known trips
 FL FL366 FL20 FL371
 FL FL371 FL366 FL373
@@ -34,6 +38,8 @@ TN US11E TN344 TN66_N
 TN CadCoveLpRd LauCreRd_B CabMillRd
 TN CadCoveLpRd CabMillRd CadCovCamp 
 TN CadCoveLpRd CadCovCamp LauCreRd_B
+TN CadCoveLpRd CabMillRd HyaLn_N
+TN CadCoveLpRd HyaLn_N LauCreRd_B
 TN LauCreRd CadCoveLp TowEndRd
 TN TowEntRd LauCreRd TN73
 TN TN73Tow SmoMouNP US321
