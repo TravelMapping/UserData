@@ -1208,50 +1208,76 @@ TX I-37 4A 17
 TX I-37 135 142
 TX I-40 64 78
 TX I-44 1 3A
-TX I-45 1A 112
+TX I-45 1A 46
+TX I-45 46 113 #construction to 118?
 TX I-45 213 284A
-TX I-69 94 167
-TX I-69C 1C 10
-TX I-69E PolkSt 26A
-TX I-69W WorTraBri 2
-TX I-410 3B 26A
-TX I-410 165(35) 164A(35)
-TX I-610 TX288 38 # there are sections under construction but were 6 lane prior to said construction
-TX I-635 1C 35
-TX I-820 1A 22A
-TX I-820 23 24B
-TX I-820 26 31 # under construction AT TX121 (HOV install)
-TX US54ElP MonAve TXLp375_N
-TX US59 FM2919 TX105
-TX US69 11thSt DowRd
+TX I-69 94 128B
+TX I-69 128B 167
+TX I-69C 1C 9
+TX I-69E 1A 26B
+TX I-69W WorTraBri 2 #https://apps3.txdot.gov/apps-cq/project_tracker/ shows it's still under construction but claims estimated completion 2/4/2022
+#is any of I-110 now 6 lanes post-construction?
+TX I-345 284A 286
+TX I-410 4 27
+TX I-410 27 163(35)
+TX I-610 TX288 17B # there are sections under construction but were 6 lane prior to said construction; 2 lanes southbound from 11A to 13B in the "wrong" order
+TX I-610 17B 38
+TX I-635 1C 36 #tiny bit of 2 lanes eastbound at 27B
+TX I-820 1A 22B
+TX I-820 22B 24B #construction from 24B to 26
+TX I-820 26 30A
+TX I-820 33A 34
+TX US54ElP I-10 SunValDr
+TX US59 FM2919 I-69(128B) #construction south of FM2919
+TX US59 I-69(128B) TXLp573_S
+TX US67 BeltLineRd I-20
+TX US67 I-20 I-35E(428A)
+TX US69 11thSt DowRd #construction may have widened it from I-10(853A) to 11thSt and from DowRd to ChiLn
+TX US69 ChiLn TramRd
 TX US75 I-30 RosPkwy
-TX US90 TXLp1604 I-10(585)
-TX US90 I-10(741) I-10(775)
-TX US90 MerDr FM526_S
+TX US75 TX91_S US82 #construction from TX91_S south to FM1417
+TX US82 TXLp289_W AveL
+TX US82 FaiBlvd US277/281
+TX US83 US83BusAbi_S 7thSt #northbound begins a bit beyond US83BusAbi_S
+TX US87 I-27(123B) US60/287 #US87 northbound and US287 southbound are 3 lanes between US60/287 and TXLp395
+TX US87 US287_S TXLp434_S
+TX US90 TXLp1604 I-410(6)
+TX US90 I-410(6) I-10(574)
+TX US90 I-10(775) FM526_S
 TX US90 TXLp8 SheRd
-TX US90 I-10(851) I-10(875)
-TX US175 BexSt SilDr
-TX US183 TX71 LakBlvd
-TX US281 I-37(135) OvePkwy
-TX US290 IndOaksBlvd TX45/130
+TX US175 TX310 I-20
+TX US181 I-37 TX35_N #not sure how construction will end up affecting this
+TX US183 TX71 I-35 #part of this is really 183 Toll, not US 183
+TX US183 I-35 TX183A_S
+TX US281 I-37(135) BorDr
+TX US287 I-820(33A) I-30
+TX US287 I-30 I-35W(52A)
+TX US287 US82_W I-44(3A)
+TX US290 BrodLn I-35(230)
+TX US290 US183 TX45/130 #this is Toll 290; US 290 is on the frontage roads
 TX US290 FieStoRd I-610
-TX TX45 LakeCrkPkwy HeaBlvd
-TX TX45 TX130(432) TX130(449)
-TX TX121 I-35W/287 ScrParkDr
-TX TX121 I-820(24A) I-820(23)
-TX TX121 BedEulRd TX183_E #north of the concurrency - managed lane (not always open)
-TX TX121 FM157 LakeForDr # Marks Sam Reyburn Tollway, NOT TX 121 (latter on Frontage road!) - except US75 concurrency
-TX TX121 US75_S US75_N
-TX TX146 FaiPkwy TX146BusBay_N
-TX TX183 BedEulRd I-35E
-TX TX183A US183_S RM2243
+TX TX45 US183 AWGriBlvd
+TX TX71 BrodLn US183
+TX TX114 TX170 TX183
+TX TX121 I-35W/287 HanEdeRd #construction beyond
+TX TX121 I-820(22) DenTapRd #left lane from HarRd to FM157 is toll and not always open
+TX TX121 DenTapRd US75_S #this is (mostly) only the Sam Rayburn Tollway; SH 121 is on the frontage roads where they exist
+TX TX130 428B 449
+TX TX146 TX146BusLaP_N TX146BusBay_N
+TX TX151 HuntLn I-410/16
+TX TX183 I-820(22) I-35E
+TX TX183A US183_S RM2243 #construction north to TX29, but not sure how many lanes
 TX TX199 NorAve NineMileRd
 TX TX225 I-610 TX146
-TX TX249 TXLp8 HarStoRd
-TX TX288 CR58 I-45
+TX TX249 TXLp8 HarStoRd #north of NorBlvd this is Tomball Parkway; SH 249 is the frontage roads
+TX TX286 TX357 TX358
+TX TX286 TX358 ComSt #construction beyond ComSt
+TX TX288 CR58 I-69
+TX TX288 I-69 I-45
 TX TXLp1 BayLn TX45_N
 TX TXLp8 TX225_S I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
 TX TXLp375 48 58
+TX TXSpr280 6thSt I-35W
 TX TXSpr330 WadeRd TX146
 TX TXSpr366 BecAve RouSt
 TX ChiTrlPkwy SycSchRd I-30
