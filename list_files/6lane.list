@@ -1274,17 +1274,36 @@ TX TX286 TX357 TX358
 TX TX286 TX358 ComSt #construction beyond ComSt
 TX TX288 CR58 I-69
 TX TX288 I-69 I-45
-TX TXLp1 BayLn TX45_N
-TX TXLp8 TX225_S I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
-TX TXLp375 48 58
+TX TX358 I-37 TX44
+TX TX358 TX44 TX286
+TX TX358 TX286 PR22
+TX TX360 GreOaksBlvd TX183
+TX TX360 TX183 MidCitBlvd
+TX TXLp1 WilCanDr US290/71
+TX TXLp1 US290/71 TX45_N
+TX TXLp8 TX225_S I-69(144) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
+TX TXLp8 I-69(144) I-10(781) # Marks Sam Houston Tollway, NOT Beltway 8 (Beltway 8 is on frontage road) - portion over bridge is 4-ln with a parallel span under const.
+TX TXLp12 TXSpr348 TXSpr408
+TX TXSpr97 TX183 IntPkwy
 TX TXSpr280 6thSt I-35W
-TX TXSpr330 WadeRd TX146
-TX TXSpr366 BecAve RouSt
-TX ChiTrlPkwy SycSchRd I-30
-TX DalNorTlwy OakLawnAve CR26
-TX GeoBushTpk TX180 I-30(61B)
-TX HarTollRd I-610 TX99
+TX TXLp289 I-27(1A)_W US84_W
+TX TXSpr330 BayDr TX146
+TX TXSpr348 TXLp12 I-35E
+TX TXSpr366 BecAve RivBlvd
+TX TXSpr366 I-35E US75
+TX TXSpr371 BilMitBlvd FrioCityRd
+TX TXLp375 35 45 #construction from 45 to 48
+TX TXLp375 48 58
+TX TXSpr408 I-20 TXLp12
+TX TXSpr601 20A 22
+TX TXLp1604 FM2696 US281_N #construction on the north side west of FM2696, some of which may be complete
+TX ChiTrlPkwy SycSchRd I-30 #4 lanes between ForParkBlvd and UniDr in the "wrong" order
+TX DalNorTlwy HarHinBlvd CR26
+TX GeoBushTpk I-20 I-30(61B) #construction on the west end seems to all be done
+TX HarTollRd I-610 FM1960
+TX HarTollRd FM1960 TX99
 TX IntPkwy TXSpr97 TX114/121
+TX WurPkwy JonMalRd WetRd
 
 
 UT I-15 8 10
