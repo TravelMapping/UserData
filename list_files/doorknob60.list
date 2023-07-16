@@ -1,0 +1,264 @@
+### United States ###
+
+## 2 Digit Interstates ##
+
+# I-4
+FL I-4 2 3A
+FL I-4 9 82
+
+# I-5
+CA I-5 5A 13A           # CA75 CA15
+CA I-5 17A 114B         # 17A CA91
+CA I-5 134A 173         # CA60 173
+CA I-5 458B 476         # I-205 476
+CA I-5 553 747          # I-505 US97
+OR I-5 216 OR/WA        # OR228 OR/WA
+WA I-5 OR/WA 68         # OR/WA US12
+WA I-5 104 194          # US101 US2
+
+CA I-5TrkNew I-5_S I-5_N
+
+# I-8
+CA I-8 7 11             # I-15 11
+
+# I-10
+CA I-10 19A 21          # I-5 I-710
+
+# I-15
+CA I-15 6B 96           # I-8 CA91
+NV I-15 37 NV/AZ        # Tropicana NV/AZ
+AZ I-15 NV/AZ AZ/UT     # Clinched
+UT I-15 AZ/UT UT/ID     # Clinched
+ID I-15 UT/ID 119       # UT/ID US20
+ID I-15 167 ID/MT       # ID-22 ID/MT
+MT I-15 ID/MT 62        # ID/MT I-15BLDil
+MT I-15 63 USA/CAN      # MT41 USA/CAN
+
+# I-20
+TX I-20 433 453         # 433 TX360
+GA I-20 44 57           # GA6 I-75
+
+# I-26
+NC I-26 31 67           # I-40 US74
+
+# I-30
+TX I-30 21C 45          # I-820 DT Dallas
+
+# I-35
+TX I-35E 437 440        # TX12 I-635
+TX-I-35E 445 448        # GeoBushTpk Hebron Pkwy
+TX I-35E 428B 428C      # I-30 Commerce St
+
+# I-40
+TN I-40 443 TN/NC       # FooPkwyCos TN/NC
+NC I-40 TN/NC 46        # TN/NC I-26
+NC I-40 131B(85) 259    # I-85 Concurrency
+
+# I-64
+VA I-64 200 299         # I-295 I-264
+
+# I-71
+OH I-71 KY/OH 106       # KY/OH I-70
+OH I-71 231 238         # OH82 I-480
+KY I-71 180(75) KY/OH   # US42 KY/OH
+
+# I-75
+FL I-75 261 265         # I-4 FL582
+GA I-75 247 269         # I-20 GA5ConKen
+OH I-75 7 16            # OH562 I-275
+
+# I-76
+PA I-76 236 328         # US15 US202
+
+# I-77
+SC I-77 90 SC/NC        # Carowinds
+NC I-77 SC/NC 13        # SC/NC I-85
+
+# I-78
+NJ I-78 59 NJ/NY        # I-95 NJ/NY
+NY I-78 NJ/NY HudSt     # Clinched
+
+# I-80
+CA I-80 1A CA/NV        # Clinched
+NV I-80 CA/NV 176       # CA/NV US95
+UT I-80 117 145         # I-215 UT224
+OH I-80 145 161         # I-71 OH57
+
+# I-82 - Clinched
+WA I-82 I-90 WA/OR      # Clinched
+OR I-82 WA/OR 11        # Clinched
+
+# I-83
+PA I-83 41A 50          # PA581 US22
+
+# I-84 (West)
+OR I-84 I-5 OR/ID       # Clinched
+ID I-84 OR/ID ID/UT     # Clinched
+UT I-84 ID/UT 87        # ID/UT US89
+
+# I-85
+GA I-85 70 71           # ATL Airport
+NC I-85 10A 30          # US74 I-485
+NC I-85 38 NC/VA        # I-77 NC/VA
+VA I-85 NC/VA 68        # Clinched
+
+# I-86 (West) - Clinched
+ID I-86 1 63            # Clinched
+
+# I-90
+WA I-90 WA519 WA/ID     # Clinched
+ID I-90 WA/ID 12        # WA/ID US95
+OH I-90 OH2_W 145       # I-80 -> OH2
+MA I-90 106 137         # I-495 Logan Airport
+
+# I-93
+MA I-93 1 17            # I-95 DT Boston
+
+# I-95
+FL I-95 176 205         # W Melbourne FL528
+VA I-95 51 170          # I-85 I-495
+PA I-95 40 PA/NJ        # PA Tpk
+NJ I-95 PA/NJ 14        # PA/NJ I-78
+NY I-95 1 NY/CT         # NY9A NY/CT
+CT I-95 NY/CT CT/RI     # Clinched
+RI I-95 CT/RI RI/MA     # Clinched
+MA I-95 RI/MA 26        # RI/MA I-93
+
+
+## 3 Digit Interstates ##
+
+# I-105 (CA)
+CA I-105 1A 18          # Missing eastern terminus ramp
+
+# I-110 (CA)
+CA I-110 9 10           # I-405 CA91
+CA I-110 14 21          # CA110 I-105
+
+# I-184 (ID) - Clinched
+ID I-184 0 US20/26
+
+# I-195 (NJ)
+NJ I-195 6 16           # NJTP Six Flags
+
+# I-205 (CA) - Clinched
+CA I-205 I-580 I-5
+
+# I-205 (OR/WA) - Clinched
+OR I-205 I-5 OR/WA
+WA I-205 OR/WA I-5
+
+# I-215 (NV)
+NV I-215 10 12          # I-15 NV171
+
+# I-215 (UT)
+UT I-215 12 I-15        # I-15 I-15
+
+# I-238 (CA) - Clinched
+CA I-238 14 17
+
+# I-264 (VA)
+VA I-264 I-64/664 19    # I-64/664 Lynnhaven Pkwy
+
+# I-270 (MD)
+MD I-270 2 32           # All except northern branch
+MD I-270SprAsh I-495 2
+
+# I-275 (FL)
+FL I-275 46B 51
+
+# I-275 (OH/KY/IN)
+OH I-275 44 43          # I-75 I-71
+
+# I-276 (PA) - Clinched
+PA I-276 326 I-95
+
+# I-278 (NY/NJ)
+NJ I-278 3 NJ/NY        # I-95 NJ/NY
+NY I-278 NJ/NY 16       # NJ/NY Belt Pkwy
+
+# I-280 (CA)
+CA I-280 I-680/101 2    # US101 7th St
+CA I-280 3A 12          # CA87 CA85
+CA I-280 47B 54         # CA1 US101
+
+# I-283 (PA)
+PA I-283 I-76 1         # I-76 PA283
+
+# I-285 (GA)
+GA I-285 GA279 20       # I-85 to I-75 western portion
+GA I-285 61 62
+
+# I-295 (NJ/DE)
+DE I-295 US13/40 DE/NJ
+NJ I-295 DE/NJ 1
+
+# I-295 (VA)
+VA I-295 43 28A         # I-95 I-64
+
+# I-315 (MT - Unsigned) - Clinched
+MT I-315 I-15 6thSt
+
+# I-405 (CA)
+CA I-405 37A I-5(158)   # I-110 I-5
+
+# I-405 (OR) - Clinched
+OR I-405 I-5(299B) I-5(302B)
+
+# I-405 (WA)
+WA I-405 23 I-5(182)    # WA522 I-5
+
+# I-480 (OH)
+OH I-480 9 10
+
+# I-485 (NC)
+NC I-485 67 10          # I-77 I-85
+
+# I-495 (MA)
+MA I-495 58 63          # I-90 US20
+
+# I-495 (DC/MD/VA)
+MD I-495 38 MD/VA       # I-270SprAsh MD/VA
+VA I-495 MD/VA 170(95)  # MD/VA I-95
+
+# I-505 (CA) - Clinched
+CA I-505 1A I-5
+
+# I-515 (NV)
+NV I-515 65 76          # Russel Rd I-15
+
+# I-575 (GA) - Clinched
+GA I-575 I-75 GA5
+
+# I-580 (CA)
+CA I-580 19C 29A        # I-980 Oakland Zoo
+CA I-580 29B 65         # Oakland Zoo I-205
+
+# I-605 (CA)
+CA I-605 7A 9B          # CA91 I-105
+
+# I-635 (TX)
+TX I-635 19B 27B        # Microcenter I-35E
+
+# I-664 (VA) - Clinched
+VA I-664 1 15
+
+# I-680 (CA) - Clinched
+CA I-680 I-280/101 71
+
+# I-710 (CA)
+CA I-710 8 22           # CA91 I-10
+
+# I-780 (CA)
+CA I-780 1A 7           # Clinched except W terminus ramp
+
+# I-880 (CA)
+CA I-880 I-280 42A      # I-280 I-980
+
+# I-980 (CA) - Clinched
+CA I-980 I-880 2B
+
+
+### Sort Later ###
+MT I-15BLDil I-15_S I-15_N  # Clinched
+TN FooPkwyCos US321 I-40    # Clinched
+GA GA5ConKen US41 I-575     # Clinched
