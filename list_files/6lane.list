@@ -1455,9 +1455,13 @@ AB CroTrl GleTrl AB201
 AB TCHMai 177 SarTrl # section to Exit 172 under construction
 AB TCHMai 68St AB201_E
 
-BC TCHMai 26 *59 # The 6-lane east end is at this non-interchange.
-BC TCHMai 362 369
-BC BC91 8 9 # Just the bridge - a waste.
+BC BC1 17 18 #it's short but it's designed as 6 thru lanes, not auxiliary lanes
+BC BC1 23 25
+BC BC1 25 61
+BC BC1 362 369
+BC BC3 173 177
+BC BC91 8 11
+BC BC99 32 37
 
 ON ON7Wat RR58 RR28
 ON ON7Wat ON8_E ON85
