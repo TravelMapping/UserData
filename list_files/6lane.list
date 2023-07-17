@@ -1484,28 +1484,32 @@ BC BC99 32 37
 BC GolEarsWay 199ASt 113BAve
 
 
-ON ON7Wat RR58 RR28
-ON ON7Wat ON8_E ON85
-ON ON8 RR58 RR38
+ON ON7Wat RR58 ON85
+ON ON8 ON7_E RR38
 ON ON400 20 21
 ON ON400 21 105
 ON ON401 7 63 #westbound left lane is closed west of 7 (as of November 2022) until construction is done; east end seems to be about 1/3 of the way between 63 and 81 per https://www.chathamthisweek.com/news/local-news/expanded-lanes-open-on-stretch-of-highway-401-near-tilbury
 ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
 ON ON401 611 623
-ON ON403 70 104
+ON ON403 70 80
+ON ON403 80 123(QEW)
 ON ON403 109 ON401_E
 ON ON404 17 45
 ON ON407 1 112
 ON ON409 ON427 ON401
-ON ON410 ON403 18
-ON ON417 112 145
-ON ON427 TheQueWay 19
+ON ON410 ON403 13
+ON ON417 112 113
+ON ON417 113 145
+ON ON427 QEW ON401
+ON ON427 ON401 25
 ON ONQEW RR124 2
-ON ONQEW 34 99
-ON ONQEW 101 139
-ON AllRd LawAve TraRd
-ON DonValPkwy QueSt ON401/404
-ON GarExpy 139 157
+ON ONQEW 34 100
+ON ONQEW 100 139
+ON AllRd LawAve ON401 #too short?
+ON AllRd ON401 TraRd #too short?
+ON DonValPkwy 1 ON401/404
+ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
+#ON RR174 is under construction
 
 QC A-13 1 22
 QC A-15 45 45(AL)
