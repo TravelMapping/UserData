@@ -1436,11 +1436,18 @@ WV US50 WV68_S WV68_N
 
 
 # CANADA
-AB AB2 230 305
-AB AB2 391 394
-AB AB2 517 19Ave
-AB AB2 AB14 18(216) # 2 at 216's Exit 18 is an at-grade
-AB AB14 AB2 AB216_N
+AB AB1 177 SarTrl # section to Exit 172 under construction
+#AB AB1 68St AB201_E too short
+AB AB2 222 225 #too short?
+AB AB2 230 243
+AB AB2 243 248
+AB AB2 248 305
+AB AB2 391 397
+AB AB2 431 437
+AB AB2 517 23Ave
+AB AB2 AB14 TerDr
+AB AB2 TerDr 18(216) #4 lanes between 178St and 170St in the "wrong" order
+AB AB14 AB2 17St
 AB AB16 378 383
 AB AB16 389 405
 AB AB201 38 60
@@ -1451,9 +1458,17 @@ AB AB216 14 16
 AB AB216 18 33
 AB AB216 46 66
 AB AB216 73 78
-AB CroTrl GleTrl AB201
-AB TCHMai 177 SarTrl # section to Exit 172 under construction
-AB TCHMai 68St AB201_E
+AB AirTrl AB2 36St
+AB CroTrl GleTrl BowTrl
+AB CroTrl BowTrl KenRd
+AB CroTrl 24Ave AB201
+AB GleTrl AB8/201 CroTrl
+AB GleTrl CroTrl 14St
+AB GleTrl 14St AB2
+AB GleTrl AB2 18St
+AB GleTrl 18St OgdRd
+AB MacTrl AB22X/201 CanMeaDr #continues south to the first at-grade at 194Ave
+
 
 BC BC1 17 18 #it's short but it's designed as 6 thru lanes, not auxiliary lanes
 BC BC1 23 25
@@ -1462,6 +1477,7 @@ BC BC1 362 369
 BC BC3 173 177
 BC BC91 8 11
 BC BC99 32 37
+BC GolEarsWay 199ASt 113BAve
 
 ON ON7Wat RR58 RR28
 ON ON7Wat ON8_E ON85
