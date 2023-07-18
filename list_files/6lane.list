@@ -1511,10 +1511,16 @@ ON DonValPkwy 1 ON401/404
 ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
 #ON RR174 is under construction
 
-QC A-13 1 22
-QC A-15 45 45(AL)
-QC A-20 54A 102
+
+QC A-10 1 4 #construction may have affected this
+QC A-10 5 8 #construction may have affected this
+QC A-13 1 22 #very short southbound 2 lanes at 2
+QC A-15 44 53
+QC A-15 53 63
+QC A-15 63 70
+QC A-15 1(AL) 45(AL)
 QC A-19 BoulHenBou 8
+QC A-20 54A 102
 QC A-25 A-20 1
 QC A-25 5 8
 QC A-40 32 98A
@@ -1522,6 +1528,11 @@ QC A-40 302 318
 QC A-73 137 151
 QC A-740 BoulHoc BoulLeb
 QC A-973 RueCroRou 4
+QC QC116 1 9
+QC QC125Mon BoulHenBou BoulCon
+QC QC132 44(15) 89(20)
+QC QC132 89(20) 19
+QC QC134 BoulTas_N QC112/116
 QC QC136Mon 1 7
 
 
