@@ -1111,6 +1111,12 @@ PR PR12 PR133 PR1
 PR PR17 PR1 PR8 #very brief westbound 2 lanes at PR181
 PR PR18 PR22 8
 PR PR20 PR2 AveDavUrb
+PR PR22 PR26 2
+PR PR22 2 24 #very brief westbound 2 lanes at 22
+PR PR26 2 15
+PR PR30 0 5
+PR PR52 PR1/18 14
+PR PR52 15 32 #southbound goes down to 2 less than 1 km north of 32
 
 
 RI I-95 24B RI/MA
