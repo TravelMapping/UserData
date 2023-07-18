@@ -3591,11 +3591,8 @@ OH OH835 FromUS35 FaiRd
 OH OH872 OH7 OH/WV
 OH RonReaHwy I-275 I-71
 OH AtlBlvd US62/173 OH225
-ID ID3 ID6 HilLn
-ID ID3 GooHavRd CanRd
-# most of gap in ID3 due to construction closure between two 
-# Goosehaven Rd. interesections (northern one correctly labeled,
-# abbreviation for Goose Haven Rd.)
+ID ID3 ID6 CanRd
+ID ID5 US95 ID3
 ID ID6 WA/ID ID3
 ID ID7 US12_E MicAve_E
 ID ID8 WA/ID US95_S
@@ -3627,6 +3624,7 @@ ID ID77 I-84(216) ID81_N
 ID ID78 ID55 I-84BL_E
 ID ID78 ID55 I-84
 # check out whether ID 78 extends to I-84
+ID ID97 ID3 I-90
 ID ID128 US12 WA/ID
 ID ID162 ID62/64 US12
 ID ID200 US95 ID/MT
@@ -6040,7 +6038,7 @@ VT VT114 US5/122 BurBriRd
 VT VT116 US7 VT2A
 VT VT122 US5/114 I-91
 VT VT279 NY/VT US7_S
-MT MT1 MT38 I-90(153)
+MT MT1 I-90(208) I-90(153)
 MT MT2 I-15/90 EliWarAve
 MT MT2 MT55/69 I-90(256)
 MT MT3 I-90 I-90BL
