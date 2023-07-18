@@ -376,7 +376,7 @@ IL I-90 100 107
 IL I-94 0 25B
 IL I-94 29 63
 IL I-94 65A 74
-IL I-190 0 2
+IL I-190 2 ChiOHAir
 IL I-255 0 30
 IL IL255 I-270 2
 IL I-270 6 9
@@ -1436,24 +1436,43 @@ WV US50 WV68_S WV68_N
 
 
 # CANADA
-AB AB2 230 305
-AB AB2 391 394
-AB AB2 517 19Ave
-AB AB2 AB14 18(216) # 2 at 216's Exit 18 is an at-grade
-AB AB14 AB2 AB216_N
+AB AB1 177 SarTrl # section to Exit 172 under construction
+#AB AB1 68St AB201_E too short
+AB AB2 222 225 #too short?
+AB AB2 230 243
+AB AB2 243 248
+AB AB2 248 305
+AB AB2 391 397
+AB AB2 431 437
+AB AB2 517 23Ave
+AB AB2 AB14 TerDr
+AB AB2 TerDr 18(216) #4 lanes between 178St and 170St in the "wrong" order
+#does AB2 have any in Peace River after construction?
+AB AB14 AB2 17St
 AB AB16 378 383
-AB AB16 389 405
-AB AB201 38 60
-AB AB201 68 101
+AB AB16 107St 66St
+AB AB16 125Ave 400B
+AB AB16 400B 405
+AB AB63 HarSt ConWay #south end is at Morrison Street, just a bit north of HarSt but way south of the actual ramps for FraAve
 AB AB201SWC AB2 26
-# AB216 has several sections of 4-lane under construction
-AB AB216 14 16
-AB AB216 18 33
+AB AB201 38 41
+AB AB201 41 60
+AB AB201 70 96
+AB AB216 96 101
+AB AB216 AB2 33
 AB AB216 46 66
 AB AB216 73 78
-AB CroTrl GleTrl AB201
-AB TCHMai 177 SarTrl # section to Exit 172 under construction
-AB TCHMai 68St AB201_E
+AB AirTrl AB2 36St
+AB CroTrl GleTrl BowTrl
+AB CroTrl BowTrl KenRd
+AB CroTrl 24Ave AB201
+AB GleTrl AB8/201 CroTrl
+AB GleTrl CroTrl 14St
+AB GleTrl 14St AB2
+AB GleTrl AB2 18St
+AB GleTrl 18St OgdRd
+AB MacTrl AB22X/201 CanMeaDr #continues south to the first at-grade at 194Ave
+
 
 BC BC1 17 18 #it's short but it's designed as 6 thru lanes, not auxiliary lanes
 BC BC1 23 25
@@ -1462,33 +1481,46 @@ BC BC1 362 369
 BC BC3 173 177
 BC BC91 8 11
 BC BC99 32 37
+BC GolEarsWay 199ASt 113BAve
 
-ON ON7Wat RR58 RR28
-ON ON7Wat ON8_E ON85
-ON ON8 RR58 RR38
-ON ON400 20 105
-ON ON401 2 63 # west of exit 2 under construction with Gorde Howe bridge
+
+ON ON7Wat RR58 ON85
+ON ON8 ON7_E RR38
+ON ON400 20 21
+ON ON400 21 105
+ON ON401 7 63 #westbound left lane is closed west of 7 (as of November 2022) until construction is done; east end seems to be about 1/3 of the way between 63 and 81 per https://www.chathamthisweek.com/news/local-news/expanded-lanes-open-on-stretch-of-highway-401-near-tilbury
 ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
 ON ON401 611 623
-ON ON403 70 104
+ON ON403 70 80
+ON ON403 80 123(QEW)
 ON ON403 109 ON401_E
 ON ON404 17 45
 ON ON407 1 112
 ON ON409 ON427 ON401
-ON ON410 ON403 18
-ON ON417 112 145
-ON ON427 TheQueWay 19
+ON ON410 ON403 13
+ON ON417 112 113
+ON ON417 113 145
+ON ON427 QEW ON401
+ON ON427 ON401 25
 ON ONQEW RR124 2
-ON ONQEW 34 99
-ON ONQEW 101 139
-ON AllRd LawAve TraRd
-ON DonValPkwy QueSt ON401/404
-ON GarExpy 139 157
+ON ONQEW 34 100
+ON ONQEW 100 139
+ON AllRd LawAve ON401 #too short?
+ON AllRd ON401 TraRd #too short?
+ON DonValPkwy 1 ON401/404
+ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
+#ON RR174 is under construction
 
-QC A-13 1 22
-QC A-15 45 45(AL)
-QC A-20 54A 102
+
+QC A-10 1 4 #construction may have affected this
+QC A-10 5 8 #construction may have affected this
+QC A-13 1 22 #very short southbound 2 lanes at 2
+QC A-15 44 53
+QC A-15 53 63
+QC A-15 63 70
+QC A-15 1(AL) 45(AL)
 QC A-19 BoulHenBou 8
+QC A-20 54A 102
 QC A-25 A-20 1
 QC A-25 5 8
 QC A-40 32 98A
@@ -1496,7 +1528,18 @@ QC A-40 302 318
 QC A-73 137 151
 QC A-740 BoulHoc BoulLeb
 QC A-973 RueCroRou 4
+QC QC116 1 9
+QC QC125Mon BoulHenBou BoulCon
+QC QC132 44(15) 89(20)
+QC QC132 89(20) 19
+QC QC134 BoulTas_N QC112/116
 QC QC136Mon 1 7
+
+
+SK SK1 229 232
+SK SK11 AttDr WarRd
+SK SK11Cir SK219 ValRd
+
 
 #EUROPE#
 ##Belgium##
