@@ -1921,6 +1921,7 @@ FRA-IDF A104 8 A4_E #northbound ends just a bit south of 8
 
 FRA-ARA AutSol 33(M6) 36(M6)
 FRA-ARA AutSol M6/M7 A7/A450
+FRA-PAC VoiePieMat BlvdReneCas AveRayFer
 
 FRA-ARA N88 16 18
 FRA-IDF N104 A4 15
@@ -1940,6 +1941,7 @@ FRA-PDL N844 52 30
 FRA-GES M35-6AE 48 51
 FRA-GES M35-6AE 1 4a
 FRA-GES M35-6AE 4a 6
+FRA-OCC M66-34 AveGeoFre M62E3
 
 
 ##Ireland##
