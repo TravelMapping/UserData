@@ -2056,6 +2056,20 @@ ESP-CT AP7 24B 35
 ESP-VC AP7Cas A7_N 51
 ESP-VC AP7 527 535
 ESP-AN AP7 180 186
+ESP-PV AP8 7 12
+ESP-PV AP8 12 19
+ESP-PV AP8 27 33
+ESP-PV AP8 84 97 #ends a tiny bit east of 97
+ESP-PV AP8 100 103
+ESP-PV AP8 103 110
+ESP-PV AP8 113 115
+ESP-PV AP8 ToAP68 126
+ESP-PV BI10 115 118 #signed as A8
+ESP-PV BI10 118 121 #signed as A8
+ESP-PV BI10 121 130 #signed as A8
+ESP-PV A8 130 131
+
+#need to check all the Bilbao, Donostia freeways
 
 ESP-CT B10 19(W) 14(W)
 ESP-CT B10 24 27 #west end is closer to where the 25 point is, but it's exit 24 (and the 24 point should be moved east)
@@ -2078,6 +2092,12 @@ ESP-CT C32 42 44
 ESP-CT C32 44 53
 ESP-CT C32 54 A2/B10
 ESP-CT C32Mat B20/C31 130
+
+ESP-VC CV30 V30 CV31
+ESP-VC CV30 CV31 AviMasRod
+ESP-VC CV30 AviMasRod CamVieVal
+ESP-VC CV35 CalCampTur 4B
+ESP-VC CV35 4B 25
 
 ESP-MD M23 1 M40
 ESP-MD M45 2A 17(M50)
