@@ -2050,6 +2050,12 @@ ESP-VC A7Elc A70 528
 ESP-AN A7 246B 241
 ESP-AN A7 241 239
 ESP-AN A7 239 214 #very brief southbound 2 lanes at 999 (old 226)
+ESP-CT AP7 2 14
+ESP-CT AP7 15 24B
+ESP-CT AP7 24B 35
+ESP-VC AP7Cas A7_N 51
+ESP-VC AP7 527 535
+ESP-AN AP7 180 186
 
 ESP-CT B10 19(W) 14(W)
 ESP-CT B10 24 27 #west end is closer to where the 25 point is, but it's exit 24 (and the 24 point should be moved east)
