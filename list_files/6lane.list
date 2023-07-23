@@ -2018,6 +2018,18 @@ ESP-CT A2 517 518
 ESP-CT A2 582A 604
 ESP-CT A2 604 610
 ESP-CT A2Gir 692 694
+ESP-MD A3 3 14
+ESP-MD A3 34 35
+ESP-VC A3 327 352
+ESP-MD R3 0 8
+ESP-MD A4 M30 6 #also the spur southwest from the north end
+ESP-MD A4 12 ESP-CM A4Ses 37
+ESP-AN A4 CM/AN 257 #south end is just a bit north of 257
+ESP-AN A4 532 537
+ESP-AN A4 537 2(SE30)
+ESP-AN A4 2(SE30) 8(SE30)
+ESP-AN A4 8(SE30) 545
+ESP-AN A4Jer 645 646A
 
 ESP-CT B10 19(W) 14(W)
 ESP-CT B10 24 27 #west end is closer to where the 25 point is, but it's exit 24 (and the 24 point should be moved east)
@@ -2028,6 +2040,12 @@ ESP-CT C33 C17/C58 2
 ESP-CT C58 B10/B20 19 #the 19 point is exit 17
 ESP-CT C58C C58 2
 #need to look at everything SW and NE of Barcelona along the coast
+
+ESP-AN A92 0 12
+ESP-AN A92 240 241
+
+ESP-MD M23 1 M40
+ESP-MD M45 2A 17(M50)
 
 ESP-PV GI11 1 2
 ESP-PV GI20 4 5b
