@@ -2030,6 +2030,18 @@ ESP-AN A4 537 2(SE30)
 ESP-AN A4 2(SE30) 8(SE30)
 ESP-AN A4 8(SE30) 545
 ESP-AN A4Jer 645 646A
+ESP-MD R4 M50 4
+ESP-MD A5 2 6
+ESP-MD A5 9 16
+ESP-MD A5 19 25
+ESP-MD A5R M40 M406
+ESP-MD R5 2 9
+ESP-MD A6 AveReyCat 39
+ESP-MD AP6 39 52 #between 52 and 60 there is a 2-lane reversible roadway
+ESP-CL AP6 60 81
+ESP-CL A6 181 184
+ESP-CL A6 255 267
+ESP-GA A6 431 432
 
 ESP-CT B10 19(W) 14(W)
 ESP-CT B10 24 27 #west end is closer to where the 25 point is, but it's exit 24 (and the 24 point should be moved east)
@@ -2046,6 +2058,8 @@ ESP-AN A92 240 241
 
 ESP-MD M23 1 M40
 ESP-MD M45 2A 17(M50)
+ESP-MD M407 M50 3
+ESP-MD M503 8 M50
 
 ESP-PV GI11 1 2
 ESP-PV GI20 4 5b
