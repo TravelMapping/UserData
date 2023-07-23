@@ -2068,8 +2068,26 @@ ESP-PV BI10 115 118 #signed as A8
 ESP-PV BI10 118 121 #signed as A8
 ESP-PV BI10 121 130 #signed as A8
 ESP-PV A8 130 131
+ESP-GA AP9 15 16
+ESP-GA AP9 67 75
+ESP-GA AP9 146 151
+ESP-NC A12 76 ESP-RI A12 78
+ESP-NC AP15 80 83B
+ESP-NC AP15 108 112
+ESP-MC A30 138 158
+ESP-VC A31 237 239
+ESP-MD A42 2A 4
+ESP-MD A42 4 19
+ESP-CM A43 30 33
+ESP-CM A43 144 147
+ESP-AN A44 119 123
+ESP-AN A44 141 144
+ESP-AN A45 114A 116
+ESP-AN A45 140 142
+ESP-AN A48 1 3
+ESP-AN A49 1A 16
 
-#need to check all the Bilbao, Donostia freeways
+#need to check all the Bilbao freeways
 
 ESP-CT B10 19(W) 14(W)
 ESP-CT B10 24 27 #west end is closer to where the 25 point is, but it's exit 24 (and the 24 point should be moved east)
