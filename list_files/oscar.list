@@ -818,7 +818,8 @@ ME I-495 I-95 I-295
 NS NS101 1G NS3
 NS NS102 BayRd 15
 NS NS103 1 HarRd
-NS NS104 NB/NS NS105/19
+NS NS104 NB/NS 29
+NS NS104 *OldNS104_Gle NS105/19
 NS NS104Por 43 NS4
 NS NS105 1 Fry
 NS NS106 1 WoodIslFry
@@ -1199,7 +1200,7 @@ KS US56BusHer US56_W US56_E
 KS US69AltBax US166 US69_N
 KS US69BusPit US69_S US69_N
 KS US69BusArm US69_S SouSt
-# segment north of SouSt closed, except north of Jefferson St.
+# segment north of SouSt temporarily closed for construction, except north of Jefferson St.
 KS US75BusAlt US75_S US75_N
 KS US81BusMcP US81_S US81_N
 KS US83BusGar US83_N US83_S
