@@ -2003,6 +2003,26 @@ NLD A29 A15 21
 NLD A50 A73 A12_E
 NLD A58 A65 11
 
+
+#Portugal
+PRT A1 AveDAB 7
+PRT A1 11 12
+PRT A1 17 20
+PRT A1 20 22
+PRT A1 23 A28
+PRT A2 A5 1
+PRT A2 1 5
+PRT A2 6 7
+PRT A3 1 5
+
+PRT IC23 A1/A44 A3_W
+PRT IC23 A3_E A20
+
+PRT 2aCir A1 IC17/19 #this is the southern extension of A1 and eastern extension of IC19
+PRT AveSanCas 2aCir IP7
+PRT N117 2 4 #in western Lisboa
+
+
 #Spain#
 ESP-MD A1 10 28
 ESP-CL A1 233 235
