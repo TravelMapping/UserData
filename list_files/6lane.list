@@ -1996,7 +1996,7 @@ ITA A4 ViaLig A23 #construction west of ViaLig
 ITA SS36 SP5 SP9 #and SP5 into Milano
 
 ITA SPBS11 A35 8 #in Brescia
-CorPriMag 16 18 #eastern beltway of Padova, whatever it's called
+ITA CorPriMag 16 18 #eastern beltway of Padova, whatever it's called
 
 
 #Netherlands#
