@@ -1976,6 +1976,18 @@ NIR M2 1A 4
 NIR M3 1 1A
 NIR A12 A501 M1
 
+
+#Italy#
+ITA A1 A1Mil_N A14
+ITA A1 A14Cas A1Var_N
+ITA A1 A1Var_S SP127 #construction south of SP127
+ITA A1 SP151 A3
+ITA A1NRo SS4Dir SS4
+ITA A1Cap A1 A56
+
+#need to check all the Napoli freeways
+
+
 #Netherlands#
 NLD A1 A10 7
 NLD A1 A27 12
