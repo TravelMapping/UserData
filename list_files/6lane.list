@@ -2000,6 +2000,12 @@ ITA A14 A1 SP28_N
 ITA A21 ViaPas A4 #a tiny bit of 4 lanes just east of ViaPas
 #ITA A23 is 6 lanes from SS13_B south to the middle of Udine
 ITA A24 ViaAlfTor VinLun
+ITA A26 A10 A7A26
+ITA A26 A7A26 A4A26
+ITA A26 A4A26 A4
+ITA A27 A57 A28
+ITA A30 A1 A2
+ITA A35 SP19 A58
 
 #need to check all the Napoli and Roma freeways
 
