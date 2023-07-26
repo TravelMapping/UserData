@@ -1997,8 +1997,13 @@ ITA A9 A8 ViaCec
 ITA A10 A26 SP1_C
 ITA A14 A1 SP28_N
 #ITA A14Cas would qualify if the outer lanes were not a separate route
+ITA A21 ViaPas A4 #a tiny bit of 4 lanes just east of ViaPas
+#ITA A23 is 6 lanes from SS13_B south to the middle of Udine
+ITA A24 ViaAlfTor VinLun
 
-#need to check all the Napoli freeways
+#need to check all the Napoli and Roma freeways
+
+#ITA E90Pal in Palermo? it's hard to make out the lane lines
 
 ITA SS16Bar 4 14
 ITA SS36 SP5 SP9 #and SP5 into Milano
