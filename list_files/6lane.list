@@ -2006,16 +2006,24 @@ ITA A26 A4A26 A4
 ITA A27 A57 A28
 ITA A30 A1 A2
 ITA A35 SP19 A58
-
-#need to check all the Napoli and Roma freeways
+ITA A50 A8 A1_N
+ITA A51 1 A4
+ITA A55 SR29 A55Fal
+ITA A55Riv A55 SS25
+ITA A55Mon SS393 A6/A55
+ITA A55Fal SP267 A4/A5
+ITA A56 1 13
+ITA A57 A4_W A27
+ITA A58 1 A1
+ITA A91 AGRA ViaCAviCiv
+ITA AGRA 1 SS1
 
 #ITA E90Pal in Palermo? it's hard to make out the lane lines
-
 ITA SS16Bar 4 14
 ITA SS36 SP5 SP9 #and SP5 into Milano
-
 ITA SPBS11 A35 8 #in Brescia
 ITA CorPriMag 16 18 #eastern beltway of Padova, whatever it's called
+ITA CorRegMar CorLec A55 #northwestern radial in Turin
 ITA VleSanPer VlePalTog 4 #western radial in Bologna
 
 
