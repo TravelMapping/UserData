@@ -1612,6 +1612,11 @@ BEL R0 E411/A4_N E19/A7
 BEL R1 7 E19/A1_N
 
 
+#Croatia#
+HRV A5 7 HRV/BIH #north end is at customs south of 7
+HRV A6 6 7 #west end is just a bit east of 7
+
+
 #Denmark#
 DNK E20 18 20
 DNK E20 20 E47/E55_N
