@@ -1988,6 +1988,15 @@ WLS M4 42a 43
 WLS A494 A548_E WLS/ENG
 
 
+#Greece#
+GRC A1 1 28
+GRC A1 75 86
+GRC A1 86 #brief northbound 2 lanes just before 86
+GRC A1 86 88 #may still be 2 lanes northbound on the bridge before 88
+
+GRC EO56A KarDim EO91
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
