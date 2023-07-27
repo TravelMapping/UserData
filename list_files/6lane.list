@@ -2328,6 +2328,27 @@ ESP-VC V21 1 18
 ESP-VC V23 1 4
 ESP-VC V31 1 12
 
+###Balearic Islands###
+ESP-IB Ma13 1A 7
+ESP-IB Ma19 3 7
+ESP-IB Ma20 1 9
+
+###Canary Islands###
+ESP-CN GC1 GC2 3
+ESP-CN GC1 4 46
+ESP-CN GC2 CalPioXII 2B
+ESP-CN GC3 1a 8 #eastbound doesn't quite make it to 1a
+ESP-CN GC3 8 7B
+ESP-CN GC4 1 1a
+ESP-CN GC23 1a 2
+ESP-CN GC23 2 8
+ESP-CN GC31 GC1 2
+
+ESP-CN LZ3 1 2
+
+ESP-CN TF1 3 20
+ESP-CN TF5 AveReyCat 11
+
 
 #Switzerland#
 CHE A1 CHE/FRA 1
