@@ -1,4 +1,4 @@
-# Date: 2023-07-25
+# Date: 2023-07-27
 # ----------------
 
 
@@ -6,6 +6,8 @@
 ####   RAILWAYS   ####
 ######################
 
+DEU-BW RS7 UlmHauptbahnhof BW/BY
+DEU-BY RS7 BW/BY Memmingen
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
@@ -40,12 +42,13 @@
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
 #DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
-#DEU-BW  Ulm Hbf                      DEU-BY  Senden                #2022
+DEU-BW RS3 Munderkingen UlmHauptbahnhof
 #DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
 #DEU-BW  Donaueschingen               DEU-BW  Freiburg Hbf          #2022, S10
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26 via Pforzheim, NOT via Bietigheim-Bissingen
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1
+DEU-BW RS2 UlmHauptbahnhof BiberachSud
 #DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
 #DEU-BW  Kornwestheim                 DEU-BW  Stgt-Untertürkheim    #2023, rerouted via Münster, Zazenhausen
 
@@ -56,6 +59,9 @@
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S9 via Mainz-Kastel, Airport
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #2022, RB75 via Mainz Hbf, Groß-Gerau
 
+DEU-BW RS5Ulm BY/BW UlmHauptbahnhof
+DEU-BY RS5 BW/BY BY/BW
+DEU-BW RS5 AalenHauptbahnhof BW/BY
 #DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
 #DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
@@ -152,22 +158,25 @@ DEU-RP 4Lud BerlinerPlatz RP/BW                                                 
 DEU-BW 4Man RP/BW Universitat                                                                  #2022
 DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-DEU-BW U1 OsterreichischerPlatz FellbachLutherkirche                                           #201x, U1
+DEU-BW U1 Vaihingen FellbachLutherkirche                                                       #201x/2023
 DEU-BW U2 Rotebuhlplatz Staatsgalerie                                                          #201x, any
+DEU-BW U3 Vaihingen Plieningen                                                                 #2023
 DEU-BW U5 Pragfriedhof Charlottenplatz                                                         #201x, any
+DEU-BW U6 Gerlingen FlughavenMesse                                                             #2023
+DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
+DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
+DEU-BW U8 Vaihingen Ruhbank                                                                    #2023
+DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
 DEU-BW U12 Lowentor Charlottenplatz                                                            #201x, U12? via Nordbahnhof
 DEU-BW U13 Lowentor BadCannstattWilhelmsplatz                                                  #201x, U13/U16?
+DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+DEU-BW U15 Stammheim Ruhbank                                                                   #2023
+DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
 DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
+DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
 DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
 DEU-BW S5 BietigheimBissingen Hauptbahnhof                                                     #2023, S5
 DEU-BW S6 Renningen Hauptbahnhof                                                               #2020, S6
-DEU-BW U3 Vaihingen SSBZentrum                                                                 #2023, U3
-DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
-DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
-DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
-DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
-DEU-BW U15 Stammheim Pragsattel                                                                #2023, U15
-DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
 
 DEU-BW 1Ulm Soflingen BofingenOstprussenweg                                                    #2020
 DEU-BW 2Ulm ScienceParkII KuhbergSchulzentrum                                                  #2020
@@ -211,11 +220,21 @@ DEU-BW 2Ulm ScienceParkII KuhbergSchulzentrum                                   
 #DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
 #DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
 
+DEU-HH U1Ohl SH/HH Ohlstedt
+DEU-SH U1Hol HH/SH SH/HH
+DEU-HH U1Buc Volksdorf HH/SH
 #DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                                          #2020, All routes as of 2020
+DEU-SH U1Nor NorderstedtMitte SH/HH
+DEU-HH U1 SH/HH HH/SH
+DEU-SH U1 HH/SH Grosshansdorf
 #DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf                                      #2020
+DEU-HH U2 NiendorfNord Mummelmannsberg
 #DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg                                   #2020
+DEU-HH U3 Barmbek_1 WandsbekGartenstadt
 #DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)                               #2020
+DEU-HH U4 Elbbrucken Billstedt
 #DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
+DEU-HH S1 HamburgAltona Ohlsdorf
 #DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -233,10 +252,10 @@ DEU-BW 2Ulm ScienceParkII KuhbergSchulzentrum                                   
 #DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
 #DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-#DEU-MV  Rostock  STR1 Mecklenburger Allee  DEU-MV Hafenallee                                  #2022, via Lange Straße
-#DEU-MV  Rostock  STR3 Neuer Friedhof       DEU-MV Dierkower Allee                             #2022, via Lange Straße
-#DEU-MV  Rostock  STR5 Mecklenburger Allee  DEU-MV Südblick                                    #2022, via Lange Straße
-#DEU-MV  Rostock  STR6 Neuer Friedhof       DEU-MV Campus Südstadt                             #2022, via Lange Straße
+DEU-MV 1Ros MecklenburgerAllee Hafenallee
+DEU-MV 3Ros NeuerFriedhof DierkowerAllee
+DEU-MV 5Ros MecklenburgerAllee Sudblick
+DEU-MV 6Ros NeuerFriedhof CampusSudstadt
 
 #DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
 #DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
