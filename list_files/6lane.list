@@ -1997,14 +1997,33 @@ ITA A9 A8 ViaCec
 ITA A10 A26 SP1_C
 ITA A14 A1 SP28_N
 #ITA A14Cas would qualify if the outer lanes were not a separate route
+ITA A21 ViaPas A4 #a tiny bit of 4 lanes just east of ViaPas
+#ITA A23 is 6 lanes from SS13_B south to the middle of Udine
+ITA A24 ViaAlfTor VinLun
+ITA A26 A10 A7A26
+ITA A26 A7A26 A4A26
+ITA A26 A4A26 A4
+ITA A27 A57 A28
+ITA A30 A1 A2
+ITA A35 SP19 A58
+ITA A50 A8 A1_N
+ITA A51 1 A4
+ITA A55 SR29 A55Fal
+ITA A55Riv A55 SS25
+ITA A55Mon SS393 A6/A55
+ITA A55Fal SP267 A4/A5
+ITA A56 1 13
+ITA A57 A4_W A27
+ITA A58 1 A1
+ITA A91 AGRA ViaCAviCiv
+ITA AGRA 1 SS1
 
-#need to check all the Napoli freeways
-
+#ITA E90Pal in Palermo? it's hard to make out the lane lines
 ITA SS16Bar 4 14
 ITA SS36 SP5 SP9 #and SP5 into Milano
-
 ITA SPBS11 A35 8 #in Brescia
 ITA CorPriMag 16 18 #eastern beltway of Padova, whatever it's called
+ITA CorRegMar CorLec A55 #northwestern radial in Turin
 ITA VleSanPer VlePalTog 4 #western radial in Bologna
 
 
@@ -2308,3 +2327,54 @@ ESP-GA V1.4 AC552 RolOut
 ESP-VC V21 1 18
 ESP-VC V23 1 4
 ESP-VC V31 1 12
+
+###Balearic Islands###
+ESP-IB Ma13 1A 7
+ESP-IB Ma19 3 7
+ESP-IB Ma20 1 9
+
+###Canary Islands###
+ESP-CN GC1 GC2 3
+ESP-CN GC1 4 46
+ESP-CN GC2 CalPioXII 2B
+ESP-CN GC3 1a 8 #eastbound doesn't quite make it to 1a
+ESP-CN GC3 8 7B
+ESP-CN GC4 1 1a
+ESP-CN GC23 1a 2
+ESP-CN GC23 2 8
+ESP-CN GC31 GC1 2
+
+ESP-CN LZ3 1 2
+
+ESP-CN TF1 3 20
+ESP-CN TF5 AveReyCat 11
+
+
+#Switzerland#
+CHE A1 CHE/FRA 1
+CHE A1 17 19
+CHE A1 34 37
+CHE A1 37 38
+CHE A1 45 47
+CHE A1 53 59
+CHE A1 61 63 #construction 59 to 61
+CHE A1 63 64
+CHE A1 64 66
+CHE A1 66 68 #67 to 68 may still be under construction; construction 69 to 71?
+CHE A1 80a 81
+CHE A2 1 3
+CHE A2 5 6
+CHE A2 6 9
+CHE A2 23 24
+CHE A2 24 26
+CHE A2 45 47
+CHE A3 59(A1) 27
+CHE A3 30 31
+CHE A3 31 32
+CHE A3 32 33
+CHE A4 32 34
+CHE A9 19(A1) 10
+CHE BreLau 17 2
+CHE ZubHar 1 2
+#CHE ZubLet under construction 3 to 5?
+CHE ZubWie 2 32
