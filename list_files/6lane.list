@@ -1591,6 +1591,11 @@ SK SK11Cir SK219 ValRd
 
 
 #EUROPE#
+##Albania##
+ALB A3 UnaRe SH3_Lun
+#part of the Eastern Ring around Tirane?
+
+
 ##Belgium##
 BEL E17 E34/R1 E403/A17
 BEL E19 5(A1) E420/A54
@@ -1607,7 +1612,29 @@ BEL R0 E411/A4_N E19/A7
 BEL R1 7 E19/A1_N
 
 
-#Denmark#
+##Bosnia and Herzegovina##
+BIH A1xOdz HRV/BIH 1
+
+
+##Bulgaria##
+BGR A1 II18 UliSae #and the extension west into Sofia where it's freeway
+BGR A2 II18 I1/I6
+BGR A6Sof VasLev II18
+
+BGR E80 I1/I6_W A2
+BGR II18 A1 BulSKO #other parts are not full freeway (this even has one random intersection east of BulAleMal but no nearby points to cut it out)
+BGR II18 BulAleMal BulBal
+BGR II18 A6 I8
+BGR II18 I8 SST
+#Vasil Levski Blvd in Varna
+
+
+##Croatia##
+HRV A5 7 HRV/BIH #north end is at customs south of 7
+HRV A6 6 7 #west end is just a bit east of 7
+
+
+##Denmark##
 DNK E20 18 20
 DNK E20 20 E47/E55_N
 DNK E20 E47/E55_N E47/E55_S
@@ -1631,7 +1658,7 @@ DNK PR21 5 14
 DNK AmaMot MR 20
 
 
-#France#
+##France##
 FRA-IDF A1 1 FRA-HDF A1 A21
 FRA-HDF A1 A21 A22
 FRA-HDF A1 A22 A25
@@ -1872,6 +1899,7 @@ DEU-NW A555 2 DEU-NW A555 7
 DEU-RP A650 7 DEU-RP A650 9
 DEU-HE A661 17a DEU-HE A661 19
 
+
 ##Great Britain##
 ENG M1 1 48
 ENG M2 1 4
@@ -1988,7 +2016,7 @@ WLS M4 42a 43
 WLS A494 A548_E WLS/ENG
 
 
-#Greece#
+##Greece##
 GRC A1 1 28
 GRC A1 75 86
 GRC A1 86 #brief northbound 2 lanes just before 86
@@ -1998,6 +2026,16 @@ GRC A1The 21(A2) 21A
 GRC A1The 21A EO16
 GRC A2 21 23
 GRC A2 23 24
+GRC A5 K1 A8
+GRC A6 4 15
+GRC A6 16 20
+GRC A8 2 12
+GRC A8 24 25
+GRC A24 K5 K12
+GRC A24 K12 EO16 #also the spur from K12 into Thessaloniki
+GRC A62 AerEleVen K2
+GRC A64 Y1 Y4
+GRC A64 Y7 Y9
 
 GRC EO2 EO111 A2(23)
 GRC EO56A KarDim EO91
@@ -2017,7 +2055,7 @@ NIR M3 1 1A
 NIR A12 A501 M1
 
 
-#Italy#
+##Italy##
 ITA A1 A1Mil_N A14
 ITA A1 A14Cas A1Var_N
 ITA A1 A1Var_S SP127 #construction south of SP127
@@ -2067,7 +2105,7 @@ ITA CorRegMar CorLec A55 #northwestern radial in Turin
 ITA VleSanPer VlePalTog 4 #western radial in Bologna
 
 
-#Netherlands#
+##Netherlands##
 NLD A1 A10 7
 NLD A1 A27 12
 NLD A1 22 A35_S
@@ -2095,7 +2133,10 @@ NLD A50 A73 A12_E
 NLD A58 A65 11
 
 
-#Portugal
+##North Macedonia the only 6 lane freeway is Blvd Alexander the Great west from the A2/A4 interchange
+
+
+##Portugal##
 PRT A1 AveDAB 7
 PRT A1 11 12
 PRT A1 17 20
@@ -2159,7 +2200,12 @@ PRT AveSanCas 2aCir IP7
 PRT N117 2 4 #in western Lisboa
 
 
-#Spain#
+##Serbia##
+SRB A3 8(B) 9A(B)
+SRB A3 14(B) 15(B) #doesn't quite make it to 15
+
+
+##Spain##
 ESP-MD A1 10 28
 ESP-CL A1 233 235
 ESP-CL A1 235 242
@@ -2390,7 +2436,7 @@ ESP-CN TF1 3 20
 ESP-CN TF5 AveReyCat 11
 
 
-#Switzerland#
+##Switzerland##
 CHE A1 CHE/FRA 1
 CHE A1 17 19
 CHE A1 34 37
