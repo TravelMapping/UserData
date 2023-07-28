@@ -1612,12 +1612,16 @@ BEL R0 E411/A4_N E19/A7
 BEL R1 7 E19/A1_N
 
 
-#Croatia#
+##Bosnia and Herzegovina##
+BIH A1xOdz HRV/BIH 1
+
+
+##Croatia##
 HRV A5 7 HRV/BIH #north end is at customs south of 7
 HRV A6 6 7 #west end is just a bit east of 7
 
 
-#Denmark#
+##Denmark##
 DNK E20 18 20
 DNK E20 20 E47/E55_N
 DNK E20 E47/E55_N E47/E55_S
@@ -2181,6 +2185,11 @@ PRT IC23 A3_E A20
 PRT 2aCir A1 IC17/19 #this is the southern extension of A1 and eastern extension of IC19
 PRT AveSanCas 2aCir IP7
 PRT N117 2 4 #in western Lisboa
+
+
+##Serbia##
+SRB A3 8(B) 9A(B)
+SRB A3 14(B) 15(B) #doesn't quite make it to 15
 
 
 ##Spain##
