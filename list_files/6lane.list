@@ -1616,6 +1616,19 @@ BEL R1 7 E19/A1_N
 BIH A1xOdz HRV/BIH 1
 
 
+##Bulgaria##
+BGR A1 II18 UliSae #and the extension west into Sofia where it's freeway
+BGR A2 II18 I1/I6
+BGR A6Sof VasLev II18
+
+BGR E80 I1/I6_W A2
+BGR II18 A1 BulSKO #other parts are not full freeway (this even has one random intersection east of BulAleMal but no nearby points to cut it out)
+BGR II18 BulAleMal BulBal
+BGR II18 A6 I8
+BGR II18 I8 SST
+#Vasil Levski Blvd in Varna
+
+
 ##Croatia##
 HRV A5 7 HRV/BIH #north end is at customs south of 7
 HRV A6 6 7 #west end is just a bit east of 7
