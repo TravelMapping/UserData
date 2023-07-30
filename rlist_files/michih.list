@@ -257,15 +257,15 @@ DEU-MV 3Ros NeuerFriedhof DierkowerAllee
 DEU-MV 5Ros MecklenburgerAllee Sudblick
 DEU-MV 6Ros NeuerFriedhof CampusSudstadt
 
-DEU-MV 1-Sch Kli HegStr
+DEU-MV 1Sch Kli HegStr
 #DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
-DEU-MV 2-Sch LanSie HegStr
-DEU-MV 2-Sch T1/T4 PlaFre
+DEU-MV 2Sch LanSie HegStr
+DEU-MV 2Sch T1/T4 PlaFre
 # ==> 2nd branch missing in wpt file ==> to be reworked!
 #DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
-DEU-MV 3-Sch NeuPam HegStr
+DEU-MV 3Sch NeuPam HegStr
 #DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
-DEU-MV 4-Sch Kl NeuPam
+DEU-MV 4Sch Kl NeuPam
 #DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
 
 #DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
