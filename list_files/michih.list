@@ -1,4 +1,4 @@
-# Date: 2023-07-30
+# Date: 2023-08-02
 # ----------------
 
 
@@ -7503,8 +7503,8 @@ TUR O7Cob 195 O7
 TUR O7Dem O7 O4/O5
 TUR O7Koc O7 O4
 TUR O22 O5 D160/D200
-TUR O30 9 24
-TUR O33 1 End      #Not end but temporary end, not 1 but 23 because O33 extends!
+TUR O30 9 23
+TUR O33 O30 CanTatKoyu
 TUR D020 D100 D567
 TUR D020 IstAir O7
 TUR D100 Esk D020
