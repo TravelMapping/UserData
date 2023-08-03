@@ -46,9 +46,30 @@ CA I-280 43B 5thSt
 CA I-405 45 I-5(158)
 CA I-580 8B(80) 13(30)
 
+# Colorado
+# Interstates (CO)
+CO I-25 142 CO/WY
+CO I-70 284 205
+CO I-76 80 18
+
+# Connecticut
+# Interstates (CT)
+CT I-95 NT/CT CT/RI
+
 # Delaware
 # Interstates (DE)
-DE I-95 MD/DE DE/PA
+DE I-95 MD/DE 5B
+DE I-295 I-95 DE/NJ
+
+# District of Columbia
+# Interstates (DC)
+DC I-66 VA/DC US29
+DC I-95 VA/DC DC/MD
+DC I-295 MD/DC 5
+DC I-395 VA/DC US50
+DC I-495 VA/DC DC/MD
+DC I-695 I-395 2A
+
 
 # Florida
 # Interstates (FL)
@@ -74,6 +95,10 @@ GA I-475 I-75_S I-75_N
 GA I-575 I-75 GA5
 GA I-675 I-75 I-285
 GA I-985 I-85 24
+
+# Idaho
+# Interstates (ID)
+ID I-15 119 UT/ID
 
 # Illinois
 # Interstates (IL)
@@ -139,12 +164,13 @@ ME I-395 1 6
 # Interstates (MD)_
 MD I-68 82 43B
 MD I-70 1A 94
+MD I-83 MD/PA 1
 MD I-95 DC/MD MD/DE
 MD I-295 I-95/495 MD/DC
 MD I-395 I-95 ConSt
 MD I-495 DC/MD MD/VA
 MD I-595 7 24
-MD I-895 I-95 15
+MD I-895 I-95 15 
 
 # Massachusettes
 # Interstates (MA)
@@ -206,6 +232,9 @@ NJ I-95 PA/NJ NJ/NY
 NJ I-95Sec I-95_S I-95_N
 NJ I-676 1 NJ/PA
 NJ I-278 3 NJ/NY
+NJ I-295 DE/NJ 2A
+# OTHER (NJ)
+NJ NJTpk I-295(1) 72(95)
 
 # New Mexico
 # Interstates (NM)
@@ -223,12 +252,66 @@ NY I-278 16 NJ/NY
 
 # North Carolina
 # Interstates (NC)
+NC I-40 219 266
+NC I-77 19 NC/VA
+NC I-85 SC/NC NC/VA
+NC I-485 10 23A
 
+# North Dakota
+# Interstates (ND)
+ND I-29 63 64
+ND I-94 159 ND/MN
+ND I-94 110 23
 
+# Ohio
+# Interstates (OH)
+OH I-71 
+OH I-71 KY/OH I-90
+OH I-75 125 KY/OH
+OH I-90 110 OH/PA
 
+# Oklahoma
+# Interstates (OK)
+OK I-35 55 TX/OK
+OK I-44 OK/MO 179
+
+# Oregon
+# Interstates (OR)
+OR I-5 300A OR/WA
+
+# Pennsylvania
+# Interstates (PA)
+PA I-76 PA/NJ 236
+PA I-83 19 MD/PA
+PA I-86 NY/PA 60
+PA I-90 OH/PA PA/NY
+PA I-99 MusLn 28
+PA I-676 I-76 PA/NJ
+
+# Puerto Rico
+# Interstates (PR)
+PR I-PR3 8(26) PR1/25
+
+# Rhode Island
+# Interstates (RI)
+RI I-95 CT/RI RI/MA
+
+# South Carolina
+# Interstates (SC)
+SC I-20 GA/SC 141
+SC I-26 52 US17_S
+SC I-85 GA/SC SC/NC
+SC I-95 38 GA/SC
+SC I-185 14 1B
+SC I-126 I-26 US21/176
+SC I-385 I-26 42
+
+# South Dakota
+# Interstates (SD)
+SD I-90 131 WY/SD
+SD I-190 SD44 1A
 
 # Tennessee
-
 # Interstates (TN)
 TN I-24 KY/TN TN/GA
 TN I-24Cha GA/TN 185
@@ -243,5 +326,59 @@ TN I-440 I-40 I-24
 TN I-640 I-40_W I-40_E
 TN I-840 1 76
 
+# Texas
+# Interstates (TX)
+TX I-20 614 TX/LA
+TX I-30 199 TX/AR
+TX I-35 HidSt 155B
+TX I-35E 370B 467
+TX I-35Gai 467 TX/OK
 
+# Utah
+# Interstates (UT)
+UT I-15 AZ/UT 27
+UT 1-15 257A UT/ID
+UT I-70 157 182
+
+# Vermont
+# Interstates (VT)
+VT I-89 USA/CAN 1
+
+# Virginia
+# Interstates (VA)
+VA I-64 56 121
+VA I-64 190 282
+VA I-66 1 VA/DC
+VA I-77 NC/VA VA/WV
+VA I-81 300 TN/VA
+VA I-85 NC/VA 68
+VA I-95 51 VA/DC
+VA I-395 1 VA/DC
+VA I-495 49 MD/VA
+VA I-495 170(95) VA/DC
+VA I-581 1 6
+
+# Washington 
+# Interstates (WA)
+WA I-5 OR/WA 1A
+WA I-5 104 169
+
+# West Virginia
+# Interstates (WV)
+WV I-64 156 48(77)
+WV I-64 59 KY/WV
+WV I-68 10 I-79
+WV I-77 VA/WV 48
+WV I-79 I-77 148
+
+# Wisconsin
+# Interstates (WI) 
+WI I-41 IL/WI 344(94)
+WI I-94 IL/WI 344
+
+# Wyoming
+# Interstates (WY)
+WY I-25 CO/WY 8
+WY I-80 104 359
+WY I-90 MT/WY WY/SD
 
