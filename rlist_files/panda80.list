@@ -4,6 +4,7 @@ AUT S4Tir InnsbruckHauptbahnhof Kufstein
 AUT S7Tir DEU/AUT AUT/DEU
 AUT U1 Kragan Karlsplatz
 AUT U4 Schwedenplatz Schonbrunn
+DEU-BB S2Bla BE/BB Blankenfelde
 DEU-BB S7 PotsdamHauptbahnhof BE/BB
 DEU-BB S8Jut ST/BB Juterbog
 DEU-BB S8Zeu BE/BB Zeuthen
@@ -79,10 +80,12 @@ DEU-SN 20Dre Hauptbahnhof_1 Hauptbahnhof_2
 DEU-ST S2 Bitterfeld ST/SN
 DEU-ST S2Wit BB/ST Bitterfeld
 FRA-IDF A Auber NoisyGrandMontEst
-FRA-IDF B AeroportCDG1 ChateletHalles
+FRA-IDF B AeroportCDG1 Luxembourg
 FRA-IDF D SaintDenis GareLyon
 FRA-IDF L SaintLazare VersaillesRiveDroite
 FRA-IDF M7 PorteVillette Chatlet
+FRA-IDF M13StO BasiliqueSaintDenis Fourche
+FRA-IDF M13 Fourche SaintLazare
 ITA-TRE S3Tir AUT/ITA BrennerBrennero
 ESP-CT R5 Espanya MonistrolMontserrat
 ESP-CT R13 EstacioFranca Sitges
