@@ -1,39 +1,14 @@
 #Rail#
-###England###
+###UK & Ireland###
 ####National Rail####
-#####AW#####
-ENG CamLn BHI TFC #AW International - Telford
-
-#####CC#####
-ENG LTSLn FST UPM #CC Fenchurch Street - Upminster
-
-#####CH#####
-ENG AylLn MYB AYS #CH Marylebone - Aylesbury
-ENG ChiML BCF HWY #CH Beaconsfield - High Wycombe
-ENG ChiML HWY BMO #CH High Wycombe - Birmingham Moor Street
-
 #####GN#####
 ENG NorCityLn MOG FPK
-
-#####GW#####
-ENG BruLn RDG BSK #GW Reading - Basingstoke
-ENG GreBra WEA GFD #GW West Ealing - Greenford
-ENG GWML PAD BRI #GW Paddington - Bristol Temple Meads
-ENG NDowLn RDG GLD #XC Reading - Guildford (diversion)
-ENG ThaVlyLn SLO RDG #GW Slough - Reading
-ENG SWalML PAD BPW #GW Paddington - Bristol Parkway
-ENG WesML SOU PMS #GW Southampton - Portsmouth
 
 #####HX#####
 ENG HEx HXX HWV
 
 #####IL#####
 ENG IslLn RYP RYD
-
-#####LE#####
-ENG GEML LST SNF #LE Liv St - Shenfield
-ENG NewRvrLn LST BMD #LE Liverpool Street - Brimsdown
-ENG WAMLStr SRA TOM #LE Stratford - Tottenham Hale
 
 #####LN######
 ENG BirLivLn BNM LIV
@@ -73,27 +48,6 @@ ENG BexLn PMR WLI
 ENG SidLnLew LBG MTG
 ENG SidLn LBG MTG
 
-#####SN#####
-#SN London Bridge - East Croydon (fast)
-#SN Victoria - Gatwick - Barnham
-#SN Southampton - Barnham
-#SN Ashford - Hastings
-#SN West Croydon - Sutton - Epsom Downs
-#SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
-#SN Crystal Palace - Beckenham Junction
-#SN Clapham Junction - Sutton
-
-#####SW#####
-#SW Waterloo - Bournemouth
-#SW Southampton - Portsmouth
-#SW Waterloo - Basingstoke - Grateley - curve (XC diversion)
-#SW curve - Dean - Southampton (XC diversion)
-#SW Guildford - Havant - Fareham
-#SW Winnersh - Reading
-#SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
-#SW Queenstown Road Battersea - Hounslow
-#SW Richmond - Wimbledon
-
 #####SX#####
 ENG StaEx TOM SSD
 
@@ -101,12 +55,6 @@ ENG StaEx TOM SSD
 ENG ThaLnk HEN WHP
 ENG ThaLnk KTN ECR
 ENG ThaLnkSut BFR STE_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
-
-######VT######
-ENG WCMLBir WFJ WVH #VT Watford - Wolverhampton
-ENG WCMLChe MKC CTR #VT Milton Keynes - Chester
-ENG WCMLLiv WFJ STA #VT Watford Junction - Stafford
-ENG WCMLMan EUS SPT #VT Euston - Stoke - Stockport
 
 #####WM#####
 ENG SalLn BNM TFC
@@ -117,15 +65,6 @@ ENG EliLnHea HAF PAD
 ENG EliLn RDG ABW
 ENG EliLnShe ZLW SNF
 #XR into Paddington and Liverpool Street Mainline stations
-
-######Other#####
-#EM St Pancras - Wellingborough
-#XC Bristol Parkway - Bristol Temple Meads
-#XC Wolverhampton - Coventry - Bournemouth
-#XC Birmingham - (Solihull) - Reading
-
-####Heritage####
-#Swanage Railway Nordon P&R - Swanage
 
 #####London Underground#####
 ENG BakLn HRW EPH
@@ -170,11 +109,50 @@ ENG HPRT5B Terminal5 ParkingB #Terminal 5 PodParking
 ENG HPRTAB ParkingA ParkingB #Terminal 5 PodParking
 ENG LCC RoyalDocks GreenwichPeninsula #London Cable Car
 
-###Scotland###
-SCT WHigLn FTW MLG #Fort William - Mallaig (Jacobite)
-
-###Ireland###
-#Grand Canal Dock - Howth
+####NOT IN BROWSER YET#####
+#AW Birmingham International - Telford
+#CC Fenchurch Street - Upminster
+#CH Marylebone - Aylesbury
+#CH Beaconsfield - High Wycombe
+#CH High Wycombe - Birmingham Moor Street
+#GW Reading - Basingstoke
+#GW West Ealing - Greenford
+#GW Paddington - Bristol Temple Meads
+#XC Reading - Guildford (diversion)
+#GW Slough - Reading
+#GW Paddington - Bristol Parkway
+#GW Southampton - Portsmouth
+#LE Liv St - Shenfield
+#LE Liverpool Street - Brimsdown
+#LE Stratford - Tottenham Hale
+#SN London Bridge - East Croydon (fast)
+#SN Victoria - Gatwick - Barnham
+#SN Southampton - Barnham
+#SN Ashford - Hastings
+#SN West Croydon - Sutton - Epsom Downs
+#SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
+#SN Crystal Palace - Beckenham Junction
+#SN Clapham Junction - Sutton
+#SW Waterloo - Bournemouth
+#SW Southampton - Portsmouth
+#SW Basingstoke - GRT - curve (XC diversion)
+#SW curve - DEN - Southampton (XC diversion)
+#SW Guildford - Havant - Fareham
+#SW Winnersh - Reading
+#SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
+#SW Queenstown Road Battersea - Hounslow
+#SW Richmond - Wimbledon
+#EM St Pancras - Wellingborough
+#VT Watford - Wolverhampton
+#VT Milton Keynes - Chester
+#VT Watford Junction - Stafford
+#VT Euston - Stoke - Stockport
+#XC Bristol Parkway - Bristol Temple Meads
+#XC Wolverhampton - Coventry - Bournemouth
+#XC Birmingham - (Solihull) - Reading
+#Fort William - Mallaig (Jacobite)
+#Grand Canal Dock - Howth (DART)
+#Swanage Railway Nordon P&R - Swanage
 
 ###Germany###
 DEU-HE S8 FrankfurtFlughafen FrankfurtHauptbahnhof
@@ -194,7 +172,7 @@ ITA-LOM M1 Duomo Cairoli
 ####Barcelona Metro####
 ESP-CT L3 Canyelles Catalunya
 
-###USA###
+###USA### (not in browser yet)
 #LA Metro: Gold Line: Del Mar - Union Station
 
 ##Stations##
@@ -213,4 +191,4 @@ ESP-CT L3 Canyelles Catalunya
 #####Elsewhere: Birmingham International, Bristol Parkway, Basingstoke, Fareham, Barnham, High Wycombe, Ashford, Shenfield, Milton Keynes Central
 ####SCT: Glenfinnan, Arisag
 ####DEU: Frankfurt Hbf
-####ITA Duomo, Milano Centrale, Centrale
+####ITA: Duomo, Milano Centrale, Centrale
