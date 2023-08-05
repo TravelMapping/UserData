@@ -1,3 +1,27 @@
+VA VA168 VA165 I-264 #07312023 Visit Mom to get car
+VA VA134 US17 I-64(262)
+VA VA169 WooRd I-64
+MO MO92 I-29 KS/MO  #07272023 Trip back from Airport for KC Office Trip
+KS KS92 KS/MO US73_N  #previous roads when living in OP
+MO MO45SprLea MO92 MO45
+MO MO45 MOsH I-29
+MO MO273 I-29 MO45_S 
+OR OR213 AirWay US26 #07222023 Trip for TFACC meeting to Crater Lake
+WA WA14 1 I-5
+WA I-5 1A OR/WA
+OR I-5 OR/WA 301
+OR I-405 I-5(302B) 1D
+OR US26 I-405(1C) OR213
+OR US26 BurRd US97_S
+OR US97 US26_E OR62
+OR OR62 US97 CraLakeNP
+OR CraCrkRd OR62 RimDr
+OR CraLakeRimDr CraCrkRd CraLakeHwy_E
+OR CraLakeHwy RimDr OR138
+OR OR138 CraLakeHwy I-5(124)
+OR I-5 124 233
+OR I-5 288 299B
+OR US30BypPor I-5 I-205
 TN TN63 US25E_S TN345  #07142023 Travel back to Panama City from Gate City via Powell Valley stop
 TN US25E TN33_E US11W_S
 TN US25E US11W_N US11E_N

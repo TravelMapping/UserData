@@ -257,14 +257,16 @@ NY I-87 1 2
 NY I-87 4 23
 NY I-787 7 3
 NY I-90 PA/NY 53(NYST)
-NY I-90 51(NYST) 47(NYST)
+NY I-90 51(NYST) 45(NYST)
 NY I-90 34A(NYST) 33(NYST)
 NY I-90 6A 4
 NY I-190 USA/CAN I-90
 NY I-290 I-190 I-90
-NY I-390 20 16
+NY I-390 20 15A
 NY I-490 I-90(47) 9
 NY I-490 13 19
+NY I-490 I-90(45) 21
+NY I-590 5 I-390
 NY I-690 7 9
 NY I-690 13 I-481
 NY I-790 NY5A/5S GenSt
@@ -277,49 +279,64 @@ NY US11 US9 I-87 #actual end at Perry Mills***
 NY US20 NY32_N I-787
 NY US62BusNia NY104 US62
 NY US62 NY104 NY265 #southside only
+NY US62 EllCreRd MapRd #actual start at Checkers***
 NY US219 I-90_N PA/NY
 
 NY NY3 I-81 NY12_S
 NY NY3 NY22 US9 #start at Oak St
 NY NY3 NY30_S NY56
-NY NY5 NY384 NY33
-NY NY5 I-190 PA/NY
+NY NY5 NY33 PA/NY
 NY NY5 NY60 #end at Central Ave****
 NY NY5 HerRd_W I-790
 NY NY5S I-790 GenSt
 NY NY7 NY/VT 8thSt
 NY NY12 I-790 MulRd
 NY NY12 TreRd NY3_W
+NY NY15 I-490 NY15A_N #actual start at South, end at Elmwood***
 NY NY18 LakeOntPkwy NiaScePkwy
+NY NY18F NY93 NY104 #actual start at Jackson***
 NY NY22 I-87(38) NY3
 NY NY26 NY12_S NY812_N #actual end at Summit Ave***
-NY NY31 HigAve I-490(18)
+NY NY31 HowSt VicRd #actual end at Walmart near Wayneport Road***
+NY NY31 BroSt_E NY383
 NY NY32 US9 NY5 #actual end at Pine St**
-NY NY33 NY5 NY198
+NY NY33 NY5 NY33A_W #break between East Main and Seven Springs***
+NY NY33A NY204_E
 NY NY39 US219 CasDr
 NY NY49 NY26/46 I-790 #actual start South Geroge St***
 NY NY56 NY3 NY68
 NY NY60 US20 NY5
 NY NY68 NY56 FordSt
 NY NY85 I-90 WasAve
+NY NY96 I-490(29) RowRd #actual start High St actual end Omnitech Dr***
 NY NY104 NY18F NY384
 NY NY179 US219 NY5
 NY NY198 I-190 NY33
+NY NY204 I-390 NY33A_W #actual end at Airport Road***
+NY NY265 NY104 UppMouRd
 NY NY265 US62 CayDr_S #Actual start at Fashion Outlets Blvd****
+NY NY265 NY384_S NY266_N
+NY NY266 NY265_N I-190(17)
+NY NY266 BusAve NY265_S #actual end at International Railway Bridge**
 NY NY298 I-690 I-81_W #actual end at Solar St***
+NY NY324 I-190(21) I-190(15A)
+NY NY354 OakSt WilSt_E #actual start at Elm St ***
 NY NY365 I-90 NY49_E
 NY NY378 US4 I-787
 NY NY383 ExcSt NY31
+NY NY383 BroAve I-390 #actual start at Elmwood***
 NY NY384 RaiBri RaiBlvd
 NY NY384 NiaSq NY5
+NY NY384 WilRd NY265_S 
+NY NY390 20 27
 NY NY812 NY37_N USA/CAN #actual start at Ford St Extension***
 NY InnLoop I-490 UniSt
 NY LakeOntPkwy LakeAve LakeOntPkwySpr
-NY LakeOntPkwySprCar LakeOntPkwy NY18
-NY NiaScePkwy NY18 NY18F/104
+NY LakeOntPkwySprCar CampRd NY18 #actual start at turnaround before gate**
+NY NiaScePkwy NY18 FinDr
 NY NiaScePkwySprPor NiaScePkwy FortNiaSP
 NY NiaScePkwyNia JohnDalyBlvd I-190
-NY LaSExpy NY384 I-190(21A)
+NY LaSExpy WilRd I-190(21A)
 
 #Michigan
 

@@ -1,0 +1,92 @@
+ENG DLR BAN CUS
+ENG CirLn PAD_1 ERD_2
+ENG CenLn OXC BUH
+ENG BakLn MPB EPH
+ENG JubLn GRP CYF
+ENG NorLn HTD CPC
+ENG NorLnBat WAS KNG
+ENG PicLn HWV CKS
+ENG VicLn FPK BRX
+ENG WaCLn WAT BAN
+
+CT NewHavLnOut Sta WesHav
+
+DC DCSC UniSta OklAve
+DC PennLn WasUniSta DC/MD
+DC BluLn VA/DC DC/MD
+DC GreLn MD/DC DC/MD
+DC OraLn VA/DC DC/MD
+DC RedLn MD/DC DC/MD
+DC SilLn VA/DC DC/MD
+DC YelLn VA/DC DC/MD
+
+MA GreLnD Riv NorSta
+MA GreLnE Pru NorSta
+MA OraLn BackBay NorSta
+MA RedLn Ash Ale
+MA RedLnM Ash Mat
+
+MD PennLn DC/MD BWIAir
+MD BluLn DC/MD LarTownCen
+MD GreLn DC/MD Gre
+MD GreLnSui BraAve MD/DC
+MD OraLn DC/MD NewCar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Gle
+MD SilLn DC/MD LarTownCen
+MD YelLn DC/MD Gre
+
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN GreenLine TargetFieldPlatform2 UnionDepot
+
+NJ HBLR8HT LibSP HobTer
+NJ HBLRHTT HobTer TonAve
+NJ HBLRWST LibSP TonAve
+NJ NewCitySub PennSta GroSt
+NJ PATHH33 Hob NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+
+NY S42 TimSq GraCen
+NY 1 VanCorPk SouFry
+NY 2 Wak241stSt BroCol
+NY 3 Har148thSt NewLotsAve
+NY 4 Woo CroHeiUtiAve
+NY 5 EasDyreAve FlaAveBroCol
+NY 6 PelBayPk CityHall
+NY 7 34thStHudYar FluMainSt
+NY A 207thStInw FarRocMottAve
+NY AOzo OzoPkLefBlvd RocBlvd
+NY B BedPkBlvd BriBea
+NY C 168thSt EucAve
+NY D Nor205thSt ConIslStiAve
+NY E JamCenParArc WTCHub
+NY F Jam179thSt ConIslStiAve
+NY G CouSq ChuAve
+NY SRoc BroCha RocParkBea116thSt
+NY J BroSt JamCenParArc
+NY L 8thAve CanRocPkwy
+NY M MidVilMetAve ForHil71stAve
+NY N AstDitBlvd ConIslStiAve
+NY Q 96thSt ConIslStiAve
+NY R ForHil71stAve BayRid95thSt
+NY SPro FraAve ProPk
+NY W AstDitBlvd WhiStSFry
+
+NY BMR SpeEve Uni
+NY HunBra PennSta Nor
+NY HarLnInn GraCen NWhiPla
+NY HudLnInn GraCen CroHar
+NY HudLnOut GraCen Pou
+NY YanStaSpr YanE153rdSt Mel
+NY PATHH33 NJ/NY 33rdSt
+NY PATHHWT NJ/NY WTCHub
+NY PATHJ33 NJ/NY 33rdSt
+NY PATHNWT NJ/NY WTCHub
+NY SIR StGeo Tot
+
+VA BluLn FraSpr VA/DC
+VA OraLn VieFaiGMU VA/DC
+VA SilLn WieResEast VA/DC
+VA YelLn Hun VA/DC

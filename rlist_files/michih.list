@@ -1,17 +1,23 @@
+# Date: 2023-07-31
+# ----------------
+
+
 ######################
 ####   RAILWAYS   ####
 ######################
 
+DEU-BW RS7 UlmHbf BW/BY
+DEU-BY RS7 BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
-#DEU-BY  Memmingen                    DEU-BY  München Hbf       #2022, RE72
+#DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
 #DEU-BY  Lindau-Insel                 DEU-BY  Lindau-Reutin     #2022, S1
-#DEU-BY  München Hbf                  DEU-BY  Ingolstadt Hbf    #2022, RE1
+#DEU-BY  Munich Hbf                   DEU-BY  Ingolstadt Hbf    #2022, RE1
 #DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #2022, RB13
 #DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #2022, RE8
 #DEU-BY  Regensburg Hbf               DEU-BW  Ulm Hbf           #2022, RB15 via Donauwörth
-#DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf       #~2012? via Nürnberg Hbf
-#DEU-BY  Würzburg Hbf                 DEU-BY  München Hbf       #~2012? via Treuchtlingen
+#DEU-BY  Würzburg Hbf                 DEU-BY  Munich Hbf        #~2012? via Nürnberg Hbf
+#DEU-BY  Würzburg Hbf                 DEU-BY  Munich Hbf        #~2012? via Treuchtlingen
 #DEU-BY  Günzburg                     DEU-BY  Mindelheim        #2022, RB78
 #DEU-BY  Buchloe                      DEU-BY  Augsburg Hbf      #2022, RE7
 
@@ -35,14 +41,16 @@
 #DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf         #2020
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
-#DEU-BW  Ulm Hbf                      DEU-BY  München Hbf           #2022, ICE512
-#DEU-BW  Ulm Hbf                      DEU-BY  Senden                #2022
+#DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
+DEU-BW RS3 MunKin UlmHbf
 #DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
 #DEU-BW  Donaueschingen               DEU-BW  Freiburg Hbf          #2022, S10
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26 via Pforzheim, NOT via Bietigheim-Bissingen
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1
+DEU-BW RS2 UlmHbf BibSud
 #DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
+#DEU-BW  Kornwestheim                 DEU-BW  Stgt-Untertürkheim    #2023, rerouted via Münster, Zazenhausen
 
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S1 via Flörsheim, Höchst
 #DEU-HE  Frankfurt Rödelheim          DEU-HE  Darmstadt Hbf         #2022, S3 via Ffm Hbf, Ostendstr, Südbahnhof, Langen
@@ -51,6 +59,9 @@
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S9 via Mainz-Kastel, Airport
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #2022, RB75 via Mainz Hbf, Groß-Gerau
 
+DEU-BW RS5Ulm BY/BW UlmHbf
+DEU-BY RS5 BW/BY BY/BW
+DEU-BW RS5 AalHbf BW/BY
 #DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
 #DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
@@ -100,12 +111,12 @@
 
 #DEU-BY  Kempten                      DEU-BY  Augsburg Hbf          #2023, RE7
 #DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
-#DEU-BY  Weilheim (Oberbayern)        DEU-BY  München Hbf           #2023, RB6
+#DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
 
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
-ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
+#ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
 
@@ -134,44 +145,56 @@ ENG     StrLn BMO SOL                                              #2018, Birmin
 #DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
 #DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
 
-#DEU-BW  STR2 Freiburg Hbf              DEU-BW  FR-Günterstal                                     #2022
+DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
-#DEU-BW  S4    Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  STR1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  STR2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz                               #2022, via ZKM, Europaplatz
+DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
+DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
+DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-#DEU-BW  STR1  Mannheim Marktplatz      DEU-BW  Mannheim Schönau                                  #2022
-#DEU-BW  STR3  Mannheim Sandhofen       DEU-BW  Mannheim Schloss                                  #2022
-#DEU-BW  STR4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz                       #2022
-#DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
+DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
+DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
+DEU-BW 4Man RP/BW Universitat                                                                  #2022
+DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-#DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie                           #201x
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz (via Berliner Platz)      #201x
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Österreichischer Platz                  #201x
-#DEU-BW  Stuttgart Charlottenplatz   DEU-BW  Stuttgart Rotebühlplatz                           #201x
-#DEU-BW  Stuttgart Pragfriedhof      DEU-BW  Stuttgart Charlottenplatz                         #201x
-#DEU-BW  Stuttgart Löwentor          DEU-BW  Stuttgart Charlottenplatz (via Nordbahnhof)       #201x
-#DEU-BW  Stuttgart Wilhelmsplatz     DEU-BW  Stuttgart Löwentor                                #201x
-#DEU-BW  Stuttgart Stadtmitte        DEU-BW  Esslingen                                         #201x
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Ludwigsburg                                       #2022, S4
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Renningen                                         #2020
+DEU-BW U1 Vaihingen FellbachLutherkirche                                                       #201x/2023
+DEU-BW U2 Rotebuhlplatz Staatsgalerie                                                          #201x, any
+DEU-BW U3 Vaihingen Plieningen                                                                 #2023
+DEU-BW U5 Pragfriedhof Charlottenplatz                                                         #201x, any
+DEU-BW U6 Gerlingen FlughavenMesse                                                             #2023
+DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
+DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
+DEU-BW U8 Vaihingen Ruhbank                                                                    #2023
+DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U12 Lowentor Charlottenplatz                                                            #201x, U12? via Nordbahnhof
+DEU-BW U13 Lowentor BadCannstattWilhelmsplatz                                                  #201x, U13/U16?
+DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+DEU-BW U15 Stammheim Ruhbank                                                                   #2023
+DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
+DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
+DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
+DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
+DEU-BW S5 BietigheimBissingen Hauptbahnhof                                                     #2023, S5
+DEU-BW S6 Renningen Hauptbahnhof                                                               #2020, S6
 
-#DEU-BW  Ulm STR1 Söflingen               DEU-BW  Böfingen                                          #2020
-#DEU-BW  Ulm STR2 Kuhberg-Schulzentrum    DEU-BW  Science Park II                                   #2020
+DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
+DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
 
-#DEU-BY  U1    München OEZ              DEU-BY  München Mangfallplatz                             #2022
-#DEU-BY  U2    München Feldmoching      DEU-BY  München Messestadt Ost                            #2022
-#DEU-BY  U3    München Moosach          DEU-BY  München Fürstenried West                          #2022
-#DEU-BY  U4    München Westendstraße    DEU-BY  München Arabellapark                              #2022
-#DEU-BY  U5    München Laimer Platz     DEU-BY  München Neuperlach Süd                            #2022
-#DEU-BY  U6    München Klinik. G'hadern DEU-BY  München Garching Forschungszentrum                #2022
-#DEU-BY  S1    München Airport          DEU-BY  München Hbf                                       #2022 via Moosach
-#DEU-BY  S8    München Airport          DEU-BY  München Pasing                                    #2022 via Hbf, Leuchtenbergring
-#DEU-BY  STR18 München Hbf Süd          DEU-BY  München Schwanseestraße                           #2022
-#DEU-BY  STR19 München Hbf Süd          DEU-BY  München Berg am Laim                              #2022
-#DEU-BY  STR21 München Maxmonument      DEU-BY  München St.-Veit-Straße                           #2022
-#DEU-BY  STR19 München Pasing           DEU-BY  München Hbf                                       #2023
+#DEU-BY  U1    Munich OEZ              DEU-BY  Munich Mangfallplatz                            #2022
+#DEU-BY  U2    Munich Feldmoching      DEU-BY  Munich Messestadt Ost                           #2022
+#DEU-BY  U3    Munich Moosach          DEU-BY  Munich Fürstenried West                         #2022
+#DEU-BY  U4    Munich Westendstraße    DEU-BY  Munich Arabellapark                             #2022
+#DEU-BY  U5    Munich Laimer Platz     DEU-BY  Munich Neuperlach Süd                           #2022
+#DEU-BY  U6    Munich Klinik. G'hadern DEU-BY  Munich Garching Forschungszentrum               #2022
+#DEU-BY  S1    Munich Airport          DEU-BY  Munich Hbf                                      #2022 via Moosach
+#DEU-BY  S8    Munich Airport          DEU-BY  Munich Pasing                                   #2022 via Hbf, Leuchtenbergring
+#DEU-BY  STR12 Munich Leonrodplatz     DEU-BY  Munich Hohenzollernplatz                        #2023
+#DEU-BY  STR18 Munich Hbf Süd          DEU-BY  Munich Schwanseestraße                          #2022
+#DEU-BY  STR19 Munich Hbf Süd          DEU-BY  Munich Berg am Laim                             #2022
+#DEU-BY  STR21 Munich Leonrodplatz     DEU-BY  Munich Hbf Nord                                 #2023
+#DEU-BY  STR21 Munich Maxmonument      DEU-BY  Munich St.-Veit-Straße                          #2022
+#DEU-BY  STR19 Munich Pasing           DEU-BY  Munich Hbf                                      #2023
 
 #DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
 #DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
@@ -197,11 +220,21 @@ ENG     StrLn BMO SOL                                              #2018, Birmin
 #DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
 #DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
 
+DEU-HH U1Ohl SH/HH Ohlstedt
+DEU-SH U1Hol HH/SH SH/HH
+DEU-HH U1Buc Volksdorf HH/SH
 #DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                                          #2020, All routes as of 2020
+DEU-SH U1Nor NorderstedtMitte SH/HH
+DEU-HH U1 SH/HH HH/SH
+DEU-SH U1 HH/SH Grosshansdorf
 #DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf                                      #2020
+DEU-HH U2 NiendorfNord Mummelmannsberg
 #DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg                                   #2020
+DEU-HH U3 Barmbek_1 WandsbekGartenstadt
 #DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)                               #2020
+DEU-HH U4 Elbbrucken Billstedt
 #DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
+DEU-HH S1 HamburgAltona Ohlsdorf
 #DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -219,14 +252,20 @@ ENG     StrLn BMO SOL                                              #2018, Birmin
 #DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
 #DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-#DEU-MV  Rostock  STR1 Mecklenburger Allee  DEU-MV Hafenallee                                  #2022, via Lange Straße
-#DEU-MV  Rostock  STR3 Neuer Friedhof       DEU-MV Dierkower Allee                             #2022, via Lange Straße
-#DEU-MV  Rostock  STR5 Mecklenburger Allee  DEU-MV Südblick                                    #2022, via Lange Straße
-#DEU-MV  Rostock  STR6 Neuer Friedhof       DEU-MV Campus Südstadt                             #2022, via Lange Straße
+DEU-MV 1Ros MecklenburgerAllee Hafenallee
+DEU-MV 3Ros NeuerFriedhof DierkowerAllee
+DEU-MV 5Ros MecklenburgerAllee Sudblick
+DEU-MV 6Ros NeuerFriedhof CampusSudstadt
 
+DEU-MV 1Sch Kli HegStr
 #DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
+DEU-MV 2Sch LanSie HegStr
+DEU-MV 2SchSta T1/T4 PlaFre
+# ==> 2nd branch missing in wpt file ==> to be reworked!
 #DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
+DEU-MV 3Sch NeuPam HegStr
 #DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
+DEU-MV 4Sch Kli NeuPam
 #DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
 
 #DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
@@ -358,19 +397,19 @@ ENG     StrLn BMO SOL                                              #2018, Birmin
 #DNK Copenhagen M3 full cityring                                                                  #2020
 #DNK Copenhagen M4 Københavns Hovedbanegård Orientkaj                                             #2020, line to be extended
 
-ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
-ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
-ENG NorLnEdg EGW LSQ  #2019, London Northern Line:       Edgware - Leicester Square (western branch)
-ENG PicLnUxb UXB ACT  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
-ENG PicLnHT5 ACT CKS  #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
-ENG MetLnUxb UXB BAS  #2019, London Metropolitian Line:  Uxbridge - Baker Street
-ENG CirLn BAS VIC     #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
-ENG VicLn FPK BRX     #2019, London Victoria Line:       Finsbury Park - Brixton
-ENG DisLnRic ALE WEH  #2019, London District Line:       Aldgate East - West Ham
-ENG JubLn BAS WEH     #2019, London Jubilee Line:        West Ham - Baker Street
-ENG CenLnRui WRU OXC  #2019, London Central Line:        West Ruislip - Oxford Circle
-ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
-ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
+#ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
+#ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
+#ENG NorLnEdg EGW LSQ  #2019, London Northern Line:       Edgware - Leicester Square (western branch)
+#ENG PicLnUxb UXB ACT  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
+#ENG PicLnHT5 ACT CKS  #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
+#ENG MetLnUxb UXB BAS  #2019, London Metropolitian Line:  Uxbridge - Baker Street
+#ENG CirLn BAS VIC     #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
+#ENG VicLn FPK BRX     #2019, London Victoria Line:       Finsbury Park - Brixton
+#ENG DisLnRic ALE WEH  #2019, London District Line:       Aldgate East - West Ham
+#ENG JubLn BAS WEH     #2019, London Jubilee Line:        West Ham - Baker Street
+#ENG CenLnRui WRU OXC  #2019, London Central Line:        West Ruislip - Oxford Circle
+#ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
+#ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
 
 #FRA-BFC Dijon T1 Dijon-Gare         FRA-BFC Dijon T1 Quetigny                     #2023
 #FRA-BFC Dijon T2 Valmy              FRA-BFC Dijon T2 Chenove                      #2023
@@ -405,6 +444,8 @@ ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields  
 #ITA     Roma MB Laurentina          ITA     Roma MB Rebibbia                      #2019
 #ITA     Roma MB Laurentina          ITA     Roma MB Jonio                         #2019
 #ITA     Roma MC San Giovanni        ITA     Roma MC Montecompatri/Pantano         #2019
+
+#LUX     Luxembourg 1 Lycee Bouneweg   LUX   Luxembourg Luxexpo                    #2023
 
 #POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
 #POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
