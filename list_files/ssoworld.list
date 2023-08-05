@@ -1464,15 +1464,15 @@ AL AL157 US72ALT_E US72ALT_W
 
 # Alaska (AK)
 # ---------------------
-AK AK1 End AK2
-AK AK2 YT/AK AK3
-AK AK3 AK8 AK2
-AK AK4 AK1_W AK1_E
-AK AK5 AK2 AK/YT
-AK AK8 ButLakeRd AK3
-AK AK9 RaiAve AK1
-AK ParkRd AK3 EastForkBrg                       # -- Denali Park Road - Denali National Park and Preserve
-AK HicPkwy AK1 TudRd
+AK AK1 End AK2             # -- Sterling, Seward North, and Glenn Hwys, and Tok Cutoff
+AK AK2 YT/AK AK3           # -- Alaska Hwy and Richardson Hwy North
+AK AK3 AK8 AK2             # -- Parks Hwy
+AK AK4 AK1_W AK1_E         # -- Richardson Hwy South
+AK AK5 AK2 AK/YT           # -- Taylor Hwy, Top of the World Hwy USA portion
+AK AK8 ButLakeRd AK3       # -- Denali Hwy
+AK AK9 RaiAve AK1          # -- Seward Hwy South
+AK ParkRd AK3 EastForkBrg  # -- Denali Park Road - Denali National Park and Preserve
+AK HicPkwy AK1 TudRd       # -- Walter J. Hickel Parkway (Minnesota Dr) - Anchorage
 
 # Arizona (AZ)
 # ---------------------
@@ -2942,55 +2942,63 @@ WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - 
 # ---------------------
 
 # Trans Canada Highway
+# ---------------------
 ## Main Route
-BC TCHMai 3 BC TCHMai 27
-BC TCHMai 3 BC TCHMai 27
-AB TCHMai AB2 AB201_E
+BC TCHMai 3 27
+BC TCHMai BC97_N BC/AB
+AB TCHMai BC/AB AB201_E
 SK TCHMai RR2212 MB TCHMai MB207_W
 ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
-ON TCHLak 2ndSt_W ON TCHLak JohnSt_Thu
-MB TCHWin 42 1
-MB TCHPor MB240_N MB240_S
+MB TCHPor MB240_N MB240_S                 # Portage La Prairie MT business route
 
-## Yellowhead Route
+## Yellowhead Route (Hwy 16 and branches)
+BC TCHYel BC37_N BC97
 AB TCHYel 340 389
 
-## Voyaguers Route
+# Winnipeg Ring Road (MB101 portion)
+MB TCHWin 42 1
+
+## Voyaguers Route (NW Ontario)
 ON TCHVoy ON17 ON71_S
 
 # Alberta (CAN-AB)
-AB AB1 AB2 AB201_E
+# ---------------------
+AB AB1 BC/AB AB201_E
 AB AB2 258 AB216(78)
+AB AB2 18(216) 385(16)
 AB AB16 340 389
+AB AB32 AB43_E AB43_W
 AB AB43 BC/AB AB16
-AB AB216 AB2 23
+AB AB93 AB1_E SnoRd
+AB AB216 AB2 25
 AB AB201 74 78
-
+AB AB757 AB43_E AB43_W
 
 # British Columbia (CAN-BC)
+# ---------------------
 BC BC1 3 27
+BC BC1 BC97_N BC/AB
 BC BC2 BC97 BC/AB
+BC BC5 368 374
 BC BC7 BC99 RupSt
-BC BC37 BC37A BC/YT
-BC BC37A BC37 CAN/USA
-BC BC77 BC97 BC/NT
-BC BC97 BC2 BC BC97Low BC/YT
+BC BC16 BC37_N BC97
+BC BC23 BC1_W BC1_E
+BC BC37 BC16_E BC/YT                   # Cassiar Highway
+BC BC37A BC37 CAN/USA                  # Stewart Highway
+BC BC77 BC97 BC/NT                     # Liard Highway (Deh Cho Route)
+BC BC97 BC1(399) BC BC97 BC16
+BC BC97 BC2 BC BC97Low BC/YT           # Alaska Highway (North of BC2) - includes portions through the Yukon
 BC BC99 USA/CAN SeaDr
 
 # Manitoba (CAN-MB)
 # ---------------------
-## Provincial Trunk Highways
 MB MB1 SK/MB MB207_W
 MB MB1APor MB240_N MB240_S
 MB MB75 USA/CAN MB100
 MB MB100 42 1
 MB MB101 42 1
 MB MB240 MB1 MB1A_E
-
-## Provincial Roads
 MB MB240 MB1 MB1A_W
-
-### Winnepeg City Routes
 MB Rte42 MB75/100 Rte165
 MB Rte52 MB1_E Rte57_E
 MB Rte85 MB100/101 MB1_E
@@ -3001,7 +3009,8 @@ MB Rte150 MB1/135 Rte52
 MB Rte165 Rte90 Rte42
 
 # Northwest Territories (CAN-NT)
-NT NT7 BC/NT +X510173                  # Closest to end of pavement on hwy (as of 2023) - TEST
+# ---------------------
+NT NT7 BC/NT +X510173                  # Liard Highway (Deh Cho Route) -  Closest to end of pavement on hwy (as of 2023)
 
 # Ontario (CAN-ON)
 # ---------------------
@@ -3012,17 +3021,19 @@ ON ON61 USA/ON ON11/17
 ON ON71 USA/ON ON17
 
 # Saskatchewan (CAN-SK)
+# ---------------------
 SK SK1 RR2212 SK/MB
 SK SK6 SK39_E RingRd_N
 SK SK39 SK6_N SK/ND
 SK RingRd SK1/11 PasSt                 # Regina Ring Road
 
 # Yukon (CAN-YT)
-YT YT1Wat BC/YT YT YT1 YT/AK
-YT YT2 YT8 GeoBlaFry
-YT YT8 YT1 YT2
-YT YT9 GeoBlaFry YT/AK
-YT YT37 BC/YT YT1
+# ---------------------
+YT YT1Wat BC/YT YT YT1 YT/AK           # Alaska Highway - includes portion through BC
+YT YT2 YT8 GeoBlaFry                   # Klondike Highway
+YT YT8 YT1 YT2                         # Tagish Road
+YT YT9 GeoBlaFry YT/AK                 # Top of the World HighwayS
+YT YT37 BC/YT YT1                      # Cassiar Highway
 
 # Mexico
 # Baja California (MEX-BC)
