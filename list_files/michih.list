@@ -1,4 +1,4 @@
-# Date: 2023-08-02
+# Date: 2023-08-04
 # ----------------
 
 
@@ -7494,8 +7494,8 @@ TUR O2Ese 1 O3
 TUR O3 1 O1
 TUR O3Har 16 165    #Not signed though
 TUR O3Sil 10 102
-TUR O4 O1 17
-TUR O5 1 25
+TUR O4 O1 18
+TUR O5 O4 O30
 TUR O6 O6 D200
 TUR O7 O3 O4
 TUR O7Cek O2 O7
