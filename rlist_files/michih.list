@@ -1,4 +1,4 @@
-# Date: 2023-07-31
+# Date: 2023-08-05
 # ----------------
 
 
@@ -144,6 +144,13 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BB Potsdam STR93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
 #DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
 #DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
+
+DEU-BB 2Cot JesStr San             #2023
+DEU-BB 3Cot Str DIV_T1/T2          #2023
+DEU-BB 3Cot DIV_T1/T4 Mad          #2023
+DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
+DEU-BB 4Cot DIV_T3_S SacDorf       #2023
+
 
 DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
