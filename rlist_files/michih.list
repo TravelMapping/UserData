@@ -1,4 +1,4 @@
-# Date: 2023-08-06
+# Date: 2023-08-07
 # ----------------
 
 
@@ -264,6 +264,8 @@ DEU-MV 3Ros NeuerFriedhof DierkowerAllee
 DEU-MV 5Ros MecklenburgerAllee Sudblick
 DEU-MV 6Ros NeuerFriedhof CampusSudstadt
 DEU-MV S1 Warnemunde RostockHauptbahnhof
+DEU-MV S2 Warnemunde Gustrow
+DEU-MV S3 Warnemunde Gustrow
 
 DEU-MV 1Sch Kli HegStr
 #DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
