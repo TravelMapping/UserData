@@ -2042,6 +2042,13 @@ GRC EO2 EO111 A2(23)
 GRC EO56A KarDim EO91
 
 
+##Hungary##
+HUN M0 0 31
+HUN M1 6 12
+HUN M3 10 11 #and the extension beyond 10
+HUN M85 22 27
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
@@ -2199,6 +2206,11 @@ PRT IC23 A3_E A20
 PRT 2aCir A1 IC17/19 #this is the southern extension of A1 and eastern extension of IC19
 PRT AveSanCas 2aCir IP7
 PRT N117 2 4 #in western Lisboa
+
+
+##Romania##
+ROU A3Buc SosPet StrGhe
+ROU A3Buc StrGhe DJ101
 
 
 ##Serbia##
