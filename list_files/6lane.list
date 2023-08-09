@@ -2258,6 +2258,11 @@ SRB A3 8(B) 9A(B)
 SRB A3 14(B) 15(B) #doesn't quite make it to 15
 
 
+##Slovakia##
+SVK D1 14 50
+SVK R7 1 6
+
+
 ##Spain##
 ESP-MD A1 10 28
 ESP-CL A1 233 235
