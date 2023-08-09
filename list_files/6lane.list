@@ -2153,6 +2153,21 @@ ITA CorRegMar CorLec A55 #northwestern radial in Turin
 ITA VleSanPer VlePalTog 4 #western radial in Bologna
 
 
+##Latvia##
+LVA A8 A6 BauIela
+LVA A10 LielIela BabIela
+
+LVA P4 A6 KruIela
+
+
+##Lithuania##
+LTU A1 A5 K232
+LTU A1 LiuTit A2/A14
+LTU A2 A1/A4 A14_E
+
+LTU E272 JusZuj E85
+
+
 ##Netherlands##
 NLD A1 A10 7
 NLD A1 A27 12
