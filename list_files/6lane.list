@@ -1,5 +1,4 @@
-# This list is intended for mapping out freeway segments that have 6 or more
-# through lanes.
+# This list is intended for mapping out freeway segments that have 6 or more through lanes.
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
 AK HicPkwy RasRd TudRd
@@ -1595,6 +1594,28 @@ SK SK11Cir SK219 ValRd
 ##Albania##
 ALB A3 UnaRe SH3_Lun
 #part of the Eastern Ring around Tirane?
+
+
+##Austria##
+AUT A1 32 196
+AUT A1 288 298
+AUT A2 2 57
+AUT A2 161 179
+AUT A2 179 186
+AUT A2 186 200
+AUT A4 8 32
+AUT A5 0 3
+AUT A7 4 6 #under construction from 13 to 15
+AUT A9 165 173
+AUT A9 185 189
+AUT A12 73 74
+AUT A13 3 10 #north end is just south of 3
+AUT A13 19 27
+AUT A14 9 12
+AUT A22 0 25
+AUT A23 0 1
+AUT A23 2 13a
+AUT A23 13 15
 
 
 ##Belgium##
