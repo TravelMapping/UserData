@@ -1658,12 +1658,21 @@ HRV A6 6 7 #west end is just a bit east of 7
 
 ##Czechia##
 CZE D0 23 28
+CZE D1 6 10
+CZE D1 10 21
+CZE D1Ost 296 311
 
+CZE I52Brn Vid III15275 #south of III15275 at the northbound onramp from III15281
+
+CZE 5KvePra Kon MO
+CZE BrnSka 1 6
+CZE ChuRad I101 D0
 CZE MO MilHor Sva
 CZE MO Sva Pat
 CZE MO Plz Rad
 CZE MO Str II600
 CZE MO Mod Rab #very brief eastbound 2 lanes at II243
+CZE ProRad II243 II601
 
 
 ##Denmark##
