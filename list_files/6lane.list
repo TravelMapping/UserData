@@ -1,5 +1,4 @@
-# This list is intended for mapping out freeway segments that have 6 or more
-# through lanes.
+# This list is intended for mapping out freeway segments that have 6 or more through lanes.
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
 AK HicPkwy RasRd TudRd
@@ -1597,6 +1596,28 @@ ALB A3 UnaRe SH3_Lun
 #part of the Eastern Ring around Tirane?
 
 
+##Austria##
+AUT A1 32 196
+AUT A1 288 298
+AUT A2 2 57
+AUT A2 161 179
+AUT A2 179 186
+AUT A2 186 200
+AUT A4 8 32
+AUT A5 0 3
+AUT A7 4 6 #under construction from 13 to 15
+AUT A9 165 173
+AUT A9 185 189
+AUT A12 73 74
+AUT A13 3 10 #north end is just south of 3
+AUT A13 19 27
+AUT A14 9 12
+AUT A22 0 25
+AUT A23 0 1
+AUT A23 2 13a
+AUT A23 13 15
+
+
 ##Belgium##
 BEL E17 E34/R1 E403/A17
 BEL E19 5(A1) E420/A54
@@ -2042,6 +2063,13 @@ GRC EO2 EO111 A2(23)
 GRC EO56A KarDim EO91
 
 
+##Hungary##
+HUN M0 0 31
+HUN M1 6 12
+HUN M3 10 11 #and the extension beyond 10
+HUN M85 22 27
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
@@ -2199,6 +2227,11 @@ PRT IC23 A3_E A20
 PRT 2aCir A1 IC17/19 #this is the southern extension of A1 and eastern extension of IC19
 PRT AveSanCas 2aCir IP7
 PRT N117 2 4 #in western Lisboa
+
+
+##Romania##
+ROU A3Buc SosPet StrGhe
+ROU A3Buc StrGhe DJ101
 
 
 ##Serbia##
