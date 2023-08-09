@@ -2193,6 +2193,25 @@ POL A4 41 43
 POL A4 R7 52
 POL A8 2 6
 
+POL S2 R9 R17 #may not be 6 lanes all the way between R12 and R14
+POL S3 44 45
+POL S6 56 57 #some of this west of 53 may be 6 lanes
+POL S7 65 67 #according to https://www.gov.pl/web/gddkia-warszawa/kolejny-odcinek-s7-na-poludnie-od-stolicy-oddany-do-ruchu
+POL S7EKr R9 R11
+POL S8 55 57
+POL S8 57 R10b
+POL S8 R9 R5d
+POL S8 R5d R4c
+POL S8 R4c 62
+POL S12 10 12
+#is any of POL S14 north of 7 six lanes?
+POL S17 R18 3 #may only be 4 lanes from R18 to 1
+POL S79 1 3
+POL S86 DK94 DK79
+
+POL DK7War S7/S8 DK79
+POL DK7War DW719 UliPop
+POL DK7War DW580 S8
 POL DK79 DW902 UliFWG
 POL DK86Kat DK79 A4 #construction south of A4?
 
