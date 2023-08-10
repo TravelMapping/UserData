@@ -1,4 +1,4 @@
-# Date: 2023-08-09
+# Date: 2023-08-10
 # ----------------
 
 
@@ -242,11 +242,15 @@ DEU-HH U3 Barmbek_1 WandsbekGartenstadt
 DEU-HH U4 Elbbrucken Billstedt
 #DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
 DEU-SH S1 Wedel SH/HH                                                                          #2023
-DEU-HH S1 SH/HH Ohlsdorf                                                                       #2020/23
+DEU-HH S1 SH/HH Poppenbuttel                                                                   #2020/23
 #DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
+DEU-SH S3 Pinneberg SH/HH                                                                      #2023
+DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
+DEU-NI S3Hor HH/NI Stade                                                                       #2023
 DEU-HH S11 Blankenese Ohlsdorf                                                                 #2020/23
 DEU-HH S21 Holstenstrasse HH/SH                                                                #2023
 DEU-SH S21 HH/SH Aumuhle                                                                       #2023
+#DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
