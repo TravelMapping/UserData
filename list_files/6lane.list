@@ -1705,6 +1705,26 @@ EST T1 T11 T94
 EST LaaTee Gon MusTee
 
 
+##Finland##
+FIN Vt1 41 42
+FIN Vt1 42 45
+FIN Vt4 1 4
+FIN Vt4 Vt12_W Vt12_E
+
+FIN Kt45 7 9
+FIN Kt50 41 44 #from 44 to 47 the right lanes are bus-taxi only at peak times
+FIN Kt50 50a 53
+FIN Kt51 SarTie St101
+FIN Kt51 St101 St102
+
+FIN St100 Vt3 VetTie
+FIN St101 KalTie Vt1
+FIN St101 Vt1 Kt45
+FIN St170 Vt4 TupTie
+FIN St170 TupTie LinTie
+FIN St170 VikTie St101
+
+
 ##France##
 FRA-IDF A1 1 FRA-HDF A1 A21
 FRA-HDF A1 A21 A22
