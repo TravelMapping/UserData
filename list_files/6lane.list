@@ -2225,6 +2225,19 @@ NLD A58 A65 11
 ##North Macedonia the only 6 lane freeway is Blvd Alexander the Great west from the A2/A4 interchange
 
 
+##Norway##
+NOR E6 21 22
+NOR E6Osl E18 E6Rye
+NOR E6 39 42
+NOR E6 43 44
+NOR E6 35a(T) 36(T)
+NOR E18 3 6 #farther west the eastbound right lane is bus-taxi only during peak times
+NOR E39Ber Fv584_S Rv555
+
+NOR Rv150 50 51
+NOR Rv555 E39 Rv555Ber
+
+
 ##Poland##
 POL A1 39 46 #construction from 25 to 31?
 POL A2 25 26
