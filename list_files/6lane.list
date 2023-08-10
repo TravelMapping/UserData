@@ -2115,6 +2115,12 @@ HUN M3 10 11 #and the extension beyond 10
 HUN M85 22 27
 
 
+##Iceland##
+ISL TH40 TH413 BusVeg
+ISL TH41 TH413 TH49 #intersection just south of TH49
+ISL TH49 GreVeg HofBak
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
