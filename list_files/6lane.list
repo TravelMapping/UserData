@@ -1,5 +1,4 @@
-# This list is intended for mapping out freeway segments that have 6 or more
-# through lanes.
+# This list is intended for mapping out freeway segments that have 6 or more through lanes.
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
 AK HicPkwy RasRd TudRd
@@ -709,6 +708,7 @@ NC US1 98 I-40
 NC US15 108B 174A(85)
 NC US17 NC24/53_W NC24/53_E
 NC US29 135 136
+NC US70 SprGarSt MarSt #future US 70 on Wendover Avenue
 NC US74 242 244
 NC US74 253 255
 NC US421 238 240
@@ -1596,6 +1596,28 @@ ALB A3 UnaRe SH3_Lun
 #part of the Eastern Ring around Tirane?
 
 
+##Austria##
+AUT A1 32 196
+AUT A1 288 298
+AUT A2 2 57
+AUT A2 161 179
+AUT A2 179 186
+AUT A2 186 200
+AUT A4 8 32
+AUT A5 0 3
+AUT A7 4 6 #under construction from 13 to 15
+AUT A9 165 173
+AUT A9 185 189
+AUT A12 73 74
+AUT A13 3 10 #north end is just south of 3
+AUT A13 19 27
+AUT A14 9 12
+AUT A22 0 25
+AUT A23 0 1
+AUT A23 2 13a
+AUT A23 13 15
+
+
 ##Belgium##
 BEL E17 E34/R1 E403/A17
 BEL E19 5(A1) E420/A54
@@ -1634,6 +1656,29 @@ HRV A5 7 HRV/BIH #north end is at customs south of 7
 HRV A6 6 7 #west end is just a bit east of 7
 
 
+##Cyprus##
+CYP A1 4 8
+
+
+##Czechia##
+CZE D0 23 28
+CZE D1 6 10
+CZE D1 10 21
+CZE D1Ost 296 311
+
+CZE I52Brn Vid III15275 #south of III15275 at the northbound onramp from III15281
+
+CZE 5KvePra Kon MO
+CZE BrnSka 1 6
+CZE ChuRad I101 D0
+CZE MO MilHor Sva
+CZE MO Sva Pat
+CZE MO Plz Rad
+CZE MO Str II600
+CZE MO Mod Rab #very brief eastbound 2 lanes at II243
+CZE ProRad II243 II601
+
+
 ##Denmark##
 DNK E20 18 20
 DNK E20 20 E47/E55_N
@@ -1656,6 +1701,32 @@ DNK PR21 O4_S 5
 DNK PR21 5 14
 
 DNK AmaMot MR 20
+
+
+##Estonia##
+EST T1 T11 T94
+
+EST LaaTee Gon MusTee
+
+
+##Finland##
+FIN Vt1 41 42
+FIN Vt1 42 45
+FIN Vt4 1 4
+FIN Vt4 Vt12_W Vt12_E
+
+FIN Kt45 7 9
+FIN Kt50 41 44 #from 44 to 47 the right lanes are bus-taxi only at peak times
+FIN Kt50 50a 53
+FIN Kt51 SarTie St101
+FIN Kt51 St101 St102
+
+FIN St100 Vt3 VetTie
+FIN St101 KalTie Vt1
+FIN St101 Vt1 Kt45
+FIN St170 Vt4 TupTie
+FIN St170 TupTie LinTie
+FIN St170 VikTie St101
 
 
 ##France##
@@ -2041,6 +2112,19 @@ GRC EO2 EO111 A2(23)
 GRC EO56A KarDim EO91
 
 
+##Hungary##
+HUN M0 0 31
+HUN M1 6 12
+HUN M3 10 11 #and the extension beyond 10
+HUN M85 22 27
+
+
+##Iceland##
+ISL TH40 TH413 BusVeg
+ISL TH41 TH413 TH49 #intersection just south of TH49
+ISL TH49 GreVeg HofBak
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
@@ -2105,6 +2189,21 @@ ITA CorRegMar CorLec A55 #northwestern radial in Turin
 ITA VleSanPer VlePalTog 4 #western radial in Bologna
 
 
+##Latvia##
+LVA A8 A6 BauIela
+LVA A10 LielIela BabIela
+
+LVA P4 A6 KruIela
+
+
+##Lithuania##
+LTU A1 A5 K232
+LTU A1 LiuTit A2/A14
+LTU A2 A1/A4 A14_E
+
+LTU E272 JusZuj E85
+
+
 ##Netherlands##
 NLD A1 A10 7
 NLD A1 A27 12
@@ -2134,6 +2233,55 @@ NLD A58 A65 11
 
 
 ##North Macedonia the only 6 lane freeway is Blvd Alexander the Great west from the A2/A4 interchange
+
+
+##Norway##
+NOR E6 21 22
+NOR E6Osl E18 E6Rye
+NOR E6 39 42
+NOR E6 43 44
+NOR E6 35a(T) 36(T)
+NOR E18 3 6 #farther west the eastbound right lane is bus-taxi only during peak times
+NOR E39Ber Fv584_S Rv555
+
+NOR Rv150 50 51
+NOR Rv555 E39 Rv555Ber
+
+
+##Poland##
+POL A1 39 46 #construction from 25 to 31?
+POL A2 25 26
+POL A2 31 32
+POL A4 37a 41
+POL A4 41 43
+POL A4 R7 52
+POL A8 2 6
+
+POL S2 R9 R17 #may not be 6 lanes all the way between R12 and R14
+POL S3 44 45
+POL S6 56 57 #some of this west of 53 may be 6 lanes
+POL S7 65 67 #according to https://www.gov.pl/web/gddkia-warszawa/kolejny-odcinek-s7-na-poludnie-od-stolicy-oddany-do-ruchu
+POL S7EKr R9 R11
+POL S8 55 57
+POL S8 57 R10b
+POL S8 R9 R5d
+POL S8 R5d R4c
+POL S8 R4c 62
+POL S12 10 12
+#is any of POL S14 north of 7 six lanes?
+POL S17 R18 3 #may only be 4 lanes from R18 to 1
+POL S79 1 3
+POL S86 DK94 DK79
+
+POL DK7War S7/S8 DK79
+POL DK7War DW719 UliPop
+POL DK7War DW580 S8
+POL DK79 DW902 UliFWG
+POL DK86Kat DK79 A4 #construction south of A4?
+
+POL DW433 DW196_N UliTor
+POL DW902 A1 UliJanaMat
+POL DW902 UliJanaMat UliBra
 
 
 ##Portugal##
@@ -2200,9 +2348,19 @@ PRT AveSanCas 2aCir IP7
 PRT N117 2 4 #in western Lisboa
 
 
+##Romania##
+ROU A3Buc SosPet StrGhe
+ROU A3Buc StrGhe DJ101
+
+
 ##Serbia##
 SRB A3 8(B) 9A(B)
 SRB A3 14(B) 15(B) #doesn't quite make it to 15
+
+
+##Slovakia##
+SVK D1 14 50
+SVK R7 1 6
 
 
 ##Spain##
@@ -2434,6 +2592,33 @@ ESP-CN LZ3 1 2
 
 ESP-CN TF1 3 20
 ESP-CN TF5 AveReyCat 11
+
+
+##Sweden##
+SWE E4 122 123
+SWE E4 144 146b
+SWE E4 146b 155
+SWE E4 155 164
+SWE E4 164 176
+SWE E6 63 66
+SWE E6 66 70
+SWE E6 70A 74
+SWE E6 75 76
+SWE E6 76 78
+SWE E18 176 180
+SWE E20 75 80
+SWE E20 164 RosVag
+SWE E45 AllGat GotBron
+
+SWE R73 L271 L260
+
+SWE L222 R75 VikVag
+
+SWE MarTun E6 E45
+SWE NordSyd VasGat L222
+SWE HisLed OscLed LunLed
+SWE OscLed VasLed HisLed
+SWE VasLedGot GniMot OscLed
 
 
 ##Switzerland##
