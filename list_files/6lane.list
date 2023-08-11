@@ -1656,6 +1656,10 @@ HRV A5 7 HRV/BIH #north end is at customs south of 7
 HRV A6 6 7 #west end is just a bit east of 7
 
 
+##Cyprus##
+CYP A1 4 8
+
+
 ##Czechia##
 CZE D0 23 28
 CZE D1 6 10
@@ -2115,6 +2119,12 @@ HUN M3 10 11 #and the extension beyond 10
 HUN M85 22 27
 
 
+##Iceland##
+ISL TH40 TH413 BusVeg
+ISL TH41 TH413 TH49 #intersection just south of TH49
+ISL TH49 GreVeg HofBak
+
+
 ##Ireland##
 IRL M1 1 4
 IRL M7 9 11
@@ -2223,6 +2233,19 @@ NLD A58 A65 11
 
 
 ##North Macedonia the only 6 lane freeway is Blvd Alexander the Great west from the A2/A4 interchange
+
+
+##Norway##
+NOR E6 21 22
+NOR E6Osl E18 E6Rye
+NOR E6 39 42
+NOR E6 43 44
+NOR E6 35a(T) 36(T)
+NOR E18 3 6 #farther west the eastbound right lane is bus-taxi only during peak times
+NOR E39Ber Fv584_S Rv555
+
+NOR Rv150 50 51
+NOR Rv555 E39 Rv555Ber
 
 
 ##Poland##
