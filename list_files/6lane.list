@@ -2649,3 +2649,17 @@ CHE BreLau 17 2
 CHE ZubHar 1 2
 #CHE ZubLet under construction 3 to 5?
 CHE ZubWie 2 32
+
+
+#ASIA#
+##Japan##
+JPN E1 1 7-1
+JPN E1 30 30-2
+JPN E1 33-1 35
+JPN E1A E1_Got 15(STE) #east end of 6 lanes is just a bit west of E1_Got
+JPN E1A 1(Ise) E23
+JPN E1A 3(SME) 3a #doesn't seem to be a full 6 lanes west thru the tunnel
+
+JPN N16Hod E16/E83 N16_S
+JPN N23 E1A/N23Toy P59_E #freeway ends just east of P59_E
+JPN N423 Nak P16 #north end is just north of P16 at the train station interchange
