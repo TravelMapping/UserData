@@ -2659,7 +2659,11 @@ JPN E1 33-1 35
 JPN E1A E1_Got 15(STE) #east end of 6 lanes is just a bit west of E1_Got
 JPN E1A 1(Ise) E23
 JPN E1A 3(SME) 3a #doesn't seem to be a full 6 lanes west thru the tunnel
+JPN E2 16 17
+JPN E2 29-1 30
+JPN E2 30 31
 
+JPN N2Kak N250 HimMin
 JPN N16Hod E16/E83 N16_S
 JPN N23 E1A/N23Toy P59_E #freeway ends just east of P59_E
 JPN N423 Nak P16 #north end is just north of P16 at the train station interchange
