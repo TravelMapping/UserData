@@ -2662,8 +2662,11 @@ JPN E1A 3(SME) 3a #doesn't seem to be a full 6 lanes west thru the tunnel
 JPN E2 16 17
 JPN E2 29-1 30
 JPN E2 30 31
+JPN E2A 3 6 #under construction from 2a to 3?
+JPN E2A 37 38
 
 JPN N2Kak N250 HimMin
 JPN N16Hod E16/E83 N16_S
 JPN N23 E1A/N23Toy P59_E #freeway ends just east of P59_E
 JPN N423 Nak P16 #north end is just north of P16 at the train station interchange
+#P2 straddling E2A north of Kyoto from E2A exit 1 west to N423
