@@ -66,7 +66,7 @@ NY AirTrnATL T8_E T8_W
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 
-NY RIT Manhattan RooseveltIsland
+NY RIT Man RooIsl
 
 NY SIR StGeo Tot
 
@@ -77,7 +77,22 @@ VA YelLn Hun DC YelLn GalPla
 
 PA BlueLn Gat SouHilJct
 
-PA BluLn 40thSt 2ndSt
-PA OraLn LomSou CityHall
+PA MarFraLn 40th 2nd
+PA BroStLn LomSou CityHall
+
+GA RedLn Air NorSpr
+GA SkyTrn Air RenCarCen
+
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+FL InnLp GovCen_S GovCen_N
+FL MiaM MIA IntCen
+
+QC GreLn Ang HonBea
+QC OraLn CoteVer Mon
+QC YelLn BerUQAM LonUniDeShe
+QC BluLn Sno SaiMic
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
