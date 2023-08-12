@@ -2664,6 +2664,8 @@ JPN E2 29-1 30
 JPN E2 30 31
 JPN E2A 3 6 #under construction from 2a to 3?
 JPN E2A 37 38
+JPN E3 2 2-1
+JPN E3 8 10
 
 JPN N2Kak N250 HimMin
 JPN N16Hod E16/E83 N16_S
