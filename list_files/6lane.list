@@ -2667,9 +2667,15 @@ JPN E2A 37 38
 JPN E3 2 2-1
 JPN E3 8 10
 JPN E4 1 10
+JPN E6 1 9
+JPN E14 1 4
 
 JPN N2Kak N250 HimMin
 JPN N4 N45 P8
+JPN N7 N8/N49 P4
+JPN N7 P4 P3_S
+JPN N8 N7/N49 P16
+JPN N8 P16 N116
 JPN N16Hod E16/E83 N16_S
 JPN N23 E1A/N23Toy P59_E #freeway ends just east of P59_E
 JPN N423 Nak P16 #north end is just north of P16 at the train station interchange
