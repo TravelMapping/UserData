@@ -1,4 +1,4 @@
-# Date: 2023-08-10
+# Date: 2023-08-13
 # ----------------
 
 
@@ -149,7 +149,7 @@ DEU-BB 2Cot JesStr San             #2023
 DEU-BB 3Cot Str DIV_T1/T2          #2023
 DEU-BB 3Cot DIV_T1/T4 Mad          #2023
 DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
-DEU-BB 4Cot DIV_T3_S SacDorf       #2023
+DEU-BB 4Cot DIV_T3S SacDorf        #2023
 
 
 DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
@@ -277,16 +277,11 @@ DEU-MV S1 Warnemunde RostockHauptbahnhof
 DEU-MV S2 Warnemunde Gustrow
 DEU-MV S3 Warnemunde Gustrow
 
-DEU-MV 1Sch Kli HegStr
-#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
-DEU-MV 2Sch LanSie HegStr
-DEU-MV 2SchSta T1/T4 PlaFre
-# ==> 2nd branch missing in wpt file ==> to be reworked!
-#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
-DEU-MV 3Sch NeuPam HegStr
-#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
-DEU-MV 4Sch Kli NeuPam
-#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
+DEU-MV 1Sch Kli HegStr                            #2020
+DEU-MV 2Sch LanSie HegStr                         #2020
+DEU-MV 2SchLan HegStr LanSie                      #2020
+DEU-MV 3Sch NeuPam HegStr                         #2020
+DEU-MV 4Sch Kli NeuPam                            #2020
 
 #DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
 #DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
