@@ -2684,6 +2684,9 @@ JPN E83 N1_Tok 12
 JPN E89 2 E26
 JPN C2 3 4
 
+JPN FE1 FE4 105 #lower (southbound) level goes to 2 lanes just before the merge at 105
+JPN FE1 106 FEC
+
 JPN HE1 1-01 1-05 #this is one-way, 3-4 lanes wide
 JPN HE1 1-05 HE15_E #this is one-way, 3-4 lanes wide
 JPN HE3 HE2 3-08
@@ -2694,6 +2697,10 @@ JPN HE13 HE1/16 HE1_E
 JPN HE14 14-07 14-09
 JPN HE15 HE1_E HE1_W #this is one-way, 3 lanes wide
 JPN HE16 HE1/13 16-02
+
+JPN NEC1 NE1_E NE3 #this is one-way, 3-4 lanes wide
+JPN NEC1 NE3 NE6 #this is one-way, 3-4 lanes wide
+JPN NEC1 NE6 NE1_W #this is one-way, 3-4 lanes wide
 
 JPN SE1 SEC1 SE11
 JPN SE6 SE1/C1 SE9
