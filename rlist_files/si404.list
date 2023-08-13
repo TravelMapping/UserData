@@ -7,6 +7,14 @@ ENG CamLn BirInt TelCen
 #####CC#####
 ENG LTSLn LonFenSt Upm
 
+#####CH#####
+ENG AylLn Mar Ayl
+ENG ChiMLOxf Bea HighWyc
+ENG ChiML HighWyc BirMoorSt
+
+#####EM#####
+ENG LutAirExp LonStPanInt Wel
+
 #####GN#####
 ENG NorCityLn Moo FinPark
 
@@ -25,6 +33,11 @@ ENG HEx HeaTer23 HeaTer5
 
 #####IL#####
 ENG IslLn RydePierHead RydeEsp
+
+#####LE#####
+ENG SouLn LonLivSt She
+ENG WAML LonLivSt Bri
+ENG WAMLStr Str TotHale
 
 #####LN######
 ENG BirLivLn BirNewSt LivLimeSt
@@ -137,12 +150,6 @@ ENG HPRTAB ParA ParB #Terminal 5 PodParking
 ENG LCC RoyDoc GrePen #London Cable Car
 
 ####NOT IN BROWSER YET#####
-#CH Marylebone - Aylesbury
-#CH Beaconsfield - High Wycombe
-#CH High Wycombe - Birmingham Moor Street
-#LE Liv St - Shenfield
-#LE Liverpool Street - Brimsdown
-#LE Stratford - Tottenham Hale
 #SN London Bridge - East Croydon (fast)
 #SN Victoria - Gatwick - Barnham
 #SN Southampton - Barnham
@@ -160,7 +167,6 @@ ENG LCC RoyDoc GrePen #London Cable Car
 #SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
 #SW Queenstown Road Battersea - Hounslow
 #SW Richmond - Wimbledon
-#EM St Pancras - Wellingborough
 #XC Wolverhampton - Coventry - Bournemouth
 #XC Birmingham - (Solihull) - Reading
 #Grand Canal Dock - Howth (DART)
