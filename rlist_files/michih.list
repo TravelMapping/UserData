@@ -279,7 +279,7 @@ DEU-MV S3 Warnemunde Gustrow
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
-DEU-MV 2SchLan HegStr LanSie                      #2020
+DEU-MV 2Lan HegStr LanSie                         #2020
 DEU-MV 3Sch NeuPam HegStr                         #2020
 DEU-MV 4Sch Kli NeuPam                            #2020
 
