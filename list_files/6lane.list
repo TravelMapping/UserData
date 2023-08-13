@@ -1,4 +1,27 @@
-# This list is intended for mapping out freeway segments that have 6 or more through lanes.
+#This list is intended for mapping out freeway segments that have 6 or more through lanes.
+
+#NORTH AMERICA#
+##Mexico##
+MEX-DF MEX15D MEX15_S MEX-EMEX MEX15DMex MEX15_Mar #some 2 lane southbound near MEX15/Con due to construction? or is it permanent?
+MEX-EMEX MEX15 MEX15D_Tol BlvdMazoVel #and farther south but it's not quite a freeway
+MEX-EMEX MEX15 BlvdMazoVel AveMigHid
+MEX-JAL MEX15D AveTon AvePat
+MEX-JAL MEX15D AvePat AveRev
+MEX-JAL MEX15 AveVal AveAvi
+
+MEX-BC CarrEsc MEX1D LibSur
+MEX-BC LibSur CamVer LibSur_U1
+MEX-BC ViaRap AveInt BlvdIns_E
+MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
+MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
+MEX-JAL CorrValCar AveRev CalzGonGal
+MEX-JAL CorrValCar CalzGonGal AveGua
+MEX-JAL CorrValCar AveVal_E AveRafSan
+MEX-JAL PerNte AveVal AveParAri
+MEX-JAL PerOte MEX23 CamMat
+
+
+##United States##
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
 AK HicPkwy RasRd TudRd
