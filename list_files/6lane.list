@@ -20,8 +20,10 @@ MEX-QRO MEX57 QRO30_N MEX57D/111
 MEX-SLP MEX57 MEX57D_SLPS MEX70/80
 MEX-SLP MEX57 MEX70/80 BlvdRioSan
 MEX-SLP MEX57 BlvdRioSan SolGraSan_N #north of here is not freeway
-
 MEX-SLP MEX80Esc AveSieLeo MEX57/70 #tiny but of westbound 2 lanes at railroad underpass near AveSalk
+MEX-DF MEX85 AveAcuGua MEX-EMEX MEX85 MEX85D_EcaS
+MEX-EMEX MEX85D MEX85_EcaS SanLuc
+MEX-MOR MEX95D MEX95_CueS MEX95/162
 
 MEX-BC CarrEsc MEX1D LibSur
 MEX-BC LibSur CamVer LibSur_U1
