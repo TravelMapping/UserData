@@ -1,4 +1,4 @@
-# Date: 2023-08-13
+# Date: 2023-08-14
 # ----------------
 
 
@@ -227,29 +227,24 @@ DEU-BW 2Ulm SciParkII KuhSch                                                    
 #DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
 #DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
 
-DEU-HH U1Ohl SH/HH Ohlstedt
-DEU-SH U1Hol HH/SH SH/HH
-DEU-HH U1Buc Volksdorf HH/SH
-#DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                                          #2020, All routes as of 2020
-DEU-SH U1Nor NorderstedtMitte SH/HH
-DEU-HH U1 SH/HH HH/SH
-DEU-SH U1 HH/SH Grosshansdorf
-#DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf                                      #2020
-DEU-HH U2 NiendorfNord Mummelmannsberg
-#DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg                                   #2020
-DEU-HH U3 Barmbek_1 WandsbekGartenstadt
-#DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)                               #2020
-DEU-HH U4 Elbbrucken Billstedt
-#DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
+DEU-HH U1Ohl SH/HH OhlSte                                                                      #2020, All U routes as of 2020
+DEU-SH U1Hol HH/SH SH/HH                                                                       #2020
+DEU-HH U1Buc VolDorf HH/SH                                                                     #2020
+DEU-SH U1Nor NorSteMit SH/HH                                                                   #2020
+DEU-HH U1 SH/HH HH/SH                                                                          #2020
+DEU-SH U1 HH/SH GroHansDorf                                                                    #2020
+DEU-HH U2 NienDorfNord MumManBerg                                                              #2020
+DEU-HH U3 BarmBek_1 WanBekGarSta                                                               #2020
+DEU-HH U4 Elbbru BillSte                                                                       #2020
 DEU-SH S1 Wedel SH/HH                                                                          #2023
-DEU-HH S1 SH/HH Poppenbuttel                                                                   #2020/23
-#DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
-DEU-SH S3 Pinneberg SH/HH                                                                      #2023
+DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
+DEU-HH S1Flu OhlsDorf HambuAirpo                                                               #2023
+DEU-SH S3 PinneBerg SH/HH                                                                      #2023
 DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
 DEU-NI S3Hor HH/NI Stade                                                                       #2023
-DEU-HH S11 Blankenese Ohlsdorf                                                                 #2020/23
-DEU-HH S21 Holstenstrasse HH/SH                                                                #2023
-DEU-SH S21 HH/SH Aumuhle                                                                       #2023
+DEU-HH S11 Blank OhlsDorf                                                                      #2020/23
+DEU-HH S21 HolStr HH/SH                                                                        #2023
+DEU-SH S21 HH/SH AuMuhle                                                                       #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 
