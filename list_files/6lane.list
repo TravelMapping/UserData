@@ -25,6 +25,8 @@ MEX-DF MEX85 AveAcuGua MEX-EMEX MEX85 MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_EcaS SanLuc
 MEX-MOR MEX95D MEX95_CueS MEX95/162
 MEX-TLAX MEX117 HosInf MEX119/136 #not quite a freeway south of HosInf
+MEX-EMEX MEX150D Eje8Sur MEX-PUE MEX150D SanFraOco #brief 2 lanes eastbound at MEX117
+MEX-PUE MEX150D PerEco_W MEX150_Pue #double decked
 
 MEX-BC CarrEsc MEX1D LibSur
 MEX-BC LibSur CamVer LibSur_U1
