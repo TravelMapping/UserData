@@ -1,4 +1,41 @@
-# This list is intended for mapping out freeway segments that have 6 or more through lanes.
+#This list is intended for mapping out freeway segments that have 6 or more through lanes.
+
+#NORTH AMERICA#
+##Mexico##
+MEX-DF MEX15D MEX15_S MEX-EMEX MEX15DMex MEX15_Mar #some 2 lane southbound near MEX15/Con due to construction? or is it permanent?
+MEX-EMEX MEX15 MEX15D_Tol BlvdMazoVel #and farther south but it's not quite a freeway
+MEX-EMEX MEX15 BlvdMazoVel AveMigHid
+MEX-JAL MEX15D AveTon AvePat
+MEX-JAL MEX15D AvePat AveRev
+MEX-JAL MEX15 AveVal AveAvi
+MEX-NL MEX40D M39 M41
+MEX-COL MEX54 Tra_E MEX54D
+MEX-COL MEX54D MEX54_W COL275 #eastbound goes to 2 lanes just before COL275
+MEX-EMEX MEX55 AveAlfMazo SanMarTol
+MEX-EMEX MEX57D BlvdAviCam_S MEX-QRO MEX57D MEX57DQro
+MEX-QRO MEX57DQro MEX57D QRO30
+MEX-QRO MEX57 MEX57D/55 MEX45_N
+MEX-QRO MEX57 PasCon QRO30_N
+MEX-QRO MEX57 QRO30_N MEX57D/111
+MEX-SLP MEX57 MEX57D_SLPS MEX70/80
+MEX-SLP MEX57 MEX70/80 BlvdRioSan
+MEX-SLP MEX57 BlvdRioSan SolGraSan_N #north of here is not freeway
+
+MEX-SLP MEX80Esc AveSieLeo MEX57/70 #tiny but of westbound 2 lanes at railroad underpass near AveSalk
+
+MEX-BC CarrEsc MEX1D LibSur
+MEX-BC LibSur CamVer LibSur_U1
+MEX-BC ViaRap AveInt BlvdIns_E
+MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
+MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
+MEX-JAL CorrValCar AveRev CalzGonGal
+MEX-JAL CorrValCar CalzGonGal AveGua
+MEX-JAL CorrValCar AveVal_E AveRafSan
+MEX-JAL PerNte AveVal AveParAri
+MEX-JAL PerOte MEX23 CamMat
+
+
+##United States##
 AK AK1 DimBlvd OldSewHwy_N
 AK AK1 BraSt ArtRd
 AK HicPkwy RasRd TudRd
@@ -2684,6 +2721,9 @@ JPN E83 N1_Tok 12
 JPN E89 2 E26
 JPN C2 3 4
 
+JPN FE1 FE4 105 #lower (southbound) level goes to 2 lanes just before the merge at 105
+JPN FE1 106 FEC
+
 JPN HE1 1-01 1-05 #this is one-way, 3-4 lanes wide
 JPN HE1 1-05 HE15_E #this is one-way, 3-4 lanes wide
 JPN HE3 HE2 3-08
@@ -2695,11 +2735,15 @@ JPN HE14 14-07 14-09
 JPN HE15 HE1_E HE1_W #this is one-way, 3 lanes wide
 JPN HE16 HE1/13 16-02
 
+JPN NEC1 NE1_E NE3 #this is one-way, 3-4 lanes wide
+JPN NEC1 NE3 NE6 #this is one-way, 3-4 lanes wide
+JPN NEC1 NE6 NE1_W #this is one-way, 3-4 lanes wide
+
 JPN SE1 SEC1 SE11
 JPN SE6 SE1/C1 SE9
 JPN SEB B01 SEK3
 JPN SEB SEK3 C3/E51
-JPN SEC1 SE6 TE_N
+JPN SEC1 SE1_N TE_N
 JPN SEC1 TE_S SE1_S
 JPN SEC2 SE5_S SE5_N
 JPN SEC2 SE6_N SE6_S
