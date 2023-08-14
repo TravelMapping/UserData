@@ -1,130 +1,155 @@
 #Rail#
 ###UK & Ireland###
 ####National Rail####
+#####AW#####
+ENG CamLn BirInt TelCen
+
+#####CC#####
+ENG LTSLn LonFenSt Upm
+
+#####CH#####
+ENG AylLn Mar Ayl
+ENG ChiMLOxf Bea HighWyc
+ENG ChiML HighWyc BirMoorSt
+
+#####EM#####
+ENG LutAirExp LonStPanInt Wel
+
 #####GN#####
-ENG NorCityLn MOG FPK
+ENG NorCityLn Moo FinPark
+
+#####GW#####
+ENG AvonVlyLn BriPkwy BriTemMea	#XC Bristol Parkway - Bristol Temple Meads
+ENG BruLn Rea Bas
+ENG GreBra WestEal Gre
+ENG GWML Pad BriTemMea
+ENG NorDowLn Rea Gui #XC Reading - Guildford (diversion)
+ENG ThaVlyLn Slo Rea
+ENG SWalML Pad BriPkwy
+ENG WesML SouCen PorSou
 
 #####HX#####
-ENG HEx HXX HWV
+ENG HEx HeaTer23 HeaTer5
 
 #####IL#####
-ENG IslLn RYP RYD
+ENG IslLn RydePierHead RydeEsp
+
+#####LE#####
+ENG SouLn LonLivSt She
+ENG WAML LonLivSt Bri
+ENG WAMLStr Str TotHale
 
 #####LN######
-ENG BirLivLn BNM LIV
-ENG NhpLn RUG BNM #LN Birmingham International - Birmingham New Street, VT London - Birmingham (covering)
-ENG PotLn BNM STA #VT New Street - Stafford (diversion - via Tame Bridge)
-ENG TreVlyLn EUS STA
+ENG BirLivLn BirNewSt LivLimeSt
+ENG NhpLn BirInt BirNewSt
+ENG PotLn BirNewSt Sta #VT New Street - Stafford (diversion - via Tame Bridge)
+ENG TreVlyLn LonEus Sta
 
 ######LO######
-ENG ELL HHY WCY
-ENG ELLCla SQE CLJ
-ENG ELLCry SYD CYP
-ENG ELLNew SQE NWX
-#ENG ELLBat #LO Wandsworth Road - Battersea Park
-ENG Goblin GPO BKR
-ENG LVL LST CHN
-ENG LVLChi LST CHI
-ENG NLL CLJ SRA
-ENG NLLRic RMD WIJ
-ENG RomUpmShu RMF UPM
-ENG WatDC EUS WFJ
+ENG ELL HigIsl WestCro
+ENG ELLCla SurQua ClaJct
+ENG ELLCry Syd CryPal
+ENG ELLNew SurQua NewCro
+#LO Wandsworth Road - Battersea Park
+ENG Goblin GosOak BarRiv
+ENG LVL LivSt Che
+ENG LVLChi LivSt Chi
+ENG NLL ClaJct Str
+ENG NLLRic Ric WilJct
+ENG RomUpmShu Rom Upm
+ENG WatDC Eus WatJct
 
 ######ME######
-ENG WirLn BKQ CTR
-ENG WirLn LVJ_2 BKQ
-ENG WirLn LVJ_1 LIV
-ENG WirLnWKi BKQ MRT
+ENG WirLn HamSq Che
+ENG WirLn LivJamSt_2 HamSq
+ENG WirLn LivJamSt_1 LivLimeSt
+ENG WirLnWKi HamSq Mor
 
 #####SE#####
-ENG GroPkLn LBG ORP
-ENG SEML CHX RAM
-ENG CanWLn AFK MAR
-ENG BroSLn HNH BMS
-ENG ChaML BMS CBE
-ENG WhiCliLn AFK RAM
-ENG WooLn CST_1 ABW
-ENG BexLn PMR WLI
-ENG SidLnLew LBG MTG
-ENG SidLn LBG MTG
+ENG GroPkLn LonBri Orp
+ENG SEML ChaCro Ram
+ENG CanWLn AshInt Mar
+ENG BroSLn HerHill BroSou
+ENG ChaML BroSou CanEast
+ENG WhiCliLn AshInt Ram
+ENG WooLn CanSt_1 AbbWood
+ENG BexLn PecRye Wel
+ENG SidLnLew LonBri Mot
+ENG SidLn LonBri Mot
+
+#####SR####
+SCT WestHigLnFor FortWil Mal #Jacobite
 
 #####SX#####
-ENG StaEx TOM SSD
+ENG StaEx TotHale StaAir
 
 #####TL#####
-ENG ThaLnk HEN WHP
-ENG ThaLnk KTN ECR
-ENG ThaLnkSut BFR STE_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
+ENG ThaLnk Hen WestHam
+ENG ThaLnk KenTown EastCro
+ENG ThaLnkSut LonBla Str_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
+ENG ThaLnk EastCro TheBri #SN Victoria - Southampton (avoid Redhill) covering
+ENG ThaLnkRed EastCro Hors #SN Victoria - Southampton (via Redhill) covering
+
+#####VT#####
+ENG WCMLA WatJct Wol
+ENG WCMLC LonEus Che
+ENG WCMLE LonEus Mac
+ENG WCMLECre LonEus Sto
 
 #####WM#####
-ENG SalLn BNM TFC
+ENG SalLn BirNewSt TelCen
 
 #####XR#####
-ENG EliLnHT5 HWV HXX
-ENG EliLnHea HAF PAD
-ENG EliLn RDG ABW
-ENG EliLnShe ZLW SNF
+ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnHea HeaTer4 Pad
+ENG EliLn Rea AbbWood
+ENG EliLnShe Whi She
 #XR into Paddington and Liverpool Street Mainline stations
 
 #####London Underground#####
-ENG BakLn HRW EPH
-ENG CenLn WRU EPP
-ENG CenLnEal EAL NOA
-ENG CenLnHai LES WOO
-ENG CirLn HAM ERD_2
-ENG DisLn RMD UPM
-ENG DisLnEal EAL TUG
-ENG DisLnOly KPA EAC
-ENG DisLnWim WIM ERD
-ENG HaCLn HAM BKG
-ENG JubLn STM SRA
-ENG MetLn CHE ALD
-ENG MetLnAme AMR CFO
-ENG MetLnUxb UXB HOH
-ENG MetLnWat WAF MOP
-ENG NorLn EGW MDN
-ENG NorLnBat HBT BPS
-ENG NorLnMHE MHL FYC
-ENG PicLn HWV CKS
-ENG PicLnHT4 HNX HXX
-ENG PicLnUxb UXB ACT
-ENG VicLn WHC BRX
-ENG WaCLn WAT BAN
+ENG BakLn HarWea EleCas
+ENG CenLn WestRui Epp
+ENG CenLnEal EalBro NorAct
+ENG CenLnHai Les Woo
+ENG CirLn Ham EdgRd_2
+ENG DisLn Ric Upm
+ENG DisLnEal EalBdwy TurGre
+ENG DisLnOly KenOly EarCou
+ENG DisLnWim Wim EdgRd
+ENG HaCLn Ham Bark
+ENG JubLn Sta Str
+ENG MetLn Che Ald
+ENG MetLnAme Ame ChaLat
+ENG MetLnUxb Uxb HarHill
+ENG MetLnWat Wat MoorPark
+ENG NorLn Edg Mor
+ENG NorLnBat HighBar BatPowSta
+ENG NorLnMHE MillHillEast FinCen
+ENG PicLn HeaTer5 Coc
+ENG PicLnHT4 HatCro HeaTer23
+ENG PicLnUxb Uxb ActTown
+ENG VicLn WalCen Bri
+ENG WaCLn Wat Bank
 
 ####LightRail/Tram####
-ENG DLR BAN LEW
-ENG DLRRoy WES BKT
-ENG DLRSti SFA CGT
-ENG DLRStr CAW SRA
-ENG DLRTow TOG SHA
-ENG DLRWoo CGT WWA
-ENG TLnkBJW WIM BKJ
-ENG TLnkWEE WIM ELE
-ENG TLnkCNA ECR_1 NAD
+ENG DLR Bank Lew
+ENG DLRRoy Wes Bec
+ENG DLRSti StrInt CanTown
+ENG DLRStr CanWha Str
+ENG DLRTow TowGat Sha
+ENG DLRWoo CanTown WooArs
+ENG TLnkBJW BecJct Wim
+ENG TLnkWEE Wim ElmEnd
+ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
 ENG HT5T A B #Heathrow Terminal5 Airside Transit
-ENG HPRT5A Terminal5 ParkingA #Terminal 5 PodParking
-ENG HPRT5B Terminal5 ParkingB #Terminal 5 PodParking
-ENG HPRTAB ParkingA ParkingB #Terminal 5 PodParking
-ENG LCC RoyalDocks GreenwichPeninsula #London Cable Car
+ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
+ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
+ENG HPRTAB ParA ParB #Terminal 5 PodParking
+ENG LCC RoyDoc GrePen #London Cable Car
 
 ####NOT IN BROWSER YET#####
-#AW Birmingham International - Telford
-#CC Fenchurch Street - Upminster
-#CH Marylebone - Aylesbury
-#CH Beaconsfield - High Wycombe
-#CH High Wycombe - Birmingham Moor Street
-#GW Reading - Basingstoke
-#GW West Ealing - Greenford
-#GW Paddington - Bristol Temple Meads
-#XC Reading - Guildford (diversion)
-#GW Slough - Reading
-#GW Paddington - Bristol Parkway
-#GW Southampton - Portsmouth
-#LE Liv St - Shenfield
-#LE Liverpool Street - Brimsdown
-#LE Stratford - Tottenham Hale
 #SN London Bridge - East Croydon (fast)
 #SN Victoria - Gatwick - Barnham
 #SN Southampton - Barnham
@@ -142,15 +167,8 @@ ENG LCC RoyalDocks GreenwichPeninsula #London Cable Car
 #SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
 #SW Queenstown Road Battersea - Hounslow
 #SW Richmond - Wimbledon
-#EM St Pancras - Wellingborough
-#VT Watford - Wolverhampton
-#VT Milton Keynes - Chester
-#VT Watford Junction - Stafford
-#VT Euston - Stoke - Stockport
-#XC Bristol Parkway - Bristol Temple Meads
 #XC Wolverhampton - Coventry - Bournemouth
 #XC Birmingham - (Solihull) - Reading
-#Fort William - Mallaig (Jacobite)
 #Grand Canal Dock - Howth (DART)
 #Swanage Railway Nordon P&R - Swanage
 
