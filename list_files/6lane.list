@@ -54,8 +54,9 @@ MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is som
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
-MEX-JAL PerGomMor MEX23 AveParAri
+MEX-JAL PerGomMor MEX23 AveParAri #not all a full freeway but close
 MEX-JAL PerOte MEX23 CamMat
+MEX-YUC YUC01 4 1_W #close enough to a full freeway here; the rest is a bit less of one
 
 
 ##United States##
