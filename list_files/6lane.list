@@ -44,8 +44,30 @@ MEX-COAH BlvdFun PerLuisEch 7
 MEX-COAH BlvdNazGar PerLuisEch BlvdVenCar
 MEX-COAH PerLuisEch BlvdVicGue BlvdFun #not quite a freeway south of BlvdVicGue; even north of there are tiny bits with streets and driveways direct to the main lanes
 MEX-COAH PerLuisEch BlvdFun BlvdNazGar
+MEX-DF AniPer CanNac MEX-EMEX AniPer BlvdAviCam #a bit just north of PPal is not quite a freeway
+MEX-DF AutUrbNte DistSanAnt DF/EMEX
+MEX-DF AutUrbPte AveTor AveCen
+MEX-DF AutUrbSur AutUrbPte Eje10Sur
+MEX-DF Ave608 Eje3Nte Eje5Nte
+MEX-DF AveAquSer CalzMexTac Ave16Sep
 MEX-DF AveHankGon Eje5Nte MEX-EMEX AveHankGon BlvdAzt #north of here is not quite a freeway
+MEX-DF AveInsNte CalzSanSim AveAcuGua
+MEX-DF AveOce Eje1Nte Eje3Nte
+MEX-DF AvePoe AveCen AveTam
+MEX-DF CalzIgnZar MEX150D Eje4Ote
+MEX-DF CtoBic 1 7
+MEX-DF CtoBic 7 Eje7Sur_W
+MEX-DF CtoBic 17C EjeCen_N
+MEX-DF DistHebCas Eje3Ote Eje1Nte
+MEX-DF DistSanAnt Eje6Sur_W CtoBic
+MEX-DF Eje3Ote FSTMier CalzIgnZar_E
+MEX-DF ViadMigAle AniPer CtoBic
+MEX-DF ViadMigAle ParLira CalzTla
+MEX-DF ViadRioBec PueMor ViadMigAle
+MEX-DF ViadRioPie CalzTla CtoBic
+MEX-DF ViadTla RefAgr SanFer
 MEX-EMEX AutNauEca AquSer MEX-DF AutNauEca EjeCen
+MEX-EMEX AveLomVer BlvdSanMat BlvdHerCor_E
 MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
 MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
 MEX-EMEX BlvdAer AvePasTol AerIntTol
