@@ -165,20 +165,18 @@ DEU-RP 4Lud BerlinerPlatz RP/BW                                                 
 DEU-BW 4Man RP/BW Universitat                                                                  #2022
 DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-DEU-BW U1 Vaihingen FellbachLutherkirche                                                       #201x/2023
-DEU-BW U2 Rotebuhlplatz Staatsgalerie                                                          #201x, any
-DEU-BW U3 Vaihingen Plieningen                                                                 #2023
-DEU-BW U5 Pragfriedhof Charlottenplatz                                                         #201x, any
-DEU-BW U6 Gerlingen FlughavenMesse                                                             #2023
-DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
-DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
-DEU-BW U8 Vaihingen Ruhbank                                                                    #2023
-DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
-DEU-BW U12 Lowentor Charlottenplatz                                                            #201x, U12? via Nordbahnhof
-DEU-BW U13 Lowentor BadCannstattWilhelmsplatz                                                  #201x, U13/U16?
-DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
-DEU-BW U15 Stammheim Ruhbank                                                                   #2023
-DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
+DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
+DEU-BW U2 RotPla StaGal                                                                        #201x, any
+DEU-BW U3 Vai Pli                                                                              #2023
+DEU-BW U5 PragFriHof ChaPla                                                                    #201x, any
+DEU-BW U6 Ger FlugHafMes                                                                       #2023
+DEU-BW U7 MonFeld Hbf                                                                          #2023, U7 via Pragfriedhof
+DEU-BW U8 Vai RuhBank                                                                          #2023
+DEU-BW U12 MuhlHau Dur                                                                         #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U13 LowTor BadCanWilPla                                                                 #201x, U13/U16?
+DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+DEU-BW U15 StaHeim RuhBank                                                                     #2023
+DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
 DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
 DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
 DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
