@@ -1,4 +1,4 @@
-# Date: 2023-08-14
+# Date: 2023-08-15
 # ----------------
 
 
@@ -263,14 +263,14 @@ DEU-SH S21 HH/SH AuMuhle                                                        
 #DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
 #DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-DEU-MV 1Ros MecklenburgerAllee Hafenallee
-DEU-MV 2Ros Reustershagen KurtSchumacherRing
-DEU-MV 3Ros NeuerFriedhof DierkowerAllee
-DEU-MV 5Ros MecklenburgerAllee Sudblick
-DEU-MV 6Ros NeuerFriedhof CampusSudstadt
-DEU-MV S1 Warnemunde RostockHauptbahnhof
-DEU-MV S2 Warnemunde Gustrow
-DEU-MV S3 Warnemunde Gustrow
+DEU-MV 1Ros MecBurAll HafAll
+DEU-MV 2Ros ReuHag KurtSchRing
+DEU-MV 3Ros NeuFrihof DieAll
+DEU-MV 5Ros MecBurAll SudBli
+DEU-MV 6Ros NeuFriHof CamSudSta
+DEU-MV S1 Warne RostoHbf
+DEU-MV S2 Warne Gustr
+DEU-MV S3 Warne Gustr
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
