@@ -8,7 +8,7 @@ ENG CamLn BirInt TelCen
 ENG LTSLn LonFenSt Upm
 
 #####CH#####
-ENG AylLn Mar Ayl
+ENG AylLn LonMar Ayl
 ENG ChiMLOxf Bea HighWyc
 ENG ChiML HighWyc BirMoorSt
 
@@ -19,13 +19,13 @@ ENG LutAirExp LonStPanInt Wel
 ENG NorCityLn Moo FinPark
 
 #####GW#####
-ENG AvonVlyLn BriPkwy BriTemMea	#XC Bristol Parkway - Bristol Temple Meads
+ENG SevVlyLn BriPkwy BriTemMea #XC Bristol Parkway - Bristol Temple Meads
 ENG BruLn Rea Bas
 ENG GreBra WestEal Gre
-ENG GWML Pad BriTemMea
+ENG GWML LonPad BriTemMea
 ENG NorDowLn Rea Gui #XC Reading - Guildford (diversion)
 ENG ThaVlyLn Slo Rea
-ENG SWalML Pad BriPkwy
+ENG SWalML LonPad BriPkwy
 ENG WesML SouCen PorSou
 
 #####HX#####
@@ -35,8 +35,8 @@ ENG HEx HeaTer23 HeaTer5
 ENG IslLn RydePierHead RydeEsp
 
 #####LE#####
+ENG NewRvrLn LonLivSt Bri
 ENG SouLn LonLivSt She
-ENG WAML LonLivSt Bri
 ENG WAMLStr Str TotHale
 
 #####LN######
@@ -80,6 +80,33 @@ ENG SidLn LonBri Mot
 #####SR####
 SCT WestHigLnFor FortWil Mal #Jacobite
 
+#####SN#####
+ENG UckLn LonBri EastCro
+ENG ChiLn LonVic Bar
+ENG CoaWLn SouCen Bar
+ENG MnkLn AshInt Has
+ENG WalLn WestCro EpsDow
+ENG PecLn LonBri TulHill
+#SN Tulse Hill - Streatham - Streatham Common
+ENG WestLonLn StrCom ECro
+ENG CatLn EastCro Cat
+ENG PecLn CryPal BecJct
+ENG SutLn ClaJct Sut
+
+#####SW#####
+ENG NetLn SouCen PorSou
+ENG SWML LonWat Bou
+ENG WoELn LonWat DIV_WesE #XC Diversion
+ENG TestVlyLn DIV_WoE Eas #XC Diversion
+ENG PorDirLn Gui DIV_Cos #XC Diversion
+ENG BotLn LonWat Win
+ENG BotLn Far DIV_Hav #XC Diversion
+ENG ReaLn WinTri Rea
+ENG WinLn LonWat Sta #non-stop diversion
+ENG CheLp Sta +X582054 #non-stop diversion
+ENG CheLp QueRd Hou
+ENG KinLp Ric LonWat_2
+
 #####SX#####
 ENG StaEx TotHale StaAir
 
@@ -87,7 +114,7 @@ ENG StaEx TotHale StaAir
 ENG ThaLnk Hen WestHam
 ENG ThaLnk KenTown EastCro
 ENG ThaLnkSut LonBla Str_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
-ENG ThaLnk EastCro TheBri #SN Victoria - Southampton (avoid Redhill) covering
+ENG ThaLnk EastCro ThrBri #SN Victoria - Southampton (avoid Redhill) covering
 ENG ThaLnkRed EastCro Hors #SN Victoria - Southampton (via Redhill) covering
 
 #####VT#####
@@ -150,23 +177,6 @@ ENG HPRTAB ParA ParB #Terminal 5 PodParking
 ENG LCC RoyDoc GrePen #London Cable Car
 
 ####NOT IN BROWSER YET#####
-#SN London Bridge - East Croydon (fast)
-#SN Victoria - Gatwick - Barnham
-#SN Southampton - Barnham
-#SN Ashford - Hastings
-#SN West Croydon - Sutton - Epsom Downs
-#SN London Bridge - Peckham Rye - Streatham - Selhurst - East Croydon - Caterham
-#SN Crystal Palace - Beckenham Junction
-#SN Clapham Junction - Sutton
-#SW Waterloo - Bournemouth
-#SW Southampton - Portsmouth
-#SW Basingstoke - GRT - curve (XC diversion)
-#SW curve - DEN - Southampton (XC diversion)
-#SW Guildford - Havant - Fareham
-#SW Winnersh - Reading
-#SW Waterloo - Richmond - Staines - Addlestone - curve (diversion)
-#SW Queenstown Road Battersea - Hounslow
-#SW Richmond - Wimbledon
 #XC Wolverhampton - Coventry - Bournemouth
 #XC Birmingham - (Solihull) - Reading
 #Grand Canal Dock - Howth (DART)

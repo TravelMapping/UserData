@@ -18,7 +18,7 @@ ENG TarLn ExeStDav Bar
 ##Avocet Line
 ENG AvoLn Exm ExeStDav
 ##East Devon Line
-	Exeter - Axminster
+ENG WoELn ExeStDav Axm
 
 #Bittern Line Community Rail Partnership
 ENG BitLn Nor She
@@ -123,28 +123,28 @@ ENG CorML BriTemMea Tau
 
 #Southeast Communities Rail Partnership
 ##Windsor to Reading Line
-	Ashford - Windsor & Eton Riverside
-	Staines - Reading
+ENG WinLn Ash WinEtonRiv
+ENG ReaLn Sta Rea
 ##North Downs Line
 ENG NorDowLn Rea GatAir
 ##1066 Hastings to Tonbridge Line
 ENG 1066Ln Ton Has
 ##Tonbridge to Reigate Line
-	Redhill - Tonbridge
-	Redhill - Reigate
+ENG RedTonLn Red Ton
+ENG RdhLn Red Rei
 ##Uckfield and East Grinstead Lines
-	Oxted - Uckfield
-	Oxted - East Grinstead
+ENG UckLn Oxt Uck
+ENG EGriLn Oxt EastGri
 ##Marshlink Line
-	Ashford - Hastings
+ENG MnkLn AshInt Has
 ##Arun Valley Line
 ENG ThaLnkRed GatAir Hors
-	Horsham - Bognor
-	Barnham - Bosham
+ENG ArunVlyLn Hor BogReg
+ENG ChiLn Bar Bos
 ##Sussex Coast Line
-	Brighton - Littlehampton
+ENG SusCoaLn Bri Lit
 ##Sussex Downs Line
-	Brighton - Seaford
+ENG SusDowLn Bri Sea
 
 #TransWilts Community Rail Partnership
 ENG TraWilLn Swi Wes
@@ -169,10 +169,10 @@ ENG TPASRte ManPic Pre
 ENG RheeVlyLn Mel Fox
 
 #Purbeck Community Rail Partnership
-	Holton Heath - Dorchester
+ENG SWML HolHea DorSou
 
 #Surrey Hills to South Downs
-	Farncombe - Haslemere
+ENG PorDirLn Far Has
 
 #Chester Shrewsbury Community Rail Partnership
 ENG NWSWChe Che ENG NWSW Shr
@@ -239,10 +239,10 @@ ENG ChaLn BirInt MarGre
 ENG NucLn LeaSpa Nun
 ENG WyreVlyLn Olt StrUponAvon
 ENG ShaLn Shi StrUponAvon
-	Olton - Leamington Spa
+ENG ChiML Dor LeaSpa
 
 #Blackmore Vale Community Rail Partnership
-	Tisbury - Crewkerne
+ENG WoELn Tis Cre
 
 #North Nottinghamshire & Lincolnshire CRP
 ENG RomLn Don LinCen
@@ -284,7 +284,7 @@ ENG ECMLHul HullParInt Bev
 ENG TPNRteSca Sea Sca
 
 #Barton Cleethorpes Community Rail Partnership
-	Barton upon Humber - Cleethorpes
+ENG BarLn BarHum Cle
 
 ###Not listed on gov.uk###
 #Bedford - St Albans CRP
@@ -311,35 +311,35 @@ ENG RegLn Shi HenTha
 ENG BruLn Rea Bas
 
 #ThreeRivers CRP
-ENG WesML Sal SouCen
-	Southampton - Micheldever
-	Southampton - Bursledon
-	Romsey - Eastleigh
+ENG TestVlyLn Sal Rom_2
+ENG SWML Mic SouCen
+ENG NetLn SouCen Bur
 
 #South Wessex CRP
 ENG HeaWesLn Fro Wey
 
 #Hounslow and Richmond CRP
-	Barnes - Hounslow - Feltham
-	Barnes - Richmond - Feltham
+ENG CheLp Bar Fel
+ENG KinLp Bar Twi
+ENG WinLn Twi Fel
 
 #The Community Train CRP
-	Raynes Park - Chessington South
-	Raynes Park - Surbiton
+ENG CheBra RayPark CheSou
+ENG HamCouBra RayPark Sur
 
 #Wey Valley CRP
-	Ash Vale - Alton
-	Farnham - Guilford
+ENG AltLn AshVale Alt
+ENG WeyVlyLn Far Gui
 
 #Hills to Harbour CRP
-	Farncombe - Portsmouth Harbour
+ENG PorDirLn Far PorHar
 
 #Isle of Wight CRP
 ENG IslLn RydePierHead Sha
 
 #New Forest CRP
-	Brockenhurst - Lymington
-	Ashurst New Forest - Sway
+ENG NewForLn Bro LymPier
+ENG SWML AshNewFor Sway
 
 #Borders CRP
 SCT BorLn EdiWav Twe
@@ -349,7 +349,7 @@ SCT NorBerLn EdiWav NorBer
 SCT EastLotLn EdiWav Dun
 
 #West Highland CRP
-SCT WestHigLn Cri Mal
+SCT WestHigLnFor Cri Mal
 
 #Highland Main Line CRP
 SCT HMLEdi DunBir Car
