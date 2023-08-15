@@ -27,6 +27,7 @@ MEX-SLP MEX80Esc AveSieLeo MEX57/70 #tiny but of westbound 2 lanes at railroad u
 MEX-DF MEX85 AveAcuGua MEX-EMEX MEX85 MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_EcaS SanLuc
 MEX-HGO MEX85Pac CamTez BlvdFelAng_N
+MEX-NL MEX85 M44 NL49 #one intersection north of CarrMon but otherwise practically all full freeway
 MEX-MOR MEX95D MEX95_CueS MEX95/162
 MEX-TLAX MEX117 HosInf MEX119/136 #not quite a freeway south of HosInf
 MEX-EMEX MEX150D Eje8Sur MEX-PUE MEX150D SanFraOco #brief 2 lanes eastbound at MEX117
@@ -78,6 +79,13 @@ MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
 MEX-JAL PerGomMor MEX23 AveParAri #not all a full freeway but close
 MEX-JAL PerOte MEX23 CamMat
+MEX-NL M9 M10/M410 M22/M28
+MEX-NL M10 M9/M410 M25 #not quite a full freeway west of M8/M11
+MEX-NL M20 M15 M29/M210 #one-way eastbound
+MEX-NL M20 CLerTej HacLer #one-way eastbound; local lanes are counted east of M31/M410 since they are a freeway there
+MEX-NL M22 M41 M9/M28 #one-way westbound west of M20
+MEX-NL M30 AveSanRaf AveIsiSep #continues east as not a full freeway; also 6 lanes from AveManOrd_E to MEX40D/M22 but not a full freeway
+MEX-NL M210 M17 M22/M28 #mostly a full freeway; less of one east of M17
 MEX-YUC YUC01 4 1_W #close enough to a full freeway here; the rest is a bit less of one
 
 
