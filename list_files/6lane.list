@@ -10,6 +10,8 @@ MEX-JAL MEX15D AvePat AveRev
 MEX-JAL MEX15 AveVal AveAvi
 MEX-COAH MEX40 BlvdNazGar BlvdLuisCol
 MEX-NL MEX40D M39 M41
+MEX-GTO MEX45 BlvdDel BlvdTorLan
+MEX-GTO MEX45 BlvdTorLan BlvdHid
 MEX-COL MEX54 Tra_E MEX54D
 MEX-COL MEX54D MEX54_W COL275 #eastbound goes to 2 lanes just before COL275
 MEX-EMEX MEX55 AveAlfMazo SanMarTol
@@ -24,6 +26,7 @@ MEX-SLP MEX57 BlvdRioSan SolGraSan_N #north of here is not freeway
 MEX-SLP MEX80Esc AveSieLeo MEX57/70 #tiny but of westbound 2 lanes at railroad underpass near AveSalk
 MEX-DF MEX85 AveAcuGua MEX-EMEX MEX85 MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_EcaS SanLuc
+MEX-HGO MEX85Pac CamTez BlvdFelAng_N
 MEX-MOR MEX95D MEX95_CueS MEX95/162
 MEX-TLAX MEX117 HosInf MEX119/136 #not quite a freeway south of HosInf
 MEX-EMEX MEX150D Eje8Sur MEX-PUE MEX150D SanFraOco #brief 2 lanes eastbound at MEX117
@@ -51,7 +54,7 @@ MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is som
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
-MEX-JAL PerNte AveVal AveParAri
+MEX-JAL PerGomMor MEX23 AveParAri
 MEX-JAL PerOte MEX23 CamMat
 
 
