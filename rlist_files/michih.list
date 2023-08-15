@@ -177,11 +177,11 @@ DEU-BW U13 LowTor BadCanWilPla                                                  
 DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
-DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
-DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
-DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
-DEU-BW S5 BietigheimBissingen Hauptbahnhof                                                     #2023, S5
-DEU-BW S6 Renningen Hauptbahnhof                                                               #2020, S6
+DEU-BW S1 StadtMitte Wendl                                                                     #201x, S1
+DEU-BW S2 FilderStadt SchornDorf                                                               #2022/23
+DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
+DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
+DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
