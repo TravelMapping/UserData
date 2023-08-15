@@ -152,18 +152,18 @@ DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
 DEU-BB 4Cot DIV_T3S SacDorf        #2023
 
 
-DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
+#DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
-DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
-DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
-DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
+#DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
+#DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
+#DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
-DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
-DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
-DEU-BW 4Man RP/BW Universitat                                                                  #2022
-DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+#DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
+#DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
+#DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
+#DEU-BW 4Man RP/BW Universitat                                                                  #2022
+#DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
 DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
