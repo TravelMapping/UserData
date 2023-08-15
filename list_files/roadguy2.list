@@ -1936,6 +1936,7 @@ NE I-180 I-80 9thSt
 NE US6 US34_W US136
 NE US26 I-80 US30_E
 # - only to Stagecoach Trail
+NE US30 US83 L56G
 NE US34 CO/NE US6_W
 #NE US34 part of US6 overlap
 #NE US34 I-80 concurrency
@@ -1945,8 +1946,7 @@ NE US34 I-180_S OSt
 NE US81 I-80 LinAve
 # - only to 35th St/Rd 10
 #NE US83 US6 overlap
-NE US83 I-80 PhiAve
-# - only to Halligan Dr
+NE US83 I-80 HallSchRd
 NE US136 US34 US183_N
 #NE US136 US183 overlap
 NE US136 US183_S US281
@@ -1962,6 +1962,8 @@ NE US281 KS/NE US136
 #NE NE71 I-80(20) Kimball Welcome Center
 #NE NE71 I-80 concurrency
 #NE NE89 US136 overlap
+
+NE L56G I-80 US30
 
 #nevada
 
