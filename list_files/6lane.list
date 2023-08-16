@@ -2815,3 +2815,23 @@ JPN N423 Nak P16 #north end is just north of P16 at the train station interchang
 
 #JPN P2 straddling E2A north of Kyoto from E2A exit 1 west to N423
 #Harbor Highway over the Kobe Bridge in/near Osaka
+
+
+##South Korea##
+#only the national expressways since that's all that's active
+KOR Ex1 1 26 #continuing about halfway to 27
+KOR Ex1 28 49B
+KOR AH1 49B(Ex1) JamNo
+KOR Ex10 21 30
+KOR Ex10 33 39
+#KOR the continuation of Ex12Mau east from 8 to the end of the freeway in Gwangju
+KOR Ex12 12 13
+KOR Ex12 26 28 #except for the westbound bridge just east of 27
+KOR Ex16 2 4
+KOR Ex20 23 24 #east end is just west of 24
+KOR Ex30 8 9
+KOR Ex30 24 25
+KOR Ex40 1 4
+KOR Ex40 4 5
+KOR Ex50 1 23 #and the extension north from 1
+KOR Ex60 Misa 2 #and the extension west from Misa along the south shore to the 48/356 interchange, with a gap at the Haengju Bridge
