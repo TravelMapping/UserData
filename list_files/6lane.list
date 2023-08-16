@@ -2817,6 +2817,27 @@ JPN N423 Nak P16 #north end is just north of P16 at the train station interchang
 #Harbor Highway over the Kobe Bridge in/near Osaka
 
 
+##Singapore##
+SGP AYE 1 2
+SGP AYE 2C SGP/MYS
+SGP BKE 1 10B
+SGP CTE 1B SLE/TPE
+SGP ECP 1 7B
+SGP ECP 7B 14
+SGP ECP 14 15
+SGP KJE 1 7
+SGP KPE 1 3
+SGP KPE 2A 11
+SGP MCE 1 5
+SGP PIE 1 2
+SGP PIE 2 35
+SGP PIE 35 41
+SGP SLE 1 11
+SGP TPE 1 14
+SGP AH2 HarWalk PasPanRd_W #continuations east to Kampong Bahru Road and west to the Harbour Drive exit
+#and other freeways not in sgpex
+
+
 ##South Korea##
 #only the national expressways since that's all that's active
 KOR AH1 MR11/71 ToMR22_S
