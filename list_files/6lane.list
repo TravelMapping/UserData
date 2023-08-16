@@ -2819,19 +2819,54 @@ JPN N423 Nak P16 #north end is just north of P16 at the train station interchang
 
 ##South Korea##
 #only the national expressways since that's all that's active
+KOR AH1 MR11/71 ToMR22_S
+KOR AH1 SuyDae 1(Ex1)
 KOR Ex1 1 26 #continuing about halfway to 27
 KOR Ex1 28 49B
 KOR AH1 49B(Ex1) JamNo
+KOR AH1 JamNo PR70
 KOR Ex10 21 30
 KOR Ex10 33 39
+KOR Ex102 2 3 #what's with the weird striping on the right lane?
+KOR Ex102 3 4 #ditto
+KOR Ex104 1 5
 #KOR the continuation of Ex12Mau east from 8 to the end of the freeway in Gwangju
 KOR Ex12 12 13
 KOR Ex12 26 28 #except for the westbound bridge just east of 27
+KOR Ex15 24 37
+KOR Ex153 4 5
 KOR Ex16 2 4
+KOR Ex17 1(S) 6(S) #and the southern extension to the 43/45 split near Asan
+KOR Ex17 6(S) 1(400)
+KOR Ex17 3(N) 4(N) #continuing north to future junction 5; also the extension east through the tunnels from Ex15 to west of Ex1
+KOR Ex17Goy 1 5
+KOR Ex171Suw 6 7
+KOR Ex171 1 6
 KOR Ex20 23 24 #east end is just west of 24
+KOR Ex25 9 10
+KOR Ex25 26 29
+KOR Ex29 1 7
 KOR Ex30 8 9
 KOR Ex30 24 25
+KOR Ex35 36 37
+KOR Ex35 41 43
 KOR Ex40 1 4
 KOR Ex40 4 5
+KOR Ex451 3 6 #northbound goes down to 2 lanes somewhere north of 6
+KOR Ex451 8 9
 KOR Ex50 1 23 #and the extension north from 1
+KOR Ex55 1 2 #and the extension east from 1 to but not thru the tunnel
+KOR Ex55 2-2 3
+KOR Ex551 2 4
 KOR Ex60 Misa 2 #and the extension west from Misa along the south shore to the 48/356 interchange, with a gap at the Haengju Bridge
+KOR AH6 SinNo GwaDae
+KOR AH6 ToMR31 1(Ex65)
+KOR Ex65 1a 7
+KOR AH6 DonRo 
+KOR Ex100 1 Ex1
+KOR Ex110 1 4 #and the continuation west from 1 to the first interchange
+KOR Ex110 6 17 #including the spur at 6
+KOR Ex120 N77 7 #may not extend all the way west to N77
+KOR Ex130 Sin 8
+KOR Ex400Inc SeoDae 3 #the south end is at the ramps just south of the tunnel, which I suppose are part of SeoDae
+#KOR the freeway portion of the gap filler between KOR Ex700 and KOR Ex700Pag
