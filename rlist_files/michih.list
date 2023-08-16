@@ -1,4 +1,4 @@
-# Date: 2023-08-14
+# Date: 2023-08-15
 # ----------------
 
 
@@ -152,38 +152,36 @@ DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
 DEU-BB 4Cot DIV_T3S SacDorf        #2023
 
 
-DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
+#DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
-DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
-DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
-DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
+#DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
+#DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
+#DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
-DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
-DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
-DEU-BW 4Man RP/BW Universitat                                                                  #2022
-DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+#DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
+#DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
+#DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
+#DEU-BW 4Man RP/BW Universitat                                                                  #2022
+#DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-DEU-BW U1 Vaihingen FellbachLutherkirche                                                       #201x/2023
-DEU-BW U2 Rotebuhlplatz Staatsgalerie                                                          #201x, any
-DEU-BW U3 Vaihingen Plieningen                                                                 #2023
-DEU-BW U5 Pragfriedhof Charlottenplatz                                                         #201x, any
-DEU-BW U6 Gerlingen FlughavenMesse                                                             #2023
-DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
-DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
-DEU-BW U8 Vaihingen Ruhbank                                                                    #2023
-DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
-DEU-BW U12 Lowentor Charlottenplatz                                                            #201x, U12? via Nordbahnhof
-DEU-BW U13 Lowentor BadCannstattWilhelmsplatz                                                  #201x, U13/U16?
-DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
-DEU-BW U15 Stammheim Ruhbank                                                                   #2023
-DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
-DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
-DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
-DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
-DEU-BW S5 BietigheimBissingen Hauptbahnhof                                                     #2023, S5
-DEU-BW S6 Renningen Hauptbahnhof                                                               #2020, S6
+DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
+DEU-BW U2 RotPla StaGal                                                                        #201x, any
+DEU-BW U3 Vai Pli                                                                              #2023
+DEU-BW U5 PragFriHof ChaPla                                                                    #201x, any
+DEU-BW U6 Ger FlugHafMes                                                                       #2023
+DEU-BW U7 MonFeld Hbf                                                                          #2023, U7 via Pragfriedhof
+DEU-BW U8 Vai RuhBank                                                                          #2023
+DEU-BW U12 MuhlHau Dur                                                                         #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U13 LowTor BadCanWilPla                                                                 #201x, U13/U16?
+DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+DEU-BW U15 StaHeim RuhBank                                                                     #2023
+DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
+DEU-BW S1 StadtMitte Wendl                                                                     #201x, S1
+DEU-BW S2 FilderStadt SchornDorf                                                               #2022/23
+DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
+DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
+DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
@@ -263,14 +261,14 @@ DEU-SH S21 HH/SH AuMuhle                                                        
 #DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
 #DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-DEU-MV 1Ros MecklenburgerAllee Hafenallee
-DEU-MV 2Ros Reustershagen KurtSchumacherRing
-DEU-MV 3Ros NeuerFriedhof DierkowerAllee
-DEU-MV 5Ros MecklenburgerAllee Sudblick
-DEU-MV 6Ros NeuerFriedhof CampusSudstadt
-DEU-MV S1 Warnemunde RostockHauptbahnhof
-DEU-MV S2 Warnemunde Gustrow
-DEU-MV S3 Warnemunde Gustrow
+DEU-MV 1Ros MecBurAll HafAll
+DEU-MV 2Ros ReuHag KurtSchRing
+DEU-MV 3Ros NeuFrihof DieAll
+DEU-MV 5Ros MecBurAll SudBli
+DEU-MV 6Ros NeuFriHof CamSudSta
+DEU-MV S1 Warne RostoHbf
+DEU-MV S2 Warne Gustr
+DEU-MV S3 Warne Gustr
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
