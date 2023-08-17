@@ -2742,7 +2742,24 @@ CHE ZubHar 1 2
 CHE ZubWie 2 32
 
 
-#ASIA#
+#ASIA/OCEANIA#
+##Australia##
+AUS-NSW M1Bal MinjDr TweCoaRd
+AUS-NSW M1Haw A43 B83_Kar
+AUS-NSW M1Haw A49 NorCon_N
+AUS-NSW M1Syd M2 BraHwy
+AUS-NSW M1Syd CahExpy_N CroCityTun
+AUS-NSW M1Syd MacSt AnzPar
+AUS-NSW M1Syd TodAve BotRd
+AUS-NSW M1Syd BotRd M5
+AUS-NSW M1Wol B65_S PriHwy_Wol
+AUS-NSW M1Wol QuaRd TD9_Kia
+AUS-NSW M2 A3 A28
+AUS-NSW M2 A28 WinRd
+
+AUS-ACT ParWay TugPkwy EdiAve
+
+
 ##Japan##
 JPN E1 1 7-1
 JPN E1 30 30-2
