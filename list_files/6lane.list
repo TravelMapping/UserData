@@ -2787,6 +2787,17 @@ AUS-SA M2 A1 A7
 AUS-SA M2Noa A2 A13_N
 AUS-SA M2Noa A14 PanRd
 
+AUS-VIC M1 C417 W4 #only westbound between E3 and W1; eastbound uses M1MBT
+AUS-VIC M1 W2 W7 #construction at W7
+AUS-VIC M1 W7 W10
+AUS-VIC M1 W10 A10_E
+AUS-VIC M1MBT W1 E3 #eastbound only
+AUS-VIC M2 1 19
+AUS-VIC M3 MR29/83 A16
+AUS-VIC M79 1 4
+AUS-VIC M79 4 6
+AUS-VIC M80 M1 A51
+
 AUS-WA WA2 WA82 WA65 #construction from SheAve? to WA82
 AUS-WA WA2 WA8/60 RusRd
 AUS-WA WA4 WA3_N ColRd #railway construction in the median may have affected this from WA3_N to WA76; construction from ColRd south to N1/N94
