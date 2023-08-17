@@ -51,7 +51,7 @@ ENG DLRWoo CanTown WooArs
 
 ####National Rail####
 ENG ThaLnk Rad GatAir
-ENG ThaLnkCam FinPark LonStPanInt
+ENG ThaLnkCam FinPark STP
 ENG ThaLnkRai LonBri Dar
 ENG ThaLnkRed EastCro GatAir
 ENG ThaLnkSev LonBla Swa
@@ -98,12 +98,12 @@ ENG ChiMLOxf LonMar WestRui
 ENG AylLn LonMar Ame
 ENG AltLn LonWat Sur
 ENG BasLn LonWat Sur
-ENG BooLn Wat Eps
-ENG CheBra Wat CheSou
+ENG BooLn LonWat Eps
+ENG CheLn LonWat CheSou
 ENG CheLp LonWat Fel
-ENG HamCouBra LonWat HamCou
+ENG HamCouLn LonWat HamCou
 ENG KinLp LonWat_1 LonWat_2
-ENG MoleVlyLn Wat Eps
+ENG MoleVlyLn LonWat Eps
 ENG NewGuiLn LonWat Sur
 ENG PorDirLn LonWat ClaJct
 ENG ReaLn LonWat Fel
