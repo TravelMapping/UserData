@@ -2782,6 +2782,19 @@ AUS-QLD M5 SumRd M7
 AUS-QLD M7Bri A3_N M3_N
 AUS-QLD M7 28 32
 
+AUS-SA M1 B28 A3/A17
+AUS-SA M2 A1 A7
+AUS-SA M2Noa A2 A13_N
+AUS-SA M2Noa A14 PanRd
+
+AUS-WA WA2 WA82 WA65 #construction from SheAve? to WA82
+AUS-WA WA2 WA8/60 RusRd
+AUS-WA WA4 WA3_N ColRd #railway construction in the median may have affected this from WA3_N to WA76; construction from ColRd south to N1/N94
+AUS-WA WA4 N1/N94 WA7
+AUS-WA WA4 WA7 WA3_S
+AUS-WA WA8 WA2/60 WA66
+AUS-WA WA8 WA66 N1/N94
+
 AUS-ACT ParWay TugPkwy EdiAve
 AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
 AUS-QLD SouCroWay QLD25 M1(105)
