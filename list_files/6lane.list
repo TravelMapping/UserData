@@ -2756,8 +2756,17 @@ AUS-NSW M1Wol B65_S PriHwy_Wol
 AUS-NSW M1Wol QuaRd TD9_Kia
 AUS-NSW M2 A3 A28
 AUS-NSW M2 A28 WinRd
+AUS-NSW A4 CahExpy HarbSt
+AUS-NSW A4 CroCityTun A40
+AUS-NSW M4 M8 MulRd
+AUS-NSW M5 M8 M7/M31
+AUS-NSW A6 HenLawDr BruDr #begins just north of HenLawDr at Clancy Street
+AUS-NSW M8 M4 EusRd
+AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
+AUS-NSW M31 1 6
 
 AUS-ACT ParWay TugPkwy EdiAve
+AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
 
 
 ##Japan##
