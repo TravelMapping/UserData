@@ -2770,9 +2770,21 @@ AUS-QLD M1 87 110
 AUS-QLD M1 110 120
 AUS-QLD M1 127 152A #construction north of 152A to 163
 AUS-QLD M1 188 194
+AUS-QLD M2 9 11
+AUS-QLD M2 25 M15
+AUS-QLD M3Bal QLD58 GymRd
+AUS-QLD M3 M7_N M5
+AUS-QLD M3 QLD31 QLD32
+AUS-QLD M3 QLD33 HerSt
+AUS-QLD M3 TurSt M1
+AUS-QLD M5 6 10
+AUS-QLD M5 SumRd M7
+AUS-QLD M7Bri A3_N M3_N
+AUS-QLD M7 28 32
 
 AUS-ACT ParWay TugPkwy EdiAve
 AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
+AUS-QLD SouCroWay QLD25 M1(105)
 
 
 ##Japan##
