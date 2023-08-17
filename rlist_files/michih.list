@@ -1,4 +1,4 @@
-# Date: 2023-08-15
+# Date: 2023-08-16
 # ----------------
 
 
@@ -182,6 +182,7 @@ DEU-BW S2 FilderStadt SchornDorf                                                
 DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
 DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
 DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
+DEU-BW S11 DIV_BadCanE NeckarPark                                                              #2023, not traveled S11 but regional and long-distance traffic is routed along here
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
