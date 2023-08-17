@@ -2765,6 +2765,12 @@ AUS-NSW M8 M4 EusRd
 AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
 AUS-NSW M31 1 6
 
+AUS-QLD M1 87(PM) 87 #construction south of 87(PM)
+AUS-QLD M1 87 110
+AUS-QLD M1 110 120
+AUS-QLD M1 127 152A #construction north of 152A to 163
+AUS-QLD M1 188 194
+
 AUS-ACT ParWay TugPkwy EdiAve
 AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
 
