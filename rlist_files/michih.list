@@ -1,4 +1,4 @@
-# Date: 2023-08-16
+# Date: 2023-08-17
 # ----------------
 
 
@@ -132,9 +132,9 @@ DEU-BW RS5 AalHbf BW/BY
 #CHE     Bern  8  Brünnen Westside   CHE     Bern  8  Saali         #2021
 #CHE     Bern  9  Bern Bahnhof       CHE     Bern  9  Wabern        #2021, northern route was not in service due to construction
 
-#CZE     Praha MA Nemocnice Motol    CZE     Praha MA Depo Hostivar #2019
-#CZE     Praha MB Zlicin             CZE     Praha MB Cerny Most    #2019
-#CZE     Praha MC Letnany            CZE     Praha MC Haje          #2019
+CZE A NemMot DepoHos #2019, Praha
+CZE B Zli CerMost    #2019, Praha
+CZE C Let Haje       #2019, Praha
 
 #DEU-BB Frankfurt STR1 Stadion - Zentrum - Neubersinchen            #2022
 #DEU-BB Frankfurt STR4 Markendorf, Ort - Zentrum - Lebuser Vorstadt #2022
@@ -442,19 +442,22 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #HRV     Zagreb T15 Mihaljevac       HRV     Zagreb T15 Dolje                      #2019
 #HRV     Zagreb T17 Precko           HRV     Zagreb T17 Borongaj                   #2019
 
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Rho Fiera                   #2019
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Bisceglie                   #2019
-#ITA     Milano M2 Assago            ITA     Milano M2 Gessate                     #2019
-#ITA     Milano M2 Abbiategrasso     ITA     Milano M2 Cologno Nord                #2019
-#ITA     Milano M3 San Donato        ITA     Milano M3 Comasina                    #2019
-#ITA     Milano M5 Bignami           ITA     Milano M5 San Siro Stadio             #2019
-#ITA     Milano R Affori FN          ITA     Milano R Cadorna FN                   #2019
-#ITA     Roma MA Battistini          ITA     Roma MA Anagnina                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Rebibbia                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Jonio                         #2019
-#ITA     Roma MC San Giovanni        ITA     Roma MC Montecompatri/Pantano         #2019
 
-#LUX     Luxembourg 1 Lycee Bouneweg   LUX   Luxembourg Luxexpo                    #2023
+ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
+ITA-LOM M1Bis Bis Pag           #2019, Milano
+ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
+ITA-LOM M2Abb Fam AbbChiRos     #2019, Milano
+ITA-LOM M2Col ColNord CasGob    #2019, Milano
+ITA-LOM M3 Com SanDon           #2019, Milano
+ITA-LOM M5 Big SanSiroSta       #2019, Milano
+ITA-LOM S4 MilanoAffori MilanoCadorna   #2019, Milano actually any R service
+
+ITA-LAZ MA  Bat Ana             #2019, Roma
+ITA-LAZ MB  Reb Lau             #2019, Roma
+ITA-LAZ MB1 Jon Bol             #2019, Roma
+ITA-LAZ MC SanGio MonComPan     #2019, Roma
+
+LUX T1 LuxExpo LycBouWeg        #2023
 
 #POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
 #POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
