@@ -111,11 +111,11 @@ ENG KinLp Ric LonWat_2
 ENG StaEx TotHale StaAir
 
 #####TL#####
-ENG ThaLnk Hen WestHam
-ENG ThaLnk KenTown EastCro
-ENG ThaLnkSut LonBla Str_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
-ENG ThaLnk EastCro ThrBri #SN Victoria - Southampton (avoid Redhill) covering
-ENG ThaLnkRed EastCro Hors #SN Victoria - Southampton (via Redhill) covering
+ENG ThaLnk Far EastCro
+ENG ThaLnkSut Hen_1 WestHam_1
+ENG ThaLnkSut KenTown_2 Far_2
+ENG ThaLnkSut LonBla_1 MitJct
+ENG ThaLnkSut Sut Str_2
 
 #####VT#####
 ENG WCMLA WatJct Wol
@@ -125,6 +125,10 @@ ENG WCMLECre LonEus Sto
 
 #####WM#####
 ENG SalLn BirNewSt TelCen
+
+#####XC#####
+ENG XCMLSou Bou Wol
+ENG XCMLDon Rea BirNewSt
 
 #####XR#####
 ENG EliLnHT5 HeaTer5 HeaTer23
@@ -136,36 +140,40 @@ ENG EliLnShe Whi She
 #####London Underground#####
 ENG BakLn HarWea EleCas
 ENG CenLn WestRui Epp
-ENG CenLnEal EalBro NorAct
-ENG CenLnHai Les Woo
+ENG CenLnEal EalBro Woo
 ENG CirLn Ham EdgRd_2
 ENG DisLn Ric Upm
-ENG DisLnEal EalBdwy TurGre
-ENG DisLnOly KenOly EarCou
-ENG DisLnWim Wim EdgRd
+ENG DisLnEal EalBdwy Upm
+ENG DisLnEdg Wim EdgRd
+ENG DisLnOly KenOly HighStKen
+ENG DisLnWim Wim Bar
 ENG HaCLn Ham Bark
 ENG JubLn Sta Str
 ENG MetLn Che Ald
-ENG MetLnAme Ame ChaLat
-ENG MetLnUxb Uxb HarHill
-ENG MetLnWat Wat MoorPark
+ENG MetLnAme Ame Ald
+ENG MetLnUxb Uxb Ald
+ENG MetLnWat Wat BakSt
 ENG NorLn Edg Mor
+ENG NorLnBar HighBar Mor
 ENG NorLnBat HighBar BatPowSta
-ENG NorLnMHE MillHillEast FinCen
+ENG NorLnEdg Egd BatPowSta
+ENG NorLnMHE MillHillEast BatPowSta
+ENG NorLnMor MillHillEast Mor
 ENG PicLn HeaTer5 Coc
-ENG PicLnHT4 HatCro HeaTer23
-ENG PicLnUxb Uxb ActTown
+ENG PicLnHT4 HatCro_1 Coc
+ENG PicLnUxb Uxb Coc
 ENG VicLn WalCen Bri
 ENG WaCLn Wat Bank
 
 ####LightRail/Tram####
 ENG DLR Bank Lew
-ENG DLRRoy Wes Bec
-ENG DLRSti StrInt CanTown
+ENG DLRRoy TowGat Bec
+ENG DLRSti StrInt WooArs
 ENG DLRStr CanWha Str
-ENG DLRTow TowGat Sha
-ENG DLRWoo CanTown WooArs
+ENG DLRWoo Bank WooArs
 ENG TLnkBJW BecJct Wim
+ENG TLnkEEW ElmEnd Wim
+ENG TLnkWBJ Wim BecJct
 ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
@@ -177,8 +185,6 @@ ENG HPRTAB ParA ParB #Terminal 5 PodParking
 ENG LCC RoyDoc GrePen #London Cable Car
 
 ####NOT IN BROWSER YET#####
-#XC Wolverhampton - Coventry - Bournemouth
-#XC Birmingham - (Solihull) - Reading
 #Grand Canal Dock - Howth (DART)
 #Swanage Railway Nordon P&R - Swanage
 
