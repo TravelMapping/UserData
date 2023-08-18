@@ -2959,3 +2959,17 @@ KOR Ex120 N77 7 #may not extend all the way west to N77
 KOR Ex130 Sin 8
 KOR Ex400Inc SeoDae 3 #the south end is at the ramps just south of the tunnel, which I suppose are part of SeoDae
 #KOR the freeway portion of the gap filler between KOR Ex700 and KOR Ex700Pag
+
+
+##New Zealand##
+NZL SH1 410 414
+NZL SH1 417 427
+NZL SH1 427 438
+NZL SH1 438 458
+NZL SH1 JohRd CenHwy_S
+NZL SH1 SH2 EveTer
+NZL SH1Wai TramRd SH74
+NZL SH16 3 19
+NZL SH20 9 16
+NZL SH20 16 19
+NZL SH20 19 24
