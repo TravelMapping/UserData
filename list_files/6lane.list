@@ -2902,7 +2902,7 @@ SGP PIE 2 35
 SGP PIE 35 41
 SGP SLE 1 11
 SGP TPE 1 14
-SGP AH2 HarWalk PasPanRd_W #continuations east to Kampong Bahru Road and west to the Harbour Drive exit
+#SGP West Coast Highway from Kampong Bahru Road west to the Harbour Drive exit
 #and other freeways not in sgpex
 
 
