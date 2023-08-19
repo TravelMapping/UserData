@@ -430,16 +430,17 @@ FRA-IDF M14 SaiLaz Oly               #2019
 FRA-PAC M1 LaRose Fou                #2018
 FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
 
-#HRV     Zagreb T2 Crnomerec         HRV     Zagreb T2 Savisce                     #2019, All routes as of 2019 except of short T1 at west end
-#HRV     Zagreb T4 Savski Most       HRV     Zagreb T4 Dubec                       #2019
-#HRV     Zagreb T6 Crnomerec         HRV     Zagreb T6 Sopot                       #2019
-#HRV     Zagreb T7 Savski Most       HRV     Zagreb T7 Dubrava                     #2019
-#HRV     Zagreb T8 Mihaljevac        HRV     Zagreb T8 Zaprude                     #2019
-#HRV     Zagreb T9 Ljubljanica       HRV     Zagreb T9 Borongaj                    #2019
-#HRV     Zagreb T11 Cronomerec       HRV     Zagreb T11 Dubec                      #2019
-#HRV     Zagreb T12 Ljubljanica      HRV     Zagreb T12 Dubrava                    #2019
-#HRV     Zagreb T15 Mihaljevac       HRV     Zagreb T15 Dolje                      #2019
-#HRV     Zagreb T17 Precko           HRV     Zagreb T17 Borongaj                   #2019
+#2019, All routes in service as-of 2019 except of short T1 at west end
+HRV 2Zag Crn Sav                     #2019
+HRV 4Zag SavMost Dube                #2019
+HRV 5Zag Pre Sve                     #2019, traveled on rerouted line 7
+HRV 6Zag Crn Drz                     #2019, south end closed due to long-term construction
+HRV 8Zag Mih Zap                     #2019
+HRV 9Zag Lju Bor                     #2019
+HRV 11Zag Crn Dube                   #2019
+HRV 12Zag Lju Dubr                   #2019
+HRV 15Zag Mih GraDol                 #2019
+HRV 17Zag Pre Bor                    #2019
 
 ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
 ITA-LOM M1Bis Bis Pag           #2019, Milano
