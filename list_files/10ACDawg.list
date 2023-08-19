@@ -1,8 +1,10 @@
 #10ACDawg list
 
-# Alabama
+# Alabama 
+# Add Beach routes, add Desoto to Sequoia
 # Interstates (AL)
 AL I-10 44 AL/FL
+AL I-10 MS/AL 35
 AL I-20 MS/AL AL/GA
 AL I-59 130 MS/AL 
 AL I-59 218 AL/GA
@@ -12,13 +14,26 @@ AL I-165 1 US90
 AL I-359 I-20/59 2
 AL I-459 29 I-20/59
 AL I-565 1 21
+# US Highways (AL)
+AL US72 AL/TN I-565(21)
+AL US280 I-85(58) I-459
+AL US231 FL/AL I-85/80
+AL US331 FL/AL CR43_E
+# State Highways (AL)
+AL AL35 AL9 US72/279
+AL AL9 AL35 AL/GA
+AL AL180 FortMor AL161
+AL AL161 AL182 AL180 
+AL AL182 AL59 AL/FL
+AL AL188 AL193 I-10
+AL AL193 LeMoyDr AL AL188
 
 # Alaska
 # State Highways (AK)
 AK AK7Jun MainSt GlaHwy_Men
 AK AK98 AMHSFry AK/BC
 
-# Arizona
+# Arizona **UP TO DATE THROUGH 2023**
 # Interstates (AZ)
 AZ I-10 81 AZ/NM
 AL I-565 1 21
@@ -37,7 +52,7 @@ AZ AZ179 I-17 AZ89A
 AZ AZ89ASed 11thSt I-40BL
 
 
-# Arkansas
+# Arkansas **UP TO DATE THROUGH 2023**
 # Interstates (AR)
 AR I-30 TX/AR 143
 AR I-40 125 AR/TN
@@ -180,6 +195,7 @@ ID ID87 US20 ID/MT
 
 
 # Illinois
+# Add Springfiled to Iowa, I-57, check chicagoland
 # Interstates (IL)
 IL I-24 I-57 IL/KY
 IL I-41 WI/IL 1B
@@ -280,7 +296,7 @@ MA I-95 64 MA/NH
 # Interstates (MI)
 MI I-75 282 352
 
-# Minnesota
+# Minnesota **UP TO DATE THROUGH 2023**
 # Interstates (MN)
 MN I-35 127 259
 MN I-35E 99 127
@@ -312,7 +328,7 @@ MO I-44 8 OK/MO
 MO I-55 AR/MO MO/IL
 MO I-64 36B MO/IL
 
-# Montana
+# Montana ** UP TO DATE THROUGH 2023 **
 # Interstates (MT)
 MT I-15 129 121
 MT I-15 348 278
@@ -364,7 +380,7 @@ NJ I-295 DE/NJ 2A
 # OTHER (NJ)
 NJ NJTpk I-295(1) 72(95)
 
-# New Mexico
+# New Mexico **UP TO DATE THROUGH 2023**
 # Interstates (NM)
 NM I-10 144 AZ/NM
 NM I-25 226 I-10
@@ -385,7 +401,7 @@ NC I-77 19 NC/VA
 NC I-85 SC/NC NC/VA
 NC I-485 10 23A
 
-# North Dakota
+# North Dakota **UP TO DATE THROUGH 2023**
 # Interstates (ND)
 ND I-29 63 64
 ND I-94 159 ND/MN
@@ -404,6 +420,8 @@ ND ND58 ND200 ND1804
 ND ND200 ND200Alt_W ND49
 ND ND200 ND22/22Bus ND58
 ND ND1804 MT/ND 2ndAve
+ND ND200AltWas ND200_W US83
+
 # Ohio
 # Interstates (OH)
 OH I-71 KY/OH I-90
@@ -561,6 +579,23 @@ VA I-395 1 VA/DC
 VA I-495 49 MD/VA
 VA I-495 170(95) VA/DC
 VA I-581 1 6
+# US Highways (VA)
+VA US13 I-64(282) VA/MD
+VA US15 US60 VA20
+VA US29 I-64 VA/DC
+VA US460 WV/VA I-81 (118)
+VA US460 I-581 VA24_E
+VA US60 VA24 US15
+VA US48 WV/VA I-81
+VA US301 VA/MD VA207
+# State Highways (VA)
+VA VA20 US15 I-64
+VA VA123 I-66 VA/DC
+VA VA24 US460_E US60
+VA VA207 US301 I-95
+VA VA267 I-66 DulAirRd
+
+
 
 # Washington 
 # Interstates (WA)
@@ -596,10 +631,10 @@ WI US2 MN/WI WI13_N
 # State Highways (WI)
 WI WI13 US2_W OldKRd_W
 
-# Wyoming
+# Wyoming **UP TO DATE THROUGH 2023**
 # Interstates (WY)
 WY I-25 CO/WY 8
-WY I-80 104 359
+WY I-80 215 359
 WY I-90 MT/WY WY/SD
 # US Highways (WY)
 WY US287 I-80(215) GraTetNP
@@ -649,6 +684,8 @@ DC RockCrkPkwy LinMemCir CalSt
 VA GWMemPkwy DC/VA I-495
 VA GWMemPkwy DC/VA I-495
 VA SpoRunPkwy VA124 GeoWasPkwy
+DC GWMemPkwy VA/DC DC/VA
+
 # OLYM
 WA HurRidRd ParkAve End
 WA UppHohRd US101 HohVisCen
