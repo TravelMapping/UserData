@@ -1,4 +1,4 @@
-# Date: 2023-08-18
+# Date: 2023-08-19
 # ----------------
 
 
@@ -420,16 +420,15 @@ DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line to be extended
 #ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
 #ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
 
-#FRA-BFC Dijon T1 Dijon-Gare         FRA-BFC Dijon T1 Quetigny                     #2023
-#FRA-BFC Dijon T2 Valmy              FRA-BFC Dijon T2 Chenove                      #2023
+FRA-BFC T1Dij DijGare QueCen         #2023
+FRA-BFC T2Dij Val CheCen             #2023
 
-#FRA-IDF Paris M1 La Defense         FRA-IDF Paris M1 Chateau de Vincennes         #2019
-#FRA-IDF Paris M7 La Couneuve        FRA-IDF Paris M7 Porte de Choisy              #2019
-#FRA-IDF Paris M14 Saint-Lazare      FRA-IDF Paris M14 Olympiades                  #2019
+FRA-IDF M1 DefGraArc ChaVin          #2019
+FRA-IDF M7 Cou8Mai1945 PorCho        #2019
+FRA-IDF M14 SaiLaz Oly               #2019
 
-#FRA-PAC Marseille M1 La Rose        FRA-PAC Marseille M1 La Fourragere            #2018
-#FRA-PAC Marseille M2 Bougainville   FRA-PAC Marseille M2 Ste. Marguerite Dromel   #2018
-
+FRA-PAC M1 LaRose Fou                #2018
+FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
 
 #HRV     Zagreb T2 Crnomerec         HRV     Zagreb T2 Savisce                     #2019, All routes as of 2019 except of short T1 at west end
 #HRV     Zagreb T4 Savski Most       HRV     Zagreb T4 Dubec                       #2019
@@ -441,7 +440,6 @@ DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line to be extended
 #HRV     Zagreb T12 Ljubljanica      HRV     Zagreb T12 Dubrava                    #2019
 #HRV     Zagreb T15 Mihaljevac       HRV     Zagreb T15 Dolje                      #2019
 #HRV     Zagreb T17 Precko           HRV     Zagreb T17 Borongaj                   #2019
-
 
 ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
 ITA-LOM M1Bis Bis Pag           #2019, Milano
