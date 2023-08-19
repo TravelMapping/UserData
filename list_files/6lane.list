@@ -1681,6 +1681,23 @@ WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
 
 
+#SOUTH AMERICA#
+##Chile##
+CHL R5 Ran_N AccSurSan
+CHL R5 30S ViaLoc_27N
+CHL R68 AvBerOHig R70
+CHL R68 R60CH_W R60CH_E
+CHL R70 TunSanCri EduCasVel #construction east of TunSanCri and around the rest of the loop
+CHL R78 BasGue Tal
+
+CHL AccSurSan R70 DomToc
+CHL AccVialAMB CosNor TerCarInt
+CHL AvGenVel R5_S 16
+CHL AvKen 1B 8B
+CHL CosNor 2 10 #construction westbound east of 2, eastbound at 10?
+CHL CosNor 11 31
+
+
 #EUROPE#
 ##Albania##
 ALB A3 UnaRe SH3_Lun
