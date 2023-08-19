@@ -1,4 +1,4 @@
-# Date: 2023-08-17
+# Date: 2023-08-18
 # ----------------
 
 
@@ -126,11 +126,11 @@ DEU-BW RS5 AalHbf BW/BY
 #### METROS/TRAMS ####
 ######################
 
-#CHE     Bern  3  Bern Bahnhof       CHE     Bern  3  Weissenbühl   #2021, including Bahnhof loop
-#CHE     Bern  6  Zytglogge          CHE     Bern  6  Worb Dorf     #2021
-#CHE     Bern  7  Bümpliz            CHE     Bern  7  Ostring       #2021
-#CHE     Bern  8  Brünnen Westside   CHE     Bern  8  Saali         #2021
-#CHE     Bern  9  Bern Bahnhof       CHE     Bern  9  Wabern        #2021, northern route was not in service due to construction
+CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
+CHE 6Ber ZytGlo WorbDorf    #2021
+CHE 7Ber OstRing Bum        #2021
+CHE 8Ber BruWestSideBf Saa  #2021
+CHE 9Ber BernBf Wab         #2021, northern route was not in service due to construction
 
 CZE A NemMot DepoHos #2019, Praha
 CZE B Zli CerMost    #2019, Praha
@@ -401,10 +401,10 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-TH Erfurt    STR 5 Zoopark         Hbf                                                          #2022
 #DEU-TH Erfurt    STR 6 Rieth           Steigerstraße                                                #2022, both directions at south end
 
-#DNK Copenhagen M1 Vanløse Vestamager                                                             #2020
-#DNK Copenhagen M2 Vanløse Lufthavnen                                                             #2020
-#DNK Copenhagen M3 full cityring                                                                  #2020
-#DNK Copenhagen M4 Københavns Hovedbanegård Orientkaj                                             #2020, line to be extended
+DNK M1 VanLose VesMag                #2020, Copenhagen
+DNK M2 VanLose LuftHav               #2020, Copenhagen
+DNK M3 HovBaneGard_A HovBaneGard_B   #2020, Copenhagen
+DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line to be extended
 
 #ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
 #ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
@@ -459,13 +459,13 @@ ITA-LAZ MC SanGio MonComPan     #2019, Roma
 
 LUX T1 LuxExpo LycBouWeg        #2023
 
-#POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
-#POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
-#POL     Warsaw T6  Metro Mlociny      POL   Goclawek                              #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
-#POL     Warsaw T7  P+R Al. Krakowska  POL   Centrum                               #2022, via Plac Zawiszy
-#POL     Warsaw T24 Centrum            POL   Goclawek                              #2022, via Most Poniatowskiego, Kinowa
-#POL     Warsaw T26 Metro Mlociny      POL   Metro Bemowo                          #2022, via Aspekt, Radiowa
-#POL     Warsaw T33 Metro Mlociny      POL   Rondo ONZ                             #2022, via Aspket, Sady Zoliborskiego, Stawki
+POL M1 Mlo Kab                  #2022
+POL M2 Bem Tro                  #2022, u/c at both ends
+POL 6War MetMlo Goc             #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
+POL 7War Cen PRAleKraSka        #2022, via Plac Zawiszy
+POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
+POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
+POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
 #TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
