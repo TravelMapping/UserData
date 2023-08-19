@@ -116,7 +116,7 @@ ENG CorML Pil BriTemMea
 ##to Gloucester
 ENG SevVlyLn Yate BriTemMea
 ##to Westbury
-ENG AvonVlyLn BriTemMea BraAvon
+ENG WesML BriTemMea BraAvon
 ##to Taunton
 ENG CorML BriTemMea Tau
 
@@ -137,7 +137,7 @@ ENG EGriLn Oxt EastGri
 ##Marshlink Line
 ENG MnkLn AshInt Has
 ##Arun Valley Line
-ENG ThaLnkRed GatAir Hors
+ENG ThaLnkPet GatAir Hors
 ENG ArunVlyLn Hor BogReg
 ENG ChiLn Bar Bos
 ##Sussex Coast Line
@@ -147,7 +147,7 @@ ENG SusDowLn Bri Sea
 
 #TransWilts Community Rail Partnership
 ENG TraWilLn Swi Wes
-ENG AvonVlyLn Wes Sal
+ENG WesML Wes Sal
 
 #Tyne Valley Line Community Rail Partnership
 ENG TyneVlyLn Car New
@@ -218,7 +218,8 @@ ENG ShaLn Kid Hag
 ENG XCLn BarGre Red
 
 #North Cheshire Community Rail Partnership
-ENG NorCheLn Hoo WarBankQuay
+ENG WirLnEll Hoo EllPort
+ENG NorCheLn EllPort WarBankQuay
 
 #Abbey Line Community Rail Partnership
 ENG AbbLn WatJct StAlbAbb
