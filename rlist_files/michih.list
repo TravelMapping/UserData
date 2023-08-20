@@ -1,4 +1,4 @@
-# Date: 2023-08-19
+# Date: 2023-08-20
 # ----------------
 
 
@@ -394,12 +394,13 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-ST Magdeburg STR10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
 #DEU-ST Magdeburg STR 2 Hasselbachplatz Westerhüsen                                                  #2020
 
-#DEU-TH Erfurt    STR 1 Europaplatz     Thüringenhalle                                               #2022, via Salinenstraße
-#DEU-TH Erfurt    STR 2 P+R Messe       Wiesenhügel                                                  #2022
-#DEU-TH Erfurt    STR 3 Europaplatz     Urbicher Kreuz                                               #2022
-#DEU-TH Erfurt    STR 4 Bindersleben    Ringelberg                                                   #2022, both directions west of Anger
-#DEU-TH Erfurt    STR 5 Zoopark         Hbf                                                          #2022
-#DEU-TH Erfurt    STR 6 Rieth           Steigerstraße                                                #2022, both directions at south end
+DEU-TH 1Erf EurPla ThuHal    #2022
+DEU-TH 2Erf PRPlaMes WieHug  #2022
+DEU-TH 3Erf EurPla UrbKre    #2022
+DEU-TH 4Erf BinLeb RinBerg   #2022
+DEU-TH 4Bin RinBerg BinLeb   #2022
+DEU-TH 5Erf ZooPark Hbf      #2022
+DEU-TH 6Erf Rie PusStr_B     #2022, both directions at south end
 
 DNK M1 VanLose VesMag                #2020, Copenhagen
 DNK M2 VanLose LuftHav               #2020, Copenhagen
