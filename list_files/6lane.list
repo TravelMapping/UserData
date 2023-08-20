@@ -203,6 +203,7 @@ MEX-DF ViadMigAle ParLira CalzTla
 MEX-DF ViadRioBec PueMor ViadMigAle
 MEX-DF ViadRioPie CalzTla CtoBic
 MEX-DF ViadTla RefAgr SanFer
+MEX-EMEX AutAIFA EMEX5D AerIntFA
 MEX-EMEX AutNauEca AquSer MEX-DF AutNauEca EjeCen
 MEX-EMEX AveLomVer BlvdSanMat BlvdHerCor_E
 MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
@@ -210,6 +211,7 @@ MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
 MEX-EMEX BlvdAer AvePasTol AerIntTol
 MEX-EMEX BlvdAviCam AniPer CamTep
 MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is sometimes northbound; the whole road is 3 lanes reversible north of AveLomVer?
+MEX-EMEX VialPriAIFA MEX85 AerIntFA
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
@@ -1681,6 +1683,23 @@ WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
 
 
+#SOUTH AMERICA#
+##Chile##
+CHL R5 Ran_N AccSurSan
+CHL R5 30S ViaLoc_27N
+CHL R68 AvBerOHig R70
+CHL R68 R60CH_W R60CH_E
+CHL R70 TunSanCri EduCasVel #construction east of TunSanCri and around the rest of the loop
+CHL R78 BasGue Tal
+
+CHL AccSurSan R70 DomToc
+CHL AccVialAMB CosNor TerCarInt
+CHL AvGenVel R5_S 16
+CHL AvKen 1B 8B
+CHL CosNor 2 10 #construction westbound east of 2, eastbound at 10?
+CHL CosNor 11 31
+
+
 #EUROPE#
 ##Albania##
 ALB A3 UnaRe SH3_Lun
@@ -2742,7 +2761,75 @@ CHE ZubHar 1 2
 CHE ZubWie 2 32
 
 
-#ASIA#
+#ASIA/OCEANIA#
+##Australia##
+AUS-NSW M1Bal MinjDr TweCoaRd
+AUS-NSW M1Haw A43 B83_Kar
+AUS-NSW M1Haw A49 NorCon_N
+AUS-NSW M1Syd M2 BraHwy
+AUS-NSW M1Syd CahExpy_N CroCityTun
+AUS-NSW M1Syd MacSt AnzPar
+AUS-NSW M1Syd TodAve BotRd
+AUS-NSW M1Syd BotRd M5
+AUS-NSW M1Wol B65_S PriHwy_Wol
+AUS-NSW M1Wol QuaRd TD9_Kia
+AUS-NSW M2 A3 A28
+AUS-NSW M2 A28 WinRd
+AUS-NSW A4 CahExpy HarbSt
+AUS-NSW A4 CroCityTun A40
+AUS-NSW M4 M8 MulRd
+AUS-NSW M5 M8 M7/M31
+AUS-NSW A6 HenLawDr BruDr #begins just north of HenLawDr at Clancy Street
+AUS-NSW M8 M4 EusRd
+AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
+AUS-NSW M31 1 6
+
+AUS-QLD M1 87(PM) 87 #construction south of 87(PM)
+AUS-QLD M1 87 110
+AUS-QLD M1 110 120
+AUS-QLD M1 127 152A #construction north of 152A to 163
+AUS-QLD M1 188 194
+AUS-QLD M2 9 11
+AUS-QLD M2 25 M15
+AUS-QLD M3Bal QLD58 GymRd
+AUS-QLD M3 M7_N M5
+AUS-QLD M3 QLD31 QLD32
+AUS-QLD M3 QLD33 HerSt
+AUS-QLD M3 TurSt M1
+AUS-QLD M5 6 10
+AUS-QLD M5 SumRd M7
+AUS-QLD M7Bri A3_N M3_N
+AUS-QLD M7 28 32
+
+AUS-SA M1 B28 A3/A17
+AUS-SA M2 A1 A7
+AUS-SA M2Noa A2 A13_N
+AUS-SA M2Noa A14 PanRd
+
+AUS-VIC M1 C417 W4 #only westbound between E3 and W1; eastbound uses M1MBT
+AUS-VIC M1 W2 W7 #construction at W7
+AUS-VIC M1 W7 W10
+AUS-VIC M1 W10 A10_E
+AUS-VIC M1MBT W1 E3 #eastbound only
+AUS-VIC M2 1 19
+AUS-VIC M3 MR29/83 A16
+AUS-VIC M79 1 4
+AUS-VIC M79 4 6
+AUS-VIC M80 M1 A51
+
+AUS-WA WA2 WA82 WA65 #construction from SheAve? to WA82
+AUS-WA WA2 WA8/60 RusRd
+AUS-WA WA4 WA3_N ColRd #railway construction in the median may have affected this from WA3_N to WA76; construction from ColRd south to N1/N94
+AUS-WA WA4 N1/N94 WA7
+AUS-WA WA4 WA7 WA3_S
+AUS-WA WA8 WA2/60 WA66
+AUS-WA WA8 WA66 N1/N94
+
+AUS-ACT ParWay TugPkwy EdiAve
+AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
+AUS-QLD SouCroWay QLD25 M1(105)
+
+
 ##Japan##
 JPN E1 1 7-1
 JPN E1 30 30-2
@@ -2834,7 +2921,7 @@ SGP PIE 2 35
 SGP PIE 35 41
 SGP SLE 1 11
 SGP TPE 1 14
-SGP AH2 HarWalk PasPanRd_W #continuations east to Kampong Bahru Road and west to the Harbour Drive exit
+#SGP West Coast Highway from Kampong Bahru Road west to the Harbour Drive exit
 #and other freeways not in sgpex
 
 
@@ -2891,3 +2978,17 @@ KOR Ex120 N77 7 #may not extend all the way west to N77
 KOR Ex130 Sin 8
 KOR Ex400Inc SeoDae 3 #the south end is at the ramps just south of the tunnel, which I suppose are part of SeoDae
 #KOR the freeway portion of the gap filler between KOR Ex700 and KOR Ex700Pag
+
+
+##New Zealand##
+NZL SH1 410 414
+NZL SH1 417 427
+NZL SH1 427 438
+NZL SH1 438 458
+NZL SH1 JohRd CenHwy_S
+NZL SH1 SH2 EveTer
+NZL SH1Wai TramRd SH74
+NZL SH16 3 19
+NZL SH20 9 16
+NZL SH20 16 19
+NZL SH20 19 24
