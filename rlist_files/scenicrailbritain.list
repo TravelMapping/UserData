@@ -116,7 +116,7 @@ ENG NucLn LeaSpa Nun
 ENG FurLn Lan BarFur
 
 #CUMBRIAN COAST LINE	BARROW-IN-FURNESS - CARLISLE
-ENG BarFur Car
+ENG CumCoaLn BarFur Car
 
 #LAKES LINE	OXENHOLME - WINDERMERE
 ENG LakLn OxeLakeDis Win
@@ -125,7 +125,7 @@ ENG LakLn OxeLakeDis Win
 ENG SaCLn Set Car
  
 #MID CHESHIRE LINE	MANCHESTER - CHESTER
-ENG ManPic Che
+ENG MidCheLn ManPic Che
 
 #CREWE - MANCHESTER
 ENG AirLn ManPic Cre
@@ -171,7 +171,9 @@ ENG SusDowLn Bri Sea
 ENG NorDowLn Rei Red
  
 #ARUN VALLEY LINE	GATWICK - BOSHAM
-ENG ThaLnkRed GatAir Hors
+ENG ThaLnkPet GatAir Hors
+ENG ArunVlyLn Hor Bar
+ENG ChiLn Bar Bos
 
 #SWALE LINE	SITTINGBOURNE - SHEERNESS
 ENG SwaLn Sit SheSea
@@ -231,7 +233,7 @@ ENG TarLn ExeStDav Bar
 
 #TRANSWILTS LINE	SWINDON - SALISBURY
 ENG TraWilLn Swi Wes
-ENG AvonVlyLn Wes Sal
+ENG WesML Wes Sal
 
 #MARITIME LINE	TRURO - FALMOUTH
 ENG MrtLn Tru FalDoc

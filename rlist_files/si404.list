@@ -131,7 +131,7 @@ ENG XCMLSou Bou Wol
 ENG XCMLDon Rea BirNewSt
 
 #####XR#####
-ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnShe HeaTer5 HeaTer23
 ENG EliLnHea HeaTer4 Pad
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
@@ -156,7 +156,7 @@ ENG MetLnWat Wat BakSt
 ENG NorLn Edg Mor
 ENG NorLnBar HighBar Mor
 ENG NorLnBat HighBar BatPowSta
-ENG NorLnEdg Egd BatPowSta
+ENG NorLnEdg Edg BatPowSta
 ENG NorLnMHE MillHillEast BatPowSta
 ENG NorLnMor MillHillEast Mor
 ENG PicLn HeaTer5 Coc
