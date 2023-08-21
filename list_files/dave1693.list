@@ -2812,8 +2812,9 @@ AUT L190 L191a A14(57)
 # the S/E end of A14 from exit 29 to 57 wasn't constructed yet in 1978
 AUT A14 57 61
 AUT S16 53 61
-# AUT L97 S16(53) B197
-AUT B197 S16_Lan L68
+# AUT L97 S16(53) L197 # route not in HB as of 28 May 2023
+AUT L197 S16 B197 # route newly added to HB spring 2023 (preview? active? not sure)
+AUT B197 L197 L68 # intersection list revamped spring 2023
 # AUT L68 B197 B171
 AUT L68-7 B197 B171 # traveled July 1978, route in preview Aug 2022
 AUT B171 L68 *A12(94)
@@ -2826,9 +2827,10 @@ AUT B171 B174 L11_Inn
 AUT B171 L11_Inn L8
 # Herrengasse, Rennweg, Universitaetstrasse, Angerzellgasse, Museumstrasse,
 # Amraserstrasse, Anton-Eder-Strasse, Resselstrasse, circle at A12/A13/L9
-# AUT L9Inn B174 Bilgenstr.
-# Bilgenstrasse leads to one set of the parking lots for the ski area
-# Olympic complex is south of town, near Igls
+AUT L9-7 B174 L33 # route newly added to HB spring 2023
+# a oiece of L33 should lead to one set of the parking lots for the ski area
+# Olympic sliding complex is south of town, near Igls where L9 meets L33
+# this is also near the end of the downhill ski run
 # Back to Innsbruck along roads already covered if not straight backtrack
 # Route from Innsbruck to Muenchen goes via Seefeld Pass with a stop at
 # Garmisch-Partenkirchen.
