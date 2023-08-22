@@ -1,4 +1,4 @@
-# Date: 2023-08-21
+# Date: 2023-08-22
 # ----------------
 
 
@@ -389,23 +389,24 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
 #DEU-ST Halle   STR12 Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz                                                                                               #2022
 
-#DEU-ST Magdeburg STR 9 Neustädter See  Reform (via Domplatz)                                        #2020
-#DEU-ST Magdeburg STR 1 IKEA            Kastanienstraße                                              #2020
-#DEU-ST Magdeburg STR10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
-#DEU-ST Magdeburg STR 2 Hasselbachplatz Westerhüsen                                                  #2020
+DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
+DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
+DEU-ST 10Mag KasStr +DIV_AltMar      #2020, line 10 via Hbf, 2nd segment is line 9 now
+DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, line 10 via Hbf, traveled with line 10
+DEU-ST 2Mag HasBachPla WesHus        #2020
 
-DEU-TH 1Erf EurPla ThuHal    #2022
-DEU-TH 2Erf PRPlaMes WieHug  #2022
-DEU-TH 3Erf EurPla UrbKre    #2022
-DEU-TH 4Erf BinLeb RinBerg   #2022
-DEU-TH 4Bin RinBerg BinLeb   #2022
-DEU-TH 5Erf ZooPark Hbf      #2022
-DEU-TH 6Erf Rie PusStr_B     #2022, both directions at south end
+DEU-TH 1Erf EurPla ThuHal            #2022
+DEU-TH 2Erf PRPlaMes WieHug          #2022
+DEU-TH 3Erf EurPla UrbKre            #2022
+DEU-TH 4Erf BinLeb RinBerg           #2022
+DEU-TH 4Bin RinBerg BinLeb           #2022
+DEU-TH 5Erf ZooPark Hbf              #2022
+DEU-TH 6Erf Rie PusStr_B             #2022, both directions at south end
 
 DNK M1 VanLose VesMag                #2020, Copenhagen
 DNK M2 VanLose LuftHav               #2020, Copenhagen
 DNK M3 HovBaneGard_A HovBaneGard_B   #2020, Copenhagen
-DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line to be extended
+DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line was to be extended
 
 ENG BakLn HarWea EleCas   #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
 ENG NorLn CamTown Mor     #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
@@ -417,7 +418,7 @@ ENG CirLn BakSt Vic       #2019, London Circle Line:         Baker Street - Vict
 ENG VicLn FinPark Bri     #2019, London Victoria Line:       Finsbury Park - Brixton
 ENG DisLn AldEast WestHam #2019, London District Line:       Aldgate East - West Ham
 ENG JubLn BakSt WestHam   #2019, London Jubilee Line:        West Ham - Baker Street
-ENG CenLn WestRui RuiGar  #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxford Circle
 ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
