@@ -1,4 +1,4 @@
-# Date: 2023-08-20
+# Date: 2023-08-21
 # ----------------
 
 
@@ -116,7 +116,7 @@ DEU-BW RS5 AalHbf BW/BY
 
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
-#ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
+ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
 
@@ -407,19 +407,19 @@ DNK M2 VanLose LuftHav               #2020, Copenhagen
 DNK M3 HovBaneGard_A HovBaneGard_B   #2020, Copenhagen
 DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line to be extended
 
-#ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
-#ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
-#ENG NorLnEdg EGW LSQ  #2019, London Northern Line:       Edgware - Leicester Square (western branch)
-#ENG PicLnUxb UXB ACT  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
-#ENG PicLnHT5 ACT CKS  #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
-#ENG MetLnUxb UXB BAS  #2019, London Metropolitian Line:  Uxbridge - Baker Street
-#ENG CirLn BAS VIC     #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
-#ENG VicLn FPK BRX     #2019, London Victoria Line:       Finsbury Park - Brixton
-#ENG DisLnRic ALE WEH  #2019, London District Line:       Aldgate East - West Ham
-#ENG JubLn BAS WEH     #2019, London Jubilee Line:        West Ham - Baker Street
-#ENG CenLnRui WRU OXC  #2019, London Central Line:        West Ruislip - Oxford Circle
-#ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
-#ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
+ENG BakLn HarWea EleCas   #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
+ENG NorLn CamTown Mor     #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
+ENG NorLnEdg Edg LeiSqu   #2019, London Northern Line:       Edgware - Leicester Square (western branch)
+ENG PicLnUxb Uxb ActTown  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
+ENG PicLn ActTown Coc     #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
+ENG MetLnUxb Uxb BakSt    #2019, London Metropolitian Line:  Uxbridge - Baker Street
+ENG CirLn BakSt Vic       #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
+ENG VicLn FinPark Bri     #2019, London Victoria Line:       Finsbury Park - Brixton
+ENG DisLn AldEast WestHam #2019, London District Line:       Aldgate East - West Ham
+ENG JubLn BakSt WestHam   #2019, London Jubilee Line:        West Ham - Baker Street
+ENG CenLn WestRui RuiGar  #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
+ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
 FRA-BFC T1Dij DijGare QueCen         #2023
 FRA-BFC T2Dij Val CheCen             #2023
