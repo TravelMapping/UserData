@@ -377,17 +377,16 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
 #DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
 
-#DEU-ST Hallle  STR 1 Frohe Zukunft - Marktplatz                                                                                                                           #2022
-#DEU-ST Halle   STR 2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
-#DEU-ST Halle   STR 3 Vogelweide - Beesen                                                                                                                                  #2022
-#DEU-ST Halle   STR 4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
-#DEU-ST Halle   STR 5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
-#DEU-ST Halle   STR 5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
-#DEU-ST Halle   STR 7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
-#DEU-ST Halle   STR 7 Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum                                                                                      #2022
-#DEU-ST Halle   STR 8 Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße                                                              #2022
-#DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
-#DEU-ST Halle   STR12 Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz                                                                                               #2022
+DEU-ST 1Hal FroZuk MarPla           #2022, closed south of Böllberg stop due to construction
+DEU-ST 2Hal SolStr SBfSudSta        #2022, Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt
+DEU-ST 3Hal VogWei Bee              #2022, Vogelweide - Beesen
+DEU-ST 4Hal KroWitz Hbf             #2022, Rennbahnkreuz - Franckeplatz - Hbf
+DEU-ST 5Hal KroWitz BadDurBergMar   #2022, Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg
+DEU-ST 5Amm FloGeyPla AmmDorf       #2022, Florian-Geyer-Platz - Ammendorf
+DEU-ST 7Hal KroWitz BusDorf         #2022, Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf; again traveled: Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum, i.e. directly via Richard-Wagner-Straße
+DEU-ST 8Hal Tro ElsaBraStrStr       #2022, Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße
+DEU-ST 10Hal GotBog Hbf             #2022, Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf
+DEU-ST 12Hal Tro RiePla             #2022, Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz
 
 DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
 DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
