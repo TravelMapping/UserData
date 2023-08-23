@@ -1,4 +1,4 @@
-# Date: 2023-07-31
+# Date: 2023-08-22
 # ----------------
 
 
@@ -116,7 +116,7 @@ DEU-BW RS5 AalHbf BW/BY
 
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
-#ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
+ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
 
@@ -126,15 +126,15 @@ DEU-BW RS5 AalHbf BW/BY
 #### METROS/TRAMS ####
 ######################
 
-#CHE     Bern  3  Bern Bahnhof       CHE     Bern  3  Weissenbühl   #2021, including Bahnhof loop
-#CHE     Bern  6  Zytglogge          CHE     Bern  6  Worb Dorf     #2021
-#CHE     Bern  7  Bümpliz            CHE     Bern  7  Ostring       #2021
-#CHE     Bern  8  Brünnen Westside   CHE     Bern  8  Saali         #2021
-#CHE     Bern  9  Bern Bahnhof       CHE     Bern  9  Wabern        #2021, northern route was not in service due to construction
+CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
+CHE 6Ber ZytGlo WorbDorf    #2021
+CHE 7Ber OstRing Bum        #2021
+CHE 8Ber BruWestSideBf Saa  #2021
+CHE 9Ber BernBf Wab         #2021, northern route was not in service due to construction
 
-#CZE     Praha MA Nemocnice Motol    CZE     Praha MA Depo Hostivar #2019
-#CZE     Praha MB Zlicin             CZE     Praha MB Cerny Most    #2019
-#CZE     Praha MC Letnany            CZE     Praha MC Haje          #2019
+CZE A NemMot DepoHos #2019, Praha
+CZE B Zli CerMost    #2019, Praha
+CZE C Let Haje       #2019, Praha
 
 #DEU-BB Frankfurt STR1 Stadion - Zentrum - Neubersinchen            #2022
 #DEU-BB Frankfurt STR4 Markendorf, Ort - Zentrum - Lebuser Vorstadt #2022
@@ -145,38 +145,44 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
 #DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
 
-DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
+DEU-BB 2Cot JesStr San             #2023
+DEU-BB 3Cot Str DIV_T1/T2          #2023
+DEU-BB 3Cot DIV_T1/T4 Mad          #2023
+DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
+DEU-BB 4Cot DIV_T3S SacDorf        #2023
 
-DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
-DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
-DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
+
+#DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
+
+#DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
+#DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
+#DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
-DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
-DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
-DEU-BW 4Man RP/BW Universitat                                                                  #2022
-DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+#DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
+#DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
+#DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
+#DEU-BW 4Man RP/BW Universitat                                                                  #2022
+#DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
-DEU-BW U1 Vaihingen FellbachLutherkirche                                                       #201x/2023
-DEU-BW U2 Rotebuhlplatz Staatsgalerie                                                          #201x, any
-DEU-BW U3 Vaihingen Plieningen                                                                 #2023
-DEU-BW U5 Pragfriedhof Charlottenplatz                                                         #201x, any
-DEU-BW U6 Gerlingen FlughavenMesse                                                             #2023
-DEU-BW U6 FeuerbachBahnhof Pragsattel                                                          #2023, U6
-DEU-BW U7 Monchfeld Hauptbahnhof                                                               #2023, U7 via Pragfriedhof
-DEU-BW U8 Vaihingen Ruhbank                                                                    #2023
-DEU-BW U12 Muhlhausen Durrlewang                                                               #2023, U12 via Hallschlag, Budapester Platz, Bopser
-DEU-BW U12 Lowentor Charlottenplatz                                                            #201x, U12? via Nordbahnhof
-DEU-BW U13 Lowentor BadCannstattWilhelmsplatz                                                  #201x, U13/U16?
-DEU-BW U14 Muhlhausen Hauptbahnhof                                                             #2023, U14 via Münster, Charlottenplatz, Berliner Platz
-DEU-BW U15 Stammheim Ruhbank                                                                   #2023
-DEU-BW U29 Botnang Hauptbahnhof                                                                #2023, U29 extended onto U2 service to Botnang
-DEU-BW S1 Stadtmitte Wenglingen                                                                #201x, S1
-DEU-BW S2 Fiderstadt Schorndorf                                                                #2022/23
-DEU-BW S4 Ludwigsburg Hauptbahnhof                                                             #2022, S4
-DEU-BW S5 BietigheimBissingen Hauptbahnhof                                                     #2023, S5
-DEU-BW S6 Renningen Hauptbahnhof                                                               #2020, S6
+DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
+DEU-BW U2 RotPla StaGal                                                                        #201x, any
+DEU-BW U3 Vai Pli                                                                              #2023
+DEU-BW U5 PragFriHof ChaPla                                                                    #201x, any
+DEU-BW U6 Ger FlugHafMes                                                                       #2023
+DEU-BW U7 MonFeld Hbf                                                                          #2023, U7 via Pragfriedhof
+DEU-BW U8 Vai RuhBank                                                                          #2023
+DEU-BW U12 MuhlHau Dur                                                                         #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U13 LowTor BadCanWilPla                                                                 #201x, U13/U16?
+DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
+DEU-BW U15 StaHeim RuhBank                                                                     #2023
+DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
+DEU-BW S1 StadtMitte Wendl                                                                     #201x, S1
+DEU-BW S2 FilderStadt SchornDorf                                                               #2022/23
+DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
+DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
+DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
+DEU-BW S11 DIV_BadCanE NeckarPark                                                              #2023, not traveled S11 but regional and long-distance traffic is routed along here
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
@@ -220,22 +226,26 @@ DEU-BW 2Ulm SciParkII KuhSch                                                    
 #DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
 #DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
 
-DEU-HH U1Ohl SH/HH Ohlstedt
-DEU-SH U1Hol HH/SH SH/HH
-DEU-HH U1Buc Volksdorf HH/SH
-#DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                                          #2020, All routes as of 2020
-DEU-SH U1Nor NorderstedtMitte SH/HH
-DEU-HH U1 SH/HH HH/SH
-DEU-SH U1 HH/SH Grosshansdorf
-#DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf                                      #2020
-DEU-HH U2 NiendorfNord Mummelmannsberg
-#DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg                                   #2020
-DEU-HH U3 Barmbek_1 WandsbekGartenstadt
-#DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)                               #2020
-DEU-HH U4 Elbbrucken Billstedt
-#DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
-DEU-HH S1 HamburgAltona Ohlsdorf
-#DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
+DEU-HH U1Ohl SH/HH OhlSte                                                                      #2020, All U routes as of 2020
+DEU-SH U1Hol HH/SH SH/HH                                                                       #2020
+DEU-HH U1Buc VolDorf HH/SH                                                                     #2020
+DEU-SH U1Nor NorSteMit SH/HH                                                                   #2020
+DEU-HH U1 SH/HH HH/SH                                                                          #2020
+DEU-SH U1 HH/SH GroHansDorf                                                                    #2020
+DEU-HH U2 NienDorfNord MumManBerg                                                              #2020
+DEU-HH U3 BarmBek_1 WanBekGarSta                                                               #2020
+DEU-HH U4 Elbbru BillSte                                                                       #2020
+DEU-SH S1 Wedel SH/HH                                                                          #2023
+DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
+DEU-HH S1Flu OhlsDorf HambuAirpo                                                               #2023
+DEU-SH S3 PinneBerg SH/HH                                                                      #2023
+DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
+DEU-NI S3Hor HH/NI Stade                                                                       #2023
+DEU-HH S11 Blank OhlsDorf                                                                      #2020/23
+DEU-HH S21 HolStr HH/SH                                                                        #2023
+DEU-SH S21 HH/SH AuMuhle                                                                       #2023
+#DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
+
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
 #DEU-HE  U2 Bad Homburg Gonzenheim   DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -252,21 +262,20 @@ DEU-HH S1 HamburgAltona Ohlsdorf
 #DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
 #DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
 
-DEU-MV 1Ros MecklenburgerAllee Hafenallee
-DEU-MV 3Ros NeuerFriedhof DierkowerAllee
-DEU-MV 5Ros MecklenburgerAllee Sudblick
-DEU-MV 6Ros NeuerFriedhof CampusSudstadt
+DEU-MV 1Ros MecBurAll HafAll
+DEU-MV 2Ros ReuHag KurtSchRing
+DEU-MV 3Ros NeuFrihof DieAll
+DEU-MV 5Ros MecBurAll SudBli
+DEU-MV 6Ros NeuFriHof CamSudSta
+DEU-MV S1 Warne RostoHbf
+DEU-MV S2 Warne Gustr
+DEU-MV S3 Warne Gustr
 
-DEU-MV 1Sch Kli HegStr
-#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
-DEU-MV 2Sch LanSie HegStr
-DEU-MV 2SchSta T1/T4 PlaFre
-# ==> 2nd branch missing in wpt file ==> to be reworked!
-#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
-DEU-MV 3Sch NeuPam HegStr
-#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
-DEU-MV 4Sch Kli NeuPam
-#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
+DEU-MV 1Sch Kli HegStr                            #2020
+DEU-MV 2Sch LanSie HegStr                         #2020
+DEU-MV 2Lan HegStr LanSie                         #2020
+DEU-MV 3Sch NeuPam HegStr                         #2020
+DEU-MV 4Sch Kli NeuPam                            #2020
 
 #DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
 #DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
@@ -368,92 +377,95 @@ DEU-MV 4Sch Kli NeuPam
 #DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
 #DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
 
-#DEU-ST Hallle  STR 1 Frohe Zukunft - Marktplatz                                                                                                                           #2022
-#DEU-ST Halle   STR 2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
-#DEU-ST Halle   STR 3 Vogelweide - Beesen                                                                                                                                  #2022
-#DEU-ST Halle   STR 4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
-#DEU-ST Halle   STR 5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
-#DEU-ST Halle   STR 5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
-#DEU-ST Halle   STR 7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
-#DEU-ST Halle   STR 7 Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum                                                                                      #2022
-#DEU-ST Halle   STR 8 Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße                                                              #2022
-#DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
-#DEU-ST Halle   STR12 Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz                                                                                               #2022
+DEU-ST 1Hal FroZuk MarPla           #2022, closed south of Böllberg stop due to construction
+DEU-ST 2Hal SolStr SBfSudSta        #2022, Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt
+DEU-ST 3Hal VogWei Bee              #2022, Vogelweide - Beesen
+DEU-ST 4Hal KroWitz Hbf             #2022, Rennbahnkreuz - Franckeplatz - Hbf
+DEU-ST 5Hal KroWitz BadDurBergMar   #2022, Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg
+DEU-ST 5Amm FloGeyPla AmmDorf       #2022, Florian-Geyer-Platz - Ammendorf
+DEU-ST 7Hal KroWitz BusDorf         #2022, Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf; again traveled: Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum, i.e. directly via Richard-Wagner-Straße
+DEU-ST 8Hal Tro ElsaBraStrStr       #2022, Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße
+DEU-ST 10Hal GotBog Hbf             #2022, Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf
+DEU-ST 12Hal Tro RiePla             #2022, Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz
 
-#DEU-ST Magdeburg STR 9 Neustädter See  Reform (via Domplatz)                                        #2020
-#DEU-ST Magdeburg STR 1 IKEA            Kastanienstraße                                              #2020
-#DEU-ST Magdeburg STR10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
-#DEU-ST Magdeburg STR 2 Hasselbachplatz Westerhüsen                                                  #2020
+DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
+DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
+DEU-ST 10Mag KasStr +DIV_AltMar      #2020, line 10 via Hbf, 2nd segment is line 9 now
+DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, line 10 via Hbf, traveled with line 10
+DEU-ST 2Mag HasBachPla WesHus        #2020
 
-#DEU-TH Erfurt    STR 1 Europaplatz     Thüringenhalle                                               #2022, via Salinenstraße
-#DEU-TH Erfurt    STR 2 P+R Messe       Wiesenhügel                                                  #2022
-#DEU-TH Erfurt    STR 3 Europaplatz     Urbicher Kreuz                                               #2022
-#DEU-TH Erfurt    STR 4 Bindersleben    Ringelberg                                                   #2022, both directions west of Anger
-#DEU-TH Erfurt    STR 5 Zoopark         Hbf                                                          #2022
-#DEU-TH Erfurt    STR 6 Rieth           Steigerstraße                                                #2022, both directions at south end
+DEU-TH 1Erf EurPla ThuHal            #2022
+DEU-TH 2Erf PRPlaMes WieHug          #2022
+DEU-TH 3Erf EurPla UrbKre            #2022
+DEU-TH 4Erf BinLeb RinBerg           #2022
+DEU-TH 4Bin RinBerg BinLeb           #2022
+DEU-TH 5Erf ZooPark Hbf              #2022
+DEU-TH 6Erf Rie PusStr_B             #2022, both directions at south end
 
-#DNK Copenhagen M1 Vanløse Vestamager                                                             #2020
-#DNK Copenhagen M2 Vanløse Lufthavnen                                                             #2020
-#DNK Copenhagen M3 full cityring                                                                  #2020
-#DNK Copenhagen M4 Københavns Hovedbanegård Orientkaj                                             #2020, line to be extended
+DNK M1 VanLose VesMag                #2020, Copenhagen
+DNK M2 VanLose LuftHav               #2020, Copenhagen
+DNK M3 HovBaneGard_A HovBaneGard_B   #2020, Copenhagen
+DNK M4 HovBaneGard OriKaj            #2020, Copenhagen, line was to be extended
 
-#ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
-#ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
-#ENG NorLnEdg EGW LSQ  #2019, London Northern Line:       Edgware - Leicester Square (western branch)
-#ENG PicLnUxb UXB ACT  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
-#ENG PicLnHT5 ACT CKS  #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
-#ENG MetLnUxb UXB BAS  #2019, London Metropolitian Line:  Uxbridge - Baker Street
-#ENG CirLn BAS VIC     #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
-#ENG VicLn FPK BRX     #2019, London Victoria Line:       Finsbury Park - Brixton
-#ENG DisLnRic ALE WEH  #2019, London District Line:       Aldgate East - West Ham
-#ENG JubLn BAS WEH     #2019, London Jubilee Line:        West Ham - Baker Street
-#ENG CenLnRui WRU OXC  #2019, London Central Line:        West Ruislip - Oxford Circle
-#ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
-#ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
+ENG BakLn HarWea EleCas   #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
+ENG NorLn CamTown Mor     #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
+ENG NorLnEdg Edg LeiSqu   #2019, London Northern Line:       Edgware - Leicester Square (western branch)
+ENG PicLnUxb Uxb ActTown  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
+ENG PicLn ActTown Coc     #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
+ENG MetLnUxb Uxb BakSt    #2019, London Metropolitian Line:  Uxbridge - Baker Street
+ENG CirLn BakSt Vic       #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
+ENG VicLn FinPark Bri     #2019, London Victoria Line:       Finsbury Park - Brixton
+ENG DisLn AldEast WestHam #2019, London District Line:       Aldgate East - West Ham
+ENG JubLn BakSt WestHam   #2019, London Jubilee Line:        West Ham - Baker Street
+ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
+ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-#FRA-BFC Dijon T1 Dijon-Gare         FRA-BFC Dijon T1 Quetigny                     #2023
-#FRA-BFC Dijon T2 Valmy              FRA-BFC Dijon T2 Chenove                      #2023
+FRA-BFC T1Dij DijGare QueCen         #2023
+FRA-BFC T2Dij Val CheCen             #2023
 
-#FRA-IDF Paris M1 La Defense         FRA-IDF Paris M1 Chateau de Vincennes         #2019
-#FRA-IDF Paris M7 La Couneuve        FRA-IDF Paris M7 Porte de Choisy              #2019
-#FRA-IDF Paris M14 Saint-Lazare      FRA-IDF Paris M14 Olympiades                  #2019
+FRA-IDF M1 DefGraArc ChaVin          #2019
+FRA-IDF M7 Cou8Mai1945 PorCho        #2019
+FRA-IDF M14 SaiLaz Oly               #2019
 
-#FRA-PAC Marseille M1 La Rose        FRA-PAC Marseille M1 La Fourragere            #2018
-#FRA-PAC Marseille M2 Bougainville   FRA-PAC Marseille M2 Ste. Marguerite Dromel   #2018
+FRA-PAC M1 LaRose Fou                #2018
+FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
 
+#2019, All routes in service as-of 2019 except of short T1 at west end
+HRV 2Zag Crn Sav                     #2019
+HRV 4Zag SavMost Dube                #2019
+HRV 5Zag Pre Sve                     #2019, traveled on rerouted line 7
+HRV 6Zag Crn Drz                     #2019, south end closed due to long-term construction
+HRV 8Zag Mih Zap                     #2019
+HRV 9Zag Lju Bor                     #2019
+HRV 11Zag Crn Dube                   #2019
+HRV 12Zag Lju Dubr                   #2019
+HRV 15Zag Mih GraDol                 #2019
+HRV 17Zag Pre Bor                    #2019
 
-#HRV     Zagreb T2 Crnomerec         HRV     Zagreb T2 Savisce                     #2019, All routes as of 2019 except of short T1 at west end
-#HRV     Zagreb T4 Savski Most       HRV     Zagreb T4 Dubec                       #2019
-#HRV     Zagreb T6 Crnomerec         HRV     Zagreb T6 Sopot                       #2019
-#HRV     Zagreb T7 Savski Most       HRV     Zagreb T7 Dubrava                     #2019
-#HRV     Zagreb T8 Mihaljevac        HRV     Zagreb T8 Zaprude                     #2019
-#HRV     Zagreb T9 Ljubljanica       HRV     Zagreb T9 Borongaj                    #2019
-#HRV     Zagreb T11 Cronomerec       HRV     Zagreb T11 Dubec                      #2019
-#HRV     Zagreb T12 Ljubljanica      HRV     Zagreb T12 Dubrava                    #2019
-#HRV     Zagreb T15 Mihaljevac       HRV     Zagreb T15 Dolje                      #2019
-#HRV     Zagreb T17 Precko           HRV     Zagreb T17 Borongaj                   #2019
+ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
+ITA-LOM M1Bis Bis Pag           #2019, Milano
+ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
+ITA-LOM M2Abb Fam AbbChiRos     #2019, Milano
+ITA-LOM M2Col ColNord CasGob    #2019, Milano
+ITA-LOM M3 Com SanDon           #2019, Milano
+ITA-LOM M5 Big SanSiroSta       #2019, Milano
+ITA-LOM S4 MilanoAffori MilanoCadorna   #2019, Milano actually any R service
 
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Rho Fiera                   #2019
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Bisceglie                   #2019
-#ITA     Milano M2 Assago            ITA     Milano M2 Gessate                     #2019
-#ITA     Milano M2 Abbiategrasso     ITA     Milano M2 Cologno Nord                #2019
-#ITA     Milano M3 San Donato        ITA     Milano M3 Comasina                    #2019
-#ITA     Milano M5 Bignami           ITA     Milano M5 San Siro Stadio             #2019
-#ITA     Milano R Affori FN          ITA     Milano R Cadorna FN                   #2019
-#ITA     Roma MA Battistini          ITA     Roma MA Anagnina                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Rebibbia                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Jonio                         #2019
-#ITA     Roma MC San Giovanni        ITA     Roma MC Montecompatri/Pantano         #2019
+ITA-LAZ MA  Bat Ana             #2019, Roma
+ITA-LAZ MB  Reb Lau             #2019, Roma
+ITA-LAZ MB1 Jon Bol             #2019, Roma
+ITA-LAZ MC SanGio MonComPan     #2019, Roma
 
-#LUX     Luxembourg 1 Lycee Bouneweg   LUX   Luxembourg Luxexpo                    #2023
+LUX T1 LuxExpo LycBouWeg        #2023
 
-#POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
-#POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
-#POL     Warsaw T6  Metro Mlociny      POL   Goclawek                              #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
-#POL     Warsaw T7  P+R Al. Krakowska  POL   Centrum                               #2022, via Plac Zawiszy
-#POL     Warsaw T24 Centrum            POL   Goclawek                              #2022, via Most Poniatowskiego, Kinowa
-#POL     Warsaw T26 Metro Mlociny      POL   Metro Bemowo                          #2022, via Aspekt, Radiowa
-#POL     Warsaw T33 Metro Mlociny      POL   Rondo ONZ                             #2022, via Aspket, Sady Zoliborskiego, Stawki
+POL M1 Mlo Kab                  #2022
+POL M2 Bem Tro                  #2022, u/c at both ends
+POL 6War MetMlo Goc             #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
+POL 7War Cen PRAleKraSka        #2022, via Plac Zawiszy
+POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
+POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
+POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
 #TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022

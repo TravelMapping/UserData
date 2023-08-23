@@ -1,58 +1,58 @@
-NY PortWasBra PenSta PortWas
-NY RonBra PenSta Jam
-NY MonBra HunPtAve Jam
+NY PortWasBra PennSta PortWas
+NY RonBra PennSta Jam
+NY MonBra HunAve Jam
+NY MonBra SKIP_Hic Bab
 
-NY NewHavLnOut GraCen CT NewHavLnOut Str
+NY NewHavLn GraCen CT NewHavLn Str
 CT NewHavLnCan Sta NewCan
 CT NewHavLnWat Bri Wat
-NY HarLnOut GraCen Sou
-NY HarLnWas Sou Was
-NY HudLnInn GraCen DobFry
+NY HarLn GraCen Was
+NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
 NY NJCoaLn PennSta NJ NJerCoaLn Woo
-NJ MonBooLnHac Hob NewBroSt
+NJ GlaBra Hob NewBroSt
 
 
 MD MetSub OwiMil JohHopHos
 MD BLRL NLin HuntVly
 
 MA BluLn Sta Bow
-MA OraLn DowXing NorSta
-MA RedLn DowXing Har
+MA OraLn Sta ComCol
+MA RedLn ParkSt Har
 MA GreLnD Riv Fen
-MA GreLnD Ken NorSta
+MA GreLnD Ken GovCen
 
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
-NY 2 Wak241stSt BroCol
-NY 3 Har148thSt NewLotsAve
+NY 2 Wak241St FlaAveBroCol
+NY 3 Har148St NewLotsAve
 NY 4 Woo CroHeiUtiAve
 NY 5 EasDyreAve FlaAveBroCol
-NY 6 PelBayPk CityHall
-NY 7 34thStHudYar FluMainSt
-NY A 207thStInw FarRocMottAve
-NY AOzo RocBlvd OzoPkLefBlvd
-NY B BedPkBlvd BriBea
-NY C 168thSt EucAve
-NY D Nor205thSt ConIslStiAve
-NY E JamCenParArc WTCHub
-NY F Jam179thSt ConIslStiAve
+NY 6 PelBayPk BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A 207StInw FarRocMottAve
+NY AOzo 207StInw OzoPkLefBlvd
+NY B 145St BriBea
+NY C 168St EucAve
+NY D Nor205St ConIslStiAve
+NY E JamCenParArc WTC
+NY F Jam179St ConIslStiAve
 NY G CouSq ChuAve
-NY SRoc BroCha RocParkBea116thSt
+NY SRoc BroCha RocParkBea116St
 NY J BroSt JamCenParArc
-NY L 8thAve CanRocPkwy
-NY M MidVilMetAve ForHil71stAve
+NY L 8Ave CanRocPkwy
+NY M MidVilMetAve ForHil71Ave
 NY N AstDitBlvd ConIslStiAve
-NY Q 96thSt ConIslStiAve
-NY R ForHil71stAve BayRid95thSt
+NY Q 96St ConIslStiAve
+NY R ForHil71Ave BayRid95St
 NY SPro FraAve ProPk
 NY W AstDitBlvd WhiStSFry
 
-NJ PATHH33 Hob NY PATHH33 33rdSt
-NJ PATHHWT Hob NY PATHHWT WTCHub
-NJ PATHJ33 JouSq NY PATHJ33 33rdSt
-NJ PATHNWT NewPenn NY PATHNWT WTCHub
+NJ PATHH33 Hob NY PATHH33 33St
+NJ PATHHWT Hob NY PATHHWT WTC
+NJ PATHJ33 JouSq NY PATHJ33 33St
+NJ PATHNWT NewPenn NY PATHNWT WTC
 
 NJ HBLR8HT 8thSt HobTer
 NJ HBLRHTT HobTer TonAve
@@ -62,11 +62,11 @@ NJ NewCitySub PennSta GroSt
 NJ BroStExt PennSta BroadStSta
 
 NJ AirTrn NewLibAir TA
-NY AirTrnATL T1 T2
-NY AirTrnHow HowBea T8
-NY AirTrnJam Jam T2
+NY AirTrnATL T8_E T8_W
+NY AirTrnHow HowBea Loop
+NY AirTrnJam Jam Loop
 
-NY RIT Manhattan RooseveltIsland
+NY RIT Man RooIsl
 
 NY SIR StGeo Tot
 
@@ -77,7 +77,36 @@ VA YelLn Hun DC YelLn GalPla
 
 PA BlueLn Gat SouHilJct
 
-PA BluLn 40thSt 2ndSt
-PA OraLn LomSou CityHall
+PA MarFraLn 40th 34th
+PA MarFraLn 30th 5th
+PA BroStLn EllFed CityHall
+
+GA RedLn Air NorSpr
+GA SkyTrn Air RenCarCen
+
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+FL InnLp GovCen_S GovCen_N
+FL MiaM MIA IntCen
+
+OH RedLn Bro TriCCamDis
+
+IL BroLn Bel Loop
+IL GreLn ClaLake 35thBro
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn Sox35th How
+IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
+
+ON 1 SheW Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+
+QC GreLn Ang HonBea
+QC OraLn CoteVer Mon
+QC YelLn BerUQAM LonUniDeShe
+QC BluLn Sno SaiMic
