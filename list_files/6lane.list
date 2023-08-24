@@ -203,6 +203,7 @@ MEX-DF ViadMigAle ParLira CalzTla
 MEX-DF ViadRioBec PueMor ViadMigAle
 MEX-DF ViadRioPie CalzTla CtoBic
 MEX-DF ViadTla RefAgr SanFer
+MEX-EMEX AutAIFA EMEX5D AerIntFA
 MEX-EMEX AutNauEca AquSer MEX-DF AutNauEca EjeCen
 MEX-EMEX AveLomVer BlvdSanMat BlvdHerCor_E
 MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
@@ -210,6 +211,7 @@ MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
 MEX-EMEX BlvdAer AvePasTol AerIntTol
 MEX-EMEX BlvdAviCam AniPer CamTep
 MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is sometimes northbound; the whole road is 3 lanes reversible north of AveLomVer?
+MEX-EMEX VialPriAIFA MEX85 AerIntFA
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
@@ -1681,6 +1683,23 @@ WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
 
 
+#SOUTH AMERICA#
+##Chile##
+CHL R5 Ran_N AccSurSan
+CHL R5 30S ViaLoc_27N
+CHL R68 AvBerOHig R70
+CHL R68 R60CH_W R60CH_E
+CHL R70 TunSanCri EduCasVel #construction east of TunSanCri and around the rest of the loop
+CHL R78 BasGue Tal
+
+CHL AccSurSan R70 DomToc
+CHL AccVialAMB CosNor TerCarInt
+CHL AvGenVel R5_S 16
+CHL AvKen 1B 8B
+CHL CosNor 2 10 #construction westbound east of 2, eastbound at 10?
+CHL CosNor 11 31
+
+
 #EUROPE#
 ##Albania##
 ALB A3 UnaRe SH3_Lun
@@ -2902,7 +2921,7 @@ SGP PIE 2 35
 SGP PIE 35 41
 SGP SLE 1 11
 SGP TPE 1 14
-SGP AH2 HarWalk PasPanRd_W #continuations east to Kampong Bahru Road and west to the Harbour Drive exit
+#SGP West Coast Highway from Kampong Bahru Road west to the Harbour Drive exit
 #and other freeways not in sgpex
 
 
