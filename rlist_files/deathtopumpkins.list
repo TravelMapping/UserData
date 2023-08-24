@@ -18,6 +18,7 @@ MA FitLn BosNor Wac
 MA FraLn ForPk495 BosSou
 MA GreLn QuiCen BosSou
 MA HavLn BosNor Hav
+MA HavLnWilWil BosNor Hav
 MA KinLn KinRte3 Bra
 MA LowLn BosNor Low
 MA MidLn MidLak BosSou
@@ -57,6 +58,9 @@ NY BMR ErieCanHar Uni
 
 VA BluLn FraSpr VA/DC
 DC BluLn VA/DC Smi
+
+QC OraLn BerUQAM Lau
+QC YelLn BerUQAM LonUniDeShe
 
 ENG HEx HXX HWV
 ENG WCMLC LonEus ENG/WLS
