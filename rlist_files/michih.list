@@ -1,4 +1,4 @@
-# Date: 2023-08-22
+# Date: 2023-08-25
 # ----------------
 
 
@@ -24,7 +24,9 @@ DEU-BY RS7 BW/BY Mem
 #DEU-BY  Regensburg Hbf               DEU-BY  Marktredwitz      #2022, RB23
 #DEU-BY  Marktredwitz                 DEU-BY  Hof Hbf           #2022, RB24
 #DEU-BY  Hof Hbf                      DEU-SN  Chemnitz Hbf      #2022, RE3 via Zwickau, Glauchau
+DEU-SN S3Dre FreiBerg DreHbf                                    #2022, traveled as RB30 from Chemnitz
 #DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
+DEU-SN S1Dre Cos DreHbf                                         #2022, traveled as RB18 to Cottbus
 #DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
@@ -351,18 +353,21 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-SN Chemnitz STR 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
 #DEU-SN Chemnitz STR 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
 
-#DEU-SN Dresden STR 1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              #2020, end to end
-#DEU-SN Dresden STR 2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          #2020, end to end
-#DEU-SN Dresden STR 3 Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf                                                              #2020
-#DEU-SN Dresden STR 4 Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)    #2020, end to end
-#DEU-SN Dresden STR 6 Striesen - Niedersedlitz (E)                                                                                                        #2020
-#DEU-SN Dresden STR 7 Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)                                                        #2020, end to end
-#DEU-SN Dresden STR 8 Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf                                                                                #2020
-#DEU-SN Dresden STR 9 Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)  #2020, end to end
-#DEU-SN Dresden STR11 Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen                                     #2020
-#DEU-SN Dresden STR12 Leutewitz (E) - Löbtau - Postplatz                                                                                                  #2020
-#DEU-SN Dresden STR13 Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße                                                                          #2020
-#DEU-SN Dresden S 1 Bischofsplatz - Bf Mitte - Hbf                                                                                                      #2020
+DEU-SN 1Dre LeuWitz ProGleSch                #2020, end to end; Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)
+DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)
+DEU-SN 3Dre WilMann Hbf                      #2020; Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 4Dre WeinBoh AntLeiStr
+DEU-SN 4Dre PostPla LauGastKronStaPla        #2020, end to end but rerouted; Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)
+DEU-SN 6Dre LudHartMannStr SBfNieSed         #2020; Striesen - Niedersedlitz (E)
+DEU-SN 7Dre WeixDorfRatStr PenGleSch         #2020, end to end; Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)
+DEU-SN 8Dre HelKieWeg CarPla
+DEU-SN 8Dre DIV_KulzRing Hbf                 #2020, rerouted; Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 9Dre RiePla NeuStaMar
+DEU-SN 8Dre CarPla NeuStaMar
+DEU-SN 9Dre +DIV_KulzRing ProGleSch          #2020, end to end but rerouted; Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)
+DEU-SN 11Dre WaldSch PostPla                 #2020; Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen
+DEU-SN 12Dre LeuWitz PostPla                 #2020; Leutewitz (E) - Löbtau - Postplatz
+DEU-SN 13Dre Mic BauStrRotBurStr             #2020; Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße
 
 #DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
 #DEU-SN Leipzig STR 2 Grünau-Nord - W-L-Platz                                                                              #2020
