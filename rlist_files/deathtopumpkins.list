@@ -10,7 +10,7 @@ MA OraLn ForHil OakGro
 MA RedLn Ash Ale
 MA RedLnBra Bra JFK
 MA GreLnB BosCol ParkSt
-MA GreLnC CleCir NorSta
+MA GreLnC CleCir GovCen
 MA GreLnD Riv Lec
 MA GreLnE HeathSt Lec
 MA FaiLn Rea BosSou
@@ -67,14 +67,11 @@ ENG WCMLC LonEus ENG/WLS
 WLS WCMLC ENG/WLS ColBay
 ENG ELL ZLW ROE
 ENG WokLn LonWat Vau
-ENG EliLn DIV_Air TotCouRd
-ENG EliLn Whi DIV_She
-ENG EliLnHea DIV_HT5 Pad
-ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnShe HeaTer5 TotCouRd
 ENG EliLnShe Whi Str
 ENG DLR BAN CUS
 ENG DLRStI StrInt Str
-ENG DLRTow TOG SHA
+ENG DLRRoy TOG SHA
 ENG BakLn OXC WAT
 ENG CenLn Que Str
 ENG CirLn PAD_1 KIC
