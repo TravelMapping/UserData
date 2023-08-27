@@ -632,6 +632,7 @@ AL AL210 AL52_E US231_S
 AR AR4Cov OK/AR US59/71
 AR AR16 I-49(62) I-49(61)
 AR AR102 WalBlvd I-49
+AR AR112 AR16S I-49
 AR AR151 TX/AR 1
 AR AR180 I-49/62 US71Bus
 
@@ -657,7 +658,7 @@ DE DE20 US113_N DE54
 DE DE23 MasLan DE5/24
 DE DE23 DE1D_S DE1
 DE DE24 US13 DE1
-DE DE26 MD/DE DE17
+DE DE26 MD/DE DE1
 DE DE30 US113/20 US9/404
 DE DE54 MD/DE DE1
 DE DE54Del MD/DE DE/MD
@@ -770,7 +771,7 @@ MD MD90 US50 MD528
 MD MD94 Mon/How I-70
 MD MD97 MD390 I-495
 MD MD97 MD140_E MD/PA
-MD MD99 MD32 US29e
+MD MD99 MD32 US29
 MD MD100 US29 MD177
 MD MD103 US29 End
 MD MD104 MD103 MD108
@@ -1023,8 +1024,12 @@ VA SpoRunPkwy VA124 GeoWasPkwy
 # # # # # # # # # # # # # # # #
 
 #### changelog
+# 8/26/2023
+## added section of DE 26, spelling
+# 8/24/2023
+## added forgotten section of AR 112 in Fayetteville, AR
 # 8/23/2023
-## added travel to and from Chincoteague
+## added travel to and from Chincoteague, VA
 # 8/21/2023
 ## added traveled routes in MD and DE
 # 7/4/2023
