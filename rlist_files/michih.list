@@ -1,6 +1,5 @@
-# Date: 2023-08-26
+# Date: 2023-08-28
 # ----------------
-
 
 ######################
 ####   RAILWAYS   ####
@@ -115,13 +114,11 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
-
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
 ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
-
 
 
 ######################
@@ -138,8 +135,8 @@ CZE A NemMot DepoHos #2019, Praha
 CZE B Zli CerMost    #2019, Praha
 CZE C Let Haje       #2019, Praha
 
-#DEU-BB Frankfurt STR1 Stadion - Zentrum - Neubersinchen            #2022
-#DEU-BB Frankfurt STR4 Markendorf, Ort - Zentrum - Lebuser Vorstadt #2022
+DEU-BB 1Fra Sta NeuBer             #2022
+DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
 
 #DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
 #DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
@@ -152,7 +149,6 @@ DEU-BB 3Cot Str DIV_T1/T2          #2023
 DEU-BB 3Cot DIV_T1/T4 Mad          #2023
 DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
 DEU-BB 4Cot DIV_T3S SacDorf        #2023
-
 
 #DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
@@ -247,7 +243,6 @@ DEU-HH S11 Blank OhlsDorf                                                       
 DEU-HH S21 HolStr HH/SH                                                                        #2023
 DEU-SH S21 HH/SH AuMuhle                                                                       #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
-
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
 #DEU-HE  U2 Bad Homburg Gonzenheim   DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -451,8 +446,7 @@ HRV 17Zag Pre Bor                    #2019
 ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
 ITA-LOM M1Bis Bis Pag           #2019, Milano
 ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
-ITA-LOM M2Abb Fam AbbChiRos     #2019, Milano
-ITA-LOM M2Col ColNord CasGob    #2019, Milano
+ITA-LOM M2Abb ColNord AbbChiRos #2019, Milano
 ITA-LOM M3 Com SanDon           #2019, Milano
 ITA-LOM M5 Big SanSiroSta       #2019, Milano
 ITA-LOM S4 MilanoAffori MilanoCadorna   #2019, Milano actually any R service
