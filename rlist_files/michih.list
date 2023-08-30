@@ -1,4 +1,4 @@
-# Date: 2023-08-28
+# Date: 2023-08-30
 # ----------------
 
 ######################
@@ -274,10 +274,10 @@ DEU-MV 2Lan HegStr LanSie                         #2020
 DEU-MV 3Sch NeuPam HegStr                         #2020
 DEU-MV 4Sch Kli NeuPam                            #2020
 
-#DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
-#DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
-#DEU-NI  Brunswick 2 Hbf                        DEU-NI  Heidberg Anklamstraße                  #2022, not standard route
-#DEU-NI  Brunswick 5 Hbf                        DEU-NI  Luisenstraße                           #2022, via Museumstraße
+DEU-NI 1Bra HeiBli SalzDahWeg                     #2022, Wenden Heideblic -  Rathaus - Hbf - Stöckheim Salzdahlumer Weg
+DEU-NI 2Bra OttRodStr Sch                         #2022 Ottendorfer Str - Schloß
+DEU-NI 2Bra BurPark AnkStr                        #2022 Hbf (rerouted) - Heidberg Anklamstraße
+DEU-NI 5Bra LuiStr Hbf                            #2022 Hbf - Museumstraße - Luisenstraße
 
 #DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
 #DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
