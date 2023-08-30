@@ -235,13 +235,13 @@ DEU-HH U3 BarmBek_1 WanBekGarSta                                                
 DEU-HH U4 Elbbru BillSte                                                                       #2020
 DEU-SH S1 Wedel SH/HH                                                                          #2023
 DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
-DEU-HH S1Flu OhlsDorf HambuAirpo                                                               #2023
-DEU-SH S3 PinneBerg SH/HH                                                                      #2023
+DEU-HH S1Flu Ohl HamBuAirPort                                                                  #2023
+DEU-SH S3 PinBerg SH/HH                                                                        #2023
 DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
-DEU-NI S3Hor HH/NI Stade                                                                       #2023
-DEU-HH S11 Blank OhlsDorf                                                                      #2020/23
+DEU-NI S3Hor HH/NI Sta                                                                         #2023
+DEU-HH S11 Bla Ohl                                                                             #2020/23
 DEU-HH S21 HolStr HH/SH                                                                        #2023
-DEU-SH S21 HH/SH AuMuhle                                                                       #2023
+DEU-SH S21 HH/SH AuMuh                                                                         #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -264,9 +264,9 @@ DEU-MV 2Ros ReuHag KurtSchRing
 DEU-MV 3Ros NeuFrihof DieAll
 DEU-MV 5Ros MecBurAll SudBli
 DEU-MV 6Ros NeuFriHof CamSudSta
-DEU-MV S1 Warne RostoHbf
-DEU-MV S2 Warne Gustr
-DEU-MV S3 Warne Gustr
+DEU-MV S1 War RosHbf
+DEU-MV S2 War Gus
+DEU-MV S3 War Gus
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
