@@ -232,10 +232,10 @@ DEU-HH U1 SH/HH HH/SH                                                           
 DEU-SH U1 HH/SH GroHansDorf                                                                    #2020
 DEU-HH U2 NienDorfNord MumManBerg                                                              #2020
 DEU-HH U3 BarmBek_1 WanBekGarSta                                                               #2020
-DEU-HH U4 Elbbru BillSte                                                                       #2020
-DEU-SH S1 Wedel SH/HH                                                                          #2023
-DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
-DEU-HH S1Flu Ohl HamBuAirPort                                                                  #2023
+DEU-HH U4 ElbBru BillSte                                                                       #2020
+DEU-SH S1 Wed SH/HH                                                                            #2023
+DEU-HH S1 SH/HH PopBut                                                                         #2020/23
+DEU-HH S1Flu Ohl HamBurgAirPort                                                                #2023
 DEU-SH S3 PinBerg SH/HH                                                                        #2023
 DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
 DEU-NI S3Hor HH/NI Sta                                                                         #2023
