@@ -4,6 +4,7 @@ AUT S4Tir InnsbruckHauptbahnhof Kufstein
 AUT S7Tir DEU/AUT AUT/DEU
 AUT U1 Kragan Karlsplatz
 AUT U4 Schwedenplatz Schonbrunn
+CZE S4 Hnevice PrahaMasarykovoNadrazi
 DEU-BB S2Bla BE/BB Blankenfelde
 DEU-BB S7 PotsdamHauptbahnhof BE/BB
 DEU-BB S8Jut ST/BB Juterbog
@@ -44,6 +45,7 @@ DEU-BY S20 Pasing Hollriegelskreuth
 DEU-BY S3Sal Freilassing DEU/AUT
 DEU-BY S7Pfr PfrontenSteinach DEU/AUT
 DEU-BY S7Tir AUT/DEU GarmischPartenkirchen
+DEU-BY RS7 BW/BY Mem
 DEU-BY U1 OlympiaEinkaufszentrum Kolumbusplatz
 DEU-BY U2 MessestadtOst Harthof
 DEU-BY U3 OlympiaEinkaufszentrum Obersendling
@@ -53,8 +55,11 @@ DEU-BY U2Nur Hauptbahnhof Flughafen
 DEU-BY 1Aug LechhausenNeuerOstfriedhof GoggingenRathaus_1
 DEU-BY 2Aug StThaddaus HaunstettenNord
 DEU-BY 3Aug Hauptbahnhof KonigsbrunnZentrum
-DEU-BY 6Aug FriedbergWestPR Hauptbahnhof
+DEU-BY 6Aug FriedbergWestPR Hbf
 DEU-BY 8Aug Hauptbahnhof FussballArena
+DEU-BW RS2 UlmHbf BibSud
+DEU-BW RS3 MunKin UlmHbf
+DEU-BW RS7 UlmHbf BW/BY
 DEU-HH S2 HamburgAltona Bergedorf
 DEU-HH S11 Hauptbahnhof Blankenese
 DEU-SN S2 LeipzigHauptbahnhof ST/SN
