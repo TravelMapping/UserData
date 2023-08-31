@@ -1,4 +1,4 @@
-# Date: 2023-08-28
+# Date: 2023-08-30
 # ----------------
 
 ######################
@@ -232,16 +232,16 @@ DEU-HH U1 SH/HH HH/SH                                                           
 DEU-SH U1 HH/SH GroHansDorf                                                                    #2020
 DEU-HH U2 NienDorfNord MumManBerg                                                              #2020
 DEU-HH U3 BarmBek_1 WanBekGarSta                                                               #2020
-DEU-HH U4 Elbbru BillSte                                                                       #2020
-DEU-SH S1 Wedel SH/HH                                                                          #2023
-DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
-DEU-HH S1Flu OhlsDorf HambuAirpo                                                               #2023
-DEU-SH S3 PinneBerg SH/HH                                                                      #2023
+DEU-HH U4 ElbBru BillSte                                                                       #2020
+DEU-SH S1 Wed SH/HH                                                                            #2023
+DEU-HH S1 SH/HH PopBut                                                                         #2020/23
+DEU-HH S1Flu Ohl HamBurgAirPort                                                                #2023
+DEU-SH S3 PinBerg SH/HH                                                                        #2023
 DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
-DEU-NI S3Hor HH/NI Stade                                                                       #2023
-DEU-HH S11 Blank OhlsDorf                                                                      #2020/23
+DEU-NI S3Hor HH/NI Sta                                                                         #2023
+DEU-HH S11 Bla Ohl                                                                             #2020/23
 DEU-HH S21 HolStr HH/SH                                                                        #2023
-DEU-SH S21 HH/SH AuMuhle                                                                       #2023
+DEU-SH S21 HH/SH AuMuh                                                                         #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -264,9 +264,9 @@ DEU-MV 2Ros ReuHag KurtSchRing
 DEU-MV 3Ros NeuFrihof DieAll
 DEU-MV 5Ros MecBurAll SudBli
 DEU-MV 6Ros NeuFriHof CamSudSta
-DEU-MV S1 Warne RostoHbf
-DEU-MV S2 Warne Gustr
-DEU-MV S3 Warne Gustr
+DEU-MV S1 War RosHbf
+DEU-MV S2 War Gus
+DEU-MV S3 War Gus
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
@@ -274,10 +274,10 @@ DEU-MV 2Lan HegStr LanSie                         #2020
 DEU-MV 3Sch NeuPam HegStr                         #2020
 DEU-MV 4Sch Kli NeuPam                            #2020
 
-#DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
-#DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
-#DEU-NI  Brunswick 2 Hbf                        DEU-NI  Heidberg Anklamstraße                  #2022, not standard route
-#DEU-NI  Brunswick 5 Hbf                        DEU-NI  Luisenstraße                           #2022, via Museumstraße
+DEU-NI 1Bra HeiBli SalzDahWeg                     #2022, Wenden Heideblic -  Rathaus - Hbf - Stöckheim Salzdahlumer Weg
+DEU-NI 2Bra OttRodStr Sch                         #2022 Ottendorfer Str - Schloß
+DEU-NI 2Bra BurPark AnkStr                        #2022 Hbf (rerouted) - Heidberg Anklamstraße
+DEU-NI 5Bra LuiStr Hbf                            #2022 Hbf - Museumstraße - Luisenstraße
 
 #DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
 #DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
