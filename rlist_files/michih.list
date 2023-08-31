@@ -10,7 +10,7 @@ DEU-BY RS7 BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
-#DEU-BY  Lindau-Insel                 DEU-BY  Lindau-Reutin     #2022, S1
+DEU-BY S1Vor LinIns LinReu            #2022, S1
 #DEU-BY  Munich Hbf                   DEU-BY  Ingolstadt Hbf    #2022, RE1
 #DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #2022, RB13
 #DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #2022, RE8
