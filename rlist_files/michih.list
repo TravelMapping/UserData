@@ -1,4 +1,4 @@
-# Date: 2023-08-30
+# Date: 2023-08-31
 # ----------------
 
 ######################
@@ -175,12 +175,12 @@ DEU-BW U13 LowTor BadCanWilPla                                                  
 DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
-DEU-BW S1 StadtMitte Wendl                                                                     #201x, S1
-DEU-BW S2 FilderStadt SchornDorf                                                               #2022/23
-DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
-DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
-DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
-DEU-BW S11 DIV_BadCanE NeckarPark                                                              #2023, not traveled S11 but regional and long-distance traffic is routed along here
+DEU-BW S1 StaMit Wen                                                                           #201x, S1
+DEU-BW S2 FilSta SchDorf                                                                       #2022/23
+DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
+DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
+DEU-BW S6 Ren StuHbf                                                                           #2020, S6
+DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
