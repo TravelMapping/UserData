@@ -31,8 +31,10 @@ DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled 
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
-#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg
-#DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16
+DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
+#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
+DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwörth
+#DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16; partially mapped by S2Nur
 
 #DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #2021, RE4
 #DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #2021, RE4
@@ -200,8 +202,8 @@ DEU-BW 2Ulm SciParkII KuhSch                                                    
 #DEU-BY  STR21 Munich Maxmonument      DEU-BY  Munich St.-Veit-Straße                          #2022
 #DEU-BY  STR19 Munich Pasing           DEU-BY  Munich Hbf                                      #2023
 
-#DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
-#DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
+DEU-BY U2Nur FlugHaf RotBach           #2022
+DEU-BY U3Nur NordWestRing Hbf          #2022
 
 #DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke                                     #2018
 #DEU-BE  Möckernbrücke               DEU-BE  Südstern                                          #2018
