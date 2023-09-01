@@ -1,4 +1,4 @@
-# Date: 2023-08-31
+# Date: 2023-09-01
 # ----------------
 
 ######################
@@ -8,9 +8,12 @@
 DEU-BW RS7 UlmHbf BW/BY
 DEU-BY RS7 BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
+DEU-BY S4 GelDorf DIV_DonBruW         #2022, traveled as RE72 from Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
 DEU-BY S1Vor LinIns LinReu            #2022, S1
+DEU-BY S2Pet PetHau Dac               #2022, traveled as RE1 to Ingolstadt
+DEU-BY S2 Dac DIV_DonBruW             #2022, traveled as RE1 to Ingolstadt
 #DEU-BY  Munich Hbf                   DEU-BY  Ingolstadt Hbf    #2022, RE1
 #DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #2022, RB13
 #DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #2022, RE8
@@ -44,6 +47,7 @@ DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwör
 #DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf         #2020
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
+DEU-BY S3 MamDorf DIV_DonBruW         #2022, traveled several times with ICE and RE
 #DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
 DEU-BW RS3 MunKin UlmHbf
 #DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
@@ -114,6 +118,7 @@ DEU-BW RS5 AalHbf BW/BY
 
 #DEU-BY  Kempten                      DEU-BY  Augsburg Hbf          #2023, RE7
 #DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
+DEU-BY S6 Tut DIV_DonBruW             #2023, traveled as RB6
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
 #DNK     Roskilde                     DNK     Copenhagen            #2020
@@ -187,20 +192,19 @@ DEU-BW S11 DIV_BadCanE NecPark                                                  
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
 
-#DEU-BY  U1    Munich OEZ              DEU-BY  Munich Mangfallplatz                            #2022
-#DEU-BY  U2    Munich Feldmoching      DEU-BY  Munich Messestadt Ost                           #2022
-#DEU-BY  U3    Munich Moosach          DEU-BY  Munich Fürstenried West                         #2022
-#DEU-BY  U4    Munich Westendstraße    DEU-BY  Munich Arabellapark                             #2022
-#DEU-BY  U5    Munich Laimer Platz     DEU-BY  Munich Neuperlach Süd                           #2022
-#DEU-BY  U6    Munich Klinik. G'hadern DEU-BY  Munich Garching Forschungszentrum               #2022
-#DEU-BY  S1    Munich Airport          DEU-BY  Munich Hbf                                      #2022 via Moosach
-#DEU-BY  S8    Munich Airport          DEU-BY  Munich Pasing                                   #2022 via Hbf, Leuchtenbergring
-#DEU-BY  STR12 Munich Leonrodplatz     DEU-BY  Munich Hohenzollernplatz                        #2023
-#DEU-BY  STR18 Munich Hbf Süd          DEU-BY  Munich Schwanseestraße                          #2022
-#DEU-BY  STR19 Munich Hbf Süd          DEU-BY  Munich Berg am Laim                             #2022
-#DEU-BY  STR21 Munich Leonrodplatz     DEU-BY  Munich Hbf Nord                                 #2023
-#DEU-BY  STR21 Munich Maxmonument      DEU-BY  Munich St.-Veit-Straße                          #2022
-#DEU-BY  STR19 Munich Pasing           DEU-BY  Munich Hbf                                      #2023
+DEU-BY U1 OlyEinZen ManPla       #2022
+DEU-BY U2 FeldMoc MesStaOst      #2022
+DEU-BY U3 Moo FurRiedWest        #2022
+DEU-BY U4 WestEndStr AraPark     #2022
+DEU-BY U5 LaiPla NeuPerSud       #2022
+DEU-BY U6 GarForZen KliGroHad    #2022
+DEU-BY S1 FlugHafMun Hbf         #2022 via Moosach
+DEU-BY S8 FlugHafMun Pas         #2022 via Hbf, Leuchtenbergring
+DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
+DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
+DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
+DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
+DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
