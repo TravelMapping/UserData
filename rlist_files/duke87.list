@@ -10,7 +10,7 @@ NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJCoaLn PennSta NJ NJerCoaLn Woo
+NY NJerCoaLn PennSta NJ NJerCoaLn Woo
 NJ GlaBra Hob NewBroSt
 
 
@@ -101,6 +101,9 @@ IL RedLn Sox35th How
 IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
+
+TX GreLn NCarFra Buc
+TX RedLn Wes PeaArtsDis
 
 ON 1 SheW Fin
 ON 2 Kip Ken

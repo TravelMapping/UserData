@@ -1,6 +1,5 @@
-# Date: 2023-08-22
+# Date: 2023-08-31
 # ----------------
-
 
 ######################
 ####   RAILWAYS   ####
@@ -11,7 +10,7 @@ DEU-BY RS7 BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
-#DEU-BY  Lindau-Insel                 DEU-BY  Lindau-Reutin     #2022, S1
+DEU-BY S1Vor LinIns LinReu            #2022, S1
 #DEU-BY  Munich Hbf                   DEU-BY  Ingolstadt Hbf    #2022, RE1
 #DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #2022, RB13
 #DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #2022, RE8
@@ -24,14 +23,18 @@ DEU-BY RS7 BW/BY Mem
 #DEU-BY  Regensburg Hbf               DEU-BY  Marktredwitz      #2022, RB23
 #DEU-BY  Marktredwitz                 DEU-BY  Hof Hbf           #2022, RB24
 #DEU-BY  Hof Hbf                      DEU-SN  Chemnitz Hbf      #2022, RE3 via Zwickau, Glauchau
+DEU-SN S3Dre FreiBerg DreHbf                                    #2022, traveled as RB30 from Chemnitz
 #DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
+DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled as RB18 to Cottbus
 #DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
-#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg
-#DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16
+DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
+#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
+DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwörth
+#DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16; partially mapped by S2Nur
 
 #DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #2021, RE4
 #DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #2021, RE4
@@ -113,13 +116,11 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
-
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
 ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
-
 
 
 ######################
@@ -136,8 +137,8 @@ CZE A NemMot DepoHos #2019, Praha
 CZE B Zli CerMost    #2019, Praha
 CZE C Let Haje       #2019, Praha
 
-#DEU-BB Frankfurt STR1 Stadion - Zentrum - Neubersinchen            #2022
-#DEU-BB Frankfurt STR4 Markendorf, Ort - Zentrum - Lebuser Vorstadt #2022
+DEU-BB 1Fra Sta NeuBer             #2022
+DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
 
 #DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
 #DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
@@ -150,7 +151,6 @@ DEU-BB 3Cot Str DIV_T1/T2          #2023
 DEU-BB 3Cot DIV_T1/T4 Mad          #2023
 DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
 DEU-BB 4Cot DIV_T3S SacDorf        #2023
-
 
 #DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
 
@@ -177,12 +177,12 @@ DEU-BW U13 LowTor BadCanWilPla                                                  
 DEU-BW U14 MuhlHau Hbf                                                                         #2023, U14 via Münster, Charlottenplatz, Berliner Platz
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U29 Bot Hbf                                                                             #2023, U29 extended onto U2 service to Botnang
-DEU-BW S1 StadtMitte Wendl                                                                     #201x, S1
-DEU-BW S2 FilderStadt SchornDorf                                                               #2022/23
-DEU-BW S4 LudwiBurg StuttHbf                                                                   #2022, S4
-DEU-BW S5 BietigHeimBissi StuttHbf                                                             #2023, S5
-DEU-BW S6 Renni StuttHbf                                                                       #2020, S6
-DEU-BW S11 DIV_BadCanE NeckarPark                                                              #2023, not traveled S11 but regional and long-distance traffic is routed along here
+DEU-BW S1 StaMit Wen                                                                           #201x, S1
+DEU-BW S2 FilSta SchDorf                                                                       #2022/23
+DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
+DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
+DEU-BW S6 Ren StuHbf                                                                           #2020, S6
+DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
@@ -202,8 +202,8 @@ DEU-BW 2Ulm SciParkII KuhSch                                                    
 #DEU-BY  STR21 Munich Maxmonument      DEU-BY  Munich St.-Veit-Straße                          #2022
 #DEU-BY  STR19 Munich Pasing           DEU-BY  Munich Hbf                                      #2023
 
-#DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
-#DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
+DEU-BY U2Nur FlugHaf RotBach           #2022
+DEU-BY U3Nur NordWestRing Hbf          #2022
 
 #DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke                                     #2018
 #DEU-BE  Möckernbrücke               DEU-BE  Südstern                                          #2018
@@ -234,18 +234,17 @@ DEU-HH U1 SH/HH HH/SH                                                           
 DEU-SH U1 HH/SH GroHansDorf                                                                    #2020
 DEU-HH U2 NienDorfNord MumManBerg                                                              #2020
 DEU-HH U3 BarmBek_1 WanBekGarSta                                                               #2020
-DEU-HH U4 Elbbru BillSte                                                                       #2020
-DEU-SH S1 Wedel SH/HH                                                                          #2023
-DEU-HH S1 SH/HH PoppenButtel                                                                   #2020/23
-DEU-HH S1Flu OhlsDorf HambuAirpo                                                               #2023
-DEU-SH S3 PinneBerg SH/HH                                                                      #2023
+DEU-HH U4 ElbBru BillSte                                                                       #2020
+DEU-SH S1 Wed SH/HH                                                                            #2023
+DEU-HH S1 SH/HH PopBut                                                                         #2020/23
+DEU-HH S1Flu Ohl HamBurgAirPort                                                                #2023
+DEU-SH S3 PinBerg SH/HH                                                                        #2023
 DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
-DEU-NI S3Hor HH/NI Stade                                                                       #2023
-DEU-HH S11 Blank OhlsDorf                                                                      #2020/23
+DEU-NI S3Hor HH/NI Sta                                                                         #2023
+DEU-HH S11 Bla Ohl                                                                             #2020/23
 DEU-HH S21 HolStr HH/SH                                                                        #2023
-DEU-SH S21 HH/SH AuMuhle                                                                       #2023
+DEU-SH S21 HH/SH AuMuh                                                                         #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
-
 
 #DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
 #DEU-HE  U2 Bad Homburg Gonzenheim   DEU-HE  Frankfurt Südbahnhof                              #2022
@@ -267,9 +266,9 @@ DEU-MV 2Ros ReuHag KurtSchRing
 DEU-MV 3Ros NeuFrihof DieAll
 DEU-MV 5Ros MecBurAll SudBli
 DEU-MV 6Ros NeuFriHof CamSudSta
-DEU-MV S1 Warne RostoHbf
-DEU-MV S2 Warne Gustr
-DEU-MV S3 Warne Gustr
+DEU-MV S1 War RosHbf
+DEU-MV S2 War Gus
+DEU-MV S3 War Gus
 
 DEU-MV 1Sch Kli HegStr                            #2020
 DEU-MV 2Sch LanSie HegStr                         #2020
@@ -277,10 +276,10 @@ DEU-MV 2Lan HegStr LanSie                         #2020
 DEU-MV 3Sch NeuPam HegStr                         #2020
 DEU-MV 4Sch Kli NeuPam                            #2020
 
-#DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
-#DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
-#DEU-NI  Brunswick 2 Hbf                        DEU-NI  Heidberg Anklamstraße                  #2022, not standard route
-#DEU-NI  Brunswick 5 Hbf                        DEU-NI  Luisenstraße                           #2022, via Museumstraße
+DEU-NI 1Bra HeiBli SalzDahWeg                     #2022, Wenden Heideblic -  Rathaus - Hbf - Stöckheim Salzdahlumer Weg
+DEU-NI 2Bra OttRodStr Sch                         #2022 Ottendorfer Str - Schloß
+DEU-NI 2Bra BurPark AnkStr                        #2022 Hbf (rerouted) - Heidberg Anklamstraße
+DEU-NI 5Bra LuiStr Hbf                            #2022 Hbf - Museumstraße - Luisenstraße
 
 #DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
 #DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
@@ -351,18 +350,21 @@ DEU-MV 4Sch Kli NeuPam                            #2020
 #DEU-SN Chemnitz STR 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
 #DEU-SN Chemnitz STR 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
 
-#DEU-SN Dresden STR 1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              #2020, end to end
-#DEU-SN Dresden STR 2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          #2020, end to end
-#DEU-SN Dresden STR 3 Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf                                                              #2020
-#DEU-SN Dresden STR 4 Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)    #2020, end to end
-#DEU-SN Dresden STR 6 Striesen - Niedersedlitz (E)                                                                                                        #2020
-#DEU-SN Dresden STR 7 Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)                                                        #2020, end to end
-#DEU-SN Dresden STR 8 Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf                                                                                #2020
-#DEU-SN Dresden STR 9 Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)  #2020, end to end
-#DEU-SN Dresden STR11 Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen                                     #2020
-#DEU-SN Dresden STR12 Leutewitz (E) - Löbtau - Postplatz                                                                                                  #2020
-#DEU-SN Dresden STR13 Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße                                                                          #2020
-#DEU-SN Dresden S 1 Bischofsplatz - Bf Mitte - Hbf                                                                                                      #2020
+DEU-SN 1Dre LeuWitz ProGleSch                #2020, end to end; Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)
+DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)
+DEU-SN 3Dre WilMann Hbf                      #2020; Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 4Dre WeinBoh AntLeiStr
+DEU-SN 4Dre PostPla LauGastKronStaPla        #2020, end to end but rerouted; Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)
+DEU-SN 6Dre LudHartMannStr SBfNieSed         #2020; Striesen - Niedersedlitz (E)
+DEU-SN 7Dre WeixDorfRatStr PenGleSch         #2020, end to end; Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)
+DEU-SN 8Dre HelKieWeg CarPla
+DEU-SN 8Dre DIV_KulzRing Hbf                 #2020, rerouted; Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 9Dre RiePla NeuStaMar
+DEU-SN 8Dre CarPla NeuStaMar
+DEU-SN 9Dre +DIV_KulzRing ProGleSch          #2020, end to end but rerouted; Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)
+DEU-SN 11Dre WaldSch PostPla                 #2020; Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen
+DEU-SN 12Dre LeuWitz PostPla                 #2020; Leutewitz (E) - Löbtau - Postplatz
+DEU-SN 13Dre Mic BauStrRotBurStr             #2020; Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße
 
 #DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
 #DEU-SN Leipzig STR 2 Grünau-Nord - W-L-Platz                                                                              #2020
@@ -446,8 +448,7 @@ HRV 17Zag Pre Bor                    #2019
 ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
 ITA-LOM M1Bis Bis Pag           #2019, Milano
 ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
-ITA-LOM M2Abb Fam AbbChiRos     #2019, Milano
-ITA-LOM M2Col ColNord CasGob    #2019, Milano
+ITA-LOM M2Abb ColNord AbbChiRos #2019, Milano
 ITA-LOM M3 Com SanDon           #2019, Milano
 ITA-LOM M5 Big SanSiroSta       #2019, Milano
 ITA-LOM S4 MilanoAffori MilanoCadorna   #2019, Milano actually any R service

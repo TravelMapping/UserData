@@ -77,9 +77,6 @@ ENG BexLn PecRye Wel
 ENG SidLnLew LonBri Mot
 ENG SidLn LonBri Mot
 
-#####SR####
-SCT WestHigLnFor FortWil Mal #Jacobite
-
 #####SN#####
 ENG UckLn LonBri EastCro
 ENG ChiLn LonVic Bar
@@ -178,15 +175,26 @@ ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
+ENG ATCC TowSt CloCooLand
 ENG HT5T A B #Heathrow Terminal5 Airside Transit
 ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
 ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
 ENG HPRTAB ParA ParB #Terminal 5 PodParking
 ENG LCC RoyDoc GrePen #London Cable Car
 
+####Heritage Railways####
+ENG AltTowMon CarPark MainEnt
+ENG AmbMusRwy Amb Cra
+ENG HytPierRwy HytTown HytPier
+ENG LitMR NorGar MewPark
+ENG RuiLidoRwy WilLawn WooBay
+ENG SouPierRwy Sho PierHead
+ENG SwaRwy Nor Swa
+SCT Jac FortWil Mal
+WLS BalaLakeRwy Bala Llaw
+
 ####NOT IN BROWSER YET#####
 #Grand Canal Dock - Howth (DART)
-#Swanage Railway Nordon P&R - Swanage
 
 ###Germany###
 DEU-HE S8 FrankfurtFlughafen FrankfurtHauptbahnhof
