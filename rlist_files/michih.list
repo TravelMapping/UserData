@@ -1,4 +1,4 @@
-# Date: 2023-09-01
+# Date: 2023-09-03
 # ----------------
 
 ######################
@@ -122,6 +122,9 @@ DEU-BW RS5 AalHbf BW/BY
 DEU-BY S6 Tut DIV_DonBruW             #2023, traveled as RB6
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
+#CHE     Oberwald                     CHE     Realp                 #2016, Furka
+
+DNK B KobHov HojeTaa                  #2020, actually traveled from Roskilde with a different service
 #DNK     Roskilde                     DNK     Copenhagen            #2020
 
 ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
