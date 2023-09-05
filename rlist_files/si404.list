@@ -175,11 +175,12 @@ ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
-ENG ATCC TowSt CloCooLand
-ENG HT5T A B #Heathrow Terminal5 Airside Transit
 ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
 ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
 ENG HPRTAB ParA ParB #Terminal 5 PodParking
+
+ENG HT5T A B #Heathrow Terminal5 Airside Transit
+ENG ATCC TowSt CloCooLand
 ENG LCC RoyDoc GrePen #London Cable Car
 
 ####Heritage Railways####
@@ -193,29 +194,35 @@ ENG SwaRwy Nor Swa
 SCT Jac FortWil Mal
 WLS BalaLakeRwy Bala Llaw
 
+####Eurotunnel####
+ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
+
 ####NOT IN BROWSER YET#####
 #Grand Canal Dock - Howth (DART)
 
 ###Germany###
-DEU-HE S8 FrankfurtFlughafen FrankfurtHauptbahnhof
+DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
 #Frankfurt Hbf - Bensheim
 #Bensheim - Heidelberg Hbf
-DEU-HE 2Dar Hauptbahnhof Schloss
+DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei Volkshochschule Bretriebshof
 DEU-BW 26Hei Volkshochschule Bretriebshof
 
 ###Italy###
 #Bergamo - Lecco
 #Bergamo - Monza - Milano Centrale
-ITA-LOM M3 Centrale Duomo
-ITA-LOM M1 Duomo Cairoli
+ITA-LOM M3 Cen Duo
+ITA-LOM M1 Duo Cai
 
 ###Spain###
 ####Barcelona Metro####
 ESP-CT L3 Canyelles Catalunya
 
-###USA### (not in browser yet)
-#LA Metro: Gold Line: Del Mar - Union Station
+###USA###
+####LA Metro####
+CA A UniSta DelMar
+####Disney Monorail (not yet in browser)####
+####Vegas (not yet in browser)####
 
 ##Stations##
 ###Alighted/Embarked###
