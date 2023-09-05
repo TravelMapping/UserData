@@ -1,4 +1,4 @@
-# Date: 2023-09-03
+# Date: 2023-09-04
 # ----------------
 
 ######################
@@ -291,23 +291,23 @@ DEU-NI 2Bra OttRodStr Sch                         #2022 Ottendorfer Str - Schlo�
 DEU-NI 2Bra BurPark AnkStr                        #2022 Hbf (rerouted) - Heidberg Anklamstraße
 DEU-NI 5Bra LuiStr Hbf                            #2022 Hbf - Museumstraße - Luisenstraße
 
-#DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
-#DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
-#DEU-NI  Hanover   3 Wettbergen      DEU-NI  Altwarmbüchen                                     #2021
-#DEU-NI  Hanover   4 Garbsen         DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   5 Stöcken         DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   6 Nordhafen       DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   7 Wettbergen      DEU-NI  Misburg                                           #2021
-#DEU-NI  Hanover   8 Dragonerstraße  DEU-NI  Messe-Nord                                        #2021
-#DEU-NI  Hanover   9 Empelde         DEU-NI  Fasanenkrug                                       #2021
-#DEU-NI  Hanover  10 Ahlem           DEU-NI  Hbf/ZOB                                           #2021
-#DEU-NI  Hanover  11 Haltenhoffstr.  DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover  17 Wallensteinstr. DEU-NI  Hbf/ZOB                                           #2021
+DEU-NI 1Han LanHag SarSte                         #2021
+DEU-NI 2Han AlteHei Ret                           #2021
+DEU-NI 3Han AltWarmBuc WettBer                    #2021
+DEU-NI 4Han Gar AegTorPla                         #2021
+DEU-NI 5Han Sto AegTorPla                         #2021
+DEU-NI 6Han NordHaf AegTorPla                     #2021
+DEU-NI 7Han MisBurg WettBer                       #2021
+DEU-NI 8Han DraStr MesNord                        #2021
+DEU-NI 9Han FasKrug Emp                           #2021
+DEU-NI 10Han Ahl HbfZOB                           #2021
+DEU-NI 11Han HalHoffStr AegTorPla                 #2021
+DEU-NI 17Han HbfZOB WalSteStr                     #2021
 
-#DEU-NW  Bielefeld 1 Schildesche     DEU-NW  Senne                                             #2022
-#DEU-NW  Bielefeld 2 Altenhagen      DEU-NW  Sieker                                            #2022
-#DEU-NW  Bielefeld 3 Babenhausen-Süd DEU-NW  Dürkopp Tor 6                                     #2022
-#DEU-NW  Bielefeld 4 Lohmannshof     DEU-NW  Stieghorst Zentrum                                #2022
+DEU-NW 1Bie SchEsc Sen               #2022
+DEU-NW 2Bie AltHag Sie               #2022
+DEU-NW 3Bie BabHauSud DurTor6        #2022
+DEU-NW 4Bie LohHof StiHor           #2022
 
 #DEU-NW  Bochum U35 Hustadt          DEU-NW  Herne Schloß Strükede                             #2022
 
@@ -346,13 +346,13 @@ DEU-NI 5Bra LuiStr Hbf                            #2022 Hbf - Museumstraße - Lu
 #DEU-NW  Essen  U17 Essen Karlsplatz DEU-NW  Essen Margarethenhöhe                             #2022
 #DEU-NW  Essen  U18 Mülheim Hbf      DEU-NW  Essen Berliner Platz                              #2022
 
-#DEU-NW  Wuppertal Vohwinkel         DEU-NW  Wuppertal Oberbarmen                              #2022, route 60
+DEU-NW WupSch VohWinSchBahn OberBarBf        #2022, signed as route 60
 
 #All relations at main station traveled, 59 does not run on weekend
-#DEU-RP  Mainz   STR50 Römerquelle      DEU-RP  Bürgerhaus                                        #2022
-#DEU-RP  Mainz   STR51 Poststraße       DEU-RP  Hindemithstraße                                   #2022
-#DEU-RP  Mainz   STR52 Bahnstraße       DEU-RP  Am Schinnergraben                                 #2022
-#DEU-RP  Mainz   STR53 Hindemithstraße  DEU-RP  Bürgerhaus                                        #2022
+DEU-RP 50Mai RomQue BurHaus          #2022
+DEU-RP 51Mai PostStr HinStr          #2022
+DEU-RP 52Mai BahnStr SchGra          #2022
+DEU-RP 53Mai HinStr BurHaus          #2022
 
 #DEU-SN Chemnitz STR 1 Schönau - Zentralhaltestelle                                                #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
 #DEU-SN Chemnitz STR 2 Zentralhaltestelle - Bernsdorf                                              #2022, no loop to main station nor Stefan-Heym-Platz due to construction
