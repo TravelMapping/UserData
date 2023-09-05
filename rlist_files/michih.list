@@ -56,7 +56,7 @@ DEU-BY S3 MamDorf DIV_DonBruW         #2022, traveled several times with ICE and
 DEU-BW RS3 MunKin UlmHbf
 #DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
 DEU-BW S10Fre Hbf DonEsc              #2022, S10
-DEU-BW S2Fre +DIV_Den DonEsc          #2022, RB26 to Offenburg
+DEU-BW S2Fre +DIV_Den Hbf             #2022, RB26 to Offenburg
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1 via Pforzheim, NOT via Bietigheim-Bissingen
