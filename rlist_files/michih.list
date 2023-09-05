@@ -167,7 +167,8 @@ DEU-BB 3Cot DIV_T1/T4 Mad          #2023
 DEU-BB 4Cot NeuSchWitz DIV_T2/T3   #2023
 DEU-BB 4Cot DIV_T3S SacDorf        #2023
 
-#DEU-BW 2Fre Hauptbahnhof Dorfstrasse                                                              #2022
+DEU-BW 2Fre Hbf DorfStr            #2022
+#1992, traveled the first tram route ever anywhere east of Freiburg downtown on today's line 1
 
 #DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
 #DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
