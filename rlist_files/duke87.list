@@ -10,8 +10,8 @@ NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJCoaLn PennSta NJ NJerCoaLn Woo
-NJ MonBooLn Hob NewBroSt
+NY NJerCoaLn PennSta NJ NJerCoaLn Woo
+NJ GlaBra Hob NewBroSt
 
 
 MD MetSub OwiMil JohHopHos
@@ -33,7 +33,7 @@ NY 6 PelBayPk BroBriCityHall
 NY 7 34StHudYar FluMainSt
 NY A 207StInw FarRocMottAve
 NY AOzo 207StInw OzoPkLefBlvd
-NY B BedPkBlvd BriBea
+NY B 145St BriBea
 NY C 168St EucAve
 NY D Nor205St ConIslStiAve
 NY E JamCenParArc WTC
@@ -101,6 +101,9 @@ IL RedLn Sox35th How
 IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
+
+TX GreLn NCarFra Buc
+TX RedLn Wes PeaArtsDis
 
 ON 1 SheW Fin
 ON 2 Kip Ken
