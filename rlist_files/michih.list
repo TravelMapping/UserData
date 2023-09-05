@@ -1,4 +1,4 @@
-# Date: 2023-09-04
+# Date: 2023-09-05
 # ----------------
 
 ######################
@@ -40,12 +40,15 @@ DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumbur
 DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwörth
 #DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16; partially mapped by S2Nur
 
+DEU-HB RS1 +DIV_FinW BreHbf #2021, traveled as RE4 to Rotenburg
 #DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #2021, RE4
 #DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #2021, RE4
 
 #DEU-NW  Düsseldorf Hbf               DEU-BY  Aschaffenburg Hbf     #2016
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf         #2020
+DEU-HB RS2 BreHbf HB/NI               #2021, ICE Ulm-Bremen
+DEU-NI RS2Twi HB/NI Twi               #2021, ICE Ulm-Bremen
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
 DEU-BY S3 MamDorf DIV_DonBruW         #2022, traveled several times with ICE and RE
@@ -94,6 +97,7 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BW  Mannheim Hbf                 DEU-HE  Frankfurt Hbf         #2022, ICE route
 DEU-HE S6 FraFurtHbf FraFurtSud       #2022, S6 Frankfurt Hbf - Ostend - Frankfurt Süd
 #DEU-HE  Frankfurt-South              DEU-HE  Gießen Hbf            #2022, RE30 but via Maintal, Hanau, Assenheim due to construction
+DEU-HE S8 +DIV_BarGar HanHbf          #2022, traveled with rerouted RE55 F-South - Hanau
 #DEU-HE  Frankfurt-South              DEU-HE  Hanau Hbf             #2023, RE55 via Offenbach, due to construction
 #DEU-HE  Gießen Hbf                   DEU-NW  Siegen Hbf            #2022, RE98
 #DEU-NW  Siegen Hbf                   DEU-NW  Cologne Deutz         #2022, RE9
@@ -227,14 +231,16 @@ DEU-BY U3Nur NordWestRing Hbf          #2022
 #DEU-BE  68  S Grünau                DEU-BE  Bahnhofstr/Lindenstraße                           #2023, via Freiheit
 #DEU-BE  F12 Wendenschloss           DEU-BE  Grünau                                            #2023, ferry
 
-#DEU-HB  U1  Huchting                DEU-HB  Mahndorf                                          #2021, All routes as of 2021
-#DEU-HB  U2  Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
-#DEU-HB  U3  Gröpelingen             DEU-HB  Weserwehr                                         #2021
-#DEU-NI  U4  Lilienthal              DEU-HB  Arsten                                            #2021
-#DEU-HB  U5  Bürgerpark              DEU-HB  Doventor                                          #2021, 2021 routing
-#DEU-HB  U6  Uni-Nord                DEU-HB  Flughafen-Süd                                     #2021
-#DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
-#DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
+#Bremen tram: All routes traveled as of 2021, but lines 2 + 5 rerouted
+DEU-HB 1Bre RolCen BfMahnDorf        #2021
+DEU-HB 2Bre Gro BenStr               #2021, Gröpelingen - Sebaldsbrück, i.e. rerouted at east end
+DEU-HB 3Bre Gro WesWehr              #2021
+DEU-NI 4Bre Lil NI/HB                #2021
+DEU-HB 4Bre NI/HB Ars                #2021
+DEU-HB 5Bre HanTor BurPark           #2021, 2021 rerouting with loop at Hansator, i.e. including Lloydstraße-Hansator section
+DEU-HB 6Bre UniNord FlugHafSud       #2021
+DEU-HB 8Bre RolCen KulKamAll         #2021
+DEU-HB 10Bre Gro SebBru              #2021
 
 DEU-HH U1Ohl SH/HH OhlSte                                                                      #2020, All U routes as of 2020
 DEU-SH U1Hol HH/SH SH/HH                                                                       #2020
