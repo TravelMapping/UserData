@@ -2,12 +2,12 @@
 ENG BakLn HarWea EleCas
 ENG CenLn WestRui Epp
 ENG CenLnEal EalBro NorAct
-ENG CenLnHai Les Woo
+ENG CenLnEal Les Woo
 ENG CirLn Ham EdgRd_2
 ENG DisLn Ric Upm
 ENG DisLnEal EalBdwy TurGre
 ENG DisLnOly KenOly EarCou
-ENG DisLnWim Wim EdgRd
+ENG DisLnEdg Wim EdgRd
 ENG HaCLn Ham Bark
 ENG JubLn Sta Str
 ENG MetLn Che Ald
@@ -24,7 +24,7 @@ ENG VicLn WalCen Bri
 ENG WaCLn Wat Bank
 
 #####Elizabeth / Overground#####
-ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnShe HeaTer5 HeaTer23
 ENG EliLnHea HeaTer4 Pad
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
@@ -46,21 +46,20 @@ ENG DLR Bank Lew
 ENG DLRRoy Wes Bec
 ENG DLRSti StrInt CanTown
 ENG DLRStr CanWha Str
-ENG DLRTow TowGat Sha
+ENG DLRRoy TowGat Sha
 ENG DLRWoo CanTown WooArs
 
 ####National Rail####
 ENG ThaLnk LutAirPkwy GatAir
-ENG ThaLnkCam FinPark STP
+ENG ThaLnkCam FinPark StPanInt
 ENG ThaLnkRai LonBri Dar
-ENG ThaLnkRed EastCro GatAir
+ENG ThaLnkPet EastCro GatAir
 ENG ThaLnkSev LonBla Swa
 ENG ThaLnkSut LonBla Str_2
 ENG RheeVlyLn WelGarCity KinCro
 ENG NorCityLn Moo HerNor
 ENG NorCityLnWel AlePal WelGarCity
 ENG StaEx LonLivSt TotHale
-ENG GUCLn LonEus WatJct
 ENG NhpLn LonEus WatJct
 ENG 1066Ln ChaCro Orp
 ENG BexLn LonVic Dar

@@ -1,3 +1,4 @@
+########-COMMUTER RAIL LINES-########
 NY PortWasBra PennSta PortWas
 NY RonBra PennSta Jam
 NY MonBra HunAve Jam
@@ -5,18 +6,23 @@ NY MonBra SKIP_Hic Bab
 
 NY NewHavLn GraCen CT NewHavLn Str
 CT NewHavLnCan Sta NewCan
+CT NewHavLnDan SNor Dan
 CT NewHavLnWat Bri Wat
 NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJCoaLn PennSta NJ NJerCoaLn Woo
-NJ MonBooLn Hob NewBroSt
+NY NJerCoaLn PennSta NJ NJerCoaLn Woo
+NJ GlaBra Hob NewBroSt
 
 
-MD MetSub OwiMil JohHopHos
-MD BLRL NLin HuntVly
+########-HERITAGE RAILROADS-########
+CT EssSteTrn Ess DeepRivLan
+PA StrRR Str LeaPl
 
+
+########-USA RAPID TRANSIT LINES-########
+#--------NORTHEAST CITIES--------
 MA BluLn Sta Bow
 MA OraLn Sta ComCol
 MA RedLn ParkSt Har
@@ -33,7 +39,7 @@ NY 6 PelBayPk BroBriCityHall
 NY 7 34StHudYar FluMainSt
 NY A 207StInw FarRocMottAve
 NY AOzo 207StInw OzoPkLefBlvd
-NY B BedPkBlvd BriBea
+NY B 145St BriBea
 NY C 168St EucAve
 NY D Nor205St ConIslStiAve
 NY E JamCenParArc WTC
@@ -48,50 +54,40 @@ NY Q 96St ConIslStiAve
 NY R ForHil71Ave BayRid95St
 NY SPro FraAve ProPk
 NY W AstDitBlvd WhiStSFry
-
+NY SIR StGeo Tot
+NY RIT Man RooIsl
 NJ PATHH33 Hob NY PATHH33 33St
 NJ PATHHWT Hob NY PATHHWT WTC
 NJ PATHJ33 JouSq NY PATHJ33 33St
 NJ PATHNWT NewPenn NY PATHNWT WTC
-
 NJ HBLR8HT 8thSt HobTer
 NJ HBLRHTT HobTer TonAve
 NJ HBLRWST WestSideAve TonAve
-
-NJ NewCitySub PennSta GroSt
-NJ BroStExt PennSta BroadStSta
-
+NJ NLRCS PennSta GroSt
+NJ NLRBSE PennSta BroadStSta
 NJ AirTrn NewLibAir TA
 NY AirTrnATL T8_E T8_W
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 
-NY RIT Man RooIsl
+PA MarFraLn 40th 34th
+PA MarFraLn 30th 5th
+PA BroStLn EllFed CityHall
 
-NY SIR StGeo Tot
+MD MetSub OwiMil JohHopHos
+MD BLRL NLin HuntVly
 
 VA BluLn KingStOldTown MD BluLn MorBlvd
 VA OraLn VieFaiGMU DC OraLn StaArm 
 MD RedLn ShaGro DC RedLn UniSta
 VA YelLn Hun DC YelLn GalPla
 
+#--------MIDWEST CITIES--------
 PA BlueLn Gat SouHilJct
 
-PA MarFraLn 40th 34th
-PA MarFraLn 30th 5th
-PA BroStLn EllFed CityHall
-
-GA RedLn Air NorSpr
-GA SkyTrn Air RenCarCen
-
-FL GreLn DadSou Pal
-FL OraLn DadSou MiaAir
-FL BriLp FinDis Loop
-FL OmniLp SchBoa Loop
-FL InnLp GovCen_S GovCen_N
-FL MiaM MIA IntCen
-
 OH RedLn Bro TriCCamDis
+
+#MI Detroit not yet drafted
 
 IL BroLn Bel Loop
 IL GreLn ClaLake 35thBro
@@ -102,6 +98,41 @@ IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
 
+#MO St Louis not yet drafted
+
+#--------SOUTH CITIES--------
+GA RedLn Air NorSpr
+GA SkyTrn Air RenCarCen
+
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+FL InnLp GovCen_S GovCen_N
+FL MiaM MIA IntCen
+
+#TN Memphis not yet drafted
+
+TX GreLn NCarFra Buc
+TX RedLn Wes PeaArtsDis
+
+TX PurLnHou TheDis PalmCenTC
+
+#--------WEST CITIES--------
+#CO Denver not yet drafted
+
+#WA Seattle not yet drafted
+
+#CA San Francisco not yet drafted
+
+CA B NHol UniSta
+CA D WilWes UniSta
+
+CA GreLn 12thImpTC FasVly
+CA BlueLn CivCen OldTownTC
+
+
+########-CANADA RAPID TRANSIT LINES-########
 ON 1 SheW Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil

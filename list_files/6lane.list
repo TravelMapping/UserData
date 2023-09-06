@@ -203,6 +203,7 @@ MEX-DF ViadMigAle ParLira CalzTla
 MEX-DF ViadRioBec PueMor ViadMigAle
 MEX-DF ViadRioPie CalzTla CtoBic
 MEX-DF ViadTla RefAgr SanFer
+MEX-EMEX AutAIFA EMEX5D AerIntFA
 MEX-EMEX AutNauEca AquSer MEX-DF AutNauEca EjeCen
 MEX-EMEX AveLomVer BlvdSanMat BlvdHerCor_E
 MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
@@ -210,6 +211,7 @@ MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
 MEX-EMEX BlvdAer AvePasTol AerIntTol
 MEX-EMEX BlvdAviCam AniPer CamTep
 MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is sometimes northbound; the whole road is 3 lanes reversible north of AveLomVer?
+MEX-EMEX VialPriAIFA MEX85 AerIntFA
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
@@ -532,7 +534,7 @@ GA I-75 177 GA/TN
 GA I-475 I-75_S 15
 GA I-675 5 I-285
 GA I-85 35 78
-GA I-85 78 129
+GA I-85 78 137
 GA I-185 1 12
 GA I-285 GA279 20
 GA I-285 20 62

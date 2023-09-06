@@ -77,9 +77,6 @@ ENG BexLn PecRye Wel
 ENG SidLnLew LonBri Mot
 ENG SidLn LonBri Mot
 
-#####SR####
-SCT WestHigLnFor FortWil Mal #Jacobite
-
 #####SN#####
 ENG UckLn LonBri EastCro
 ENG ChiLn LonVic Bar
@@ -131,7 +128,7 @@ ENG XCMLSou Bou Wol
 ENG XCMLDon Rea BirNewSt
 
 #####XR#####
-ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnShe HeaTer5 HeaTer23
 ENG EliLnHea HeaTer4 Pad
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
@@ -156,7 +153,7 @@ ENG MetLnWat Wat BakSt
 ENG NorLn Edg Mor
 ENG NorLnBar HighBar Mor
 ENG NorLnBat HighBar BatPowSta
-ENG NorLnEdg Egd BatPowSta
+ENG NorLnEdg Edg BatPowSta
 ENG NorLnMHE MillHillEast BatPowSta
 ENG NorLnMor MillHillEast Mor
 ENG PicLn HeaTer5 Coc
@@ -178,36 +175,54 @@ ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
-ENG HT5T A B #Heathrow Terminal5 Airside Transit
 ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
 ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
 ENG HPRTAB ParA ParB #Terminal 5 PodParking
+
+ENG HT5T A B #Heathrow Terminal5 Airside Transit
+ENG ATCC TowSt CloCooLand
 ENG LCC RoyDoc GrePen #London Cable Car
+
+####Heritage Railways####
+ENG AltTowMon CarPark MainEnt
+ENG AmbMusRwy Amb Cra
+ENG HytPierRwy HytTown HytPier
+ENG LitMR NorGar MewPark
+ENG RuiLidoRwy WilLawn WooBay
+ENG SouPierRwy Sho PierHead
+ENG SwaRwy Nor Swa
+SCT Jac FortWil Mal
+WLS BalaLakeRwy Bala Llaw
+
+####Eurotunnel####
+ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
 
 ####NOT IN BROWSER YET#####
 #Grand Canal Dock - Howth (DART)
-#Swanage Railway Nordon P&R - Swanage
 
 ###Germany###
-DEU-HE S8 FrankfurtFlughafen FrankfurtHauptbahnhof
+DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
 #Frankfurt Hbf - Bensheim
 #Bensheim - Heidelberg Hbf
-DEU-HE 2Dar Hauptbahnhof Schloss
+DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei Volkshochschule Bretriebshof
 DEU-BW 26Hei Volkshochschule Bretriebshof
 
 ###Italy###
 #Bergamo - Lecco
 #Bergamo - Monza - Milano Centrale
-ITA-LOM M3 Centrale Duomo
-ITA-LOM M1 Duomo Cairoli
+ITA-LOM M3 Cen Duo
+ITA-LOM M1 Duo Cai
 
 ###Spain###
 ####Barcelona Metro####
 ESP-CT L3 Canyelles Catalunya
 
-###USA### (not in browser yet)
-#LA Metro: Gold Line: Del Mar - Union Station
+###USA###
+####LA Metro####
+CA A UniSta DelMar
+####Disney Monorail (not yet in browser)####
+####Vegas (not yet in browser)####
 
 ##Stations##
 ###Alighted/Embarked###
