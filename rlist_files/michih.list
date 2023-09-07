@@ -36,7 +36,7 @@ DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled 
 DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
 DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
-DEU-ST S3Hal HalSaaHbf +DIV_Ros       #2022, actually traveled as RE16 to Naumburg
+DEU-ST S3 HalSaaHbf +DIV_Ros          #2022, actually traveled as RE16 to Naumburg
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
 DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
 #DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
