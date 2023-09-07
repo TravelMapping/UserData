@@ -1,4 +1,4 @@
-# Date: 2023-09-05
+# Date: 2023-09-06
 # ----------------
 
 ######################
@@ -40,7 +40,8 @@ DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumbur
 DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwörth
 #DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16; partially mapped by S2Nur
 
-DEU-HB RS1 +DIV_FinW BreHbf #2021, traveled as RE4 to Rotenburg
+DEU-HB RS1 +DIV_FinW BreHbf           #2021, traveled as RE4 to Rotenburg
+DEU-NI RS6 RotBurg +DIV_RotW          #2021, traveled as RE4 from Bremen
 #DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #2021, RE4
 #DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #2021, RE4
 
@@ -384,18 +385,21 @@ DEU-SN 11Dre WaldSch PostPla                 #2020; Postplatz - Zwingerteich - A
 DEU-SN 12Dre LeuWitz PostPla                 #2020; Leutewitz (E) - Löbtau - Postplatz
 DEU-SN 13Dre Mic BauStrRotBurStr             #2020; Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße
 
-#DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
-#DEU-SN Leipzig STR 2 Grünau-Nord - W-L-Platz                                                                              #2020
-#DEU-SN Leipzig STR 2 Bay Bhf - Naunhofer Straße                                                                           #2020
-#DEU-SN Leipzig STR 4 G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße #2020
-#DEU-SN Leipzig STR 8 Grünau-Nord - Angerbrücke                                                                            #2020
-#DEU-SN Leipzig STR 9 Thekla - Hbf-West - Neues Rathaus                                                                    #2020
-#DEU-SN Leipzig STR 9 Bay Bhf - Wiedebachplatz                                                                             #2020
-#DEU-SN Leipzig STR10 Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig                                  #2020, up toConnewitz concurrent to servicee 11
-#DEU-SN Leipzig STR11 Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost           #2020
-#DEU-SN Leipzig STR15 Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf                #2020
-#DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
-#DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
+DEU-SN 1Lei Lau WestPla                          #2020
+DEU-SN 1Lei StaBeinPla MocVolStr                 #2020
+#DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #actual 2020 routing, partially line 9 now
+DEU-SN 2Lei GruSud SBfWilLeuPla                  #2020, Grünau-Nord - W-L-Platz
+DEU-SN 2Lei BayBf NaunHofStr                     #2020, Bay Bhf - Naunhofer Straße
+DEU-SN 4Lei GeoScLinThaStr StoHolzHauStr         #2020, G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße
+DEU-SN 8Lei GruNord AngBruStrBf                  #2020, Grünau-Nord - Angerbrücke
+DEU-SN 9Lei TheTauStr NeuRatHaus                 #2020, Thekla - Hbf-West - Neues Rathaus
+DEU-SN 9Lei BayBf ConWitKre                      #2020, Bay Bhf - Wiedebachplatz; partially line 10 now
+DEU-SN 10Lei ConWitKre WieBachPla                #2020, actually traveled as line 9 Bay Bhf - Wiedebachplatz
+DEU-SN 10Lei Wah Los                             #2020, Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig
+DEU-SN 11Lei SchRatHausPla MarkKleeBergOstSchPla #2020, Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost
+DEU-SN 12Lei GohNord +DIV_NordPla                #2020, actually traveled as temporary line 32 Gohlis-Nord - Nordplatz - Michaelisstraße(!!!) - Hbf
+DEU-SN 15Lei Mil MeusDorf                        #2020, Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf
+DEU-SN 16Lei MesGel Los                          #2020, Messegelände - Hbf - Lößnig
 
 DEU-ST 1Hal FroZuk MarPla           #2022, closed south of Böllberg stop due to construction
 DEU-ST 2Hal SolStr SBfSudSta        #2022, Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt
