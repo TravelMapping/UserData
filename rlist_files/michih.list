@@ -1,4 +1,4 @@
-# Date: 2023-09-06
+# Date: 2023-09-07
 # ----------------
 
 ######################
@@ -27,13 +27,17 @@ DEU-BY S6Nur NeuStaBf NurnBergHbf     #~2012? traveled with RE from Würzburg to
 #DEU-BY  Regensburg Hbf               DEU-BY  Marktredwitz      #2022, RB23
 #DEU-BY  Marktredwitz                 DEU-BY  Hof Hbf           #2022, RB24
 #DEU-BY  Hof Hbf                      DEU-SN  Chemnitz Hbf      #2022, RE3 via Zwickau, Glauchau
+DEU-SN C15 +DIV_Hbf +DIV_NieWie                                 #2022, traveled as RB30 to Dresden
 DEU-SN S3Dre FreiBerg DreHbf                                    #2022, traveled as RB30 from Chemnitz
 #DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
 DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled as RB18 to Cottbus
 #DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
+DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
+DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
+DEU-ST S3 HalSaaHbf +DIV_Ros          #2022, actually traveled as RE16 to Naumburg
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
 DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
 #DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
@@ -363,11 +367,11 @@ DEU-RP 51Mai PostStr HinStr          #2022
 DEU-RP 52Mai BahnStr SchGra          #2022
 DEU-RP 53Mai HinStr BurHaus          #2022
 
-#DEU-SN Chemnitz STR 1 Schönau - Zentralhaltestelle                                                #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz STR 2 Zentralhaltestelle - Bernsdorf                                              #2022, no loop to main station nor Stefan-Heym-Platz due to construction
-#DEU-SN Chemnitz STR 3 Roter Turm - Zentralhaltestelle - Technopark                                #2022
-#DEU-SN Chemnitz STR 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz STR 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
+DEU-SN 1Che Sch ZenHalSte            #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
+DEU-SN 2Che ZenHalSte BerDorf        #2022, no loop to main station nor Stefan-Heym-Platz due to construction
+DEU-SN 3Che RotTurm TecPark          #2022
+DEU-SN 4Che ZenHalSte HutHolz        #2022, via Südring, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
+DEU-SN 5Che Gab ZenHalSte            #2022, via Roter Turm, Annenplatz - Morgenleite closed due to construction
 
 DEU-SN 1Dre LeuWitz ProGleSch                #2020, end to end; Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)
 DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)
