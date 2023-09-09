@@ -1,4 +1,4 @@
-# Date: 2023-09-07
+# Date: 2023-09-08
 # ----------------
 
 ######################
@@ -281,8 +281,7 @@ DEU-HE U9 NieEschBach GinnHeim                   #2022
 DEU-HE 12Fra RothSchAll RohrBachStrFriBerLandStr #2022 Rothschildallee - Rohrbachstr
 DEU-HE 18Fra RohrBachStrFriBerLandStr SudBf      #2022, Rohrbachstr - Konstablerwache - Frankensteiner Platz - Südbahnhof
 
-#DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
-#DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
+DEU-HE 4Kas RatHausFunfFenStr BurHaus             #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
 
 DEU-MV 1Ros MecBurAll HafAll
 DEU-MV 2Ros ReuHag KurtSchRing
