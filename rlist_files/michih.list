@@ -35,8 +35,8 @@ DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled 
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
 DEU-BB S7 PotHbf BB/BE                #2022, traveled as RE1
 DEU-BE S7 BB/BE GruWald               #2022, traveled as RE1
-DEU-BE S3 ChaBurg BB/BE               #2022, traveled as RE1
-DEU-BB S3 BB/BE Erk                   #2022, traveled as RE1
+DEU-BE S3 ChaBurg BE/BB               #2022, traveled as RE1
+DEU-BB S3 BE/BB Erk                   #2022, traveled as RE1
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
 DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
 DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
