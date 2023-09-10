@@ -238,7 +238,7 @@ DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
 DEU-BE S47 NeuKol SpiFeld              #2023
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
-DEU-BE 62Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
+DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
 DEU-BE 68Ber SGru BahnHofStrLinStr     #2023, via Freiheit
 #DEU-BE  F12 Wendenschloss           DEU-BE  Grünau                                            #2023, ferry
 
