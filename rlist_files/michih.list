@@ -1,4 +1,4 @@
-# Date: 2023-09-10
+# Date: 2023-09-11
 # ----------------
 
 ######################
@@ -165,11 +165,12 @@ CZE C Let Haje       #2019, Praha
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
 
-#DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
-#DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
-#DEU-BB Potsdam STR93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
-#DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
-#DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
+DEU-BB 91Pot BfPirHei BfRehBru     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
+DEU-BB 91Pir BfRehBru BfPirHei     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
+DEU-BB 92Pot KirAll MarJucStr      #2022, Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str
+DEU-BB 93Pot GliBru BfRehBru       #2022, Glienicker Straße - Hbf - Bhf Rehbrücke
+DEU-BB 94Pot PlaEinBilFor FonStr   #2022, Platz d. Einheit-West - Fontanestr
+DEU-BB 96Pot CamJunSee MarJucStr   #2022, Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str
 
 DEU-BB 2Cot JesStr San             #2023
 DEU-BB 3Cot Str DIV_T1/T2          #2023
