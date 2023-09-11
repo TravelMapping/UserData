@@ -90,6 +90,9 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
 #DEU-BW  Heilbronn Hbf                DEU-BW  Heidelberg Hbf        #2022, RE10b via Sinsheim
 #DEU-BW  Heidelberg Hbf               DEU-BW  Mannheim Hbf          #2022, S2
+DEU-SL S1Hom HomBurgHbf SL/RP         #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
+DEU-RP S1 SL/RP +DIV_SchW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
+DEU-RP S1 +DIV_SchN RP/BW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
 #DEU-BW  Mannheim Hbf                 DEU-RP  Koblenz Hbf           #2022, RE1 via Saarbrücken, Trier
 #DEU-RP  Koblenz Hbf                  DEU-RP  Mainz Hbf             #2022, RB26
 #DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #2022, RB75 via Darmstadt
@@ -128,6 +131,8 @@ DEU-HE S8 +DIV_BarGar HanHbf          #2022, traveled with rerouted RE55 F-South
 #DEU-RP  Koblenz Hbf                  DEU-HE  Wiesbaden Hbf         #2022, RB10 via Rüdesheim
 #DEU-RP  Mainz Hbf                    DEU-RP  Bad Kreuznach         #2022, RE3 via Ockenheim
 #DEU-RP  Bad Kreuznach                DEU-RP  Kaiserslautern Hbf    #2022, RB65 via Enkenbach, not via Hochspeyer!
+DEU-RP S5Wor WorBadePark WorBadAll    #2022, as RE6 Neustadt - Karlsruhe
+DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
@@ -188,7 +193,7 @@ DEU-BW 2Fre Hbf DorfStr            #2022
 #Mannheim tram main station was closed due to construction, July 2022
 #DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
 #DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
-#DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
+DEU-RP 4Lud BerPla RP/BW           #2022
 #DEU-BW 4Man RP/BW Universitat                                                                  #2022
 #DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
 
