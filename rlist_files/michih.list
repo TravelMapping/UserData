@@ -1,4 +1,4 @@
-# Date: 2023-09-08
+# Date: 2023-09-10
 # ----------------
 
 ######################
@@ -33,6 +33,10 @@ DEU-SN S3Dre FreiBerg DreHbf                                    #2022, traveled 
 DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled as RB18 to Cottbus
 #DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
+DEU-BB S7 PotHbf BB/BE                #2022, traveled as RE1
+DEU-BE S7 BB/BE GruWald               #2022, traveled as RE1
+DEU-BE S3 ChaBurg BE/BB               #2022, traveled as RE1
+DEU-BB S3 BE/BB Erk                   #2022, traveled as RE1
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
 DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
 DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
@@ -226,16 +230,16 @@ DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
 
-#DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke                                     #2018
-#DEU-BE  Möckernbrücke               DEU-BE  Südstern                                          #2018
+DEU-BE U1 WitBergPla MocBru            #2018
+DEU-BE U7 MocBru SudSte                #2018
 #DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER                                                #2001
-#DEU-BE  S9  Treptower Park          DEU-BE  Adlershof                                         #2023
-#DEU-BE  S42 Neukölln                DEU-BE  Neukölln                                          #2023, full loop counter-clockwise
-#DEU-BE  S47 Neukölln                DEU-BE  Spindlersfeld                                     #2023
-#DEU-BE  61  Adlershof (at loop)     DEU-BE  Schloßplatz Köpenick                              #2023
-#DEU-BE  62  Rathaus Köpenick        DEU-BE  Wendenschloß                                      #2023
-#DEU-BE  63  Bahnhofstr/Lindenstraße DEU-BE  Köllnischer Platz                                 #2023, via Rathaus Köpenick
-#DEU-BE  68  S Grünau                DEU-BE  Bahnhofstr/Lindenstraße                           #2023, via Freiheit
+DEU-BE S9 TrePark AdlHof               #2023
+DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
+DEU-BE S47 NeuKol SpiFeld              #2023
+DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
+DEU-BE 62Kop RatHausKop WenSch         #2023
+DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
+DEU-BE 68Ber SGru BahnHofStrLinStr     #2023, via Freiheit
 #DEU-BE  F12 Wendenschloss           DEU-BE  Grünau                                            #2023, ferry
 
 #Bremen tram: All routes traveled as of 2021, but lines 2 + 5 rerouted
