@@ -92,9 +92,9 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
 DEU-BW S4Kar +DIV_Pfu OhrCap          #2022, traveled as RE80
 #DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
+DEU-BW S5Hei HeiBergHbf +DIV_Ste      #2022, traveled as RE10b
 DEU-BW S42Hei SinsHeimHbf NecSulm     #2022, traveled as RE10b
-#DEU-BW  Heilbronn Hbf                DEU-BW  Heidelberg Hbf        #2022, RE10b via Sinsheim
-#DEU-BW  Heidelberg Hbf               DEU-BW  Mannheim Hbf          #2022, S2
+DEU-BW S2Man MannHeimHbf HeiBergHbf   #2022
 DEU-SL S1Hom HomBurgHbf SL/RP         #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
 DEU-RP S1 SL/RP +DIV_SchW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
 DEU-RP S1 +DIV_SchN RP/BW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
@@ -102,6 +102,7 @@ DEU-RP S1 +DIV_SchN RP/BW             #2022, as RE1 Mannheim - Saarbrücken - Tr
 #DEU-RP  Koblenz Hbf                  DEU-RP  Mainz Hbf             #2022, RB26
 #DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #2022, RB75 via Darmstadt
 #DEU-BY  Aschaffenburg Hbf            DEU-BY  Würzburg Hbf          #2022, RE55 via Gemünden
+DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 #DEU-BY  Würzburg Hbf                 DEU-BW  Stuttgart Hbf         #2022, RE8
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
@@ -112,6 +113,9 @@ DEU-RP S1 +DIV_SchN RP/BW             #2022, as RE1 Mannheim - Saarbrücken - Tr
 #DEU-NW  Dortmund-Körne-West          DEU-NW  Dortmund-Wickede      #2022, S4
 #DEU-NW  Düsseldorf Hbf               DEU-NW  Essen Hbf             #2022, S6 via Derendorf, Ratingen-Ost, Kettwig
 
+DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
+DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
+DEU-BW S9 HE/BW MannHeimHbf           #2022, traveled with ICE
 #DEU-BW  Mannheim Hbf                 DEU-HE  Frankfurt Hbf         #2022, ICE route
 DEU-HE S6 FraFurtHbf FraFurtSud       #2022, S6 Frankfurt Hbf - Ostend - Frankfurt Süd
 #DEU-HE  Frankfurt-South              DEU-HE  Gießen Hbf            #2022, RE30 but via Maintal, Hanau, Assenheim due to construction
@@ -196,13 +200,13 @@ DEU-BW 1Kar MuhlBurTor KroPla      #2022
 DEU-BW 2Kar KniNord BahVorPla      #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-#DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
-#DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
+DEU-BW 1Man SchEndSte Uni          #2022
+DEU-BW 3Man SandHofEndSte ParPla   #2022
 DEU-RP 4Lud BerPla RP/BW           #2022
-#DEU-BW 4Man RP/BW Universitat                                                                  #2022
-#DEU-BW 4AMan Kunsthalle Paradeplatz       #2022
+DEU-RP 4Man RP/BW Uni              #2022
+DEU-RP 4AMan KunHal ParPla         #2022
 DEU-RP 6ALud BerPla RP/BW          #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
-#DEU-RP 6AMan RP/BW Tattersall     #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
+DEU-RP 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
 
 DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
