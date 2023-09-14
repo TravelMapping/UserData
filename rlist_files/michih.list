@@ -1,4 +1,4 @@
-# Date: 2023-09-13
+# Date: 2023-09-14
 # ----------------
 
 ######################
@@ -165,6 +165,12 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 ######################
 #### METROS/TRAMS ####
 ######################
+
+AUT 1Gra EggUKH HilBotGar
+AUT 3Gra And Kre
+AUT 6Gra SmaCityPetTunGas StPet
+AUT 7Gra LKHMedUniKliNord Jak
+
 
 CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
 CHE 6Ber ZytGlo WorbDorf    #2021
@@ -398,7 +404,7 @@ DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - He
 DEU-SN 3Dre WilMann Hbf                      #2020; Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf
 DEU-SN 4Dre WeinBoh AntLeiStr
 DEU-SN 4Dre PostPla LauGastKronStaPla        #2020, end to end but rerouted; Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)
-DEU-SN 6Dre LudHartMannStr SBfNieSed         #2020; Striesen - Niedersedlitz (E)
+DEU-SN 6Dre LudHartStr SBfNieSed             #2020; Striesen - Niedersedlitz (E)
 DEU-SN 7Dre WeixDorfRatStr PenGleSch         #2020, end to end; Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)
 DEU-SN 8Dre HelKieWeg CarPla
 DEU-SN 8Dre DIV_KulzRing Hbf                 #2020, rerouted; Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf
