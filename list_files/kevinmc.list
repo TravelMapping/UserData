@@ -964,9 +964,29 @@ HI HI30 WaiRd HI3000_N
 # 2019-05-12
 HI HI3800 KahAir HI311/380
 
+############
+# ILLINOIS #
+############
+
+# 2011-08-19
+IL US34 IA/IL I-74
+IL I-74 46 IL/IN
+
+###########
+# INDIANA #
+###########
+
+# 2011-08-19
+IN I-74 IL/IN 94
+IN I-465 44 49
+IN I-70 90 IN/OH
+
 ########
 # IOWA #
 ########
+
+# 2011-08-19
+IA US34 US63_S IA/IL
 
 # 2016-11-22
 IA US75BusSio OldUS75 US75_N
@@ -1128,6 +1148,25 @@ OK US64 I-40(325) OK/AR
 # 2021-08-18
 OK US271 OK112_S OK/AR
 
+########
+# OHIO #
+########
+
+# 2011-08-19
+OH I-70 IN/OH 103A
+
+# 2011-08-20
+OH I-70 103A OH/WV
+
+################
+# PENNSYLVANIA #
+################
+
+# 2011-08-20
+PA I-70 WV/PA 18
+PA I-79 38 59
+PA I-376 64A 72
+
 ##################
 # SOUTH CAROLINA #
 ##################
@@ -1278,6 +1317,13 @@ TX US83 FM2033 I-40
 # 2011-05-28
 UT US89 AZ/UT US89Alt
 UT US89AltKan AZ/UT US89
+
+#################
+# WEST VIRGINIA #
+#################
+
+# 2011-08-20
+WV I-70 OH/WV WV/PA
 
 #####################
 # UNDATED / UNKNOWN #
