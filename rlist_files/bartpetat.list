@@ -124,16 +124,22 @@ NLD 22Utr CSCen PRSciPark
 
 
 # DENMARK
+DNK M1 VanLose VesMag
+DNK M2 VanLose LuftHav
 
 
 
 # UNITED KINGDOM
 
 ## WLS - Wales
+WLS GtOrmeTwy VicSta Sum
+WLS SnoMouRwy Lla Clo
 
 
 ## ENG - England
-
+ENG XCML She +DIV_DeaV
+ENG XCML +SKIP_ChuFen York
+ENG LonAms LonStPanInt GBR/FRA
 
 
 # NORWAY
