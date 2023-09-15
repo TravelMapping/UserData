@@ -1,0 +1,223 @@
+# THE NETHERLANDS
+NLD LonAms BEL/NLD AmsCen
+
+#NLD Rhijn Asd NLD/DEU
+#NLD OudeLijn Asd Rtd
+#NLD Gv-Gvc Gv Gvc
+#NLD Gvc-... Gvc ...
+#NLD Gvc-Ut Gvc Ut
+#NLD Apn-Gd Apn Gd
+#NLD Ld-Wd Ld Wd
+#NLD Rtd-Gd Rtd Gd
+#NLD Ut-Ht Ut Ht
+#NLD Ddr-Gldm Ddr Gldm
+#NLD Gldm-Esta Gldm Est
+#NLD Ah-Nm Ah Nm
+#NLD Zvn-Wts Zvn Wts
+#NLD Nm-Ht Nm Ht
+#NLD Ah-Zp Ah Zp
+#NLD BetuweRoute Mta Esta
+#NLD HSLZ Hda NLD/BEL
+#NLD Hlm-Zvt Hlm Zvt
+#NLD Ass-Ld Ass Ld
+#NLD Ass-Hldr Ass Hldr
+#NLD Hlm-Utg Hlm Utg
+#NLD Hhw-Ho Hhw Ho
+#NLD Zd-Ehz Zd Ehz
+#NLD Asdm-Wp Asdm Wp
+#NLD Wp-Zl Wp Zl
+#NLD Wp-Amf Wp Amf
+#NLD Hvs-Uto Hvs Uto
+#NLD Ut-Amf Ut Amf
+#NLD Brn-... Brn ...
+#NLD Amf-Esd Amf Esd
+#NLD Amf-Zl Amf Zl
+#NLD Zl-Mp Zl Mp
+#NLD Mp-Lw Mp Lw
+#NLD Mp-Gn Mp Gn
+#NLD Lw-Gn Lw Gn
+#NLD Vs-Rsd Vs Rsd
+#NLD Rsd-NLD/BEL Rsd NLD/BEL
+#NLD Rsd-Zwl Rsd Zwl
+#NLD Rsd-Ht Rsd Ht
+#NLD Bd-Rtd Bd Rtd
+
+#Metro
+NLD 21Utr PRSciPark CSCen
+NLD 21Utr CSJaa Ijs
+NLD 20Utr PRSciPark CSCen
+NLD 20Utr CSJaa +DIV_21
+NLD 22Utr CSCen PRSciPark
+
+
+#NLD M50 Zui Bij
+#NLD M51 Zui CS
+#NLD M52 Zui Noo
+#NLD M53 CS Vdm
+#NLD M54 CS Bij
+#NLD A SdC Alx
+#NLD B HhH Alx
+#NLD C SdC CaB
+#NLD D Rtd Zui
+#NLD E DHc Zui
+#NLD 60 NgC UtJ
+#NLD 22 UtC ScP
+#NLD 61 IJz UtJ
+
+
+# BELGIUM
+
+
+
+# LUXEMBOURG
+
+
+
+# GERMANY
+
+##  BW - Baden-Württemberg
+
+
+##  BY - Bayern
+
+##  BE - Berlin
+
+
+##  BB - Brandenburg
+
+
+##  HB - Bremen
+
+
+##  HH - Hamburg
+
+
+##  HE - Hessen
+
+
+##  MV - Mecklenburg-Vorpommern
+
+
+##  NI - Niedersachsen
+
+
+##  NW - Nordrhein-Westfalen
+
+
+##  RP - Rheinland-Pfalz
+
+
+##  SL - Saarland
+
+
+## SN - Sachsen
+
+
+##  ST - Sachsen-Anhalt
+
+
+##  SH - Schleswig-Holstein
+
+
+##  TH - Thuringia
+
+
+
+# DENMARK
+
+
+
+# UNITED KINGDOM
+
+## WLS - Wales
+
+
+## ENG - England
+
+
+
+# NORWAY
+
+
+
+# FRANCE
+
+#Grand-Est
+
+
+#Haut de France
+
+
+#Normandy
+
+
+# CZECH REPUBLIC
+
+
+
+# POLAND
+
+
+
+# SLOVENIA
+
+
+# PORTUGAL
+
+
+
+# ITALY
+
+#SWISS
+
+#LIECHTENSTEIN
+
+#ROMANIA
+
+#TURKEY
+
+#UKRAINE
+
+
+# AMERICA
+# UNITED STATES of AMERICA
+
+
+# ASIA
+# VIETNAM
+# THAILAND
+# JAPAN
+
+# HONG KONG
+#HK Tramways
+HKG 1 WesMar ShauKeiWan
+HKG 2 PatSt_A ShauKeiWan
+HKG 3 ShekTongTsui +DIV_12A
+HKG 3 NorPoiTer ForHill_B
+HKG 4 ShekTongTsui CauBayTer
+HKG 5 KenTownTer TonRd_B
+
+#HK MTR Tram
+
+#HK MTR
+HKG AirExp HongKong AsiaWorExpo
+HKG DisResLn SunBay DisRes
+HKG ERailLn Adm LoWu
+HKG ERailLnLok SheShui LokMaChau
+HKG ERailLnRac ShaTin Uni
+HKG IslLn KenTown ChaiWan
+HKG KTLn Wha TiuKengLeng
+HKG SIslLn Adm SouHor
+HKG TCLn HongKong TungChu
+HKG TKOLn NorPoi PoLam
+HKG TKOLnLoh TseKwanO LOHPark
+HKG TMLn WuKaiSha TuenMun
+HKG TWLn Cen TsuWan
+
+#HK Others
+HKG NPCC TC NP
+HKG OPCC Wat Sum
+HKG PT Peak CenTer
+
+#CHINA
+
