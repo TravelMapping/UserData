@@ -70,7 +70,8 @@ NLD 22Utr CSCen PRSciPark
 
 
 # LUXEMBOURG
-
+LUX CFL10 Kau LuxGareCen
+LUX CFL10b Kau Wil
 
 
 # GERMANY
@@ -102,6 +103,10 @@ NLD 22Utr CSCen PRSciPark
 
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW WupSch VohWinSchBahn OberBarBf
+DEU-NW SkyTrn FernBf TerC
+DEU-NW S7 WuppertalHbf SolingenHbf
+DEU-NW RE18 NLD/DEU AacHbf
 
 
 ##  RP - Rheinland-Pfalz
@@ -158,6 +163,9 @@ ENG LonAms LonStPanInt GBR/FRA
 
 
 # CZECH REPUBLIC
+CZE A NadVel NamMiru
+CZE B Jin Pal
+CZE C NadHol Vys
 
 
 
@@ -202,8 +210,12 @@ HKG 3 ShekTongTsui +DIV_12A
 HKG 3 NorPoiTer ForHill_B
 HKG 4 ShekTongTsui CauBayTer
 HKG 5 KenTownTer TonRd_B
+HKG 6 KenTownTer ShauKeiWan
+HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
+HKG 705 TinShuiWai_A WetPark
+
 
 #HK MTR
 HKG AirExp HongKong AsiaWorExpo
