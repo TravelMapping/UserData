@@ -1,4 +1,4 @@
-# Date: 2023-09-07
+# Date: 2023-09-15
 # ----------------
 
 ######################
@@ -33,6 +33,10 @@ DEU-SN S3Dre FreiBerg DreHbf                                    #2022, traveled 
 DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, traveled as RB18 to Cottbus
 #DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
 #DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
+DEU-BB S7 PotHbf BB/BE                #2022, traveled as RE1
+DEU-BE S7 BB/BE GruWald               #2022, traveled as RE1
+DEU-BE S3 ChaBurg BE/BB               #2022, traveled as RE1
+DEU-BB S3 BE/BB Erk                   #2022, traveled as RE1
 #DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
 DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
 DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
@@ -63,7 +67,10 @@ DEU-BW RS3 MunKin UlmHbf
 DEU-BW S10Fre Hbf DonEsc              #2022, S10
 DEU-BW S2Fre +DIV_Den Hbf             #2022, RB26 to Offenburg
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26
+DEU-BW S71Kar KarRuheHbf Ach          #2022, traveled as RB26 from Offenburg
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
+DEU-BW S31Kar +DIV_DurN KarRuheHbf    #2022, traveled as IRE1
+DEU-BW S5Kar GroObeStr PfoHeimHbf     #2022, traveled as IRE1
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1 via Pforzheim, NOT via Bietigheim-Bissingen
 DEU-BW RS2 UlmHbf BibSud
 #DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
@@ -83,16 +90,22 @@ DEU-BY RS5 BW/BY BY/BW
 DEU-BW RS5 AalHbf BW/BY
 #DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
+DEU-BW S4Kar +DIV_Pfu OhrCap          #2022, traveled as RE80
 #DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
-#DEU-BW  Heilbronn Hbf                DEU-BW  Heidelberg Hbf        #2022, RE10b via Sinsheim
-#DEU-BW  Heidelberg Hbf               DEU-BW  Mannheim Hbf          #2022, S2
+DEU-BW S5Hei HeiBergHbf +DIV_Ste      #2022, traveled as RE10b
+DEU-BW S42Hei SinsHeimHbf NecSulm     #2022, traveled as RE10b
+DEU-BW S2Man MannHeimHbf HeiBergHbf   #2022
+DEU-SL S1Hom HomBurgHbf SL/RP         #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
+DEU-RP S1 SL/RP +DIV_SchW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
+DEU-RP S1 +DIV_SchN RP/BW             #2022, as RE1 Mannheim - Saarbrücken - Trier - Koblenz
 #DEU-BW  Mannheim Hbf                 DEU-RP  Koblenz Hbf           #2022, RE1 via Saarbrücken, Trier
 #DEU-RP  Koblenz Hbf                  DEU-RP  Mainz Hbf             #2022, RB26
 #DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #2022, RB75 via Darmstadt
 #DEU-BY  Aschaffenburg Hbf            DEU-BY  Würzburg Hbf          #2022, RE55 via Gemünden
+DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 #DEU-BY  Würzburg Hbf                 DEU-BW  Stuttgart Hbf         #2022, RE8
 
-#DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, RE6 via Biberach, Balingen, Tübingen
+#DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
 #DEU-NW  Dortmund Dorstfeld           DEU-NW  Bochum Hbf            #2022, S1 via Oespel, Langendreer
 #DEU-NW  Mülheim Hbf                  DEU-NW  Duisburg Hbf          #2022, S1
@@ -100,6 +113,9 @@ DEU-BW RS5 AalHbf BW/BY
 #DEU-NW  Dortmund-Körne-West          DEU-NW  Dortmund-Wickede      #2022, S4
 #DEU-NW  Düsseldorf Hbf               DEU-NW  Essen Hbf             #2022, S6 via Derendorf, Ratingen-Ost, Kettwig
 
+DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
+DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
+DEU-BW S9 HE/BW MannHeimHbf           #2022, traveled with ICE
 #DEU-BW  Mannheim Hbf                 DEU-HE  Frankfurt Hbf         #2022, ICE route
 DEU-HE S6 FraFurtHbf FraFurtSud       #2022, S6 Frankfurt Hbf - Ostend - Frankfurt Süd
 #DEU-HE  Frankfurt-South              DEU-HE  Gießen Hbf            #2022, RE30 but via Maintal, Hanau, Assenheim due to construction
@@ -124,6 +140,8 @@ DEU-HE S8 +DIV_BarGar HanHbf          #2022, traveled with rerouted RE55 F-South
 #DEU-RP  Koblenz Hbf                  DEU-HE  Wiesbaden Hbf         #2022, RB10 via Rüdesheim
 #DEU-RP  Mainz Hbf                    DEU-RP  Bad Kreuznach         #2022, RE3 via Ockenheim
 #DEU-RP  Bad Kreuznach                DEU-RP  Kaiserslautern Hbf    #2022, RB65 via Enkenbach, not via Hochspeyer!
+DEU-RP S5Wor WorBadePark WorBadAll    #2022, as RE6 Neustadt - Karlsruhe
+DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
@@ -148,6 +166,12 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 #### METROS/TRAMS ####
 ######################
 
+AUT 1Gra EggUKH HilBotGar             #2023
+AUT 3Gra And Kre                      #2023
+AUT 6Gra SmaCityPetTunGas StPet       #2023
+AUT 7Gra LKHMedUniKliNord Jak         #2023
+
+
 CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
 CHE 6Ber ZytGlo WorbDorf    #2021
 CHE 7Ber OstRing Bum        #2021
@@ -161,11 +185,12 @@ CZE C Let Haje       #2019, Praha
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
 
-#DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
-#DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
-#DEU-BB Potsdam STR93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
-#DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
-#DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
+DEU-BB 91Pot BfPirHei BfRehBru     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
+DEU-BB 91Pir BfRehBru BfPirHei     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
+DEU-BB 92Pot KirAll MarJucStr      #2022, Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str
+DEU-BB 93Pot GliBru BfRehBru       #2022, Glienicker Straße - Hbf - Bhf Rehbrücke
+DEU-BB 94Pot PlaEinBilFor FonStr   #2022, Platz d. Einheit-West - Fontanestr
+DEU-BB 96Pot CamJunSee MarJucStr   #2022, Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str
 
 DEU-BB 2Cot JesStr San             #2023
 DEU-BB 3Cot Str DIV_T1/T2          #2023
@@ -176,16 +201,18 @@ DEU-BB 4Cot DIV_T3S SacDorf        #2023
 DEU-BW 2Fre Hbf DorfStr            #2022
 #1992, traveled the first tram route ever anywhere east of Freiburg downtown on today's line 1
 
-#DEU-BW S4Kar Albtalbahnhof Kronenplatz                                                         #2022
-#DEU-BW 1Kar MuhlburgerTor Kronenplatz                                                          #2022
-#DEU-BW 2Kar KnielingenNord Hauptbahnhof                                                        #2022, via ZKM, Europaplatz
+DEU-BW S4Kar AlbTalBf KroPla       #2022
+DEU-BW 1Kar MuhlBurTor KroPla      #2022
+DEU-BW 2Kar KniNord BahVorPla      #2022, via ZKM, Europaplatz
 
 #Mannheim tram main station was closed due to construction, July 2022
-#DEU-BW 1Man SchonauEndstelle Universitat                                                       #2022
-#DEU-BW 3Man SandhofenEndstelle Paradeplatz                                                     #2022
-#DEU-RP 4Lud BerlinerPlatz RP/BW                                                                #2022
-#DEU-BW 4Man RP/BW Universitat                                                                  #2022
-#DEU-BW 4AMan Kunsthalle Paradeplatz       #DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
+DEU-BW 1Man SchEndSte Uni          #2022
+DEU-BW 3Man SandHofEndSte ParPla   #2022
+DEU-RP 4Lud BerPla RP/BW           #2022
+DEU-BW 4Man RP/BW Uni              #2022
+DEU-BW 4AMan KunHal ParPla         #2022
+DEU-RP 6ALud BerPla RP/BW          #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
+DEU-BW 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
 
 DEU-BW U1 Vai FellBachLutKir                                                                   #201x/2023
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
@@ -226,16 +253,16 @@ DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
 
-#DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke                                     #2018
-#DEU-BE  Möckernbrücke               DEU-BE  Südstern                                          #2018
+DEU-BE U1 WitBergPla MocBru            #2018
+DEU-BE U7 MocBru SudSte                #2018
 #DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER                                                #2001
-#DEU-BE  S9  Treptower Park          DEU-BE  Adlershof                                         #2023
-#DEU-BE  S42 Neukölln                DEU-BE  Neukölln                                          #2023, full loop counter-clockwise
-#DEU-BE  S47 Neukölln                DEU-BE  Spindlersfeld                                     #2023
-#DEU-BE  61  Adlershof (at loop)     DEU-BE  Schloßplatz Köpenick                              #2023
-#DEU-BE  62  Rathaus Köpenick        DEU-BE  Wendenschloß                                      #2023
-#DEU-BE  63  Bahnhofstr/Lindenstraße DEU-BE  Köllnischer Platz                                 #2023, via Rathaus Köpenick
-#DEU-BE  68  S Grünau                DEU-BE  Bahnhofstr/Lindenstraße                           #2023, via Freiheit
+DEU-BE S9 TrePark AdlHof               #2023
+DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
+DEU-BE S47 NeuKol SpiFeld              #2023
+DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
+DEU-BE 62Kop RatHausKop WenSch         #2023
+DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
+DEU-BE 68Ber SGru BahnHofStrLinStr     #2023, via Freiheit
 #DEU-BE  F12 Wendenschloss           DEU-BE  Grünau                                            #2023, ferry
 
 #Bremen tram: All routes traveled as of 2021, but lines 2 + 5 rerouted
@@ -281,8 +308,7 @@ DEU-HE U9 NieEschBach GinnHeim                   #2022
 DEU-HE 12Fra RothSchAll RohrBachStrFriBerLandStr #2022 Rothschildallee - Rohrbachstr
 DEU-HE 18Fra RohrBachStrFriBerLandStr SudBf      #2022, Rohrbachstr - Konstablerwache - Frankensteiner Platz - Südbahnhof
 
-#DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
-#DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
+DEU-HE 4Kas RatHausFunfFenStr BurHaus             #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
 
 DEU-MV 1Ros MecBurAll HafAll
 DEU-MV 2Ros ReuHag KurtSchRing
@@ -378,7 +404,7 @@ DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - He
 DEU-SN 3Dre WilMann Hbf                      #2020; Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf
 DEU-SN 4Dre WeinBoh AntLeiStr
 DEU-SN 4Dre PostPla LauGastKronStaPla        #2020, end to end but rerouted; Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)
-DEU-SN 6Dre LudHartMannStr SBfNieSed         #2020; Striesen - Niedersedlitz (E)
+DEU-SN 6Dre LudHarStr SBfNieSed              #2020; Striesen - Niedersedlitz (E)
 DEU-SN 7Dre WeixDorfRatStr PenGleSch         #2020, end to end; Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)
 DEU-SN 8Dre HelKieWeg CarPla
 DEU-SN 8Dre DIV_KulzRing Hbf                 #2020, rerouted; Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf
@@ -493,6 +519,11 @@ POL 7War Cen PRAleKraSka        #2022, via Plac Zawiszy
 POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
 POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
 POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
+
+SRB 9Beo Sla Blok45             #2023
+SRB 12Beo SavTrg OmlSta         #2023
+SRB 13Beo BanBrdo Blok45        #2023
+
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
 #TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
