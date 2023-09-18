@@ -1,4 +1,4 @@
-# Date: 2023-09-15
+# Date: 2023-09-16
 # ----------------
 
 ######################
@@ -520,9 +520,13 @@ POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
 POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
 POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
 
+#Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
+SRB 5Beo KalDonGrad Ust         #2023
 SRB 9Beo Sla Blok45             #2023
+SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
+SRB 14Beo Ust Ban               #2023
 
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
