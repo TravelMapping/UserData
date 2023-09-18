@@ -71,7 +71,11 @@ NLD 54Ams CenSta StaBijAre
 
 
 # BELGIUM
-
+BEL IC1 Bru BruMidi
+BEL IC2 Bru AntwerpenCentraal
+BEL IC7 Ess AntCen
+BEL IC35 NLD/BEL BruMidi
+BEL LonAms FRA/BEL BEL/NLD
 
 
 # LUXEMBOURG
@@ -81,11 +85,11 @@ LUX T1 RoutBrePaf StaPlazEto
 
 
 # GERMANY
-
 ##  BW - Baden-Württemberg
 
 
 ##  BY - Bayern
+
 
 ##  BE - Berlin
 
@@ -119,7 +123,6 @@ DEU-NW S8 WuppertalLangerfeld DusseldorfHbf
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 
-
 ##  RP - Rheinland-Pfalz
 
 
@@ -138,11 +141,10 @@ DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 ##  TH - Thuringia
 
 
-
 # DENMARK
 DNK M1 VanLose VesMag
 DNK M2 VanLose LuftHav
-
+DNK B Norp KobHov
 
 
 # UNITED KINGDOM
@@ -183,6 +185,7 @@ FRA-HDF ChaTnl GBR/FRA CalEurTer
 CZE A NadVel NamMiru
 CZE B Jin Pal
 CZE C NadHol Vys
+CZE 3Brn Pristaviste Ceska
 
 
 
@@ -202,6 +205,10 @@ CZE C NadHol Vys
 #SWISS
 
 #LIECHTENSTEIN
+
+# Austria
+AUT 49Wie Sch RingVol
+
 
 #ROMANIA
 
