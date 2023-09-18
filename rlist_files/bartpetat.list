@@ -49,6 +49,11 @@ NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
 
+NLD 51Ams CenSta StaRAI
+NLD 52Ams Noo StaZuid
+NLD 53Ams CenSta +DIV_5054
+NLD 54Ams CenSta StaBijAre
+
 
 #NLD M50 Zui Bij
 #NLD M51 Zui CS
@@ -72,6 +77,7 @@ NLD 22Utr CSCen PRSciPark
 # LUXEMBOURG
 LUX CFL10 Kau LuxGareCen
 LUX CFL10b Kau Wil
+LUX T1 RoutBrePaf StaPlazEto
 
 
 # GERMANY
@@ -105,8 +111,13 @@ LUX CFL10b Kau Wil
 ##  NW - Nordrhein-Westfalen
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
-DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW RE18 NLD/DEU AacHbf
+DEU-NW S1 DortmundHbf EssenHbf
+DEU-NW S6 DusseldorfHbf KolnHbf
+DEU-NW S7 WuppertalHbf SolingenHbf
+DEU-NW S8 WuppertalLangerfeld DusseldorfHbf
+DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
+
 
 
 ##  RP - Rheinland-Pfalz
@@ -145,6 +156,12 @@ WLS SnoMouRwy Lla Clo
 ENG XCML She +DIV_DeaV
 ENG XCML +SKIP_ChuFen York
 ENG LonAms LonStPanInt GBR/FRA
+ENG ChaTnl FolEurTer GBR/FRA
+ENG EliLn TotCouRd CanWha
+ENG LutAirExp +DIV_HS1 LutAirPkwy
+ENG WoELn LonWat SAL
+ENG DeaVlyLn She York
+
 
 
 # NORWAY
@@ -157,7 +174,7 @@ ENG LonAms LonStPanInt GBR/FRA
 
 
 #Haut de France
-
+FRA-HDF ChaTnl GBR/FRA CalEurTer
 
 #Normandy
 
@@ -215,6 +232,7 @@ HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
 HKG 705 TinShuiWai_A WetPark
+HKG 614 PuiTo YuenLong
 
 
 #HK MTR
