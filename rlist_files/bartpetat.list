@@ -1,6 +1,11 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 
+
+NLD RE18 Maa NLD/DEU
+NLD RS11 Nij Roe
+NLD RS15 Sit Hee
+
 #NLD Rhijn Asd NLD/DEU
 #NLD OudeLijn Asd Rtd
 #NLD Gv-Gvc Gv Gvc
@@ -72,10 +77,13 @@ NLD 54Ams CenSta StaBijAre
 
 # BELGIUM
 BEL IC1 Bru BruMidi
+BEL IC1 LieGui Wel
 BEL IC2 Bru AntwerpenCentraal
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
+BEL L9 Wel BEL/DEU
+BEL S43 LieGui BEL/NLD
 
 
 # LUXEMBOURG
@@ -177,6 +185,7 @@ ENG DeaVlyLn She York
 
 #Haut de France
 FRA-HDF ChaTnl GBR/FRA CalEurTer
+FRA-HDF LonAms GBR/FRA FRA/BEL
 
 #Normandy
 
