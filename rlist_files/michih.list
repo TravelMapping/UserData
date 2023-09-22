@@ -1,4 +1,4 @@
-# Date: 2023-09-20
+# Date: 2023-09-21
 # ----------------
 
 ######################
@@ -174,8 +174,18 @@ AUT 7Gra LKHMedUniKliNord Jak         #2023
 
 BGR M1 MlaI BusPark         #2023
 BGR M2 Obe Vit              #2023
+BGR M3 HadDim GorBan        #2023
 BGR M4 Obe SofAirPort       #2023
-BGR 10Sof PlVaz MetVit      #2023
+BGR 3Sof ZahFab MetKonVel   #2023
+BGR 3Sof PlVaz Orl          #2023
+BGR 6Sof Obe2 BulRoz        #2023
+BGR 8Sof Lyu5 BulVar        #2023
+BGR 10Sof ZapPark MetVit    #2023
+BGR 11Sof OvcKupMet Ili     #2023
+BGR 20Sof BulHriBot DepoIsk #2023
+BGR 22Sof MetKonVel AvtIzt  #2023
+BGR 23Sof IskSho UlObi      #2023
+BGR 27Sof KnuMarLui PlMak   #2023
 
 
 CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
