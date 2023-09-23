@@ -5,6 +5,12 @@ NLD LonAms BEL/NLD AmsCen
 NLD RE18 Maa NLD/DEU
 NLD RS11 Nij Roe
 NLD RS15 Sit Hee
+NLD RS22 Zwo Kam
+NLD RE30 Ape Win
+NLD RS31 Zut Win
+NLD RS32 ArnCen Win
+NLD RS33 ArnCen Tiel
+
 
 #NLD Rhijn Asd NLD/DEU
 #NLD OudeLijn Asd Rtd
@@ -78,7 +84,7 @@ NLD 54Ams CenSta StaBijAre
 # BELGIUM
 BEL IC1 Bru BruMidi
 BEL IC1 LieGui Wel
-BEL IC2 Bru AntwerpenCentraal
+BEL IC2 Bru AntCen
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
@@ -129,6 +135,7 @@ DEU-NW S6 DusseldorfHbf KolnHbf
 DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW S8 WuppertalLangerfeld DusseldorfHbf
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
+DEU-NW L9 BEL/DEU AacHbf
 
 
 ##  RP - Rheinland-Pfalz
@@ -175,6 +182,7 @@ ENG PicLn HeaTer23 CalRd
 ENG CenLnEal MileEnd NewPark
 ENG HaCLn Far MileEnd
 ENG VicLn KXSP Pim
+ENG DisLn KewGar EarCou
 
 
 
