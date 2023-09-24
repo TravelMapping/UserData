@@ -1,18 +1,28 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
+NLD IC35 AmsCen NLD/BEL
 
 NLD RE1 Lee Gro
 NLD RS1 Lee Gro
 NLD RS11 Nij Roe
+NLD RS12 Roe MaaRan
 NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
+NLD RS18 MaaRan KerCen
 NLD RE20 Zwo Emm
 NLD RS20 Zwo Emm
+NLD RS21 Alm Har
 NLD RS22 Zwo Kam
+NLD RS23 Zwo Ens
+NLD RS24 Zut Old
 NLD RE30 Ape Win
 NLD RS31 Zut Win
 NLD RS32 ArnCen Win
 NLD RS33 ArnCen Tiel
+NLD RS34 AmeCen EdeWag
+
+NLD S32Ant Roo NLD/BEL
+NLD S43Lie BEL/NLD Maa
 
 
 #NLD Rhijn Asd NLD/DEU
@@ -68,6 +78,11 @@ NLD 52Ams Noo StaZuid
 NLD 53Ams CenSta +DIV_5054
 NLD 54Ams CenSta StaBijAre
 
+NLD A VlaWest Ale
+NLD B HoekHolHav Ale
+NLD C Akk Terp
+NLD D RotCen Akk
+NLD E DenHaagCen Sli
 
 #NLD M50 Zui Bij
 #NLD M51 Zui CS
@@ -132,13 +147,20 @@ LUX T1 RoutBrePaf StaPlazEto
 ##  NW - Nordrhein-Westfalen
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
+
 DEU-NW RE18 NLD/DEU AacHbf
-DEU-NW S1 DortmundHbf EssenHbf
+DEU-NW L9 BEL/DEU AacHbf
+
+DEU-NW S1 DortmundHbf DusseldorfOberbilk
 DEU-NW S6 DusseldorfHbf KolnHbf
 DEU-NW S7 WuppertalHbf SolingenHbf
-DEU-NW S8 WuppertalLangerfeld DusseldorfHbf
+DEU-NW S8 WuppertalLangerfeld MonchengladbachHbf
+DEU-NW S11 DusseldorfWehrhahn KolnWorringen
+DEU-NW S11 KolnLongerich KolnMulheim
+
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
-DEU-NW L9 BEL/DEU AacHbf
+
+DEU-NW U79 Klemensplatz DusseldorfHbf
 
 
 ##  RP - Rheinland-Pfalz
@@ -186,7 +208,7 @@ ENG CenLnEal MileEnd NewPark
 ENG HaCLn Far MileEnd
 ENG VicLn KXSP Pim
 ENG DisLn KewGar EarCou
-
+ENG DLR CanWha CutSark
 
 
 # NORWAY
