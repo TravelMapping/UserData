@@ -124,9 +124,29 @@ LUX T1 RoutBrePaf StaPlazEto
 
 
 ##  BE - Berlin
+DEU-BE S7 BB/BE Hbf
+DEU-BE S41 WestKre_N WestHaf
+DEU-BE S41 OstKre SchBerg
+
+DEU-BE S1 FriStr PotPla
+DEU-BE S1 YorStr SchBerg
+DEU-BE S3 MesSud OstKre
+
+DEU-BE U1 KurFurDamm SchTor
+DEU-BE U4 NolDorfPla InnsBruPla
+DEU-BE U5 Hbf UntLin
+DEU-BE U6 FriStr TemHof
+
+DEU-BE M8 SUHbf_2 BruStrInvStr
+DEU-BE M10 SUHbf_2 UEbeWalStr
+
 
 
 ##  BB - Brandenburg
+DEU-BB S7 PotHbf BB/BE
+
+DEU-BB 91Pot LuiPlaSudSan PotHbf
+DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 
 ##  HB - Bremen
@@ -214,7 +234,6 @@ ENG DLR CanWha CutSark
 # NORWAY
 
 
-
 # FRANCE
 
 #Grand-Est
@@ -224,6 +243,20 @@ ENG DLR CanWha CutSark
 FRA-HDF ChaTnl GBR/FRA CalEurTer
 FRA-HDF LonAms GBR/FRA FRA/BEL
 
+#IDF
+FRA-IDF A RueMal ChaHal
+FRA-IDF C IssyValSei GareAus
+FRA-IDF LonPar HDF/IDF ParGareNord
+
+#Paris Metro / Sub-urban
+FRA-IDF N ParMon Cla
+FRA-IDF M2 ChaGauEto Nat
+FRA-IDF M6 ChaGauEto QuaiGare
+FRA-IDF M9 PontSev Mue
+
+FRA-IDF T2 Bri IssyValSei
+
+
 #Normandy
 
 
@@ -232,6 +265,8 @@ CZE A NadVel NamMiru
 CZE B Jin Pal
 CZE C NadHol Vys
 CZE 3Brn Pristaviste Ceska
+CZE S1 PrahaMasarykovoNadrazi Kolin
+CZE S20 Kolin KutnaHoraHlavniNadrazi
 
 
 
@@ -254,6 +289,7 @@ CZE 3Brn Pristaviste Ceska
 
 # Austria
 AUT 49Wie Sch RingVol
+AUT S2Sal DEU/AUT SalHau
 
 
 #ROMANIA
@@ -265,6 +301,7 @@ AUT 49Wie Sch RingVol
 
 # AMERICA
 # UNITED STATES of AMERICA
+IL BroLn Chi AdaWab
 
 
 # ASIA
