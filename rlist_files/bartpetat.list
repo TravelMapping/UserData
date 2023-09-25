@@ -1,6 +1,11 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 
+
+NLD RE18 Maa NLD/DEU
+NLD RS11 Nij Roe
+NLD RS15 Sit Hee
+
 #NLD Rhijn Asd NLD/DEU
 #NLD OudeLijn Asd Rtd
 #NLD Gv-Gvc Gv Gvc
@@ -49,6 +54,11 @@ NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
 
+NLD 51Ams CenSta StaRAI
+NLD 52Ams Noo StaZuid
+NLD 53Ams CenSta +DIV_5054
+NLD 54Ams CenSta StaBijAre
+
 
 #NLD M50 Zui Bij
 #NLD M51 Zui CS
@@ -66,20 +76,28 @@ NLD 22Utr CSCen PRSciPark
 
 
 # BELGIUM
-
+BEL IC1 Bru BruMidi
+BEL IC1 LieGui Wel
+BEL IC2 Bru AntwerpenCentraal
+BEL IC7 Ess AntCen
+BEL IC35 NLD/BEL BruMidi
+BEL LonAms FRA/BEL BEL/NLD
+BEL L9 Wel BEL/DEU
+BEL S43 LieGui BEL/NLD
 
 
 # LUXEMBOURG
 LUX CFL10 Kau LuxGareCen
 LUX CFL10b Kau Wil
+LUX T1 RoutBrePaf StaPlazEto
 
 
 # GERMANY
-
 ##  BW - Baden-Württemberg
 
 
 ##  BY - Bayern
+
 
 ##  BE - Berlin
 
@@ -105,8 +123,12 @@ LUX CFL10b Kau Wil
 ##  NW - Nordrhein-Westfalen
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
-DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW RE18 NLD/DEU AacHbf
+DEU-NW S1 DortmundHbf EssenHbf
+DEU-NW S6 DusseldorfHbf KolnHbf
+DEU-NW S7 WuppertalHbf SolingenHbf
+DEU-NW S8 WuppertalLangerfeld DusseldorfHbf
+DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 
 ##  RP - Rheinland-Pfalz
@@ -127,11 +149,10 @@ DEU-NW RE18 NLD/DEU AacHbf
 ##  TH - Thuringia
 
 
-
 # DENMARK
 DNK M1 VanLose VesMag
 DNK M2 VanLose LuftHav
-
+DNK B Norp KobHov
 
 
 # UNITED KINGDOM
@@ -145,6 +166,12 @@ WLS SnoMouRwy Lla Clo
 ENG XCML She +DIV_DeaV
 ENG XCML +SKIP_ChuFen York
 ENG LonAms LonStPanInt GBR/FRA
+ENG ChaTnl FolEurTer GBR/FRA
+ENG EliLn TotCouRd CanWha
+ENG LutAirExp +DIV_HS1 LutAirPkwy
+ENG WoELn LonWat SAL
+ENG DeaVlyLn She York
+
 
 
 # NORWAY
@@ -157,7 +184,8 @@ ENG LonAms LonStPanInt GBR/FRA
 
 
 #Haut de France
-
+FRA-HDF ChaTnl GBR/FRA CalEurTer
+FRA-HDF LonAms GBR/FRA FRA/BEL
 
 #Normandy
 
@@ -166,6 +194,7 @@ ENG LonAms LonStPanInt GBR/FRA
 CZE A NadVel NamMiru
 CZE B Jin Pal
 CZE C NadHol Vys
+CZE 3Brn Pristaviste Ceska
 
 
 
@@ -185,6 +214,10 @@ CZE C NadHol Vys
 #SWISS
 
 #LIECHTENSTEIN
+
+# Austria
+AUT 49Wie Sch RingVol
+
 
 #ROMANIA
 
@@ -215,6 +248,7 @@ HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
 HKG 705 TinShuiWai_A WetPark
+HKG 614 PuiTo YuenLong
 
 
 #HK MTR
