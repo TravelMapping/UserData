@@ -134,14 +134,23 @@ PA PA238 SusTrl I-83
 PA PA641 ArmyHerDr SpoHillRd
 #
 #
-# In and Around Carlisle, Mechanicsburg
+# In and Around Central PA
 PA PA641 OraSt_N ArmyHerDr
-PA US11 PA696_S FroSt_S
+PA US11 PA696_S I-81(65)
 PA PA34 PineGroRd_A LonGapRd
 PA PA174 PA34 PA641
 PA PA114 I-81 US15
 PA PA174 US11/533 I-81
 PA PA233 I-81 US11
+PA HarTayBri US11/15_S US11/15_N
+PA US15 PA74_N US11/581
+PA US322 I-83(46B) US422
+PA I-81 59 70
+PA I-83 41A 51
+PA PA39 ProAve ColRd
+PA PA39 HerParkDr_E US322/422
+PA PA743 HerParkDr_W HerParkDr_E
+PA US422Rea US322 *PA743_S
 #
 #
 # Colonel Denning State Park
@@ -179,12 +188,6 @@ PA US62 4thAve_E PA957
 PA PA59 US6_W BriSt
 PA PA120 US219 MicSt_S
 PA PA255 I-80 PA120_W
-#
-#
-# To Elmerton Office/Around Harrisburg
-PA I-81 59 67
-PA I-83 41A 51
-PA PA39 ProAve ColRd
 #
 #
 # Loyola <-> Lafayette
@@ -298,3 +301,9 @@ PA PA655 RidRd OriRd
 PA PA913 CooRd PA655
 PA PA829 SemSt US22
 PA PA641 PA75 OraSt_N
+#
+#
+# Philly 2022
+PA I-76 236 340
+PA US1 I-76(339) RidAve
+PA US13 RidAve_S RidAve_N
