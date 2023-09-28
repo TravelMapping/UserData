@@ -1,4 +1,4 @@
-# Date: 2023-09-21
+# Date: 2023-09-27
 # ----------------
 
 ######################
@@ -535,6 +535,19 @@ POL 7War Cen PRAleKraSka        #2022, via Plac Zawiszy
 POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
 POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
 POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
+
+#Whole M network as-at September 2023
+#ROU M1 Pantelimon Dristor2                        #2023
+#ROU M2 Berceni Pipera                             #2023, southern extension u/c
+#ROU M3 Preciziei AnghelSaligny                    #2023
+#ROU M4 Straulesti GaraNord2                       #2023
+#ROU M5 ValeaIalomitei Romancierilor               #2023
+#ROU M5 Raul Doamnei Eroilor2                      #2023, eastrn extension u/c
+#ROU 16Buc PiperaElectronica SoseauaStefanMare     #2023
+#ROU 21Buc BucurObor PiataSfGheorghe               #2023
+#ROU 40Buc LucretiaPatracanu ComplexComercialTitan #2023
+#ROU 41Buc BlvdMaresalAverescu PiataCrangasi       #2023
+#ROU 45Buc Mezes BlvdMaresalAverescu               #2023
 
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
 SRB 5Beo KalDonGrad Ust         #2023
