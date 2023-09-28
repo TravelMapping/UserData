@@ -209,15 +209,17 @@ IRL DARTHow How GraCanDock
 
 ###Germany###
 DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
-#Frankfurt Hbf - Bensheim
-#Bensheim - Heidelberg Hbf
+DEU-HE S3 +DIV_LouN DarmStaHbf #covering Frankfurt Hbf - Bensheim
+DEU-BW S6Man +SKIP_MannHeimFriFeldSud DEU-HE S6Ben BensHeim #covering Bensheim - Heidelberg Hbf
+DEU-BW S1Man MannHeimFriFeldSud HeiBergHbf #covering Bensheim - Heidelberg Hbf
 DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei Volkshochschule Bretriebshof
 DEU-BW 26Hei Volkshochschule Bretriebshof
 
 ###Italy###
-#Bergamo - Lecco
-#Bergamo - Monza - Milano Centrale
+ITA-LOM S8 Lec CalOlg #covering Bergamo - Lecco
+ITA-LOM S8 CarUsm +DIV_S9S #covering Bergamo - Monza - Milano Centrale
+ITA-LOM S5 Seg CasAdda #covering Milano Centrale - Bergamo
 ITA-LOM M3 Cen Duo
 ITA-LOM M1 Duo Cai
 
@@ -228,6 +230,9 @@ ESP-CT L3 Can Cat
 ###USA###
 ####LA Metro####
 CA A UniSta DelMar
+####SF Cable Cars####
+####SF Muni####
+####Getty Museum Tram####
 ####Disney Monorail (not yet in browser)####
 ####Vegas (not yet in browser)####
 
