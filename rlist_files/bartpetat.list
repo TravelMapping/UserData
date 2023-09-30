@@ -84,19 +84,24 @@ NLD C Akk Terp
 NLD D RotCen Akk
 NLD E DenHaagCen Sli
 
-#NLD M50 Zui Bij
-#NLD M51 Zui CS
-#NLD M52 Zui Noo
-#NLD M53 CS Vdm
-#NLD M54 CS Bij
-#NLD A SdC Alx
-#NLD B HhH Alx
-#NLD C SdC CaB
-#NLD D Rtd Zui
-#NLD E DHc Zui
-#NLD 60 NgC UtJ
-#NLD 22 UtC ScP
-#NLD 61 IJz UtJ
+#Tram
+NLD 4Ams CenSta Eur
+NLD 12Ams CenSta Lei
+NLD 12Ams Pijp Amss
+NLD 14Ams Rok Ale
+NLD 19Ams StaSlo Lei
+NLD 25Ams Par Wes
+NLD 26Ams CenSta Ijb
+
+NLD 1Haa ZwaPad StaDel
+NLD 2Haa GroMar DenHaagCen
+NLD 3Haa Hel CenWest_2
+NLD 9Haa ZwaPad KalSta
+
+NLD 25Rot RotCen Tel_2
+NLD 4Rot Koo +DIV_78
+NLD 7Rot Zaa RotCen
+
 
 
 # BELGIUM
