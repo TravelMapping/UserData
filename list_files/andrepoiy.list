@@ -248,8 +248,7 @@ NB NB275 NB134 NB11
 
 #New York
 
-NY I-81 USA/CAN 45
-NY I-81 26 21
+NY I-81 USA/CAN 11
 NY I-481 4 6
 NY I-781 1 4
 NY I-87 USA/CAN 38
@@ -276,6 +275,7 @@ NY US9 I-87(43) US11 #actual start at Locust St***
 NY US9 NY3 NY314
 NY US11 I-781 I-81(26)
 NY US11 US9 I-87 #actual end at Perry Mills***
+NY US11 NY92 NY290 #actual end at Hickory Street ***
 NY US20 NY32_N I-787
 NY US62BusNia NY104 US62
 NY US62 NY104 NY265 #southside only
@@ -292,6 +292,7 @@ NY NY5S I-790 GenSt
 NY NY7 NY/VT 8thSt
 NY NY12 I-790 MulRd
 NY NY12 TreRd NY3_W
+NY NY13 I-81(11) NY79 
 NY NY15 I-490 NY15A_N #actual start at South, end at Elmwood***
 NY NY18 LakeOntPkwy NiaScePkwy
 NY NY18F NY93 NY104 #actual start at Jackson***
@@ -301,27 +302,32 @@ NY NY31 HowSt VicRd #actual end at Walmart near Wayneport Road***
 NY NY31 BroSt_E NY383
 NY NY32 US9 NY5 #actual end at Pine St**
 NY NY33 NY5 NY33A_W #break between East Main and Seven Springs***
-NY NY33A NY204_E
+NY NY33A NY33_W NY204_E 
 NY NY39 US219 CasDr
 NY NY49 NY26/46 I-790 #actual start South Geroge St***
 NY NY56 NY3 NY68
 NY NY60 US20 NY5
 NY NY68 NY56 FordSt
+NY NY79 NY366 NY13/34 #actual start at Tioga Street ****
 NY NY85 I-90 WasAve
+NY NY92 TeaAve US11 #actual start at University Avenue***
 NY NY96 I-490(29) RowRd #actual start High St actual end Omnitech Dr***
 NY NY104 NY18F NY384
 NY NY179 US219 NY5
 NY NY198 I-190 NY33
 NY NY204 I-390 NY33A_W #actual end at Airport Road***
+NY NY232 US11 I-81
 NY NY265 NY104 UppMouRd
 NY NY265 US62 CayDr_S #Actual start at Fashion Outlets Blvd****
 NY NY265 NY384_S NY266_N
 NY NY266 NY265_N I-190(17)
 NY NY266 BusAve NY265_S #actual end at International Railway Bridge**
+NY NY281 I-81(12) NY13
 NY NY298 I-690 I-81_W #actual end at Solar St***
 NY NY324 I-190(21) I-190(15A)
 NY NY354 OakSt WilSt_E #actual start at Elm St ***
 NY NY365 I-90 NY49_E
+NY NY366 NY13_E NY13_W 
 NY NY378 US4 I-787
 NY NY383 ExcSt NY31
 NY NY383 BroAve I-390 #actual start at Elmwood***
