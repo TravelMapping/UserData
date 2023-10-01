@@ -1,4 +1,4 @@
-# Date: 2023-09-27
+# Date: 2023-09-30
 # ----------------
 
 ######################
@@ -513,6 +513,10 @@ HRV 12Zag Lju Dubr                   #2019
 HRV 15Zag Mih GraDol                 #2019
 HRV 17Zag Pre Bor                    #2019
 
+HUN M3 UjpKoz KobKis
+HUN 12Bud UjpKoz RakKosUtca
+HUN 14Bud LehTer KapMegUt
+
 ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
 ITA-LOM M1Bis Bis Pag           #2019, Milano
 ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
@@ -556,7 +560,6 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
-
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
 #TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
