@@ -215,7 +215,7 @@ NC I-540 1 26
 NC I-795 38(264) 24
 NC I-885 5 13
 
-ND I-90 MT/ND ND/MI
+ND I-90 MT/ND ND/MN
 
 OH I-70 32 44
 OH I-70 108 OH/WV
@@ -309,7 +309,7 @@ WV I-470 OH/WV 4
 WI I-90 MN/WI 45
 WI I-94 MN/WI 147
 
-WY I-90 MY/WY WY/SD
+WY I-90 MT/WY WY/SD
 
 ############################################################
 #
@@ -330,7 +330,7 @@ SC I-85BLSpa I-85_S I-85_N
 SD I-90BLCha I-90_W I-90_E
 
 WY I-90BLShe WY336 WY332
-WY I-90BLShe US87_S I-90E
+WY I-90BLShe US87_S I-90_E
 
 ############################################################
 #
