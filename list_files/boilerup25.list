@@ -552,7 +552,7 @@ NY I-290 I-190 I-90
 NY I-295 NY25 12
 NY I-390 I-86 7
 NY I-478 I-278 NY9A
-NY I-495 2ndAve 38
+NY I-495 2ndAve 53
 NY I-587 I-87 NY32
 NY I-678 JFKAir 19
 NY I-684 CT/NY 10
@@ -568,7 +568,7 @@ NY MeaStaPkwy BayPkwy M6
 NY MosPkwy SouBlvd HenHudPkwy
 NY NiaScePkwy FinDr UppMouRd
 NY NiaScePkwyNia I-190 JohnDalyBlvd
-NY NorStaPkwy Que/Nas 30
+NY NorStaPkwy Que/Nas 44
 NY NY3 MillSt_Cra NY30_S
 NY NY5 NY33/98 NY63_E
 NY NY5 US9W US9
@@ -587,7 +587,7 @@ NY NY24 I-295 PenBlvd
 NY NY25 2ndAve RosRd
 NY NY25A I-495 LakeRd
 NY NY25B NY25_W NewHydeRd
-NY NY27 1 AtlAve
+NY NY27 1 41
 NY NY28 NY32 I-87
 NY NY28N CR29 NY30_N
 NY NY29 US9_S US9_N
@@ -660,10 +660,11 @@ NY OcePkwyBro SeaBreAve NY27
 NY PalIntPkwy NJ/NY US6/9W
 NY PelPkwy US1 I-95
 NY RobMosCswy RobMosSp SouStaPkwy
+NY SagStaPkwy S4 NorStaPkwy
 NY SawMillPkwy Bro/Wes I-684
 NY SevLakDr JohRd US9W/202
 NY ShoFroPkwy Bea108thSt Bea73rdSt
-NY SouStaPkwy CroIslPkwy 40
+NY SouStaPkwy CroIslPkwy 41A
 NY SprBroPkwy BroRivPkwy TacStaPkwy
 NY TacStaPkwy BroRivPkwy I-90
 NY US1 NJ/NY NY/CT
