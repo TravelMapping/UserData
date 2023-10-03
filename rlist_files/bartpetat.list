@@ -114,6 +114,9 @@ BEL LonAms FRA/BEL BEL/NLD
 BEL L9 Wel BEL/DEU
 BEL S43 LieGui BEL/NLD
 
+#Tram
+BEL 1Gen SintPies Gra
+
 
 # LUXEMBOURG
 LUX CFL10 Kau LuxGareCen
@@ -134,13 +137,14 @@ DEU-BE S41 WestKre_N WestHaf
 DEU-BE S41 OstKre SchBerg
 
 DEU-BE S1 FriStr PotPla
-DEU-BE S1 YorStr SchBerg
+DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 
 DEU-BE U1 KurFurDamm SchTor
+DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
-DEU-BE U6 FriStr TemHof
+DEU-BE U6 NatMus TemHof
 
 DEU-BE M8 SUHbf_2 BruStrInvStr
 DEU-BE M10 SUHbf_2 UEbeWalStr
@@ -186,6 +190,7 @@ DEU-NW S11 KolnLongerich KolnMulheim
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
+DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
@@ -273,7 +278,9 @@ CZE B Jin Pal
 CZE C NadHol Vys
 CZE 3Brn Pristaviste Ceska
 CZE S1 PrahaMasarykovoNadrazi Kolin
+CZE 20Pra DivokaSarka Malostranska
 CZE S20 Kolin KutnaHoraHlavniNadrazi
+CZE 22Pra Pohorelec MalostranskeNamesti
 
 
 
