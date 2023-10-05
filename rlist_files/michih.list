@@ -1,4 +1,4 @@
-# Date: 2023-10-03
+# Date: 2023-10-04
 # ----------------
 
 ######################
@@ -194,9 +194,13 @@ CHE 7Ber OstRing Bum        #2021
 CHE 8Ber BruWestSideBf Saa  #2021
 CHE 9Ber BernBf Wab         #2021, northern route was not in service due to construction
 
-CZE A NemMot DepoHos #2019, Praha
-CZE B Zli CerMost    #2019, Praha
-CZE C Let Haje       #2019, Praha
+CZE A NemMot DepoHos               #2019, Praha
+CZE B Zli CerMost                  #2019, Praha
+CZE C Let Haje                     #2019, Praha
+
+CZE 3Olo NamRep HlaNad             #2023
+CZE 4Olo OkrSoud UDomu             #2023
+CZE 7Olo OkrSoud Fib               #2023
 
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
@@ -520,6 +524,7 @@ HUN M4 KelVas KelPal                  #2023
 HUN 1Bud BecUtVorUt KelVas            #2023
 HUN 2Bud JasMariTer Koz               #2023
 HUN 2BPac MesUtcaKonKalKor GubUtHatUt #2023
+HUN 3Bud MexUt GubUtHatUt             #2023
 HUN 6Bud SzeKalTer CorNeg             #2023
 HUN 6Bud Okt CorNeg                   #2023
 HUN 12Bud UjpKoz RakKosUtca           #2023
