@@ -1,4 +1,4 @@
-# Date: 2023-09-20
+# Date: 2023-10-05
 # ----------------
 
 ######################
@@ -152,6 +152,9 @@ DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 DEU-BY S6 Tut DIV_DonBruW             #2023, traveled as RB6
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
+DEU-SN S2Dre DreFlugHaf DreFreiBerStr #2023
+DEU-SN S8Dre Kam DreMit               #2023
+
 #CHE     Oberwald                     CHE     Realp                 #2016, Furka
 
 DNK B KobHov HojeTaa                  #2020, actually traveled from Roskilde with a different service
@@ -174,8 +177,18 @@ AUT 7Gra LKHMedUniKliNord Jak         #2023
 
 BGR M1 MlaI BusPark         #2023
 BGR M2 Obe Vit              #2023
+BGR M3 HadDim GorBan        #2023
 BGR M4 Obe SofAirPort       #2023
-BGR 10Sof PlVaz MetVit      #2023
+BGR 3Sof ZahFab MetKonVel   #2023
+BGR 3Sof PlVaz Orl          #2023
+BGR 6Sof Obe2 BulRoz        #2023
+BGR 8Sof Lyu5 BulVar        #2023
+BGR 10Sof ZapPark MetVit    #2023
+BGR 11Sof OvcKupMet Ili     #2023
+BGR 20Sof BulHriBot DepoIsk #2023
+BGR 22Sof MetKonVel AvtIzt  #2023
+BGR 23Sof IskSho UlObi      #2023
+BGR 27Sof KnuMarLui PlMak   #2023
 
 
 CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
@@ -184,9 +197,13 @@ CHE 7Ber OstRing Bum        #2021
 CHE 8Ber BruWestSideBf Saa  #2021
 CHE 9Ber BernBf Wab         #2021, northern route was not in service due to construction
 
-CZE A NemMot DepoHos #2019, Praha
-CZE B Zli CerMost    #2019, Praha
-CZE C Let Haje       #2019, Praha
+CZE A NemMot DepoHos               #2019, Praha
+CZE B Zli CerMost                  #2019, Praha
+CZE C Let Haje                     #2019, Praha
+
+CZE 3Olo NamRep HlaNad             #2023
+CZE 4Olo OkrSoud UDomu             #2023
+CZE 7Olo OkrSoud Fib               #2023
 
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
@@ -492,39 +509,74 @@ FRA-PAC M1 LaRose Fou                #2018
 FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
 
 #2019, All routes in service as-of 2019 except of short T1 at west end
-HRV 2Zag Crn Sav                     #2019
-HRV 4Zag SavMost Dube                #2019
-HRV 5Zag Pre Sve                     #2019, traveled on rerouted line 7
-HRV 6Zag Crn Drz                     #2019, south end closed due to long-term construction
-HRV 8Zag Mih Zap                     #2019
-HRV 9Zag Lju Bor                     #2019
-HRV 11Zag Crn Dube                   #2019
-HRV 12Zag Lju Dubr                   #2019
-HRV 15Zag Mih GraDol                 #2019
-HRV 17Zag Pre Bor                    #2019
+HRV 2Zag Crn Sav                      #2019
+HRV 4Zag SavMost Dube                 #2019
+HRV 5Zag Pre Sve                      #2019, traveled on rerouted line 7
+HRV 6Zag Crn Drz                      #2019, south end closed due to long-term construction
+HRV 8Zag Mih Zap                      #2019
+HRV 9Zag Lju Bor                      #2019
+HRV 11Zag Crn Dube                    #2019
+HRV 12Zag Lju Dubr                    #2019
+HRV 15Zag Mih GraDol                  #2019
+HRV 17Zag Pre Bor                     #2019
 
-ITA-LOM M1 RhoFieMil Ses1Mag    #2019, Milano
-ITA-LOM M1Bis Bis Pag           #2019, Milano
-ITA-LOM M2 Ges AssMilFioFor     #2019, Milano
-ITA-LOM M2Abb ColNord AbbChiRos #2019, Milano
-ITA-LOM M3 Com SanDon           #2019, Milano
-ITA-LOM M5 Big SanSiroSta       #2019, Milano
-ITA-LOM S4 MilanoAffori MilanoCadorna   #2019, Milano actually any R service
+HUN M1 VorTer MexUt                   #2023
+HUN M2 OrsVezTere DeliPal             #2023
+HUN M3 UjpKoz KobKis                  #2023
+HUN M4 KelVas KelPal                  #2023
+HUN 1Bud BecUtVorUt KelVas            #2023
+HUN 2Bud JasMariTer Koz               #2023
+HUN 2BPac MesUtcaKonKalKor GubUtHatUt #2023
+HUN 3Bud MexUt GubUtHatUt             #2023
+HUN 6Bud SzeKalTer CorNeg             #2023
+HUN 6Bud Okt CorNeg                   #2023
+HUN 12Bud UjpKoz RakKosUtca           #2023
+HUN 14Bud LehTer KapMegUt             #2023
+HUN 17Bud BecUtVorUt SavPark          #2023
+HUN 41Bud EteUtFehUt KamIfjPark       #2023
+HUN 42Bud HatUt KisTulUtca            #2023
+HUN 47Bud BudEla VarTer               #2023
+HUN 49Bud DeakFerTer KelVas           #2023
+HUN 50Bud HatUt PesBekeTer            #2023
+HUN 52Bud Pes NagUtHatUt              #2023
+HUN 52Pac HatUt Pes                   #2023
+HUN 56Bud DeliPal SzeGelTer           #2023
 
-ITA-LAZ MA  Bat Ana             #2019, Roma
-ITA-LAZ MB  Reb Lau             #2019, Roma
-ITA-LAZ MB1 Jon Bol             #2019, Roma
-ITA-LAZ MC SanGio MonComPan     #2019, Roma
+ITA-LOM M1 RhoFieMil Ses1Mag          #2019, Milano
+ITA-LOM M1Bis Bis Pag                 #2019, Milano
+ITA-LOM M2 Ges AssMilFioFor           #2019, Milano
+ITA-LOM M2Abb ColNord AbbChiRos       #2019, Milano
+ITA-LOM M3 Com SanDon                 #2019, Milano
+ITA-LOM M5 Big SanSiroSta             #2019, Milano
+ITA-LOM S4 MilAff MilCad              #2019, Milano actually any R service
 
-LUX T1 LuxExpo LycBouWeg        #2023
+ITA-LAZ MA  Bat Ana                   #2019, Roma
+ITA-LAZ MB  Reb Lau                   #2019, Roma
+ITA-LAZ MB1 Jon Bol                   #2019, Roma
+ITA-LAZ MC SanGio MonComPan           #2019, Roma
 
-POL M1 Mlo Kab                  #2022
-POL M2 Bem Tro                  #2022, u/c at both ends
-POL 6War MetMlo Goc             #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
-POL 7War Cen PRAleKraSka        #2022, via Plac Zawiszy
-POL 24War Cen Goc               #2022, via Most Poniatowskiego, Kinowa
-POL 26War MetMlo MetBem         #2022, via Aspekt, Radiowa
-POL 33War MetMlo RonONZ         #2022, via Aspekt, Sady Zoliborskiego, Stawki
+LUX T1 LuxExpo LycBouWeg              #2023
+
+POL M1 Mlo Kab                        #2022
+POL M2 Bem Tro                        #2022, u/c at both ends
+POL 6War MetMlo Goc                   #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
+POL 7War Cen PRAleKraSka              #2022, via Plac Zawiszy
+POL 24War Cen Goc                     #2022, via Most Poniatowskiego, Kinowa
+POL 26War MetMlo MetBem               #2022, via Aspekt, Radiowa
+POL 33War MetMlo RonONZ               #2022, via Aspekt, Sady Zoliborskiego, Stawki
+
+#Whole M network as-at September 2023
+#ROU M1 Pantelimon Dristor2                        #2023
+#ROU M2 Berceni Pipera                             #2023, southern extension u/c
+#ROU M3 Preciziei AnghelSaligny                    #2023
+#ROU M4 Straulesti GaraNord2                       #2023
+#ROU M5 ValeaIalomitei Romancierilor               #2023
+#ROU M5 Raul Doamnei Eroilor2                      #2023, eastrn extension u/c
+#ROU 16Buc PiperaElectronica SoseauaStefanMare     #2023
+#ROU 21Buc BucurObor PiataSfGheorghe               #2023
+#ROU 40Buc LucretiaPatracanu ComplexComercialTitan #2023
+#ROU 41Buc BlvdMaresalAverescu PiataCrangasi       #2023
+#ROU 45Buc Mezes BlvdMaresalAverescu               #2023
 
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
 SRB 5Beo KalDonGrad Ust         #2023
@@ -533,7 +585,6 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
-
 
 #TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
 #TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
