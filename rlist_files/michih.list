@@ -1,4 +1,4 @@
-# Date: 2023-10-04
+# Date: 2023-10-05
 # ----------------
 
 ######################
@@ -151,6 +151,9 @@ DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
 DEU-BY S6 Tut DIV_DonBruW             #2023, traveled as RB6
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
+
+DEU-SN S2Dre DreFlugHaf DreFreiBerStr #2023
+DEU-SN S8Dre Kam DreMit               #2023
 
 #CHE     Oberwald                     CHE     Realp                 #2016, Furka
 
