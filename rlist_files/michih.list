@@ -1,4 +1,4 @@
-# Date: 2023-10-06
+# Date: 2023-10-07
 # ----------------
 
 ######################
@@ -152,6 +152,7 @@ DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 DEU-BY S6 Tut DIV_DonBruW             #2023, traveled as RB6
 #DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
 
+DEU-SN S1Dre DreMit Sch               #2023
 DEU-SN S2Dre DreFlugHaf DreFreiBerStr #2023
 DEU-SN S8Dre Kam DreMit               #2023
 
@@ -425,6 +426,7 @@ DEU-SN 5Che Gab ZenHalSte            #2022, via Roter Turm, Annenplatz - Morgenl
 DEU-SN 1Dre LeuWitz ProGleSch                #2020, end to end; Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)
 DEU-SN 2Dre GorBetHof KleSchWitzFreyStr      #2020, end to end; Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)
 DEU-SN 3Dre WilMann Hbf                      #2020; Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 3Dre Hbf Cos                          #2023
 DEU-SN 4Dre WeinBoh AntLeiStr                #2020
 DEU-SN 4Dre NeuStaMar PostPla                #2023
 DEU-SN 4Dre PostPla LauGastKronStaPla        #2020, end to end but rerouted; Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)
@@ -433,9 +435,11 @@ DEU-SN 6Dre LobThaStr LudHarStr              #2023
 DEU-SN 7Dre WeixDorfRatStr PenGleSch         #2020, end to end; Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)
 DEU-SN 8Dre HelKieWeg CarPla                 #2020
 DEU-SN 8Dre DIV_KulzRing Hbf                 #2020, rerouted; Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf
+DEU-SN 8Dre PraStr SudVorSta                 #2023
 DEU-SN 9Dre RiePla NeuStaMar                 #2020
 DEU-SN 8Dre CarPla NeuStaMar                 #2020
 DEU-SN 9Dre +DIV_KulzRing ProGleSch          #2020, end to end but rerouted; Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)
+DEU-SN 10Dre MesGleSch SBfFreStr             #2023
 DEU-SN 11Dre WaldSch PostPla                 #2020; Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen
 DEU-SN 11Dre PostPla ZscMunzMeiStr           #2023
 DEU-SN 12Dre LeuWitz PostPla                 #2020; Leutewitz (E) - Löbtau - Postplatz
