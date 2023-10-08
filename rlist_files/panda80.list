@@ -4,6 +4,8 @@ AUT S4Tir InnsbruckHauptbahnhof Kufstein
 AUT S7Tir DEU/AUT AUT/DEU
 AUT U1 Kragan Karlsplatz
 AUT U4 Schwedenplatz Schonbrunn
+CZE U28Dec DEU/CZE DecinHlavniNadrazi
+CZE U54 DecinHlavniNadrazi Hnevice
 CZE S4 Hnevice PrahaMasarykovoNadrazi
 DEU-BB S2Bla BE/BB Blankenfelde
 DEU-BB S7 PotsdamHauptbahnhof BE/BB
@@ -62,6 +64,7 @@ DEU-BW RS3 MunKin UlmHbf
 DEU-BW RS7 UlmHbf BW/BY
 DEU-HH S2 HamburgAltona Bergedorf
 DEU-HH S11 Hauptbahnhof Blankenese
+DEU-SN U28 Sch DEU/CZE
 DEU-SN S2 LeipzigHauptbahnhof ST/SN
 DEU-SN S3 LeipzigEngelsdorf Oschatz
 DEU-SN S1Dre MeissenTribischtal Schona
@@ -91,6 +94,7 @@ FRA-IDF L SaintLazare VersaillesRiveDroite
 FRA-IDF M7 PorteVillette Chatlet
 FRA-IDF M13StO BasiliqueSaintDenis Fourche
 FRA-IDF M13 Fourche SaintLazare
+ITA-LAZ MA Ter Ott
 ITA-TRE S3Tir AUT/ITA BrennerBrennero
 ESP-CT R5 Espanya MonistrolMontserrat
 ESP-CT R13 EstacioFranca Sitges
