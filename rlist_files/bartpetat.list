@@ -98,10 +98,11 @@ NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
 NLD 9Haa ZwaPad KalSta
 
-NLD 25Rot RotCen Tel_2
 NLD 4Rot Koo +DIV_78
 NLD 7Rot Zaa RotCen
-
+NLD 8Rot +DIV_47 Beu
+NLD 24Rot Oos Beu
+NLD 25Rot RotCen Tel_2
 
 
 # BELGIUM
@@ -227,20 +228,28 @@ WLS SnoMouRwy Lla Clo
 
 
 ## ENG - England
+#Train
 ENG XCML She +DIV_DeaV
 ENG XCML +SKIP_ChuFen York
 ENG LonAms LonStPanInt GBR/FRA
 ENG ChaTnl FolEurTer GBR/FRA
-ENG EliLn TotCouRd CanWha
 ENG LutAirExp +DIV_HS1 LutAirPkwy
-ENG WoELn LonWat SAL
 ENG DeaVlyLn She York
+
+#Londen Underground / TFL
+ENG EliLn TotCouRd CanWha
+ENG WoELn LonWat SAL
+ENG JubLn LonBri Str
 ENG PicLn HeaTer23 CalRd
 ENG CenLnEal MileEnd NewPark
+ENG CenLnEal EalBro OxfCir
 ENG HaCLn Far MileEnd
 ENG VicLn KXSP Pim
 ENG DisLn KewGar EarCou
 ENG DLR CanWha CutSark
+ENG DLRRoy Sha CanTown
+ENG DLR Bank +DIV_Roy
+ENG NorLnBar KXSP LonBri
 
 
 # NORWAY
@@ -341,8 +350,9 @@ HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
+HKG 614 PuiTo +DIV_751/761
 HKG 705 TinShuiWai_A WetPark
-HKG 614 PuiTo YuenLong
+HKG 751 SuiHong TinWong
 
 
 #HK MTR
