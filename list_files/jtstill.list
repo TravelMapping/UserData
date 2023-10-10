@@ -200,6 +200,11 @@ PA US22 I-78(49) PA/NJ
 # Pittsburgh August 2022 (not including Turnpike already covered)
 PA I-76 57 189
 PA I-376 73 85
+PA PA380 HerAve CraSt_S
+PA PA28 1A 5
+PA I-279 1B 2A
+PA PA8 PA28 SaxBlvd
+PA PA910 MouViewRd SaxBlvd
 #
 #
 # Bucknell to Woodlawn (Oct 2022)
@@ -307,3 +312,10 @@ PA PA641 PA75 OraSt_N
 PA I-76 236 340
 PA US1 I-76(339) RidAve
 PA US13 RidAve_S RidAve_N
+#
+#
+# Ebensburg
+PA I-99 1 28
+PA US22 PA160Trk_N PA764_N
+PA PA160TrkWil US22_E PA160_N
+PA PA160 PA160Trk_N HighSt
