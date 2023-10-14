@@ -1,4 +1,4 @@
-# Date: 2023-10-05
+# Date: 2023-10-09
 # ----------------
 
 
@@ -2555,15 +2555,13 @@ DEU-BB B96Ora MV/BB A10
 DEU-BB B96Hoh A10 BB/BE
 DEU-BB B96Gli BE/BB BB/BE
 DEU-BB B96 BE/BB B115_W
-DEU-BB B96 B115_E B156
-DEU-BB B96 B169_W BB/SN
+DEU-BB B96 B115_E BB/SN
 DEU-BB B96a B96 BB/BE
 DEU-BB B96aSch BE/BB B96
 DEU-BB B97 B112_W A15
 DEU-BB B97Spr A15 BB/SN
 DEU-BB B101 BE/BB BB/ST
-DEU-BB B101Lie ST/BB B87
-DEU-BB B101Lie B183 BB/SN
+DEU-BB B101Lie ST/BB BB/SN
 DEU-BB B102 B5 BelCha_E
 DEU-BB B102 Pip Wei
 DEU-BB B102 B101/B115 B87/B96
@@ -2579,16 +2577,18 @@ DEU-BB B115 B101/B102 B96_N
 DEU-BB B115 B96_S B87
 DEU-BB B115Dob A15 BB/SN
 DEU-BB B122 MV/BB B167
+DEU-BB B156Wel B96/B169 BB/SN
+DEU-BB B156 SN/BB BB/SN
 DEU-BB B158 B2 B167
 DEU-BB B158 K6436 BB/BE
 DEU-BB B166 A11/A20 DEU/POL
 DEU-BB B167 B5 B112
 DEU-BB B168 B167 B169
-DEU-BB B169 L59 B96_S
-DEU-BB B169 B156 B168
+DEU-BB B169 SN/BB B168
 DEU-BB B179 A10 B87/B320
 DEU-BB B182 SN/BB BB/SN
 DEU-BB B183 SN/BB B101
+DEU-BB B187 ST/BB B101
 DEU-BB B188 ST/BB B5
 DEU-BB B188Rat B102 B188
 DEU-BB B189 A19 BB/ST
@@ -2631,10 +2631,12 @@ DEU-BB L52 B87 L55
 DEU-BB L55 L52 L61
 DEU-BB L55 A13(16) L59
 DEU-BB L55 GreWeg BB/SN
+DEU-BB L58 SN/BB BB/SN
 DEU-BB L59 B101 A13
 DEU-BB L60 L62 K6226
 DEU-BB L61 B96_S L55
 DEU-BB L62 L60 B169
+DEU-BB L63 L631 L59
 DEU-BB L70 B101 B246_E
 DEU-BB L75 BE/BB B96a
 DEU-BB L76 B101 B96/B96a
@@ -2682,6 +2684,8 @@ DEU-BB L382 B5/B112 B87/B112
 DEU-BB L400 BE/BB A10
 DEU-BB L401 BE/BB L30
 DEU-BB L422 BreStr B87/B246
+DEU-BB L591 B169 L631
+DEU-BB L631 L591 L63
 DEU-BB L751 BE/BB L752
 DEU-BB L752 BE/BB B96a
 DEU-BB L761 L794 BB/BE
@@ -4256,23 +4260,23 @@ DEU-SN B93 TH/SN B169
 DEU-SN B94 TH/SN B169
 DEU-SN B95Rot S72 S242
 DEU-SN B95 A4 DEU/CZE
-DEU-SN B96 BB/SN S116
-DEU-SN B96 S152_E S152_W
+DEU-SN B96 BB/SN K7246
+DEU-SN B96 GalBerg B99
 DEU-SN B96 B98 B99
 DEU-SN B96a S111 B96
 DEU-SN B97 BB/SN A4
 DEU-SN B97Dre A4 B6
-DEU-SN B98 B101 S99
-DEU-SN B98Bis B6 S119
-DEU-SN B98Bis S154 B96
+DEU-SN B98 B169 B97
+DEU-SN B98Bis A4 B96
 DEU-SN B99 B6 B96
-DEU-SN B101 BB/SN S215
-DEU-SN B101 B174 B169
-DEU-SN B107 B176_E B175_E
-DEU-SN B115 BB/SN A4
-DEU-SN B156 S108 B96
-DEU-SN B169Sch A72(7) PlaStr_E
-DEU-SN B169Sch B94 A72(13)
+DEU-SN B101 BB/SN B169
+DEU-SN B107 ST/SN B107a
+DEU-SN B107 S11/S38_W B169/B173
+DEU-SN B107a B107 S11
+DEU-SN B115 BB/SN B6
+DEU-SN B156Blu BB/SN SN/BB
+DEU-SN B156 BB/SN B96
+DEU-SN B169Sch A72(7) A72(13)
 DEU-SN B169 A72 S201_N
 DEU-SN B169 B175 SN/BB
 DEU-SN B170 A4 DEU/CZE
@@ -4282,13 +4286,15 @@ DEU-SN B172a A17 B172
 DEU-SN B172n B172a S173
 DEU-SN B173Pla A72(5) A72(7)
 DEU-SN B173 B94 B6
+DEU-SN B173n B173/B180 S223
 DEU-SN B174 B169/B173 DEU/CZE
 DEU-SN B175Zwi TH/SN A72
 DEU-SN B175 A72 A14
+DEU-SN B175Nos A14 B101
 DEU-SN B176 B2 B93_S
 DEU-SN B176 A72 S242_N
 DEU-SN B176 B107_S B175
-DEU-SN B178 B6 S128
+DEU-SN B178 S112 S128
 DEU-SN B178Zit S128 DEU/POL
 DEU-SN B180Har TH/SN SN/TH
 DEU-SN B180 TH/SN S246_W
@@ -4297,42 +4303,57 @@ DEU-SN B181 ST/SN B87
 DEU-SN B182 B87/B183 SN/BB
 DEU-SN B182Rie BB/SN B169
 DEU-SN B183 ST/SN SN/BB
+DEU-SN B183a ST/SN B2
 DEU-SN B184 ST/SN B2
 DEU-SN B186 B6 B2
 DEU-SN B282 TH/SN B92
-DEU-SN B283 B92 S276
-DEU-SN B283 S277 B101
+DEU-SN B283 B92 B101
 DEU-SN S1 A9 A14
+DEU-SN S11 B107_E B107a
 DEU-SN S32 B175 S85_W
+DEU-SN S36 B101_S S177
 DEU-SN S46 DieStr_N S72
 DEU-SN S50 TH/SN B93
 DEU-SN S51 S53 S52
 DEU-SN S52 S51 SN/TH
 DEU-SN S53 TH/SN S51
 DEU-SN S54 TH/SN S289
+DEU-SN S55 A4 S111
 DEU-SN S59 A4 B97
 DEU-SN S72 S46 B2
 DEU-SN S73 A4 B173
+DEU-SN S80 B101 S84
 DEU-SN S81 B101 S96
-DEU-SN S82 CosStr B6
+DEU-SN S82 S84 B6
+DEU-SN S84 S80 S82
 DEU-SN S85 B6 S85Lom
 DEU-SN S85Lom S85 S32
 DEU-SN S87 B169/B182 B6
+DEU-SN S88 B169_N B101
+DEU-SN S93 BB/SN B97
 DEU-SN S94 NordStr A4
 DEU-SN S95 S285 S94
 DEU-SN S95 NordStr S100_W
+DEU-SN S95 A4 S177_W
+DEU-SN S95 S180 B6
 DEU-SN S96 S81 A4
 DEU-SN S99 BB/SN B98
 DEU-SN S100 S95_S S95_N
 DEU-SN S100 S94 S107
+DEU-SN S101 B156 S109
+DEU-SN S103 B96 SN/BB
 DEU-SN S106 A4 S111
 DEU-SN S107 S111 S100
 DEU-SN S108 B97 B156
+DEU-SN S109 S101 S121
 DEU-SN S111 S107 B96a
+DEU-SN S111 S112_W S55
+DEU-SN S112 S111_N B178
 DEU-SN S115 S116 K8683
 DEU-SN S116 B96 B98
 DEU-SN S117 S119 S116
 DEU-SN S119 S117 B98
+DEU-SN S121 S109 B115
 DEU-SN S125 B99 DEU/POL
 DEU-SN S128 B178_N B178_S
 DEU-SN S132 B178 B96
@@ -4346,19 +4367,29 @@ DEU-SN S172 B173 B172/B172a
 DEU-SN S173 B172 B172n
 DEU-SN S173 S170 DEU/CZE
 DEU-SN S175 A17 K8767
+DEU-SN S177 S36 A4(77a)
 DEU-SN S177 A4(84) S159
 DEU-SN S179 A4 B170
+DEU-SN S180 BadStr_N S95
 DEU-SN S183 K9024 S190
+DEU-SN S184 B173 S209
 DEU-SN S190 B170_S S183
 DEU-SN S191 A17 S172
+DEU-SN S194 B173_W B173_E
+DEU-SN S200 A4 B169
 DEU-SN S201 A4 B169_S
+DEU-SN S209 S184 S210
+DEU-SN S210 B101_S S209
 DEU-SN S215 B101 B171
 DEU-SN S218 B95 S221
 DEU-SN S221 B171 S218
-DEU-SN S222 S260 B101
+DEU-SN S222 S269 B101
+DEU-SN S223 B173n S236_W
 DEU-SN S228 S231 B101
 DEU-SN S231 S232 S228
 DEU-SN S232 B180_W S230
+DEU-SN S236 B169/B173 S223_N
+DEU-SN S238 B169 B173
 DEU-SN S239 S258 B95
 DEU-SN S242 B95 B176_W
 DEU-SN S246 B180_W S256
@@ -4368,11 +4399,13 @@ DEU-SN S258 S239 S256
 DEU-SN S258 B169/B180 K8831
 DEU-SN S260 S222 B95
 DEU-SN S261 B95_W B101_S
+DEU-SN S269 B101 S222
 DEU-SN S272 S275/S276 S272a
 DEU-SN S272a S272 DEU/CZE
+DEU-SN S274 K9170_E K9170_W
 DEU-SN S276 B283 S272/S275
 DEU-SN S277 B169_W B283
-DEU-SN S278 K7831_N K7831_S
+DEU-SN S278 K7831_N S300
 DEU-SN S282 S293_N B93
 DEU-SN S283 A72 S286
 DEU-SN S285 S95 B96
@@ -4384,10 +4417,12 @@ DEU-SN S294 TH/SN S289/S290
 DEU-SN S295 TH/SN S299_N
 DEU-SN S296 TH/SN S299
 DEU-SN S299 B94 S296
+DEU-SN S300 S278 B283
 DEU-SN S304 S298 HauStr
 DEU-SN S307 S309 SN/BY
 DEU-SN S308 S309_W DEU/CZE
 DEU-SN S309 S307 B92
+DEU-SN S312Pla B173 B169
 DEU-SN S314 TH/SN B175_S
 DEU-SN S317 TH/SN S289
 DEU-SN S319 A72 SN/BY
@@ -4442,13 +4477,12 @@ DEU-ST B180 L207 B176_W
 DEU-ST B180 B87/B88 ST/TH
 DEU-ST B180n A36 B185
 DEU-ST B181 B91 ST/SN
-DEU-ST B183 L141_S ST/SN
-DEU-ST B184 B1 B187
-DEU-ST B184 B185_W ST/SN
+DEU-ST B183 B185 ST/SN
+DEU-ST B183a B100 ST/SN
+DEU-ST B184 B1 ST/SN
 DEU-ST B185 B242 B180n
 DEU-ST B185 15(A36) B184_S
-DEU-ST B187 B184 A9
-DEU-ST B187 RosStr TriStr
+DEU-ST B187 B184 ST/BB
 DEU-ST B187a B184 AkenFry
 DEU-ST B187aAke AkenFry B185
 DEU-ST B188 B71_N ST/BB
@@ -4490,7 +4524,10 @@ DEU-ST L85Wer A36 B81
 DEU-ST L85 B27 L240
 DEU-ST L95 B242 L239
 DEU-ST L121 L55 QuerStr
+DEU-ST L134 B185 L136
+DEU-ST L136 B185 L134
 DEU-ST L141 B6 B100
+DEU-ST L143 B183 B100
 DEU-ST L144 L145_S L141
 DEU-ST L145 L144_E L50
 DEU-ST L148 B6/B185 L73
@@ -8338,486 +8375,3 @@ QC A-440WQu 12 BlvdCha
 QC A-520 A-20 1
 QC QC136Mon 1 3
 QC QC134 RueOnt BoulTas_N
-
-
-
-######################
-#### CAR FERRIES  ####
-######################
-
-#BGR     Nikopol                      ROU     Turnu Magurele
-#FRA-BRE Roscoff                      IRL     Rosslare
-#NIR     Larne                        SCT     Cairnryan
-#DNK     Rodbyhavn                    DEU-SH  Fehmarn
-#DNK     Tars                         DNK     Drejet (PR9)
-#DNK     Odde                         DNK     Aarhus (PR21)
-#DNK     Hundested                    DNK     Rorvig (PR16 - SR225)
-#DNK     Kulhuse                      DNK     Solager (SR207)
-#SWE     Trelleborg                   DEU-MV  Rostock
-#EST     Tallinn                      FIN     Helsinki
-#SWE     Helsingborg                  DNK     Helsingor
-#DEU-HB  Bremerhaven                  DEU-NI  Nordenham
-#DEU-HB  Farge                        DEU-NI  Ranzenbüttel
-#DEU-HB  Vegesack                     DEU-NI  Lemwerder
-#DEU-BB  Lütkenwisch                  DEU-NI  Schnackenburg
-#DEU-ST  Räbel                        DEU-ST  Havelberg
-#DEU-RP  Engelsburg                   DEU-RP  Korb
-#DEU-RP  Niederheimbach               DEU-RP  Lorch
-#DEU-BW  Ladenburg                    DEU-BW  Neckarhausen
-#DEU-BW  Meersburg                    DEU-BW  Konstanz
-#DEU-BW  Kollerinsel                  DEU-BW  Brühl
-#DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
-#DEU-RP  Neuburg                      DEU-BW  Neuburgweier
-#DEU-SH  Glückstadt                   DEU-NI  Wischhafen
-#DEU-ST  Aken                         DEU-ST  Steutz
-#FRA-GES Seitz                        DEU-BW  Plittersdorf
-#FRA-GES Drusenheim                   DEU-BW  Greffern
-#FRA-GES Rhinau                       DEU-BW  Kappel
-#FRA-PAC Salin-de-Giraud (Rhone)
-#MLT     Mgarr                        MLT     Cirkewwa
-#ITA     Brindisi                     GRC     Igoumenitsa
-#NLD     Hoek van Holland             ENG     Harwich
-#ENG     Dover                        FRA-HDF Calais
-#LUX     Wasserbillig                 DEU-RP  Oberbillig
-
-
-######################
-####   RAILWAYS   ####
-######################
-
-#DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
-#DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
-#DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
-#DEU-BY  Lindau-Insel                 DEU-BY  Lindau-Reutin     #2022, S1
-#DEU-BY  Munich Hbf                   DEU-BY  Ingolstadt Hbf    #2022, RE1
-#DEU-BY  Ingolstadt Hbf               DEU-BY  Augsburg Hbf      #2022, RB13
-#DEU-BY  Augsburg Hbf                 DEU-BY  Donauwörth        #2022, RE8
-#DEU-BY  Regensburg Hbf               DEU-BW  Ulm Hbf           #2022, RB15 via Donauwörth
-#DEU-BY  Würzburg Hbf                 DEU-BY  Munich Hbf        #~2012? via Nürnberg Hbf
-#DEU-BY  Würzburg Hbf                 DEU-BY  Munich Hbf        #~2012? via Treuchtlingen
-#DEU-BY  Günzburg                     DEU-BY  Mindelheim        #2022, RB78
-#DEU-BY  Buchloe                      DEU-BY  Augsburg Hbf      #2022, RE7
-
-#DEU-BY  Regensburg Hbf               DEU-BY  Marktredwitz      #2022, RB23
-#DEU-BY  Marktredwitz                 DEU-BY  Hof Hbf           #2022, RB24
-#DEU-BY  Hof Hbf                      DEU-SN  Chemnitz Hbf      #2022, RE3 via Zwickau, Glauchau
-#DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
-#DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
-#DEU-BB  Cottbus Hbf                  DEU-BB  Frankfurt(O) Hbf  #2022, RB11
-#DEU-BB  Frankfurt(O) Hbf             DEU-ST  Magdeburg Hbf     #2022, RE1 via Berlin Hbf, Potsdam Hbf
-#DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
-#DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
-#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg
-#DEU-BY  Nürnberg Hbf                 DEU-BY  Donauwörth        #2022, RE16
-
-#DEU-HB  Bremen Hbf                   DEU-NI  Rotenburg (Wümme) #2021, RE4
-#DEU-NI  Rotenburg (Wümme)            DEU-HH  Hamburg Hbf       #2021, RE4
-
-#DEU-NW  Düsseldorf Hbf               DEU-BY  Aschaffenburg Hbf     #2016
-
-#DEU-BW  Ulm Hbf                      DEU-BW  Stuttgart Hbf         #2020
-#DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
-#DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
-#DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
-#DEU-BW  Ulm Hbf                      DEU-BY  Senden                #2022
-#DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
-#DEU-BW  Donaueschingen               DEU-BW  Freiburg Hbf          #2022, S10
-#DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26 via Pforzheim, NOT via Bietigheim-Bissingen
-#DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
-#DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1
-#DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
-#DEU-BW  Kornwestheim                 DEU-BW  Stgt-Untertürkheim    #2023, rerouted via Münster, Zazenhausen
-
-#DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S1 via Flörsheim, Höchst
-#DEU-HE  Frankfurt Rödelheim          DEU-HE  Darmstadt Hbf         #2022, S3 via Ffm Hbf, Ostendstr, Südbahnhof, Langen
-#DEU-HE  Oberursel                    DEU-HE  Frankfurt Rödelheim   #2022, S5
-#DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S8 via Mainz Hbf, Airport
-#DEU-HE  Wiesbaden Hbf                DEU-HE  Frankfurt Hbf         #2022, S9 via Mainz-Kastel, Airport
-#DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #2022, RB75 via Mainz Hbf, Groß-Gerau
-
-#DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
-#DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
-#DEU-BW  Crailsheim                   DEU-BW  Heilbronn Hbf         #2022, RE80
-#DEU-BW  Heilbronn Hbf                DEU-BW  Heidelberg Hbf        #2022, RE10b via Sinsheim
-#DEU-BW  Heidelberg Hbf               DEU-BW  Mannheim Hbf          #2022, S2
-#DEU-BW  Mannheim Hbf                 DEU-RP  Koblenz Hbf           #2022, RE1 via Saarbrücken, Trier
-#DEU-RP  Koblenz Hbf                  DEU-RP  Mainz Hbf             #2022, RB26
-#DEU-RP  Mainz Hbf                    DEU-BY  Aschaffenburg Hbf     #2022, RB75 via Darmstadt
-#DEU-BY  Aschaffenburg Hbf            DEU-BY  Würzburg Hbf          #2022, RE55 via Gemünden
-#DEU-BY  Würzburg Hbf                 DEU-BW  Stuttgart Hbf         #2022, RE8
-
-#DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, RE6 via Biberach, Balingen, Tübingen
-
-#DEU-NW  Dortmund Dorstfeld           DEU-NW  Bochum Hbf            #2022, S1 via Oespel, Langendreer
-#DEU-NW  Mülheim Hbf                  DEU-NW  Duisburg Hbf          #2022, S1
-#DEU-NW  Herne Bf                     DEU-NW  Dortmund Hbf          #2022, S2 via Castrop-Rauxel, Westerfilde, Dorstfeld
-#DEU-NW  Dortmund-Körne-West          DEU-NW  Dortmund-Wickede      #2022, S4
-#DEU-NW  Düsseldorf Hbf               DEU-NW  Essen Hbf             #2022, S6 via Derendorf, Ratingen-Ost, Kettwig
-
-#DEU-BW  Mannheim Hbf                 DEU-HE  Frankfurt Hbf         #2022, ICE route
-#DEU-HE  Frankfurt Hbf                DEU-HE  Frankfurt-South       #2022, S6 via Ostend
-#DEU-HE  Frankfurt-South              DEU-HE  Gießen Hbf            #2022, RE30 but via Maintal, Hanau, Assenheim due to construction
-#DEU-HE  Frankfurt-South              DEU-HE  Hanau Hbf             #2023, RE55 via Offenbach, due to construction
-#DEU-HE  Gießen Hbf                   DEU-NW  Siegen Hbf            #2022, RE98
-#DEU-NW  Siegen Hbf                   DEU-NW  Cologne Deutz         #2022, RE9
-#DEU-NW  Cologne Deutz                DEU-NW  Oberhausen Hbf        #2022, RE5 via Langenfeld, Duisburg
-#DEU-NW  Oberhausen Hbf               DEU-NW  Gelsenkirchen Hbf     #2022, RB32
-#DEU-NW  Gelsenkirchen Hbf            DEU-NW  Dortmund Hbf          #2022, S2 via Herne, Dorstfeld
-#DEU-NW  Dortmund Hbf                 DEU-NW  Herford               #2022, RE6
-#DEU-NW  Herford                      DEU-NW  Rheine                #2022, RB61 via Osnabrück
-#DEU-NW  Rheine                       DEU-NW  Münster Hbf           #2022, RB65
-#DEU-NW  Münster Hbf                  DEU-NW  Coesfeld              #2022, RB83
-#DEU-NW  Coesfeld                     DEU-NW  Essen Hbf             #2022, RE14 via Dorsten, E-Borbeck
-#DEU-NW  Essen Hbf                    DEU-NW  Krefeld Hbf           #2022, RE42
-#DEU-NW  Krefeld Hbf                  DEU-NW  Wuppertal Hbf         #2022, RE7 via Cologne Hbf, Solingen
-#DEU-NW  Wuppertal Hbf                DEU-NW  Aachen Hbf            #2022, RE4 via Düsseldorf, Mönchengladbach
-#DEU-NW  Aachen Hbf                   DEU-NW  Cologne Hbf           #2022, RE1
-#DEU-NW  Cologne Hbf                  DEU-NW  Bonn-Bad Godesberg    #2022, RB48
-#DEU-NW  Bonn Hbf                     DEU-RP  Koblenz Hbf           #2022, RE5
-#DEU-RP  Koblenz Hbf                  DEU-HE  Wiesbaden Hbf         #2022, RB10 via Rüdesheim
-#DEU-RP  Mainz Hbf                    DEU-RP  Bad Kreuznach         #2022, RE3 via Ockenheim
-#DEU-RP  Bad Kreuznach                DEU-RP  Kaiserslautern Hbf    #2022, RB65 via Enkenbach, not via Hochspeyer!
-#DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
-#DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
-#DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
-#DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
-
-#DEU-BY  Kempten                      DEU-BY  Augsburg Hbf          #2023, RE7
-#DEU-BY  Augsburg Hbf                 DEU-BY  Weilheim (Oberbayern) #2023, RB67
-#DEU-BY  Weilheim (Oberbayern)        DEU-BY  Munich Hbf            #2023, RB6
-
-
-#DNK     Roskilde                     DNK     Copenhagen            #2020
-
-#ENG     StrLn BMO SOL                                              #2018, Birmingham Moor Street - Solihull
-
-#ESP-IB  Soller                       ESP-IB  Palma                 #1996
-
-
-
-######################
-#### METROS/TRAMS ####
-######################
-
-#CHE     Bern  3  Bern Bahnhof       CHE     Bern  3  Weissenbühl   #2021, including Bahnhof loop
-#CHE     Bern  6  Zytglogge          CHE     Bern  6  Worb Dorf     #2021
-#CHE     Bern  7  Bümpliz            CHE     Bern  7  Ostring       #2021
-#CHE     Bern  8  Brünnen Westside   CHE     Bern  8  Saali         #2021
-#CHE     Bern  9  Bern Bahnhof       CHE     Bern  9  Wabern        #2021, northern route was not in service due to construction
-
-#CZE     Praha MA Nemocnice Motol    CZE     Praha MA Depo Hostivar #2019
-#CZE     Praha MB Zlicin             CZE     Praha MB Cerny Most    #2019
-#CZE     Praha MC Letnany            CZE     Praha MC Haje          #2019
-
-#DEU-BB Frankfurt STR1 Stadion - Zentrum - Neubersinchen            #2022
-#DEU-BB Frankfurt STR4 Markendorf, Ort - Zentrum - Lebuser Vorstadt #2022
-
-#DEU-BB Potsdam STR91 Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke #2022
-#DEU-BB Potsdam STR92 Kirschallee - Platz d. Einheit-West - Hbf - Marie-Juchacz-Str                                        #2022
-#DEU-BB Potsdam STR93 Glienicker Straße - Hbf - Bhf Rehbrücke                                                              #2022
-#DEU-BB Potsdam STR94 Platz d. Einheit-West - Fontanestr                                                                   #2022
-#DEU-BB Potsdam STR96 Campus Jungfernsee - Platz d. Einheit-West - Marie-Juchacz-Str                                       #2022
-
-#DEU-BW  STR2 Freiburg Hbf              DEU-BW  FR-Günterstal                                     #2022
-
-#DEU-BW  S4    Karlsruhe Albtalbahnhof  DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  STR1  Karlsruhe Mühlburger Tor DEU-BW  Kronenplatz (U)                                   #2022
-#DEU-BW  STR2  KA-Knielingen Nord       DEU-BW  KA-Bahnhofsvorplatz                               #2022, via ZKM, Europaplatz
-
-#Mannheim tram main station was closed due to construction, July 2022
-#DEU-BW  STR1  Mannheim Marktplatz      DEU-BW  Mannheim Schönau                                  #2022
-#DEU-BW  STR3  Mannheim Sandhofen       DEU-BW  Mannheim Schloss                                  #2022
-#DEU-BW  STR4  Mannheim Schloss         DEU-RP  Ludwigshafen Berliner Platz                       #2022
-#DEU-RP  STR4  L'hafen Berliner Platz   DEU-BW  Mannheim Tattersall                               #2022, via Wasserturm
-
-#DEU-BW  Fellbach Schwabenlandhalle  DEU-BW  Stuttgart Staatsgalerie                           #201x, U1
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Rotebühlplatz                           #201x, any via Berliner Platz
-#DEU-BW  Stuttgart Staatsgalerie     DEU-BW  Stuttgart Österreichischer Platz                  #201x, any
-#DEU-BW  Stuttgart Charlottenplatz   DEU-BW  Stuttgart Rotebühlplatz                           #201x, any
-#DEU-BW  Stuttgart Pragfriedhof      DEU-BW  Stuttgart Charlottenplatz                         #201x, any
-#DEU-BW  Stuttgart Löwentor          DEU-BW  Stuttgart Charlottenplatz                         #201x, U12? via Nordbahnhof
-#DEU-BW  Stuttgart Wilhelmsplatz     DEU-BW  Stuttgart Löwentor                                #201x, U13/U16?
-#DEU-BW  Stuttgart Stadtmitte        DEU-BW  Esslingen                                         #201x, S1
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Ludwigsburg                                       #2022, S4
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Bietigheim-Bissingen                              #2023, S5
-#DEU-BW  Stuttgart Hauptbahnhof      DEU-BW  Renningen                                         #2020, S6
-#DEU-BW  Stuttgart-Vaihingen         DEU-BW  Stuttgart-SSB-Zentrum                             #2023, U3
-#DEU-BW  Stuttgart-Feuerbach         DEU-BW  Stuttgart-Pragsattel                              #2023, U6
-#DEU-BW  Stuttgart-Mönchfeld         DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U7 via Pragfriedhof
-#DEU-BW  Neckargröningen/Remseck     DEU-BW  Stuttgart-Dürrlewang                              #2023, U12 via Hallschlag, Budapester Platz, Bopser
-#DEU-BW  Stuttgart-Mühlhausen        DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U14 via Münster, Charlottenplatz, Berliner Platz
-#DEU-BW  Stuttgart-Stammheim         DEU-BW  Stuttgart-Pragsattel                              #2023, U15
-#DEU-BW  Stuttgart-Botnang           DEU-BW  Stuttgart-Hauptbahnhof                            #2023, U29 extended onto U2 service to Botnang
-
-#DEU-BW  Ulm STR1 Söflingen               DEU-BW  Böfingen                                          #2020
-#DEU-BW  Ulm STR2 Kuhberg-Schulzentrum    DEU-BW  Science Park II                                   #2020
-
-#DEU-BY  U1    Munich OEZ              DEU-BY  Munich Mangfallplatz                            #2022
-#DEU-BY  U2    Munich Feldmoching      DEU-BY  Munich Messestadt Ost                           #2022
-#DEU-BY  U3    Munich Moosach          DEU-BY  Munich Fürstenried West                         #2022
-#DEU-BY  U4    Munich Westendstraße    DEU-BY  Munich Arabellapark                             #2022
-#DEU-BY  U5    Munich Laimer Platz     DEU-BY  Munich Neuperlach Süd                           #2022
-#DEU-BY  U6    Munich Klinik. G'hadern DEU-BY  Munich Garching Forschungszentrum               #2022
-#DEU-BY  S1    Munich Airport          DEU-BY  Munich Hbf                                      #2022 via Moosach
-#DEU-BY  S8    Munich Airport          DEU-BY  Munich Pasing                                   #2022 via Hbf, Leuchtenbergring
-#DEU-BY  STR12 Munich Leonrodplatz     DEU-BY  Munich Hohenzollernplatz                        #2023
-#DEU-BY  STR18 Munich Hbf Süd          DEU-BY  Munich Schwanseestraße                          #2022
-#DEU-BY  STR19 Munich Hbf Süd          DEU-BY  Munich Berg am Laim                             #2022
-#DEU-BY  STR21 Munich Leonrodplatz     DEU-BY  Munich Hbf Nord                                 #2023
-#DEU-BY  STR21 Munich Maxmonument      DEU-BY  Munich St.-Veit-Straße                          #2022
-#DEU-BY  STR19 Munich Pasing           DEU-BY  Munich Hbf                                      #2023
-
-#DEU-BY  U2 Nürnberg Airport         DEU-BY Nürnberg Räthenbach                                #2022
-#DEU-BY  U3 Nürnberg Nordwestring    DEU-BY Nürnberg Hbf                                       #2022
-
-#DEU-BE  Berlin Wittenbergplatz      DEU-BE  Möckernbrücke                                     #2018
-#DEU-BE  Möckernbrücke               DEU-BE  Südstern                                          #2018
-#DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER                                                #2001
-#DEU-BE  S9  Treptower Park          DEU-BE  Adlershof                                         #2023
-#DEU-BE  S42 Neukölln                DEU-BE  Neukölln                                          #2023, full loop counter-clockwise
-#DEU-BE  S47 Neukölln                DEU-BE  Spindlersfeld                                     #2023
-#DEU-BE  61  Adlershof (at loop)     DEU-BE  Schloßplatz Köpenick                              #2023
-#DEU-BE  62  Rathaus Köpenick        DEU-BE  Wendenschloß                                      #2023
-#DEU-BE  63  Bahnhofstr/Lindenstraße DEU-BE  Köllnischer Platz                                 #2023, via Rathaus Köpenick
-#DEU-BE  68  S Grünau                DEU-BE  Bahnhofstr/Lindenstraße                           #2023, via Freiheit
-#DEU-BE  F12 Wendenschloss           DEU-BE  Grünau                                            #2023, ferry
-
-#DEU-HB  U1  Huchting                DEU-HB  Mahndorf                                          #2021, All routes as of 2021
-#DEU-HB  U2  Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
-#DEU-HB  U3  Gröpelingen             DEU-HB  Weserwehr                                         #2021
-#DEU-NI  U4  Lilienthal              DEU-HB  Arsten                                            #2021
-#DEU-HB  U5  Bürgerpark              DEU-HB  Doventor                                          #2021, 2021 routing
-#DEU-HB  U6  Uni-Nord                DEU-HB  Flughafen-Süd                                     #2021
-#DEU-HB  U8  Kulenkampffallee        DEU-HB  Huchting                                          #2021
-#DEU-HB  U10 Gröpelingen             DEU-HB  Sebaldsbrück                                      #2021
-
-#DEU-SH  U1 Norderstedt Mitte        DEU-HH  Ohlstedt                                          #2020, All routes as of 2020
-#DEU-SH  U1 Norderstedt Mitte        DEU-SH  Großhansdorf                                      #2020
-#DEU-HH  U2 Niendorf Nord            DEU-HH  Mümmelmannsberg                                   #2020
-#DEU-HH  U3 Wandsbek-Gartenstadt     DEU-HH  Barmbek (full loop)                               #2020
-#DEU-HH  U4 Billstedt                DEU-HH  Elbbrücken                                        #2020
-#DEU-HH  S1 Ohlsdorf                 DEU-HH  Altona (via Hasselbrook, Hbf, Königstraße)        #2020
-
-#DEU-HE  U1 Frankfurt Ginnheim       DEU-HE  Frankfurt Südbahnhof                              #2022
-#DEU-HE  U2 Bad Homburg Gonzenheim   DEU-HE  Frankfurt Südbahnhof                              #2022
-#DEU-HE  U3 Oberursel Hohemark       DEU-HE  Frankfurt Südbahnhof                              #2022
-#DEU-HE  U4 Bockenheimer Warte       DEU-HE  Frankfurt Enkheim                                 #2022
-#DEU-HE  U5 Frankfurt Hbf            DEU-HE  Frankfurt Preungesheim                            #2022, extension u/c till 2025
-#DEU-HE  U6 Frankfurt Hausen         DEU-HE  Frankfurt Ostbahnhof                              #2022
-#DEU-HE  U7 Ffm Praunheim Heerstr    DEU-HE  Frankfurt Enkheim                                 #2022
-#DEU-HE  U8 Frankfurt Riedberg       DEU-HE  Frankfurt Südbahnhof                              #2022
-#DEU-HE  U9 Ffm Nieder-Eschbach      DEU-HE  Frankfurt Ginnheim                                #2022
-#DEU-HE  STR12 Ffm Rothschildallee   DEU-HE  Frankfurt Rohrbachstr                             #2022
-#DEU-HE  STR18 Frankfurt Rohrbachstr DEU-HE  Frankfurt Südbahnhof                              #2022, via Konstablerwache, Frankensteiner Platz
-
-#DEU-HE  Kassel   STR4 Rathaus/Fünffen.     DEU-HE  Hess.Lichtenau Bürgerhaus                  #2022
-#DEU-HE  Kassel   STR4 Am Stern             DEU-HE  Helsa Am Steinhof                          #2022
-
-#DEU-MV  Rostock  STR1 Mecklenburger Allee  DEU-MV Hafenallee                                  #2022, via Lange Straße
-#DEU-MV  Rostock  STR3 Neuer Friedhof       DEU-MV Dierkower Allee                             #2022, via Lange Straße
-#DEU-MV  Rostock  STR5 Mecklenburger Allee  DEU-MV Südblick                                    #2022, via Lange Straße
-#DEU-MV  Rostock  STR6 Neuer Friedhof       DEU-MV Campus Südstadt                             #2022, via Lange Straße
-
-#DEU-MV  Schwerin STR1 Klinken          DEU-MV  Hegelstraße                                    #2020, All routes as of 2020
-#DEU-MV  Schwerin STR2 Lankow           DEU-MV  Hegelstraße                                    #2020, both directions
-#DEU-MV  Schwerin STR3 Neu Pankow       DEU-MV  Hegelstraße                                    #2020
-#DEU-MV  Schwerin STR4 Kliniken         DEU-MV  Neu Pankow                                     #2020
-
-#DEU-NI  Brunswick 1 Wenden Heideblick          DEU-NI  Stöckheim Salzdahlumer Weg             #2022, via Rathaus, Hbf
-#DEU-NI  Brunswick 2 Siegfried. Ottendorfer Str DEU-NI  Schloss                                #2022
-#DEU-NI  Brunswick 2 Hbf                        DEU-NI  Heidberg Anklamstraße                  #2022, not standard route
-#DEU-NI  Brunswick 5 Hbf                        DEU-NI  Luisenstraße                           #2022, via Museumstraße
-
-#DEU-NI  Hanover   1 Langenhagen     DEU-NI  Sarstedt                                          #2021
-#DEU-NI  Hanover   2 Alte Heide      DEU-NI  Rethen                                            #2021
-#DEU-NI  Hanover   3 Wettbergen      DEU-NI  Altwarmbüchen                                     #2021
-#DEU-NI  Hanover   4 Garbsen         DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   5 Stöcken         DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   6 Nordhafen       DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover   7 Wettbergen      DEU-NI  Misburg                                           #2021
-#DEU-NI  Hanover   8 Dragonerstraße  DEU-NI  Messe-Nord                                        #2021
-#DEU-NI  Hanover   9 Empelde         DEU-NI  Fasanenkrug                                       #2021
-#DEU-NI  Hanover  10 Ahlem           DEU-NI  Hbf/ZOB                                           #2021
-#DEU-NI  Hanover  11 Haltenhoffstr.  DEU-NI  Aegidientorplatz                                  #2021
-#DEU-NI  Hanover  17 Wallensteinstr. DEU-NI  Hbf/ZOB                                           #2021
-
-#DEU-NW  Bielefeld 1 Schildesche     DEU-NW  Senne                                             #2022
-#DEU-NW  Bielefeld 2 Altenhagen      DEU-NW  Sieker                                            #2022
-#DEU-NW  Bielefeld 3 Babenhausen-Süd DEU-NW  Dürkopp Tor 6                                     #2022
-#DEU-NW  Bielefeld 4 Lohmannshof     DEU-NW  Stieghorst Zentrum                                #2022
-
-#DEU-NW  Bochum U35 Hustadt          DEU-NW  Herne Schloß Strükede                             #2022
-
-#DEU-NW  Cologne Barbarossaplatz     DEU-NW  Bad Godesberg-Stadthalle                          #2022, U16
-#DEU-NW  Cologne Barbarossaplatz     DEU-NW  Bonn Hbf                                          #2022, U18
-#DEU-NW  Bonn-Quirinusplatz          DEU-NW  Bonn-Kopenhagener Straße                          #2022, Tram 61
-#DEU-NW  Bonn Hbf                    DEU-NW  Bonn-Oberkassel                                   #2022, Tram 62
-#DEU-NW  Siegburg Bf                 DEU-NW  Bad Honnef                                        #2022, U66
-
-#DEU-NW  Cologne U 1 Weiden-West      DEU-NW  Bensberg                                          #2021
-#DEU-NW  Cologne U 3 H-Böckler-Platz  DEU-NW  Thielenbruch                                      #2021
-#DEU-NW  Cologne U 4 H-Böckler-Platz  DEU-NW  Mülheim-Wiener Platz                              #2021
-#DEU-NW  Cologne U 5 SButzenweilerhof DEU-NW  Heumarkt                                          #2021
-#DEU-NW  Cologne U 7 Benzenrath       DEU-NW  Zündorf                                           #2021
-#DEU-NW  Cologne U 9 Neumarkt         DEU-NW  Königsforst                                       #2021
-#DEU-NW  Cologne U12 Ebertplatz       DEU-NW  Zollstock Südfriedhof                             #2021
-#DEU-NW  Cologne U13 Holweide-Visch.  DEU-NW  Sülzgürtel                                        #2021
-#DEU-NW  Cologne U16 Niehl-Seba.str.  DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne U17 Severinstr.      DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne U18 Thielenbruch     DEU-NW  Sülzgürtel                                        #2021
-
-#DEU-NW  Dortmund U41 Brambauer Verkehrshof  Clarenberg                                        #2022
-#DEU-NW  Dortmund U42 Grevel                 Grotenbachstraße                                  #2022
-#DEU-NW  Dortmund U43 Westentor              Wickede (S)                                       #2022
-#DEU-NW  Dortmund U44 Walbertstraße          Westfalenhütte                                    #2022
-#DEU-NW  Dortmund U45 Hbf                    Westfalenhallen                                   #2022
-#DEU-NW  Dortmund U46 Stadtgarten            Westfalenhallen                                   #2022
-#DEU-NW  Dortmund U47 Westerfilde            Aplerbeck                                         #2022
-#DEU-NW  Dortmund U49 Hbf                    Hacheney                                          #2022
-
-#DEU-NW  D'dorf U73 D-Heinrich-Heine DEU-NW  Düsseldorf Uni-Ost                                #2022
-#DEU-NW  D'dorf U79 DU-Meiderich     DEU-NW  Düsseldorf Uni-Ost                                #2022
-#DEU-NW  D'dorf U76 D-Heinrich-Heine DEU-NW  Krefeld-Rhenstraße                                #2023
-
-#DEU-NW  Essen  U11 GE-Buerer Straße DEU-NW  Essen Messe-West/Süd                              #2022
-#DEU-NW  Essen  U17 Essen Karlsplatz DEU-NW  Essen Margarethenhöhe                             #2022
-#DEU-NW  Essen  U18 Mülheim Hbf      DEU-NW  Essen Berliner Platz                              #2022
-
-#DEU-NW  Wuppertal Vohwinkel         DEU-NW  Wuppertal Oberbarmen                              #2022, route 60
-
-#All relations at main station traveled, 59 does not run on weekend
-#DEU-RP  Mainz   STR50 Römerquelle      DEU-RP  Bürgerhaus                                        #2022
-#DEU-RP  Mainz   STR51 Poststraße       DEU-RP  Hindemithstraße                                   #2022
-#DEU-RP  Mainz   STR52 Bahnstraße       DEU-RP  Am Schinnergraben                                 #2022
-#DEU-RP  Mainz   STR53 Hindemithstraße  DEU-RP  Bürgerhaus                                        #2022
-
-#DEU-SN Chemnitz STR 1 Schönau - Zentralhaltestelle                                                #2022, service 1 was directly continued by 2 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz STR 2 Zentralhaltestelle - Bernsdorf                                              #2022, no loop to main station nor Stefan-Heym-Platz due to construction
-#DEU-SN Chemnitz STR 3 Roter Turm - Zentralhaltestelle - Technopark                                #2022
-#DEU-SN Chemnitz STR 4 Hutholz - Südring - Zentralhaltestelle                                      #2022, service 4 was directly continued by 5 at Zentralhaltestelle due to construction
-#DEU-SN Chemnitz STR 5 Zentralhaltestelle - Roter Turm - Gablenz                                   #2022, Annenplatz - Morgenleite closed due to construction
-
-#DEU-SN Dresden STR 1 Leutewitz (E) - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Prohlis (E)                                              #2020, end to end
-#DEU-SN Dresden STR 2 Grobitz (E) - Hebbelplatz - Bf Mitte - Postplatz - Pirnaischer Platz - Zwinglistraße - Kleinschachwitz (E)                          #2020, end to end
-#DEU-SN Dresden STR 3 Wilder Mann (E) - Bf Nordstadt - Albertplatz - Pirnaischer Platz - Hbf                                                              #2020
-#DEU-SN Dresden STR 4 Weinböhla (E) - Mickten - Anton/Leipziger Straße - Zwingerteich - Postplatz - Pirnaischer Platz - Fetscher Platz - Laubegast (E)    #2020, end to end
-#DEU-SN Dresden STR 6 Striesen - Niedersedlitz (E)                                                                                                        #2020
-#DEU-SN Dresden STR 7 Weixdorf (E) - Albertplatz - Pirnaischer Platz - Hbf - Löbtau - Pennrich (E)                                                        #2020, end to end
-#DEU-SN Dresden STR 8 Hellerau (E) - Albertplatz - Pirnaischer Platz - Hbf                                                                                #2020
-#DEU-SN Dresden STR 9 Kaditz (E) - Mickten - Anton/Leipziger Straße - Neustädter Markt - Carolaplatz - Pirnaischer Platz - Hbf - Wasaplatz - Prohlis (E)  #2020, end to end
-#DEU-SN Dresden STR11 Postplatz - Zwingerteich - Anton/Leipziger Straße - Bf Nordstadt - Albertplatz - Waldschlößchen                                     #2020
-#DEU-SN Dresden STR12 Leutewitz (E) - Löbtau - Postplatz                                                                                                  #2020
-#DEU-SN Dresden STR13 Mickten (E) - Bischofsplatz - Bautzner/Rothenburger Straße                                                                          #2020
-#DEU-SN Dresden S 1 Bischofsplatz - Bf Mitte - Hbf                                                                                                      #2020
-
-#DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #2020
-#DEU-SN Leipzig STR 2 Grünau-Nord - W-L-Platz                                                                              #2020
-#DEU-SN Leipzig STR 2 Bay Bhf - Naunhofer Straße                                                                           #2020
-#DEU-SN Leipzig STR 4 G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße #2020
-#DEU-SN Leipzig STR 8 Grünau-Nord - Angerbrücke                                                                            #2020
-#DEU-SN Leipzig STR 9 Thekla - Hbf-West - Neues Rathaus                                                                    #2020
-#DEU-SN Leipzig STR 9 Bay Bhf - Wiedebachplatz                                                                             #2020
-#DEU-SN Leipzig STR10 Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig                                  #2020, up toConnewitz concurrent to servicee 11
-#DEU-SN Leipzig STR11 Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost           #2020
-#DEU-SN Leipzig STR15 Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf                #2020
-#DEU-SN Leipzig STR16 Messegelände - Hbf - Lößnig                                                                          #2020
-#DEU-SN Leipzig STR32 Gohlis-Nord - Nordplatz - Hbf                                                                        #2020
-
-#DEU-ST Hallle  STR 1 Frohe Zukunft - Marktplatz                                                                                                                           #2022
-#DEU-ST Halle   STR 2 Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt                                                                  #2022
-#DEU-ST Halle   STR 3 Vogelweide - Beesen                                                                                                                                  #2022
-#DEU-ST Halle   STR 4 Rennbahnkreuz - Franckeplatz - Hbf                                                                                                                   #2022
-#DEU-ST Halle   STR 5 Kröllwitz - Rennbahnkreuz - Marktplatz - Steintor - Hbf - Florian-Geyer-Platz - Leunaweg - Merseburg-Süd - Bad Dürrenberg                            #2022
-#DEU-ST Halle   STR 5 Florian-Geyer-Platz - Ammendorf                                                                                                                      #2022
-#DEU-ST Halle   STR 7 Kröllwitz - Triftstraße - Adolfstraße (!! instead of direct via Richard-Wagner-Straße !!) - Reileck - Marktplatz - Franckeplatz - Hbf - Büschdorf    #2022
-#DEU-ST Halle   STR 7 Marktplatz - Hermannstraße Richard-Wagner-Straße - Landesmuseum                                                                                      #2022
-#DEU-ST Halle   STR 8 Trotha - Emil-Eichhorn - Volkspark - Marktplatz - Franckeplatz - Elsa-Brändström-Straße                                                              #2022
-#DEU-ST Halle   STR10 Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf                                                                      #2022
-#DEU-ST Halle   STR12 Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz                                                                                               #2022
-
-#DEU-ST Magdeburg STR 9 Neustädter See  Reform (via Domplatz)                                        #2020
-#DEU-ST Magdeburg STR 1 IKEA            Kastanienstraße                                              #2020
-#DEU-ST Magdeburg STR10 Kastanienstraße Hasselbachplatz (via Hbf)                                    #2020
-#DEU-ST Magdeburg STR 2 Hasselbachplatz Westerhüsen                                                  #2020
-
-#DEU-TH Erfurt    STR 1 Europaplatz     Thüringenhalle                                               #2022, via Salinenstraße
-#DEU-TH Erfurt    STR 2 P+R Messe       Wiesenhügel                                                  #2022
-#DEU-TH Erfurt    STR 3 Europaplatz     Urbicher Kreuz                                               #2022
-#DEU-TH Erfurt    STR 4 Bindersleben    Ringelberg                                                   #2022, both directions west of Anger
-#DEU-TH Erfurt    STR 5 Zoopark         Hbf                                                          #2022
-#DEU-TH Erfurt    STR 6 Rieth           Steigerstraße                                                #2022, both directions at south end
-
-#DNK Copenhagen M1 Vanløse Vestamager                                                             #2020
-#DNK Copenhagen M2 Vanløse Lufthavnen                                                             #2020
-#DNK Copenhagen M3 full cityring                                                                  #2020
-#DNK Copenhagen M4 Københavns Hovedbanegård Orientkaj                                             #2020, line to be extended
-
-#ENG BakLn HRW EPH     #2019, London Bakerloo Line:       Harrow & Wealdstone - Elephant & Castle
-#ENG NorLnBar CTN MDN  #2019, London Northern Line:       (Edgware) - Camden Town - Morden (via Bank, eastern branch)
-#ENG NorLnEdg EGW LSQ  #2019, London Northern Line:       Edgware - Leicester Square (western branch)
-#ENG PicLnUxb UXB ACT  #2019, London Piccadelly Line:     Uxbridge - Acton Town - (Cockfosters)
-#ENG PicLnHT5 ACT CKS  #2019, London Piccadelly Line:     (Uxbridge) - Acton Town - Cockfosters
-#ENG MetLnUxb UXB BAS  #2019, London Metropolitian Line:  Uxbridge - Baker Street
-#ENG CirLn BAS VIC     #2019, London Circle Line:         Baker Street - Victoria (via Aldgate)
-#ENG VicLn FPK BRX     #2019, London Victoria Line:       Finsbury Park - Brixton
-#ENG DisLnRic ALE WEH  #2019, London District Line:       Aldgate East - West Ham
-#ENG JubLn BAS WEH     #2019, London Jubilee Line:        West Ham - Baker Street
-#ENG CenLnRui WRU OXC  #2019, London Central Line:        West Ruislip - Oxford Circle
-#ENG YelLn SHL APT     #2019, Newcastle Airport           ENG     South Hylton
-#ENG GreLn SJM SSS     #2019, Newcastle St James          ENG     South Shields                               #whole loop
-
-#FRA-BFC Dijon T1 Dijon-Gare         FRA-BFC Dijon T1 Quetigny                     #2023
-#FRA-BFC Dijon T2 Valmy              FRA-BFC Dijon T2 Chenove                      #2023
-
-#FRA-IDF Paris M1 La Defense         FRA-IDF Paris M1 Chateau de Vincennes         #2019
-#FRA-IDF Paris M7 La Couneuve        FRA-IDF Paris M7 Porte de Choisy              #2019
-#FRA-IDF Paris M14 Saint-Lazare      FRA-IDF Paris M14 Olympiades                  #2019
-
-#FRA-PAC Marseille M1 La Rose        FRA-PAC Marseille M1 La Fourragere            #2018
-#FRA-PAC Marseille M2 Bougainville   FRA-PAC Marseille M2 Ste. Marguerite Dromel   #2018
-
-
-#HRV     Zagreb T2 Crnomerec         HRV     Zagreb T2 Savisce                     #2019, All routes as of 2019 except of short T1 at west end
-#HRV     Zagreb T4 Savski Most       HRV     Zagreb T4 Dubec                       #2019
-#HRV     Zagreb T6 Crnomerec         HRV     Zagreb T6 Sopot                       #2019
-#HRV     Zagreb T7 Savski Most       HRV     Zagreb T7 Dubrava                     #2019
-#HRV     Zagreb T8 Mihaljevac        HRV     Zagreb T8 Zaprude                     #2019
-#HRV     Zagreb T9 Ljubljanica       HRV     Zagreb T9 Borongaj                    #2019
-#HRV     Zagreb T11 Cronomerec       HRV     Zagreb T11 Dubec                      #2019
-#HRV     Zagreb T12 Ljubljanica      HRV     Zagreb T12 Dubrava                    #2019
-#HRV     Zagreb T15 Mihaljevac       HRV     Zagreb T15 Dolje                      #2019
-#HRV     Zagreb T17 Precko           HRV     Zagreb T17 Borongaj                   #2019
-
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Rho Fiera                   #2019
-#ITA     Milano M1 Sesto I Maggio    ITA     Milano M1 Bisceglie                   #2019
-#ITA     Milano M2 Assago            ITA     Milano M2 Gessate                     #2019
-#ITA     Milano M2 Abbiategrasso     ITA     Milano M2 Cologno Nord                #2019
-#ITA     Milano M3 San Donato        ITA     Milano M3 Comasina                    #2019
-#ITA     Milano M5 Bignami           ITA     Milano M5 San Siro Stadio             #2019
-#ITA     Milano R Affori FN          ITA     Milano R Cadorna FN                   #2019
-#ITA     Roma MA Battistini          ITA     Roma MA Anagnina                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Rebibbia                      #2019
-#ITA     Roma MB Laurentina          ITA     Roma MB Jonio                         #2019
-#ITA     Roma MC San Giovanni        ITA     Roma MC Montecompatri/Pantano         #2019
-
-#LUX     Luxembourg 1 Lycee Bouneweg   LUX   Luxembourg Luxexpo                    #2023
-
-#POL     Warsaw M1 Mlociny             POL   Warsaw Karbaty                        #2022
-#POL     Warsaw M2 Benowo              POL   Warsaw Trocka                         #2022, u/c at both ends
-#POL     Warsaw T6  Metro Mlociny      POL   Goclawek                              #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
-#POL     Warsaw T7  P+R Al. Krakowska  POL   Centrum                               #2022, via Plac Zawiszy
-#POL     Warsaw T24 Centrum            POL   Goclawek                              #2022, via Most Poniatowskiego, Kinowa
-#POL     Warsaw T26 Metro Mlociny      POL   Metro Bemowo                          #2022, via Aspekt, Radiowa
-#POL     Warsaw T33 Metro Mlociny      POL   Rondo ONZ                             #2022, via Aspket, Sady Zoliborskiego, Stawki
-
-#TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
-#TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
-#TUR     Istanbul M2  Haciosman - Yenikapi                                         #2022, via Levent, Sishane
-#TUR     Istanbul M2  Seyrantepe - Sanayi Mahallesi                                #2022 "Shuttle"
-#TUR     Istanbul M3  Kirazli Bagcilar - Mahmutbey                                 #2022
-#TUR     Istanbul M6  Levent - Bogazici Uni                                        #2022
-#TUR     Istanbul M7  Mahmutbey - Karadeniz                                        #2022
-#TUR     Istanbul F1  Taksim - Kabatas                                             #2022
-#TUR     Istanbul F3  Vadi Istanbul - Seyrantepe                                   #2022
-#TUR     Istanbul T1  Bagcilar Merkez - Kabatas                                    #2022, via Mehmet Atif, Merkezefendi, Findizade, Sultanahmet, Tophane
-#TUR     Istanbul T4  Karadeniz Mahallesi - Pazartekke                             #2022, via Rami, Yatan
