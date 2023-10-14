@@ -16,7 +16,7 @@ ENG ChiML HighWyc BirMoorSt
 ENG LutAirExp LonStPanInt Wel
 
 #####GN#####
-ENG NorCityLn Moo FinPark
+ENG NorCityLn Moo EnfCha
 
 #####GW#####
 ENG SevVlyLn BriPkwy BriTemMea #XC Bristol Parkway - Bristol Temple Meads
@@ -66,32 +66,33 @@ ENG WirLn LivJamSt_1 LivLimeSt
 ENG WirLnWKi HamSq Mor
 
 #####SE#####
-ENG GroPkLn LonBri Orp
-ENG SEML ChaCro Ram
-ENG CanWLn AshInt Mar
+ENG BexLn PecRye Wel
+ENG BroNLn GroPark BroNor
 ENG BroSLn HerHill BroSou
 ENG ChaML BroSou CanEast
-ENG WhiCliLn AshInt Ram
-ENG WooLn CanSt_1 AbbWood
-ENG BexLn PecRye Wel
+ENG GroPkLn LonBri Orp
+ENG HayLn LonBri Hay
+ENG HayLnLew LonBri Lad
+ENG HS1Can AshInt Mar
+ENG HS1Dov AshInt Ram
+ENG NKentLn AbbWoo Dar
+ENG SEML ChaCro Ram
 ENG SidLnLew LonBri Mot
-ENG SidLn LonBri Mot
-
-#####SR####
-SCT WestHigLnFor FortWil Mal #Jacobite
+ENG SidLn LonBri Dar
+ENG WooLn CanSt_1 AbbWood
 
 #####SN#####
-ENG UckLn LonBri EastCro
+ENG CatLn EastCro Cat
 ENG ChiLn LonVic Bar
 ENG CoaWLn SouCen Bar
 ENG MnkLn AshInt Has
 ENG WalLn WestCro EpsDow
+ENG NbyLn TulHill StrCom
 ENG PecLn LonBri TulHill
-#SN Tulse Hill - Streatham - Streatham Common
-ENG WestLonLn StrCom ECro
-ENG CatLn EastCro Cat
 ENG PecLn CryPal BecJct
 ENG SutLn ClaJct Sut
+ENG UckLn LonBri EastCro
+ENG WestLonLn StrCom ECro
 
 #####SW#####
 ENG NetLn SouCen PorSou
@@ -111,11 +112,13 @@ ENG KinLp Ric LonWat_2
 ENG StaEx TotHale StaAir
 
 #####TL#####
-ENG ThaLnk Hen WestHam
-ENG ThaLnk KenTown EastCro
-ENG ThaLnkSut LonBla Str_2 #TL Blackfriars - Mitcham Junction, SE Blackfriars - Herne Hill, TL Sutton - Wimbledon - Streatham, SN Victoria - Sutton (covering)
-ENG ThaLnk EastCro ThrBri #SN Victoria - Southampton (avoid Redhill) covering
-ENG ThaLnkRed EastCro Hors #SN Victoria - Southampton (via Redhill) covering
+ENG ThaLnk Far EastCro
+ENG ThaLnkCam FinPark StPanInt
+ENG ThaLnkSev Cat BroSou
+ENG ThaLnkSut Hen_1 WestHam_1
+ENG ThaLnkSut KenTown_2 Far_2
+ENG ThaLnkSut LonBla_1 MitJct
+ENG ThaLnkSut Sut Str_2
 
 #####VT#####
 ENG WCMLA WatJct Wol
@@ -126,8 +129,12 @@ ENG WCMLECre LonEus Sto
 #####WM#####
 ENG SalLn BirNewSt TelCen
 
+#####XC#####
+ENG XCMLSou Bou Wol
+ENG XCMLDon Rea BirNewSt
+
 #####XR#####
-ENG EliLnHT5 HeaTer5 HeaTer23
+ENG EliLnShe HeaTer5 HeaTer23
 ENG EliLnHea HeaTer4 Pad
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
@@ -136,86 +143,112 @@ ENG EliLnShe Whi She
 #####London Underground#####
 ENG BakLn HarWea EleCas
 ENG CenLn WestRui Epp
-ENG CenLnEal EalBro NorAct
-ENG CenLnHai Les Woo
+ENG CenLnEal EalBro Woo
 ENG CirLn Ham EdgRd_2
 ENG DisLn Ric Upm
-ENG DisLnEal EalBdwy TurGre
-ENG DisLnOly KenOly EarCou
-ENG DisLnWim Wim EdgRd
+ENG DisLnEal EalBdwy Upm
+ENG DisLnEdg Wim EdgRd
+ENG DisLnOly KenOly HighStKen
+ENG DisLnWim Wim Bar
 ENG HaCLn Ham Bark
 ENG JubLn Sta Str
 ENG MetLn Che Ald
-ENG MetLnAme Ame ChaLat
-ENG MetLnUxb Uxb HarHill
-ENG MetLnWat Wat MoorPark
+ENG MetLnAme Ame Ald
+ENG MetLnUxb Uxb Ald
+ENG MetLnWat Wat BakSt
 ENG NorLn Edg Mor
+ENG NorLnBar HighBar Mor
 ENG NorLnBat HighBar BatPowSta
-ENG NorLnMHE MillHillEast FinCen
+ENG NorLnEdg Edg BatPowSta
+ENG NorLnMHE MillHillEast BatPowSta
+ENG NorLnMor MillHillEast Mor
 ENG PicLn HeaTer5 Coc
-ENG PicLnHT4 HatCro HeaTer23
-ENG PicLnUxb Uxb ActTown
+ENG PicLnHT4 HatCro_1 Coc
+ENG PicLnUxb Uxb Coc
 ENG VicLn WalCen Bri
 ENG WaCLn Wat Bank
 
 ####LightRail/Tram####
 ENG DLR Bank Lew
-ENG DLRRoy Wes Bec
-ENG DLRSti StrInt CanTown
+ENG DLRRoy TowGat Bec
+ENG DLRSti StrInt WooArs
 ENG DLRStr CanWha Str
-ENG DLRTow TowGat Sha
-ENG DLRWoo CanTown WooArs
+ENG DLRWoo Bank WooArs
 ENG TLnkBJW BecJct Wim
+ENG TLnkEEW ElmEnd Wim
+ENG TLnkWBJ Wim BecJct
 ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
-ENG HT5T A B #Heathrow Terminal5 Airside Transit
 ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
 ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
 ENG HPRTAB ParA ParB #Terminal 5 PodParking
-ENG LCC RoyDoc GrePen #London Cable Car
 
-####NOT IN BROWSER YET#####
-#XC Wolverhampton - Coventry - Bournemouth
-#XC Birmingham - (Solihull) - Reading
-#Grand Canal Dock - Howth (DART)
-#Swanage Railway Nordon P&R - Swanage
+ENG HT5T A B #Heathrow Terminal5 Airside Transit
+ENG ATCC TowSt CloCooLand
+ENG LCC RoyDoc GrePen
+ENG NeeCha AlumBay Bea
+
+####Heritage Railways####
+ENG AltTowMon CarPark MainEnt
+ENG AmbMusRwy Amb Cra
+ENG HytPierRwy HytTown HytPier
+ENG LitMR NorGar MewPark
+ENG RuiLidoRwy WilLawn WooBay
+ENG SouPierRwy Sho PierHead
+ENG SwaRwy Nor Swa
+SCT Jac FortWil Mal
+WLS BalaLakeRwy Bala Llaw
+
+####Eurotunnel####
+ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
+
+####DART#####
+IRL DARTHow How GraCanDock
 
 ###Germany###
-DEU-HE S8 FrankfurtFlughafen FrankfurtHauptbahnhof
-#Frankfurt Hbf - Bensheim
-#Bensheim - Heidelberg Hbf
-DEU-HE 2Dar Hauptbahnhof Schloss
+DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
+DEU-HE S3 +DIV_LouN DarmStaHbf #covering Frankfurt Hbf - Bensheim
+DEU-BW S6Man +SKIP_MannHeimFriFeldSud DEU-HE S6Ben BensHeim #covering Bensheim - Heidelberg Hbf
+DEU-BW S1Man MannHeimFriFeldSud HeiBergHbf #covering Bensheim - Heidelberg Hbf
+DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei Volkshochschule Bretriebshof
 DEU-BW 26Hei Volkshochschule Bretriebshof
 
 ###Italy###
-#Bergamo - Lecco
-#Bergamo - Monza - Milano Centrale
-ITA-LOM M3 Centrale Duomo
-ITA-LOM M1 Duomo Cairoli
+ITA-LOM S8 Lec CalOlg #covering Bergamo - Lecco
+ITA-LOM S8 CarUsm +DIV_S9S #covering Bergamo - Monza - Milano Centrale
+ITA-LOM S5 Seg CasAdda #covering Milano Centrale - Bergamo
+ITA-LOM M3 Cen Duo
+ITA-LOM M1 Duo Cai
 
 ###Spain###
 ####Barcelona Metro####
-ESP-CT L3 Canyelles Catalunya
+ESP-CT L3 Can Cat
 
-###USA### (not in browser yet)
-#LA Metro: Gold Line: Del Mar - Union Station
+###USA###
+####LA Metro####
+CA A UniSta DelMar
+####SF Cable Cars####
+####SF Muni####
+####Getty Museum Tram####
+####Disney Monorail (not yet in browser)####
+####Vegas (not yet in browser)####
 
 ##Stations##
 ###Alighted/Embarked###
 ####ENG
-#####London Area: Amersham, Chesham, Chalfont, Rickmansworth, Watford, Northwood, North Harrow, Uxbridge, Hillingdon, Ickenham, West Harrow, Harrow-on-the-Hill, Northwick Park, Wembley Park, Finchley Road, Baker Street, Great Portland Street, Euston Square, Kings Cross St Pancras, Farringdon, Barbican, Moorgate, Liverpool Street LU, Aldgate, Canons Park, Neasden, Willesden Green, West Hampstead LU, Swiss Cottage, St Johns Wood, Bond Street, Green Park, Westminster, Waterloo LU, Southwark, London Bridge LU, Canary Wharf LU, North Greenwich, Canning Town, West Ham, Stratford, Park Royal, North Ealing, Heathrow Terminal 5 LU, Heathrow Terminal 4 LU, Heathrow T2&3 LU, Hatton Cross, Hounslow West, Northfields, South Ealing, Turnham Green, Hammersmith DP, Barons Court, Earls Court, Gloucester Road, South Kensington, Knightsbridge, Hyde Park Corner, Piccadilly Circus, Leicester Square, Covent Garden, Holborn, Russell Square, Arsenal, Manor House, Turnpike Lane, Cockfosters, West Ruislip, Hanger Lane, West Acton, White City, Shepherds Bush LU, Lancaster Gate, Marble Arch, Tottenham Court Road, Chancery Lane, St Pauls, Bank, Bethnal Green LU, Leyton, Leytonstone, Wanstead, Gants Hill, Chigwell, Roding Valley, Woodford, Kenton, South Kenton, Paddington BCD, Edgware Road Bak, Marylebone LU, Regents Park, Charing Cross LU, Embankment, Elephant & Castle, Richmond, Gunnersbury, West Kensington, Olympia, Wimbledon, Edgware Road CDH, Victoria LU, Temple, Blackfriars LU, Cannon Street LU, Monument, Tower Hill, Aldgate East, Upminster, Hammersmith CH, Wood Lane, Westbourne Park, Paddington CH, Slough, Heathrow T5 NR, Heathrow T4 NR, Heathrow T2&3 NR, Paddington NR, Paddington XR, Liverpool Street XR, Canary Wharf XR, Custom House, Romford, Woolwich, Abbey Wood, Edgware, Hendon Central, High Barnet, Finchley Central, Highgate, Archway, Tufnell Park, Chalk Farm, Camden Town, Euston LU, Angel, Old Street, Borough, Warren Stret, Goodge Street, Nine Elms, Battersea Power Station, South Wimbledon, Pimlico, Highbury & Islington, Seven Sisters LU, Tottenham Hale LU, Watford Junction, Watford High Street, Bushey, Euston NR, West Hampstead NR, Finchley Road & Frognal, Hoxton, Wapping, Rotherhithe, Surrey Quays, Queens Road Peckham, Peckham Rye, West Croydon, Theobalds Grove, Cheshunt, Chingford, Highams Park, Tower Gateway, Westferry, Poplar, All Saints, Stratford International, West India Quay, Canary Wharf DLR, Heron Quays, Island Gardens, Cutty Sark, Royal Victoria, London City Airport, Woolwich Arsenal, Marylebone NR, Hendon, West Hampstead Thameslink, St Pancras International, City Thameslink, Blackfriars NR, Victoria NR, Battersea Park, Waterloo NR, Waterloo East, Charing Cross NR, Cannon Street NR, London Bridge NR, East Croydon, Mitcham Junction, Epsom Downs, Caterham, Beckenham Junction, Hounslow, Queenstown Road Battersea, Orpington, Knockholt, Grove Park, Mottingham, Welling, Lea Bridge, Brimsdown, Camden Road
+#####London Area: Amersham, Chesham, Chalfont, Rickmansworth, Watford, Northwood, North Harrow, Uxbridge, Hillingdon, Ickenham, West Harrow, Harrow-on-the-Hill, Northwick Park, Wembley Park, Finchley Road, Baker Street, Great Portland Street, Euston Square, Kings Cross St Pancras, Farringdon, Barbican, Moorgate, Liverpool Street LU, Aldgate, Canons Park, Neasden, Willesden Green, West Hampstead LU, Swiss Cottage, St Johns Wood, Bond Street, Green Park, Westminster, Waterloo LU, Southwark, London Bridge LU, Canary Wharf LU, North Greenwich, Canning Town, West Ham, Stratford, Park Royal, North Ealing, Heathrow Terminal 5 LU, Heathrow Terminal 4 LU, Heathrow T2&3 LU, Hatton Cross, Hounslow West, Northfields, South Ealing, Turnham Green, Hammersmith DP, Barons Court, Earls Court, Gloucester Road, South Kensington, Knightsbridge, Hyde Park Corner, Piccadilly Circus, Leicester Square, Covent Garden, Holborn, Russell Square, Arsenal, Manor House, Turnpike Lane, Cockfosters, West Ruislip, Hanger Lane, West Acton, White City, Shepherds Bush LU, Lancaster Gate, Marble Arch, Tottenham Court Road, Chancery Lane, St Pauls, Bank, Bethnal Green LU, Leyton, Leytonstone, Wanstead, Gants Hill, Chigwell, Roding Valley, Woodford, Kenton, South Kenton, Paddington BCD, Edgware Road Bak, Marylebone LU, Regents Park, Charing Cross LU, Embankment, Elephant & Castle, Richmond, Gunnersbury, West Kensington, Olympia, Wimbledon, Edgware Road CDH, Victoria LU, Temple, Blackfriars LU, Cannon Street LU, Monument, Tower Hill, Aldgate East, Upminster, Hammersmith CH, Wood Lane, Westbourne Park, Paddington CH, Slough, Heathrow T5 NR, Heathrow T4 NR, Heathrow T2&3 NR, Paddington NR, Paddington XR, Liverpool Street XR, Canary Wharf XR, Custom House, Romford, Woolwich, Abbey Wood, Edgware, Hendon Central, High Barnet, Finchley Central, Highgate, Archway, Tufnell Park, Chalk Farm, Camden Town, Euston LU, Angel, Old Street, Borough, Warren Stret, Goodge Street, Nine Elms, Battersea Power Station, South Wimbledon, Pimlico, Highbury & Islington, Seven Sisters LU, Tottenham Hale LU, Watford Junction, Watford High Street, Bushey, Euston NR, West Hampstead NR, Finchley Road & Frognal, Hoxton, Wapping, Rotherhithe, Surrey Quays, Queens Road Peckham, Peckham Rye, West Croydon, Theobalds Grove, Cheshunt, Chingford, Highams Park, Tower Gateway, Westferry, Poplar, All Saints, Stratford International, West India Quay, Canary Wharf DLR, Heron Quays, Island Gardens, Cutty Sark, Royal Victoria, London City Airport, Woolwich Arsenal, Marylebone NR, Hendon, West Hampstead Thameslink, St Pancras International, City Thameslink, Blackfriars NR, Victoria NR, Battersea Park, Waterloo NR, Waterloo East, Charing Cross NR, Cannon Street NR, London Bridge NR, East Croydon, Mitcham Junction, Epsom Downs, Caterham, Beckenham Junction, Hounslow, Queenstown Road Battersea, Orpington, Knockholt, Grove Park, Mottingham, Welling, Lea Bridge, Brimsdown, Camden Road, Lewisham, Ladywell, Catford, Catford Bridge, Enfield Chase
 #####Elsewhere: West Kirkby, Liverpool Lime Street, Stockport, Macclesfield, Stafford, Telford Central, Wolverhampton, Birmingham New Street, Birmingham Moor Street, Coventry, Leamington Spa, Bristol Temple Meads, Reading, Winnersh Triangle, Winchester, Southampton Airport Parkway, Swaythling, Cosham, Southampton Central, Portsmouth Harbour, Portsmouth & Southsea, Ryde Pier Head, Ryde Esplanade, Bournemouth, Pokesdown, Christchurch, Aylesbury, Great Missenden, Beaconsfield, Margate, Canterbury West, Canterbury East, Hastings
 ####SCT: Fort William, Mallaig
 ####IRL: Grand Canal Dock, Howth
 ####DEU: Frankfurt Airport, Bensheim, Heidelberg Hbf
 ####ITA: Bergamo, Lecco, Cairoli
 ####CA Del Mar, Union Station
-###Changed###
+###Changed trains only###
 ####ENG
-#####London Area: Moor Park, Rayners Lane, Stanmore, Bermondsey, Canada Water, Acton Town, Barons Court, Finsbury Park, Greenford, Ealing Broadway, Mile End, Leyton, Epping, Harrow & Wealdstone, Willesden Junction, West Brompton, Whitechapel, Barking, Upney, West Ealing, Shenfield, Hampstead, Mill Hill East, Kentish Town, Kennington, Stockwell, Morden, Brixton, Walthamstow Central, Gospel Oak, Hackney Downs, Hackney Central, Dalston Junction, New Cross, Clapham Junction, Enfield Town, Crystal Palace, Shadwell, Limehouse, Greenwich, Lewisham, King George V, Beckton
+#####London Area: Moor Park, Rayners Lane, Stanmore, Bermondsey, Canada Water, Acton Town, Barons Court, Finsbury Park, Greenford, Ealing Broadway, Mile End, Leyton, Epping, Harrow & Wealdstone, Willesden Junction, West Brompton, Whitechapel, Barking, Upney, West Ealing, Shenfield, Hampstead, Mill Hill East, Kentish Town, Kennington, Stockwell, Morden, Brixton, Walthamstow Central, Gospel Oak, Hackney Downs, Hackney Central, Dalston Junction, New Cross, Clapham Junction, Crystal Palace, Shadwell, Limehouse, Greenwich, King George V, Beckton, Hayes, Dartford
 #####Elsewhere: Birmingham International, Bristol Parkway, Basingstoke, Fareham, Barnham, High Wycombe, Ashford, Shenfield, Milton Keynes Central
 ####SCT: Glenfinnan, Arisag
 ####DEU: Frankfurt Hbf

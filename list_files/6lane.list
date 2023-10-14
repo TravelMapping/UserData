@@ -1,6 +1,142 @@
 #This list is intended for mapping out freeway segments that have 6 or more through lanes.
 
 #NORTH AMERICA#
+##Canada##
+AB AB1 177 SarTrl # section to Exit 172 under construction
+#AB AB1 68St AB201_E too short
+AB AB2 222 225 #too short?
+AB AB2 230 243
+AB AB2 243 248
+AB AB2 248 305
+AB AB2 391 397
+AB AB2 431 437
+AB AB2 517 23Ave
+AB AB2 AB14 TerDr
+AB AB2 TerDr 18(216) #4 lanes between 178St and 170St in the "wrong" order
+#does AB2 have any in Peace River after construction?
+AB AB14 AB2 17St
+AB AB16 378 383
+AB AB16 107St 66St
+AB AB16 125Ave 400B
+AB AB16 400B 405
+AB AB63 HarSt ConWay #south end is at Morrison Street, just a bit north of HarSt but way south of the actual ramps for FraAve
+AB AB201SWC AB2 26
+AB AB201 38 41
+AB AB201 41 60
+AB AB201 70 96
+AB AB201 96 101
+AB AB216 AB2 33
+AB AB216 46 66
+AB AB216 73 78
+AB AirTrl AB2 36St
+AB CroTrl GleTrl BowTrl
+AB CroTrl BowTrl KenRd
+AB CroTrl 24Ave AB201
+AB GleTrl AB8/201 CroTrl
+AB GleTrl CroTrl 14St
+AB GleTrl 14St AB2
+AB GleTrl AB2 18St
+AB GleTrl 18St OgdRd
+AB MacTrl AB22X/201 CanMeaDr #continues south to the first at-grade at 194Ave
+
+
+BC BC1 17 18 #it's short but it's designed as 6 thru lanes, not auxiliary lanes
+BC BC1 23 25
+BC BC1 25 61
+BC BC1 362 369
+BC BC3 173 177
+BC BC91 8 11
+BC BC99 32 37
+BC GolEarsWay 199ASt 113BAve
+
+
+NS NS111 4 6B
+
+
+ON ON7Wat RR58 ON85
+ON ON8 ON7_E RR38
+ON ON400 20 21
+ON ON400 21 105
+ON ON401 7 63 #westbound left lane is closed west of 7 (as of November 2022) until construction is done; east end seems to be about 1/3 of the way between 63 and 81 per https://www.chathamthisweek.com/news/local-news/expanded-lanes-open-on-stretch-of-highway-401-near-tilbury
+ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
+ON ON401 611 623
+ON ON403 70 80
+ON ON403 80 123(QEW)
+ON ON403 109 ON401_E
+ON ON404 17 45
+ON ON407 1 112
+ON ON409 ON427 ON401
+ON ON410 ON403 13
+ON ON417 112 113
+ON ON417 113 145
+ON ON427 QEW ON401
+ON ON427 ON401 25
+ON ONQEW RR124 2
+ON ONQEW 34 100
+ON ONQEW 100 139
+ON AllRd LawAve ON401 #too short?
+ON AllRd ON401 TraRd #too short?
+ON DonValPkwy 1 ON401/404
+ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
+#ON RR174 is under construction
+
+
+QC A-10 1 4 #construction may have affected this
+QC A-10 5 8 #construction may have affected this
+QC A-13 1 22 #very short southbound 2 lanes at 2
+QC A-15 44 53
+QC A-15 53 63
+QC A-15 63 70
+QC A-15 1(AL) 45(AL)
+QC A-19 BoulHenBou 8
+QC A-20 53 63
+QC A-20 63 68
+QC A-20 68 75
+QC A-20 75 89
+QC A-20 90 98 #may be 2 lanes westbound at 95 still
+QC A-25 A-20 4 #is it now 3 lanes northbound at 4 due to construction?
+QC A-25 4 8
+QC A-40 32 66
+QC A-40 66 70
+QC A-40 70 80
+QC A-40 80 98
+QC A-40 198 201
+QC A-40 302 139(73)
+QC A-40 139(73) 142(73)
+QC A-40 142(73) 311
+QC A-40 311 AvEst
+QC A-40 321 323
+QC A-40 323 325
+QC A-50 135 139
+QC A-73 131 134
+QC A-73 136 139
+QC A-73 139 142
+QC A-73 142 311(40)
+QC A-73 311(40) 148
+QC A-73 148 151
+QC A-440 17 22
+QC A-440 22 30
+QC A-440 30 35
+QC A-440WQu 12 15
+QC A-440WQu 15 RueFraCar
+QC A-440EQu 21 29
+QC A-540 QC138 3
+QC A-640 16 20
+QC A-740 BoulHoc 9
+QC A-973 RueCroRou 4
+QC QC116 1 9
+QC QC125Mon BoulHenBou BoulCon
+QC QC132 44(15) 89(20)
+QC QC132 89(20) 19
+QC QC134 BoulTas_N QC112/116
+QC QC136Mon 1 7
+
+
+SK SK1 229 232
+SK SK11 AttDr WarRd
+SK SK11Cir SK219 ValRd
+
+
 ##Mexico##
 MEX-DF MEX15D MEX15_S MEX-EMEX MEX15DMex MEX15_Mar #some 2 lane southbound near MEX15/Con due to construction? or is it permanent?
 MEX-EMEX MEX15 MEX15D_Tol BlvdMazoVel #and farther south but it's not quite a freeway
@@ -27,6 +163,7 @@ MEX-SLP MEX80Esc AveSieLeo MEX57/70 #tiny but of westbound 2 lanes at railroad u
 MEX-DF MEX85 AveAcuGua MEX-EMEX MEX85 MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_EcaS SanLuc
 MEX-HGO MEX85Pac CamTez BlvdFelAng_N
+MEX-NL MEX85 M44 NL49 #one intersection north of CarrMon but otherwise practically all full freeway
 MEX-MOR MEX95D MEX95_CueS MEX95/162
 MEX-TLAX MEX117 HosInf MEX119/136 #not quite a freeway south of HosInf
 MEX-EMEX MEX150D Eje8Sur MEX-PUE MEX150D SanFraOco #brief 2 lanes eastbound at MEX117
@@ -44,18 +181,49 @@ MEX-COAH BlvdFun PerLuisEch 7
 MEX-COAH BlvdNazGar PerLuisEch BlvdVenCar
 MEX-COAH PerLuisEch BlvdVicGue BlvdFun #not quite a freeway south of BlvdVicGue; even north of there are tiny bits with streets and driveways direct to the main lanes
 MEX-COAH PerLuisEch BlvdFun BlvdNazGar
+MEX-DF AniPer CanNac MEX-EMEX AniPer BlvdAviCam #a bit just north of PPal is not quite a freeway
+MEX-DF AutUrbNte DistSanAnt DF/EMEX
+MEX-DF AutUrbPte AveTor AveCen
+MEX-DF AutUrbSur AutUrbPte Eje10Sur
+MEX-DF Ave608 Eje3Nte Eje5Nte
+MEX-DF AveAquSer CalzMexTac Ave16Sep
 MEX-DF AveHankGon Eje5Nte MEX-EMEX AveHankGon BlvdAzt #north of here is not quite a freeway
+MEX-DF AveInsNte CalzSanSim AveAcuGua
+MEX-DF AveOce Eje1Nte Eje3Nte
+MEX-DF AvePoe AveCen AveTam
+MEX-DF CalzIgnZar MEX150D Eje4Ote
+MEX-DF CtoBic 1 7
+MEX-DF CtoBic 7 Eje7Sur_W
+MEX-DF CtoBic 17C EjeCen_N
+MEX-DF DistHebCas Eje3Ote Eje1Nte
+MEX-DF DistSanAnt Eje6Sur_W CtoBic
+MEX-DF Eje3Ote FSTMier CalzIgnZar_E
+MEX-DF ViadMigAle AniPer CtoBic
+MEX-DF ViadMigAle ParLira CalzTla
+MEX-DF ViadRioBec PueMor ViadMigAle
+MEX-DF ViadRioPie CalzTla CtoBic
+MEX-DF ViadTla RefAgr SanFer
+MEX-EMEX AutAIFA EMEX5D AerIntFA
 MEX-EMEX AutNauEca AquSer MEX-DF AutNauEca EjeCen
+MEX-EMEX AveLomVer BlvdSanMat BlvdHerCor_E
 MEX-EMEX AvePasTol BlvdLopMat BlvdMazoVel
 MEX-EMEX AvePasTol BlvdMazoVel EMEXA6D/A10D
 MEX-EMEX BlvdAer AvePasTol AerIntTol
 MEX-EMEX BlvdAviCam AniPer CamTep
 MEX-EMEX ViadBic DF/EMEX MEX57D_N #for portions, the southbound left lane is sometimes northbound; the whole road is 3 lanes reversible north of AveLomVer?
+MEX-EMEX VialPriAIFA MEX85 AerIntFA
 MEX-JAL CorrValCar AveRev CalzGonGal
 MEX-JAL CorrValCar CalzGonGal AveGua
 MEX-JAL CorrValCar AveVal_E AveRafSan
 MEX-JAL PerGomMor MEX23 AveParAri #not all a full freeway but close
 MEX-JAL PerOte MEX23 CamMat
+MEX-NL M9 M10/M410 M22/M28
+MEX-NL M10 M9/M410 M25 #not quite a full freeway west of M8/M11
+MEX-NL M20 M15 M29/M210 #one-way eastbound
+MEX-NL M20 CLerTej HacLer #one-way eastbound; local lanes are counted east of M31/M410 since they are a freeway there
+MEX-NL M22 M41 M9/M28 #one-way westbound west of M20
+MEX-NL M30 AveSanRaf AveIsiSep #continues east as not a full freeway; also 6 lanes from AveManOrd_E to MEX40D/M22 but not a full freeway
+MEX-NL M210 M17 M22/M28 #mostly a full freeway; less of one east of M17
 MEX-YUC YUC01 4 1_W #close enough to a full freeway here; the rest is a bit less of one
 
 
@@ -366,7 +534,7 @@ GA I-75 177 GA/TN
 GA I-475 I-75_S 15
 GA I-675 5 I-285
 GA I-85 35 78
-GA I-85 78 129
+GA I-85 78 137
 GA I-185 1 12
 GA I-285 GA279 20
 GA I-285 20 62
@@ -1393,7 +1561,7 @@ UT I-80 113 120
 UT I-80 120 128
 UT I-80 130 146
 UT I-215 1 26
-UT US89 I-15(324) 397
+UT US89 I-15(324) 405
 UT UT154 I-15 2700W
 UT UT154 13400S 9
 UT UT154 11 4700S
@@ -1515,140 +1683,21 @@ WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
 
 
-# CANADA
-AB AB1 177 SarTrl # section to Exit 172 under construction
-#AB AB1 68St AB201_E too short
-AB AB2 222 225 #too short?
-AB AB2 230 243
-AB AB2 243 248
-AB AB2 248 305
-AB AB2 391 397
-AB AB2 431 437
-AB AB2 517 23Ave
-AB AB2 AB14 TerDr
-AB AB2 TerDr 18(216) #4 lanes between 178St and 170St in the "wrong" order
-#does AB2 have any in Peace River after construction?
-AB AB14 AB2 17St
-AB AB16 378 383
-AB AB16 107St 66St
-AB AB16 125Ave 400B
-AB AB16 400B 405
-AB AB63 HarSt ConWay #south end is at Morrison Street, just a bit north of HarSt but way south of the actual ramps for FraAve
-AB AB201SWC AB2 26
-AB AB201 38 41
-AB AB201 41 60
-AB AB201 70 96
-AB AB201 96 101
-AB AB216 AB2 33
-AB AB216 46 66
-AB AB216 73 78
-AB AirTrl AB2 36St
-AB CroTrl GleTrl BowTrl
-AB CroTrl BowTrl KenRd
-AB CroTrl 24Ave AB201
-AB GleTrl AB8/201 CroTrl
-AB GleTrl CroTrl 14St
-AB GleTrl 14St AB2
-AB GleTrl AB2 18St
-AB GleTrl 18St OgdRd
-AB MacTrl AB22X/201 CanMeaDr #continues south to the first at-grade at 194Ave
+#SOUTH AMERICA#
+##Chile##
+CHL R5 Ran_N AccSurSan
+CHL R5 30S ViaLoc_27N
+CHL R68 AvBerOHig R70
+CHL R68 R60CH_W R60CH_E
+CHL R70 TunSanCri EduCasVel #construction east of TunSanCri and around the rest of the loop
+CHL R78 BasGue Tal
 
-
-BC BC1 17 18 #it's short but it's designed as 6 thru lanes, not auxiliary lanes
-BC BC1 23 25
-BC BC1 25 61
-BC BC1 362 369
-BC BC3 173 177
-BC BC91 8 11
-BC BC99 32 37
-BC GolEarsWay 199ASt 113BAve
-
-
-NS NS111 4 6B
-
-
-ON ON7Wat RR58 ON85
-ON ON8 ON7_E RR38
-ON ON400 20 21
-ON ON400 21 105
-ON ON401 7 63 #westbound left lane is closed west of 7 (as of November 2022) until construction is done; east end seems to be about 1/3 of the way between 63 and 81 per https://www.chathamthisweek.com/news/local-news/expanded-lanes-open-on-stretch-of-highway-401-near-tilbury
-ON ON401 183 474 # 6 lane portion ends 2.5 mi east of exit 474
-ON ON401 611 623
-ON ON403 70 80
-ON ON403 80 123(QEW)
-ON ON403 109 ON401_E
-ON ON404 17 45
-ON ON407 1 112
-ON ON409 ON427 ON401
-ON ON410 ON403 13
-ON ON417 112 113
-ON ON417 113 145
-ON ON427 QEW ON401
-ON ON427 ON401 25
-ON ONQEW RR124 2
-ON ONQEW 34 100
-ON ONQEW 100 139
-ON AllRd LawAve ON401 #too short?
-ON AllRd ON401 TraRd #too short?
-ON DonValPkwy 1 ON401/404
-ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
-#ON RR174 is under construction
-
-
-QC A-10 1 4 #construction may have affected this
-QC A-10 5 8 #construction may have affected this
-QC A-13 1 22 #very short southbound 2 lanes at 2
-QC A-15 44 53
-QC A-15 53 63
-QC A-15 63 70
-QC A-15 1(AL) 45(AL)
-QC A-19 BoulHenBou 8
-QC A-20 53 63
-QC A-20 63 68
-QC A-20 68 75
-QC A-20 75 89
-QC A-20 90 98 #may be 2 lanes westbound at 95 still
-QC A-25 A-20 4 #is it now 3 lanes northbound at 4 due to construction?
-QC A-25 4 8
-QC A-40 32 66
-QC A-40 66 70
-QC A-40 70 80
-QC A-40 80 98
-QC A-40 198 201
-QC A-40 302 139(73)
-QC A-40 139(73) 142(73)
-QC A-40 142(73) 311
-QC A-40 311 AvEst
-QC A-40 321 323
-QC A-40 323 325
-QC A-50 135 139
-QC A-73 131 134
-QC A-73 136 139
-QC A-73 139 142
-QC A-73 142 311(40)
-QC A-73 311(40) 148
-QC A-73 148 151
-QC A-440 17 22
-QC A-440 22 30
-QC A-440 30 35
-QC A-440WQu 12 15
-QC A-440WQu 15 RueFraCar
-QC A-440EQu 21 29
-QC A-540 QC138 3
-QC A-640 16 20
-QC A-740 BoulHoc 9
-QC A-973 RueCroRou 4
-QC QC116 1 9
-QC QC125Mon BoulHenBou BoulCon
-QC QC132 44(15) 89(20)
-QC QC132 89(20) 19
-QC QC134 BoulTas_N QC112/116
-QC QC136Mon 1 7
-
-
-SK SK1 229 232
-SK SK11 AttDr WarRd
-SK SK11Cir SK219 ValRd
+CHL AccSurSan R70 DomToc
+CHL AccVialAMB CosNor TerCarInt
+CHL AvGenVel R5_S 16
+CHL AvKen 1B 8B
+CHL CosNor 2 10 #construction westbound east of 2, eastbound at 10?
+CHL CosNor 11 31
 
 
 #EUROPE#
@@ -2712,7 +2761,75 @@ CHE ZubHar 1 2
 CHE ZubWie 2 32
 
 
-#ASIA#
+#ASIA/OCEANIA#
+##Australia##
+AUS-NSW M1Bal MinjDr TweCoaRd
+AUS-NSW M1Haw A43 B83_Kar
+AUS-NSW M1Haw A49 NorCon_N
+AUS-NSW M1Syd M2 BraHwy
+AUS-NSW M1Syd CahExpy_N CroCityTun
+AUS-NSW M1Syd MacSt AnzPar
+AUS-NSW M1Syd TodAve BotRd
+AUS-NSW M1Syd BotRd M5
+AUS-NSW M1Wol B65_S PriHwy_Wol
+AUS-NSW M1Wol QuaRd TD9_Kia
+AUS-NSW M2 A3 A28
+AUS-NSW M2 A28 WinRd
+AUS-NSW A4 CahExpy HarbSt
+AUS-NSW A4 CroCityTun A40
+AUS-NSW M4 M8 MulRd
+AUS-NSW M5 M8 M7/M31
+AUS-NSW A6 HenLawDr BruDr #begins just north of HenLawDr at Clancy Street
+AUS-NSW M8 M4 EusRd
+AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
+AUS-NSW M31 1 6
+
+AUS-QLD M1 87(PM) 87 #construction south of 87(PM)
+AUS-QLD M1 87 110
+AUS-QLD M1 110 120
+AUS-QLD M1 127 152A #construction north of 152A to 163
+AUS-QLD M1 188 194
+AUS-QLD M2 9 11
+AUS-QLD M2 25 M15
+AUS-QLD M3Bal QLD58 GymRd
+AUS-QLD M3 M7_N M5
+AUS-QLD M3 QLD31 QLD32
+AUS-QLD M3 QLD33 HerSt
+AUS-QLD M3 TurSt M1
+AUS-QLD M5 6 10
+AUS-QLD M5 SumRd M7
+AUS-QLD M7Bri A3_N M3_N
+AUS-QLD M7 28 32
+
+AUS-SA M1 B28 A3/A17
+AUS-SA M2 A1 A7
+AUS-SA M2Noa A2 A13_N
+AUS-SA M2Noa A14 PanRd
+
+AUS-VIC M1 C417 W4 #only westbound between E3 and W1; eastbound uses M1MBT
+AUS-VIC M1 W2 W7 #construction at W7
+AUS-VIC M1 W7 W10
+AUS-VIC M1 W10 A10_E
+AUS-VIC M1MBT W1 E3 #eastbound only
+AUS-VIC M2 1 19
+AUS-VIC M3 MR29/83 A16
+AUS-VIC M79 1 4
+AUS-VIC M79 4 6
+AUS-VIC M80 M1 A51
+
+AUS-WA WA2 WA82 WA65 #construction from SheAve? to WA82
+AUS-WA WA2 WA8/60 RusRd
+AUS-WA WA4 WA3_N ColRd #railway construction in the median may have affected this from WA3_N to WA76; construction from ColRd south to N1/N94
+AUS-WA WA4 N1/N94 WA7
+AUS-WA WA4 WA7 WA3_S
+AUS-WA WA8 WA2/60 WA66
+AUS-WA WA8 WA66 N1/N94
+
+AUS-ACT ParWay TugPkwy EdiAve
+AUS-NSW BraHwy M1 A4 #3-4 lanes northbound, 3 lanes southbound including the CahExpy exit
+AUS-QLD SouCroWay QLD25 M1(105)
+
+
 ##Japan##
 JPN E1 1 7-1
 JPN E1 30 30-2
@@ -2785,3 +2902,93 @@ JPN N423 Nak P16 #north end is just north of P16 at the train station interchang
 
 #JPN P2 straddling E2A north of Kyoto from E2A exit 1 west to N423
 #Harbor Highway over the Kobe Bridge in/near Osaka
+
+
+##Singapore##
+SGP AYE 1 2
+SGP AYE 2C SGP/MYS
+SGP BKE 1 10B
+SGP CTE 1B SLE/TPE
+SGP ECP 1 7B
+SGP ECP 7B 14
+SGP ECP 14 15
+SGP KJE 1 7
+SGP KPE 1 3
+SGP KPE 2A 11
+SGP MCE 1 5
+SGP PIE 1 2
+SGP PIE 2 35
+SGP PIE 35 41
+SGP SLE 1 11
+SGP TPE 1 14
+#SGP West Coast Highway from Kampong Bahru Road west to the Harbour Drive exit
+#and other freeways not in sgpex
+
+
+##South Korea##
+#only the national expressways since that's all that's active
+KOR AH1 MR11/71 ToMR22_S
+KOR AH1 SuyDae 1(Ex1)
+KOR Ex1 1 26 #continuing about halfway to 27
+KOR Ex1 28 49B
+KOR AH1 49B(Ex1) JamNo
+KOR AH1 JamNo PR70
+KOR Ex10 21 30
+KOR Ex10 33 39
+KOR Ex102 2 3 #what's with the weird striping on the right lane?
+KOR Ex102 3 4 #ditto
+KOR Ex104 1 5
+#KOR the continuation of Ex12Mau east from 8 to the end of the freeway in Gwangju
+KOR Ex12 12 13
+KOR Ex12 26 28 #except for the westbound bridge just east of 27
+KOR Ex15 24 37
+KOR Ex153 4 5
+KOR Ex16 2 4
+KOR Ex17 1(S) 6(S) #and the southern extension to the 43/45 split near Asan
+KOR Ex17 6(S) 1(400)
+KOR Ex17 3(N) 4(N) #continuing north to future junction 5; also the extension east through the tunnels from Ex15 to west of Ex1
+KOR Ex17Goy 1 5
+KOR Ex171Suw 6 7
+KOR Ex171 1 6
+KOR Ex20 23 24 #east end is just west of 24
+KOR Ex25 9 10
+KOR Ex25 26 29
+KOR Ex29 1 7
+KOR Ex30 8 9
+KOR Ex30 24 25
+KOR Ex35 36 37
+KOR Ex35 41 43
+KOR Ex40 1 4
+KOR Ex40 4 5
+KOR Ex451 3 6 #northbound goes down to 2 lanes somewhere north of 6
+KOR Ex451 8 9
+KOR Ex50 1 23 #and the extension north from 1
+KOR Ex55 1 2 #and the extension east from 1 to but not thru the tunnel
+KOR Ex55 2-2 3
+KOR Ex551 2 4
+KOR Ex60 Misa 2 #and the extension west from Misa along the south shore to the 48/356 interchange, with a gap at the Haengju Bridge
+KOR AH6 SinNo GwaDae
+KOR AH6 ToMR31 1(Ex65)
+KOR Ex65 1a 7
+KOR AH6 DonRo 
+KOR Ex100 1 Ex1
+KOR Ex110 1 4 #and the continuation west from 1 to the first interchange
+KOR Ex110 6 17 #including the spur at 6
+KOR Ex120 N77 7 #may not extend all the way west to N77
+KOR Ex130 Sin 8
+KOR Ex400Inc SeoDae 3 #the south end is at the ramps just south of the tunnel, which I suppose are part of SeoDae
+#KOR the freeway portion of the gap filler between KOR Ex700 and KOR Ex700Pag
+
+
+##New Zealand##
+NZL SH1 410 414
+NZL SH1 417 427
+NZL SH1 427 438
+NZL SH1 438 458
+NZL SH1 JohRd CenHwy_S
+NZL SH1 SH2 EveTer
+NZL SH1Wai TramRd SH74
+NZL SH16 3 19
+NZL SH20 9 16
+NZL SH20 16 19
+NZL SH20 19 24

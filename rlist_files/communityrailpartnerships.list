@@ -25,11 +25,11 @@ ENG BitLn Nor She
 
 #High Peak and Hope Valley Community Rail Partnership
 ##Buxton Line
-	Disley - Buxton
+ENG BuxLn Dis Bux
 ##Glossop Line
-	Dinting - Glossop - Hatfield
+ENG GloLn Din Had
 ##Hope Valley Line
-	New Mills Central - Dore & Totley
+ENG HopeVlyLn NewMilCen DoreTot
 
 #Cambrian Community Rail Partnership
 ##North West Wales Coast
@@ -55,7 +55,7 @@ WLS WWalLn Swa MilHav
 WLS WWalLnFis Swa FisHar
 
 #Cumbrian Coast Line Community Rail Partnership
-	Carlisle - Barrow
+ENG CumCoaLn BarFur Car
 
 #Derwent Valley Line Community Rail Partnership
 ENG DerVlyLn Not Mat
@@ -65,10 +65,10 @@ ENG EastSufLn Ips Low
 ENG FelLn Ips Fel
 
 #Esk Valley Railway Development Company
-	Middlesbrough - Whitby
+ENG EskVlyLn Mid Whi
 
 #Furness Line Community Rail Partnership
-	Carnforth - Barrow-in-Furness
+ENG FurLn Car BarFur
 
 #Essex and South Suffolk Community Rail Partnership
 ##Mayflower Line
@@ -85,11 +85,10 @@ ENG CroVlyLn Wic Sou
 ##Southend Line
 ENG SouLn Wic SouVic
 
-#Heart of Wales Development Company
-	already listed
+#Heart of Wales Development Company - already listed
 
 #Lakes Line Community Rail Partnership
-	Windermere - Oxenholme
+ENG LakLn Win OxeLakeDis
 
 #Marston Vale Community Rail Partnership
 ENG MarValeLn Ble Bed
@@ -104,7 +103,7 @@ ENG SwaLn Sit SheSea
 ENG KentDowLn Otf AshInt	
 
 #Penistone Line Partnership
-	Huddersfield - Sheffield
+ENG PenLn Hud She
 
 #Poacher Line Community Rail Partnership
 ENG PoaLn Not Ske
@@ -117,7 +116,7 @@ ENG CorML Pil BriTemMea
 ##to Gloucester
 ENG SevVlyLn Yate BriTemMea
 ##to Westbury
-ENG AvonVlyLn BriTemMea BraAvon
+ENG WesML BriTemMea BraAvon
 ##to Taunton
 ENG CorML BriTemMea Tau
 
@@ -128,7 +127,7 @@ ENG ReaLn Sta Rea
 ##North Downs Line
 ENG NorDowLn Rea GatAir
 ##1066 Hastings to Tonbridge Line
-ENG 1066Ln Ton Has
+ENG HasLn Ton Has
 ##Tonbridge to Reigate Line
 ENG RedTonLn Red Ton
 ENG RdhLn Red Rei
@@ -138,7 +137,7 @@ ENG EGriLn Oxt EastGri
 ##Marshlink Line
 ENG MnkLn AshInt Has
 ##Arun Valley Line
-ENG ThaLnkRed GatAir Hors
+ENG ThaLnkPet GatAir Hors
 ENG ArunVlyLn Hor BogReg
 ENG ChiLn Bar Bos
 ##Sussex Coast Line
@@ -148,10 +147,10 @@ ENG SusDowLn Bri Sea
 
 #TransWilts Community Rail Partnership
 ENG TraWilLn Swi Wes
-ENG AvonVlyLn Wes Sal
+ENG WesML Wes Sal
 
 #Tyne Valley Line Community Rail Partnership
-	Carlisle - Newcastle
+ENG TyneVlyLn Car New
 
 #Wherry Lines Community Rail Partnership
 ENG WheLnYar Nor GreYar
@@ -159,11 +158,10 @@ ENG WheLnBer Nor GreYar
 ENG WheLnLow Nor Low
 
 #Bolton and South Lancashire Community Rail Partnership
-	Bolton - Wigan
-	Bolton - Bromley Cross
-	Bolton - Manchester Victoria
-ENG TPASRte ManPic Pre
-	Salford - Wigan
+ENG SptLn Bol WigWal
+ENG RibVlyLn ManVic BroCro
+ENG BlaLn ManPic Pre
+ENG AthLn SalCen WigWal
 
 #Meldreth, Shepreth & Foxton Community Rail Partnership
 ENG RheeVlyLn Mel Fox
@@ -179,34 +177,33 @@ ENG NWSWChe Che ENG NWSW Shr
 ENG CheCreLn Che Cre
 
 #Settle Carlisle Development Company
-	Leeds - Settle - Carlisle
+ENG SaCLn Lee Car
 
 #North Staffordshire Community Rail Partnership
 ENG NorStaLn Cre Der
 ENG PotLn Pen Cre
 
 #Leeds- Morecambe Community Rail Partnership
-	Leeds - Lancaster - Heysham
+ENG BenLn Lee HeyPort
 
 #Clitheroe Line Community Rail Partnership
-	Manchester Victoria - Clitheroe
+ENG RibVlyLn ManVic Clit
 
 #East Lancashire Community Rail Partnership
-	Preston - Colne
-	Preston - Burnley Manchester Road
+ENG EastLanLn Pre Col
+ENG CalVlyLn BurManRd RoseGro
 
 #South Fylde Line Community Rail Partnership
-	Preston - Blackpool South
+ENG SouFylLn Pre BlaSou
 
 #West of Lancashire Community Rail Partnership
-	Preston - Ormskirk
-ENG NrnLn LivCen San
-ENG NrnLnOrm San Orm
-	Wigan - Southport
-	Wigan - Headbolt Lane
+ENG WestLanLn Pre Orm
+ENG NrnLnOrm LivCen Orm
+ENG SptLn WigWal Sou
+ENG CalVlyLn HeaLn WigWal
 
 #Bishop Line Community Rail Partnership
-	Darlington - Bishop Auckland
+ENG TeesVlyLn BisAuc Dar
 
 #Worcestershire Community Rail Partnership
 ##Cotswold and Malvern Line
@@ -221,8 +218,8 @@ ENG ShaLn Kid Hag
 ENG XCLn BarGre Red
 
 #North Cheshire Community Rail Partnership
-	Hooton - Helsby
-ENG LlaManLn Hel WarBankQuay
+ENG WirLnEll Hoo EllPort
+ENG NorCheLn EllPort WarBankQuay
 
 #Abbey Line Community Rail Partnership
 ENG AbbLn WatJct StAlbAbb
@@ -231,7 +228,7 @@ ENG AbbLn WatJct StAlbAbb
 ENG HerLn Pet Ely
 
 #Mid Cheshire Community Rail Partnership
-	Manchester Piccadilly - Chester
+ENG MidCheLn ManPic Che
 
 #Heart of England Community Rail Partnership
 ENG NhpLn Rug BirInt
@@ -246,15 +243,14 @@ ENG WoELn Tis Cre
 
 #North Nottinghamshire & Lincolnshire CRP
 ENG RomLn Don LinCen
-	Shireoaks - Lincoln
-	Shireoaks - Barnetby
+ENG LinLn Shi LinCen
+ENG PilLN Ret Bar
 ENG CasLn LinCen Bar
 
 #New River Line Community Rail Partnership
 ENG NewRvrLn HerEast Bro
 
-#South West Wales Connected CRP
-	already listed above
+#South West Wales Connected CRP - already listed
 
 #Gloucestershire Community Rail Partnership
 ENG SevShoLn Glo Lyd
@@ -262,26 +258,24 @@ ENG GolVlyLn Kem Glo
 ENG SevVlyLn Ash Yate
 
 #Crew to Manchester and South East Manchester CRP
-ENG LlaManLn ManPic ManAir
-	Manchester Airport - Crewe
-ENG MarLn Cre ManPic
-	Manchester Piccadilly - Rose Hill
-	Manchester Piccadilly - Strines
-	Manchester Piccadilly - Broadbottom
-	Stockport - Middlewood
-	Stockport - Guide Bridge
+ENG AirLn ManPic Cre
+ENG CreLn ManPic Cre
+ENG MplLn ManPic RoseHillMar
+ENG HopeVlyLn ManPic Str
+ENG GloLn ManPic Bro
+ENG BuxLn Sto Mid
+ENG StoStaLn Sto GuiBri
 
 #Calder Valley Line Community Rail Partnership
-	Mills Hill - Low Moor
-	Sowerby Bridge - Brighouse
+ENG RibVlyLn MilHill Roc
+ENG CalLn Roc LowMoor
+ENG AthLn SowBri Bri
 
 #Roobin Hood Line Community Rail Partnership
 ENG RobHoodLn Wor Not
 
 #Yorkshire Coast Community Rail Partnership
-ENG ECMLHul HullParInt Bev
-	Scarborough - Hull
-ENG TPNRteSca Sea Sca
+ENG YorCoaLn Sca HullParInt
 
 #Barton Cleethorpes Community Rail Partnership
 ENG BarLn BarHum Cle
@@ -303,7 +297,7 @@ ENG MalLn Led Col
 ENG ChiMLOxf Oxf BicVil
 ENG ChiML BicNor Ban
 ENG CotLn Oxf Kin
-ENG OxfCanLn DidPkwy Ban
+ENG OxCanLn DidPkwy Ban
 ENG ThaVlyLn GorStr DidPkwy
 ENG RegLn Shi HenTha
 
@@ -324,8 +318,8 @@ ENG KinLp Bar Twi
 ENG WinLn Twi Fel
 
 #The Community Train CRP
-ENG CheBra RayPark CheSou
-ENG HamCouBra RayPark Sur
+ENG CheLn RayPark CheSou
+ENG HamCouLn RayPark Sur
 
 #Wey Valley CRP
 ENG AltLn AshVale Alt
@@ -375,4 +369,4 @@ ENG CreCoaLn BirSea Ram
 
 #White Cliffs CRP
 ENG PadWoodLn Wes FolWest
-ENG WhiCliLn FolWest San
+ENG HS1Dov FolWest San

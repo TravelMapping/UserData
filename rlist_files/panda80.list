@@ -4,6 +4,9 @@ AUT S4Tir InnsbruckHauptbahnhof Kufstein
 AUT S7Tir DEU/AUT AUT/DEU
 AUT U1 Kragan Karlsplatz
 AUT U4 Schwedenplatz Schonbrunn
+CZE U28Dec DEU/CZE DecinHlavniNadrazi
+CZE U54 DecinHlavniNadrazi Hnevice
+CZE S4 Hnevice PrahaMasarykovoNadrazi
 DEU-BB S2Bla BE/BB Blankenfelde
 DEU-BB S7 PotsdamHauptbahnhof BE/BB
 DEU-BB S8Jut ST/BB Juterbog
@@ -44,6 +47,7 @@ DEU-BY S20 Pasing Hollriegelskreuth
 DEU-BY S3Sal Freilassing DEU/AUT
 DEU-BY S7Pfr PfrontenSteinach DEU/AUT
 DEU-BY S7Tir AUT/DEU GarmischPartenkirchen
+DEU-BY RS7 BW/BY Mem
 DEU-BY U1 OlympiaEinkaufszentrum Kolumbusplatz
 DEU-BY U2 MessestadtOst Harthof
 DEU-BY U3 OlympiaEinkaufszentrum Obersendling
@@ -53,10 +57,14 @@ DEU-BY U2Nur Hauptbahnhof Flughafen
 DEU-BY 1Aug LechhausenNeuerOstfriedhof GoggingenRathaus_1
 DEU-BY 2Aug StThaddaus HaunstettenNord
 DEU-BY 3Aug Hauptbahnhof KonigsbrunnZentrum
-DEU-BY 6Aug FriedbergWestPR Hauptbahnhof
+DEU-BY 6Aug FriedbergWestPR Hbf
 DEU-BY 8Aug Hauptbahnhof FussballArena
+DEU-BW RS2 UlmHbf BibSud
+DEU-BW RS3 MunKin UlmHbf
+DEU-BW RS7 UlmHbf BW/BY
 DEU-HH S2 HamburgAltona Bergedorf
 DEU-HH S11 Hauptbahnhof Blankenese
+DEU-SN U28 Sch DEU/CZE
 DEU-SN S2 LeipzigHauptbahnhof ST/SN
 DEU-SN S3 LeipzigEngelsdorf Oschatz
 DEU-SN S1Dre MeissenTribischtal Schona
@@ -79,6 +87,7 @@ DEU-SN 13Dre Elbepark ProhisGleisschleife
 DEU-SN 20Dre Hauptbahnhof_1 Hauptbahnhof_2
 DEU-ST S2 Bitterfeld ST/SN
 DEU-ST S2Wit BB/ST Bitterfeld
+ENG ThaLnkRai LonBri MazeHill
 FRA-IDF A Auber NoisyGrandMontEst
 FRA-IDF B AeroportCDG1 Luxembourg
 FRA-IDF D SaintDenis GareLyon
@@ -86,6 +95,7 @@ FRA-IDF L SaintLazare VersaillesRiveDroite
 FRA-IDF M7 PorteVillette Chatlet
 FRA-IDF M13StO BasiliqueSaintDenis Fourche
 FRA-IDF M13 Fourche SaintLazare
+ITA-LAZ MA Ter Ott
 ITA-TRE S3Tir AUT/ITA BrennerBrennero
 ESP-CT R5 Espanya MonistrolMontserrat
 ESP-CT R13 EstacioFranca Sitges

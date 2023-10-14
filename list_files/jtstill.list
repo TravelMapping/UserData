@@ -101,6 +101,14 @@ MD MD194 MD140 MD/PA
 PA PA194 MD/PA PA97
 MD MD97 MD140_W MD/PA
 PA PA97Lit MD/PA US15
+# Zones
+WV WV7 ChaHillRd CR857_N
+MD MD77 MD64 US15
+MD MD64 MD66_S MD77
+MD MD66 I-70 MD64_E
+MD I-70 26 35
+WV US119 WV705 CR857_N
+WV WV705 US19/7 US119
 # US15/PA74 is already in here
 #
 #
@@ -126,11 +134,23 @@ PA PA238 SusTrl I-83
 PA PA641 ArmyHerDr SpoHillRd
 #
 #
-# In and Around Carlisle, Mechanicsburg
+# In and Around Central PA
 PA PA641 OraSt_N ArmyHerDr
-PA US11 I-76 PA641_A
+PA US11 PA696_S I-81(65)
 PA PA34 PineGroRd_A LonGapRd
 PA PA174 PA34 PA641
+PA PA114 I-81 US15
+PA PA174 US11/533 I-81
+PA PA233 I-81 US11
+PA HarTayBri US11/15_S US11/15_N
+PA US15 PA74_N US11/581
+PA US322 I-83(46B) US422
+PA I-81 59 70
+PA I-83 41A 51
+PA PA39 ProAve ColRd
+PA PA39 HerParkDr_E US322/422
+PA PA743 HerParkDr_W HerParkDr_E
+PA US422Rea US322 *PA743_S
 #
 #
 # Colonel Denning State Park
@@ -170,12 +190,6 @@ PA PA120 US219 MicSt_S
 PA PA255 I-80 PA120_W
 #
 #
-# To Elmerton Office/Around Harrisburg
-PA I-81 59 67
-PA I-83 41A 51
-PA PA39 ProAve ColRd
-#
-#
 # Loyola <-> Lafayette
 PA US30 I-83 US222_N
 PA US222 US30_E FarRd
@@ -186,6 +200,11 @@ PA US22 I-78(49) PA/NJ
 # Pittsburgh August 2022 (not including Turnpike already covered)
 PA I-76 57 189
 PA I-376 73 85
+PA PA380 HerAve CraSt_S
+PA PA28 1A 5
+PA I-279 1B 2A
+PA PA8 PA28 SaxBlvd
+PA PA910 MouViewRd SaxBlvd
 #
 #
 # Bucknell to Woodlawn (Oct 2022)
@@ -277,3 +296,26 @@ ISL TH22 HofVeg LanFry
 ISL TH240 Sto HraHam
 ISL TH261 TH1 TH262
 ISL TH262 TH261 Vol
+#
+#
+# Labor Day Cabin
+PA US522 PA475 I-76
+PA PA475 US522 PittSt
+PA PA655 PittSt PA913
+PA PA655 RidRd OriRd
+PA PA913 CooRd PA655
+PA PA829 SemSt US22
+PA PA641 PA75 OraSt_N
+#
+#
+# Philly 2022
+PA I-76 236 340
+PA US1 I-76(339) RidAve
+PA US13 RidAve_S RidAve_N
+#
+#
+# Ebensburg
+PA I-99 1 28
+PA US22 PA160Trk_N PA764_N
+PA PA160TrkWil US22_E PA160_N
+PA PA160 PA160Trk_N HighSt
