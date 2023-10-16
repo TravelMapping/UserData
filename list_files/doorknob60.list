@@ -325,16 +325,12 @@ OH US27TrkCin US42/127 8thSt
 DC US29 11thSt_N RhoIslAve_E
 
 # US30
-OR US30 US101 I-84(44)
-OR US30 I-84(62) I-84(64)   # Hood River
-OR US30 SniSt I-84(87)      # The Dalles
-OR US30 I-84(207) I-84(213) # Pendleton
-OR US30 GekLn I-84(265)     # La Grande
-OR US30 BroSt I-84(306)     # Baker City
-OR US30 I-84(376) OR/ID     # Ontario
+OR US30 US101 OR/ID         # Oregon Clinched
 ID US30 OR/ID US95_S        # Fruitland
 ID US30 I-84BL_E BlueLakBlvd
 ID US30 I-15(47) ID34_S
+
+OR US30HisCol I-84(18) I-84(37)
 
 # US40
 MD US40 US15_N I-70(53)
@@ -883,6 +879,9 @@ OR OR201 ID/OR NapRd
 # OR202
 OR OR202 US101 7thSt
 
+# OR203
+OR OR203 I-84(265) OR237_S
+
 # OR210
 OR OR210 NimAve OR141
 
@@ -909,6 +908,9 @@ OR OR228 I-5 US20
 # OR233
 OR OR233 OR154/155 OR18
 
+# OR237
+OR OR237 I-84 OR203_N
+
 # OR331 (Unsigned)
 OR OR331 I-84 CayRd
 
@@ -919,7 +921,7 @@ OR OR380 US26 ConRd
 OR OR429 LavaOdeRd OR58
 
 # Business Loops
-OR US30BypPor 122ndAve 181stAve
+OR US30BypPor 122ndAve US30_E
 OR US30BusHun I-84(345) I-84(353)
 OR US30BusOnt OR201 8thAve
 OR US30BusOnt OR201Bus US30_E
