@@ -1,4 +1,4 @@
-# Date: 2023-10-15
+# Date: 2023-10-16
 # ----------------
 
 ######################
@@ -378,31 +378,36 @@ DEU-NI 10Han Ahl HbfZOB                           #2021
 DEU-NI 11Han HalHoffStr AegTorPla                 #2021
 DEU-NI 17Han HbfZOB WalSteStr                     #2021
 
-DEU-NW 1Bie SchEsc Sen               #2022
-DEU-NW 2Bie AltHag Sie               #2022
-DEU-NW 3Bie BabHauSud DurTor6        #2022
-DEU-NW 4Bie LohHof StiHor           #2022
+#Bielefeld
+DEU-NW 1Bie SchEsc Sen                #2022
+DEU-NW 2Bie AltHag Sie                #2022
+DEU-NW 3Bie BabHauSud DurTor6         #2022
+DEU-NW 4Bie LohHof StiHor             #2022
 
+#Bochum
 #DEU-NW  Bochum U35 Hustadt          DEU-NW  Herne Schloß Strükede                             #2022
 
-#DEU-NW  Cologne Barbarossaplatz     DEU-NW  Bad Godesberg-Stadthalle                          #2022, U16
-#DEU-NW  Cologne Barbarossaplatz     DEU-NW  Bonn Hbf                                          #2022, U18
-#DEU-NW  Bonn-Quirinusplatz          DEU-NW  Bonn-Kopenhagener Straße                          #2022, Tram 61
-#DEU-NW  Bonn Hbf                    DEU-NW  Bonn-Oberkassel                                   #2022, Tram 62
-#DEU-NW  Siegburg Bf                 DEU-NW  Bad Honnef                                        #2022, U66
+#Bonn
+DEU-NW 16Rhe BarPla StaHal            #2022, U16
+DEU-NW 18Rhe BarPla BonnHbf           #2022, U18
+DEU-NW 61Bon QuiPla KopHagStr         #2022, Tram 61
+DEU-NW 62Bon BonnHbf OberKasSudRomHov #2022, Tram 62
+DEU-NW 66Bon SiegBurgBf BadHon        #2022, U66
 
-#DEU-NW  Cologne U 1 Weiden-West      DEU-NW  Bensberg                                          #2021
-#DEU-NW  Cologne U 3 H-Böckler-Platz  DEU-NW  Thielenbruch                                      #2021
-#DEU-NW  Cologne U 4 H-Böckler-Platz  DEU-NW  Mülheim-Wiener Platz                              #2021
-#DEU-NW  Cologne U 5 SButzenweilerhof DEU-NW  Heumarkt                                          #2021
-#DEU-NW  Cologne U 7 Benzenrath       DEU-NW  Zündorf                                           #2021
-#DEU-NW  Cologne U 9 Neumarkt         DEU-NW  Königsforst                                       #2021
-#DEU-NW  Cologne U12 Ebertplatz       DEU-NW  Zollstock Südfriedhof                             #2021
-#DEU-NW  Cologne U13 Holweide-Visch.  DEU-NW  Sülzgürtel                                        #2021
-#DEU-NW  Cologne U16 Niehl-Seba.str.  DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne U17 Severinstr.      DEU-NW  Sürth                                             #2021
-#DEU-NW  Cologne U18 Thielenbruch     DEU-NW  Sülzgürtel                                        #2021
+#Cologne
+DEU-NW 01Kol WeiWest BensBerg         #2021, U1
+DEU-NW 03Kol HansBocPlaBfWest Thi     #2021, U3
+DEU-NW 04Kol HansBocPlaBfWest WiePla  #2021, U4
+DEU-NW 05Kol SparKasButzWeiHof HeuMar #2021, U5
+DEU-NW 07Kol FreBen ZunDorf           #2021, U7
+DEU-NW 09Kol NeuMar KonFor            #2021, U9
+DEU-NW 12Kol EbePla ZollStoSudFriHof  #2021, U12
+DEU-NW 13Kol VisStr SulzGur           #2021, U13
+DEU-NW 16Rhe NieSebStr SurBf          #2021, U16
+DEU-NW 17Kol SevStr SurBf             #2021, U17
+DEU-NW 18Rhe Thi SulzGur              #2021, U18
 
+#Dortmund
 #DEU-NW  Dortmund U41 Brambauer Verkehrshof  Clarenberg                                        #2022
 #DEU-NW  Dortmund U42 Grevel                 Grotenbachstraße                                  #2022
 #DEU-NW  Dortmund U43 Westentor              Wickede (S)                                       #2022
@@ -412,10 +417,12 @@ DEU-NW 4Bie LohHof StiHor           #2022
 #DEU-NW  Dortmund U47 Westerfilde            Aplerbeck                                         #2022
 #DEU-NW  Dortmund U49 Hbf                    Hacheney                                          #2022
 
+#Düsseldorf
 #DEU-NW  D'dorf U73 D-Heinrich-Heine DEU-NW  Düsseldorf Uni-Ost                                #2022
 #DEU-NW  D'dorf U79 DU-Meiderich     DEU-NW  Düsseldorf Uni-Ost                                #2022
 #DEU-NW  D'dorf U76 D-Heinrich-Heine DEU-NW  Krefeld-Rhenstraße                                #2023
 
+#Essen
 #DEU-NW  Essen  U11 GE-Buerer Straße DEU-NW  Essen Messe-West/Süd                              #2022
 #DEU-NW  Essen  U17 Essen Karlsplatz DEU-NW  Essen Margarethenhöhe                             #2022
 #DEU-NW  Essen  U18 Mülheim Hbf      DEU-NW  Essen Berliner Platz                              #2022
