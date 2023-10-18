@@ -1,4 +1,4 @@
-# Date: 2023-10-16
+# Date: 2023-10-17
 # ----------------
 
 ######################
@@ -385,7 +385,7 @@ DEU-NW 3Bie BabHauSud DurTor6         #2022
 DEU-NW 4Bie LohHof StiHor             #2022
 
 #Bochum
-#DEU-NW  Bochum U35 Hustadt          DEU-NW  Herne Schloß Strükede                             #2022
+DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
@@ -408,14 +408,14 @@ DEU-NW 17Kol SevStr SurBf             #2021, U17
 DEU-NW 18Rhe Thi SulzGur              #2021, U18
 
 #Dortmund
-#DEU-NW  Dortmund U41 Brambauer Verkehrshof  Clarenberg                                        #2022
-#DEU-NW  Dortmund U42 Grevel                 Grotenbachstraße                                  #2022
-#DEU-NW  Dortmund U43 Westentor              Wickede (S)                                       #2022
-#DEU-NW  Dortmund U44 Walbertstraße          Westfalenhütte                                    #2022
-#DEU-NW  Dortmund U45 Hbf                    Westfalenhallen                                   #2022
-#DEU-NW  Dortmund U46 Stadtgarten            Westfalenhallen                                   #2022
-#DEU-NW  Dortmund U47 Westerfilde            Aplerbeck                                         #2022
-#DEU-NW  Dortmund U49 Hbf                    Hacheney                                          #2022
+DEU-NW U41 BraVerHof ClaBerg          #2022, Brambauer Verkehrshof - Clarenberg
+DEU-NW U42 Gre GroBachStr             #2022, Grevel - Grotenbachstraße
+DEU-NW U43 WesTor DortMundWicS        #2022, Westentor - Wickede (S)
+DEU-NW U44 MarWalStr WesHut           #2022, Walbertstraße - Westfalenhütte
+DEU-NW U45 DortMundHbf WesHal         #2022, Hbf - Westfalenhallen
+DEU-NW U46 StaGar WesHal              #2022, Stadtgarten - Westfalenhallen
+DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
+DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
 #Düsseldorf
 #DEU-NW  D'dorf U73 D-Heinrich-Heine DEU-NW  Düsseldorf Uni-Ost                                #2022
@@ -423,9 +423,9 @@ DEU-NW 18Rhe Thi SulzGur              #2021, U18
 #DEU-NW  D'dorf U76 D-Heinrich-Heine DEU-NW  Krefeld-Rhenstraße                                #2023
 
 #Essen
-#DEU-NW  Essen  U11 GE-Buerer Straße DEU-NW  Essen Messe-West/Süd                              #2022
-#DEU-NW  Essen  U17 Essen Karlsplatz DEU-NW  Essen Margarethenhöhe                             #2022
-#DEU-NW  Essen  U18 Mülheim Hbf      DEU-NW  Essen Berliner Platz                              #2022
+DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
+DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
+DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
 
 DEU-NW WupSch VohWinSchBahn OberBarBf        #2022, signed as route 60
 
