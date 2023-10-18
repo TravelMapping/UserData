@@ -2999,6 +2999,14 @@ NM NM18 US62/180 US82/83
 NM US82 NM18/83 US285
 NM US285 US82 US62/180_E
 NM NM483 NM18 US62/180
+NM I-40 AZ/NM 20  #Return from Las Vegas ACFE meeting with David Johns
+AZ I-10 AZ/NM CA/AZ  #Trip to 29 Palms for Electronic School
+AZ I-40 48 AZ/NM #Return from Las Vegas ACFE meeting with RDJ
+AZ US89AltFre AZ389 AZ67  #Visit to North Rim of Grand Canyon with Rod
+AZ AZ67 US89Alt BriAngPt
+AZ AZ64 I-40 US89  #Trip Back to Alabama with Cathy on Honeymoon
+AZ US89 AZ64 I-40BL/180
+AZ I-40BLFla US89 I-40_E 
 
 
     
