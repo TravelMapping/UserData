@@ -3278,6 +3278,7 @@ CA CA198 I-5 SeqNP
 CA BigOakRd BigOakRd ElPorRd
 CA ElPorRd BigOakRd WawRd
 CA GenHwy CA198 KinCanRd
+CA KinCanRd CA180_W GenHwy
 CA TioPassRd BigOakRd CA120
 CA WawRd CA41 SouDr
 
