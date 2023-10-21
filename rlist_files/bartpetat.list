@@ -98,10 +98,11 @@ NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
 NLD 9Haa ZwaPad KalSta
 
-NLD 25Rot RotCen Tel_2
 NLD 4Rot Koo +DIV_78
 NLD 7Rot Zaa RotCen
-
+NLD 8Rot +DIV_47 Beu
+NLD 24Rot Oos Beu
+NLD 25Rot RotCen Tel_2
 
 
 # BELGIUM
@@ -113,6 +114,9 @@ BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
 BEL L9 Wel BEL/DEU
 BEL S43 LieGui BEL/NLD
+
+#Tram
+BEL 1Gen SintPies Gra
 
 
 # LUXEMBOURG
@@ -134,13 +138,14 @@ DEU-BE S41 WestKre_N WestHaf
 DEU-BE S41 OstKre SchBerg
 
 DEU-BE S1 FriStr PotPla
-DEU-BE S1 YorStr SchBerg
+DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 
 DEU-BE U1 KurFurDamm SchTor
+DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
-DEU-BE U6 FriStr TemHof
+DEU-BE U6 NatMus TemHof
 
 DEU-BE M8 SUHbf_2 BruStrInvStr
 DEU-BE M10 SUHbf_2 UEbeWalStr
@@ -186,6 +191,7 @@ DEU-NW S11 KolnLongerich KolnMulheim
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
+DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
@@ -222,20 +228,28 @@ WLS SnoMouRwy Lla Clo
 
 
 ## ENG - England
+#Train
 ENG XCML She +DIV_DeaV
 ENG XCML +SKIP_ChuFen York
 ENG LonAms LonStPanInt GBR/FRA
 ENG ChaTnl FolEurTer GBR/FRA
-ENG EliLn TotCouRd CanWha
 ENG LutAirExp +DIV_HS1 LutAirPkwy
-ENG WoELn LonWat SAL
 ENG DeaVlyLn She York
+
+#Londen Underground / TFL
+ENG EliLn TotCouRd CanWha
+ENG WoELn LonWat SAL
+ENG JubLn LonBri Str
 ENG PicLn HeaTer23 CalRd
 ENG CenLnEal MileEnd NewPark
+ENG CenLnEal EalBro OxfCir
 ENG HaCLn Far MileEnd
 ENG VicLn KXSP Pim
 ENG DisLn KewGar EarCou
 ENG DLR CanWha CutSark
+ENG DLRRoy Sha CanTown
+ENG DLR Bank +DIV_Roy
+ENG NorLnBar KXSP LonBri
 
 
 # NORWAY
@@ -273,7 +287,9 @@ CZE B Jin Pal
 CZE C NadHol Vys
 CZE 3Brn Pristaviste Ceska
 CZE S1 PrahaMasarykovoNadrazi Kolin
+CZE 20Pra DivokaSarka Malostranska
 CZE S20 Kolin KutnaHoraHlavniNadrazi
+CZE 22Pra Pohorelec MalostranskeNamesti
 
 
 
@@ -334,8 +350,9 @@ HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
+HKG 614 PuiTo +DIV_751/761
 HKG 705 TinShuiWai_A WetPark
-HKG 614 PuiTo YuenLong
+HKG 751 SuiHong TinWong
 
 
 #HK MTR
