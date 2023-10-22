@@ -1,4 +1,4 @@
-# Date: 2023-10-17
+# Date: 2023-10-21
 # ----------------
 
 ######################
@@ -107,11 +107,11 @@ DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
-#DEU-NW  Dortmund Dorstfeld           DEU-NW  Bochum Hbf            #2022, S1 via Oespel, Langendreer
-#DEU-NW  Mülheim Hbf                  DEU-NW  Duisburg Hbf          #2022, S1
-#DEU-NW  Herne Bf                     DEU-NW  Dortmund Hbf          #2022, S2 via Castrop-Rauxel, Westerfilde, Dorstfeld
-#DEU-NW  Dortmund-Körne-West          DEU-NW  Dortmund-Wickede      #2022, S4
-#DEU-NW  Düsseldorf Hbf               DEU-NW  Essen Hbf             #2022, S6 via Derendorf, Ratingen-Ost, Kettwig
+DEU-NW S1 DortMundDorFeld BocHbf                                    #2022 via Oespel, Langendreer
+DEU-NW S1 MulHeimHbf DuisBurgHbf
+DEU-NW S2 DortMundHbf Her                                           #2022 via Castrop-Rauxel, Westerfilde, Dorstfeld
+DEU-NW S4 DortMundWic DortMundKorWest                               #2022
+DEU-NW S6 EssHbf DusDorfHbf                                         #2022 via Derendorf, Ratingen-Ost, Kettwig
 
 DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
 DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
@@ -122,19 +122,34 @@ DEU-HE S6 FraFurtHbf FraFurtSud       #2022, S6 Frankfurt Hbf - Ostend - Frankfu
 DEU-HE S8 +DIV_BarGar HanHbf          #2022, traveled with rerouted RE55 F-South - Hanau
 #DEU-HE  Frankfurt-South              DEU-HE  Hanau Hbf             #2023, RE55 via Offenbach, due to construction
 #DEU-HE  Gießen Hbf                   DEU-NW  Siegen Hbf            #2022, RE98
+DEU-NW S12 KolnMesDeu Au                                            #2022, traveled as RE9 Siegen - Deutz
 #DEU-NW  Siegen Hbf                   DEU-NW  Cologne Deutz         #2022, RE9
+DEU-NW S6 +DIV_Rat KolnMesDeu                                       #2022, traveled as RE5 Deutz - Langenfeld - Duisburg - Oberhausen
+DEU-NW S1 +DIV_KaiE +DIV_EllW                                       #2022, traveled as RE5 Deutz - Langenfeld - Duisburg - Oberhausen
+DEU-NW S3 OberHauHbf +DIV_Als                                       #2022, traveled as RE5 Deutz - Langenfeld - Duisburg - Oberhausen
 #DEU-NW  Cologne Deutz                DEU-NW  Oberhausen Hbf        #2022, RE5 via Langenfeld, Duisburg
+DEU-NW S2 GelKirHbf +DIV_GelW                                       #2022, traveled as RB32 Oberhausen - Gelsenkirchen
 #DEU-NW  Oberhausen Hbf               DEU-NW  Gelsenkirchen Hbf     #2022, RB32
-#DEU-NW  Gelsenkirchen Hbf            DEU-NW  Dortmund Hbf          #2022, S2 via Herne, Dorstfeld
+DEU-NW S2 DortMundHbf GelKirHbf                                     #2022 via Herne, Dorstfeld
 #DEU-NW  Dortmund Hbf                 DEU-NW  Herford               #2022, RE6
 #DEU-NW  Herford                      DEU-NW  Rheine                #2022, RB61 via Osnabrück
 #DEU-NW  Rheine                       DEU-NW  Münster Hbf           #2022, RB65
 #DEU-NW  Münster Hbf                  DEU-NW  Coesfeld              #2022, RB83
+DEU-NW S9 +DIV_Gla EssHbf                                           #2022, traveled as RE14 Coesfeld - Dorsten - E-Borbeck - Essen Hbf
 #DEU-NW  Coesfeld                     DEU-NW  Essen Hbf             #2022, RE14 via Dorsten, E-Borbeck
+DEU-NW S1 EssHbf DuisBurgHbf                                        #2022, traveled as RE42 Essen - Krefeld
 #DEU-NW  Essen Hbf                    DEU-NW  Krefeld Hbf           #2022, RE42
+DEU-NW S11 +DIV_NeuN +DIV_Rog                                       #2022, traveled as RE7 Krefeld - Cologne Hbf - Solingen - Wuppertal Hbf
+DEU-NW S11 +DIV_Lon +DIV_Nip                                        #2022, traveled as RE7 Krefeld - Cologne Hbf - Solingen - Wuppertal Hbf
+DEU-NW S6 +DIV_Hoh KolnHanRing                                      #2022, traveled as RE7 Krefeld - Cologne Hbf - Solingen - Wuppertal Hbf
+DEU-NW S8 WupTalHbf HaanGru                                         #2022, traveled as RE7 Krefeld - Cologne Hbf - Solingen - Wuppertal Hbf
 #DEU-NW  Krefeld Hbf                  DEU-NW  Wuppertal Hbf         #2022, RE7 via Cologne Hbf, Solingen
+DEU-NW S8 WupTalHbf MonGladBachHbf                                  #2022, traveled as RE4 Wuppertal - Düsseldorf - Mönchengladbach - Aachen
+DEU-NW RE18 +DIV_RB20 AacHbf                                        #2022, traveled as RE4 Wuppertal - Düsseldorf - Mönchengladbach - Aachen
 #DEU-NW  Wuppertal Hbf                DEU-NW  Aachen Hbf            #2022, RE4 via Düsseldorf, Mönchengladbach
+DEU-NW ParDor AacHbf KolnHbf                                        #2022, traveled as RE1
 #DEU-NW  Aachen Hbf                   DEU-NW  Cologne Hbf           #2022, RE1
+DEU-NW S23 BonnHbf +DIV_End                                         #2022, traveled as RB48
 #DEU-NW  Cologne Hbf                  DEU-NW  Bonn-Bad Godesberg    #2022, RB48
 #DEU-NW  Bonn Hbf                     DEU-RP  Koblenz Hbf           #2022, RE5
 #DEU-RP  Koblenz Hbf                  DEU-HE  Wiesbaden Hbf         #2022, RB10 via Rüdesheim
@@ -418,9 +433,9 @@ DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
 DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
 #Düsseldorf
-#DEU-NW  D'dorf U73 D-Heinrich-Heine DEU-NW  Düsseldorf Uni-Ost                                #2022
-#DEU-NW  D'dorf U79 DU-Meiderich     DEU-NW  Düsseldorf Uni-Ost                                #2022
-#DEU-NW  D'dorf U76 D-Heinrich-Heine DEU-NW  Krefeld-Rhenstraße                                #2023
+DEU-NW U73 HeiHeiAll UniOstBotGar     #2022
+DEU-NW U76 RheStr HeiHeiAll           #2023
+DEU-NW U79 DuisBurgMeiBf UniOstBotGar #2022
 
 #Essen
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
@@ -594,12 +609,12 @@ POL 26War MetMlo MetBem               #2022, via Aspekt, Radiowa
 POL 33War MetMlo RonONZ               #2022, via Aspekt, Sady Zoliborskiego, Stawki
 
 #Whole M network as-at September 2023
-#ROU M1 Pantelimon Dristor2                        #2023
-#ROU M2 Berceni Pipera                             #2023, southern extension u/c
-#ROU M3 Preciziei AnghelSaligny                    #2023
-#ROU M4 Straulesti GaraNord2                       #2023
-#ROU M5 ValeaIalomitei Romancierilor               #2023
-#ROU M5 Raul Doamnei Eroilor2                      #2023, eastrn extension u/c
+ROU M1 Pan Dri2                       #2023
+ROU M2 Ber Pip                        #2023, southern extension u/c
+ROU M3 Pre AngSal                     #2023
+ROU M4 Str GaraNord2                  #2023
+ROU M5Ial ValIal Rom                  #2023
+ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
 #ROU 16Buc PiperaElectronica SoseauaStefanMare     #2023
 #ROU 21Buc BucurObor PiataSfGheorghe               #2023
 #ROU 40Buc LucretiaPatracanu ComplexComercialTitan #2023
