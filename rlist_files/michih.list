@@ -1,4 +1,4 @@
-# Date: 2023-10-21
+# Date: 2023-10-27
 # ----------------
 
 ######################
@@ -615,11 +615,11 @@ ROU M3 Pre AngSal                     #2023
 ROU M4 Str GaraNord2                  #2023
 ROU M5Ial ValIal Rom                  #2023
 ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
-#ROU 16Buc PiperaElectronica SoseauaStefanMare     #2023
-#ROU 21Buc BucurObor PiataSfGheorghe               #2023
-#ROU 40Buc LucretiaPatracanu ComplexComercialTitan #2023
-#ROU 41Buc BlvdMaresalAverescu PiataCrangasi       #2023
-#ROU 45Buc Mezes BlvdMaresalAverescu               #2023
+ROU 16Buc Ele LizSosSteMare           #2023
+ROU 21Buc BucObor PiaSfaGhe           #2023
+ROU 40Buc SosMorLucPat ComComTit      #2023
+ROU 41Buc BlvdMarAve PiaCra           #2023
+ROU 45Buc Mez BlvdMarAve              #2023
 
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
 SRB 5Beo KalDonGrad Ust         #2023
