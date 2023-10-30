@@ -23,6 +23,7 @@ CA I-8 7 11             # I-15 11
 
 # I-10
 CA I-10 19A 21          # I-5 I-710
+TX I-10 505 561         # Kerrville Wurzbach Rd
 
 # I-15
 MT I-15 63 USA/CAN      # MT41 USA/CAN
@@ -48,6 +49,12 @@ TX I-30 21C 45          # I-820 DT Dallas
 TX I-35E 437 440        # TX12 I-635
 TX I-35E 445 448        # GeoBushTpk Hebron Pkwy
 TX I-35E 428B 428C      # I-30 Commerce St
+TX I-35 158 173         # I-37 Olympia Pkwy
+TX I-35 151 155B        # Nueva St Southcross Blvd
+TX I-35 145A 150B       # TX Loop 13 I-410
+
+# I-37
+TX I-37 141A 142        # I-35 Commerce St
 
 # I-40
 TN I-40 443 TN/NC       # FooPkwyCos TN/NC
@@ -207,6 +214,9 @@ OR I-405 I-5(299B) I-5(302B)
 # I-405 (WA) - Clinched
 WA I-405 I-5(154) I-5(182)
 
+# I-410 (TX)
+TX I-410 I-35(145A) 27  # North half I-35 to I-35
+
 # I-464 (VA) - Clinched
 VA I-464 1 6B           # I-64 I-264
 
@@ -325,16 +335,12 @@ OH US27TrkCin US42/127 8thSt
 DC US29 11thSt_N RhoIslAve_E
 
 # US30
-OR US30 US101 I-84(44)
-OR US30 I-84(62) I-84(64)   # Hood River
-OR US30 SniSt I-84(87)      # The Dalles
-OR US30 I-84(207) I-84(213) # Pendleton
-OR US30 GekLn I-84(265)     # La Grande
-OR US30 BroSt I-84(306)     # Baker City
-OR US30 I-84(376) OR/ID     # Ontario
+OR US30 US101 OR/ID         # Oregon Clinched
 ID US30 OR/ID US95_S        # Fruitland
 ID US30 I-84BL_E BlueLakBlvd
 ID US30 I-15(47) ID34_S
+
+OR US30HisCol I-84(18) I-84(37)
 
 # US40
 MD US40 US15_N I-70(53)
@@ -438,6 +444,9 @@ PA US202 I-76 AllRd
 
 # US250
 OH US250 ButSt OH2
+
+# US281
+TX US281 I-410(21) StoOakPkwy
 
 # US301
 DE US301 MD/DE DE1
@@ -883,6 +892,9 @@ OR OR201 ID/OR NapRd
 # OR202
 OR OR202 US101 7thSt
 
+# OR203
+OR OR203 I-84(265) OR237_S
+
 # OR210
 OR OR210 NimAve OR141
 
@@ -909,6 +921,9 @@ OR OR228 I-5 US20
 # OR233
 OR OR233 OR154/155 OR18
 
+# OR237
+OR OR237 I-84 OR203_N
+
 # OR331 (Unsigned)
 OR OR331 I-84 CayRd
 
@@ -919,7 +934,7 @@ OR OR380 US26 ConRd
 OR OR429 LavaOdeRd OR58
 
 # Business Loops
-OR US30BypPor 122ndAve 181stAve
+OR US30BypPor 122ndAve US30_E
 OR US30BusHun I-84(345) I-84(353)
 OR US30BusOnt OR201 8thAve
 OR US30BusOnt OR201Bus US30_E
@@ -955,19 +970,52 @@ TN FooPkwyCos US321 I-40
 # TX Loop 12
 TX TXLp12 TXSpr348 UniBowRd
 
+# TX Loop 13
+TX TXLp13 I-35 PleRd
+
+# TX16
+TX TX16 I-410(13A) TX173_C
+
+# TX27
+TX TX27 RM783 TXLp534
+
 # TX121
 TX TX121BusLew TX121_S CorDr
 TX TX121 I-820(22) TX121BusLew_S
 
+# TX151
+TX TX151 TXLp1604 I-410/16
+
+# TX173
+TX TX173 TX16_C TXLp534
+
 # TX183
 TX TX183 I-820(22) TX121_N
 TX TX183 TX360 CarlRd
+
+# TX218 - Not actually clinched but have parts of each segment
+TX TX218 I-35 FM78
+
+# TX Loop 345
+TX TXLp345 I-410 I-10
 
 # TX Spur 348
 TX TXSpr348 TXLp12 I-35E
 
 # TX360
 TX TX360 I-20 TX183
+
+# TX Loop 368
+TX TXLp368 WalRd I-410
+
+# TX Spur 471 (Grissom Rd) - Clinched
+TX TXSpr471 LostLn TX16
+
+# TX Loop 534
+TX TXLp534 TX173 TX27
+
+# TX Loop 1604
+TX TXLp1604 TX151 TX218
 
 # George Bush Turnpike
 TX GeoBushTpk I-35E US75
