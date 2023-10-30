@@ -181,14 +181,9 @@ ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
 
 ####People Movers####
-ENG HPRT5A Ter5 ParA #Terminal 5 PodParking
-ENG HPRT5B Ter5 ParB #Terminal 5 PodParking
-ENG HPRTAB ParA ParB #Terminal 5 PodParking
-
-ENG HT5T A B #Heathrow Terminal5 Airside Transit
-ENG ATCC TowSt CloCooLand
-ENG LCC RoyDoc GrePen
-ENG NeeCha AlumBay Bea
+ENG HPRT5A Ter5 ParA
+ENG HPRT5B Ter5 ParB
+ENG HPRTAB ParA ParB
 
 ####Heritage Railways####
 ENG AltTowMon CarPark MainEnt
@@ -213,8 +208,8 @@ DEU-HE S3 +DIV_LouN DarmStaHbf #covering Frankfurt Hbf - Bensheim
 DEU-BW S6Man +SKIP_MannHeimFriFeldSud DEU-HE S6Ben BensHeim #covering Bensheim - Heidelberg Hbf
 DEU-BW S1Man MannHeimFriFeldSud HeiBergHbf #covering Bensheim - Heidelberg Hbf
 DEU-HE 2Dar Hbf Schloss
-DEU-BW 21Hei Volkshochschule Bretriebshof
-DEU-BW 26Hei Volkshochschule Bretriebshof
+DEU-BW 21Hei VolHochSch BetHof
+DEU-BW 26Hei AltHalBad CzeBru
 
 ###Italy###
 ITA-LOM S8 Lec CalOlg #covering Bergamo - Lecco
@@ -234,7 +229,9 @@ CA A UniSta DelMar
 ####SF Muni####
 ####Getty Museum Tram####
 ####Disney Monorail (not yet in browser)####
-####Vegas (not yet in browser)####
+####Vegas####
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
 
 ##Stations##
 ###Alighted/Embarked###
