@@ -1,4 +1,4 @@
-# Date: 2023-10-21
+# Date: 2023-10-28
 # ----------------
 
 ######################
@@ -615,11 +615,11 @@ ROU M3 Pre AngSal                     #2023
 ROU M4 Str GaraNord2                  #2023
 ROU M5Ial ValIal Rom                  #2023
 ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
-#ROU 16Buc PiperaElectronica SoseauaStefanMare     #2023
-#ROU 21Buc BucurObor PiataSfGheorghe               #2023
-#ROU 40Buc LucretiaPatracanu ComplexComercialTitan #2023
-#ROU 41Buc BlvdMaresalAverescu PiataCrangasi       #2023
-#ROU 45Buc Mezes BlvdMaresalAverescu               #2023
+ROU 16Buc Ele LizSosSteMare           #2023
+ROU 21Buc BucObor PiaSfaGhe           #2023
+ROU 40Buc SosMorLucPat ComComTit      #2023
+ROU 41Buc BlvdMarAve PiaCra           #2023
+ROU 45Buc Mez BlvdMarAve              #2023
 
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
 SRB 5Beo KalDonGrad Ust         #2023
@@ -629,14 +629,14 @@ SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
 
-#TUR     Istanbul M1A Merter - Yenikapi                                            #2022, via Kartaltepe
-#TUR     Istanbul M1B  Kirazli Bagcilar - Begcilar Meydan                          #2022
-#TUR     Istanbul M2  Haciosman - Yenikapi                                         #2022, via Levent, Sishane
-#TUR     Istanbul M2  Seyrantepe - Sanayi Mahallesi                                #2022 "Shuttle"
-#TUR     Istanbul M3  Kirazli Bagcilar - Mahmutbey                                 #2022
-#TUR     Istanbul M6  Levent - Bogazici Uni                                        #2022
-#TUR     Istanbul M7  Mahmutbey - Karadeniz                                        #2022
-#TUR     Istanbul F1  Taksim - Kabatas                                             #2022
-#TUR     Istanbul F3  Vadi Istanbul - Seyrantepe                                   #2022
-#TUR     Istanbul T1  Bagcilar Merkez - Kabatas                                    #2022, via Mehmet Atif, Merkezefendi, Findizade, Sultanahmet, Tophane
-#TUR     Istanbul T4  Karadeniz Mahallesi - Pazartekke                             #2022, via Rami, Yatan
+TUR M1A Mer Yenk                #2022, via Merter - Kartaltepe (Otogar) - Yenikapi
+TUR M1B Kir BagMey              #2022, Kirazli Bagcilar - Bagcilar Meydan
+TUR M2 Hac Yenk                 #2022, Haciosman - Levent - Sishane - Yenikapi
+TUR M2Sey San Sey               #2022, Seyrantepe - Sanayi Mahallesi
+TUR M3 Kir Mah                  #2022, Kirazli Bagcilar - Mahmutbey
+TUR M6 Lev BogUni               #2022, Levent - Bogazici Uni
+TUR M7 Mah KarMah               #2022, Mahmutbey - Karadeniz
+TUR F1Ist Tak Kab               #2022, Taksim - Kabatas
+TUR F3Ist VadiIst Sey           #2022, Vadi Istanbul - Seyrantepe
+TUR T1Ist Bag Kab               #2022, Bagcilar Merkez - Mehmet Atif - Merkezefendi - Findizade - Sultanahmet - Tophane - Kabatas
+TUR T4Ist KarMah Topk           #2022, Karadeniz Mahallesi - Rami - Yatan - Pazartekke(? must be Topkapi)
