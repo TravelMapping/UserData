@@ -1,3 +1,11 @@
+FL FL77 FL2_W FL/AL  #10312023 Travel to Auburn to pickup Robert for trip to Franklin TTAA meeting
+AL AL109 FL/AL US231 # included to US231 from previous trips to W Florida Electric
+AL AL605 AL52 AL605_N
+AL AL134 AL123_S AL173 #includes part of 134 from trips to Dothan from Level Plains
+AL AL10 AL27 US431
+AL AL285 US431 AL165
+AL US80 US280/431_S US29/186
+AL AL186 US29/80 I-85 
 CO CO9 US40 I-70(205)  #10262023 Travel back from White River to Denver Airport
 CO CO391 I-70 US6
 CO CO88 US6 US40/287
@@ -316,7 +324,7 @@ NV US93BusBou US93_N RaiPassRd
 NV US93BusBou NV173 US93_S
 NV NV172 I-11 End
 NV NV564 I-215/515 LkMeadNRA
-NV NV147 LkMeadNRA LosRd
+NV NV147 LkMeadNRA PecRd
 NV US95BusLsV NV574 US95_N
 NV NV613 CR215 US95
 NV NV595 US95 TroAve
@@ -594,7 +602,7 @@ FL FL373 FL61 FL371
 FL FL371 FL373 FL263
 FL FL263 FL371 I-10
 NV NV593 MarPkwy NV582  #04072023 Waiting for flight back home travel around Las Vegas
-NV NV582 NV593 8thSt
+NV NV582 NV593 NV159
 NV NV579 LasVegBlvd US95Bus
 NV US95BusLsV NV579 NV574
 NV NV574 US95Bus I-15
@@ -3185,6 +3193,59 @@ KY KY1304 US25E KY11_N #08102021 Travel TO BKD
 KY KY11 KY1304_N US421_S
 KY US421 KY11_S KY21_W
 KY KY21 US421_N I-75
+AL US82 AL51_N US29_N  #Travel to Lake Eufula to camp with Butler
+AL US82 AL110 US231_S
+AL US29 AL106 US84_E #Trip to Powersouth and Covington Electric
+AL US31 US72 I-65(354)  #Trip to Nashville swing through Athens for Chicken Tenders
+AL US31 AL67 ALT72_W  #Joe Wheeler Fieldwork and other trips
+AL US31 I-65(205) I-65(186)  #Trips to Clanton and Central Electric
+AL US31 AL59_N US90  #Trips to Gulf Shores and Orange Beach
+AL US43 US72/ALT72 AL24  #Trip to see H at Franklin Electric Coop
+AL US72 US31 US231/431_N #Trips to Ardmore, Sand Mountain Electric, N Alabama Electric, Scottsboro
+AL US72 I-565(21) AL35_E
+AL US80 AL14_W AL5  #Trips to Hunting Lodge and Mississippi clients from Montgomery
+AL US80 US11_N MS/AL
+MS US80 MS/AL I-59(169)
+AL US84 US431_S CR55_Ash  #Graceba Telephone Fieldwork
+AL US90 US98Spa_E I10/US98_W  #Trips to Pensacola Beach, Orange Beach and Gulf Shores
+AL US90 I10/US98_E AL/FL
+AL US231 US278 US431/53  #Trips to Arab Electric, New Hope Telephone, Ardmore Telephone
+AL US231 I-565(19A) US72_E
+AL US278 I-65(308) AL157 #Trips to Hooper and Blountsville Telephone
+AL US278 US231 US431_N
+AL US331 US84_W AL55_N  #Trips from Montgomery to Destin
+AL US411 AL77 AL68_W  #Trips to Cherokee Electric and Ragland Telephone
+AL US431 AL147 CR278  #Trips to Tallapoosa River Electric Coop
+AL AL158 AL213_N NewRd #Singing River Electric FW and Meetings
+AL US80BusSel US80/41 US80/14 #Trips to Selma for various meetings
+AL US98TrkMob US98_E I-165(2) #Trips to Mobile for meetings and kids stuff
+AL US98TrkMob I-165_End US98Bro_W
+AL NatTraPkwy MS/AL AL/TN #Travel in 2015 on Natchez Parkway to Tennessee on return trips
+AL AL5 AL28 US43 #Pine Belt Audit to Thomasville also CWEMC
+AL AL9 US231 AL49 #Trips to Lake Martin and Cheaha Mountain
+AL AL9 AL68_E AL35 #Cherokee Electric to Rome
+AL AL10 AL95 AL/GA  #Level Plains to Albany GA for work
+GA GA37 AL/GA GA55/62
+AL AL10 US431 AL51  # Visit Blue Springs State Park
+AL AL10 US29/231_N US29/331_S #Luverne Bank Audit
+AL AL10 US331_N I-65 #Pioneer Electric and Trip to CA
+AL AL10 AL28 MS/AL  #Trip to CA
+MS MS19 MS/AL I-59(154)
+AL AL14 US80_E US82_W #Prattville House to Selma also to Auburn
+AL AL14 I-65(181) AL229_S
+AL AL14 AL49 AL147
+AL AL17 I-20/59 US80  #Travel around hunting lodge
+AL AL21 US231/280 US278 #Montgomery to Jacksonville for band camp
+AL AL21 US80_W AL28 #Montgomery to Wilcox County for Camden Bank Audit
+AL AL28 AL10_E AL21 
+AL AL22 US80/14 AL5 #Pine Belt Audit from Montgomery
+AL AL22 I-65 US280_W  #Lake Martin Camping Trips
+AL AL22 US280/63 AL49_S
+AL AL22TrkSel AL22_W AL14_W  #Pine Belt Audit
+AL AL25 US31_N US231/280 #Ragland Audit
+AL AL25 US31_S AL119  #Montcello Field Trip
+AL AL27 US231/249 AL173  #Fort Rucker Trip
+
     
 
  

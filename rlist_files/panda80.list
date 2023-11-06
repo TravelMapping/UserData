@@ -112,6 +112,11 @@ ROU 23Buc FaurPor4 +DIV_Seb
 ROU 24Buc RadRom_1 BlvdGloBlvdBucNoi
 ROU 25Buc DepMil CFRPro
 ROU 27Buc PiaUni ComComTit
+ROU 32Buc PiaUni DepAle
+ROU 36Buc PlaIndPip Rep
+ROU 40Buc PiaSfaVin ComComTit
+ROU 47Buc Ghe PiaUni
+ROU 55Buc PiaSfaVin Pan
 ESP-CT R5 Espanya MonistrolMontserrat
 ESP-CT R13 EstacioFranca Sitges
 ESP-CT L1 LaSagrera PlacaSants
