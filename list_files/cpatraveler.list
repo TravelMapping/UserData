@@ -3230,7 +3230,7 @@ AL AL10 US431 AL51  # Visit Blue Springs State Park
 AL AL10 US29/231_N US29/331_S #Luverne Bank Audit
 AL AL10 US331_N I-65 #Pioneer Electric and Trip to CA
 AL AL10 AL28 MS/AL  #Trip to CA
-MS MS19 MS/AL I-59(154)
+MS MS19 AL/MS I-59(154)
 AL AL14 US80_E US82_W #Prattville House to Selma also to Auburn
 AL AL14 I-65(181) AL229_S
 AL AL14 AL49 AL147
@@ -3245,6 +3245,90 @@ AL AL22TrkSel AL22_W AL14_W  #Pine Belt Audit
 AL AL25 US31_N US231/280 #Ragland Audit
 AL AL25 US31_S AL119  #Montcello Field Trip
 AL AL27 US231/249 AL173  #Fort Rucker Trip
+AL AL36 I-65 US231  #New Hope Telephone Meetings
+AL AL40 AL35 CR18  #Guntersville State Park
+AL AL41 US29/31 I-65 #Visit LEW
+AL AL41 AL265 US80_E  #Travel to CWEMC from Selma
+AL AL48 US431_N AL/GA #Travel to Bowden for suits
+GA GA5 AL/GA GA100_N 
+GA GA100 GA5_N GA166
+AL AL49 AL281 AL9  #Travel from Cheaha to Montgomery
+AL AL49 AL14 I-85
+AL AL50 AL229 AL49 #Lake Martin Trip
+AL AL56 US43 AL17_S  #Millry Fieldwork
+AL AL59 US90_E AL182  #Gulf Shore Orange Beach Trips
+AL AL59 US31_S US90_W
+AL AL59 I-65 US31_N
+AL AL63 US280/22 AL14 #Lake Martin Trips
+AL AL67 AL24 US31 #Joe Wheeler FW
+AL AL67 I-65 AL69 #Arab Electric Trips
+AL AL69 AL177 US43  #CWEMC Trips
+AL AL69 US43_N US11_N  #Gulf Shores Trip from Tuscaloosa
+AL AL69 US43/82 I-65(299)  #Return from Nashville to Tuscaloosa
+AL AL69 I-65(304) US31_S  #Return trips from N Alabama Electric Coops
+AL AL69 US278_E US431/79
+AL AL75 I-59 CR27  #Sand Mountain Trips inc visit Mitchells
+AL AL77 US431_N AL21_S #Ragland FW Trips
+AL AL77 BatSt AL21_N
+AL AL79 I-20/59 US231_S  # Audit trips to Northern coops and Blountsville Hooper
+AL AL79 US231_N US431_S
+AL AL79 US72 US431_N
+AL AL81 US29/80 AL14 #Lake Martin also Tuskegee National Historic Sites
+AL AL85 US84/134 AL167  #PCB Trips from Ft Rucker
+AL AL94 US331 US231 #Mon Cre Trips
+AL AL104 US98 AL59  #Gulf Shore Point Clear Trip
+AL AL111 AL143 AL212  #Trips around Montgomery Prattville Wetumpka
+AL AL119 US280 US31_N  #Travel to Birmingham
+AL AL120 AL49 AL14 #Lake Martin Travel
+AL AL126 AL126_E TecDr  #Trying to get Montgomery Tech Dr to record
+AL AL128 AL63 HodDr #Wind Creek State Park
+AL AL134 AL88_W AL87_N  #Enterprise Travel to Mobile
+AL AL134 AL87_S US84/331
+AL AL138 I-85 US80 #Montgomery to Union Springs
+AL AL140 US80 AL14  #Travel back to Prattville from Selma area
+AL AL143 I-65 AL14_W  #Travel Millbrook and Clanton to look around from Prattville
+AL AL143 AL14_E US31
+AL AL144 US231 US431  #Ragland Audit Trips
+AL AL145 US31/22 CR61
+AL AL149 LakPkwy US280  #Trips to Birmingham for shopping
+AL AL150 US11 US31
+AL AL151 AL79 AL75
+AL AL155 US31 AL25_N  #Trinity field trip
+AL AL155 AL25_S AL119
+AL AL157 I-65 US72ALT_W  #Joe Wheeler Trips
+AL AL161 AL180 AL182 #Gulf Shore Orange Beach Trips
+AL AL163 I-10 AL193  #Mobile Trips
+AL AL164 AL10 AL28 #Camden trips
+AL AL170 US231 AL63 #Lake Martin Trips 
+AL AL176 AL68 AL35 #Little River Canyon Trip
+AL AL177 US43_N US43_S  #CWEMC Trip
+AL AL180 FortMor AL161  #Gulf Shore Trips
+AL AL181 US31 US98
+AL AL182 DolDr AL/FL
+AL AL185 I-65(130) AL10  #Pioneer FW
+AL AL193 I-10 LeMoyDr #Dauphin Island Trip
+AL AL212 AL14 MainSt  #Wetumpka Trip
+AL AL225 US31 I-65 #Gulf Shore Trips
+AL AL227 AubCarrSceDr US431/79  #Guntersville State Park
+AL AL229 AL63 AL14_W  #Lake Martin Trips
+AL AL245 AL185 AL10 #Pioneer Electric FW
+AL AL251 I-65 US31 AL53 #Ardmore Telephone FW
+AL AL259 AL9 AL22 #Lake Martin
+AL AL269 AveV AdaEnsRd #Mrs Trimm House
+AL AL279 AL79 US72_S #SMEC FW
+AL AL279 US72/35 US72_N
+AL AL281 US78 AdaGapRd #Hiking Trip in Cheaha Forest
+AL AL382 AL219 US82 #Tuscaloosa to Enterprise trips
+MS US98 MS/AL OldHwy63  #Singing River Meetings
+
+  
+
+
+
+
+
+
+ 
 
     
 
