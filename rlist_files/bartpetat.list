@@ -191,6 +191,7 @@ DEU-NW S11 KolnLongerich KolnMulheim
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
+DEU-NW U71 Uhlandstrasse SchlossBenrath
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
@@ -282,15 +283,20 @@ FRA-IDF T2 Bri IssyValSei
 
 
 # CZECH REPUBLIC
+#Metro
 CZE A NadVel NamMiru
 CZE B Jin Pal
 CZE C NadHol Vys
-CZE 3Brn Pristaviste Ceska
-CZE S1 PrahaMasarykovoNadrazi Kolin
-CZE 20Pra DivokaSarka Malostranska
-CZE S20 Kolin KutnaHoraHlavniNadrazi
-CZE 22Pra Pohorelec MalostranskeNamesti
 
+#Tram
+CZE 3Brn Pristaviste Ceska
+CZE 6Pra Pal NadHol
+CZE 20Pra DivSar MalNam
+CZE 22Pra Poh Mals
+
+#Train
+CZE S1 PrahaMasarykovoNadrazi Kolin
+CZE S20 Kolin KutnaHoraHlavniNadrazi
 
 
 # POLAND
