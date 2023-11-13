@@ -1,3 +1,30 @@
+GA GA39 GA27_E US27 #11112023 Traveling to SCTC through Atlanta stay in Ringgold
+GA GA39SprOma GA39 AL/GA
+AL AL208 AL/GA AL165
+GA US27 I-185(1) US280_W
+GA GA85 US27 US27/27Alt
+GA US19 UniAve I-285(25)  #Got off to stop by IKEA inc previous Atlanta visits
+GA US41 I-75(252A) US19_N
+GA US41 I-75(256) GA92_S
+GA US41 GA293 I-75(318)
+GA GA2 US27_N US41/76_N #includes previous travel to battlefield
+GA US27 GA2_E GA/TN
+TN US27 GA/TN I-24(180B)
+GA US41 GA2_W GA/TN
+TN US41 GA/TN I-75
+TN US11 TN153 I-75(7)
+TN US11 I-75(11) US11BusCle_N
+TN US64 US11_N US11Bus_N
+TN US64 TN74_S US74_W
+TN US74 I-75(20) US64_W
+TN TN312 WhiOakRd US11
+TN US11 TN308 TN324
+TN US321 I-40(364) US411
+TN US411 US321 I-40
+TN US441 MooAve US411_S
+TN US70 US25/25E TN66
+TN TN92 US25W/70_W I-40
+TN US411TrkMar US321_N US411_N
 FL FL77 FL2_W FL/AL  #10312023 Travel to Auburn to pickup Robert for trip to Franklin TTAA meeting
 AL AL109 FL/AL US231 # included to US231 from previous trips to W Florida Electric
 AL AL605 AL52 AL605_N
@@ -3312,7 +3339,7 @@ AL AL225 US31 I-65 #Gulf Shore Trips
 AL AL227 AubCarrSceDr US431/79  #Guntersville State Park
 AL AL229 AL63 AL14_W  #Lake Martin Trips
 AL AL245 AL185 AL10 #Pioneer Electric FW
-AL AL251 I-65 US31 AL53 #Ardmore Telephone FW
+AL AL251 US31 AL53 #Ardmore Telephone FW
 AL AL259 AL9 AL22 #Lake Martin
 AL AL269 AveV AdaEnsRd #Mrs Trimm House
 AL AL279 AL79 US72_S #SMEC FW
