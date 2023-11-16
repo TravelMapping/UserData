@@ -191,7 +191,7 @@ DEU-NW S11 KolnLongerich KolnMulheim
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
-DEU-NW U71 Uhlandstrasse SchlossBenrath
+DEU-NW U71 UhLandStr SchBen
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
@@ -306,14 +306,17 @@ CZE S20 Kolin KutnaHoraHlavniNadrazi
 # SLOVENIA
 
 
-# PORTUGAL
-
-
 # SPAIN
 ESP-VC 3Val Col Aer
 ESP-VC 7Val Jes Ala
 
 ESP-CT R5 Esp MonMon
+
+ESP-AN C1Mal MalCenAla Aer
+ESP-AN L1 BlasInf PlaCuba
+
+
+# PORTUGAL
 
 
 # ITALY
@@ -377,8 +380,8 @@ HKG TMLn WuKaiSha TuenMun
 HKG TWLn Cen TsuWan
 
 #HK Others
-HKG NPCC TC NP
-HKG OPCC Wat Sum
+#HKG NPCC TC NP
+#HKG OPCC Wat Sum
 HKG PT Peak CenTer
 
 #CHINA
