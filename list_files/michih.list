@@ -1,4 +1,4 @@
-# Date: 2023-11-14
+# Date: 2023-11-18
 # ----------------
 
 
@@ -7209,9 +7209,10 @@ MKD A3Bit NikTes_N MKD/GRC
 MKD A3Sht R1312 A4_S
 MKD A3Sht R2342 MKD/BGR
 MKD A4 RKS/MKD 13
-#MKD R1205 A4 A3
-#MKD R1312 A1 A3
-#MKD R1204 A4_SvetiNikole_S A3
+MKD R1204 A4_SveS A3_E
+MKD R1312 A3 A1(17)
+MKD R2234 GorPet_E A2
+#MKD "Old A3" Stip Kocani
 
 
 # MALTA
