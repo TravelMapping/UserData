@@ -1157,3 +1157,22 @@ NLD N196 N201_W FokWeg
 NLD N201 HeuGoeLaan_E N196_W
 NLD N201 TauAve A4
 NLD N280 A73 NLD/DEU
+
+# ###################################################
+# #   UNITED KINGDOM                                #
+# ###################################################
+
+ENG M3 8 2
+ENG M4 4b 1
+ENG M25 12 15
+
+ENG A4 M4(2) A3220
+ENG A219 A4/A306 A3218 
+ENG A303 M3 A360
+ENG A304 A3219 A308/A3220
+ENG A306 A4 A219/A315
+ENG A308Ful A4 A3220_N
+ENG A315 A219/A306
+ENG A3218 A219 A3219
+ENG A3219 A304 A3218
+ENG A360 A303 B3086_E
