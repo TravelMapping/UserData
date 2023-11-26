@@ -1,4 +1,4 @@
-# Date: 2023-11-25
+# Date: 2023-11-26
 # ----------------
 
 ######################
@@ -489,8 +489,9 @@ DEU-SN 2Lei BayBf NaunHofStr                     #2020, Bay Bhf - Naunhofer Stra
 DEU-SN 3Lei Hbf TauBurRuhe                       #2023
 DEU-SN 3eLei PorAllBfHeiBli SomFeld              #2023
 DEU-SN 4Lei GeoScLinThaStr StoHolzHauStr         #2020, G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße
-DEU-SN 7Lei AugPla SomFeld                       #2023
+DEU-SN 7Lei BohEhrBergBergHauStr SomFeld         #2023
 DEU-SN 8Lei GruNord AngBruStrBf                  #2020, Grünau-Nord - Angerbrücke
+DEU-SN 8Lei LinMar AugPla                        #2023
 DEU-SN 9Lei TheTauStr NeuRatHaus                 #2020, Thekla - Hbf-West - Neues Rathaus
 DEU-SN 9Lei BayBf ConWitKre                      #2020, Bay Bhf - Wiedebachplatz; partially line 10 now
 DEU-SN 10Lei ConWitKre WieBachPla                #2020, actually traveled as line 9 Bay Bhf - Wiedebachplatz
