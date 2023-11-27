@@ -1,4 +1,4 @@
-# Date: 2023-10-28
+# Date: 2023-11-26
 # ----------------
 
 ######################
@@ -486,8 +486,12 @@ DEU-SN 1Lei StaBeinPla MocVolStr                 #2020
 #DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #actual 2020 routing, partially line 9 now
 DEU-SN 2Lei GruSud SBfWilLeuPla                  #2020, Grünau-Nord - W-L-Platz
 DEU-SN 2Lei BayBf NaunHofStr                     #2020, Bay Bhf - Naunhofer Straße
+DEU-SN 3Lei Hbf TauBurRuhe                       #2023
+DEU-SN 3eLei PorAllBfHeiBli SomFeld              #2023
 DEU-SN 4Lei GeoScLinThaStr StoHolzHauStr         #2020, G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße
+DEU-SN 7Lei BohEhrBergBergHauStr SomFeld         #2023
 DEU-SN 8Lei GruNord AngBruStrBf                  #2020, Grünau-Nord - Angerbrücke
+DEU-SN 8Lei LinMar AugPla                        #2023
 DEU-SN 9Lei TheTauStr NeuRatHaus                 #2020, Thekla - Hbf-West - Neues Rathaus
 DEU-SN 9Lei BayBf ConWitKre                      #2020, Bay Bhf - Wiedebachplatz; partially line 10 now
 DEU-SN 10Lei ConWitKre WieBachPla                #2020, actually traveled as line 9 Bay Bhf - Wiedebachplatz

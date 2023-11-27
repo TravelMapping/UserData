@@ -97,6 +97,7 @@ IL RedLn Sox35th How
 IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
+MN HubTram Ter1 HubBui
 
 #MO St Louis not yet drafted
 
@@ -123,7 +124,9 @@ CO LLn 25thWel 18thSto
 
 #WA Seattle not yet drafted
 
-#CA San Francisco not yet drafted
+CA BARTRed Col CivCen
+CA MuniN 2nd Pow
+CA AirTrnBlue RenCarCen Loop
 
 CA B NHol UniSta
 CA D WilWes UniSta
