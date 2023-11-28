@@ -147,6 +147,7 @@ DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
 DEU-BE U6 NatMus TemHof
 
+DEU-BE M1 Milastrasse SHacMar
 DEU-BE M8 SUHbf_2 BruStrInvStr
 DEU-BE M10 SUHbf_2 UEbeWalStr
 
@@ -254,6 +255,11 @@ ENG NorLnBar KXSP LonBri
 
 
 # NORWAY
+NOR FLY1 NatThe OsloLuf
+NOR L1 NatThe Nyl
+NOR 1Osl Frog Jer
+NOR 11Osl Jer NyBrua
+NOR 12Osl FroPla AkerBry
 
 
 # FRANCE
@@ -264,6 +270,7 @@ ENG NorLnBar KXSP LonBri
 #Haut de France
 FRA-HDF ChaTnl GBR/FRA CalEurTer
 FRA-HDF LonAms GBR/FRA FRA/BEL
+FRA-HDF ParAms IDF/HDF +DIV_Lil2
 
 #IDF
 FRA-IDF A RueMal ChaHal
