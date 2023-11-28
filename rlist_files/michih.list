@@ -1,4 +1,4 @@
-# Date: 2023-11-26
+# Date: 2023-11-27
 # ----------------
 
 ######################
@@ -186,6 +186,9 @@ DNK B KobHov HojeTaa                  #2020, actually traveled from Roskilde wit
 ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
+
+DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
+#DEU-SN RB22 Leipzig Knauthain LeiPlagWitz     #2023
 
 
 ######################
@@ -482,11 +485,12 @@ DEU-SN 13Dre Mic BauStrRotBurStr             #2020; Mickten (E) - Bischofsplatz 
 DEU-SN 13Dre SacAll LenPla                   #2023
 
 DEU-SN 1Lei Lau WestPla                          #2020
+DEU-SN 1Lei MarStr Hbf                           #2023
 DEU-SN 1Lei StaBeinPla MocVolStr                 #2020
 #DEU-SN Leipzig STR 1 Lausen - Adler - Westplatz - W-L-Platz - Hbf - Mockauer Str. - Stannebeinplatz                       #actual 2020 routing, partially line 9 now
 DEU-SN 2Lei GruSud SBfWilLeuPla                  #2020, Grünau-Nord - W-L-Platz
 DEU-SN 2Lei BayBf NaunHofStr                     #2020, Bay Bhf - Naunhofer Straße
-DEU-SN 3Lei Hbf TauBurRuhe                       #2023
+DEU-SN 3Lei KnaKleeBerg TauBurRuhe               #2023
 DEU-SN 3eLei PorAllBfHeiBli SomFeld              #2023
 DEU-SN 4Lei GeoScLinThaStr StoHolzHauStr         #2020, G-S/Lindenthaler Straße - Waldplatz - Hbf - Augustusplatz - Reudnitz - Stötteritz, Holzhäuser Straße
 DEU-SN 7Lei BohEhrBergBergHauStr SomFeld         #2023
@@ -498,6 +502,7 @@ DEU-SN 10Lei ConWitKre WieBachPla                #2020, actually traveled as lin
 DEU-SN 10Lei Wah Los                             #2020, Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Lößnig
 DEU-SN 11Lei SchRatHausPla MarkKleeBergOstSchPla #2020, Schkeuditz - Wahren - Chauseehaus - Hbf - W-L-Platz - Connewitzer Kreuz - Markkleeberg-Ost
 DEU-SN 12Lei GohNord +DIV_NordPla                #2020, actually traveled as temporary line 32 Gohlis-Nord - Nordplatz - Michaelisstraße(!!!) - Hbf
+DEU-SN 14Lei SBfPlagWitz MarStr                  #2023, actually traveled as temporary line 34
 DEU-SN 15Lei Mil MeusDorf                        #2020, Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf
 DEU-SN 16Lei MesGel Los                          #2020, Messegelände - Hbf - Lößnig
 
