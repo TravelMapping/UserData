@@ -473,6 +473,19 @@ ESP-CT C55 A2 C26
 # Community of Madrid Red Principal
 ESP-MD M14 2 3
 
+# MEXICO
+
+# Mexico Federal Expressways
+MEX-QROO MEX180D YUC/QROO MEX307
+MEX-YUC MEX180D YUC79 YUC/QROO
+
+# Mexico Carreteras Federales
+MEX-QROO MEX180 AveTul FerIslaMuj
+MEX-QROO MEX307 PueMor AveLopPor
+MEX-QROO MEX307Mor MEX307 PueMor
+MEX-YUC MEX180 YUC79 PerVal_W
+MEX-YUC MEX295 PerVal_N MEX180D
+
 # UNITED STATES
 
 # Interstates
