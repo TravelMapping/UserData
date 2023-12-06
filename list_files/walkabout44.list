@@ -1,9 +1,6 @@
-# 09/27/2023
-# v52
-# Added redesignated section of AZ96, not completed
-# Added redefined section of I-471 in Ohio, already completed
-# Completed I-105 in California
-# Completed I-780 in California
+# 11/30/2023
+# v53
+# Completed new section of AZ96
 
 
 # Arizona Interstate Highways
@@ -91,7 +88,7 @@ AZ AZ95 I-10BL/95 I-40
 AZ AZ95Bul CA/AZ AZ/NV
 AZ AZ95SPaD AZ95 TakPoiRd
 AZ AZ95SPar CA/AZ AZ95
-AZ AZ96 BruMineRd BagRd
+AZ AZ96 BruMineRd End
 AZ AZ97 US93 AZ96
 AZ AZ98 US89 US160
 AZ AZ99 End BIA15
