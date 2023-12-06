@@ -15,14 +15,15 @@ AZ I-8 CA/AZ 7
 
 #California I-5
 CA I-5 734 553
-CA I-5 525B 14A
+CA I-5 525B 458B
+CA I-5 446 14A
 
 #California I-8
 CA I-8 2A SunCliBlvd
 CA I-8 170 CA/AZ
 
 #California I-10
-CA I-10 1 168
+CA I-10 1 131
 
 #California I-15
 CA I-15 19 115
@@ -32,7 +33,7 @@ CA I-15 179 246
 CA I-80 1A CA/NV
 
 #California I-105
-CA I-105 1A 18
+CA I-105 1A 7B
 
 #California I-110
 CA I-110 GafSt 3A
@@ -57,7 +58,7 @@ CA I-305 1A 6
 CA I-380 5A 7
 
 #California I-405
-CA I-405 I-5(94A) I-5(158)
+CA I-405 7 I-5(158)
 
 #California I-505
 CA I-505 1A I-5
@@ -65,24 +66,15 @@ CA I-505 1A I-5
 #California I-580
 CA I-580 1A I-5
 
-#California I-605
-CA I-605 27 19
-CA I-605 11 1A
-
 #California I-680
 CA I-680 30 71
 
 #California I-710
-CA I-710 1 18A
-
-#California I-805
-CA I-805 I-5(31) 17B
+CA I-710 1B 9
 
 #California I-880
-CA I-880 I-280 46B
-
-#California I-980
-CA I-980 I-880 2B
+CA I-880 7 I-280
+CA I-880 17 46B
 
 #DC I-395
 DC I-395 VA/DC 4
@@ -276,56 +268,38 @@ AL US82 I-59(73) MS/AL
 #Arizona US-95
 AZ US95 I-8BL ForRd
 
-#California US-6 Santa Clarita Historic Section
-CA US6HisSan US99His_N GolValRd
-
-#California US-40 Sacramento Historic Section
-CA US40HisSac JefBlvd ISt
-
 #California US-50
 CA US50 I-80 CA/NV
 
-#California US-66 Azusa Historic Section
-CA US66HisAzu HunDr_W MonVisAve
-
 #California US-66 Hollywood Historic Section
 CA US66HisHol WilBlvd SanVinBlvd
-CA US66HisHol SunBlvd_W DalySt
+CA US66HisHol SunBlvd_W FigSt
+CA US66HisHol SprSt DalySt
 
-#California US-66 South Pasadena Historic Section
-CA US66HisSpa MonRd CA110
-
-#California US-99 LA Historic Section
-CA US99HisLos PasAve Ave26
-
-#California US-101:
+#California US-101
 CA US101 WilCrkRd CA60
 
-#California US-101 Bus Arroyo Grande Section:
+#California US-101 Bus Arroyo Grande Section
 CA US101BusArr CA227_N US101_S
 
-#California US-101 Bus Salinas Section:
+#California US-101 Bus Salinas Section
 CA US101BusSal US101/183 US101_S
 
-#California US-101 Bus Paso Robles Section:
+#California US-101 Bus Paso Robles Section
 CA US101BusPas CRG14 US101_S
 
-#California US-101 Historic San Diego Section:
-CA US101HisSan I-5(54C) NauSt
-CA US101HisSan SeaWorDr I-5(11A)
-
-#California US-395 South Section:
+#California US-395 South Section
 CA US395 CA108 CA168_W
 CA US395 GarRd SeaStaRd
 
-#DC US-1:
+#DC US-1
 DC US1 US50_W VA/DC
 
-#DC US-50:
+#DC US-50
 DC US50 VA/DC ConAve
 DC US50 DC/MD US1Alt_N
 
-#Georgia US-23:
+#Georgia US-23
 GA US23 I-985(8) I-985(4)
 
 #Georgia US-29
@@ -387,13 +361,13 @@ TN US79 TN374_E I-24
 #(California State Highways)
 
 #CA-1:
-CA CA1 LauSt CA128
+CA CA1 LitLakeRd CA128
 CA CA1 OldStaHwy ValRd
 CA CA1 226 62B(101)
 CA CA1 109 1(10)
-CA CA1 VenBlvd PalVerBlvd
+CA CA1 I-105 LAX
 CA CA1 CreBlvd I-110
-CA CA1 CA22 DohParkRd
+CA CA1 SealBeaBlvd DohParkRd
 
 #CA-1 Bus Cayucos:
 CA CA1BusCay CA1_N CA1(284)
@@ -408,7 +382,9 @@ CA CA1BusMon CA1(401A) CA1(399B)
 CA CA1BusSea CA1(401B) CA1(404)
 
 #CA-2:
-CA CA2 I-405 PacCreTr
+CA CA2 WilBlvd SanVinBlvd
+CA CA2 US101(7) US101(4B)
+CA CA2 13A PacCreTr
 
 #CA-3:
 CA CA3 CA299_E CA299_W
@@ -416,7 +392,6 @@ CA CA3 CA299_E CA299_W
 #CA-4:
 CA CA4 30 12B
 CA CA4 I-5(471) 69
-CA4 CRJ4 DisBayBlvd
 
 #CA-9:
 CA CA9 SarAve CA1
@@ -430,11 +405,9 @@ CA CA12 CA84 CA160
 CA CA12 CA88_W CA88_E
 
 #CA-13: 
-CA CA13 I-80/580 1A
+CA CA13 ClaAve 1A
 
-#CA-14: 
-CA CA14 I-5 42
-CA CA14 CA58 RedRanRd
+#CA-14: CA58 RedRanRd
 
 #CA-16 Sierra Foothills Section:
 CA CA16Wil CA124 CA49
@@ -446,11 +419,10 @@ CA CA17 26 1A
 CA CA17BusSco ScoValDr CA17(3)
 
 #CA-18:
-CA CA18 CA210 StaCut
+CA CA18 CA210 KelPeakRd
 
 #CA-19:
 CA CA19 WhiBlvd WasBlvd
-CA CA19 BelBlvd I-105
 
 #CA-20:
 CA CA20 US101(568) CA29
@@ -460,7 +432,7 @@ CA CA20 CA99 I-80
 CA CA22 I-405(23) 14C
 
 #CA-23:
-CA CA23 US101(43) LecRd
+CA CA23 US101(40) US101(43)
 
 #CA-24:
 CA CA24 2 15
@@ -477,7 +449,6 @@ CA CA29 CA175 CA20
 
 #CA-33:
 CA CA33 CA152_W CA152_E
-CA CA33 LocValRd CA166_W
 
 #CA-35:
 CA CA35 CA17 CA1
@@ -488,9 +459,6 @@ CA CA36 I-5BL_S CA89_N
 #CA-37:
 CA CA37 US101 21
 
-#CA-38:
-CA CA38 CA18 StaCut
-
 #CA-39 Azusa Section:
 CA CA39Azu FooBlvd End
 
@@ -499,17 +467,11 @@ CA CA41 CA1 US101
 CA CA41 CA46_W CA46_E
 CA CA41 I-5 QuaAve
 
-#CA-43:
-CA CA43 HouAve LosAngAve
-
 #CA-44:
 CA CA44 CA89_S CA89_N
 
 #CA-46:
 CA CA46 US101(228) I-5
-
-#CA-47:
-CA CA47 1A I-710
 
 #CA-49:
 CA CA49 CA20_E CA20_W
@@ -525,31 +487,18 @@ CA CA55 1 11A
 #CA-56:
 CA CA56 1A 9
 
-#CA-57:
-CA CA57 16 25B
-
 #CA-58:
 CA CA58 US101 ElCamReal
 CA CA58 CA99(24) I-15
 
-#CA-58 Westside Section:
-CA CA58Wes I-5(253) StoHwy_E
-
 #CA-59:
 CA CA59 CA99(187B) CA99(188)
 
-#CA-60:
-CA CA60 I-10(16B) I-10(93)
-
 #CA-61: Oakland Airport Section
-CA CA61 WebSt 8thSt
-CA CA61 HighSt CA185
+CA CA61 HarBayPkwy I-880(34)
 
 #CA-61 Alameda Section
 CA CA61Pos AtlAve 7thSt
-
-#CA-62:
-CA CA62 I-10 SunRd
 
 #CA-65:
 CA CA65 CA137 43
@@ -557,23 +506,14 @@ CA CA65 CA137 43
 #CA-66:
 CA CA66 CA210 MonVisAve
 
-#CA-67:
-CA CA67 CRS4 ArcMooRd
-
 #CA-68:
 CA CA68 SinAve US101
 
 #CA-70:
-CA CA70 CA99 RocCamp
+CA CA70 CA99 RockCrkCamp
 
 #CA70 Bus Oroville:
 CA CA70BusOro CA70(46) CA162_E
-
-#CA-71:
-CA CA71 CA57 CA91
-
-#CA-72:
-CA CA72 I-605 HadSt
 
 #CA-73:
 CA CA73 18B 11
@@ -581,14 +521,12 @@ CA CA73 18B 11
 #CA-75:
 CA CA75 TarRd 13B
 
-#CA-78:
-CA CA78 1A 17A
-
 #CA-79:
 CA CA79 I-15(61) I-15(58)
 
 #CA-82:
-CA CA82 I-280 WolRd
+CA CA82 I-280 MarSt
+CA CA82 CheAve WolRd
 CA CA82 CruzBlvd I-880
 
 #CA-83:
@@ -625,30 +563,22 @@ CA CA90 CA1 2
 #CA-90 Yorba Linda Section:
 CA CA90Yor KraBlvd CA39
 
-#CA-91:
-CA CA91 6 24
-CA CA91 45 51
-
 #CA-92:
 CA CA92 CA1 End
-
-#CA-94:
-CA CA94 3 CA188
 
 #CA-99:
 CA CA99 CA20 CA113
 CA CA99 319 6(50)
 CA CA99 254A 255
-CA CA99 242 I-5(221)
+CA CA99 242 21
 
-#CA-107:
-CA CA107 RedBeaBlvd CA1
+CA CA99 3 I-5(221)
 
 #CA-108:
 CA CA108 CA120_W US395
 
 #CA-110:
-CA CA110 21 31B
+CA CA110 21 26
 
 #CA-111:
 CA CA111pal PalmSprLim CA111Bus_N
@@ -661,8 +591,7 @@ CA CA113 I-80(66A) I-80(70)
 CA CA113 I-5(538) CA99
 
 #CA-116:
-CA CA116 RivRd_E CA12
-CA CA116 LakRd_S ArnDr_N
+CA CA116 RivRd LakHwy_S
 
 #CA-120 Central Section:
 CA CA120 1 YosNP
@@ -675,13 +604,10 @@ CA CA121 NapaRd TraSt
 CA CA121 CA12_W CA37
 
 #CA-123:
-CA CA123 I-580(19A) UniAve
+CA CA123 UniAve I-580
 
 #CA-124:
 CA CA124 CA88 CA16
-
-#CA-126:
-CA CA126 1A 40
 
 #CA-127:
 CA CA127 CA178_W I-15
@@ -701,16 +627,13 @@ CA CA130 MtHam QuiRd
 CA CA131 ParDr US101
 
 #CA-134:
-CA CA134 1A 9A
+CA CA134 1A 5B
 
 #CA-135:
 CA CA135 UniValPkwy CA1_S
 
 #CA-137:
 CA CA137 CA99 CA65
-
-#CA-138:
-CA CA138 245thSt GorPostRd
 
 #CA-139: 
 CA CA139 AdaRd CA299_W
@@ -745,13 +668,13 @@ CA CA156 CA156Bus_S CA152
 CA CA156BusHol CA25 CA156_S
 
 #CA-160 Rio Vista Section:
-CA CA160Rio CA4 CRJ11
+CA CA160Rio CA4 CA12
 
 #CA-162 Central Valley Section:
 CA CA162Oro LoaCreRd CA70
 
 #CA-166:
-CA CA166 US101(171) CA33_S
+CA CA166 US101(171) US101(175)
 CA CA166 I-5 CA99
 
 #CA-168 Fresno/West Sierra Section:
@@ -762,9 +685,6 @@ CA CA168Bis US395_N US395_S
 
 #CA-169 Klamath Section:
 CA CA169 US101 KlaMillRd
-
-#CA-170:
-CA CA170 6A 11B
 
 #CA-175:
 CA CA175 CA29/29Bus CA29_S
@@ -781,14 +701,8 @@ CA CA180 BelAve KinCanNP
 #CA-183:
 CA CA183 CA1 US101Bus_S
 
-#CA-185:
-CA CA185 CA77 HesBlvd
-
 #CA-187:
 CA CA187 CA1 I-10
-
-#CA-188:
-CA CA188 CA94 MEX/USA
 
 #CA-190 Central Valley Section:
 CA CA190 CA65 QuaAspCamp
@@ -809,7 +723,8 @@ CA CA200 CA299 US101
 CA CA203 Mad/Mon US395
 
 #CA-210:
-CA CA210 45 81
+CA CA210 45 54
+CA CA210 64A 81
 
 #CA-213:
 CA CA213 I-405 25thSt
@@ -851,9 +766,6 @@ CA CA254 US101(674) US101(645)
 
 #CA-261:
 CA CA261 1 6B
-
-#CA-269:
-CA CA269 I-5 JayAve
 
 #CA-270:
 CA CA270 US395 End
@@ -1010,12 +922,6 @@ CA LasPeakHwy CA89_S CA44/89
 #Minaret Summit Rd, Inyo NF
 CA MinSumRd CA203 RedsMeaRes
 
-#Park Blvd, Joshua Tree NP
-CA ParkBlvd CA62_W PinBasRd
-
-#Pinto Basin Rd, Joshua Tree NP
-CA PinBasRd I-10 ParkBlvd
-
 #Scotty’s Castle Rd, Death Valley NP
 CA ScoCasRd CA190 UbeCraRd
 
@@ -1058,36 +964,6 @@ BLZ AR4 HumHwy SanFelRd
 
 #Botswana A33 KasAir Kaz
 
-
-#[Greece]
-
-#(Greece Autokinetodromos)
-
-#Greece A6:
-GRC A6 20 16
-
-#Greece A62:
-GRC A62 AerEleVen K2
-
-#Greece A64: 
-GRC A64 Y7 Y1
-
-#(Greece Ethniki Odos)
-
-#Greece EO8:
-GRC EO8 EO54/91 EO56
-
-#Greece EO54:
-GRC EO54 EO8/91 EO83_W
-
-#Greece EO56A:
-GRC EO56A EO91 KonKan
-
-#Greece EO91:
-GRC EO91 EO56a EO8/54
-
-#Greece EO91A:
-GRC EO91A EO91_N ArdOdos
 
 #[Mexico]
 
@@ -1256,21 +1132,6 @@ ZAF N12 420 113(N3)
 
 #South Africa R24
 ZAF R24 TamIntAir N3/N12
-
-
-
-#[Turkey]
-
-#(Turkey Otoyol)
-
-#Turkey O3:
-TUR O3 
-
-#Turkey O7:
-TUR O7 7 10
-
-#Turkey O7 Çobançeşme Section:
-TUR O7Cob O7 O3
 
 
 #[Zambia]

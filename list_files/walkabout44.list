@@ -1,6 +1,6 @@
-# 11/30/2023
-# v53
-# Completed new section of AZ96
+# 12/14/2022
+# v49
+# Added US Future Interstate Highways
 
 
 # Arizona Interstate Highways
@@ -55,12 +55,11 @@ AZ US89AltFre US89 AZ/UT
 AZ US191BusDou MEX/USA AZ80
 
 # Arizona State Highways
-AZ AZ24 AZ202 IroRd
+AZ AZ24 AZ202 WilFieRd
 AZ AZ51 I-10 15
 AZ AZ61 US60 AZ/NM
 AZ AZ64 I-40 US89
 AZ AZ66 I-40 Coc/Yav
-AZ AZ67 US89Alt BriAngPt
 AZ AZ68 AZ95 US93
 AZ AZ69 I-17 AZ89
 AZ AZ71 US60 AZ89
@@ -88,7 +87,7 @@ AZ AZ95 I-10BL/95 I-40
 AZ AZ95Bul CA/AZ AZ/NV
 AZ AZ95SPaD AZ95 TakPoiRd
 AZ AZ95SPar CA/AZ AZ95
-AZ AZ96 BruMineRd End
+AZ AZ96 BruMineRd HilRd
 AZ AZ97 US93 AZ96
 AZ AZ98 US89 US160
 AZ AZ99 End BIA15
@@ -220,7 +219,7 @@ CA I-10 1 CA/AZ                #246 vs 241 overlap I-5
 CA I-15 6B CA/NV               #291 vs 287
 CA I-40 I-15 CA/AZ             #157 vs 155
 CA I-80 1A CA/NV               #204 vs 199
-CA I-105 1A StuRd              # 17
+CA I-105 1A 18                 # 17
 CA I-110 GafSt 21              # 21
 CA I-205 I-580 I-5             # 13
 CA I-210 1A 45                 # 45 vs 49
@@ -235,7 +234,7 @@ CA I-580 1A I-5                # 80 vs 76
 CA I-605 CA22 HunDr            # 29 vs 28
 CA I-680 I-280/101 71          # 71
 CA I-710 1 ValBlvd             # 22 vs 20
-CA I-780 LemSt 7               #  7
+CA I-780 1A 7                  #  7          .26 MISSING         
 CA I-805 I-5(1A) I-5(31)       # 29 vs 28
 CA I-880 I-280 46B             # 46 vs 47
 CA I-980 I-880 2B              #  2
@@ -491,11 +490,11 @@ IL I-355 0 I-290               # 32
 IL I-474 0 15                  # 14 vs 15
 
 # Indiana
-# 1304 miles (Table 3 1307) diff -3, I-164 -21, I-69 18
+# 1286 miles (Table 3 1307) diff -21, I-164 -21
 IN I-64 IL/IN IN/KY            #124 vs 123
 IN I-65 KY/IN 262              #265 vs 261
-IN I-69 200 IN/MI              #159+    vs 160+    
-IN I-69Whe KenAve 153          #153=312 vs 154=314 Table 3 294
+IN I-69 200 IN/MI              #160+    vs 159+    
+IN I-69Whe KenAve 140A         #136=296 vs 135=294 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
@@ -524,7 +523,7 @@ OH I-275 IN/OH OH/KY           # 56 vs 53 overlap 74
 OH I-277 1 4                   #  4
 OH I-280 1A I-75               # 13 vs 12
 OH I-470 I-70 OH/WV            #  6 vs 7
-OH I-471 KY/OH I-71            #  1
+OH I-471 KY/OH 7               #  1
 OH I-475 I-75 20               # 20
 OH I-480 I-80_W I-80_E         # 42+ 
 OH I-480War I-480 I-271        #  1=43 vs 42
@@ -773,8 +772,8 @@ TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
 TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 
 # North Carolina
-# 1410 miles (Table 3 1328) diff 82: I-74 10, I-140 14, I-295 9, I-840 6, I-885 8
-# 1400 on 10 not on
+# 1406 miles (Table 3 1328) diff 35: I-74 10, I-140 14, I-295 9, I-840 2
+# 1400 on 6 not on
 NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 13            #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
@@ -795,11 +794,10 @@ NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
 NC I-587 29 56                 # 27  NEW 2022 6 not completed
-# NC I-785 I-85 14(840)          #  7 vs 0 (overlap with I-840)
+NC I-785 I-85 14(840)          #  7 vs 0 (overlap)
 NC I-795 38(264) 24            # 26
-NC I-840 103(73) 10            #  8 vs 5; 2 not on Table 3  NEW 4 miles not on
-NC I-840 14 I-85               #  7  Overlap with I-785
-NC I-885 5 13                  #  8  all new
+NC I-840 103(73) 10            #  8 vs 5; 2 not on, 2 not on Table 3
+NC I-885 5 13                  #  all new
  
 
 # South Carolina
@@ -875,7 +873,6 @@ FL I-595 I-75 12               # 14 vs 13
 #03  HI I-H3 15 KanSta              #  1        MISSING
 #04  HI I-H201 1A 1D                #  1        MISSING
 #05  NC I-587 23 29                 #  6        NEW 2022
-#06  NC I-840 10 14                 #  4        NEW 2023
 #0 mile extensions
 #0-1 CA I-105 18 StuRd              #   .32 East end past I-605
 #0-2 CA I-780 LemSt 1A              #   .26 West end past I-80
@@ -923,6 +920,7 @@ NC I-785FutRei US29Bus_S US158/14
 # NC I-785FutRei US158/14 NC/VA     # N of Reidsville
 # VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
 FL I-795FutJac I-295 4
+NC I-840FutEGr 14 I-85
 CA I-905FutOta 1A USA/MEX
 
 
