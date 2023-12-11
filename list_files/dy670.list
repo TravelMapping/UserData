@@ -8,6 +8,9 @@ FL I-4 I-275 132
 
 ## Interstate 10
 
+# California
+CA I-10 1 13
+
 # Louisiana
 LA I-10 20 TX/LA
 
@@ -25,6 +28,7 @@ LA I-20 3 19A
 
 # From Kansas City, MO to Council Bluffs, IA
 MO I-29 2H(35) IA I-29 51
+MO I-29BLStJ US169_S I-29_N
 
 
 ## Interstate 30
@@ -215,6 +219,12 @@ RI I-95 13 21
 MI I-96 190A 191A
 
 
+## Interstate 110
+
+# California
+CA I-110 9 GafSt
+
+
 ## Interstate 135
 
 # Kansas
@@ -310,6 +320,12 @@ MI I-375 I-75 BeaSt
 PA I-376 26 85
 
 
+## Interstate 405
+
+# California
+CA I-405 59 37A
+CA I-405 32B 10
+
 ## Interstate 435
 
 # Kansas
@@ -338,6 +354,7 @@ OH I-470 I-70 OH/WV
 
 # West Virginia
 WV I-470 OH/WV 4
+
 
 ## Interstate 480
 
@@ -385,6 +402,13 @@ MO I-670 KS/MO 2N
 
 # Ohio
 OH I-670 I-70 10
+
+
+## Interstate 710
+
+# California
+CA I-710 1 1E
+CA I-710 1B 4
 
 
 ## Interstate 820
@@ -474,6 +498,10 @@ CO US36 I-70(279A) I-70(316)
 
 # From north of Kansas City, MO to Springfield, IL
 MO US36 I-35 IL US36 I-72(97)
+
+# St. Joseph, MO area
+KS US36 KS238 MO US36 US169
+MO US36 I-29 MOsAC
 
 # Indiana
 IN US36 I-465(9) PostRd
@@ -734,7 +762,8 @@ MO US160 MO5_N MOsPP
 KS US169 KS/MO US54
 
 # Missouri
-MO US169 KS/MO MOsW
+MO US169 KS/MO I-29(44)
+MO US169 US36 I-29BL_N
 
 
 ## US 181
@@ -759,6 +788,28 @@ OH US224 I-76(18) I-77/277
 
 # Oklahoma
 OK US412 I-44/364 I-44(236B)
+
+
+### California State Highways
+
+## CA-1
+CA CA1 CA133 OceAve
+
+## CA-47
+CA CA47 1A I-710
+
+## CA-73
+CA CA73 18 3B
+
+## CA-90
+CA CA90 CA1 SlaAve
+
+## CA-133
+CA CA133 CA1 14
+
+## CA-241
+CA CA241 27 19
+
 
 
 ### Iowa State Highways
@@ -796,7 +847,7 @@ KS KS13 US24 DyerRd
 KS KS14 I-70(221) I-70(219)
 
 ## K-16
-KS KS16 KS92_E US59_N
+KS KS16 US24/40 US59_N
 KS KS16 KS4_E KS4_W
 
 ## K-18
@@ -821,6 +872,7 @@ KS KS61 11thAve KS14/96_S
 
 ## K-68
 KS KS68 KS33 US75/31
+KS KS68 US169/7 KS/MO
 
 ## K-92
 KS KS92 KS4 KS/MO
@@ -836,6 +888,9 @@ KS KS177 US24 US50
 
 ## K-237
 KS KS237 US24 PerLakeSP
+
+## K-238
+KS KS238 US36 KS/MO
 
 ## K-268
 KS KS268 US75/31 KS68
@@ -883,10 +938,10 @@ MN MN169 US53 CR58
 ### Missouri State Highways
 
 ## MO-1
-MO MO1 
+MO MO1 MO152 MO210
 
 ## MO-2
-MO MO2 I-49(159) I-49(158)
+MO MO2 KS/MO I-49(158)
 
 ## MO-5
 MO MO5 US36/139 US36_E
@@ -941,6 +996,9 @@ MO MO72 MO19 I-44
 
 ## MO-76
 MO MO76 MO5/5Bus MO5_N
+
+## MO-78
+MO MO78 I-435 MO291
 
 ## MO-87
 MO MO87 MO179_N I-70
