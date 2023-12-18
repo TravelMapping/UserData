@@ -289,11 +289,12 @@ WI WI23 WI39_E WI154_W		#10/15/22
 WI WI23 WI67 WI57			#6/20/22
 WI WI30 1A 1C				#11/21/22
 WI WI31 IL/WI WI32
-WI WI32 IL/WI OklaAve		#06/30/23
-WI WI32 I-794 US18_E
-WI WI32 I-43(82) GraAve
+WI WI32 IL/WI GraAve		#12/17/23
 WI WI32 I-43(100) I-43(113)
 WI WI32 WI22_E WI22_W
+WI WI32 WI22_E WI22_W
+WI WI33 US12_W US12/136
+WI WI33 I-43 WI32			#12/17/23
 WI WI35 IL/WI US14/61_W
 WI WI36 WI120 WI11_E		#12/10/22
 WI WI36 WI20/83 WI164/K
@@ -349,6 +350,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 12/17/23 - Added segments for WI-32 and WI-33.
 # 07/02/23 - Indiana trip. Clinched IL-394, I-94 in IL. Added other segments in IL, IN.
 # 05/23/23 - Waunakee trip. Added segments for I-39, WI-19, WI-113.
 # 04/26/23 - Clinched I-280 (IL/IA), added segments for US-61 and I-80. Fixed FL placement in list.
