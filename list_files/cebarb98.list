@@ -334,7 +334,7 @@ DE US9BusLew US9_W US9_E
 DE US9TrkGeo US9_W US9_E
 
 #. US 11
-LA US11 US90 LA/MS83
+LA US11 US90 LA/MS
 MS US11 LA/MS McNRd
 MS US11 MS26 MS13
 MS US11 I-59(150) I-59(154)
@@ -1113,18 +1113,7 @@ VA SpoRunPkwy VA124 GeoWasPkwy
 # # # # # # # # # # # # # # # #
 
 #### changelog
-# 9/26/2023
-## added traveled routes in CT, NY, NJ
-## removed c.l. from prior to July 2023
-# 9/24/2023
-## added parts of PA, NJ, NY, CT
-# 8/26/2023
-## added section of DE 26, spelling
-# 8/24/2023
-## added forgotten section of AR 112 in Fayetteville, AR
-# 8/23/2023
-## added travel to and from Chincoteague, VA
-# 8/21/2023
-## added traveled routes in MD and DE
-# 7/4/2023
-## added traveled routes in north-central MD
+# 12/30/2023
+## US 11 spelling error
+# 12/29/2023
+## added trip incl. parts of Virginia, Tennessee, and Louisiana
