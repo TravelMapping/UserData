@@ -1,4 +1,4 @@
-# Date: 2023-12-10
+# Date: 2024-01-06
 # ----------------
 
 ######################
@@ -158,7 +158,9 @@ DEU-NW S23 BonnHbf +DIV_End                                         #2022, trave
 DEU-RP S5Wor WorBadePark WorBadAll    #2022, as RE6 Neustadt - Karlsruhe
 DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
+DEU-BW S6Bod Eng Sin                                                #2022, traveled as RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
+DEU-BW S6Bod Sin +DIV_S61                                           #2022, traveled as IRE3
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
 #DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
 
@@ -343,11 +345,12 @@ DEU-SH S1 Wed SH/HH                                                             
 DEU-HH S1 SH/HH PopBut                                                                         #2020/23
 DEU-HH S1Flu Ohl HamBurgAirPort                                                                #2023
 DEU-SH S3 PinBerg SH/HH                                                                        #2023
-DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
-DEU-NI S3Hor HH/NI Sta                                                                         #2023
-DEU-HH S11 Bla Ohl                                                                             #2020/23
-DEU-HH S21 HolStr HH/SH                                                                        #2023
-DEU-SH S21 HH/SH AuMuh                                                                         #2023
+DEU-HH S3 SH/HH NeuGra                                                                         #2020/23
+DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
+DEU-NI S5Hor HH/NI Sta                                                                         #2023
+DEU-HH S1 Bla Ohl                                                                              #2020/23
+DEU-HH S2 HolStr HH/SH                                                                         #2023
+DEU-SH S2 HH/SH AuMuh                                                                          #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 DEU-HE U1 GinnHeim FraFurtSud                    #2022
