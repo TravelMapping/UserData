@@ -2,6 +2,7 @@ https://travelmapping.net/user/region.php?units=km&u=philimon&rg=GRC,ALB,MKD,SRB
 http://travelmapping.net/user/region.php?units=km&u=philimon&rg=QC,ON,BC,WA
 https://travelmapping.net/user/region.php?units=km&u=philimon&rg=DEU-NW,DEU-NI,DEU-HH,DEU-SH,DEU-SA,AUT,DEU-RP,DEU-SL,DEU-HE,DEU-BY,DEU-BW,DEU-MV,DEU-HB,DEU-BB,DEU-ST
 https://travelmapping.net/user/region.php?units=km&u=philimon&rg=FRA-GES,FRA-IDF,FRA-HDF,FRA-BRE,FRA-BFC,FRA-NOR,FRA-CVL,FRA-OCC,FRA-PDL,FRA-ARA,FRA-NAQ
+http://travelmapping.net/user/region.php?units=km&u=philimon&rg=HI
 29-04-23 SRB
 
 
@@ -2230,19 +2231,30 @@ HUN F511 F551 F55
 HUN F551 F511 F51/F55
 
 ======ΗΠΑ======
+
+------HAWAII------
+HI HI450 HI460 HalBayPark
+HI HI460 KauWha MauVilSt
+HI HI470 HI460 PalSP
+HI HI480 HI470 HI460
+HI HI481 
+
 ------WASHINGTON------
-WA WA539 WA/BC I-5
+
 WA I-5 158 WA/CAN
-WA WA526 PaiFieBlvd I-5
-WA WA525 I-5 PaiFieBlvd
-WA WA529 BroWay WA528
-WA WA520 I-5 WA513
-WA WA513 WA520 45thSt
-WA WA543 I-5 WA/BC
-WA WA99 WA599 I-5(189)
-WA WA900 I-5(158) 64thAve
-WA I-405 5 11
 WA I-90 2 10
+WA I-405 5 11
+
+WA WA99 WA599 I-5(189)
+WA WA513 WA520 45thSt
+WA WA520 I-5 WA513
+WA WA525 I-5 PaiFieBlvd
+WA WA526 PaiFieBlvd I-5
+WA WA529 BroWay WA528
+WA WA539 WA/BC I-5
+WA WA543 I-5 WA/BC
+WA WA900 I-5(158) 64thAve
+
 
 ======ΙΑΠΩΝΙΑ======
 JPN E5 28 37
