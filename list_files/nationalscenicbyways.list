@@ -1,0 +1,1704 @@
+#A1A Scenic & Historic Coastal Byway
+FL FLA1A HigRd FL202
+
+#Acadia All American Road
+ME ME3 MyrSt SieMonRd
+ME ParkLpRd SieMonRd_S SieMonRd_N
+ME ParHillRd ParkLpRd VisCenRd
+
+#Alaska's Marine Highway
+##missing bit: everything as it is all ferries
+
+#Beartooth Highway
+MT US212Coo YelNP MT US212 MT78
+
+#Blue Ridge Parkway
+NC BlueRidPkwy US441 VA BlueRidPkwy US250
+
+#Chesapeake Country Scenic Byway
+MD MD18 MD8 MD213
+MD MD213 MD18 BasAve
+MD MD445 End MD20
+MD MD20 MD445 MD291
+MD MD291 MD20 MD213
+
+#Chinook Scenic Byway (Stephen Mather Memorial Parkway)
+WA WA164 WA169 WA410
+WA WA410 WA164 US12
+
+#Colonial Parkway
+VA ColPkwy BalSt IslDr
+
+#Creole Nature Trail
+LA LA27 US90 CamFer
+LA LA27Cam CamFer LA397
+LA LA397 LA27 I-10
+LA LA82Hol TX/LA CamFer
+LA LA82 CamFer PR147
+##missing section along PR357
+LA LA384 LA385_S LA27_S
+LA LA385 LA384_S End
+LA LA14 LA397_N LA3186
+LA LA3186 LA385 LA14
+
+#Flaming Gorge - Green River Basin Scenic Byway
+WY WY530 I-80BL WY/UT
+WY US191 UT/WY I-80(99)
+
+#Florida Keys Scenic Highway
+FL US1 FleSt MorAve
+
+#George Washington Memorial Parkway
+VA GWMemPkwyMtV VA235 VA400
+VA VA400 GeoWasPkwy 1stSt
+VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495
+
+#Great River Road
+##missing section on county routes
+MN US2 MN371 NorBeaRd
+##missing section on county routes
+MN US2 CR39 CR18
+##missing section on county routes
+MN MN6 CR11_S CR63
+##missing section on county routes
+MN US169 CR21_N CR10_A
+##missing section on county routes
+MN MN210 MN6_N US169_S
+MN MN6 MN210_E CR11_Wol
+##missing section on county routes
+MN MN210 MN25 CR20
+##missing section in Brainerd
+MN MN371BusBra MN371_S QuinSt
+MN MN371 MN115 MN371Bus
+MN MN101 CR42 CR39
+##missing section on county routes
+MN US169 CR12_S CR12_N
+##missing section on county routes
+MN MN252 BroDr I-94/694
+MN I-694 35B 36
+##missing section on county routes
+MN MN55 *MinPkwy MN62_E
+MN MN62 MN55_W MN13
+MN MN13 MN62 I-35E
+MN I-35E 102 103A
+##missing section on county routes
+MN US61 I-494 WarRd
+MN I-494 63B 64B
+##missing section on county routes
+MN MN55 CR56 US61
+MN US61 US10_E MN316_N
+MN US10 US61_S WI US10 WI35_S
+WI WI35 US53_N US10_W
+WI WI35BusHol WI35_S WI35_N
+WI WI35 US53_Lac US53_S
+WI US53 US14/61 3(90)
+WI US14 WI35_S US53
+WI WI35 CRC_Gra US14/61_W
+##missing section on county routes
+WI WI133 US61 CRVV
+IA US61 US52_S WI US61 WI133_End
+IA US52 US67 US61/151_N
+IA US67 US61Bus_S US52
+IA US61BusDav IA22 US67_N
+IA IA22 US61Bus/38 US61Bus
+IA US61BusMus CRX61 IA22_E
+##missing section on county routes
+IA US61 27 CRX62
+IA US61BusFtM US61_S US61_N
+IA US61 MisRivRd 18
+##missing section on county routes
+IA US136 MO/IA 4thSt
+
+MN MN316 US61_S US61_N
+MN US61 MN16 MN316_S
+MN MN16 MN26 US14/61
+MN MN26 IA/MN MN16
+IA IA26 IA9 IA/MN
+IA IA9 CRX52 IA26
+##missing section on county routes
+IA IA76 CRX56 CRX52
+##missing section on county routes
+IA US52 DekSt CRC9Y_N
+##missing section on county routes
+IA IA3 CRC9Y NWArt
+##missing section on county routes
+IA US20 IA946 IL US20 IL84_S
+IL IL84 US20_W IL92_W
+IL IL92 CRTT_E IL84_N
+##missing section on county routes
+IL IL92 NewBosRd CRTT_W
+##missing section on county routes
+IL IL17 CR14 KeiRd
+##missing section on county routes
+IL IL164 US34 CR3
+IL US34 CarRd IL164_A
+##missing section on county routes
+IL IL96 US24_W CarRd
+IL US24 IL57/104 IL96_N
+IL IL57 I-172 US24/104
+
+IL IL3 BriBypRd I-270
+##missing section
+IL IL150 RanSt BriBypRd
+##missing section on county routes
+IL IL3 IL37 WatSt
+KY US51 KY1203 IL US51 I-57(1)
+KY KY1203 KY123 US51/62
+KY KY123 KY239 KY1203
+KY KY239 KY94 KY123
+KY KY94 TN/KY KY239
+TN TN78 TN79 TN/KY
+TN TN79 TN181 TN78
+TN TN181 TN88 TN79
+TN TN88 TN181 US51
+TN US51 TN19_W TN88
+TN TN19 FourMileLn US51_N
+TN TN87 CruLakeRd US51
+TN US51 TN54/59 TN87
+TN TN59 RicLanRd US51/54
+TN TN388 US51 LocCubaRd
+TN US51 ToI-40 TN388
+TN US51 I-40 US64/70_W
+TN US64 US61_S US51_N
+TN US61 MS/TN US64/70_E
+
+AR US61 AR77_S AR/MO
+AR AR77 US70 US61_N
+AR US70 AR147 AR77
+AR AR147 AR38 US70
+AR AR38Hug US79 AR147
+AR US79 AR1_S AR38
+AR AR1BMar CheSt_E AR1_N
+##missing section on county routes
+AR AR44Mar PopSt CR239
+##missing section on county routes
+AR US49BusHel US49_S ColSt_N
+AR US49 US49BusHel_S AR20
+AR AR20 AR44_E US49
+AR AR44 AR20_W AR20_E
+AR AR20 AR318 AR44_W
+AR AR318 AR20 AR316_W
+AR AR316 AR1/39 AR318_S
+AR AR1 US165 AR39/316
+AR US165 US65_S AR1_N
+LA US65 US425 AR US65 US165/54
+LA US425 LA131 US65
+LA LA131 LA15 US84/425
+LA LA15 LA1/970 LA131
+LA LA1 LA1Bus/10 LA15/970
+LA LA1BusNew LA1_S LA1_N
+LA LA1 LA416 LA1BusNew_S
+LA LA416 LA1 LA415
+LA LA415 LA986_N LA416
+LA LA986 JefAve LA415_N
+##missing section on local roads
+LA LA987-4 LA987-6 LA987-5
+LA LA987-5 LA987-4 LA987-6
+##missing section on local roads
+LA LA1 LA988_N AveG
+LA LA988 LA1_S LA1_N
+LA LA1 LA75 LA988_S
+LA LA75Pla LA1 LA405
+LA LA405 LA1 LA75
+LA LA1 LA18/3089 LA405
+LA LA18 LA1/3089 LA541_A
+LA LA541 LA18_A LA18_D
+LA LA18 LA541_D US90Bus
+LA LA23 JumpBasRd US90Bus(7)
+
+AR US82 US65/278 AR/MS
+
+LA US61 I-110(8A) LA/MS
+LA I-110 1E 8A
+##missing section on local roads
+LA LA30 SBlvd LA327
+LA LA327 LA991 LA30
+LA LA991 LA75 LA327
+LA LA75 LA991 LA22/942
+LA LA942 LA22/75 LA44
+LA LA44 LA942 LA636-3
+LA LA636-3 LA44 LA628
+LA LA628 LA636-3 US61
+LA US61 LA628 LA48
+LA LA48 US61 LA3154
+##missing section on local roads
+LA LA611-1 JefHeiAve MonAve
+##missing section on local roads
+LA LA46 PolAve LA39_S
+LA LA39 LA46_W LA3137_N
+LA LA3137 LA39_S LA39_N
+LA LA39 LA3137_S Hwy15_S
+
+#Harriet Tubman Underground Railroad Byway
+##missing section in Cambridge
+MD MD341 MD16 MD343
+MD MD16 SmiRd MD341
+MD MD335 MD16 WilDr
+##missing section along Key Wallace Drive, Greenbrier Road and Bucktown Road
+MD MD16 MD750_W GroRd
+##missing sections - spurs around Preston
+##missing section - Grove Road, MD578
+MD MD16 MD578 MD313/404
+MD MD313 MD16_W MD311
+MD MD311 MD313 MD287
+MD MD287 MD313 MD/DE
+MD MD404 MD16_W MD404AltHil
+MD MD404AltHil MD303_N MD404
+MD MD404BusDen MD404_W MD404_E
+MD MD619 MD404Bus MD313/404
+
+#Hells Canyon Scenic Byway
+OR OR86 I-84 BroOxbHwy
+##missing section FS39
+OR OR350 WalMouRd OR82/351
+OR OR82 I-84 OR350/351
+OR OR351 OR82/350 End
+
+#Historic Columbia River Highway
+OR US30HisCol I-84(18) I-84(37)
+OR US30 I-84(69) CheLoop
+
+#Historic National Road
+##missing section from Eads Bridge to Collinsville
+IL IL159 KeeAve I-55/70
+##missing section through Troy
+IL IL162 MainSt US40
+IL US40 IL162 IL4
+##missing section on old US40
+IL IL160 HigRd US40_E
+IL US40 IL160_S IL143_E
+##missing section on old US40
+IL US40 OFaSt IL127
+IL IL127 US40 IdlLn
+##missing section at Greenville
+IL IL140 BeaAve US40
+IL US40 IL140 I-70(154)
+##missing section across border
+IN US150 NatAve_W US41_N
+##missing section through Terre Haute
+IN US40 WabAve_W IN340_W
+IN IN340 US40_W US40_E
+IN US40 IN340_E I-465(12)
+##missing section through Indianapolis
+IN US40 I-465(46) OH US40 OH285_N
+##missing section alongside I-70
+OH OH800 MainStHen I-70
+OH US40 I-70(202) WV US40 I-70(0A)
+##missing section over Ohio
+WV US40 I-70(1A) PA US40 PA18_N
+##missing section in Washington
+PA US19 PA136 US40_E
+PA US40 US19_N MalRd
+##missing section in Brownsville
+PA US40 MarSt_W US40BusBro_W
+PA US40BusBro US40_W US40_E
+PA US40 US40BusBro_E US119/43_N
+PA US40BusUni US40_W US40_E
+PA US40 US40BusUni_E MD US40 US40AltCum_W
+MD US40AltCum US40_W US40_E
+MD US40 I-68(44) I-68(46A)
+MD MD144Fli US220_N US40Sce
+MD US40ScePin MD144_W MD144_E
+MD MD144Han US40Sce_W I-70
+MD US40 I-70(3) PotSt
+##missing section along PotSt
+MD US40AltHag PotSt US40_E
+MD US40 US40AltHag_E US15_N
+##missing section through Frederick
+MD MD144Fre JefSt I-70(59)
+##missing section on old MD144
+MD MD27 MD144 I-70
+MD MD144 MD27 US40
+MD US40 MD144 FreRd
+##missing section through Ellicott City
+MD MD144Bal How/Bal US1
+WV WV2 MainSt_S US40_E
+WV WV88 US40_E DemCemRd
+##missing spur heading north out of Frederick
+
+#Historic Route 66 - Arizona
+AZ US66HisKin I-40(1) I-40(139)
+AZ US66HisAsh I-40(144) I-40(146)
+AZ US66HisWil I-40(161) I-40(165)
+AZ US66HisFla I-40(191) I-40(204)
+AZ US66HisWin I-40(252) I-40(257)
+AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisHol I-40(285) I-40(289)
+AZ US66HisLup I-40(359) AZ/NM
+
+#Historic Route 66 - Missouri
+MO US66HisStL KS/MO MO/IL
+MO US66HisNJo US66His_W US66His_E
+MO US66HisEJo US66His_W US66His_E
+MO US66HisCar US66His_W US66His_E
+MO US66HisNSp US66His_W US66His_E
+MO US66HisESp US66His_W US66His_E
+MO US66HisLaq US66His_W US66His_E
+MO US66HisMan US66His_W US66His_E
+MO US66HisFlo US66His_W US66His_E
+
+#International Selkirk Loop
+WA WA31 WA20 WA/BC
+WA WA20 WA31 US2
+WA US2 WA20 ID US2 US95_N
+ID US95 US2/200 ID1
+ID ID1 US95 USA/CAN
+
+#Lakes to Locks Passage
+NY US4 NY32_Wat NY/VT
+NY NY22 US4_S US9_N
+NY US9 NY22_S BakRd
+##missing segement CR12
+NY NY9B MasRd US11
+NY US11 NY9B USA/CAN
+NY NY74 NY9N/22 NY/VT
+NY NY185 NY9N/22 NY/VT
+NY NY373 US9 BurPKFry
+##missing segement Commodore T MacDonough Highway
+NY US2 US11 NY/VT
+
+#Las Vegas Strip
+##NV LasVegBlvd RusRd SahAve
+
+#Natchez Trace Parkway
+MS NatTraPkwy LibRd TN NatTraPkwy TN100
+
+#Newfound Gap Road Byway
+NC US441 BlueRidPkwy TN US441 AirRd
+
+#North Shore Scenic Drive
+##missing section Canal Park Drive-Superior Street-London Road
+MN MN61 I-35 USA/CAN
+
+#Northwest Passage Scenic Byway
+ID US12 WA/ID ID/MT
+ID ID13 US95 US12
+
+#Pacific Coast Scenic Byway
+OR US101 CA/OR OR/WA
+
+#Red Rock Scenic Byway
+AZ AZ179 I-17 MalDr
+
+#Route 1, Big Sur Coast Highway
+#Route 1, San Luis Obispo North Coast Byway
+CA CA1 203A(101) CRG16
+
+#San Juan Skyway
+CO US160 CO145 US550_N
+CO US550 US160_W CO62
+CO CO62 CO145 US550
+CO CO145 US160 CO62
+
+#Utah's Scenic Byway 12 - A Journey Through Time
+UT UT12 US89 UT24
+
+#Selma to Montgomery March Byway
+##missing section in Selma: Alabama Avenue - Broad Street
+AL US80BusSel AL22_W US80/41
+AL US80 BUS80/41 US31
+AL AL21 US80_W US31_N
+##missing section in Montgomery: Mobile Highway - Fairview Avenue - Oak Street - Davis Avenue - Holt Street - Mobile Street - Montgomery Street - Dexter Avenue
+
+#Seward Highway
+AK AK9 RaiAve AK1
+AK AK1 AK9 5thAve_W
+
+#The Battle Road Scenic Byway
+##missing section in Concord
+MA MA2ACam LexRd I-95
+##missing section in Lexington
+MA MA4 MasAve_W MasAve_E
+##missing section in Arlington
+MA MA2ACam BatRd MA60_W
+
+#Trail Ridge Road/Beaver Meadow Road
+CO US34 PorRd US34Bus
+CO US34BusEst US34_E US36_W
+CO US36 US34_W US34Bus_W
+
+#Volcanic Legacy Scenic Byway
+CA CA44 CA36 CA89_S
+##missing segment CR A13
+CA CA36 CA44 CA89_N
+CA CA89 CA36_E LasVolNP
+CA LasPeakHwy CA89_S CA44/89
+CA CA89MtS CA44_W MtShaBlvd
+CA I-5BLMou I-5_S I-5_N
+CA I-5 740 747
+CA US97 I-5 OR US97 277
+OR OR140 CR531 US97
+##missing segement CR531
+OR OR62 CraLakeNP 4thSt
+OR CraCrkRd OR62 RimDr
+OR CraLakeRimDr CraLakeHwy_W CraLakeHwy_E
+OR CraLakeHwy RimDr OR138
+OR OR138 CraLakeHwy US97
+CA CA161 US97 CA139/39
+CA CA139 OsbRd CA/OR
+##missing segement to Lava Beds National Monument
+
+#Woodward Avenue (M-1) - Automotive Heritage Trail
+MI MI1 AdaAve I-75BL
+MI US24BusPon I-75BL_S MI59
+
+########
+
+#Alabama's Coastal Connection
+AL AL188 I-10 AL193
+#spur up CR59
+AL AL193 LeMoyDr AL188
+#ferry
+AL AL180 MobBayFer AL135
+AL AL135 AL182 AL180
+AL AL182 AL135 AL/FL
+AL AL161 AL182 AL180
+AL AL180 FolBeaExp MisAve
+#Foley Beach Expressway
+AL US98 CR98_E CR83
+#CR98
+AL US98 I10/US90_W MainSt
+
+#Amish Country Byway
+OH US62 StaRd_Gan CoHwy200
+OH OH39 OH3/60 OH93
+OH OH515 OH39 US62
+OH OH60 OH3/39 US62
+
+#Arroyo Seco Historic Parkway
+CA CA110 21 GleSt
+##extends north on downgraded road
+
+#Ashley River Road
+SC SC61 MagDr SC61Con
+
+#Baltimore's Historic Charles Street
+MD MD139 US1 I-695
+#extends south on Charles Street
+
+#Bayou Teche Scenic Byway
+LA LA31 LA182_S LA347_S
+LA LA182 LA31_E US90(175B)
+LA LA326 LA182 LA324
+LA LA324 LA326 LA87
+LA LA87 LA86 LA324
+LA LA86 LA182 LA31
+LA LA96 LA31_S LA352
+LA LA352 LA347 LA96
+LA LA347 LA328_S LA31_S
+LA LA670 LA182 LA87
+LA LA671 LA182_E LA87
+LA LA336-1 LA31_S LA328
+LA LA328 LA347_S LA347_N
+LA LA355 LA31 LA347
+
+#Bayshore Heritage Byway
+##CR540
+NJ NJ45 NJ49 CR540_W
+NJ NJ49 FroSt_S NJ45
+##Front St, CR661, CR625, CR658, CR623, CR607, CR650, NJ49, CR609, CR553, CR649, CR633, CR649, CR670
+NJ NJ47 NJ347_N HunMillRd
+##CR616, River Road, Menhaden Road, CR616
+NJ NJ47 MooBeaRd BayShoRd
+##CR603, CR639, CR613, CR626, CR606
+##NJ49, local road, CR632, CR630
+##CR642
+##CR629, CR637
+##High St in Point Norris
+##East Point Road
+NJ US9 CapeMayFry SeaRd
+##CR629
+
+#Big Bend Scenic Byway
+FL FL65 US98/319 CR379
+FL US319 US98_W CR299
+FL FL20 CR375 FL263
+FL FL263 FL20 CR2203
+FL FL267 CR373 US98
+FL US98 MarSt_W FL267
+FL FL300 GulfBeaDr US98/319
+##missing segments on local/county roads
+
+#Billy the Kid Trail
+NM NM48 US70 US380
+NM US380 NM48 US70_W
+NM US70 NM48 US380_W
+NM NM220 NM48 US380
+
+#Bold Coast Scenic Byway
+ME US1 WymRd ME187_W
+ME ME187 US1_W US1_E
+ME US1 ME187_E ME191_B
+ME ME191 US1_B ME189
+ME ME189 US1 USA/CAN
+ME US1 ME189 ME190
+ME ME190 WatSt US1
+
+#Boom or Bust Byway
+LA US71 LA170/3049 LA2_E
+LA LA3049 LA173 US71/170
+LA LA173 LA1_N LA3049
+LA LA1 LA173_N LA2/170
+LA LA2 TX/LA LA518
+LA LA518 LA146_W LA2
+LA LA146 US79/9 LA518_E
+LA US79 LA146 US79Trk/2
+
+#Brandywine Valley Scenic Byway
+DE DE52 US13Bus DE/PA
+DE DE100 DE141_N DE/PA
+
+#California Historic Route 66 Needles to Barstow Scenic Byway
+CA US66HisBar I-40(1) I-40(133)
+
+#Cascade Lakes Scenic Byway
+##Route made of Forest Service/County Roads
+
+#Cascade Loop
+WA WA525 5thSt CliMukFry
+##5th St, Mulkilteo Blvd, 41st St
+WA I-5 192 194
+WA US2 I-5 BicAve
+##Bickford Ave, Ave D, 2nd St, 92ndSt
+WA US2 88th/92ndSt US97Alt
+WA US97AltEnt US97_S US97_N
+WA US97 US97Alt_N WA153
+WA WA153 US97 WA20
+WA WA20 WA153 WA525
+WA WA525Fre CliMukFry WA20
+WA WA20SprAna WA20 ComAve_N
+
+#Cherohala Skyway
+TN TN165 TN68 TN/NC
+NC NC143 TN/NC SanRd
+
+#Cherokee Foothills Scenic Highway
+SC SC11 I-85(1) US29
+
+#Cherokee Hills Byway
+OK OK10 I-40 OK100_N
+OK OK100 US64_E OK82_N
+OK OK82 OK100_W OK51_W
+#Route through Tahlequah
+OK OK10 OK82_N US412Alt
+OK US59 US412Alt_W US412_E
+OK US412 US59/412Alt OK/AR
+
+#Las Vegas Boulevard State Scenic Byway
+##NV LasVegBlvd SahAve WasAve
+
+#Coal Heritage Trail
+WV US52Ken VirAve WV US52 US19/52Trk
+##Virginia Avenue, ElkSt
+WV WV16 ElkSt US60_E
+WV US60 WV16_S US19
+WV US19 WV16_Fay US60
+##spur along CR25
+
+#Colorado River Headwaters Byway
+##missing section CR1
+CO CO9 TroRd US40
+CO US40 CO9 US34
+
+#Connecticut River Byway
+MA MA47 MA116_S MA63
+MA MA63 MA47 MA/NH
+NH NH63 MA/NH NH12
+NH NH12 NH63 NH/VT
+NH NH12ACla NH12_Cla US4/10
+NH NH10 NH12A WBathRd
+NH NH135 NH10 US2/3
+NH US3 NH135 USA/CAN
+VT VT114 VT102/253 VT/NH
+VT VT102 VT114/253 US2
+VT US2 US5_S VT/NH
+VT US5 VT119/142 US2_E
+VT VT119 US5 VT/NH
+VT VT123 US5 VT/NH
+NH NH123 NH12_N NH/VT
+VT VT25 NH/VT US5
+NH NH25 VT/NH NH10_N
+NH NH18 NH135_N NH/VT
+VT VT18 NH/VT US2
+NH US2 VT/NH NH135
+VT VT26 VT102 VT/NH
+NH NH26 VT/NH US3_S
+NH NH145 US3_S US3_N
+NH I-93 44 VT I-93 I-91
+VT I-91 19 20
+
+#Connecticut State Route 169
+CT CT169 CT138 CT/MA
+
+#Copper Country Trail
+MI US41 MI26Hou_S ManRd_N
+
+#Coronado Trail Scenic Byway
+AZ US191 ChaCreSt MtnAve
+
+#Coulee Corridor Scenic Byway
+WA WA17 WA26 US2_E
+WA US2 WA17_S WA155
+WA WA155 US2 US97/20
+
+#Country Music Highway
+KY US119 KY15/15Bus US23/460
+KY US23 US119_S KY2
+
+#Crowley's Ridge Parkway
+AR AR44Mar AR1B CR239
+AR AR1BMar AR44 AR1_N
+AR AR1 US79/1B AR1BFor_S
+AR AR1BFor AR1_S AR284
+AR AR284 AR1B US64Bus_E
+AR US64BusWyn AR284_E US64
+AR US64 US64BusWyn AR163_N
+AR AR163 US64_W AR1/1B
+AR AR1BJon AR1/163 AR18
+AR AR18 MainSt AR1B
+AR AR141 AR91 US62
+AR US62 AR141 MO US62 MO53_N
+##CR-WW, CR-J
+
+#Cumberland Historic Byway
+TN TN52 MainSt_Cel TN111
+TN TN111 TN52 US127
+TN US127 TN52 TN111_Sta
+TN TN52 US127 RugPkwy_W
+##Rugby Parkway
+TN TN52 RugPkwy_E US27
+TN US27 TN52 TN63/297
+TN TN63 US27/297 US25E_N
+
+#Death Valley Scenic Byway
+CA CA190Dea SalValRd FunCrkRd
+
+#Delaware Bayshore Byway
+DE US9 DE5 DE1_N
+DE DE5 US9/404 DE5Alt/16
+DE DE16 DE30/5Alt BayDr
+DE DE30 DE5Alt/16 DE1Bus
+DE DE1BusMil DE30 DE14
+DE DE14 WalSt DE1
+##New Wharf Road, Big Stone Beach Road, Scotts Corner Road, Milford Neck Road, Frederica Road
+DE DE12 FreRd_S DE1
+DE DE1 86 88B
+##Clapham Road, Barkers Landing Road
+DE DE1 TrapShoRd 91
+DE DE9 DE1 7thSt_E
+##7thSt, SouthSt, 6thSt
+##Bay Shore Drive in Broadkill Beach
+##Sylvan Acres Road, Prime Hook Road
+##Cods Road, Fowler Beach Road, Wells Road, Slaughter Beach Road, Pine Haven Road
+##Walnut Street
+DE DE36 WalSt_N End
+##Bay Avenue
+##Lighthouse Road
+##Bennetts Pier Road
+##South Bowers Road
+##Bowers Beach Road
+##Kitts Hummock Road
+##Bergold Lane
+DE DE299 DE1 DE9
+
+#Delaware River Scenic Byway
+NJ NJ29 LalSt NJ12
+
+#Dinosaur Diamond Prehistoric Highway
+UT US191 400N US40_E
+UT US40 US191_S CO US40 CO64
+CO CO64 US40 CO139
+CO CO139 US6/50 CO64
+CO I-70 19 26
+UT US6 I-70(214) CO US6 I-70(11)
+##Cisco town road
+UT UT128 US191 2ndSt
+
+#Door County Coastal Byway
+WI WI57 WI42_N WI42
+WI WI42 WI57_N PorDr
+
+#East Tennessee Crossing
+TN US25 NC/TN US25E/25W
+TN US25E US25/25W TN/KY
+
+#Ebbetts Pass Scenic Byway
+CA CA4 ManRd CA89
+CA CA89 HotSprRd CA4
+
+#Edge of the Wilderness
+MN MN38 US2 MN1
+
+#Edisto Island National Scenic Byway
+SC SC174 EdiBeaSP WhiPoiRd
+
+#El Camino Real
+NM NM273 TX/NM NM28
+NM NM28Can NM273 NM NM28 NM188
+NM NM188 NM28 US70
+NM NM185 US70 NM26
+NM NM26 NM185 NM187
+NM NM187 NM26 I-25BL
+NM I-25BLTru NM187 NM181
+NM NM181 I-25BL End
+NM I-25 89 92
+NM NM1 I-25(92) I-25BL
+NM I-25BLSoc NM1 I-25_N
+NM I-25 150 152
+##former NM408
+NM US60 I-25(163) I-25(175)
+NM NM304 US60 NM47
+NM NM47 NM304 NM147
+NM NM147 NM47 NM314
+NM US66HisAbq NM147 US550_N
+NM NM313 NM556 HagRd
+##local roads
+NM NM22 BIA88 NM16
+NM NM16 NM22 I-25
+NM I-25 264 271
+##local roads
+NM NM14 AirRd US84/285
+NM US84 NM14 NM68
+NM NM68 US84/285 NM74
+
+#Flaming Gorge-Uintas Scenic Byway
+UT US191 US40_E UT/WY
+UT UT44 UT43 US191
+
+#Flint Hills Scenic Byway
+KS KS177 I-35 US56_W
+
+#Florida Black Bear Scenic Byway
+FL FL40 FL35 I-95
+FL FL19 CR445A CR310
+##CR445A
+##FR29
+
+#Forest Heritage National Scenic Byway
+NC US276 BlueRidPkwy US64/280
+
+#Frontier Pathways Scenic and Historic Byway
+CO CO96 CO69 I-25
+CO CO165 CO96 I-25
+
+#Geronimo Trail Scenic Byway
+NM NM152 NM35 NM187
+NM NM187 NM152 I-25BL
+NM I-25BLTru NM187 NM51
+NM NM51 I-25BL NM177_S
+NM NM177 NM51_E NM51_W
+NM NM179 NM51 NM195
+NM NM195Ele EleButLim NM179
+##local road
+NM NM195 NM181 EleButLim
+NM NM181 NM195 NM52
+NM NM52 NM59 NM181
+NM NM59 CR61 NM52
+
+#Glenn Highway
+AK AK3 McKViewDr AirWay
+
+#Gold Belt Tour Scenic and Historic Byway
+##CR11
+CO CO9 HighParkRd US50
+CO US50 CO9 CO115_W
+CO CO115 US50_W CO67_N
+CO CO67Flo CO115_W US50
+##CR67
+##CR9
+CO CO67 BenAve_W 4thSt
+
+#Grand Mesa Scenic and Historic Byway
+CO CO65 I-70 MainSt
+##Lands End Road
+
+#Grand Rounds Scenic Byway
+##local roads in Minneapolis
+
+#Great Lakes Seaway Trail
+PA US20 OH/PA PA5
+PA PA5 US20 PA5AltEri_W
+PA PA5AltEri PA5_W CraSt
+##Bayfront Parkway
+PA PA5AltEri BayPkwy PA5_E 
+PA PA5 PA5AltEri_E PA/NY
+NY NY5 PA/NY NY384
+NY NY384 NY5 NiaSq
+##Niagara Street
+NY NY266 I-190(8) NY265_S
+NY NY265 NY266_S NY384_N
+NY NY384 NY265_S NY104
+NY NY104 NY384 NY18_W
+NY NY18 NY104_W LakeOntPkwy
+NY LakeOntPkwySprCar NY18 LakeOntPkwy
+NY LakeOntPkwy LakeOntPkwySpr LakeAve
+##CR99, CR97, CR257, Sea Breeze Drive
+NY NY590 8 TitAve
+NY NY404 NY590 BayRd
+##CR16, CR1, CR101
+NY NY14 OntSt NY104
+NY NY104 NY14 NY104A/370
+NY NY104A NY104/370 NY104
+NY NY104 NY104A_N NY104B
+NY NY104B NY104 NY3
+NY NY3 NY104B NY180
+NY NY180 NY3 NY12E
+NY NY12E NY180 NY12
+NY NY12 NY12E NY37
+NY NY37 NY12 NY131_W
+NY NY131 NY37_W NY37_E
+NY NY37 NY131_E SeaIntBr
+##SeaIntBr
+
+PA PA832 PA5Alt PreIsleSP
+##route in Presque Isle SP
+
+#Gunflint Trail Scenic Byway
+##MN CR12
+
+#Haines Highway - Valley of the Eagles
+AK AK7 AMHSFry AK/BC
+
+#Highland Scenic Highway
+WV WV39 WV20/55 WV150
+WV WV150 WV39/55 US219/55
+
+#Historic Bluff Country Scenic Byway
+MN MN16 I-90 US14/61
+
+#Historic Route 66 - Illinois
+IL US66HisChi MO/IL MicAve
+IL US66HisCha MO/IL IL3_S
+IL US66HisCar US66His_S US66His_N
+IL US66HisLiv US66His_S US66His_N
+IL US66HisMou US66His_S US66His_N
+IL US66HisLit US66His_S US66His_N
+IL US66HisWil US66His_W US66His_E
+IL US66HisLin US66His_W US66His_E
+
+#Historic Route 66 - New Mexico
+NM US66HisGal AZ/NM I-40(36)
+NM I-40 36 47
+NM US66HisGra End I-40(117)
+NM I-40 117 149
+NM US66HisAlb I-40(149) I-40(197)
+NM I-40 197 273
+NM US66HisSan I-40(273) I-40(277)
+NM I-40 277 329
+NM US66HisTuc I-40(329) NM/TX
+NM US66HisAbq OldUS66 I-25(242)
+NM I-25 242 278
+NM US66HisSFe I-25(278) NM300
+NM NM300 NM466 OldLVHwy_E
+##Old Las Vegas Highway
+NM I-25 294 299
+NM US66HisPec I-25(299) I-25(307)
+NM I-25 307 339
+NM US66HisApa I-25(319) I-40(256)
+
+#Historic Route 66 - Oklahoma
+OK US66HisEri GraAve I-40_E
+OK I-40BLEri N1720 I-40_E
+OK I-40BLSay ThuDr OldUS66
+OK I-40BLElk I-40_W OK34
+OK US66HisFos I-40 OK44
+OK US66HisCli I-40(61) US183
+OK I-40BLCli 10thSt I-40_E
+OK US66HisWea OK54_S US281
+OK US281 E1020 US270_E
+OK US270 US281_S E1020
+OK US66HisElR US270 OK66
+OK OK66 I-40BL/81 MusRd
+OK US66HisLkO OK66_W OK66_E
+OK OK66 OveDr I-44(124)
+OK US66HisOkl I-44(124) I-35
+OK OK66 I-35(141) I-44(223)
+OK US66HisTul 51stSt OK66
+OK OK66 FordSt JMDavBlvd_E
+OK US66HisCla OK66_W OK66_E
+OK OK66 JMDavBlvd_E 1stSt
+OK US66HisChe OK66_W OK66_E
+OK OK66 S4260 US60
+OK US60 OK66 I-44/59
+OK US59 US60/69 E0140
+OK US66HisMia US59/69 OK/KS
+
+#Hocking Hills Scenic Byway
+OH OH664 OH56 OH374_E
+OH OH56 OH664 OH374
+OH OH374 OH56 US33 
+
+#Illinois River Road: Route of the Voyageurs
+IL IL78 US136/97 IL9_W
+IL IL9 IL78_N US24_E
+IL US24 IL78/97 I-474(6)
+##local road in Peoria
+IL IL29 I-74(93) US6/89
+IL US6 IL29 IL178
+##IL178 & local road to Ottowa
+IL IL71 I-180 IL23_S
+IL IL26 IL116 I-180/71
+IL IL116 US24/150 IL26
+##local road and US24 in East Peoria
+IL IL29 IL9_E I-74(95A)
+##county roads
+IL US136 IL78/97 PromSt_N
+IL IL26 IL29_S I-80
+##local roads around Princeton
+
+#Indian River Lagoon National Scenic Highway
+##CR402
+FL US1 FL406 FL510
+FL FL510 US1 FLA1A
+FL FLA1AVer FL510 FL528(46)
+FL FL3 FL528/A1A JFKSpaCen
+##Cape Canaveral
+FL FL405 US1_S JFKSCen
+FL FL520 US1 FLA1A
+FL FL518 US1 FLA1A
+FL US192 US1 FLA1A
+
+#Indiana's Historic Pathways
+IN US50 IL/IN IN/OH
+IN US150 US50/67 IN/KY
+
+#Jemez Mountain Trail
+NM US550 NM4 NM126
+NM NM4 US550 NM501
+NM NM126 US550 NM4
+
+#Journey Through Hallowed Ground Byway
+VA VA231 US15/33 VA22
+VA VA22 US250 VA231
+##minor road alongside Milton Field
+VA VA53 LakeMonRd VA20
+VA VA20 VA53 VA20Bus_W
+VA VA20BusOra VA20_W US15
+VA US15 US33_W US29_S
+VA US15BusCul US15_S US15_N
+VA US15 US15Bus/29Bus US15/29BusRem_S
+VA US15BusRem US15_S US15_N
+VA US15 US15/29BusRem_N US15/29BusWar_S
+VA US15BusWar US15_S US15_N
+VA US15 US15/29BusWar_N VA7_W
+VA US15BusLee US15_S US15_N
+VA US15 US15Bus_N MD US15 US15BusEmm_S
+MD US15BusEmm US15_S US15_N
+##local road
+PA US15BusGet MD/PA US15_N
+
+#Kaibab Plateau - North Rim Parkway
+AZ AZ67 BriAngPt US89Alt
+
+#Kancamagus Scenic Byway
+NH NH112 I-93 NH16
+
+#Katahdin Woods and Waters Scenic Byway
+##Baxter Park Road, Millinocket Lake Road, Bates St
+ME ME11 KatAve_N ME159_W
+ME ME159 ME11_S End
+##Shin Pond Road, Grand Lake Road
+
+#Lake Erie Coastal Ohio Trail
+##local roads in Toledo
+OH OH120 OH295 OH65
+OH OH295 OH64 US20
+OH OH64 OH295 AntWayTrl_E 
+##River Road
+OH OH2 BroSt OH51_W
+OH OH65 OH2_W I-280
+##local roads
+OH OH2 DecRd LakDrv
+##Lakeshore Drive
+OH OH163 WLakDr OH2Con
+##local road
+OH OH53 OH163 Fry
+OH OH163 OH53 C135
+##local roads
+OH OH269 OH2_E CoRd136
+##local road in Sandusky
+OH US6 VenRd OH283
+OH OH283 US6 I-90(176)
+##Lakeshore Boulevard
+OH OH283 LakShoBlvd_W OH535
+OH OH535 OH283 US20
+OH US20 OH535 CenRd
+##Local roads along coast
+OH US20 OH528 OH534
+OH OH534 US20 OH531
+OH OH531 OH534 OH7
+OH OH7 US20_E OH531
+OH US20 OH7_N OH/PA
+
+#Lake Tahoe - Eastshore Drive
+NV US50 CA/NV NV28
+NV NV28 CA/NV US50
+
+#Lariat Loop Scenic and Historic Byway
+CO CO74 I-70 CO8
+##CR93
+CO I-70BLDen I-70_W HerRd
+##CR93
+CO US6 HerRd CO58/93
+##19thSt, Lookout Mountain Road
+CO US40 LooMouRd CO74
+
+#Lincoln Heritage Scenic Highway
+KY US31E KY61_S US62/150
+KY US150 US31E/62 US150BusSpr_W
+KY US150BusSpr US150_W US150_E
+KY US150 US150BusSpr_E US127_S
+
+#Lincoln Highway
+IL IL136 IA/IL US30
+IL US30 IL136 EmeRd
+##local road
+IL IL2 IL40 US52/26_E
+IL US52 IL2_S IL38
+IL IL38 US52 IL31
+IL IL31 GalBlvd IL38
+##local roads and parts of US30 and IL59
+IL US30 IL59_N IL1
+IL IL1 SaukTrl US30
+##Sauk Trail
+
+#Lincoln Highway Heritage Byway
+IA US6 NE/IA I-29(53B)
+##Old US6
+IA US6HisCou 6th/7thSt KanBlvd
+##North Broadway, L20
+IA US30 NE/IA CRF32
+##local roads
+IA US30 CRL66 IA37_E
+IA IA37 US30_W 12thSt
+##local roads, US30, Pearl St, Clark St, Kenwood Rd, Arion Ave, Arion town, Lincoln Way, Q Av, US30
+IA US30 US59_S CRM64_N
+##Aspen Ave, 20th St, 3rd St, Carrol St, US30
+IA US30 CRN33 CRE39_W
+##Colorado St, 210thSt, E Ave
+##200th St, Apple Ave
+IA IA25 StaSt US30
+##State St, Main St, Kendrick St, 240th St, Westwood Dr, Lincolnway St, 235th St, 230th St
+IA IA144 CRE53_W CRE53_E
+##Main St
+IA US30 CRP46 CRE41_A
+##219th St, 8th St, E41, Marion St, 8th St, Story St, E41, 205th St, IA17, 210th St, U Ave, 220th St, Highland Ave, Sheldon Ave, Lincoln Way
+IA US69 LinWay_W LinWay_E
+##E41, 9th Av, 3rd St, 3rd Ave, Main St, 5th Ave, 235th St
+##7th St, 230th St, Knoll Way
+IA IA330 CRE41 CRS75_S
+##Marshalltown Blvd, 9th St, Main St
+IA IA14 AnsSt_E CRE35
+##Anson St, 12th Ave, Olive St, Shady Oaks Road, US30
+IA US30 YatAve 192
+IA IA146 US30 CRE49
+##Main St
+IA US30 EMainSt CRT47_S
+##T47, E49, Battleground Rd, Meskwaki Rd, E49, Harding St, 9th St, Siegel St, 5th St
+IA US30BusTol LinHwy US30_E
+IA US30 204 CRE66
+##E66, Station St, Irish St, E66, 77th St, 7th Ave, 19th St, 8th Ave
+IA IA21 CRE66_W CRE66_E
+##13th St, 15th Ave
+IA US30 CRV40 246A
+##16th Ave, West Point Rd, Johnson Ave, 15th St
+IA US151BusCed 15thSt 13thSt
+##13th St, 5th Ave, 31st St, 3rd Ave, 35th St, Munier Road
+IA IA100 MunRd US151/13
+IA US151 IA100 LinHwyLpMar_E
+##Bloomington Road
+##10th St, Mount Vernon Road, E48, 1st St, Lisbon Rd, Main St, Kirkwood Blvd
+IA US30 *MainSt_Lis OldLinHwy_W
+##Old Lincoln Highway
+IA US30 OldLinHwy_E CRX64_S
+##7th Ave, 150th St, US30, 155th St, Washington Ave, Main St, Old Lincoln Highway, 235th St, 233rd St, Wright St, Vine St, Williams St, Washington St, Bennet St, Lincoln Way, 235th St, US30, Davenport St, Spring St, 2nd St, Grove St, 5th St, 245th St, 190th St, 250th St, 220th Ave, Sunnyside St, West St, Fulton St, Lincoln St, Clinton St, Washington St, Prarie Lane, 237th St, US30, 11th St, 245th St
+IA US30 CRZ24 US67_S
+##380th Ave, 220th St, 13th Ave, Springdale Dr, 4th Ave, 4th St
+IA US30 US67_N IA/IL
+##Harrison Dr, 19th St, Manufacturing Dr, South Bluff Blvd, 5th Ave
+IA US67 US30_E MainAve_E
+##Main Ave, Harding St, 23rd Ave, Grant St
+IA IA136 IL/IA MainAve_E
+##(note that there's several short diversions off US30's smoother modern route)
+
+#Lincoln Highway Scenic and Historic Byway
+NE US30 WY/NE Rd9
+##through Schuyler
+NE US30 Rd12 US30Bus_W
+NE US30BusFre US30_W US30_E
+NE US30 US30Bus_E NE/IA
+
+#Little Dixie Highway of the Great River Road
+MO MO79 MOsT_Pik MOsW_Pik
+
+#Loess Hills Scenic Byway
+IA US275 IA/MO IA333
+##L44, J18
+IA US275 CRL35 CRJ18
+##L35
+IA IA92 SExpy CRL35
+##SExpy, OldUS6, G8L, L34
+IA US30 IA127 CRL34
+IA IA127 IA183 US30
+IA IA183 IA127 CRE54
+##Oak Street, E54, L16
+IA IA37 IA175 CRL16
+IA IA175 IA37 CRL20
+##L20, E16, L12
+IA IA141 CRK67 IA31
+##K67, D25, D38
+IA I-29 141 151
+IA IA12 I-29(151) OldIA403
+
+#Logan Canyon Scenic Byway
+UT US89 1200E UT30_E
+
+#Lower Mississippi Great River Road
+MS US61 MS/TN MS161Wal_N
+##MS161, OldHwy61
+MS US49Cla MoonLakeRd MS1
+##MS1
+MS US61 MS1 WasSt
+##Washington Street, Warrenton Road
+MS US61 WarRd LA/MS
+MS US84 HomSt US61_N
+##Grand Gulf Road
+
+#McKenzie Pass - Santiam Pass Scenic Byway
+OR OR126 OR242_W OR242_E
+OR OR242 OR126 US20/126
+
+#Meeting of the Great Rivers Scenic Route
+IL IL100 CoonCreRd US67
+IL US67 IL100 IL143
+IL IL143 US67 IL3
+IL IL3 IL143 HawSt
+
+#Merritt Parkway
+CT CT15 NY/CT 54
+
+#Midland Trail
+WV US60 KanBlvd_E DryCrkRd
+
+#Millstone Valley Scenic Byway
+##county roads and short bits of NJ27 and US206
+
+#Minnesota River Valley Scenic Byway
+MN MN28 SD/MN MN7
+MN MN7 MN28 US75_S
+##US75, CR38, CR67, CR34
+MN MN119 CR34 MN40_E
+MN MN40 MN119_N CR33
+##CR33, CR13
+MN US59 CR9_S US212_E
+MN US212 US59_N MN23/67
+MN MN67 US212_W CR21
+##CR21, CR10, 820Ave, CR12, CR15
+MN US71 CR15_Mor MN19_E
+MN MN19 US71_N 370thSt
+##CR51, CR5, CR21 to US14/MN15 junction
+MN MN68 MN15_S US169/60
+MN MN60 MN68 BelAve
+##CR57
+MN MN22 CR57 MN99_E
+MN MN99 MN22_S CR23
+##CR23, CR36
+MN MN93 CR22 MN19
+##CR16 to MN25
+
+#Mohawk Towpath Byway
+##Erie Blvd, Maxon Rd Extension, Aquaduct Rd, NY146, Riverview Rd, Clamstead Rd, Towpath Rd, Canal Rd
+NY US9 VisFerRd CohCreRd
+##Crescent Rd, Mohawk St
+NY NY32 NY787 US4_Wat
+##6th St, Washington Ave, Fonda Rd, Middletown Rd, Halfmoon Dr, Church Hill Rd
+
+#Mohawk Trail Scenic Byway
+MA MA2 US7_N 43(91)
+
+#Mountains to Sound Greenway
+WA I-90 2 101
+
+#Mt. Hood Scenic Byway
+##City Roads
+OR US26 BurRd OR35
+OR OR35 US26 I-84/US30
+OR OR173 US26 TimLodge
+
+#Standing Rock Native American Scenic Byway
+##Main St
+SD SD50 I-90BL_W BIA4
+##BIA4
+SD SD47 NatAmeBy SD249
+##BIA5, BIA10
+SD SD1806FtP PowHouRd SD273
+SD SD34 US83/1806 SD63_N
+SD SD63 US14/34 US212_E
+SD US212 SD63_S BIA8
+##BIA8, BIA3
+SD SD20 BIA3 SD1806_N
+SD SD1806 US12/20_W 2ndSt
+##local roads
+ND ND24 12thAve ND1806
+ND ND1806 ND24 CR134
+
+#Nebo Loop Scenic Byway
+##forest roads
+UT UT198 UT115 600E
+UT UT115 UT198 I-15
+
+#Norris Freeway
+TN US441 US25W TN33_N
+
+#Ohio & Erie CanalWay
+OH OH259 OH416 US250
+OH OH416 OH259 MinAve
+##Wabash Avenue
+OH OH800 CluDr OH212_W
+OH OH212 OH800_S 1stSt
+##CR82, CR111, CR102
+OH OH212 MulSt OH21
+##CR300, CR255
+OH US62 OH21_S CanSt
+##CR620, CR321, CR333
+OH OH172 7thSt OH241_S
+##1stSt
+OH OH236 LakeAve RevAve
+##CR17, CR60, Synder Ave, 2nd St, Wooster Rd
+OH OH619 WooRd PhlPl
+##CH54
+OH OH93 I-277 EastAve
+##Thorton St, Main St
+OH OH261 HighSt OH59_Akr
+##Cuyahoga St, Memorial Parkway, North Portage Path, Riverview Road
+OH OH82 RivRd PineHillRd
+##Chaffee Road, Valley View Road, Canal Road
+OH OH17TrkGar OH17_W RocRd
+OH OH17 ESchRd OH17Trk_W
+##Schaaf Road, Broadview Road
+OH US42 OH94 PubSqu
+OH OH14 PubSqu OH43_N
+##Warner Road
+##Rockefeller Avenue, Independence Road, 49th Street, Canal Road
+##Lake Ave, OH241, CR240
+OH OH43 OH153 OH172
+
+#Ohio River Scenic Byway
+IL US51 US60/62 IL3/37
+IL IL37 US51 CR2
+##CR2
+IL US45 JopRd UniRd
+##Unionville Road, New Liberty Road, New Harmony Road, 1185N, Bay City Road
+IL IL146 CR1 MainSt
+##local road
+IL IL1 WatSt PeaRd
+##local roads
+IL IL13 IL142 IL/KY
+##local roads
+IL IL141 BigHillRd IL/IN
+IN IN62 IL/IN FulAve
+##local road
+IN VetMemPkwy US41 RivDr
+IN I-69Whe KenAve 5
+IN IN662 I-69 EllRd
+##local road
+IN IN66 FreIslTrl IN62_E
+IN IN62 IN66_W CorPike
+##local roads
+IN IN62 I-265(10) IN56_E
+IN IN56 IN62_W IN156_W
+IN IN156 IN56_W IN56_E
+IN IN56 IN156_E US50
+IN US50 IN56/350 OH US50 5thSt
+OH US50TrkCin US50_W US52_E
+OH US52 US50Trk/264 I-275(72)
+##local road
+OH US52 KelRd OH7
+OH OH7 US52 US33/733
+OH US33 OH124/833 PorRd
+##Tornado Road
+OH OH124 ElmSt US50_E
+OH OH7 OH124 US50Bus/618
+OH OH618 US50 OH7_E
+OH OH7 OH32_E US30_E
+OH OH39 OH7_S OH/PA
+
+#Old Canada Road Scenic Byway
+ME US201 ME43 USA/CAN
+
+#Old Frankfort Pike Historic and Scenic Byway
+KY KY1681 US60_E KY4
+KY US62 US60_VerW US421_N
+KY KY1967 US60 KY1681
+KY KY1969 US60 KY1681
+##local roads around Keeneland
+
+#Old King's Highway (Route 6A)
+MA MA6AYar US6_W US6(89)
+
+#Ormond Scenic Loop & Trail
+FL FLA1A FL40 HigRd
+##High Bridge Road, Water Boardman Lane, Old Dixie Highway, North Beach Street
+FL FL40 FLA1A US1
+##John Anderson Drive 
+##Pine Tree Drive
+
+#Outback Scenic Byway
+OR OR31 US97 US395
+OR US395 CA/OR OR31
+##Spur into Fort Rock
+
+#Outer Banks Scenic Byway
+NC US70 MerRd OldRivRd
+##local roads inc spur to Harkers Island
+NC US70 MarRd SchDr
+##local roads
+NC NC12Ced OldCedIslRd CedIslFry
+NC NC12Ocr OcrFry HatFry_W
+NC NC12 HatFry_E US64/158
+
+#Palisades Scenic Byway
+NJ PalIntPkwy I-95 NY PalIntPkwy US6/9W 
+
+#Paul Bunyan Scenic Byway
+##County roads
+
+#Payette River Scenic Byway
+ID ID55 ID44_E US95_N
+
+#Pend Oreille Scenic Byway
+ID ID200 US2/95 ID/MT
+
+#Peter Norbeck Scenic Byway
+SD SD89 SD87 US16Alt_E
+SD US16AltCus SD89 FreCreRd
+##local road
+SD US16AltCus StoLakDr SD244
+SD SD244 US16/385 US16Alt
+SD US16 SD87 SD244
+SD SD87 US16Alt_W US16/385
+
+#Pine Barrens Byway
+##CR611, CR649, NJ49, CR605, CR550, CR610
+NJ NJ47 PetRd CR548
+##CR548
+NJ NJ49 CapeMayAve NJ50
+NJ NJ50 NJ49 US40_E
+##CR559, CR623, CR658, CR542, CR643, CR563, CR624, CR610, CR657
+NJ US9 CR561 CR539
+##CR652, CR679, CR655
+
+#Pioneer Historic Byway
+ID US91 UT/ID ID36_E
+ID ID34 US91 ID/WY
+
+#Pyramid Lake Scenic Byway
+NV NV447 NV427 ValRd
+NV NV446 NV445 NV447
+NV NV445 WayRd SutDr
+
+#Rangeley Lakes Scenic Byway
+ME ME17 MainRd ME4_Ran
+ME ME4 ME17_Ran BeeHillRd
+
+#Red River Gorge Scenic Byway
+KY KY11 KY213 KY77
+KY KY77 KY11 KY715
+KY KY715 KY15_N KY77
+KY KY15 KY11_S KY715_N
+KY KY11 KY1036 KY15_S 
+
+#Religious Freedom Byway
+##Rose Hill Road
+MD MD225 MD224_S MarCorRd
+MD MD224 MD6 MD225_E
+MD MD6 MD224 MD425_W
+MD MD425 MD6_S DurChuRd
+##Durham Church Road
+MD MD6 DurChuRd RoseHillRd
+##Chapel Point Road
+MD US301 ChaPoiRd MD234
+MD MD234 US301 MD5
+MD MD5 MD234 End
+MD MD257 MD254 US301
+MD MD254 NeaSouDr MD257
+MD MD238 MD234 MD242
+MD MD242 MD238 BeaRd
+MD MD243 StFraChu MD5
+MD MD249 End MD5
+##spur to Mt Carmel Monastery on local road
+##spir to St Ignatius Church on local road
+
+#Revolutionary Heritage Byway
+RI RI114 RI103_BarE BoyLn
+
+#River of Lakes Heritage Corridor
+##US1, local roads in Oak Hill, CR4164
+FL FL415 CR415 CR4162
+##Seminole Blvd, Mellonville Ave, Celery Ave
+FL US17 SemBlvd CR305
+##CR4162
+##CR3, CR4053, Grand Ave, Beresford Road, Fatio Rd
+FL FL44DeL CR42 I-4
+##FL44, local roads
+FL FL11 US17 CR304
+
+#River Road Scenic Byway
+##MI65 RolRd FS2600
+##FS2600
+
+#Rogue-Umpqua Scenic Byway
+OR OR99 I-5(40) OR234_E
+OR OR234 OR99_E OR62
+OR OR62 OR234 OR230
+OR OR230 OR62 OR138
+OR OR138 I-5(124) OR230 
+
+#Russell - Brasstown National Scenic Byway
+GA GA180 GA348 GA17/75
+GA GA75 GA180 GA75Alt
+GA GA75AltCle GA75_N GA348
+GA GA348 GA75Alt GA180
+GA GA180SprBra GA180 End
+
+#Sandhills Journey Scenic Byway
+NE NE2 US385_S US281_N
+
+#Santa Fe Trail
+NM US66HisSFe WatSt_E NM300
+NM NM300 NM466 OldLVHwy_E
+##Old Las Vegas Highway
+NM I-25 294 299
+NM US66HisPec I-25(299) I-25(307)
+NM I-25 307 343
+NM I-25BLLas I-25_S 7thSt
+##7th Street
+NM NM518 MilAve NM161
+NM NM161 NM518 FtUniNM
+NM I-25 366 412
+NM I-25BLSpr I-25_S US56/412
+NM NM21 US64 I-25BL
+NM US64 NM21 I-25BL_N 
+NM I-25BLRat I-25_N I-25_S
+NM I-25 454 CO I-25 11
+##Santa Fe Trail, Main St
+CO US160 SanFeTrl US350
+CO US350 US160 US50
+CO US50 US350 CO/KS
+NM US56 I-25BL NM453
+NM NM453 US56/412 US64/87
+NM US64 NM453 NM406
+NM NM406 US56/64 NM410
+NM NM410 NM406 NM/OK
+
+#Savannah River Scenic Byway
+SC SC28 GA/SC SC81
+SC SC81 SC28_E SC412
+SC SC412 SC187 SC81
+SC SC187 SC412 SC24_W
+SC SC24 SC187_S SC182
+
+#Scenic Byway 143 - Utah's Patchwork Parkway
+UT UT143 I-15 US89
+
+#Scenic Highway 30A
+#FL CR30A
+
+#Scenic Highway of Legends
+CO CO12 I-25 US160
+CO US160 CO12 I-25(50)
+##CR46, CR43.7
+
+#Schoodic Scenic Byway
+ME US1 ESideRd ME186_W
+ME ME186 US1_W MooRd
+##gap
+ME SchLpRd FraCrk Win/Gou
+##gap
+ME ME186 ESchDr ME195_S
+
+#Sequatchie Valley Scenic Byway
+TN US127 US27 I-40
+
+#Sheyenne River Valley Scenic Byway
+##small sections of ND32 and ND46. The rest county roads
+ND I-94BLVal 8thAve CenAve
+
+#Silver Thread Colorado Scenic and Historic Byway
+CO CO149 US160 US50
+
+#Sky Island Scenic Byway
+##local road
+
+#Skyline Drive
+VA SkyDr US250 US340
+
+#St. John Valley Cultural Byway / Fish River Scenic Byway
+ME ME161 AllRiv US1_FtKS
+ME US1 ME161_FtKN JemRd
+ME US1AltFor WilRd US1_N
+ME ME11 WestRd US1
+ME ME162 ShoRd US1
+
+#Staunton-Parkersburg Turnpike
+WV WV47 WV618 US33/119
+WV US33 WV47 MainSt
+##CR151
+WV WV92 CR151 US250/28
+WV US250 WV92_ElkN WV/VA
+
+#Stevens Pass Greenway
+WA US2 RooRd US2Bus_W
+
+#Strait of Juan de Fuca Highway - SR 112
+WA WA112 MakIndRes US101
+
+#Talimena Scenic Drive
+OK OK1 US271_N OK/AR
+AR AR88 OK/AR US59/71_S
+
+#Talladega Scenic Drive
+AL AL281 AdaGapRd US78
+
+#The Energy Loop: Huntington and Eccles Canyons Scenic Byways
+UT UT31 US89 UT10
+UT UT264 UT31 UT96
+UT UT96 UT264 US6
+
+#The George Parks Highway Scenic Byway
+AK AK3 AK2 McKViewDr
+
+#Tioga Road/Big Oak Flat Road
+CA BigOakRd CA120 TioPassRd
+CA TioPassRd BigOakRd CA120
+
+#Top of the Rockies
+CO CO82 BleSt US24
+CO US24 CO82 I-70(171)
+CO CO91 US24 I-70
+
+#Trail of the Ancients
+UT UT261 US163 UT95
+UT UT95 UT275 US191
+UT UT262 US191 NR5099
+##Local Roads
+CO US491 CO184 CR-Z
+CO CO184 US491 CO145_W
+CO CO145 US160 CO184_W
+UT US163 AZ/UT US191
+UT US191 US163 US491
+UT UT162 US191 UT/CO
+CO CO41 US160 CO/UT
+CO US160 NM/CO MesaVerdNP
+UT UT275 UT95 NatBriNM
+UT BriViewDr UT275 BriViewDr_S
+
+#Trail of the Ancients Scenic Byway - New Mexico
+NM ChaLoopRd ChaCanRd PueArr
+NM ChaCanRd NM57 ChaLoopRd
+NM NM57Cha McK/San ChaCulNHP
+##N14, N9
+NM NM371 NM122 BIA9_E
+NM NM122 NM371/612 NM412
+##CR19
+NM NM412 I-40 NM122
+NM I-40 63 81
+NM NM53 PiaMesaRd I-40 
+##IR4
+NM NM602 BIA4 NM564
+NM NM610 NM564/602 NM609
+NM NM609 NM608 NM610
+NM NM608 NM609 US491
+NM US491 NM608 BIA5
+##N19, N5
+NM NM371 BIA5 US64
+
+#Trail of the Mountain Spirits Scenic Byway
+NM NM15 US180 CliDweNM
+NM NM35 NM152 NM15
+NM NM152 US180 NM35
+NM US180 NM90 NM152
+NM NM90 ColAve US180
+
+#Turquoise Trail
+NM NM333 NM337 NM14
+NM NM14 NM333 I-25
+NM NM536 SanPeak NM14
+
+#Washington Heritage Trail
+WV WV9 MD/WV WV115_Bak
+WV WV115 WV9_Bak WV480
+WV WV480 WV115 WV45/230
+WV WV230 US340 WV45/480
+WV US340 WV9_W WV/VA
+WV WV51 WV115 US340/9
+WV WV115 US340 WV51
+WV US340 AugAve WV115
+#Augustine Avenue
+WV WV51 SumPtRd WV45
+#CR20, CR18, CR13, US522, CR9/10
+
+#West Cascades Scenic Byway
+#missing section FS19
+OR OR126 FS19 OR22
+OR OR22 US20/126 BreRd
+#missing section FS roads
+OR OR224 FS46/57 OR211_S
+
+#Western Heritage Historic Byway
+#missing section local roads
+ID ID69 OrcAve I-84
+
+#Western Highlands Scenic Byway
+##CR515, CR614, CR517
+NJ NJ94 CR517_N NJ/NY
+
+#Wetlands and Wildlife Scenic Byway
+#missing section local roads and KS156
+KS KS4 US281_N 60Ave
+
+#White Mountain Trail
+NH US3 I-93(33) US302
+NH US302 US3 NH16_S
+NH NH16 NH113_Con US302_W
+##missing spur from Bartlett
+
+#White Pass Scenic Byway
+WA US12 I-5(68) WA410
+
+#Whitewater Canal Scenic Byway
+#Ridge Avenue
+IN IN1 US50 RidAve
+IN US50 IN1 IN/OH
+##Old US52 from state line at Harrison
+IN US52 IN121 I-74(169)
+IN IN121 US52 IN44
+##Grand Avenue
+IN IN1 30thSt_W CemRd
+##IN1, Boyd Road, US40, Green Street, Delaware Street, IN1
+IN IN1 I-70 IN38
+IN IN38 WasSt IN1
+
+#Wichita Mountains Bywa
+##missing section in wildlife refuge
+OK OK49For WicMouWR I-44
+OK OK115 WicMouWR OK9_E
+OK OK9 OK115_S OK58
+OK OK58Med OK49 OK9
+OK OK19 OK58_N US62_W
+
+#Wilderness Road Heritage Highway
+KY US25E TN/KY KY229
+KY KY229 US25E US25
+KY US25 KY229 KY21_W
+
+#Wisconsin Lake Superior Scenic Byway
+WI WI13 CRH_Dou US2_W
+
+#Woodlands Trace
+TN TN461 US79 LandBLakNRA
+TN WooTra TN461 KY WooTra KY453
+KY KY453 KenLakeDr I-24
+
+#Zion Scenic Byway
+UT UT9 UT17 ZionEEnt
