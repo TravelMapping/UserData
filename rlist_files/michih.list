@@ -1,4 +1,4 @@
-# Date: 2024-01-15
+# Date: 2024-01-19
 # ----------------
 
 ######################
@@ -112,6 +112,13 @@ DEU-NW S1 MulHeimHbf DuisBurgHbf
 DEU-NW S2 DortMundHbf Her                                           #2022 via Castrop-Rauxel, Westerfilde, Dorstfeld
 DEU-NW S4 DortMundWic DortMundKorWest                               #2022
 DEU-NW S6 EssHbf DusDorfHbf                                         #2022 via Derendorf, Ratingen-Ost, Kettwig
+
+DEU-NW S8 Sch WupTalHbf                                             #2024, actually traveled as RE7 from Hagen
+#DEU-NW RE7 Hagen Hbf Wuppertal Hbf                                 #2024
+DEU-NW S7 WupTalHbf SolHbf                                          #2024
+DEU-NW S1 DusDorfHbf SolHbf                                         #2024
+DEU-NW S28 WupTalVohWin DusDorfGerHeim                              #2024
+
 
 DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
 DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
@@ -440,9 +447,11 @@ DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
 DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
 #Düsseldorf
+DEU-NW U73 GerHeimS PohWeg            #2024
 DEU-NW U73 HeiHeiAll UniOstBotGar     #2022
 DEU-NW U76 RheStr HeiHeiAll           #2023
 DEU-NW U79 DuisBurgMeiBf UniOstBotGar #2022
+DEU-NW U83 GerHeimKraHaus HeiHeiAll   #2024
 
 #Essen
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
