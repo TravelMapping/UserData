@@ -2262,7 +2262,10 @@ MN MN371BusBra MN371_S MN371_N
 
 # Mississippi (MS)
 # ---------------------
-# --- State route system not yet activated
+MS MS7 I-22/78 US72
+MS MS304 US61 I-269(1)
+MS MS311 EddLSmiDr_W US72
+
 
 # Missouri (MO)
 # ---------------------
