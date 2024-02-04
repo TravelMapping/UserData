@@ -1,4 +1,4 @@
-# Date: 2024-01-28
+# Date: 2024-02-03
 # ----------------
 
 
@@ -7259,6 +7259,13 @@ LVA A5 A6 P137
 LVA A6 A5 A4
 LVA A7 P137_S LVA/LTU
 LVA P137 A5 A7_S
+
+
+
+# MOROCCO
+
+MAR A1 P4030 A3
+MAR A3 A1 P3038
 
 
 
