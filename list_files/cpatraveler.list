@@ -1,3 +1,9 @@
+FL US221 I-10 US19/27  #Travel to Glades Electric for FW
+FL US221 US27_S US19/98
+FL US19 I-10 US27_N  #Previous trips to Orlando and Glades
+FL US27AltPer US19/98_S US41_S
+FL US27 US41_S I-75(354)
+FL FL320 US19/98 ManSprSP  #Visit Manatee Springs Park Campground
 CO CO71 US24_E US34_E #01172024 Travel to Fort Morgan after K.C. Inventory Counts
 CO US6 I-76(92) CO63
 CO US6 I-70(11) I-70(26)  #01152024 Grand Valley Inventory Clean up Grand Junction Roads
@@ -2365,7 +2371,7 @@ TX TX183 TXSpr97 I-35E
 TX I-35Gai 467 469
 TX US380 I-35 US81/287
 TX US287 US380 I-40(78)
-TX TXLp335 I-40(75)_S I-40(64)
+TX TXLp335 I-40(75)_S I-40(63)
 TX I-40 78 NM/TX
 TX US385 I-40 US87_N
 TX US54 US87/385 US287
