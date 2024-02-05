@@ -1,0 +1,144 @@
+#Corridor A	Sandy Springs, GA – Clyde, N
+GA GA400 4 13
+GA GA372 CanRd_N I-575
+GA GA515 I-575 GA/NC
+NC NC69 GA/NC US64
+NC US64 NC69 US23/441_N
+NC US64TrkHen US64_W I-40(27)
+
+#Corridor A-1	Cumming, GA – Dawsonville, GA
+GA GA400 13 GA53
+
+#Corridor B	Asheville, NC – Lucasville, OH
+NC I-240 31(26) 4A
+NC US23 I-240(4A) KY US23 KY10
+KY KY10 US23 KY/OH
+OH OH253 KY/OH US52
+OH US52 OH823 152
+OH OH823 US52 16
+
+#Corridor B-1	Greenup, KY – Lucasville, OH
+KY US23 KY10 KY8
+KY US23TrkPor US23_S KY/OH
+OH OH852 KY/OH OH73/104
+OH US23 CR38_S OH823
+
+#Corridor C	Lucasville, OH – Columbus, OH
+OH US23 OH823 83
+
+#Corridor C-1	Jackson, OH – Chillicothe, OH
+OH US35 OH32 US23_S
+
+#Corridor D	Mount Carmel, OH – Clarksburg, WV
+OH OH32 I-275 OH690
+OH US50 OH690 WV US50 I-79
+
+#Corridor E	Morgantown, WV – Hancock, MD
+WV I-68 I-79 MD I-68 82
+
+#Corridor F	Caryville, TN – Whitesburg, KY
+TN TN63 I-75(134) US25E_N
+TN US25E TN63_W KY US25E US119
+KY US119 US25E US23_S
+
+#Corridor G	Pikeville, KY – Charleston, WV
+KY US119 US23/460 WV US119 I-64(58A)
+
+#Corridor H	Weston, WV – Strasburg, VA
+#WV US48 I-79 VA US48 I-81
+
+#Corridor I	Winchester, KY – Whitesburg, KY
+KY ComMtnPkwy I-64 43
+KY KY15Cam KY15/191 ComMtnPkwy
+KY KY15 US119/15Bus KY15Cam/191
+
+#Corridor J	Chattanooga, TN – London, KY
+TN US27 I-24(178) TN111
+TN TN111 US27 TN52
+TN TN52 TN53 TN111
+TN TN53 TN52 TN/KY
+KY KY61 TN/KY KY90_E
+KY KY90 KY61_S US27/1247
+KY KY1247 US27/90 KY914
+KY KY914 KY1247 HalRogPkwy_E
+KY KY80 KY914_E I-75
+
+#Corridor J-1	Algood, TN – Celina, TN
+TN TN56 I-40(280) TN53_S
+TN TN53 TN56_S TN52
+
+Corridor K	Cleveland, TN – Dillsboro, NC	127.7 mi
+TN US74 I-75(20) NC US74 81
+
+#Corridor L	Beckley, WV – Sutton, WV
+WV US19 WV16_N I-79(57)
+
+#Corridor M	New Stanton, PA – Harrisburg, PA
+PA US22 PA66 I-81
+PA PA66 US119 14
+
+#Corridor N	Grantsville, MD – Ebensburg, PA
+MD US219 I-68(22) PA US219 US22
+
+#Corridor O	Cumberland, MD – Bellefonte, PA
+MD US220 I-68(46A) PA US220 I-80(161)
+
+#Corridor O-1	Port Matilda, PA – Clearfield, PA
+PA US322 PA970 I-99(62)
+PA PA970 US322 I-80
+
+#Corridor P	Mackeyville, PA – Milton, PA
+PA US220 I-80(178) PA US220 I-180(29)
+PA I-180 I-80/147 29
+
+#Corridor P-1	Duncannon, PA – Milton, PA
+PA US15 US22/322_E PA147_N
+PA PA147 US15_N I-80/180
+
+#Corridor Q	Pikeville, KY – Christiansburg, VA
+KY US460 US23/119 VA US460 I-81(118)
+KY KY3174 US23/119 KY195
+KY KY3174Elk KY80 KY/VA
+
+#Corridor R	Campton, KY – Prestonsburg, KY
+KY ComMtnPkwy 43 US460
+KY US460 ComMtnPkwy KY114_W
+KY KY114 US460 US23/460
+
+#Corridor S	Morristown, TN – Cumberland Gap, TN
+TN US25E I-81 TN63_W
+
+#Corridor T	Erie, PA – Binghamton, NY
+PA I-86 1 PA/NY
+NY NY17 PA/NY NY NY17Bin 131
+NY I-86FutMon 131 I-87
+
+#Corridor U	Williamsport, PA – Elmira, NY
+PA US15 I-180(29) PA US15 PA287
+PA PA287 US15 PA328
+PA PA328 PA287 PA/NY
+NY NY328 PA/NY NY14
+NY NY14 NY328 I-86
+
+#Corridor U-1	Tioga, PA – Corning, NY
+PA US15 PA287 NY US15 I-99(13)
+
+#Corridor V	Batesville, MS – Kimball, TN
+MS US278 I-55 US45_N
+MS US45 US278/6_W I-22/78
+MS I-22 86 108
+MS MS25 I-22(108) OldHwy25N
+MS MS76 MS23 MS/AL
+AL AL24 MS/AL AL67
+AL AL67 AL24 US72ALT/20_E
+AL US72AltDec AL67_S I-565(21)
+AL US72 I-565(21) TN US72Cha I-24(152)
+
+#Corridor W	Greenville, SC – East Flat Rock, NC
+SC US25 I-85(44) NC US25 8
+
+#Corridor X	Fulton, MS – Birmingham, AL
+MS I-22 108 AL I-22 I-65
+
+#Corridor X-1	Bessemer, AL – Leeds, AL
+

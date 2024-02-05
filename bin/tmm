@@ -11,4 +11,5 @@ endif
 # loop over the range of pull request numbers
 foreach pr ( `seq $1 $2` )
   gh pr merge -m $pr
+  sleep 2
 end
