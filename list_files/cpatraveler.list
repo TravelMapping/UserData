@@ -1,4 +1,11 @@
-FL US221 I-10 US19/27  #Travel to Glades Electric for FW
+FL US98 FL44 US41_S  #Travel to Tampa pickup Robert then Lake Placid 02052024
+FL US98 US41_N I-75
+FL I-275 I-75_N 39B
+FL FL60 I-275 US92
+FL US92 FL60 FL574_W
+FL FLTpk 251 193 #Travel to Glades Board Meeting
+FL US441 FL60 US98_W
+FL US221 I-10 US19/27  #Travel to Glades Electric for FW 02042024
 FL US221 US27_S US19/98
 FL US19 I-10 US27_N  #Previous trips to Orlando and Glades
 FL US27AltPer US19/98_S US41_S
