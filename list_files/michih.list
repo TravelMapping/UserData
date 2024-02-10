@@ -1,4 +1,4 @@
-# Date: 2024-02-09
+# Date: 2024-02-10
 # ----------------
 
 
@@ -7290,7 +7290,7 @@ MAR N7 A3 N9_N
 MAR N7A N1 R301
 MAR N8 N4 N6_W
 MAR N8 AveMohV_E A4
-MAR N9 P3038 N12_S
+MAR N9 BlvdFacHas N12_S
 MAR N9 A301 N7_N
 MAR N11Cas A3 A101
 MAR N11A VoieTizDak A3_Aga
@@ -7301,7 +7301,13 @@ MAR N16 A7_Tet AveCas
 MAR N23 R322 A4
 MAR N25 N1 N12_W
 MAR N27 N1_S N13
-
+#MAR R322 BlvdRes P4030 #Mohammedia - Skhirat
+#MAR P3038 A3 N9        #north of Casablanca Airport
+#MAR P4030 A1 west of roundabout #Skhirat
+#MAR P5006 P5055 N4     #Rocade Sud Fes
+#MAR ? A201 P5006       #Fes
+#MAR ? R320 A102        #Rocade Sud-Ouest de Casablanca
+#MAR ? N2 N16           #Tetouan Avenue 9 Avril, direct route
 
 
 # MOLDOVA
