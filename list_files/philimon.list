@@ -2907,10 +2907,10 @@ NZL VolLpHwy SH46/47 SH46
 
 ======ΝΕΑ ΚΑΛΗΔΟΝΙΑ======
 
-NCL E1 AveJamCook E2
+NCL E1 AveJamCook T1
 NCL E2 E1 T1
 
-NCL T1 E2 P20
+NCL T1 E1 P20
 
 ======ΠΟΛΩΝΙΑ======
 
@@ -3108,3 +3108,11 @@ TUR E90 GRC/TUR D110/D550
 TUR D100Cor O3(31) D550
 TUR D110 D550 GRC/TUR
 TUR D550Kes D100 D110
+
+======ΟΥΑΛΙΣ ΚΑΙ ΦΟΥΤΟΥΝΑ======
+WLF T1 T3_N T6
+WLF T1 T2_N T3_S
+WLF T2 T1_S T1_N
+WLF T3 T1_E T2
+WLF T4 T1_N T6
+WLF T6 T4 T1
