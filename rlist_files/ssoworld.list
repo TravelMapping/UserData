@@ -43,9 +43,11 @@ IL GreLn Cli Roo
 IL PinkLn Cli Loop
 IL RedLn Roo Add
 
-# Metra Commuter (Not installed)
+# Metra Commuter
+IL UPNW OglTraCen Har
+IL ME MilSta 55th56th57thSt
 
-# O'Hare Airport Transit
+# ORD Airport Transit
 IL AirTraSys Ter1 MulModFac
 
 ### Minnesota
@@ -63,6 +65,10 @@ NV MTI Mir TreIsl
 ### New Jersey (See also New York)
 # NJ Transit
 NY NECorLn PennSta NJ NECorLn MetPark
+
+# EWR Airport Airtrain
+NJ AirTrn P3 TerA
+
 
 ### New York (See also NJ and CT)
 # New York City
