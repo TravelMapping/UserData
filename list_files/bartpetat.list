@@ -293,7 +293,7 @@ NLD S123Rot S126_E S103
 NLD S126Rot S103 S104
 
 NLD RingApe N344_N ZwoWeg_N
-NLD RingApe KayDijk N304
+NLD RingApe N344_E N304
 NLD RingDen N44_E A4/N211
 NLD RingDen MonWeg N44_W
 NLD RingEin TilWeg_W CedLaan
