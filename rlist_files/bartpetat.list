@@ -1,4 +1,4 @@
-# THE NETHERLANDS
+s# THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 NLD IC35 AmsCen NLD/BEL
 
@@ -112,7 +112,7 @@ BEL IC2 Bru AntCen
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
-BEL L9 Wel BEL/DEU
+BEL S41 LieGui BEL/DEU
 BEL S43 LieGui BEL/NLD
 
 #Tram
@@ -180,7 +180,7 @@ DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
 
 DEU-NW RE18 NLD/DEU AacHbf
-DEU-NW L9 BEL/DEU AacHbf
+DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
 DEU-NW S6 DusseldorfHbf KolnHbf
