@@ -50,8 +50,8 @@ IL I-24 I-57 IL/KY				#08/11/23		CLINCHED
 IL I-39 59 97					#03/11/23
 IL I-39 104 IL/WI				#9/12/22
 IL I-41 WI/IL 1B
-IL I-55 165 277B				#7/15/22
-IL I-55 292 US41				#12/14/22
+IL I-55 MO/IL 277B				#02/06/24
+IL I-55 292 US41
 IL I-57 44 358					#08/11/23
 IL I-64 130 IL/IN				#08/11/23
 IL I-80 IA/IL 4
@@ -61,6 +61,7 @@ IL I-90 WI/IL IL/IN
 IL I-94 WI/IL IL/IN				#07/02/23		CLINCHED
 IL I-180 IL26_S I-80			#03/11/23		CLINCHED
 IL I-190 I-90 ChiOHAir
+IL I-270 MO/IL 15				#02/06/24		CLINCHED
 IL I-280 IA/IL I-80				#04/26/23		CLINCHED
 IL I-290 I-90 17				#12/10/22
 IL I-294 I-94_E 52
@@ -204,6 +205,17 @@ MI MI39 1 15
 MI MI120 US31Bus LakeAve	#9/6/22
 
 ######
+# MO #
+######
+
+MO I-44 OK/MO 253
+MO I-44 272 291A
+MO I-55 207B MO/IL
+MO I-270 9 MO/IL
+MO MO100 I-44 I-270
+MO MO141 I-44 BigBendRd
+
+######
 # OH #
 ######
 
@@ -211,6 +223,15 @@ OH I-74 IN/OH 9
 OH I-275 25 43
 OH I-75 16 24
 OH OH129 US127 25
+
+######
+# OK #
+######
+
+OK I-44 224 OK/MO
+OK US75 TX/OK US69_N
+OK US69 TX/OK OK375
+OK US75 I-40(240) I-44
 
 ######
 # SC #
@@ -241,8 +262,13 @@ TN TN251 US70S I-40			#08/11/23
 # TX #	Note: In most cases, distance traveled on feeder roads will be counted.
 ######
 
+TX I-35E 429A 447
+TX US75 I-345(286) TX/OK
 TX TX71 I-35 KelRd		#10/25/22
+TX TX121 I-35E DalNorTlwy
 TX TX130 451 449		#10/25/22
+TX TXSpr366 I-35E US75
+TX DalNorTlwy I-35E CotGinRd
 
 ######
 # WI #
@@ -350,6 +376,7 @@ WI WI794 ColAve I-794		#5/25/22
 # CHANGE LOG #
 ##############
 
+# 02/14/24 - Added segments from HC 2024 trip.
 # 12/17/23 - Added segments for WI-32 and WI-33.
 # 07/02/23 - Indiana trip. Clinched IL-394, I-94 in IL. Added other segments in IL, IN.
 # 05/23/23 - Waunakee trip. Added segments for I-39, WI-19, WI-113.
