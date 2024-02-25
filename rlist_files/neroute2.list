@@ -10,6 +10,10 @@ FL SunRail AltSpr SandLakeRd #99% sure I went beyond LynxCenSta to SandLakeRd
 
 FL TerLink TerA/B TerC
 
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+
 CA BARTRed SanFraAir MonSt
 
 VA BluLn KingStOldTown VA/DC
