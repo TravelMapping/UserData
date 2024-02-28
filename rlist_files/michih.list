@@ -1,4 +1,4 @@
-# Date: 2024-01-31
+# Date: 2024-02-27
 # ----------------
 
 ######################
@@ -293,8 +293,11 @@ DEU-BW U13 FeuBachBf Hed                                                        
 DEU-BW U14 MuhlHau +DIV_WilPla                                                                 #2023, U14 via Münster, Charlottenplatz, Berliner Platz to Hbf; rerouted from 2024
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
+DEU-BW U19 NeuGer NecParkSta                                                                   #2024
 DEU-BW S1 StaMit Wen                                                                           #201x, S1
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
+DEU-BW S3 Bac BadCan                                                                           #2024, S3
+DEU-BW S4 Bac LudBurg                                                                          #2024, S4
 DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
 DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
 DEU-BW S6 Ren StuHbf                                                                           #2020, S6
