@@ -2,21 +2,25 @@
 #User - Moabdave
 
 #Inactive
-#ARG
 #Bah
 #BVI
 #Cayman
-#Colombia 
 #Dominican Republic
-#Ecuador
 #Nicaragua
-#Peru
 #Qatar
 #Saudi
 
 #Argentina
+ARG AU1 AutBALP AU6
+
 ARG RN8 RN9 CMad
 ARG RN9 AvGenPaz RP25
+
+ARG AvGenPaz AutDel AvLib
+ARG AutIll Arr AvLib_N
+ARG AutDel AvGenPaz AU1/6
+ARG PasBajo AutBALP AutIll
+ARG AutRic 14 AerIntEze
 
 #Australia 
 
@@ -68,6 +72,39 @@ CHL AccVialAMB CosNor TerCarInt
 CHL CosNor 11 31
 CHL TunSanCri R70 AvKen
 
+#Colombia
+COL AutNorBog AvCl80 RN45A
+COL AvNQS AvDor AutNor
+COL AvDor EjeAmb AerIntDor
+
+COL RN45A Bog RN55
+COL RN55 RN45A RN55CNC_N
+COL RN55CNC RN55_S RN55_N
+
+#Ecuador
+ECU E15 E30 E40
+ECU E20 E25_S E28C/E35
+ECU E25 E_50_W E20_E
+ECU E28A E35 End
+ECU E28B AvDieVas AerIntQui
+ECU E30 AvMarAux E482
+ECU E35 Sang_N E47
+ECU E35 AvAme_N AvAme_S
+ECU E40 Sal ViaPer_S
+ECU E47 E35 E40
+ECU E48 E40 E482
+ECU E48 E48 E25/E49A
+ECU E50 PER/ECU CapRioFra
+ECU E59 E25 Pas_E
+
+ECU E482 E30 E48
+ECU E582 AvAme E25
+ECU E583 MalManMora E25
+ECU E585 E584 E50
+
+ECU AvSimBol E28A E28A
+ECU RutaCol E28B AerMarSuc
+
 #Estonia
 EST T1 EST/RUS T91_E
 
@@ -118,6 +155,14 @@ NLD A4 A10 2
 
 NLD S100Ams ZeeDijk Dro
 NLD S112Ams S100 A10
+
+#Peru
+PER PE1N PlaPoc PER/ECU
+PER PE3S ProlJaq PE28G
+PER PE20B AvTomVal PE20K
+PER PE20I PE20B ViaCosVer
+PER PE28B Pis PuePach
+PER ViaCosVer AvMigGrau CL/LM
 
 #Qatar
 QAT M90 D1 6(Q5) 
