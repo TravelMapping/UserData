@@ -3183,6 +3183,7 @@ NY InnLoop I-490 UniSt
 NY JacRobPkwy JamAve 7
 NY KorWarPkwy NY440(1) DruRd
 NY LakeOntPkwy NY18 LakeAve
+NY LakeOntPkwySprCar NY18 LakeOntPkwy
 NY LoopPkwy LidoBlvd MeaStaPkwy  
 NY MeaStaPkwy BayPkwy NorStaPkwy 
 NY MosPkwy SouBlvd HenHudPkwy
@@ -3889,7 +3890,7 @@ PA PA282 PA82 US30Bus
 PA PA283 EisDr US30 
 PA PA286TrkInd US119/422 US119_N 
 PA PA287 US220 PA49 
-PA PA291 US13_S I-95(12)
+PA PA291 US13_S I-76
 PA PA296 PA196 CorRd
 PA PA296 US6 PA247 
 PA PA305 PA26_S PA655 
