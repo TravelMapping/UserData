@@ -106,6 +106,7 @@ ECU E583 MalManMora E25
 ECU E585 E584 E50
 ECU E682 E35/E50 UniNacLoja
 
+ECU AvMarSuc BahCar AvEdmCar
 ECU AvSimBol E28A E28B
 ECU RutaCol E28B AerMarSuc
 
