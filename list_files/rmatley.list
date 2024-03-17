@@ -1234,6 +1234,11 @@ MEX-YUC MEX180 YUC79 Coba
 MEX-YUC MEX295 C19 C39/C41
 MYS AH150 TawNunFry SA51
 PER PE20B AvTomVal PE20K
+PER CirPla SubCho SubArm
+PER CirPla SubBal BajMar
+PER ExpLuisRey AvGrau AvCan
+PER ExpLuisRey AvAra AvBen
+PER SubArm AvMigGrau CirPla
 PRT A2 AcePon25Abr 8
 PRT A5 3 1
 PRT A16 7 8
