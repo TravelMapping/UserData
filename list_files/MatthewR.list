@@ -19,11 +19,11 @@ CA I-5 525B 458B
 CA I-5 446 1
 
 #California I-8
-CA I-8 2A SunCliBlvd
+CA I-8 SunCliBlvd 17A
 CA I-8 170 CA/AZ
 
 #California I-10
-CA I-10 1 131
+CA I-10 1 168
 
 #California I-15
 CA I-15 19 115
@@ -33,7 +33,7 @@ CA I-15 179 246
 CA I-80 1A CA/NV
 
 #California I-105
-CA I-105 1A 7B
+CA I-105 1A 18
 
 #California I-110
 CA I-110 GafSt 3A
@@ -58,7 +58,7 @@ CA I-305 1A 6
 CA I-380 5A 7
 
 #California I-405
-CA I-405 7 I-5(158)
+CA I-405 I-5(94A) I-5(158)
 
 #California I-505
 CA I-505 1A I-5
@@ -68,13 +68,13 @@ CA I-580 1A I-5
 
 #California I-605
 CA I-605 27 19
-CA I-605 7A 1A
+CA I-605 1A 11
 
 #California I-680
 CA I-680 30 71
 
 #California I-710
-CA I-710 1B 9
+CA I-710 1 18A
 
 #California I-805
 CA I-805 I-5(31) I-5(1A)
@@ -375,10 +375,9 @@ TN US79 TN374_E I-24
 CA CA1 LitLakeRd CA128
 CA CA1 OldStaHwy ValRd
 CA CA1 226 62B(101)
-CA CA1 109 1(10)
-CA CA1 VenBlvd ManBeaBlvd
+CA CA1 112 ManBeaBlvd
 CA CA1 CreBlvd I-110
-CA CA1 SealBeaBlvd DohParkRd
+CA CA1 CA19 DohParkRd
 
 #CA-1 Bus Cayucos:
 CA CA1BusCay CA1_N CA1(284)
@@ -395,7 +394,7 @@ CA CA1BusSea CA1(401B) CA1(404)
 #CA-2:
 CA CA2 WilBlvd SanVinBlvd
 CA CA2 US101(7) US101(4B)
-CA CA2 13A PacCreTr
+CA CA2 US101(4B) PacCreTr
 
 #CA-3:
 CA CA3 CA299_E CA299_W
@@ -444,7 +443,7 @@ CA CA20 CA99 I-80
 CA CA22 I-405(23) 14C
 
 #CA-23:
-CA CA23 US101(40) US101(43)
+CA CA23 12 LecRd
 
 #CA-24:
 CA CA24 2 15
@@ -476,6 +475,10 @@ CA CA37 US101 21
 
 #CA-38:
 CA CA38 CA18 StaCut
+CA CA38 JenLakeRd_W I-10
+
+#CA-39 Westminster Section:
+CA CA39 KatAve CA22
 
 #CA-39 Azusa Section:
 CA CA39Azu FooBlvd End
@@ -493,6 +496,9 @@ CA CA44 CA89_S CA89_N
 
 #CA-46:
 CA CA46 US101(228) I-5
+
+#CA-47:
+CA CA47 1A I-710
 
 #CA-49:
 CA CA49 CA20_E CA20_W
@@ -531,7 +537,7 @@ CA CA61 HarBayPkwy I-880(34)
 CA CA61Pos AtlAve 7thSt
 
 #CA-62:
-CA CA62 I-10 SunRd
+CA CA62 I-10 UtahTr
 
 #CA-65:
 CA CA65 CA137 43
@@ -547,6 +553,9 @@ CA CA70 CA99 RocCamp
 
 #CA70 Bus Oroville:
 CA CA70BusOro CA70(46) CA162_E
+
+#CA-71:
+CA CA71 CA91 12B
 
 #CA-73:
 CA CA73 18B 11
@@ -577,6 +586,9 @@ CA CA84Rye RyerIslFry WestSacLim
 #CA-85:
 CA CA85 1A 24B
 
+#CA-86:
+CA CA86 I-10 CA111_N
+
 #CA-87:
 CA CA87 1A 9
 
@@ -598,6 +610,7 @@ CA CA90Yor KraBlvd CA39
 
 #CA-91:
 CA CA91 6 24
+CA CA91 45 51
 
 #CA-92:
 CA CA92 CA1 End
@@ -611,13 +624,19 @@ CA CA99 319 6(50)
 CA CA99 254A 255
 CA CA99 242 I-5(221)
 
+#CA-107:
+CA CA107 CA1 RedBeaBlvd
+
 #CA-108:
 CA CA108 CA120_W US395
 
 #CA-110:
-CA CA110 21 31B
+CA CA110 21 GleSt
 
-#CA-111:
+#CA-111 Calexico Section:
+CA CA111 CA86_N MainSt
+
+#CA-111 Palm Springs Section:
 CA CA111pal PalmSprLim CA111Bus_N
 
 #CA-112:
@@ -646,6 +665,9 @@ CA CA123 SanPabAve_S UniAve
 
 #CA-124:
 CA CA124 CA88 CA16
+
+#CA-126:
+CA CA126 1A 40
 
 #CA-127:
 CA CA127 CA178_W I-15
@@ -745,9 +767,6 @@ CA CA180 BelAve KinCanNP
 #CA-183:
 CA CA183 CA1 US101Bus_S
 
-#CA-187:
-CA CA187 CA1 I-10
-
 #CA-188:
 CA CA188 CA94 MEX/USA
 
@@ -793,7 +812,7 @@ CA CA233 CA99 FroSt
 
 #CA-227:
 CA CA227 US101(201) HigSt
-CA CA227 OrcRd BidRanRd
+CA CA227 BroSt_N PriCanRd
 CA CA227 HuaRd TraWay
 
 #CA-236:
@@ -972,6 +991,12 @@ CA LasPeakHwy CA89_S CA44/89
 #Minaret Summit Rd, Inyo NF
 CA MinSumRd CA203 RedsMeaRes
 
+#Park Blvd, Joshua Tree NP
+CA ParkBlvd CA62_W CA62_E
+
+#Pinto Basin Road, Joshua Tree NP
+CA PinBasRd I-10 ParkBlvd
+
 #Scotty’s Castle Rd, Death Valley NP
 CA ScoCasRd CA190 UbeCraRd
 
@@ -1043,13 +1068,14 @@ MEX-QRO MEX57DSJu QRO100 MEX57/111
 #(Mexico Carreteras Federales)
 
 #Baja California MEX1:
-MEX_BC MEX1 LibSur MEX1D-Pue
+MEX-BC MEX1 LibSur MEX1D-Pue
+MEX-BC MEX1 MEX3_N BlvdLazCar_S
 
 #Baja California MEX2:
 MEX-BC MEX2 MEX2D_TecW COrtRub
 
 #Baja California MEX3:
-MEX-BC AveMigHid NueColHin
+MEX-BC MEX3 AveMigHid BlvdLaxCar_S
 
 #Baja California Sur MEX1:
 MEX-BCS MEX1 MEX1D/19 CaboPul
