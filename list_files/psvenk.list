@@ -1,0 +1,18 @@
+# MA state highways (including US routes)
+MA MA1ASal MA16_S Lyn
+MA MA2 127 US20_W
+MA MA2ACam MA60_W StoDr
+MA MA3 MainSt US3
+MA MA4 MA2 MasAve_W
+MA MA16 US20 MA1A/60
+MA MA28 ChaAve WasSt_Som
+MA MA60 US20 MA2
+MA SolFieRd HarSt StoDr
+MA StoDr SolFieRd BerSt
+
+# US routes in MA
+MA US3 MA3 MA60_W
+MA US20 MooSt CamSt
+
+# Interstates in MA
+MA I-95 45 54
