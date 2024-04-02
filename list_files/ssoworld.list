@@ -1417,6 +1417,7 @@ TX US377 I-30(9B) TX US377 I-35W(52B)
 # US 378 not driven
 # US 380
 NM US380 US70_W TX US380 US62_E
+TX US380 DalPkwy TX US380 US75
 # US 385
 TX US385 I-10(261) TX US385 I-10(273)
 TX US385 US82/380 TX US385 US62/82
@@ -2724,13 +2725,15 @@ TX TX16 I-410(49) I-410(53)
 TX TX17 I-10(209) I-10(212)
 TX TX49 FM727 TX/LA
 TX TX79 US281_S US82_E
+TX TX114 TX121_S TX183
 TX TX130 53(410) 581(10)
 TX TX121 I-820(24B) TX183_E
-TX TX121 TX114_E I-35E                 # Frontage road only - no Sam Rayburn Tollway mileage
+TX TX121 TX360 I-35E # Frontage road only - no Sam Rayburn Tollway mileage
+TX TX121 US75_S US75_N
 TX TX121 US75_S US75_N
 TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX359 I-35 US83_S
-TX TX360 TriBlvd TX183
+TX TX360 I-20 TX121
 TX TXLp12 TXSpr348 TX183               # Express lanes only
 TX TXLp20 ManHeinRd RivDr
 TX TXLp151 US59/93 TX/AR
@@ -2738,8 +2741,10 @@ TX TXLp289 I-27(1A)_W US62/82_W
 TX TXLp375 I-10 58
 TX TXSpr97 TX183 IntPkwy
 TX TXSpr366 BecAve US75
-TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **does not include TX-161 S of I-30 despite the mapping**
+TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road
+TX DalNorTlwy I-35E US380              # Dallas North Tollway
+
 
 # Utah (UT)
 # ---------------------
