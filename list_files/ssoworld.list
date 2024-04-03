@@ -28,7 +28,7 @@ CA I-8BLECe I-8_W I-8_E
 CA I-8BLYum I-8(170) CA/AZ
 # I-10
 CA I-10 1 TX I-10 581
-LA I-10 103 FL I-10 296
+TX I-10 768A FL I-10 296
 CA I-110 GafSt 21
 CA I-210 1A 45
 CA I-710 1A ValBlvd
@@ -126,7 +126,7 @@ AR I-630 1 8
 # I-35
 TX I-35Gai 467 MN I-35Far 88A
 MN I-35 127 MN I-35 259
-MN I-35E 88A 127
+MN I-35E 88A 127                                # All local, partial express
 MN I-35W 0 I-35
 TX I-35 HidSt TX I-35 370B
 TX I-35E 370B 467
@@ -141,7 +141,7 @@ MO I-635 KS/MO 12
 KS I-635 1A MO I-635 12
 OK I-235 1A 4B
 WI I-535 5thSt MN I-535 I-35
-TX I-635 1C 36
+TX I-635 1C 36                                  # Both Express and Local
 IA I-35BLAme I-35_S I-35_N
 IA I-35BLCle I-35_S I-35_N
 MN I-35BLPin I-35_S I-35_N
@@ -179,7 +179,7 @@ TX I-44 1 MO I-44 I-70
 OK I-244 1A 999
 OK I-444 I-244_W I-244_E
 # I-45
-TX I-45 276 TX I-45 284
+TX I-45 48A TX I-45 284A
 TX I-345 284A 286
 # I-49
 LA I-49 1A 206
@@ -258,7 +258,7 @@ UT I-70BSSal LosCreRd US50_W
 # I-71
 KY I-71 1 OH I-71 I-90
 OH I-271 1 I-90
-KY I-471 1 OH I-471 7
+KY I-471 1 OH I-471 I-71
 # I-72
 MO I-72 0 IL I-72 182
 IL I-172 0 19
@@ -426,7 +426,7 @@ WY I-90BLGil I-90_W I-90_E
 # I-95
 FL I-95 US1 SC I-95 86
 NC I-95 119 ME I-95 52
-NJ I-95Sec I-95_S I-95_N      # West split of NJTpk by Secaucus
+NJ I-95Sec I-95_S I-95_N                        # West split of NJTpk by Secaucus
 CT I-395 47 MA I-395 12
 DE I-295 I-95 PA I-295 I-95/276
 DE I-495 I-95 6
@@ -1417,6 +1417,7 @@ TX US377 I-30(9B) TX US377 I-35W(52B)
 # US 378 not driven
 # US 380
 NM US380 US70_W TX US380 US62_E
+TX US380 DalPkwy TX US380 US75
 # US 385
 TX US385 I-10(261) TX US385 I-10(273)
 TX US385 US82/380 TX US385 US62/82
@@ -2111,6 +2112,7 @@ LA LA46 LA39_N End
 LA LA47 I-510(1A) DowRd
 LA LA170 LA1_N LA2_E
 LA LA173 LA3194 LA538
+LA LA182 I-10(103) LA729
 LA LA538 US71_S US71_N
 LA LA538 LA173 LA1_B
 LA LA624 LA46 End
@@ -2724,16 +2726,26 @@ TX TX16 I-410(49) I-410(53)
 TX TX17 I-10(209) I-10(212)
 TX TX49 FM727 TX/LA
 TX TX79 US281_S US82_E
+TX TX114 TX121_S TX183
 TX TX130 53(410) 581(10)
-TX TX121 I-635 TX26/2499
-TX TX183 I-820(22) I-35E
+TX TX121 I-820(24B) TX183_E
+TX TX121 TX360 I-35E # Frontage road only - no Sam Rayburn Tollway mileage
+TX TX121 US75_S US75_N
+TX TX121 US75_S US75_N
+TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX359 I-35 US83_S
+TX TX360 I-20 TX121
+TX TXLp12 TXSpr348 TX183               # Express lanes only
 TX TXLp20 ManHeinRd RivDr
 TX TXLp151 US59/93 TX/AR
 TX TXLp289 I-27(1A)_W US62/82_W
 TX TXLp375 I-10 58
+TX TXSpr97 TX183 IntPkwy
 TX TXSpr366 BecAve US75
-TX GeoBushTpk TX183 I-35E          # President George Bush Turnpike (NTTA)
+TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
+TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road
+TX DalNorTlwy I-35E US380              # Dallas North Tollway
+
 
 # Utah (UT)
 # ---------------------
