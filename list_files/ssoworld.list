@@ -1476,12 +1476,53 @@ KY US641 US62_W KY US641 KY453
 # US 701 not driven
 # US 730 not driven
 
-# DC Metro National Park routes
+# Multi-State Routes
 # -----------------------------------
+## DC Metro Area Parkways
 MD ClaBarPkwy I-495 DC ClaBarPkwy ChaBriRd        # -- Clara Barton Pkwy - Carderock MD to DC
 VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495          # -- George Washington Mem Pkwy - I-495 (DC) to Alexandria VA via DC
 VA GWMemPkwyMtV VA235 VA400                       # -- George Washington Mem Pkwy - Alexandria VA to Mt. Vernon Mansion
 DC SuiPkwy SCapSt MD SuiPkwy MD4                  # -- Suitland Parkway - I-295 (DC) to Westphalia MD
+## Great River Road
+IA GRR IA92 MN GRRWin US61_N
+MN GRRWin US61_S MN GRRWin US61_N
+LA GRRBat US61_E LA GRRBat US61_W
+LA GRRBat I-110(1E) MS GRR US61_VicS
+MS GRR US61_VicN MS GRR US61_N
+MS GRR US49/61 TN GRR US51_N
+TN GRR US51/54 TN GRR US51/87
+TN GRR US51/19 TN GRR US51/88
+KY GRR US51/62_S IL GRRCai IL146_W
+MO GRR US61/51 MO GRR I-70(220)
+MO GRR US54/54Bus MO GRR US54_W
+MO GRR I-72(152) IL GRRQui US24_E
+IA GRRBur OldIA2_E IA GRRBur US61_N
+IA GRRBur US61Bus_S IL GRR IL92_E
+IL GRR IL92_W IA GRRDub US20_W
+IA GRRDub US61/151_S MN GRR US61_S
+MN GRR US52_S MN GRR US52_N
+MN GRR 64B(I-494) MN GRR US10/61_N
+MN GRR I-35E(103A) MN GRR I-35E(102)
+MN GRR MN13/62 MN GRR *MinPkwy
+MN GRR I-694(36) MN GRR I-694(35B)
+MN GRR MN115/371 MN GRR MN371_N
+MN GRR US169_ChaS MN GRR US169_ChaN
+MN GRR US2_BCE MN GRR US2_BCW
+MN GRR US2_BenE MN GRR US2_BenW
+
+# Lake Michigan Circle Tour
+WI LMCT WI42 IL LMCT IL137_S
+IL LMCT SheRd_N MI LMCT I-94(23)
+MI LMCT I-196(7) MI LMCT I-196BL_N
+MI LMCT LakeBlvd MI LMCT US31(128)
+MI LMCT US31(131) MI LMCT US31(154)
+MI LMCT US31(158) MI LMCT US10_E
+MI LMCT I-75(336) MI LMCT US2/41_W
+MI LMCT JWWelSP MI LMCT JimDrF1
+MI LMCT US41_Man WI LMCTGre WI57_N
+
+# Lake Superior Circle Tour
+MN LSCT CAN/USA MI LSCTCop MI26_Eag
 
 # Alabama (AL)
 # ---------------------
@@ -2741,6 +2782,7 @@ TX TXLp151 US59/93 TX/AR
 TX TXLp289 I-27(1A)_W US62/82_W
 TX TXLp375 I-10 58
 TX TXSpr97 TX183 IntPkwy
+TX TXSpr348 TXLp12 I-35E
 TX TXSpr366 BecAve US75
 TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road
