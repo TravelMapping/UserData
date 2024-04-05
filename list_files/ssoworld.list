@@ -230,7 +230,7 @@ VA I-66 1 DC I-66 US29
 WV I-68 0 MD I-68 82
 # I-69
 TX I-69W RivDr TX I-69W I-35
-TX I-69 94 TX I-69 132
+TX I-69 94 167
 MS I-69 MS713 MS I-69 MS/TN
 KY I-69 21 KY I-69 68
 KY I-69 106 KY I-69 148
@@ -2801,8 +2801,11 @@ TX TXSpr330 I-10 GarRd
 TX TXSpr348 TXLp12 I-35E
 TX TXSpr366 BecAve US75
 TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
-TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road
-TX DalNorTlwy I-35E US380              # Dallas North Tollway
+TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road (NTTA)
+TX DalNorTlwy I-35E US380              # Dallas North Tollway (NTTA)
+TX FBPTollRd SieRanRd TXLp8            # Fort Bend Parkway Toll Road (HCTRA and FBCTRA)
+TX HarTollRd I-610 I-45                # Hardy Toll Road (HCTRA)
+TX WesTlwy FM723 RicAve                # Westpark Tollway (HCTRA and FBCTRA)
 
 
 # Utah (UT)
