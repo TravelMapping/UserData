@@ -1151,6 +1151,7 @@ MS US90 VetAve MS US90 I-110
 AL US90 US98Bro_E AL US90 US98Spa_E
 FL US90 I-95(350A) FL US90 I-95(349)
 FL US90 US1Alt FL US90 FLA1A
+TX US90AltHal FBTollRd I-610(2)
 LA US90BusNew US90_W I-10
 # US 91 not driven
 # US 92
@@ -2774,10 +2775,13 @@ TN TN396 US31 I-65
 
 # Texas (TX)
 # ---------------------
+# SH Routes
+TX TX6 I-45 SieRanRd
 TX TX16 I-410(49) I-410(53)
 TX TX17 I-10(209) I-10(212)
 TX TX49 FM727 TX/LA
 TX TX79 US281_S US82_E
+TX TX87Gal I-45 SeaBlvd_E
 TX TX114 TX121_S TX183
 TX TX130 53(410) 581(10)
 TX TX121 I-820(24B) TX183_E
@@ -2789,17 +2793,21 @@ TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX225 LawSt TX146
 TX TX359 I-35 US83_S
 TX TX360 I-20 TX121
-TX TXLp8 TX225_S TX225_N               # Sam Houston Tollway - All; Beltway 8 - some
+# Loops
+TX TXLp8 TX225_S TX225_N               # Sam Houston Tollway (NTTA) - All; Beltway 8 - some
 TX TXLp12 TXSpr348 TX183               # Express lanes only
 TX TXLp20 ManHeinRd RivDr
 TX TXLp151 US59/93 TX/AR
 TX TXLp289 I-27(1A)_W US62/82_W
 TX TXLp375 I-10 58
 TX TXLp540 US59_S US59_N
+# Spurs
 TX TXSpr97 TX183 IntPkwy
 TX TXSpr330 I-10 GarRd
+TX TXSpr342 FM3005 I-45
 TX TXSpr348 TXLp12 I-35E
 TX TXSpr366 BecAve US75
+# Named Roads
 TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road (NTTA)
 TX DalNorTlwy I-35E US380              # Dallas North Tollway (NTTA)
