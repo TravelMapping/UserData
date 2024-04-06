@@ -1386,7 +1386,8 @@ TX US287 TX79_N TX US287 TXLp335
 CO US287 I-70(359) CO US287 I-70(288)
 WY US287 US26/89_S WY US287 YelNP
 # US 290
-TX US290 I-35(230) TX US290 I-35(238)
+TX US290 I-35(230) I-35(238)
+TX US290 TXLp8 I-610
 # US 301
 FL US301 EllGilRd FL US301 I-75(224)
 FL US301 US27/441 FL US301 US27_N
@@ -2790,16 +2791,17 @@ TX TX121 TX360 I-35E                   # Frontage road only - no Sam Rayburn Tol
 TX TX121 US75_S US75_N
 TX TX121 US75_S US75_N
 TX TX161 I-20 I-30
-TX TX146 TX225 TXSpr330
+TX TX146 TX96 TXSpr330
+TX TX146 US90_W US90_E
 TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX225 LawSt TX146
-TX TX288 I-610 I-45
+TX TX288 TX6 I-45
 TX TX359 I-35 US83_S
 TX TX360 I-20 TX121
 # Business Routes
 TX TX105BusCle TX105_W TXLp573_S
 # Loops
-TX TXLp8 TX225_S TX225_N               # Sam Houston Tollway (NTTA) - All; Beltway 8 - some
+TX TXLp8 TX225_S TX225_N               # Sam Houston Tollway (HCTRA) - All; Beltway 8 - some
 TX TXLp12 TXSpr348 TX183               # Express lanes only
 TX TXLp20 ManHeinRd RivDr
 TX TXLp151 US59/93 TX/AR
@@ -2813,6 +2815,7 @@ TX TXSpr330 I-10 GarRd
 TX TXSpr342 FM3005 I-45
 TX TXSpr348 TXLp12 I-35E
 TX TXSpr366 BecAve US75
+TX NASA1 I-45 TX146                    # NASA Road 1
 # Named Roads
 TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - 161 and the 19o sections are signed separately and reflected accordingly in the TM database
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road (NTTA)
