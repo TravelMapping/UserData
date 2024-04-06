@@ -28,8 +28,7 @@ CA I-8BLECe I-8_W I-8_E
 CA I-8BLYum I-8(170) CA/AZ
 # I-10
 CA I-10 1 TX I-10 581
-TX I-10 742 TX I-10 756
-TX I-10 768A FL I-10 296
+TX I-10 742 FL I-10 296
 CA I-110 GafSt 21
 CA I-210 1A 45
 CA I-710 1A ValBlvd
@@ -1506,8 +1505,8 @@ MO GRR US54/54Bus MO GRR US54_W
 MO GRR I-72(152) IL GRRQui US24_E
 IA GRRBur OldIA2_E IA GRRBur US61_N
 IA GRRBur US61Bus_S IL GRR IL92_E
-IL GRR IL92_W IA GRRDub US20_W
-IA GRRDub US61/151_S MN GRR US61_S
+IA GRR IA92 MN GRRWin US61_N
+MN GRRWin US61_S MN GRRWin US61_N
 MN GRR US52_S MN GRR US52_N
 MN GRR 64B(I-494) MN GRR US10/61_N
 MN GRR I-35E(103A) MN GRR I-35E(102)
@@ -2775,6 +2774,7 @@ TN TN396 US31 I-65
 
 # Texas (TX)
 # ---------------------
+### A note about concurrencies of state roads with toll roads (where state routes are on frontage roads) from yakra https://forum.travelmapping.net/index.php?topic=3417.msg17962#msg17962 - 
 # SH Routes
 TX TX6 I-45 SieRanRd
 TX TX16 I-410(49) I-410(53)
@@ -2786,12 +2786,14 @@ TX TX105 I-45 TX105Bus_W
 TX TX114 TX121_S TX183
 TX TX130 53(410) 581(10)
 TX TX121 I-820(24B) TX183_E
-TX TX121 TX360 I-35E # Frontage road only - no Sam Rayburn Tollway mileage
+TX TX121 TX360 I-35E                   # Frontage road only - no Sam Rayburn Tollway mileage
 TX TX121 US75_S US75_N
 TX TX121 US75_S US75_N
+TX TX161 I-20 I-30
 TX TX146 TX225 TXSpr330
 TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX225 LawSt TX146
+TX TX288 I-610 I-45
 TX TX359 I-35 US83_S
 TX TX360 I-20 TX121
 # Business Routes
@@ -2812,10 +2814,11 @@ TX TXSpr342 FM3005 I-45
 TX TXSpr348 TXLp12 I-35E
 TX TXSpr366 BecAve US75
 # Named Roads
-TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - **only TX-161 S of I-30 despite the mapping**
+TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - 161 and the 19o sections are signed separately and reflected accordingly in the TM database
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road (NTTA)
 TX DalNorTlwy I-35E US380              # Dallas North Tollway (NTTA)
-TX FBPTollRd SieRanRd TXLp8            # Fort Bend Parkway Toll Road (HCTRA and FBCTRA)
+TX FBTollRd TXLp8 US90Alt              # Fort Bend Toll Road (HCTRA)
+TX FBPTollRd SieRanRd TXLp8            # Fort Bend Parkway Tollroad (FBCTRA)
 TX HarTollRd I-610 I-45                # Hardy Toll Road (HCTRA)
 TX WesTlwy FM723 RicAve                # Westpark Tollway (HCTRA and FBCTRA)
 
