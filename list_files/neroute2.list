@@ -873,6 +873,8 @@ TN TN303 US27 TN30
 TN TN392 US70/101 US127_N
 TN TN419 US127 TN101
 TN TN462 US70 TN298
+TN GRR MainSt_S MainSt_N
+TN GRR RivDr_N WilAve_E #except the northernmost block north of Shadyac Avenue
 
 MO US412 AR/MO MO/TN
 
