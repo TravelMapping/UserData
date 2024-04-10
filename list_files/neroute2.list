@@ -873,6 +873,8 @@ TN TN303 US27 TN30
 TN TN392 US70/101 US127_N
 TN TN419 US127 TN101
 TN TN462 US70 TN298
+TN GRR MainSt_S MainSt_N
+TN GRR RivDr_N WilAve_E #except the northernmost block north of Shadyac Avenue
 
 MO US412 AR/MO MO/TN
 
@@ -1151,8 +1153,7 @@ IL I-290 15A I-90/94
 IL LakeShoDr US41_N SheRd
 IL US14 BryMawAve US41_E
 IL US34 CassAve IL171 #west to Cumnor Road
-IL US41 HayDr LakShoDr_N
-IL US41 57thDr LakShoDr_N
+IL US41 HayDr LakeShoDr_N
 IL IL19 SheRd US41 #west to Clark Street
 IL IL38 IL83 I-294
 IL IL83 US34 IL38
