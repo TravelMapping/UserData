@@ -997,7 +997,8 @@ IL US66HisChi I-90/94 MicAve
 IL US66HisLin US66His_W US66His_E
 # US 67
 TX US67 I-10(248) TX US67 I-10(273)
-TX US67 I-35E(423A) TX US67 I-30(135)
+TX US67 ChiTrlPkwy TX US67 TX174
+TX US67 I-35E(423) TX US67 I-30(135)
 AR US67 US71_N AR US67 US71_S
 AR US67 I-30(114) AR US67 I-40(155)
 MO US67 I-55(174) IA US67 US52
@@ -2800,6 +2801,7 @@ TX TX6 I-35 TX22
 TX TX16 I-410(49) TX173_B
 TX TX16 TXLp534 I-10
 TX TX17 I-10(209) I-10(212)
+TX TX22 TX6 TX174
 TX TX48 TX4 TX550
 TX TX49 FM727 TX/LA
 TX TX79 US281_S US82_E
@@ -2814,6 +2816,7 @@ TX TX130 53(410) 437
 TX TX151 TXLp1604 US90
 TX TX161 I-20 I-30
 TX TX173 TX16_C TXLp534
+TX TX174 TX22 US67
 TX TX146 TX225 TXSpr330
 TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX35 I-37 TX188
@@ -2846,6 +2849,7 @@ TX TXSpr366 BecAve US75
 TX NASA1 I-45 TX146                    # NASA Road 1
 # TX PA1502 (Future connections?)      Route not yet in database but signed
 # Named Roads
+TX ChiTrlPkwy US67 I-30                # Chisholm Trail Parkway (NTTA)
 TX GeoBushTpk I-20 I-30(61B)           # President George Bush Turnpike (NTTA) - 161 and the 19o sections are signed separately and reflected accordingly in the TM database
 TX IntPkwy TXSpr97 TX114/121           # International Parkway - DFW Airport access road (NTTA)
 TX DalNorTlwy I-35E US380              # Dallas North Tollway (NTTA)
