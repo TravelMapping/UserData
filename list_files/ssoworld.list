@@ -1,5 +1,7 @@
 # usai, usaib, usaif
 # ---------------------
+# I-2
+TX I-2 130 TX I-2 176
 # I-4
 FL I-4 I-275 FL I-4 132
 # I-5
@@ -150,7 +152,8 @@ MN I-35BLFar I-35_S I-35_N
 MN I-35BLAlb I-35_S I-35_N
 MO I-35BLCam I-35_S I-35_N
 # I-37
-TX I-37 133 TX I-37 142
+TX I-37 4B TX I-37 14
+TX I-37 72 TX I-37 142
 # I-39
 IL I-39 0 WI I-39 187
 # I-40
@@ -228,6 +231,9 @@ VA I-66 1 DC I-66 US29
 WV I-68 0 MD I-68 82
 # I-69
 TX I-69W RivDr TX I-69W I-35
+TX I-69C 1 TX I-69C 17
+TX I-69E PolkSt TX I-69E 56
+TX I-69ERob FM2826 TX I-69ERob I-37
 TX I-69 94 167
 MS I-69 MS713 MS I-69 MS/TN
 KY I-69 21 KY I-69 68
@@ -238,6 +244,7 @@ KY I-69Fut TN/KY 21
 TN I-69FutMem MS/TN US51
 TN I-69FutTri 15(155) TNs183_End
 TN I-69FutUni US45W_S TN/KY
+TX I-169 I-69E FM1847
 MS I-269 1 TN I-269 19
 IN I-469 0 31
 TN I-269FutMem 19 US51
@@ -1057,6 +1064,7 @@ MN US75 I-94 MN US75 US10_E
 MN US75 MN220 MN US75 End
 # US 76 not driven
 # US 77
+TX US77 EastAve TX US77 I-37(14)
 TX US77 I-35(334A) TX US77 I-35(370)
 TX US77 I-35E(408) TX US77 I-35E(464)
 TX US77 I-35(471) OK US77 I-35(1)
@@ -1100,10 +1108,12 @@ AR US82 I-49 AR US82 AR98_W
 AL US82 I-65(179) AL US82 I-65(168)
 GA US82 US1/23_N GA US82 US1/23_S
 # US 83
+TX US83 EastAve TX US83 FM886
 TX US83 ManHeinRd TX US83 I-35(18)
 TX US83 I-10(462) TX US83 I-10(456)
 SD US83 I-90(192) SD US83 I-90(212)
 ND US83 I-94(182) ND US83 I-94(159)
+TX US83BusMcA ToUS83 US83_N
 # US 84
 NM US84 I-40(256) NM US84 I-40(277)
 LA US84 LA131 MS US84 US61_N
@@ -1371,6 +1381,7 @@ AR US278 US79_S AR US278 US79_N
 MS US278 US61/82 MS US278 US49/61
 # US 280 not driven
 # US 281
+TX US281 I-2/83 TX US281 I-37(103)
 TX US281 I-410(44) TX US281 FM1863
 TX US281 TXLp473_S OK US281 I-44(5)
 OK US281 I-44(30) OK US281 I-44(46)
@@ -1490,12 +1501,11 @@ MD ClaBarPkwy I-495 DC ClaBarPkwy ChaBriRd        # -- Clara Barton Pkwy - Carde
 VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495          # -- George Washington Mem Pkwy - I-495 (DC) to Alexandria VA via DC
 VA GWMemPkwyMtV VA235 VA400                       # -- George Washington Mem Pkwy - Alexandria VA to Mt. Vernon Mansion
 DC SuiPkwy SCapSt MD SuiPkwy MD4                  # -- Suitland Parkway - I-295 (DC) to Westphalia MD
-## Great River Road
+## Great River Road - Subject to frequent change and possible deactivation
 IA GRR IA92 MN GRRWin US61_N
 MN GRRWin US61_S MN GRRWin US61_N
 LA GRRBat US61_E LA GRRBat US61_W
-LA GRRBat I-110(1E) MS GRR US61_VicS
-MS GRR US61_VicN MS GRR US61_N
+LA GRRBat I-110(1E) MS GRR US61_N
 MS GRR US49/61 TN GRR US51_N
 TN GRR US51/54 TN GRR US51/87
 TN GRR US51/19 TN GRR US51/88
@@ -1505,8 +1515,8 @@ MO GRR US54/54Bus MO GRR US54_W
 MO GRR I-72(152) IL GRRQui US24_E
 IA GRRBur OldIA2_E IA GRRBur US61_N
 IA GRRBur US61Bus_S IL GRR IL92_E
-IA GRR IA92 MN GRRWin US61_N
-MN GRRWin US61_S MN GRRWin US61_N
+IL GRR IL92_W IA GRRDub US20_W
+IA GRRDub US61/151_S MN GRR US61_S
 MN GRR US52_S MN GRR US52_N
 MN GRR 64B(I-494) MN GRR US10/61_N
 MN GRR I-35E(103A) MN GRR I-35E(102)
@@ -1519,7 +1529,8 @@ MN GRR US2_BenE MN GRR US2_BenW
 MN GRR MN197_S MN GRR MN197_N
 MN GRR CR2_N MN GRR LakeItaSP
 
-# Lake Michigan Circle Tour
+
+# Lake Michigan Circle Tour - Subject to frequent change and possible deactivation
 WI LMCT WI42 IL LMCT IL137_S
 IL LMCT SheRd_N MI LMCT I-94(23)
 MI LMCT I-196(7) MI LMCT I-196BL_N
@@ -1530,7 +1541,7 @@ MI LMCT I-75(336) MI LMCT US2/41_W
 MI LMCT JWWelSP MI LMCT JimDrF1
 MI LMCT US41_Man WI LMCTGre WI57_N
 
-# Lake Superior Circle Tour
+# Lake Superior Circle Tour - Subject to frequent change and possible deactivation
 MN LSCT CAN/USA MI LSCTCop MI26_Eag
 
 # Alabama (AL)
@@ -2776,10 +2787,12 @@ TN TN396 US31 I-65
 # ---------------------
 ### A note about concurrencies of state roads with toll roads (where state routes are on frontage roads) from yakra https://forum.travelmapping.net/index.php?topic=3417.msg17962#msg17962 - 
 # SH Routes
+TX TX4 I-69E TX48
 TX TX6 I-45 SieRanRd
 TX TX16 I-410(49) TX173_B
 TX TX16 TXLp534 I-10
 TX TX17 I-10(209) I-10(212)
+TX TX48 TX4 TX550
 TX TX49 FM727 TX/LA
 TX TX79 US281_S US82_E
 TX TX87Gal I-45 SeaBlvd_E
@@ -2797,8 +2810,10 @@ TX TX146 TX225 TXSpr330
 TX TX183 I-820(22) I-35E               # Partial Express, all local
 TX TX225 LawSt TX146
 TX TX288 I-610 I-45
+TX TX358 I-37 NileDr
 TX TX359 I-35 US83_S
 TX TX360 I-20 TX121
+TX TX550 TX48 I-69E
 # Business Routes
 TX TX105BusCle TX105_W TXLp573_S
 # Loops
