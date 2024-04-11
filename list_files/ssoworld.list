@@ -1521,10 +1521,6 @@ KY GRR US51/62_S IL GRRCai IL146_W
 MO GRR US61/51 MO GRR I-70(220)
 MO GRR US54/54Bus MO GRR US54_W
 MO GRR I-72(152) IL GRRQui US24_E
-IA GRRBur OldIA2_E IA GRRBur US61_N
-IA GRRBur US61Bus_S IL GRR IL92_E
-IL GRR IL92_W IA GRRDub US20_W
-IA GRRDub US61/151_S MN GRR US61_S
 MN GRR US52_S MN GRR US52_N
 MN GRR 64B(I-494) MN GRR US10/61_N
 MN GRR I-35E(103A) MN GRR I-35E(102)
@@ -1551,6 +1547,50 @@ MI LMCT US41_Man WI LMCTGre WI57_N
 
 # Lake Superior Circle Tour - Subject to frequent change and possible deactivation
 MN LSCT CAN/USA MI LSCTCop MI26_Eag
+
+# Lincoln Highway (multiple segments)
+IA LinHwyLpMar US151Bus_N IA100_W  # Marion Iowa loop
+IA LinHwy US30_MV IA LinHwy CRL34
+IA LinHwy IA44 IA LinHwy US30_WooS
+IA LinHwy US30_WooW IA LinHwy US30_WooE
+IA LinHwy US30_DunW IA LinHwy US30_DunE
+IA LinHwy US30_Dun IA LinHwy US30_DowW
+IA LinHwy US30_Q IA LinHwy US30_MW
+IA LinHwy US30_ME IA LinHwy US30_Wes
+IA LinHwy US30_WesW IA LinHwy US30_WesE
+IA LinHwy US30_Car IA LinHwy US30_200
+IA LinHwy US30_GJ IA LinHwy US30_BeaW
+IA LinHwy US30_BeaE IA LinHwy US30_Ogd
+IA LinHwy US69_N IA LinHwy US69_S
+IA LinHwy IA330_S IA LinHwy IA330_N
+IA LinHwy IA14_N IA LinHwy IA14_S
+IA LinHwy YatAve IA LinHwy US30(192)
+IA LinHwy US30_Gra IA LinHwy US30_Mon
+IA LinHwy US30Bus_Tol IA LinHwy US30_Che
+IA LinHwy US30_BP IA LinHwy US30(246B)
+IA LinHwy US151_S IA LinHwy US151Bus_N
+IA LinHwy US30Bus_W IA LinHwy US30_WheW
+IA LinHwy US30_MecE IA LinHwy US30_ClaW
+IA LinHwy US30_ClaE IA LinHwy US30_Low
+IA LinHwy US30_Whe IA LinHwy CRY44
+IA LinHwy US30_GM IA LinHwy US30/61
+IA LinHwy US30_DW IL LinHwy US30_Ste
+IL LinHwy IL40 IL LinHwy US52_S
+IL LinHwy IL251_S IL LinHwy IL251_N
+IL LinHwy WilSt IL LinHwy IL31_S
+IL LinHwy US34 IL LinHwy IL1_S
+IN LinHwy IL/IN IN LinHwy US30_Sch
+IN LinHwy US30_DR IN LinHwy SedRd
+IN LinHwy CouRd IN LinHwy US20/31
+IN LinHwy IN9 IN LinHwy CookRd
+IN LinHwy US30_FW IN LinHwy IN930_FWW
+IN LinHwy MapRd IN LinHwy IN930_NHW
+OH LinHwy IN/OH OH LinHwy OH49_N
+OH LinHwy US30_Orr OH LinHwy US30_DalW
+OH LinHwy US30_DalE OH LinHwy US30_Mas
+OH LinHwy US30_Col OH LinHwy MapSt
+OH LinHwy GraBlvd OH LinHwy OH154_E
+OH LinHwy US30/417_S OH LinHwy OH11_N
 
 # Alabama (AL)
 # ---------------------
