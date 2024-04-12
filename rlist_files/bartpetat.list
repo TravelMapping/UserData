@@ -1,4 +1,4 @@
-s# THE NETHERLANDS
+# THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 NLD IC35 AmsCen NLD/BEL
 
@@ -112,7 +112,7 @@ BEL IC2 Bru AntCen
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
-BEL S41 LieGui BEL/DEU
+BEL S41 Wel BEL/DEU
 BEL S43 LieGui BEL/NLD
 
 #Tram
@@ -180,7 +180,6 @@ DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
 
 DEU-NW RE18 NLD/DEU AacHbf
-DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
 DEU-NW S6 DusseldorfHbf KolnHbf
@@ -188,6 +187,7 @@ DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW S8 WuppertalLangerfeld MonchengladbachHbf
 DEU-NW S11 DusseldorfWehrhahn KolnWorringen
 DEU-NW S11 KolnLongerich KolnMulheim
+DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
@@ -353,6 +353,12 @@ IL BroLn Chi AdaWab
 # VIETNAM
 # THAILAND
 # JAPAN
+# Highspeed
+JPN TokaidoShin Tokyo Kyoto
+
+# Metro
+JPN YurikamomeLn U01 U07
+
 
 # HONG KONG
 #HK Tramways
@@ -366,9 +372,13 @@ HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
+HKG 505 SamShi TownCen
+HKG 507 TuenMunFryPier SuiLun
 HKG 614 PuiTo +DIV_751/761
+HKG 615 TuenMunFryPier YuenLong
 HKG 705 TinShuiWai_A WetPark
-HKG 751 SuiHong TinWong
+HKG 751 TownCen_A TinYat
+HKG 761p TinYat YuenLong
 
 
 #HK MTR

@@ -1,4 +1,4 @@
-# Date: 2024-01-31
+# Date: 2024-03-23
 # ----------------
 
 ######################
@@ -204,14 +204,21 @@ DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #### METROS/TRAMS ####
 ######################
 
-AUT 2Inn Per JosKerStr                #2023
-AUT 3Inn Sil_1 Amr                    #2023
-AUT 5Inn TecWest Rum                  #2023
-
 AUT 1Gra EggUKH HilBotGar             #2023
 AUT 3Gra And Kre                      #2023
 AUT 6Gra SmaCityPetTunGas StPet       #2023
 AUT 7Gra LKHMedUniKliNord Jak         #2023
+
+AUT 2Inn Per JosKerStr                #2023
+AUT 3Inn Sil_1 Amr                    #2023
+AUT 5Inn TecWest Rum                  #2023
+
+AUT 1Lin Hau Auw                      #2024
+AUT 2Lin Moz SolCity                  #2024
+AUT 2Lin Univ EbeOrt                  #2024
+AUT 4Lin Bur SchTra                   #2024
+AUT 50Lin Pos Hau                     #2024
+
 
 
 BGR M1 MlaI BusPark         #2023
@@ -293,8 +300,11 @@ DEU-BW U13 FeuBachBf Hed                                                        
 DEU-BW U14 MuhlHau +DIV_WilPla                                                                 #2023, U14 via Münster, Charlottenplatz, Berliner Platz to Hbf; rerouted from 2024
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
+DEU-BW U19 NeuGer NecParkSta                                                                   #2024
 DEU-BW S1 StaMit Wen                                                                           #201x, S1
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
+DEU-BW S3 Bac BadCan                                                                           #2024, S3
+DEU-BW S4 Bac LudBurg                                                                          #2024, S4
 DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
 DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
 DEU-BW S6 Ren StuHbf                                                                           #2020, S6
