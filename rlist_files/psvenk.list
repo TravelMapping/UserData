@@ -31,6 +31,6 @@ NY NECorLn PennSta NJ NECorLn NewPenn
 # Amtrak (devel)
 NY AE PennSta MA AE BosSou
 
-# Chennai Metro (not included yet)
-#IND-TN BluLn Cen Ala
-#IND-TN GreLn Cen Ala
+# Chennai Metro (devel)
+IND-TN BluLn Cen Ala
+IND-TN GreLn Cen Ala

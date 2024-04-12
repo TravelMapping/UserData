@@ -94,7 +94,7 @@ NE US26 NE29 NE71_S #to scottsbluff
 NE NE71 US26_E CO/NE
 CO CO71 CO/NE CO14_W
 CO CO14 CO71_N CO52
-CO CO52 CO14 I-76(80)
+CO CO52FMo CO14 I-76
 CO I-76 80 1B #fort morgan to ~arvada
 #other denver
 CO I-70 274 284
@@ -298,6 +298,21 @@ GA GA237 SidMarBlvd GA13
 GA GA166 LakAve I-285
 GA I-285 5 62A
 GA I-85 68 71
+#eclipse
+MEX-JAL MEX200 BlvdMedAsc_S NAY/JAL
+MEX-NAY MEX200 NAY/JAL MEX200D_Buc
+#need to add MEX-NAY MEX200D
+MEX-NAY MEX200 Say NAY16
+#need to add MEX-NAY NAY16 ?
+MEX-NAY MEX76Ixt IxtCon_S MEX76
+MEX-NAY MEX76 Var MEX12
+MEX-NAY MEX12 MEX76 MEX74
+MEX-NAY MEX74 MEX12 SanBlas
+MEX-NAY AutTepSB MEX12 MEX15D
+MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at AutTepSB (76D)
+MEX-SIN MEX15DEsc NAY/SIN MEX40 #continues to the end of libramiento mazatlan
+MEX-SIN MEX15Maz AveRafBue AveEjeMex_S #first breakpoint should be at avenida del delfin
+MEX-NAY MEX200Mit Say MEX200 
 
 #CA
 #thunder bay
