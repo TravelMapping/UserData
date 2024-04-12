@@ -152,7 +152,8 @@ MN I-35BLPin I-35_S I-35_N
 MN I-35BLFar I-35_S I-35_N
 MN I-35BLAlb I-35_S I-35_N
 MO I-35BLCam I-35_S I-35_N
-# I-37
+# Pending Interstates - do not change until implemented by collaborator
+OK KicTpk 130 149                # Kickapoo Turnpike (Now I-335)# I-37
 TX I-37 US181 TX I-37 142
 # I-39
 IL I-39 0 WI I-39 187
@@ -173,6 +174,8 @@ AZ I-40BLWil I-40_W I-40_E
 AZ I-40BLFla I-40_W I-40_E
 AZ I-40BLWin I-40_W I-40_E
 AZ I-40BSWin I-40BL WinIndSpr
+# Pending Interstates - do not change until implemented by collaborator
+OK OK152 JohnKilTpk I-44         # New segment of I-240
 # I-41
 IL I-41 1B WI I-41 171
 # I-42 not driven
@@ -182,6 +185,8 @@ WI I-43 1 WI I-43 192
 TX I-44 1 MO I-44 I-70
 OK I-244 1A 999
 OK I-444 I-244_W I-244_E
+# Pending Interstates - do not change until implemented by collaborator
+OK JohnKilTpk OK152 I-35/44      # John Kilpatrick Turnpike (Now I-344)
 # I-45
 TX I-45 1A TX I-45 284A
 TX I-345 284A 286
@@ -1065,12 +1070,11 @@ MN US75 I-94 MN US75 US10_E
 MN US75 MN220 MN US75 End
 # US 76 not driven
 # US 77
-TX US77 EastAve TX US77 I-37(14)
+TX US77 EastAve TX US77 I-37(17)
 TX US77 I-35(334A) TX US77 I-35(370)
 TX US77 I-35E(408) TX US77 I-35E(464)
 TX US77 I-35(471) OK US77 I-35(1)
-OK US77 I-35(113) OK US77 I-235(4B)
-OK US77 I-35(141) OK US77 I-35(153)
+OK US77 I-35(113) OK US77 I-35(153)
 NE US77 I-80(397) NE US77 I-80(405)
 NE US77 NE109_N NE US77 BroSt
 NE US77 US275_S NE US77 US30_W
@@ -1465,7 +1469,7 @@ NC US401 US70/50_E NC US401 I-40
 # US 411
 TN US411 US441_N TN US411 US441_S
 # US 412
-OK US412 I-244(5B) OK US412 I-44(242)
+OK US412 I-35 OK US412 I-44/364           # Includes Cimmrron Turnpike
 MO US412 I-155(1) TN US412 US51_S
 TN US412 I-40(79) TN US412 I-40(87)
 # US 421
@@ -2703,11 +2707,19 @@ OK OK20 AR43_S OK/AR
 OK OK34 I-40(32) I-40(41)
 OK OK37 I-44(108) I-44(110)
 OK OK43 US69_N US69_S
+OK OK51 I-244(5B) US75_N
+OK OK51 I-44 MemDr
+OK OK51 41stSt 145thAve
 OK OK53 I-35(42) I-35(40)
 OK OK66 I-44(123B) I-35(141)
 OK OK66 I-44(221) I-44(241)
 OK OK112 US59/271 US271_N
-OK OK375 63 104                 # Indian Nation Turnpike
+OK OK375 63 104                  # Indian Nation Turnpike
+# Double entered under USA Interstates by primary above - remove if concurrency is destroyed
+OK OK152 JohnKilTpk I-44         # New segment of I-240
+OK JohnKilTpk OK152 I-35/44      # John Kilpatrick Turnpike (Now I-344)
+OK KicTpk 130 149                # Kickapoo Turnpike (Now I-335)
+
 
 # Oregon (OR)
 # ---------------------
