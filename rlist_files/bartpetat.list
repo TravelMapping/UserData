@@ -176,17 +176,20 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
 
 DEU-NW RE18 NLD/DEU AacHbf
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
+DEU-NW S5 DortMundHbf +DIV_HagN
 DEU-NW S6 DusseldorfHbf KolnHbf
 DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW S8 WuppertalLangerfeld MonchengladbachHbf
 DEU-NW S11 DusseldorfWehrhahn KolnWorringen
 DEU-NW S11 KolnLongerich KolnMulheim
+DEU-NW S12 +DIV_Nip Au
 DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
