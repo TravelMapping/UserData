@@ -1,17 +1,12 @@
 
 #-------British Colombia-------
-BC BC17 OswSt BC1
 BC BC1Van BC17 JohSt
-BC TCHVan JohSt BC17
-BC BC17 JohSt BaySt
-
 BC BC99 USA/CAN GeoSt_E
 BC BC17A BC99 BC17
 BC TCHVan MilBayRd JohSt
 BC BC1Van DalRd BC17
-BC BC17 BC1 FaiRd
-
-
+BC BC17 OswSt HilSt
+BC TCHVan DalRd MilBayRd
 
 
 #-------Washington-------
