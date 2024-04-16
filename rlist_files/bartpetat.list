@@ -141,7 +141,7 @@ DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 
-DEU-BE U1 KurFurDamm SchTor
+DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
@@ -179,6 +179,8 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
+DEU-NW HB211 TecZen EicHof
+DEU-NW HB212 CamNord CamSud
 
 DEU-NW RE18 NLD/DEU AacHbf
 
