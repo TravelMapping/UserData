@@ -37,8 +37,10 @@ MA RedLn Ash Ale
 MA RedLnBra QuiAda Ale #not sure about QuiAda being the end
 MA RedLnM Ash Mat
 
-#MO St. Louis light rail from Richmond Heights to Laclede's Landing
+MO MLBlueLn RicHei LacLan
+
+OH Con Ban_E Ban_W
 
 TN LooMouIR StElmo PoiPark
 
-#TN Memphis Trolley from Beale Street to North End
+TN MainStTro NorEnd BeaSt
