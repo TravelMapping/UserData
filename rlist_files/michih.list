@@ -1,4 +1,4 @@
-# Date: 2024-03-23
+# Date: 2024-04-19
 # ----------------
 
 ######################
@@ -286,15 +286,17 @@ DEU-BW 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
 DEU-BW U3 Vai Pli                                                                              #2023
+DEU-BW U4 HolPla RotPla                                                                        #2024
 DEU-BW U4 BergFriHof UntTurkHeim                                                               #2024
 DEU-BW U5 KilBerg Hbf                                                                          #2024
 DEU-BW U5 PragFriHof ChaPla                                                                    #201x, any
+DEU-BW U5 MohBf LeinFel                                                                        #2024
 DEU-BW U6 Ger FlugHafMes                                                                       #2023
-DEU-BW U7 MonFeld Hbf                                                                          #2023, U7 via Pragfriedhof
-DEU-BW U8 Vai RuhBank                                                                          #2023
+DEU-BW U7 MonFeld NelOstFil                                                                    #2023/24, U7 via Pragfriedhof
+DEU-BW U8 Vai NelOstFil                                                                        #2023/24
 DEU-BW U9 Bot Hbf                                                                              #2023 traveled as U29, merged into U9 from 2024
 DEU-BW U9 Hbf WagLangHausStr                                                                   #2024
-DEU-BW U12 MuhlHau Dur                                                                         #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U12 NecRem Dur                                                                          #2023, U12 via Hallschlag, Budapester Platz, Bopser
 DEU-BW U13 LowTor BadCanWilPla                                                                 #201x, U13/U16?
 DEU-BW U13 FeuBachBf Hed                                                                       #2024
 DEU-BW U14 MuhlHau +DIV_WilPla                                                                 #2023, U14 via Münster, Charlottenplatz, Berliner Platz to Hbf; rerouted from 2024
