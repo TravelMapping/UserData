@@ -88,7 +88,7 @@ PA BlueLn Gat SouHilJct
 
 OH RedLn Bro TriCCamDis
 
-#MI Detroit not yet drafted
+MI DetPeoMov Mic_S Mic_N
 
 IL BroLn Bel Loop
 IL GreLn ClaLake 35thBro
@@ -100,7 +100,7 @@ IL SkoSwi DemSko How
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN HubTram Ter1 HubBui
 
-MO BlueLn Uni ConCen
+MO MLBlueLn Uni ConCen
 
 #--------SOUTH CITIES--------
 GA RedLn Air NorSpr
@@ -130,7 +130,10 @@ AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
 
-#WA Seattle not yet drafted
+WA 1 SeaTacAir UniWas
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn 5thJac BroTer
+WA SouLakeUniLn FaiCamDr WesHub
 
 CA BARTRed Col CivCen
 CA MuniN 2nd Pow
@@ -147,6 +150,8 @@ CA BlueLn CivCen OldTownTC
 ON 1 SheW Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
+ON 501 BrocAve YonSt
+ON 504a SpeAve YonSt
 
 QC GreLn Ang HonBea
 QC OraLn CoteVer Mon
