@@ -315,8 +315,8 @@ DEU-BW S11 DIV_BadCanE NecPark                                                  
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
 
-DEU-BY 1Aug LechHauNeuOstFriHof GogRatHaus_2  #2024
-DEU-BY 1Aug LechHauNeuOstFriHof GogRatHaus_2  #2024
+DEU-BY 1Aug LechHauNeuOstFriHof MorPla        #2024
+DEU-BY 1Lec GogRatHaus_2 LechHauNeuOstFriHof  #2024
 DEU-BY 2Aug AugsBurgWestPR HaunSteNord        #2024
 DEU-BY 3Aug InnParkLfU KonBruZen              #2024
 DEU-BY 4Aug OberHauNordPR KonPla              #2024
