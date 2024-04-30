@@ -1,9 +1,6 @@
-# 03/01/2024
-# v54
-# Completed HI H-1, H-3, H-201
-# Completed NC I-840, I-587
-# Completed SC I-526FutCha, I-73FutMyr, I-74FutMyr (completed but discontinued by TM)
-# Completed NC I-74FutWhi
+# 04/24/2024
+# v55
+# Completed TX I-35
 
 
 # Arizona Interstate Highways
@@ -151,13 +148,11 @@ AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60 AZ77_S
 AZ US89AHisCla AZ89A_S AZ89A_N
 
-# Note Mileage compared to FHWA Table 3 
-
 # Hawaii 
-# 55 miles on Table 3, my count 56
+# 55 miles
 HI I-H1 1A AinAve              # 27
 HI I-H2 1 9                    #  8     
-HI I-H3 1A KanSta              # 15
+HI I-H3 1A KanSta              # 15 vs 16
 HI I-H201 1A I-H1              #  4 
 
 # Alaska
@@ -385,7 +380,7 @@ TX I-14 US190BusCop I-35       # 25
 TX I-20 I-10 TX/LA             #645 vs 636
 TX I-27 1A 123B                #126 vs 124
 TX I-30 I-20 TX/AR             #227 vs 224
-TX I-35 US83/359 370B          #378+
+TX I-35 HidSt 370B             #378+
 TX I-35Gai 467 TX/OK           # 37=415 vs 407
 TX I-35E 370B 467              # 98 vs 97
 TX I-35W I-35(370B) 85         # 87 vs 85
@@ -399,7 +394,7 @@ TX I-69E PolkSt 56             # 52 vs 54+
 TX I-69ERob FM2826 I-37        # 10 vs 7=61
 TX I-69W WorTraBri I-35        #  2 vs 1
 TX I-110 MEX/USA I-10          #  1
-TX I-169 I-69E FM1847          #  3 vs 1
+	TX I-169 I-69E FM1847          #  3 vs 1
 TX I-345 284A 286              #  2 vs 1 Unsigned
 TX I-369 TXLp151 I-30          #  4
 TX I-410 I-35(145A) 53         # 53 vs 50 think T3 is slightly short
@@ -774,6 +769,7 @@ TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 
 # North Carolina
 # 1410 miles (Table 3 1328) diff 82: I-74 10, I-140 14, I-295 9, I-840 6, I-885 8
+# 1400 on 10 not on
 NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 13            #  9 =52 vs 53
 NC I-40 TN/NC 420              #420
@@ -793,10 +789,11 @@ NC I-295 12 34                 # 23 (Table 3 14) (14 completed) - now 22 complet
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
-NC I-587 18 56                 # 38 vs 37 
+NC I-587 29 56                 # 27  NEW 2022 6 not completed ***FIX with new mileage from TM***
 # NC I-785 I-85 14(840)        #  7 vs 0 (overlap with I-840)
 NC I-795 38(264) 24            # 26
-NC I-840 103(73) I-85          # 14 vs 3; 7 overlap with I-785 
+NC I-840 103(73) 14            #  8 vs 5; not on Table 3  NEW 
+NC I-840 14 I-85               #  7  Overlap with I-785
 NC I-885 5 13                  #  8 vs 0; all new
  
 
@@ -899,14 +896,14 @@ TN I-69FutTri 15(155) TN183_End
 TN I-69FutUni US45W/51 TN/KY
 KY I-69Fut TN/KY 21
 IN I-69FutInd 4(465) 37(465)
-SC I-73FutMyr US17 US701            # done 2024 Myrtle Beach NE
+SC I-73FutMyr US17 US701            # 2024 Myrtle Beach NE
 NC I-73FutMad NC68 NC/VA
 NC I-73FutRoc NC38 US1
-## SC I-74FutMyr SC544 SC9          # done 2024 Myrtle Beach bypass - REMOVED from TravelMapping as of 1/14/24
+## SC I-74FutMyr SC544 SC9          # 2024 Myrtle Beach bypass - REMOVED from TravelMapping as of 1/14/24
 NC I-74FutPil I-74_W US52
 NC I-74FutRoc US1 US74BusRoc_E
 NC I-74FutLau 181 194
-NC I-74FutWhi 228 248               # done 2024 Whiteville
+NC I-74FutWhi 228 248               # 2024 Whiteville, W of Wilmington, missed in 22 
 PA I-86FutSWa 60 PA/NY
 NY I-86FutBin PA/NY 72A
 NY I-86FutDep 79 EvaRd
@@ -917,7 +914,7 @@ PA I-99FutMan 4thSt_W PA/NY
 IN I-265FutLou 7 IN/KY
 KY I-265FutLou 35 KY/IN
 TN I-269FutMem 19 US51
-SC I-526FutCha SC30_E 3             # done 2024 Charleston S bridge	
+SC I-526FutCha SC30_E 3             # 2024 Charleston S bridge
 NC I-785FutRei US29Bus_S US158/14
 # NC I-785FutRei US158/14 NC/VA     # N of Reidsville
 # VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
