@@ -1,4 +1,4 @@
-# Date: 2024-04-27
+# Date: 2024-05-01
 # ----------------
 
 ######################
@@ -303,14 +303,15 @@ DEU-BW U14 MuhlHau +DIV_WilPla                                                  
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U19 NeuGer NecParkSta                                                                   #2024
-DEU-BW S1 StaMit Wen                                                                           #201x, S1
+DEU-BW S1 HerBerg Wen                                                                          #201x/2x
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
-DEU-BW S3 Bac BadCan                                                                           #2024, S3
-DEU-BW S4 Bac LudBurg                                                                          #2024, S4
-DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
-DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
-DEU-BW S6 Ren StuHbf                                                                           #2020, S6
+DEU-BW S3 Bac BadCan                                                                           #2024
+DEU-BW S4 Bac LudBurg                                                                          #2024
+DEU-BW S4 LudBurg StuHbf                                                                       #2022
+DEU-BW S5 BieHeimBis StuHbf                                                                    #2023
+DEU-BW S6 WeilSta StuHbf                                                                       #2020/24
 DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
+DEU-BW S60 Bob Ren                                                                             #2024
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
