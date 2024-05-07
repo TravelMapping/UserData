@@ -2049,7 +2049,7 @@ IL IL159 MorAve KeeAve
 IL IL162 IL203 I-255
 IL IL164 US34 US34/41
 IL IL169 IL37 US45
-IL IL171 US12/20 IL72
+IL IL171 US6 IL72
 IL IL173 IL251 IL137
 IL IL176 IL23 IL131
 IL IL178 CR14 I-80
@@ -2663,6 +2663,7 @@ ND ND54 I-29 ND/MN
 ND ND59 I-29 ND/MN
 ND ND1804 BisExpy I-94
 ND EastRivRd ParkRd SceLpDr      # -- East River Road
+ND BisExpy I-94 WasSt            # -- Bismarck Expressway
 
 # Ohio
 # ---------------------
