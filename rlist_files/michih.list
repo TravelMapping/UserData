@@ -187,7 +187,7 @@ DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
 DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
 DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
 DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
-DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
 #DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
 DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
 
