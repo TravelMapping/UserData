@@ -1,4 +1,4 @@
-# Date: 2024-05-01
+# Date: 2024-05-12
 # ----------------
 
 ######################
@@ -182,6 +182,15 @@ DEU-BY S4 OstBf Gra                                                 #2023, trave
 AUT S4Tir InnHau Kuf                                                #2023, traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, traveled as EC85 via southern route in Munich
 
+#DEU-BY RE1 Ingolstadt Hbf - Nürnberg Hbf                           #2024
+DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
+DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
+DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
+DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
+DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
+
 
 DEU-SN S1Dre DreMit Sch               #2023
 DEU-SN S2Dre DreFlugHaf DreFreiBerStr #2023
@@ -338,8 +347,16 @@ DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
 DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 
+DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
+DEU-BY U3Nur Hbf GroReuSch             #2024
+DEU-BY 4Nur WegFeld GibHof             #2024
+DEU-BY 5Nur TierGar WorDorStr          #2024
+DEU-BY 6Nur WestFriHof DokuZen         #2024
+DEU-BY 7Nur Hbf TriStr                 #2024
+DEU-BY 8Nur Erl DokuZen                #2024
+
 
 DEU-BE U1 WitBergPla MocBru            #2018
 DEU-BE U7 MocBru SudSte                #2018
