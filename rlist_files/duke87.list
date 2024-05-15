@@ -136,7 +136,7 @@ WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
 CA BARTRed Col CivCen
-CA MuniN 2nd Pow
+CA MuniN 2nd PowSt
 CA AirTrnBlue RenCarCen Loop
 
 CA B NHol UniSta
@@ -157,3 +157,10 @@ QC GreLn Ang HonBea
 QC OraLn CoteVer Mon
 QC YelLn BerUQAM LonUniDeShe
 QC BluLn Sno SaiMic
+
+
+########-EUROPE RAPID TRANSIT LINES-########
+ITA MA Bat Ana
+ITA MB Reb Lau
+ITA MB1 Jon Lau
+ITA MC SanGio MonComPan
