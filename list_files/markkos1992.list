@@ -3227,7 +3227,12 @@ NY MeaStaPkwy M8 M3W
 NY NiaScePkwyNia LaSExpy JohnDalyBlvd
 NY NorStaPkwy Que/Nas NY347/454
 NY OcePkwyBro SeaBreAve NY27
-NY SawMillPkwy Bro/Wes I-684 
+NY SawMillPkwy Bro/Wes I-684
+NY SeaTrl PA/NY NY76
+NY SeaTrl DonaSt NY198/265
+NY SeaTrl NY384_S NY384_E
+NY SeaTrl NY384_W NY265
+NY SeaTrl NY390 CulRd_N 
 NY SevLakDr PalIntPkwy(18) PalIntPkwy(19)
 NY TacStaPkwy BroRivPkwy I-90
 NY PalIntPkwy NJ/NY US6/9W
@@ -4024,6 +4029,8 @@ OH OH872 OH7 OH/WV
 OH AtlBlvd US62/173 OH225
 OH BerFwy EasRd I-71
 OH DayAirRd I-70 BoeDr
+OH NatRdStC ToI-70(198) US40_MorW
+OH NatRdStC US40_MorE OH/WV
 #Indiana
 #Interstates
 IN I-64 IL/IN IN/KY
