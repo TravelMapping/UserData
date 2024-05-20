@@ -7509,6 +7509,13 @@ FRO Lv11 Lv10 Lv13
 FRO Lv13 Lv11 Lv60
 FRO Lv60 Lv13 VidGjo
 
+PAN C1 PanPac_E AveBal
+PAN C3 C1 CorNor
+PAN AutPanCol CorNor PueMan
+PAN AveBal C1 CorSur
+PAN CorNor AutPanCol C3
+PAN CorSur AveBal C1
+
 PER PE1N PE10 PE10A
 PER PE10 PE1N TerPorSal
 PER PE20B AvTomVal PE20K
