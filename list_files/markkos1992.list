@@ -2038,10 +2038,7 @@ MD WV46Elk WV/MD MD135
 MD BalWasPkwy US50/201 MD175
 MD CabJohnPkwy ClaBarPkwy I-495
 MD ClaBarPkwy MacBlvd_W MD/DC
-MD NatRd PA/MD QueCityDr_W
-MD NatRd MecSt_S QueCityDr_E
-MD NatRd BedRd ToI-68(72)
-MD NatRd US40Sce_W MD2
+MD NatRd PA/MD MD2
 MD ParkCenRd MD77 FoxDeeRd
 MD SuiPkwy DC/MD MD4
 #Delaware
@@ -2726,6 +2723,7 @@ PA BetRossBri AraAve PA/NJ
 PA HarTayBri US11/15_S FroSt
 PA PreBidExpy I-81 US11/307
 PA LinHwy BraAve MouRd
+PA NatRd WV/PA PA/MD
 PA RivRd BroSt US209
 PA SeaTrl OH/PA PA5Alt_Kel
 PA SeaTrl PA5Alt_EriW PA5Alt_EriE
@@ -3475,6 +3473,8 @@ WV WV891 US250 WV/PA
 WV WV892 WV68_S US50/68
 WV WV901 WV9 US11
 WV WV956 MD/WV WV28
+#Other
+WV NatRd OH/WV WV/PA
 #Kentucky
 #Interstates
 KY I-24 25 42
@@ -4032,8 +4032,7 @@ OH OH872 OH7 OH/WV
 OH AtlBlvd US62/173 OH225
 OH BerFwy EasRd I-71
 OH DayAirRd I-70 BoeDr
-OH NatRdStC ToI-70(198) US40_MorW
-OH NatRdStC US40_MorE OH/WV
+OH NatRdStC End OH/WV
 #Indiana
 #Interstates
 IN I-64 IL/IN IN/KY
