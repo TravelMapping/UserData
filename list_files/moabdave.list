@@ -22,7 +22,14 @@ ARG PasBajo AutBALP AutIll
 ARG AutRic 14 AerIntEze
 
 #Austria
+AUT B1 B3a L5337
+AUT B3 B119_S S5
+AUT B3a B1 L5349
+AUT B8 B227 B14
+AUT B14 B14a FreHafStr
+AUT B35 HeiStr B3
 AUT B137 DEU/AUT B136
+AYT B227 SalBru B8
 
 #Australia 
 
@@ -178,10 +185,7 @@ DEU-BY St2447 A70(12) St2277_N
 DEU-BY St2449 B19 A3
 DEU-BY St2250 St2419 A7
 DEU-BY St2618 A3 St2110
-
-#Nuremburg and Roth
-#Regensburg Lock and Regensburg
-
+DEU-BY St2660 HeeStr B15_S
 
 #Jamaica
 JAM A1 B15_E QueCreDr
