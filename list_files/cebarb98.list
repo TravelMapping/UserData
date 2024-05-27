@@ -1,6 +1,6 @@
 # # # # # # # # # # # # # # # #
 
-# US Interstates
+## US Interstates and Interstate Business Routes ##
 
 #. I-10
 LA I-10 103 LA/MS
@@ -318,7 +318,7 @@ MD I-97 1 17
 
 # # # # # # # # # # # # # # # #
 
-# US Numbered Highways
+## US Numbered and Numbered Auxiliary Routes ##
 
 #. US 1
 VA US1 VA54 SR639
@@ -395,8 +395,7 @@ DE US13BusWil DE48 DE202
 VA US15 US360_W US360_E
 VA US15 I-64 US29_N
 VA US15 VA7_W US15Bus_N
-MD US15 I-70 MD/PA
-PA US15 MD/PA PA134
+MD US15 US340_W TipDr
 # Business
 VA US15BusCul US15_S US15_N
 VA US15BusWar US211/29Bus_S US15_N
@@ -460,6 +459,9 @@ VA US29BusChr US29_S US29_N
 PA US30 I-70_E PA915_S
 PA US30 I-83 CenRd_B
 
+#. US 31
+IN US31 6thSt StaAve
+
 #. US 33
 VA US33 US11 I-81
 VA US33 US15_N US15_S
@@ -518,7 +520,7 @@ OK US59 US259 US271_S
 OK US59BypPot US59_S US59_N
 
 #. US 60
-KY US60 US127 KY2271
+KY US60 KY151 KY2271
 KY US60 US421/460 I-64(58)
 WV US60 WV527 I-64(15)
 # Alternate
@@ -719,6 +721,8 @@ PA US522 US322_W PA US522 US22/322
 
 # # # # # # # # # # # # # # # #
 
+## US State Routes and Parkways ##
+
 # Alabama State Routes
 AL AL52 US84/431 AL/GA
 AL AL59 AL182 I-10
@@ -793,6 +797,9 @@ DE DE896 DE273 DE/MD
 DE DE404BusBri DE404_W DE404_E
 DE DE404TrkGeo DE404_W DE404_E
 
+# Delaware Other Named Routes
+DE PunRunCon US13 DE1
+
 # District of Columbia District Routes
 DC DC295 I-295/695 DC/MD
 
@@ -841,6 +848,7 @@ KY KY74 KY441 US25E
 KY KY80 KY66_S KY118
 KY KY80 MorBlvd US23/460
 KY KY118 US421 HalRogPkwy
+KY KY151 I-64 US60
 KY KY441 KY74 KY1599
 KY KY1599 KY2401 KY441
 KY KY1631 CenAve I-65
@@ -873,9 +881,12 @@ LA LA1091 US190 US11
 LA LA3081 US11/41 I-59
 LA LA3250 US71/167Bus I-49
 
-# Louisiana State Routes
+# Louisiana Special State Routes
 LA LA435SprTal LA435 LA41
 LA LA3081SprPea LA3081 End
+
+# Louisiana Other Named Routes
+LA LakePonCswy EspAve US190/22
 
 # Massachussetts State Routes
 MA MA1ASal US1_S MA145_N
@@ -904,7 +915,7 @@ MD MD24 I-95 US1Bus
 MD MD25 I-83 41stSt
 MD MD27 MD144 MD808
 MD MD30 MD128 MD/PA
-MD MD32 I-97 MD99
+MD MD32 I-97 BenAve
 MD MD41 MD147 WalWooRd
 MD MD43 I-95 MD150
 MD MD45 US1 PadRd
@@ -930,7 +941,7 @@ MD MD109 I-270 MD355
 MD MD121 I-270 StrRd
 MD MD122 RolRd ForParkAve
 MD MD139 US1 BelAve
-MD MD140 MD97_N I-795
+MD MD140 MD194 I-795
 MD MD144 MD27 US40
 MD MD144Bal How/Bal US1
 MD MD144Fre JefSt I-70(59)
@@ -948,11 +959,13 @@ MD MD166 I-95/195 MD144
 MD MD168 HamFerRd MD648
 MD MD169 HamFerRd MD648
 MD MD170 MD175 MD2
+MD MD173 MD607 MD2
 MD MD175 US29 MD3
 MD MD176 End MD648
 MD MD177 MD2 End
 MD MD178 MD450 I-97
 MD MD189 MD190 I-270
+MD MD194 MD140 MD/PA
 MD MD198 I-95 US1
 MD MD200 3 US1
 MD MD201 DC/MD US50/295
@@ -1002,6 +1015,7 @@ MD MD575 MD452 MD589
 MD MD577 MD392 MD313
 MD MD587 DogDr MD150
 MD MD589 US50 US113
+MD MD607 WooRd MD173
 MD MD610 US50 US113
 MD MD611 AssSP US50
 MD MD648 MD2_A MD295_N
@@ -1017,6 +1031,7 @@ MD MD713 MD175 MD176
 MD MD808 RidBlvd MD27
 MD MD818 MD376 MD346
 MD MD896 DE/MD MD/PA
+MD MD940 I-795 MD140
 MD MD944 RutWay MD235
 
 # Maryland Special State Routes
@@ -1090,9 +1105,10 @@ OK OK112 US59/271 US271_N
 # Pennsylvania State Routes
 PA PA26 SciParkRd US322
 PA PA94 MD/PA PA194
-PA PA97Lit MD/PA US15
+PA PA97Lit MD/PA PA194
 PA PA145 I-78/309 PA248
 PA PA163 I-81 US11
+PA PA194 MD/PA PA97
 PA PA230 US22 PaxSt
 PA PA248 US209 PA145
 PA PA309 SauValRd US22
@@ -1191,11 +1207,19 @@ VA VA234BusMan VA234_S VA234_N
 # West Virginia State Routes
 WV WV527 US60 WV/OH
 
-# Other Select Named Routes
-DE PunRunCon US13 DE1
-LA LakePonCswy EspAve US190/22
+# # # # # # # # # # # # # # # #
+
+## US NPS and Tourist Routes ##
+
+# National Park Service Roads
 MD BalWasPkwy US50/201 MD175
 MD ClaBarPkwy MacBlvd_W I-495
+TN CliDomeRdNew US441 TN/NC
+NC CliDomeRdLuf TN/NC NC/TN
+TN CliDomeRd NC/TN TN/NC
+NC CliDomeRd TN/NC NC/TN
+TN CliDomeRdCol NC/TN TN/NC
+NC CliDomeRdCli TN/NC CliDomeTrl
 VA GWMemPkwyCry 1stSt VA/DC
 DC GWMemPkwy VA/DC DC/VA
 VA GWMemPkwy DC/VA I-495
@@ -1211,12 +1235,11 @@ OH ORSB US52 OH527_S
 
 # # # # # # # # # # # # # # # #
 
-#### changelog
-# 5/25/2024
-## new routes in KY, WV, OH
-# 5/22/2024
-## added new routes in Kentucky, Indiana
-# 5/20/2024
-## added new routes in West Virginia, Virginia, Tennessee, Kentucky
-# 4/5/2024
-## added new tourist routes for MD (yay!) and a few new MD routes I travelled on the past few months
+#### Changelog ####
+
+# 5/26/2024
+## added new headers
+## added Clingman's Dome route in TN/NC
+## added part of MD 140, MD 194, PA 194, MD 32, MD 607, MD 173
+## removed part of US 15 north of Thurmont, MD as unsure if I can confirm routing
+## removed part of PA 97 northwest of Littlestown, PA as unsure if I can confirm routing
