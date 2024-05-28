@@ -1,4 +1,4 @@
-# Date: 2023-12-10
+# Date: 2024-05-12
 # ----------------
 
 ######################
@@ -113,6 +113,13 @@ DEU-NW S2 DortMundHbf Her                                           #2022 via Ca
 DEU-NW S4 DortMundWic DortMundKorWest                               #2022
 DEU-NW S6 EssHbf DusDorfHbf                                         #2022 via Derendorf, Ratingen-Ost, Kettwig
 
+DEU-NW S8 Sch WupTalHbf                                             #2024, actually traveled as RE7 from Hagen
+#DEU-NW RE7 Hagen Hbf Wuppertal Hbf                                 #2024
+DEU-NW S7 WupTalHbf SolHbf                                          #2024
+DEU-NW S1 DusDorfHbf SolHbf                                         #2024
+DEU-NW S28 WupTalVohWin DusDorfGerHeim                              #2024
+
+
 DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
 DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
 DEU-BW S9 HE/BW MannHeimHbf           #2022, traveled with ICE
@@ -158,7 +165,9 @@ DEU-NW S23 BonnHbf +DIV_End                                         #2022, trave
 DEU-RP S5Wor WorBadePark WorBadAll    #2022, as RE6 Neustadt - Karlsruhe
 DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
+DEU-BW S6Bod Eng Sin                                                #2022, traveled as RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
+DEU-BW S6Bod Sin +DIV_S61                                           #2022, traveled as IRE3
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
 #DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
 
@@ -172,6 +181,15 @@ DEU-BY S7 OstBf +DIV_Au                                             #2023, trave
 DEU-BY S4 OstBf Gra                                                 #2023, traveled as EC85 Munich - Kufstein - Innsbruck
 AUT S4Tir InnHau Kuf                                                #2023, traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, traveled as EC85 via southern route in Munich
+
+#DEU-BY RE1 Ingolstadt Hbf - Nürnberg Hbf                           #2024
+DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
+DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
+DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
+DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
+DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
 
 
 DEU-SN S1Dre DreMit Sch               #2023
@@ -195,14 +213,21 @@ DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #### METROS/TRAMS ####
 ######################
 
-AUT 2Inn Per JosKerStr                #2023
-AUT 3Inn Sil_1 Amr                    #2023
-AUT 5Inn TecWest Rum                  #2023
-
 AUT 1Gra EggUKH HilBotGar             #2023
 AUT 3Gra And Kre                      #2023
 AUT 6Gra SmaCityPetTunGas StPet       #2023
 AUT 7Gra LKHMedUniKliNord Jak         #2023
+
+AUT 2Inn Per JosKerStr                #2023
+AUT 3Inn Sil_1 Amr                    #2023
+AUT 5Inn TecWest Rum                  #2023
+
+AUT 1Lin Hau Auw                      #2024
+AUT 2Lin Moz SolCity                  #2024
+AUT 2Lin Univ EbeOrt                  #2024
+AUT 4Lin Bur SchTra                   #2024
+AUT 50Lin Pos Hau                     #2024
+
 
 
 BGR M1 MlaI BusPark         #2023
@@ -270,25 +295,43 @@ DEU-BW 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
 DEU-BW U3 Vai Pli                                                                              #2023
+DEU-BW U4 HolPla RotPla                                                                        #2024
+DEU-BW U4 BergFriHof UntTurkHeim                                                               #2024
+DEU-BW U5 KilBerg Hbf                                                                          #2024
 DEU-BW U5 PragFriHof ChaPla                                                                    #201x, any
+DEU-BW U5 MohBf LeinFel                                                                        #2024
 DEU-BW U6 Ger FlugHafMes                                                                       #2023
-DEU-BW U7 MonFeld Hbf                                                                          #2023, U7 via Pragfriedhof
-DEU-BW U8 Vai RuhBank                                                                          #2023
+DEU-BW U7 MonFeld NelOstFil                                                                    #2023/24, U7 via Pragfriedhof
+DEU-BW U8 Vai NelOstFil                                                                        #2023/24
 DEU-BW U9 Bot Hbf                                                                              #2023 traveled as U29, merged into U9 from 2024
-DEU-BW U12 MuhlHau Dur                                                                         #2023, U12 via Hallschlag, Budapester Platz, Bopser
+DEU-BW U9 Hbf WagLangHausStr                                                                   #2024
+DEU-BW U12 NecRem Dur                                                                          #2023, U12 via Hallschlag, Budapester Platz, Bopser
 DEU-BW U13 LowTor BadCanWilPla                                                                 #201x, U13/U16?
+DEU-BW U13 FeuBachBf Hed                                                                       #2024
 DEU-BW U14 MuhlHau +DIV_WilPla                                                                 #2023, U14 via Münster, Charlottenplatz, Berliner Platz to Hbf; rerouted from 2024
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
-DEU-BW S1 StaMit Wen                                                                           #201x, S1
+DEU-BW U19 NeuGer NecParkSta                                                                   #2024
+DEU-BW S1 HerBerg Wen                                                                          #201x/2x
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
-DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
-DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
-DEU-BW S6 Ren StuHbf                                                                           #2020, S6
+DEU-BW S3 Bac BadCan                                                                           #2024
+DEU-BW S4 Bac LudBurg                                                                          #2024
+DEU-BW S4 LudBurg StuHbf                                                                       #2022
+DEU-BW S5 BieHeimBis StuHbf                                                                    #2023
+DEU-BW S6 WeilSta StuHbf                                                                       #2020/24
 DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
+DEU-BW S60 Bob Ren                                                                             #2024
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
+
+DEU-BY 1Aug LechHauNeuOstFriHof MorPla        #2024
+DEU-BY 1Lec GogRatHaus_2 LechHauNeuOstFriHof  #2024
+DEU-BY 2Aug AugsBurgWestPR HaunSteNord        #2024
+DEU-BY 3Aug InnParkLfU KonBruZen              #2024
+DEU-BY 4Aug OberHauNordPR KonPla              #2024
+DEU-BY 6Aug StaBer FriBergWestPR              #2024
+DEU-BY 8Aug Hbf FusAre                        #2024
 
 DEU-BY U1 OlyEinZen ManPla       #2022
 DEU-BY U2 FeldMoc MesStaOst      #2022
@@ -304,8 +347,16 @@ DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
 DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 
+DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
+DEU-BY U3Nur Hbf GroReuSch             #2024
+DEU-BY 4Nur WegFeld GibHof             #2024
+DEU-BY 5Nur TierGar WorDorStr          #2024
+DEU-BY 6Nur WestFriHof DokuZen         #2024
+DEU-BY 7Nur Hbf TriStr                 #2024
+DEU-BY 8Nur Erl DokuZen                #2024
+
 
 DEU-BE U1 WitBergPla MocBru            #2018
 DEU-BE U7 MocBru SudSte                #2018
@@ -343,11 +394,12 @@ DEU-SH S1 Wed SH/HH                                                             
 DEU-HH S1 SH/HH PopBut                                                                         #2020/23
 DEU-HH S1Flu Ohl HamBurgAirPort                                                                #2023
 DEU-SH S3 PinBerg SH/HH                                                                        #2023
-DEU-HH S3 SH/HH HH/NI                                                                          #2020/23
-DEU-NI S3Hor HH/NI Sta                                                                         #2023
-DEU-HH S11 Bla Ohl                                                                             #2020/23
-DEU-HH S21 HolStr HH/SH                                                                        #2023
-DEU-SH S21 HH/SH AuMuh                                                                         #2023
+DEU-HH S3 SH/HH NeuGra                                                                         #2020/23
+DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
+DEU-NI S5Hor HH/NI Sta                                                                         #2023
+DEU-HH S1 Bla Ohl                                                                              #2020/23
+DEU-HH S2 HolStr HH/SH                                                                         #2023
+DEU-SH S2 HH/SH AuMuh                                                                          #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
 DEU-HE U1 GinnHeim FraFurtSud                    #2022
@@ -437,9 +489,11 @@ DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
 DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
 #Düsseldorf
+DEU-NW U73 GerHeimS PohWeg            #2024
 DEU-NW U73 HeiHeiAll UniOstBotGar     #2022
 DEU-NW U76 RheStr HeiHeiAll           #2023
 DEU-NW U79 DuisBurgMeiBf UniOstBotGar #2022
+DEU-NW U83 GerHeimKraHaus HeiHeiAll   #2024
 
 #Essen
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
@@ -615,7 +669,7 @@ POL M2 Bem Tro                        #2022, u/c at both ends
 POL 6War MetMlo Goc                   #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
 POL 7War Cen PRAleKraSka              #2022, via Plac Zawiszy
 POL 24War Cen Goc                     #2022, via Most Poniatowskiego, Kinowa
-POL 26War MetMlo MetBem               #2022, via Aspekt, Radiowa
+POL 28War MetBem AleRey               #2022, actually traveled with 26 from Mlociny to Bemowo via Aspekt, Radiowa
 POL 33War MetMlo RonONZ               #2022, via Aspekt, Sady Zoliborskiego, Stawki
 
 #Whole M network as-at September 2023
