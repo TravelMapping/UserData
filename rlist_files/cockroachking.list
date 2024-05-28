@@ -1,21 +1,18 @@
-#QC Adirondack USA/CAN MontrealGareCentrale
 FRA-IDF CVer VerChaRiveGau StMicNotDame
-#NY Adirondack Poughkeepsie USA/CAN
-#DC NERegional WasUniSta NJ NERegional MetPark
-DC PennLn WasUniSta MD PennLn Per #TempAmtrak
-#IL MetraElectric VanBurenSt MuseumCampus11thSt
-#IL BNSF Naperville ChicagoUnionStation
+NY AD Pou QC AD GarCen
+DC NESpr WasUniSta NJ NESpr MetPark
+IL BNSF Nap UniSta
+IL ME MilSta MusCam11thSt
 NY HarLn GraCen Sou
 NY HudLn GraCen NewHam
-NJ NECorLn MetPark Tre #TempAmtrak
 PA PATCO 8thMar NJ PATCO Had
-PA TreLn DIV_Key NJ TreLn Tre #TempAmtrak
-DE WilNewLn New PA WilNewLn DIV_Byp #TempAmtrak
 NY 6 GraCen BleSt
 NY 7 42StGraCen MetsWilPoi
-DC GreLn NavyYardBal GalPla
-DC GreLn USt FortTot
-VA OraLn VieFaiGMU DC OraLn CapSou
-DC RedLn WooPk MD RedLnGle SilSpr
+VA BluLn FraSpr MD BluLn DowLar
+MD GreLnSui BraAve MD GreLn Gre
+VA OraLn VieFaiGMU DC OraLn +DIV_Blue
+MD RedLn ShaGro MD RedLnGle Gle
+VA SilLn Ash MD SilLn LarTownCen
+VA YelLn Hun DC YelLn MtVerSq
 IL RedLn Gra Add
 MA GreLnD Riv Fen

@@ -1,4 +1,4 @@
-# Date: 2023-11-13
+# Date: 2024-01-22
 # ----------------
 
 #####################################
@@ -41,9 +41,12 @@ LUX     Wasserbillig                 DEU-RP  Oberbillig
 DEU-BW  Ladenburg                    DEU-BW  Neckarhausen
 
 #Rhine
+DEU-RP  Kripp                        DEU-RP  Linz
+DEU-RP  Bad Hönningen                DEU-RP  Bad Breisig
 DEU-RP  Engelsburg                   DEU-RP  Korb
 DEU-RP  Niederheimbach               DEU-RP  Lorch
 DEU-RP  Bingen                       DEU-HE  Rüdesheim
+DEU-RP  Ingelheim                    DEU-HE  Oestrich-Winkel
 DEU-BW  Kollerinsel                  DEU-BW  Brühl
 DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
 DEU-RP  Neuburg                      DEU-BW  Neuburgweier

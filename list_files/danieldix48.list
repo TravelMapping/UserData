@@ -1,0 +1,226 @@
+
+GA I-75 205 163 #Fayetteville to Macon
+
+GA I-75 242 GA/TN #Fayetteville to LaPorte, IN
+TN I-24Cha GA/TN 185
+GA I-24 TN/GA GA/TN
+TN I-24 TN/GA 44
+TN I-65 88 IN I-65 178
+
+GA I-75 205 FL I-75 328 #Fayetteville to Orlando
+FL FLTpk 307 254
+
+FL I-75 128A 1 #Ft Myers to Miami
+
+IL I-24 I-57 TN I-24Cha 185 #Fayetteville to Carlinville
+IL I-57 44 96
+IL I-64 73 23
+IL IL4 I-64 IL108_W
+
+GA I-85 71 NC I-85 120 #Fayetteville to Lynchburg
+NC US29 I-85(120) VA US29 US501_N
+GA I-20 197 73
+SC SC277 I-20 I-77
+SC I-77 18 NC I-77 13
+
+GA I-75 242 KY I-75 185 #Fayetteville to Bloomington via Indy
+KY I-275 84 OH I-275 25
+OH I-74 5 IN I-74 4(465)
+IN IN37 I-465(4) I-69(153)
+IN I-69Whe 153 123
+
+IN I-465 4 9 #Indy airport hotel maybe speedway
+IN I-70 73 66
+
+IN I-70 66 89 #Indy airport hotel to Anderson
+IN I-465 44 37
+IN I-69 200 226
+
+GA I-20 114 AL I-20 126B #Lake Sinclair to Birmingham
+
+IL I-90 53B(94) IN I-90 39 #Chicago MDW to LaPorte
+
+IN I-80 39 IL I-80 81 #LaPorte to Starved Rock SP
+
+CA CA134 4 #LA, Forest Lawn to hotel
+CA I-5 116 144
+CA CA39 I-5 OraAve
+
+CA I-5 144 51B #covers Forest Lawn to San Diego Zoo safari park
+CA CA78 SanDieZoo
+
+CA I-210 42 29A #N Washington ave to Pasadena
+
+CA CA55 11A 1 #Hotel to Newport Beach Pier
+
+CA CA91 24 23B #SNA to hotel
+
+CA CA57 20 25B #hotel to wedding
+CA CA210 45 58
+
+CA CA39 OraAve LaMirBlvd #hotel to grandparents old house
+
+CA CA39 LaMirBlvd CA90 #hotel to Aunt Mary's
+
+CA I-10 42A 135C(5) #hotel to hollywood
+CA US101 1D 11
+
+CA CA57 20 16 #hotel to Santa Monica
+CA CA60 26 I-10(16B)
+CA I-10 16B 1
+
+CA I-210 42 45 #N Washington Ave to performing arts theater
+CA CA57 25B 1A
+CA I-5 107A 103
+CA CA55 11A 6
+CA I-405 9A 9B
+
+CA I-210 42 36 #N Washington Ave to hotel
+CA I-605 27 11
+
+CA I-405 45 22 #Seal beach
+CA CA1 SealBeaBlvd CA22
+
+CA I-710 1A 11 #Queen Mary to hotel
+CA I-605 9B 22
+
+WA I-5 104 164 #Portland (Cannon Beach) to Seattle
+OR I-205 24 21B
+OR I-84 6 I-5
+OR I-5 301 300A
+OR I-5 299B 294
+OR OR99W I-5(294) OR18/233
+OR OR18 OR99W/233 OR18S
+OR OR18SMin JohSt OR18
+OR OR99W GraSt OR47
+OR OR47 OR99W US26_E
+OR US26 OR47_S US101
+OR US101 HemSt US30
+
+OR US101 US30 WA401 #? not sure if completely right, may have taken 5 earlier
+WA WA401 US101 WA4
+WA WA4 WA401 US101 
+WA US101 WA4 WA107
+WA WA107 US101 US12
+WA US12 WA107 WA8
+WA WA8 US12 US101
+WA US101 WA8 I-5
+
+WA I-5 167 189 #Seattle to Boeing factory
+
+NV I-15 34 UT I-15 95 #Las Vegas to Bryce Canyon
+
+NV I-215 1 12 #Las Vegas to Hoover Dam
+NV I-11 AZ/NV 23
+NV US93BusBou US93_S US93_N
+
+AZ I-17 194 341 #PHX to Grand Canyon
+AZ AZ179 I-17 AZ89A
+AZ AZ89ASed DryCreRd I-17(340)
+AZ I-40 195 165
+AZ AZ64 I-40 SouEntRd_N
+
+CO I-70 284 203 #DEN to Breckenridge
+
+GA I-16 1 GA I-16 167 #Macon to Savannah
+
+GA I-75 165 259 #Macon to Truist Park
+
+GA I-475 I-75_S I-75_N #covers 475
+
+GA GA16 US19Bus_N I-75 #covers Griffin to 75
+
+GA GA85 I-75 GA85Alt #covers GA 85 from ATL to FDR state park?
+
+GA GA85AltWar GA85_N GA190
+
+GA GA74 GA85/109 SenRd_N #covers 74 from New Hope S to north Tyrone
+
+GA GA247 US23 GA96 #GA 247, from Macon to GA 96 in WR
+
+GA GA5 I-75(268) CheLogSt
+
+GA I-285 60 20 #covers part of 285
+
+GA I-285 60 39 #covers part of 285
+
+GA GA314 GA85 GA139 #covers 314 from Fayetteville to Riverdale road at airport
+
+GA GA92 NewHopeRd GA16 #covers 92 from New Hope N to Griffin
+
+GA GA72 US29 GA/SC #covers GA 72 from to GA/SC border
+
+GA GA10 GA138 ThoSt #
+
+GA GA10LpAth 18 10B #Macon to Athens
+GA US129 US41Bus_N US41_N #Macon to Athens
+GA US129 US41Bus_N GA10Lp(12) #Athens loop
+GA US441 GA10Lp(12) TN US441 I-40/275 #Athens to Knoxville
+
+GA GA49 US129_N GA22/24 #Macon to Lynchburg
+GA GA540 I-16(2) I-520
+GA I-520 5 1 
+
+TN US129 I-140 US411_S #covers 129 from Knoxville to Maryville
+TN US411 US129_S GA US411 I-75 #covers 411 from Maryville to 75 in N Atlanta
+
+FL I-10 296 I-95 #Fayetteville to St Augustine
+FL I-95 351B 318
+FL FLA1A SanCarAve A1ABeaBlvd
+
+FL US1 FLTpk(1) FleSt #Miami (Florida City) to Key West
+
+FL FL312 FL207 FLA1A #St Aug to Elkton
+FL FL207 FL312 ScoRd
+
+GA I-95 99 29 #Fayetteville to Jekyll Island
+
+GA I-85 41 21 #Fayetteville to 185
+
+GA I-85 41 AL I-85 58 #Fayetteville to Auburn
+
+GA I-85 41 AL I-85 51 #Fayetteville to Lake Martin
+AL US29 I-85(79) AL50
+AL AL50 US29 AL AL50 US280_W
+AL US280 AL50_E AL49_S
+
+AL US280 I-459 GA US280 US27_N #Birmingham to Columbus
+
+GA I-185 I-85 1 #Whitewater HS to Bainbridge
+GA US280 I-185 US27_S 
+GA US27 US280_E US84/27Bus_E
+
+VA US29 SR670 US33 #Lynchburg to Charlottesville, Skyline Dr, Wintergreen
+VA US33 US29 SkyDr
+VA SkyDr US33 US250
+VA BlueRidPkwy US250 SR664_N
+VA VA151 SR664 US29
+
+CA US101 Bro 445B #San Fran to Golden Gate, Muir Woods
+CA CA1 445B(101) PanHwy_E
+
+CA US101 VanNessAve_N 398B #San Fran to Santa Cruz, Monterey, Bixby creek bridge
+CA CA85 24B 11A
+CA CA17 22 1A
+CA CA1 MisSt_E CoaRd 
+
+CA CA1 LAX I-105 #LAX to grandparents house
+CA I-105 1A StuRd
+
+GA I-85 41 AL I-85 I-65 #Fayetteville to Orange Beach
+AL I-65 171 37
+AL AL287 US31 I-65
+AL US31 CR138 AL59_S
+AL AL59 US31_S I-10
+AL I-10 44 49
+
+
+
+
+
+
+
+
+
+
+

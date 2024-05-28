@@ -73,9 +73,10 @@ NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
 
+NLD 50Ams Isl Gein
 NLD 51Ams CenSta StaRAI
 NLD 52Ams Noo StaZuid
-NLD 53Ams CenSta +DIV_5054
+NLD 53Ams CenSta Gaa
 NLD 54Ams CenSta StaBijAre
 
 NLD A VlaWest Ale
@@ -90,7 +91,7 @@ NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
-NLD 25Ams Par Wes
+NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
 NLD 1Haa ZwaPad StaDel
@@ -112,7 +113,7 @@ BEL IC2 Bru AntCen
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
-BEL L9 Wel BEL/DEU
+BEL S41 Wel BEL/DEU
 BEL S43 LieGui BEL/NLD
 
 #Tram
@@ -141,7 +142,7 @@ DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 
-DEU-BE U1 KurFurDamm SchTor
+DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
@@ -176,18 +177,23 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
+DEU-NW HB211 TecZen EicHof
+DEU-NW HB212 CamNord CamSud
 
 DEU-NW RE18 NLD/DEU AacHbf
-DEU-NW L9 BEL/DEU AacHbf
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
+DEU-NW S5 DortMundHbf +DIV_HagN
 DEU-NW S6 DusseldorfHbf KolnHbf
 DEU-NW S7 WuppertalHbf SolingenHbf
 DEU-NW S8 WuppertalLangerfeld MonchengladbachHbf
 DEU-NW S11 DusseldorfWehrhahn KolnWorringen
 DEU-NW S11 KolnLongerich KolnMulheim
+DEU-NW S12 +DIV_Nip Au
+DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
@@ -353,6 +359,20 @@ IL BroLn Chi AdaWab
 # VIETNAM
 # THAILAND
 # JAPAN
+# Highspeed
+JPN TokaidoShin Tokyo Kyoto
+
+# Metro
+#Tokyo
+JPN YurikamomeLn U01 U07
+JPN HanzomonLn Z13 Z14
+JPN ChuoSobuLn JB10 JB22
+JPN GinzaLn G01 G08
+JPN YamanoteLn JY01 JY17
+JPN TokTozaiLn T03 T04
+
+#Kyoto
+JPN KarasumaLn K09 K11
 
 # HONG KONG
 #HK Tramways
@@ -366,10 +386,14 @@ HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
+HKG 505 SamShi TownCen
+HKG 507 TuenMunFryPier SuiLun
 HKG 614 PuiTo +DIV_751/761
+HKG 615 TuenMunFryPier YuenLong
 HKG 705 TinShuiWai_A WetPark
-HKG 751 SuiHong TinWong
-
+HKG 706 TinYat TinSau
+HKG 751 TownCen_A TinYat
+HKG 761p TinYat YuenLong
 
 #HK MTR
 HKG AirExp HongKong AsiaWorExpo
