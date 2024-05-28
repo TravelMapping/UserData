@@ -128,7 +128,7 @@ ENG WCMLECre LonEus Sto
 
 #####WM#####
 ENG SalLn BirNewSt TelCen
-ENG ChaLn BirInt +DIV_Wed #VT diversion via Tame Bridge
+ENG SalLnBes BirNewSt Wol #VT diversion via Tame Bridge
 
 #####XC#####
 ENG XCMLSou Bou Wol
