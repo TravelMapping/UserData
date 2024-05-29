@@ -15,6 +15,8 @@ ENG OxfLn LonPad Oxf
 
 CA BARTRed Mil WestOak
 CA BartOra BayFair Col
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
 CA MuniF 17thCas Bea
 CA MuniK BalPark Emb
 CA MuniM BalPark Emb
@@ -24,6 +26,7 @@ CA PowHyde PowJacWas Bea
 
 CT NewHavLn Sta WestHav
 
+DC AE WasUniSta DC/MD
 DC DCSC UniSta OklAve
 DC PennLn WasUniSta DC/MD
 DC BluLn VA/DC DC/MD
@@ -33,11 +36,15 @@ DC RedLn MD/DC DC/MD
 DC SilLn VA/DC DC/MD
 DC YelLn VA/DC DC/MD
 
+DE AE MD/DE DE/PA
+
 MA GreLnD Riv NorSta
 MA GreLnE Pru NorSta
 MA OraLn BackBay NorSta
 MA RedLn Ash Ale
 MA RedLnM Ash Mat
+
+MD AE DC/MD MD/PA
 
 MD PennLn DC/MD BWIAir
 MD BluLn DC/MD DowLar
@@ -53,6 +60,8 @@ MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
 MN HubTram Ter1 HubBui
 
+NJ AE PA/NJ NY/NY
+
 NJ HBLR8HT LibSP HobTer
 NJ HBLRHTT HobTer TonAve
 NJ HBLRWST LibSP TonAve
@@ -65,6 +74,10 @@ NJ PATHNWT NewPenn NJ/NY
 NV AE ParkMGM Bel
 NV LVM MGMGra SLS
 NV MTI Mir TreIsl
+
+NY AD FortEdwGleFal PennSta
+NY AE NJ/NY PennSta
+NY ES BufDep PennSta
 
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
@@ -111,6 +124,7 @@ ON 501 SpaAve NevPkBlvd
 ON 503 ChuSt_1 KinRd
 ON 505 DunW YonSt
 
+PA AE DE/PA PA/NJ
 PA StrRR Str LeaPl
 
 QC BluLn Sno SaiMic

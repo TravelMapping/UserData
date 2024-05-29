@@ -1,4 +1,4 @@
-#Amtrak Silver Star from Cary to Orlando
+NC SS Cary FL SS Orl
 
 FL GreLn DadSou GovCen #GovCen may be wrong
 FL InnLp GovCen_N GovCen_S #pretty sure I did the entire inner loop, and probably some of the northern spur but not sure to where
@@ -15,6 +15,8 @@ FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
 
 CA BARTRed SanFraAir MonSt
+
+IL RedLn Lake Gra
 
 VA BluLn KingStOldTown VA/DC
 DC BluLn VA/DC CapS
@@ -35,6 +37,10 @@ MA RedLn Ash Ale
 MA RedLnBra QuiAda Ale #not sure about QuiAda being the end
 MA RedLnM Ash Mat
 
-#MO St. Louis light rail from Richmond Heights to Laclede's Landing
+MO MLBlueLn RicHei LacLan
+
+OH Con Ban_E Ban_W
 
 TN LooMouIR StElmo PoiPark
+
+TN MainStTro NorEnd BeaSt
