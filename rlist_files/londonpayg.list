@@ -28,18 +28,18 @@ ENG EliLnShe HeaTer5 HeaTer23
 ENG EliLnHea HeaTer4 Pad
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
-ENG ELL HigIsl WestCro
-ENG ELLCla SurQua ClaJct
-ENG ELLCry Syd CryPal
-ENG ELLNew SurQua NewCro
-ENG Goblin GosOak BarRiv
-ENG LVL LivSt Che
-ENG LVLChi LivSt Chi
-ENG LVLEnf EdmGre EnfTown
-ENG NLL ClaJct Str
-ENG NLLRic Ric WilJct
-ENG RomUpmShu Rom Upm
-ENG WatDC Eus WatJct
+ENG WinLnCro HigIsl WestCro
+ENG WinLnCla SurQua ClaJct
+ENG WinLnCry Syd CryPal
+ENG WinLnNew SurQua NewCro
+ENG SufLn GosOak BarRiv
+ENG WeaLn LivSt Che
+ENG WeaLnChi LivSt Chi
+ENG WeaLnEnf EdmGre EnfTown
+ENG MilLn ClaJct Str
+ENG MilLnRic Ric WilJct
+ENG LibLn Rom Upm
+ENG LioLn Eus WatJct
 
 ####DLR####
 ENG DLR Bank Lew
@@ -61,12 +61,12 @@ ENG NorCityLn Moo HerNor
 ENG NorCityLnWel AlePal WelGarCity
 ENG StaEx LonLivSt TotHale
 ENG NhpLn LonEus WatJct
-ENG 1066Ln ChaCro Orp
+ENG HasLn ChaCro Orp
 ENG BexLn LonVic Dar
 ENG BroNLn GroPark BroNor
 ENG BroSLn LonVic Orp
 ENG ChaML LonVic BroSou
-ENG CreCoaLn LonVic BroSou
+ENG ThaLn LonVic BroSou
 ENG GroPkLn LonCanSt Orp
 ENG GroPkLnLew ChaCro Kno
 ENG HasLn ChaCro Orp
