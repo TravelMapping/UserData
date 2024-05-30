@@ -1,0 +1,114 @@
+#Amtrak
+BC AC USA/CAN VanPacCen
+CA CS UniSta CA/OR
+OR AC Eug OR/WA
+OR CS CA/OR OR/WA
+WA AC OR/WA USA/CAN
+WA CS OR/WA SeaKingSt
+
+AK GlaDis Anc Por_N
+AK GlaDis Whi +DIV_Por_B
+AK GlaDis Por_S +DIV_Por_C
+
+#CA BART
+CA BARTBlue DalyCity CasVal
+CA BARTGre DalyCity +DIV_BLUE
+CA BARTOra +DIV_BLUE Ric
+CA BARTRed SanFraAir Ric
+CA BARTYel SanFraAir Con
+
+#CA Cable Cars
+CA CalSt VanNess Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+
+CA MuniF 4thSto Bea 
+
+#San Diego Trolley
+CA BlueLn SanYsiTC +DIV_Gre_N
+CA GreLn 12thImpTC Gro
+CA OraLn Cou Gro
+
+CO DurSilNGR Dur Sil
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+NJ NECorLn NY/NJ NewLibAir
+
+#NY Subway
+NY S42 TimSq GraCen
+NY 1 110StCatPkwy SouFry
+NY 2 CenPkN WallSt
+NY 3 CenPkN WallSt
+NY 4 59St BowGre
+NY 5 59St BowGre
+NY 6 59thSt BroBriCityHall
+NY 7 34StHudYar JacHeiRooAve
+NY D 145St ConIslStiAve
+NY E JacHeiRooAve WTC
+NY F JacHeiRooAve ConIslStiAve
+NY L 8Ave 1Ave
+NY M 34StHerSq LexAve53St
+NY N +DIV_7_E ConIslStiAve
+NY Q +DIV_F_N ConIslStiAve
+NY SIR StGeo OldTown
+OH RedLn TowCity LitItaUniCir
+OR RedLn Cas PorIntAir
+OR RedLn PioSq LloCen11thAve
+PA AirLn PHLTerB Phi30thSt
+PA BlueLn Gat StaSq
+PA RedLn Gat StaSq
+PA SilLn Gat StaSq
+TX RedLnHou EnsHCC CenSta
+WA SeaCenMon SeaCen WesCen
+WA S Sea TacDome
+WA 1 Wes AngLake
+WA T TacDome 4thSt
+
+#US Airports
+AZ PHX RenCarCen T4
+GA SkyTrn Air RenCarCen
+MN HubTram Ter1 HubBui
+NJ AirTrn NewLibAir TerA
+NY AirTrnJam Jam Loop
+TX IAHSub TerA TerC
+
+#Washington Metrp
+DC BluLn VA/DC LEnfPla
+DC RedLn MD/DC MetCen
+DC YelLn VA/DC GalPla
+MD RedLn Roc MD/DC
+VA BluLn KingStOldTown VA/DC
+VA YelLn KingStOldTown VA/DC
+
+BC ExpoLn Wat MainStSciWor
+
+AUS-NSW T1 Cha +DIV_38
+AUS-NSW T2 +DIV_LpA +DIV_38
+AUS-NSW T3 +DIV_LpA +DIV_4S
+AUS-NSW T4 BonJct Cro
+AUS-NSW T4Wat BonJct +DIV_Cro
+
+ENG HEx LonPad HeaTer5
+ENG LonPar LonStPanInt GBR/FRA
+
+#London Underground
+ENG BakLn KilPark EleCas
+ENG CirLn EdgRd_1 Vic
+ENG CirLn Pad_2 EdgRd_2
+ENG JubLn Wes CanWha
+ENG NorLn Eus EleCas
+ENG PicLnHT4 HeaTer23 KXSP
+ENG VicLn KXSP Vic
+#Docklands Light Railway
+ENG DLR +DIV_Str CutSark
+ENG DLRWoo +DIV_StrS CanTown
+
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+#Paris Metro
+FRA-IDF M1 LouRiv Cha
+FRA-IDF M4 GareNord Cha
+FRA-IDF M6 CdGEto BirHak
+
+SCT HMLEdi EdiWav Sti
