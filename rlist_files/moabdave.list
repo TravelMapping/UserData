@@ -57,6 +57,9 @@ DC RedLn UniSta DupCir
 DC BluLn FogBotGWU CapS
 DC GreLn LEnfPla USt
 
+#Illinois
+IL AirTraSys Ter1 Ter5
+
 #Mass
 MA RedLn ParkSt Ale
 
