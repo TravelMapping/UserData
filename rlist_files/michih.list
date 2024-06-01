@@ -1,4 +1,4 @@
-# Date: 2024-05-12
+# Date: 2024-05-31
 # ----------------
 
 ######################
@@ -187,7 +187,7 @@ DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
 DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
 DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
 DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
-#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                            #2024, route "rechts der Pegnitz = NOT concurrent to S2
 #DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
 DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
 
@@ -207,6 +207,11 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #DEU-SN RB22 Leipzig Knauthain LeiPlagWitz     #2023
+
+
+DEU-NI S3 Leh HilHeimHbf                       #2024
+DEU-NI S4 HanHbf HilHeimHbf                    #2024
+DEU-NI S7 HanHbf Cel                           #2024
 
 
 ######################
