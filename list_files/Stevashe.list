@@ -1,126 +1,202 @@
-#----UNITED STATES----
-
-
+ #----UNITED STATES----
+  
   #--Interstates--
 
     #2di
-      FL I-4 67 72
+      FL I-4 65 74A
       CA I-5 MEX/USA WA I-5 WA/Can
       CA I-8 SunCliBlvd 4B
-      CA I-10 134C(5) 135C(5)
-      CA I-15 12 19
-      MT I-15 121 129
+      CA I-10 1 3
+      CA CA78 1A 17A
+      CO I-25 200 214A
+      TX I-30 47B TX I-30 48B
+        TX I-30 220A AR I-30 98
       MI I-69 72 80
+      CO I-70 167 284
       MI I-75 48 101
+      PA I-76 342 344
       CA I-80 1A NV I-80 18
       WA I-82 I-90 OR I-82 11
       OR I-84 I-5 64
         OR I-84 87 104
         OR I-84 179 209
       WA I-90 4thAve MT I-90 306
+        MA I-90 134 MA1A
+      MA I-93 14 28
       MI I-94 169 229
+      PA I-95 3 10
+        PA I-95 22 26
+        MA I-95 55 ME I-95 302
       MI I-96 37 40
         MI I-96 46 191A
 
     #2di suffix
       MN I-35E 92 99
       MN I-35W 1 9A
+      TX I-35E 433B 440
 
     #3di
+      CA I-105 1A StuRd
+      OR I-105 OR99/126 4
       CA I-205 I-580 I-5
       OR I-205 I-5 WA I-205 I-5
-      CA I-305 1A 7C
-      CA I-405 I-5(94A) 9A
-      CA I-405 21 46A
+      CA I-305 5A 7
+      CA I-405 I-5(94A) I-5(158)
       OR I-405 I-5(299B) I-5(302B)
       WA I-405 I-5(154) I-5(182)
       CA I-505 1A I-5
+      CA I-605 CA22 HunDr
+      TX I-635 12 27B
       WA I-705 I-5 StaWay
-      CA I-210 1A 24
-        CA I-210 25 45
+      CA I-805 I-5(1A) I-5(31)
+      CA I-210 1A 45
+      MT I-115 I-15/90 ClaSt
       CA I-238 14 17
       MI I-275 17 165(96)
+      TX I-345 284A 286
       MI I-375 I-75 BeaSt
+      PA I-676 I-76 NJ I-676 1
       CA I-280 I-680/101 5thSt
       CA I-380 5A 6
-      CA I-580 1A 19C
+      CA I-580 2A 19C
         CA I-580 26A 65
       NV I-580 65 68
       CA I-680 I-280/101 71
-      CA I-780 1A 7
-      CA I-805 I-5(1A) I-5(31)
+      CA I-780 LemSt 7
       CA I-880 I-280 46B
       CA I-980 I-880 2B
+      WA I-182 I-82 14
+      PA I-283 1 3
       MN I-494 70 11C
+      ME I-295 I-95(44) I-95(103)
+      ME I-395 US2 6
       MI I-196 41 64
         MI I-196 77 I-96
       MI I-696 I-96 28
       
+    #Interstate Banner Routes
+      CA I-5TrkNew I-5_S I-5_N
+
 
   #--US Routes--
 
+    PA US1 PA41 US322_E
+      MA US1 I-93(14) I-93(19)
+      MA US1 MA16 I-95(66)
+      MA US1 MA1ASal_S TollRd
+      ME US1 ME105 ME52_S
+      ME US1 ME3_W MyrSt
+      ME US1 ME169 US1AltFor_S
     WA US2 WA529 MT US2 US93Alt
       MT US2 MT40 MT US2 GoiSunRd
-    WA US12 HorWay WA8
-      WA US12 I-5(88) I-82(102)
-      MT US12 MauAve I-90(174)
-      MT US12 MT141 US287_S
-      MI US12 I-275 WayRd
+    ME US2 ME139 US201_N
+      ME US2 ME23_S RidRd
+      ME US2 US202 ME15Bus
+      ME US2 ME116_N ME6_E
+      ME US2 US2AltHou_W ME158
+      ME US2 US1_N US1_S
+    CO US6 I-70(171) US40_E
+      CO US6 I-70(261) I-70(276A)
+    WA US12 HorWay WA US12 WA8
+      WA US12 I-5(88) MT US12 I-90(174)
+      MT US12 MT141 MT US12 US287_S
+      MI US12 I-94(181) MI US12 I-94(185)
+      MI US12 I-275 MI US12 WayRd
+    FL US17 US192_W LanRd
     OR US20 WavDr I-5
       OR US20 ButMarRd PilButSP
+    PA US22 PA443 PA230
     MI US24 MI153 US24Bus_N
       MI US24 MI15 I-75
-    OR US26 53 I-205
-      OR US26 HogDr OR35
-      OR US26 US395_N US395_S
+    OR US26 OR47_N US97_S
     OR US30 US101 ToWA433
       OR US30 I-405(3) I-84(44)
       OR US30 I-84(44A) I-84(62)
       OR US30 OR281 I-84(64)
       OR US30 US197 I-84(104)
       OR US30 I-84(179) I-84(207)
+      PA US30 PA741 PA US30 PA41
+      PA US30 US322 NJ US30 CooSt
     CA US50 I-80 CA/NV
       NV US50 CA/NV US395_S
+    TX US59 I-69(147) US59Bus/259
+      TX US59 US59Bus/79 I-30(223)
+    TX US67 US287 I-35E(425B)
+      TX US67 TX93 AR US67 AR355
+    AR US70 AR192 US270_E
+    TX US71 AR/TX TX US71 TXLp14
+    TX US75 MidRd AraRd
+    TX US80 TX31 TXLp390_E
+    TX US84 FM3055 US259
     MT US93 I-90(101) LionMouRd
     ID US95 I-90(12) US2_E
     CA US97 I-5 WA US97 WA/Can
-    CA US101 CA60 CA US101 I-5/10
-      CA US101 66A CA US101 450B
+    CA US101 66A CA US101 450B
       CA US101 CA1/271 CA US101 645
       CA US101 674 CA US101 753
       CA US101 765 WA US101 WA401
-      WA US101 WA4 WA US101 WA6
-      WA US101 US12 WA109
-      WA US101 MocHwy BeeMillRd
-      WA US101 WA119 WA US101 WA106
-      WA US101 BlaLakeBlvd WA US101 I-5
+      WA US101 WA4 WA6
+      WA US101 WA107 BeeMillRd
+      WA US101 WA119 WA108
+      WA US101 WA8 I-5
+    NJ US130 I-76Con NJ90
     MI US131 81 86
     MN US169 I-494 ValViewRd
-    MT US191WYe US287_N MT US191 MT86
+    MT US191WYe YelNP_S MT US191 MT86
+    FL US192 FL429 US17/441
+    WA US195 WA272 WA26
+      WA US195 HatRd I-90
     OR US197 US97 I-84/US30
     CA US199 US101 OR US199 I-5
+    ME US201 US1 ME196
+      ME US201 ME125_S ME137Bus_W
+      ME US201 ME11_S I-95
+      ME US201 US2_W EMadRd
+    ME US202 I-95(63) US2
     MN US212 I-494 MN62_E
-    MT US287 US191_N MT84
+    TX US259 US59 TX315
+      TX US259 TX154 TX155
+    AR US270 AR27_S I-30(98)
+    TX US287 EnnPkwy US67
+      MT US287 US191_N MT84
       MT US287 I-90 I-15(192)
+    PA US322 PA443 US30
+      PA US322 US1/202 I-95(4)
     NV US395 38 NV US395 50
       NV US395 56 OR US395 I-84(188)
-      OR US395 I-82 WA US395 I-82(113)
-      WA US395 I-90(220A) WA US395 US2_E
+      WA US395 I-90(281) HatRd
 
 
   #--National Parks--
 
-    WA HurRidRd ParkAve End
-    WA UppHohRd US101 HohVisCen
     WA SteCynRd WA706 WA123
     WA SunParkRd Sun WA410
+    WA HurRidRd ParkAve End
+    WA UppHohRd US101 HohVisCen
     OR CraCrkRd OR62 RimDr
     OR CraLakeHwy RimDr OR138
     OR CraLakeRimDr CraLakeHwy_W CraCrkRd
+    CA KinCanRd CA180_W GenHwy
     CA LasPeakHwy CA89_S CA44/89
+    CA GenHwy CA198 KinCanRd
+    CA BigOakRd CA120 ElPorRd
+    CA ElPorRd BigOakRd SouDr_E
+    CA WawRd CA41 SouDr
     MT GoiSunRd US2 LakeMcDon
+    MT WEntRd US20/191 WY WEntRd GraLoopRd
+    WY GraLoopRd NorCanRd_W NorCanRd_E
+    WY NorCanRd GraLoopRd_W GraLoopRd_E
+    ME ParHillRd ParkLpRd VisCenRd
+    ME ParkLpRd SieMonRd_S SieMonRd_N
+    ME CadSumRd ParkLpRd End
 
-
+  
+  #--Alaska--
+  
+    #AK State Highways
+      AK AK2 JohExpy GolRd
+  
+  
   #--Washington--
 
     #WA Named Freeways
@@ -129,15 +205,20 @@
 
     #WA Interstate Business Routes
       WA I-90BLEll I-90_W I-90_E
+      WA I-90BLMos I-90_W I-90_E
+      WA I-90BLSpo I-90_W I-90_E
       WA I-5BLCas I-5_S I-5_N
 
     #WA US Banner Routes
       WA US97AltEnt US97_S WA971_S
-      WA US395FutSpo FreSt US2
+      WA US395FutSpo WelAve US395
+      
+      #WA US Historic Routes
+        WA US10HisSch I-90(184) I-90(215)
+        WA US10HisRit I-90(220) I-90(254)
 
     #WA State Routes
-      WA WA3 WA302 WA106
-        WA WA3 WA16 WA104
+      WA WA3 US101 WA104
       WA WA4 US101 WA401
       WA WA6 US101 I-5
       WA WA7 US12 I-5/705
@@ -146,41 +227,49 @@
       WA WA10 WA970 US97
       WA WA11 I-5(231) I-5(250)
       WA WA16 I-5 WA3
-      WA WA17 US2_E US2_W
+      WA WA17 I-90 WA171
       WA WA18 WA99 I-90
       WA WA19 WA104 WA20
       WA WA20Por US101 PorCouFry
         WA WA20 EngRd RossDamTrl
-        WA WA20SprAna WA20 AnaFry
       WA WA21 US2_E US2_W
+      WA WA22 I-82(50) I-82(82)
       WA WA24 I-82 WA243
       WA WA26 I-90 WA243
-      WA WA27 I-90 WA290
+      WA WA27 WA272_E WA290
       WA WA28 US2/97 WA285
+        WA WA28 WA283 US2
       WA WA92 WA9 MtnLpHwy
       WA WA96 I-5 WA9
       WA WA99 WA599 I-5(189)
         WA WA99Fed I-5(137) WA518
+      WA WA102 WasStaSt US101
       WA WA104 US101 KinEdmFry
         WA WA104Edm EdmKinFry WA522
       WA WA106 US101 WA3
-      WA WA109 WA109Spr MocHwy
-        WA WA109SprHoq WA109 US101
+      WA WA107 US101 US12
+      WA WA108 WA8 US101
+      WA WA109 US101 CuiSt
       WA WA110 OlyNP US101
-        WA WA110SprMor OlyNP WA110
+      WA WA115 PoiBroAve WA109
       WA WA116 WA19 FortFlaSP
       WA WA117 US101 MarDr
       WA WA119 US101 TeboLn
       WA WA121 I-5(95) I-5(99)
       WA WA122 US12_W US12_E
       WA WA123 US12 WA410
+      WA WA128 US12 WA/ID
+      WA WA129 WA129Spr US12
+      WA WA160 WA16 FauSouFry
       WA WA161 WA7 WA18
       WA WA162 WA410 WA165
       WA WA163 WA16 PoiDefFry
       WA WA164 WA18 WA410
       WA WA165 MouRaiNP WA410
+      WA WA166 WA16 WhiAve
       WA WA167 I-5 WA900
       WA WA169 WA164 WA900
+      WA WA171 I-90 WA17
       WA WA181 WA516 I-405
       WA WA202 WA522 I-90
       WA WA203 WA202 US2
@@ -188,18 +277,25 @@
       WA WA207 US2 ChiLpRd
       WA WA231 US2_W US2_E
       WA WA243 WA24 WA26
+      WA WA272 US195 WA27_S
+      WA WA281 I-90 WA281Spr
+      WA WA283 WA281Spr WA28
       WA WA285 WA28 US2/97
       WA WA290 WA27 WA/ID
+      WA WA300 BelSPs WA3
       WA WA302 WA3 WA16
       WA WA303 WA3_S WA304
       WA WA304 WA3 BreFry
       WA WA305 WinFry WA3
       WA WA307 WA305 WA104
+      WA WA310 WA3 WA304
       WA WA401 US101 WA4
       WA WA410 WA167 US12
       WA WA411 WesHwy I-5
       WA WA432 WA433 I-5
       WA WA433 OR/WA WA432
+      WA WA500 I-5 WA503_N
+      WA WA503 WA500_W I-5
       WA WA504 WA505 JohRid
       WA WA505 I-5 WA504
       WA WA507 I-5 WatSt
@@ -218,7 +314,6 @@
       WA WA524 WA104 WA522
       WA WA525 I-5 CliMukFry
         WA WA525Fre CliMukFry WA20
-        WA WA525SprMuk WA525 WA526
       WA WA526 WA525 I-5
       WA WA527 I-405 I-5
       WA WA528 I-5 WA9
@@ -238,59 +333,85 @@
       WA WA548 I-5(266) I-5(276)
       WA WA599 I-5 WA99
       WA WA702 WA507 WA7
+      WA WA704 SpaLpRd WA7
       WA WA706 WA7 MouRaiNP
       WA WA821 I-82(26) I-82(3)
       WA WA823 US12 WA821
       WA WA903 WA970 WenNF
       WA WA900 I-5(158) I-90
       WA WA906 I-90(52) I-90(54)
-        WA WA906SprSno WA906 NFD2219
       WA WA970 I-90 US97
       WA WA971 US97Alt_S LakRd
-
-
+      
+      #WA State Banner Routes
+        WA WA9SprSum WA9 WA/BC
+        WA WA20SprAna WA20 AnaFry
+        WA WA108BusMcC WA8_W WA8_E
+        WA WA109SprHoq WA109 US101
+        WA WA110SprMor OlyNP WA110
+        WA WA129SprCla WA129 US12
+        WA WA281SprQui WA281 I-90
+        WA WA302SprPur WA302 WA16
+        WA WA503SprCou WA503 FS90
+        WA WA525SprMuk WA525 WA526
+        WA WA906SprSno WA906 NFD2219
+        
+        
   #--Oregon--
 
     #OR US Banner Routes
       OR US26BusGov US26_W US26_E
-      OR US97BusBen US20_E ButMarRd
+      OR US97BusBen US97_S US97_N
       OR US97BusKla US97_S US97_N
       OR US101BusAst US101_S US101_N
 
-    #OR Routes
+    #OR Oregon Routes
       OR OR6 US101/131 US26
       OR OR10 OR210 US26/OR99W
+      OR OR31 US97 US395
+      OR OR34 OR99E I-5
       OR OR35 US26 I-84/US30
       OR OR39 CA/OR US97
         OR OR39Kla US97 OR39
       OR OR43 OR99E US26
+      OR OR47 US26_E US30
       OR OR58 I-5 US97
       OR OR62 OR99/238 OR140
         OR OR62 OR234 CraLakeNP
       OR OR66 OR99 OR140
-      OR OR99 OR66 OR62/238
-        OR OR99 OR234_E OR234_W
-        OR OR99 US199/OR238 I-5(58)
+      OR OR99 I-5(11) I-5(192)
         OR OR99E OR43 I-5(307)
       OR OR104 US101 LakeDr
       OR OR104SWar OR104 US101
       OR OR120 ColBlvd I-5(307)
-      OR OR126 4 6
-      OR OR126BusSpr OR225 14thSt
+      OR OR126 OR569 6
       OR OR131 OR131Trk US101/OR6
+      OR OR132 I-105 OR569
       OR OR138 I-5(136) I-5(124)
       OR OR138 CraLakeHwy US97
       OR OR140 OR62 OR39_W
       OR OR140 US395_S US395_N
+      OR OR173 US26 TimLodge
       OR OR210 OR217(4B) OR10
       OR OR213 I-205(13) AirWay
-      OR OR217 US26 8
+      OR OR217 BarRd BanRd
+      OR OR222 OR99 OR126Bus
       OR OR224 17thAve OR212_W
+      OR OR225 I-5 OR126Bus
       OR OR234 I-5(43) OR62
+      OR OR273 I-5(1) OR66
+      OR OR528 OR126Bus OR126
+      OR OR569 OR126 GatSt
+      
+      #OR Oregon Banner Routes
+        OR OR126BusSpr I-105 OR126
 
 
   #--California--
 
+    #CA Interstate Business Routes
+      CA I-80BLSac 1A 14C
+    
     #CA State Routes
       CA CA1 436 US101
       CA CA2 21 I-210(20)
@@ -300,31 +421,40 @@
       CA CA12 I-80(39B) I-80(43)
       CA CA13 1A 5B
       CA CA16 WildWinDr I-5BL_S
-        CA CA16Wil US50 JacRd
+        CA CA16Wil US50 CA49
       CA CA17 1A 26
       CA CA20 I-5BL I-5
         CA CA20 CA70_S CA70_N
-      CA CA22 I-405(23) 12
+      CA CA22 CA1 17B
       CA CA24 2 15
       CA CA25 PinNP US101
       CA CA28 CA89 CA/NV
-      CA CA32 CA99 CA36/89
+      CA CA32 I-5 CA45
+        CA CA32 CA99 CA36/89
       CA CA33 I-5/145 I-5(349)
       CA CA35 BearCrkRd_E BearCrkRd_W
         CA CA35 PageMillRd CA84
+        CA CA35 I-280(34) I-280(41B)
+        CA CA35 JohnDalyBlvd CA1
       CA CA36 I-5 US395
+      CA CA41 128 YosNP
       CA CA44 CA273/299 CA36
+      CA CA45 CA113 CA32
       CA CA46 US101(228) US101(231B)
-      CA CA49 I-80(119C) ElmAve_W
+      CA CA49 CA120_E CA16
+        CA CA49 I-80(119C) ElmAve_W
       CA CA52 1A 3
       CA CA54 1A 2
-      CA CA55 6 11A
+      CA CA55 6 13
       CA CA56 1A 9
       CA CA57 1A 25B
       CA CA60 24A 26
-      CA CA65Ros 306 309
+      CA CA63 WalAve CA198(105B)
+      CA CA65 CA99 CA198
+        CA CA65Ros 306 309
       CA CA70 CA99 US395
       CA CA75 10thSt 13B
+      CA CA78 1A 17A
       CA CA82 I-880 MatAve
         CA CA82 SanAntRd PalmDr
         CA CA82 HilBlvd CA92
@@ -336,40 +466,50 @@
         CA CA89 CA28 I-80(188B)
         CA CA89 CA70_E LasVolNP
         CA CA89MtS CA44_W I-5
+      CA CA91 VerAve 24
       CA CA92 8 14A
       CA CA96 CA263 I-5
-      CA CA99 297 319
-        CA CA99 CA149 385
+      CA CA99 I-5(221) 385
+      CA CA108 CA49_S CA108BusSon_W
       CA CA110 26A GleSt
+      CA CA113 CRE8 CA45
+      CA CA120 CA49_N YosNP
       CA CA126 1A I-5
       CA CA130 ManAve FleAve
+      CA CA134 1A 13B
       CA CA139 CA36 CA/OR
-      CA CA146Pin PinNP CA25
       CA CA147 CA89 CA36
       CA CA149 CA70 CA99
-      CA CA151 AshRd I-5
+      CA CA151 DamVisCen I-5
       CA CA152 US101(357) US101(356)
       CA CA156 US101(336) US101(345)
       CA CA160 AmeRiv 48
       CA CA163 ASt I-15
       CA CA166 US101(171) US101(175)
+      CA CA170 5 11B
       CA CA172 CA36 CA36/89
+      CA CA180 59 KinCanNP
+      CA CA198 105B SeqNP
+      CA CA204 CA58 CA99
       CA CA236 CA9_S CA9_N
       CA CA237 1A 9B
       CA CA254 US101(645) US101(674)
       CA CA262 I-880 I-680
       CA CA263 I-5BL/3 CA96
+      CA CA265 I-5BL/97 I-5
       CA CA267 CA28 I-80/89
       CA CA271Leg UndLn CA1
       CA CA273 I-5(667) I-5(681B)
       CA CA299 RockCrkRd CA273/A18
         CA CA299 CA139_S CA/NV
+      
+      #CA State Banner Routes
+        CA CA99BusBak CA99(11) CA99(27B)
 
 
   #--Nevada--
 
     #NV US Banner Routes
-      NV US50BusCar US50_W FaiDr
       NV US395BusCar US395_S FaiDr
       NV US395AltWas I-580(50) I-580(57)
 
@@ -381,24 +521,35 @@
   #--Idaho--
 
     #ID Interstate Business Routes
+      ID I-90BLPos I-90_W I-90_E
+      ID I-90BLOsb I-90_W I-90_E
       ID I-90BLWal I-90_W I-90_E
+      ID I-90BLMul I-90_W I-90_E
 
     #ID State Highways
       ID ID41 ID53_W US2
       ID ID53 WA/ID ID41_N
       ID ID57 US2 WSideRd_N
+      ID ID128 WA/ID US12
 
 
   #--Montana--
 
     #MT Interstate Business Routes
-      MT I-90BLBoz I-90_W MT86
+      MT I-15BLBut I-15_S I-15_N
+      MT I-90BLAlb I-90_W I-90_E
+      MT I-90BLMis I-90_W I-90_E
       MT I-90BLDee I-90_W I-90_E
+      MT I-90BLBoz I-90_W MT86
 
     #MT US Banner Routes
+      MT US12BusMis US12_W US12_E
+      MT US93BusMis US93_S US93_N
       MT US93AltKal US93_S US93_N
 
-    #MT Highways
+    #MT Montana Highways
+      MT MT1 I-90(208) I-90(153)
+      MT MT2 I-15/90 I-90(278)
       MT MT35 MT83 MT82
       MT MT40 US93 US2
       MT MT28 MT200 US93
@@ -416,11 +567,53 @@
 
     #MT Secondary Highways
       MT SR205 I-90(278) BufJumpRd
-      MT SR205 SR411 I-90(306)
-      MT SR291 I-90 SR290
+      MT SR205 I-90(278) I-90(306)
+      MT SR290 SR291 AirBlvd
+      MT SR291 I-90 GolWestDr
+      MT SR345 US191 StuRd_E
       MT SR411 SR205 SypCynRd
       MT SR412 US191 SR411
       MT SR487 US93 End
+
+ 
+  #--Colorado--
+  
+    #CO Named Freeways
+      CO PenaBlvd I-70 Ter
+  
+    #CO State Highways
+      CO CO9 SkiHillRd I-70(205)
+
+
+  #--Texas--
+  
+    #TX US Banner Routes
+      TX US287BusEnn I-45BL_N US287_N
+    
+    #TX State Highways
+      TX TX31 US69 US80
+      TX TX34 I-45BL_N TX243
+      TX TX43 TXLp390_S TX77
+      TX TX49 TX155 US59
+      TX TX64 TX243 TX31
+      TX TX78 I-30 I-635
+      TX TX93 I-369/59 US67
+      TX TX103 US59/69 FM842
+      TX TX154 US259 TXLp390
+      TX TX155 US259 TX49
+      TX TX243 TX34 TX64
+
+      #TX State Highway Banner Routes
+        TX TX105BusCle FM1725 TXLp573_S
+
+    #TX State Highway Spurs
+      TX TXSpr366 BecAve US75
+      TX TXSpr449 TX43 FM134
+    
+    #TX State Highway Loops
+      TX TXLp236 US59_S US59_N
+      TX TXLp390 TX43_W US80_E
+      TX TXLp573 US59_S TX105Bus_W
 
 
   #--Minnesota--
@@ -431,6 +624,15 @@
       MN MN62 US212_E MN77
       MN MN77 138thSt MN62
       MN MN100 I-494 MN7
+
+
+  #--Arkansas--
+  
+    #Arkansas Highways
+      AR AR7 US70/270 AR88_N
+      AR AR27 AR355_S US270_E
+      AR AR29 US278/29B I-30
+      AR AR355Min US67 AR27_N
 
 
   #--Michigan--
@@ -451,16 +653,129 @@
       MI MI39 11A 16
       MI MI44 I-96 5MiRd
       MI MI153 BeckRd US24
-
+      
+      
   #--Florida--
 
-    #Florida State Roads
+    #FL State Roads
+      FL FLA1AVer FL520 FL528(46)
+      FL FL3 FL520 JFKSpaCen
+      FL FL50 FL408(23) FL405
+      FL FL405 JFKSCen FL50
+      FL FL408 16 ChaPkwy
+      FL FL417 I-4 26
+      FL FL436 FL528 FL408
+      FL FL482 I-4 FL528
+      FL FL520 FL3 FLA1A
       FL FL528 I-4 11
+        FL FL528 16 54B
+    
+    
+  #--Pennsylvania--
+    
+    #PA Named Freeways
+      PA BetRossBri AraAve PA/NJ
+    
+    #PA Routes
+      PA PA41 US1 US30
+      PA PA230 US22 PA283
+      PA PA272 US30/222 PA772
+      PA PA283 EisBlvd US30
+      PA PA291 I-95(10) I-76
+      PA PA441 I-283 EisBlvd_N
+      PA PA443 US22/322 BlueMouPkwy
+      PA PA501 PA722_W PA772_E
+      PA PA611 OreAve PA3
+      PA PA722 PA283 PA501_N
+      PA PA741 PA283 PA999
+      PA PA772 PA501_S PA272
+      PA PA999 DukeSt PA741
+      
+      
+  #--New Jersey--
+
+    #NJ Routes
+      NJ NJ90 PA/NJ US130
+      
+      
+  #--Massachusetts--
+    
+    #MA Routes
+      MA MA16 EveAve MA145
+      MA MA28 I-93(21) I-95
+      MA MA60 US1 MA1A/16
+      MA MA99 CamSt MA16
+      MA MA113 FerRd MA1A
+      MA MA145 MA1A_N MA16
+      
+      #MA Banner Routes
+        MA MA1ASal I-90 US1_Sal
+        
+        
+  #--Maine--
+
+    #ME Named Freeways
+      ME MTAppRd I-95 US1
+      ME ScaCon US1 I-295
+    
+    #ME US Banner Routes
+      ME US1AltBan I-395(3) IndSt
+      ME US1AltFor US1_S ERidRd
+      ME US2AltHou US2_W DanRd
+      
+    #ME State Routes
+      ME ME3 AldParkRd ParHillRd
+      ME ME6 ME116_N ME169/170
+      ME ME7 US1 US202
+      ME ME8 US201_S I-95
+        ME ME8 ME225 US2_E
+      ME ME9 Bro I-295(3)
+        ME ME9 ME22_E CapSt
+        ME ME9 SteAve_N ME196_E
+        ME ME9 ME105 US202_Ham
+        ME ME9 I-395 IndSt
+        ME ME9 US1Alt_E ME15Bus_N
+      ME ME11 US202/4 I-95(112)
+        ME ME11 ME27_N US2
+      ME ME22 ME9_E I-295
+      ME ME23 ME104/139 US2_E
+      ME ME25 ME25Bus_W WooSt
+      ME ME27 UniSt_Aug I-95
+        ME ME27 ME11_N ME225
+      ME ME52 US1_S US1_N
+      ME ME69 I-95(174) US1Alt
+      ME ME100 US201_N HighSt_New
+      ME ME104 ME27 US2/201
+      ME ME105 ME235_N US1
+      ME ME116 US2_E AccRd_W
+      ME ME125 ME9_W US201_N
+      ME ME131 NewEngRd MooMouRd
+        ME ME131 ME137 ME141
+      ME ME137 I-95 US202_E
+        ME ME137 NPalRd ME131
+        ME ME137 ME7_N US1
+      ME ME139 ME104_N US1Alt
+      ME ME158 ME11 US2
+      ME ME169 ME6 US1
+      ME ME174 US1Alt US1
+      ME ME196 I-295 US201
+      ME ME220 CenRd ME100
+      ME ME225 ME27 ME8/137
+      ME ME235 ME105_E MooMouRd
+      
+      #ME State Banner Routes
+        ME ME15BusBan ME15_S WasSt
+          ME ME15BusBan US2 StiAve
+        ME ME24BusBru MaiSt US201_N
+        ME ME25BusWes ME25_W ME25_E
+        ME ME100AWin ME100_S ME100_N
+        ME ME137BusWat SprSt_W ME137_E
+        
 
 
-
-#----CANADA----
-
+ 
+ #----CANADA----
+  
   #--Trans-Canada Highway--
 
     BC TCHMai 3 BC7_E
@@ -472,41 +787,49 @@
 
   #--British Columbia--
 
-    #British Columbia Provincial Highways
-      BC BC1A BC15 BC13
+    #BC Named Freeways
+      BC GolEarsWay BC15 210St
+      BC KniSt WesHwy MarDr
+      
+    #BC Provincial Highways
+        BC BC1A BC15 BC13
       BC BC3 170 BC/AB
-      BC BC3A BC3 JohRd
+        BC BC3A BC3 JohRd
       BC BC5 177 286
-      BC BC7 BarHwy BC1
+      BC BC7 BC1/7B BC11
+        BC BC7 GlaAve BC1
       BC BC9 BC1 End
-      BC BC10 BC1A LanByp_E
+      BC BC10 BC91 BC1
       BC BC11 USA/CAN BC7
       BC BC13 USA/CAN BC1
       BC BC15 USA/CAN BC1/17
       BC BC17Ric BriDr BC1/15
+        BC BC17Ric 56St 7
+        BC BC17A BC17 BC99
       BC BC91 BC99 23
+        BC BC91A BC91 MarWay
       BC BC97 USA/CAN BC97A
         BC BC97 BC1_W BC99
-      BC BC97A BC97 BC1
-      BC BC97C BC97 BC1/97
+        BC BC97A BC97 BC1
+        BC BC97C BC97 BC1/97
       BC BC99 USA/CAN BC97
 
 
   #--Alberta--
 
-    #Alberta Provincial Highways
+    #AB Provincial Highways
       AB AB1ACoc AB1_W AB1_E
       AB AB2 248 258
       AB AB3 BC/AB AB1/41A
       AB AB8 AB22 SarTrl
       AB AB9 AB1/797 AB/SK
-      AB AB22X AB201(9) AB201(96)
+      AB AB22 AB8 AB1
       AB AB41 AB1_W AB570
       AB AB41A AB1/3 3St_W
         AB AB41A 1St_W MinAve
-      AB AB201SWC 13 26
+      AB AB201SWC AB2 9
+        AB AB201SWC 13 26
         AB AB201 36 101
-        AB AB201SCa AB2 9
 
     #Alberta Secondary Highways
       AB AB570 AB41 AB899
@@ -517,3 +840,48 @@
 
     #Saskatchewan Provincial Highways
       SK SK7 AB/SK SK44
+  
+  
+  
+  
+ #----FRANCE----
+  
+  #--French Polynesia--
+
+    #PF Territorial Routes
+      PYF T1 T2 T12
+        PYF T1 T5 T9_N
+        PYF T1 T9_S T2/T3
+      PYF T2 T1 T1/T3
+      PYF T3 T1/T2 Tau
+      PYF T5 T1/T6 T1
+      PYF T6 T1/T5 T7
+      PYF T7 T6 T2
+      PYF T9 T1_N T1_S
+      PYF T12 T1 T5
+      PYF T91 AerMooTem_W AerMooTem_E
+ 
+  
+  
+  
+ #----JAPAN----
+
+  #JPN National Routes
+    JPN N1 N15/P10 P304
+      JPN N1 N255 P75_S
+      JPN N1 P32_Kyo N9/P38
+    JPN N2WH N2 P71
+    JPN N9 N24/N367 N162_N
+    JPN N54 N2/N183 N183_A
+    JPN N137 N138/N139 P21
+    JPN N138 N137/N139 E68_End
+    JPN N153 P60 InnRng
+    JPN N255 P720 N1
+    JPN N369 N24/P1 N169
+    JPN N487Hir End N2/P37
+  
+ 
+ 
+ 
+ 
+ #END

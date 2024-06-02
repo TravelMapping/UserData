@@ -1,0 +1,1032 @@
+# VERMONT
+
+VT I-89 NH/VT VT/Can
+VT I-189 I-89 US7
+VT I-91 MA/VT 11
+VT I-91 19 23
+VT I-91 26 28
+VT I-93 NH/VT I-91
+
+VT US2 NY/VT US7_N
+VT US2 VT2A_Col US7Alt
+VT US2 US7_S VT/NH
+VT US2BusMon US2_W US2_E
+VT US2TrkSSJ US2_W US2_E
+VT US4 NY/VT VT30
+VT US4 US7_S VT/NH
+VT US4BusRut VT4A US4_E
+VT US5 GuiCenRd VT30
+VT US5 VT11_W I-91(7)
+VT US5 VT44 VT12_N
+VT US5 ClayHillRd I-91(11)
+VT US5 US4_W US4_E
+VT US5 US302_E MonRd
+VT US5 US2_W US2_E
+VT US5 I-91(23) VT114/122
+VT US5 I-91(26) VT58_W
+VT US5 AirRd_S VT14_N
+VT US5 I-91(28) VT105_E
+VT US5AltStJ US2_W US2_E
+VT US7 MA/VT VT116
+VT US7 VT125_E NewHavRd
+VT US7 VT22A US7Alt_S
+VT US7 US7Alt_N VT2A
+VT US7 US2_W MainSt_Mil
+VT US7 StAlbSH VT207
+VT US7 VT78_E VT78_W
+VT US7AltBur US7_S PeaSt #Unsure south of King St
+VT US7AltBur NorSt US7_N
+VT US302 US2 VT/NH
+
+VT VT2A VT116 US2/7
+VT VT3 SteRd US7
+VT VT7A VT313_E VT11/30 #Unsure S of E Arlington Rd
+VT VT8 MA/VT VT9
+VT VT9 VT279 VT100_N
+VT VT9 SouSt VT30 #Not west of Guilford St
+VT VT9TrkBra VT9_W I-91(3)
+VT VT11 VT100_S VT100_N
+VT VT11 VT103_S I-91
+VT VT12 VT44 US5_N
+VT VT12 US4_E CampBroRd
+VT VT12 GilBroRd VT66 #Unsure south of Gifford Hospital
+VT VT12 WinRd ShaRillRd
+VT VT12 LacRd VT15A
+VT VT12A WarMouRd VT12_N
+VT VT14 VT132 VT66
+VT VT14 CheRd VT64
+VT VT14 QuaSt MerSt
+VT VT14 US2_W VT58_E
+VT VT14 US5_S VT100
+VT VT15 US2_W LeeRivRd
+VT VT15 BroTraRd RivRd
+VT VT15 VT104 VT100C
+VT VT15 VT100_N VT100_S
+VT VT15 NWolRd VT14_S #Unsure west of Fisher RR bridge
+VT VT15A VT100 VT12
+VT VT17 NY/VT VT100
+VT VT18 I-93 US2
+VT VT22A VT73 VT74_E
+VT VT22A VT125_E US7 #Unsure Cross Rd to 17 & N of Monkton Rd
+VT VT23 VT125 VT17
+VT VT25 I-91 US302
+VT VT25A US5 VT/NH
+VT VT30 US5/9 VT100_N
+VT VT30 VT315 VT149
+VT VT30 VT31 US7_N
+VT VT31 NY/VT VT30
+VT VT35 VT121_E VT121_W
+VT VT36 US7_N US7_S
+VT VT36 MillSt VT108
+VT VT44 VT106 US5/12 #Unsure west of Churchill Rd
+VT VT53 LeiLn US7
+VT VT58 VT118 VT100
+VT VT58 VT14_S I-91
+VT VT62 I-89 US302/14
+VT VT63 I-89 VT14
+VT VT64 VT12 VT14
+VT VT65 VT12 VT14
+VT VT66 VT12 VT14
+VT VT67A VT279 RivRd
+VT VT73 MtIndRd VT22A
+VT VT73 VT30_S VT30_N
+VT VT73 US7_N US7_S
+VT VT73 VT53 VT100
+VT VT74 NY/VT VT22A_N
+VT VT74 DooRd VT30 #Unsure W of Qiet Valley Rd
+VT VT78 US2 I-89
+VT VT100 MA/VT VT8_N
+VT VT100 VT9_W VT14
+VT VT100A VT100 US4
+VT VT100B VT100 US2
+VT VT100C VT15 WilRd #Unsure N of Rocky Rd
+VT VT101 VT100 VT105
+VT VT102 US2 SimsHillRd #Unsure N of Columbia Covered Bridge Rd
+VT VT103 I-91 VT11_E #Unsure S of Meeting House Rd
+VT VT103 VT100_S VT100_N
+VT VT104 VT15 FleRd
+VT VT104 StAlbSH VT105
+VT VT105 US7 VT236
+VT VT105 VT108_S VT101
+VT VT105 I-91 VT111
+VT VT105 VT114_S VT/NH
+VT VT105TrkNew VT100_S US5_S
+VT VT106 VT10 TysRd #Unsure S of Titcomb Covered Bridge & N of Churchill Rd
+VT VT107 VT100 VT14
+VT VT108 VT100 VT105_E
+VT VT109 VT108 VT118
+VT VT110 VT14 US302 #Unsure Bicknell Hill Rd to Moxley Rd
+VT VT111 VT105 VT114
+VT VT111 VT105 VT114
+VT VT113 VT110 GooGreRd
+VT VT114 US5/122 VT105_E
+VT VT114 VT111 VT/NH
+VT VT116 US7 US2
+VT VT117 VT2A/15 US2
+VT VT118 VT100 VT105_W
+VT VT119 US5 VT/NH
+VT VT121 TowRd HallBriRd
+VT VT122 US5/114 VT122Alt
+VT VT122AltLyn BackCenRd VT122
+VT VT125 VT17 US7_S
+VT VT125 VT116 VT100
+VT VT127 ManDr US2/7 #Unsure Porters Point Rd to West Lakeshore Dr
+VT VT128 WeedRd VT104
+VT VT129 SchSt US2 #Unsure S of Nobles Hill Rd
+VT VT131 VT106 I-91 #Unsure Henry Gould Rd to Ascutney Notch Rd
+VT VT132 VT14 BeaMeaRd
+VT VT139 VT105 VT/QC
+VT VT149 NY/VT VT30
+VT VT207 US7 I-89
+VT VT215 US2 DanHillRd
+VT VT232 US302 US2
+VT VT236 VT105 MarFarmRd
+VT VT242 VT118 VT101
+VT VT279 US7_N US7_S
+VT VT289 VT2A VT117
+VT VT313 NY/VT US7 #NOT W of Covered Bridge Rd #Unsure Warm Brook Rd to E Arlington Rd
+VT VT314 US2_S GorLan
+VT VT315 PawMouRd VT30 #NOT W of Merck Forest
+VT VTF5 ChaEssFry US7
+
+# NEW HAMPSHIRE
+
+NH I-89 I-93 NH/VT
+NH I-93 MA/NH 34C
+NH I-93 40 NH/VT
+NH I-293 I-93_S 1
+NH I-293 5 I-93_N
+NH I-393 I-93 NH9
+NH I-95 MA/NH 4
+NH I-95 5 NH/ME
+NH EveTpk 5(293) 13(93)
+
+NH US1 OceRd US1Byp_S #Not S of Lang Rd
+NH US1 MapAve NH1B
+NH US1BypPor US1_S AlbPark
+NH US2 VT/NH NH/ME
+NH US3 GraSt MainSt_Hoo
+NH US3 I-93(20) NH25_E
+NH US3 NH175A NH3A/25
+NH US3 I-93(34) I-93(34C)
+NH US3 ColRd USA/CAN
+NH US4 VT/NH NH10_N
+NH US4 NH120_N NH120_S
+NH US4 I-89(17) RidHillRd
+NH US4 I-93(17) NH155A
+NH US4 NH108 US1Byp
+NH US202 NH9_Hil NH127 #Unsure NH-114 to Main St in Henniker
+NH US202 US3_N US4_E
+NH US202 NH16_S NH16_N
+NH US302 VT/NH NH117
+NH US302 I-93(42) CotSt #NOT NH116_N to RR Track
+NH US302 I-93(40) NH/ME
+NH US302TrkLit US302_W US302_E
+
+NH VT105 VT/NH US3
+NH NH1A NasSt NH101 #NOT S of Hampton Bridge
+NH NH1A CenRd SouSt
+NH NH1B SouSt US1
+NH NH3AMan I-293(5) I-293(7)
+NH NH3AMan HacHillRd_N I-89
+NH NH3AFra NH25_W US3_N
+NH NH4 NH9/108 AtlAve #NOT N of 4trk split
+NH NH9 NH101 NH127 #Unsure NH-114 to Main St in Henniker
+NH NH9 I-393 US4_E
+NH NH9 NH155 GleAve
+NH NH10 NH119_E NH9_E
+NH NH10 NH11_W NewRd
+NH NH10 I-89(13) I-89(19)
+NH NH10 US4_W NH10A
+NH NH10 NH25A_E NH25A_W
+NH NH10 US302_W NH117
+NH NH10 I-93 NH18
+NH NH11 NH12_N BroSt_S
+NH NH11 ChaMillRd NH103_E
+NH NH11 NH103A I-89(11)
+NH NH11 I-93 US3_N
+NH NH11 US202/16 NH16_N
+NH NH12 NH10_S NH9_E
+NH NH12 EPleSt NH12ACla_N
+NH NH12ACla TownHouRd StGauRd
+NH NH12ACla TruBroRd GlenRd #Unsure S of Home Depot
+NH NH16 US1Byp MasSt
+NH NH16 NH110A NH/ME
+NH NH16ABar NH16_S AlpRd_S
+NH NH18 NH116_S NH117
+NH NH18 US302_E I-93(40)
+NH NH18 CotSt US302_W #NOT RR Track to NH116_N
+NH NH25 NH25A NH175A
+NH NH25 US3_S NH113_E
+NH NH25 NH16_N NH16_S
+NH NH25A VT/NH NH25
+NH NH26 US3_N NH16_N
+NH NH28 StoRd I-93(5)
+NH NH28 HarRd I-293/101
+NH NH28 US3_S MainSt_Hoo
+NH NH31 NH9_W NH9_E
+NH NH63 NH119_W NH119_E
+NH NH101 NH9 NH10_S
+NH NH101 1(293) NH1A
+NH NH103 NH12A BroSt_S
+NH NH103 ChaMillRd SchRd
+NH NH103 I-89(7) NH127_S
+NH NH107 US4_W US4_E
+NH NH108 DurPtRd GleAve #NOT S of Mill Pond Rd
+NH NH109 NH25_E NH25_W
+NH NH110 US3 NH110A
+NH NH110A NH110 NH110B #UNSURE ABOUT 110A OR 110B, COME BACK TO THIS LATER
+NH NH112 US302 NH16
+NH NH113 NH25_W NH16_Tam
+NH NH113 NH16_Alb NH16_Con
+NH NH113 US302_W NH/ME
+NH NH114 DepHillRd US202/9
+NH NH115A NH115 IsrRivRd #NOT S of Rail Trail
+NH NH116 NH112_W NH112_E
+NH NH116 NH18_S NH117
+NH NH116 CotSt US3_N #NOT RR Track to NH18_N
+NH NH117 US302 NH18
+NH NH118 NH25_E NH25A
+NH NH119 VT/NH AshSt
+NH NH120 US4_E NH10 #Unsure N of Lebanon St
+NH NH123 NH9_W NH9_E
+NH NH125 NH101 NH155
+NH NH127 US202/9 NH103_E
+NH NH128 MA/NH PilRd
+NH NH128 ShaDr LitRd
+NH NH132 I-93(20) US3_B
+NH NH135 US302 McIFalRd #NOT S of Bath/Monroe town line
+NH NH135 BriHillRd US2/3
+NH NH142 US302_W US302_E
+NH NH142 NH116_S US3_N
+NH NH155 NH125 NH155A_S
+NH NH155 US4 NH9
+NH NH155A NH155_S US4
+NH NH175A US3/25 I-93
+
+# MAINE
+
+ME US2 NH/ME ME139
+ME ME5 US2_W US2_E
+ME ME26 US2_W TabRock
+ME ME17 US2_W US2_E
+ME ME4 US2_W US2_E
+ME ME43 US2_W US2_E
+ME ME27 US2_E US2_W
+ME ME8 US2_E US2_W
+ME US201AltSko ME139 US2_W
+ME I-95 159 182
+ME US2 I-395 MaiAve #Unsure N of Quality Inn at Bangor Airport
+ME ME100 I-395 MaiAve #Unsure N of Quality Inn at Bangor Airport
+ME I-395 US2 6
+ME ME15 I-395(4) I-95/395
+ME US202 I-395(2) I-395(3)
+ME US1AltBan I-395(6) US1_E
+ME US1 US1AltBan_N ME3_E
+ME ME3 US1Alt_E ParHillRd
+ME ME3 StaBroRd ME102
+ME ME233 ME3_W BuckBroRd
+ME ME102 ME3/198 ME3
+ME ME198 ME3_NEH ME3_Bar
+ME ME204 ME3 MudCreRd
+ME ME184 ME204_W ME204_E
+ME US1 MudCreRd ME182_W
+ME ME182 US1_W US1_E
+ME ME200 ME182_W ME182_E
+ME US1 ME182_E ME214
+ME ME191 US1_B US1_A
+ME ME189 US1 SLubRd #Unsure E of Maple Tree Rd
+ME ME214 US1 ME191
+ME ME191 ME214 US1_C
+ME US1 ME191_C IntAve
+ME ME9 ME191 IntAve
+ME I-95 USA/CAN 244
+ME ME157 I-95 KatAve
+ME ME11 ME157_E KatAve_N
+ME ME6 LilyBayRd VilRd_S
+ME ME6 VilRd_N US201_S
+ME ME15 LilyBayRd VilRd_S
+ME ME15 VilRd_N US201
+ME US201 ME15 ME16_W
+ME ME16 US201_S US201_N
+ME US201AltSko ME16_E CroTownRd
+ME ME16 US201Alt_N CroTownRd
+ME ME8 ME16_E CroTownRd
+ME ME16 WenRd NH/ME
+ME ME27 ME16_E ME16_W
+ME ME4 ME16_E ME16_W
+
+ME US302 NH/ME ME5_N
+ME ME113 US302_E US302_W
+ME ME5 US302_W FishSt #NOT N of Swan Falls Rd
+
+ME I-95 NH/ME 63
+ME ME26AGra I-95 ME26_N
+ME ME4 ME26A_N I-95(63)
+ME ME115 ME26A_N I-95
+ME US202 ME26A_N I-95(63)
+ME ME26 ME26A_N Pkwy_E
+ME ME121 ME26_N ME26_S
+ME ME117 ME26_S ME26_N
+ME ME219 ME26_S ME26_N
+
+# NEW BRUNSWICK
+
+NB NB1 USA/CAN 239
+NB NB170 UniSt KingSt_N #NOT S of Carman's Diner'
+    #NB CARMAN'S DINER FIGURE OUT
+    #FIGURE OUT ST JOHNS
+NB NB114 NB1(198) NB915_S
+NB NB915 NB114_S NB114_N
+NB NB114 NB915_N GunBlvd
+    #FIGURE OUT MONCTON
+NB NB111 NB1(198) EarRd
+NB NB121 LeoDr ChuAve
+NB NB10 NB1 NB2
+NB TCHMai 365 187
+NB NB2 365 187
+NB NB7 306(2) 294(2)
+NB NB95 NB2 USA/CAN
+
+# MASSACHUSETTS
+
+MA I-90 NY/MA 133
+MA I-90 134 MA1A
+MA I-91 CT/MA MA/VT
+MA I-93 7 MA/NH
+
+MA US1 I-93(7) I-93(19)
+MA US6 MA28_S MayAve
+MA US7 MA43 MA/VT
+MA US44 MA3(16) MA3(15)
+
+MA US20 MA148 MA49 #NOT E of Walmart, unsure W of BT's Smokehouse
+
+MA MA2 US7_S MA8_S
+MA MA8 MA2_W MarSt_N
+MA MA8ANor MainSt MA8_N
+MA MA2 MA8ANor MA8_N
+MA MA8 MA8ANor_N MA/VT
+
+MA MA9 I-91 MA116_N
+MA MA116 MA9_W HadRd
+MA MA9 EastSt_Amh US202
+MA US202 MA9 MA181
+MA MA181 US202 FraSt
+MA MA146 18 RI/MA
+MA US44 RI/MA WilBriRd #NOT W of Arcade Ave
+
+MA MA133 MA38/110 I-495
+MA MA110 GorSt MA38/133 #NOT W of Warren St
+MA MA113 SchSt VFWHwy
+
+MA MA2 46(91) 43(91)
+MA US5 I-91(3) I-91(1)
+MA I-84 CT/MA I-90
+MA I-290 12 32
+MA I-495 65 I-95
+MA I-95 89 MA/NH
+
+MA I-195 RI/MA 40
+MA MA24 3 4
+MA MA25 1 10
+
+MA MA43 US7 NY/MA
+
+MA MA1ASal US1 RevSt
+MA MA16 MA38_S I-93
+MA MA16 HarSt MA107
+MA MA38 I-93 MysValPkwy #Unsure
+MA MA38 MysValPkwy MA16_E
+MA MA60 ForSt I-93
+MA MA28 MA3_S ChaAve
+MA MA3 1 18(93)
+
+MA MA3APly WhiHorRd US44
+MA MA18 US6 I-195
+MA MA28 US6 MA6A_W
+MA MA28 StaHarRd GeoRydRd
+MA MA28 LocSt MA28A_S
+MA MA28 ThoLanRd US6_E
+MA MA28ANor MA28_S ThoLanRd
+MA MA6AYar US6_W MA132
+MA MA6AYar MA134 LowRd
+MA MA6AYar US6(89) US6_E
+MA MA6APro US6_W US6_E
+MA MA132 MA28 US6 #Unsure S of Old Strawberry Hill Rd
+MA MA134 US6 MA6A
+MA MA137 QueAnneRd MA124 #NOT N of Rail Trail
+
+# RHODE ISLAND
+
+RI I-95 CT/RI 23
+RI I-195 1 RI/MA
+RI US6 I-95(22) I-195(2C)
+RI US44 I-195(1C) RI/MA
+RI RI1APro I-195(1C) I-195(2B)
+RI RI138 RI1A RI138A/238
+RI RI146 I-95 RI/MA
+
+# CONNECTICUT
+
+CT I-684 NY/CT CT/NY
+CT CT27 MysSea I-95
+CT I-91 CT/MA 35
+CT I-291 1 6
+CT I-84 61 68
+CT CT195 I-84 CT89
+CT CT320 CT195 CT74_W
+CT I-84 71 CT/MA
+CT I-95 NY/CT CT/RI
+CT CT116 CT35 CT/NY
+CT CT35 CT102 CT116 #NOT S of Gilbert St
+
+# NEW YORK
+
+NY I-84 52 68
+NY I-87 7(MDE) 4(NYST)
+NY I-87 8(NYST) 22
+NY I-87 30 31
+NY I-87 37 39
+NY I-87 43 USA/CAN
+NY I-88 23 I-90
+NY I-90 61(NYST) 5
+NY I-90 B1 NY/MA
+NY I-95 NJ/NY 1C
+NY I-95 7 9
+NY I-95 19 NY/CT
+NY I-190 16 21
+NY NY324 I-190(21) I-190(20A)
+NY NY324 I-190(18) I-190(16)
+NY I-287 NJ/NY 9A
+NY I-287 9 I-95
+NY NY17Bin I-87(15) NY/NJ
+NY I-290 I-190 I-90
+NY I-684Pur I-287 NY/CT
+NY I-684 CT/NY 10
+NY I-787 3 9
+
+NY BerCon I-87 NY/MA
+NY BroRivPkwy 6(S) 11(S)
+NY CroCouPkwy 4 HutRivPkwy
+NY GarStaPkwy I-87/287 CR41
+NY HutRivPkwy 2 16A
+NY TacStaPkwy 37 102
+
+NY US1 NJ/NY I-95(1C)
+NY US1 NY125 PlaPkwy #NOT S of Fenimore Rd, unsure Barry Av to The Parkway
+NY US2 US11 NY/VT
+NY US4 NY149_W NY/VT
+NY US6 RaiAve NY121
+NY US202 US6_Bre NY121
+NY US9 NJ/NY I-95(1)
+NY US9 NY254 NY9N_LakN
+NY US9 BluRidRd CR4
+NY US9 I-87(30) NY73
+NY US9 NY9N_EliN NY9N_EliS
+NY US9 NY3 NY314
+NY US11 NY122 US2
+NY US20 I-787 NY151
+NY US20 CR5 NY22_N
+NY US44 TacStaPkwy NY82_N
+NY US44 NY22_S NY22_N
+
+NY NY125 QuaRidRd HutRivPkwy #NOT S of Griffen Av
+NY NY35 I-684 NY123
+NY NY123 CT/NY NY35 #Unsure S of Shady Ln
+NY NY116 NY/CT NY121_N
+NY NY121 NY35_W NY35_E
+NY NY121 NY116_N US6/202
+NY NY82 CR13 US44_W
+NY NY22 I-684(10) NY22A
+NY NY22 US4_S NY9N_N
+NY NY22 CR8 DockSt
+NY NY22 I-87(36) SPeruSt
+NY NY55 NY22_S NY22_N
+NY NY343 NY22_S US44/22
+NY NY295 TacStaPkwy CR30
+NY NY43 NY22 NY/MA
+NY NY7 NY22_S NY22_N
+NY NY67 NY22_N NY22_S
+NY NY149 NY22_S NY22_N
+NY NY22A NY22 CR20
+NY NY74 NY9N/22 NY22_S
+NY NY9N NY22/74 CR83
+NY NY40 NY7 NY149_E
+NY NY142 NY40_N NY40_S
+NY NY67 NY40_S NY40_N
+NY NY29 NY40_S NY40_N
+NY NY149 NY40_S NY40_N
+NY NY149 I-87 US4_N
+NY NY9N US9_LakS CR11
+NY NY254 I-87 US9
+NY NY7 I-87(6) I-787
+NY NY5 NY155 I-87 #NOT N of Econo Lodge
+NY NY28N NY30_N CR84 
+NY NY30 NY28N_E NY3_E
+NY NY3 NY30_S NY86_E
+NY NY86 NY3_W NY43 #Unsure NY73 to Northwood Rd in L. Placid& N of CR 12A 
+NY NY73 NY86 NY9N_S
+NY NY374 RandHillRd BunHillRd
+NY US11 CR23 NY30_S #NOT N of Brainardsville Rd
+NY NY11B NY30 US11_E
+NY NY30 US11_N RedTavRd
+NY NY3 GabOncRd US9 #Unsure W of CR 26
+NY NY122 US11 NY37
+NY NY30 NY122_E NY122_W
+NY NY37 NY122 MaryOreRd #NOT W of CR 4
+NY NY95 CR1/4 NY37
+NY NY37 NY95 SeaIntBri
+NY NY13 I-90 NY49_W #NOT N of Sylvan Beach
+NY NY46 HigRd NY5 #NOT N of CR 54
+NY NY5 NY46 NY365
+NY NY365 NY5 I-90
+NY I-481 6 4
+NY I-690 I-481 14
+NY I-81 18 I-690_W
+NY I-690 13 I-90
+NY I-490 I-90(45) 17
+NY NY252 NY383 NY15A #NOT W of RIT entrance, unsure E of CR 263
+NY NiaScePkwyNia I-190 JohnDalyBlvd
+NY NY384 RaiBlvd RaiBri
+
+NY I-695 I-295 I-95
+NY I-295 7 10
+NY CroIslPkwy 29 33
+NY GraCenPkwy 23 Que/Nas
+NY NorStaPkwy Que/Nas 31A
+NY MeaStaPkwy NorStaPkwy BayPkwy
+NY OcePkwy MeaStaPkwy WanStaPkwy
+
+# NEW JERSEY
+
+NJ I-76 PA/NJ 1A
+NJ I-78 PA/NJ 29
+NJ US22 NJ122 I-78(18)
+NJ I-95 6 11
+NJ I-95 72 NJ/NY
+NJ US1 I-95(72) NJ/NY
+NJ US9 I-95(72) NJ/NY
+NJ US46 I-95(72) NJ/NY
+NJ I-195 6 8
+NJ I-287 21 NJ/NY
+NJ I-295 DE/NJ 1
+NJ US40 DE/NJ NJTpk_N
+
+NJ AtlCityExpy 7 44
+NJ GarStaPkwy 30 127
+NJ US9 Gar(48) Gar(50)
+NJ US9 Gar(80) Gar(83)
+NJ GarStaPkwy 129 163
+NJ NJTpk I-295(1) 11
+NJ NJTpk 71(95) 72(95)
+
+NJ NJ17 NJ/NY NJ4
+NJ NJ4 NJ17 I-95
+NJ NJ42 I-295 US322
+NJ NJ52 9thSt US9
+
+# PENNSYLVANIA
+
+PA I-70 110(76) 161(76)
+PA I-76 110 298
+PA I-76 326 PA/NJ
+PA I-78 49 PA/NJ
+PA I-79 78 178
+PA I-81 70 89
+PA I-83 41A 51
+
+#QUEBEC
+
+QC QC257 USA/CAN QC108
+QC QC214 QC257_S QC257_N
+QC QC108 QC257 QC173
+QC QC263 QC108_W QC108_E
+QC QC269 QC108_W QC108_E
+QC QC271 QC108_W QC108_E
+QC QC173 QC108 RteGolf
+#Route du Golf QC173 A-73
+QC A-73 61 148
+QC A-40 139(73) 322
+#Boulevard des Schutes from A40 to Montmorency Falls Parking Entrance
+#Cote Saint Gregoire from B. des Chutes to QC138Mon
+QC QC138Mon RueFra A-40(325) #NOT S of Cote Saint Gregoire
+QC A-40 325 323
+QC A-440EQu 29 21
+#Rue Monseigneur-Gauvreau N from exit ramp to B. Charest
+#B. Charest W to R. Saint-Vallier
+#R. Saint-Vallier W to R. Bayard
+#R. Bayard S to B. Charest
+#B. Charest W to Avenue Saint-Sacrement
+#A. Ste-Sacrement S to A. Hollande S to QC175
+QC QC175 AvHol AutRobBou
+QC QC175 AvHol RueStLou
+QC QC175 AutRobBou A-73/540
+QC A-73 61 QC204
+QC QC204 A-73 QC161
+QC QC173 QC204_E QC204_W
+QC QC269 QC204_E QC204_W
+QC QC161 QC204 QC212
+QC QC212 QC161 QC257
+
+#2014 Road Trip
+
+#Olive Way E from Enterprise Rent-a-car
+WA I-5 166 189
+WA WA526 WA525Spr I-5
+WA WA526 I-5 WA525Spr
+WA I-5 189 182
+WA I-405 I-5(182) 4
+WA WA169 I-405 WA164 #Stopping at Maple Valley Safeway
+WA WA164 WA169 WA410
+WA WA410 WA164 CryMouPkwy
+#Crystal Mountain Blvd to Crystal Mountain
+
+#Crystal Mountain Blvd to WA410
+WA WA410 CryMouPkwy SunParkRd
+WA SunParkRd WA410 Sun
+WA WA410 SunParkRd WA123
+WA WA123 WA410 SteCanRd
+WA SteCynRd WA123 ParVlyRd_N
+#Longmire-to-Paradise Valley Rd to Valley Rd back to Stevens Canyon Rd
+WA SteCynRd ParVlyRd_S WA123
+WA WA123 SteCanRd US12
+WA US12 WA123 WA131 #Stopping at Mt Adams Cafe in Randle
+WA WA131 US12 GifPinNF
+#National Forest Rd 25 S to National Forest Rd 90
+#National Forest Rd 90 W to WA503 Cougar Spurr
+WA WA503SprCou FS90 CouCreDr
+
+WA WA503SprCou CouCreDr FS90
+#National Forest Rd 90 E to National Forest Rd 25
+#National Forest Rd 25 N to National Forest Rd 99
+#National Forest Rd 99 W to Windy Ridge and back
+#National Forest Rd 25 S to National Forest Rd 90
+#National Forest Rd 90 W to WA503 Cougar Spurr
+WA WA503SprCou FS90 CouCreDr
+
+WA WA503SprCou CouCreDr WA503
+WA WA503 WA503Spr I-5
+WA I-5 21 7
+WA I-205 I-5 OR/WA
+OR I-205 OR/WA 22
+OR I-84 9A 13
+#Northeast 181st Ave S to Shari's Pies and back
+OR US30 I-84(9A) I-84(22)
+OR I-84 13 22
+#Corbett Hill Rd S to Historic Columbia River Hwy
+OR US30HisCol CorHillRd I-84(35) #Stopping at Crown Point, Latourell Falls, and Bridal Veil Falls
+OR I-84 35 64
+OR US30 I-84(35) I-84(44)
+OR US30 I-84(44A) I-84(62)
+OR US30 I-84(64) OR35
+OR OR35 I-84/US30 US26
+OR US26 OR35 US97_S
+OR US97 US26_W 135A
+OR US20 US97(135A) ButMarRd
+OR US97BusBen ButMarRd US20_W #Stopping at Sugarloaf Mountain Motel
+#Dinner at Mondo Pizza (811 NW Wall St, Bend)
+
+OR US97BusBen US20_W US97(136) #Starting from Sugarloaf Mountain Motel
+OR US20 US97Bus_N US97(136)
+OR US97 US20/97Bus OR138
+OR OR138 US97 CraLakeHwy
+OR CraLakeHwy OR138 RimDr
+OR CraLakeRimDr CraLakeHwy_E CraLakeHwy_W
+OR CraLakeHwy RimDr OR138
+OR OR138 CraLakeHwy I-5(136)
+OR OR99 OR138_N OR138_S
+OR I-5 124 136
+#West Central Av E to Myrtle St
+#Myrtle St N to Best Western
+#Dinner at Apple Peddler restauraunt
+
+#Myrtle St S to West Central Av
+#West Central Av W to OR138
+OR OR138 I-5(136) OR38
+OR OR38 OR138 US101
+OR US101 OR38 YacRivRd
+
+OR US101 YacRivRd AbaSt
+#Pacific Way N to Marine Science Dr
+#Marine Science Dr E to Ferry Slip Rd
+#Ferry Slip Rd S to Oregon Coast Aquarium
+#Backtrack to US101
+OR US101 AbaSt 20thSt
+OR US101 20thSt YacRivRd
+
+OR US101 YacRivRd US20 #Stopping at Seal Rocks Beach
+OR US20 US101 OR34/99W
+OR OR34 US20_W I-5
+OR I-5 228 288
+OR OR99E I-5(234) I-5(258)
+OR I-205 I-5 24
+#Northeast Airport Way to Portland International Dr
+
+#2016 Road Trip
+
+NY NY299 NY32/208 I-87 #Stayed at Hampton Inn
+NY I-87 18(NYST) 15(NYST)
+NY I-287 15(87) NJ/NY
+NY NY17Bin I-87(15) NY/NJ
+NJ I-287 NJ/NY 21
+NJ NJ17 NJ/NY I-287(66)
+NJ I-78 29 PA/NJ
+NJ US22 I-78(18) I-78(3)
+PA I-78 PA/NJ 1
+PA PA309 I-78(60) I-78(53)
+PA US22 I-78(51) I-78(8)
+PA I-81 89 70
+PA I-83 51 41A
+PA US322 I-81/83 I-83(47)
+PA PA581 6 5
+
+#2017 Road Trip
+
+GA I-95 FL/GA 99 
+GA I-16 157 167
+GA US17 I-16(164) I-16(166)
+GA I-95 99 GA/SC
+SC I-95 GA/SC SC/NC
+NC I-95 SC/NC 107 #Stayed at Quality Inn Kenly
+
+NC I-95 107 NC/VA
+VA I-95 NC/VA 166
+VA VA286 I-95 I-66
+VA I-66 55 53
+VA VA28 I-66 SR608
+#VA SR608 E to VA SR657 N to VA267
+VA VA267 10 1
+VA US15 VA267 VA/MD
+VA VA7 VA267(1) US15/7Bus
+MD US15 VA/MD MD/PA
+
+
+#2018 Road Trip
+
+VT US2 JerRd I-89(11)
+VT I-89 11 21
+VT VT78 I-89 US2
+VT US7 VT78_E VT78_W
+VT US2 VT78 NY/VT
+NY US2 NY/VT US11
+NY US11 US2 NY122 #Stopping at Jreck Subs on Church St in Champlain
+NY NY122 US11 NY37
+NY NY30 NY122_E NY122_W
+NY NY37 NY122 MaryOreRd #NOT W of County Road 4
+#County Road 4 W to NY95
+NY NY95 CR1/4 NY37
+NY NY37 NY95 SeaIntBri
+#Seaway International Bridge through customs to Brookdale Ave
+#Brookdale Ave N to Rosemount Ave
+#Rosemount Ave W to Vincent Massey Dr
+#Vincent Massey Dr W to Martin's Inn
+
+#Vincent Massey Dr E to Tollgate Rd
+#Tollgate Rd E to Brookdale Ave
+#Brookdale Ave N to ON138
+ON ON138 ON401 ON417
+ON TCHOtt ON417(58) Hwy17BNor_E
+ON ON417 58 ON17_Bra
+ON ON17 ON417_Bra Hwy17BNor_E #Stopping at Tiny Village Ottowa River (Craft shop)
+ON ON11 344 Hwy17BNor_E
+#In North Bay - Fisher St W to Burger World to McIntyre St
+#McIntyre St N to Ferguson St
+#Ferguson St W to Oak St
+#Oak St N to North Bay Museum (Waterfront Park)
+#Oak St S to Fisher St
+#Fisher St E to ON17/ON11/Trans Canada Hwy
+ON TCHOtt Hwy17BNor_E ON11_N
+ON TCHLak ON11_N TruRd_W
+ON ON11 Hwy17BNor_E ON17_W
+ON ON17 Hwy17BNor_E TruRd_W
+ON ON64 ON17_E ON17_W
+#In Sault Ste. Marie - Trunk Rd W to Wellington St
+#Wellington St W to Cathcart St
+#Cathcart St W to Huron St
+#Huron St S to Sault Ste. Marie International Bridge
+#Sault Ste. Marie International Bridge S through customs to I-75
+MI I-75 USA/CAN 392
+MI I-75BSSau I-75 MacTrl
+#3 Mile Rd E to Shunk Rd
+#Shunk Rd N to Kewadin Casino
+
+#Shunk Rd N to Spruce St
+#Spruce St W to Ord St
+#Ord St N to MI I-75BSSau
+MI I-75BSSau OrdSt PorAve_W #Stopping at Soo Locks Boat Tours
+#Johnston St S to Easterday Ave
+#Easterday Ave W to Pat's Foods Supermarket
+MI I-75BSSau EasAve I-75
+MI I-75 392 386
+MI MI28 I-75 MI221
+MI MI221 MI28 LakeShoRd
+#West 6 Mile Rd E to Brimley State Park
+#West 6 Mile Rd W to Lakeshore Dr
+#Lakeshore Dr W to Lake Superior Shoreline Rd W to MI123
+MI MI123 LakeSupShoRd NWhiPtRd
+#Whitefish Point Rd N to Whitefish Point
+#Whitefish Point Rd S to MI123
+MI MI123 NWhiPtRd MI28_E
+MI MI28 MI123_E I-75
+MI I-75 386 394
+#Easterday Ave W to Portage Ave
+#Portage Ave E to Lockport Restauraunt
+#Portage Ave E to MI I-75BSSau
+MI I-75BSSau PorAve_W OrdSt
+#Ord St S to Spruce St
+#Spruce St E to Shunk Rd
+#Shunk Rd S to Kewadin Casino
+
+#Shunk Rd S to 3 Mile Rd
+#3 Mile Rd W to MI I-75BSSau
+MI MacTrl I-75BSSau I-75
+MI I-75 392 386
+MI MI28 I-75 MI117
+MI MI117 MI28 US2
+MI US2 MI117 MI35_S
+MI US41 US2_E MI35Esc_S
+MI MI35 US2/41_N US41_S
+MI US41 MI35_N WI/MI
+WI US41 WI/MI 134
+WI US141 US41_N US41_S
+WI I-41 170B 134
+WI WI32 I-41(168A) I-41(168B)
+WI US10 287 264
+WI US45 276(10) 273(10)
+WI WI49 US10(264) CRU_WauS
+#North on County Hwy A 1 mile and back (confused between two roads with same name)
+WI WI49 CRU_WauS WI21
+WI WI21 WI49 CRPP_Mon
+WI WI73 WI152 WI21_W
+WI WI22 WI21/73 WI21_W
+#County Hwy PP S to I-90
+WI I-90 48 3
+WI I-94 48(90) 147
+WI US53 3(90) WI35_Lac
+WI WI35 I-90 US53_Lac
+#Stayed at Americas Best Value Inn La Crosse
+#Ate at North Country Steak Buffet
+
+WI US53 WI35_Lac 3(90)
+WI WI35 US53_Lac I-90
+WI I-90 3 MN/WI
+MN I-90 MN/WI 178A
+MN US14 I-90(276) I-90(270)
+MN US61 I-90(276) I-90(270)
+MN MN43 I-90(252) I-90(249)
+MN US218 I-90(180B) I-90(178A)
+#In Austin - 4th St S to 1st Dr
+#1st Dr S to Main St
+#Main St S to SPAM Museum and breakfast
+#4th Ave W to 4th St
+#4th St N to I-90
+MN I-90 178A 12
+MN US218 I-90(178A) I-90(177)
+MN US75 I-90 CR7_S #Only to County Hwy 20
+#County Hwy 20 E to Blue Mounds State Park picnic area and back
+#US75 S to 141st St
+#141st St E to Park Rd
+#Park Rd to Eagle Rock and back
+#141st St W to US75
+#US75 S to I-90
+MN I-90 12 SD/MN
+SD I-90 SD/MN 192
+SD SD45 I-90(289) I-90(284)
+SD SD50 I-90(272) I-90(265)
+SD US83 I-90(212) I-90(192)
+SD I-90BLMur MainSt I-90_E #Dinner at Covered Wagon Cafe in Murdo
+SD I-90 192 131
+SD SD63 I-90(170) I-90(163)
+SD SD73 I-90(150) I-90(143)
+SD SD240 I-90(131) SD377 #Stopping at Prarie dog town
+SD BadLpRd I-90(131) SD377
+SD SD377 SD240 SD44 #Only to Badlands Motel and Campground
+
+SD SD377 SD44 SD240 #Starting at Badlands Motel and Campground
+#SD240/Badlands Loop Rd E to Window Trail then back to SD377
+SD SD240 SD377 RimRd
+SD BadLpRd SD377 RimRd
+#Rim Rd W to Sage Creek Rd
+#Sage Creek Rd S to SD SD44 BomRanRd SageCreRd
+SD SD44 SageCreRd BomRanRd
+#Main St S to Bombing Range Rd S to Big Foot Trail/BIA Hwy 27 S to Wounded Knee Memorial
+#Big Foot Trail/BIA Hwy27 S to US18
+SD US18 BigFootTr SD407
+SD SD407 US18 NE/SD
+NE NE87 NE/SD NE2
+NE US20 NE87_N NE87_S
+NE NE2 NE87 US385_S Stopping at Chinese Resuaturaunt, American Inn, and K-mart
+
+NE US385 NE2_E L62A
+NE L62A US385 US26
+NE US26 L62A NE71_S
+NE NE92 US26_ScoE NE71_S
+NE NE71 US26_E NE88_W
+NE NE88 NE71_N WY/NE
+WY WY151 WY/NE US85
+WY US85 WY151 I-25(12) #Stopping at Bear Mountain Stage Stop
+WY I-25 17 CO/WY
+WY US87 I-25(17) CO/WY
+CO I-25 CO/WY 257
+CO US87 CO/WY I-25(257)
+CO US34 I-25 US34Bus/36 #Stopping at Estes Park Safeway
+CO US34BusEst US34_E US36_W
+CO US36 US34_E US34_W #Stopping at Beaver Meadows Visitor Center
+CO US34 US36 US40
+CO US40 US34 CO9
+CO CO9 US40 I-70(205)
+CO US6 I-70(205) DilDamRd #Stopping at Dillon Dam Brewery
+CO I-70 205 90
+CO US6 I-70(205) I-70(169)
+CO CO9 I-70(205) I-70(203)
+CO US6 I-70(140) I-70(109)
+CO CO13 I-70 AirRd
+#Taughenbaugh Rd S to Rodeway Inn
+
+CO CO13 AirRd US6_E
+#Railroad Ave N to City Market and back
+CO CO13 US6_E AirRd
+#Airport Rd E to Wapiti Ave/Ct (Sonic and Rib City Grill) and back
+#Taughenbaugh Rd S to Rodeway Inn
+
+#Taughenbaugh Rd N to Airport Rd
+CO CO13 AirRd I-70
+CO I-70 90 UT/CO
+CO US6 I-70(87) I-70(72)
+CO US6 I-70(62) I-70(44)
+CO US6 I-70(11) UT/CO
+CO US50 I-70(11) UT/CO
+UT I-70 UT/CO 204
+UT US6 UT/CO I-70(204)
+UT US50 UT/CO I-70(204)
+UT UT128 I-70/6 US191
+UT US191 UT128 KaneCrkBlvd #Stopping at 200 South
+#200 South E to Virginian Inn Motel and back
+UT US191 KaneCrkBlvd ArchNP #Starting at 200 South
+UT MainParkRd US191 DevGarCam
+UT US191 ArchNP KaneCrkBlvd #Stopping at Italian Restauraunt and 200 South
+#200 South E to Virginian Inn Motel
+
+#200 South W to US191
+UT US191 KaneCrkBlvd I-70(157) #Stopping at Moab Diner
+UT I-70 182 23
+UT US6 I-70(182) I-70(157)
+UT US50 I-70(182) I-70(56)
+UT US89 I-70(56) US89Alt #Stopping at Camera Shop in Kanab
+UT US89AltKan US89 AZ/UT #Stopping at Pizza Hut
+AZ US89AltFre AZ/UT AZ67
+AZ AZ67 US89Alt BriAngPt
+
+AZ AZ67 BriAngPt CapeRoyRd
+#Cape Roayl Rd out and back
+AZ AZ67 CapeRoyRd US89Alt
+AZ US89AltFre AZ67 AZ389
+AZ AZ389 US89Alt UT/AZ
+UT UT59 AZ/UT UT9
+UT UT9 UT59 I-15
+UT I-15 16 AZ/UT
+AZ I-15 AZ/UT NV/AZ
+NV I-15 NV/AZ 39
+#Spring Mountain Rd E to Las Vegas Blvd
+#Las Vegas Blvd S to Luxor Hotel & Casino
+
+#Las Vegas Blvd S to I-215
+NV I-215 11 1
+NV I-11 23 2
+NV US93 I-11(23) I-11(2)
+NV US95 23(11) 14(11)
+NV NV172 I-11 End
+#Hoover Dam Access Road to Hoover Dam and back
+NV NV172 End I-11
+NV US93BusBou US93_S US93_N
+NV I-11 15B 23
+NV US93 I-11(15B) I-11(23)
+NV US95 15B(11) 23(11)
+NV I-215 1 6
+NV NV146 I-215 I-15
+NV I-15 27 CA/NV
+CA I-15 CA/NV 123 #Stopping at Barstow Station
+CA CA18 I-15(153A) I-15(150)
+CA I-215 54B I-15
+CA CA60 53 58
+CA CA74 I-215(17) I-215(15)
+CA I-15 63 16
+#Mira Mesa Blvd E to Play it Again Sports then W to Panera Bread then E to I-15
+CA I-15 16 12
+CA CA163 I-15 1A
+CA I-5 16A 14A
+CA CA75 I-5(14A) CA282 #Stopping at A Ave
+#A Ave S to Sydney's
+
+CA CA75 CorCaysBlvd I-5(14A)
+CA I-5 14A 17A
+#Hawthorne St W to Harbor Dr (Passing airport)
+#Harbor Dr W to Rosecrans St
+#Rosecrans St S to Talbot St
+#Talbot St W to Canon St
+#Canon St S to Catalina Blvd
+#Catalina Blvd S to Cabrillo Memorial Dr S to Cabrillo Natl' Monument
+#Backtrack to Harbor Dr stopping at Natl' Cemetary and Jensen's Foods
+#Harbor Dr E to Grape St
+#Grape St E to I-5
