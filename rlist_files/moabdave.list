@@ -8,7 +8,7 @@ AUS-VIC GWLn FliSt GlenWav
 ECU MetQui Lab SanFra
 
 #France
-FRA-IDF B GareNord
+FRA-IDF B GareNord AerCDG2TGV
 FRA-IDF CVer VerChaRiveGau StMicNotDame
 FRA-IDF CDGVAL Ter2Gare Ter1
 FRA-IDF M1 PorMai GareLyon
@@ -53,7 +53,7 @@ CA MuniF 17thCas Bea
 CO DurSilNGR Dur Sil
 CO GeoLoopRai DevGat SilPlu
 CO RoyGorRou CanCity Par
-CO ELn Bel UniSt
+CO ELn Bel UniSta
 #CZ see CA
 
 #DC
@@ -85,7 +85,7 @@ TX IAHSub TerA TerD/E
 
 #Utah
 UT FroRun ProCen SLCen
-UT BlueLn SanCivCen SaltLakCen
+UT BlueLn SanCivCen SaltLakeCen
 UT GreLn Cou Air
 UT RedLn Cou UniMedCen
 UT HebValRai HebValRaiDep VivPark
