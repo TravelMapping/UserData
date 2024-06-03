@@ -127,7 +127,7 @@ ENG ReaLn Sta Rea
 ##North Downs Line
 ENG NorDowLn Rea GatAir
 ##1066 Hastings to Tonbridge Line
-ENG 1066Ln Ton Has
+ENG HasLn Ton Has
 ##Tonbridge to Reigate Line
 ENG RedTonLn Red Ton
 ENG RdhLn Red Rei
@@ -361,12 +361,12 @@ SCT ArgLnLar Rut HamCen
 #6VT Youth CRP
 SCT ShoLn EdiWav Kir
 SCT NorClyLnHel EdiWav EdiPark
-SCT FifeLnGle EdiWav NorQue
+SCT FifeLn EdiWav NorQue
 
 #Creative Isle CRP
 ENG SEML Min Ram
-ENG CreCoaLn BirSea Ram
+ENG ThaLn BirSea Ram
 
 #White Cliffs CRP
 ENG PadWoodLn Wes FolWest
-ENG WhiCliLn FolWest San
+ENG HS1Dov FolWest San

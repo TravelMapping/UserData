@@ -1,0 +1,46 @@
+NC SS Cary FL SS Orl
+
+FL GreLn DadSou GovCen #GovCen may be wrong
+FL InnLp GovCen_N GovCen_S #pretty sure I did the entire inner loop, and probably some of the northern spur but not sure to where
+
+FL NBankLn JacRTC RosaPar
+FL SBankLn RosaPar KinAve
+
+FL SunRail AltSpr SandLakeRd #99% sure I went beyond LynxCenSta to SandLakeRd
+
+FL TerLink TerA/B TerC
+
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+
+CA BARTRed SanFraAir MonSt
+
+IL RedLn Lake Gra
+
+VA BluLn KingStOldTown VA/DC
+DC BluLn VA/DC CapS
+
+MA FaiLn Rea BosSou #as part of other lines
+MA FitLn BosNor Fit
+MA FraLn ForPk495 BosSou
+MA KinLn BosSou OldPly #can't remember if I went to Kingston or Plymouth
+RI ProLn Pro RI/MA
+MA ProLn RI/MA BosSou
+MA RocLn BosNor Glo
+MA WorLn Wor BosSou
+
+MA BluLn Won Bow
+MA GreLnD Riv Lec #I've probably done portions of other branches too
+MA OraLn ForHil Wel #99% sure I went all the way to ForHil
+MA RedLn Ash Ale
+MA RedLnBra QuiAda Ale #not sure about QuiAda being the end
+MA RedLnM Ash Mat
+
+MO MLBlueLn RicHei LacLan
+
+OH Con Ban_E Ban_W
+
+TN LooMouIR StElmo PoiPark
+
+TN MainStTro NorEnd BeaSt

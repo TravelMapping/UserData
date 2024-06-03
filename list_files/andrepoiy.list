@@ -30,7 +30,7 @@ ON RR174 RR55/57 ON417
 ON ON2 ON401 KingSt
 ON ON3For RoseHillRd ON140
 ON ON3 TowRd ON4
-ON ON3Win ColAve ON401(10A)
+ON ON3Win AmbBrg ON401(10A)
 ON ON4 ON8 ON3
 ON ON5 ON6 ON8_W
 ON ON6 StPatSt ON21_S
@@ -117,13 +117,13 @@ QC A-440 35 17
 QC A-440WQu 12 RueFraCar
 QC A-440EQu 29 CotePot
 QC A-540 QC138 9
-QC A-640 20 8
+QC A-640 22 8
 QC A-640 42 52
 QC A-740 BoulHoc 9
 QC A-50 RueMon QC117
 QC A-55 176 226
 QC A-55 125 145
-QC A-55 143(10) 2
+QC A-55 143(10) QC247
 QC A-955 QC122 15
 QC A-70 QC170_E 26
 QC A-73 167 130
@@ -140,6 +140,8 @@ QC QC112 QC138 A-10(115)
 QC QC112 QC141_S QC108
 QC QC112 RueHauBois A-410
 QC QC112 BoulJacCar A-610
+QC QC112 A-55 #actual end at Esso near Blvd Industriel
+QC QC117 A-15(14) A-640
 QC QC117 A-15(67) QC370
 QC QC117 A-15(86) 119
 QC QC117 ChGare A-50
@@ -190,7 +192,7 @@ QC QC236 A-30 QC132_E
 QC QC241 QC104/139 RuePri_W
 QC QC241 QC112/243 QC243_N #actual is 8ieme rang***
 QC QC243 QC104 QC241_N
-QC QC247 QC143 BeeRd
+QC QC247 A-55 BeeRd
 QC QC291 QC132 RueLaf_S
 
 QC QC323 QC117 A-50
@@ -236,6 +238,55 @@ BC BC91 23 15
 BC BC99 SprGroWay 28 #full clinch of downtown section (e.g. clinched both directions)
 BC KniSt 63rdAve WesHwy
 
+#Colorado
+
+CO I-25 240 CO/WY
+CO I-25 141 206A
+CO I-25 206B 217
+CO I-70 284 240
+CO I-70 232 216
+CO I-70 203 171
+CO I-70 116 37
+CO I-70 26 UT/CO
+
+CO I-70BLGra I-70_E US6_GraE
+CO I-70BLGra 29Rd 12thSt #start at Walmart, end at 9th Street**
+CO I-70BLGra CO340 I-70_W
+
+CO US6 I-70(261) I-25(212A)
+CO US6 I-70(216) SwanMouRd
+CO US6 I-70BLGra_W #end at 29 Road**
+
+
+CO US24 I-70(171) CO82
+CO US24 US285_N I-25(141)
+CO US34 US36 US40
+CO US36 I-270(0) BasRd
+CO US36 CO66_W US34_W #actual start at Alpine Ridge Inn**
+CO US40 US34 I-70(232)
+CO US50 MainSt HolAve #actual end at F Street**
+CO US160 PinDr US550_N
+CO US285 CO291 US24_E
+CO US287 I-25 LinSt #actual start at Osage St**
+CO US491 CO/UT PinDr
+CO US550 US160_W CO90
+
+CO CO5 CO103 End #actual end at Summit Lake**
+CO CO9 I-70(203) MainSt_BreN
+CO CO82 US24 I-70
+CO CO93 BasRd CO119
+CO CO103 I-70 CO5
+CO CO119 CO157 I-25
+CO CO121 US6 #actual end at West Byers Place**
+CO CO135 US50 ClaBlvd #actual end at East Specer**
+CO CO157 PeaPkwy CO119
+CO CO291 FSt US285
+CO CO347 US50 BlaCynNP
+
+
+CO PenaBlvd I-70 Ter
+CO MesaVerRd US160 SprCyn
+
 #New Brunswick
 
 NB NB11 NB/QC 300
@@ -248,8 +299,7 @@ NB NB275 NB134 NB11
 
 #New York
 
-NY I-81 USA/CAN 45
-NY I-81 26 21
+NY I-81 USA/CAN 11
 NY I-481 4 6
 NY I-781 1 4
 NY I-87 USA/CAN 38
@@ -271,11 +321,14 @@ NY I-690 7 9
 NY I-690 13 I-481
 NY I-790 NY5A/5S GenSt
 
+NY US2 US11 NY/VT
 NY US4 I-787/7 NY378
 NY US9 I-87(43) US11 #actual start at Locust St***
 NY US9 NY3 NY314
 NY US11 I-781 I-81(26)
 NY US11 US9 I-87 #actual end at Perry Mills***
+NY US11 NY92 NY290 #actual end at Hickory Street ***
+NY US11 NY122 US2
 NY US20 NY32_N I-787
 NY US62BusNia NY104 US62
 NY US62 NY104 NY265 #southside only
@@ -290,8 +343,10 @@ NY NY5 NY60 #end at Central Ave****
 NY NY5 HerRd_W I-790
 NY NY5S I-790 GenSt
 NY NY7 NY/VT 8thSt
+NY NY12 I-81(50) NY37
 NY NY12 I-790 MulRd
 NY NY12 TreRd NY3_W
+NY NY13 I-81(11) NY79 
 NY NY15 I-490 NY15A_N #actual start at South, end at Elmwood***
 NY NY18 LakeOntPkwy NiaScePkwy
 NY NY18F NY93 NY104 #actual start at Jackson***
@@ -301,27 +356,37 @@ NY NY31 HowSt VicRd #actual end at Walmart near Wayneport Road***
 NY NY31 BroSt_E NY383
 NY NY32 US9 NY5 #actual end at Pine St**
 NY NY33 NY5 NY33A_W #break between East Main and Seven Springs***
-NY NY33A NY204_E
+NY NY33A NY33_W NY204_E 
+NY NY37 NY12 NY68_W
+NY NY37 NY812_S NY420
+NY NY37 NY131_E NY122
 NY NY39 US219 CasDr
 NY NY49 NY26/46 I-790 #actual start South Geroge St***
 NY NY56 NY3 NY68
 NY NY60 US20 NY5
 NY NY68 NY56 FordSt
+NY NY79 NY366 NY13/34 #actual start at Tioga Street ****
 NY NY85 I-90 WasAve
+NY NY92 TeaAve US11 #actual start at University Avenue***
 NY NY96 I-490(29) RowRd #actual start High St actual end Omnitech Dr***
 NY NY104 NY18F NY384
+NY NY122 NY37 US11
+NY NY131 MarRd NY37_E #actual start at Ponton Bridge Rd ***
 NY NY179 US219 NY5
 NY NY198 I-190 NY33
 NY NY204 I-390 NY33A_W #actual end at Airport Road***
+NY NY232 US11 I-81
 NY NY265 NY104 UppMouRd
 NY NY265 US62 CayDr_S #Actual start at Fashion Outlets Blvd****
 NY NY265 NY384_S NY266_N
 NY NY266 NY265_N I-190(17)
 NY NY266 BusAve NY265_S #actual end at International Railway Bridge**
+NY NY281 I-81(12) NY13
 NY NY298 I-690 I-81_W #actual end at Solar St***
 NY NY324 I-190(21) I-190(15A)
 NY NY354 OakSt WilSt_E #actual start at Elm St ***
 NY NY365 I-90 NY49_E
+NY NY366 NY38 NY13_W 
 NY NY378 US4 I-787
 NY NY383 ExcSt NY31
 NY NY383 BroAve I-390 #actual start at Elmwood***
@@ -343,17 +408,17 @@ NY LaSExpy WilRd I-190(21A)
 MI I-75 OH/MI 20
 MI I-75 48 53B
 MI I-275 I-75 17
-MI I-375 MadSt I-75
-MI I-94 187 213B
+MI I-375 BeaSt I-75
+MI I-94 187 215A
 MI I-94 216 USA/CAN
 MI I-96 183 I-275_S
-MI I-96 190A 191A
+MI I-96 190A 192B
 
 MI US12BusYps MI17_W US12_W
 MI US23BusAnn US23_N I-94BL
 
 MI MI1 AdaAve I-75
-MI MI10 2A MI3
+MI MI10 4 RanSt
 MI MI14 I-96 3
 MI MI39 1 4
 MI MI39 VilRd 11A
@@ -440,6 +505,21 @@ PA PA837 10thSt_B 18thSt #actual end at S 19th St***
 PA PA885 I-579 ForAve
 PA PA970 US322 I-80
 
+#Utah
+
+UT I-70 UT/CO 214
+
+UT US191 UT313 US491
+UT US491 US191 CO/UT
+
+UT UT128 2ndSt US191
+UT UT313 US191 IslSkyRd
+
+UT IslSkySceDr UT313 End
+UT MainParkRd US191 DevGarCam
+UT DelArchRd MainParkRd CacValRd
+
+
 #Vermont
 
 VT I-89 17 10
@@ -447,14 +527,31 @@ VT I-89 8 NH/VT
 VT I-189 I-89 US7
 VT I-91 3 13
 
-VT US2 VT314_S I-89(17)
-VT US2 US7_S I-89(14) #actual start South Prospect**
-VT US2 US2Bus/12 MemDr
+VT US2 NY/VT I-89(17)
+VT US2 US7_S VT116 #actual start South Prospect**
+VT US2 MemDr US302
+VT US2 VT14_S US5Alt_N
 VT US2BusMon TaySt US2_E
+VT US302 US2 VT14_S
+VT US5 US2_E VT5A
+VT US5 VT58_E USA/CAN
 VT US7 I-189 US7Alt_S #actual start Queen City Park**
 VT US7AltBur US7_S MainSt
+VT US7 ColAve VT15
 
+VT VT5A US5 VT58
 VT VT9 US7 NY/VT
 VT VT9TrkBra I-91(3) VT9_E
 VT VT10A I-91 NH/VT
+VT VT14 US302_W US2_E
+VT VT15 US2_W I-89
+VT VT58 VT5A US5_N
 VT VT314 GorLan US2_S
+
+#Wyoming
+
+WY I-25 CO/WY 8
+WY I-80 359 362
+WY I-180 I-80 I-80BL/30
+
+WY US85 19thSt I-80 #actual start at W 24 St***

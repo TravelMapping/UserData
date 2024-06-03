@@ -1,0 +1,42 @@
+#Colorado
+
+CO ALn UniSta Peo
+CO ELn +DIV_HLn UniSta
+CO RLn Lin Peo
+
+
+#Illinois
+
+IL BNSF Aur UniSta
+IL HC UniSta Jol
+IL MDN UniSta FoxLake
+IL MDW Elg UniSta
+IL ME MilSta UniPk
+IL MEBlu MilSta BlueIsl
+IL MESCh MilSta SChi93rdSt
+IL NCS UniSta Ant
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL UPNW OglTraCen Har
+IL UPN OglTraCen IL/WI
+IL UPW Elb OglTraCen
+
+
+IL SouShoLn IN/IL MilSta
+
+IL BlueLn OHa ClaLake
+IL GreLn HarLake +DIV_SE
+IL PurLn How Lin
+IL RedLn CerChi How
+IL SkoSwi DemSko How
+
+IL AirTraSys Ter1 MulModFac
+
+#Indiana
+
+IN SouShoLn DunePark IN/IL
+
+#Michigan
+
+MI DetPeoMov Mic_S Mic_N
