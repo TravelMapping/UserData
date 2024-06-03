@@ -46,6 +46,9 @@ NLD S110Nij A15/A325 S100
 
 NLD RingUtr A2_S FraDre
 
+NLD JFKenLaan A50 RingEin
+NLD WatWeg GoyPle A12
+
 
 # BELGIUM
 
@@ -74,8 +77,24 @@ NLD RingUtr A2_S FraDre
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW A1 99 112
+DEU-NW A3 NLD/DEU 9
+DEU-NW A3 16 18
+DEU-NW A4 10 12
+DEU-NW A40 NLD/DEU 13
+DEU-NW A42 1 6
+DEU-NW A46Dus 26a 27
+DEU-NW A52Ess 25 25a
+DEU-NW A57 NLD/DEU 28
+DEU-NW A59 1 16
+DEU-NW A59Lan 21 A1
+DEU-NW A524 2 5
+DEU-NW A555 2 7
+DEU-NW A565 4 NW/RP
 
 ##  RP - Rheinland-Pfalz
+DEU-RP A1 117 122
+DEU-RP A48 1 11
 
 ##  SL - Saarland
 
