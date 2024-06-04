@@ -35,7 +35,7 @@ MD GreLnSui BraAve MD GreLn Gre
 VA OraLn VieFaiGMU MD OraLn NewCar
 MD RedLn ShaGro MD RedLnGle Gle
 VA SilLn WieResE MD SilLn LarTownCen
-VA YelLn Hun MD YelLn Gre
+VA YelLn Hun DC YelLn DC/MD
 
 IL BlueLn OHa Ros
 
@@ -83,10 +83,10 @@ OK BriLoop Bal SciPark_S
 OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
-OR BlueLn BeaCen Hol42ndAve
+OR BlueLn BeaTraCen Hol42ndAve
 OR GreLn PSUSou RoseQuaTraCen
 OR OraLn UniStaGliSt Park
-OR RedLn BeaCen Hol42ndAve
+OR RedLn BeaTraCen Hol42ndAve
 OR YelLn PSUSouCol DelParkVan
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_S
@@ -105,7 +105,7 @@ WA 1 Nor AngLake
 WA 2 SBel RedTec
 WA N Eve Sea
 WA S Sea Lak
-WA T TacDome StJoseph #Tacoma Link
+WA T TacDome StJos
 WA SeaCenMon SeaCen WesCen
 WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
