@@ -1,9 +1,13 @@
 #Colorado
 
 CO ALn UniSta Peo
-CO ELn +DIV_HLn UniSta
-CO RLn Lin Peo
+CO ELn Bel UniSta
+CO RLn Bel Peo
 
+#DC
+
+DC FreLn VA/DC WasUniSta
+DC RedLn UniSta DC/MD
 
 #Illinois
 
@@ -26,6 +30,7 @@ IL UPW Elb OglTraCen
 IL SouShoLn IN/IL MilSta
 
 IL BlueLn OHa ClaLake
+IL BroLn Sed Loop
 IL GreLn HarLake +DIV_SE
 IL PurLn How Lin
 IL RedLn CerChi How
@@ -37,6 +42,17 @@ IL AirTraSys Ter1 MulModFac
 
 IN SouShoLn DunePark IN/IL
 
+#Maryland
+
+MD RedLnGle DC/MD Whe
+
 #Michigan
 
 MI DetPeoMov Mic_S Mic_N
+
+#Virginia
+
+VA FreLn FraSpr VA/DC
+
+#Wisconsin
+WI UPN IL/WI Ken
