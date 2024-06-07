@@ -9,12 +9,19 @@ CO RLn Bel Peo
 DC FreLn VA/DC WasUniSta
 DC RedLn UniSta DC/MD
 
+#Iowa
+
+IA CZ NE/IL IA/IL
+
 #Illinois
+
+IL CZ IA/IL UniSta
+IL WV UniSta IL/IN
 
 IL BNSF Aur UniSta
 IL HC UniSta Jol
 IL MDN UniSta FoxLake
-IL MDW Elg UniSta
+IL MDW BigTimRd UniSta
 IL ME MilSta UniPk
 IL MEBlu MilSta BlueIsl
 IL MESCh MilSta SChi93rdSt
@@ -29,9 +36,10 @@ IL UPW Elb OglTraCen
 
 IL SouShoLn IN/IL MilSta
 
-IL BlueLn OHa ClaLake
+IL BlueLn OHa ForPk
 IL BroLn Sed Loop
-IL GreLn HarLake +DIV_SE
+IL GreLn HarLake ClaLake
+IL PinkLn Cli Loop
 IL PurLn How Lin
 IL RedLn CerChi How
 IL SkoSwi DemSko How
@@ -39,6 +47,8 @@ IL SkoSwi DemSko How
 IL AirTraSys Ter1 MulModFac
 
 #Indiana
+
+IN WV IL/IN IN/MI
 
 IN SouShoLn DunePark IN/IL
 
@@ -48,7 +58,13 @@ MD RedLnGle DC/MD Whe
 
 #Michigan
 
+MI WV IN/MI Det
+
 MI DetPeoMov Mic_S Mic_N
+
+#Nebraska
+
+NE CZ Lin NE/IL
 
 #Virginia
 
