@@ -839,6 +839,13 @@ LUX N50 N2/N4 RueChi
 #SGP
 SGP ECP 1 15
 
+#SWE
+#Goteborg
+SWE HisLed Hal LunLed
+SWE L155 O564 HisLed
+SWE LunTun InlGat HisLed
+SWE LunLed HjaBraGat InlGat
+
 #UAE
 ARE M5 49(E11D) 54(E11D)
 
