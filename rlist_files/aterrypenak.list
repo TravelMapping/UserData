@@ -5,7 +5,7 @@ DC RedLn MetCen UniSta
 DC YelLn VA/DC Arc
 IL BlueLn Cum Jac
 IL BroLn Pau Loop
-IL GreLin ConCePkDr Gar
+IL GreLn ConCePkDr Gar
 IL PinkLn Polk Loop
 IL PurLn How Lin
 IL RedLn Gar How
@@ -41,7 +41,7 @@ TX RedLnHou FanS Pre
 # Streetcars
 FL TECO DickGrePla CenYbor
 WI HopMLn Int BurCom
-WI KenSt 11thAve54thSt_S 11thAve54thSt_N
+WI KenStr 11thAve54thSt_S 11thAve54thSt_N
 
 # Commuter rail
 CA CT CalAve SanFraKing
