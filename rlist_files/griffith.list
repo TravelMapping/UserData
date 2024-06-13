@@ -25,12 +25,16 @@ DEU-HB 3Bre DomsHei EurHaf
 DEU-HB 10Bre BenStr StJurStr
 DEU-HB RS2 BreHbf NI/HB
 DEU-HB RS2Bre HB/NI BreHavHbf
+DEU-HE S2 Niedernhausen FraFurtHbf
 DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
 DEU-NI RS2 NI/HB HB/NI
+DEU-NI S1 WunsTorf HanHbf
+DEU-NI S3 Leh HanHbf
 ENG DisLn TowHill SouKen
 ENG JubLn NorGre GrePark
 ENG LonPar LonStPanInt GBR/FRA
 ENG PicLn CovGar SouKen
+FRA-GES CFL60a LUX/FRA VolMin
 FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF B Lux GareNord
 FRA-IDF C ChaMarsTourEif StMicNotDame
@@ -40,6 +44,9 @@ FRA-IDF M1 PalRoyMusLou CdGEto
 FRA-IDF M4 GareNord BarRoc
 FRA-IDF M6 CdGEto Tro
 FRA-IDF M12 Mad Abb
+LUX CFL30 LuxGareCen Was
+LUX CFL60 LuxGareCen Bet
+LUX CFL60a Bet LUX/FRA
 NLD 7Ams HooKad Fra
 NLD 54Ams StaBijAre Nie
 
