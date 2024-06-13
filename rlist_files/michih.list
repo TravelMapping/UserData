@@ -1,4 +1,4 @@
-# Date: 2024-06-11
+# Date: 2024-06-12
 # ----------------
 
 ######################
@@ -711,10 +711,19 @@ SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
 
+SWE 10Sto Friplan TCen          #2024
 SWE 11Sto TCen KunGar           #2024
-SWE 17Sto TCen GulPlan          #2024
+SWE 12Sto Noc Alv               #2024
+SWE 14Sto Lil MorCen            #2024
+SWE 17Sto TCen SkaNack          #2024
+SWE 18Sto Alv FarStr            #2024
+SWE 19Sto GamStan Hag           #2024
+SWE 27Sto StoOst Kar            #2024
+SWE 28Sto DjuOsby Ost           #2024
+SWE 29Sto DjuOsby NasPark       #2024
 SWE 30Sto SolSta Sic            #2024
 SWE 41Sto Mar StoCity           #2024
+SWE 43Sto ArsBerg NynHamn       #2024
 
 TUR M1A Mer Yenk                #2022, via Merter - Kartaltepe (Otogar) - Yenikapi
 TUR M1B Kir BagMey              #2022, Kirazli Bagcilar - Bagcilar Meydan
