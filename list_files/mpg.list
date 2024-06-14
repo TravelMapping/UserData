@@ -1,4 +1,4 @@
-# Current as of 2024-06-10
+# Current as of 2024-06-12
 
 AL I-59 MS/AL AL/GA ## THRU AL CLINCHED 2023-05-25 ##
 AL US31 US280_W I-20/59
@@ -606,8 +606,14 @@ WV WV480 WV45Alt WV/MD
 
 WY I-25 CO/WY 92
 WY US26 I-25(92) WY/NE
+WY US89 ColBayRd YelNP
+WY US191 ColBayRd YelNP
+WY US287 ColBayRd YelNP
 WY WY160 US26 GrayRocRd_W ## CLINCHED 2022-05-16 ##
-WY GraLoopRd WEntRd OldFaiRd
+WY GraLoopRd NEntRd_W SEntRd
+WY GraLoopRd NorRimDr NorCanRd_E
+WY NorCanRd GraLoopRd_W GraLoopRd_E ## CLINCHED 2024-06-11 ##
+WY SEntRd US89/191 GraLoopRd ## CLINCHED 2024-06-12 ##
 WY WEntRd MT/WY GraLoopRd ## CLINCHED 2024-06-10 ##
 
 # Deleted routes
