@@ -9,6 +9,7 @@ ECU MetQui Lab SanFra
 
 #France
 FRA-IDF B GareNord AerCDG2TGV
+FRA-IDF B +DIV_CW MasPal
 FRA-IDF CVer VerChaRiveGau StMicNotDame
 FRA-IDF Cver GareAus Juv
 FRA-IDF CDGVAL Ter2Gare Ter1
