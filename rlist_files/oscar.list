@@ -17,7 +17,7 @@ DC NENew WasUniSta DC/MD
 MD NENew DC/MD MD/DE
 DE NENew MD/DE DE/PA
 PA NENew DE/PA PA/NJ
-PA NENew PA/NJ NJ/NY
+NJ NENew PA/NJ NJ/NY
 NY NENew NJ/NY NY/CT
 CT NENew NY/CT CT/RI
 RI NENew CT/RI RI/MA
@@ -26,7 +26,7 @@ NY NewHavLn GraCen NY/CT
 CT NewHavLn NY/CT NHUniSta
 MB WinChu Tho Chu
 CA BARTBlue DalyCity DubPle
-CA BARTGe DalyCity Gre
+CA BARTGre DalyCity Gre
 CA BARTOra Fre Ric
 CA BARTRed Mil Ric
 CA BARTYel Mil PitTra
