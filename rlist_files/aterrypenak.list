@@ -1,0 +1,66 @@
+# Rapid transit
+CA BARTRed Mil SanFraAir
+DC BluLn VA/DC CapS
+DC RedLn MetCen UniSta
+DC YelLn VA/DC Arc
+IL BlueLn Cum Jac
+IL BroLn Pau Loop
+IL GreLn ConCePkDr Gar
+IL PinkLn Polk Loop
+IL PurLn How Lin
+IL RedLn Gar How
+IL SkoSwi DemSko How
+MA RedLn JFK Har
+NJ PATCO PA/NJ Wes
+NY 1 116StColUni TimSq42St
+NY 6 GraCen 86thSt
+PA PATCO 8thMar PA/NJ
+VA BluLn VanDornSt VA/DC
+VA YelLn KingStOldTown VA/DC
+ENG BakLn OxfCir Wat
+ENG CenLn StPau Bank
+ENG DisLn KewGar TowHill
+ENG JubLn StJohWood Wes
+ENG NorLn KXSP Bank
+ENG NorLnBat TotCouRd Emb
+ENG PicLn LeiSqu KXSP
+
+# Light rail
+AZ VMR 44thStWas DorApaBlvd
+CA A Pico 7thStMetCen
+CA A LitTokArtsDis Lake
+CA B 7thStMetCen UniSta
+CA GreLn GasQua Sta
+CO ELn EmpFieMileHigh UniSta
+MA GreLnD Lon NorSta
+MN BlueLine MallofAmerica MSPTerminal1
+MO MLBlueLn Ski CenWestEnd
+MO MLRedLn LamAirTer2 CenWestEnd
+TX RedLnHou FanS Pre
+
+# Streetcars
+FL TECO DickGrePla CenYbor
+WI HopMLn Int BurCom
+WI KenStr 11thAve54thSt_S 11thAve54thSt_N
+
+# Commuter rail
+CA CT CalAve SanFraKing
+CO ALn UniSta 40thAirGatPark
+IL UPN OglTraCen IndHill
+IL UPNW OglTraCen Woo
+IL UPW OglTraCen GlenEll
+MA NewLn BosNor Sal
+MA ProLn RI/MA BosSou
+NJ NECorLn NY/NJ NewPenn
+NY NECorLn PennSta NY/NJ
+PA PaoThoLn Hav Phi30thSt
+RI ProLn Pro RI/MA
+
+# Passenger rail
+DC NENor VA/DC WasUniSta
+VA NENor Fre VA/DC
+
+# Miscellaneous
+AZ PHX T4 44thSt
+CA AirTrnRed Ter1 GarG/BART_F
+NV MBT ManBay ExcNor
