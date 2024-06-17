@@ -280,14 +280,20 @@ FRA-HDF ParAms IDF/HDF +DIV_Lil2
 
 #IDF
 FRA-IDF A RueMal ChaHal
+FRA-IDF B GareNord ChaHal
 FRA-IDF C IssyValSei GareAus
+FRA-IDF E HauStLaz Mag
 FRA-IDF LonPar HDF/IDF ParGareNord
 
 #Paris Metro / Sub-urban
 FRA-IDF N ParMon Cla
+FRA-IDF M1 GeoV PalRoyMusLou
 FRA-IDF M2 ChaGauEto Nat
+FRA-IDF M5 Lau GareAus
 FRA-IDF M6 ChaGauEto QuaiGare
+FRA-IDF M7 GareEst Jus
 FRA-IDF M9 PontSev Mue
+FRA-IDF M12 StLaz Abb
 
 FRA-IDF T2 Bri IssyValSei
 

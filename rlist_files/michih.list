@@ -1,4 +1,4 @@
-# Date: 2024-05-12
+# Date: 2024-06-06
 # ----------------
 
 ######################
@@ -187,7 +187,7 @@ DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
 DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
 DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
 DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
-#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                             #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                            #2024, route "rechts der Pegnitz = NOT concurrent to S2
 #DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
 DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
 
@@ -207,6 +207,11 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #DEU-SN RB22 Leipzig Knauthain LeiPlagWitz     #2023
+
+
+DEU-NI S3 Leh HilHeimHbf                       #2024
+DEU-NI S4 HanHbf HilHeimHbf                    #2024
+DEU-NI S7 HanHbf Cel                           #2024
 
 
 ######################
@@ -663,6 +668,19 @@ ITA-LAZ MB1 Jon Bol                   #2019, Roma
 ITA-LAZ MC SanGio MonComPan           #2019, Roma
 
 LUX T1 LuxExpo LycBouWeg              #2023
+
+NOR 1Ber Byp BerLuf                   #2024
+NOR 2Ber Kai FylTer                   #2024
+NOR 1Osl Frog Toy                     #2024
+NOR 2Osl Ost Ell                      #2024
+NOR 3Osl Kol Mor                      #2024
+NOR 4Osl Ves Ber                      #2024
+NOR 5Osl Sog Ves                      #2024
+NOR 13Osl Lil Lja                     #2024
+NOR 17Osl Jer GreSta                  #2024, actually traveled as rerouted line 19
+NOR 18Osl RiksHos ForPar              #2024
+NOR 18Osl Jer GreSta                  #2024
+NOR 19Osl Jer Lja                     #2024
 
 POL M1 Mlo Kab                        #2022
 POL M2 Bem Tro                        #2022, u/c at both ends
