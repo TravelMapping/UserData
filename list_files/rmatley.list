@@ -1224,9 +1224,9 @@ KEN A104 23 10
 KEN B6 A2_S D475
 MEX-BC MEX1 LibSur CArt27
 MEX-DF MEX85 AveAcuGua DF/EMEX
-MEX-DF Eje1Nte CtoBic_E Eco
+MEX-DF Eje1Nte CtoBic_E Eje4Ote
 MEX-DF Eje1Pte PasRef AveCha
-MEX-DF Eje2Pte CtoBic_N AveCha
+MEX-DF Eje2Pte CtoBic_N ViadMigAle
 MEX-DF Eje2Sur EjeCen CalzAntAbad
 MEX-DF Eje3Ote FSTMier CalzIgnZar_E
 MEX-DF Eje3Pte AveCha Eje2Sur_w
@@ -1235,6 +1235,8 @@ MEX-DF Eje6Sur AveIns AniPer_W
 MEX-DF EjeCen AveHid AveArcBel
 MEX-DF CtoBic 5 16
 MEX-DF AniPer PRef AveTol
+MEX-DF ViadRioPie CtoBic CalzTla
+MEX-DF ViadMigAle CalzTla Eje2Pte
 MEX-EMEX MEX85 DF/EMEX MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_Gus MEX132D
 MEX-EMEX MEX132D MEX85D MEX132_Teo
