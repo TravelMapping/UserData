@@ -1,4 +1,4 @@
-# Date: 2024-01-22
+# Date: 2024-06-17
 # ----------------
 
 #####################################
@@ -19,6 +19,16 @@ MLT     Mgarr                        MLT     Cirkewwa
 ITA     Brindisi                     GRC     Igoumenitsa
 NLD     Hoek van Holland             ENG     Harwich
 ENG     Dover                        FRA-HDF Calais
+DNK     Egense                       DNK     Hals
+DNK     Frederikshavn                NOR     Oslo
+NOR     Halsa                        NOR     Kanestraum  #E39
+NOR     Molde                        NOR     Furneset    #E39
+NOR     Solavagen                    NOR     Festoya     #E39
+NOR     Lote                         NOR     Anda        #E39
+NOR     Lavik                        NOR     Oppedal     #E39
+NOR     Halhjem                      NOR     Sandvik     #E39
+NOR     Arsvagen                     NOR     Mortavika   #E39
+SWE     Ystad                        POL     Swinoujscie
 
 
 #####################################
@@ -76,3 +86,4 @@ DEU-BW  Meersburg                    DEU-BW  Konstanz
 #####################################
 
 DEU-BE  F12 Wendenschloss           DEU-BE  Grünau
+DEU-BW  Überlingen                  DEU-BW  Dingelsdorf
