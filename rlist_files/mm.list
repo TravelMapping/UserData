@@ -1,0 +1,80 @@
+#Colorado
+
+CO ALn UniSta Peo
+CO ELn Bel UniSta
+CO RLn Bel Peo
+
+#DC
+
+DC FreLn VA/DC WasUniSta
+DC RedLn UniSta DC/MD
+
+#Florida
+
+FL GreLn DadSou Pal
+
+FL InnLp GovCen_N GovCen_S
+
+#Iowa
+
+IA CZ NE/IL IA/IL
+
+#Illinois
+
+IL CZ IA/IL UniSta
+IL WV UniSta IL/IN
+
+IL BNSF Aur UniSta
+IL HC UniSta Jol
+IL MDN UniSta FoxLake
+IL MDW BigTimRd UniSta
+IL ME MilSta UniPk
+IL MEBlu MilSta BlueIsl
+IL MESCh MilSta SChi93rdSt
+IL NCS UniSta Ant
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL UPNW OglTraCen Har
+IL UPN OglTraCen IL/WI
+IL UPW Elb OglTraCen
+
+
+IL SouShoLn IN/IL MilSta
+
+IL BlueLn OHa ForPk
+IL BroLn Sed Loop
+IL GreLn HarLake ClaLake
+IL PinkLn Cli Loop
+IL PurLn How Lin
+IL RedLn CerChi How
+IL SkoSwi DemSko How
+
+IL AirTraSys Ter1 MulModFac
+
+#Indiana
+
+IN WV IL/IN IN/MI
+
+IN SouShoLn DunePark IN/IL
+
+#Maryland
+
+MD RedLnGle DC/MD Whe
+
+#Michigan
+
+MI WV IN/MI Det
+
+MI DetPeoMov Mic_S Mic_N
+
+#Nebraska
+
+NE CZ Lin NE/IL
+
+#Virginia
+
+VA FreLn FraSpr VA/DC
+
+#Wisconsin
+WI UPN IL/WI Ken
