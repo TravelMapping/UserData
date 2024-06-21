@@ -80,8 +80,12 @@ NY AirTrnJam Jam Loop
 TX IAHSub TerA TerC
 
 #Washington Metro
-DC BluLn VA/DC LEnfPla
-DC RedLn MD/DC MetCen
+DC BluLn LEnfPla FedCenSW
+DC GreLn Wat GalPla
+DC OraLn LEnfPla FedCenSW
+DC RedLn MD/DC GalPla
+DC SilLn LEnfPla FedCenSW
+DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
