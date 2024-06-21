@@ -73,9 +73,10 @@ NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
 
+NLD 50Ams Isl Gein
 NLD 51Ams CenSta StaRAI
 NLD 52Ams Noo StaZuid
-NLD 53Ams CenSta +DIV_5054
+NLD 53Ams CenSta Gaa
 NLD 54Ams CenSta StaBijAre
 
 NLD A VlaWest Ale
@@ -90,7 +91,7 @@ NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
-NLD 25Ams Par Wes
+NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
 NLD 1Haa ZwaPad StaDel
@@ -279,14 +280,20 @@ FRA-HDF ParAms IDF/HDF +DIV_Lil2
 
 #IDF
 FRA-IDF A RueMal ChaHal
+FRA-IDF B GareNord ChaHal
 FRA-IDF C IssyValSei GareAus
+FRA-IDF E HauStLaz Mag
 FRA-IDF LonPar HDF/IDF ParGareNord
 
 #Paris Metro / Sub-urban
 FRA-IDF N ParMon Cla
+FRA-IDF M1 GeoV PalRoyMusLou
 FRA-IDF M2 ChaGauEto Nat
+FRA-IDF M5 Lau GareAus
 FRA-IDF M6 ChaGauEto QuaiGare
+FRA-IDF M7 GareEst Jus
 FRA-IDF M9 PontSev Mue
+FRA-IDF M12 StLaz Abb
 
 FRA-IDF T2 Bri IssyValSei
 
