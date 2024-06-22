@@ -1,0 +1,43 @@
+# Menzador's TravelMapping.net File
+# Updated 2024-06-21
+#
+# This file is currently a work in progress. I will update this notice when the entire data set is complete to the best of my ability.
+#
+# THIS IS A ROUGH DRAFT WITH A FEW EXAMPLES OF ROADS ON WHICH I'VE TRAVELLED.
+#
+# I've included a tutorial copied from https://travelmapping.net/participate.php below.
+#
+# TUTORIAL
+#
+# Valid formats are:
+#
+# FORMAT 1 (used for highways within a single region)
+# Region Route Waypoint1 Waypoint2
+#
+# FORMAT 2 (used for multiple regions on the same right-of-way)
+# Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
+#
+# You can find the correct information to input for each variable in the Highway Browser at https://travelmapping.net/hb .
+#
+# *** ROUTE LISTING ***
+# (listed alphabetically by postal abbreviation)
+#
+# Interstate Highways
+#
+VA I-81 221 NY I-81 29S
+PA I-86 I-90 NY NY17Bin 94
+
+NY I-88 I-81 I-90
+NY I-90 6A 26(NYST)
+NY I-90 29(NYST) 61(NYST)
+NY I-290 I-190 I-90
+NY I-990 I-290 5
+#
+# U.S. Routes
+#
+#
+# State Highways
+# 
+NY NY8 
+NY NY10 NY17 GroRd
+NY NY23 NY26 MA MA23 MA57/183
