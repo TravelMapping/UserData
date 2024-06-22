@@ -25,8 +25,8 @@
 # Interstate Highways
 #
 VA I-81 221 NY I-81 29
-PA I-86 I-90 NY NY17Bin 94
-
+PA I-86 1 PA I-86SWa 60    # Interstate 86 / NYS Route 17
+NY NY17Bin PA/NY 94        # Interstate 86 / NYS Route 17
 NY I-88 I-81 I-90
 NY I-90 6A 26(NYST)
 NY I-90 29(NYST) 61(NYST)
@@ -40,4 +40,5 @@ NY I-990 I-290 5
 # 
 NY NY8 
 NY NY10 NY17 GroRd
-NY NY23 NY26 MA MA23 MA57/183
+NY NY23 NY26 NY/MA        # Route 23
+MA MA23 NY/MA MA57/183    # Route 23
