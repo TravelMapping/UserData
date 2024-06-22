@@ -28,8 +28,10 @@ VA I-81 221 NY I-81 29
 PA I-86 1 PA I-86SWa 60    # Interstate 86 / NYS Route 17
 NY NY17Bin PA/NY 94        # Interstate 86 / NYS Route 17
 NY I-88 I-81 I-90
+MA I-90 NY/MA 127
 NY I-90 6A 26(NYST)
 NY I-90 29(NYST) 61(NYST)
+MA I-290 12 16
 NY I-290 I-190 I-90
 NY I-481 I-81 9
 NY I-690 1 I-481
@@ -38,6 +40,7 @@ NY I-890 I-90(26) 1B
 NY I-990 I-290 5
 #
 # U.S. Routes
+## These routes are listed in numerical order and are not grouped by state.
 NY US4 NY146 NY67_E
 NY US4 NY197_W NY196
 NY US4 NY149_W VT US4 US7_S
