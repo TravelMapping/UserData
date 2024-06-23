@@ -1228,7 +1228,7 @@ MEX-DF Eje1Nte CtoBic_E Eje4Ote
 MEX-DF Eje1Pte AvePueAlv Eje3Sur
 MEX-DF Eje2Pte CtoBic_N AveUni
 MEX-DF Eje2Sur EjeCen CalzAntAbad
-MEX-DF Eje2Sur AveNueLeon_S Eje1Pte
+MEX-DF Eje2Sur CtoBic_W Eje1Pte
 MEX-DF Eje2ASur Eje2Sur_W Eje1Pte
 MEX-DF Eje3Ote FSTMier CalzIgnZar_E
 MEX-DF Eje3Pte Eje7Sur CtoBic_N
@@ -1236,14 +1236,18 @@ MEX-DF Eje3Pte AveUni CtoBic_S
 MEX-DF Eje6Sur AveIns AniPer_W
 MEX-DF Eje8Sur Eje2Pte AveDivNte
 MEX-DF EjeCen Eje1Nte AveArcBel
+MEX-DF AveCon AniPer AveParLira
 MEX-DF AveInsNte Eje2Nte AveAcuGua
 MEX-DF AveOce Eje1Nte Eje3Nte
 MEX-DF CtoBic 5 16
 MEX-DF CtoBic Eje7Sur_W Eje3Pte
 MEX-DF DistHebCas Eje3Ote Eje1Nte
+MEX-DF DistSanAnt Eje6Sur_W ViadRioBec
 MEX-DF AniPer PRef AveTol
 MEX-DF ViadRioPie CtoBic CalzTla
 MEX-DF ViadMigAle CalzTla Eje2Pte
+MEX-DF ViadMigAle AveIns ViadRioBec
+MEX-DF ViadRioBec ViadMigAle CtoBic
 MEX-EMEX MEX85 DF/EMEX MEX85D_EcaS
 MEX-EMEX MEX85D MEX85_Gus MEX132D
 MEX-EMEX MEX132D MEX85D MEX132_Teo
