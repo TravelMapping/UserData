@@ -1225,7 +1225,9 @@ KEN B6 A2_S D475
 MEX-BC MEX1 LibSur CArt27
 MEX-DF MEX85 AveAcuGua DF/EMEX
 MEX-DF Eje1Nte CtoBic_E Eje4Ote
-MEX-DF Eje1Pte AvePueAlv Eje3Sur
+MEX-DF Eje1Nte Eje1Pte Eje1Ote
+MEX-DF Eje2Nte PasRef Eje1Ote
+MEX-DF Eje1Pte Eje1Nte Eje3Sur
 MEX-DF Eje2Pte CtoBic_N AveUni
 MEX-DF Eje2Sur EjeCen CalzAntAbad
 MEX-DF Eje2Sur CtoBic_W Eje1Pte
@@ -1235,7 +1237,7 @@ MEX-DF Eje3Pte Eje7Sur CtoBic_N
 MEX-DF Eje3Pte AveUni CtoBic_S
 MEX-DF Eje6Sur AveIns AniPer_W
 MEX-DF Eje8Sur Eje2Pte AveDivNte
-MEX-DF EjeCen Eje1Nte AveArcBel
+MEX-DF EjeCen AveFloMag AveArcBel
 MEX-DF AveCon AniPer AveParLira
 MEX-DF AveInsNte Eje2Nte AveAcuGua
 MEX-DF AveOce Eje1Nte Eje3Nte
@@ -1244,8 +1246,8 @@ MEX-DF CtoBic Eje7Sur_W Eje3Pte
 MEX-DF DistHebCas Eje3Ote Eje1Nte
 MEX-DF DistSanAnt Eje6Sur_W ViadRioBec
 MEX-DF AniPer PRef AveTol
-MEX-DF ViadRioPie CtoBic CalzTla
-MEX-DF ViadMigAle CalzTla Eje2Pte
+MEX-DF ViadRioPie C47 CalzTla
+MEX-DF ViadMigAle CalzTla Eje3Pte
 MEX-DF ViadMigAle AveIns ViadRioBec
 MEX-DF ViadRioBec ViadMigAle CtoBic
 MEX-EMEX MEX85 DF/EMEX MEX85D_EcaS
