@@ -8167,7 +8167,7 @@ NOR Fv714 Fv713_N E39
 NOR Fv812 Fv17 E6
 NOR Fv950 E6(42) E6(48)
 NOR LufVei 4 E6
-#NOR Ring2 E6 NorGata
+NOR Ring2 E6 NorGata
 
 
 
