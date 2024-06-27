@@ -1,4 +1,4 @@
-# Date: 2024-06-26
+# Date: 2024-06-27
 # ----------------
 
 ######################
@@ -715,7 +715,7 @@ SRB 14Beo Ust Ban               #2023
 
 SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar
 SWE 3Got BruPar SolGat          #2024
-SWE 4Got AngCen CenSta          #2024
+SWE 4Got AngCen Val             #2024
 SWE 5Got VarGat KunPla          #2024
 SWE 5Got Val OstSju             #2024
 SWE 6Got VarGat AprGat          #2024
