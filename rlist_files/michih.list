@@ -1,4 +1,4 @@
-# Date: 2024-06-27
+# Date: 2024-06-29
 # ----------------
 
 ######################
@@ -108,6 +108,7 @@ DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
 #DEU-BW  Heilbronn Hbf                DEU-BW  Ludwigsburg           #2024, MEX12
+DEU-BW RS21 UlmHbf Bib                                              #2024, RS21
 
 DEU-NW S1 DortMundDorFeld BocHbf                                    #2022 via Oespel, Langendreer
 DEU-NW S1 MulHeimHbf DuisBurgHbf
