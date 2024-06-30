@@ -1,0 +1,31 @@
+NY 1 ChrStSheSq SouFry
+NY 2 34StPennSta GraArmyPla
+NY 3 34StPennSta GraArmyPla
+NY 4 FulSt +SKIP_GraArmyPla
+NY 5 EasDyreAve BroBriCityHall
+NY 7 42StTimSq FluMainSt
+NY A DycSt W4St
+NY F 34StHerSq KinHwy
+NY J FulSt GatAve
+NY L 8Ave BedAve
+NY M FluAve 34StHerSq
+NY N 34StHerSq 36St
+NY Q 34StHerSq KinHwy
+NY R 34StHerSq 36St
+NJ PATHH33 Hob NY PATHH33 33St
+NJ PATHHWT Hob NY PATHHWT WTC
+
+FL ExpMon TraTicCen_1 TraTicCen_2
+NY NewHavLn GraCen NY NewHavLn NewRoc
+NJ BerCouLn Hob Rid
+NJ MainLn Hob Rid
+NY MonBooLn PennSta NJ MonBooLn SecJct
+NY MorEssLn PennSta NJ MorEssLn SecJct
+NY MorEssLn PennSta NJ MorEssLn SecJct
+NY NJerCoaLn PennSta NJ NJerCoaLn SecJct
+NJ PATHH33 Hob NY PATHH33 33St
+NJ PATHNWT ExcPla NY PATHNWT WTC
+
+DC GreLn Arc MD GreLn ColPk
+VA SilLn Cla DC SilLn McPSq
+MA GreLnE Pru NorSta

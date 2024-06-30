@@ -2775,3 +2775,10 @@ IA LinHwyLpCli US30 US67
 IA LinHwyLpFul HarSt US67_S
 IL LinHwy IA/IL US30_CH
 MN GRR LakeItaSP MN197_S
+IA JefHwy MO/IA IA/MN
+IA JefHwyLpCam JefHwy_S JefHwy_N
+IA JefHwyLpDec JefHwy_S JefHwy_N
+IA JefHwyLpWar JefHwy_S JefHwy_N
+IA JefHwyLpHar JefHwy_S JefHwy_N
+IA JefHwyLpKen JefHwy_S JefHwy_N
+IA JefHwyLpWor JefHwy_S JefHwy_N

@@ -1,4 +1,4 @@
-# Date: 2024-04-19
+# Date: 2024-06-29
 # ----------------
 
 ######################
@@ -107,6 +107,9 @@ DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
+#DEU-BW  Heilbronn Hbf                DEU-BW  Ludwigsburg           #2024, MEX12
+DEU-BW RS21 UlmHbf Bib                                              #2024, RS21
+
 DEU-NW S1 DortMundDorFeld BocHbf                                    #2022 via Oespel, Langendreer
 DEU-NW S1 MulHeimHbf DuisBurgHbf
 DEU-NW S2 DortMundHbf Her                                           #2022 via Castrop-Rauxel, Westerfilde, Dorstfeld
@@ -182,6 +185,15 @@ DEU-BY S4 OstBf Gra                                                 #2023, trave
 AUT S4Tir InnHau Kuf                                                #2023, traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, traveled as EC85 via southern route in Munich
 
+#DEU-BY RE1 Ingolstadt Hbf - Nürnberg Hbf                           #2024
+DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
+DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
+DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
+DEU-BY S5Nur NurnBergHbf AllBerg                                    #2024, traveled as RE1
+#DEU-BY RE40 Nürnberg Hbf - Hartmannshof                            #2024, route "rechts der Pegnitz = NOT concurrent to S2
+#DEU-BY RE90 Nürnberg Hbf - Stuttgart Hbf                           #2024, via Crailsheim, Backnang
+DEU-BY S4Nur DomBuhl NurnBergHbf                                    #2024, traveled as RE90
+
 
 DEU-SN S1Dre DreMit Sch               #2023
 DEU-SN S2Dre DreFlugHaf DreFreiBerStr #2023
@@ -198,6 +210,11 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #DEU-SN RB22 Leipzig Knauthain LeiPlagWitz     #2023
+
+
+DEU-NI S3 Leh HilHeimHbf                       #2024
+DEU-NI S4 HanHbf HilHeimHbf                    #2024
+DEU-NI S7 HanHbf Cel                           #2024
 
 
 ######################
@@ -303,17 +320,26 @@ DEU-BW U14 MuhlHau +DIV_WilPla                                                  
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U19 NeuGer NecParkSta                                                                   #2024
-DEU-BW S1 StaMit Wen                                                                           #201x, S1
+DEU-BW S1 HerBerg Wen                                                                          #201x/2x
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
-DEU-BW S3 Bac BadCan                                                                           #2024, S3
-DEU-BW S4 Bac LudBurg                                                                          #2024, S4
-DEU-BW S4 LudBurg StuHbf                                                                       #2022, S4
-DEU-BW S5 BieHeimBis StuHbf                                                                    #2023, S5
-DEU-BW S6 Ren StuHbf                                                                           #2020, S6
+DEU-BW S3 Bac BadCan                                                                           #2024
+DEU-BW S4 Bac LudBurg                                                                          #2024
+DEU-BW S4 LudBurg StuHbf                                                                       #2022
+DEU-BW S5 BieHeimBis StuHbf                                                                    #2023
+DEU-BW S6 WeilSta StuHbf                                                                       #2020/24
 DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
+DEU-BW S60 Bob Ren                                                                             #2024
 
 DEU-BW 1Ulm Sof BofOstWeg                                                                      #2020
 DEU-BW 2Ulm SciParkII KuhSch                                                                   #2020
+
+DEU-BY 1Aug LechHauNeuOstFriHof MorPla        #2024
+DEU-BY 1Lec GogRatHaus_2 LechHauNeuOstFriHof  #2024
+DEU-BY 2Aug AugsBurgWestPR HaunSteNord        #2024
+DEU-BY 3Aug InnParkLfU KonBruZen              #2024
+DEU-BY 4Aug OberHauNordPR KonPla              #2024
+DEU-BY 6Aug StaBer FriBergWestPR              #2024
+DEU-BY 8Aug Hbf FusAre                        #2024
 
 DEU-BY U1 OlyEinZen ManPla       #2022
 DEU-BY U2 FeldMoc MesStaOst      #2022
@@ -329,8 +355,16 @@ DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
 DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 
+DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
 DEU-BY U3Nur NordWestRing Hbf          #2022
+DEU-BY U3Nur Hbf GroReuSch             #2024
+DEU-BY 4Nur WegFeld GibHof             #2024
+DEU-BY 5Nur TierGar WorDorStr          #2024
+DEU-BY 6Nur WestFriHof DokuZen         #2024
+DEU-BY 7Nur Hbf TriStr                 #2024
+DEU-BY 8Nur Erl DokuZen                #2024
+
 
 DEU-BE U1 WitBergPla MocBru            #2018
 DEU-BE U7 MocBru SudSte                #2018
@@ -638,6 +672,19 @@ ITA-LAZ MC SanGio MonComPan           #2019, Roma
 
 LUX T1 LuxExpo LycBouWeg              #2023
 
+NOR 1Ber Byp BerLuf                   #2024
+NOR 2Ber Kai FylTer                   #2024
+NOR 1Osl Frog Toy                     #2024
+NOR 2Osl Ost Ell                      #2024
+NOR 3Osl Kol Mor                      #2024
+NOR 4Osl Ves Ber                      #2024
+NOR 5Osl Sog Ves                      #2024
+NOR 13Osl Lil Lja                     #2024
+NOR 17Osl Jer GreSta                  #2024, actually traveled as rerouted line 19
+NOR 18Osl RiksHos ForPar              #2024
+NOR 18Osl Jer GreSta                  #2024
+NOR 19Osl Jer Lja                     #2024
+
 POL M1 Mlo Kab                        #2022
 POL M2 Bem Tro                        #2022, u/c at both ends
 POL 6War MetMlo Goc                   #2022, via Pryz Agorze, Plac Wilsona, Park Traugutta, Ratuszowa-Zoo, Lubelska
@@ -666,6 +713,33 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
+
+SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar
+SWE 3Got BruPar SolGat          #2024
+SWE 4Got AngCen Val             #2024
+SWE 5Got VarGat KunPla          #2024
+SWE 5Got Val OstSju             #2024
+SWE 6Got VarGat AprGat          #2024
+SWE 7Got KomTor GamTorg         #2024
+SWE 8Got AngCen GamTorg         #2024
+SWE 8Got KorsVag MarGat         #2024
+SWE 11Got KomTor JanGat         #2024
+
+SWE 10Sto Hju VasSko            #2024
+SWE 10Sto Friplan TCen          #2024
+SWE 11Sto Aka KunGar            #2024
+SWE 12Sto Noc Alv               #2024
+SWE 13Sto Rop Nor               #2024
+SWE 14Sto Fru MorCen            #2024
+SWE 17Sto TCen SkaNack          #2024
+SWE 18Sto GamStan FarStr        #2024
+SWE 19Sto HasStr Hag            #2024
+SWE 27Sto StoOst Kar            #2024
+SWE 28Sto DjuOsby Ost           #2024
+SWE 29Sto DjuOsby NasPark       #2024
+SWE 30Sto SolSta Sic            #2024
+SWE 41Sto Mar StoCity           #2024
+SWE 43Sto Bal NynHamn           #2024
 
 TUR M1A Mer Yenk                #2022, via Merter - Kartaltepe (Otogar) - Yenikapi
 TUR M1B Kir BagMey              #2022, Kirazli Bagcilar - Bagcilar Meydan

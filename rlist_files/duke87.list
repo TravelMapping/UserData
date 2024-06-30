@@ -1,3 +1,7 @@
+########-INTERCITY RAIL LINES-########
+DE AE Wil NY AE PennSta
+
+
 ########-COMMUTER RAIL LINES-########
 NY PortWasBra PennSta PortWas
 NY RonBra PennSta Jam
@@ -88,7 +92,7 @@ PA BlueLn Gat SouHilJct
 
 OH RedLn Bro TriCCamDis
 
-#MI Detroit not yet drafted
+MI DetPeoMov Mic_S Mic_N
 
 IL BroLn Bel Loop
 IL GreLn ClaLake 35thBro
@@ -100,7 +104,7 @@ IL SkoSwi DemSko How
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN HubTram Ter1 HubBui
 
-#MO St Louis not yet drafted
+MO MLBlueLn Uni ConCen
 
 #--------SOUTH CITIES--------
 GA RedLn Air NorSpr
@@ -115,11 +119,12 @@ FL MiaM MIA IntCen
 
 FL ResMon TraTicCen_1 TraTicCen_2
 
-#TN Memphis not yet drafted
+TN MainStTro But Mad
 
 TX GreLn NCarFra Buc
 TX OraLn DFWAir PeaArtsDis
 TX RedLn Wes PeaArtsDis
+TX DalStr BisArts Uni
 
 TX PurLnHou TheDis PalmCenTC
 
@@ -129,10 +134,13 @@ AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
 
-#WA Seattle not yet drafted
+WA 1 SeaTacAir UniWas
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn 5thJac BroTer
+WA SouLakeUniLn FaiCamDr WesHub
 
 CA BARTRed Col CivCen
-CA MuniN 2nd Pow
+CA MuniN 2nd PowSt
 CA AirTrnBlue RenCarCen Loop
 
 CA B NHol UniSta
@@ -146,8 +154,20 @@ CA BlueLn CivCen OldTownTC
 ON 1 SheW Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
+ON 501 BrocAve YonSt
+ON 504a SpeAve YonSt
 
 QC GreLn Ang HonBea
 QC OraLn CoteVer Mon
 QC YelLn BerUQAM LonUniDeShe
 QC BluLn Sno SaiMic
+
+
+########-EUROPE RAPID TRANSIT LINES-########
+ITA-LAZ MA Bat Ana
+ITA-LAZ MB Reb Lau
+ITA-LAZ MB1 Jon Lau
+ITA-LAZ MC SanGio MonComPan
+
+ITA-LOM M1Bis Bis Duo
+ITA-LOM M3 Duo PorRom

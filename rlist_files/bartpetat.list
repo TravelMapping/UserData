@@ -73,9 +73,10 @@ NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
 
+NLD 50Ams Isl Gein
 NLD 51Ams CenSta StaRAI
 NLD 52Ams Noo StaZuid
-NLD 53Ams CenSta +DIV_5054
+NLD 53Ams CenSta Gaa
 NLD 54Ams CenSta StaBijAre
 
 NLD A VlaWest Ale
@@ -90,7 +91,7 @@ NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
-NLD 25Ams Par Wes
+NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
 NLD 1Haa ZwaPad StaDel
@@ -141,7 +142,7 @@ DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 
-DEU-BE U1 KurFurDamm SchTor
+DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf UntLin
@@ -179,6 +180,8 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
+DEU-NW HB211 TecZen EicHof
+DEU-NW HB212 CamNord CamSud
 
 DEU-NW RE18 NLD/DEU AacHbf
 
@@ -277,14 +280,20 @@ FRA-HDF ParAms IDF/HDF +DIV_Lil2
 
 #IDF
 FRA-IDF A RueMal ChaHal
+FRA-IDF B GareNord ChaHal
 FRA-IDF C IssyValSei GareAus
+FRA-IDF E HauStLaz Mag
 FRA-IDF LonPar HDF/IDF ParGareNord
 
 #Paris Metro / Sub-urban
 FRA-IDF N ParMon Cla
+FRA-IDF M1 GeoV PalRoyMusLou
 FRA-IDF M2 ChaGauEto Nat
+FRA-IDF M5 Lau GareAus
 FRA-IDF M6 ChaGauEto QuaiGare
+FRA-IDF M7 GareEst Jus
 FRA-IDF M9 PontSev Mue
+FRA-IDF M12 StLaz Abb
 
 FRA-IDF T2 Bri IssyValSei
 
@@ -360,8 +369,16 @@ IL BroLn Chi AdaWab
 JPN TokaidoShin Tokyo Kyoto
 
 # Metro
+#Tokyo
 JPN YurikamomeLn U01 U07
+JPN HanzomonLn Z13 Z14
+JPN ChuoSobuLn JB10 JB22
+JPN GinzaLn G01 G08
+JPN YamanoteLn JY01 JY17
+JPN TokTozaiLn T03 T04
 
+#Kyoto
+JPN KarasumaLn K09 K11
 
 # HONG KONG
 #HK Tramways
@@ -380,9 +397,9 @@ HKG 507 TuenMunFryPier SuiLun
 HKG 614 PuiTo +DIV_751/761
 HKG 615 TuenMunFryPier YuenLong
 HKG 705 TinShuiWai_A WetPark
+HKG 706 TinYat TinSau
 HKG 751 TownCen_A TinYat
 HKG 761p TinYat YuenLong
-
 
 #HK MTR
 HKG AirExp HongKong AsiaWorExpo
