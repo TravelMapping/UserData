@@ -1,4 +1,4 @@
-# Date: 2024-06-26
+# Date: 2024-06-29
 # ----------------
 
 ######################
@@ -108,6 +108,7 @@ DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
 #DEU-BW  Heilbronn Hbf                DEU-BW  Ludwigsburg           #2024, MEX12
+DEU-BW RS21 UlmHbf Bib                                              #2024, RS21
 
 DEU-NW S1 DortMundDorFeld BocHbf                                    #2022 via Oespel, Langendreer
 DEU-NW S1 MulHeimHbf DuisBurgHbf
@@ -715,7 +716,7 @@ SRB 14Beo Ust Ban               #2023
 
 SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar
 SWE 3Got BruPar SolGat          #2024
-SWE 4Got AngCen CenSta          #2024
+SWE 4Got AngCen Val             #2024
 SWE 5Got VarGat KunPla          #2024
 SWE 5Got Val OstSju             #2024
 SWE 6Got VarGat AprGat          #2024
