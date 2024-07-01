@@ -12,8 +12,8 @@ AK GlaDis Por_S +DIV_Por_C
 
 #CA BART
 CA BARTBlue DalyCity CasVal
-CA BARTGre DalyCity +DIV_BLUE
-CA BARTOra +DIV_BLUE Ric
+CA BARTGre DalyCity Fre
+CA BARTOra Fre Ric
 CA BARTRed SanFraAir Ric
 CA BARTYel SanFraAir Con
 
@@ -33,7 +33,11 @@ CO DurSilNGR Dur Sil
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+MO MLRedLn LamAirTer1 LacLan
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
 NJ NECorLn NY/NJ NewLibAir
+NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
 NY S42 TimSq GraCen
@@ -76,15 +80,17 @@ NY AirTrnJam Jam Loop
 TX IAHSub TerA TerC
 
 #Washington Metro
-DC BluLn VA/DC LEnfPla
-DC RedLn MD/DC MetCen
+DC BluLn VA/DC FedCenSW
+DC GreLn Wat GalPla
+DC OraLn VA/DC FedCenSW
+DC RedLn MD/DC GalPla
+DC SilLn VA/DC FedCenSW
 DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
 
 BC ExpoLn Wat MainStSciWor
-
 
 AUS-NSW CCN Cen Gos
 AUS-NSW T1 Cha +DIV_38
@@ -93,17 +99,21 @@ AUS-NSW T3 +DIV_LpA +DIV_4S
 AUS-NSW T4 BonJct Cro
 AUS-NSW T4Wat BonJct +DIV_Cro
 
-ENG GatEx LonVic Bri
-ENG HEx LonPad HeaTer5
 ENG LonPar LonStPanInt GBR/FRA
+ENG HEx LonPad HeaTer5
+ENG GatEx LonVic Bri
+ENG EliLn +DIV_Air BondSt
 
 #London Underground
 ENG BakLn KilPark EleCas
+ENG CenLn MarArch Bank
 ENG CirLn EdgRd_1 Vic
 ENG CirLn Pad_2 EdgRd_2
 ENG HaCLn RoyOak SteGre
-ENG JubLn Wes CanWha
+ENG JubLn BakSt Wes
+ENG NorLnBat Eus Wat
 ENG NorLn Eus EleCas
+ENG NorLnEdg MorCre Wat
 ENG PicLnHT4 HeaTer23 KXSP
 ENG VicLn KXSP Vic
 #Docklands Light Railway
@@ -118,5 +128,6 @@ FRA-IDF C ChaMarsTourEif StMicNotDame
 FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
+FRA-IDF M9 StPhiRou StrStDen
 
 SCT HMLEdi EdiWav Sti

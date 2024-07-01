@@ -1,0 +1,244 @@
+AZ SW CA/AZ AZ/NM
+
+CA BARTBlue DalyCity DubPle
+CA BARTGre DalyCity Ber
+CA BARTOra Ber Ric
+CA BARTRed Mil Ric
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
+CA OAKAir OakIntAir Col
+CA AirTrnRed GarG/BART_S Ter3
+CA CS UniSta Eme
+CA CZ Eme CA/NV
+CA PS SanFeDep UniSta
+CA SW UniSta CA/AZ
+CA VTABlue SanTer Bay
+CA VTAGre Win OldIro
+CA VTAOra DtnMouView AlumRock
+CA BlueLn SanYsiTC OldTownTC
+CA GreLn 12thImpTC SanTownCen
+CA OraLn Cou 12thImpTC
+CA B NHol UniSta
+CA D WilVes UniSta
+CA A Com 7thStMetCen
+CA C AviLAX Nor
+CA E CulCity 7thStMetCen
+CA Coa SanFeDep Oce
+CA OraCouLn NorSanFeSpr Oce
+CA MuniJ BalPark Emb
+CA MuniK BalPark Emb
+CA MuniT Sun ChiRosePark
+CA MuniN LaPla 4thKing
+
+CO CZ UT/CO CO/NE
+CO SW NM/CO CO/KS
+
+DC CA VA/DC DC/MD
+DC CL MD/DC WasUniSta
+DC NENew VA/DC DC/MD
+DC BluLn VA/DC DC/MD
+DC GreLn MD/DC DC/MD
+DC OraLn VA/DC DC/MD
+DC RedLn MD/DC DC/MD
+DC SilLn VA/DC DC/MD
+DC YelLn VA/DC MtVerSq
+
+DE CA MD/DE DE/PA
+DE NENew MD/DE DE/PA
+DE WilNewLn DE/PA Wil
+
+FL TriRail DelBea MiaAir
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+FL BriLp FinDis Loop
+FL InnLp GovCen_N GovCen_S
+FL OmniLp SchBoa Loop
+
+IA CZ NE/IL IA/IL
+IA SW MO/IA IA/IL
+
+IL IZ Mac UniSta
+IL CA UniSta IL/IN
+IL CL UniSta IL/IN
+IL CZ IA/IL UniSta
+IL SW IA/IL Gal
+IL LSNew UniSta IL/IN
+IL BlueLn Ros ForPk
+IL BroLn Kim Loop
+IL GreLn HarLake Ash63rd
+IL GreLnE63 HarLake CotGro
+IL OraLn Pul Loop
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn 95thDanRyan How
+IL SkoSwi DemSko How
+IL ME MilSta 211thStLinHwy
+IL UPN OglTraCen IL/WI
+IL BNSF Nap UniSta
+IL AirTraSys Ter1 MulModFac
+IL SouShoLn Heg MilSta
+IL MLRedLn MO/IL ShiSco
+
+IN CA IL/IN IN/OH
+IN CL IL/IN IN/OH
+IN LSNew IL/IN IN/OH
+
+KS SW CO/KS KS/MO
+
+KY CA OH/KY KY/WV
+
+MA LSBos NY/MA BosSou
+MA BluLn WonBow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA RedLnM Ash Mat
+MA GreLnE HeathSt Lec
+MA GreLnB BosCol GovCen
+MA GreLnD Riv Lec
+
+MD MetSub OwiMil JohHopHos
+MD BLRL CamYds NorAve
+MD BluLn DC/MD DowLar
+MD GreLn DC/MD Gre
+MD GreLnSui BraAve MD/DC
+MD OraLn DC/MD NewCar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Gle
+MD SilLn DC/MD LarTownCen
+MD CA DC/MD MD/DE
+MD CL WV/MD MD/DC
+MD CLPaw WV/MD MD/WV
+MD CLCum PA/MD MD/WV
+MD NENew DC/MD MD/DE
+
+MN BlueLine MallofAmerica TargetFieldPlatform1
+
+MO SW KS/MO MO/IA
+MO MLBlueLn ShrLanI44
+MO MLRedLn USML_Nor MO/IL
+
+NE CZ CO/NE NE/IA
+
+NJ AtlCityLn Pen AtlCity
+NJ BerCouLn Hob NJ/NY
+NJ GlaBra Hob Gla
+NJ MainLn Hob NJ/NY
+NJ MonBooLn NY/NJ Hac
+NJ MorEssLn NY/NJ Hac
+NJ NECorLn NY/NJ Tre
+NJ NECorLnPri PriJct Pri
+NJ NJerCoaLn NY/NJ BayHead
+NJ PasVlyLn Hob NJ/NY
+NJ RarVlyLn NewPenn HighBri
+NJ TreLn PA/NJ Tre
+NJ PortJerLn Hob NJ/NY
+NJ NLRCS PennSta GroSt
+NJ RivLn WalRandTC Tre
+NJ NLRBSE PennSta BroadStSta
+NJ HBLR8HT 8thSt HobTer
+NJ HBLRWST WestSideAve TonAve
+NJ AirTrn NewLibAir TerB
+NJ PATCO PA/NJ Lin
+NJ PATHH33 Hob NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHJ33 Jousq NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+NJ CA PA/NJ Tre
+NJ NENew PA/NJ NewBru
+
+NM SW AZ/NM NM/CO
+
+NV CZ CA/NV NV/UT
+
+NY BMR ErieCanHar Uni
+NY RIT Man RooIsl
+NY PortJerLn NJ/NY PortJer
+NY HudLn GraCen Pou
+NY HarLn GraCen GolBri 
+NY SIR StGeo Tot
+NY BerCouLn NJ/NY Suf
+NY MainLn NJ/NY Suf
+NY MonBooLn PennSta NY/NJ
+NY MorEssLn PennSta NY/NJ
+NY NECorLn PennSta NY/NJ 
+NY NJerCoaLn PennSta NY/NJ 
+NY PasVlyLn NJ/NY SprVly
+NY PortWasBra PennSta Bay
+NY RonBra PennSta Wya
+NY BabBra PennSta Bab
+NY PortJefBra PennSta KinPark
+NY S42 TimSq GraCen
+NY 1 VanCorPk SouFry
+NY 2 Wak241St FlaAveBroCol
+NY 3 Har148St NewLotsAve
+NY 4 Woo CroHeiUtiAve
+NY 5 EasDyreAve FlaAveBroCol
+NY 6 PelBayPk BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A 207StInw FarRocMottAve
+NY AOzo 207StInw OzoPkLefBlvd
+NY B 145St BriBea
+NY C 168St EucAve
+NY D Nor205St ConIslStiAve
+NY E JamCenParArc WTC
+NY F Jam179St ConIslStiAve
+NY G CouSq ChuAve
+NY SRoc BroCha RocParkBea116St
+NY J BroSt JamCenParArc
+NY L 8Ave CanRocPkwy
+NY M MidVilMetAve ForHil71Ave
+NY N AstDitBlvd ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R ForHil71Ave BayRid95St
+NY SPro FraAve ProPk
+NY W AstDitBlvd WhiStSFry
+NY PATHH33 NJ/NY 33St
+NY PATHHWT NJ/NY WTC
+NY PATHJ33 NJ/NY 33St
+NY PATHNWT NJ/NY WTC
+NY LSBos BufDep NY/MA
+NY LSNew PA/NY PennSta
+
+OH RedLn Air StoWin
+OH BlueLn SHar WarVanAken
+OH GreLn SHar GreRd
+OH CA IN/OH OH/KY
+OH CL IN/OH OH/PA
+OH LSNew IN/OH OH/PA
+
+
+ON 1 VauMetCen Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+
+PA TreLn Phi30thSt PA/NJ
+PA WilNewLn DE/PA Phi30thSt
+PA BroRidSpr 8thMar FernRock
+PA BroStLn NRG FernRock
+PA MarFraLn 69th Fra
+PA NorLn Bri Nor
+PA PATCO 15th16thLoc PA/NJ
+PA BlueLn All FirAve
+PA NENew DE/PA PA/NJ
+PA LSNew OH/PA PA/NY
+PA CA DE/PA PA/NJ
+
+TX GreLn NCarFra WEnd
+
+UT CZ NV/UT UT/CO
+
+VA BluLn FraSpr VA/DC
+VA OraLn VieFaiGMU VA/DC
+VA SilLn WieResE VA/DC
+VA YelLn Hun VA/DC
+VA CA WV/VA VA/DC
+
+WA 1 UniWas AngLake
+
+WI UPN IL/WI Ken
+
+WV MorPRT Wal Med
+WV CA KY/WV WV/VA
+WV CL MD/WV WV/MD
+WV CLPaw MD/WV WV/MD
