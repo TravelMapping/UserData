@@ -1,0 +1,354 @@
+#M3200_Rail_List
+
+#AL
+
+AL CR MS/AL AL/GA
+
+#AK
+
+AK CoaCla Anc Sew
+AK GlaDis Anc Whi
+AK DenStar Den Fai
+AK AurWin Anc Fai
+
+#AZ
+
+AZ PHX T3 44thSt
+AZ SL CA/AZ Yuma
+AZ SL Ben AZ/NM
+AZ SW CA/AZ Fla
+AZ VMR 19thAveDun GilRdMainSt
+
+#CA
+
+CA A Loop APUCitCol
+CA AntVlyLn UniSta Lan
+CA Arr SanBerDow RedUni
+CA B Nhol UniSta
+CA BARTGre Emb Fre
+CA BARTRed SanFraAir 12thStOak
+CA BlueLn SanYsiTC UTCTC
+CA C RedBea Nor
+CA CC SanJoseDir SacVlySta
+CA CS UniSta SacVlySta
+CA CZ Eme CA/NV
+CA D WilWes UniSta
+CA E DowSanMon 7thStMetCen
+CA E *OldGoldLn Atl
+CA GreLn SanFeDep SanTownCen
+CA InlEmpLn SanAna SanBerDep
+CA CT Tam SanFraKing
+CA MuniF 4thSto Bea
+CA MuniL Waw VanNess
+CA MuniN LaPla 4thKing
+CA MuniT Sun King
+CA OraCouLn UniSta Oce
+CA OraLn Cou ArnAve
+CA PerVlyLn RivDow PerS
+CA PS SanFeDep SanLuisObi
+CA RivLn UniSta RivDow
+CA SanBerLn UniSta SanBerDow
+CA SJOak Bak OakJackLonSq
+CA SJSac Bak SacVlySta
+CA SL UniSta CA/AZ
+CA SMART SanRafDT SonCtyApt
+CA Spr Oce EscTC
+CA SRTBlue ConRivCol Watt80
+CA SRTGold Sac ValSta HisFol
+CA SW UniSta CA/AZ
+CA VenCouLn UniSta Cha
+CA VTABlue SanTer Bay
+CA VTAGre Win CivCen
+CA VTAOra DtnMouView AlumRock
+
+#CO
+
+CO Aln UniSta DenAir
+CO BLn UniSta Wes
+CO BroManPikPeakCR Man PikPeak
+CO CumTolSR NM/CO Osi
+CO CZ UT/CO UniSta
+CO DLn LitMin Loop
+CO DurSilNGR Dur Sil
+CO Eln Lin UniSta
+CO GeoLoopRai DevGat SilPlu
+CO GLn UniSta WheRidWardRd
+CO LeaRai Lea FrePass
+CO PlaValTro ConParkREI EmpFieMileHigh
+CO RLn Lin Peo
+CO RoyGorRou CanCity Par
+CO WLn JefCouGovCenGol UniSta
+
+#CT
+
+CT AE NY/CA Sta
+CT EssSteTrn Ess DeepRivLan
+
+#DE
+
+DE AE MD/DE DE/PA
+DE CR MD/DE DE/PA
+
+#DC
+
+DC AE WasUniSta DC/MD
+DC BluLn VA/DC DC/MD
+DC CamLn WasUniSta DC/MD
+DC CL MD/DC WasUniSta
+DC CR VA/DC DC/MD
+DC DCSC UniSta OklAve
+DC FreLn VA/DC WasUniSta
+DC ManLn VA/DC WasUniSta
+DC OraLn VA/DC DC/MD
+DC PennLn WasUniSta DC/MD
+DC RedLn MetCen DC/MD
+DC YelLn VA/DC Arc
+
+#FL
+
+FL SS Tam WinPark
+FL SunRail DeBary SandLakeRd
+FL TECO DowTam CenPark
+
+#GA
+
+GA CR AL/GA GA/SC
+GA RedLn Air ArtsCen
+
+#IL
+
+IL BlueLn Oha Cic
+IL CL UniSta IL/IN
+IL HI UniSta IL/WI
+IL SouShoLn IN/IL MilSta
+IL WV UniSta IL/IN
+
+#IN
+
+IN CL IL/IN IN/OH
+IN SouShoLn Ham IL/IN
+IN WV LI/LN LN/MI
+
+#LA
+
+LA CR NewOrl LA/MA
+
+#ME
+
+ME DE NH/ME Por
+
+#MD
+
+MD AE DC/MD MD/DE
+MD BLRLBWI BWIAir HuntVly
+MD BLRLPen CamYds PennSta
+MD BluLn DC/MD DowLar
+MD CamLn DC/MD BalCam
+MD CL WV/MD MD/DC
+MD CLCum Cum MD/WV
+MD CLPaw WV/MD MD/WV
+ND CR DC/MD MD/DE
+MD OraLn DC/MD NewCar
+MD PennLn DC/MD BWIAir
+MD RedLn ShaGro MD/DC
+
+#MA
+
+MA BluLn Won Bow
+MA CapeFly BosSou Hya
+MA DE BosNor MA/NH
+MA FitLn BosNor Fit
+MA GreLnD Riv Lec
+MA GreLnE MusFineArts ParkSt
+MA HavLnWil BosNor Hav
+MA LowLn BosNor Low
+MA NeeLn NeeHei BosSou
+MA NewLn BosNor New
+MA OraLn TufMedCen NorSta
+MA ProLn RI/MA BosSou
+MA RedLn Ash Ale
+MA RedLnBra Bra CenSq
+MA WorLn Fra BosSou
+
+#MI
+
+MI WV IN/MI NewBuf
+
+#MS
+
+MS CR LA/MS MS/AL
+
+#NC
+
+NC CR SC/NC NC/VA
+
+#NV
+
+NV CZ CA/NV NV/UT
+NV LVM MGMGra SLS
+NV VirTruRR GoldHill VirCity
+
+#NH
+
+NH DE MA/NH NH/ME
+
+#NJ
+
+NJ AE PA/NJ NJ/NY
+NJ AirTrn NewLibAir TerC
+NJ AtlCityLn PA/NJ Atl City
+NJ CR PA/NJ NewPenn
+NJ MainLn SecJct NJ/NY
+NJ NECorLn NY/NJ NewLibAir
+NJ PATCO PA/NJ Lin
+NJ PortJerLn SecJct NJ/NY
+NJ NJerCoaLn NY/NJ AshPark
+
+#NM
+
+NM CumTolSR Cha NM/CO
+NM RaiRun Alb SanFe
+NM SkyRai SanFe Lamy
+NM SL AZ/NM Lor
+
+#NY
+
+NY AE NJ/NY NY/CT
+NY AirTrnJam Jam T4
+NY ES Pou PennSta
+NY HudLn GraCen Pou
+NY NECorLn PennSta NY/NJ
+NY MainLn NY/NJ Suf
+NY RonBra Jam Min
+NY PortJerLn NY/NJ MidTwonWal
+
+#OH
+
+OH CL IN/OH OH/PA
+
+#OK
+
+OK HF TX/OK OklCity
+
+#OR
+
+OR AC PorUniSta OR/WA
+OR BlueLn HatGovCen OldTownChi
+OR EBPor PorUniSta OR/WA
+OR RedLn WasPark PorIntAir
+OR WilShoTro LakeOsw End
+
+#PA
+
+PA AE DE/PA PA/NJ
+PA AirLn PHL TerB Phi30thSt
+PA AtlCityLn Phi30thSt PA/NJ
+PA BlueLn All WasJct
+PA CHELn Phi30thSt CheHillE
+PA CHWLn Phi30thSt CheHillW
+PA CR DE/PA PA/NJ
+PA KS Har Phi30thSt
+PA ManNorLn Phi30thSt ElmSt
+PA MarFraLn 69th 15th
+PA NorLn 69th Nor
+PA PA PitUni Har
+PA PaoThoLn Pao Phi30thSt
+PA PATCO 15th16thLoc PA/NJ
+PA RedLn All WasJct
+PA StrRR Str LeaPl
+
+#RI
+
+RI ProLn TFGAir RA/MA
+
+#SC
+
+SC CR GA/SC SC/NC
+
+#TN
+
+TN LooMouIR StElmo PoiPark
+TN Star Riv Leb
+
+#TX
+
+TX BlueLn Moc DowGar
+TX GreLn NCarFra MLK
+TX HF FortWorCen TX/OK
+TX OraLn DFWAir LBJCen
+TX RedLn ParkLn ParRd
+TX TEXRail FortWorTP GraMainSt
+TX TriRaiExp FortWorTP DalUni
+
+#UT
+
+UT BlueLn DraTownCen SaltLakeCen
+UT CZ NV/UT UT/CO
+UT FroRun ProCen Ogd
+UT GreLn WestValCen Air
+UT RedLn DayPkwy UniMedCen
+UT SLn CenPoi Fai
+
+#VA
+
+VA BluLn FraSpr VA/DC
+VA CA Sta Man
+VA CN Pet Ale
+VA CR NC/VA AN/DC
+VA FreLn FraSpr VA/DC
+VA ManLn Man VA/DC
+VA NENew NewNews Ale
+VA NERoa Cha Ale
+VA OraLn VieFaiGMU VA/DC
+VA SilLn TysCor Ros
+VA YelLn Hun VA/DC
+
+#WA
+
+WA AC OR/WA Tuk
+WA EBPor OR/WA Spo
+
+#WV
+
+WV CL MD/WV WV/MD
+WV CLPaw MD/WV WV/MD
+
+#WI
+
+WI HI IL/WI Mil
+WI HopMLn Int BurCom
+
+#AUSTRALIA
+
+AUS-NSW T8 CirQuay IntAir
+AUS-SA GLNELG MosSqu VicSq
+
+#CANADA
+
+AB JasPriRup Jas AB/BC
+BC JasPriRup AB/BC PriGeo
+
+#ENGLAND
+
+ENG AirLn ManPic ManAir
+ENG ECMLEdi York ENG/SCT
+ENG HarLn Har York
+ENG PicLnHT4 HeaTer23 CovGar
+ENG SEML ChaCro Sta
+ENG TPNRtePic ManPic Gre
+ENG HamCouLn LonWat HamCou
+
+#IRELAND
+
+IRL CortInt DubHeu LimJct
+IRL LimInt LimJct LimCol
+IRL GrnLn Dom Daw
+
+#SCOTLAND
+
+SCT ECMLEdi ENG/SCT EdiWav
+SCT FarNorLn Inv Thu
+SCT KyleLn Din KyleLoc
+SCT StrRwy Avi Bro
+SCT WestHigLnFor FortWil Mal
+SCT NorClyLnHel GlaQueSt EdiWav
