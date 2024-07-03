@@ -11,6 +11,7 @@ IL PurLn How Lin
 IL RedLn Gar How
 IL SkoSwi DemSko How
 MA RedLn JFK Har
+MI DetPeoMov Mic_S Mic_N
 NJ PATCO PA/NJ Wes
 NY 1 116StColUni TimSq42St
 NY 6 GraCen 86thSt
@@ -40,6 +41,7 @@ TX RedLnHou FanS Pre
 
 # Streetcars
 FL TECO DickGrePla CenYbor
+MI QLn GraBlvd ConSt
 WI HopMLn Int BurCom
 WI KenStr 11thAve54thSt_S 11thAve54thSt_N
 
