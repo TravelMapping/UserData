@@ -4,6 +4,10 @@ CO ALn UniSta Peo
 CO ELn Bel UniSta
 CO RLn Bel Peo
 
+#Connecticut
+
+CT NESpr NY/CT Bri
+
 #DC
 
 DC FreLn VA/DC WasUniSta
@@ -71,6 +75,13 @@ MI DetPeoMov Mic_S Mic_N
 #Nebraska
 
 NE CZ Lin NE/IL
+
+#New York
+
+NY NESpr PennSta NY/CT
+
+NY A +SKIP_81StMusNH +SKIP_WTC
+NY C 34StPennSta HighSt
 
 #Virginia
 
