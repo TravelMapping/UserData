@@ -135,6 +135,7 @@ ON 2 Kip Ken
 ON 4 SheYon DonMil
 ON KT Blo Uni
 ON LE Uni Pic
+ON LW Uni ExhLp
 ON 501 JohnSt YonSt
 ON 506 AugAve Col
 ON 509 BilBisAir SpaAve
@@ -152,3 +153,43 @@ QC MainLn GarCen Bro
 ON OttQue Ott QC OttQue +DIV_Mon_W
 QC OttQue Mon QC OttQue +DIV_Mon_E
 QC OttQue Cha QC OttQue +DIV_Cha
+
+ENG BakLn OxfCir EleCas
+ENG CenLn OxfCir MileEnd
+ENG CirLn LivSt Wes
+ENG DisLn Wes AldEast
+ENG HaCLn KXSP AldEast
+ENG JubLn GrePark WestHam
+ENG MetLn GrePorSt Moo
+ENG NorLn KXSP EleCas
+ENG PicLn HeaTer5 KXSP
+ENG VicLn WalCen Vau
+ENG WaCLn Wat Bank
+ENG DLRRoy Sha RoyVic
+ENG DLRWoo Bank +DIV_Bec
+ENG WeaLn LivSt BruGro
+
+DEU-NW HB211 TecZen CamSud
+DEU-NW SkyTrn FernBf TerC
+DEU-NW WupSch WupTalHbf OberBarBf
+DEU-NW SkyTrn FernBf TerC
+DEU-NW U41 FreBaum StaGar
+DEU-NW S1 DusDorfFlugHaf DortMundHbf
+DEU-NW S5 DortMundHbf HagHbf
+DEU-NW S8 HagHbf WupTalHbf
+
+DEU-BE U1 HalTor WarStr
+DEU-BE U2 StaMit AlePla
+DEU-BE U5 Hbf BraBurTor
+DEU-BE U5 AlePla FraFurAll
+DEU-BE U6 StaMit HalTor
+DEU-BE U7 RatHausSpa JunHei
+DEU-BE U7 HerPla NeuKol
+DEU-BE U8 AlePla HerStr
+DEU-BE 60Ber SteDammKonHeidWeg_2 SSchWeiSteDamm
+DEU-BE S2 FriStr SudKre
+DEU-BE S3 OlySta AlePla #S75
+DEU-BE S7 WestKre OstKre
+DEU-BE S41 WestKre_N WestKre_S
+DEU-BE S42 OstKre_N OstKre_S
+DEU-BE S46 HerStr SchWei

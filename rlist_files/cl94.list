@@ -34,7 +34,7 @@ DC GreLn MD/DC DC/MD
 DC OraLn VA/DC DC/MD
 DC RedLn MD/DC DC/MD
 DC SilLn VA/DC DC/MD
-DC YelLn VA/DC DC/MD
+DC YelLn VA/DC MtVerSq
 
 DE AE MD/DE DE/PA
 
@@ -44,7 +44,7 @@ MA OraLn BackBay NorSta
 MA RedLn Ash Ale
 MA RedLnM Ash Mat
 
-MD AE DC/MD MD/PA
+MD AE DC/MD MD/DE
 
 MD PennLn DC/MD BWIAir
 MD BluLn DC/MD DowLar
@@ -60,7 +60,7 @@ MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
 MN HubTram Ter1 HubBui
 
-NJ AE PA/NJ NY/NY
+NJ AE PA/NJ NJ/NY
 
 NJ HBLR8HT LibSP HobTer
 NJ HBLRHTT HobTer TonAve
@@ -75,7 +75,7 @@ NV AE ParkMGM Bel
 NV LVM MGMGra SLS
 NV MTI Mir TreIsl
 
-NY AD FortEdwGleFal PennSta
+NY AD FortEdw PennSta
 NY AE NJ/NY PennSta
 NY ES BufDep PennSta
 
@@ -123,6 +123,7 @@ ON 4 SheYon DonMil
 ON 501 SpaAve NevPkBlvd
 ON 503 ChuSt_1 KinRd
 ON 505 DunW YonSt
+ON 509 ExhLp UniSta
 
 PA AE DE/PA PA/NJ
 PA StrRR Str LeaPl

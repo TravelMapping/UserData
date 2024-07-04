@@ -34,6 +34,8 @@ FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
 MO MLRedLn LamAirTer1 LacLan
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
 NJ NECorLn NY/NJ NewLibAir
 NY NJerCoaLn PennSta NY/NJ
 
@@ -78,14 +80,17 @@ NY AirTrnJam Jam Loop
 TX IAHSub TerA TerC
 
 #Washington Metro
-DC BluLn VA/DC LEnfPla
-DC RedLn MD/DC MetCen
+DC BluLn VA/DC FedCenSW
+DC GreLn Wat GalPla
+DC OraLn VA/DC FedCenSW
+DC RedLn MD/DC GalPla
+DC SilLn VA/DC FedCenSW
+DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
 
 BC ExpoLn Wat MainStSciWor
-
 
 AUS-NSW CCN Cen Gos
 AUS-NSW T1 Cha +DIV_38
