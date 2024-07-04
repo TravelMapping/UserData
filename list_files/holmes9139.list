@@ -1,0 +1,23 @@
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Common Routes
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+## Random trips to Cleveland Airport
+OH I-70 244 239
+OH BerFwy I-71 I-480
+OH I-480 10 9
+
+## Rimrock Overlook
+
+OH OH2 EdgPark 175(90)
+OH I-90 174B PA I-90 24
+PA US19 I-90 PA97_S
+PA PA97 PA8_S PA PA97 US19_S # Does this need to be flipped?
+PA PA97 PA8_S PA PA97 US19_S
+PA PA59 US6_W OldStaRd
+
+
+
+
+
+
