@@ -1,14 +1,14 @@
-# Date: 2024-06-30
+# Date: 2024-07-05
 # ----------------
 
 
 # ALBANIA
 
-ALB A1 SH1_S ALB/RKS
+ALB A1 OldSH1 ALB/RKS
 ALB A2 SH4_Mbr SH8_Vlo
 ALB A3 SH3_Lun SH3_Bra
-ALB SH1 RruFerXha SH2
-ALB SH1 RruFerXha WestByp_S
+ALB SH1Tir RruFerXha Thu
+ALB SH1 A1 WestByp_S
 ALB SH1 RruDasShk ALB/MNE
 ALB SH2 SH1 SH85
 ALB SH3 A3_Bra SH7
