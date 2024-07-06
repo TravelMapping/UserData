@@ -9,6 +9,7 @@ if ( $#argv < 1 ) then
 endif
 
 set listdir=~/travelmapping/UserData/list_files
+set rlistdir=~/travelmapping/UserData/rlist_files
 
 # loop over all command line parameters
 foreach arg ( $* )
@@ -17,21 +18,30 @@ foreach arg ( $* )
     set username=`echo ${arg} | cut -d'.' -f1`
     if ( ${arg} == ${username}.list ) then
       set destfilename=${arg}
+      set dest=${listdir}
     else if ( ${arg} == ${username}.list.txt ) then
       set destfilename=${username}.list
+      set dest=${listdir}
     else if ( ${arg} == ${username}.txt ) then
       set destfilename=${username}.list
-    else 
+      set dest=${listdir}
+    else if ( ${arg} == ${username}.rlist ) then
+      set destfilename=${arg}
+      set dest=${rlistdir}
+    else if ( ${arg} == ${username}.rlist.txt ) then
+      set destfilename=${username}.rlist
+      set dest=${rlistdir}
+    else
       echo "Unexpected extension on ${arg}, aborting!"
       exit 1
     endif
 
-    echo "Moving ${arg} as ${destfilename}"
+    echo "Moving ${arg} as ${destfilename} to ${dest}"
     chmod 644 ${arg}
     if ( ! -f ${listdir}/${destfilename} ) then
       echo "NOTE: this appears to be a new user list file."
     endif
-    mv ${arg} ${listdir}/${destfilename}
+    mv ${arg} ${dest}/${destfilename}
   else
     echo "ERROR: no file ${arg}, ignoring"
   endif

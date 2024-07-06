@@ -19,7 +19,7 @@ CA BlueLn SanYsiTC OldTownTC
 CA GreLn 12thImpTC SanTownCen
 CA OraLn Cou 12thImpTC
 CA B NHol UniSta
-CA D WilVes UniSta
+CA D WilWes UniSta
 CA A Com 7thStMetCen
 CA C AviLAX Nor
 CA E CulCity 7thStMetCen
@@ -54,7 +54,7 @@ FL BriLp FinDis Loop
 FL InnLp GovCen_N GovCen_S
 FL OmniLp SchBoa Loop
 
-IA CZ NE/IL IA/IL
+IA CZ NE/IA IA/IL
 IA SW MO/IA IA/IL
 
 IL IZ Mac UniSta
@@ -88,7 +88,7 @@ KS SW CO/KS KS/MO
 KY CA OH/KY KY/WV
 
 MA LSBos NY/MA BosSou
-MA BluLn WonBow
+MA BluLn Won Bow
 MA OraLn ForHil OakGro
 MA RedLn Ash Ale
 MA RedLnBra Bra Ale
@@ -115,8 +115,8 @@ MD NENew DC/MD MD/DE
 MN BlueLine MallofAmerica TargetFieldPlatform1
 
 MO SW KS/MO MO/IA
-MO MLBlueLn ShrLanI44
-MO MLRedLn USML_Nor MO/IL
+MO MLBlueLn ShrLanI44 MO/IL
+MO MLRedLn UMSLNor MO/IL
 
 NE CZ CO/NE NE/IA
 
