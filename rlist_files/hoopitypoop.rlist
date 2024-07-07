@@ -19,5 +19,20 @@ IL UPNW OglTraCen Har
 IL UPW Gen OglTraCen
 IL RISub LaSSt BlueIsl
 IL SouShoLn IN/IL MilSta
+IL MLRedLn MO/IL ShiSco
 
 IN SouShoLn SouBendAir IN/IL
+IN CL IL/IN IN/OH
+IN LSBos IL/IN IN/OH
+IN LSNew IL/IN IN/OH
+
+MO MLRedLn Uni MO/IL
+
+NJ NJerCoaLn NY/NJ Rah
+
+NY NJerCoaLn PennSta NY/NJ
+
+OH CL IN/OH OH/PA
+
+PA CL OH/PA PitUni
+PA PA PitUni Alt
