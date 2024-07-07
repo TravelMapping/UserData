@@ -87,7 +87,7 @@ OR BlueLn BeaTraCen Hol42ndAve
 OR GreLn PSUSou RoseQuaTraCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen Hol42ndAve
-OR YelLn PSUSouCol DelParkVan
+OR YelLn PSUSouCol ExpoCen
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_S
 OR NSLn +DIV_Lov_S +DIV_Nor
