@@ -40,23 +40,31 @@ NJ NECorLn NY/NJ NewLibAir
 NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
-NY S42 TimSq GraCen
+
 NY 1 110StCatPkwy SouFry
 NY 2 CenPkN WallSt
 NY 3 CenPkN WallSt
 NY 4 161StYanSta BowGre
 NY 5 59St BowGre
-NY 6 59thSt BroBriCityHall
+NY 6 +DIV_4/5 BroBriCityHall
 NY 7 34StHudYar JacHeiRooAve
+NY A 145St HowBeaJFK
+NY AOzo 145St +DIV_A
+NY B 145St BriBea
+NY C 145St EucAve
 NY D 145St ConIslStiAve
 NY E SutBlvdArcAve WTC
-NY F JacHeiRooAve ConIslStiAve
+NY F +DIV_E ConIslStiAve
+NY G +DIV_A/C/F ChuAve
 NY L 8Ave 1Ave
-NY M 34StHerSq LexAve53St
+NY G +DIV_A/C/F ChuAve
 NY N +DIV_7_E ConIslStiAve
 NY R JacHeiRooAve 59St
 NY Q +DIV_F_N ConIslStiAve
+NY S42 TimSq GraCen
+NY W +DIV_7_E WhiStSFry
 NY SIR StGeo OldTown
+
 OH RedLn TowCity LitItaUniCir
 OR RedLn Cas PorIntAir
 OR RedLn PioSq LloCen11thAve

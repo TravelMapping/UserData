@@ -1,7 +1,7 @@
 listname;description;includeInRanks
 defaults;;1
-6lane.list;Marks all segments with 6 or more lanes;0
-futureinterstates.list;;0
+6lane;Marks all segments with 6 or more lanes;0
+futureinterstates;;0
 jt2015a3;Jim's 2015 A3 (2018-24);0
 jt2020;Jim in 2020;0
 jt2020q5;Jim's 2020 Q5 (2024-);0
@@ -9,4 +9,6 @@ jt2021;Jim in 2021;0
 jt2022;Jim in 2022;0
 jt2023;Jim in 2023;0
 jt2024;Jim in 2024;0
+michihpanda80;panda80's travels together with michih;0
+michihsi404;si404's travels together with michih;0
 terescoj;Jim's lifetime travels;1
