@@ -81,6 +81,9 @@ WA T TacDome 4thSt
 
 #US Airports
 AZ PHX RenCarCen T4
+CA AirTrnBlue RenCarCen +DIV_RedLn
+CA AirTrnBlue Ter3 Loop
+FL MiaM IntCen MIA
 GA SkyTrn Air RenCarCen
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
@@ -111,6 +114,7 @@ ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
 ENG GatEx LonVic Bri
 ENG EliLn +DIV_Air BondSt
+ENG LioLn Eus KilHighRd
 
 #London Underground
 ENG BakLn KilPark EleCas
