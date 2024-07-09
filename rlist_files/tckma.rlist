@@ -35,20 +35,21 @@ DE NENew DE/PA MD/DE
 MD NENew MD/DE DC/MD
 DC NENew DC/MD WasUniSta
 
-## TODO: BritRail.  All educated guessing here.
+## BritRail.  All educated guessing here.
 
 ## London to Cardiff 2002
 WLS SWalML CarCen ENG/WLS
 ENG SWalML ENG/WLS LonPad
 
 ## London to Stratford 2002
-## TODO
+ENG StrBra LeaSpa StrUponAvon
+ENG ChiML LeaSpa LonMar
 
 ## London to Dover 2002
 ENG HS1Dov LonStPanInt Dov
 
 ## Cambridge to London 2006
-## TODO
+ENG ThaLnkCam Cam StPanInt
 
 ## TODO: London Underground
 
