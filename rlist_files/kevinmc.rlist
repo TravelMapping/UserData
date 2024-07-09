@@ -1,3 +1,41 @@
+##########
+# CANADA #
+##########
+
+# 2011-03-17
+BC CanLn YalRou YVRAir
+
+# 2015-05-24
+ON 1 King Fin
+
+# 2023-02-18
+QC OraLn PlaDArm MonRoy
+QC GreLn LioGro PlaDesArt
+
+# 2023-02-19
+QC OraLn PlaDArm JeaTal
+QC GreLn SaiLau Viau
+
+# 2023-02-20
+QC YelLn BerUQAM JeaDra
+
+#########
+# ITALY #
+#########
+
+# 2018-05-25
+ITA-LAZ MB Ter Col
+
+#########
+# SPAIN #
+#########
+
+# TODO
+
+#######
+# USA #
+#######
+
 ###########
 # ARIZONA #
 ###########
@@ -122,6 +160,170 @@ CT NewHavLn NY/CT NHStaSt
 # 2012-05-16
 DC CamLn WasUniSta DC/MD
 
+# 2016-08-24
+DC SilLn FarW FedCenSW
+
+# 2022-08-12
+DC YelLn VA/DC GalPla
+DC RedLn GalPla MetCen
+
+# 2022-08-13
+DC RedLn WooPk DupCir
+
+###########
+# FLORIDA #
+###########
+
+# 2022-09-03
+FL ResMon TraTicCen_1 TraTicCen_2
+
+###########
+# GEORGIA #
+###########
+
+# 2014-04-14
+GA SkyTrn Air RenCarCen
+
+# 2015-01-04
+GA AtlStr KingHisDis DobPla_S
+
+# 2023-04-29
+GA BluLn CNNCen EdgCanPk
+
+# 2023-04-30
+GA RedLn FivePoi Buc
+GA GoldLn FivePoi Len
+
+############
+# ILLINOIS #
+############
+
+# 2009-12-19
+IL SW IA/IL UniSta
+
+# 2011-11-xx
+IL CL UniSta IL/IN
+
+# 2014-01-02
+IL SB Gal UniSta
+
+# 2014-01-03
+IL BlueLn OHa Monr
+
+# 2014-12-29
+IL CZ IA/IL UniSta
+IL HI UniSta IL/WI
+
+###########
+# INDIANA #
+###########
+
+# 2011-11-xx
+IN CL IL/IN IN/OH
+
+########
+# IOWA #
+########
+
+# 2009-12-19
+IA SW MO/IA IA/IL
+
+# 2012-12-24
+IA CZ NE/IA Ott
+
+# 2013-12-22
+IA CZ Ott IA/IL
+
+##########
+# KANSAS #
+##########
+
+# 2009-12-19
+KS SW CO/KS KS/MO
+
+############
+# MARYLAND #
+############
+
+# 2012-05-16
+MD CamLn DC/MD Lau
+
+############
+# MISSOURI #
+############
+
+# 2009-12-19
+MO SW KS/MO MO/IA
+
+############
+# NEBRASKA #
+############
+
+# 2012-12-24
+NE CZ CO/NE NE/IA
+
+##########
+# NEVADA #
+##########
+
+# 2012-12-22
+NV CZ CA/NV NV/UT
+
+# 2018-09-05
+NV LVM MGMGra SLS
+
+##############
+# NEW JERSEY #
+##############
+
+# 2007-12-xx
+NJ AirTrn NewLibAir TerA
+NJ NECorLn NewPenn NewLibAir
+NJ PATHNWT NewPenn NJ/NY
+
+# 2009-09-28
+NJ MeaRailLn SecJct Mea
+
+##############
+# NEW MEXICO #
+##############
+
+# 2009-12-18
+NM SW AZ/NM NM/CO
+
+############
+# NEW YORK #
+############
+
+# 2007-12-14
+NY PATHNWT NJ/NY WTC
+NY 1 116StColUni CorStWTC
+
+# 2008-02-28
+NY AirTrnJam Jam T8
+
+# 2009-07-04
+NY 2 96St ChaSt
+NY 1 ChaSt SouFry
+
+# 2009-07-05
+NY 1 168St 116StColUni
+NY A 190St 168St
+
+# 2017-05-26
+NY S42 TimSq GraCen
+NY NewHavLn GraCen NY/CT
+
+# 2017-12-31
+NY 6 59thSt 23rdSt
+NY 6 UniSq CanSt
+NY J CanSt ChaSt
+
+# TODO NYC subway
+
+# 2020-01-03
+NY RonBra PennSta Far
+
 ##################
 # NORTH CAROLINA #
 ##################
@@ -140,3 +342,46 @@ NC BluLn Car Par
 
 # 2023-11-11
 NC PI Cha Dur
+
+########
+# OHIO #
+########
+
+# 2011-11-xx
+OH CL IN/OH OH/PA
+
+################
+# PENNSYLVANIA #
+################
+
+# 2011-11-xx
+PA CL OH/PA PitUni
+
+########
+# UTAH #
+########
+
+# 2012-12-23
+UT CZ NV/UT UT/CO
+
+############
+# VIRGINIA #
+############
+
+# 2022-08-14
+VA BluLn RRWasNatAir VA/DC
+VA YelLn RRWasNatAir VA/DC
+
+#################
+# WEST VIRGINIA #
+#################
+
+# 2012-04-07
+WV MorPRT Eng Med
+
+#############
+# WISCONSIN #
+#############
+
+# 2014-12-29
+WI HI IL/WI Mil
