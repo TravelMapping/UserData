@@ -11,6 +11,7 @@
 # ----- Alaska ----- #
 # ----- Arizona ----- #
 
+AZ I-10 143A 152
 AZ I-17 194 341
 AZ I-40 165 233
 
@@ -63,6 +64,7 @@ IL I-64 MO/IL 3
 IL I-70 3 98
 IL I-70 119 IL/IN
 IL I-72 96 182
+IL I-74 93 IL/IN
 IL I-80 140 151
 IL I-88 117 136
 IL I-94 53B 63
@@ -353,12 +355,15 @@ KY US41AltNas KY1453 KY117
 SC US17BusMyr 38thAve US17_N
 SC US501BusMar SC41Alt_S SC576
 
-# ----- US STATE HIGHWAYS -----
+# ----------------------------- #
+# ----- US STATE HIGHWAYS ----- #
+# ----------------------------- #
 
 # ----- Alabama ----- #
 # ----- Alaska ----- #
 # ----- Arizona ----- #
 
+AZ AZ51 I-10 4
 AZ AZ64 I-40 US89
 AZ AZ89ASed DryCreRd I-40BL
 AZ AZ143 2 3
@@ -475,6 +480,9 @@ MD MD295 MD175 MD295 I-195
 # ----- Michigan ----- #
 # ----- Minnesota ----- #
 # ----- Mississippi ----- #
+
+MS MS302 US51 I-55
+
 # ----- Missouri ----- #
 # ----- Montana ----- #
 # ----- Nebraska ----- #
