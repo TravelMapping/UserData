@@ -1,0 +1,55 @@
+MA WorLn Wor BosSou
+MA LowLn BosNor Low
+MA RedLn Ale SouSta
+MA OraLn NorSta MasAve
+MA BluLn GovCen Aqu
+MA GreLnB WasSt ParkSt
+MA GreLnD Riv Lec
+
+PA ManNorLn Nor Man
+
+NY HarLn Bre GraCen
+NY RonBra Hic PennSta
+NY S42 TimSq GraCen
+NY 1 CorStWTC 116StColUni  # The 1/9 looks weird to me here
+NY N 14StUniSq TimSq42St   # This is a guess, definitely the N/R, I just don't remember where Paul's apartment was
+
+GA GoldLn Air PeaCen
+
+DC OraLn VA/DC EasMar    
+VA OraLn VA/DC WFallsChu 
+VA BluLn ArlCem Ros
+
+FL ResMon MagKin TraTicCen_2
+FL EpcMon TraTicCen EPCOT
+
+CA GreLn OldTownTC FasVly # Guessing.  I don't remember where the hotel was.
+
+MA NENew BosSou RI/MA
+RI NENew RI/MA CT/RI
+CT NENew CT/RI NY/CT
+NY NENew NY/CT NJ/NY
+NJ NENew NJ/NY PA/NJ
+PA NENew PA/NJ DE/PA
+DE NENew DE/PA MD/DE
+MD NENew MD/DE DC/MD
+DC NENew DC/MD WasUniSta
+
+## BritRail.  All educated guessing here.
+
+## London to Cardiff 2002
+WLS SWalML CarCen ENG/WLS
+ENG SWalML ENG/WLS LonPad
+
+## London to Stratford 2002
+ENG StrBra LeaSpa StrUponAvon
+ENG ChiML LeaSpa LonMar
+
+## London to Dover 2002
+ENG HS1Dov LonStPanInt Dov
+
+## Cambridge to London 2006
+ENG ThaLnkCam Cam StPanInt
+
+## TODO: London Underground
+
