@@ -1,123 +1,394 @@
 
-# ----- Interstate Highways ----- 
+# KingRidgeback76 
+# Last Updated: July 5, 2024
 
-FL I-4 101B I-275
+
+# ---------------------------------- #
+# ----- US INTERSTATE HIGHWAYS ----- #
+# ---------------------------------- #
+
+# ----- Alabama ----- #
+# ----- Alaska ----- #
+# ----- Arizona ----- #
+
 AZ I-10 143A 152
 AZ I-17 194 341
-GA I-20 57 SC I-20 141
-TN I-24Cha 185 IL I-24 I-57
-SC I-26 107 NC I-26 31
+AZ I-40 165 233
+
+# ----- Arkansas ----- #
+
+AR I-55 TN/AR AR/MO
+
+# ----- California ----- #
+# ----- Colorado ----- #
+
 CO I-25 135 210A
 CO I-25 223 269
-IL I-39 I-55 WI I-39 165
-AZ I-40 165 233
-TN I-40 393 NC I-40 46
-WI I-41 1A(894) 120
-WI I-43 1 72A
-MS I-55 289 MO I-55 66
-IL I-55 60 98
-IL I-55 157 165
-IL I-55 279 US41
-MO I-57 1 IL I-57 358
-MO I-64 36A IL I-64 3
-KY I-64 5 81 
-KY I-65 137 IN I-65 106
-IN I-65 129 140
-CO I-70 E470 MO I-70 232 
-IL I-70 3 98
-IL I-70 119 PA I-70 161(76)
-IL I-72 93 182
-IL I-74 93 OH I-74 I-75 
-NC I-74Pem 209 213
-GA I-75 247 TN I-75 2 
-TN I-75 3(640) KY I-75 118
-OH I-75 1B 4
-PA I-76 75 201
-IL I-80 140 145
-PA I-81 29 77
-IL I-88 119 136
-IL I-94 53B 63
-WI I-94 92(90) 108(90)
-WI I-94 305 316
-SC I-95 160 NC I-95 49
-FL I-95 215 220
+CO I-70 E470 CO/KS
 
-# ----- Spurs / Beltways -----
+# ----- Connecticut ----- #
+# ----- Deleware ----- #
+# District of Columbia ----- #
 
-TN I-124 1C I-24
-KS I-435 MO/KS 1B
-MO I-435 63A MO/KS
-TN I-640 I-40_E 3
-IL I-355 0 20A
-IN I-465 0 44
-IN I-865 I-65 I-465
-IL I-270 15 MO I-270 20A
-FL I-275 17A 45B
-NY I-278 35 42
-IL I-190 1C ChiOHAir
-IL I-290 5 15
-IL I-294 7 IL I-294 40A
-MD I-195 2 TerRd
 DC I-395 1 7
-NY I-495 17 2ndAve
 DC I-695 I-395 2A
 
-# ----- Interstate Business Highways -----
+# ----- Florida ----- #
 
-AZ I-40BLFla I-40_W AZ I-40BLFla I-40_E
+FL I-4 101B I-275
+FL I-10 296 I-95
+FL I-75 328 FL/GA
+FL I-95 68 351B
+FL I-275 17A 45B
+
+# ----- Georgia ----- #
+
+GA I-20 57 GA/SC
+GA I-24 TN/GA GA/TN
+GA I-75 FL/GA 156
+GA I-75 177 GA/TN
+GA I-475 I-75_S I-75_N
+GA I-575 I-75 3
+
+# ----- Hawaii ----- #
+# ----- Idaho ----- #
+# ----- Illinois ----- #
+
+IL I-24 I-57 IL/KY
+IL I-39 I-55 IL/WI
+IL I-55 60 98
+IL I-55 154 269
+IL I-55 277B US41
+IL I-57 MO/IL 358
+IL I-64 MO/IL 3
+IL I-70 3 98
+IL I-70 119 IL/IN
+IL I-72 96 182
+IL I-74 93 IL/IN
+IL I-80 140 151
+IL I-88 117 136
+IL I-94 53B 63
+IL I-355 0 I-290
+IL I-270 MO/IL 15
+IL I-190 1C ChiOHAir
+IL I-290 5 15
+IL I-294 7 40A
+
+# ----- Indiana ----- #
+
+IN I-65 KY/IN 106
+IN I-65 129 140
+IN I-70 IL/IN IN/OH
+IN I-74 IL/IN IN/OH
+IN I-465 0 44
+IN I-865 I-65 I-465
+
+# ----- Iowa ----- #
+# ----- Kansas ----- #
+
+KS I-70 CO/KS 421B
+KS I-435 MO/KS 1B
+KS I-670 I-70 KS/MO
+
+# ----- Kentucky ----- #
+
+KY I-24 IL/KY KY/TN
+KY I-64 5 81 
+KY I-65 137 KY/IN
+KY I-75 TN/KY 118
+
+# ----- Louisiana ----- #
+# ----- Maine ----- #
+# ----- Maryland ----- #
+
+MD I-195 2 TerRd
+
+# ----- Massachusetts ----- #
+# ----- Michigan ----- #
+# ----- Minnesota ----- #
+# ----- Mississippi ----- #
+
+MS I-55 289 MS/TN
+
+# ----- Missouri ----- #
+
+MO I-44 291A 290C
+MO I-55 AR/MO 66
+MO I-57 1 MO/IL
+MO I-64 34B MO/IL
+MO I-70 2L 232
+MO I-435 63A MO/KS
+MO I-270 20A MO/IL
+MO I-670 KS/MO 2N
+
+# ----- Montana ----- #
+# ----- Nebraska ----- #
+# ----- Nevada ----- #
+# ----- New Hampshire ----- #
+# ----- New Jersey ----- #
+# ----- New Mexico ----- #
+# ----- New York ----- #
+
+NY I-278 35 42
+NY I-495 17 2ndAve
+
+# ----- North Carolina ----- #
+
+NC I-26 31 NC/SC
+NC I-40 TN/NC 46
+NC I-74Pem 209 213
+NC I-95 SC/NC 49
+
+# ----- North Dakota ----- #
+# ----- Ohio ----- #
+
+OH I-70 IN/OH OH/WV
+OH I-74 IN/OH I-75
+OH I-75 1C 4
+
+# ----- Oklahoma ----- #
+# ----- Oregon ----- #
+# ----- Pennsylvania ----- #
+
+PA I-70 WV/PA 161(76)
+PA I-76 75 201
+PA I-81 29 77
+
+# ----- Rhode Island ----- #
+# ----- South Carolina ----- #
+
+SC I-20 GA/SC 141
+SC I-26 NC/SC 107
+SC I-95 160 SC/NC
+
+# ----- South Dakota ----- #
+# ----- Tennessee ----- #
+
+TN I-24Cha GA/TN 185
+TN I-24 TN/GA KY/TN
+TN I-40 393 TN/NC
+TN I-55 MS/TN TN/AR
+TN I-65 88 90B
+TN I-75 GA/TN 7
+TN I-75 3(640) TN/KY
+TN I-124 1C I-24
+TN I-440 6 I-24
+TN I-640 I-40_E 3
+
+# ----- Texas ----- #
+# ----- Utah ----- #
+# ----- Vermont ----- #
+# ----- Virginia ----- #
+# ----- Washington ----- #
+# ----- West Virginia ----- #
+
+WV I-70 OH/WV WV/PA
+
+# ----- Wisconsin ----- #
+
+WI I-39 IL/WI 165
+WI I-41 1A(894) 120
+WI I-43 1 72A
+WI I-94 92(90) 108(90)
+WI I-94 305 316
+
+# ----- Wyoming ----- #
+
+
+# ------------------------------------------- #
+# ----- US INTERSTATE BUSINESS HIGHWAYS ----- #
+# ------------------------------------------- #
+
+
+AZ I-40BLFla I-40_W I-40_E
+GA I-75BLVal I-75_N FoxAve
 IL I-55BLBlo I-55_S I-55_N
-IL I-55BLSpr I-55_S IL97
+IL I-55BLSpr I-55_S I-55_N
+NC I-95BLFay I-95_S OwenDr
 
-# ----- US Highways -----
+
+# -------------------------------- #
+# ----- US NUMBERED HIGHWAYS ----- #
+# -------------------------------- #
+
+# ----- Alabama ----- #
+# ----- Alaska ----- #
+# ----- Arizona ----- #
 
 AZ US89 I-40BL/180 US160
 AZ US160 US163 US89
+AZ US163 US160 AZ/UT
 AZ US180 I-40(201) GraCynNP
+
+# ----- Arkansas ----- #
+# ----- California ----- #
+# ----- Colorado ----- #
+
 CO US24 I-25(139) I-70(363)
 CO US40 I-25 LinSt
 CO US50 CO115_E CO115_W
 CO US287 CO14_E HarRd
+
+# ----- Connecticut ----- #
+# ----- Deleware ----- #
+# ----- District of Columbia ----- #
+# ----- Florida ----- #
+
+FL US1 US98 BanBlvd
+FL US1 FL786/A1A DonRossRd
+FL US98 FL15/80 FL809
+FL US98 I-95 FLA1A
+
+# ----- Georgia ----- #
+# ----- Hawaii ----- #
+# ----- Idaho ----- #
+# ----- Illinois ----- #
+
+IL US12 I-190 CofRd
 IL US20 I-294(17) IL50
+IL US20 IL25 IL390
 IL US24 IL117 MainSt_Was
 IL US24 I-57 IL1_N
 IL US24 IL47 1stSt
 IL US30 I-57 US45
+IL US30 IL59_S I-55
 IL US34 I-294 IL83
 IL US36 US45 US150/1
-IL US41 I-55 BelHarDr
+IL US36 IL105/121 I-72(133)
+IL US41 I-55 BelAve
 IL US45 I-57(184) I-74
 IL US45 US24_W US24_E
-IL US45 CR9 I-80
+IL US45 I-57(308) IL83_S
 IL US45 I-70 US40_W
-IL US136 I-57 MapDr
-IL US150 MatAve IL130_S
+IL US45 I-24(37) IL145
+IL US51 IL48 I-74(135)
+IL US136 I-57 MainSt_Gif
+IL US136 IL47 1stSt_Fis
+IL US150 IL130_S PraViewRd
+IL US150 I-55BL CheSt
+IL US150 IL9_W OakAve_W
+IL US150 WasRd CouLineRd
+
+# ----- Indiana ----- #
+
 IN US31 123 156
+IN US41 I-74 IN47
 IN US231 I-74 IN28
-NC US71 I-74(213) US74BusWhi_W
-NC US701 NC410_N SC US701 SC9
+
+# ----- Iowa ----- #
+# ----- Kansas ----- #
+
+KS US40 KS10_W I-70(366)
+
+# ----- Kentucky ----- #
+# ----- Louisiana ----- #
+# ----- Maine ----- #
+# ----- Maryland ----- #
+# ----- Massachusetts ----- #
+# ----- Michigan ----- #
+# ----- Minnesota ----- #
+# ----- Mississippi ----- #
+# ----- Missouri ----- #
+# ----- Montana ----- #
+# ----- Nebraska ----- #
+# ----- Nevada ----- #
+# ----- New Hampshire ----- #
+# ----- New Jersey ----- #
+# ----- New Mexico ----- #
+# ----- New York ----- #
+# ----- North Carolina ----- #
+
+NC US74 I-74(213) US74BusWhi_W
+NC US701 NC410_N SC/NC
+
+
+# ----- North Dakota ----- #
+# ----- Ohio ----- #
+
+OH US27 PeteRoseWay_W US42/127
+
+# ----- Oklahoma ----- #
+# ----- Oregon ----- #
+# ----- Pennsylvania ----- #
+
+PA US11 PA696_N PA316
+
+# ----- Rhode island ----- #
+# ----- South Carolina ----- #
+
 SC US17 MainSt CelCir
 SC US76 SC576 US301_S
 SC US501 US501BusMar_S SC22
-UT US163 CR425 AZ US163 US160
+SC US701 SC9 SC/NC
+
+# ----- South Dakota ----- #
+# ----- Tennessee ----- #
+
+TN US11 TN317_W I-75(7)
+
+# ----- Texas ----- #
+# ----- Utah ----- #
+
+UT US163 AZ/UT CR425
+
+# ----- Vermont ----- #
+# ----- Virginia ----- #
+# ----- Washington ----- #
+# ----- West Virginia ----- #
+# ----- Wisconsin ----- #
+
 WI US45 120(41) 273(10)
-WI US10 276 187
+WI US10 187 276
 WI US12 211 CRA_SauN
 
-# ----- US Business Highways -----
+# ----- Wyoming ----- #
 
+
+# --------------------------------- #
+# ----- US AUXILIARY HIGHWAYS ----- #
+# --------------------------------- #
+
+IL US24BusWas IL8_W CR800N
 IL US51BusBlo I-55 US51_S
+IL US51BusCli US51_S US51_N
+KY US41AltNas KY1453 KY117
 SC US17BusMyr 38thAve US17_N
+SC US501BusMar SC41Alt_S SC576
 
-# ----- State Highways -----
+# ----------------------------- #
+# ----- US STATE HIGHWAYS ----- #
+# ----------------------------- #
 
+# ----- Alabama ----- #
+# ----- Alaska ----- #
+# ----- Arizona ----- #
+
+AZ AZ51 I-10 4
 AZ AZ64 I-40 US89
 AZ AZ89ASed DryCreRd I-40BL
 AZ AZ143 2 3
 AZ AZ179 I-17 AZ89A
 AZ AZ202 5 6A
+
+# ----- Arkansas ----- #
+# ----- California ----- #
+# ----- Colorado ----- #
+
 CO CO14 US287_S I-25
 CO CO115 US50_E I-25
-DC DC295 1A DC DC295 DC/MD
+
+# ----- Connecticut ----- #
+# ----- Deleware ----- #
+# ----- District of Columbia ----- #
+
+DC DC295 1A DC/MD
+
+# ----- Florida ----- #
+
+FL FLA1AFor FlaDr FL704
+FL FLA1AFor FL802 OceBlvd_N
+FL FL5 FL802 OliAve
+FL FL7 FL704 US98/441
 FL FL50 fl408(23) I-95
 FL FL60 I-275 CauBlvd
 FL FL406 I-95 US1
@@ -126,69 +397,163 @@ FL FL417 50A 55
 FL FL528 11 I-4
 FL FL682 FL699 I-275(17A)
 FL FL699 FL682 FL688
+FL FL704 FLA1A FL7
+FL FL715 FL717 FL812 
+FL FL786 FL809 US1
+FL FL802 FL5 FLA1A
+FL FL809 US98 FL786
+FL FL812 FL715 US98/441
+
+# ----- Georgia ----- #
+
 GA GA24 I-20 US278_W
 GA GA83 I-20 US278_E
+
+# ----- Hawaii ----- #
+# ----- Idaho ----- #
+# ----- Illinois ----- #
+
 IL IL1 PolRd IL33
 IL IL1 IL17_W IL114
 IL IL4 WabAve IL97
 IL IL9 I-57 IL115
+IL IL9 CR6 CR29
 IL IL10 US150 IL47
 IL IL10 I-72 US51Bus
 IL IL13 I-57 CR26
-IL IL16 750N IL49_S
+IL IL16 IL128_N IL49_S
 IL IL17 I-57 IL114
-IL IL25 SteRd_E SteRd_W
+IL IL17 CR20 CR28
+IL IL25 US20 IL56
 IL IL29 I-74(93) TruAve
-IL IL47 US150_W US24
+IL IL31 RedGateRd IL64
+IL IL31 I-88 WilSt
+IL IL32 I-57 OutBelt
+IL IL47 IL10 US24
+IL IL48 WatSt I-72(144)
+IL IL48 IL127_S US51
 IL IL49 IL16_W I-70
 IL IL50 I-55 I-294
+IL IL54 US150 I-74
+IL IL56 SumAve HigAve
+IL IL56 I-88(117) IL25
+IL IL59 I-88 US30_E
+IL IL64 CamHilDr IL25
+IL IL83 US45_S I-88
 IL IL97 IL4 I-55BL
+IL IL105 WatSt_S IL121_N
+IL IL105 I-72 WasSt
 IL IL108 IL4_N I-55
+IL IL113 WRivRd WarBriRd
 IL IL115 IL9 E1300N
-IL IL117 I-74 US24
+IL IL116 IL89 IL117_S
+IL IL117 I-74 IL116_W
 IL IL121 I-57 StaSt
-IL IL130 MadAve_W I-70
-IL IL130 I-74 US36_E
+IL IL121 US36/105 IL48_N
+IL IL129 I-55 CoalCityRd
+IL IL130 I-74 US50/250
 IL IL133 I-57 VineSt
 IL IL159 IL162 I-55/70
 IL IL162 DewSt_N IL159
 IL IL390 6 12
+
+# ----- Indiana ----- #
+
 IN IN28 US231 US31(148)
 IN IN32 I-74 I-65
 IN IN931 MarAve US31_S
-KS KS10 I-70 I-435
-MD MD295 MD175 MD MD295 I-195
+
+# ----- Iowa ----- #
+# ----- Kansas ----- #
+
+KS KS10 US40_W I-435
+
+# ----- Kentucky ----- #
+# ----- Louisiana ----- #
+# ----- Maine ----- #
+# ----- Maryland ----- #
+
+MD MD201 DC/MD US50 
+MD MD295 MD175 MD295 I-195
+
+# ----- Massachusetts ----- #
+# ----- Michigan ----- #
+# ----- Minnesota ----- #
+# ----- Mississippi ----- #
+
+MS MS302 US51 I-55
+
+# ----- Missouri ----- #
+# ----- Montana ----- #
+# ----- Nebraska ----- #
+# ----- Nevada ----- #
+# ----- New Hampshire ----- #
+# ----- New Jersey ----- #
+# ----- New Mexico ----- #
+# ----- New York ----- #
+# ----- North Carolina ----- #
+
+NC NC87 I-95 104B
 NC NC410 US701_N US74
+
+# ----- North Dakota ----- #
+# ----- Ohio ----- #
+# ----- Oklahoma ----- #
+# ----- Oregon ----- #
+# ----- Pennsylvania ----- #
+
 PA PA39 I-81 HerParkDr_E
-PA PA696 PA997_N MudLevRd
+PA PA316 I-81 US11
+PA PA696 PA997_N US11/533_N
 PA PA997 I-76 PA696_N
+
+# ----- Rhode island ----- #
+# ----- South Carolina ----- #
+
 SC SC9 SC31 US701
 SC SC22 US501 US17
 SC SC31 SC9 RobGriPkwy
 SC SC327 US76/301_W I-95
 SC SC576 US76 US501Bus/41Alt
+
+# ----- South Dakota ----- #
+# ----- Tennessee ----- #
+
+TN TN155 3 16A
+
+# ----- Texas ----- #
+# ----- Utah ----- #
+# ----- Vermont ----- #
+# ----- Virginia ----- #
+# ----- Washington ----- #
+# ----- West Virginia ----- #
+# ----- Wisconsin ----- #
+
 WI WI13 WI34 CRZ_Woo
 WI WI13 US10(187) WI97
 WI WI23 CRB_Ada US12/13
 WI WI73 WI186 WI13/54
 WI WI186 CRN_E WI73
 
-# ----- Select Named Highways -----
+# ----- Wyoming ----- #
 
-AZ SkyHarBlvd I-10 AZ202
+
+# ------------------------------------ #
+# ----- US SELECT NAMED FREEWAYS ----- #
+# ------------------------------------ #
+
+AZ SkyHarBlvd AZ143 AZ202
 CO E470 1A 47
-MD BalWasPkwy US50/201 MD175
+CO PenaBlvd Ter 6
+FL FLTpk 99 307
 IN KeyPkwy US31 I-465
-NY GraCenPkwy 6 4A
+MD BalWasPkwy US50/201 MD175
+NC AllAmeFwy MorRd OwenDr
+NY GraCenPkwy 4A 6
 
-# ----- Historic -----
+# ----------------------- #
+# ----- US HISTORIC ----- #
+# ----------------------- #
 
 IL US66HisChi IL23_N I-55(92)
-
-
-
-
-
-
-
-
+IL US66HisWil US66His_W US66His_E
