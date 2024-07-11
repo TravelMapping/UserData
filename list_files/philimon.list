@@ -5,17 +5,20 @@ https://travelmapping.net/user/region.php?units=km&u=philimon&rg=FRA-GES,FRA-IDF
 http://travelmapping.net/user/region.php?units=km&u=philimon&rg=HI
 
 ======ΑΛΒΑΝΙΑ======
-ALB A1 SH1_S SH1_N
+ALB A1 *OldSH1 SH1
 ALB A2 SH8 Vlo
 
-ALB SH1 SH41 SH2
+ALB SH1 SH41 A1
+ALB SH1Tir SH2 Thu
 ALB SH2 SH1 SH85
 ALB SH3 SH9 SH64
 ALB SH3 ALB/GRC BulRil
 ALB SH4 SH85 LuzVog 
 ALB SH4 SH7 A2_Lev
-ALB SH8 SH76 BypVlo_S
-ALB SH8 DukRi SH81
+ALB SH8 SH76 BulIsmQem
+ALB SH8 RruResOsm BypVlo_S
+ALB SH8 DukRi *OldSH8_Duk
+ALB SH8 *OldSH8_Pal SH81
 ALB SH9 SH3 ALB/MKD
 ALB SH41 ALB/MNE SH1
 ALB SH64 RruSulSta ALB/MKD
@@ -3079,9 +3082,9 @@ SRB A1 28 54
 SRB A1 *B44_VlaS *R441
 SRB A1 61 SRB/MKD
 SRB A3 HRV/SRB A1_S
-SRB A4 1 5
-SRB A4 BelaPal_E R259_PirN
-SRB A4 R259_GraW SRB/BGR
+SRB A4 A1 3
+SRB A4 BelaPal_E 5
+SRB A4 8 SRB/BGR
 
 SRB E70 BulKraApe HRV/SRB
 SRB E75 HUN/SRB 26(A1)
