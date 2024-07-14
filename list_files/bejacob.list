@@ -8795,6 +8795,10 @@ QC A-20 ON/QC 63
 CRI RP32 CalPri RS240_E
 CRI RS240 RP32_W AveLosCan
 
+PAN AutPanCol CorNor PueMan
+PAN CorNor ViaCen AutPanCol
+PAN ViaCen CorNor Gam
+
 ENG M3 2 8 
 ENG M4 4 21
 ENG M4 22 ENG/WLS
