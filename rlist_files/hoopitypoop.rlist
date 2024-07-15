@@ -26,6 +26,9 @@ IN CL IL/IN IN/OH
 IN LSBos IL/IN IN/OH
 IN LSNew IL/IN IN/OH
 
+GA RedLn Air FivePoi
+GA GA SkyTrn Air RenCarCen
+
 MO MLRedLn Uni MO/IL
 
 NJ NJerCoaLn NY/NJ Rah
