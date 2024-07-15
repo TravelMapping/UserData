@@ -1,4 +1,4 @@
-# Date: 2024-06-29
+# Date: 2024-07-12
 # ----------------
 
 ######################
@@ -215,6 +215,19 @@ DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 DEU-NI S3 Leh HilHeimHbf                       #2024
 DEU-NI S4 HanHbf HilHeimHbf                    #2024
 DEU-NI S7 HanHbf Cel                           #2024
+
+
+DEU-BW S31Kar +DIV_Ubs KarRuheHbf              #2024, actually traveled as IC2162
+#DEU-BW IC2162 Stuttgart Hbf Karlsruhe Hbf     #2024, rerouted via Bruchsal
+DEU-BW S4Kar GroBf Epp                         #2024, actually traveled as RE45
+#DEU-BW RE45 Karlsruhe Hbf Eppingen            #2024
+DEU-BW S5Hei SinsHeimHbf Epp                   #2024
+DEU-BW S1Man NecGem BW/HE                      #2024
+DEU-HE S1Hir BW/HE HE/BW                       #2024
+DEU-BW S1Mos HE/BW MosBachNecElz               #2024
+DEU-BW S41Hei MosBachNecElz Har                #2024
+
+DEU-BY RS71 BW/BY WeiHorn                      #2024
 
 
 ######################

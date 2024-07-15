@@ -11,7 +11,7 @@ AK GlaDis Whi +DIV_Por_B
 AK GlaDis Por_S +DIV_Por_C
 
 #CA BART
-CA BARTBlue DalyCity CasVal
+CA BARTBlue CasVal DubPle
 CA BARTGre DalyCity Fre
 CA BARTOra Fre Ric
 CA BARTRed SanFraAir Ric
@@ -22,7 +22,9 @@ CA CalSt VanNess Dru
 CA PowHyde Mar Bea
 CA PowMas Mar Bay
 
-CA MuniF 4thSto Bea 
+#CA SF Muni
+CA MuniF 5thCyr Bea
+CA MuniL Waw Emb
 
 #San Diego Trolley
 CA BlueLn SanYsiTC +DIV_Gre_N
@@ -40,7 +42,6 @@ NJ NECorLn NY/NJ NewLibAir
 NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
-
 NY 1 110StCatPkwy SouFry
 NY 2 CenPkN WallSt
 NY 3 CenPkN WallSt
@@ -81,6 +82,10 @@ WA T TacDome 4thSt
 
 #US Airports
 AZ PHX RenCarCen T4
+CA AirTrnRed Ter2 GarG/BART_F
+CA AirTrnBlue RenCarCen +DIV_RedLn
+CA AirTrnBlue Ter2 Loop
+FL MiaM IntCen MIA
 GA SkyTrn Air RenCarCen
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
@@ -110,7 +115,10 @@ AUS-NSW T4Wat BonJct +DIV_Cro
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
 ENG GatEx LonVic Bri
-ENG EliLn +DIV_Air BondSt
+ENG EliLn +DIV_Hea BondSt
+ENG EliLnHea +DIV_HT5 BondSt
+ENG EliLnShe HeaTer5 BondSt
+ENG LioLn Eus KilHighRd
 
 #London Underground
 ENG BakLn KilPark EleCas
@@ -124,10 +132,12 @@ ENG NorLn Eus EleCas
 ENG NorLnEdg MorCre Wat
 ENG PicLnHT4 HeaTer23 KXSP
 ENG VicLn KXSP Vic
+
 #Docklands Light Railway
 ENG DLR Bank CutSark
-ENG DLRStr CanWha +DIV_RoyE
-ENG DLRWoo +DIV_StrS CanTown
+ENG DLRRoy +DIV_WooW +DIV_StrN
+ENG DLRStr CanWha BowChu
+ENG DLRWoo Bank +DIV_StrN
 
 FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF LonPar HDF/IDF ParGareNord
