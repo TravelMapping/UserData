@@ -11,6 +11,7 @@
 # ----- Alaska ----- #
 # ----- Arizona ----- #
 
+AZ I-10 143A 152
 AZ I-17 194 341
 AZ I-40 165 233
 
@@ -63,6 +64,7 @@ IL I-64 MO/IL 3
 IL I-70 3 98
 IL I-70 119 IL/IN
 IL I-72 96 182
+IL I-74 93 IL/IN
 IL I-80 140 151
 IL I-88 117 136
 IL I-94 53B 63
@@ -78,7 +80,7 @@ IN I-65 KY/IN 106
 IN I-65 129 140
 IN I-70 IL/IN IN/OH
 IN I-74 IL/IN IN/OH
-IN I-465 0 44
+IN I-465 0 49
 IN I-865 I-65 I-465
 
 # ----- Iowa ----- #
@@ -99,6 +101,9 @@ KY I-75 TN/KY 118
 # ----- Maine ----- #
 # ----- Maryland ----- #
 
+MD I-68 WV/MD 82
+MD I-70 1A 26
+MD I-81 4 MD/PA
 MD I-195 2 TerRd
 
 # ----- Massachusetts ----- #
@@ -143,6 +148,7 @@ NC I-95 SC/NC 49
 OH I-70 IN/OH OH/WV
 OH I-74 IN/OH I-75
 OH I-75 1C 4
+OH I-470 1 OH/WV
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
@@ -150,7 +156,8 @@ OH I-75 1C 4
 
 PA I-70 WV/PA 161(76)
 PA I-76 75 201
-PA I-81 29 77
+PA I-79 WV/PA 34
+PA I-81 1 77
 
 # ----- Rhode Island ----- #
 # ----- South Carolina ----- #
@@ -180,7 +187,10 @@ TN I-640 I-40_E 3
 # ----- Washington ----- #
 # ----- West Virginia ----- #
 
+WV I-68 I-79 WV/MD
 WV I-70 OH/WV WV/PA
+WV I-79 148 WV/PA
+WV I-470 OH/WV 4
 
 # ----- Wisconsin ----- #
 
@@ -304,12 +314,15 @@ NC US701 NC410_N SC/NC
 # ----- Ohio ----- #
 
 OH US27 PeteRoseWay_W US42/127
+OH US40 CR214 CR28A
+OH US40 BricRd OH256
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
 # ----- Pennsylvania ----- #
 
-PA US11 PA696_N PA316
+PA US11 PA174 PA316
+PA US11 PA114 HarTayBri_W
 
 # ----- Rhode island ----- #
 # ----- South Carolina ----- #
@@ -353,12 +366,15 @@ KY US41AltNas KY1453 KY117
 SC US17BusMyr 38thAve US17_N
 SC US501BusMar SC41Alt_S SC576
 
-# ----- US STATE HIGHWAYS -----
+# ----------------------------- #
+# ----- US STATE HIGHWAYS ----- #
+# ----------------------------- #
 
 # ----- Alabama ----- #
 # ----- Alaska ----- #
 # ----- Arizona ----- #
 
+AZ AZ51 I-10 4
 AZ AZ64 I-40 US89
 AZ AZ89ASed DryCreRd I-40BL
 AZ AZ143 2 3
@@ -475,6 +491,9 @@ MD MD295 MD175 MD295 I-195
 # ----- Michigan ----- #
 # ----- Minnesota ----- #
 # ----- Mississippi ----- #
+
+MS MS302 US51 I-55
+
 # ----- Missouri ----- #
 # ----- Montana ----- #
 # ----- Nebraska ----- #
@@ -490,12 +509,18 @@ NC NC410 US701_N US74
 
 # ----- North Dakota ----- #
 # ----- Ohio ----- #
+
+OH OH256 I-70 US40
+
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
 # ----- Pennsylvania ----- #
 
 PA PA39 I-81 HerParkDr_E
+PA PA114 I-81 US11
+PA PA174 US11/533 I-81
 PA PA316 I-81 US11
+PA PA581 1 6
 PA PA696 PA997_N US11/533_N
 PA PA997 I-76 PA696_N
 
@@ -542,6 +567,7 @@ IN KeyPkwy US31 I-465
 MD BalWasPkwy US50/201 MD175
 NC AllAmeFwy MorRd OwenDr
 NY GraCenPkwy 4A 6
+PA HarTayBri US11/15_S FroSt
 
 # ----------------------- #
 # ----- US HISTORIC ----- #
