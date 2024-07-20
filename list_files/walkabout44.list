@@ -1,6 +1,8 @@
-# 04/24/2024
-# v55
-# Completed TX I-35
+# 07/19/2024
+# v56
+# Include extension of NV I-11
+# Include extension of NC I-40
+# Delete obsolete NV I-515
 
 
 # Arizona Interstate Highways
@@ -237,11 +239,10 @@ CA I-980 I-880 2B              #  2
 
 # Nevada
 # 624 miles
-NV I-11 AZ/NV 61               # 23
+NV I-11 AZ/NV 96               # 23
 NV I-15 CA/NV NV/AZ            #126 vs 124
 NV I-80 CA/NV NV/UT            #416 vs 411
 NV I-215 1 12                  # 11
-NV I-515 61 76                 # 15 vs 20
 NV I-580 US50/395 68           # 35
 
 # Utah
@@ -585,7 +586,7 @@ CT I-684 NY/CT CT/NY           #  1
 CT I-691 1 11                  #  8
 
 # New York
-# 1730 miles: 1718 on 12 not on
+# 1730 miles: 0.2 not on
 NY I-78 NJ/NY HudSt            #  1
 NY I-81 PA/NY USA/CAN          #184
 NY I-84 PA/NY NY/CT            # 72
@@ -701,7 +702,7 @@ DC I-495 VA/DC DC/MD           #  0
 DC I-695 I-395 2A              #  2
 
 # Virginia
-# 1117 miles: 1117 on .03 not on
+# 1117 miles
 VA I-64 WV/VA 299              #301 vs 299
 VA I-66 1 VA/DC                # 75
 VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
@@ -769,10 +770,9 @@ TN I-840 1 76                  # 78 vs 77 (not in Table 3 total; off by 77)
 
 # North Carolina
 # 1410 miles (Table 3 1328) diff 82: I-74 10, I-140 14, I-295 9, I-840 6, I-885 8
-# 1400 on 10 not on
 NC I-26 4A(240) NC/SC          # 43+
 NC I-26Fau TN/NC 13            #  9 =52 vs 53
-NC I-40 TN/NC 420              #420
+NC I-40 TN/NC US117_S          #420
 NC I-73 22 123                 #101 vs 99
 NC I-74 VA/NC 17               # 17+
 NC I-74Hig 55 22(73)           # 89+ (overlap) vs 21
@@ -789,7 +789,7 @@ NC I-295 12 34                 # 23 (Table 3 14) (14 completed) - now 22 complet
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 66 vs 67
 NC I-540 1 26                  # 26
-NC I-587 29 56                 # 27  NEW 2022 6 not completed ***FIX with new mileage from TM***
+NC I-587 18 56                 # 38 vs 37
 # NC I-785 I-85 14(840)        #  7 vs 0 (overlap with I-840)
 NC I-795 38(264) 24            # 26
 NC I-840 103(73) 14            #  8 vs 5; not on Table 3  NEW 
@@ -865,17 +865,8 @@ FL I-595 I-75 12               # 14 vs 13
 #PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
 
 # Interstates Not on
-#01  HI I-H1 10 15                  #  5        MISSING
-#02  HI I-H3 1A 1B                  #  1        MISSING
-#03  HI I-H3 15 KanSta              #  1        MISSING
-#04  HI I-H201 1A 1D                #  1        MISSING
-#05  NC I-587 23 29                 #  6        NEW 2022
-#06  NC I-840 10 14                 #  4        NEW 2023
 #0 mile extensions
-#0-1 CA I-105 18 StuRd              #   .32 East end past I-605
-#0-2 CA I-780 LemSt 1A              #   .26 West end past I-80
-#0-3 TX I-35 HidSt US83/359         #   .13 2 blocks South end
-#0-4 NY I-295 NY25 1                #   .17 South end past I-495
+#0-1 NY I-295 NY25 1                #   .17 South end past I-495
 # Alaska & Puerto Rico Not on
 #AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
 #AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
@@ -903,7 +894,7 @@ NC I-73FutRoc NC38 US1
 NC I-74FutPil I-74_W US52
 NC I-74FutRoc US1 US74BusRoc_E
 NC I-74FutLau 181 194
-NC I-74FutWhi 228 248               # 2024 Whiteville, W of Wilmington, missed in 22 
+NC I-74FutWhi 228 248               # 2024 Whiteville, W of Wilmington
 PA I-86FutSWa 60 PA/NY
 NY I-86FutBin PA/NY 72A
 NY I-86FutDep 79 EvaRd
