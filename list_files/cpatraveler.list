@@ -1747,17 +1747,27 @@ AZ I-10 CA/AZ AZ/NM #29Palms Drive
 AZ I-15 NV/AZ AZ/UT
 AZ I-19 I-19BL 101 
 AZ I-40 48 AZ/NM #Vegas Trip
-AZ I-19BLNog Mex/USA AZ82 
+AZ I-40 48 CA/AZ #07192024 Travel to Flagstaff to visit Parks
+AZ I-19BLNog Mex/USA AZ82
+AZ I-40BLAsh I-40_W I-40_E #07192024 Travel to Flagstaff to visit Parks
+AZ I-40BLFla I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
+AZ I-40BLSel I-40_W I-40_E #07192024 Travel to Flagstaff to visit Parks
+AZ I-40BLWil I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks 
 AZ US60 200A(17) 150A(10)
 AZ US60 154(10) AZ188  
 AZ US89 AZ64 I-40BL/180 
-AZ US89AltFre AZ/UT AZ67  
+AZ US89AltFre AZ/UT AZ67
+AZ US93 67 I-40(48) #07192024 Travel to Flagstaff to visit Parks  
 AZ US160 AZ/NM US191_S  #06292024
 AZ US191 US160_W BIA7  #06292024
-AZ US191 AZ181 AZ80 
+AZ US191 AZ181 AZ80
+AZ US66HisFla US180_E I-40(204) #07192024 Travel to Flagstaff to visit Parks
+AZ US66HisKin I-40(139) ToUS93 #07192024 Travel to Flagstaff to visit Parks   
 AZ MonCanRd AZ92 CorMemOve
-AZ BonCanRd PinCanRd MasPt    
+AZ BonCanRd PinCanRd MasPt
+AZ LoopRd US89_N US89_S #07192024 Travel to Flagstaff to visit Parks    
 AZ SkyHarBlvd I-10 AZ202
+AZ WalCanRd I-40 VisCen #07192024 Travel to Flagstaff to visit Parks 
 AZ AZ64 I-40 US89
 AZ AZ67 US89Alt BriAngPt
 AZ AZ80 US191 AZ90
@@ -1775,7 +1785,11 @@ AZ AZ210 BroBlvd GolfLinRd
 AZ AZ389 UT/AZ US89Alt  
 CA I-5 MEX/USA 135C #MC Tijuana Trip
 CA I-10 CA/AZ 1 #Trip to 29Palms
-CA I-15 109 CA/NV #Las Vegas Wedding Trip 
+CA I-15 109 CA/NV #Las Vegas Wedding Trip
+CA I-40 CA/AZ 133 #07192024 Travel to Flagstaff to visit Parks
+CA I-40BLNee I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
+CA US66HisNee I-40(144) I-40(139) #07192024 Travel to Flagstaff to visit Parks 
+CA US95 I-40(133) CA/NV #07192024 Travel to Flagstaff to visit Parks 
 CA US395 CA89 CA168_E #2001
 CA ScoCasRd CA190 DayPassRd #11162018
 CA DayPassRd NorHwy CA/NV #11162018
@@ -1848,18 +1862,18 @@ LA I-20 186 TX/LA
 LA I-59 I-10/12 LA/MS
 LA LakePonCswy EspAve US190/22
 LA US190 LA22 I-12
-MN I-35Far 88A 13 #07222019 
-MN I-35E 107A 99 #07222019
-MN I-35W 9A I-35(88) #07222019
-MN I-90 159 SD/MN #07222019
+MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
+MN I-35E 107A 99 #07222019 NTCA Regional Meeting
+MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
+MN I-90 159 SD/MN #07222019  NTCA Regional Meeting
 MN I-94 171 216 #Training with Rod St Cloud
-MN I-494 11C 63B #07222019
+MN I-494 11C 63B #07222019 NTCA Regional Meeting
 MN I-494 27 11C #Training with Rod St Cloud
-MN US10 I-35(107A) MN/WI #07222019
-MN US75 MN23/30 CR22_Pip #07222019
-MN US212 MN23_E I-494 #07222019
-MN MN23 US75_N US212_E #07222019  
-MN MN30 SD/MN US75/23 #07222019 
+MN US10 I-35(107A) MN/WI #07222019 NTCA Regional Meeting
+MN US75 MN23/30 CR22_Pip #07222019 NTCA Regional Meeting
+MN US212 MN23_E I-494 #07222019 NTCA Regional Meeting
+MN MN23 US75_N US212_E #07222019 NTCA Regional Meeting  
+MN MN30 SD/MN US75/23 #07222019 NTCA Regional Meeting 
 MO US61 MO/IA I-70 #08122021
 MO MO27 MO/IA US61 #08122021 
 MS US11 MS/AL I-59(169)
@@ -1894,11 +1908,13 @@ NE US77 I-80(405) NE92_E #07122024 Badland Trip
 NE US81 NE12 NE/SD #072219 Visit Pipestone Side Trip
 NE US83 NE/SD I-80 #07112024 Badland Trip
 NE US275 US6/31 I-80 #09052023 Driving Around Prior to MACC Meeting
+NE US275 NE92_W L28B #07122024 Badland Trip 
 NE OldOreTrl NE92 FiveRocRd #01142013 CO Inventory side trip to NPS Locations
 NE NE12 NE121 US81 #072219 Visit Pipestone Side Trip
 NE L17J I-80 US30 #01142013 CO Inventory side trip to NPS Locations
 NE NE19 US30 I-80 #01142013 CO Inventory side trip to NPS Locations
 NE NE27Hai US34 KS/NE #072219 Visit Pipestone Side Trip
+NE L28B US275 US6/31 #07122024 Badland Trip
 NE L28K NE133 NE64 #09052023 Driving Around Prior to MACC Meeting
 NE NE29 US20 US26 #01142013 CO Inventory side trip to NPS Locations
 NE NE61 US6_E KS/NE #03242022 CO Fieldwork Trip
