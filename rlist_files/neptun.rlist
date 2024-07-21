@@ -1,5 +1,5 @@
 # ──────────
-# 2024-07-20
+# 2024-07-21
 # ──────────
 
 CZE A NemMot DepoHos
@@ -38,10 +38,13 @@ CZE 5Brn Ces MenNam
 CZE 8Brn NemBoh HlaNad
 
 CZE 1Ost HlaNad HraPol
-CZE 2Ost DolVit RedVit
-CZE X3Ost RedVit +DIV_7111718
+CZE X3Ost +DIV_271119 +DIV_7111718
 CZE 4Ost SviMos Kar
-CZE 17Ost SviMos +DIV_71112
+CZE 5Ost BudZat PorVre
+CZE 13Ost +DIV_371219 DolVit
+CZE 17Ost PorVre +DIV_71112
+
+CZE 3Lib LidSadyZoo Spa
 
 CZE S1 PraMasNad Kol
 CZE S2 PraMasNad VelOsek
@@ -75,7 +78,7 @@ CZE S65 RudPra PraHlaNad
 CZE S66 Bre Cim
 CZE S67 RozPodTre Bre
 CZE S70 Kar Ber
-CZE S71 PraKac PraZahMes
+CZE S71 PraRad PraBec
 CZE S75 Rak Ber
 CZE S76 Loc ZadTre
 CZE S80 Cer Chr
@@ -126,6 +129,37 @@ CZE V51 ChlNadCid StaPaka
 
 DEU-SN U28 BadSch DEU/CZE
 DEU-SN L7 CZE/DEU DEU/POL
+
+DEU-BY 16Mun SenTor MauKirStr
+DEU-BY 17Mun RomPla HbfNord
+
+DEU-BY U1 OlyEinZen SenTor
+DEU-BY U2 FeldMoc SenTor
+DEU-BY U6 StuSta SenTor
+
+DEU-BY S1 NeuFah Hbf
+DEU-BY S1Fri Fre NeuFah
+
+#┌───────────────────────────────────────────┐
+#│                    ENG                    │
+#└───────────────────────────────────────────┘
+
+ENG BakLn Ken Wat
+ENG CenLnEal SheBush GanHill
+ENG CirLn Bar Mon
+ENG DisLnEdg PutBri Pad
+ENG JubLn BakSt Sou
+ENG MetLn Ric BakSt
+ENG NorLnMHE MillHillEast ChaCro
+ENG PicLn TurLn Coc
+
+ENG MilLn ClaJct WilJct
+
+ENG DLR Bank DepBri
+
+ENG EliLn Pad LivSt
+ENG StaEx LonLivSt StaAir
+ENG ThaLnkRai LonBri Gre
 
 #┌───────────────────────────────────────────┐
 #│                    POL                    │
