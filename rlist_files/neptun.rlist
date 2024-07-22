@@ -1,5 +1,5 @@
 # ──────────
-# 2024-07-21
+# 2024-07-22
 # ──────────
 
 CZE A NemMot DepoHos
@@ -49,7 +49,7 @@ CZE 3Lib LidSadyZoo Spa
 CZE S1 PraMasNad Kol
 CZE S2 PraMasNad VelOsek
 CZE S3 Mel PraHlaNad
-CZE S3Mla MlaBolMes PraHlaNad
+CZE S3Mla MlaBolHlaNad PraHlaNad
 CZE S4 Hne PraMasNas
 CZE S5 KlaMes PraMasNad
 CZE S6 Ber PraSmi
@@ -62,7 +62,7 @@ CZE S12 NymMes Por
 CZE S20 Kol SveNadSaz
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
-CZE S30 Tur +DIV_S30
+CZE S30 Tur MlaBolHlaNad
 CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste StaBol
 CZE S33 MlaBolHlaNad Mel
@@ -120,8 +120,23 @@ CZE L7Var Var CZE/DEU
 CZE L9 JabNadJiz MarKrk
 CZE L35 Tur Jic
 
-CZE V10 ChlNadCid HraKraHlaNad
+CZE V41 Sany HraKraHlaNad
 CZE V51 ChlNadCid StaPaka
+
+#┌───────────────────────────────────────────┐
+#│                    AUT                    │
+#└───────────────────────────────────────────┘
+
+AUT S1 +DIV_S2S7 +DIV_REX1
+AUT S7 WienRen Flu
+AUT S40 TulDon WienFraJosBah
+AUT S60 WienHau BruLei
+
+AUT 1Wie PraHau Schw
+AUT 2Wie Schw Tabs
+
+AUT U2 Schr Tab
+AUT U4 Scho WienHei
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
@@ -162,9 +177,38 @@ ENG StaEx LonLivSt StaAir
 ENG ThaLnkRai LonBri Gre
 
 #┌───────────────────────────────────────────┐
+#│                    ESP                    │
+#└───────────────────────────────────────────┘
+
+ESP-CT R2N PasGra Aer
+
+ESP-CT L3 Valc Fon
+ESP-CT L4 Bar Ver
+
+#┌───────────────────────────────────────────┐
+#│                    HUN                    │
+#└───────────────────────────────────────────┘
+
+HUN M1 VorTer MexUt
+HUN M2 OrsVezTere SzeKalTer
+
+HUN 2Bud JasMariTer VigTer
+HUN 56Bud Var MikoUtca
+HUN 60Bud Var SzeHegyGye
+
+#┌───────────────────────────────────────────┐
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
 POL L7 DEU/POL POL/CZE
 
+#┌───────────────────────────────────────────┐
+#│                    SVK                    │
+#└───────────────────────────────────────────┘
+
+SVK S8 BraPet Rus
+SVK S20 Kuty BraHlaSta
+SVK S60 BraHlaSta Gal
+
+SVK 9Bra KraUdo Kap
 
