@@ -234,6 +234,7 @@ DEU-MV A11 POL/DEU DEU-BB A11 5
 DEU-MV A20 24 DEU-BB A20 39
 
 DEU-MV B96 L30_N A20
+DEU-MV B96b B96 L29
 DEU-MV B196 B96 FeldStr
 
 DEU-MV L29 B196_N B96b
@@ -300,6 +301,13 @@ ESP-CT C31Pra 190 192
 ESP-CT C32B B22 CarFDS
 
 ESP-CT N260 C13_N C14
+
+#┌───────────────────────────────────────────┐
+#│                    HUN                    │
+#└───────────────────────────────────────────┘
+
+HUN F10 GorUt F111
+HUN F111 VorMihUt F117
 
 #┌───────────────────────────────────────────┐
 #│                    ITA                    │
@@ -387,3 +395,9 @@ SCT A830 A82 GlenPierRd
 SCT A855 A87_E WenSt
 SCT A889 A9 A86
 SCT A902 A901 A8
+
+#┌───────────────────────────────────────────┐
+#│                    SVK                    │
+#└───────────────────────────────────────────┘
+
+SVK I63 UliSze SVK/HUN
