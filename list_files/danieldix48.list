@@ -1,6 +1,6 @@
 #danieldix48
 #Highway List
-#Last update 7/18/2024
+#Last update 7/22/2024
 
 GA I-75 205 163 #Fayetteville to Macon
 
@@ -159,13 +159,14 @@ GA GA5 I-75(268) CheLogSt
 
 GA I-285 60 33 #covers part of 285
 
-GA I-285 20 60 #covers part of 285
+ #covers part of 285
 
 GA GA314 GA85 GA139 #covers 314 from Fayetteville to Riverdale road at airport
 
 GA GA92 NewHopeRd GA16 #covers 92 from New Hope N to Griffin
 
-GA GA72 US29 GA/SC #covers GA 72 from to GA/SC border
+GA GA72 US29 GA77 #Russell SP
+GA GA77 GA17/72 GA77Con 
 
 GA GA10 GA138 ThoSt #
 
@@ -557,3 +558,41 @@ MA MA79 US6_W MA24(11)
 MA MA24 11 41
 
 GA I-20 197 SC I-20 73
+
+CO US6 I-70(261) I-25(209A)
+CO I-25 209A 200
+CO I-225 I-25 4
+CO I-225 5 12
+
+GA GA2 US76/411 FortMouSP
+
+GA GA19 US80_W US129_N
+GA GA19 US23/129 ZebRd
+
+GA US23 US129_S I-75(171)
+
+GA GA20 GA81/155 LowWooRd
+
+GA GA81 GA20/155 KeysFerRd
+
+GA GA362 US27Alt GA74/85_S
+
+GA US17 US82_W GA520_E
+
+GA GA520 US17_N RivDr
+
+GA GA25SprBru US17 I-95
+GA US17 GA25SprExt GA25SprBru
+
+GA US80 IslExpy TybSt
+
+GA US27AltNew WarmSConRd US80
+
+GA GA6 US29 I-85
+GA US29 GA6 HowSlaCir
+
+GA GA120 US41 I-75
+
+
+
+
