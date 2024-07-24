@@ -159,7 +159,7 @@ GA GA5 I-75(268) CheLogSt
 
 GA I-285 60 33 #covers part of 285
 
- #covers part of 285
+GA I-285 20 60 #covers part of 285
 
 GA GA314 GA85 GA139 #covers 314 from Fayetteville to Riverdale road at airport
 
@@ -593,6 +593,34 @@ GA US29 GA6 HowSlaCir
 
 GA GA120 US41 I-75
 
+GA GA141 GA9 KelMillRd
 
+GA GA6 GA61 I-20
+
+GA GA61 US278 MemDr_E
+
+GA GA92 PetRd US29_S
+
+GA GA92 CamSt I-20
+
+GA GA92 BillCarPkwy GA120Con
+
+GA GA279 GA314 I-85/285
+
+SC US25 I-85(44) SC20
+
+SC SC20 MainSt US25
+
+SC I-385 36 42
+
+UT UT9 I-15 US89
+
+UT US89 UT9 UT20
+
+UT UT12 US89 UT63
+
+UT UT63 UT12 BryCanNP
+
+UT UT20 I-15 US89
 
 
