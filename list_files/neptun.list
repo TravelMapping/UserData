@@ -1,5 +1,5 @@
 # ──────────
-# 2024-07-23
+# 2024-07-25
 # ──────────
 
 CZE D0 76 28
@@ -252,6 +252,10 @@ DEU-BY St2154 CHA40 B20_N
 DEU-BY St2350 St2088 B2R
 DEU-BY St2622 St2126/2127 B12
 
+DEU-NI A30Sch NLD/DEU DEU-NW A30Oey 35
+
+DEU-NW A2 32 DEU-ST A2 68
+
 DEU-MV A11 POL/DEU DEU-BB A11 5
 DEU-MV A20 24 DEU-BB A20 39
 
@@ -262,6 +266,11 @@ DEU-MV B196 B96 FeldStr
 DEU-MV L29 B196_N B96b
 DEU-MV L30Bre B96 L303
 DEU-MV L292 B196 StrStr
+
+DEU-SN A4 76 77b
+DEU-SN A17 1 DEU/CZE
+
+DEU-ST A14 2 DEU-SN A14 38
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
@@ -373,6 +382,12 @@ ITA SS434 TanSud SP1
 ITA SS723 SP19 SS723Dir
 ITA SS723DirFer ViaBol SS723
 ITA SS728 RA6 S33Bis
+
+#┌───────────────────────────────────────────┐
+#│                    NLD                    │
+#└───────────────────────────────────────────┘
+
+NLD A1 A10 NLD/DEU
 
 #┌───────────────────────────────────────────┐
 #│                    POL                    │
