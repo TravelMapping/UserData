@@ -355,8 +355,6 @@ ITA A25 A24 A14
 
 ITA RA6 SR75Bis_PasE ViaSet
 
-ITA SGCFirLiv A1 A12
-
 ITA SS1 A12_Tar SP161
 ITA SS1 SP36 A12_MalN
 ITA SS1Civ AGRA SP4A
@@ -381,6 +379,8 @@ ITA SS434 TanSud SP1
 ITA SS723 SP19 SS723Dir
 ITA SS723DirFer ViaBol SS723
 ITA SS728 RA6 S33Bis
+
+ITA SGCFirLiv A1 A12
 
 #┌───────────────────────────────────────────┐
 #│                    NLD                    │
