@@ -197,17 +197,24 @@ CZE VysRad KbelSka D0
 
 AUT A1 169 281
 AUT A1 292 297
+AUT A2 0 186
+AUT A5 0 23
 AUT A7 0 S10
+AUT A9 189 AUT/SVN
 AUT A12 DEU/AUT 74
 AUT A12 77 87
 AUT A13 A12_E AUT/ITA
 AUT A13Inn A13 A12
+AUT A23 2 17
 
+AUT S1Wie 36 44
+AUT S2 0 S1
 AUT S10 A7 22
 
 AUT B1 DEU/AUT A1(297)
 AUT B1 B155 GebPla
 AUT B1 B150_S L119
+AUT B7 CZE/AUT A5(23)
 AUT B125 S10(22) S10(16)
 AUT B145 A1 L1297
 AUT B151 B152_Unt L543
@@ -339,6 +346,19 @@ ESP-CT C32B B22 CarFDS
 ESP-CT N260 C13_N C14
 
 #┌───────────────────────────────────────────┐
+#│                    HRV                    │
+#└───────────────────────────────────────────┘
+
+HRV A1 1 7a
+HRV A2 SVN/HRV 7
+HRV A3 4a 5
+HRV A6 1 6
+HRV A7 13 15
+
+HRV D102 A7 Z5131_E
+HRV D501 A6 A7
+
+#┌───────────────────────────────────────────┐
 #│                    HUN                    │
 #└───────────────────────────────────────────┘
 
@@ -447,3 +467,11 @@ SCT A902 A901 A8
 #└───────────────────────────────────────────┘
 
 SVK I63 UliSze SVK/HUN
+
+#┌───────────────────────────────────────────┐
+#│                    SVN                    │
+#└───────────────────────────────────────────┘
+
+SVN A1 AUT/SVN 7
+SVN A4 A1 SVN/HRV
+
