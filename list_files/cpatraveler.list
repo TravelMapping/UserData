@@ -1832,35 +1832,56 @@ FL I-75 164 128A #02122017 DeSoto NM Trip
 FL I-75 23 19
 FL I-95 205 249 #02112017 Trip to Canveral National Seashore
 FL I-95 24 52 #03292017 Glades Board Meeting
-FL I-95 311 337 #07072017 Trip to St Augustine    
+FL I-95 147 52 #11262017 Glades Interim - Everglades
+FL I-95 311 337 #07072017 Trip to St Augustine
+FL I-95 273 260 #03282018 Glades Board Meeting     
 FL I-110 1 6
 FL I-295 61 48 #07072017 Trip to St Augustine
 FL I-295 35 48
 FL I-295 21 10 #07072017 Trip to St Augustine
 FL I-595 I-75 12 #Numerous Trips to Glades Electric
+FL FLTpk US1_Cut 1 #11262017 Glades Interim - Everglades
+FL FLTpk 307 259 #Disney World Trip with kids   
 FL US1 US1BusStA_S FL207 #07072017 Trip to St Augustine
-FL US1 I-295(60) FL16 #07072017 Trip to St Augustine 
-FL US17 I-295(10) FL16_E #07072017 Trip to St Augustine   
+FL US1 I-295(60) FL16 #07072017 Trip to St Augustine
+FL US1 FL60 FL68 #11262017 Glades Interim - Everglades
+FL US1 FL11/100 I-95(273) #03282018 Glades Board Meeting  
+FL US17 I-295(10) FL16_E #07072017 Trip to St Augustine
+FL US17 FL62 FL70 #11262017 Glades Interim - Everglades
+FL US17 FL70 FL636 #03272024 Glades Board Meeting
+FL US23 I-295(28) FL/GA #07152018 Hilton Head Trip NTCA      
 FL US27 FL159 FL12
 FL US27 FLTpk(289) FL29
 FL US27 CR720_S FL997 
+FL US27 I-75(354) US301/441 #Silver Springs Trip with Kids 
 FL US29 FL/AL I-10 #Pensacola Beach Trip 
 FL US98 CR399 US98BusPen_E
 FL US98 MarSt_W US319_N
 FL US98 US27_N US27_S
 FL US98 FL70_W I-95
+FL US301 MocWalRd FL62 #11262017 Glades Interim - Everglades
+FL US441 FL44_E FL19_S #03282018 Glades Board Meeting 
 FL US1BusStA US1_N FLA1A_S #07072017 Trip to St Augustine
 FL US98BusPen US98_E US98_W
 FL US441 FL806 US98_E #03292017 Glades Board Meeting
 FL FLA1A US1Bus_S FL202 #07072017 Trip to St Augustine
-FL FLA1AFer FL105 AmelslPkwy_N  #07072017 Trip to St Augustine
+FL FLA1AFer SJRivFry AmeIslPkwy_N  #07072017 Trip to St Augustine
 FL FLA1ANSB FL44 CRA1A #02122017 Trip to Canveral National Seashore
 FL FL16 US17_S US1Bus #07072017 Trip to St Augustine
-FL FL29 FL80_E FL78 #02122017 DeSoto NM Trip   
+FL FL19 US441_N US27 #03282018 Glades Board Meeting
+FL FL29 FL80_E FL78 #02122017 DeSoto NM Trip
+FL FL40 CR314 I-75 #Silver Springs Trip with Kids    
 FL FL44DeL I-95 FLA1A #02112017 Trip to Canveral National Seashore
 FL FL44DeL I-95 I-4 #02122017 DeSoto NM Trip
-FL FL64 I-75 75thSt #02122017 DeSoto NM Trip 
-FL FL65 US98/319 FL20 
+FL FL44Del I-4 US441 #03282018 Glades Board Meeting
+FL FL60 I-95 US1 #11262017 Glades Interim - Everglades 
+FL FL62 US301 US17 #11262017 Glades Interim - Everglades
+FL FL64 I-75 75thSt #02122017 DeSoto NM Trip
+FL FL64 US17 FL636 #03272024 Glades Board Meeting
+FL FL65 US98/319 FL20
+FL FL68 US1 FL713 #11262017 Glades Interim - Everglades 
+FL FL70 US17 I-95 #11262017 Glades Interim - Everglades
+FL FL70 US17 FL31 #03272024 Glades Board Meeting  
 FL FL73 FL71 US90_E
 FL FL73 FL276 US231
 FL FL78 FL29 US27_N #02122017 DeSoto NM Trip
@@ -1869,15 +1890,20 @@ FL FL79 FL20 CR279_S
 FL FL80 I-75 FL29_N #02122017 DeSoto NM Trip
 FL FL85 FL/AL US90 #07052024
 FL FL85 FL20 FL293 #07052024
+FL FL100 FL121 US1_S #03282018 Glades Board Meeting
+FL FL102 I-95 FL243 #07152018 Hilton Head Trip NTCA
 FL FL105 I-295 FLA1A #07072017 Trip to St Augustine
+FL FL121 I-10 FL100 #03282018 Glades Board Meeting
 FL FL123 FL85_N FL85_S  #07052024
 FL FL173 FL292 US98 
 FL FL188 FL189 FL85  #07052024
 FL FL202 FLA1A I-295 #07072017 Trip to St Augustine
-FL FL207 US1 I-95 #07072017 Trip to St Augustine  
+FL FL207 US1 I-95 #07072017 Trip to St Augustine
+FL FL243 I-95 I-295 #07152018 Hilton Head Trip NTCA   
 FL FL267Qui FL20 US90_W
 FL FL267Qui US90_E FL/GA
 FL FL300 GulfBeaDr US98/319
+FL FL492 US27/301 FL40 #Silver Springs Trip with Kids 
 FL FL528 11 42 #02112017 Trip to Canveral National Seashore
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
 FL FL886 US1 FloWay #Going on Crusies out of Miami
@@ -2056,7 +2082,7 @@ NV NV596 I-11 SahAve #06072024
 NV NV604 I-15 CarAve #06072024
 NV NV610 NV604 I-15 #06072024
 NV NV612 NV604 NV593 #06072024
-PE I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
+PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
 SD I-29 26 109 #07222019
 SD I-29 IA/SD 26 #07102024 Badland Trip
 SD I-90 SD/MN 364 #07212019
