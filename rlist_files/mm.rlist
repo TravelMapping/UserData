@@ -10,8 +10,8 @@ CT NESpr NY/CT Bri
 
 #DC
 
-DC FreLn VA/DC WasUniSta
-DC RedLn UniSta DC/MD
+DC BluLn VA/DC StaArm
+DC RedLn MetCen DC/MD
 
 #Florida
 
@@ -85,7 +85,7 @@ NY C 34StPennSta HighSt
 
 #Virginia
 
-VA FreLn FraSpr VA/DC
+VA BluLn FraSpr VA/DC
 
 #Wisconsin
 WI UPN IL/WI Ken
