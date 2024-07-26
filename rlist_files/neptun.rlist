@@ -38,7 +38,7 @@ CZE 25Pra BilaHora NasLib
 CZE 26Pra DivSar Hos
 
 CZE S1 PraMasNad Kol
-CZE S2 PraMasNad VelOsek
+CZE S2 PraMasNad Kol
 CZE S3 Mel PraHlaNad
 CZE S3Mla MlaBolHlaNad PraHlaNad
 CZE S4 Hne PraMasNas
@@ -75,6 +75,7 @@ CZE S76 Loc ZadTre
 CZE S80 Cer Chr
 CZE S82 Smr SveNadSaz
 CZE S90 Olb Mez
+CZE S98 BenesovPra Olb
 
 # ────────────
 # Brno–IDS JMK
@@ -101,7 +102,7 @@ CZE 13Ost +DIV_371219 DolVit
 CZE 17Ost PorVre +DIV_71112
 
 CZE S2Mor OstSvi MosJab
-CZE S4Mor OstHlaNad Stu
+CZE S3Mor OstHlaNad HraNaMor
 CZE S5Mor FryNadOst Ost
 CZE S6Mor OstHlaNad LisFry
 CZE S6Mor FryMis FryNadOst
