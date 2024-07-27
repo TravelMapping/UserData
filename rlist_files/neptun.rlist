@@ -2,6 +2,10 @@
 # 2024-07-22
 # ──────────
 
+# ─────────
+# Praha–PID
+# ─────────
+
 CZE A NemMot DepoHos
 CZE B Zli CerMost
 CZE C Let Haje
@@ -33,21 +37,8 @@ CZE 24Pra Kob NamBraSyn
 CZE 25Pra BilaHora NasLib
 CZE 26Pra DivSar Hos
 
-CZE 4Brn NamSvo HlaNad
-CZE 5Brn Ces MenNam
-CZE 8Brn NemBoh HlaNad
-
-CZE 1Ost HlaNad HraPol
-CZE X3Ost +DIV_271119 +DIV_7111718
-CZE 4Ost SviMos Kar
-CZE 5Ost BudZat PorVre
-CZE 13Ost +DIV_371219 DolVit
-CZE 17Ost PorVre +DIV_71112
-
-CZE 3Lib LidSadyZoo Spa
-
 CZE S1 PraMasNad Kol
-CZE S2 PraMasNad VelOsek
+CZE S2 PraMasNad Kol
 CZE S3 Mel PraHlaNad
 CZE S3Mla MlaBolHlaNad PraHlaNad
 CZE S4 Hne PraMasNas
@@ -84,6 +75,55 @@ CZE S76 Loc ZadTre
 CZE S80 Cer Chr
 CZE S82 Smr SveNadSaz
 CZE S90 Olb Mez
+CZE S98 BenesovPra Olb
+
+# ────────────
+# Brno–IDS JMK
+# ────────────
+
+CZE 4Brn NamSvo HlaNad
+CZE 5Brn Ces MenNam
+CZE 8Brn NemBoh HlaNad
+
+CZE S2Jih Let BrnoHlaNad
+CZE S3Jih Kri Sak
+CZE S51Jih Sak Bre
+CZE S53Jih Bre Lan
+
+# ────────────
+# Ostrava–ODIS
+# ────────────
+
+CZE 1Ost HlaNad HraPol
+CZE X3Ost +DIV_271119 +DIV_7111718
+CZE 4Ost SviMos Kar
+CZE 5Ost BudZat PorVre
+CZE 13Ost +DIV_371219 DolVit
+CZE 17Ost PorVre +DIV_71112
+
+CZE S2Mor OstSvi MosJab
+CZE S3Mor OstHlaNad HraNaMor
+CZE S5Mor FryNadOst Ost
+CZE S6Mor OstHlaNad LisFry
+CZE S6Mor FryMis FryNadOst
+CZE S9Mor OstKun CesTes
+
+# ────────────
+# Liberec+IDOL
+# ────────────
+
+CZE 3Lib LidSadyZoo Spa
+
+CZE L2 DecHlaNad CesLipaHlaNad
+CZE L3 Libe MalaSka
+CZE L7 POL/CZE Lib
+CZE L7Var Var CZE/DEU
+CZE L9 JabNadJiz MarKrk
+CZE L35 Tur Jic
+
+# ───
+# DÚK
+# ───
 
 CZE U1 Most DecHlaNad
 CZE U4 UstiNadLabHlaNad Hne
@@ -101,24 +141,9 @@ CZE U57 Zlu BlaJes
 CZE T10 Svor PraHlaNad
 CZE T11 Tel DecHlaNad
 
-CZE S2Mor OstSvi MosJab
-CZE S4Mor OstHlaNad Stu
-CZE S5Mor FryNadOst Ost
-CZE S6Mor OstHlaNad LisFry
-CZE S6Mor FryMis FryNadOst
-CZE S9Mor OstKun CesTes
-
-CZE S2Jih Let BrnoHlaNad
-CZE S3Jih Kri Sak
-CZE S51Jih Sak Bre
-CZE S53Jih Bre Lan
-
-CZE L2 DecHlaNad CesLipaHlaNad
-CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
-CZE L9 JabNadJiz MarKrk
-CZE L35 Tur Jic
+# ─────
+# IREDO
+# ─────
 
 CZE V41 Sany HraKraHlaNad
 CZE V51 ChlNadCid StaPaka
@@ -127,30 +152,42 @@ CZE V51 ChlNadCid StaPaka
 #│                    AUT                    │
 #└───────────────────────────────────────────┘
 
+# ────
+# Wien
+# ────
+
+AUT U2 Schr Tab
+AUT U4 Scho WienHei
+
+AUT 1Wie PraHau Schw
+AUT 2Wie Schw Tabs
+
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S7 WienRen Flu
 AUT S40 TulDon WienFraJosBah
 AUT S60 WienHau BruLei
 
-AUT 1Wie PraHau Schw
-AUT 2Wie Schw Tabs
-
-AUT U2 Schr Tab
-AUT U4 Scho WienHei
-
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
 #└───────────────────────────────────────────┘
 
+# ───────
+# Dresden
+# ───────
+
 DEU-SN U28 BadSch DEU/CZE
 DEU-SN L7 CZE/DEU DEU/POL
 
-DEU-BY 16Mun SenTor MauKirStr
-DEU-BY 17Mun RomPla HbfNord
+# ───────
+# München
+# ───────
 
 DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
 DEU-BY U6 StuSta SenTor
+
+DEU-BY 16Mun SenTor MauKirStr
+DEU-BY 17Mun RomPla HbfNord
 
 DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
@@ -158,6 +195,10 @@ DEU-BY S1Fri Fre NeuFah
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
 #└───────────────────────────────────────────┘
+
+# ──────
+# London
+# ──────
 
 ENG BakLn Ken Wat
 ENG CenLnEal SheBush GanHill
@@ -172,6 +213,10 @@ ENG MilLn ClaJct WilJct
 
 ENG DLR Bank DepBri
 
+# ────────
+# Railways
+# ────────
+
 ENG EliLn Pad LivSt
 ENG StaEx LonLivSt StaAir
 ENG ThaLnkRai LonBri Gre
@@ -179,6 +224,10 @@ ENG ThaLnkRai LonBri Gre
 #┌───────────────────────────────────────────┐
 #│                    ESP                    │
 #└───────────────────────────────────────────┘
+
+# ─────────
+# Barcelona
+# ─────────
 
 ESP-CT R2N PasGra Aer
 
@@ -188,6 +237,10 @@ ESP-CT L4 Bar Ver
 #┌───────────────────────────────────────────┐
 #│                    HUN                    │
 #└───────────────────────────────────────────┘
+
+# ────────
+# Budapest
+# ────────
 
 HUN M1 VorTer MexUt
 HUN M2 OrsVezTere SzeKalTer
@@ -206,9 +259,13 @@ POL L7 DEU/POL POL/CZE
 #│                    SVK                    │
 #└───────────────────────────────────────────┘
 
+# ──────────
+# Bratislava
+# ──────────
+
+SVK 9Bra KraUdo Kap
+
 SVK S8 BraPet Rus
 SVK S20 Kuty BraHlaSta
 SVK S60 BraHlaSta Gal
-
-SVK 9Bra KraUdo Kap
 
