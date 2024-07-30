@@ -1,4 +1,4 @@
-# Date: 2024-07-29
+# Date: 2024-07-30
 # ----------------
 
 ######################
@@ -462,7 +462,7 @@ DEU-HE U8 RiedBerg FraFurtSud                    #2022
 DEU-HE U9 NieEschBach GinnHeim                   #2022
 DEU-HE 12Fra RothSchAll RohrBachStrFriBerLandStr #2022 Rothschildallee - Rohrbachstr
 DEU-HE 18Fra RohrBachStrFriBerLandStr SudBf      #2022, Rohrbachstr - Konstablerwache - Frankensteiner Platz - Südbahnhof
-DEU-HE 16Fra HeiSeeHofStr OffBachStaGre          #2024, traveled as rerouted 18
+DEU-HE 16Fra LokalBf OffBachStaGre          #2024, traveled as rerouted 18
 DEU-HE 18Fra GraStePla LokalBf                   #2024
 DEU-HE 12Fra RothSchAll EisSpoHalFestPla         #2024
 DEU-HE 14Fra GusBurgPla ErnMayPla                #2024
