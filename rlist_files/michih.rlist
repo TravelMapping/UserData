@@ -1,4 +1,4 @@
-# Date: 2024-07-12
+# Date: 2024-07-29
 # ----------------
 
 ######################
@@ -229,6 +229,22 @@ DEU-BW S41Hei MosBachNecElz Har                #2024
 
 DEU-BY RS71 BW/BY WeiHorn                      #2024
 
+#DEU-BW RE87 Lauda DEU-BY Aschaffenburg Hbf    #2024
+DEU-HE S2 MarPla DieBachBf                     #2024
+DEU-HE S1 KonWac RodMarkOberRod                #2024
+DEU-HE S6 FriBerg HauWac                       #2024
+#DEU-HE RB16 Friedberg Friedrichsdorf          #2024
+DEU-HE S5 FriDorf FraFurtRodHeim               #2024
+DEU-HE S4 KronBerg FraFurtRodHeim              #2024
+DEU-HE S3 BadSod NieHochSta                    #2024
+DEU-HE S2 NieHau FraFurtHoc                    #2024, traveled as RB22
+#DEU-HE RB21 Niederhausen Wiesbaden Hbf        #2024
+#DEU-HE RB75 Wiesbaden Hbf Darmstadt Hbf       #2024, RB75 via Mainz-Kastel, Groß-Gerau
+DEU-HE S6Ben BW/HE BensHeim                    #2024, traveled as RE68
+DEU-BW S6Man +SKIP_MannHeimFriFeldSud BW/HE    #2024, traveled as RE68
+#DEU-HE RE68 Hähnlein-Alsbach DEU-BW Heidelberg Hbf   #2024
+DEU-BW S3Man HeiBergHbf Bru                    #2024, traveled as RE73
+#DEU-BW RE73 Heidelberg Hbf Bruchsal           #2024
 
 ######################
 #### METROS/TRAMS ####
@@ -304,7 +320,7 @@ DEU-BW S4Kar AlbTalBf KroPla       #2022
 DEU-BW 1Kar MuhlBurTor KroPla      #2022
 DEU-BW 2Kar KniNord BahVorPla      #2022, via ZKM, Europaplatz
 
-#Mannheim tram main station was closed due to construction, July 2022
+#Mannheim tram main station was closed due to construction in July 2022
 DEU-BW 1Man SchEndSte Uni          #2022
 DEU-BW 3Man SandHofEndSte ParPla   #2022
 DEU-RP 4Lud BerPla RP/BW           #2022
@@ -312,6 +328,9 @@ DEU-BW 4Man RP/BW Uni              #2022
 DEU-BW 4AMan KunHal ParPla         #2022
 DEU-RP 6ALud BerPla RP/BW          #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
 DEU-BW 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - Mannheim Tattersall
+DEU-BW 5Man +DIV_Was BW/HE         #2024, rerouted from Wasserturm to Paradeplatz due to construction
+DEU-HE 5Vie BW/HE HE/BW            #2024
+DEU-BW 5Hei HE/BW ParPla           #2024
 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
@@ -423,6 +442,15 @@ DEU-HH S2 HolStr HH/SH                                                          
 DEU-SH S2 HH/SH AuMuh                                                                          #2023
 #DEU-NI Stade Hamburg-Harburg                                                                  #2023, RE5, different routing in Harburg than S3
 
+DEU-HE 2Dar Hbf +DIV_Hbf                         #2024, traveled as 4
+DEU-HE 3Dar Hbf LuiPla                           #2024
+DEU-HE 3Dar Sch LicBergSch                       #2024
+DEU-HE 4Dar KraSteBf +DIV_Hbf                    #2024, west end is Hbf on Sunday
+DEU-HE 8Dar DreWeg WilBraPla                     #2024
+DEU-HE 8Dar RheNecStr AlsBachHinSte              #2024
+DEU-HE 9Dar PlatzBarDuc LuiPla                   #2024
+DEU-HE 9Dar SchStr BolFallTor                    #2024
+
 DEU-HE U1 GinnHeim FraFurtSud                    #2022
 DEU-HE U2 GonHeim FraFurtSud                     #2022
 DEU-HE U3 OberUrsHoheMark FraFurtSud             #2022
@@ -434,6 +462,11 @@ DEU-HE U8 RiedBerg FraFurtSud                    #2022
 DEU-HE U9 NieEschBach GinnHeim                   #2022
 DEU-HE 12Fra RothSchAll RohrBachStrFriBerLandStr #2022 Rothschildallee - Rohrbachstr
 DEU-HE 18Fra RohrBachStrFriBerLandStr SudBf      #2022, Rohrbachstr - Konstablerwache - Frankensteiner Platz - Südbahnhof
+DEU-HE 16Fra HeiSeeHofStr OffBachStaGre          #2024, traveled as rerouted 18
+DEU-HE 18Fra GraStePla LokalBf                   #2024
+DEU-HE 12Fra RothSchAll EisSpoHalFestPla         #2024
+DEU-HE 14Fra GusBurgPla ErnMayPla                #2024
+DEU-HE 11Fra TilStr_1 SchHutStr                  #2024
 
 DEU-HE 4Kas RatHausFunfFenStr BurHaus             #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
 
