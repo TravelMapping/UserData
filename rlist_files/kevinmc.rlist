@@ -43,6 +43,9 @@ FRA-IDF M4 EttMar StMic
 FRA-IDF FunMon Inf Sup
 FRA-IDF M4 BarRoc StrStDen
 FRA-IDF D StaFraStDen GareNord
+FRA-IDF A ChaHal GareLyon
+FRA-IDF M1 Bas GareLyon
+FRA-IDF M8 BonNou Bas
 
 #########
 # ITALY #
