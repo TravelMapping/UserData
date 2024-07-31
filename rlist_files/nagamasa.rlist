@@ -389,6 +389,9 @@ CO WLn DecFed UniSta
 ## MIAMI METRORAIL
 FL OraLn Bri MiaAir
 
+### NV
+NV AE ParkMGM Bel
+
 ### NY
 NY AirTrnJam Jam Loop
 NY NECorLn PennSta NJ NECorLn Met
@@ -403,6 +406,15 @@ NY J BroSt CanSt
 NY L 8Ave 14StUniSq
 NY M 47-50StsRocCen LexAve53St
 NY Q 96St CanSt
+
+### OR
+## PORTLAND STREETCAR
+OR NSLn HarSt 18thNor
+OR NSLn 23rdMar Joh_N
+
+## MAX LRT
+OR RedLn GooseHolJefSt Hol42ndAve
+OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
 ## LINK
