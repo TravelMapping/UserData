@@ -31,6 +31,22 @@ FRA-IDF M4 GareNord StrStDen
 FRA-IDF M8 Inv BonNou
 FRA-IDF M9 AlmaMar BonNou
 
+# 2024-07-28
+FRA-IDF CVer VerChaRiveGau Inv
+
+# 2024-07-29
+FRA-IDF M3 HavCau Sen
+FRA-IDF CPon Inv StMicNotDame
+FRA-IDF M4 EttMar StMic
+
+# 2024-07-30
+FRA-IDF FunMon Inf Sup
+FRA-IDF M4 BarRoc StrStDen
+FRA-IDF D StaFraStDen GareNord
+FRA-IDF A ChaHal GareLyon
+FRA-IDF M1 Bas GareLyon
+FRA-IDF M8 BonNou Bas
+
 #########
 # ITALY #
 #########
