@@ -102,7 +102,6 @@ CZE U11 Lou Lov
 CZE U12 Most Rak
 CZE U13 Most Zat
 CZE U14 Zat Rak
-CZE U28Dec DEU/CZE DecHlaNad
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
@@ -182,7 +181,8 @@ AUT S60 WienHau BruLei
 # Dresden
 # ───────
 
-DEU-SN U28 BadSch DEU/CZE
+DEU-SN S1Dre RadZit Sch
+DEU-SN U28 BadSch CZE U28Dec DecHlaNad
 DEU-SN L7 CZE/DEU DEU/POL
 
 # ───────
@@ -198,6 +198,8 @@ DEU-BY 17Mun RomPla HbfNord
 
 DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
+DEU-BY S2 Dac Hbf
+DEU-BY S2Pet PetHau Dac
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
