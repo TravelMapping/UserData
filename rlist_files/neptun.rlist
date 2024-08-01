@@ -1,5 +1,5 @@
 # ──────────
-# 2024-07-22
+# 2024-08-01
 # ──────────
 
 # ─────────
@@ -90,37 +90,6 @@ CZE S3Jih Kri Sak
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
 
-# ────────────
-# Ostrava–ODIS
-# ────────────
-
-CZE 1Ost HlaNad HraPol
-CZE X3Ost +DIV_271119 +DIV_7111718
-CZE 4Ost SviMos Kar
-CZE 5Ost BudZat PorVre
-CZE 13Ost +DIV_371219 DolVit
-CZE 17Ost PorVre +DIV_71112
-
-CZE S2Mor OstSvi MosJab
-CZE S3Mor OstHlaNad HraNaMor
-CZE S5Mor FryNadOst Ost
-CZE S6Mor OstHlaNad LisFry
-CZE S6Mor FryMis FryNadOst
-CZE S9Mor OstKun CesTes
-
-# ────────────
-# Liberec+IDOL
-# ────────────
-
-CZE 3Lib LidSadyZoo Spa
-
-CZE L2 DecHlaNad CesLipaHlaNad
-CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
-CZE L9 JabNadJiz MarKrk
-CZE L35 Tur Jic
-
 # ───
 # DÚK
 # ───
@@ -147,6 +116,44 @@ CZE T11 Tel DecHlaNad
 
 CZE V41 Sany HraKraHlaNad
 CZE V51 ChlNadCid StaPaka
+
+# ────────────
+# Liberec-IDOL
+# ────────────
+
+CZE 3Lib LidSadyZoo Spa
+
+CZE L2 DecHlaNad CesLipaHlaNad
+CZE L3 Libe MalaSka
+CZE L7 POL/CZE Lib
+CZE L7Var Var CZE/DEU
+CZE L9 JabNadJiz MarKrk
+CZE L35 Tur Jic
+
+# ───────
+# Olomouc
+# ───────
+
+CZE 7Olo NreKre OkrSoud
+
+# ────────────
+# Ostrava–ODIS
+# ────────────
+
+CZE 1Ost HlaNad HraPol
+CZE X3Ost +DIV_271119 +DIV_7111718
+CZE 4Ost SviMos Kar
+CZE 5Ost BudZat PorVre
+CZE 13Ost +DIV_371219 DolVit
+CZE 17Ost PorVre +DIV_71112
+
+CZE S2Mor OstSvi MosJab
+CZE S3Mor OstHlaNad HraNaMor
+CZE S5Mor FryNadOst Ost
+CZE S6Mor OstHlaNad LisFry
+CZE S6Mor FryMis FryNadOst
+CZE S9Mor OstKun CesTes
+CZE S22Mor MosJab MosJabZas
 
 #┌───────────────────────────────────────────┐
 #│                    AUT                    │
