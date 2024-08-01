@@ -121,9 +121,10 @@ FL ResMon TraTicCen_1 TraTicCen_2
 
 TN MainStTro But Mad
 
+TX BlueLn UNTDal DowRow
 TX GreLn NCarFra Buc
-TX OraLn DFWAir PeaArtsDis
-TX RedLn Wes PeaArtsDis
+TX OraLn DFWAir LBJCen
+TX RedLn Wes ParRd
 TX DalStr BisArts Uni
 
 TX PurLnHou TheDis PalmCenTC
