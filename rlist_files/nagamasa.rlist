@@ -37,12 +37,22 @@ ON 510 SpaSta UniSta
 ### CAN-QC
 QC OraLn LioGro MonRoy
 
+#### CHE
+## TRAMWAY DE GENEVE
+CHE 18Gen GareCor CHE 18Gen CERN
+
+## TRAIN
+CHE L6 +DIV_Air GenCor
+
 #### DEU
 ### MUNICH
+DEU-BY S2 Dac BergLaim
+DEU-BY S4 BergLaim Gra
 DEU-BY S8 OstBf FlugHafMun
 DEU-BY U1 OlyEinZen Hbf
 DEU-BY U3 OlyEinZen MarPla
-DEU-BY S2 Dac BergLaim
+
+DEU-BY S2Sal Fre AUT S2Sal SalHau
 
 ### BERLIN
 DEU-BE S1 BraBurTor PotPla
@@ -80,9 +90,19 @@ ESP-AN C1Mal MalCenAla Aer
 ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
 ENG LonAms LonStPanInt BEL LonAms BruMidi
 
-### FRA
+#### FRA
+### ILE DE FRANCE
+## PARIS RER
 FRA-IDF B AerCDG2TGV ChaHal
-FRA-IDF A CdGEto ChaHal
+FRA-IDF A ChaHal GareLyon
+
+## PARIS METRO
+FRA-IDF M1 FraDRoo GareLyon
+FRA-IDF M3 StLaz Bou
+FRA-IDF M4 Cha StGerPres
+FRA-IDF M8 EcoMil RicDro
+FRA-IDF M9 Tro FraDRoo
+FRA-IDF M14 StLaz GareLyon
 
 #### HKG 
 ## HK TRAMWAYS
@@ -105,14 +125,24 @@ HKG DisResLn SunBay DisRes
 HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
-
 ### ITA
-##
+## METROPOLITANA DI ROMA
 ITA-LAZ MA Ott Ter
 ITA-LAZ MB Ter Col
-ITA-CAM 13Nap NapGar PomScaVilMis
-ITA-CAM 2Nap NapPiaCav Pom
 
+## TRANVIARIA DI ROMA
+ITA-LAZ 8Rom BerFel Cai
+ITA-LAZ 3Rom PorSanPao BerFel
+
+## LEONARDO EXPRESS
+ITA-LAZ FL1 +DIV_FL5 FiuAer
+ITA-LAZ FL5 +DIV_FL1 RomaTer
+
+## CIRCUMVESUVIANA
+ITA-CAM 13Nap NapGar PomScaVilMis
+
+## NAPLES METRO
+ITA-CAM 2Nap NapPiaCav Pom
 
 #### JPN
 ### JR
@@ -304,8 +334,10 @@ NLD IC35 AmsCen SchAir
 NLD 52Ams Rok StaZuid
 
 #### NOR
-NOR FLY1 OsloS OsloLuf
+NOR FLY2 NatThe OsloLuf
 NOR RE20 OsloS NOR RE20 NOR/SWE
+
+NOR 12Osl AkerBry Jer
 
 #### SGP
 SGP EW EW4 EW24
@@ -314,6 +346,21 @@ SGP DT DT11 DT35
 SGP NE NE1 NE8
 SGP CC CC22 CC29
 SGP TE TE17 TE22
+
+#### SWE
+### STOCKHOLM
+## RAIL
+SWE 43Sto Bal StoCity
+SWE 40Sto StoCity +DIV_Gro
+SWE 48Sto SodSyd Gne
+
+##METRO
+SWE 17Sto RadGat Slu
+SWE 10Sto Rad TCen
+
+### GOTEBERG
+## TRAM
+SWE 3Got KunPla CenSta
 
 #### USA
 ## AMTRAK
@@ -342,6 +389,9 @@ CO WLn DecFed UniSta
 ## MIAMI METRORAIL
 FL OraLn Bri MiaAir
 
+### NV
+NV AE ParkMGM Bel
+
 ### NY
 NY AirTrnJam Jam Loop
 NY NECorLn PennSta NJ NECorLn Met
@@ -356,6 +406,15 @@ NY J BroSt CanSt
 NY L 8Ave 14StUniSq
 NY M 47-50StsRocCen LexAve53St
 NY Q 96St CanSt
+
+### OR
+## PORTLAND STREETCAR
+OR NSLn HarSt 18thNor
+OR NSLn 23rdMar Joh_N
+
+## MAX LRT
+OR RedLn GooseHolJefSt Hol42ndAve
+OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
 ## LINK
