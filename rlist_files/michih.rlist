@@ -1,4 +1,4 @@
-# Date: 2024-07-30
+# Date: 2024-08-03
 # ----------------
 
 ######################
@@ -170,6 +170,7 @@ DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
 DEU-BW S6Bod Eng Sin                                                #2022, traveled as RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
+DEU-BW S61Bod +DIV_RB31 Rad                                         #2022, traveled as IRE3
 DEU-BW S6Bod Sin +DIV_S61                                           #2022, traveled as IRE3
 #DEU-BW  Singen                       DEU-BW  Friedrichshafen-Stadt #2022, IRE3
 #DEU-BW  Ulm Hbf                      DEU-BW  Wendlingen            #2023, via Merklingen
