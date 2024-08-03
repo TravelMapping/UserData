@@ -1,0 +1,71 @@
+#Heavy Rail
+
+#New York City Subway
+NY S42 TimSq GraCen
+NY 1 TimSq42St CorStWTC
+NY 4 42StGraCen BowGre
+NY 6 86thSt GraCen
+NY 7 34StHudYar JacHeiRooAve
+NY B 81StMusNH 42StBryPark
+NY E SutBlvdArcAve JacHeiRooAve
+NY E LexAve53St 50St
+NY F 47-50StsRocCen 4Ave 
+NY G BerSt 4Ave
+NY J CanSt DelStEssSt
+NY L 8Ave 14StUniSq
+NY R TimSq42St 34StHerSq
+
+#U-Bahn Berlin
+DEU-BE U1 HalTor WarStr
+DEU-BE U2 PotPla EbeWalStr
+DEU-BE U5 Hbf StrBerPla
+DEU-BE U6 UntLin HalTor
+DEU-BE U8 RosThaPla AlePla
+
+#Walt Disney World Monorail
+FL ResMon TraTicCen_1 TraTicCen_2
+
+#Washington Metro
+DC BluLn VA/DC LEnfPla
+DC GreLn LEnfPla GalPla
+DC RedLn WooPk GalPla
+VA BluLn ArlCem VA/DC
+
+#Commuter and Regional Rail
+
+#CapMetro Rail
+TX CapMetRail Lea Dow
+
+#S-Bahn Berlin
+DEU-BB S9 BE/BB FlugHafBER
+DEU-BE S9 Bel BE/BB
+
+#Light Rail
+
+#DART Light Rail
+TX GreLn MarCen DeepEll
+TX RedLn DalZoo LovLn
+
+#METRO Transit Light Rail
+MN BlueLine MallofAmerica HennepinAve
+MN GreenLine HennepinAve SnellingAve
+
+#Straßenbahn Berlin
+DEU-BE M1 UOraBurTor KupGra
+DEU-BE M5 UOraBurTor UAlePla
+
+#Other Services
+
+#United States Landside Airport Rail Systems
+IL AirTraSys Ter3 MulModFac
+MN HubTram Ter1 HubBui
+NY AirTrnJam Jam T5
+
+#United States Tourist Railroads
+CO RoyGorRou CanCity Par
+
+#McKinney Avenue Transit Authority
+TX MLnTro Upt_W Upt_E
+
+#Seattle Center Monorail
+WA SeaCenMon SeaCen WesCen

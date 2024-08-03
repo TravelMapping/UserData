@@ -1,0 +1,425 @@
+##########
+# CANADA #
+##########
+
+# 2011-03-17
+BC CanLn YalRou YVRAir
+
+# 2015-05-24
+ON 1 King Fin
+
+# 2023-02-18
+QC OraLn PlaDArm MonRoy
+QC GreLn LioGro PlaDesArt
+
+# 2023-02-19
+QC OraLn PlaDArm JeaTal
+QC GreLn SaiLau Viau
+
+# 2023-02-20
+QC YelLn BerUQAM JeaDra
+
+##########
+# FRANCE #
+##########
+
+# 2024-07-26
+FRA-IDF B AerCDG2TGV GareNord
+FRA-IDF M4 GareNord StrStDen
+
+# 2024-07-27
+FRA-IDF M8 Inv BonNou
+FRA-IDF M9 AlmaMar BonNou
+
+# 2024-07-28
+FRA-IDF CVer VerChaRiveGau Inv
+
+# 2024-07-29
+FRA-IDF M3 HavCau Sen
+FRA-IDF CPon Inv StMicNotDame
+FRA-IDF M4 EttMar StMic
+
+# 2024-07-30
+FRA-IDF FunMon Inf Sup
+FRA-IDF M4 BarRoc StrStDen
+FRA-IDF D StaFraStDen GareNord
+FRA-IDF A ChaHal GareLyon
+FRA-IDF M1 Bas GareLyon
+FRA-IDF M8 BonNou Bas
+
+# 2024-07-31
+FRA-IDF P ParGareEst VaiTor
+
+# 2024-08-01
+FRA-IDF B ChaHal Lux
+FRA-IDF M7 Ope PalRoyMusLou
+
+# 2024-08-02
+FRA-IDF M3 Bou ArtsMet
+
+#########
+# ITALY #
+#########
+
+# 2018-05-25
+ITA-LAZ MB Ter Col
+
+#########
+# SPAIN #
+#########
+
+# TODO
+
+#######
+# USA #
+#######
+
+###########
+# ARIZONA #
+###########
+
+# INCOMPLETE / SPECULATIVE: early Valley Metro rides
+
+# 2009-03-28
+AZ VMR PriDrWas VetWayCol
+
+# 2009-12-18
+AZ SW Fla AZ/NM
+
+# 2010-04-05
+AZ VMR 3rdSt 44thStWas
+
+# 2015-07-15
+AZ PHX T4 44thSt
+
+##############
+# CALIFORNIA #
+##############
+
+# 2001-06-xx
+CA PowHyde Mar Bea
+
+# 2012-05-24
+CA BARTRed Mil SanBru
+
+# 2012-05-27
+CA CT MouView SanFraKing
+
+# 2012-06-09
+CA BARTBlue 24thMis Emb
+
+# 2012-10-09
+CA BARTGre Col UniCity
+
+# 2012-07-21
+CA BARTRed Mil PowSt
+
+# 2012-10-28
+CA OAKAir OakIntAir Col
+CA CC SanCla OakColAir
+
+# 2012-12-22
+CA CZ Eme CA/NV
+
+# 2013-01-05
+CA MuniN Irv8th9th 4thKing
+
+# 2014-01-18
+CA CS SanBar SanJoseDir
+
+# 2014-05-24
+CA GreLn 12thImpTC CouCenLitIta
+
+# 2014-05-25
+CA PS SanFeDep Ana
+
+# 2014-05-26
+CA PS Ana +DIV_Uni1
+CA PS UniSta +DIV_Uni2
+
+# 2015-03-09
+CA CT SanJoseDir MouView
+
+# 2015-08-14
+CA VTAOra DtnMouView GreAme
+
+# 2018-09-02
+CA B HolHig 7thStMetCen
+
+# 2018-09-30
+CA BARTOra Ash DtnBer
+
+# 2019-01-25
+CA BARTOra UniCity 19thStOak
+
+# 2019-08-24
+CA GreLn 12thImpTC OldTownTC
+
+# 2023-07-06
+CA C AviLAX HarFwy
+CA B 7thStMetCen UniSta
+
+# 2023-07-07
+CA E DowSanMon 7thStMetCen
+
+# 2023-07-08
+CA D WilWes 7thStMetCen
+
+# 2023-07-09
+CA E 7thStMetCen HisBro
+
+# 2023-12
+CA AirTrnBlue LongTermPar Loop
+
+############
+# COLORADO #
+############
+
+# 1995-06-xx
+CO BroManPikPeakCR Man PikPeak
+
+# 2009-12-18
+CO SW NM/CO CO/KS
+
+# 2012-12-23
+CO CZ UT/CO CO/NE
+
+###############
+# CONNECTICUT #
+###############
+
+# 2017-05-26
+CT NewHavLn NY/CT NHStaSt
+
+########################
+# DISTRICT OF COLUMBIA #
+########################
+
+# 2012-05-16
+DC CamLn WasUniSta DC/MD
+
+# 2016-08-24
+DC SilLn FarW FedCenSW
+
+# 2022-08-12
+DC YelLn VA/DC GalPla
+DC RedLn GalPla MetCen
+
+# 2022-08-13
+DC RedLn WooPk DupCir
+
+###########
+# FLORIDA #
+###########
+
+# 2022-09-03
+FL ResMon TraTicCen_1 TraTicCen_2
+
+###########
+# GEORGIA #
+###########
+
+# 2014-04-14
+GA SkyTrn Air RenCarCen
+
+# 2015-01-04
+GA AtlStr KingHisDis DobPla_S
+
+# 2023-04-29
+GA BluLn CNNCen EdgCanPk
+
+# 2023-04-30
+GA RedLn FivePoi Buc
+GA GoldLn FivePoi Len
+
+############
+# ILLINOIS #
+############
+
+# 2009-12-19
+IL SW IA/IL UniSta
+
+# 2011-11-xx
+IL CL UniSta IL/IN
+
+# 2014-01-02
+IL SB Gal UniSta
+
+# 2014-01-03
+IL BlueLn OHa Monr
+
+# 2014-12-29
+IL CZ IA/IL UniSta
+IL HI UniSta IL/WI
+
+###########
+# INDIANA #
+###########
+
+# 2011-11-xx
+IN CL IL/IN IN/OH
+
+########
+# IOWA #
+########
+
+# 2009-12-19
+IA SW MO/IA IA/IL
+
+# 2012-12-24
+IA CZ NE/IA Ott
+
+# 2013-12-22
+IA CZ Ott IA/IL
+
+##########
+# KANSAS #
+##########
+
+# 2009-12-19
+KS SW CO/KS KS/MO
+
+############
+# MARYLAND #
+############
+
+# 2012-05-16
+MD CamLn DC/MD Lau
+
+############
+# MISSOURI #
+############
+
+# 2009-12-19
+MO SW KS/MO MO/IA
+
+############
+# NEBRASKA #
+############
+
+# 2012-12-24
+NE CZ CO/NE NE/IA
+
+##########
+# NEVADA #
+##########
+
+# 2012-12-22
+NV CZ CA/NV NV/UT
+
+# 2018-09-05
+NV LVM MGMGra SLS
+
+##############
+# NEW JERSEY #
+##############
+
+# 2007-12-xx
+NJ AirTrn NewLibAir TerA
+NJ NECorLn NewPenn NewLibAir
+NJ PATHNWT NewPenn NJ/NY
+
+# 2009-09-28
+NJ MeaRailLn SecJct Mea
+
+##############
+# NEW MEXICO #
+##############
+
+# 2009-12-18
+NM SW AZ/NM NM/CO
+
+############
+# NEW YORK #
+############
+
+# 2007-12-14
+NY PATHNWT NJ/NY WTC
+NY 1 116StColUni CorStWTC
+
+# 2008-02-28
+NY AirTrnJam Jam T8
+
+# 2009-07-04
+NY 2 96St ChaSt
+NY 1 ChaSt SouFry
+
+# 2009-07-05
+NY 1 168St 116StColUni
+NY A 190St 168St
+
+# 2017-05-26
+NY S42 TimSq GraCen
+NY NewHavLn GraCen NY/CT
+
+# 2017-12-31
+NY 6 59thSt 23rdSt
+NY 6 UniSq CanSt
+NY J CanSt ChaSt
+
+# TODO NYC subway
+
+# 2020-01-03
+NY RonBra PennSta Far
+
+##################
+# NORTH CAROLINA #
+##################
+
+# 2021-09-08
+NC GolLn McDSt SunAve
+
+# 2022-07-22
+NC BluLn Woo Car
+
+# 2022-07-22
+NC BluLn Arr Car
+
+# 2023-08-25
+NC BluLn Car Par
+
+# 2023-11-11
+NC PI Cha Dur
+
+########
+# OHIO #
+########
+
+# 2011-11-xx
+OH CL IN/OH OH/PA
+
+################
+# PENNSYLVANIA #
+################
+
+# 2011-11-xx
+PA CL OH/PA PitUni
+
+########
+# UTAH #
+########
+
+# 2012-12-23
+UT CZ NV/UT UT/CO
+
+############
+# VIRGINIA #
+############
+
+# 2022-08-14
+VA BluLn RRWasNatAir VA/DC
+VA YelLn RRWasNatAir VA/DC
+
+#################
+# WEST VIRGINIA #
+#################
+
+# 2012-04-07
+WV MorPRT Eng Med
+
+#############
+# WISCONSIN #
+#############
+
+# 2014-12-29
+WI HI IL/WI Mil

@@ -1,0 +1,1359 @@
+### United States ###
+
+## 2 Digit Interstates ##
+
+# I-4
+FL I-4 I-275 101B
+
+# I-5
+WA I-5 104 USA/CAN      # US101 Canada
+WA I-5 OR/WA 68         # OR/WA US12
+OR I-5 216 OR/WA        # OR228 OR/WA
+CA I-5 553 747          # I-505 US97
+CA I-5 458B 528         # I-205 Sac Airport
+CA I-5 134A 173         # CA60 173
+CA I-5 17A 114B         # 17A CA91
+CA I-5 5A 13A           # CA75 CA15
+
+CA I-5TrkNew I-5_S I-5_N
+
+# I-8
+CA I-8 7 11             # I-15 11
+
+# I-10
+CA I-10 19A 21          # I-5 I-710
+TX I-10 505 561         # Kerrville Wurzbach Rd
+
+# I-15
+MT I-15 63 USA/CAN      # MT41 USA/CAN
+MT I-15 ID/MT 62        # ID/MT I-15BLDil
+ID I-15 167 ID/MT       # ID-22 ID/MT
+ID I-15 UT/ID 119       # UT/ID US20
+UT I-15 AZ/UT UT/ID     # Clinched
+AZ I-15 NV/AZ AZ/UT     # Clinched
+NV I-15 37 NV/AZ        # Tropicana NV/AZ
+CA I-15 6B 96           # I-8 CA91
+
+# I-20
+TX I-20 433 453         # 433 TX360
+GA I-20 44 57           # GA6 I-75
+
+# I-26
+NC I-26 31 67           # I-40 US74
+
+# I-30
+TX I-30 21C 45          # I-820 DT Dallas
+
+# I-35
+TX I-35E 437 440        # TX12 I-635
+TX I-35E 445 448        # GeoBushTpk Hebron Pkwy
+TX I-35E 428B 428C      # I-30 Commerce St
+TX I-35 158 173         # I-37 Olympia Pkwy
+TX I-35 151 155B        # Nueva St Southcross Blvd
+TX I-35 145A 150B       # TX Loop 13 I-410
+
+# I-37
+TX I-37 141A 142        # I-35 Commerce St
+
+# I-40
+TN I-40 443 TN/NC       # FooPkwyCos TN/NC
+NC I-40 TN/NC 46        # TN/NC I-26
+NC I-40 131B(85) 259    # I-85 Concurrency
+
+# I-64
+VA I-64 200 299         # I-295 I-264
+
+# I-71
+OH I-71 231 238         # OH82 I-480
+OH I-71 KY/OH 106       # KY/OH I-70
+KY I-71 180(75) KY/OH   # US42 KY/OH
+
+# I-75
+OH I-75 7 16            # OH562 I-275
+GA I-75 247 269         # I-20 GA5ConKen
+FL I-75 261 265         # I-4 FL582
+
+# I-76
+PA I-76 236 328         # US15 US202
+
+# I-77
+NC I-77 SC/NC 13        # SC/NC I-85
+SC I-77 90 SC/NC        # Carowinds
+
+# I-78
+NJ I-78 59 NJ/NY        # I-95 NJ/NY
+NY I-78 NJ/NY HudSt     # Clinched
+
+# I-80
+CA I-80 1A CA/NV        # Clinched
+NV I-80 CA/NV 176       # CA/NV US95
+NV I-80 303 NV/UT       # Elko NV/UT
+UT I-80 1 102           # NV/UT UT201
+UT I-80 114 145         # Wright Bros Dr UT224
+OH I-80 145 161         # I-71 OH57
+
+# I-82 - Clinched
+WA I-82 I-90 WA/OR      # Clinched
+OR I-82 WA/OR 11        # Clinched
+
+# I-83
+PA I-83 41A 50          # PA581 US22
+
+# I-84 (West)
+OR I-84 I-5 OR/ID       # Clinched
+ID I-84 OR/ID ID/UT     # Clinched
+UT I-84 ID/UT 87        # ID/UT US89
+
+# I-85
+VA I-85 NC/VA 68        # Clinched
+NC I-85 38 NC/VA        # I-77 NC/VA
+NC I-85 10A 30          # US74 I-485
+GA I-85 70 71           # ATL Airport
+
+# I-86 (West) - Clinched
+ID I-86 1 63            # Clinched
+
+# I-90
+WA I-90 WA519 WA/ID     # Clinched
+ID I-90 WA/ID 12        # WA/ID US95
+OH I-90 OH2_W 145       # I-80 -> OH2
+MA I-90 106 137         # I-495 Logan Airport
+
+# I-93
+MA I-93 1 17            # I-95 DT Boston
+
+# I-95
+MA I-95 RI/MA 26        # RI/MA I-93
+RI I-95 CT/RI RI/MA     # Clinched
+CT I-95 NY/CT CT/RI     # Clinched
+NY I-95 1 NY/CT         # NY9A NY/CT
+NJ I-95 PA/NJ 14        # PA/NJ I-78
+PA I-95 40 PA/NJ        # PA Tpk
+VA I-95 51 170          # I-85 I-495
+FL I-95 176 205         # W Melbourne FL528
+
+
+## 3 Digit Interstates ##
+
+# I-105 (CA)
+CA I-105 1A 18          # Missing eastern terminus ramp
+
+# I-110 (CA)
+CA I-110 9 10           # I-405 CA91
+CA I-110 14 21          # CA110 I-105
+
+# I-184 (ID) - Clinched
+ID I-184 0 US20/26
+
+# I-195 (NJ)
+NJ I-195 6 16           # NJTP Six Flags
+
+# I-205 (CA) - Clinched
+CA I-205 I-580 I-5
+
+# I-205 (OR/WA) - Clinched
+WA I-205 OR/WA I-5
+OR I-205 I-5 OR/WA
+
+# I-215 (NV)
+NV I-215 10 12          # I-15 NV171
+
+# I-215 (UT)
+UT I-215 12 I-15        # I-15 I-15
+
+# I-238 (CA) - Clinched
+CA I-238 14 17
+
+# I-264 (VA)
+VA I-264 I-64/664 19    # I-64/664 Lynnhaven Pkwy
+
+# I-270 (MD)
+MD I-270 2 32           # All except northern branch
+MD I-270SprAsh I-495 2
+
+# I-275 (FL)
+FL I-275 28 45B
+FL I-275 46B 51
+
+# I-275 (OH/KY/IN)
+OH I-275 43 49          # I-75 I-71
+
+# I-276 (PA) - Clinched
+PA I-276 326 I-95
+
+# I-278 (NY/NJ)
+NJ I-278 3 NJ/NY        # I-95 NJ/NY
+NY I-278 NJ/NY 16       # NJ/NY Belt Pkwy
+
+# I-280 (CA)
+CA I-280 47B 54         # CA1 US101
+CA I-280 3A 12          # CA87 CA85
+CA I-280 I-680/101 2    # US101 7th St
+
+# I-283 (PA)
+PA I-283 I-76 1         # I-76 PA283
+
+# I-285 (GA)
+GA I-285 GA279 20       # I-85 to I-75 western portion
+GA I-285 61 62
+
+# I-295 (NJ/DE)
+NJ I-295 DE/NJ 1
+DE I-295 US13/40 DE/NJ
+
+# I-295 (VA)
+VA I-295 43 28A         # I-95 I-64
+
+# I-315 (MT - Unsigned) - Clinched
+MT I-315 I-15 6thSt
+
+# I-405 (CA)
+CA I-405 37A I-5(158)   # I-110 I-5
+
+# I-405 (OR) - Clinched
+OR I-405 I-5(299B) I-5(302B)
+
+# I-405 (WA) - Clinched
+WA I-405 I-5(154) I-5(182)
+
+# I-410 (TX)
+TX I-410 I-35(145A) 27  # North half I-35 to I-35
+
+# I-464 (VA) - Clinched
+VA I-464 1 6B           # I-64 I-264
+
+# I-480 (OH)
+OH I-480 9 10
+
+# I-485 (NC)
+NC I-485 67 10          # I-77 I-85
+
+# I-495 (MA)
+MA I-495 58 63          # I-90 US20
+
+# I-495 (DC/MD/VA)
+MD I-495 38 MD/VA       # I-270SprAsh MD/VA
+VA I-495 MD/VA 170(95)  # MD/VA I-95
+
+# I-505 (CA) - Clinched
+CA I-505 1A I-5
+
+# I-515 (NV)
+NV I-515 65 76          # Russel Rd I-15
+
+# I-575 (GA) - Clinched
+GA I-575 I-75 GA5
+
+# I-580 (CA)
+CA I-580 19C 29A        # I-980 Oakland Zoo
+CA I-580 29B 65         # Oakland Zoo I-205
+
+# I-605 (CA)
+CA I-605 7A 9B          # CA91 I-105
+
+# I-635 (TX)
+TX I-635 19B 27B        # Microcenter I-35E
+
+# I-664 (VA) - Clinched
+VA I-664 1 15
+
+# I-680 (CA) - Clinched
+CA I-680 I-280/101 71
+
+# I-710 (CA)
+CA I-710 8 22           # CA91 I-10
+
+# I-780 (CA)
+CA I-780 1A 7           # Clinched except W terminus ramp
+
+# I-820 (TX)
+TX I-820 28A 34         # I-30 I-20
+
+# I-880 (CA)
+CA I-880 I-280 42A      # I-280 I-980
+
+# I-980 (CA) - Clinched
+CA I-980 I-880 2B
+
+
+## US Routes ##
+
+# US1
+DC US1 RhoIslAve_W SouDakAve
+FL US1 RJConBlvd US192
+
+# US2
+WA US2 WA529 US97_S
+WA US2 HayRd HawRd
+MT US2 I-15 I-15BL_N
+
+# US6
+UT US6 I-15(257B) UT147
+OH US6 OH4 142(2)
+
+# US12
+WA US12 WA107 WA8
+WA US12 I-5(68) I-82(31)
+WA US12 I-182(12A) US730
+WA US12 6thSt WA/ID
+ID US12 WA/ID US95_S
+
+# US13
+DE US13 DE1(152) I-295
+VA US13 VA10/32 I-664(13)
+
+# US15
+MD US15 12 MD/PA
+PA US15 MD/PA ErfRd
+
+# US17
+VA US17 US258_S VA143_N
+VA US17 VA135 I-664
+FL US17 FL436 CR427
+FL US17 FL50_E PriSt
+FL US17 CenFloPky FL482
+
+# US19
+FL US19 HaiRd FL60
+
+# US20
+OR US20 I-5 OR34_E
+OR US20 OR228 OR/ID
+ID US20 OR/ID SciCenDr
+MA US20 MA135 I-495
+
+# US22
+PA US22 I-83 PA39_E
+
+# US23
+OH US23 OH315 140       # OH315 OH4
+
+# US26
+OR US26 US101 US97_S
+OR US26 OR126 OR/ID
+ID US26 OR/ID I-84(141)
+ID US26 US20_W US20_E
+ID US26 1400W US20Bus
+
+# US27
+OH US27TrkCin US42/127 8thSt
+
+# US29
+DC US29 11thSt_N RhoIslAve_E
+
+# US30
+OR US30 US101 OR/ID         # Oregon Clinched
+ID US30 OR/ID US95_S        # Fruitland
+ID US30 I-84BL_E BlueLakBlvd
+ID US30 I-15(47) ID34_S
+
+OR US30HisCol I-84(18) I-84(37)
+
+# US40
+MD US40 US15_N I-70(53)
+
+# US41
+GA US41 AkeMillRd I-285(19)
+FL US41 I-4 US92_E
+
+# US42
+OH US42 WarSt_E OH73
+OH US42 KY/OH US27Trk
+KY US42 KY8 KY/OH
+KY US42 KY842 I-75(180)
+
+# US50
+DC US50 SouDakAve DC/MD
+MD US50 DC/MD US301_N
+
+# US58
+VA US58 VA141/164 VA337_N
+VA US58 VA225 LynPkwy
+
+# US74
+NC US74 NC60 74
+NC US74 161 I-85(10A)
+
+# US75
+TX US75 I-635 GeoBushTpk
+
+# US76
+GA US76 GA5/515 GA60
+
+# US89
+MT US89 US87_N I-15(278)
+UT US89 US91_S US91_N
+UT US89 I-15(324) UT134
+UT US89 UT93 I-15(317A)
+UT US89 UT171 NTem_W
+UT US89 10600S UT209
+UT US89 UT180 UT145
+UT US89 US189 UT52
+
+# US91
+ID US91 I-86(61) ResRd
+ID US91 UT/ID ID36_E
+UT US91 I-15 UT/ID
+
+# US92
+FL US92 FL687/694 FL618_W
+
+# US93
+ID US93 NV/ID ID25
+NV US93 I-515(65) NV/ID
+
+# US95
+ID US95 I-84(3) USA/CAN
+ID US95 OR/ID ID55_S
+ID US95 ID19_W UstRd
+ID US95 SheRd US20/26_W
+OR US95 NV/OR OR/ID     # Clinched
+NV US95 I-80(83) NV/OR
+
+# US97
+WA US97 I-82(37) US2_W
+WA US97 OR/WA WA142
+OR US97 ORH301Y OR/WA
+OR US97 CA/OR US26_W
+CA US97 I-5 CA/OR       # Clinched
+
+# US98
+FL US98 MarRd I-4
+
+# US101
+WA US101 WA8 I-5
+WA US101 US101Alt_N WA107
+WA US101 OR/WA US101Alt_S
+OR US101 LogRd OR/WA
+CA US101 398B 433B      # CA85 I-80
+CA US101 3B 27A         # CA110 CA27
+
+WA US101AltIlw US101_S US101_N
+
+# US130
+NJ US130 DeyRd NJ32
+
+# US189
+UT US189 UT265 US40(4)
+UT US189 I-15 US89
+
+# US192
+FL US192 US1 FLA1A
+
+# US195 - Clinched
+WA US195 ID/WA I-90
+ID US195 US95 ID/WA
+
+# US197
+WA US197 OR/WA WA14     # Clinched
+OR US197 US30 OR/WA
+
+# US202
+PA US202 I-76 AllRd
+
+# US250
+OH US250 ButSt OH2
+
+# US281
+TX US281 I-410(21) StoOakPkwy
+
+# US301
+DE US301 MD/DE DE1
+MD US301 US50(13) MD/DE
+
+# US321
+TN US321 FooPkwy_Cos TN449
+
+# US322
+PA US322 I-83(46A) PA743
+
+# US360
+VA US360 I-295 WalGroRd
+
+# US395
+WA US395 OR/WA HolAve
+OR US395 I-84(188) CR1201
+OR US395 SouPl I-84(209)
+OR US395 CR63 US26_W
+OR US395 US20_W US20_E
+
+# US441
+TN US441 CliDomeAccRd TN449
+NC US441 US74(74) NC/TN
+
+# US730
+OR US730 OR37 OR/WA
+WA US730 OR/WA US12
+
+
+### State Routes ###
+
+## California ##
+
+# CA1
+CA CA1 CA92 509B
+CA CA1 ElSegBlvd CA27
+CA CA1 CA133 CA39
+
+# CA12
+CA CA12 I-80(43) 58B
+
+# CA15 - Clinched
+CA CA15 1A 6B           # I-5 I-8
+
+# CA22
+CA CA22 8 12            # CA39 Harbor Blvd
+
+# CA24 - Clinched
+CA CA24 2 15            # I-580 I-680
+
+# CA27
+CA CA27 CA1 US101
+
+# CA37
+CA CA37 20 21           # SFDK I-80
+
+# CA39
+CA CA39 LinAve CA91
+CA CA39 CA1 CA22
+
+# CA55
+CA CA55 17 18           # Lincoln Ave CA91
+CA CA55 9 11A           # Edinger Ave I-5
+
+# CA60
+CA CA60 1A 8            # I-5 Paramount Blvd
+
+# CA61
+CA CA61Pos ConWay 7thSt
+CA CA61 I-880(34) LanSt
+
+# CA65
+CA CA65Ros 306 307      # I-80 Stanford Ranch Rd
+
+# CA75 - Clinched
+CA CA75 I-5(5A) I-5(14A)
+
+# CA82
+CA CA82 MilAve CrySprRd
+
+# CA84
+CA CA84 US101(408) I-880(19)
+CA CA84 CA238_S I-580
+
+# CA85
+CA CA85 19A 24B         # I-280 US101
+
+# CA87
+CA CA87 5 6B            # I-280 DT SJ
+
+# CA91
+CA CA91 6 24            # I-110 I-5
+CA CA91 34 51           # CA55 I-15
+
+# CA92
+CA CA92 CA1 26          # CA1 I-880
+
+# CA110
+CA CA110 21 24A         # I-10 US101
+
+# CA126
+CA CA126 13 40
+
+# CA133
+CA CA133 CA1 10A        # CA1 I-5
+
+# CA161 - Clinched
+CA CA161 US97 CA139/39
+
+# CA170 - Clinched
+CA CA170 5 11B          # US101 I-5
+
+# CA237
+CA CA237 6 10           # Great America Abel St
+
+# CA238
+CA CA238 I-680 CA84_E
+
+# CA262 - Clinched
+CA CA262 I-880 I-680
+
+
+## Connecticut ##
+
+# CT27
+CT CT27 MysSea I-95
+
+# CT184
+CT CT184 I-95 CT117
+
+
+## Delaware ##
+
+# DE1
+DE DE1 147 156          # US301 US13
+
+
+## Florida ##
+
+# FLTpk
+FL FLTpk 254 267B
+
+# FLA1A
+FL FLA1AVer US192 FL520
+
+# FL3 - Clinched
+FL FL3 FL520 JFKSpaCen
+
+# FL15
+FL FL15Orl FL436 CR506
+
+# FL50
+FL FL50 FLTpk(267B) CR439_S
+FL FL50 I-4(84) US17/92_N
+
+# FL60
+FL FL60 CR1 CR611
+
+# FL405
+FL FL405 JFKSCen FL407
+
+# FL407
+FL FL407 FL528 FL405
+
+# FL408
+FL FL408 10B 21         # I-4 Alafaya Tr
+
+# FL417
+FL FL417 49 55          # Ronald Reagan Blvd I-4
+FL FL417 26 38          # FL528 FL426
+
+# FL435
+FL FL435 IntDr I-4
+
+# FL436
+FL FL436 US17/92 I-4
+FL FL436 FL408 UniBlvd
+FL FL436 FL528 FL15
+
+# FL482
+FL FL482 I-4 FL435
+FL FL482 US17/92 FL528
+
+# FL520
+FL FL520 FL3 FLA1A
+
+# FL528
+FL FL528 I-4 42         # I-4 I-95
+
+# FL574
+FL FL574 ArmAve I-275
+
+# FL580
+FL FL580 McKDr FL583
+
+# FL582
+FL FL582 I-275 30thSt
+FL FL582 McKDr I-75
+
+# FL618
+FL FL618 US92 10
+
+# FL688
+FL FL688 CR501 I-275
+
+# FL693
+FL FL693 FL688 US19
+
+# FL694
+FL FL694 US19 US92
+
+# Business Loops
+FL US41BusTam FL60_W FL574
+
+
+## Georgia ##
+
+# GA5
+GA GA5 GA5Bus/372 US76_E
+GA GA5ConKen US41 I-575     # Clinched
+
+# GA6
+GA GA6 MaxRd RivPkwy
+
+# GA60
+GA GA60SprMin GA60 GA/NC
+GA GA60 US76 GA60Spr
+
+# GA139
+GA GA139 AirBlvd I-85
+
+
+## Idaho ##
+
+# ID6
+ID ID6 WA/ID US95_N
+
+# ID16 - Clinched
+ID ID16 US20/26 ID52
+
+# ID19
+ID ID19 OR/ID UstRd
+
+# ID21 - Clinched
+ID ID21 I-84 ID75
+
+# ID22 - Clinched
+ID ID22 ID33 I-15
+
+# ID27
+ID ID27 21stSt I-84
+
+# ID25
+ID ID25 I-84(165) I-84(201)
+
+# ID33
+ID ID33 US20/26 ID22
+
+# ID34
+ID ID34 US91 US30_W
+
+# ID44
+ID ID44 I-84 US20
+
+# ID45
+ID ID45 BenRd I-84BL
+
+# ID51 - Clinched
+ID ID51 NV/ID I-84BL
+
+# ID52
+ID ID52 US95 ID55
+
+# ID53 - Clinched
+ID ID53 WA/ID US95
+
+# ID54
+ID ID54 US95 MainAve
+
+# ID55 - Clinched
+ID ID55 US95_S US95_N
+
+# ID69 - Clinched
+ID ID69 OrcAve I-84
+
+# ID75
+ID ID75 US20 ID21
+
+# ID77 - Clinched
+ID ID77 ID81_S I-84
+
+# ID78
+ID ID78 ID51_N BruSanDun
+
+# Business Loops
+ID I-15BLIda I-15_S I-15_N
+ID I-15BLBla MerSt I-15_N
+ID I-84BLCal I-84_W I-84_E
+ID I-84BLMou I-84_W I-84_E
+ID I-84BLBur 21stSt_E I-84_E
+ID US93BusTwi US93_S US93_N
+ID US95SprWei US95 ID/OR
+
+
+## Kentucky ##
+
+# KY8
+KY KY8 I-71/75 US25/42
+
+# KY236
+KY KY236 I-71/75 LooRd
+
+
+## Maryland ##
+
+# MD18
+MD MD18 CasMarRd PinRd
+
+
+## Montana ##
+
+# Business Loops
+MT I-15BLDil I-15_S I-15_N  # Clinched
+
+
+## Nevada ##
+
+# Clark County 215
+NV CR215 12 17              # I-15 Durango Dr
+
+# NV225 - Clinched
+NV NV225 I-80BL NV/ID
+
+# NV445
+NV NV445 I-80 NV659
+
+# NV573
+NV NV573 *FreRd I-15
+
+# NV593
+NV NV593 MarPkwy I-515
+
+# Business Loops
+NV I-80BLElk NV225 I-80_E
+
+
+## New Jersey ##
+
+# NJTP
+NJ NJTpk I-295(1) 14        # I-295 I-78
+
+# NJ32 - Clinched
+NJ NJ32 US130 I-95
+
+
+## New York ##
+
+# NY9A
+NY NY9A CanSt HenHudPkwy(15)
+
+# Belt Pkwy
+NY BeltPkwy 3 19            # I-278 JFK
+
+
+## North Carolina ##
+
+# NC60
+NC NC60 US64/74 NC/GA
+
+
+## Ohio ##
+
+# OH2
+OH OH2 142 145(90)          # US6 I-90
+
+# OH4
+OH OH4 OH113 US6
+OH OH4 US23 US30
+
+# OH18
+OH OH18 OH19 OH113
+
+# OH19
+OH OH19 OH4_S OH162
+
+# OH48
+OH OH48 I-71 OH123_E
+
+# OH57
+OH OH57 I-80 I-90
+
+# OH82
+OH OH82 SouCt I-71(231)
+
+# OH95
+OH OH95 OH529 OH98
+
+# OH113
+OH OH113 NWSt OH4
+
+# OH264
+OH OH264 WerkRd 8thSt
+
+# OH315 - Clinched
+OH OH315 I-70/71 US23
+
+# OH561
+OH OH561 I-71 SheAve_N
+
+# OH562
+OH OH562 I-75 3
+
+
+## Oregon ##
+
+# OR7 - Clinched
+OR OR7 US26 I-84
+
+# OR8
+OR OR8 SWCedHilBlvd US26
+
+# OR10
+OR OR10 MurBlvd OR217
+OR OR10 OR210 US26/OR99W
+
+# OR22 - Clinched
+OR OR22 US101 US20/126
+
+# OR27
+OR OR27 LynnBlvd US26
+
+# OR34
+OR OR34 OldOR34 I-5
+
+# OR35 - Clinched
+OR OR35 US26 OR/WA
+
+# OR37 - Clinched
+OR OR37 I-84 US730
+
+# OR39
+OR OR39 CA/OR US97
+
+# OR47
+OR OR47 FleRd US26_W
+
+# OR58
+OR OR58 OR429 CreCutRd
+
+# OR78 - Clinched
+OR OR78 US20/395 US95
+
+# OR82
+OR OR82 US30 WalRd
+
+# OR99E
+OR OR99E JenSt Bro/WeiSt
+OR OR99E US20_E I-5(234)
+
+# OR99W
+OR OR99W US20 OR22
+
+# OR126
+OR OR126 OR22 US20_E
+OR OR126 SE9thSt US26
+
+# OR141 (Unsigned)
+OR OR141 WasDr OR217
+
+# OR153
+OR OR153 OR154 OR221
+
+# OR154 - Clinched
+OR OR154 OR153 OR233
+
+# OR201
+OR OR201 US20/26_E I-84(356)
+OR OR201 ID/OR NapRd
+
+# OR202
+OR OR202 US101 7thSt
+
+# OR203
+OR OR203 I-84(265) OR237_S
+
+# OR210
+OR OR210 NimAve OR10
+
+# OR213
+OR OR213 AldPkwy AirWay
+OR OR213 LanDr SilRd
+
+# OR217 - Clinched
+OR OR217 BarRd BanRd
+
+# OR221
+OR OR221 HopRd OR153
+
+# OR223
+OR OR223 OR223_Dal FirVilRd
+OR OR223Dal OR223 OR22
+
+# OR224
+OR OR224 Lake/WebRd I-205
+
+# OR228
+OR OR228 I-5 US20
+
+# OR233
+OR OR233 OR154/155 OR18
+
+# OR237
+OR OR237 I-84 OR203_N
+
+# OR331 (Unsigned)
+OR OR331 I-84 CayRd
+
+# OR380 - Clinched
+OR OR380 US26 ConRd
+
+# OR429 - Clinched
+OR OR429 LavaOdeRd OR58
+
+# Business Loops
+OR US30BypPor StJohBri LomSt_W
+OR US30BypPor ColPkwy I-205
+OR US30BypPor 122ndAve US30_E
+OR US30BusHun I-84(345) I-84(353)
+OR US30BusOnt OR201 8thAve
+OR US30BusOnt OR201Bus US30_E
+OR US95SprWei OR201 OR/ID
+OR US97BusBen US97_S US97_N
+OR OR99EBusSal I-5(253) CheRd
+OR US101BusAst EnsLn US101_N
+
+
+## Pennsylvania ##
+
+# PA39
+PA PA39 US22_E US322/422
+
+# PA283
+PA PA283 I-283 PA441Trk
+
+# PA441
+PA PA441TrkLow PA283 UniSt_N
+
+# PA581
+PA PA581 5 6
+
+
+## Tennessee ##
+
+# Foothills Pkwy
+TN FooPkwyCos US321 I-40
+
+
+## Texas ##
+
+# TX Loop 12
+TX TXLp12 TXSpr348 UniBowRd
+
+# TX Loop 13
+TX TXLp13 I-35 PleRd
+
+# TX16
+TX TX16 I-410(13A) TX173_C
+
+# TX27
+TX TX27 RM783 TXLp534
+
+# TX121
+TX TX121BusLew TX121_S CorDr
+TX TX121 I-820(22) TX121BusLew_S
+
+# TX151
+TX TX151 TXLp1604 I-410/16
+
+# TX173
+TX TX173 TX16_C TXLp534
+
+# TX183
+TX TX183 I-820(22) TX121_N
+TX TX183 TX360 CarlRd
+
+# TX218 - Not actually clinched but have parts of each segment
+TX TX218 I-35 FM78
+
+# TX Spur 348
+TX TXSpr348 TXLp12 I-35E
+
+# TX360
+TX TX360 I-20 TX183
+
+# TX Loop 368
+TX TXLp368 WalRd I-410
+
+# TX Spur 471 (Grissom Rd) - Clinched
+TX TXSpr471 LostLn TX16
+
+# TX Loop 534
+TX TXLp534 TX173 TX27
+
+# TX Loop 1604
+TX TXLp1604 TX151 TX218
+
+# George Bush Turnpike
+TX GeoBushTpk I-35E US75
+
+
+## Utah ##
+
+# UT13
+UT UT13 I-15/84(376) UT102
+
+# UT26 - Clinched
+UT UT26 UT126 US89
+
+# UT30
+UT UT30 UT42 I-84(5)
+
+# UT32
+UT UT32 US40/189 JorRes
+
+# UT39
+UT UT39 I-15/84 US89
+
+# UT42 - Clinched
+UT UT42 ID/UT UT30
+
+# UT48
+UT UT48 UT68_N I-15
+
+# UT67
+UT UT67 I-215 12
+
+# UT68
+UT UT68 UT151 UT266
+
+# UT79
+UT UT79 I-15 US89
+
+# UT93
+UT UT93 I-15 US89
+
+# UT97
+UT UT97 UT126 I-15
+
+# UT102
+UT UT102 I-84 I-15BL_N
+
+# UT105
+UT UT105 I-15 UT106
+
+# UT126
+UT UT126 UT97 UT26
+UT UT126 I-15(330) UT232
+
+# UT134
+UT UT134 I-15/84 UT235
+
+# UT145
+UT UT145 I-15 US89
+
+# UT151
+UT UT151 UT68 I-15
+
+# UT154
+UT UT154 UT201 I-80
+UT UT154 13800S UT171
+
+# UT171
+UT UT171 UT172 I-215(18)
+
+# UT172
+UT UT172 UT171 I-80
+
+# UT177
+UT UT177 1A 7
+
+# UT180 - Clinched
+UT UT180 I-15 US89
+
+# UT186
+UT UT186 US89_S UT71
+
+# UT201
+UT UT201 I-80 7200W
+UT UT201 11 13
+UT UT201 15 I-15/80         # I-215 I-15/80
+
+# UT204
+UT UT204 UT39 US89
+UT UT204 UT26 UT79
+
+# UT224
+UT UT224 DeeValDr_E I-80
+
+# UT225 - Clinched
+UT UT225 I-15 UT106
+
+# UT232
+UT UT232 UT126 2000N
+
+# UT235 - Clinched
+UT UT235 US89 UT134
+
+# UT248
+UT UT248 UT224 US40/189
+
+# UT265
+UT UT265 SanRd US89
+UT UT265 800E US189
+
+# UT266
+UT UT266 I-215(15) I-15
+
+# UT268
+UT UT268 I-15 US89
+
+# UT269 - Clinched
+UT UT269 I-15/80 US89
+
+# UT270 - Clinched
+UT UT270 900S US89
+
+
+## Virginia ##
+
+# VA30
+VA VA30 I-95 KingDomPark
+
+# VA32
+VA VA32 US460Bus_E US17_N
+
+# VA54
+VA VA54 US1 I-95
+
+# VA143
+VA VA143 VA173 US17/258
+
+# VA156
+VA VA156 SR615 SR643
+
+# VA164
+VA VA164 US58 I-264
+
+# VA165
+VA VA165 I-64(281) AzaGarRd
+VA VA165 VA168Bus_N CenTpk
+
+# VA168
+VA VA168 11 15A
+
+# VA337
+VA VA337 I-664 I-264(4)
+VA VA337 US58_W PriAnneRd
+
+
+## Washington ##
+
+# WA4
+WA WA4 US101 GreSlaRd
+
+# WA8 - Clinched
+WA WA8 US12 US101
+
+# WA14 - Clinched
+WA WA14 I-5 I-82
+
+# WA22
+WA WA22 WA221 I-82(82)
+
+# WA27
+WA WA27 I-90BL WA290
+WA WA27 US195 WA272_E
+
+# WA99
+WA WA99 WA599 RoySt
+WA WA99Fed WA509/516 200thSt
+WA WA99Fed I-5(137) WA18
+
+# WA107 - Clinched
+WA WA107 US101 US12
+
+# WA141 - Clinched
+WA WA141 WA14 GilPinNF
+WA WA141AltUnd WA14 WA141
+
+# WA142
+WA WA142 SunLn US97
+
+# WA202
+WA WA202 WA203 I-90
+
+# WA203 - Clinched
+WA WA203 WA202 US2
+
+# WA221 - Clinched
+WA WA221 WA14 WA22
+
+# WA224 - Clinched
+WA WA224 I-82 WA240
+
+# WA272
+WA WA272 WA27_S WA/ID
+
+# WA290
+WA WA290 I-90 HamSt
+WA WA290 WA27 WA/ID
+
+# WA401 - Clinched
+WA WA401 US101 WA4
+
+# WA432
+WA WA432 WA433 I-5
+
+# WA443
+WA WA433 OR/WA WA432
+
+# WA500
+WA WA500 I-5 WA503_N
+
+# WA502 - Clinched
+WA WA502 I-5 WA503
+
+# WA503
+WA WA503 WA500_W WA502
+
+# WA509
+WA WA509 DesMoiDr WA99
+
+# WA518 - Clinched
+WA WA518 WA509 I-5
+
+# WA522
+WA WA522 I-405 US2
+
+# WA530
+WA WA530 I-5 211thPL
+
+# WA599
+WA WA599 I-5 WA99
+
+
+### Canada ###
+
+## Alberta ##
+
+# TCH
+AB TCHMai AB93_S 177
+
+# AB2
+AB AB2 AB519 275
+
+# AB3
+AB AB3 AB23 AB512_W
+
+# AB4 - Clinched
+AB AB4 USA/CAN AB3
+
+# AB23
+AB AB23 AB3 AB519
+
+# AB93
+AB AB93 BC/AB AB1_E
+
+# AB201
+AB AB201 36 60
+
+# AB519
+AB AB519 AB2 AB23
+
+
+## British Columbia ##
+
+# BC1 (TCH)
+BC BC1 33 *59           # Kensington Ave (Burnaby) 202 St (Langley)
+
+# BC1A
+BC BC1A BC15 184St
+
+# BC7
+BC BC7 Kin BouRd
+
+# BC15
+BC BC15 BC1A BC1/17
+BC BC15 8Ave 32Ave
+
+# BC91 - Clinched
+BC BC91 BC99 23
+
+# BC93
+BC BC93 BC3/BC95 BC/AB
+
+# BC95
+BC BC95 USA/CAN BC93
+
+# BC99
+BC BC99 USA/CAN 16

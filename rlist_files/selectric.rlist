@@ -1,0 +1,299 @@
+#### U N I T E D   S T A T E S
+
+### Amtrak
+
+# Acela
+RI AE CT/RI RI/MA
+CT AE NY/CT CT/RI
+DC AE WasUniSta DC/MD
+DE AE MD/DE DE/PA
+MA AE RI/MA BosSou
+MD AE DC/MD MD/DE
+NJ AE PA/NJ NJ/NY
+NY AE NJ/NY NY/CT
+PA AE DE/PA PA/NJ
+
+# Northeast Regional (Norfolk)
+CT NENor NY/CT CT/RI
+DC NENor VA/DC DC/MD
+DE NENor MD/DE DE/PA
+MA NENor RI/MA BosSou
+MD NENor DC/MD MD/DE
+NJ NENor PA/NJ NJ/NY
+NY NENor NJ/NY NY/CT
+PA NENor DE/PA PA/NJ
+RI NENor CT/RI RI/MA
+
+# Auto Train
+FL AZ San FL/GA
+GA AZ FL/GA GA/SC
+NC AZ SC/NC NC/VA
+SC AZ GA/SC SC/NC
+VA AZ NC/VA LorAutoTra
+
+# Coast Starlight
+OR CS CA/OR OR/WA
+WA CS OR/WA SeaKingSt
+CA CS UniSta CA/OR
+
+# Downeaster
+MA DE BosNor MA/NH
+ME DE NH/ME Bru
+NH DE MA/NH NH/ME
+
+
+### Misc
+
+## Airport Landside Rail Systems
+CA AirTrnBlue Ter2 GarG/BART
+CA AirTrnRed Ter2 GarG/BART_F
+FL SkyCon MainTer RenCarCen
+MN HubTram Ter1 HubBui
+NJ AirTrn NewLibAir TerA
+NY AirTrnATL T8_E T8_W
+NY AirTrnHow HowBea Loop
+NY AirTrnJam Jam Loop
+
+## Walt Disney World Monorail
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+
+
+### MBTA
+
+## Subway
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+
+## Light Rail
+MA RedLnM Ash Mat
+MA GreLnE HeathSt Lec
+MA GreLnD Riv Lec
+MA GreLnC CleCir GovCen
+MA GreLnB BosCol GovCen
+
+## Commuter Rail
+MA FoxLn Fox BosSou
+MA ProLn RI/MA BosSou
+RI ProLn WicJct RI/MA
+
+### San Francisco
+
+## MUNI
+
+# Cable Cars
+CA CalSt Lea Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+
+# Metro
+CA MuniT King ChiRosePark
+CA MuniN LaPla 4thKing
+CA MuniM BalPark Emb
+CA MuniK BalPark Emb
+CA MuniJ BalPark Emb
+CA MuniF 17thCas Bea
+
+# BART
+CA BARTYel SanFraAir Mac
+CA BARTBlue BalPark WestOak
+
+### San Diego
+CA BlueLn 12thImpTC OldTownTC
+
+### Chicago
+
+## Metra
+IL BNSF DowGroMainSt UniSta
+
+## CTA
+IL BlueLn OHa LaS
+IL RedLn Roo ClaDiv
+IL GreLn ConCenPkDr +DIV_SE
+IL OraLn Mid Loop
+
+### Minnesota METRO
+MN BlueLine MallofAmerica HennepinAve
+MN GreenLine HennepinAve HamlineAve
+
+### Miami
+
+## Metro Mover
+FL InnLp GovCen_N GovCen_S
+FL OmniLp AdrArsCen Loop
+
+## Metro Rail
+FL OraLn GovCen MiaAir
+
+### LA Metro
+CA E DowSanMon LitTokArtsDis
+CA B HolHig UniSta
+
+### TECO Line
+FL TECO DowTam CenPark
+
+### Baltimore
+MD BLRLBWI BWIAir LexMar
+MD BLRLPen CamYds PennSta
+
+
+### WMATA
+
+## Metrorail
+DC BluLn VA/DC CapS
+VA BluLn KingStOldTown VA/DC
+DC GreLn NavyYardBal Arc
+DC RedLn DupCir RIAveBre
+DC YelLn VA/DC MtVerSq
+VA YelLn KingStOldTown VA/DC
+
+### Washington
+
+## Sound Transit
+WA 1 Nor AngLake
+
+## Seattle DOT
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
+
+
+### New York City
+
+## Metro-North
+CT NewHavLn NY/CT NHStaSt
+NY NewHavLn GraCen NY/CT
+CT NewHavLnWat Bri Wat
+
+## LIRR
+NY BabBra PennSta Bab
+NY HemBra Jam Hem
+NY MonBra LongIslCity Mon
+NY OysBayBra Jam OysBay
+NY GreBra Ron Gre
+NY LongBeaBra PennSta LongBea
+NY RonBra PennSta Ron
+NY WHemBra AtlTer WHem
+
+## NYCTA
+
+# A Division
+NY S42 TimSq GraCen
+NY 7 34StHudYar FluMainSt
+NY 1 207St SouFry
+NY 2 125St FlaAveBroCol
+NY 3 125St BroMus
+NY 4 Woo FraAve
+NY 5 E180St FlaAveBroCol
+NY 6 PelBayPk BroBriCityHall
+
+# B Division
+NY A 207StInw FarRocMottAve
+NY AOzo BroJct OzoPkLefBlvd
+NY B 96St BriBea
+NY C 168St EucAve
+NY D 161StYanSta ConIslStiAve
+NY E JamCenParArc WTC
+NY F KewGarUniTpke ConIslStiAve
+NY G CouSq 15StProPk
+NY SRoc BroCha RocParkBea116St
+NY J BroSt MyrAve
+NY L 8Ave CanRocPkwy
+NY M W4St ForHil71Ave
+NY N AstDitBlvd ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R ForHil71Ave BayRidAve
+NY SPro FraAve ProPk
+NY W AstDitBlvd WhiStSFry
+
+## PATH
+NJ PATHH33 Hob NJ/NY
+NY PATHH33 NJ/NY 33St
+NJ PATHHWT Hob NJ/NY
+NY PATHHWT NJ/NY WTC
+NJ PATHJ33 JouSq NJ/NY
+NY PATHJ33 NJ/NY 33St
+NJ PATHNWT NewPenn NJ/NY
+NY PATHNWT NJ/NY WTC
+
+
+## Misc
+NY RIT Man RooIsl
+NY SIR StGeo Tot
+
+### NJ Transit
+
+## Light Rail
+NJ NLRCS PennSta GroSt
+NJ NLRBSE PennSta BroadStSta
+NJ RivLn EntCen Tre
+NJ HBLR8HT LibSP HobTer
+NJ HBLRHTT HobTer PortImp
+
+
+### Philadelphia
+
+## Misc
+PA PATCO 15th16thLoc PA/NJ
+NJ PATCO PA/NJ Lin
+
+## SEPTA Subway & Trolley
+PA NorLn 69th Nor
+PA MarFraLn 69th 2nd
+PA BroStLn NRG Gir
+PA BroRidSpr Chi Gir
+PA Rte15 63rd Del
+PA Rte11 DarTC 13th
+PA Rte101 OraSt 69thStTC
+NJ TreLn PA/NJ Tre
+PA TreLn Phi30thSt PA/NJ
+PA AirLn PHLTerEF Phi30thSt
+
+
+
+#### E U R O P E
+
+### Norway
+
+## NSB
+NOR RE11 Sto OsloS
+NOR FLY1 OsloS OsloLuf
+NOR F4 Ber OsloS
+
+## Oslo
+
+# Trikken
+NOR 11Osl Maj Jer
+NOR 12Osl Maj AkerBry
+NOR 13Osl NatThe EkePar
+NOR 17Osl WelGate GreSta
+
+# T-bane
+NOR 2Osl Maj Jer
+NOR 4Osl Stoo Toy
+NOR 5Osl Sog Jer_2
+
+
+
+#### A S I A
+
+### Hong Kong
+
+## Trams
+HKG PT Peak CenTer
+HKG 1 WesMar PerSt
+HKG 3 ShekTongTsui AdmMTRSta
+HKG 4 ShekTongTsui CauBayTer
+HKG 5 KenTownTer PedSt
+
+## MTR
+HKG AirExp HongKong Air
+HKG ERailLn Adm LoWu
+HKG IslLn KenTown CauBay
+HKG KTLn HoManTin PriEdw
+HKG SIslLn Adm SouHor
+HKG TMLn KaiTak Aus
+HKG TWLn Cen TsuWan
