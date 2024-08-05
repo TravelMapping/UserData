@@ -1,5 +1,5 @@
 # ──────────
-# 2024-08-01
+# 2024-08-04
 # ──────────
 
 # ─────────
@@ -95,6 +95,7 @@ CZE S53Jih Bre Lan
 # ───
 
 CZE U1 Most DecHlaNad
+CZE U3 Lit LouLit
 CZE U4 UstiNadLabHlaNad Hne
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
@@ -106,6 +107,7 @@ CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
 CZE T11 Tel DecHlaNad
 
