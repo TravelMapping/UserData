@@ -1,3 +1,4 @@
+#United States Interstate Highways
 AL I-10 MS/AL AL/FL
 AR I-30 TX/AR 143
 AR I-40 153B AR/TN
@@ -93,6 +94,7 @@ VA I-664 1 15
 WA I-5 127 230
 WV I-70 OH/WV WV/PA
 
+#United States Numbered Highways
 AR US64 US67/167_S US67/167_N
 AR US64 I-55(10) AR/TN
 AR US67 I-30(114) I-30(138)
@@ -249,6 +251,7 @@ VA US460 VA165 I-64(276)
 WV US40 I-70(0A) I-70(1A)
 WV US250 I-70(0A) I-70(1B)
 
+#United States Auxiliary Numbered Highways
 AR US64SprMar US64 AR77
 AR US412BusPar US412_W US412_E
 IN US24BusPer US31 IN19_S
@@ -262,21 +265,26 @@ TX US175BusAth US175_W TX31Bus_W
 VA US58BusVir US58 US60
 VA US460AltNor I-264(8) StPauBlvd_S
 
+#Arkansas State Highways
 AR AR77 I-55(7) US64Spr
 AR AR440 11 13
 
+#Colorado State Highways
 CO CO58 US6 5
 CO CO66 US36 I-25
 CO CO115 US50_E I-25
 CO PenaBlvd I-70 Ter
 
+#Florida State Highways
 FL FL528 I-4 11
 
+#Illinois State Highways
 IL IL9 I-57 US45_S
 IL IL10 MatAve US150
 IL IL64 I-90/94 LasBlvd_S
 IL IL110 I-290(29B) I-90/94
 
+#Indiana State Highways
 IN IN18 US421_N IN29_S
 IN IN19 IN124 US24/31Bus
 IN IN22Bur IN29 MalRd
@@ -293,10 +301,13 @@ IN IN67 IN39_S I-465(4)
 IN IN213 IN37 IN26
 IN IN931 US31_S US31_N
 
+#Indiana Select Named Freeways
 IN KeyPkwy I-465 US31
 
+#Kentucky Parkways
 KY PurPkwy TN/KY 21
 
+#Louisiana State Highways
 LA LA1 LA986 US190_E
 LA LA17 I-20 US80
 LA LA76 LA77_E LA415/986
@@ -305,10 +316,12 @@ LA LA169 US80_W I-20
 LA LA378 I-10 LA379
 LA LA986 LA76/415 LA1
 
+#Minnesota State Highways
 MN MN47 HenAve BroSt
 MN MN65Min I-35W 10thSt
 MN MN77 LinLn I-494
 
+#Mississippi State Highways
 MS MS16 MS25 BlaRd
 MS MS18Por MS27_N I-20
 MS MS22 I-55 US51/16
@@ -320,20 +333,28 @@ MS MS469 MainSt US49
 MS MS475 I-20 MS25
 MS MS605 US90 MS67
 
+#Mississippi Select National Park Highways
 MS NatTraPkwy FisFryRd MS43
+
+#Mississippi Select Named Freeways
 MS StaSt I-55 EndMaint
 
+#New Jersey State Highways
 NJ NJ495 I-95 NJ/NY
 
+#New York State Highways
 NY NY495 NJ/NY DyerAve
 
+#Pennsylvania State Highways
 PA PA43 22 36
 
+#Tennessee State Highways
 TN TN1 US51/14 US64/70
 TN TN14 TN3_N US51_S
 TN TN78 US51 I-155
 TN SamCooBlvd US64/70 7
 
+#Texas State Highways
 TX TX6 BelBlvd I-10
 TX TX6 US79/190 US79_N
 TX TX6 FM158 US190_E
@@ -367,6 +388,7 @@ TX TX155 I-20 US59
 TX TX161 TXSpr303 I-30
 TX TX165 ComSt 11thSt
 TX TX183 I-820(24A) TX121_N
+TX TX183 TXSpr97 EstRd
 TX TX183 TX114 I-35E
 TX TX185 FM1289 MapSt
 TX TX188 FM136 TX35Bus
@@ -379,6 +401,7 @@ TX TX315 US259 TX149
 TX TX361 BeaViewDr AraPassFry
 TX TX361Ara PortAraFry TXLp90
 
+#Texas State Auxiliary Highways
 TX TX31BusAth TX31_W US175Bus_W
 TX TX31BusCor TX31_W TX31_E
 TX TX31BusHub TX31_S TX31_N
@@ -387,12 +410,15 @@ TX TX46BusNew WalAve I-35BL_S
 TX TX114BusGra TX26_E TX114_E
 TX TX123BusSeg TX123_S US90Alt
 
+#Texas State Highway Spurs
 TX TXSpr10 US59 US90Alt
+TX TXSpr97 TX183 IntPkwy
 TX TXSpr299 I-35/77 US84
 TX TXSpr342 FM3005 I-45
 TX TXSpr366 BecAve US75
 TX TXSpr408 I-20 TXLp12
 
+#Texas State Highway Loops
 TX TXLp1 TX45_S TX45_N
 TX TXLp7 TX31_B TX31_C
 TX TXLp8 I-45(32) WesTlwy
@@ -415,8 +441,11 @@ TX TXLp360 US290 US183
 TX TXLp390 TX154 US80_E
 TX TXLp1604 TX151 I-35(172)
 
+#Texas Select Named Freeways
+TX IntPkwy TXSpr97 TerA/B
 TX WesTlwy GraMisBlvd TXLp8
 
+#Virginia State Highways
 VA VA132 VA5_S VA132Y
 VA VA132WyeWil VA132 ColPkwy
 VA VA134 VA351 US258_N
@@ -434,3 +463,6 @@ VA VA279 US58 US60
 VA VA337 US58_E PriAnneRd
 VA ColPkwy ParDr VA199
 VA GWMemPkwy DC/VA I-495
+
+#Italy Autostrada
+ITA A91 ViaMag_E SS296

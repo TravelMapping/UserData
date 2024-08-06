@@ -67,8 +67,7 @@ NLD S43Lie BEL/NLD Maa
 #NLD Bd-Rtd Bd Rtd
 
 #Metro
-NLD 21Utr PRSciPark CSCen
-NLD 21Utr CSJaa Ijs
+NLD 21Utr PRSciPark Ijs
 NLD 20Utr PRSciPark CSCen
 NLD 20Utr CSJaa +DIV_21
 NLD 22Utr CSCen PRSciPark
@@ -237,11 +236,11 @@ WLS SnoMouRwy Lla Clo
 
 ## ENG - England
 #Train
-ENG XCML She +DIV_DeaV
+ENG XCML She +DIV_RotS
 ENG XCML +SKIP_ChuFen York
 ENG LonAms LonStPanInt GBR/FRA
 ENG ChaTnl FolEurTer GBR/FRA
-ENG LutAirExp +DIV_HS1 LutAirPkwy
+ENG LutAirExp LonStPanInt LutAirPkwy
 ENG DeaVlyLn She York
 
 #Londen Underground / TFL
@@ -256,7 +255,7 @@ ENG VicLn KXSP Pim
 ENG DisLn KewGar EarCou
 ENG DLR CanWha CutSark
 ENG DLRRoy Sha CanTown
-ENG DLR Bank +DIV_Roy
+ENG DLR Bank Lim
 ENG NorLnBar KXSP LonBri
 
 

@@ -19,6 +19,50 @@ QC GreLn SaiLau Viau
 # 2023-02-20
 QC YelLn BerUQAM JeaDra
 
+##########
+# FRANCE #
+##########
+
+# 2024-07-26
+FRA-IDF B AerCDG2TGV GareNord
+FRA-IDF M4 GareNord StrStDen
+
+# 2024-07-27
+FRA-IDF M8 Inv BonNou
+FRA-IDF M9 AlmaMar BonNou
+
+# 2024-07-28
+FRA-IDF CVer VerChaRiveGau Inv
+
+# 2024-07-29
+FRA-IDF M3 HavCau Sen
+FRA-IDF CPon Inv StMicNotDame
+FRA-IDF M4 EttMar StMic
+
+# 2024-07-30
+FRA-IDF FunMon Inf Sup
+FRA-IDF M4 BarRoc StrStDen
+FRA-IDF D StaFraStDen GareNord
+FRA-IDF A ChaHal GareLyon
+FRA-IDF M1 Bas GareLyon
+FRA-IDF M8 BonNou Bas
+
+# 2024-07-31
+FRA-IDF P ParGareEst VaiTor
+
+# 2024-08-01
+FRA-IDF B ChaHal Lux
+FRA-IDF M7 Ope PalRoyMusLou
+
+# 2024-08-02
+FRA-IDF M9 BonNou Rep
+FRA-IDF M3 Bou ArtsMet
+
+# 2024-08-03
+FRA-IDF A CdGEto Aub
+FRA-IDF M1 GeoV PalRoyMusLou
+FRA-IDF M9 PorSaiClo BonNou
+
 #########
 # ITALY #
 #########
