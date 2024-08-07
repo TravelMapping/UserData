@@ -1815,6 +1815,8 @@ CO US160BusMan US160_E US160_W  #06282024
 CO MesaVerRd US160 SprCyn #06292024 
 CO CO140 NM/CO US160 #06282024
 CO CO184 US160Bus US491 #06282024
+CT I-395 37 CT/MA #Trip with GJ Telergee
+CT US6 CT/RI I-395#Trip with GJ Telergee  
 DE I-95 MD/DE DE/PA #09242017 NTCA Philly Trip Also some from Earlier Trips
 DE I-295 I-95 DE/NJ #09242017 NTCA Philly
 DE I-495 I-95 6 #09242017 NTCA Philly
@@ -1855,6 +1857,7 @@ FL US27 FLTpk(289) FL29
 FL US27 CR720_S FL997 
 FL US27 I-75(354) US301/441 #Silver Springs Trip with Kids 
 FL US29 FL/AL I-10 #Pensacola Beach Trip
+FL US41 US441_S US27_N #07272024 TFACC Meeting
 FL US90 US129 US441_S #07272024 TFACC Meeting
 FL US98 CR399 US98BusPen_E
 FL US98 MarSt_W US319_N
@@ -1872,6 +1875,7 @@ FL FLA1AFer SJRivFry AmeIslPkwy_N  #07072017 Trip to St Augustine
 FL FLA1ANSB FL44 CRA1A #02122017 Trip to Canveral National Seashore
 FL FL16 US17_S US1Bus #07072017 Trip to St Augustine
 FL FL19 US441_N US27 #03282018 Glades Board Meeting
+FL FL20Hig US27/41 US441 #07272024 TFACC Meeting  
 FL FL29 FL80_E FL78 #02122017 DeSoto NM Trip
 FL FL40 CR314 I-75 #Silver Springs Trip with Kids    
 FL FL44DeL I-95 FLA1A #02112017 Trip to Canveral National Seashore
@@ -1938,6 +1942,22 @@ LA I-20 186 TX/LA
 LA I-59 I-10/12 LA/MS
 LA LakePonCswy EspAve US190/22
 LA US190 LA22 I-12
+MA I-90 90 NY/MA #Trip with GJ Telergee
+MA I-93 1 7 #Trip with GJ Telergee 
+MA I-95 MA/NH 26 #Trip with GJ Telergee
+MA I-95 26 RI/MA #Trip with GJ Telergee 
+MA I-195 1 RI/MA #Trip with GJ Telergee  
+MA I-395 CT/MA 12 #Trip with GJ Telergee
+MA US6 MA28_S 85 #Trip with GJ Telergee  
+MA US7 US20_W MA/VT #Trip with GJ Telergee
+MA US20 NY/MA US7_N #Trip with GJ Telergee  
+MA MA12 I-290(12) I-90 #Trip with GJ Telergee
+MA MA3 43 1 #Trip with GJ Telergee
+MA MA24 3 RI/MA #Trip with GJ Telergee 
+MA MA25 10 1 #Trip with GJ Telergee
+MA MA28 ShoRd MA132 #Trip with GJ Telergee
+MA MA132 MA28 US6 #Trip with GJ Telergee 
+MA MA137 US6 MA28 #Trip with GJ Telergee    
 MD I-95 DC/MD MD/DE #10072018 09242017 Earlier Trips 
 MD US40 MD213 I-95 #10072018 Trip Parents to BWI 
 MD US301 MD544 MD313 #10072018 Trip Parents to BWI
@@ -1945,7 +1965,9 @@ MD MD213 MD290/313 US40 #10072018 Trip Parents to BWI
 MD MD313 MD314 MD544 #10072018 Trip Parents to BWI
 MD MD313 US301 MD213/290 #10072018 Trip Parents to BWI 
 MD MD314 MD/DE MD313 #10072018 Trip Parents to BWI
-MD MD544 MD313 US301 #10072018 Trip Parents to BWI  
+MD MD544 MD313 US301 #10072018 Trip Parents to BWI
+ME I-95 48 NH/ME #Trip with GJ Telergee
+ME US302 NH/ME RivSt #Trip with GJ Telergee  
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
 MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
@@ -2010,6 +2032,19 @@ NE NE92 US77_N US6/31 #07122024 Badland Trip
 NE NE121Cro CreRd NE12  #072219 Visit Pipestone Side Trip
 NE NE133 I-680 US30 #062320 Trip to MACC
 NE NE133 I-680 L28K #09052023 Driving Around Prior to MACC Meeting
+NH I-95 NH/ME MA/NH #Trip with GJ Telergee  
+NH US2 VT/NH NH16_S #Trip with GJ Telergee
+NH US302 NH16_S NH/ME #Trip with GJ Telergee 
+NH NH16 US2_E US302_E #Trip with GJ Telergee   
+NJ I-76 1A PA/NJ #09272017 NTCA Fall Meeting 
+NJ I-295 DE/NJ 26A #09272017 NTCA Fall Meeting
+NJ I-295 26A NJ/PA #09272017 NTCA Fall Meeting
+NJ I-676 1 PA/NJ #09272017 NTCA Fall Meeting
+NJ AtlCityExpy 44 17 #09272017 NTCA Fall Meeting 
+NJ NJ42 I-295 AtlCityExpy #09272017 NTCA Fall Meeting
+NJ NJ49 NJ50 NJ55 #09272017 NTCA Fall Meeting 
+NJ NJ50 AtlCityExpy NJ49 #09272017 NTCA Fall Meeting
+NJ NJ55 24 NJ42 #09272017 NTCA Fall Meeting     
 NM I-10 NM/TX AZ/NM #29Palms
 NM I-25 366 347
 NM I-25 343 290
@@ -2087,7 +2122,22 @@ NV NV596 I-11 SahAve #06072024
 NV NV604 I-15 CarAve #06072024
 NV NV610 NV604 I-15 #06072024
 NV NV612 NV604 NV593 #06072024
+NY I-90 NY/MA B3 #Trip with GJ Telergee
+NY US20 NY22_S NY/MA #Trip with GJ Telergee
+NY NY22 I-90 US20_E #Trip with GJ Telergee
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
+RI I-95 24B RI/MA #Trip with GJ Telergee
+RI I-195 1 RI/MA #Trip with GJ Telergee
+RI I-295 I-95 9C #Trip with GJ Telergee
+RI US1 RI138_E RI403 #Trip with GJ Telergee 
+RI US6 I-295(9C) CT/RI #Trip with GJ Telergee
+RI RI4 7B I-95 #Trip with GJ Telergee
+RI RI24 RI/MA RI114 #Trip with GJ Telergee
+RI RI114 RI138_W EastShoExpy #Trip with GJ Telergee
+RI RI138 RI114_N US1_N #Trip with GJ Telergee
+RI RI138A RI138_W RI138_E #Trip with GJ Telergee
+RI RI238 RI138 GoadIslRd #Trip with GJ Telergee
+RI RI403 ComParkRd RI4 #Trip with GJ Telergee          
 SD I-29 26 109 #07222019
 SD I-29 IA/SD 26 #07102024 Badland Trip
 SD I-90 SD/MN 364 #07212019
@@ -2157,6 +2207,10 @@ UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+VT I-89 13 8 #Trip with GJ Telergee 
+VT I-189 US7 I-89 #Trip with GJ Telergee
+VT US2 MemDr VT/NH #Trip with GJ Telergee  
+VT US7 MA/VT US2_E #Trip with GJ Telergee 
 WI I-41 164B 170B #Training Class in Green Bay
 WI I-43 72A 192 #Training Class in Green Bay   
 WI I-94 WI/IL 310C #Training Class in Green Bay    
