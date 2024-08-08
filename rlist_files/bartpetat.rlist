@@ -1,0 +1,424 @@
+# THE NETHERLANDS
+NLD LonAms BEL/NLD AmsCen
+NLD IC35 AmsCen NLD/BEL
+
+NLD RE1 Lee Gro
+NLD RS1 Lee Gro
+NLD RS11 Nij Roe
+NLD RS12 Roe MaaRan
+NLD RS15 Sit Hee
+NLD RE18 Maa NLD/DEU
+NLD RS18 MaaRan KerCen
+NLD RE20 Zwo Emm
+NLD RS20 Zwo Emm
+NLD RS21 Alm Har
+NLD RS22 Zwo Kam
+NLD RS23 Zwo Ens
+NLD RS24 Zut Old
+NLD RE30 Ape Win
+NLD RS31 Zut Win
+NLD RS32 ArnCen Win
+NLD RS33 ArnCen Tiel
+NLD RS34 AmeCen EdeWag
+
+NLD S32Ant Roo NLD/BEL
+NLD S43Lie BEL/NLD Maa
+
+
+#NLD Rhijn Asd NLD/DEU
+#NLD OudeLijn Asd Rtd
+#NLD Gv-Gvc Gv Gvc
+#NLD Gvc-... Gvc ...
+#NLD Gvc-Ut Gvc Ut
+#NLD Apn-Gd Apn Gd
+#NLD Ld-Wd Ld Wd
+#NLD Rtd-Gd Rtd Gd
+#NLD Ut-Ht Ut Ht
+#NLD Ddr-Gldm Ddr Gldm
+#NLD Gldm-Esta Gldm Est
+#NLD Ah-Nm Ah Nm
+#NLD Zvn-Wts Zvn Wts
+#NLD Nm-Ht Nm Ht
+#NLD Ah-Zp Ah Zp
+#NLD BetuweRoute Mta Esta
+#NLD HSLZ Hda NLD/BEL
+#NLD Hlm-Zvt Hlm Zvt
+#NLD Ass-Ld Ass Ld
+#NLD Ass-Hldr Ass Hldr
+#NLD Hlm-Utg Hlm Utg
+#NLD Hhw-Ho Hhw Ho
+#NLD Zd-Ehz Zd Ehz
+#NLD Asdm-Wp Asdm Wp
+#NLD Wp-Zl Wp Zl
+#NLD Wp-Amf Wp Amf
+#NLD Hvs-Uto Hvs Uto
+#NLD Ut-Amf Ut Amf
+#NLD Brn-... Brn ...
+#NLD Amf-Esd Amf Esd
+#NLD Amf-Zl Amf Zl
+#NLD Zl-Mp Zl Mp
+#NLD Mp-Lw Mp Lw
+#NLD Mp-Gn Mp Gn
+#NLD Lw-Gn Lw Gn
+#NLD Vs-Rsd Vs Rsd
+#NLD Rsd-NLD/BEL Rsd NLD/BEL
+#NLD Rsd-Zwl Rsd Zwl
+#NLD Rsd-Ht Rsd Ht
+#NLD Bd-Rtd Bd Rtd
+
+#Metro
+NLD 21Utr PRSciPark Ijs
+NLD 20Utr PRSciPark CSCen
+NLD 20Utr CSJaa +DIV_21
+NLD 22Utr CSCen PRSciPark
+
+NLD 50Ams Isl Gein
+NLD 51Ams CenSta StaRAI
+NLD 52Ams Noo StaZuid
+NLD 53Ams CenSta Gaa
+NLD 54Ams CenSta StaBijAre
+
+NLD A VlaWest Ale
+NLD B HoekHolHav Ale
+NLD C Akk Terp
+NLD D RotCen Akk
+NLD E DenHaagCen Sli
+
+#Tram
+NLD 4Ams CenSta Eur
+NLD 12Ams CenSta Lei
+NLD 12Ams Pijp Amss
+NLD 14Ams Rok Ale
+NLD 19Ams StaSlo Lei
+NLD 25Ams StaZuid Wes
+NLD 26Ams CenSta Ijb
+
+NLD 1Haa ZwaPad StaDel
+NLD 2Haa GroMar DenHaagCen
+NLD 3Haa Hel CenWest_2
+NLD 9Haa ZwaPad KalSta
+
+NLD 4Rot Koo +DIV_78
+NLD 7Rot Zaa RotCen
+NLD 8Rot +DIV_47 Beu
+NLD 24Rot Oos Beu
+NLD 25Rot RotCen Tel_2
+
+
+# BELGIUM
+BEL IC1 Bru BruMidi
+BEL IC1 LieGui Wel
+BEL IC2 Bru AntCen
+BEL IC7 Ess AntCen
+BEL IC35 NLD/BEL BruMidi
+BEL LonAms FRA/BEL BEL/NLD
+BEL S41 Wel BEL/DEU
+BEL S43 LieGui BEL/NLD
+
+#Tram
+BEL 1Gen SintPies Gra
+
+
+# LUXEMBOURG
+LUX CFL10 Kau LuxGareCen
+LUX CFL10b Kau Wil
+LUX T1 RoutBrePaf StaPlazEto
+
+
+# GERMANY
+##  BW - Baden-Württemberg
+
+
+##  BY - Bayern
+
+
+##  BE - Berlin
+DEU-BE S7 BB/BE Hbf
+DEU-BE S41 WestKre_N WestHaf
+DEU-BE S41 OstKre SchBerg
+
+DEU-BE S1 FriStr PotPla
+DEU-BE S1 YorStr RatHausSte
+DEU-BE S3 MesSud OstKre
+
+DEU-BE U1 UhlStr SchTor
+DEU-BE U3 BreBachPla SchTor
+DEU-BE U4 NolDorfPla InnsBruPla
+DEU-BE U5 Hbf UntLin
+DEU-BE U6 NatMus TemHof
+
+DEU-BE M1 Milastrasse SHacMar
+DEU-BE M8 SUHbf_2 BruStrInvStr
+DEU-BE M10 SUHbf_2 UEbeWalStr
+
+
+
+##  BB - Brandenburg
+DEU-BB S7 PotHbf BB/BE
+
+DEU-BB 91Pot LuiPlaSudSan PotHbf
+DEU-BB 92Pot ReiWegAllStr PlaEinWest
+
+
+##  HB - Bremen
+
+
+##  HH - Hamburg
+
+
+##  HE - Hessen
+
+
+##  MV - Mecklenburg-Vorpommern
+
+
+##  NI - Niedersachsen
+
+
+##  NW - Nordrhein-Westfalen
+DEU-NW ParDor BEL/DEU DortMundHbf
+DEU-NW WupSch VohWinSchBahn OberBarBf
+DEU-NW SkyTrn FernBf TerC
+DEU-NW HB211 TecZen EicHof
+DEU-NW HB212 CamNord CamSud
+
+DEU-NW RE18 NLD/DEU AacHbf
+
+DEU-NW S1 DortmundHbf DusseldorfOberbilk
+DEU-NW S5 DortMundHbf +DIV_HagN
+DEU-NW S6 DusseldorfHbf KolnHbf
+DEU-NW S7 WuppertalHbf SolingenHbf
+DEU-NW S8 WuppertalLangerfeld MonchengladbachHbf
+DEU-NW S11 DusseldorfWehrhahn KolnWorringen
+DEU-NW S11 KolnLongerich KolnMulheim
+DEU-NW S12 +DIV_Nip Au
+DEU-NW S41Lie BEL/DEU AacHbf
+
+DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
+
+DEU-NW U79 Klemensplatz DusseldorfHbf
+DEU-NW U71 UhLandStr SchBen
+DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
+DEU-NW U73 GerresheimS AufHardtLVRKlinikum
+
+
+
+##  RP - Rheinland-Pfalz
+
+
+##  SL - Saarland
+
+
+## SN - Sachsen
+
+
+##  ST - Sachsen-Anhalt
+
+
+##  SH - Schleswig-Holstein
+
+
+##  TH - Thuringia
+
+
+# DENMARK
+DNK M1 VanLose VesMag
+DNK M2 VanLose LuftHav
+DNK B Norp KobHov
+
+
+# UNITED KINGDOM
+
+## WLS - Wales
+WLS GtOrmeTwy VicSta Sum
+WLS SnoMouRwy Lla Clo
+
+
+## ENG - England
+#Train
+ENG XCML She +DIV_RotS
+ENG XCML +SKIP_ChuFen York
+ENG LonAms LonStPanInt GBR/FRA
+ENG ChaTnl FolEurTer GBR/FRA
+ENG LutAirExp LonStPanInt LutAirPkwy
+ENG DeaVlyLn She York
+
+#Londen Underground / TFL
+ENG EliLn TotCouRd CanWha
+ENG WoELn LonWat SAL
+ENG JubLn LonBri Str
+ENG PicLn HeaTer23 CalRd
+ENG CenLnEal MileEnd NewPark
+ENG CenLnEal EalBro OxfCir
+ENG HaCLn Far MileEnd
+ENG VicLn KXSP Pim
+ENG DisLn KewGar EarCou
+ENG DLR CanWha CutSark
+ENG DLRRoy Sha CanTown
+ENG DLR Bank Lim
+ENG NorLnBar KXSP LonBri
+
+
+# NORWAY
+NOR FLY1 NatThe OsloLuf
+NOR L1 NatThe Nyl
+NOR 1Osl Frog Jer
+NOR 11Osl Jer NyBrua
+NOR 12Osl FroPla AkerBry
+
+
+# FRANCE
+
+#Grand-Est
+
+
+#Haut de France
+FRA-HDF ChaTnl GBR/FRA CalEurTer
+FRA-HDF LonAms GBR/FRA FRA/BEL
+FRA-HDF ParAms IDF/HDF +DIV_Lil2
+
+#IDF
+FRA-IDF A RueMal ChaHal
+FRA-IDF B GareNord ChaHal
+FRA-IDF C IssyValSei GareAus
+FRA-IDF E HauStLaz Mag
+FRA-IDF LonPar HDF/IDF ParGareNord
+
+#Paris Metro / Sub-urban
+FRA-IDF N ParMon Cla
+FRA-IDF M1 GeoV PalRoyMusLou
+FRA-IDF M2 ChaGauEto Nat
+FRA-IDF M5 Lau GareAus
+FRA-IDF M6 ChaGauEto QuaiGare
+FRA-IDF M7 GareEst Jus
+FRA-IDF M9 PontSev Mue
+FRA-IDF M12 StLaz Abb
+
+FRA-IDF T2 Bri IssyValSei
+
+
+#Normandy
+
+
+# CZECH REPUBLIC
+#Metro
+CZE A NadVel NamMiru
+CZE B Jin Pal
+CZE C NadHol Vys
+
+#Tram
+CZE 3Brn Pristaviste Ceska
+CZE 6Pra Pal NadHol
+CZE 20Pra DivSar MalNam
+CZE 22Pra Poh Mals
+
+#Train
+CZE S1 PrahaMasarykovoNadrazi Kolin
+CZE S20 Kolin KutnaHoraHlavniNadrazi
+
+
+# POLAND
+
+
+
+# SLOVENIA
+
+
+# SPAIN
+ESP-VC 3Val Col Aer
+ESP-VC 7Val Jes Ala
+
+ESP-CT R5 Esp MonMon
+
+ESP-AN C1Mal MalCenAla Aer
+ESP-AN L1 BlasInf PlaCuba
+
+
+# PORTUGAL
+
+
+# ITALY
+
+#SWISS
+
+#LIECHTENSTEIN
+
+# Austria
+AUT 49Wie Sch RingVol
+AUT S2Sal DEU/AUT SalHau
+
+
+#ROMANIA
+
+#TURKEY
+
+#UKRAINE
+
+
+# AMERICA
+# UNITED STATES of AMERICA
+IL BroLn Chi AdaWab
+
+
+# ASIA
+# VIETNAM
+# THAILAND
+# JAPAN
+# Highspeed
+JPN TokaidoShin Tokyo Kyoto
+
+# Metro
+#Tokyo
+JPN YurikamomeLn U01 U07
+JPN HanzomonLn Z13 Z14
+JPN ChuoSobuLn JB10 JB22
+JPN GinzaLn G01 G08
+JPN YamanoteLn JY01 JY17
+JPN TokTozaiLn T03 T04
+
+#Kyoto
+JPN KarasumaLn K09 K11
+
+# HONG KONG
+#HK Tramways
+HKG 1 WesMar ShauKeiWan
+HKG 2 PatSt_A ShauKeiWan
+HKG 3 ShekTongTsui +DIV_12A
+HKG 3 NorPoiTer ForHill_B
+HKG 4 ShekTongTsui CauBayTer
+HKG 5 KenTownTer TonRd_B
+HKG 6 KenTownTer ShauKeiWan
+HKG 7 KenTownTer WesMar
+
+#HK MTR Tram
+HKG 505 SamShi TownCen
+HKG 507 TuenMunFryPier SuiLun
+HKG 614 PuiTo +DIV_751/761
+HKG 615 TuenMunFryPier YuenLong
+HKG 705 TinShuiWai_A WetPark
+HKG 706 TinYat TinSau
+HKG 751 TownCen_A TinYat
+HKG 761p TinYat YuenLong
+
+#HK MTR
+HKG AirExp HongKong AsiaWorExpo
+HKG DisResLn SunBay DisRes
+HKG ERailLn Adm LoWu
+HKG ERailLnLok SheShui LokMaChau
+HKG ERailLnRac ShaTin Uni
+HKG IslLn KenTown ChaiWan
+HKG KTLn Wha TiuKengLeng
+HKG SIslLn Adm SouHor
+HKG TCLn HongKong TungChu
+HKG TKOLn NorPoi PoLam
+HKG TKOLnLoh TseKwanO LOHPark
+HKG TMLn WuKaiSha TuenMun
+HKG TWLn Cen TsuWan
+
+#HK Others
+#HKG NPCC TC NP
+#HKG OPCC Wat Sum
+HKG PT Peak CenTer
+
+#CHINA
+
