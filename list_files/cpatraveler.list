@@ -1,23 +1,3 @@
-CO CO67 US24_E CR126 #05302024 Return from Sangre de Cristo Bd Meeting
-CO CO121 End I-70
-CO CO58 5 US6
-CO CO265 I-70 US6/85
-CO CO224 US6/85 US36
-CO CO53 CO224 I-25
-CO CO35 I-70 53rdPl  
-CO CO7Laf I-25 CO42 #05292024 Sangre de Cristo Board Meeting Drive around
-CO CO42 CO7 US287
-CO CO128 US287_N CO93
-CO CO93 CO128 CO72
-CO CO72 CO93 CO119_S
-CO CO119 CO72_E US6
-CO CO46 CO119 Gil/Jef	
-CO US40 US6_E I-70(252)
-CO CO74 I-70 CO8
-CO CO8 CO470 US285
-CO CO105Sed WolRd CO67 #052424 San Isabel Bd Meeting to DEN
-CO CO67Sed RamRanRd US85
-CO US85 CO470 I-25(207B)
 AL AL227 AubCarrSceDr AL75  #Day two Cullman to Gate City 04062024
 AL AL62 MilWayRd AL227
 AL AL75 CR27 AL/GA
@@ -1815,8 +1795,29 @@ CO US160BusMan US160_E US160_W  #06282024
 CO MesaVerRd US160 SprCyn #06292024 
 CO CO140 NM/CO US160 #06282024
 CO CO184 US160Bus US491 #06282024
+CO CO67 US24_E CR126 #05302024 Return from Sangre de Cristo Bd Meeting
+CO CO121 End I-70
+CO CO58 5 US6
+CO CO265 I-70 US6/85
+CO CO224 US6/85 US36
+CO CO53 CO224 I-25
+CO CO35 I-70 53rdPl  
+CO CO7Laf I-25 CO42 #05292024 Sangre de Cristo Board Meeting Drive around
+CO CO42 CO7 US287
+CO CO128 US287_N CO93
+CO CO93 CO128 CO72
+CO CO72 CO93 CO119_S
+CO CO119 CO72_E US6
+CO CO46 CO119 Gil/Jef	
+CO US40 US6_E I-70(252)
+CO CO74 I-70 CO8
+CO CO8 CO470 US285
+CO CO105Sed WolRd CO67 #052424 San Isabel Bd Meeting to DEN
+CO CO67Sed RamRanRd US85
+CO US85 CO470 I-25(207B)
+CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
-CT US6 CT/RI I-395#Trip with GJ Telergee  
+CT US6 CT/RI I-395 #Trip with GJ Telergee  
 DE I-95 MD/DE DE/PA #09242017 NTCA Philly Trip Also some from Earlier Trips
 DE I-295 I-95 DE/NJ #09242017 NTCA Philly
 DE I-495 I-95 6 #09242017 NTCA Philly
@@ -1916,7 +1917,8 @@ FL FL492 US27/301 FL40 #Silver Springs Trip with Kids
 FL FL528 11 42 #02112017 Trip to Canveral National Seashore
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
 FL FL886 US1 FloWay #Going on Crusies out of Miami
-FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami  
+FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
+GA I-24 TN/GA GA/TN #Travel M'Boro to Chattanooga  
 GA US29 AL/GA W9thSt #2000 Knology
 IA I-29 MO/IA 75 #06232020
 IA I-29 75 IA/SD #07102024 Badland Trip
@@ -1943,16 +1945,25 @@ LA I-59 I-10/12 LA/MS
 LA LakePonCswy EspAve US190/22
 LA US190 LA22 I-12
 MA I-90 90 NY/MA #Trip with GJ Telergee
+MA I-90 MA1A 134 #NTCA Fall Conference
 MA I-93 1 7 #Trip with GJ Telergee 
 MA I-95 MA/NH 26 #Trip with GJ Telergee
 MA I-95 26 RI/MA #Trip with GJ Telergee 
-MA I-195 1 RI/MA #Trip with GJ Telergee  
+MA I-195 1 RI/MA #Trip with GJ Telergee
+MA I-195 40 1 #Trip with GJ Telergee  
 MA I-395 CT/MA 12 #Trip with GJ Telergee
+MA StoDr MA28 SolFieRd #NTCA Fall Conference 
+MA US1 MA99_S I-93(16) #NTCA Fall Conference
+MA US3 MA2_E MA3 #NTCA Fall Conference   
 MA US6 MA28_S 85 #Trip with GJ Telergee  
 MA US7 US20_W MA/VT #Trip with GJ Telergee
-MA US20 NY/MA US7_N #Trip with GJ Telergee  
+MA US20 NY/MA US7_N #Trip with GJ Telergee
+MA MA1ASal I-90 US1 #NTCA Fall Conference
+MA MA2 MA28 US3_S #NTCA Fall Conference  
+MA MA2ACam US3 MA2_E #NTCA Fall Conference   
 MA MA12 I-290(12) I-90 #Trip with GJ Telergee
 MA MA3 43 1 #Trip with GJ Telergee
+MA MA3 18(93) US3 #NTCA Fall Conference
 MA MA24 3 RI/MA #Trip with GJ Telergee 
 MA MA25 10 1 #Trip with GJ Telergee
 MA MA28 ShoRd MA132 #Trip with GJ Telergee
@@ -1967,7 +1978,13 @@ MD MD313 US301 MD213/290 #10072018 Trip Parents to BWI
 MD MD314 MD/DE MD313 #10072018 Trip Parents to BWI
 MD MD544 MD313 US301 #10072018 Trip Parents to BWI
 ME I-95 48 NH/ME #Trip with GJ Telergee
-ME US302 NH/ME RivSt #Trip with GJ Telergee  
+ME I-295 I-95(44) 7 #Telergee Meeting
+ME US1AltPor US1_N US1_S #Telergee Meeting  
+ME US302 NH/ME RivSt #Trip with GJ Telergee
+ME US302 RivSt I-295/1 #Telergee Trip
+ME ME22 ME9_W ME77 #Telergee Trip
+ME ME77 ME22 US1Alt #Telergee Trip    
+ME ME100 I-295/1 ParkAve #Telergee Trip  
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
 MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
@@ -2127,16 +2144,24 @@ NY US20 NY22_S NY/MA #Trip with GJ Telergee
 NY NY22 I-90 US20_E #Trip with GJ Telergee
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
 RI I-95 24B RI/MA #Trip with GJ Telergee
+RI I-95 CT/RI 24B #Trip to Boston with parents  
 RI I-195 1 RI/MA #Trip with GJ Telergee
 RI I-295 I-95 9C #Trip with GJ Telergee
-RI US1 RI138_E RI403 #Trip with GJ Telergee 
+RI US1 RI138_E RI403 #Trip with GJ Telergee
+RI US1 AirConRd US44_E #Trip with GJ Telergee 
 RI US6 I-295(9C) CT/RI #Trip with GJ Telergee
+RI US6 I-195(1) I-95(36A) #Trip with GJ Telergee
+RI US44 US1_S I-195(1C) #Trip with GJ Telergee
+RI RI1APro I-195(1C) EddySt_S #Trip with GJ Telergee    
 RI RI4 7B I-95 #Trip with GJ Telergee
+RI RI7 RI246 I-95 #Trip with GJ Telergee  
 RI RI24 RI/MA RI114 #Trip with GJ Telergee
 RI RI114 RI138_W EastShoExpy #Trip with GJ Telergee
-RI RI138 RI114_N US1_N #Trip with GJ Telergee
+RI RI138 RI138A_E US1_N #Trip with GJ Telergee
 RI RI138A RI138_W RI138_E #Trip with GJ Telergee
-RI RI238 RI138 GoadIslRd #Trip with GJ Telergee
+RI RI214 RI114 RI138A #Trip wit GJ Telergee 
+RI RI238 RI138 GoatIslRd #Trip with GJ Telergee
+RI RI246 I-95 US1/44 #Trip with GJ Telergee
 RI RI403 ComParkRd RI4 #Trip with GJ Telergee          
 SD I-29 26 109 #07222019
 SD I-29 IA/SD 26 #07102024 Badland Trip
@@ -2160,8 +2185,57 @@ SD SD52 US81/50 SD153 #07212019
 SD SD73 I-90BL US18_E #07112024 Badland Trip 
 SD SD248 SD240 SD73 #07112024 Badland Trip 
 TN I-24 56 74 #11172012
+TN I-24 46 50 #Living in M'Boro
+TN I-24 52B 56 #Living in M'Boro
+TN I-24 76 TN/GA #Traveling to Chattanooga-Atlanta
+TN I-24Cha GA/TN 185 #Traveling M'Boro to Atlanta
+TN I-40 421 TN/NC #Traveling to NC from M'Boro
+TN I-65 67 82 #Living in M'Boro
+TN I-65 88 TN/KY #Travel to Louisville - Illinois
+TN I-75 385(40) 3(640) #Travel to Scott County
+TN I-75 129 TN/KY #Travel to Scott County
+TN I-81 63 74 #Working at Scott County
+TN I-124 I-24 TenRiv #Travel from Chattanooga to Bledsoe
+TN I-140 11 1C #Working at TDS
+TN I-240 21 I-40 #Visiting Bea in Memphis
+TN I-275 I-40 3 #Travel to Scott County and Knoxville Visit
+TN I-640 I-40_W I-40_E #Travel to Scott County
+TN US27 I-24(180B) US70_E #05232017 Bledsoe BdMtg
+TN US31 US31E/31W TN245 #07022017 Memphis IKEA
+TN US64 TN100 I-40(18) #07022017 Memphis IKEA  
+TN US127 US27 I-40 #05232017 Bledsoe BdMtg       
 TN US70S TN266 TN255 #11172012
+TN US70S TN56 TN266 #05232017 Bledsoe BdMtg 
+TN US79 TN49 I-24 #03102017 Return from Wabash BdMtg
+TN US412 I-65 US641 #07022017 Memphis IKEA
+TN US412 TN54/88 I-40(79) #07022017 Memphis IKEA   
+TN US441 US411_N NC/TN #01022017 Visit Gatlinburg
+TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
+TN TN30 TN111 US27 #05232017 Bledsoe BdMtg  
+TN TN55 I-24 US70S/380 #05232017 Bledsoe BdMtg
+TN TN55BusMcM TN55 TN380 #05232017 Bledsoe BdMtg
+TN TN56 US70S TN8 #05232017 Bledsoe BdMtg
+TN TN59 I-40 US51_S #07022017 Memphis IKEA       
+TN TN62 TN95 I-75/640 #01012017 Visit Manhatten Project VC
+TN TN66Sev I-40 US411/441 #01022017 Visit Gatlinburg
+TN TN88 US51 US412_A #07022017 Memphis IKEA
+TN TN100 US70S TN96_E #07022017 Memphis IKEA
+TN TN100 US412_W US64 #07022017 Memphis IKEA   
+TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg  
+TN TN120 TN/KY US79 #03102017 Return from Wabash BdMtg     
+TN TN131 US11/70 TN162 #01012017 Visit Manhatten Project VC
+TN TN162 I-40/140 TN62 #01012017 Visit Manhatten Project VC
+TN TN237 TN374 I-24 #03102017 Return from Wabash BdMtg    
 TN TN266 US231 US41/70S #11172012
+TN TN284 TN111 TN30 #05232017 Bledsoe BdMtg  
+TN TN374 US79_S TN237 #03102017 Return from Wabash BdMtg
+TN TN378 US27/60 US27_N #05232017 Bledsoe BdMtg 
+TN TN380 US70S/55 MainSt_E #05232017 Bledsoe BdMtg
+TN TN396 I-65 US31 #07022017 Memphis IKEA  
+TN TN448 TN66 US411 #01022017 Visit Gatlinburg  
+TN CadCoveLpRd SpaLn_N LauCreRd_B #01022017 Visit Gatlinburg
+TN GatByp US321/441 US441_S #01022017 Visit Gatlinburg
+TN LitRivGorRd US441 TowEndRd #01022017 Visit Gatlinburg   
 TX I-10 TX/LA 564 #Kids Trip
 TX I-10 187 NM/TX #29 Palms Trip
 TX I-20 I-10 TX/LA #29 Palms Trip
