@@ -1,0 +1,26 @@
+DC BluLn VA/DC LEnfPla
+DC GreLn DC/MD LEnfPla
+DC RedLn MD/DC UniSta
+DC YelLn VA/DC MtVerSq
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL SM FL/GA WinHav
+FL TECO DowTam CenPark
+GA BluLn Dec FivePoi
+GA GoldLn FivePoi LinCen
+GA SM FL/GA GA/SC
+MA OraLn SulSq NorSta
+MD GreLn DC/MD ColPk
+MD RedLn ShaGro MD/DC
+NY NewHavLn GraCen Rye
+NY NY S42 TimSq GraCen
+NY NY 1 116StColUni TimSq42St
+NY NY 4 161StYanSta WallSt
+SC SM GA/SC Cha
+VA BluLn KingStOldTown VA/DC
+VA YelLn KingStOldTown VA/DC
+FRA-HDF LonPar GRB/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+ENG LonPar LonStPanInt GRB/FRA
+ENG NYMRwy Pic Whi
+SCT FifeLnDun EdiWav +DIV_Dun
+WLS GtOrmeTwy VicSta Sum
