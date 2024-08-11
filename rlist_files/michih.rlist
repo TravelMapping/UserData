@@ -1,4 +1,4 @@
-# Date: 2024-08-03
+# Date: 2024-08-10
 # ----------------
 
 ######################
@@ -246,6 +246,11 @@ DEU-BW S6Man +SKIP_MannHeimFriFeldSud BW/HE    #2024, traveled as RE68
 #DEU-HE RE68 Hähnlein-Alsbach DEU-BW Heidelberg Hbf   #2024
 DEU-BW S3Man HeiBergHbf Bru                    #2024, traveled as RE73
 #DEU-BW RE73 Heidelberg Hbf Bruchsal           #2024
+
+DEU-NW S6 LevMit KolnMulHeim                   #2024
+DEU-NW S11 KolnMesDeu BerGladBach              #2024
+DEU-NW S19 KolnMesDeu TroDorf                  #2024
+
 
 ######################
 #### METROS/TRAMS ####
@@ -524,6 +529,7 @@ DEU-NW 66Bon SiegBurgBf BadHon        #2022, U66
 DEU-NW 01Kol WeiWest BensBerg         #2021, U1
 DEU-NW 03Kol HansBocPlaBfWest Thi     #2021, U3
 DEU-NW 04Kol HansBocPlaBfWest WiePla  #2021, U4
+DEU-NW 04Kol BfDeuLANAre Wei          #2024, U4
 DEU-NW 05Kol SparKasButzWeiHof HeuMar #2021, U5
 DEU-NW 07Kol FreBen ZunDorf           #2021, U7
 DEU-NW 09Kol NeuMar KonFor            #2021, U9
