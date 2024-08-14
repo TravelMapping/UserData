@@ -1,4 +1,4 @@
-# Date: 2024-08-12
+# Date: 2024-08-14
 # ----------------
 
 ######################
@@ -660,6 +660,10 @@ DEU-TH 4Erf BinLeb RinBerg           #2022
 DEU-TH 4Bin RinBerg BinLeb           #2022
 DEU-TH 5Erf ZooPark Hbf              #2022
 DEU-TH 6Erf Rie PusStr_B             #2022, both directions at south end
+
+DEU-TH 1Ger UntHaus Zwo              #2024
+DEU-TH 2Ger LusZeuDorf BfZwo         #2024
+DEU-TH 3Ger BieOst LusZeuDorf        #2024
 
 DNK M1 VanLose VesMag                #2020, Copenhagen
 DNK M2 VanLose LuftHav               #2020, Copenhagen
