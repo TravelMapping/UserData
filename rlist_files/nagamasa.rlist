@@ -93,25 +93,28 @@ ENG LonAms LonStPanInt BEL LonAms BruMidi
 #### FRA
 ### ILE DE FRANCE
 ## PARIS RER
-FRA-IDF B AerCDG2TGV ChaHal
 FRA-IDF A ChaHal GareLyon
+FRA-IDF B AerCDG2TGV ChaHal
+FRA-IDF CVer VerChaRiveGau Inv
+
 
 ## PARIS METRO
 FRA-IDF M1 FraDRoo GareLyon
 FRA-IDF M2 Anv ColFab
 FRA-IDF M3 StLaz Bou
-FRA-IDF M4 Cha StGerPres
+FRA-IDF M4 BarRoc StGerPres
 FRA-IDF M5 Sta Rep
 FRA-IDF M7 PorVil PalRoyMusLou
 FRA-IDF M8 EcoMil RicDro
-FRA-IDF M9 Tro FraDRoo
-FRA-IDF M9 ChaAntFay Rep
+FRA-IDF M9 Tro Rep
 FRA-IDF M11 Cha PorLil
 FRA-IDF M13StO StDenPorPar Mir
 FRA-IDF M14 StLaz GareLyon
 
 ## PARIS TRAM
 FRA-IDF T3b PorPanParVil PorLil
+FRA-IDF FunMon Inf Sup
+
 
 #### HKG 
 ## HK TRAMWAYS
