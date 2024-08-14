@@ -4,6 +4,7 @@ ENG EGriLn LonVic EastGri
 ENG GatEx LonVic Bri
 ENG PadWoodLn FolCen DovPri
 ENG PicLnHT4 LOOP Coc
+ENG RobHoodLn Not Wor
 ENG SWalML LonPad BriPkwy
 ENG TPNRte LivLimeSt ManVic
 ENG WCMLD LonEus LivLimeSt
@@ -14,8 +15,10 @@ FRA-HDF LonPar LilEur HDF/IDF
 FRA-HDF P22 +DIV_Nord Arr
 FRA-HDF P43 Dou Val
 FRA-HDF P44 Arr Dou
+FRA-IDF JVer ParStLaz IDF/NOR
 FRA-IDF LonPar HDF/IDF ParGareNord
 FRA-IDF ParDor ParGareNord +DIV_Lil1
+FRA-NOR JVer IDF/NOR Ver
 
 GA RedLn Air FivePoi
 GA SkyTrn Air RenCarCen
