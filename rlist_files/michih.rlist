@@ -1,4 +1,4 @@
-# Date: 2024-08-14
+# Date: 2024-08-17
 # ----------------
 
 ######################
@@ -258,6 +258,11 @@ DEU-NW S9Rec RecHauHbf GelKirBuerNord          #2024
 DEU-NW S9 GelKirBuerNord EssWest               #2024
 DEU-NW S3 OberHauHbf EssHbf                    #2024
 
+AUT S40 StPolHau KloWei                        #2024, KloWei-Tulln as REX41
+AUT S45 WienOtt WienHan                        #2024
+AUT S50 Neu WienWes                            #2024, traveled as REX51 from St. Pölten
+#AUT REX51 St. Pölten Hbf Wien WestBf          #2024 via Neulengbach
+
 
 ######################
 #### METROS/TRAMS ####
@@ -277,6 +282,14 @@ AUT 2Lin Moz SolCity                  #2024
 AUT 2Lin Univ EbeOrt                  #2024
 AUT 4Lin Bur SchTra                   #2024
 AUT 50Lin Pos Hau                     #2024
+
+AUT U1 Sch Obe                        #2024
+AUT U3 Ott Sim                        #2024
+AUT U4 Fri WienHei                    #2024
+AUT U6 Flo Wes                        #2024
+AUT DWie FraJosBah Bot                #2024
+AUT 1Wie Schw Bor                     #2024, traveled as temporarily extended line 71
+AUT 71Wie Bor Sim                     #2024
 
 
 BGR M1 MlaI BusPark         #2023
