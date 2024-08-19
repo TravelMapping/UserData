@@ -31,8 +31,14 @@ ON 2 Kip Ken
 ON 4 SheYon DonMil
 
 ## TTC STREETCARS
+ON 501 DufSt ChuSt
+ON 503 ChuSt_1 JarSt
+ON 504a DowAve JarSt
+ON 505 BatSt BroAveDunSt
+ON 506 GraSt ChuSt
 ON 509 ExhLp UniSta
 ON 510 SpaSta UniSta
+ON 511 BatSta ExhLp
 
 ### CAN-QC
 QC OraLn LioGro MonRoy
@@ -62,7 +68,6 @@ DEU-BE U2 ZooGar AlePla
 DEU-BE U6 KurtSchPla KochStr
 DEU-BE U8 AlePla KotTor
 
-
 ### ENG
 ## UNDERGROUND
 ENG DisLn SouKen MileEnd
@@ -80,7 +85,6 @@ ENG ThaLnk StPanInt GatAir
 ENG LTSLnStr LonLivSt Str
 ENG ArunVlyLn LonVic GatAir
 
-
 #### ESP
 ## RENFE
 ESP-AN C1Mal MalCenAla Aer
@@ -93,28 +97,28 @@ ENG LonAms LonStPanInt BEL LonAms BruMidi
 #### FRA
 ### ILE DE FRANCE
 ## PARIS RER
-FRA-IDF A ChaHal GareLyon
+FRA-IDF A CdGEto GareLyon
 FRA-IDF B AerCDG2TGV ChaHal
-FRA-IDF CVer VerChaRiveGau Inv
-
+FRA-IDF CVer VerChaRiveGau StMicNotDame
 
 ## PARIS METRO
-FRA-IDF M1 FraDRoo GareLyon
+FRA-IDF M1 GeoV GareLyon
 FRA-IDF M2 Anv ColFab
 FRA-IDF M3 StLaz Bou
-FRA-IDF M4 BarRoc StGerPres
+FRA-IDF M4 BarRoc StPla
 FRA-IDF M5 Sta Rep
+FRA-IDF M6 CdGEto BirHak
 FRA-IDF M7 PorVil PalRoyMusLou
 FRA-IDF M8 EcoMil RicDro
 FRA-IDF M9 Tro Rep
 FRA-IDF M11 Cha PorLil
+FRA-IDF M12 SevBab StLaz
 FRA-IDF M13StO StDenPorPar Mir
 FRA-IDF M14 StLaz GareLyon
 
 ## PARIS TRAM
 FRA-IDF T3b PorPanParVil PorLil
 FRA-IDF FunMon Inf Sup
-
 
 #### HKG 
 ## HK TRAMWAYS
