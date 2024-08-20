@@ -417,11 +417,18 @@ CO WLn DecFed UniSta
 ### IL 
 IL AirTraSys Ter1 Ter5
 
-## CTA
+## CHICAGO L
+IL BlueLn OHa ClaLake
+IL RedLn Roo ClaDiv
+IL GreLn Mor StaLake
 
 ### FL
 ## MIAMI METRORAIL
 FL OraLn Bri MiaAir
+
+## MIAMI METROMOVER
+FL BriLp Bri Loop
+FL OmniLp MusPk Loop
 
 ### NV
 NV AE ParkMGM Bel
