@@ -389,7 +389,7 @@ SWE 3Got KunPla CenSta
 ## AMTRAK
 OR AC PorUniSta BC AC VanPacCen
 
-### USA-CA 
+### CA 
 ## CALTRAIN
 CA CT SanCla SanFraKing
 
@@ -399,9 +399,15 @@ CA BARTYel Mil Emb
 
 ## MUNI
 CA MuniF 9thLar 3rdKea
+CA MuniJ 20th CivCen
 CA MuniN Jud9th CivCen
 CA MuniN Emb 2nd
 CA MuniT Mar ChiRosePark
+
+## AIRTRAIN
+CA AirTrnBlue RenCarCen Loop
+CA AirTrnRed GarG/BART_S GarG/BART_F
+CA OAKAir OakIntAir Col
 
 ### CO
 ## RTD
@@ -409,7 +415,9 @@ CO ALn UniSta DenAir
 CO WLn DecFed UniSta
 
 ### IL 
-## 
+IL AirTraSys Ter1 Ter5
+
+## CTA
 
 ### FL
 ## MIAMI METRORAIL
