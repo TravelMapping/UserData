@@ -1,4 +1,4 @@
-# Date: 2024-08-03
+# Date: 2024-08-17
 # ----------------
 
 ######################
@@ -247,6 +247,23 @@ DEU-BW S6Man +SKIP_MannHeimFriFeldSud BW/HE    #2024, traveled as RE68
 DEU-BW S3Man HeiBergHbf Bru                    #2024, traveled as RE73
 #DEU-BW RE73 Heidelberg Hbf Bruchsal           #2024
 
+DEU-NW S6 LevMit KolnMulHeim                   #2024
+DEU-NW S11 KolnMesDeu BerGladBach              #2024
+DEU-NW S19 KolnMesDeu TroDorf                  #2024
+
+DEU-NW S2Rec +DIV_HerW RecHauHbf               #2024, traveled as RE42
+DEU-NW S2 WanEicHbf EssHbf                     #2024, traveled as RE42
+#DEU-NW RE42 Essen Hbf DEU-NW Reck.hsn Hbf     #2024, via Gelsenkirchen
+DEU-NW S9Rec RecHauHbf GelKirBuerNord          #2024
+DEU-NW S9 GelKirBuerNord EssWest               #2024
+DEU-NW S3 OberHauHbf EssHbf                    #2024
+
+AUT S40 StPolHau KloWei                        #2024, KloWei-Tulln as REX41
+AUT S45 WienOtt WienHan                        #2024
+AUT S50 Neu WienWes                            #2024, traveled as REX51 from St. Pölten
+#AUT REX51 St. Pölten Hbf Wien WestBf          #2024 via Neulengbach
+
+
 ######################
 #### METROS/TRAMS ####
 ######################
@@ -266,6 +283,13 @@ AUT 2Lin Univ EbeOrt                  #2024
 AUT 4Lin Bur SchTra                   #2024
 AUT 50Lin Pos Hau                     #2024
 
+AUT U1 Sch Obe                        #2024
+AUT U3 Ott Sim                        #2024
+AUT U4 Fri WienHei                    #2024
+AUT U6 Flo Wes                        #2024
+AUT DWie FraJosBah Bot                #2024
+AUT 1Wie Schw Bor                     #2024, traveled as temporarily extended line 71
+AUT 71Wie Bor Sim                     #2024
 
 
 BGR M1 MlaI BusPark         #2023
@@ -524,6 +548,7 @@ DEU-NW 66Bon SiegBurgBf BadHon        #2022, U66
 DEU-NW 01Kol WeiWest BensBerg         #2021, U1
 DEU-NW 03Kol HansBocPlaBfWest Thi     #2021, U3
 DEU-NW 04Kol HansBocPlaBfWest WiePla  #2021, U4
+DEU-NW 04Kol BfDeuLANAre Wei          #2024, U4
 DEU-NW 05Kol SparKasButzWeiHof HeuMar #2021, U5
 DEU-NW 07Kol FreBen ZunDorf           #2021, U7
 DEU-NW 09Kol NeuMar KonFor            #2021, U9
@@ -554,7 +579,15 @@ DEU-NW U83 GerHeimKraHaus HeiHeiAll   #2024
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
 DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
+DEU-NW 103Ess WertStr +DIV_Var       #2024
+DEU-NW 105Ess UntStr EssHbf          #2024
 
+#Mülheim
+DEU-NW 102Mul OberDum UhlHor         #2024
+DEU-NW 104Mul AbzAktStr EvaKraHaus   #2024
+DEU-NW 112Obe LandWehr HauFriHof     #2024
+
+#Wuppertal
 DEU-NW WupSch VohWinSchBahn OberBarBf        #2022, signed as route 60
 
 #All relations at main station traveled, 59 does not run on weekend
@@ -640,6 +673,10 @@ DEU-TH 4Erf BinLeb RinBerg           #2022
 DEU-TH 4Bin RinBerg BinLeb           #2022
 DEU-TH 5Erf ZooPark Hbf              #2022
 DEU-TH 6Erf Rie PusStr_B             #2022, both directions at south end
+
+DEU-TH 1Ger UntHaus Zwo              #2024
+DEU-TH 2Ger LusZeuDorf BfZwo         #2024
+DEU-TH 3Ger BieOst LusZeuDorf        #2024
 
 DNK M1 VanLose VesMag                #2020, Copenhagen
 DNK M2 VanLose LuftHav               #2020, Copenhagen
