@@ -55,7 +55,7 @@ ENG ThaLnkCam FinPark StPanInt
 ENG ThaLnkRai LonBri Dar
 ENG ThaLnkPet EastCro GatAir
 ENG ThaLnkSev LonBla Swa
-ENG ThaLnkSut LonBla Str_2
+ENG ThaLnkSut StAlbCity LOOP
 ENG RheeVlyLn WelGarCity KinCro
 ENG NorCityLn Moo HerNor
 ENG NorCityLnWel AlePal WelGarCity
@@ -80,10 +80,10 @@ ENG SEML ChaCro LonBri
 ENG SidLn ChaCro Dar
 ENG SidLnLew ChaCro Dar
 ENG SoleStLn LonVic Swa
-ENG WooLn CanSt_1 CanSt_2
+ENG WooLn LonCanSt LOOP
 ENG LTSLn LonFenSt Upm
 ENG LTSLnOck Upm Gra
-ENG LTSLnRai Bar Rai
+ENG LTSLnRai Bar Gra
 ENG LTSLnStr LonLivSt Bar
 ENG GWML LonPad Rea
 ENG SWalML LonPad Rea
@@ -111,7 +111,7 @@ ENG BooLn LonWat Eps
 ENG CheLn LonWat CheSou
 ENG CheLp LonWat Fel
 ENG HamCouLn LonWat HamCou
-ENG KinLp LonWat_1 LonWat_2
+ENG KinLp LonWat ClaJct_2
 ENG MoleVlyLn LonWat Eps
 ENG NewGuiLn LonWat Sur
 ENG PorDirLn LonWat ClaJct

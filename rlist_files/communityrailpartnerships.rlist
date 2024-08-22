@@ -181,7 +181,8 @@ ENG SaCLn Lee Car
 
 #North Staffordshire Community Rail Partnership
 ENG NorStaLn Cre Der
-ENG PotLn Pen Cre
+ENG PotLn Sta Cre
+ENG BirLivLn Pen Sta
 
 #Leeds- Morecambe Community Rail Partnership
 ENG BenLn Lee HeyPort
@@ -212,8 +213,7 @@ ENG CotLn Hon GreMal
 ENG XCLnBro BarGre Bro
 ENG MalLn Bro DroSpa
 ##Wyre Valley Line
-ENG WyreVlyLn DroSpa Kid
-ENG ShaLn Kid Hag
+ENG WyreVlyLn DroSpa Hag
 ##Arrow Valley Line
 ENG XCLn BarGre Red
 
@@ -361,7 +361,7 @@ SCT ArgLnLar Rut HamCen
 #6VT Youth CRP
 SCT ShoLn EdiWav Kir
 SCT NorClyLnHel EdiWav EdiPark
-SCT FifeLn EdiWav NorQue
+SCT FifeLnCow EdiWav NorQue
 
 #Creative Isle CRP
 ENG SEML Min Ram
