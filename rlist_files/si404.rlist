@@ -42,7 +42,6 @@ ENG WAMLStr Str TotHale
 #####LN######
 ENG BirLivLn BirNewSt LivLimeSt
 ENG NhpLn BirInt BirNewSt
-ENG PotLn BirNewSt Sta #VT New Street - Stafford (diversion - via Tame Bridge)
 ENG TreVlyLn LonEus Sta
 
 ######LO######
@@ -97,16 +96,16 @@ ENG WestLonLn StrCom ECro
 #####SW#####
 ENG NetLn SouCen PorSou
 ENG SWML LonWat Bou
-ENG WoELn LonWat DIV_WesE #XC Diversion
+ENG WoELn LonWat DIV_WMLE #XC Diversion
 ENG TestVlyLn DIV_WoE Eas #XC Diversion
-ENG PorDirLn Gui DIV_Cos #XC Diversion
+ENG PorDirLn Gui DIV_WML #XC Diversion
 ENG BotLn LonWat Win
-ENG BotLn Far DIV_Hav #XC Diversion
+ENG BotLn Far DIV_PDLS #XC Diversion
 ENG ReaLn WinTri Rea
 ENG WinLn LonWat Sta #non-stop diversion
-ENG CheLp Sta +X582054 #non-stop diversion
+ENG CheLp Sta DIV_SWML #non-stop diversion
 ENG CheLp QueRd Hou
-ENG KinLp Ric LonWat_2
+ENG KinLp Ric Wim
 
 #####SX#####
 ENG StaEx TotHale StaAir
@@ -115,10 +114,10 @@ ENG StaEx TotHale StaAir
 ENG ThaLnk Far EastCro
 ENG ThaLnkCam FinPark StPanInt
 ENG ThaLnkSev Cat BroSou
-ENG ThaLnkSut Hen_1 WestHam_1
-ENG ThaLnkSut KenTown_2 Far_2
-ENG ThaLnkSut LonBla_1 MitJct
-ENG ThaLnkSut Sut Str_2
+ENG ThaLnkSut Hen WestHam
+ENG ThaLnkSut KenTown Far
+ENG ThaLnkSut LonBla MitJct
+ENG ThaLnkSut Sut LOOP
 
 #####VT#####
 ENG WCMLA WatJct Wol
@@ -230,7 +229,7 @@ CA A UniSta DelMar
 
 ####SF Muni####
 CA MuniF 5thCyr Bea
-CA MuniJ Pow Emb
+CA MuniJ PowSt Emb
 ####SF Cable Cars####
 CA CalSt VanNess Dru
 CA PowMas Mar Bay

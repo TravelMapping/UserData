@@ -1,5 +1,5 @@
 # ──────────
-# 2024-07-22
+# 2024-08-04
 # ──────────
 
 # ─────────
@@ -90,6 +90,53 @@ CZE S3Jih Kri Sak
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
 
+# ───
+# DÚK
+# ───
+
+CZE U1 Most DecHlaNad
+CZE U3 Lit LouLit
+CZE U4 UstiNadLabHlaNad Hne
+CZE U8 DecHlaNad Mly
+CZE U10 Most Lov
+CZE U11 Lou Lov
+CZE U12 Most Rak
+CZE U13 Most Zat
+CZE U14 Zat Rak
+CZE U32 UstiNadLabZap Mel
+CZE U40 Lou Tel
+CZE U57 Zlu BlaJes
+
+CZE T8 MolKruHor LouLit_1
+CZE T10 Svor PraHlaNad
+CZE T11 Tel DecHlaNad
+
+# ─────
+# IREDO
+# ─────
+
+CZE V41 Sany HraKraHlaNad
+CZE V51 ChlNadCid StaPaka
+
+# ────────────
+# Liberec-IDOL
+# ────────────
+
+CZE 3Lib LidSadyZoo Spa
+
+CZE L2 DecHlaNad CesLipaHlaNad
+CZE L3 Libe MalaSka
+CZE L7 POL/CZE Lib
+CZE L7Var Var CZE/DEU
+CZE L9 JabNadJiz MarKrk
+CZE L35 Tur Jic
+
+# ───────
+# Olomouc
+# ───────
+
+CZE 7Olo NreKre OkrSoud
+
 # ────────────
 # Ostrava–ODIS
 # ────────────
@@ -107,46 +154,7 @@ CZE S5Mor FryNadOst Ost
 CZE S6Mor OstHlaNad LisFry
 CZE S6Mor FryMis FryNadOst
 CZE S9Mor OstKun CesTes
-
-# ────────────
-# Liberec+IDOL
-# ────────────
-
-CZE 3Lib LidSadyZoo Spa
-
-CZE L2 DecHlaNad CesLipaHlaNad
-CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
-CZE L9 JabNadJiz MarKrk
-CZE L35 Tur Jic
-
-# ───
-# DÚK
-# ───
-
-CZE U1 Most DecHlaNad
-CZE U4 UstiNadLabHlaNad Hne
-CZE U8 DecHlaNad Mly
-CZE U10 Most Lov
-CZE U11 Lou Lov
-CZE U12 Most Rak
-CZE U13 Most Zat
-CZE U14 Zat Rak
-CZE U28Dec DEU/CZE DecHlaNad
-CZE U32 UstiNadLabZap Mel
-CZE U40 Lou Tel
-CZE U57 Zlu BlaJes
-
-CZE T10 Svor PraHlaNad
-CZE T11 Tel DecHlaNad
-
-# ─────
-# IREDO
-# ─────
-
-CZE V41 Sany HraKraHlaNad
-CZE V51 ChlNadCid StaPaka
+CZE S22Mor MosJab MosJabZas
 
 #┌───────────────────────────────────────────┐
 #│                    AUT                    │
@@ -175,7 +183,8 @@ AUT S60 WienHau BruLei
 # Dresden
 # ───────
 
-DEU-SN U28 BadSch DEU/CZE
+DEU-SN S1Dre RadZit Sch
+DEU-SN U28 BadSch CZE U28Dec DecHlaNad
 DEU-SN L7 CZE/DEU DEU/POL
 
 # ───────
@@ -191,6 +200,8 @@ DEU-BY 17Mun RomPla HbfNord
 
 DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
+DEU-BY S2 Dac Hbf
+DEU-BY S2Pet PetHau Dac
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
@@ -254,6 +265,16 @@ HUN 60Bud Var SzeHegyGye
 #└───────────────────────────────────────────┘
 
 POL L7 DEU/POL POL/CZE
+
+#┌───────────────────────────────────────────┐
+#│                    SCT                    │
+#└───────────────────────────────────────────┘
+
+# ───────
+# Glasgow
+# ───────
+
+SCT GlaSub Par_1 Par_2
 
 #┌───────────────────────────────────────────┐
 #│                    SVK                    │
