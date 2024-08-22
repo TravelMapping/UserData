@@ -55,6 +55,18 @@ CHE 18Gen GareCor CHE 18Gen CERN
 ## TRAIN
 CHE L6 +DIV_Air GenCor
 
+#### CHN
+### GD
+## SHENZHEN METRO
+CHN-GD SZMLn1 LuoHu CheGongMiao
+CHN-GD SZMLn2 LianTangChe GangXiaN
+CHN-GD SZMLn4 HongShan CivCen
+CHN-GD SZMLn6 SciMus HongShan
+CHN-GD SZMLn11 CheGongMiao Air
+
+## PRD ICR
+CHN-GD GuangZhu ZhongShanN ZhuHai
+
 #### DEU
 ### MUNICH
 DEU-BY S2 Dac BergLaim
@@ -352,6 +364,9 @@ JPN OkiMon 1 7
 #### LUX
 LUX T1 LuxExpo Ham
 
+#### MAC
+MAC Taipa Aer Lot
+
 #### NLD
 NLD IC35 AmsCen SchAir
 NLD 52Ams Rok StaZuid
@@ -384,6 +399,8 @@ SWE 10Sto Rad TCen
 ### GOTEBERG
 ## TRAM
 SWE 3Got KunPla CenSta
+
+#### TWN
 
 #### USA
 ## AMTRAK
