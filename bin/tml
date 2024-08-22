@@ -38,7 +38,7 @@ foreach arg ( $* )
 
     echo "Moving ${arg} as ${destfilename} to ${dest}"
     chmod 644 ${arg}
-    if ( ! -f ${listdir}/${destfilename} ) then
+    if ( ! -f ${dest}/${destfilename} ) then
       echo "NOTE: this appears to be a new user list file."
     endif
     mv ${arg} ${dest}/${destfilename}

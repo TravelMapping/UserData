@@ -4,7 +4,7 @@ AZ PHX RenCarCen 44thSt
 AZ VMR McDCenAve 3rdSt
 
 BC AC USA/CAN VanPacCen
-BC CanLn Wat BroCityHall
+BC CanLnRic Wat Bri
 BC ExpoLn ScoRd Wat
 BC ExpoLnPro Wat ProWayUni
 BC MilLn VCCCla ProWayUni
@@ -33,6 +33,7 @@ MD NENew BWIAir DC/MD
 
 MN EBPor ND/MN StPaulUniDep
 MN BlueLine MallofAmerica NicolletMall
+MN GreenLine USBankStadium UnionDepot
 
 MT EBPor ID/MT MT/ND
 
@@ -54,7 +55,7 @@ NY E CanSt JamCenParArc
 
 OR AC PorUniSta OR/WA
 OR CS Alb PorUniSta
-OR EB PorUniSta OR/WA
+OR EBPor PorUniSta OR/WA
 OR BlueLn HatGovCen CleAve
 OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
@@ -79,7 +80,7 @@ WA SeaCenMon SeaCen WesCen
 WA N Muk Sea
 WA 1 UniWas Oth
 
-MEX-DF 1 Mer Jus
+MEX-DF 1 Mer Jua
 MEX-DF 3 Uni Bal
 
 
@@ -88,13 +89,26 @@ BEL IC6A BruAirZav BruCen
 
 DEU-NW ParDor KolnHbf DusDorfHbf
 
-FRA-IDF ParAms FRA-IDF ParAms ParGareNord IDF/HDF
+FRA-IDF ParAms ParGareNord IDF/HDF
 FRA-IDF CVer VerChaRiveGau Inv
 FRA-IDF FunMon Inf Sup
-FRA-HDF IDF/HDF FRA/BEL
+FRA-IDF M8 TourMau ConCor
+FRA-IDF M10 Dur CarLem
+FRA-IDF M12 Abb  NotDameCha
+
+FRA-HDF ParAms IDF/HDF FRA/BEL
+
+ESP-CT L1 Esp Clot
+ESP-CT L2 Par Clot
+ESP-CT L3 Esp Valc
+ESP-CT L4 Pob PasGra
+
+ESP-MD C3 Sol NueMin
+ESP-MD M2 Can Sol
 
 
 ESP-PV E2 ESP/FRA AmaDon
+ESP-PV C1Don DonSanSeb Bin
 
 ITA-CAM 13Nap PomScaVilMis NapGar
 ITA-CAM 1Nap Tol Gar
