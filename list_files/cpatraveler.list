@@ -1688,6 +1688,7 @@ AL US31 US90 AL59_N #Point Clear Trips
 AL US31 AL97_S I-65(164) #MonCre Trips
 AL US31 I-65(186) I-65(205) #Clanton Trips
 AL US31 I-65(318) I-65(354) #Decatur Trips
+AL US31 I-65(284) I-65(266) #08162024 Trip from Bea to Home 
 AL US43 I-22 US278/74 #04062024 Trip Jackson to Scott Co 
 AL US43 US72/ALT72 AL/TN #Loretton Trips
 AL US43 US84 I-65(19) #CWEMC Trips
@@ -1719,15 +1720,19 @@ AL US411 AL77 US411Bus_E #Cherokee and Ragland Audits
 AL US431 AL147 I-20(191) #Callaway Trip
 AL US431 I-20(188) US231/53 #New Hope and Callaway Trip
 AL US80BusSel US80/14 US80/41 #Trips to Salem
+AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home 
 AL AL53 I-65 US231/431 #12172017 Montgomery Trip Ardmore Audit         
 AL AL55 FL/AL US331_S  #07052024 
 AL AL59 US31_S AL182 #Gulf Shore Trips
 AL AL59 US31_N AL287 #Gulf Shore Trips
 AL AL62 MilWayRd AL227 #04062024 Jackson to Scott Co Trip 
 AL AL75 CR27 AL/GA #04062024 Jackson to Scott Co Trip
+AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home   
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
 AL AL182 DolDr AL/FL #Gulf Shore Trip
+AL AL189 US84_W AL52 #08162024 Trip from Bea to Home
+AL AL196 AL52 AL27 #08162024 Trip from Bea to Home    
 AL AL227 AubCarrSceDr AL75  #Day two Cullman to Gate City 04062024
 AL AL287 AL59 I-65 #Gulf Shore Trips
 AZ I-8 178 115A 
@@ -2217,6 +2222,7 @@ TN US27 I-24(180B) US70_E #05232017 Bledsoe BdMtg
 TN US27 TN63/297 I-40 #Highland Work
 TN US31 US31E/31W TN245 #07022017 Memphis IKEA
 TN US31 US31Alt_S US64 #01292019 Trip to Loretto Telephone
+TN US31 TN245 I-65(1) #08162024 Trip from Bea to Home 
 TN US31E TN155_W TN155_E #Driving in Nashville
 TN US31W US31/31E TN76_E #Driving in Nashville  
 TN US31AltNas US31_N US31AltBus_S #11032017 Visit to Clinton
@@ -2224,6 +2230,7 @@ TN US31AltNas I-65(22) US31_S #01292019 Trip to Loretto Telephone
 TN US41 I-24(174) US11_S #04062024 Jackson to Scott Co Trip
 TN US41 US11/64 US11/64_E #04062024 Jackson to Scott Co Trip
 TN US41 US31W_N LigChaRd #Gun Range
+TN US41 TN53 JoeJacPkwy #08152024 Travel from SCTC to Bea's House
 TN US41AltNas US64Bus_W TN55_E #08292017 Sir Fabric F'ville Trip
 TN US41AltNas US41_S TN56 #Travel to Alabama visit Suwanee 
 TN US43 AL/TN US412_W #05082018 Loretto Trip 
@@ -2239,6 +2246,7 @@ TN US64 TN22_S NatTraPkwy #05082018 Loretto Trip
 TN US64 US74_W TN/NC #10242017 Meeting in Pigeon Forge
 TN US64 TN11 US43 #01292019 Trip to Loretto Telephone
 TN US64 US51_S US72_E #01192021 Visiting Bea
+TN US64 TN11 US31 #08162024 Trip from Bea to Home 
 TN US70 US64_E TN177 #01192021 Visiting Bea      
 TN US72Cha TN2Kim_W AL/TN #09182017 Farmers Trip   
 TN US76 US127 US41_N #04062024 Jackson to Scott Co Trip
@@ -2248,7 +2256,8 @@ TN US127 TN154 TN52 #11032017 Visit to Clinton
 TN US70 I-40(201) TN56 #07012017 Trip to Mt Juliet
 TN US70 US64_E TN177 #Visiting Bea
 TN US70 TN19_E US79/70Alt #Bea to Scott County
-TN US70 I-40(66) US412Bus_W #Bea to Scott County             
+TN US70 I-40(66) US412Bus_W #Bea to Scott County
+TN US70 US27_S TN56 #08152024 Travel from SCTC to Bea's House              
 TN US70S TN266 TN255 #11172012
 TN US70S TN56 TN266 #05232017 Bledsoe BdMtg
 TN US70S TN100 TN255 #Living in M'Boro
@@ -2272,6 +2281,7 @@ TN US431 US70_NasW US31/31Bus #05082018 Loretto Trip - Nashville Work
 TN US431 US31/431Bus I-840 #Living in M'Boro      
 TN US441 US411_N NC/TN #01022017 Visit Gatlinburg
 TN US441 TN62 I-640 #04062024 Jackson to Scott Co Trip
+TN US441 TN131 I-640 #08152024 Travel from SCTC to Bea's House 
 TN US641 I-40 TN/KY #03082018 Wabash Meeting  
 TN US64BusFay US64_E US64_W #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US64_W US41Alt_N #08292017 Sir Fabric F'ville Trip
@@ -2287,10 +2297,13 @@ TN TN11 US31 US64 #01292019 Trip to Loretto Telephone
 TN TN17 US41/76 TN153 #04062024 Jackson to Scott Co Trip
 TN TN19 US51_S US70_E #09042017 GibsonEMC Visit
 TN TN22 MS/TN US64_E #05082018 Loretto Trip 
-TN TN25 TN10 TN141_S #07252017 Return from Scott County 
+TN TN25 TN10 TN141_S #07252017 Return from Scott County
+TN TN29 US70 US27 #08152024 Travel from SCTC to Bea's House   
 TN TN30 TN111 US27 #05232017 Bledsoe BdMtg
+TN TN31 TN33 TN131 #08152024 Travel from SCTC to Bea's House 
 TN TN33 TN70_N US25E_S #Travel to Powell Valley
 TN TN33 US25E_N TN170 #03162023 SCTC to Bea
+TN TN33 TN131 US441_N #08152024 Travel from SCTC to Bea's House 
 TN TN45 I-40(221B) US70 #07012017 Trip to Mt Juliet
 TN TN46 US70_E I-40 #09042017 GibsonEMC Visit
 TN TN46 US431 TN96 #05082018 Loretto Trip  
@@ -2301,6 +2314,7 @@ TN TN52 TN51 TN10 #07252017 Return from Scott County
 TN TN52 US27 TN111 #11032017 Visit to Clinton 
 TN TN53 TN96_W US70/25 #09162017 DTC Annual Meeting
 TN TN53 TN262 TN56_S #03182019 Wabash to Twin Lakes
+TN TN53 US70S_W US41 #08152024 Travel from SCTC to Bea's House 
 TN TN54 US45W_N US641 #09042017 GibsonEMC Visit 
 TN TN55 I-24 US70S/380 #05232017 Bledsoe BdMtg
 TN TN55 US41Alt/130 I-24 #08292017 Sir Fabric F'ville Trip 
@@ -2317,6 +2331,7 @@ TN TN61 US441_N TN95 #09082018 Visit Jimmy in Boone
 TN TN62 TN95 I-75/640 #01012017 Visit Manhatten Project VC
 TN TN63 I-75(141) US27/297 #11032017 Visit to Clinton 
 TN TN66Sev I-40 US411/441 #01022017 Visit Gatlinburg
+TN TN70 TN/VA TN33_S #08152024 Travel from SCTC to Bea's House 
 TN TN76Whi US31W_S I-65 #Driving in Nashville - Sloan 
 TN TN78 TN/KY I-155 #09042017 GibsonEMC Visit
 TN TN78 US51 TN104 #09042017 GibsonEMC Visit
@@ -2334,12 +2349,15 @@ TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg
 TN TN111 TN52 I-40 #11032017 Visit to Clinton   
 TN TN120 TN/KY US79 #03102017 Return from Wabash BdMtg     
 TN TN131 US11/70 TN162 #01012017 Visit Manhatten Project VC
+TN TN131 TN31 US441 #08152024 Travel from SCTC to Bea's House
 TN TN133 TN/VA US421 #05152018 Scott County - Skyline 
 TN TN135 TN290 I-40 #10302017 Trip to Cookeville - Twin Lakes
 TN TN136 TN111_N 12thSt #10302017 Trip to Cookeville - Twin Lakes
 TN TN141 TN25_E US70_E #07252017 Return from Scott County
 TN TN141 TN53_S I-40 #09162017 DTC Annual Meeting 
 TN TN146 TN281 HalfAcreRd #07222017 Short Mtn Distillery
+TN TN146 US70 HalfAcreRd #08152024 Travel from SCTC to Bea's House
+TN TN146 TN281 US70S #08152024 Travel from SCTC to Bea's House 
 TN TN152 US412_E I-40 #Bea to Scott County
 TN TN153 US27 I-75 #07142023 SCTC Back Home via GA - Also PYs Bledsoe Audits
 TN TN154 TN/KY TN52 #11032017 Visit to Clinton
@@ -2375,7 +2393,8 @@ TN TN385Col I-240 I-269 #01192021 Visiting Bea
 TN TN386 I-65 TN174 #09102017 Target-Sam Trip 
 TN TN396 I-65 US31 #07022017 Memphis IKEA  
 TN TN448 TN66 US411 #01022017 Visit Gatlinburg
-TN TN452 US231 I-840 #Living in M'Boro   
+TN TN452 US231 I-840 #Living in M'Boro
+TN TN462 US70N US70 #08152024 Travel from SCTC to Bea's House   
 TN CadCoveLpRd LauCreRd_B SpaLn_N #01022017 Visit Gatlinburg
 TN GatByp US321/441 US441_S #01022017 Visit Gatlinburg
 TN LitRivGorRd US441 TowEndRd #01022017 Visit Gatlinburg   
@@ -2425,6 +2444,7 @@ UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
