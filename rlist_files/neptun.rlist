@@ -1,5 +1,5 @@
 # ──────────
-# 2024-08-04
+# 2024-08-25
 # ──────────
 
 # ─────────
@@ -58,6 +58,7 @@ CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste StaBol
 CZE S33 MlaBolHlaNad Mel
 CZE S40 Tel KraNadVlt
+CZE S45 Kla KraNadVlt
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -86,6 +87,8 @@ CZE 5Brn Ces MenNam
 CZE 8Brn NemBoh HlaNad
 
 CZE S2Jih Let BrnoHlaNad
+CZE S4Jih NamOsl BrnoHlaNad
+CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
