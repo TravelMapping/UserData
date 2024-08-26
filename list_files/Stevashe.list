@@ -269,6 +269,7 @@
       WA WA22 I-82(50) I-82(82)
       WA WA24 I-82 WA243
       WA WA26 I-90 US195
+      WA WA26 I-90 WA243
       WA WA27 WA272_E WA290
       WA WA28 US2/97 WA285
         WA WA28 WA283 US2
@@ -828,10 +829,7 @@
         ME ME25BusWes ME25_W ME25_E
         ME ME100AWin ME100_S ME100_N
         ME ME137BusWat SprSt_W ME137_E
-
-
-
-
+        
  #----CANADA----
   
   #--Trans-Canada Highway--

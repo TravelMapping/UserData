@@ -1,0 +1,27 @@
+#Amtrak
+IL Wv UniSta IL/IN
+IN Wv IL/IN IN/MI
+MI Wv IN/MI Pon
+
+#Chicago L
+IL OraLn Qui Roo
+
+#DART
+TX OraLn DFWAir MarCen
+
+#Detroit People Mover
+MI DetPeoMov Mic_S Mic_N
+
+#MARTA
+GA OraLn PeaCen Air
+GA RedLn PeaCen Air
+
+#Minnesota METRO
+MN BlueLine USBankStadium MSPTerminal1
+MN GreenLine GovernmentPlaza ProspectPark
+
+#Washington Metro
+DC RedLn TenAu DC/MD
+DC SilLn VA/DC LEnfPla
+MD RedLnGle DC/MD Gle
+VA SilLn InnCen VA/DC

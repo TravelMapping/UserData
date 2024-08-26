@@ -10,7 +10,6 @@ AZ I-40BLFla AZ89A I-40_E
 UT I-15 95 MT I-15 USA/CAN #UT20 to canada
 #MT
 MT I-15BLGre I-15_S I-15_N #i-15 business route through great falls 100% completed 2021
-MT US87BypWGr I-15BL_S WireMillRd
 MT US87BypGre US87_N GiaSprRd
 MT US89 SheCreRd US2_W #~whitebark pine thing to browning
 MT US87 US89/3 MorDamRd
@@ -38,9 +37,12 @@ AZ AZ51 15 I-10
 AZ AZ202 78 55
 AZ AZ202 34 30 #kiwa
 AZ AZ202 1A 12
+AZ AZ101 55A 61B
+AZ AZ202 50 43
+AZ AZ24 1 AZ202
 #grand canyon
 AZ US180 I-40BL_W GraCynNP
-AZ AZ64 GraCynNP ERimDr
+AZ AZ64 GraCynNP SouEntRd_N
 #payson
 AZ AZ87 SheaBlvd AZ260_E #at least from shea blvd
 AZ AZ260 AZ87_S WooLakeRd #payson to ~pinetop
@@ -70,9 +72,17 @@ AZ AZ82 AZ83 I-19BL #sonoita to nogales
 AZ US70 US60 US191_N
 AZ US191 US70_W AZ366 #safford to az366
 AZ US191 US70_E FR12 #us70 to north of morenci
-AZ AZ366 US191 End #us191 to shannon campground
+AZ AZ366 US191 FR352 #us191 to shannon campground
 #fredonia (mohave)
 AZ AZ389 US89Alt SixMileRd
+#2021-12 casa grande ruins nm & tonto nm
+AZ AZ387 I-10 AZ87
+AZ AZ87 AZ387 AZ287_E
+AZ AZ287 AZ87_N AdaRd #to attaway road
+AZ AZ79 HuntHwy US60
+AZ AZ188 US60 AZ87
+#page (antelope canyon)
+AZ AZ98 US89 BIA222
 #denver
 NM I-25 226 CO I-25 214A #abq to ~denver
 #glendo
@@ -84,7 +94,7 @@ NE US26 NE29 NE71_S #to scottsbluff
 NE NE71 US26_E CO/NE
 CO CO71 CO/NE CO14_W
 CO CO14 CO71_N CO52
-CO CO52 CO14 I-76(80)
+CO CO52FMo CO14 I-76
 CO I-76 80 1B #fort morgan to ~arvada
 #other denver
 CO I-70 274 284
@@ -102,7 +112,7 @@ WY US189 US26/89 UT/WY
 WY I-80 18 UT I-80 123 #I-80 to ~SLC
 #big sky & lewis and clark caverns
 MT US191WYe YelNP_S MT/WY
-WY US191NYe MT/WY WY/MT
+WY US191Yel MT/WY WY/MT
 MT US191 WY/MT MT84/85
 MT MT85 US191 I-90
 MT I-90 298A 274
@@ -110,10 +120,10 @@ MT US287 I-90 MT2_W
 MT MT2 US287_S LCCavRd
 #in yellowstone
 WY SEntRd US89/191 GraLoopRd
-WY GraLpRd NEntRd_W NEntRd_E
+WY GraLoopRd NEntRd_W NEntRd_E
 WY WEntRd MT/WY GraLoopRd
 MT WEntRd MT/WY US20/191
-WY NorCynRd GraLoopRd_W GraLoopRd_E
+WY NorCanRd GraLoopRd_W GraLoopRd_E
 #bryce canyon
 UT UT12 US89 UT63
 UT UT63 UT12 BryCanNP
@@ -127,8 +137,9 @@ OK OK9 US62_E US77
 OK US77 MainSt_Nor MagRd
 OK US77 I-35(113) TecRd
 OK I-240 4A 1A
-OK I-44 115 116A
+OK I-44 115 116B
 OK US62 OK9_E I-44(115) #newcastle
+OK OK152 I-44 MerAve
 #dallas
 OK I-35 126 TX/OK
 TX I-35Gai TX/OK 467
@@ -137,6 +148,7 @@ TX I-635 27B 8
 TX I-30 56B 39
 #CA (incomplete)
 CA US101 VanNessAve_N CA255_S #SF to eureka
+CA CA37 US101 CA121 #sonoma
 CA I-15 115 141
 CA US395 I-15 CA120_W #I-15 to lee vining
 CA CA120Lee TestStaRd YosNP #mono lake to yosemite
@@ -163,7 +175,18 @@ CA CA134 13B 1A
 CA US101 13 19A
 CA I-405 63C 53B
 #menifee
-CA CA79 I-10 SanAve_N
+CA CA79Bea I-10 RamExpy_W
+#kolkon 2022
+CA US101 390 431 #ca87 to i280
+CA I-280 49B 12 #ca1 to ca85
+CA CA85 19A 2 #i280 to cottle
+CA CA17 26 20 #i880 to ca9
+CA CA9 CA17 CA35
+CA I-380 5A 6 #aaaa
+CA I-280 54 5thSt #us101 to downtown sf
+CA CA1 438(101) 49B(280) #us101 to i280
+CA CA87 1A 9
+CA I-880 3 I-280 #airport (is 3 right?) to i280
 #NM91 santa rosa lake
 NM US66HisSan I-40(275) NM91
 #NM91?
@@ -193,13 +216,119 @@ YT YT1Wat BC/YT YT/BC
 BC YT1 YT/BC BC/YT
 YT YT1 BC/YT YT/AK
 #AK
-AK AK2 YT/AK MakTr #to scoby way
-AK AK1 AK2 AK9
-AK HicPkwy AK1 CSt
-AK HicPkwy TudRd DimBlvd
-AK AK3 AK1 HeaSpurRd
+AK AK2 YT/AK AK11
+AK AK1 AK2 End
+AK HicPkwy AK1 TudRd
+AK AK3 AK1 AK2
 AK ParkRd AK3 StoHillOve #denali
 AK AK9 AK1 RaiAve #seward
+AK AK4 AK1_W MeaAve #valdez
+AK AK10 AK4 McCarRd
+AK McCarRd AK10 KenRiv
+AK AK11 AK2 PipRd286 #south bonanza creek
+AK AK6 AK2 RivSt
+#dempster
+AK AK5 AK2 AK/YT
+YT YT9 YT/AK GeoBlaFry
+YT YT2 GeoBlaFry YT5
+YT YT5 YT2 YT/NT
+NT NT8 YT/NT TetGwiRd
+#MO
+MO I-29 13 8
+#HI
+HI HI19 KeaAirRd HI11/190
+HI HI190 KuaHwy HI19
+HI HI19 HI190 HI270
+HI HI270 HI19 PuuHeiNHS
+HI HI200 HI190 HI2000
+HI HI2000 HI200 KomSt
+HI HI19 HI11 HI220 
+HI HI220 HI19 AkaFalSP
+HI HI11 HI19 HI19/190
+HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
+HI HI139 HI11 HI130
+HI HI130 HI139 CR132 #to leilani estates
+HI ChaCraRd CraRimDr HolSeaArch
+HI HI160 HI11 PuuHonNHP
+#WA
+WA AirExpy Ter WA518
+WA WA518 AirExpy I-5
+WA I-405 I-5(154) 13B
+WA I-90 10 WA519
+WA I-5 151 169
+WA WSeaBri 4thAve I-5(163A)
+WA WA167 I-405 WA161/512
+WA WA161 WA512/167 WasAve #center street/alder cutoff road
+WA WA7 AldCut WA706
+WA WA706 WA7 MouRaiNP
+WA SteCynRd WA706 ParVlyRd_N
+WA SteCynRd ParVlyRd_S WA123
+WA WA123 SteCanRd WA410
+WA WA410 WA123 WA164
+WA SunParkRd WA410 Sun
+WA WA164 WA410 17thSt #m st se
+WA WA516 WA515 I-5 #military rd s
+WA WA520 WA513 84thAve
+#atlanta/gsm
+GA I-85 72 113
+GA I-75 165 GA/TN
+TN I-75 GA/TN 84
+TN I-40 368 386
+TN I-40 389 407
+TN TN66Sev I-40 US411/441
+TN US441 US411_N US321_E #to river rd
+TN US441 AirRd NC/TN
+NC US441 NC/TN GA/NC
+TN TN449 US321/441 ColDr
+#TN GatByp US321/441 (CampbellLeadRd)
+#TN US321 (RoaringForkRd) US441_S
+GA US23 GA/NC I-985(24)
+GA I-985 24 I-85
+GA US19 14thSt GA13
+GA GA13 US19 LenRd
+GA GA141 GA141Con GA237
+GA GA141ConAtl GA237 GA141
+GA GA400 2 1A
+GA I-16 1 2
+GA US129 I-16 US129Alt_N #to hall st
+GA US80 JefRd I-16
+GA I-20 57 55A
+GA GA237 GA141 GA141Con
+GA GA237 SidMarBlvd GA13
+GA GA166 LakAve I-285
+GA I-285 5 62A
+GA I-85 68 71
+#eclipse
+MEX-JAL MEX200 BlvdMedAsc_S NAY/JAL
+MEX-NAY MEX200 NAY/JAL MEX200D_Buc
+MEX-NAY MEX200D MEX200_Buc MEX200_Mon
+MEX-NAY MEX200 Say NAY16
+#need to add MEX-NAY NAY16 ?
+MEX-NAY MEX76Ixt IxtCon_S MEX76
+MEX-NAY MEX76 Var MEX12
+MEX-NAY MEX12 MEX76 MEX74
+MEX-NAY MEX74 MEX12 SanBlas
+MEX-NAY AutTepSB MEX12 MEX15D
+MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at AutTepSB (76D)
+MEX-SIN MEX15D NAY/SIN MEX15DMaz
+MEX-SIN MEX15Maz AveRafBue AveEjeMex_S #first breakpoint should be at avenida del delfin
+MEX-NAY MEX200Mit Say MEX200
+#iceland
+ISL TH41 KefFlu TH49
+ISL TH43 TH41 TH426
+ISL TH426 TH43 BlaLon
+ISL TH411 LinVeg TH41
+ISL TH42 TH41 TH427
+ISL TH427 TH42 ThorSta #not this far, only to P1 where the road closure is
+ISL TH40 TH41_S LauVeg
+ISL TH49 TH40 TH1
+ISL TH1 TH49_N TH36
+ISL TH36 TH1 TH365
+ISL TH365 TH36 TH37
+ISL TH37 TH365 TH35_N
+ISL TH35 TH1 Gey
+ISL TH1 TH35 TH413
+ISL TH413 TH1 TH41
 
 #CA
 #thunder bay

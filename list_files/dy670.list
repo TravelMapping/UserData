@@ -1,1225 +1,1143 @@
-### Interstate highways
+##########
+#
+# Section 1: United States
+#
+##########
 
-## Interstate 4
+###
+# Section 1.1: Clinched non-state highways.
+# May include highways that are contained within only one state, such as
+# three-digit interstates. Does not include spurs, business loops, or the like.
+# Entries in this section are not delineated by state.
+# Clinched state highways can be found at the top of each state subsection
+# in Section 1.2.
+###
 
-# Florida
+### Section 1.1.1: Interstate highways
+
 FL I-4 I-275 132
-
-
-## Interstate 10
-
-# Louisiana
-LA I-10 20 TX/LA
-
-# Texas
-TX I-10 TX/LA 155A(35)
-
-
-## Interstate 20
-
-# Louisiana
-LA I-20 3 19A
-
-
-## Interstate 29
-
-# From Kansas City, MO to Council Bluffs, IA
-MO I-29 2H(35) IA I-29 51
-
-
-## Interstate 30
-
-# Texas
-TX I-30 27 15A
-
-# From east of Dallas, TX to Little Rock, AR
-TX I-30 56B AR I-30 143
-
-
-## Interstate 35
-
-# Texas
-TX I-35 155A 153
-TX I-35E 467 428A
-TX I-35W 54A 57
-
-# From the northern I-35W/I-35E split in TX to the southern I-35W/I-35E split in MN
-# (yes, I really have been that whole way on I-35)
-TX I-35Gai 467 MN I-35Far 88A
-
-# Minnesota
 MN I-35W I-35(88) I-35(127)
-MN I-35 127 237
-
-
-## Interstate 37
-
-# Texas
-TX I-37 139 US181
-
-
-## Interstate 40
-
-# From Little Rock, AR to Nashville, TN
-AR I-40 153B TN I-40 210C
-
-
-## Interstate 44
-
-# From Tulsa, OK to Joplin, MO
-OK I-44 224 MO I-44 18
-
-# Missouri
-MO I-44 70 277A
-MO I-44BLRol I-44_W I-44_E
-
-## Interstate 45
-
-# Texas
-TX I-45 284A 1A
-
-
-## Interstate 49
-
-# Missouri
-MO I-49 I-435 4
-
-# Arkansas
-AR I-49 20 93
-AR I-49Tex 29B 16
-
-
-## Interstate 55
-
-# Illinois
-IL I-55 92 MO/IL
-
-
-## Interstate 64
-
-# Kentucky
-KY I-64 5 6
-
-# Missouri
-MO I-64 1 MO/IL
-
-# Illinois
-IL I-64 MO/IL 3
-
-
-## Interstate 65
-
-# From Nashville, TN to Louisville, KY
-TN I-65 82 KY I-65 137
-
-
-## Interstate 69
-
-# Texas
-TX I-69 167 149A
-TX I-69 *TXSpr529 139
-
-
-## Interstate 70
-
-# From west of Denver, CO to south of Pittsburgh, PA
-CO I-70 232 PA I-70 32A
-
-# From east of Pittsburgh, PA to west of Washington, DC
-PA I-70 75(76) MD I-70 53
-
-
-## Interstate 71
-
-# From Louisville, KY to south of Columbus, OH
-KY I-71 1 OH I-71 101
-
-
-## Interstate 72
-
-# From Hannibal, MO to Springfield, IL
-MO I-72 US61 IL I-72 97
-
-
-## Interstate 75
-
-# Michigan
-MI I-75 48 51
-
-
-## Interstate 76
-
-# From Interstate 80 to east of Cranberry, PA
-OH I-76 218 PA I-76 39
-
-# Ohio
-OH I-76 20 18
-
-# Pennsylvania
-PA I-76 48 161
-
-
-## Interstate 77
-
-# Ohio
-OH I-77 I-90 129
-OH I-77 122 107B
-
-
-## Interstate 79
-
-# From Charleston, WV to south of Erie, PA
-WV I-79 I-77 PA I-79 178
-
-
-## Interstate 80
-
-# From south of Grinnell, IA to south of Ashland, NE
-IA I-80 182 NE I-80 426
-
-# Nebraska
-NE I-80 399 401
-
-# Ohio
-OH I-80 218 187
-
-
-## Interstate 90
-
-# Ohio
-OH I-90 188 184
-OH I-90 176 174B
-
-# From Erie, PA to Buffalo, NY
-PA I-90 22 NY I-90 53(NYST)
-
-
-## Interstate 94
-
-# Michigan
-MI I-94 194 213B
-
-
-## Interstate 95
-
-# Florida
-FL I-95 24 US1
-
-# Rhode Island
-RI I-95 13 21
-
-
-## Interstate 96
-
-# Michigan
-MI I-96 190A 191A
-
-
-## Interstate 135
-
-# Kansas
-KS I-135 33 30
-
-
-## Interstate 170
-
-# Missouri
+TX I-45 1A 284A
 MO I-170 1A 10
-
-
-## Interstate 180
-
-# Nebraska
 NE I-180 I-80 9thSt
-
-
-## Interstate 190
-
-# New York
-NY I-190 I-90 21
-
-
-## Interstate 229
-
-# Missouri
-MO I-229 1A 14 
-
-
-## Interstate 270
-
-# Illinois
-IL I-270 MO/IL 15
-
-# Maryland
-MD I-270 32 2
-MD I-270SprAsh 2 I-495
-
-# Missouri
-MO I-270 MO/IL 20A
-
-# Ohio
-OH I-270 55 35
-
-
-## Interstate 271
-
-# Ohio
-OH I-271 26 I-90
-
-
-## Interstate 275
-
-# Florida
+MO I-229 1A 14
 FL I-275 45B I-75_S
-
-# Michigan
-MI I-275 15 17
-
-
-## Interstate 277
-
-# Ohio
 OH I-277 1 4
-
-
-## Interstate 279
-
-# Pennsylvania
 PA I-279 I-376 I-79
-
-
-## Interstate 335
-
-# Kansas
 KS I-335 127 177
-
-
-## Interstate 345
-
-# Texas
 TX I-345 284A 286
-
-
-## Interstate 375
-
-# Michigan
 MI I-375 I-75 BeaSt
-
-
-## Interstate 376
 PA I-376 26 85
-
-
-## Interstate 435
-
-# Kansas
-KS I-435 MO/KS KS/MO
-
-# Missouri
-MO I-435 KS/MO MO/KS
-
-
-## Interstate 465
-
-# Indiana
-IN I-465 9 44
-
-
-## Interstate 470
-
-# Kansas
+KS I-435 MO/KS MO I-435 MO/KS
+IN I-465 I-65 53
 KS I-470 1A 183(KT)
-
-# Missouri
 MO I-470 I-435 16B
-
-# Ohio
-OH I-470 I-70 OH/WV
-
-# West Virginia
-WV I-470 OH/WV 4
-
-## Interstate 480
-
-# Ohio
-OH I-480 I-80_E 26(271)
-
-
-## Interstate 495
-
-# Maryland
-MD I-495 38 MD/VA
-
-# Virginia
-VA I-495 MD/VA 43
-
-
-## Interstate 579
-
-# Pennsylvania
+OH I-470 I-70 WV I-470 4
 PA I-579 I-279 PA885
-
-
-## Interstate 610
 TX I-610 TX288 38
-
-
-## Interstate 635
-
-# Kansas
-KS I-635 1A KS/MO
-
-# Missouri
-MO I-635 KS/MO 12
-
-# Texas
-TX I-635 36 8
-
-## Interstate 670
-
-# Kansas
-KS I-670 I-70 KS/MO
-
-# Missouri
-MO I-670 KS/MO 2N
-
-# Ohio
+KS I-635 1A MO I-635 12
+KS I-670 I-70 MO I-670 2N
 OH I-670 I-70 10
 
 
-## Interstate 820
-
-# Texas
-TX I-820 16A 22B
+### Section 1.1.2: US highways
 
 
-### US Highways
 
-## US 1
+###
+# Section 1.2: Highways traveled by state.
+# All other highways will be listed here, separated by state. They will appear
+# in the following order:
+# - Interstate highways (incl. spurs and such)
+# - US highways (incl. spurs and such)
+# - State highways (incl. spurs and such)
+# - Non numbered named roads
+# Any clinched highways are listed at the top of each state's list, under
+# "Clinched". The rest of the highways are present under the "In Progress"
+# section.
+###
 
-# Florida
-FL US1 1stSt I-95(2A)
-
-# Rhode Island
-RI US1 US1Bus/117 RI37
-RI US1 EmpSt ExcTer
-
-# Virginia/Washington, DC
-VA US1 I-395(9) DC US1 ConAve_E
+### Section 1.2.1: Alabama
 
 
-## US 6
+### Section 1.2.2: Alaska
 
-# Colorado
+
+### Section 1.2.3: Arizona
+
+
+### Section 1.2.4: Arkansas
+
+#--Clinched
+AR I-30 TX/AR 143
+
+#--In Progress
+AR I-40 7 12
+AR I-40 153B AR/TN
+AR I-49Tex 16 29B
+AR I-49 20 91
+AR I-55 279B(40) 8
+AR I-430 129(30) 1
+AR I-540 1 2
+
+AR US59 TX/AR US71/270
+AR US61 I-40(279B) I-40(277)
+AR US62 I-49(62) I-49(86)
+AR US63 I-40(193) I-40(216)
+AR US64 I-55(8) I-40(279B)
+AR US65 I-30/530 I-40(153B)
+AR US65 AR14_W AR/MO
+AR US67 I-30(114) I-40(155)
+AR US70 US59/71_N US59/71_S
+AR US70 I-30(111) I-30(141B)
+AR US71Fou LA/AR I-49(16)
+AR US71 TX/AR I-540(12)
+AR US71 I-540(2) I-40(12)
+AR US71 I-49(61) AR/MO
+AR US79 I-40(265) I-40(279B)
+AR US167 I-30/530 I-40(155)
+AR US270 US59/71 US71_N
+AR US270 I-30(98) I-30(99)
+
+AR AR8 US59/71_S US59/71_N
+AR AR12 I-49(85) I-49(86)
+AR AR16 I-49(64) I-49(61)
+AR AR28 US71_N US71_S
+AR AR32B US59/71_N US59/71_S
+AR AR45 US71_S US71_N
+AR AR88 US59/71_S US59/71_N
+AR AR234 US59/71_S US59/71_N
+AR AR246 US59/71_N US59/71_S
+AR AR252 US71_S US71_N
+AR AR272 US71_N US71_S
+AR AR365 US70_W US70_E
+
+
+### Section 1.2.5: California
+
+#--Clinched
+CA CA110 21 GleSt
+
+#--In Progress
+CA I-10 1 13
+CA I-110 9 GafSt
+CA I-405 10 32B
+CA I-405 37A 59
+CA I-710 1 1E
+CA I-710 1B 4
+
+CA CA1 CA133 OceAve
+CA CA47 1A I-710
+CA CA73 18 3B
+CA CA90 CA1 SlaAve
+CA CA133 CA1 14
+CA CA241 27 19
+
+
+### Section 1.2.6: Colorado
+
+#--Clinched
+
+#--In Progress
+CO I-70 232 CO/KS
+
 CO US6 I-70(232) I-70(244)
 CO US6 I-25/70 I-70(276A)
-
-# Iowa
-IA US6 I-80(1A) I-80(8)
-
-# Rhode Island
-RI US6 RI128 RI10_S
-RI US6 I-95(21) I-195(1)
-
-
-## US 19
-
-# Pennsylvania
-PA US19 I-76/79 I-376(69B)
-
-# West Virginia
-WV US19 I-79(67) I-79(57)
-
-
-## US 22
-
-# Pennsylvania
-PA US22 I-376(60) PA66
-
-
-## US 24
-
-# Colorado
 CO US24 I-70(363) I-70(405)
-
-# From west of the CO/KS state line to east of the CO/KS state line
-CO US24 I-70(438) KS US24 I-70(45)
-
-# From Manhattan, KS to Kansas City, MO
-KS US24 KS113 MO US24 I-70(2H)
-
-# Missouri
-MO US24 I-435(59) NDelSt
-MO US24 US36_W US36_E
-
-
-## US 30
-
-# Pennsylvania
-PA US30 I-376(60) PitSt_W
-PA US30 PitSt_E LamRd
-PA US30 I-70_W I-70_E
-
-
-## US 34
-
-# Nebraska
-NE US34 16/17St I-80(401)
-
-
-## US 36
-
-# Colorado
+CO US24 I-70(438) CO/KS
 CO US36 I-70(279A) I-70(316)
-
-# From north of Kansas City, MO to Springfield, IL
-MO US36 I-35 IL US36 I-72(97)
-
-# Indiana
-IN US36 I-465(9) PostRd
-
-
-## US 40
-
-# Colorado
 CO US40 MouViewDr I-70(244)
 CO US40 I-70(252) I-70(254)
 CO US40 I-70(288) I-70(359)
+CO US85 I-25/I-70 I-70(276A)
+CO US287 I-70(359) I-70(288)
 
-# From east of CO/KS to east of St. Louis, MO
-KS US40 I-70(76) IL US40 I-55(17)
 
-# Illinois
+### Section 1.2.7: Connecticut
+
+
+### Section 1.2.8: Delaware
+
+
+### Section 1.2.9: Florida
+
+#--Clinched
+FL I-4 I-275 132
+FL I-275 45B I-75_S
+
+#--In Progress
+FL I-95 24 US1
+
+FL US1 1stSt I-95(2A)
+FL US192 I-4 WorDr
+
+FL FL417 2 17
+FL FL482 FL528 I-4
+FL FL528 2 11
+
+FL FLTpk 259 254
+
+
+### Section 1.2.10: Georgia
+
+
+### Section 1.2.11: Hawaii
+
+
+### Section 1.2.12: Idaho
+
+
+### Section 1.2.13: Illinois
+
+#--Clinched
+IL I-70 MO/IL IL/IN
+IL I-270 MO/IL 15
+
+#--In Progress
+IL I-55 MO/IL 92
+IL I-57 157 163
+IL I-64 MO/IL 3
+IL I-72 MO/IL 97
+
+IL US36 MO/IL I-72(97)
+IL US40 MO/IL I-55(17)
 IL US40 I-70(30) I-70(36)
+IL US40 I-70(154) IL/IN
+IL US67 MO/IL IL143
 
-# From west of Terre Haute, IN to east of Terre Haute, IN
-IL US40 I-70(154) IN US40 I-70(11)
-
-# Indiana
-IN US40 I-465(9) I-465(46)
-
-# Ohio
-OH US40 I-70(186) I-70(204)
-
-# West Virginia
-WV US40 I-70(0A) I-70(1A)
-
-# From Triadelphia, WV to West Alexander, PA
-WV US40 I-70(5) PA US40 LibSt
-
-# Maryland
-MD US40 I-70(1A) I-70(9)
+IL IL3 I-55(1A) I-55(2)
+IL IL110 MO/IL I-72(4)
 
 
-## US 44
+### Section 1.2.14: Indiana
 
-# Rhode Island
-RI US44 WasPl RI15/104
+#--Clinched
+IN I-70 IL/IN IN/OH
+IN I-465 I-65 53
 
+#--In Progress
+IN I-65 110B 112
+IN I-74 73 94
 
-## US 50
+IN US31 2(465) 123
+IN US35 OH/IN I-70(149)
+IN US36 I-465(13) PostRd
+IN US40 IL/IN I-70(11)
+IN US40 I-465(12) I-465(46)
+IN US52 I-465(25) I-465(47)
+IN US421 I-465(49) I-465(27)
 
-# From Hutchinson, KS to east of Jefferson City, MO
-KS US50 KS61_N MO US50 US63_S
-
-# Missouri
-MO US50 I-44(247) I-44(277A)
-MO US50BusCal US50_W US50_E
-
-# Ohio
-OH US50 I-71(1A) I-71(1D)
-
-# Washington, DC
-DC US50 23rdSt ConAve_E
-
-
-## US 53
-
-# Minnesota
-MN US53 MN33 MN169
+IN IN37 I-465(4) I-69/465
+IN IN67 I-465(8) PostRd
 
 
-## US 54
+### Section 1.2.15: Iowa
 
-# Kansas
-KS US54 US169 US69_S
+#--Clinched
+IA I-35 MO/IA IA/MN
 
-# Missouri
-MO US54 US54Bus/242 MO5/7
-MO US54 US50/63 US63/94
+#--In Progress
+IA I-29 MO/IA 51
+IA I-80 NE/IA 182
 
+IA US6 I-80(1A) I-80(8)
+IA US6 I-80(60) I-80(110)
+IA US6 I-80(142) I-80(164)
+IA US18 194(35) 178
+IA US65 84 142(80)
+IA US275 I-29(47) I-29(35)
 
-## US 56
-
-# Missouri
-MO US56 KS/MO US71
-
-# Kansas
-KS US56 KS/MO KS177_S
-
-
-## US 59
-
-# Texas
-TX US59 TXSpr91 I-69(139)
-TX US59 I-69(149A) US79_N
-
-# From Texarkana, AR to Acorn, AR
-TX US59 TXLp151 AR US59 US71/270
-
-# Oklahoma
-OK US59 US69_N I-44/60
-
-# Kansas
-KS US59 US169_S US169_N
-KS US59 I-35(183) KS4
-
-# Missouri
-MO US59 I-229(4A) I-229(6B)
-MO US59 I-29(53) I-29(56)
-MO US59 I-29(65) I-29(67)
+IA IA2 NE/IA I-29
+IA IA27 190(35) IA/MN
+IA IA146 I-80 US6
 
 
-## US 60
+### Section 1.2.16: Kansas (my home!)
 
-# Missouri
-MO US60 US160/13 US60BusMan_W
+#--Clinched
+KS I-35 OK/KS KS/MO
+KS I-70 CO/KS KS/MO
+KS I-335 127 177
+KS I-435 MO/KS KS/MO
+KS I-470 1A 183(KT)
+KS I-635 1A KS/MO
+KS I-670 I-70 KS/MO
 
-
-## US 61
-
-# Arkansas
-AR US61 I-40(277) I-40(279B)
-
-# Missouri
-MO US61 I-64(28A) I-70
-
-
-## US 62
-
-# Ohio
-OH US62 I-77(107B) AtlBlvd
-
-# Oklahoma
-OK US62 I-40(240) US75_N
-
-
-## US 63
-
-# Missouri
-MO US63 VanDr MOsH_Phe
-
-
-## US 65
-
-# Missouri
-MO US65 I-70 MO7_S
-
-
-## US 67
-
-# Texas
-TX US67 I-35E(428A) I-30(47B)
-TX US67 I-30(56B) I-30(135)
-
-# Arkansas
-AR US67 I-30(114) I-40(155)
-
-# From Alton, IL to north of St. Louis, MO
-IL US67 IL143 MO US67 MO367
-
-
-## US 69
-
-# Kansas
 KS US69 OK/KS KS/MO
 
-# Missouri
+KS KS5 US73/7 US69
+KS KS10 I-70 I-435
+KS KS32 US24/40 US69
+KS KS32TrkBon KS32_W KS32_E
+KS KS33 KS68 US56
+KS KS92 KS4 KS/MO
+KS KS113 KS18 US24
+KS KS237 US24 PerLakeSP
+KS KS238 US36 KS/MO
+KS KS268 US75/31 KS68
+KS KS276 OliLim US75
+KS KS278 FaiRd US75/31
+KS KS368 KS268 229thSt
+
+#--In Progress
+KS I-135 30 33
+
+KS US24 CO/KS I-70(45)
+KS US24 KS113 KS/MO
+KS US36 KS238 KS/MO
+KS US40 I-70(76) KS/MO
+KS US50 KS14/96_S KS/MO
+KS US54 US169 US69_S
+KS US56 KS177_S KS/MO
+KS US59 US169_S US169_N
+KS US59 I-35(183) KS/MO
+KS US73 I-70 KS92_E
+KS US73 US59_N US59_S
+KS US75 I-35 I-70(358A)
+KS US81 I-135(30) I-135(33)
+KS US160 US69_S US69_N
+KS US169 US54 KS/MO
+KS US400 US69_N US69_S
+
+KS KS3 US54_E US54_W
+KS KS4 KS177_S US59
+KS KS7 OK/KS US69/160
+KS KS7 US69_S US54_W
+KS KS7 US169_S KS92_E
+KS KS13 US24 DyerRd
+KS KS14 I-70(219) I-70(221)
+KS KS15 I-135(30) US50_W
+KS KS16 US59_N US24/40
+KS KS18 I-70(295) I-70(303)
+KS KS18 KS113 KS177_S
+KS KS31 US56_E US56_W
+KS KS31 US75_N I-35(162)
+KS KS31 US169_N US169_S
+KS KS52 US69_S US69_N
+KS KS61 KS14/96_S 11thAve
+KS KS68 US75/31 KS33
+KS KS68 US169/7 KS/MO
+KS KS99 KS4_E KS4_W
+KS KS177 US50 US24
+
+
+### Section 1.2.17: Kentucky
+
+#--Clinched
+KY I-71 1 KY/OH
+
+#--In Progress
+KY I-64 5 6
+KY I-65 TN/KY 137
+
+
+### Section 1.2.18: Louisiana
+
+#--Clinched
+LA LA1256 LA27/108 I-10
+
+#--In Progress
+LA I-10 20 TX/LA
+LA I-20 3 19A
+
+LA US71 I-20(19A) LA/AR
+LA US79 TX/LA US80/169
+LA US90 TX/LA 4(10)
+
+LA LA1 I-20 US71_N
+LA LA2 US71_S US71_N
+LA LA27 LA82_W LA1256
+LA LA82Hol TX/LA LA27_N
+LA LA108 LA27/1133 LA1256
+LA LA169 US80_W I-20
+LA LA538 US71_S US71_N
+
+
+### Section 1.2.19: Maine
+
+
+### Section 1.2.20: Maryland
+
+#--Clinched
+MD I-270SprAsh I-495 2
+
+#--In Progress
+MD I-70 PA/MD 53
+MD I-270 2 32
+MD I-495 38 MD/VA
+
+MD US40 I-70(1A) I-70(9)
+MD US522 I-70(1B) MD/PA
+
+
+### Section 1.2.21: Massachusetts
+
+
+### Section 1.2.22: Michigan
+
+#--Clinched
+MI I-375 I-75 BeaSt
+
+#--In Progress
+MI I-75 48 51
+MI I-94 194 213B
+MI I-96 190A 191A
+MI I-275 15 17
+
+
+### Section 1.2.23: Minnesota
+
+# Traveler's note: Interstate 35 in Minnesota splits into a west portion
+# (I-35W, servicing Minneapolis) and an east portion (I-35E, servicing St.
+# Paul). The mile markers for Interstate 35 indicate that I-35E is the primary
+# route. Therefore, I-35E will be treated as part of the primary I-35 for
+# determining the clinched progress for I-35 in Minnesota. I-35W will be
+# treated as a secondary route and its own highway.
+#
+# TravelMapping divides I-35 in Minnesota into three segments: a southern
+# segment from the IA/MN border to the I-35W/I-35E junction south of the Twin
+# Cities, a middle segment consisting of I-35W/I-35E, and a northern segment
+# from the I-35W/I-35E junction north of the Twin Cities to the I-35 northern
+# terminus in Duluth. I-35 in Minnesota will not be considered clinched until
+# the southern segment, northern segment, and I-35E have each been clinched,
+# even though TravelMapping may show that the individual segments have been.
+
+#--Clinched
+MN I-35W I-35(88) I-35(127)
+
+MN MN33 I-35 US53
+
+#--In Progress
+MN I-35Far IA/MN 88A
+MN I-35 127 237
+
+MN US10 I-35W(30) I-35W(28A)
+MN US53 MN33 MN169
+
+MN MN1 MN169_S CR16
+MN MN23 I-35(180) I-35(191)
+MN MN37 US53_S US53_N
+MN MN169 US53 CR58
+
+
+### Section 1.2.24: Mississippi
+
+
+### Section 1.2.25: Missouri
+
+#--Clinched
+MO I-29 2H(35) MO/IA
+MO I-35 KS/MO MO/IA
+MO I-64 1 MO/IL
+MO I-70 KS/MO MO/IL
+MO I-72 US61 MO/IL
+MO I-170 1A 10
+MO I-229 1A 14
+MO I-435 KS/MO MO/KS
+MO I-470 I-435 16B
+MO I-635 KS/MO 12
+MO I-670 KS/MO 2N
+MO I-44BSStR I-44BL_W GatCir
+MO I-44BLRol I-44_W I-44_E
+
+MO US40 KS/MO MO/IL
+MO US56 KS/MO US71
+MO US50BusCal US50_W US50_E
+MO US50BusJef US50_W US50_E
+MO US54BusEld US54_W US54_E
+MO US65BusBra US65_S US65/76
+
+MO MO1 MO210 MO152
+MO MO2 KS/MO MO52
+MO MO9 I-70 I-29
+MO MO58 MOsD US50
+MO MO110Han I-35(12) MO/IL
+MO MO134 LOSP MO42
+MO MO138 LewClaSP MO45/273
+MO MO150 KS/MO US50
+MO MO152 I-435(24) I-35
+MO MO163 US63/H I-70
+MO MO165 MO265_S 76CouBlvd
+MO MO242 MOsMM US54
+MO MO249 I-44 I-49BL/171
+MO MO273 I-29 MO/KS
+MO MO283 MO9 32ndAve
+MO MO350 I-435 I-470
+MO MO370 I-70 I-270
+MO MO376 MO265 MO76
+MO MO740 I-70 US63
+
+#--In Progress
+MO I-44 OK/MO 18
+MO I-44 70 277A
+MO I-49 4 I-435
+MO I-55 291A(44) MO/IL
+MO I-270 20A MO/IL
+MO I-29BLStJ US169_S I-29_N
+MO I-49BLJop MO249 I-49_N
+MO I-70BLBoo I-70_W US40_W
+
+MO US24 KS/MO NDelSt
+MO US24 US36_W US36_E
+MO US36 KS/MO US169
+MO US36 I-29 MOsAC
+MO US36 I-35 MO/IL
+MO US50 KS/MO US63_S
+MO US50 I-44(247) I-44(277A)
+MO US54 MO5/7 MO242
+MO US54 US54BusEld/52 US54BusEld_E
+MO US54 US50/63 US63/94
+MO US59 KS/MO MO45/273
+MO US59 I-229(4A) I-229(6B)
+MO US59 I-29BL_S I-29(56)
+MO US59 I-29(65) I-29(67)
+MO US60 US160_W US60BusMan_W
+MO US61 I-64(28A) I-70
+MO US63 MOsH_Phe VanDr
+MO US65 AR/MO I-70
+MO US67 MO367 MO/IL
 MO US69 KS/MO I-35(19)
+MO US71 AR/MO I-29(56)
+MO US160 US60_W US60_E
+MO US160 MO5_N MOsPP
+MO US169 KS/MO I-29(44)
+MO US169 US36 I-29BL_N
+MO US60BusMan US60_W MO5/B
+MO US65BusSpr US65_S US60_W
+MO US65BusSpr ETfwySt US65_N
 
-# Oklahoma
-OK US69 OK/KS I-44/60
-OK US69 I-44(283) TX/OK
+MO MO5 US160_E US60_W
+MO MO5 MO7_S MOsP_How
+MO MO5 US36_E US36/139
+MO MO7 I-44 I-49(159)
+MO MO7 MO150_W MO150_E
+MO MO8 I-44 MOsM_Cra
+MO MO13 MO76/265 MO7/13Bus
+MO MO17 MO42 MO52_W
+MO MO19 MO32/72 MO68
+MO MO28 MOsD_Pul US63_S
+MO MO28SprVie MO28 US63
+MO MO32 MO72_W MO19
+MO MO33 MO92 MO116_E
+MO MO42 US54 US63
+MO MO43 I-44(4) I-44(6)
+MO MO45 I-29 MO9
+MO MO45 MO273_S US59/273
+MO MO52 I-49(130) I-49(129)
+MO MO52 MO13_S MO13_N
+MO MO52 MOsE_Hen MO17_S
+MO MO68 MO19 MOsP
+MO MO72 I-44 MO19
+MO MO76 MO13_N MO376
+MO MO76 US65_N US65Bus_S
+MO MO76 MO5/5Bus MO5_N
+MO MO78 I-435 MO291
+MO MO87 MO179_S I-70
+MO MO87 I-70BL/40 US40/5
+MO MO92 KS/MO MO45
+MO MO92 I-35 MO33
+MO MO95 MO5_N MO5_S
+MO MO96 I-49BL/171 I-49
+MO MO116 MO33_S I-35
+MO MO129 US36_E US36_W
+MO MO131 OldUS40_E I-70
+MO MO133 MO7_N MO7_S
+MO MO133 MO42_E MO42_W
+MO MO135 MO5 US50_W
+MO MO139 US36/5 US36_W
+MO MO171 I-49 MO249
+MO MO179 US50 MO87_N
+MO MO210 I-35 MO291
+MO MO240 US40_W I-70
+MO MO265 US65 MO13/76
+MO MO269 MO210 I-35
+MO MO291 I-49 I-35
+MO MO366 I-44 SapRd
+MO MO367 I-270 US67
+MO MO371 I-29 MO273
 
-# Texas
-TX US69 TX/OK US75_S
-TX US69 TX347 TX87
+
+### Section 1.2.26: Montana
 
 
-## US 70
+### Section 1.2.27: Nebraska
 
-# Oklahoma
-OK US70 I-35(31) I-35(29)
+#--Clinched
+NE I-180 I-80 9thSt
 
-# Arkansas
-AR US70 US59/71_N US59/71_S
-AR US70 I-30(111) I-30(141B)
+#--In Progress
+NE I-80 399 401
+NE I-80 426 NE/IA
 
-
-## US 71
-
-# From Shreveport, LA to southeast of Texarkana, AR
-LA US71 I-20(19A) AR US71Fou I-49(16)
-
-# Arkansas
-TX US71 AR296 AR US71 I-540(12)
-AR US71 I-540(2) I-40(12)
-
-# From Fayetteville, AR to Joplin, MO
-AR US71 I-49(61) MO US71 I-49(39B)
-
-# Missouri
-MO US71 I-49(53) I-29(56)
-
-
-## US 73
-
-# Kansas
-KS US73 KS92_E I-70
-
-
-## US 75
-
-# From Dallas, TX to Atoka, OK
-TX US75 I-30 OK US75 US69_N
-
-# Kansas
-KS US75 I-70(358A) I-35
-
-# Nebraska
+NE US34 NW27thSt 16St
 NE US75 US75Bus_S NE2_W
+NE US77 I-80(399) I-80(401)
 
-# Oklahoma
+NE NE2Lin NebPkwy NE/IA
+NE NE43 NE2_W NE2_E
+
+
+### Section 1.2.28: Nevada
+
+
+### Section 1.2.29: New Hampshire
+
+
+### Section 1.2.30: New Jersey
+
+
+### Section 1.2.31: New Mexico
+
+#--Clinched
+
+#--In Progress
+NM I-25 450 446
+NM I-25BLRat US64_E I-25_S
+
+NM US64 I-25BL_N NM21
+
+NM NM21 US64 CabRd
+
+
+### Section 1.2.32: New York
+
+#--Clinched
+
+#--In Progress
+NY I-90 PA/NY 53(NYST)
+NY I-190 I-90 21
+
+NY US219 I-90_S I-90_N
+
+NY NY324 I-190(21) I-190(20A)
+NY NY324 I-190(18) I-190(15A)
+NY NY384 NY104 RaiBri
+
+
+### Section 1.2.33: North Carolina
+
+
+### Section 1.2.34: North Dakota
+
+
+### Section 1.2.35: Ohio
+
+#--Clinched
+OH I-70 IN/OH OH/WV
+OH I-277 1 4
+OH I-470 I-70 OH/WV
+OH I-670 I-70 10
+
+#--In Progress
+OH I-71 KY/OH 101
+OH I-71 106 107
+OH I-75 KY/OH 1B
+OH I-76 18 20
+OH I-76 218 OH/PA
+OH I-77 107B 122
+OH I-77 129 I-90
+OH I-80 187 218
+OH I-90 174B 176
+OH I-90 184 188
+OH I-270 35 55
+OH I-271 21 I-90
+OH I-480 26(271) I-80_E
+
+OH US35 I-70 OH/IN
+OH US40 I-70(186) I-70(204)
+OH US50 I-71_S I-71_N
+OH US62 I-670(7) I-270(35)
+OH US62 I-77(107B) OH173_W
+OH US224 I-76/277 I-77/277
+OH US422 29(271) 13
+
+OH OH2 195A 176(90)
+OH OH2 184(90) 207
+OH OH4 I-70(41) I-70(47)
+OH OH7 OH164 I-76
+OH OH10 162A(77) 161B(77)
+OH OH14 I-271(23) I-480(42)
+OH OH14 OH534 OH165
+OH OH14TrkSal OH165_W OH46_N
+OH OH21 I-77(136) I-77(145)
+OH OH49 I-70(26) I-70(24)
+OH OH164 OH165 OH7
+OH OH165 OH14_N OH164
+OH OH225 AtlBlvd GreSt
+OH OH283 StClaAve_E I-90(176)
+OH OH283 LakShoBlvd_W 185thSt
+
+OH AtlBlvd US62/173 OH225
+
+
+### Section 1.2.36: Oklahoma
+
+#--Clinched
+OK I-35 TX/OK OK/KS
+
+#--In Progress
+OK I-40 151B 153
+OK I-44 130 138A(35)
+OK I-44 224 OK/MO
+OK I-40BLHen US62_E I-40_E
+
+OK US59 I-44/60 US69_N
+OK US62 I-35(121B) I-35(130)
+OK US62 I-40(240) US75_N
+OK US62 US69_S US69_N
+OK US64 I-35(194) I-35(186)
+OK US64 US69_N US69_S
+OK US69 TX/OK I-44(283)
+OK US69 I-44/60 OK/KS
+OK US70 I-35(31) I-35(29)
+OK US75 TX/OK US69_N
 OK US75 I-40(240) I-44
+OK US77 TX/OK I-35(1)
+OK US77 I-35(113) I-35(126)
+OK US77 I-35(141) I-35(153)
+OK US270 I-40(151B) I-40(153)
+OK US412 I-44(236B) I-44/364
+
+OK OK3Ada US69_N US69/75
+OK OK9 I-35(106) I-35(108A)
+OK OK10 US69_N US59/69
+OK OK16 US69_S US69_N
+OK OK43 US69_N US69_S
+OK OK53 I-35(42) I-35(40)
+OK OK66 I-44(130) I-35(141)
+OK OK66 I-44(224) I-44(241)
+OK OK375 63 104
 
 
-## US 77
+### Section 1.2.37: Oregon
 
-# Texas
+
+### Section 1.2.38: Pennsylvania
+
+#--Clinched
+PA I-279 I-376 I-79
+PA I-579 I-279 PA885
+
+#--In Progress
+PA I-70 WV/PA 32A
+PA I-70 75(76) PA/MD
+PA I-76 OH/PA 39
+PA I-76 48 161
+PA I-79 WV/PA 178
+PA I-90 22 PA/NY
+PA I-376 26 85
+
+PA US19 I-376(69A) I-76/79
+PA US22 I-376(60) PA66
+PA US30 I-376(60) PitSt_W
+PA US30 PitSt_E LamRd
+PA US30 I-70_E I-70_W
+PA US40 WV/PA LibSt
+PA US522 MD/PA I-70(168)
+PA US22BusMon US22_W US22_E
+
+PA PA8 I-376/30 ButSt_W
+PA PA28 AndSt 11
+PA PA43 44 54
+PA PA48 PA130 US22Bus
+PA PA51 LebChuRd NevRd
+PA PA51 FerSt SewBri
+PA PA65 I-279 BroSt
+PA PA130 PA8 PA48
+PA PA130 US119/819_S PitSt_E
+PA PA136 ValViewRd PA43
+PA PA148 McKDuqBri US30
+PA PA281 StoRd_S US30
+PA PA286 US22 SanDr
+PA PA380 PA8_N PA8_S
+PA PA519TrkHou PA519_S I-79(54)
+PA PA791 US22Bus I-376
+PA PA837 McKDuqBri US19/51
+PA PA885 PayHillRd PA837_N
+PA PA885 HazAve HotMetSt
+PA PA885 BlvdAll_E I-579
+PA PA910 I-79 HarRd
+PA PA910 IndRd FreRd
+
+
+### Section 1.2.39: Rhode Island
+
+#--Clinched
+
+#--In Progress
+RI I-95 21 29
+RI I-95 36B 37A
+
+RI US1 US1Bus/117 RI37
+RI US1 EmpSt ExcTer
+RI US1 US44_W US44_E
+RI US6 RI128 RI10_S
+RI US6 I-95(37A) I-195(1)
+RI US44 RI15/104 WasPl
+
+RI RI10 1B 3B
+RI RI37 2A 3
+RI RI128 US6 GreAve_E
+
+
+### Section 1.2.40: South Carolina
+
+
+### Section 1.2.41: South Dakota
+
+
+### Section 1.2.42: Tennessee
+
+#--Clinched
+
+#--In Progress
+TN I-24 44 46
+TN I-40 AR/TN 210C
+TN I-65 82 TN/KY
+
+TN US412 I-40(79) I-40(87)
+
+
+### Section 1.2.43: Texas
+
+# Traveler's note: Interstate 35 in Texas splits into a west portion (I-35W,
+# servicing Fort Worth) and an east portion (I-35E, servicing Dallas). The mile
+# markers for Interstate 35 indicate that I-35E is the primary route.
+# Therefore, I-35E will be treated as part of the primary I-35 for determining
+# the clinched progress for I-35 in Texas. I-35W will be treated as a secondary
+# route and its own highway.
+#
+# TravelMapping divides I-35 in Texas into three segments: a southern segment
+# from the US/Mexico border to the I-35W/I-35E junction south of Dallas/Fort
+# Worth, a middle segment consisting of I-35W/I-35E, and a northern segment
+# from the I-35W/I-35E junction north of Dallas/Fort Worth to the TX/OK border.
+# I-35 in Texas will not be considered clinched until the southern segment,
+# northern segment, and I-35E have each been clinched, even though
+# TravelMapping may show that the individual segments have been.
+
+#--Clinched
+TX I-45 1A 284A
+TX I-345 284A 286
+TX I-369 111A 114B
+TX I-610 TX288 38
+TX TXSpr342 FM3005 I-45
+TX TXSpr348 TX114 I-35E
+
+TX US75 I-30 TX/OK
+
+TX TXSpr91 US77 US59
+TX TXSpr97 TX183 IntPkwy
+TX TX242 FM1488 I-69/59
+TX TX275 I-45 TX87
+
+TX IntPkwy TXSpr97 TX114/121
+TX NASA1 I-45 TX146
+
+#--In Progress
+TX I-10 155A(35) TX/LA
+TX I-30 15A 27
+TX I-30 45B 47B
+TX I-30 56B TX/AR
+TX I-35 153 155A
+TX I-35E 428A 467
+TX I-35Gai 467 TX/OK
+TX I-35W 54A 57
+TX I-37 US181 139
+TX I-69 94 139
+TX I-69 149A 167
+TX I-635 8 36
+TX I-820 16A 22B
+
+TX US59 TXSpr91 I-69(139)
+TX US59 I-69(149A) US79_N
+TX US59 I-369(111A) TX/AR
+TX US67 I-35E(428A) I-30(47B)
+TX US67 I-30(56B) I-30(135)
+TX US69 TX87 TX347
+TX US69 I-10(849) I-10(853A)
+TX US69 US69Bus/59 US59_N
+TX US69 US75_S TX/OK
+TX US71 I-30 TX/AR
+TX US77 I-37(14) I-37(17)
 TX US77 TX89 TXSpr91
-
-
-## US 79
-
-# From Carthage, TX to Shreveport, LA
-TX US79 US59_S LA US79 US80/169
-
-
-## US 90
-
-# Texas
+TX US77 I-35E(428A) I-35E(464)
+TX US77 I-35(471) TX/OK
+TX US79 US59_S TX/LA
+TX US84 US59_S US59/96
+TX US87 I-10(577) I-35(155A)
 TX US90 I-10(572) I-10(603)
 TX US90 I-10(698) I-10(718)
 TX US90 I-10(721) I-10(729)
 TX US90 I-10(741) I-10(775)
-TX US90 TX321 I-10(851)
-
-# From east of Beaumont, TX to west of Lake Charles, LA
-TX US90 I-10(851) LA US90 I-10(4)
-
-
-## US 160
-
-# Kansas
-KS US160 US69_S US69_N
-
-# Missouri
-MO US160 MO5_N MOsPP
-
-
-## US 169
-
-# Kansas
-KS US169 KS/MO US54
-
-# Missouri
-MO US169 KS/MO MOsW
-
-
-## US 181
-
-# Texas
+TX US90 TX321 TX/LA
+TX US90AltHal I-10(773A) I-10(773B)
+TX US96 TX87_S TX347
+TX US96 I-10(849) I-10(853A)
 TX US181 I-37 TX35_N
-TX US181 TX89/188 FM2986_N
-
-
-## US 219
-
-# New York
-NY US219 I-90_N I-90_S
-
-
-## US 224
-
-# Ohio
-OH US224 I-76(18) I-77/277
-
-## US 412
-
-# Oklahoma
-OK US412 I-44/364 I-44(236B)
-
-
-### Iowa State Highways
-
-## IA-2
-IA IA2 I-29 NE/IA
-
-## IA-146
-IA IA146 I-80 US6
-
-
-### Kansas State Highways
-
-## K-3
-KS KS3 US54_W US54_E
-
-## K-4
-KS KS4 KS177_S US59
-
-## K-5
-KS KS5 US73/7 US69
-
-## K-7
-KS KS7 KS92_E US169_S
-KS KS7 US54_W US69_S
-KS KS7 US69/160 OK/KS
-
-## K-10
-KS KS10 I-70 I-435
-
-## K-13
-KS KS13 US24 DyerRd
-
-## K-14
-KS KS14 I-70(221) I-70(219)
-
-## K-16
-KS KS16 KS92_E US59_N
-KS KS16 KS4_E KS4_W
-
-## K-18
-KS KS18 KS113 KS177_S
-
-## K-31
-KS KS31 US56_E US56_W
-KS KS31 US75_N I-35(162)
-KS KS31 US169_N US169_S
-
-## K-32
-KS KS32 US24/40 US69
-
-## K-33
-KS KS33 KS68 US56
-
-## K-52
-KS KS52 US69_N US69_S
-
-## K-61
-KS KS61 11thAve KS14/96_S
-
-## K-68
-KS KS68 KS33 US75/31
-
-## K-92
-KS KS92 KS4 KS/MO
-
-## K-99
-KS KS99 KS4_W KS4_E
-
-## K-113
-KS KS113 KS18 US24
-
-## K-177
-KS KS177 US24 US50
-
-## K-237
-KS KS237 US24 PerLakeSP
-
-## K-268
-KS KS268 US75/31 KS68
-
-## K-276
-KS KS276 OliLim US75
-
-## K-278
-KS KS278 FaiRd US75/31
-
-## K-368
-KS KS368 KS268 229thSt
-
-
-### Louisiana State Highways
-
-## LA-27
-LA LA27 LA82_W LA1256
-
-## LA-82
-LA LA82Hol TX/LA LA27_N
-
-## LA-169
-LA LA169 US80_W I-20
-
-## LA-1256
-LA LA1256 LA27/108 I-10
-
-
-### Minnesota State Highways
-
-## MN-1
-MN MN1 MN169_S MN169_N
-
-## MN-33
-MN MN33 I-35 US53
-
-## MN-37
-MN MN37 US53_S US53_N
-
-## MN 169
-MN MN169 US53 CR58
-
-
-### Missouri State Highways
-
-## MO-2
-MO MO2 I-49(159) I-49(158)
-
-## MO-5
-MO MO5 US36/139 US36_E
-MO MO5 I-70 MOsP_How
-MO MO5 US50_W US50_E
-MO MO5 MO135 MO5BusCam_S
-MO MO5 US60_W US160_E
-
-## MO-7
-MO MO7 I-49(159) I-44
-
-## MO-8
-MO MO8 I-44 MOsM_Cra
-
-## MO-9
-MO MO9 I-70 I-29
-
-## MO-13
-MO MO13 MO7/13Bus US60_E
-
-## MO-19
-MO MO19 MO32/72 MO68
-
-## MO-28
-MO MO28 MOsD_Pul US63_S
-
-## MO-32
-MO MO32 MO72_W MO19
-
-## MO-42
-MO MO42 US63 US54
-
-## MO-45
-MO MO45 I-29 MO9
-
-## MO-52
-MO MO52 MO13_N MO13_S
-MO MO52 US65_N US65_S
-
-## MO-58
-MO MO58 MO291_N MO291_S
-
-## MO-68
-MO MO68 MOsP MO19
-
-## MO-72
-MO MO72 MO19 I-44
-
-## MO-76
-MO MO76 MO5/5Bus MO5_N
-
-## MO-87
-MO MO87 MO179_N I-70
-
-## MO-92
-MO MO92 KS/MO MO45
-
-## MO-95
-MO MO95 MO5_N MO5_S
-
-## MO-110 (North segment)
-MO MO110Han I-35(12) MO/IL
-
-## MO-116
-MO MO116 I-35 MO33_S
-
-## MO-129
-MO MO129 US36_W US36_E
-
-## MO-131
-MO MO131 OldUS40_E I-70
-
-## MO-133
-MO MO133 MO7_S MO7_N
-
-## MO-134
-MO MO134 US54 MO42_E
-
-## MO-135
-MO MO135 MO5 US50_W
-
-## MO-139
-MO MO139 US36_W US36/5
-
-## MO-152
-MO MO152 I-435(24) I-35
-
-## MO-163
-MO MO163 US63/H I-70
-
-## MO-171
-MO MO171 MO249 I-49
-
-## MO-179
-MO MO179 US50 MO87_N
-
-## MO-210
-MO MO210 I-35 MO291
-
-## MO-215
-MO MO215 MO13/215Spr MO13_S
-
-## MO-240
-MO MO240 I-70 US40_W
-
-## MO-242
-MO MO242 MOsMM US54
-
-## MO-249
-MO MO249 I-44 I-49BL/171
-
-## MO-269
-MO MO269 I-35 MO210
-
-## MO-283
-MO MO283 MO9 32ndAve
-
-## MO-291
-MO MO291 I-49 I-35
-
-## MO-350
-MO MO350 I-435 I-470
-
-## MO-366
-MO MO366 I-44 SapRd
-
-## MO-367
-MO MO367 US67 I-270
-
-## MO-370
-MO MO370 I-70 I-270
-
-
-### Nebraska State Highways
-
-## NE-2
-NE NE2Lin NE/IA VanDornSt_E
-
-
-### Ohio State Highways
-
-## OH-2
-OH OH2 207 184(90)
-OH OH2 176(90) 195A
-
-## OH-7
-OH OH7 OH164 I-76
-
-## OH-14
-OH OH14 OH534 OH165
-
-## OH-21
-OH OH21 I-77(145) I-77(136)
-
-## OH-164
-OH OH164 OH165 OH7
-
-## OH-165
-OH OH165 OH14_N OH164
-
-## OH-225
-OH OH225 AtlBlvd PriSt
-
-## OH-283
-OH OH283 E185thSt LakShoBlvd_W
-OH OH283 StCAve I-90(176)
-
-
-### Oklahoma State Highways
-
-## OK-66
-OK OK66 I-44(224) I-44(241)
-
-## OK-375
-OK OK375 63 104
-
-
-### Pennsylvania State Highways
-
-## PA-8
-PA PA8 ButSt_W I-376/30
-
-## PA-28
-PA PA28 AndSt 11
-
-## PA-43
-PA PA43 44 54
-
-## PA-48
-PA PA48 US22Bus PA130
-
-## PA-51
-PA PA51 LebChuRd NevRd
-PA PA51 FerSt SewBri
-
-## PA-65
-PA PA65 BroSt I-279
-
-## PA-130
-PA PA130 PA48 PA8
-
-## PA-136
-PA PA136 ValViewRd PA43
-
-## PA-148
-PA PA148 McKDuqBri US30
-
-## PA-286
-PA PA286 SanDr US22
-
-## PA-791
-PA PA791 US22Bus I-376
-
-## PA-837
-PA PA837 US19/51 McKDuqBri
-
-## PA-885
-PA PA885 BlvdAll_E I-579
-PA PA885 PA837_N PayHillRd
-PA PA885 HotMetSt HazAve
-
-## PA-910
-PA PA910 I-79 HarRd
-PA PA910 FreRd IndRd
-
-
-### Rhode Island State Highways
-
-## RI-10
-RI RI10 US6_W 1B
-
-## RI-37
-RI RI37 2A 3
-
-## RI-128
-RI RI128 GreAve_E US6
-
-
-### Texas State Highways
-
-## TX-6
-TX TX6 US290_E I-69/59
-
-## TX-8 Loop
+TX US181 FM2986_N TX89/188
+TX US190 I-45(142) I-45(116)
+TX US281 I-37(72) I-37(103)
+TX US281 I-37(133) I-37(139)
+TX US287 TX87 TX347
+TX US287 I-10(849) I-10(853A)
+TX US287 I-45(229) I-45(247)
+TX US287 I-35W(54A) I-35W(57)
+TX US287BusEnn US287_S I-45(249)
+
+TX TX6 I-69/59 US290_E
+TX TX7 US59_N US59_S
 TX TXLp8 WesTlwy I-10(781)
-
-## TX-12 Loop
-TX TXLp12 MarLn TXSpr348
-
-## TX-35
+TX TXLp12 I-35E(436)_W TXSpr348
+TX TXLp12 MarLn I-35E(436)_E
+TX TX21 US59_N US59_S
+TX TX26 MainSt TX114_E
 TX TX35 I-37 US181_N
-TX TX35 TX35BusRoc_S TXSpr202
-
-## TX-82
-TX TX82 TX87 LA/TX
-
-## TX-87 (Galveston)
-TX TX87Gal SeaBlvd_E I-45
-
-## TX-89
+TX TX35 TXSpr202 TX35BusRoc_S
+TX TX35BusRoc TX35_S TXLp90_S
+TX TX71 I-10(695) I-10(696)
+TX TX82 LA/TX TX87
+TX TX87Gal I-45 SeaBlvd_E
 TX TX89 US181_S US77
-
-## TX-90 Loop
-TX TXLp90 TX361 TX35Bus_S
-
-## TX-91 Spur
-TX TXSpr91 US77 US59
-
-## TX-97 Spur
-TX TXSpr97 TX183 IntPkwy
-
-## TX-114
-TX TX114 TX183 MainSt
-
-## TX-121
+TX TXLp90 TX35Bus_S TX361
+TX TX114 MainSt TX183
+TX TX121 I-820(22) TX183_E
 TX TX121 TXSpr103 MacBlvd
-TX TX121 TX183_E I-820(22)
-
-## TX-146
+TX TX121 US75_S US75_N
+TX TX130 581(10) 614(10)
 TX TX146 I-45 TX225
 TX TX146 TX321 US90_E
-
-## TX-183
-TX TX183 I-35E TX114
-TX TX183 MacBlvd I-820(22)
-
-## TX-225
+TX TX183 I-820(22) MacBlvd
+TX TX183 TX114 I-35E
+TX TXLp224 US59/259 US59_S
 TX TX225 Bro TX146
-
-## TX-242
-TX TX242 FM1488 I-69/59
-
-## TX-249
-TX TX249 FM149 FM1960
-
-## TX-275
-TX TX275 I-45 TX87
-
-## TX-286
-TX TX286 I-37 TX358
-
-## TX-288
+TX TX249 FM1960 FM149
+TX TX286 TX358 I-37
+TX TXLp287 US59_S US59_N
 TX TX288 US90Alt I-45
-
-## TX-321
-TX TX321 FM1008_S US90/146
-
-## TX-342 Spur
-TX TXSpr342 I-45 FM3005
-
-## TX-348 Spur
-TX TXSpr348 TX114 I-35E
-
-## TX-358
+TX TX321 US90/146 FM1008_S
 TX TX358 TX286 PR22
-
-## TX-360
-TX TX360 TX183 AveH
-
-## TX-361
+TX TX360 AveH TX183
 TX TX361 PR22 AraPassFry
 TX TX361Ara PortAraFry TXLp90
+TX TXSpr380 SulPlaRd ColSt
 
-## TX-380 Spur
-TX TXSpr380 ColSt SulPlaRd
+TX DalNorTlwy MocLn I-635
+TX HarTollRd AirCon I-45
+TX GeoBushTpk I-30(32) TX114
 
-## Dallas North Tollway
-TX DalNorTlwy I-635 MocLn
 
-## Hardy Toll Road
-TX HarTollRd I-45 AirCon
+### Section 1.2.44: Utah
 
-## International Parkway
-TX IntPkwy TXSpr97 TX114/121
 
-## NASA 1
-TX NASA1 I-45 TX146
+### Section 1.2.45: Vermont
 
-## President George Bush Turnpike
-TX GeoBushTpk TX114 I-30(32)
+
+### Section 1.2.46: Virginia
+
+#--Clinched
+
+#--In Progress
+VA I-395 8C VA/DC
+VA I-495 MD/VA 43
+
+VA US1 I-395(8C) VA/DC
+VA US29 I-66(73A) GeoWasPkwy
+VA US50 LynnSt GeoWasPkwy
+
+VA VA110 I-395 MemAve
+
+VA GWMemPkwy US29 I-495
+VA GWMemPkwyCry I-395 VA/DC
+
+### Section 1.2.47: Washington
+
+
+### Section 1.2.48: West Virginia
+
+#--Clinched
+WV I-70 OH/WV WV/PA
+WV I-79 I-77 WV/PA
+WV I-470 OH/WV 4
+
+#--In Progress
+WV US19 I-79(57) I-79(67)
+WV US40 I-70(0A) I-70(1A)
+WV US40 I-70(5) WV/PA
+WV US250 I-70(0A) I-70(1B)
+
+
+### Section 1.2.49: Wisconsin
+
+
+### Section 1.2.50: Wyoming
+
+
+### Section 1.2.51: District of Columbia
+
+#--Clinched
+
+#--In Progress
+DC I-395 VA/DC 1
+
+DC US1 VA/DC ConAve_E
+DC US50 23rdSt ConAve_E
+
+DC GWMemPkwy VA/DC US50
+
+
+
+##########
+#
+# Section 2: Canada
+#
+##########
+
+###
+# Section 2.1: Clinched non-provincial highways.
+# May include highways that are contained within only one province, such as
+# Queen Elizabeth Way.  Entries in this section are not delineated by
+# province.
+###
+
+ON ONQEW PeaBrg 139
+
+###
+# Section 2.2: In progress highways.
+###
+
+### Section 2.2.1: Ontario
+
+#--Clinched
+
+#--In Progress
+ON ON58Tho ThoStoRd RR71
+ON ON403 80 104
+ON ON403 109 112
+ON ON406 QEW 10
+ON ON407 1 24
+ON ON420 QEW StaAve
+
+ON GarExpy 139 154
+
+
+##########
+#
+# Section 3: Ireland
+#
+##########
+
+###
+# Section 3.1: Clinched highways.
+###
+
+IRL M6 1 8
+IRL M50 1 17
+
+IRL N7 1 9
+IRL N18 1 9
+IRL N77 M7 J7
+
+IRL R381 N67 N83
+IRL R921 N67 R338
+IRL R925 R267 N56
+IRL R939 M17 N83
+
+###
+# Section 3.2: In progress highways.
+###
+
+IRL M1 1 2
+IRL M4 5 11
+IRL M6Bal 13 17
+IRL M7 9 12
+IRL M7 13 17
+IRL M7 29 30
+IRL M8 11 19
+IRL M9 1 8
+IRL M11 4 6
+IRL M11Gor 14 16
+IRL M18 9 16
+IRL M20 1 5
+
+IRL N1Dub R104 R132
+IRL N4 N17 N15/N16
+IRL N4Dub 1 5
+IRL N10 M9_N J4
+IRL N11Gre 6 14
+IRL N15 N56 N4/N16
+IRL N17 N4 N83_S
+IRL N20 N21 N846
+IRL N20 J23 J24
+IRL N24 M7 R639/R640
+IRL N27 N8 J1
+IRL N40 4 11
+IRL N56 N15 L1885
+IRL N67 N6 L4508
+IRL N6Ath 8 13
+IRL N83 R939 N17_S
+IRL N83 M17 R381
+
+IRL R104 R105 M50
+IRL R105 R807_W J3
+IRL R105 R807_E ThoRd
+IRL R105 UppCliRd R105/R106_B
+IRL R108 J21 R148
+IRL R108 R104_E M50
+IRL R109 R148_E J67
+IRL R110 J14 R811
+IRL R111 J54 R118
+IRL R111 J64 J67
+IRL R114 J16 R117/R811
+IRL R117 R114/R811 R824
+IRL R117 R112 R826_S
+IRL R118 R138 R816
+IRL R131 ToM50 R801
+IRL R132 J34 R125/R836
+IRL R133 R112/R825 M50
+IRL R137 R138 J19
+IRL R138 R105/R148 R118
+IRL R138 StSteGre_W J46
+IRL R138 J57 WatRd
+IRL R148 R105/R138 R109_E
+IRL R267Don R925 N15_S
+IRL R336 R338_W R864
+IRL R336 R337_E L5048
+IRL R338 R921 R339
+IRL R339 R338 L5048
+IRL R348 ToM6 L3104
+IRL R413 M7 R445_E
+IRL R415 R445_E M7
+IRL R445 R413_E R415_S
+IRL R445 R857 N18
+IRL R449 M4 R405
+IRL R458 N67 R460
+IRL R509 R511 M7/M20
+IRL R511 R527 R509
+IRL R526 R445 R527_E
+IRL R608 J10 N22_E
+IRL R608Cor J10 J11
+IRL R639 N24_W M8(11)
+IRL R641 R608 N40(4)
+IRL R693 R886 R697/R700
+IRL R750 R752/R772 FitSq
+IRL R772 M11(16) R750_N
+IRL R801 R105/R138 R131
+IRL R802 R132 J1
+IRL R804 R132/R135 R810
+IRL R807 R105_W R105_E
+IRL R810 J22 J64
+IRL R811 R114/R117 R110
+IRL R814 J6 J8
+IRL R815 J9 J54
+IRL R816 R138 WatRd
+IRL R825 R824 R133_S
+IRL R826 R117_N M50
+IRL R846 N20 CatSt
+IRL R847 J23 J22
+IRL R857 R526 R445
+IRL R887 R693/R697 R712
+
+IRL CorIOACW J1 J22
+IRL DubIOACW J14 J46
+IRL DubIOACW J6 PeaSt_W
+IRL WAW R336/L5048 R339/L5048

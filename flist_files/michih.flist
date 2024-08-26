@@ -1,0 +1,91 @@
+# Date: 2024-08-14
+# ----------------
+
+#####################################
+#### CAR FERRIES - SEA CROSSING #####
+#####################################
+
+FRA-BRE Roscoff                      IRL     Rosslare
+NIR     Larne                        SCT     Cairnryan
+DNK     Rodbyhavn                    DEU-SH  Fehmarn
+DNK     Tars                         DNK     Drejet (PR9)
+DNK     Odde                         DNK     Aarhus (PR21)
+DNK     Hundested                    DNK     Rorvig (PR16 - SR225)
+DNK     Kulhuse                      DNK     Solager (SR207)
+SWE     Trelleborg                   DEU-MV  Rostock
+EST     Tallinn                      FIN     Helsinki
+SWE     Helsingborg                  DNK     Helsingor
+MLT     Mgarr                        MLT     Cirkewwa
+ITA     Brindisi                     GRC     Igoumenitsa
+NLD     Hoek van Holland             ENG     Harwich
+ENG     Dover                        FRA-HDF Calais
+DNK     Egense                       DNK     Hals
+DNK     Frederikshavn                NOR     Oslo
+NOR     Halsa                        NOR     Kanestraum  #E39
+NOR     Molde                        NOR     Furneset    #E39
+NOR     Solavagen                    NOR     Festoya     #E39
+NOR     Lote                         NOR     Anda        #E39
+NOR     Lavik                        NOR     Oppedal     #E39
+NOR     Halhjem                      NOR     Sandvik     #E39
+NOR     Arsvagen                     NOR     Mortavika   #E39
+SWE     Ystad                        POL     Swinoujscie
+
+
+#####################################
+#### CAR FERRIES - RIVER CROSSING ###
+#####################################
+
+#Danube
+BGR     Nikopol                      ROU     Turnu Magurele
+
+#Elbe
+DEU-BB  Lütkenwisch                  DEU-NI  Schnackenburg
+DEU-ST  Räbel                        DEU-ST  Havelberg
+DEU-SH  Glückstadt                   DEU-NI  Wischhafen
+DEU-ST  Breitenhagen                 DEU-ST  Badetz
+DEU-ST  Aken                         DEU-ST  Steutz
+
+#Moselle
+LUX     Wasserbillig                 DEU-RP  Oberbillig
+
+#Neckar
+DEU-BW  Ladenburg                    DEU-BW  Neckarhausen
+
+#Rhine
+DEU-RP  Kripp                        DEU-RP  Linz
+DEU-RP  Bad Hönningen                DEU-RP  Bad Breisig
+DEU-RP  Engelsburg                   DEU-RP  Korb
+DEU-RP  Niederheimbach               DEU-RP  Lorch
+DEU-RP  Bingen                       DEU-HE  Rüdesheim
+DEU-RP  Ingelheim                    DEU-HE  Oestrich-Winkel
+DEU-BW  Kollerinsel                  DEU-BW  Brühl
+DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
+DEU-RP  Neuburg                      DEU-BW  Neuburgweier
+FRA-GES Seitz                        DEU-BW  Plittersdorf
+FRA-GES Drusenheim                   DEU-BW  Greffern
+FRA-GES Rhinau                       DEU-BW  Kappel
+
+#Rhône
+FRA-PAC Salin-de-Giraud (Rhone)
+
+#Weser
+DEU-HB  Bremerhaven                  DEU-NI  Nordenham
+DEU-HB  Farge                        DEU-NI  Ranzenbüttel
+DEU-HB  Vegesack                     DEU-NI  Lemwerder
+
+
+#####################################
+#### CAR FERRIES - LAKE CROSSING ####
+#####################################
+
+#Lake Constance
+DEU-BW  Meersburg                    DEU-BW  Konstanz
+
+
+#####################################
+#### PASSENGER FERRIES ##############
+#####################################
+
+DEU-BE  F12 Wendenschloss           DEU-BE  Grünau
+DEU-BW  Überlingen                  DEU-BW  Dingelsdorf
+DEU-BW  Konstanz                    DEU-BW  Friedrichshafen

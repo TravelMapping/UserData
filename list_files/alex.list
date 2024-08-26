@@ -25,13 +25,15 @@ WA I-205 OR/WA I-5
 CA I-305 1A 6
 
 CA I-405 I-5(94A) I-5(158)
-OR I-405 1D I-5(302B)
+OR I-405 I-5(299B) I-5(302B)
 WA I-405 I-5(154) I-5(182)
 
 CA I-505 1A I-5
 
 CA I-605 9B 14A
 CA I-605 19 25
+
+WA I-705 I-5 StaWay
 
 ########
 # I-10 #
@@ -69,8 +71,12 @@ WY I-25 189 210
 # I-35 #
 ########
 MN I-35 127 237
+MN I-35 253A 256A
 
-MN I-35W 27 I-35(127)
+MN I-35E 103B 127
+
+MN I-35W 9A 13
+MN I-35W 26B I-35(127)
 
 ########
 # I-40 #
@@ -189,6 +195,14 @@ ID I-86 1 63
 # I-87 #
 ########
 NY I-87 7(MDE) 4(NYST)
+NY I-87 16 30
+
+########
+# I-89 #
+########
+NH I-89 I-93 6
+VT I-89 8 13
+VT I-189 I-89 US7
 
 ########
 # I-90 #
@@ -213,13 +227,19 @@ IL I-190 I-90 ChiOHAir
 CT I-91 17A 29
 
 ########
+# I-93 #
+########
+MA I-93 20 MA/NH
+NH I-93 MA/NH 15
+
+########
 # I-94 #
 ########
 MN I-94 231A 241B
 
 IL I-294 8 40A
 
-MN I-394 5A 8B
+MN I-394 3 8B
 
 MN I-494 1A 7
 
@@ -232,15 +252,20 @@ DE I-95 MD/DE 5C
 DE I-95 8 DE/PA
 MD I-95 25 53
 MD I-95 64 MD/DE
+ME I-95 NH/ME 44
+ME I-95 103 182
+NH I-95 5 NH/ME
 NJ I-95 PA/NJ NJ/NY
 NY I-95 NJ/NY 1C
 PA I-95 DE/PA 17
 PA I-95 22 PA/NJ
 
 DE I-295 I-95 DE/NJ
+ME I-295 I-95(44) I-95(103)
 NJ I-295 DE/NJ 68A
 
 MD I-395 I-95 MLKJBlvd
+ME I-395 1 4
 
 MD I-395Was I-395 MD295
 
@@ -259,7 +284,7 @@ AK I-A1 5thAve_W AK3_N
 #########
 # I-AK3 #
 #########
-AK I-A3 AK9 OldSewHwy_N
+AK I-A3 AK9 5thAve
 
 #########
 # I-AK4 #
@@ -277,12 +302,24 @@ DC US1 RhoIslAve_W DC/MD
 MD US1 DC/MD I-95/495
 NJ US1 CR571 NJ18
 
+ME US1AltBan ME9_E US1_E
+
 #######
 # US2 #
 #######
 WA US2 I-5 WA204
 WA US2 WA522 US97_S
+ME US2 NH/ME Pkwy
 MT US2 MT40 MarPass
+MN US2 I-35(253A) MN/WI
+NH US2 VT/NH NH/ME
+WI US2 MN/WI US53Bus/35
+VT US2 US302 VT/NH
+
+#######
+# US4 #
+#######
+NH US4 I-93(15) I-95
 
 #######
 # US6 #
@@ -290,6 +327,16 @@ MT US2 MT40 MarPass
 CO US6 I-70(205) MonRd
 CO US6 CO58/93 CO470
 UT US6 I-15(257B) I-70(157)
+
+#######
+# US7 #
+#######
+VT US7 VT22A I-189
+
+#######
+# US9 #
+#######
+NY US9 CR4 NY73
 
 ########
 # US12 #
@@ -337,6 +384,7 @@ CO US24 CO91 CO300
 # US26 #
 ########
 OR US26 64 74
+OR US26 BurRd OR173
 OR US26 US97_S OR35
 ID US26 I-15(93) I-15(116)
 ID US26 ID43 ID31
@@ -439,7 +487,7 @@ NV US95 76(515) NV373
 ########
 CA US97 I-5 CA/OR
 OR US97 CA/OR US197
-WA US97 WA970 US2_W
+WA US97 I-90(106) WA153
 
 ########
 # US99 #
@@ -463,6 +511,11 @@ WA US101 WA8 I-5
 CA US101BusNov US101_S US101_N
 CA US101BusPet US101_S US101_N
 CA US101BusPis US101_S CA US101BusPis US101_N
+
+#########
+# US169 #
+#########
+MN US169 MN7 63rdAve
 
 #########
 # US180 #
@@ -490,6 +543,8 @@ OR US199 CA/OR I-5
 # US202 #
 #########
 DE US202 I-95(8) DE141/261
+ME US202 MainSt_Win I-95(109)
+NH US202 I-89(5) I-89(4)
 
 #########
 # US206 #
@@ -505,7 +560,8 @@ WY US287 I-80BL_W WY220
 # US395 #
 #########
 CA US395 I-15 CA/NV
-NV US395 CA/NV NV756
+CA US395Sus NV/CA CA36
+NV US395 CA/NV NV/CA
 
 ##################
 # STATE HIGHWAYS #
@@ -514,6 +570,8 @@ NV US395 CA/NV NV756
 #########################
 # Alaska State Highways #
 #########################
+AK AK7Jun MainSt MenLpRd_N
+
 AK AK9 RaiAve AK1
 
 ##########################
@@ -567,6 +625,7 @@ CA CA35 54 CA1
 CA CA35 CA17 I-280(41B)
 
 CA CA36 I-5 CA89_N
+CA CA36 CA44 US395
 
 CA CA37 US101 21
 
@@ -574,7 +633,7 @@ CA CA38 I-10 CA18_S
 
 CA CA41 128 132
 
-CA CA44 CA89_S CA89_N
+CA CA44 CA89_S CA36
 
 CA CA46 CA1 VinDr
 
@@ -650,7 +709,7 @@ CA CA134 1A 13B
 
 CA CA138 I-5 I-15
 
-CA CA140 CA59_N YosNP
+CA CA140 CA99(186B) YosNP
 
 CA CA152 US101(357) I-5
 
@@ -768,17 +827,56 @@ IN IN55 750N_E US41_S
 
 IN IN341 IN55 IN28
 
+########################
+# Maine State Highways #
+########################
+ME ME3 US1Alt_E ME102/198
+ME ME3 ParHillRd OttCliRd
+ME ME3 ME233_W ME102
+
+ME ME9 US1Alt_E StaSt
+
+ME ME15BusBan ME15_S StaSt_S
+
+ME ME26 ME219_E Pkwy_E
+
+ME ME102 SealCoveRd ME3
+
+ME ME133 MainSt_Win ME219
+
+ME ME219 ME26_N ME133
+
+ME ME233 ME3_W ME3_E
+
+################################
+# Massachusetts State Highways #
+################################
+MA MA1ASal I-90 MA145_S
+
+MA MA2 US5/10 US3_N
+
+MA MA16 MA2_W EveAve
+
+MA MA112 GreRd MA/VT
 
 ############################
 # Minnesota State Highways #
 ############################
-MN MN5 I-494(1A) MSPApt
+MN MN5 I-494(1A) I-35E
 
 MN MN33 I-35 US53
+
+MN MN61 I-35 60thAve
+
+MN MN70 I-35 MN/WI
 
 MN MN77 CR38 I-494
 
 MN MN100 I-494 I-694
+
+MN MN135 CR100/110 MN1/169
+
+MN MN169 US53 CR88_E
 
 ##########################
 # Montana State Highways #
@@ -825,10 +923,37 @@ NV NV756 NV88 US395
 #############################
 NJ NJ18 I-95 US1
 
+################################
+# New Hampshire State Highways #
+################################
+NH NH16 GlenEllFal US2_E
+
+NH NH127 I-89 NH103_E
+
 ###########################
 # New York State Highways #
 ###########################
+NY NY9N NY185 BroSt
+
+NY NY22 WalSt NY372
+
 NY NY25A MidRd SunMeaPkwy
+
+NY NY29 NY40_N NY372
+
+NY NY32 US4_Nor RuggRd
+
+NY NY40 NY29_E CR77
+
+NY NY73 NY86 US9
+
+NY NY86 NY73 NY431
+
+NY NY185 NY9N/22 NY/VT
+
+NY NY372 NY29 NY22
+
+NY NY431 WhiMtn NY86
 
 ###########################
 # New York State Parkways #
@@ -846,9 +971,13 @@ NY SunMeaPkwy SM1 SM5
 #######################
 OR OR35 US26 OR/WA
 
+OR OR38 US101 I-5/OR99
+
 OR OR62 OR234 US97
 
 OR OR138 SusCreRd CraLakeHwy
+
+OR OR173 US26 TimLodge
 
 OR OR217 US26 8
 
@@ -893,6 +1022,19 @@ UT UT270 WTem US89
 
 UT UT313 IslSkyRd US191
 
+##########################
+# Vermont State Highways #
+##########################
+VT VT9 NY/VT VT100_S
+
+VT VT17 NY/VT VT22A
+
+VT VT22A VT17 US7
+
+VT VT100 VT112 VT9_E
+
+VT VT112 MA/VT VT100
+
 ###########################
 # Virginia State Highways #
 ###########################
@@ -907,13 +1049,16 @@ WA WA3 WA16 WA104
 
 WA WA4 US101 WA401
 
-WA WA7 US12 AldCut
+WA WA7 US12 WA704
 
 WA WA8 US12 US101
 
 WA WA9 WA204 WA92
+WA WA9 WA531 WA530_W
 WA WA9 WA20_W WA542_E
 WA WA9 LinRd WA/BC
+
+WA WA11 I-5(231) 12thSt
 
 WA WA14 6 HoodRivBri
 
@@ -923,19 +1068,20 @@ WA WA18 I-5 WA164
 
 WA WA19 WA104 WA20
 
-WA WA20 WA525 WA9_N
-WA WA20 WA530 NFD600_W
+WA WA20 WA525 WA153
 
 WA WA20Por WA19 PorCouFry
+
+WA WA20SprAna WA20 AnaFry
 
 WA WA92 WA9 MtnLpHwy
 
 WA WA99 WA599 175thSt
-WA WA99 168thSt WA525
+WA WA99 168thSt AirRd
 
 WA WA104 US101 KinEdmFry
 
-WA WA104Edm EdmKinFry I-5
+WA WA104Edm EdmKinFry WA522
 
 WA WA107 US101 US12
 
@@ -945,9 +1091,17 @@ WA WA141 WA141Alt GulRd
 
 WA WA141AltUnd WA14 WA141
 
+WA WA153 US97 WA20
+
+WA WA160 WA16 FauSouFry
+
 WA WA161 WasAve WA512/167
 
+WA WA163 WA16 ParkWay
+
 WA WA164 WA18 WA410
+
+WA WA166 WA16 WhiAve
 
 WA WA167 WA161/512 I-405
 
@@ -957,19 +1111,24 @@ WA WA202 WA203 I-90
 
 WA WA204 US2 WA9
 
+WA WA304 WA3 BreFry
+
 WA WA305 WinFry WA3
 
 WA WA401 US101 WA4
 
-WA WA410 WA164 SunParkRd
+WA WA410 WA164 WA123
 
 WA WA509 WA518 WA99
+WA WA509 LeLouPl 16thAve
+
+WA WA512 I-5 SteRd
 
 WA WA513 WA520 65thSt
 
 WA WA518 WA509 I-5
 
-WA WA520 I-5 I-405
+WA WA520 I-5 LakSamPkwy
 
 WA WA522 I-5 US2
 
@@ -982,8 +1141,13 @@ WA WA525Fre CliMukFry WA20
 WA WA526 WA525 I-5
 
 WA WA529 Bro I-5(198)
+WA WA529 EveAve Bro
+
+WA WA531 I-5 WA9
 
 WA WA530 I-5 WA20
+
+WA WA532 SunBlvd I-5
 
 WA WA536 WA20 I-5
 
@@ -996,11 +1160,19 @@ WA WA544 PoleRd WA9
 
 WA WA599 I-5 WA99
 
+WA WA704 SpaLpRd WA7
+
 WA WA706 WA7 MouRaiNP
 
-WA WA903 WA970 OakAve_S
+WA WA903 WA970 WenNF
 
 WA WA970 I-90 US97
+
+############################
+# Wisconsin State Highways #
+############################
+WI WI35 WI70_W US2
+WI WI70 MN/WI WI35_N
 
 ##########################
 # Wyoming State Highways #
@@ -1022,6 +1194,8 @@ WY WY450 US16 WY59
 ##########################
 # NATIONAL PARK HIGHWAYS #
 ##########################
+AK ParkRd AK3 EieVisCen
+
 CA BadRd CA190 Bad
 
 CA BigOakRd CA120 ElPorRd
@@ -1038,6 +1212,8 @@ CA LasPeakHwy CA44/89 CA89_S
 
 CA MinSumRd CA203 DevPosRd
 
+CA MorEmiTr CRE16 CA88
+
 CA ParkBlvd CA62_W CA62_E
  
 CA TioPassRd BigOakRd CA120
@@ -1045,6 +1221,9 @@ CA TioPassRd BigOakRd CA120
 CA WawRd GlaPtRd SouDr
 
 HI CraRd Sum HI378
+
+ME ParkLpRd GreMeaDr SieMonRd_N
+ME ParkLpRd OttCliRd ParHillRd
 
 MT GoiSunRd US2 LogPass
 
@@ -1097,7 +1276,7 @@ WA WSeaBri I-5(163A) AdmWay
 ########################
 # Trans-Canada Highway #
 ########################
-BC TCHMai 2 27
+BC TCHMai 2 33
 BC TCHMai 92 170
 BC TCHMai 362 BC/AB
 AB TCHMai BC/AB 118
@@ -1105,21 +1284,30 @@ AB TCHMai BC/AB 118
 BC TCHYel BC5 BC/AB
 AB TCHYel BC/AB AB93
 
+BC TCHVan BC19_N BC19A
+
 ##########################
 # BC Provincial Highways #
 ##########################
 
 BC BC3 170 177
 
+BC BC4 TofHar BC19
+
 BC BC5 177 BC16
 
+BC BC17Ric TsaFry 13
+
+BC BC19 DukePtFry 60
+
 BC BC91 BC99 22
+BC BC91A BC91 MarWay
 
 BC BC93 BC/AB USA/CAN
 
 BC BC95 BC1 USA/CAN
 
-BC BC99 USA/CAN 3(BC1)
+BC BC99 USA/CAN LorRd
 
 BC KniSt BC91 63rdAve
 
@@ -1151,6 +1339,3 @@ ITA A91 ViaMag_E ViaAleGui
 ##########
 MEX-NAY MEX200 LoMar NAY/JAL
 MEX-JAL MEX200 NAY/JAL BlvdMedAsc_S
-
-
-

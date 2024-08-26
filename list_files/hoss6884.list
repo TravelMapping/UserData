@@ -1,53 +1,152 @@
+# =================================================
+# BC - British Columbia Provincial Highways (canbc)
+# =================================================
+
+BC BC91 15 22
 BC BC99 GraSt_S PacSt
 BC BC99 DenSt StaParkDr_S
+
+# =========================================
+# ON - Ontario Provincial Freeways (canonf)
+# =========================================
 
 ON ON400 21 241
 ON ON401 344A 348
 ON ON401 351 359
 ON ON403 80 123(QEW)
 ON ON403 109 ON401_E
-ON ON405 QEW ON/USA
+ON ON405 QEW CAN/USA
 ON ON407 1 24
 ON ON420 MonRd StaAve
 ON ON427 QEW FasDr
-ON ONGar 139 153
 ON ONQEW PeaBrg 139
-ON TCHGeo ON17 ON400(141)
+
+# ==================================
+# ON - Trans-Canada Highway (cantch)
+# ==================================
+
+ON TCHGeo ON17 *OldHwy69_EstN
+ON TCHGeo *OldON69_Gru ON400(141)
+
+# =========================================
+# ON - Canada Select Named Freeways (cansf)
+# =========================================
+
 ON GarExpy 139 153
+
+# ====================================
+# ON - Ontario King's Highways (canon)
+# ====================================
+
 ON ON12 ON400(141) ON400(147)
-ON ON69 ON400(241) ON17
+ON ON69 ON400(241) *OldON69_Gru
+ON ON69 *OldHwy69_EstN ON17
+
+# =============================
+# ITA - Italy Autostrada (itaa)
+# =============================
 
 ITA A91 AGRA SS296
+
+# ==========================================
+# ITA - UNECE International 'E' Roads (eure)
+# ==========================================
+
 ITA E80 A12/A91 A91/AGRA
 
+# =============================================
+# MEX-QROO - Mexico Carreteras Federales (mexf)
+# =============================================
+
 MEX-QROO MEX307 XelHa AerIntCan
-MEX-YUC MEX180 YUC79 Coba
+
+# ===========================================
+# MEX-YUC - Mexico Federal Expressways (mexd)
+# ===========================================
+
 MEX-YUC MEX180D YUC79 MEX295
+
+# ============================================
+# MEX-YUC - Mexico Carreteras Federales (mexf)
+# ============================================
+
+MEX-YUC MEX180 YUC79 Coba
 MEX-YUC MEX295 PerVal_N MEX180D
 
+# ===================================
+# AL - Alabama State Highways (usaal)
+# ===================================
+
+AL AL59 AL182 AL180
 AL AL182 DolDr AL/FL
 
-AZ I-10 139 250
+# =============================================
+# AZ - United States Interstate Highways (usai)
+# =============================================
+
+AZ I-10 139 *OldI-10_W
+AZ I-10 *OldI-10_E 250
 AZ I-17 194 341
 AZ I-40 48 195
-AZ US60 I-17(201) 212
+
+# ============================================
+# AZ - United States Numbered Highways (usaus)
+# ============================================
+
+AZ US60 201(17) 212
 AZ US93 I-40(71) AZ/NV
+
+# =====================================================
+# AZ - United States Future Interstate Highways (usaif)
+# =====================================================
+
 AZ I-11FutHoo 2 AZ/NV
-AZ I-11FutKin 71(I-40) 48(I-40)
+AZ I-11FutKin 71(40) 48(40)
+
+# ================================================
+# AZ - United States Select Named Freeways (usasf)
+# ================================================
+
 AZ SkyHarBlvd BucRd AZ143
+
+# ===================================
+# AZ - Arizona State Highways (usaaz)
+# ===================================
+
 AZ AZ77 InaRd AZ79
 AZ AZ79 AZ77 US60
 AZ AZ89ASed I-17(337) I-17(341)
 AZ AZ143 1 3
+
+# =============================================
+# AZ - United States Historic Highways (usaush)
+# =============================================
+
+AZ US80HisFlo US60 AZ79/287
+AZ US80HisFlo AZ79/79Bus InaRd
+
+# =============================================
+# CO - United States Interstate Highways (usai)
+# =============================================
 
 CO I-25 200 207A
 CO I-25 213 216
 CO I-25 217 257
 CO I-70 205 289
 CO I-76 1A 16
-CO I-225 1 12
+CO I-225 I-25 12
 CO I-270 0 I-70
+
+# =======================================================
+# CO - United States Business Interstate Highways (usaib)
+# =======================================================
+
 CO I-70BLDen I-70_W I-70_E
+
+# ============================================
+# CO - United States Numbered Highways (usaus)
+# ============================================
+
 CO US6 I-70(216) I-70(244)
 CO US6 CO58/93 CO470
 CO US6 I-25(213) I-70(276A)
@@ -55,107 +154,213 @@ CO US6 I-76(9) I-76(16)
 CO US36 I-270(0) I-70(289)
 CO US40 I-70(232) I-70(244)
 CO US40 I-70(252) I-70(254)
-CO US40 I-70(259) I-70(289)
+CO US40 I-70BLDen_W I-70(289)
 CO US85 I-25(213) I-70(276A)
 CO US85 I-76(9) I-76(12)
 CO US87 I-25(200) I-25(207A)
 CO US87 I-25(213) I-25(216)
 CO US87 I-25(217) I-25(257)
 CO US287 I-70(289) US40_W
+
+# ================================================
+# CO - United States Select Named Freeways (usasf)
+# ================================================
+
 CO E470 1A 47
-CO PenaBlvd I-70 GunClubRd
-CO PenaBlvd JackGapRd Ter
-CO CO35 I-70 53rdPla
-CO CO58 US6 I-70
-CO CO470 US6 I-25
+CO PenaBlvd I-70 Ter
+
+# ====================================
+# CO - Colorado State Highways (usaco)
+# ====================================
+
+CO CO35 I-70 53rdPl
+CO CO58 US6 5
+CO CO470 US6 26
+
+# =============================================
+# CT - United States Interstate Highways (usai)
+# =============================================
 
 CT I-84 NY/CT CT/MA
+
+# ============================================
+# CT - United States Numbered Highways (usaus)
+# ============================================
+
 CT US6 I-84(4) I-84(8)
 CT US6 I-84(10) I-84(15)
 CT US6 I-84(38) I-84(60)
 CT US7 I-84(3) I-84(7)
 CT US44 I-84(50) I-84(53)
 CT US202 I-84(4) I-84(7)
-CT CT72 I-84(33) I-84(35)
+
+# =======================================
+# CT - Connecticut State Highways (usact)
+# =======================================
+
+CT CT72 3 4A
+
+# =============================================
+# DE - United States Interstate Highways (usai)
+# =============================================
 
 DE I-95 MD/DE 4A
 DE I-95 5C 8
 DE I-295 I-95 DE/NJ
-DE US9 DE404_W DE1_S
+
+# ============================================
+# DE - United States Numbered Highways (usaus)
+# ============================================
+
+DE US9 DE18/404 DE1_S
 DE US13 DE20_E ScaRd
 DE US13 DE1(114) DE1(119)
 DE US13 DE1(152) DE1(156)
-DE US40 I-295(2) DE/NJ
+DE US40 I-295_S DE/NJ
 DE US113 MD/DE DE1
 DE US202 I-95(5C) DE/PA
+
+# ================================================
+# DE - United States Select Named Freeways (usasf)
+# ================================================
+
+DE PunRunCon US13 DE1
+
+# =======================================================
+# DE - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
 DE US9TrkGeo US9_W US113_S
 DE US13BusBri US13_S DE404Bus_W
-DE PunRunCon US13 DE1
-DE DE1 MD/DE 166
+
+# ====================================
+# DE - Delaware State Highways (usade)
+# ====================================
+
+DE DE1 MD/DE DE4
+DE DE1BusMil US113_S DE1_N
 DE DE1A DE1_S DE1_N
-DE DE1D US9/404 DE1_N
-DE DE2 DE41/62 DE41/141
+DE DE2 DE41/62 DE141
 DE DE4 DE7_S DE141
 DE DE5 US9/404 DE5Alt_S
 DE DE6 US13_N US13_S
 DE DE7 DE1(164B) DE/PA
+DE DE14TrkHar US13_S DE14_E
 DE DE15 US13_S US13_N
 DE DE16 US13 US113
 DE DE17 DE54 DE26
 DE DE18 DE404_W US9
 DE DE20 US13_N DE54
-DE DE23 US9/404 DE1
 DE DE26 MD/DE DE1
-DE DE30 DE26/54 DE26_E
 DE DE36 US13 DE16_E
-DE DE41 DE2/141 DE/PA
+DE DE41 DE2/62 DE/PA
 DE DE54 MD/DE DE1
 DE DE54Del MD/DE DE/MD
 DE DE54Whi US13 DE/MD
-DE DE141 DE4 DE2/41
+DE DE141 4A 6
 DE DE404 MD/DE DE1
-DE DE1BusMil US113_S DE1_N
-DE DE14TrkHar US13_S DE14_E
 DE DE404BusBri DE404_W DE404_E
 DE DE404TrkGeo DE404_W US113_S
 
-DC I-66 VA/DC US50
+# =============================================
+# DC - United States Interstate Highways (usai)
+# =============================================
+
+DC I-66 VA/DC US50_E
+
+# ============================================
+# DC - United States Numbered Highways (usaus)
+# ============================================
+
 DC US1 US50_W US50_E
-DC US29 VA/DC MStNW
+DC US29 VA/DC MSt
 DC US50 VA/DC DC/MD
+
+# =======================================================
+# DC - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
+DC US1AltWas US1_S US50_E
+
+# ========================================================
+# DC - United States Select National Park Highways (usanp)
+# ========================================================
+
 DC GWMemPkwy VA/DC DC/VA
-DC US1AltWas I-395 US50_E
+
+# =============================================
+# FL - United States Interstate Highways (usai)
+# =============================================
 
 FL I-4 I-275 2
-FL I-75 23 136
+FL I-4 65 75A
+FL I-75 23 131
 FL I-75 228 256
 FL I-95 24 38
 FL I-275 I-75_S 2
 FL I-275 5 39A
 FL I-275 39B 45B
 FL I-595 10 12
+
+# ============================================
+# FL - United States Numbered Highways (usaus)
+# ============================================
+
 FL US19 US41 I-275(17)
 FL US27 FLTpk(35) I-75(23)
 FL US41 FL789 I-275
 FL US301 US41_S US41_N
-FL US41BusBra US41_S US41_N
+
+# ================================================
+# FL - United States Select Named Freeways (usasf)
+# ================================================
+
 FL FLTpk 26A 69
+
+# =======================================================
+# FL - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
+FL US41BusBra US41_S US41_N
+
+# ===================================
+# FL - Florida State Highways (usafl)
+# ===================================
+
 FL FL64 GulfDr US41/301
 FL FL72 FL758 US41
-FL FL82 MicAveLink OrtAve
 FL FL292 GonDr FL173
+FL FL528 I-4 11
 FL FL618 10 15
 FL FL684 FL789 US41/41Bus
 FL FL789 US41 FL64
 FL FL836 FLTpk(26A) 17thAve
 FL FL884 FowSt FL739
 
+# =============================================
+# GA - United States Interstate Highways (usai)
+# =============================================
+
 GA I-20 67 GA/SC
 GA I-75 242 251
 GA I-85 70 GA/SC
 GA I-285 46 61
+
+# ============================================
+# GA - United States Numbered Highways (usaus)
+# ============================================
+
 GA US278 I-20(75) I-20(90)
+
+# ===================================
+# GA - Georgia State Highways (usaga)
+# ===================================
+
 GA GA12 I-20(75) I-20(90)
+
+# =============================================
+# IL - United States Interstate Highways (usai)
+# =============================================
 
 IL I-39 I-55 IL/WI
 IL I-41 WI/IL 1B
@@ -169,19 +374,24 @@ IL I-74 2 IL/IN
 IL I-80 IA/IL IL/IN
 IL I-88 1 I-290
 IL I-90 WI/IL 77
-IL I-90 85 IL/IN
+IL I-90 43B(94) IL/IN
 IL I-94 WI/IL IL/IN
-IL I-180 IL26_S I-80
+IL I-180 I-80 14
 IL I-190 1C ChiOHAir
-IL I-255 MO/IL 31
+IL I-255 MO/IL 30
 IL I-270 MO/IL 15
 IL I-280 IA/IL I-80
-IL I-290 I-90 30
-IL I-294 I-94_W I-94_E
+IL I-290 I-90 I-90/94
+IL I-294 0 52
 IL I-355 0 I-290
-IL I-474 I-74(87) 15
+IL I-474 0 15
+
+# ============================================
+# IL - United States Numbered Highways (usaus)
+# ============================================
+
 IL US6 I-74(2) I-74(5)
-IL US6 US150 I-80(9)
+IL US6 QuadCityAir I-80(9)
 IL US6 I-80(161) IL/IN
 IL US12 IL53_N IL53/68
 IL US12 US45_N I-190
@@ -192,6 +402,7 @@ IL US20 IL2 I-39(122)
 IL US20 I-290(12) I-290(13)
 IL US20 IL43 IL50
 IL US20 US41_N IL/IN
+IL US24 I-474(6) I-474(9)
 IL US30 IL394 IL/IN
 IL US40 MO/IL I-55(17)
 IL US40 I-70(30) I-70(36)
@@ -204,11 +415,13 @@ IL US45 IL132 OldMCRd_S
 IL US45 *OldMCRd_N IL/WI
 IL US50 MO/IL I-64(19)
 IL US51 I-74(135) I-90(1)
-IL US66HisChi MO/IL I-270(3)
-IL US66HisChi I-270(4A) I-270(4B)
-IL US66HisChi I-55(268) I-55(276C)
+
+# ====================================
+# IL - Illinois State Highways (usail)
+# ====================================
+
 IL IL3 I-255(6) I-255(10)
-IL IL3 I-55(1A) I-55(2C)
+IL IL3 I-55(1A) StCAve_S
 IL IL21 US45_S IL176
 IL IL21 IL137 US41
 IL IL26 I-180/71 I-180_W
@@ -219,16 +432,18 @@ IL IL43 US12/20 ArcAve
 IL IL47 I-90 IL/WI
 IL IL50 US12/20 I-55
 IL IL53 I-290(4) IL83
-IL IL56 I-88_W I-88_E
+IL IL56 I-88(113) I-88(117)
 IL IL59 I-90 IL72
 IL IL60 IL83_N IL83_S
+IL IL64TrkElm I-290(12) IL64_E
 IL IL68 US12/53 IL53_S
 IL IL72 ArlHeiRd US12/45
 IL IL83 IL171_S IL171_N
 IL IL83 IL72_W IL72_E
 IL IL83 IL53 IL/WI
 IL IL92 I-88(1) I-88(6)
-IL IL110 I-74(46) I-290(30)
+IL IL110 I-74(46) I-90/94
+IL IL127 I-70 US40
 IL IL131 IL176 IL/WI
 IL IL132 US45 IL21
 IL IL171 I-355 I-290
@@ -238,11 +453,24 @@ IL IL176 I-94 IL131
 IL IL251 I-88 US20
 IL IL255 I-270 US67
 IL IL394 US30 I-80/94
-IL IL64TrkElm I-290(12) IL64_E
+
+# =============================================
+# IL - United States Historic Highways (usaush)
+# =============================================
+
+IL US66HisChi MO/IL I-270(3)
+IL US66HisChi I-270(4A) I-270(4B)
+IL US66HisChi I-55(268) I-55(276C)
+
+# =============================================
+# IN - United States Interstate Highways (usai)
+# =============================================
 
 IN I-64 IL/IN IN/KY
 IN I-65 110B 112
 IN I-65 129 262
+IN I-69 163 49(465)
+IN I-69 44(465) 200
 IN I-69 245 259
 IN I-69 296 315
 IN I-70 IL/IN IN/OH
@@ -256,15 +484,17 @@ IN I-465 25 44
 IN I-465 49 53
 IN I-469 0 31
 IN I-865 I-65 I-465
-IN I-69FutInd 4(465) 49(465)
-IN I-69FutInd 44(465) 37(465)
+
+# ============================================
+# IN - United States Numbered Highways (usaus)
+# ============================================
+
 IN US6 IL/IN IN/OH
 IN US12 IL/IN US41_S
 IN US12 IN912(7A) IN912(8)
 IN US12 IN249 IN212
 IN US20 IL/IN US41_S
-IN US20 IN212 US35
-IN US20 79 96
+IN US20 I-94(22) IN/OH
 IN US24 US421_N US224/5
 IN US24 I-69(302) IN/OH
 IN US27 US224_E US224_W
@@ -272,9 +502,11 @@ IN US30 IL/IN IN/OH
 IN US31 2(465) 49(465)
 IN US31 44(465) 123
 IN US31 162 166
+IN US31 246 US20_W
 IN US31 US31BusSou_N IN/MI
 IN US33 US224_E US224_W
-IN US33 I-469(11) US20
+IN US33 I-469(11) MadSt
+IN US33 IN15 US20
 IN US35 OH/IN US20
 IN US36 I-465(13) I-465(49)
 IN US36 I-465(44) I-465(42)
@@ -284,14 +516,25 @@ IN US41 US231 IN/IL
 IN US52 I-65(141) I-465(44)
 IN US52 I-74(169) IN/OH
 IN US150 I-64(119) IN/KY
-IN US224 US24/9 IN/OH
+IN US224 US24 IN/OH
 IN US231 IN53 US41
 IN US421 I-74(132) I-465(49)
 IN US421 I-465(44) I-465(27)
 IN US421 US24/39 US30
 IN US421 US6_E I-80/90
+
+# =======================================================
+# IN - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
 IN US31BusSou US31_S IN23/933
 IN US31BusSou MarSt US31_N
+
+# ===================================
+# IN - Indiana State Highways (usain)
+# ===================================
+
+IN IN1 I-469(6) I-69/I-469
 IN IN2 US30_W IN49_N
 IN IN2 US421_S US421_N
 IN IN3 US35_S US35_N
@@ -299,6 +542,7 @@ IN IN3Ken US6_W US6_E
 IN IN5 US224_E US24
 IN IN5 US33_E US6/33
 IN IN8 US35_N US35_S
+IN IN9 I-74(116) I-74(113)
 IN IN9 US24_W US224/5
 IN IN9 US6_W US6_E
 IN IN9 I-80/90 IN/MI
@@ -307,18 +551,19 @@ IN IN10 US35_N US35_S
 IN IN13 US6_W US33_N
 IN IN14 US421_S US421_N
 IN IN14 US35_S US35_N
-IN IN15 US33_S US33_N
 IN IN19 US35_N US35_S
 IN IN22 US31/35 I-69
 IN IN23 US6_E US6_W
 IN IN25 US24/35_W US24/35_E
 IN IN28 I-69 US35/3
-IN IN37 I-465(4) I-465(49)
+IN IN37 I-69(163) I-465(49)
 IN IN37 I-465(44) I-69/465
 IN IN39 US24/421 US24_E
 IN IN39 US35_S US35_N
 IN IN49 US30 I-80/90
+IN IN51 US6_E I-80/94
 IN IN53 US231 I-90
+IN IN55 US231_S US231_N
 IN IN62 I-64(118) I-64/265
 IN IN67 I-465(8) I-465(49)
 IN IN67 I-465(44) I-465(42)
@@ -331,7 +576,10 @@ IN IN327 US6_E US6_W
 IN IN331 US20_W US20_E
 IN IN912 7A US6Bus
 IN IN933 MarSt US31Bus_N
-IN IN9TrkShe I-74_E IN9_N
+
+# =============================================
+# IA - United States Interstate Highways (usai)
+# =============================================
 
 IA I-29 MO/IA 51
 IA I-74 I-80 *OldI-74
@@ -339,26 +587,44 @@ IA I-80 NE/IA 4
 IA I-80 239 IA/IL
 IA I-280 I-80 IA/IL
 IA I-380 0 MitAve
-IA US6 I-80(1A) I-80(4)
+
+# ============================================
+# IA - United States Numbered Highways (usaus)
+# ============================================
+
+IA US6 I-29(51) I-80(4)
 IA US6 IA965 1stAve_Cor
 IA US6 I-80(271) I-280(1)
 IA US6 I-74(2) *OldI-74
-IA US20 I-380(71) IA946
+IA US20 71(380) IA946
 IA US30 311 312
-IA US52 CRD22 US20_E
+IA US52 CRD22 314(20)
 IA US52 US61/151_S US61/151_N
-IA US61 6(280) IA946_S
-IA US151 US61_S IA946_S
-IA US218 I-80 I-380(16)
-IA US218 I-380(71) I-380_End
+IA US61 6(280) 188
+IA US151 US61_S 188(61)
+IA US218 96 16(380)
+IA US218 71(380) MitAve
 IA US275 I-29(47) I-29(35)
-IA IA27 I-80 I-380(71)
+
+# ================================
+# IA - Iowa State Highways (usaia)
+# ================================
+
+IA IA27 0(380) 71(380)
 IA IA38 I-80(271) I-80(267)
-IA IA136 US20 CRD22
+
+# =============================================
+# KS - United States Interstate Highways (usai)
+# =============================================
 
 KS I-70 224(KT) KS/MO
 KS I-635 4 KS/MO
 KS I-670 I-70 KS/MO
+
+# ============================================
+# KS - United States Numbered Highways (usaus)
+# ============================================
+
 KS US24 US73_N KS/MO
 KS US40 US73_N KS/MO
 KS US59 US73_N US73_S
@@ -367,11 +633,20 @@ KS US73 I-70 KS92_E
 KS US73 CR14 KS/NE
 KS US159 US73_S KS/NE
 KS US169 I-70(422A) KS/MO
+
+# ==================================
+# KS - Kansas State Highways (usaks)
+# ==================================
+
 KS KS5 I-635(7) I-635(8)
 KS KS7 I-70 KS92_E
 KS KS7 CR14 US73_N
 KS KS20 US73_N US73_S
 KS KS92 US73_S US73_N
+
+# =============================================
+# KY - United States Interstate Highways (usai)
+# =============================================
 
 KY I-64 IN/KY 12
 KY I-64 75 KY/WV
@@ -381,15 +656,51 @@ KY I-75 111 KY/OH
 KY I-264 12 20
 KY I-275 OH/KY KY/IN
 KY I-471 1 KY/OH
+
+# ============================================
+# KY - United States Numbered Highways (usaus)
+# ============================================
+
 KY US60 I-264(20) KY1747
 KY US150 IN/KY I-64(3)
-KY KY8 I-71/75 US27/8Bus
-KY KY61 I-65(134) I-65(134A)
-KY KY8BusBel US27/8 I-471
 
-LA I-10 223 234A
+# =======================================================
+# KY - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
+KY US62TrkEli I-65(91) US62_N
+
+# ====================================
+# KY - Kentucky State Highways (usaky)
+# ====================================
+
+KY KY8 I-71/75 US27/8Bus
+KY KY8BusBel US27/8 I-471
+KY KY61 I-65(134) I-65(134A)
+KY KY627TrkWin I-64(94) KY627_N
+
+# =============================================
+# LA - United States Interstate Highways (usai)
+# =============================================
+
+LA I-10 223B 234A
+LA I-910 13 I-10
+
+# ============================================
+# LA - United States Numbered Highways (usaus)
+# ============================================
+
 LA US61 AirAccRd NewOrlApt
+
+# =======================================================
+# LA - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
 LA US90BusNew 13 I-10
+
+# =============================================
+# MD - United States Interstate Highways (usai)
+# =============================================
 
 MD I-68 WV/MD 82
 MD I-70 PA/MD 94
@@ -403,15 +714,20 @@ MD I-270 I-495 32
 MD I-270SprAsh I-495 2
 MD I-370 1 3
 MD I-395 I-95 ConSt
-MD I-495 19 34  # Assume 33 to 34 was clinched during a YMCA Nationals trip
+MD I-495 19 33
 MD I-495 38 MD/VA
 MD I-595 7 24
 MD I-695 4 33
 MD I-795 1 9
+
+# ============================================
+# MD - United States Numbered Highways (usaus)
+# ============================================
+
+MD US11 WV/MD MD/PA
 MD US13 VA/MD US113
 MD US13 US50_E US50_W
-MD US15 US340_W I-70  # Assume clinched during whitewater rafting trip
-MD US15 US40/340 US40_W
+MD US15 12 13
 MD US29 I-495 MD99
 MD US40 PA/MD I-695(15)
 MD US50 DC/MD MD528
@@ -419,19 +735,28 @@ MD US50Red WV/MD MD/WV
 MD US113 US13 MD/DE
 MD US219 WV/MD MD/PA
 MD US220 WV/MD MD/PA
-MD US301 I-595(13) US50_E
-MD US340 KeeTryRd I-70  # Assume clinched during whitewater rafting trip
+MD US301 US50(13) US50_E
 MD US522 WV/MD MD/PA
+
+# =======================================================
+# MD - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
 MD US40AltCum US40_W US40_E
 MD US40AltHag MD68 MD34
 MD US40ScePin US40_W US40_E
 MD US219BusGra US219_S US219_N
 MD US220TrkWin US220 I-68
-MD MD2 US50/301_W MD10
+
+# ====================================
+# MD - Maryland State Highways (usamd)
+# ====================================
+
+MD MD2 US50(23A) MD10
 MD MD10 MD2 MD100_W
 MD MD16 US50_W US50_E
 MD MD16 MD313/404 MD404_E
-MD MD32 I-97 US29
+MD MD32 I-97 16
 MD MD32 I-70 MD99
 MD MD34 WV/MD US40Alt
 MD MD35 MD36 MD/PA
@@ -440,14 +765,17 @@ MD MD38 WV/MD MD135
 MD MD39 WV/MD US219
 MD MD42 US219 MD/PA
 MD MD47 MD36 MD/PA
-MD MD49 VocRd SunDr
+MD MD49 MD658 SunDr
 MD MD51 WV/MD I-68
 MD MD53 US220 US40Alt
 MD MD54 MD313 MD/DE
 MD MD54Del DE/MD US13
 MD MD54Whi DE/MD MD/DE
 MD MD55 MD36 US40Alt
-MD MD63 MD68_E US11/68
+MD MD56 I-70 MD68
+MD MD57 US40 MD494
+MD MD63 MD65 MD/PA
+MD MD65 MD34 End
 MD MD66 US40 I-70
 MD MD68 US40 US40Alt
 MD MD85 I-270 I-70
@@ -464,11 +792,12 @@ MD MD152 US40 I-95
 MD MD222 MD824_S I-95
 MD MD313 US50 MD54
 MD MD313 MD16/404 MD404/619
-MD MD353 MD346 MD54
+MD MD353 US50 MD54
 MD MD355 DC/MD I-270/495
 MD MD367 End MD/DE
 MD MD368 End MD367
 MD MD404 MD662 MD/DE
+MD MD404BusDen MD404_W MD404_E
 MD MD452 US50 MD575
 MD MD494 PA/MD MD63
 MD MD495 MD135 US40Alt
@@ -479,17 +808,28 @@ MD MD568 MD367 MD/DE
 MD MD575 US113_S MD589
 MD MD589 US50 US113
 MD MD615 I-70(5A) MD/PA
+MD MD632 MD63 DowRd
 MD MD636 MD53 US220
 MD MD638 OldNatPk MD36
 MD MD639 MD51 I-68
+MD MD648 MD2_C MD2_D
 MD MD658 MD53 US40Alt
-MD MD662Wye MD404 US50_N
+MD MD662 US50_B US50_C
+MD MD662 MD404 US50_D
 MD MD669 US40Alt MD/PA
 MD MD936 MD36 US40Alt/36
 MD MD946 US40Alt MD546
 MD MD956 US220 MD/WV
-MD MD404BusDen MD404_W MD404_E
+
+# =========================================
+# MD - West Virginia State Highways (usawv)
+# =========================================
+
 MD WV46Elk WV/MD MD135
+
+# =============================================
+# MA - United States Interstate Highways (usai)
+# =============================================
 
 MA I-84 CT/MA I-90
 MA I-90 NY/MA MA1A
@@ -497,14 +837,28 @@ MA I-93 17A 28
 MA I-95 50A 55
 MA I-290 12 32
 MA I-495 65 89
+
+# ============================================
+# MA - United States Numbered Highways (usaus)
+# ============================================
+
 MA US1 I-93(17A) I-93(19)
 MA US3 51(95) 76
 MA US3 79 81
-MA MA1ASal US1_S MA145_S
+
+# =========================================
+# MA - Massachusetts State Highways (usama)
+# =========================================
+
+MA MA1ASal US1 MA145_S
 MA MA3 17A(93) 18(93)
 MA MA3ALow ChaLn MA129_W
 MA MA128 50A(95) 55(95)
 MA MA129 US3 MA3A_S
+
+# =============================================
+# MI - United States Interstate Highways (usai)
+# =============================================
 
 MI I-69 72 80
 MI I-75 OH/MI 50
@@ -513,17 +867,38 @@ MI I-96 1A I-75
 MI I-196 I-94 44
 MI I-275 I-75 17
 MI I-275 29 165(96)
+
+# =======================================================
+# MI - United States Business Interstate Highways (usaib)
+# =======================================================
+
 MI I-69BLCol US12_W I-69_N
 MI I-196BLHol I-196_S US31_N
-MI US12 I-94(4) US127/223
+
+# ============================================
+# MI - United States Numbered Highways (usaus)
+# ============================================
+
+MI US12 I-94(4) US127
 MI US12 I-94(181) I-94(185)
 MI US23 OH/MI 35
-MI US31 IN/MI 116
-MI US127 US223_S US12
-MI US127 I-94(142) I-94(138)
-MI US223 OH/MI US12
+MI US31 IN/MI 24
+MI US31 27 116
+MI US127 US223 US12
+MI US127 40 43
+MI US223 OH/MI US127
+
+# =======================================================
+# MI - United States Auxiliary Numbered Highways (usausb)
+# =======================================================
+
 MI US31BusMus US31_S US31_N
 MI US223BusAdr US223_S US223_N
+
+# ====================================
+# MI - Michigan State Highways (usami)
+# ====================================
+
 MI MI37 I-96(38) I-96(30)
 MI MI39 I-75 1
 MI MI49 US12_E US12_W
@@ -531,9 +906,17 @@ MI MI52 US223 US223Bus_N
 MI MI66 US12_W US12_E
 MI MI99 US12_W US12_E
 
-MN I-494 2B 1B
+# =============================================
+# MN - United States Interstate Highways (usai)
+# =============================================
+
+MN I-494 1B 2B
+
+# =====================================
+# MN - Minnesota State Highways (usamn)
+# =====================================
+
 MN MN5 I-494(2B) I-494(1B)
-MN MN77 I-494 CR53
 
 MO I-29 2H(35) MO/IA
 MO I-35 2Y 8B
@@ -550,8 +933,8 @@ MO I-435 31 14(29)
 MO I-435 36 63A
 MO I-635 KS/MO 11
 MO I-670 KS/MO 2N
-MO I-29BLStJ CouCluRd I-29_N
-MO US24 KS/MO I-70(2H)
+MO I-29BLStJ US59_S I-29_N
+MO US24 KS/MO I-435(59)
 MO US40 KS/MO I-70(7A)
 MO US40 I-70(24) I-70(101)
 MO US40 I-70(121) MO/IL
@@ -572,8 +955,9 @@ MO US160 I-44 US60_W
 MO US169 KS/MO I-70(2C)
 MO US65BusSpr US65_S US60_W
 MO US66HisFlo I-270(27) I-270(28)
-MO US66HisNsp MOsEE_Spr US160_W
+MO US66HisNsp US66His_W US160_W
 MO US66HisStL I-44(172) I-44(176)
+MO US66HisStL I-44(186) US63_N
 MO US66HisStL I-44(261) I-44(277A)
 MO US66HisStL I-270(34) MO/IL
 MO MO2 I-49(159) I-49(158)
@@ -582,13 +966,13 @@ MO MO9 US69_N I-635
 MO MO13 I-44 MO7/13Bus
 MO MO28 US63_N US63_S
 MO MO52 MO13_S MO13_N
-MO MO94 MO364_W MO364_E
+MO MO94 8A(364) 13B(364)
 MO MO141 StChaRockRd MO370
 MO MO152 I-29 I-35
 MO MO210 I-35 MO291
 MO MO215 MO13/215Spr MO13_S
-MO MO291 MO210 MO152
-MO MO364 I-64 I-270
+MO MO291 MO210 KanSt
+MO MO364 1A 20
 MO MO370 I-70 I-270
 
 NE I-80 401 NE/IA
@@ -600,28 +984,32 @@ NE US77 I-80(401) I-80(405)
 NE US159 KS/NE US73_N
 NE NE2Lin US75_N US75_S
 NE NE67 US75_S US75_N
+NE L55X US6 I-80/77
 
 NV I-11 AZ/NV 2
-NV I-11 15B 61
+NV I-11 15B 23
 NV I-15 27 34
 NV I-215 1 12
 NV US93 AZ/NV I-11(2)
-NV US93 I-11(15B) I-11(61)
-NV US95 15B(11) 61(11)
+NV US93 I-11(15B) I-11(23)
+NV US95 15B(11) 23(11)
 NV US93BusBou US93_S US93_N
 NV NV146 I-15 LasVegBlvd
 
 NJ I-76 PA/NJ 1A
 NJ I-78 PA/NJ NJ/NY
 NJ I-80 PA/NJ 68
-NJ I-95 PA/NJ 15
+NJ I-95 PA/NJ 16E
 NJ I-95 17A NJ/NY
 NJ I-280 12 16
 NJ I-295 DE/NJ 67
 NJ I-676 1 NJ/PA
-NJ US1 I-95/295 MenParkDr
+NJ US1 I-295 MenParkDr
+NJ US1 NewAir NJ139
 NJ US1 I-95(72) NJ/NY
-NJ US9 Gar(82) Gar(83)  # Assume clinched going to Seaside Heights
+NJ US9 Gar(82) Gar(83)
+NJ US9 NJ18 Gar(123)
+NJ US9 NewAir NJ139
 NJ US9 I-95(72) NJ/NY
 NJ US22 I-78(3) I-78(18)
 NJ US30 PA/NJ I-676(5B)
@@ -629,30 +1017,31 @@ NJ US40 DE/NJ I-295(2A)
 NJ US46 NJ159_E NJ3
 NJ US46 I-95(72) NJ/NY
 NJ US130 I-295(13) I-295(23)
-NJ US130 GeoRd CR522_W
 NJ US206 I-80(27) I-80(25)
-NJ GarStaPkwy 82 145  # Assume 82 to 129 was clinched going to Seaside Heights
+NJ GarStaPkwy 82 145
 NJ NJTpk I-295(1) I-295(2A)
-NJ NJTpk 6 15
+NJ NJTpk 6 16E
 NJ NJTpk 17A 72(95)
-NJ NJ3 US46 NJ507
+NJ NJ3 US46 CR507
 NJ NJ7 NJ17 NJ21
 NJ NJ17 NJ7 JauAve
+NJ NJ18 22 30
 NJ NJ18 I-95 US1
 NJ NJ21 CR508_E 6
 NJ NJ23 US46 I-80
 NJ NJ32 CR535 I-95
 NJ NJ33 NJ133 HalMillRd
-NJ NJ37 GarStaPkwy NJ35  # Assume clinched going to Seaside Heights
+NJ NJ37 GarStaPkwy NJ35
 NJ NJ133 NJ33 I-95
-NJ NJ139 I-78 NJ/NY
+NJ NJ139 US1/9 NJ/NY
 NJ NJ173 I-78(13) I-78(15)
-NJ NJ440Jer 63rdSt CulAve  # Assume clinched going to Toys "R" Us
+NJ NJ495 I-95 NJ/NY
 
 NY I-78 NJ/NY HudSt
 NY I-81 PA/NY 5A
 NY I-84 PA/NY NY/CT
 NY I-86 PA/NY NY/PA
+NY I-86Bin 72A 75
 NY I-87 I-278 7(MDE)
 NY I-87 21A(NYST) 24(NYST)
 NY I-88 I-81 I-90
@@ -660,12 +1049,12 @@ NY I-90 PA/NY 30(NYST)
 NY I-90 25A(NYST) 24(NYST)
 NY I-90 B1 NY/MA
 NY I-95 NJ/NY 6A
-NY I-190 I-90 NY/Can
+NY I-190 I-90 USA/CAN
 NY I-278 44 47
 NY I-290 I-190 I-90
-NY I-678 13 I-95
+NY I-678 13 19
 NY I-990 I-290 5
-NY I-86FutBin PA/NY 75
+NY I-86FutBin PA/NY 72A
 NY US1 NJ/NY I-95(2B)
 NY US9 NJ/NY I-95(1)
 NY US20 NY28_N NY28_S
@@ -674,30 +1063,32 @@ NY US219 PA/NY I-90_N
 NY US62BusNia US62 NY104
 NY US219BusSal US219_S US219_N
 NY BerCon I-87 NY/MA
-NY GraCenPkwy 4 9E
+NY GraCenPkwy 45(278) 9E
 NY NiaScePkwyNia I-190 JohnDalyBlvd
 NY NY5 NY75 I-190
 NY NY5S NY28_S NY28_N
 NY NY7 I-88(1) I-88(4)
+NY NY9A CanSt 54thSt
 NY NY16 PA/NY DukeCenRd
 NY NY17 PA/NY NY/PA
 NY NY17Bin PA/NY 75
 NY NY18F NY104 CenSt
 NY NY28 I-88(15) I-90
 NY NY39 US62_S US62_N
-NY NY52 I-84(8) I-84(12)
+NY NY52 I-84(37) I-84(44)
 NY NY60 US62 NY394_E
 NY NY61 NY384 NY104
 NY NY75 US62_S US62_N
 NY NY75 I-90 NY5
 NY NY76 NY430_E NY430_W
-NY NY80 NY28/205 NY28_S
+NY NY80 NY28_N NY28_S
 NY NY104 NY384 NY18F
 NY NY182 NY61_N NY61_S
 NY NY182 I-190 NY265
 NY NY242 US219_S US219_N
 NY NY265 NY182 NY104
 NY NY280 PA/NY I-86
+NY NY305 NY417_E NY417_W
 NY NY305 NY446 I-86
 NY NY324 I-190(21) I-190(20A)
 NY NY324 I-190(18) I-190(15A)
@@ -709,20 +1100,21 @@ NY NY417 I-86(20) PA44
 NY NY426 PA/NY NY/PA
 NY NY430 PA/NY NY60/394
 NY NY474 PA/NY NY394
+NY NY495 NJ/NY DyerAve
 NY PA44Cer PA/NY NY417
+NY FDRooDr 2 9
 
 NC I-40 190 218
 NC I-73 103 107
 NC I-85 32 120
-NC I-840 103(73) 107(73)
+NC I-840 103(73) 3
 NC I-85BLGre 33 35A
 NC US29 I-85(84) I-85(87)
 NC US29 I-85(118) I-85BL(35A)
 NC US52 I-85(87) I-85(76)
 NC US70 I-85(84) I-85(87)
-NC US70 I-85(118) I-85BL(35A)
 NC US158 US421(232C) US421(230)
-NC US220 I-85BL I-40(218)
+NC US220 79 81
 NC US421 I-40(212) 232C
 NC US601 I-85(58) I-85(75)
 NC NC150 US421(232C) US421(221)
@@ -741,11 +1133,11 @@ OH I-275 IN/OH OH/KY
 OH I-277 1 4
 OH I-280 1A I-75
 OH I-470 I-70 OH/WV
-OH I-471 KY/OH 7
+OH I-471 KY/OH I-71
 OH I-475 I-75 20
 OH I-480 I-80_W I-80_E
 OH I-480War I-480 I-271
-OH I-490 1A 55thSt
+OH I-490 1A OH10_E
 OH I-670 I-70 10
 OH I-675 I-75 26
 OH I-680 1 I-76
@@ -754,8 +1146,11 @@ OH I-75BLSid I-75_S I-75_N
 OH US6 IN/OH OH2San
 OH US6 OH4 US250
 OH US6 OH61 OH60
+OH US6 OH301 OH83
 OH US6 US20/237 US322_E
 OH US6 US20Euc_W OH/PA
+OH US20 IN/OH US20Alt_Pio
+OH US20 I-80/90 US20Alt_Mau
 OH US20 I-75 OH/PA
 OH US22 US27/42 OH/WV
 OH US23 OH348/728 OH32/OH124
@@ -765,8 +1160,7 @@ OH US23 US30_E US30_W
 OH US23 US20_E OH/MI
 OH US24 IN/OH 68
 OH US27 US22_S US22/42
-OH US27 I-75(3) I-75(4)
-OH US27 I-74(20) I-74(18)
+OH US27 I-75(3) I-74(18)
 OH US30 IN/OH OH/WV
 OH US33 WV/OH 128
 OH US33 I-270(17) US42
@@ -779,12 +1173,13 @@ OH US42 US33 OH257/745
 OH US42 US36/23 US36
 OH US42 US250_E US250_W
 OH US42 US224_W US224_E
+OH US42 OH162_E OH162_W
 OH US42 US6/20 PubSqu
-OH US50 I-75(1B) I-71(1D)
+OH US50 I-75(1C) I-71(1D)
 OH US50 OH133 OH/WV
-OH US52 US22_S US22/42
-OH US52 I-75(4) I-75(3)
-OH US52 IN/OH I-74(20)
+OH US52 IN/OH I-75(3)
+OH US52 US22/42 US22_S
+OH US52 I-275(72) I-275(71)
 OH US52 OH7 OH/WV
 OH US62 US22_W US22_E
 OH US62 US23/33 US40_E
@@ -796,6 +1191,7 @@ OH US127 US22_S US22/42
 OH US127 US35 I-70
 OH US127 US36_E OH119
 OH US127 US30/224 US224
+OH US127 US20Alt_W US20Alt_E
 OH US223 OH51 OH/MI
 OH US224 IN/OH OH/PA
 OH US250 US6 OH/WV
@@ -805,29 +1201,35 @@ OH US322 OH44 OH/PA
 OH US422 PubSqu OH/PA
 OH US6AltRoc US20_W US20_E
 OH US6HisCha KirChaRd GraSt
+OH US20AltMau US20_W US20_E
+OH US20HisNor US20_W US20_E
+OH US20HisNor OH61_S US250
 OH US20HisPai OH91 OH528
 OH US20TrkPer I-475 US20_E
 OH US23BusChi US50_E US50_W
 OH US30AltDal US30_W US30_E
 OH US33BusNel US33_S US33_N
-OH US36ConMil US36 US62
 OH US42TrkMan OH39_N US42_E
 OH US50TrkCin US22/27 US22_S
 OH US250BusNew US250_W US250_E
 OH AtlBlvd US62/173 OH225
 OH DayAirRd I-70 BoeDr
 OH OH2 US6_W US6/127
+OH OH2 US20Alt_W US20Alt_E
 OH OH2 US6_A US250
 OH OH2 144(90) 161(90)
 OH OH2 US20/237 193B
 OH OH2 196B 227
 OH OH3 US27/42 US22_E
 OH OH3 US36_W I-76
+OH OH3 OH162_W OH162_E
+OH OH3 US42_A OH57_S
 OH OH3 US6/20 PubSqu
 OH OH4 US35_W I-75(54C)
 OH OH4 I-70(41) US6
 OH OH5 I-76(38) OH/PA
 OH OH7 US52 OH531
+OH OH8 I-76/77 17
 OH OH8 US422_E PubSqu
 OH OH9 OH148 US62
 OH OH10 US20_W 2(480)
@@ -839,17 +1241,16 @@ OH OH13 OH37/93 OH93_W
 OH OH13 OH256 I-70
 OH OH13 OH586 US36_W
 OH OH13 US250_E US250_W
-OH OH14 PubSqu US422_E
-OH OH14 I-271(23) OH/PA
+OH OH14 PubSqu OH/PA
 OH OH15 I-75BL US224_W
+OH OH15 US20Alt_E US20Alt_W
 OH OH16 US40_W US36
-OH OH18 US20_W US20_E
-OH OH18 OH60_N OH60_S
+OH OH18 OH67/162 US20_E
+OH OH18 OH601 OH60_S
+OH OH18 US42 OH91
 OH OH19 OH4_S OH4_N
 OH OH19 US20_E 100(20)
-OH OH21 US62_W US30_W
-OH OH21 I-77(136) I-77(145)
-OH OH21 I-80 OH82
+OH OH21 US250 I-77(157)
 OH OH26 OH7 OH148
 OH OH29 OH119 I-75
 OH OH29 I-75BL_N I-75BL_S
@@ -866,9 +1267,9 @@ OH OH39 OH103 OH/PA
 OH OH41 US50_W US50_E
 OH OH41 US22/62_W US22/62_E
 OH OH41 US40_E US40_W
-OH OH41 I-75BL_S I-75
+OH OH41 OH55 I-75
 OH OH43 OH7 OH306
-OH OH43 US422_E PubSqu
+OH OH43 OH14_N PubSqu
 OH OH44 OH43 HeaBeaStaPk
 OH OH45 OH7 OH531
 OH OH46 OH170 OH11_N
@@ -881,39 +1282,41 @@ OH OH49 I-70(26) I-70(24)
 OH OH49 US224_W US224_E
 OH OH49 US30_E US30_W
 OH OH49 US6_W US6_E
-OH OH53 US6_W US6_E
-OH OH54 US36_E US68
+OH OH49 US20_W US20_E
+OH OH53 US6_W 101(20)
 OH OH55 MarSt_S OH41
 OH OH56 US22_W US22_E
 OH OH56 OH278_W OH278_E
 OH OH56 OH356 OH691
-OH OH57 OH82 US20_E
-OH OH59 OH43_N OH43_S
-OH OH59 OH88 OH5
+OH OH57 US30 US42
+OH OH57 OH303_E OH83_N
+OH OH57 OH82 OH301_N
+OH OH59 I-76 OH5
 OH OH60 WV/OH US6
 OH OH61 OH103 US6
+OH OH64 US20Alt_E US20Alt_W
 OH OH66 OH119_E OH119_W
 OH OH66 US224_E US224_W
 OH OH66 US6_W US6_E
+OH OH66 US20Alt_E US20Alt_W
 OH OH67 US68_W OH309
+OH OH67 OH18/162 OH19
 OH OH73 US50/124 US50/62
 OH OH78 US33/691 OH7
 OH OH79 OH16_W OH16_E
 OH OH82 OH57 US62
-OH OH83 OH60 OH643
-OH OH83 US62_W US62_E
-OH OH83 US250_E OH3_N
+OH OH83 OH60 US6
 OH OH84 US6 OH/PA
 OH OH85 US6 OH/PA
 OH OH86 US20 OH534
 OH OH87 PubSqu US422_W
 OH OH87 US422_E OH5/7
 OH OH88 OH59 OH/PA
-OH OH93 US33 OH643
-OH OH93 OH516 US250_W
-OH OH93 US62_W US62_E
-OH OH94 US250 US30
-OH OH94 US30Alt_E US30Alt_W
+OH OH91 US224 OH283
+OH OH93 US33 US250_W
+OH OH93 US62_W OH261
+OH OH94 US250 OH261
+OH OH94 OH3/303 OH303_E
 OH OH96 OH39_W OH39_E
 OH OH96 OH60_W OH60_E
 OH OH98 OH4_S OH4_N
@@ -922,12 +1325,14 @@ OH OH103 OH4_S OH4_N
 OH OH103 OH39 OH61
 OH OH104 OH348/728 OH32
 OH OH104 US50_E US50_W
-OH OH104 OH316 95
+OH OH104 OH316 *OldOH104
+OH OH104 FraRd_W 95
 OH OH105 US20_W US20_E
-OH OH113 NWSt US20/18
-OH OH113 US250_W US250_E
+OH OH108 US20Alt_E US20Alt_W
+OH OH109 US20Alt_E US20Alt_W
+OH OH113 NWSt OH601
 OH OH113 OH61_S OH61_N
-OH OH113 US20/57 OH254
+OH OH113 OH301 OH254
 OH OH114 US224_W OH115
 OH OH115 US224_E US224_W
 OH OH119 US127 OH29
@@ -938,6 +1343,8 @@ OH OH124 OH32_W OH32/327
 OH OH124 OH7_S US33_N
 OH OH126 US22_W US22_E
 OH OH133 OH32 US50
+OH OH134 US50_W US50_E
+OH OH142 US40_W US40_E
 OH OH145 OH821 OH148
 OH OH146 OH16 OH313
 OH OH146 OH821_N OH821_S
@@ -951,11 +1358,10 @@ OH OH152 US22 OH7
 OH OH152Smi OH150 OH151
 OH OH153 OH43 OH183
 OH OH154 OH164 OH/PA
-OH OH158 OH37 US22_W
 OH OH161 OH4_W OH4_E
 OH OH161 US33_N I-270(17)
-OH OH161 US62 OH37
-OH OH162 US250_W US250_E
+OH OH161 46 OH37
+OH OH162 OH18/67 OH18_E
 OH OH164 OH212 I-680(14)
 OH OH165 US62_W OH/PA
 OH OH166 US6 OH534
@@ -986,9 +1392,9 @@ OH OH213 OH7_S OH7_N
 OH OH215 OH821 OH285
 OH OH225 OH183 OH5
 OH OH229 US36_W OH13_S
+OH OH236 OH21 OH93
 OH OH237 US20_W US6
-OH OH241 US62 US250_E
-OH OH241 OH172_S OH172_N
+OH OH241 US62 OH18
 OH OH255 OH800 OH7
 OH OH256 OH664 OH13
 OH OH257 US42_W OH47
@@ -997,6 +1403,7 @@ OH OH259 OH416 OH39
 OH OH260 OH26_W OH26_E
 OH OH260 OH145_S OH145_N
 OH OH260 OH724 OH78
+OH OH261 OH94 OH59_N
 OH OH265 US40 OH147
 OH OH267 US30_E US30_W
 OH OH269 US6_W US6_E
@@ -1005,9 +1412,11 @@ OH OH282 OH305 US422
 OH OH283 I-90(176) US20
 OH OH285 OH821 US22
 OH OH289 US422 OH/PA
-OH OH297 US30 OH172_W
-OH OH301 US20_W US20_E
-OH OH303 OH14_N OH82
+OH OH295 US20Alt_E US20Alt_W
+OH OH297 US30 OH172
+OH OH301 OH302 US6
+OH OH302 OH301 OH83
+OH OH303 US20 OH82
 OH OH304 US422 OH/PA
 OH OH305 OH82/700 OH/PA
 OH OH306 OH43 OH283
@@ -1015,6 +1424,7 @@ OH OH307 OH528 OH193
 OH OH309 US68 OH203
 OH OH310 OH16_W OH16_E
 OH OH313 OH146 OH147
+OH OH315 1A 1D
 OH OH316 OH104 US23_S
 OH OH317 I-70 OH16
 OH OH320 US35 OH121
@@ -1036,15 +1446,18 @@ OH OH430 OH39_N OH39_S
 OH OH446 US224 OH46
 OH OH511 OH60_S OH60_N
 OH OH513 OH146 US22
+OH OH515 OH39 US62
 OH OH516 OH93 OH39
 OH OH517 US30 OH7
 OH OH518 OH644 US30
 OH OH519 US22 US250
+OH OH521 US36_W US36/37
 OH OH524 OH164 OH39
 OH OH527 OH7_S OH7_N
 OH OH528 US422 US20
 OH OH530 OH60 OH821
 OH OH531 OH534 OH7
+OH OH532 US224 I-76(29)
 OH OH534 US62 OH531
 OH OH535 OH283 US20
 OH OH536 WV/OH OH78
@@ -1056,15 +1469,22 @@ OH OH557 OH643 US62
 OH OH558 OH45 OH170
 OH OH561 US22_W US22_E
 OH OH566 OH147 OH285
+OH OH568 OH12 OH37_S
+OH OH571 US36/127 US36_E
 OH OH574 OH566 OH313
+OH OH576 US20_E US20_W
+OH OH585 OH3/83 OH21
 OH OH586 OH146 OH13
+OH OH589 US36_W US36_E
 OH OH595 US33 OH216
+OH OH601 OH18 OH113
+OH OH604 OH301_S OH301_N
 OH OH608 OH528 PaiRavRd
 OH OH609 OH7 OH/PA
 OH OH615 OH306 OH283
 OH OH616 OH170 US62
 OH OH617 OH165 OH/PA
-OH OH619 OH43_N OH43_S
+OH OH619 I-76 OH183
 OH OH621 US36 C-190
 OH OH625 US224 US62
 OH OH626 OH165 OH7
@@ -1085,15 +1505,18 @@ OH OH668 OH93 US40
 OH OH669 OH93_N OH93_S
 OH OH676 OH339_S OH339_N
 OH OH677 US50 OH278
+OH OH687 OH241 I-77(107A)
 OH OH691 OH56 US33/78
 OH OH700 OH88 OH87
 OH OH711 I-680 I-80
 OH OH715 US36_W US36_E
 OH OH723 I-70(176) US22/40
 OH OH724 OH260 OH145
+OH OH739 OH4/423 OH95/309
 OH OH751 OH93 I-77(73)
 OH OH753 US50_W US50_E
 OH OH761 OH313 OH265
+OH OH764 OH93 OH241
 OH OH772 OH32_W OH32/124
 OH OH775 OH7_S OH7_N
 OH OH799 OH800 RedRd
@@ -1101,12 +1524,20 @@ OH OH800 OH7 I-77
 OH OH821 OH145 OH530
 OH OH821 OH339 I-77(41)
 OH OH872 OH7 OH/WV
+OH OH9TrkSal OH9_S OH9_N
+OH OH12TrkFin OH12_W I-75(161)
 OH OH13TrkMan OH39_S OH13_N
+OH OH14TrkSal OH14_W OH14_E
 OH OH15TrkDef OH15_W US24_E
+OH OH17TrkGar OH14_E OH14_W
 OH OH18TrkDef OH18_W US24_E
+OH OH29AltSid I-75BL_S OH29_E
+OH OH31TrkKen US68_S OH309
 OH OH37TrkDel US36_W OH37_E
 OH OH66TrkEDe OH66_N US24_E
+OH OH100TrkSti OH100_S OH53_S
 OH OH172TrkECa OH172_W OH172_E
+OH OH231TrkTif OH231_S OH53_S
 OH OH430TrkMan OH39_N OH430_E
 OH OH547TrkMon US20/99 OH547_E
 
@@ -1114,13 +1545,14 @@ OR I-5 288 292
 OR I-5 299B 302B
 OR I-84 I-5 8
 OR I-205 I-5 OR/WA
-OR I-405 I-5(299B) I-5(302B)
+OR I-405 1 I-5(302B)
 OR US26 OR53 I-405(1C)
 OR US30 I-405(3) I-84(8)
 OR US101 SanRd LanAve
 OR OR6 US101/131 US26
 OR OR47 US26_E US26_W
 OR OR53 US101 US26
+OR OR99E MarDr I-5(307)
 OR OR120 MarDr I-5(307)
 OR OR213 I-205(10) I-205(13)
 OR OR217 US26 8
@@ -1140,30 +1572,30 @@ PA I-95 7 22
 PA I-95 40 PA/NJ
 PA I-99 1 MusLn
 PA I-176 I-76 11
-PA I-180 I-80 29
+PA I-180 I-80/147 29
 PA I-276 326 I-95
 PA I-279 I-376 I-79
 PA I-283 I-76 3
-PA I-376 1A I-76
-PA I-380 1 I-81
-PA I-476 I-95 131
+PA I-376 1A 85
+PA I-380 1 I-81/6
+PA I-476 I-95 131B
 PA I-579 I-279 PA885
 PA I-676 I-76 8thSt
 PA I-676 5thSt PA/NJ
 PA I-83BLYor I-83_S I-83_N
+PA I-376BLMoo I-376_W I-376_E
 PA I-86FutSwa 60 PA/NY
-PA I-99FutLoc 109 111
-PA I-99FutMan I-180 US6
-PA I-376BlMoo I-376_W I-376_E
+PA I-99FutLoc 107 OldUS220
+PA I-99FutMan 4thSt_W 182
 PA US1 I-76(339) I-76(340)
 PA US6 OH/PA US15
 PA US6 PA407 I-81(187)
 PA US6N US20 US6/19
-PA US11 MD/PA PA16
-PA US11 CalRd PA35 # Assume CalRd to I-76 was clinched during Chrysler Car Show in 1994.
+PA US11 MD/PA US30
+PA US11 CalRd PA35
 PA US11 US522 US15_N
-PA US11 US6_E PA407
-PA US15 US30 PA35  # Assume US30 to PA581 was clinched during AP U.S. History trip in 2001.
+PA US11 I-476/6 PA407
+PA US15 US30 PA35
 PA US15 US522 PA192
 PA US15 I-180(27A) US6
 PA US19 WV/PA US20
@@ -1175,21 +1607,24 @@ PA US30 WV/PA PA41
 PA US30 I-76(342) 8thSt
 PA US30 5thSt PA/NJ
 PA US40 WV/PA PA/MD
-PA US62 OH/PA PA/NY
+PA US62 OH/PA *OldUS62_A
+PA US62 *OldUS62_B PA/NY
 PA US119 WV/PA US219
-PA US202 DE/PA MonAve
+PA US202 DE/PA PA23AltTrk_W
 PA US209 I-80(304) I-80(309)
 PA US219 MD/PA PA/NY
 PA US220 MD/PA PA154
 PA US222 US30_W US30_E
 PA US222 I-76 US422Bus
-PA US222 US422_W US422_E
+PA US222 US422_W US422/12
 PA US222 PA100_S I-78
 PA US224 OH/PA PA18
-PA US322 OH/PA US422
+PA US322 OH/PA RicSt
+PA US322 PA28_N US422
 PA US322 US202_N US1/202
 PA US422 OH/PA US219
-PA US422Rea US322 US202
+PA US422Rea US322 *OldUS422_A
+PA US422Rea *OldUS422_B US202
 PA US522 MD/PA US11/15
 PA US6BusWar US6_W US6_E
 PA US15BusGet BalSt_S US30/116
@@ -1207,34 +1642,38 @@ PA US220AltMil US220_S US220_N
 PA US220BusAlt US220 PA350
 PA US220BusBed US220_S US220_N
 PA US322BusSta US322_W US322_E
+PA US322TrkDow US30/100 US202/322
 PA US422BusInd US422_W US422_E
 PA US422BusKit US422_W US422_E
 PA US422BusNew US422_W US422_E
+PA HarTayBri US11/15_S FroSt
 PA NY17SWa NY/PA PA/NY
 PA PA5 US20 PA/NY
-PA PA8 I-376 US20
+PA PA8 I-376/30 US20
 PA PA14 PA414_W PA414_E
 PA PA16 US522 US11
 PA PA17 PA235 US11/15
 PA PA18 WV/PA PA5
-PA PA21 WV/PA US40BusUni
+PA PA21 WV/PA US40Bus
 PA PA23 US30_E US30_W
 PA PA26 MD/PA PA150_N
 PA PA27 US6/19 PA69
-PA PA28 AndSt US219
+PA PA28 AndSt RicSt
+PA PA28 US322_E US219
 PA PA31 PA136 US30
 PA PA35 US522 US11/15
 PA PA36 PA26 PA27/227
 PA PA38 PA68 US322
-PA PA39 HanSt US322/422  # Assume clinched during AP U.S. History trip in 2001
+PA PA39 HanSt US322/422
 PA PA41 DE/PA US30
 PA PA42 US220_S US220_N
 PA PA43 WV/PA 54
 PA PA44 PA880 PA664
-PA PA44 PA144_S PA/NY
-PA PA45 PA453/45Trk US15
+PA PA44 PA144_S *OldPA44_A
+PA PA44 *OldPA44_B PA/NY
+PA PA45 PA453 US15
 PA PA46 PA120 US219/346
-PA PA48 PA51 US22BusMon
+PA PA48 PA51 US22Bus
 PA PA49 PA44 PA249_S
 PA PA50 PA844 PA60
 PA PA51 US40Bus PA/OH
@@ -1242,17 +1681,18 @@ PA PA53 US219 PA144
 PA PA56 9thSt US30
 PA PA58 OH/PA PA68
 PA PA59 US6_W US6_E
-PA PA60 US19/51 I-376
+PA PA60 US19/51 I-376/22
 PA PA64 PA26 PA150
 PA PA65 I-279 PA108/168
 PA PA66 US119 US6
 PA PA68 OH/PA US322
 PA PA69 US62 PA/NY
+PA PA74 US15_S I-81
 PA PA75 MD/PA US22/322
 PA PA77 PA27 PA426
 PA PA85 PA28/66 US119
 PA PA86 PA27 US6/19
-PA PA87 PA154_E PA154_W
+PA PA87 PA154_S PA154_N
 PA PA88 US119 PA51
 PA PA89 PA8/27 PA5
 PA PA96 MD/PA PA869
@@ -1278,11 +1718,12 @@ PA PA136 US40/18 HamAve
 PA PA138 PA8 PA38
 PA PA144 PA144TrkPot_S PA44_N
 PA PA145 PA222 PA248
+PA PA147 US11/15 US15_N
 PA PA148 PA48 US30
 PA PA150 PA26_S US220_N
 PA PA151 US30 PA51
 PA PA153 PA253/453 US219
-PA PA154 PA414 US220
+PA PA154 US220 PA414
 PA PA155 PA120 PA446
 PA PA156 PA981 US422/56
 PA PA157 US62 PA208
@@ -1309,6 +1750,7 @@ PA PA226 OH/PA US6N
 PA PA227 PA8 PA127
 PA PA228 US19 PA356
 PA PA231 PA18 PA50
+PA PA233 I-81 PA641
 PA PA235 PA17 PA333
 PA PA235 PA35_S PA35_N
 PA PA235 US522_S US522_N
@@ -1329,9 +1771,9 @@ PA PA281 WV/PA US30
 PA PA283 EisBlvd US30
 PA PA285 OH/PA PA173
 PA PA286 US22 US219
-PA PA287 PA414_W PA249
-PA PA288 PA18 *OldPA288_A
-PA PA288 *OldPA288_B US19/68
+PA PA287 PA414_W US6_W
+PA PA287 OldPA287_B PA249
+PA PA288 PA18 US19/68
 PA PA290 I-79/5 I-90
 PA PA291 I-95(12) I-76
 PA PA305 US22 PA655
@@ -1340,6 +1782,7 @@ PA PA309 I-78(60) I-78(53)
 PA PA309 I-81(165) I-81(170)
 PA PA310 US119 US322
 PA PA315 I-81(175A) I-81(175B)
+PA PA316 PA914 US11
 PA PA317 OH/PA PA108/551
 PA PA318 OH/PA PA158
 PA PA321 US219 PA346
@@ -1380,8 +1823,9 @@ PA PA453 US22 PA879
 PA PA456 MD/PA PA16
 PA PA462 I-83 US30_E
 PA PA474 PA8/89 PA/NY
+PA PA475 US522 PA994
 PA PA477 PA192 PA64
-PA PA478 PA58 PA38/208
+PA PA478 PA38/208 PA58
 PA PA481 US40 PA88/136
 PA PA484 PA26 PA655
 PA PA488 PA65/288 US422
@@ -1389,7 +1833,7 @@ PA PA504 PA53/350 US220Alt/144
 PA PA505 PA97 US20
 PA PA518 PA18_S PA18_N
 PA PA519 US40 PA50
-PA PA523 US40 PA281
+PA PA523 US40 LogPl
 PA PA528 US19 PA8
 PA PA531 PA430 US20
 PA PA536 PA28 PA36
@@ -1406,8 +1850,8 @@ PA PA601 PA31/281 PA56
 PA PA607 PA872 PA155
 PA PA611 OldWelRd PA463
 PA PA618 US6 PA18
-PA PA641 US522 PA35
-PA PA643 US522 I-70
+PA PA641 US522 PA233
+PA PA643 I-70 US522
 PA PA646 PA59 PA/NY
 PA PA653 PA381 MasDixHwy
 PA PA655 MD/PA MainSt
@@ -1415,27 +1859,30 @@ PA PA660 PA287_S US6_E
 PA PA664 PA120 PA44
 PA PA666 US62 US6
 PA PA669 MD/PA US219
+PA PA696 PA641_E PA641_W
 PA PA711 US119/201 PA403
 PA PA718 PA318 PA/OH
 PA PA729 PA253/453 US219/879
 PA PA731 PA484 I-70
 PA PA741 DecSt ParLn
 PA PA743 PA241_N PA283
+PA PA747 PA994 US22
 PA PA756 PA403 PA160
-PA PA760 I-80/376 US62Bus_N
+PA PA760 I-80/376 US62Bus
 PA PA764 US22/220Bus I-99
-PA PA770 PA59/770Trk PA646
+PA PA770 PA59 PA646
 PA PA780 PA56/366 PA380
 PA PA791 US22Bus PA380
 PA PA819 PA201 PA66
 PA PA829 PA655 US22
 PA PA830 I-80 US219
 PA PA832 PA98 PreIsleSP
-PA PA837 PA88 US19/51
+PA PA837 PA88_A US19/51
 PA PA839 PA85 PA28/66
 PA PA844 WV/PA PA18
 PA PA845 US62 PA358
 PA PA846 PA718 PA18
+PA PA850 PA75_N PA75_S
 PA PA857 WV/PA US119
 PA PA861 PA68 PA66
 PA PA865 I-99 PA53
@@ -1452,6 +1899,7 @@ PA PA899 PA36 PA66
 PA PA906 PA201 PA136
 PA PA910 I-79 FreRd
 PA PA913 PA26 PA655
+PA PA914 US11 PA316
 PA PA915 I-70 PA26
 PA PA917 US40 PA136
 PA PA921 PA181_S PA181_N
@@ -1461,47 +1909,81 @@ PA PA946 PA248_W PA987
 PA PA948 PA255 PA666
 PA PA949 PA28 PA948
 PA PA950 US322 PA830
-PA PA954 PA56 PA210
+PA PA954 PA56 PA210_C
 PA PA955 PA5 US20
 PA PA956 US19 PA158/208
 PA PA957 US6 US62
 PA PA958 US6 PA/NY
-PA PA965 US62_W US62_E
+PA PA965 US62_S US62_N
 PA PA969 US219 PA453
 PA PA970 US322 PA879
 PA PA978 PA50 US22/30
 PA PA980 PA519 US22
 PA PA981 PA51 PA819_N
-PA PA982 US119 US22/119
+PA PA982 US119_S US22/119
 PA PA985 PA601 PA403
 PA PA987 US22 PA946
 PA PA989 PA65 PA68
-PA PA993 PA130 PA66Bus
+PA PA993 PA130_A PA66Bus
 PA PA994 PA26 US522
 PA PA995 PA75 PA16_E
 PA PA997 US30_W US30_E
+PA PA997 PA641_W PA641_E
 PA PA5AltEri PA5_W PA5_E
 PA PA8BusOil PA8_S PA8_N
 PA PA8TrkTit PA8_S PA8_N
+PA PA27TrkTit PA27 PA8
 PA PA28TrkBro PA28_S PA28_N
-PA PA31TrkMan PA31_W PA31_E
 PA PA42TrkEag PA42_S PA42_N
 PA PA45TrkSpr PA45_W PA45_E
+PA PA52AltTrkTho US202/322_S US202/322_N
 PA PA56TrkNew PA56_W PA56_E
 PA PA66AltVan PA66_S PA66_N
 PA PA66BusGre US30 PA66(12)
+PA PA82AltTrkEas US1/41 PA10/41
 PA PA88TrkCal PA88_S PA88_N
-PA PA96TrkMan PA96 PA31
 PA PA144TrkCen PA144 US322/45
-PA PA144TrkPot PA144_S PA144_N
+PA PA144TrkPot US322_E PA144_N
 PA PA148TrkMcK PA148_S PA148_N
 PA PA160TrkWil PA160_S PA160_N
 PA PA286TrkInd PA286_W PA286_E
+PA PA291AltTrkPhi I-95(9) PA291_E
+PA PA329TrkNor PA329_W PA329_E
 PA PA341TrkDeo PA283_W PA283/743
 PA PA351TrkEll PA351_W PA351_E
-PA PA711TrkCon PA711_W PA711_E
-PA PA770TrkTim US219/59 PA770_E
+PA PA352AltTrkFra US202_S US202/30
+PA PA390TrkHaw PA390 I-84(30)
+PA PA401AltTrkWes I-76 PA100/113
+PA PA402TrkHaw I-84(34) PA402_N
+PA PA420AltTrkPro PA420_S I-95(8)
+PA PA423TrkPoc I-380(3) PA423_N
+PA PA462TrkCol US30_W US30_E
+PA PA519TrkHou PA519_S PA519_N
+PA PA641TrkLau PA641_W PA641_E
+PA PA711TrkCon PA711_S PA711_N
+PA PA715TrkNTa I-80(299A) I-80(298)
+PA PA715TrkSTa PA715_S I-80(302)
+PA PA770TrkTim PA770_W PA770_E
+PA PA837TrkDon PA837_S PA837_N
 PA PA982TrkDer PA982_S PA982_N
+#PA LECT NY/PA PA5Alt_Law
+#PA LECT PA5Alt_EriE PA/OH
+#PA LinHwy BraAve PA981_S
+#PA LinHwy US30_LatE US30_LigW
+#PA LinHwy US30_LigE Us30_KliW
+#PA LinHwy US30_KliE US30_Sto
+#PA LinHwy PA403_N US30_SchW
+#PA LinHwy US30_SchE US30_WolW
+#PA LinHwy US30_WolE US30_FayW
+#PA LinHwy US30_FayE US30_OrtW
+#PA LinHwy US30_McK MouRd
+#PA NatRd WV/PA NewRd
+#PA NatRd MainSt US40_AddW
+#PA NatRd US40_AddE PA/MD
+#PA SeaTrl OH/PA PA5Alt_Kel
+#PA SeaTrl PA5Alt_EriW PA5Alt_EriE
+#PA SeaTrl PA5Alt_Law PA/NY
+#PA SeaTrlPre PA5Alt PA832_End
 
 SC I-20 GA/SC 64
 SC I-26 51 107
@@ -1510,7 +1992,7 @@ SC I-185 1B 14
 SC I-385 I-26 30
 SC US29 I-85(34) I-85(42)
 SC US76 I-26(101) I-26(107)
-SC SC14 I-385(19) I-385(22)
+SC SC14 I-385(22) I-385(19)
 
 TN I-24 44 46
 TN I-40 208 209
@@ -1519,7 +2001,6 @@ TN I-65 209(40) TN/KY
 VA I-64 87 299
 VA I-66 1 28
 VA I-66 73A 75
-VA I-66 76 VA/DC
 VA I-81 221 VA/WV
 VA I-95 75 79
 VA I-95 98 170
@@ -1529,7 +2010,7 @@ VA I-464 1 6B
 VA I-495 MD/VA 170(95)
 VA I-564 4 VA337
 VA I-664 1 15
-VA US1 VA7 I-395(9)
+VA US1 VA7 I-395(8C)
 VA US11 US50/522 US522_N
 VA US11 VA37_N I-81(317)
 VA US13 VA166/165_N VA/MD
@@ -1547,6 +2028,7 @@ VA US60 US58 HarPoiRd
 VA US219 US460 VA/WV
 VA US460 WV/VA US219
 VA US522 US17/50_S VA/WV
+VA US460AltNor I-264(4) I-264(9)
 VA GWMemPkwy DC/VA I-495
 VA GWMemPkwyCry 1stSt VA/DC
 VA VA30 I-95 VA273_N
@@ -1573,7 +2055,7 @@ VA VA406 VA337 I-564
 WA I-5 7 165
 WA I-205 OR/WA I-5
 WA US12 I-5(88) I-5(68)
-WA WA99 WA509 AlaWy
+WA WA99 WA509 AlaWay
 WA WA509 DesMoiDr WA99
 
 WV I-64 KY/WV 121
@@ -1587,8 +2069,9 @@ WV US11 WV9/45 WV9_W
 WV US19 WV16_N WV/PA
 WV US22 OH/WV WV/PA
 WV US30 OH/WV WV/PA
-WV US33 WV28/55 WV/OH
-WV US35 I-64 LowBufBrg
+WV US33 WV28/55 *OldUS33_Spe
+WV US33 MidForkRd WV/OH
+WV US35 CR33 LowBufBrg
 WV US35 ToWV817_Bee WV/OH
 WV US40 OH/WV WV/PA
 WV US48 I-79 WV/VA
@@ -1608,9 +2091,9 @@ WV US340 WV9_E WV9_W
 WV US460 I-77 WV/VA
 WV US522 VA/WV WV/MD
 WV US219TrkLew US219 US60
+WV US250TrkMou US250_S US250_N
 WV US250TrkPhi US250_S US250_N
 WV WV2 US60 US30
-WV WV2AltMou WV2_S WV2_N
 WV WV3 US219_N US219_S
 WV WV4 WV15 US19_N
 WV WV5 US33/119_W US33/119_E
@@ -1622,14 +2105,14 @@ WV WV15 WV4 US219
 WV WV16 US19_BecN WV211_S
 WV WV16 WV211_N LocRd
 WV WV16 US33/119_W US33/119_E
-WV WV18 WV180 WV2
+WV WV18 WV47 WV2
 WV WV20 WV15_E WV15_W
 WV WV20 US119/33 WV7
+WV WV23 US50 WV18
 WV WV24 US219 US50
 WV WV25 WV62_W I-64(45)
 WV WV26 US50 WV/PA
 WV WV27 WV2 WV/PA
-WV WV27AltFol WV2 WV/PA
 WV WV28 US33/55 US50_E
 WV WV28 WV46 WV956
 WV WV29 US50_E US50_W
@@ -1645,6 +2128,7 @@ WV WV45 WV9_W US11/9
 WV WV45 WV45Alt WV230/480
 WV WV46 MD/WV WV28
 WV WV46Elk WV42 WV/MD
+WV WV47 WV74 WV18
 WV WV55 US219_S WV/VA
 WV WV57 WV20 US119
 WV WV58 WV20 US50
@@ -1653,10 +2137,11 @@ WV WV62 WV2_N WV2_S
 WV WV62 WV2/331 WV2
 WV WV63 US219_N US219_S
 WV WV67 WV2 WV/PA
-WV WV68 WV2_S US33_W
+WV WV68 US33/2 US33_W
 WV WV68 US50_W US50_E
 WV WV69 US250 WV/PA
 WV WV72 WV32 WV7
+WV WV74 WV47 WV18
 WV WV76 US50 US119/250
 WV WV86 US250/2 WV88
 WV WV88 US250 WV27
@@ -1683,60 +2168,62 @@ WV WV817 LowBufBrg ToUS35_Bee
 WV WV891 US250 WV/PA
 WV WV901 WV9 US11
 WV WV956 MD/WV WV28
+WV WV2AltMou WV2_S WV2_N
+WV WV27AltFol WV2 WV/PA
 WV WV45AltShe WV480 WV45
+#WV NatRd OH/WV US40/250
+#WV NatRd WV2_S WV/PA
 
 WI I-39 IL/WI 138(90)
-WI I-41 IL/WI 171
+WI I-41 IL/WI 170B
 WI I-43 1 192
 WI I-90 138 WI/IL
-WI I-94 138(90) WI/IL
+WI I-94 240 WI/IL
 WI I-794 1A 3
 WI I-894 1A 10
-WI US10 US41/441 WI441
-WI US10 I-43(154) I-43(152)
-WI US12 I-43 WI50/120
+WI US10 287 291
+WI US10 154(43) 152(43)
+WI US12 321A 330
 WI US14 WI26 WI/IL
-WI US18 WI26 WI318
-WI US18 WI164_S WI59_N
-WI US18 MorBlvd ToI-41
-WI US41 IL/WI I-41(171)
+WI US18 WI26 I-41
+WI US41 IL/WI 170B
 WI US45 IL/WI 59(41)
 WI US45 95(41) 99(41)
 WI US51 160(90) 156(90)
 WI US141 US41_S I-43(192)
-WI US151 I-90 WI26_N
+WI US151 97 148
 WI WI11 I-90(177) I-90(175)
 WI WI11 US14_W US14/89
 WI WI11 WI83_S WI36/83
+WI WI16 WI190 I-94
 WI WI20 US45_N US45_S
 WI WI26 US14 US18
-WI WI26 US151_S US41
+WI WI26 US151(147) I-41
 WI WI31 IL/WI WI32
 WI WI32 WI31 WI100
 WI WI32 I-43(82) I-43(93)
 WI WI32 I-43(100) I-43(113)
-WI WI32 US41/54 US41/29
+WI WI32 I-41(168A) I-41(168B)
 WI WI36 WI83_S WI164/K
 WI WI36 US45/OO US45/100
 WI WI38 ColAve LayAve
-WI WI42 I-43(149) I-43(152)
 WI WI50 WI120_S US12/120
 WI WI50 WI83_N WI75/83
 WI WI57 I-43(85) I-43(97)
-WI WI59 WI164_S WI181
+WI WI59 WI83 WI181
 WI WI60 WI83 WI164
 WI WI67 US14_E US14_W
 WI WI83 IL/WI WI20/36
+WI WI83 CRI WI59
 WI WI83 US18 WI60
 WI WI100 WI32 I-94(322)
-WI WI100 US45/36 I-43(60)
-WI WI100 I-94(304) US18
-WI WI100 US45_S US41/74
+WI WI100 US45/36 I-41(50)
 WI WI119 I-94 WI38
-WI WI120 IL/WI US12_W
+WI WI120 IL/WI US12(328)
 WI WI164 WI36 WI60
-WI WI167 US41/45_N US41/45_S
+WI WI167 I-41(57) I-41(54)
+WI WI190 WI16 WI100
 WI WI318 US18 I-94
-WI WI441 US41_S US10_E
-WI WI441 CRCE US41_N
+WI WI441 287(10) 291(10)
+WI WI441 8 11
 WI WI794 ColAve I-794
