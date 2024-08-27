@@ -1,14 +1,174 @@
+#bluewonder310s list
 
+# Alabama (not visited)
+
+# Alaska (not visited)
+
+# American Samoa (not visited)
+
+# Arizona
+# Interstates (AZ)
+AZ I-15 NV/AZ AZ/UT
+
+# Arkansas
+
+# California
+# Interstates (CA)
 CA I-5 MEX/USA 747
-CA I-405 I-5 72 
 CA I-10 1 117
+CA I-15 6B CA/NV
+CA I-40 1 CA/AZ
+CA I-80 1A CA/NV
+CA I-105 1A StuRd
+CA I-110 GafSt 21
+CA I-205 I-580 I-5
+CA I-238 14 17
+CA I-280 I-680/101 57
+CA I-305 1A 6
+CA I-380 5A 7
+CA I-405 I-5(94A) I-5(158)
+CA I-505 1A I5
 CA I-580 1A I-5
 CA I-680 I-280/101 71
-CA I-80 1A CA/NV
+CA I-780 7 LemSt
+CA I-805 I-5(1A) I-5(31)
+CA I-880 I-280 46B
+CA I-980 I-880 2B
+# US Highways (CA)
+CA US50 1A CA/NV 
+CA US101 1A CA/OR
+CA US395 ManRewRd CA14
+CA US395 MillCrkDr CA203
+# State Highways (CA)
+CA CA1 CA133 DimLn
+CA CA1 CA92 EthSt
+CA CA2 CenAve HigAve
+CA CA14 CA58 RedRanRd
+CA CA17 1A 26
+CA CA24 2 15
+CA CA25 US101 CA146
+CA CA29 I-80 CA128_W
+CA CA44 CA89_S CA273/299
+CA CA58 CA223 167
+CA CA60 I-10(16B) 38
+CA CA61 WebSt CA185
+CA CA68 US101 SinAve
+CA CA75 I-5(5A) I-5(14A)
+CA CA78 1A SanDieZoo
+CA CA82 I-880 I-280
+CA CA84 I-580 CA82
+CA CA87 1A 9
+CA CA90 CA1 SlaAve
+CA CA92 End CA1
+CA CA99 227 I-5(221)
+CA CA108 CA120_W US395
+CA CA110 21 GleSt
+CA CA120 1A YosNP
+CA CA132 I-580 CA99
+CA CA133 10A 14
+CA CA139 CA/OR LooHacRd
+CA CA146 US101 PinNP
+CA CA146Pin OldEntSta CA25
 
-CA US-110 CA60 794
+# Colorado
 
-CA I-40 1 NC I-40 301
+# Connecticut
 
+# Delaware
+
+# District of Columbia
+
+# Florida
+
+# Georgia
+
+# Guam (not visited)
+
+# Hawaii
+
+# Idaho (not visited)
+
+# Illinois
+
+# Indiana
+
+# Iowa
+
+# Kansas (not visited)
+
+# Kentucky
+
+# Louisiana
+
+# Maine (not visited)
+
+# Maryland
+
+# Massachusetts
+
+# Michigan (not visited)
+
+# Minnesota
+
+# Mississippi
+
+# Missouri (not visited)
+
+# Montana (not visited)
+
+# Nebraska (not visited)
+
+# Nevada
+
+# New Hampshire (not visited)
+
+# New Jersey
+
+# New Mexico
+
+# New York
+
+# North Carolina
+# Interstates (NC)
 NC I-73 103 111
 NC I-85 131B NC/VA
+
+# North Dakota (not visited)
+
+# Northern Mariana Islands (not visited)
+
+# Ohio
+
+# Oklahoma
+
+# Oregon
+
+# Pennsylvania
+
+# Puerto Rico
+
+# Rhode Island
+
+# South Carolina
+
+# South Dakota (not visited)
+
+# Tennessee
+
+# Texas
+
+# Utah
+
+# U.S. Virgin Islands
+
+# Vermont (not visited)
+
+# Virginia
+
+# Washington
+
+# West Virginia
+
+# Wisconsin
+
+# Wyoming (not visited)
