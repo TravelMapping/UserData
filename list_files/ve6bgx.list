@@ -1,0 +1,414 @@
+# All of TCH
+BC BC1 NanFry BC/AB
+BC BC1Van DalRd HorBayFry
+
+# All of Crowsnest AB/BC + some BC-3A
+BC BC3 170 BC/AB
+BC BC3A BC6_S BC31
+AB AB3 BC/AB AB1/41A
+
+# All of BC-4
+BC BC4 TofHar BC19
+
+# Coquihalla BC-5
+BC BC5 177 374
+BC BC5A BC97C_E BC5(286)
+BC BC5A RogWay BC5(368)
+
+# BC-6
+BC BC6 BC3_E BC3A_N
+BC BC6 11thAve NeeCabFry
+
+# BC-7
+BC BC7 BC99 BC1_E
+
+# BC-7B
+BC BC7B MarWay BC7_E
+
+# BC-9
+BC BC9 BC1 End
+
+# BC-10
+BC BC10 BC91 BC1
+
+# BC-11
+BC BC11 USA/CAN BC1
+
+# BC-12
+BC BC12 BC1 BC99
+
+# BC-14
+BC BC14 BC1 IndAccRd
+
+# BC-15
+BC BC15 USA/CAN BC1/17
+
+# BC-17
+BC BC17 OswSt SwaBayFry
+BC BC17Ric TsaFry BC1/15
+BC BC17A BC17 BC99
+
+# BC-19
+BC BC19ANan TerAve BC19
+BC BC19 DukePtFry 130
+BC BC19A BC19 ComRd_S
+
+# BC-21
+BC BC21 KooRvrRd BC3
+
+# BC-22
+BC BC22 20thSt BC3
+
+# BC-23
+BC BC23Nak BC6 GalBayFry
+BC BC23 GalBayFry BC1_E
+
+# BC-31/31A
+BC BC31 BC3A BC31A
+BC BC31A BC6 BC31
+
+# All of BC-33
+BC BC33 BC3 BC97
+
+# All of BC-43
+BC BC43 BC3 End
+
+# All of BC-91
+BC BC91 BC99 23
+BC BC91A BC91 MarWay
+
+# All of BC-93 + AB to Louise
+BC BC93 USA/CAN BC/AB
+AB AB93 BC/AB AB1_W
+
+# BC-95
+BC BC95 BC3_W BC1
+BC BC95A BC3/95 BC93/95
+
+# BC-97
+BC BC97 BC3 BC97A
+BC BC97 BC1(399) BC99
+BC BC97A BC97 BC1
+BC BC97C BC97 BC5
+
+# All of BC-99
+BC BC99 USA/CAN BC97
+
+# Sunshine Coast
+BC BC101 LanFry EarCoveFry
+
+# Knight Street (Van/Richmond)
+BC KniSt WesHwy MarDr
+
+# Golden Ears Way
+BC GolEarsWay 192St BC7
+
+# YT-2/AK-98 (tour from Skagway)
+BC YT2 AK/BC YukSusBri
+AK AK98 BroSt AK/BC
+
+# AK-7 (tour from Juneau)
+AK AK7Jun GlaHwy_S MenLpRd_S
+
+# AB-1 (whole thing) + BVP + Crowchild/BVT
+AB AB1 BC/AB AB/SK
+AB AB1ALak AB1_W AB1_E
+AB AB1ACoc AB1_W AB1_E
+
+# AB-2 + MacLeod to Okotoks + Crossfield + misc 2A
+AB AB2 USA/CAN StuRd
+AB AB2ACal AB549 AB22X
+AB AB2AOld AB2(295) AB574
+AB AB2ARed AB2(394) AB595
+AB AB2ARed AB12 AB2(431)
+
+# AB-8 (whole thing)
+AB AB8 AB22 AB201
+
+# AB-9 (whole thing)
+AB AB9 AB1/797 AB/SK
+
+# AB-16 (Yellowhead): bits in Edmonton + whole thing to Lloyd + Veg
+AB AB16 BC/AB 376
+AB AB16 378 389
+AB AB16 400B AB/SK
+AB AB16AVeg AB16_W AB16_E
+
+# AB-17 (bits around Lloyd)
+AB AB17 AB619 SK774
+
+# AB-22 (whole thing to Mountain View County) + 22X
+AB AB22 AB3 AB582
+AB AB22X AB22 AB24
+
+# AB-23 (High River to Vulcan)
+AB AB23 AB534 AB2
+
+# AB-24 (whole thing)
+AB AB24 AB23 AB1
+
+# AB-28 (just around Edmonton)
+AB AB28 AB16 AB216
+
+# AB-40 (K Country)
+AB AB40Kan MtAllDr AB1
+
+# AB-56
+AB AB56 AB9_S AB9/27
+
+# AB-66 (whole thing)
+AB AB66 LitElbRd AB22
+
+# AB-68 (sibbald)
+AB AB68 AB40 AB1
+
+# AB-72
+AB AB72 AB2 AB9
+
+# AB-201 (Stoney)
+AB AB201 AB2 101
+
+# AB-216 (Henday; incomplete lap)
+AB AB216 AB2 39
+AB AB216 54 78
+
+# AB-533 (back way out of Vulcan)
+AB AB533 AB2_N AB804
+
+# AB-534 (back way out of Vulcan)
+AB AB534 AB804 AB23
+
+# AB-564 (Calgary to hwy-9)
+AB AB564 AB201 AB9
+
+# AB-566 (Symons Valley Road to Crossiron)
+AB AB566 AB772 DwiMcLTrl
+
+# AB-567 (Cochrane to Airdrie)
+AB AB567 AB22 AB2
+
+# AB-574 (Symons Valley to Crossfield)
+AB AB574 AB22 AB2A
+
+# AB-575 (back way out of Drumheller)
+AB AB575 AB791 AB9/56
+
+# AB-616 (QE2 to Millet)
+AB AB616 AB2 AB2A_S
+
+# AB-772 (Symons Valley Road)
+AB AB772 Cal/Roc AB574
+
+# AB-791 (minor bits around Calgary)
+AB AB791 AB22X AB1
+AB AB791 AB72 AB575
+
+# AB-804 (back way out of Vulcan)
+AB AB804 AB533 AB534
+
+# AB-857 (back way out of Vegreville)
+AB AB857 AB16 AB16A_W
+
+# SK-1 (AB 1 to Regina, unfortunately) + to SK-6
+SK SK1 AB/SK 258
+SK RingRd SK1/11 SK6_S
+
+# SK-2 (around PA)
+SK SK2 SK11_N SK3/55
+
+# SK-3 (around PA)
+SK SK3 CLRd SK2/302
+
+# SK-5 (Saskatoon to 41 for Aberdeen)
+SK SK5 SK16 SK41
+
+# SK-7 (AB to Saskatoon)
+SK SK7 AB/SK CirDr
+
+# SK11 to Prince Albert
+SK SK11 SK5 SK2_N
+SK SK11Cir SK7/14 SK16_W
+
+# SK-16 (loop around Saskatoon)
+SK SK16 SK11_N SK5
+
+# SK-41 (Aberdeen)
+SK SK41 SK5 SK27/784
+
+# ON: ON-17 (around Thunder Bay)
+ON ON17 ON61 ON102_E
+
+# ON: ON-61 (around Thunder Bay)
+ON ON61 NeeAve ON11/17
+
+# ON: ON-400 (ON-401 to the mall)
+ON ON400 21 32
+
+# ON: ON-401 (ON-400 to ON-427)
+ON ON401 351 359
+
+# ON: ON-409 (ON-401 to YYZ)
+ON ON409 ON427 ON401
+
+# ON: ON-427 (YYZ to QEW)
+ON ON427 QEW 13
+
+# ON: Gardiner Expressway
+ON GarExpy 139 157
+
+# ON: Don Valley Parkway (Gardiner - Eglington)
+ON DonValPkwy GarExpy 10
+
+# ON: QEW (Toronto - Hamilton)
+ON ONQEW 88 139
+
+# WA: I-5 (whole thing)
+WA I-5 OR/WA USA/CAN
+
+# WA: I-90 (whole thing)
+WA I-90 WA519 WA/ID
+
+# WA: WA-104 (whole thing west of I-5)
+WA WA104Edm EdmKinFry I-5
+WA WA104 US101 KinEdmFry
+
+# WA: WA-543 (whole thing; Pacific Crossing to I-5)
+WA WA543 I-5 WA/BC
+
+# WA: US-101 (WA-104 to PA)
+WA US101 LinSt_Por WA104
+
+# ID: I-90 (whole thing)
+ID I-90 WA/ID ID/MT
+
+# MT: I-90 (to St. Regis)
+MT I-90 ID/MT 33
+
+# MT: MT-28 (whole thing)
+MT MT28 MT200 US93
+
+# MT: MT-135 (St. Regis to MT-200)
+MT MT135 I-90 MT200
+
+# MT: MT-200 (MT-135 to MT-28)
+MT MT200 MT28 MT135
+
+# MT: US-2 (Kalispell to Going-to-the-Sun Road)
+MT US2 US93 GoiSunRd
+
+# MT: US-93 (Canada to MT-28)
+MT US93 MT28 USA/CAN
+
+# MT: US-89 (Canada to Going-to-the-Sun Road)
+MT US89 GoiSunRd USA/CAN
+
+# MT: Going-to-the-Sun Road
+MT GoiSunRd US2 US89
+
+# OR: I-5 (whole thing)
+OR I-5 CA/OR OR/WA
+
+# CA: I-5 (Oregon to San Diego)
+CA I-5 20 CA/OR
+
+# CA: I-8 (I-5 to Sea World)
+CA I-8 1 2A
+
+# CA: US-101 (SFO to I-580, LA: to Universal Studios)
+CA US101 422 451
+CA US101 11B 18
+
+# CA: I-80 (Bay Bridge)
+CA I-80 1A 8A
+
+# CA: I-105 (LAX to I-605)
+CA I-105 1A 18
+
+# CA: I-405 (LAX to US-101)
+CA I-405 45 63C
+
+# CA: I-580 (US-101 to I-880)
+CA I-580 1A 8B(80)
+
+# CA: I-605 (I-405 to CA-60)
+CA I-605 9B 19
+
+# CA: I-880 (I-580 to Oakland Coliseum)
+CA I-880 37 46B
+
+# CA: CA-1 to Stinson Beach
+CA CA1 445B(101) PanHwy_W
+
+# CA: CA-60 from I-605 to Ontario
+CA CA60 12 35
+
+# FL: Turnpike from Osceola Pkwy to I-595
+FL FLTpk 54X 249
+
+# FL: I-95 from I-95 to Miami Beach
+FL I-95 4 24
+
+# FL: I-195 from I-95 to Miami Beach
+FL I-195 1 FL907A
+
+# FL: I-595 from turnpike to I-95
+FL I-595 10 12
+
+# FL: FL-112 (I-195 to FL-A1A)
+FL FL112Mia I-195 FLA1A
+
+# FL: FL-417 (MCO to Osceola Parkway)
+FL FL417 3 17
+
+# FL: FL-A1A (FL-112 to Fontainebleau)
+FL FLA1AFor FL112 44thSt
+
+# MA: I-90 (MA-1A to airport)
+MA I-90 137 MA1A
+
+# MA: I-93 (I-95 to Callahan Tunnel)
+MA I-93 17A 28
+
+# MA: I-95 (I-93 to Burlington)
+MA I-95 51 55
+
+# MA: MA-1a (Callahan Tunnel)
+MA MA1ASal US1 I-90
+
+# TX: I-10 (Katy to Washington Ave)
+TX I-10 751 764
+
+# TX: I-610 (I-10 to I-45)
+TX I-610 TX288 11A
+TX I-610 32 38
+
+# TX: I-20 (I-35W to I-45)
+TX I-20 437 473B
+
+# TX: I-35/I-35W (Waco to I-20)
+TX I-35W I-35(370B) 45
+TX I-35 339 370B
+
+# TX: I-35E (I-635 to I-20)
+TX I-35E 418 440
+
+# TX: I-45 (Dallas to Houston)
+TX I-45 24 276
+
+# TX: I-635 (DFW to I-35E)
+TX I-635 27B 36
+
+# TX: TX-6 (Houston to Waco)
+TX TX6 US290_E TXLp340/484
+
+# TX: Beltway 8 (FM1093 to Briar)
+TX TXLp8 FM1093 JFKBlvd
+
+# TX: TX-340 (Waco loop, TX-6 to I-35)
+TX TXLp340 TX6_S I-35(339)
+
+# TX: US-290 (Beltway 8 to TX-6)
+TX US290 TX6/1960 TXLp8
+
+# TX: NASA-1 (I-45 to space centre)
+TX NASA1 I-45 SatLn
