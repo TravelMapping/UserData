@@ -155,6 +155,8 @@ HKG ERailLnLok SheShui LokMaChau
 HKG AirExp HongKong Air
 HKG DisResLn SunBay DisRes
 
+HKG 615 HongLokRd YuenLong
+
 HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
@@ -401,6 +403,15 @@ SWE 10Sto Rad TCen
 SWE 3Got KunPla CenSta
 
 #### TWN
+TYAir A1 A13
+TPRed R02 R28
+TPGreen G15 G10
+TPOrangeHui O09 O08 
+TPOrangeHui O06 O07
+TPBlue BL11 BL12
+TPBlue BL18 BL23
+TPBrown BR13 BR09
+
 
 #### USA
 ## AMTRAK
