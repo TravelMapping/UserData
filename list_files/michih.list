@@ -1,4 +1,4 @@
-# Date: 2024-08-28
+# Date: 2024-08-30
 # ----------------
 
 
@@ -8383,7 +8383,6 @@ NOR Ring2 E6 NorGata
 POL A1 1 POL/CZE
 POL A2 1 32
 POL A2Min 33 37
-POL E30 36(A2) DK2/92
 POL A4 DEU/POL 62
 POL A6 DEU/POL 7
 POL A8 2 7
