@@ -2174,6 +2174,10 @@ NC US29 US74_E NC49_S
 # 2024-08-18
 NC NC51 I-485(64) ReaRd
 
+# 2024-08-31
+NC NC16 NC75 QueRd
+NC NC75 NC16 OldProRd
+
 ############
 # OKLAHOMA #
 ############
