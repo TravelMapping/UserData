@@ -1,4 +1,4 @@
-# Date: 2024-08-17
+# Date: 2024-09-01
 # ----------------
 
 ######################
@@ -263,6 +263,11 @@ AUT S45 WienOtt WienHan                        #2024
 AUT S50 Neu WienWes                            #2024, traveled as REX51 from St. Pölten
 #AUT REX51 St. Pölten Hbf Wien WestBf          #2024 via Neulengbach
 
+DEU-BY S1Fri Fre NeuFah                        #2024
+DEU-BY S2 AltoMun Erd                          #2024
+DEU-BY S7 WolHau DonBerBru                     #2024
+DEU-BY S8 Her OstBf                            #2024
+
 
 ######################
 #### METROS/TRAMS ####
@@ -407,10 +412,19 @@ DEU-BY U6 GarForZen KliGroHad    #2022
 DEU-BY S1 FlugHafMun Hbf         #2022 via Moosach
 DEU-BY S8 FlugHafMun Pas         #2022 via Hbf, Leuchtenbergring
 DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
+DEU-BY 12Mun RomPla SchPla       #2024
+DEU-BY 16Mun KarPlaSta EffPla    #2024
+DEU-BY 17Mun AmaBurgStr Hbf      #2024
+DEU-BY 17Mun MaxWebPla StEmm     #2024
 DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
 DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
+DEU-BY 20Mun MooBf KarPlaSta     #2024
 DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
+DEU-BY 21Mun Bor_1 WestFriHof    #2024
+DEU-BY 21Mun Bor_2 KarPlaSta     #2024
+DEU-BY 25Mun OstFriHof DerPla    #2024
+DEU-BY 27Mun PetRing KarPlaSta   #2027
 
 DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
