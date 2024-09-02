@@ -104,7 +104,9 @@ ENG ArunVlyLn LonVic GatAir
 
 #### ESP
 ## RENFE
-ESP-AN C1Mal MalCenAla Aer
+ESP-AN MadGra +DIV_GraMal Gra
+ESP-AN MadMal +DIV_MalGre MarZam
+ESP-AN C1Mal MalCenAla PlaMay
 
 #### EUR 
 ## EUROSTAR
@@ -488,7 +490,7 @@ OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
 ## LINK
-WA 1 Nor AngLake
+WA 1 Lyn AngLake
 WA 2 SBel RedTec
 
 ## SEATTLE STREETCAR
