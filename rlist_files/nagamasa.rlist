@@ -104,7 +104,9 @@ ENG ArunVlyLn LonVic GatAir
 
 #### ESP
 ## RENFE
-ESP-AN C1Mal MalCenAla Aer
+ESP-AN MadGra +DIV_GraMal Gra
+ESP-AN MadMal +DIV_MalGre MarZam
+ESP-AN C1Mal MalCenAla PlaMay
 
 #### EUR 
 ## EUROSTAR
@@ -403,14 +405,14 @@ SWE 10Sto Rad TCen
 SWE 3Got KunPla CenSta
 
 #### TWN
-TYAir A1 A13
-TPRed R02 R28
-TPGreen G15 G10
-TPOrangeHui O09 O08 
-TPOrangeHui O06 O07
-TPBlue BL11 BL12
-TPBlue BL18 BL23
-TPBrown BR13 BR09
+TWN TYAir A1 A13
+TWN TPRed R02 R28
+TWN TPGreen G15 G10
+TWN TPOrangeHui O09 O08 
+TWN TPOrangeHui O06 O07
+TWN TPBlue BL11 BL12
+TWN TPBlue BL18 BL23
+TWN TPBrown BR13 BR09
 
 
 #### USA
@@ -488,7 +490,7 @@ OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
 ## LINK
-WA 1 Nor AngLake
+WA 1 Lyn AngLake
 WA 2 SBel RedTec
 
 ## SEATTLE STREETCAR
