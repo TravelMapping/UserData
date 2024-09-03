@@ -169,6 +169,8 @@ TN I-75 2 385(40)
 KY I-75 29 118
 
 #. I-76
+PA I-76 351 PA/NJ
+NJ I-76 PA/NJ 1A
 # Pennsylvania I-X76
 PA I-476 I-95 131B
 
@@ -321,9 +323,14 @@ MD I-97 1 17
 ## US Numbered and Numbered Auxiliary Routes ##
 
 #. US 1
+NC US1 I-440(11) US401_N
 VA US1 VA54 SR639
-VA US1 I-95(126) MD US1 US40Trk_E
-PA US1 PA796 US202/322
+VA US1 I-95(126) VA/DC
+DC US1 VA/DC DC/MD
+MD US1 DC/MD MD/PA
+PA US1 MD/PA I-476
+NJ US1 US46_W NJ/NY
+NY US1 NJ/NY I-95(2B)
 MA US1 I-93(17A) BeaSt
 # Alternate
 DC US1AltWas US1_S DC/MD
@@ -949,6 +956,7 @@ MD MD108 MD650_E MD175
 MD MD109 I-270 MD355
 MD MD121 I-270 StrRd
 MD MD122 RolRd ForParkAve
+MD MD128 MD30 WorAve
 MD MD129 US40/295 GarForRd
 MD MD139 US1 BelAve
 MD MD140 MD194 I-795
@@ -1047,6 +1055,7 @@ MD MD707Wes US50 MD611
 MD MD710 MD2 MD10
 MD MD712 MD235 PHRunRd
 MD MD713 MD175 MD176
+MD MD806 US15 ThuBlvd
 MD MD808 RidBlvd MD27
 MD MD818 MD376 MD346
 MD MD896 DE/MD MD/PA
@@ -1079,6 +1088,7 @@ MS MS603 US90 I-10
 MS MS607 US90 I-10
 
 # New Jersey State Routes
+NJ NJ42 AtlCityExpy I-295
 NJ NJ87 US30 NJ87_U
 NJ NJ140 US130 CR540
 NJ NJ157 US30 US9
@@ -1086,8 +1096,9 @@ NJ NJ187 AtlBriCon NJ87
 NJ NJ495 I-95 NJ/NY
 
 # New Jersey Parkways and Turnpikes
-NJ AtlCityExpy BalAve 7
+NJ AtlCityExpy BalAve 44
 NJ AtlBriCon AtlCityExpy NJ87
+NJ GarStaPkwy 25 38
 NJ PalIntPkwy ToUS9W NJ/NY
 NJ NJTpk I-295(1) 16E
 
@@ -1262,5 +1273,8 @@ OH ORSB US52 OH527_S
 
 #### Changelog ####
 
+# 9/2/2024
+## added second half of Atlantic City, NJ trip
+## added two route segments in MD that needed to be added
 # 9/1/2024
 ## added routes from Atlantic City, NJ trip
