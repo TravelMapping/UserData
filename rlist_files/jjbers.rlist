@@ -15,9 +15,11 @@ NY A 207StInw HoytSchSts
 NY 1 DycSt SouFry
 NJ PATHJ33 JouSq NY PATHJ33 33St
 NJ PATHNWT JouSq NY PATHNWT WTC
-NY E WTC QuePla
-NY F LexAve63St JayStMetTech
+NY E +SKIP_WooBlvd WTC
+NY F LexAve63St 4Ave
 NY 2 96St FlaAveBroCol
+NY R QuePla +DIV_E/M
+NY R +DIV_N/W 59St
 
 Connecticut
 CT HarLn NHUniSta MA HarLn Spr
