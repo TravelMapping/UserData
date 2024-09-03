@@ -17,12 +17,18 @@ NJ PATHHWT Hob NY PATHHWT WTC
 
 FL ExpMon TraTicCen_1 TraTicCen_2
 NY NewHavLn GraCen NY NewHavLn NewRoc
-NJ BerCouLn Hob Rid
-NJ MainLn Hob Rid
-NY MonBooLn PennSta NJ MonBooLn SecJct
-NY MorEssLn PennSta NJ MorEssLn SecJct
-NY MorEssLn PennSta NJ MorEssLn SecJct
-NY NJerCoaLn PennSta NJ NJerCoaLn SecJct
+PA AtlCityLn Phi30thSt NJ AtlCityLn AtlCity
+NJ BerCouLn Hob NY BerCouLn Suf
+NJ GlaBra Sum Gla
+NJ MainLn Hob NY MainLn Suf
+NJ MonBooLn NY/NJ SecJct
+NJ MonBooLn NewBroSt Hac
+NJ MorEssLn NY/NJ Hac
+NY NECorLn PennSta NJ NECorLn Tre
+NJ NECorLnPri PriJct Pri
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ PasVlyLn Hob NY PasVlyLn SprVly
+NJ RarVlyLn NewPenn HighBri
 NJ PATHH33 Hob NY PATHH33 33St
 NJ PATHNWT ExcPla NY PATHNWT WTC
 
