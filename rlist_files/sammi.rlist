@@ -1,0 +1,152 @@
+ON TorMon TorUni ON/QC
+ON UP Uni PeaAir
+ON LWNia Uni NiaFal
+ON ST TorUni Mil
+ON KT Uni Braa
+ON 1 Fin VauMetCen
+ON 2 Kip Ken
+# ON 3 Ken McC
+ON 4 SheYon DonMil
+ON 501 LongBraLp NevPkBlvd
+ON 504a DunW MillStDisLp
+ON 504b DufGateLp BroSta
+ON 505 DunW Bro
+ON 506 HighPkLp MainStSta
+ON 509 ExhLp UniSta
+ON 510 SpaSta UniSta
+ON 511 BatSta ExhLp
+ON 512 GunLp StClaSta
+ON TerLnk Ter1 Vis
+
+QC TorMon On/QC Mon
+QC BluLn Sno CotDesNei
+QC GreLn LioGro PieIX
+QC OraLn Sno BerUQAM
+QC YelLn BerUQAM LonUniDeShe
+
+BC Can KamNor Van
+BC LilBus SetPor Lil
+# BC RMRQue NorVan Que
+# BC RMRBan Van BC/AB
+# AB RMRBan BC/AB Ban
+BC CanLn Wat YVRAir
+BC CanLnRic Wat RicBri
+BC MilLn VCCCla ComBro
+BC ExpoLn Wat ComBro
+
+CA CT SanFraKing SanJoseDir
+CA BARTBlue DalyCity DubPle
+CA BARTGre DalyCity Ber
+CA BARTOra Ber NorBer
+CA BARTRed NorBer Mil
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
+CA MuniF 17thCas Bea
+CA MuniJ BalPark Emb
+CA MuniK BalPark Emb
+CA MuniL Waw Emb
+CA MuniM BalPark Emb
+CA MuniN LaPla 4thKing
+CA MuniT Sun ChiRosePark
+CA CalSt VanNess Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+CA VTABlue SanTer Bay
+CA VTAGre Win OldIro
+CA VTAOra DtnMouView Mil
+CA AirTrnBlue GarG/BART IntTerA
+CA AirTrnRed GarG/BART_S GarG/BART_F
+# CA NapaValRR Napa KruWin
+
+CA A WilRosaPar 7thStMetCen
+CA A UniSta DuaCityOfHope
+CA B UniSta UniCityStuCity
+CA C AviLax WilRosaPar
+CA D UniSta WilWes
+CA E DowSanMon 7thStMetCen
+
+CO ALn UniSta DenAir
+CO DLn LitMin Loop
+CO ELn 10thOsa UniSta
+
+NJ NECorLn NewBru NY/NJ
+NY NECorLn NY/NJ PennSta
+NY 1 SouFry 96St
+NY 2 BarCen 96St  # includes 3
+NY 4 59St BarCen  # includes 5
+NY 6 59St BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A HowBeaJFK 59StColCir  # includes C
+NY B BriBea 59StColCir
+NY E JamCenParArc WTC
+NY D 59StColCir ConIslStiAve
+NY F RooIsl 4Ave
+NY G 4Ave CouSq
+NY J BroSt MarAve
+NY L 8Ave LorSt
+NY N LexAve59St ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R 57St7Av BayRidAve
+NY W 57St7Av WhiStSFry
+NY S42 TimSq GraCen
+NY SPro FraAve ProPk
+
+TX RedLnHou DowTC Pre
+
+WA 1 UDis SeaTacAir
+WA SeaCenMon SeaCen WesCen
+WA SouLakeUniLn WesHub LakeUniPark
+
+NV LVM SLS MGMGra
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
+
+ENG BakLn Mar Wat
+ENG CenLn BondSt TotCouRd
+ENG CirLn Pad_1 Emb
+ENG DisLn Vic TowHill
+ENG HaCLn Pad LivSt
+ENG JubLn BakSt CanWha
+ENG MetLn BakSt Ald
+ENG NorLn Eus LonBri
+ENG NorLnMHE Wat Eus
+ENG PicLnUxb PicCir KXSP
+ENG VicLn Vic KXSP
+ENG EliLn Pad CanWha
+ENG DLR CanWha CutSark
+ENG WMM WestBromCen EdgVil
+SCT EdiTram StAndSq Hay
+SCT GlaSub Par_1 Par_2
+
+ENG SusMLE GatAir LonVic
+ENG GWML LonPad BriTemMea
+ENG XCML BriTemMea BriPkwy
+ENG SWalML BriPkwy ENG/WLS
+WLS SWalML New ENG/WLS
+WLS CarNotLn New WLS/ENG
+ENG CarNotLn WLS/ENG BirNewSt
+ENG ShaLn BirMoorSt StoJct
+ENG StoBra StoJct StoTown
+ENG XCML BirNewSt York
+ENG ECMLEdi York ENG/SCT
+SCT ECMLEdi ENG/SCT EdiWav
+SCT FifeLnCow EdiWav NorQue
+SCT ShoLn EdiWav Kir
+SCT LowSle GlaCen ENG/SCT
+ENG LowSle ENG/SCT LonEus
+
+ENG LonPar LonStPanInt GBR/FRA
+FRA-HDF LonPar GBR/FRA HDR/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF ParCol ParGareEst IDF/HDF
+FRA-HDF ParCol IDF/HDF HDF/GES
+FRA-GES ParColCha HDF/GES GES/HDF
+FRA-HDF ParColGou GES/HDF HDF/GES
+FRA-GES ParCol HDF/GES Str
+
+NLD B MasWest Bla
+NLD D RotCen Zui
+NLD 3Haa Spui StaLaanNOI
+NLD 17Haa StaHolSpo DenHaagCen
+
+# TODO: Strasbourg - Basel - Zürich - Luzern - Amsterdam - Rotterdam
