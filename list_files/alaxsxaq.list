@@ -222,11 +222,11 @@ AK HicPkwy AK1 TudRd
 AK AK3 AK1 AK2
 AK ParkRd AK3 StoHillOve #denali
 AK AK9 AK1 RaiAve #seward
-AK AK4 AK1_W AK10 #wrangell-st elias
+AK AK4 AK1_W MeaAve #valdez
 AK AK10 AK4 McCarRd
 AK McCarRd AK10 KenRiv
 AK AK11 AK2 PipRd286 #south bonanza creek
-AK AK6 AK2 PedDomeRd
+AK AK6 AK2 RivSt
 #dempster
 AK AK5 AK2 AK/YT
 YT YT9 YT/AK GeoBlaFry

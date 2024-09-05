@@ -1,4 +1,4 @@
-# Date: 2024-06-17
+# Date: 2024-08-14
 # ----------------
 
 #####################################
@@ -42,6 +42,7 @@ BGR     Nikopol                      ROU     Turnu Magurele
 DEU-BB  Lütkenwisch                  DEU-NI  Schnackenburg
 DEU-ST  Räbel                        DEU-ST  Havelberg
 DEU-SH  Glückstadt                   DEU-NI  Wischhafen
+DEU-ST  Breitenhagen                 DEU-ST  Badetz
 DEU-ST  Aken                         DEU-ST  Steutz
 
 #Moselle
@@ -87,3 +88,4 @@ DEU-BW  Meersburg                    DEU-BW  Konstanz
 
 DEU-BE  F12 Wendenschloss           DEU-BE  Grünau
 DEU-BW  Überlingen                  DEU-BW  Dingelsdorf
+DEU-BW  Konstanz                    DEU-BW  Friedrichshafen

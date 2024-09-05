@@ -1,0 +1,296 @@
+# ──────────
+# 2024-09-02
+# ──────────
+
+# ─────────
+# Praha–PID
+# ─────────
+
+CZE A NemMot DepoHos
+CZE B Zli CerMost
+CZE C Let Haje
+
+CZE 1Pra SidPet Spo
+CZE 2Pra SidPet NadBra
+CZE 3Pra Kob Lev
+CZE 4Pra SidBar KubNam
+CZE 5Pra Hol VozZiz
+CZE 6Pra Pal KubNam
+CZE 7Pra Rad DepoHos
+CZE 8Pra NadPod NadLib
+CZE 9Pra SidRepy Spo
+CZE 10Pra SidRepy SidDab
+CZE 11Pra Spoj Spor
+CZE 12Pra Vys SidBar
+CZE 13Pra OlsHrb CecNam
+CZE 14Pra Vys Spo
+CZE 15Pra Kot OlsHrb
+CZE 16Pra SidRepy UstDilDP
+CZE 17Pra Kob Libu
+CZE 18Pra NadPod VozPan
+CZE 19Pra Pan Vys
+CZE 20Pra DivSar SidBar
+CZE 21Pra Rad Lev
+CZE 22Pra BilaHora Hos
+CZE 23Pra Kra Zvo
+CZE 24Pra Kob NamBraSyn
+CZE 25Pra BilaHora NasLib
+CZE 26Pra DivSar Hos
+
+CZE S1 PraMasNad Kol
+CZE S2 PraMasNad Kol
+CZE S3 Mel PraHlaNad
+CZE S3Mla MlaBolHlaNad PraHlaNad
+CZE S4 Hne PraMasNas
+CZE S5 KlaMes PraMasNad
+CZE S6 Ber PraSmi
+CZE S7 Ber CesBrod
+CZE S8 PraHlaNad LukaPodMed
+CZE S8 TynNadSaz Cer
+CZE S9 LysaNadLab BenPra
+CZE S10 Kol Pre
+CZE S12 NymMes Por
+CZE S20 Kol SveNadSaz
+CZE S27 Cas Tre
+CZE S28 Kol ZrucSaz
+CZE S30 Tur MlaBolHlaNad
+CZE S31 MlaBolHlaNad Vel
+CZE S32 Ste StaBol
+CZE S33 MlaBolHlaNad Mel
+CZE S40 Tel KraNadVlt
+CZE S45 Kla KraNadVlt
+CZE S49 RosPra PraHos
+CZE S50 Rak Kla
+CZE S54 Sla PraMasNad
+CZE S57 BlaJes Rak
+CZE S58 KraRak Rak
+CZE S60 Ber Bla
+CZE S61 PraZahMes PraBec
+CZE S65 RudPra PraHlaNad
+CZE S66 Bre Cim
+CZE S67 RozPodTre Bre
+CZE S70 Kar Ber
+CZE S71 PraRad PraBec
+CZE S75 Rak Ber
+CZE S76 Loc ZadTre
+CZE S80 Cer Chr
+CZE S82 Smr SveNadSaz
+CZE S90 Olb Mez
+CZE S98 BenesovPra Olb
+
+# ────────────
+# Brno–IDS JMK
+# ────────────
+
+CZE 4Brn NamSvo HlaNad
+CZE 5Brn Ces MenNam
+CZE 8Brn NemBoh HlaNad
+
+CZE S2Jih Let BrnoHlaNad
+CZE S4Jih NamOsl BrnoHlaNad
+CZE S22Jih BreNadSvi Let
+CZE S3Jih Kri Sak
+CZE S51Jih Sak Bre
+CZE S53Jih Bre Lan
+
+# ───
+# DÚK
+# ───
+
+CZE U1 Most DecHlaNad
+CZE U3 Lit LouLit
+CZE U4 UstiNadLabHlaNad Hne
+CZE U8 DecHlaNad Mly
+CZE U10 Most Lov
+CZE U11 Lou Lov
+CZE U12 Most Rak
+CZE U13 Most Zat
+CZE U14 Zat Rak
+CZE U32 UstiNadLabZap Mel
+CZE U40 Lou Tel
+CZE U57 Zlu BlaJes
+
+CZE T8 MolKruHor LouLit_1
+CZE T10 Svor PraHlaNad
+CZE T11 Tel DecHlaNad
+
+# ─────
+# IREDO
+# ─────
+
+CZE V41 Sany HraKraHlaNad
+CZE V51 ChlNadCid StaPaka
+
+# ────────────
+# Liberec-IDOL
+# ────────────
+
+CZE 3Lib LidSadyZoo Spa
+
+CZE L2 DecHlaNad CesLipaHlaNad
+CZE L3 Libe MalaSka
+CZE L7 POL/CZE Lib
+CZE L7Var Var CZE/DEU
+CZE L9 JabNadJiz MarKrk
+CZE L35 Tur Jic
+
+# ───────
+# Olomouc
+# ───────
+
+CZE 7Olo NreKre OkrSoud
+
+# ────────────
+# Ostrava–ODIS
+# ────────────
+
+CZE 1Ost HlaNad HraPol
+CZE X3Ost +DIV_271119 +DIV_7111718
+CZE 4Ost SviMos Kar
+CZE 5Ost BudZat PorVre
+CZE 13Ost +DIV_371219 DolVit
+CZE 17Ost PorVre +DIV_71112
+
+CZE S2Mor OstSvi MosJab
+CZE S3Mor OstHlaNad HraNaMor
+CZE S5Mor FryNadOst Ost
+CZE S6Mor OstHlaNad LisFry
+CZE S6Mor FryMis FryNadOst
+CZE S9Mor OstKun CesTes
+CZE S22Mor MosJab MosJabZas
+
+#┌───────────────────────────────────────────┐
+#│                    AUT                    │
+#└───────────────────────────────────────────┘
+
+# ────
+# Wien
+# ────
+
+AUT U2 Schr Tab
+AUT U4 Scho WienHei
+
+AUT 1Wie PraHau Schw
+AUT 2Wie Schw Tabs
+
+AUT S1 +DIV_S2S7 +DIV_REX1
+AUT S7 WienRen Flu
+AUT S40 TulDon WienFraJosBah
+AUT S60 WienHau BruLei
+
+#┌───────────────────────────────────────────┐
+#│                    DEU                    │
+#└───────────────────────────────────────────┘
+
+# ───────
+# Dresden
+# ───────
+
+DEU-SN S1Dre RadZit Sch
+DEU-SN U28 BadSch CZE U28Dec DecHlaNad
+DEU-SN L7 CZE/DEU DEU/POL
+
+# ───────
+# München
+# ───────
+
+DEU-BY U1 OlyEinZen SenTor
+DEU-BY U2 FeldMoc SenTor
+DEU-BY U6 StuSta SenTor
+
+DEU-BY 16Mun SenTor MauKirStr
+DEU-BY 17Mun RomPla HbfNord
+
+DEU-BY S1 NeuFah Hbf
+DEU-BY S1Fri Fre NeuFah
+DEU-BY S2 Dac Hbf
+DEU-BY S2Pet PetHau Dac
+
+#┌───────────────────────────────────────────┐
+#│                    ENG                    │
+#└───────────────────────────────────────────┘
+
+# ──────
+# London
+# ──────
+
+ENG BakLn Ken Wat
+ENG CenLnEal SheBush GanHill
+ENG CirLn Bar Mon
+ENG DisLnEdg PutBri Pad
+ENG JubLn BakSt Wes
+ENG JubLn Wat Sou
+ENG MetLn Ric BakSt
+ENG NorLnMHE MillHillEast ChaCro
+ENG PicLn TurLn Coc
+
+ENG MilLn ClaJct WilJct
+
+ENG DLR Bank DepBri
+
+# ────────
+# Railways
+# ────────
+
+ENG EliLn Pad LivSt
+ENG StaEx LonLivSt StaAir
+ENG ThaLnkRai LonBri Gre
+
+#┌───────────────────────────────────────────┐
+#│                    ESP                    │
+#└───────────────────────────────────────────┘
+
+# ─────────
+# Barcelona
+# ─────────
+
+ESP-CT R2N PasGra Aer
+
+ESP-CT L3 Valc Fon
+ESP-CT L4 Bar Ver
+
+#┌───────────────────────────────────────────┐
+#│                    HUN                    │
+#└───────────────────────────────────────────┘
+
+# ────────
+# Budapest
+# ────────
+
+HUN M1 VorTer MexUt
+HUN M2 OrsVezTere SzeKalTer
+
+HUN 2Bud JasMariTer VigTer
+HUN 56Bud Var MikoUtca
+HUN 60Bud Var SzeHegyGye
+
+#┌───────────────────────────────────────────┐
+#│                    POL                    │
+#└───────────────────────────────────────────┘
+
+POL L7 DEU/POL POL/CZE
+
+#┌───────────────────────────────────────────┐
+#│                    SCT                    │
+#└───────────────────────────────────────────┘
+
+# ───────
+# Glasgow
+# ───────
+
+SCT GlaSub Par_1 Par_2
+
+#┌───────────────────────────────────────────┐
+#│                    SVK                    │
+#└───────────────────────────────────────────┘
+
+# ──────────
+# Bratislava
+# ──────────
+
+SVK 9Bra KraUdo Kap
+
+SVK S8 BraPet Rus
+SVK S20 Kuty BraHlaSta
+SVK S60 BraHlaSta Gal
+

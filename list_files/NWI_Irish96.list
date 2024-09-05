@@ -277,11 +277,11 @@ IN KeyPkwy I-465 US31
 IN VetMemPkwy US41 RivDr
 IN SamJonExpy I-74/465 I-70
 IN ShaAve I-465 WasSt
+
 IN LCTrl IL/IN US50_Law
 IN LCTrl IN1_S IN1_N
 IN LCTrl US50_Gre IN/OH
-IN LinHwy IL/IN US30_Val
-IN LinHwy WasSt IN2_CobS
+IN LinHwy IL/IN IN2_CobS
 IN LinHwy IN2Cob_N IN2_WesS
 IN LinHwy US421_S IN2_PorW
 IN LinHwy IN2_PorE IN2_E

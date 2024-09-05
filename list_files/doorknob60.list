@@ -24,6 +24,9 @@ CA I-8 7 11             # I-15 11
 CA I-10 19A 21          # I-5 I-710
 TX I-10 505 561         # Kerrville Wurzbach Rd
 
+# I-11
+NV I-11 65 76           # Russel Rd I-15
+
 # I-15
 MT I-15 63 USA/CAN      # MT41 USA/CAN
 MT I-15 ID/MT 62        # ID/MT I-15BLDil
@@ -38,13 +41,27 @@ CA I-15 6B 96           # I-8 CA91
 TX I-20 433 453         # 433 TX360
 GA I-20 44 57           # GA6 I-75
 
+# I-25
+CO I-25 200 210A        # I-225 Colfax
+CO I-25 150 197         # Academy Blvd CO88
+CO I-25 100A 139        # US50 US24
+
 # I-26
 NC I-26 31 67           # I-40 US74
+
+# I-29
+MO I-29 2H(35) 10       # I-70 Tiffany Springs Pkwy
 
 # I-30
 TX I-30 21C 45          # I-820 DT Dallas
 
 # I-35
+MN I-35W I-35(88) FraAve
+MN I-35Far 69 88A       # MN19 I-35E/W
+MN I-35Far IA/MN 55     # IA/MN I-35BLFar
+IA I-35 MO/IA IA/MN     # IA Clinched
+MO I-35 16 MO/IA        # MO152 MO/IA
+KS I-35 225B 231        # US69 I-635
 TX I-35E 437 440        # TX12 I-635
 TX I-35E 445 448        # GeoBushTpk Hebron Pkwy
 TX I-35E 428B 428C      # I-30 Commerce St
@@ -60,8 +77,23 @@ TN I-40 443 TN/NC       # FooPkwyCos TN/NC
 NC I-40 TN/NC 46        # TN/NC I-26
 NC I-40 131B(85) 259    # I-85 Concurrency
 
+# I-44
+MO I-44 1 6             # US400 I-44BLJop
+MO I-44 15 69           # I-44BLJop MO360
+MO I-44 77 84           # MO13 Buc-Ees
+
+# I-49
+MO I-49 175 I-435       # 163rd St I-435
+MO I-49 157 174         # MO7 MO58
+
 # I-64
 VA I-64 200 299         # I-295 I-264
+
+# I-70
+UT I-70 157 UT/CO       # US6 UT/CO
+CO I-70 UT/CO 114       # UT/CO West Glenwood
+CO I-70 116 262         # CO82 Colfax Ave
+MO I-70 2H 11           # I-29 US40
 
 # I-71
 OH I-71 231 238         # OH82 I-480
@@ -116,11 +148,18 @@ ID I-86 1 63            # Clinched
 # I-90
 WA I-90 WA519 WA/ID     # Clinched
 ID I-90 WA/ID 12        # WA/ID US95
+MT I-90 309 437         # US191 E Laurel
+MT I-90 446A 456        # King Ave I-94
 OH I-90 OH2_W 145       # I-80 -> OH2
 MA I-90 106 137         # I-495 Logan Airport
 
 # I-93
 MA I-93 1 17            # I-95 DT Boston
+
+# I-94
+MT I-94 0 MT/ND         # Clinched MT
+ND I-94 MT/ND ND/MN     # Clinched ND
+MN I-94 ND/MN 216       # ND/MN I-494
 
 # I-95
 MA I-95 RI/MA 26        # RI/MA I-93
@@ -160,6 +199,9 @@ NV I-215 10 12          # I-15 NV171
 
 # I-215 (UT)
 UT I-215 12 I-15        # I-15 I-15
+
+# I-225 (CO)
+CO I-225 I-25 5         # I-25 Illif Ave
 
 # I-238 (CA) - Clinched
 CA I-238 14 17
@@ -219,6 +261,11 @@ WA I-405 I-5(154) I-5(182)
 # I-410 (TX)
 TX I-410 I-35(145A) 27  # North half I-35 to I-35
 
+# I-435 (KS/MO)
+KS I-435 6A KS/MO       # Shawnee Mission Pkwy KS/MO
+MO I-435 KS/MO 24       # KS/MO MO152
+MO I-435 65 71          # Eastwood Trafficway I-49
+
 # I-464 (VA) - Clinched
 VA I-464 1 6B           # I-64 I-264
 
@@ -227,6 +274,9 @@ OH I-480 9 10
 
 # I-485 (NC)
 NC I-485 67 10          # I-77 I-85
+
+# I-494 (MN)
+MN I-494 5 27           # I-35W I-94
 
 # I-495 (MA)
 MA I-495 58 63          # I-90 US20
@@ -238,9 +288,6 @@ VA I-495 MD/VA 170(95)  # MD/VA I-95
 # I-505 (CA) - Clinched
 CA I-505 1A I-5
 
-# I-515 (NV)
-NV I-515 65 76          # Russel Rd I-15
-
 # I-575 (GA) - Clinched
 GA I-575 I-75 GA5
 
@@ -250,6 +297,10 @@ CA I-580 29B 65         # Oakland Zoo I-205
 
 # I-605 (CA)
 CA I-605 7A 9B          # CA91 I-105
+
+# I-635 (KS/MO) - Clinched
+MO I-635 KS/MO 12
+KS I-635 1A KS/MO
 
 # I-635 (TX)
 TX I-635 19B 27B        # Microcenter I-35E
@@ -288,7 +339,8 @@ WA US2 HayRd HawRd
 MT US2 I-15 I-15BL_N
 
 # US6
-UT US6 I-15(257B) UT147
+UT US6 I-15(244) UT/CO
+CO US6 I-70(205) DilDamRd
 OH US6 OH4 142(2)
 
 # US12
@@ -319,7 +371,8 @@ FL US19 HaiRd FL60
 # US20
 OR US20 I-5 OR34_E
 OR US20 OR228 OR/ID
-ID US20 OR/ID SciCenDr
+ID US20 OR/ID ID/MT     # Clinched ID
+MT US20 ID/MT US191/287_N
 MA US20 MA135 I-495
 
 # US22
@@ -327,6 +380,9 @@ PA US22 I-83 PA39_E
 
 # US23
 OH US23 OH315 140       # OH315 OH4
+
+# US24
+CO US24 304A CO83
 
 # US26
 OR US26 US101 US97_S
@@ -349,7 +405,14 @@ ID US30 I-15(47) ID34_S
 
 OR US30HisCol I-84(18) I-84(37)
 
+# US34
+IA US34 I-35 US69
+
+# US36
+MO US36 I-35 MOsD_Cal
+
 # US40
+MO US40 SteAve I-70(11)
 MD US40 US15_N I-70(53)
 
 # US41
@@ -363,12 +426,24 @@ KY US42 KY8 KY/OH
 KY US42 KY842 I-75(180)
 
 # US50
+CO US50 100A(25) CO/KS
+KS US50 CO/KS 14thAve
 DC US50 SouDakAve DC/MD
 MD US50 DC/MD US301_N
 
 # US58
 VA US58 VA141/164 VA337_N
 VA US58 VA225 LynPkwy
+
+# US60
+MO US60 MO360/413 US65
+
+# US65
+MO US65 AR/MO I-44
+AR US65 AR14_E AR/MO
+
+# US69
+KS US69 95thSt I-35(225B)
 
 # US74
 NC US74 NC60 74
@@ -380,12 +455,16 @@ TX US75 I-635 GeoBushTpk
 # US76
 GA US76 GA5/515 GA60
 
+# US85
+CO US85 LakeAve_E CO115(46)
+
 # US89
 MT US89 US87_N I-15(278)
 UT US89 US91_S US91_N
 UT US89 I-15(324) UT134
 UT US89 UT93 I-15(317A)
 UT US89 UT171 NTem_W
+UT US89 10600S UT209
 UT US89 UT180 UT145
 UT US89 US189 UT52
 
@@ -399,7 +478,7 @@ FL US92 FL687/694 FL618_W
 
 # US93
 ID US93 NV/ID ID25
-NV US93 I-515(65) NV/ID
+NV US93 I-11(65) NV/ID
 
 # US95
 ID US95 I-84(3) USA/CAN
@@ -432,9 +511,17 @@ WA US101AltIlw US101_S US101_N
 # US130
 NJ US130 DeyRd NJ32
 
+# US169
+MN US169 CR83_Sha I-494
+
 # US189
 UT US189 UT265 US40(4)
 UT US189 I-15 US89
+
+# US191
+MT US191 WY/MT I-90(309)
+WY US191Yel MT/WY WY/MT
+MT US191WYe US20_W MT/WY
 
 # US192
 FL US192 US1 FLA1A
@@ -456,6 +543,9 @@ OH US250 ButSt OH2
 # US281
 TX US281 I-410(21) StoOakPkwy
 
+# US285
+CO US285 CO121 I-25
+
 # US301
 DE US301 MD/DE DE1
 MD US301 US50(13) MD/DE
@@ -471,10 +561,14 @@ VA US360 I-295 WalGroRd
 
 # US395
 WA US395 OR/WA HolAve
-OR US395 I-84(188) CR1201
-OR US395 SouPl I-84(209)
+OR US395 SouPl OR/WA
 OR US395 CR63 US26_W
 OR US395 US20_W US20_E
+
+# US400 - Clinched
+CO US400 US50/385 CO/KS
+KS US400 CO/KS KS/MO
+MO US400 KS/MO I-44
 
 # US441
 TN US441 CliDomeAccRd TN449
@@ -486,6 +580,12 @@ WA US730 OR/WA US12
 
 
 ### State Routes ###
+
+## Arkansas ##
+
+# AR14
+AR AR14 US65_N MainSt
+
 
 ## California ##
 
@@ -576,6 +676,27 @@ CA CA238 I-680 CA84_E
 
 # CA262 - Clinched
 CA CA262 I-880 I-680
+
+
+## Colorado ##
+
+# CO82
+CO CO82 I-70 6thSt
+
+# CO83
+CO CO83 CO88 I-225
+
+# CO88
+CO CO88 I-25(197) CO83
+
+# CO121
+CO CO121 BowAve US285
+
+# CO470
+CO CO470 1 7            # I-70 Bowles Ave
+
+# Business Loops
+CO I-70BLDen I-70(262) DenWBlvd
 
 
 ## Connecticut ##
@@ -708,6 +829,9 @@ ID ID22 ID33 I-15
 # ID27
 ID ID27 21stSt I-84
 
+# ID25
+ID ID25 I-84(165) I-84(201)
+
 # ID33
 ID ID33 US20/26 ID22
 
@@ -741,6 +865,9 @@ ID ID69 OrcAve I-84
 # ID75
 ID ID75 US20 ID21
 
+# ID77 - Clinched
+ID ID77 ID81_S I-84
+
 # ID78
 ID ID78 ID51_N BruSanDun
 
@@ -769,7 +896,65 @@ KY KY236 I-71/75 LooRd
 MD MD18 CasMarRd PinRd
 
 
+## Minnesota ##
+
+# MN19
+MN MN19 CR46_S I-35
+
+# MN21
+MN MN21 MN60 CR46
+
+# MN62
+MN MN62 I-35W_N MN77
+
+# MN77
+MN MN77 KilDr MN62
+
+# Business Loops
+MN I-35BLFar I-35_S I-35_N
+MN US169BusSha CR83 US169_N
+
+
+## Missouri ##
+
+# MO7
+MO MO7 MO13/18 I-49(157)
+
+# MO9
+MO MO9 BarRd_W I-29
+
+# MO13
+MO MO13 MO744 MO7/13Bus
+
+# MO58
+MO MO58 MOsY I-49
+
+# MO76
+MO MO76 IndPtRd MO248_E
+
+# MO152
+MO MO152 I-435(24) ConAve
+MO MO152 I-29 I-35
+
+# MO248
+MO MO248 MO76 SheExpy
+
+# MO360 - Clinched
+MO MO360 I-44 US60/413
+
+# Business Loops
+MO I-44BLJop I-44_W 32ndSt
+MO I-44BLJop US71Bus I-44_E
+MO I-49BLJop E20thSt ZoraSt
+
+
 ## Montana ##
+
+# MT3
+MT MT3 I-90 I-90BL
+
+# MT16
+MT MT16 I-94 SR254
 
 # Business Loops
 MT I-15BLDil I-15_S I-15_N  # Clinched
@@ -790,7 +975,7 @@ NV NV445 I-80 NV659
 NV NV573 *FreRd I-15
 
 # NV593
-NV NV593 MarPkwy I-515
+NV NV593 MarPkwy I-11
 
 # Business Loops
 NV I-80BLElk NV225 I-80_E
@@ -818,6 +1003,12 @@ NY BeltPkwy 3 19            # I-278 JFK
 
 # NC60
 NC NC60 US64/74 NC/GA
+
+
+## North Dakote ##
+
+# ND22
+ND ND22 I-94 ND22Byp
 
 
 ## Ohio ##
@@ -903,7 +1094,7 @@ OR OR58 OR429 CreCutRd
 OR OR78 US20/395 US95
 
 # OR82
-OR OR82 MonAve WalRd
+OR OR82 US30 WalRd
 
 # OR99E
 OR OR99E JenSt Bro/WeiSt
@@ -1068,11 +1259,17 @@ UT UT13 I-15/84(376) UT102
 # UT26 - Clinched
 UT UT26 UT126 US89
 
+# UT30
+UT UT30 UT42 I-84(5)
+
 # UT32
 UT UT32 US40/189 JorRes
 
 # UT39
 UT UT39 I-15/84 US89
+
+# UT42 - Clinched
+UT UT42 ID/UT UT30
 
 # UT48
 UT UT48 UT68_N I-15
@@ -1081,7 +1278,10 @@ UT UT48 UT68_N I-15
 UT UT67 I-215 12
 
 # UT68
-UT UT68 UT48_E UT266
+UT UT68 UT151 UT266
+
+# UT79
+UT UT79 I-15 US89
 
 # UT93
 UT UT93 I-15 US89
@@ -1104,6 +1304,9 @@ UT UT134 I-15/84 UT235
 
 # UT145
 UT UT145 I-15 US89
+
+# UT151
+UT UT151 UT68 I-15
 
 # UT154
 UT UT154 UT201 I-80
@@ -1129,9 +1332,15 @@ UT UT201 I-80 7200W
 UT UT201 11 13
 UT UT201 15 I-15/80         # I-215 I-15/80
 
+# UT204
+UT UT204 UT39 US89
+UT UT204 UT26 UT79
 
 # UT224
 UT UT224 DeeValDr_E I-80
+
+# UT225 - Clinched
+UT UT225 I-15 UT106
 
 # UT232
 UT UT232 UT126 2000N
@@ -1143,7 +1352,7 @@ UT UT235 US89 UT134
 UT UT248 UT224 US40/189
 
 # UT265
-UT UT265 SanRd US89
+UT UT265 I-15 US89
 UT UT265 800E US189
 
 # UT266
@@ -1157,6 +1366,9 @@ UT UT269 I-15/80 US89
 
 # UT270 - Clinched
 UT UT270 900S US89
+
+# Business Loops
+UT I-70BLGre I-70_W BroSt
 
 
 ## Virginia ##
