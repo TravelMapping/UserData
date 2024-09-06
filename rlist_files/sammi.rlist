@@ -73,8 +73,8 @@ NJ NECorLn NewBru NY/NJ
 NY NECorLn NY/NJ PennSta
 NY 1 SouFry 96St
 NY 2 BarCen 96St  # includes 3
-NY 4 59St BarCen  # includes 5
-NY 6 59St BroBriCityHall
+NY 4 59St AtlAveBarCen  # includes 5
+NY 6 59thSt BroBriCityHall
 NY 7 34StHudYar FluMainSt
 NY A HowBeaJFK 59StColCir  # includes C
 NY B BriBea 59StColCir
@@ -90,6 +90,8 @@ NY R 57St7Av BayRidAve
 NY W 57St7Av WhiStSFry
 NY S42 TimSq GraCen
 NY SPro FraAve ProPk
+NY AirTrnHow HowBea T5
+NY AirTrnJam Jam T5
 
 TX RedLnHou DowTC Pre
 
@@ -114,11 +116,12 @@ ENG PicLnUxb PicCir KXSP
 ENG VicLn Vic KXSP
 ENG EliLn Pad CanWha
 ENG DLR CanWha CutSark
-ENG WMM WestBromCen EdgVil
+ENG WMM1 WestBromCen EdgVil
 SCT EdiTram StAndSq Hay
 SCT GlaSub Par_1 Par_2
 
 ENG SusMLE GatAir LonVic
+ENG ThaLnkRai Gre LonBla
 ENG GWML LonPad BriTemMea
 ENG XCML BriTemMea BriPkwy
 ENG SWalML BriPkwy ENG/WLS
@@ -136,17 +139,32 @@ SCT LowSle GlaCen ENG/SCT
 ENG LowSle ENG/SCT LonEus
 
 ENG LonPar LonStPanInt GBR/FRA
-FRA-HDF LonPar GBR/FRA HDR/IDF
+FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF LonPar HDF/IDF ParGareNord
+
+FRA-IDF M2 Cha BirHak
+FRA-IDF M3 Cha StLaz
+FRA-IDF M4 BarRoc DenRoc
+FRA-IDF M6 DenRoc MonBie
+FRA-IDF M7 GareEst Cha
+FRA-IDF A ChaHal GareLyon
+FRA-IDF B MasTGV StMicNotDame
+FRA-IDF C VirRiveGau StMicNotDame
+FRA-IDF D GareNord GareLyon
+FRA-IDF N VirRiveGau ParMon
+FRA-IDF FunMon Inf Sup
+
 FRA-IDF ParCol ParGareEst IDF/HDF
 FRA-HDF ParCol IDF/HDF HDF/GES
 FRA-GES ParColCha HDF/GES GES/HDF
 FRA-HDF ParColGou GES/HDF HDF/GES
 FRA-GES ParCol HDF/GES Str
 
+NLD IC35 AmsCen RotCen  # & onward to RotLom
+
 NLD B MasWest Bla
 NLD D RotCen Zui
-NLD 3Haa Spui StaLaanNOI
+NLD 3Haa Spui LaanNOI
 NLD 17Haa StaHolSpo DenHaagCen
 
 # TODO: Strasbourg - Basel - Zürich - Luzern - Amsterdam - Rotterdam
