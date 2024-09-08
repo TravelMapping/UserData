@@ -1763,7 +1763,7 @@ AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
 AL AL104 AL59 US98 #Trip to Grand Hotel 09052024  
-AL AL111 AL212 AL143 #Living in Prattville    
+AL AL111 AL14 AL143 #Living in Prattville    
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
 AL AL122 US84 AL302 #08252024 Travel Home to Bea's
@@ -1934,7 +1934,7 @@ FL US27 FLTpk(289) FL29
 FL US27 CR720_S FL997 
 FL US27 I-75(354) US301/441 #Silver Springs Trip with Kids 
 FL US29 FL/AL I-10 #Pensacola Beach Trip
-FL US29 US90/95 I-10 #Trip to Grand Hotel 09052024   
+FL US29 US90/98 I-10 #Trip to Grand Hotel 09052024   
 FL US41 US441_S US27_N #07272024 TFACC Meeting
 FL US90 US129 US441_S #07272024 TFACC Meeting
 FL US98 CR399 US98BusPen_E
@@ -1976,7 +1976,7 @@ FL FL79 FL20 CR279_S
 FL FL80 I-75 FL29_N #02122017 DeSoto NM Trip
 FL FL85 FL/AL US90 #07052024
 FL FL85 FL20 FL293 #07052024
-FL FL87 1-10 US98 #Trip to Grand Hotel 09052024
+FL FL87 I-10 US98 #Trip to Grand Hotel 09052024
 FL FL99 US90 IsaLn #Trip to Grand Hotel 09052024
 FL FL100 FL121 US1_S #03282018 Glades Board Meeting
 FL FL102 I-95 FL243 #07152018 Hilton Head Trip NTCA
@@ -1990,11 +1990,18 @@ FL FL207 US1 I-95 #07072017 Trip to St Augustine
 FL FL243 I-95 I-295 #07152018 Hilton Head Trip NTCA   
 FL FL267Qui FL20 US90_W
 FL FL267Qui US90_E FL/GA
+FL FL289 FL750 CR290 #09072024 Trip Back from The Grand  
+FL FL292 US90/98 US29 #09072024 Trip Back from The Grand
+FL FL295 PL292_Pen I-110 #09072024 Trip Back from The Grand  
+FL FL295WPe FL295 US90 #09072024 Trip Back from The Grand  
+FL FL298 US98 FL295 #09072024 Trip Back from The Grand
 FL FL300 GulfBeaDr US98/319
 FL FL417 17 26 #07272024 TFACC Meeting
 FL FL436 FL528 FL15 #07272024 TFACC Meeting
 FL FL492 US27/301 FL40 #Silver Springs Trip with Kids 
 FL FL528 11 42 #02112017 Trip to Canveral National Seashore
+FL FL750 FL291 I-110 #Pensacola Beach Trips from Airport 
+FL FL752 FL295 FL289 #09072024 Trip Back from The Grand
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
 FL FL886 US1 FloWay #Going on Crusies out of Miami
 FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
