@@ -55,7 +55,13 @@ FRA-IDF B ChaHal Lux
 FRA-IDF M7 Ope PalRoyMusLou
 
 # 2024-08-02
+FRA-IDF M9 BonNou Rep
 FRA-IDF M3 Bou ArtsMet
+
+# 2024-08-03
+FRA-IDF A CdGEto Aub
+FRA-IDF M1 GeoV PalRoyMusLou
+FRA-IDF M9 PorSaiClo BonNou
 
 #########
 # ITALY #
@@ -380,6 +386,9 @@ NC BluLn Car Par
 
 # 2023-11-11
 NC PI Cha Dur
+
+# 2024-09-02
+NC BluLn EastWestBlvd UNCChaMain
 
 ########
 # OHIO #

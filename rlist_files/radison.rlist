@@ -8,9 +8,9 @@ CO WLn FedCen UniSta
 
 DC BluLn VA/DC CapS
 DC GreLn LEnfPla DC/MD
-DC OraLn VA/DC CapS
+DC OraLn VA/DC CapSou
 DC RedLn WooPk FortTot
-DC SilLn VA/DC CapS
+DC SilLn VA/DC CapSou
 DC YelLn VA/DC GalPla
 
 FL MiaM IntCen MIA
@@ -25,6 +25,10 @@ MO MLRedLn Sta LacLan
 
 NV LVM MGMGra Har/Linq
 
+OK BriLoop MicMan SciPark_S
+
+OR BlueLn Qua SkiFou
+
 VA BluLn RRWasNatAir VA/DC
 VA OraLn BalMU VA/DC
 VA SilLn BalMU VA/DC
@@ -38,7 +42,8 @@ DEU-BE U6 FriStr KochStr
 
 DEU-NW 05Kol FriPla DomHbf
 DEU-NW 1Bie Hbf LandGer
-DEU-NW 705Dus UntRathS DusDorfHbf
+DEU-NW 705Dus UntRathS SchaStr
+DEU-NW 707Dus BilKir GrosMar
 DEU-NW 708Dus LandTagKnieBru BirStr
 DEU-NW S1 DusDorfFlugHaf DusDorfHbf
 DEU-NW S6 DusDorfDerDorf KolnHbf 
@@ -50,3 +55,6 @@ ENG BakLn Mar ChaCro
 ENG DisLn Ham WestHam
 ENG DisLnWim FulBdwy WestHam
 ENG DLRStI LonCityAir WestHam
+
+NLD 7Ams Vij Bil
+NLD 52Ams CenSta Vij

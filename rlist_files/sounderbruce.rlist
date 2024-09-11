@@ -83,10 +83,11 @@ OK BriLoop Bal SciPark_S
 OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
-OR BlueLn BeaTraCen Hol42ndAve
+OR BlueLn HatGovCen Hol42ndAve
 OR GreLn PSUSou RoseQuaTraCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen Hol42ndAve
+OR RedLn ParSumTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_S
@@ -101,7 +102,7 @@ TX MLnTro CityPlaNob_W FedHar
 
 UT GreLn CityCen Air
 
-WA 1 Nor AngLake
+WA 1 Lyn AngLake
 WA 2 SBel RedTec
 WA N Eve Sea
 WA S Sea Lak

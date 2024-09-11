@@ -14,8 +14,8 @@ AK GlaDis Por_S +DIV_Por_C
 CA BARTBlue DalyCity DubPle
 CA BARTGre DalyCity Fre
 CA BARTOra Fre Ric
-CA BARTRed SanFraAir Ric
-CA BARTYel SanFraAir Con
+CA BARTRed Mil Ric
+CA BARTYel Mil Con
 
 #CA Cable Cars
 CA CalSt VanNess Dru
@@ -82,9 +82,8 @@ WA T TacDome 4thSt
 
 #US Airports
 AZ PHX RenCarCen T4
-CA AirTrnRed Ter2 GarG/BART_F
-CA AirTrnBlue RenCarCen +DIV_RedLn
-CA AirTrnBlue Ter2 Loop
+CA AirTrnRed GarG/BART_S GarG/BART_F
+CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
 GA SkyTrn Air RenCarCen
 MN HubTram Ter1 HubBui
@@ -147,6 +146,12 @@ FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
+
+GRC 1Ath Thi Omo
+GRC 2Ath Acr Omo
+GRC 3Ath Mon Aer
+GRC T6 Syn Pik
+GRC T7 +DIV_T6 Kol
 
 SCT HMLEdi EdiWav Sti
 

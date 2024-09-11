@@ -1,5 +1,5 @@
 # ──────────
-# 2024-08-01
+# 2024-09-02
 # ──────────
 
 # ─────────
@@ -58,6 +58,7 @@ CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste StaBol
 CZE S33 MlaBolHlaNad Mel
 CZE S40 Tel KraNadVlt
+CZE S45 Kla KraNadVlt
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -86,6 +87,8 @@ CZE 5Brn Ces MenNam
 CZE 8Brn NemBoh HlaNad
 
 CZE S2Jih Let BrnoHlaNad
+CZE S4Jih NamOsl BrnoHlaNad
+CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
@@ -95,6 +98,7 @@ CZE S53Jih Bre Lan
 # ───
 
 CZE U1 Most DecHlaNad
+CZE U3 Lit LouLit
 CZE U4 UstiNadLabHlaNad Hne
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
@@ -106,6 +110,7 @@ CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
 CZE T11 Tel DecHlaNad
 
@@ -213,7 +218,8 @@ ENG BakLn Ken Wat
 ENG CenLnEal SheBush GanHill
 ENG CirLn Bar Mon
 ENG DisLnEdg PutBri Pad
-ENG JubLn BakSt Sou
+ENG JubLn BakSt Wes
+ENG JubLn Wat Sou
 ENG MetLn Ric BakSt
 ENG NorLnMHE MillHillEast ChaCro
 ENG PicLn TurLn Coc
@@ -263,6 +269,16 @@ HUN 60Bud Var SzeHegyGye
 #└───────────────────────────────────────────┘
 
 POL L7 DEU/POL POL/CZE
+
+#┌───────────────────────────────────────────┐
+#│                    SCT                    │
+#└───────────────────────────────────────────┘
+
+# ───────
+# Glasgow
+# ───────
+
+SCT GlaSub Par_1 Par_2
 
 #┌───────────────────────────────────────────┐
 #│                    SVK                    │

@@ -14,15 +14,29 @@ NY Q 34StHerSq ConIslStiAve
 NY R 34StHerSq BayRid95St
 NJ PATHH33 Hob NY PATHH33 33St
 NJ PATHHWT Hob NY PATHHWT WTC
+NJ PATHNWT NewPenn NY PATHNWT WTC
+NJ NLRBSE PennSta NJ NLRBSE BroadStSta
+NJ HBLR8HT 8thSt HobTer
+NJ HBLRWST WestSideAve TonAve
+NJ NLRCS PennSta GroSt
+NJ RivLn EntCen Tre
+PA PATCO 15th16thLoc NJ PATCO Lin
+PA MarFraLn 34th 15th
 
 FL ExpMon TraTicCen_1 TraTicCen_2
 NY NewHavLn GraCen NY NewHavLn NewRoc
-NJ BerCouLn Hob Rid
-NJ MainLn Hob Rid
-NY MonBooLn PennSta NJ MonBooLn SecJct
-NY MorEssLn PennSta NJ MorEssLn SecJct
-NY MorEssLn PennSta NJ MorEssLn SecJct
-NY NJerCoaLn PennSta NJ NJerCoaLn SecJct
+PA AtlCityLn Phi30thSt NJ AtlCityLn AtlCity
+NJ BerCouLn Hob NY BerCouLn Suf
+NJ GlaBra Sum Gla
+NJ MainLn Hob NY MainLn Suf
+NJ MonBooLn NY/NJ SecJct
+NJ MonBooLn NewBroSt Hac
+NJ MorEssLn NY/NJ Hac
+NY NECorLn PennSta NJ NECorLn Tre
+NJ NECorLnPri PriJct Pri
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ PasVlyLn Hob NY PasVlyLn SprVly
+NJ RarVlyLn NewPenn HighBri
 NJ PATHH33 Hob NY PATHH33 33St
 NJ PATHNWT ExcPla NY PATHNWT WTC
 

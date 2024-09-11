@@ -5,7 +5,7 @@ DC RedLn MetCen UniSta
 DC YelLn VA/DC Arc
 IL BlueLn Cum Jac
 IL BroLn Pau Loop
-IL GreLn ConCePkDr Gar
+IL GreLn ConCenPkDr Gar
 IL PinkLn Polk Loop
 IL PurLn How Lin
 IL RedLn Gar How
@@ -35,12 +35,13 @@ CA GreLn GasQua Sta
 CO ELn EmpFieMileHigh UniSta
 MA GreLnD Lon NorSta
 MN BlueLine MallofAmerica MSPTerminal1
+MN GreenLine TargetFieldPlatform2 UnionDepot
 MO MLBlueLn Ski CenWestEnd
 MO MLRedLn LamAirTer2 CenWestEnd
 TX RedLnHou FanS Pre
 
 # Streetcars
-FL TECO DickGrePla CenYbor
+FL TECO DickGrePla CenPark
 MI QLn GraBlvd ConSt
 WI HopMLn Int BurCom
 WI KenStr 11thAve54thSt_S 11thAve54thSt_N

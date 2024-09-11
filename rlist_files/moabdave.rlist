@@ -11,7 +11,7 @@ ECU MetQui Lab SanFra
 FRA-IDF B GareNord AerCDG2TGV
 FRA-IDF B +DIV_CW MasPal
 FRA-IDF CVer VerChaRiveGau StMicNotDame
-FRA-IDF Cver GareAus Juv
+FRA-IDF C GareAus +DIV_Eta
 FRA-IDF CDGVAL Ter2Gare Ter1
 FRA-IDF M1 PorMai GareLyon
 FRA-IDF M4 StMic GareNord
@@ -76,6 +76,7 @@ NV VirTruRR CarCity VirCity
 #New York
 NY Q 34StHerSq 57St7Av
 NY 1 SouFry 59StColCir
+NY ML *OldNiaFal PennSta
 
 #Pennsylvania
 PA LanDoyLn Phi30thSt Lan
