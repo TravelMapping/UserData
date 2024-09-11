@@ -1810,22 +1810,28 @@ AZ I-40BLFla I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
 AZ I-40BLSel I-40_W I-40_E #07192024 Travel to Flagstaff to visit Parks
 AZ I-40BLWil I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks 
 AZ US60 200A(17) 150A(10)
-AZ US60 154(10) AZ188  
+AZ US60 154(10) AZ188
+AZ US60 AZ188 AZ77_N #09082024 Travel to Visit Navopache Electric   
 AZ US89 AZ64 I-40BL/180 
 AZ US89AltFre AZ/UT AZ67
 AZ US93 67 I-40(48) #07192024 Travel to Flagstaff to visit Parks  
 AZ US160 AZ/NM US191_S  #06292024
 AZ US191 US160_W BIA7  #06292024
 AZ US191 AZ181 AZ80
+AZ US191 I-40(333) BIA6 #09092024 Navopache to Grand Junction
+AZ US191 US160_E AZ/UT #09092024 Navopache to Grand Junction   
 AZ US66HisFla US180_E I-40(204) #07192024 Travel to Flagstaff to visit Parks
-AZ US66HisKin I-40(139) ToUS93 #07192024 Travel to Flagstaff to visit Parks   
+AZ US66HisKin I-40(139) ToUS93 #07192024 Travel to Flagstaff to visit Parks
+AZ US66HisHol I-40(285) I-40(289) #09092024 Navopache to Grand Junction     
 AZ MonCanRd AZ92 CorMemOve
 AZ BonCanRd PinCanRd MasPt
 AZ LoopRd US89_N US89_S #07192024 Travel to Flagstaff to visit Parks    
 AZ SkyHarBlvd I-10 AZ202
-AZ WalCanRd I-40 VisCen #07192024 Travel to Flagstaff to visit Parks 
+AZ WalCanRd I-40 VisCen #07192024 Travel to Flagstaff to visit Parks
+AZ AZ24 AZ202 IroRd #09082024 Travel to Visit Navopache Electric   
 AZ AZ64 I-40 US89
 AZ AZ67 US89Alt BriAngPt
+AZ AZ77 US60_E I-40(286) #09092024 Navopache to Grand Junction 
 AZ AZ80 US191 AZ90
 AZ AZ82 I-19BL AZ90
 AZ AZ85 I-8 Mex/USA
@@ -1833,12 +1839,15 @@ AZ AZ86 AZ85 16thAve
 AZ AZ90 AZ82 AZ92
 AZ AZ90 AZ80 AZ92 
 AZ AZ92 AZ90 MonCanRd
-AZ AZ95Bul CA/AZ BulPkwy #07192024 Travel to Flagstaff to visit Parks  
+AZ AZ95Bul CA/AZ BulPkwy #07192024 Travel to Flagstaff to visit Parks
+AZ AZ101 55A 61B #09082024 Travel to Visit Navopache Electric 
+AZ AZ1438 McDRd 1 #09082024 Travel to Visit Navopache Electric   
 AZ AZ181 PinCanRd US191 
 AZ AZ186 I-10 AZ181  
 AZ AZ188 US60 GraAirRd
 AZ AZ202 1A 78
-AZ AZ210 BroBlvd GolfLinRd   
+AZ AZ210 BroBlvd GolfLinRd
+AZ AZ260 US60_E WooLakeRd #09082024 Travel to Visit Navopache Electric     
 AZ AZ389 UT/AZ US89Alt  
 CA I-5 MEX/USA 135C #MC Tijuana Trip
 CA I-10 CA/AZ 1 #Trip to 29Palms
@@ -1992,7 +2001,7 @@ FL FL267Qui FL20 US90_W
 FL FL267Qui US90_E FL/GA
 FL FL289 FL750 CR290 #09072024 Trip Back from The Grand  
 FL FL292 US90/98 US29 #09072024 Trip Back from The Grand
-FL FL295 PL292_Pen I-110 #09072024 Trip Back from The Grand  
+FL FL295 FL292_Pen I-110 #09072024 Trip Back from The Grand  
 FL FL295WPe FL295 US90 #09072024 Trip Back from The Grand  
 FL FL298 US98 FL295 #09072024 Trip Back from The Grand
 FL FL300 GulfBeaDr US98/319
@@ -2512,6 +2521,7 @@ UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
 UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
+UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
 UT US491 US191 CO/UT #11302021 Inventory Trip
 UT ZionCynDr UT9 End #Zion Canyon Visit      
 UT UT9 I-15 US89 #Trip to Zion with Family and Other Zion Visits
@@ -2527,6 +2537,7 @@ UT UT56 UT130 I-15 #11172017 Pipe Spring Utah Park Trip
 UT UT59 UT9 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT UT83 I-84 UT13 #08052017 TFACC Meeting Trip
 UT UT92 AshBlvd US189 #08052017 TFACC Meeting Trip
+UT UT128 US191 I-70/6 #09092024 Navopache to Grand Junction 
 UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip 
 UT UT143 US89 UT148 #11172017 Pipe Spring Utah Park Trip
 UT UT148 UT143 UT14 #11172017 Pipe Spring Utah Park Trip 
