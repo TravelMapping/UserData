@@ -2186,7 +2186,7 @@ NM I-40 335 NM/TX
 # NEW YORK #
 ############
 
-# 2017-05-28
+# 2017-05-29
 NY I-90 B2 NY/MA
 NY TacStaPkwy 99 I-90
 NY NY203 DugRd TacStaPkwy
@@ -2196,6 +2196,22 @@ NY NY23 CR23B_E NY9G_N
 NY I-87 20(NYST) 21(NYST)
 NY NY32 US9W_Gla NY212_W
 NY US9W UlsAve_S NY32_Gla
+
+# 2017-05-30
+NY NY199 US9W/209 NY9G_S
+NY NY9G US9_Rhi NY199_W
+NY US9 US44 NY9G_Rhi
+NY NY55 US9 TacStaPkwy
+NY TacStaPkwy 17A 47
+NY NY35 TacStaPkwy NY118_S
+NY NY129 UndAve NY118
+NY TacStaPkwy 2 13
+NY SprBroPkwy BroRivPkwy TacStaPkwy
+NY BroRivPkwy 11(S) SprBroPkwy
+NY CroCouPkwy 6 9
+NY HutRivPkwy 1A 6B
+NY I-678 JFKAir 19
+NY BeltPkwy 17 20
 
 ##################
 # NORTH CAROLINA #
