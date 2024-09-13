@@ -1801,6 +1801,7 @@ AL AL302 AL122 US84 #08252024 Travel Home to Bea's
 AZ I-8 178 115A 
 AZ I-10 CA/AZ AZ/NM #29Palms Drive
 AZ I-15 NV/AZ AZ/UT
+AZ I-17 341 200A #09122024 Grand Junction to Phoenix 
 AZ I-19 I-19BL 101 
 AZ I-40 48 AZ/NM #Vegas Trip
 AZ I-40 48 CA/AZ #07192024 Travel to Flagstaff to visit Parks
@@ -1814,11 +1815,14 @@ AZ US60 154(10) AZ188
 AZ US60 AZ188 AZ77_N #09082024 Travel to Visit Navopache Electric   
 AZ US89 AZ64 I-40BL/180 
 AZ US89AltFre AZ/UT AZ67
+AZ US89 US160 AZ64 #09122024 Grand Junction to Phoenix
 AZ US93 67 I-40(48) #07192024 Travel to Flagstaff to visit Parks  
 AZ US160 AZ/NM US191_S  #06292024
+AZ US160 US163 US89 #09122024 Grand Junction to Phoenix
+AZ US163 AZ/UT US160 #09122024 Grand Junction to Phoenix  
 AZ US191 US160_W BIA7  #06292024
 AZ US191 AZ181 AZ80
-AZ US191 I-40(333) BIA6 #09092024 Navopache to Grand Junction
+AZ US191 I-40(333) BIA7 #09092024 Navopache to Grand Junction
 AZ US191 US160_E AZ/UT #09092024 Navopache to Grand Junction   
 AZ US66HisFla US180_E I-40(204) #07192024 Travel to Flagstaff to visit Parks
 AZ US66HisKin I-40(139) ToUS93 #07192024 Travel to Flagstaff to visit Parks
@@ -1841,7 +1845,7 @@ AZ AZ90 AZ80 AZ92
 AZ AZ92 AZ90 MonCanRd
 AZ AZ95Bul CA/AZ BulPkwy #07192024 Travel to Flagstaff to visit Parks
 AZ AZ101 55A 61B #09082024 Travel to Visit Navopache Electric 
-AZ AZ1438 McDRd 1 #09082024 Travel to Visit Navopache Electric   
+AZ AZ143 McDRd 1 #09082024 Travel to Visit Navopache Electric   
 AZ AZ181 PinCanRd US191 
 AZ AZ186 I-10 AZ181  
 AZ AZ188 US60 GraAirRd
@@ -2518,6 +2522,7 @@ UT US89 UT9 US89Alt #11172017 Pipe Spring Utah Park Trip
 UT US89 I-70(56) UT143 #11172017 Pipe Spring Utah Park Trip
 UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante 
 UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
+UT US163 US191 AZ/UT #09122024 Grand Junction to Phoenix
 UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
 UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
