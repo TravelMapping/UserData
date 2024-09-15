@@ -43,3 +43,22 @@ NJ PATHNWT ExcPla NY PATHNWT WTC
 DC GreLn Arc MD GreLn ColPk
 VA SilLn Cla DC SilLn McPSq
 MA GreLnE Pru NorSta
+
+DEU-BY S2 Dac MarPla
+DEU-BY S8 IsarTor FlugHafMun
+DEU-BY U3 OlyZen DEU-BY U3 OdePla
+DEU-BY U4 SchThaHohe DEU-BY U4 PriRegPla
+DEU-BY U5 HeiPla DEU-BY U5 MaxWebPla
+DEU-BY 16Mun MarPla HerPla
+DEU-BY 17Mun AmaBurgStr IsarTor
+DEU-BY 17Mun FriEngVilStu HerPla
+DEU-BY 19Mun NatThe MaxWebPla
+DEU-BY 21Mun NatThe MaxWebPla
+(north line to Rosenberg, then Salzburg)
+(ICE to Berlin Hbf)
+DEU-BE S2 FriStr AnhBf
+DEU-BE S3 ZooGar FriStr
+DEU-BE S5 AlePla WarStr
+DEU-BE U2 MenBatPark StaMit
+DEU-BE U5 UntLin AlePla
+(plus DB Hbh to Potsdamer, Obh to Dbh)
