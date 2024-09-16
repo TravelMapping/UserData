@@ -1,4 +1,4 @@
-# Date: 2024-09-01
+# Date: 2024-09-16
 # ----------------
 
 ######################
@@ -717,6 +717,9 @@ FRA-BFC T2Dij Val CheCen             #2023
 FRA-IDF M1 DefGraArc ChaVin          #2019
 FRA-IDF M7 Cou8Mai1945 PorCho        #2019
 FRA-IDF M14 SaiLaz Oly               #2019
+
+FRA-OCC A BasCam BalGra              #2024
+FRA-OCC B Bor JeanJau                #2024
 
 FRA-PAC M1 LaRose Fou                #2018
 FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
