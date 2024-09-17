@@ -1,3 +1,5 @@
+#### UNITED STATES OF AMERICA ####
+# Interstates
 # usai, usaib, usaif
 # ---------------------
 # I-2
@@ -505,6 +507,7 @@ HI I-H3 1A KanSta
 # I-H201
 HI I-H201 1A I-H1
 
+# US Routes
 # usaus, usausb, usaush - routes concurrent with usai may not be catalogued here
 # ---------------------
 # US 1
@@ -3209,9 +3212,8 @@ WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to M
 WY GraLoopRd NEntRd_W NEntRd_E         # -- Yellowstone NP - Grand Loop Road
 WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
-# Canada
+#### CANADA ####
 # ---------------------
-
 # Trans Canada Highway
 # ---------------------
 ## Main Route
@@ -3306,7 +3308,7 @@ YT YT8 YT1 YT2                         # Tagish Road
 YT YT9 GeoBlaFry YT/AK                 # Top of the World HighwayS
 YT YT37 BC/YT YT1                      # Cassiar Highway
 
-# Mexico
+#### MEXICO ####
 # Baja California (MEX-BC)
 # ---------------------
 MEX-BC MEX1D MEX1_S MEX1_RosS
@@ -3322,6 +3324,16 @@ MEX-BC MEX3 MEX1_N AveMigHid
 # ---------------------
 MEX-SON MEX2 BC/SON C26
 
+#### UNITED KINGDOM ####
+# England
+# -------------------
+# gbna
+ENG A2 B210 B212
+ENG A5Lon A4205 A404
+ENG A4205 A5 B410
+
+# gbnb
+ENG B210 A2 A205
 
 
 #The below items are not active yet.  listing for future use but subject to change 
