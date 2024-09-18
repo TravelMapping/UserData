@@ -1,4 +1,4 @@
-# Date: 2024-09-16
+# Date: 2024-09-18
 # ----------------
 
 ######################
@@ -267,6 +267,10 @@ DEU-BY S1Fri Fre NeuFah                        #2024
 DEU-BY S2 AltoMun Erd                          #2024
 DEU-BY S7 WolHau DonBerBru                     #2024
 DEU-BY S8 Her OstBf                            #2024
+
+FRA-ARA ParEti +DIV_Per +DIV_Vie               #2024, traveled as regional train
+FRA-ARA NanLyon +DIV_Eti LyonPer               #2024, traveled as regional train
+#FRA-ARA Estressin Lyon-Vaise                  #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
 
 
 ######################
@@ -710,6 +714,14 @@ ENG JubLn BakSt WestHam   #2019, London Jubilee Line:        West Ham - Baker St
 ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxford Circle
 ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
+
+FRA-ARA MA Per VauVelSoie            #2024
+FRA-ARA MB ChaChaHer GenLavHop       #2024
+FRA-ARA MC HotVilLouPra Cui          #2024
+FRA-ARA MD GareVen GareVai           #2024
+
+FRA-ARA T3 GarePartDieuVil VauVelSoie#2024
+FRA-ARA T4 ChaChaHer GareVen         #2024
 
 FRA-BFC T1Dij DijGare QueCen         #2023
 FRA-BFC T2Dij Val CheCen             #2023
