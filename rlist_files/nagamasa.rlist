@@ -4,6 +4,11 @@
 ##                           ##
 ###############################
 
+#### ARE (UAE)
+ARE RedLn AirTer1 SobRea
+ARE GreenLn Bur AlRas
+ARE DXBTram DubMarMal DubMar_E
+
 #### AUS
 ### QLD
 ## CITYTRAIN
@@ -369,7 +374,7 @@ JPN OkiMon 1 7
 ### SEOUL
 KOR AREX A01 A11
 KOR 4 420 426
-KOR 1 126 128 
+KOR 1 128 130
 KOR 3 329 328
 
 #### LUX
