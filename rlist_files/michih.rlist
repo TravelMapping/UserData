@@ -1,4 +1,4 @@
-# Date: 2024-09-18
+# Date: 2024-09-20
 # ----------------
 
 ######################
@@ -271,6 +271,8 @@ DEU-BY S8 Her OstBf                            #2024
 FRA-ARA ParEti +DIV_Per +DIV_Vie               #2024, traveled as regional train
 FRA-ARA NanLyon +DIV_Eti LyonPer               #2024, traveled as regional train
 #FRA-ARA Estressin Lyon-Vaise                  #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
+FRA-PAC StrNice NiceVil FRA/MCO                #2024, traveled as Cannes - Menton regional train
+MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Menton regional train
 
 
 ######################
@@ -715,26 +717,29 @@ ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxfo
 ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-FRA-ARA MA Per VauVelSoie            #2024
-FRA-ARA MB ChaChaHer GenLavHop       #2024
-FRA-ARA MC HotVilLouPra Cui          #2024
-FRA-ARA MD GareVen GareVai           #2024
+FRA-ARA MA Per VauVelSoie             #2024
+FRA-ARA MB ChaChaHer GenLavHop        #2024
+FRA-ARA MC HotVilLouPra Cui           #2024
+FRA-ARA MD GareVen GareVai            #2024
 
-FRA-ARA T3 GarePartDieuVil VauVelSoie#2024
-FRA-ARA T4 ChaChaHer GareVen         #2024
+FRA-ARA T3 GarePartDieuVil VauVelSoie #2024
+FRA-ARA T4 ChaChaHer GareVen          #2024
 
-FRA-BFC T1Dij DijGare QueCen         #2023
-FRA-BFC T2Dij Val CheCen             #2023
+FRA-BFC T1Dij DijGare QueCen          #2023
+FRA-BFC T2Dij Val CheCen              #2023
 
-FRA-IDF M1 DefGraArc ChaVin          #2019
-FRA-IDF M7 Cou8Mai1945 PorCho        #2019
-FRA-IDF M14 SaiLaz Oly               #2019
+FRA-IDF M1 DefGraArc ChaVin           #2019
+FRA-IDF M7 Cou8Mai1945 PorCho         #2019
+FRA-IDF M14 SaiLaz Oly                #2019
 
-FRA-OCC A BasCam BalGra              #2024
-FRA-OCC B Bor JeanJau                #2024
+FRA-OCC A BasCam BalGra               #2024
+FRA-OCC B Bor JeanJau                 #2024
 
-FRA-PAC M1 LaRose Fou                #2018
-FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
+FRA-PAC M1 LaRose Fou                 #2018
+FRA-PAC M2 BouVil SaiMarDro           #2018, northern extension was only opened in 2019
+FRA-PAC 1Nic HenSap HopPas            #2024
+FRA-PAC 2Nic CADAMCenAdm PortLym      #2024
+FRA-PAC 3Nic StIsi AerTer2            #2024
 
 #2019, All routes in service as-of 2019 except of short T1 at west end
 HRV 2Zag Crn Sav                      #2019
