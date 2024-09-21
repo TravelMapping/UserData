@@ -81,6 +81,22 @@ AL AL59 AL182 AL180
 AL AL182 DolDr AL/FL
 
 # =============================================
+# AR - United States Interstate Highways (usai)
+# =============================================
+
+AR I-55 TN/AR 1
+
+# ============================================
+# AR - United States Numbered Highways (usaus)
+# ============================================
+
+AR US61 TN/AR I-55(1)
+AR US64 I-55(1) AR/TN
+AR US70 I-55(1) AR/TN
+AR US78 I-55(1) AR/TN
+AR US79 I-55(1) AR/TN
+
+# =============================================
 # AZ - United States Interstate Highways (usai)
 # =============================================
 
@@ -917,6 +933,13 @@ MN I-494 1B 2B
 # =====================================
 
 MN MN5 I-494(2B) I-494(1B)
+
+# =============================================
+# MS - United States Interstate Highways (usai)
+# =============================================
+
+MS I-55 291 MS/TN
+MS I-69 291(55) MS/TN
 
 MO I-29 2H(35) MO/IA
 MO I-35 2Y 8B
@@ -1998,8 +2021,22 @@ SC US76 I-26(101) I-26(107)
 SC SC14 I-385(22) I-385(19)
 
 TN I-24 44 46
+TN I-40 1E 12B
 TN I-40 208 209
+TN I-55 MS/TN TN/AR
 TN I-65 209(40) TN/KY
+TN I-240 12 I-40
+TN I-69FutMem MS/TN 2A(40)
+TN US61 I-55(12A) TN/AR
+TN US64 AR/TN I-55(12A)
+TN US70 AR/TN I-55(12A)
+TN US72 I-240 ForHilRd
+TN US78 AR/TN I-55(12A)
+TN US79 AR/TN I-55(12A)
+TN TN57 I-240 ForHilRd
+TN TN175 I-55 AirBlvd
+TN TN177 PopPk_S US72/57_E
+TN TN385Col I-240 TN175
 
 VA I-64 87 299
 VA I-66 1 28
