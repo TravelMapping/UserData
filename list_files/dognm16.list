@@ -1,9 +1,15 @@
 MA I-91 CT/MA 25
-MA MA9 I-91 MA116_S
+MA MA9 MA10_S EastSt_Amh
+MA MA116 BullHillRd BayRd
+MA MA63 MA116 PleSt
+MA MA47 MA9 BayRd_E
+MA MA10 MA141 MA9_W
+MA US5 EastSt MA9
 
 
+CT I-95 46 48
 CT I-84 NY/CT 51
-CT I-91 32A CT/MA
+CT I-91 1 CT/MA
 CT I-684 NY/CT CT/NY
 CT CT20 BraCon I-91
 CT CT75 CT20 CT140
@@ -14,7 +20,7 @@ NY I-84 68 NY/CT
 NY I-87 7(MDE) 4(NYST)
 NY I-95 NJ/NY 1C
 NY I-287 9A 9
-NY I-684 NY/CT 9
+NY I-684 CT/NY 9
 NY I-684Pur I-287 NY/CT
 NY CroCouPkwy 4 HutRivPkwy
 NY HutRivPkwy 8 15
@@ -47,7 +53,8 @@ WV I-81 VA/WV WV/MD
 #anika drove with no stops
 
 
-VA I-81 TN/VA 220(81)
+VA I-64 56 220(81)
+VA I-81 TN/VA 191
 VA I-81 222 VA/WV
 VA VA262 I-64/81 US11_S
 VA US250 US11/250Trk I-81
@@ -85,7 +92,10 @@ TX I-40 NM/TX TX/OK
 #anika drove with no stops
 
 
-NM I-40 AZ/NM NM/TX
+NM I-40 AZ/NM 332
+NM I-40 335 NM/TX
+NM I-40BLTuc NM104 I-40_E
+NM NM209 I-40 I-40BL/104
 #milan: got gas, kudra passed off to anika
 #tucumcari: stayed at the quality inn, had sonic
 
