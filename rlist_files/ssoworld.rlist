@@ -1,24 +1,32 @@
+####### Multinational Europe
+# Eurostar
+ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord # London - Paris direct non-stop
+
 ####### UK
 ### England
 # London
 # Underground
+## Jubilee Line
 ENG JubLn BakSt CanTown
-ENG BakLn Pad Emb
+## Bakerloo Line
+ENG BakLn Pad EleCas
+## Circle Line
 ENG CirLn RoyOak Pad_1
-ENG CirLn EdgRd_1 BakSt
-ENG CirLn TowHill Bla
+ENG CirLn EdgRd_1 EdgRd_2
+## Hammersmith and City Line
 ENG HaCLn EdgRd BakSt
+## Northern Line Barnet - Bank - Morden
+ENG NorLnBar Bank EleCas
 
 # Docklands Light Railway
-ENG DLRStI StarLane WooArs
-ENG DLR HerQua CutSark
+ENG DLRStI StarLane WooArs # Stratford International - Woolwich Arsenal
+ENG DLR HerQua CutSark     # Bank - Lewisham
 
 # Elizabeth Line
 ENG EliLnHea +DIV_HT5 Pad
 ENG EliLnShe HeaTer5 Pad
 
 # Heathrow Express
-ENG HEx LonPad HeaTer5
 ENG HEx LonPad HeaTer5
 
 ####### USA
