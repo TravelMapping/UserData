@@ -6,17 +6,12 @@ ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord # London - Paris direct non-st
 ### England
 # London
 # Underground
-## Jubilee Line
-ENG JubLn BakSt CanTown
-## Bakerloo Line
-ENG BakLn Pad EleCas
-## Circle Line
-ENG CirLn RoyOak Pad_1
+ENG JubLn BakSt CanTown    # Jubilee Line
+ENG BakLn Pad EleCas       # Bakerloo Line
+ENG CirLn RoyOak Pad_1     # Circle Line
 ENG CirLn EdgRd_1 EdgRd_2
-## Hammersmith and City Line
-ENG HaCLn EdgRd BakSt
-## Northern Line Barnet - Bank - Morden
-ENG NorLnBar Bank EleCas
+ENG HaCLn EdgRd BakSt      # Hammersmith and City Line
+ENG NorLnBar Bank EleCas   # Northern Line Barnet - Bank - Morden
 
 # Docklands Light Railway
 ENG DLRStI StarLane WooArs # Stratford International - Woolwich Arsenal
@@ -28,6 +23,17 @@ ENG EliLnShe HeaTer5 Pad
 
 # Heathrow Express
 ENG HEx LonPad HeaTer5
+
+####### FRANCE
+### Ille De France 
+# IDF RER
+FRA-IDF C ChaMarsTourEif Inv
+
+# Paris Metro
+FRA-IDF M2 CdGEto Vil
+FRA-IDF M3 Vil StLaz
+FRA-IDF M13 StLaz Inv
+FRA-IDF M12 Conc StLaz
 
 ####### USA
 ### California
