@@ -4406,6 +4406,7 @@ IL IL29 US51/16 GraAve_W
 IL IL29 IL9_W IL98
 IL IL29 IL18 IL17_W
 IL IL31 IL38 SilGlenRd
+# gap for road closure
 IL IL31 US20 I-90
 IL IL32 IL16_W CR4
 # also traveled most of route between CR4 and IL121,
