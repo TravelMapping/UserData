@@ -1,5 +1,5 @@
 # ──────────
-# 2024-09-18
+# 2024-09-23
 # ──────────
 
 # ─────────
@@ -107,6 +107,7 @@ CZE U11 Lou Lov
 CZE U12 Most Rak
 CZE U13 Most Zat
 CZE U14 Zat Rak
+CZE U28Dec DecHlaNad DEU-SN U28 BadSch
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
@@ -130,15 +131,16 @@ CZE 3Lib LidSadyZoo Spa
 
 CZE L2 DecHlaNad CesLipaHlaNad
 CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
+CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
 CZE L35 Tur Jic
 
-# ───────
-# Olomouc
-# ───────
+# ─────────────
+# Olomouc–IDSOK
+# ─────────────
 
+CZE 1Olo OkrSoud HlaNad
+CZE 2Olo NamRep HlaNad
 CZE 7Olo NreKre OkrSoud
 
 # ────────────
@@ -159,6 +161,12 @@ CZE S6Mor OstHlaNad LisFry
 CZE S6Mor FryMis FryNadOst
 CZE S9Mor OstKun CesTes
 CZE S22Mor MosJab MosJabZas
+
+# ──────────
+# Plzeň–IDPK
+# ──────────
+
+CZE 4Plz BozNem SadyPet
 
 #┌───────────────────────────────────────────┐
 #│                    AUT                    │
@@ -188,8 +196,6 @@ AUT S60 WienHau BruLei
 # ───────
 
 DEU-SN S1Dre RadZit Sch
-DEU-SN U28 BadSch CZE U28Dec DecHlaNad
-DEU-SN L7 CZE/DEU DEU/POL
 
 # ───────
 # München
@@ -269,7 +275,7 @@ HUN 60Bud Var SzeHegyGye
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
-POL L7 DEU/POL POL/CZE
+
 
 #┌───────────────────────────────────────────┐
 #│                    SCT                    │
