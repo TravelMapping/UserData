@@ -12,10 +12,11 @@ AK GlaDis Por_S +DIV_Por_C
 
 #CA BART
 CA BARTBlue DalyCity DubPle
-CA BARTGre DalyCity Fre
-CA BARTOra Fre Ric
+CA BARTGre DalyCity Ber
+CA BARTOra Ber Ric
 CA BARTRed Mil Ric
-CA BARTYel Mil Con
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
 
 #CA Cable Cars
 CA CalSt VanNess Dru
@@ -23,8 +24,11 @@ CA PowHyde Mar Bea
 CA PowMas Mar Bay
 
 #CA SF Muni
-CA MuniF 5thCyr Bea
+CA MuniF 17thCas Bea
+CA MuniK BalPark Emb
 CA MuniL Waw Emb
+CA MuniN +DIV_JN 4thKing
+CA MuniT Sun ChiRosePark
 
 #San Diego Trolley
 CA BlueLn SanYsiTC +DIV_Gre_N
@@ -43,26 +47,30 @@ NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
 NY 1 110StCatPkwy SouFry
-NY 2 CenPkN WallSt
-NY 3 CenPkN WallSt
+NY 2 CenPkN FlaAveBroCol
+NY 3 CenPkN NewLotsAve
 NY 4 161StYanSta BowGre
 NY 5 59St BowGre
 NY 6 +DIV_4/5 BroBriCityHall
 NY 7 34StHudYar JacHeiRooAve
-NY A 145St HowBeaJFK
+NY A 145St FarRocMottAve
 NY AOzo 145St +DIV_A
 NY B 145St BriBea
 NY C 145St EucAve
 NY D 145St ConIslStiAve
-NY E SutBlvdArcAve WTC
+NY E JamCenParArc WTC
 NY F +DIV_E ConIslStiAve
 NY G +DIV_A/C/F ChuAve
+NY J BroSt JamCenParArc
 NY L 8Ave 1Ave
+NY L BroJct CanRocPkwy
 NY G +DIV_A/C/F ChuAve
 NY N +DIV_7_E ConIslStiAve
 NY R JacHeiRooAve 59St
 NY Q +DIV_F_N ConIslStiAve
 NY S42 TimSq GraCen
+NY SRoc BroCha RocParkBea116St
+NY SPro FraAve ProPk
 NY W +DIV_7_E WhiStSFry
 NY SIR StGeo OldTown
 
@@ -82,6 +90,7 @@ WA T TacDome 4thSt
 
 #US Airports
 AZ PHX RenCarCen T4
+CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
@@ -89,6 +98,7 @@ FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
+NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 TX IAHSub TerA TerC
 
