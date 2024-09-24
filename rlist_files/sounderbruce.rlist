@@ -83,16 +83,20 @@ OK BriLoop Bal SciPark_S
 OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
-OR BlueLn HatGovCen Hol42ndAve
-OR GreLn PSUSou RoseQuaTraCen
+OR BlueLn HatGovCen CleAve
+OR GreLn PSUSou Gat99thAve
 OR OraLn UniStaGliSt Park
-OR RedLn BeaTraCen Hol42ndAve
-OR RedLn ParSumTraCen PorIntAir
+OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
+OR ALp 9thLov_N 9thLov_S
+OR BLp +DIV_Lov_S +SKIP_CenLib
+OR BLp GraHol +SKIP_11thMar
+OR BLp +DIV_Nor 11thMar_N
 OR NSLn BondLane +DIV_Wat
-OR NSLn 5thMon Joh_S
-OR NSLn +DIV_Lov_S +DIV_Nor
-OR NSLn +DIV_Lov_N Joh_N
+OR NSLn 5thMon Joh_N
+
+OR AC PorUniSta BC AC VanPacCen
+OR CS PorUniSta OR/WA
 
 TX CapMetRail How PlaSal
 TX BlueLn UniSta StPaul
@@ -111,9 +115,8 @@ WA SeaCenMon SeaCen WesCen
 WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
 
-WA AC TacDome WA AC Eve
-WA AC +DIV_Emp BC AC VanPacCen
-WA CS OlyLac SeaKingSt
+WA AC OR/WA USA/CAN
+WA CS OR/WA SeaKingSt
 WA EBSea SeaKingSt MT EBSea Whi
 
 AB BlueLn 69thSt Sad
@@ -128,6 +131,8 @@ BC ExpoLn Wat KingGeo
 BC ExpoLnPro Wat ProWayUni
 BC MilLn VCCCla LafLakeDou
 BC WestCoaExp CoqCen Wat
+
+BC AC USA/CAN VanPacCen
 
 ON TrilLine #Trillium Line (Ottawa)
 
