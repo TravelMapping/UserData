@@ -30,10 +30,13 @@ ENG HEx LonPad HeaTer5
 FRA-IDF C ChaMarsTourEif Inv
 
 # Paris Metro
+FRA-IDF M1 PalRoyMusLou HotVil
 FRA-IDF M2 CdGEto Vil
 FRA-IDF M3 Vil StLaz
+FRA-IDF M9 AlmaMar StAug
 FRA-IDF M13 StLaz Inv
 FRA-IDF M12 Conc StLaz
+FRA-IDF M14 StLaz Cha
 
 ####### USA
 ### California
