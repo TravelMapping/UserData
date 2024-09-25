@@ -2037,7 +2037,13 @@ IA US218 80 19 #08122021
 IA IA2 US218/27 CRV56 #03262019
 IA IA22 US218/27 US61_S #04252019
 IA IA27 10 MO/IA #08122021
-IA US6HisIow 1stAve_N 1stAve_S #08122021   
+IA US6HisIow 1stAve_N 1stAve_S #08122021
+ID I-90 WA/ID 12 #11072016 Telergee Board Meeting
+ID I-90 12 ID/MT #11082016 Telergee Board Meeting
+ID US12 ID/MT WA/ID #11092016 Telergee visit Big Hole NB   
+ID US95 I-90(12) NWBlvd #11072016 Telergee Board Meeting
+ID US95 US12_E ThuHillRd #11102016 Telergee visit Nez Perce NHP   
+ID MT43 ID/MT MT/ID #11092016 Telergee visit Big Hole NB     
 LA I-10 LA/MS TX/LA
 LA I-12 85 1A
 LA I-20 186 TX/LA
@@ -2100,6 +2106,22 @@ MN MN30 SD/MN US75/23 #07222019 NTCA Regional Meeting
 MO US61 MO/IA I-70 #08122021
 MO MO27 MO/IA US61 #08122021 
 MS US11 MS/AL I-59(169)
+MT I-90 ID/MT 201 #11082016 Telergee Board Meeting
+MT I-90BLDee I-90_W I-90_E #11092016 Visit Grant-Kohrs Ranch NHS
+MT US2 US93 GoiSunRd #Glacier NP Visit
+MT US2 MT49 GoiSunRd #Glacier NP Visit  
+MT US12 US93_S ID/MT #11092016 Telergee visit Big Hole NB
+MT US89 ManyGlaRd MT49 #Glacier NP Visit   
+MT US93 MT43 US12_W #11092016 Telergee visit Big Hole NB
+MT US93 SR503 US2 #Glacier NP Visit
+MT GoiSunRd US2 US89 #Glacier NP Visit    
+MT MT1 MT48 SR569 #11092016 Telergee visit Big Hole NB
+MT MT43 SR569 ID/MT #11092016 Telergee visit Big Hole NB
+MT MT43Los MT/ID US93 #11092016 Telergee visit Big Hole NB       
+MT MT48 I-90 MT1 #11092016 Telergee Board Meeting
+MT MT49 US89 US2 #Glacier NP Visit
+MT SR503 BeggParkDr US93 #Glacier NP Visit     
+MT SR569 MT1 MT43 #11092016 Telergee visit Big Hole NB
 NE I-76 CO/NE 3 #01142013 CO Inventory side trip to NPS Locations
 NE I-80 59 102 #01142013 CO Inventory side trip to NPS Locations
 NE I-80 22 59 #01142013 CO Inventory side trip to NPS Locations
@@ -2556,7 +2578,19 @@ VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
-VT US7 MA/VT US2_E #Trip with GJ Telergee 
+VT US7 MA/VT US2_E #Trip with GJ Telergee
+WA I-90 277 WA/ID #11072016 Telergee Board Meeting
+WA I-90 220A 277 #11102016 Telergee Return 
+WA US2 I-90(277) WA21_N #11072016 Telergee Board Meeting
+WA US12 WA/ID WA124_E #11102016 Telergee Return
+WA US12 WA124_W I-182(4) #11102016 Telergee Return
+WA US395 I-182(14) I-90(220A) #11102016 Telergee Return         
+WA WA21 US2_W WA174 #11072016 Telergee Board Meeting
+WA WA124 US12_E US12_W #11102016 Telergee Return  
+WA WA155 WA174 RooWay #11072016 Telergee Board Meeting 
+WA WA174 WA21 WA155 #11072016 Telergee Board Meeting
+WA WA240 I-182(4) JadAve #11102016 Visit Manhattan Project
+WA WA240BusRic WA240_W WA240_E #11102016 Visit Manhattan Project     
 WI I-41 164B 170B #Training Class in Green Bay
 WI I-43 72A 192 #Training Class in Green Bay   
 WI I-94 WI/IL 310C #Training Class in Green Bay    
