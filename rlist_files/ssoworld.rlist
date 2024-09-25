@@ -8,9 +8,8 @@ ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord # London - Paris direct non-st
 # Underground
 ENG JubLn BakSt CanTown    # Jubilee Line
 ENG BakLn Pad EleCas       # Bakerloo Line
-ENG CirLn RoyOak Pad_1     # Circle Line
-ENG CirLn EdgRd_1 EdgRd_2
-ENG HaCLn EdgRd BakSt      # Hammersmith and City Line
+ENG CirLn RoyOak PEdgRd_2  # Circle Line
+ENG HaCLn RoyOak +DIV_Cir  # Hammersmith and City Line
 ENG NorLnBar Bank EleCas   # Northern Line Barnet - Bank - Morden
 
 # Docklands Light Railway
@@ -39,6 +38,10 @@ FRA-IDF M12 Conc StLaz
 FRA-IDF M14 StLaz Cha
 
 ####### USA
+####### Multi-state USA
+# Amtrak
+CA PS SanFeDep +DIV_AntVly  # Pacific Surfliner
+
 ### California
 # Los Angeles
 ## LA Metro Subway
