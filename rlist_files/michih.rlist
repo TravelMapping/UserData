@@ -1,4 +1,4 @@
-# Date: 2024-09-20
+# Date: 2024-09-25
 # ----------------
 
 ######################
@@ -273,6 +273,8 @@ FRA-ARA NanLyon +DIV_Eti LyonPer               #2024, traveled as regional train
 #FRA-ARA Estressin Lyon-Vaise                  #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
 FRA-PAC StrNice NiceVil FRA/MCO                #2024, traveled as Cannes - Menton regional train
 MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Menton regional train
+
+#FRA-COR Ajaccio Bastia                        #2024
 
 
 ######################
@@ -787,6 +789,8 @@ ITA-LAZ MA  Bat Ana                   #2019, Roma
 ITA-LAZ MB  Reb Lau                   #2019, Roma
 ITA-LAZ MB1 Jon Bol                   #2019, Roma
 ITA-LAZ MC SanGio MonComPan           #2019, Roma
+
+ITA-SAR 1Sas StaFS EmiGar             #2024, Sassari
 
 LUX T1 LuxExpo LycBouWeg              #2023
 
