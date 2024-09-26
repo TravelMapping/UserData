@@ -29,9 +29,9 @@ RI AE RI/MA CT/RI
 RI ProLn RI/MA WicJct
 
 BEL S2 BruCen Lot
-DEU-BW S4Mon Bru HeiBergPfaGruWie
+DEU-BW S4Man Bru HeiBergPfaGruWie
 DEU-BW S6Man NeuEdiFriFeld BW/HE
-DEU-BW S7Man HeiBergPfaGruWie NeuEdiFriFeld
+DEU-BW S7 HeiBergPfaGruWie NeuEdiFriFeld
 DEU-BW S32Kar KarRuheHbf BruStegWie
 DEU-BW S71Kar Ach KarRuheHbf
 DEU-HB 1Bre Bri Hbf
@@ -49,8 +49,8 @@ DEU-NI RS2Twi HB/NI Twi
 DEU-NI S1 WunsTorf HanHbf
 DEU-NI S3 Leh HanHbf
 DEU-NW S1 EssHbf DortMundHBf
-DEU-NW S6 DortMundHbf KolnHbf
-DEU-BW S19 KolnHbf SiegBurgBonn
+DEU-NW S6 EssHbf KolnHbf
+DEU-NW S19 KolnHbf SiegBurgBonn
 ENG DisLn TowHill SouKen
 ENG JubLn NorGre GrePark
 ENG LonPar LonStPanInt GBR/FRA
@@ -67,7 +67,7 @@ FRA-IDF M6 CdGEto Tro
 FRA-IDF M12 Conc Abb
 LUX CFL30 LuxGareCen Was
 LUX CFL60 LuxGareCen Bet
-LUX StrMon LUX/FRA LuxGareCen
+LUX StrMon FRA/LUX LuxGareCen
 NLD 7Ams HooKad Fra
 NLD 54Ams StaBijAre Nie
 
