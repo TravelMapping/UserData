@@ -1,3 +1,5 @@
+#### UNITED STATES OF AMERICA ####
+# Interstates
 # usai, usaib, usaif
 # ---------------------
 # I-2
@@ -505,6 +507,7 @@ HI I-H3 1A KanSta
 # I-H201
 HI I-H201 1A I-H1
 
+# US Routes
 # usaus, usausb, usaush - routes concurrent with usai may not be catalogued here
 # ---------------------
 # US 1
@@ -3209,9 +3212,8 @@ WY WEntRd MT/WY GraLoopRd              # -- Yellowstone NP West Entrance Rd to M
 WY GraLoopRd NEntRd_W NEntRd_E         # -- Yellowstone NP - Grand Loop Road
 WY NorCanRd GraLoopRd_W GraLoopRd_E    # -- Yellowstone NP - Norris Canyon Rd - Norris Geyser Basin to Canyon Village
 
-# Canada
+#### CANADA ####
 # ---------------------
-
 # Trans Canada Highway
 # ---------------------
 ## Main Route
@@ -3306,7 +3308,7 @@ YT YT8 YT1 YT2                         # Tagish Road
 YT YT9 GeoBlaFry YT/AK                 # Top of the World HighwayS
 YT YT37 BC/YT YT1                      # Cassiar Highway
 
-# Mexico
+#### MEXICO ####
 # Baja California (MEX-BC)
 # ---------------------
 MEX-BC MEX1D MEX1_S MEX1_RosS
@@ -3317,13 +3319,38 @@ MEX-BC MEX2 COrtRub MEX2D_MexW
 MEX-BC MEX2 MEX2D_MexE BC1
 MEX-BC MEX2 BC2_AlgE BC/SON
 MEX-BC MEX3 MEX1_N AveMigHid 
+MEX-BC LibSur MEX1 BlvdDiazOrd
 
 # Sonora (MEX-SON)
 # ---------------------
 MEX-SON MEX2 BC/SON C26
 
-
-
-#The below items are not active yet.  listing for future use but subject to change 
-#MEX-BC Select Autopistas
-MEX-BC LibSur MEX1 BlvdDiazOrd
+#### UNITED KINGDOM ####
+# England
+# -------------------
+# gbnm
+ENG M3 1 8
+ENG M4 2 15
+# gbna
+ENG A2 B210 B212
+ENG A40 WesTer A4000
+ENG A100 A3211 A200
+ENG A5Lon A4209 A404
+ENG A205 A307 A4
+ENG A302 A3036 A3212
+ENG A303 M3 A360
+ENG A307 A205 A316
+ENG A316 A307 M3
+ENG A345 A3028 A342_W
+ENG A345 A342_E BroSt
+ENG A345 Wil A4
+ENG A346 A4_W M4
+ENG A360 A303 B3086_E
+ENG A406 A4 A4000
+ENG A3212 A4/A400 A302
+ENG A4000 A406 A40
+ENG A4205 A5 B410
+ENG A4206 A404 GloTer
+# gbnb
+ENG B210 A2 A205
+ENG B3086 A360_S ThePac_E

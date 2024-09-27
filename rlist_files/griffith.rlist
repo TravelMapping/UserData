@@ -9,6 +9,7 @@ MA BluLn Bow Won
 MA FoxLn BosSou Fox
 MA GreLnB GovCen BosCol
 MA GreLnD Lec Fen
+MA GreLnE LEC Pru
 MA OraLn GreSt NorSta
 MA ProLn BosSou RI/MA
 MA RedLn ParkSt Bro
@@ -28,22 +29,33 @@ RI AE RI/MA CT/RI
 RI ProLn RI/MA WicJct
 
 BEL S2 BruCen Lot
+DEU-BW S4Mon Bru HeiBergPfaGruWie
+DEU-BW S6Man NeuEdiFriFeld BW/HE
+DEU-BW S7Man HeiBergPfaGruWie NeuEdiFriFeld
+DEU-BW S32Kar KarRuheHbf BruStegWie
+DEU-BW S71Kar Ach KarRuheHbf
 DEU-HB 1Bre Bri Hbf
 DEU-HB 2Bre StJurStr DomsHei
 DEU-HB 3Bre DomsHei EurHaf
 DEU-HB 10Bre BenStr StJurStr
-DEU-HB RS2 BreHbf NI/HB
+DEU-HB RS2 HB/NI NI/HB
 DEU-HB RS2Bre HB/NI BreHavHbf
 DEU-HE S2 Niedernhausen FraFurtHbf
+DEU-HE S3 DarmstaHbf FraFurtHbf
+DEU-HE S6Ben BW/HE BensHeim
 DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
 DEU-NI RS2 NI/HB HB/NI
+DEU-NI RS2Twi HB/NI Twi
 DEU-NI S1 WunsTorf HanHbf
 DEU-NI S3 Leh HanHbf
+DEU-NW S1 EssHbf DortMundHBf
+DEU-NW S6 DortMundHbf KolnHbf
+DEU-BW S19 KolnHbf SiegBurgBonn
 ENG DisLn TowHill SouKen
 ENG JubLn NorGre GrePark
 ENG LonPar LonStPanInt GBR/FRA
 ENG PicLn CovGar SouKen
-FRA-GES CFL60a LUX/FRA VolMin
+FRA-GES StrMon Col LUX/FRA
 FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF B Lux GareNord
 FRA-IDF C ChaMarsTourEif StMicNotDame
@@ -55,7 +67,7 @@ FRA-IDF M6 CdGEto Tro
 FRA-IDF M12 Conc Abb
 LUX CFL30 LuxGareCen Was
 LUX CFL60 LuxGareCen Bet
-LUX CFL60a Bet LUX/FRA
+LUX StrMon LUX/FRA LuxGareCen
 NLD 7Ams HooKad Fra
 NLD 54Ams StaBijAre Nie
 

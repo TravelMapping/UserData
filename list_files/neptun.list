@@ -1,5 +1,5 @@
 # ──────────
-# 2024-09-01
+# 2024-09-25
 # ──────────
 
 CZE D0 76 28
@@ -13,38 +13,44 @@ CZE D5 1 CZE/DEU
 CZE D6 1 32
 CZE D6Bos *II606 83
 CZE D7 2 18
+CZE D7Lou I7_Pan 49
 CZE D8 1 CZE/DEU
 CZE D10 1 71
 CZE D11 1 113
 CZE D35 267 296
+CZE D35Opa 126 131
 CZE D46 1 38
 CZE D48 52 70
 CZE D48Bel 1 8
 CZE D52 10 26
 
 CZE I2 PodBah III3377
+CZE I2 III03321 II126
 CZE I3 D3(130) CZE/AUT
 CZE I3Ben D1 D3
 CZE I4 D4 CZE/DEU
 CZE I4Mil D4(45) D4(77)
 CZE I4Zbr D0 D4(9)
-CZE I7 D7(18) I16
+CZE I7 D7(18) D7_Pan
 CZE I7Pre D0 2
 CZE I6 D6_Nes D6_Lub
-CZE I6Boc D6(83) SokSka
+CZE I6Boc D6(83) I13
 CZE I8 III25822 III25337
 CZE I8Bre Kos D8
-CZE I9 D8 II264
+CZE I9 D8 II273
+CZE I9 I16_W II264
 CZE I10 D10(71) I35_E
 CZE I11 II647 I58
 CZE I13 I62_S 17(I35)
 CZE I13 I6 I25
 CZE I13 II254_E II248
-CZE I14 II300 I16/I37
 CZE I14 II294 III29058
+CZE I14 II325 I16/I37
+CZE I15 I27_S I28
+CZE I15 II608 II261_N
 CZE I15 III26010 I9
-CZE I16 I7 I9_S
-CZE I16 39(D10) II280
+CZE I16 I7 I9_W
+CZE I16 39(D10) III32553
 CZE I16 II300 CZE/POL
 CZE I18 I19 III1189
 CZE I18 I66 II118_N
@@ -54,39 +60,52 @@ CZE I19 II123_S 76(D3)
 CZE I19 I4 III12119
 CZE I19 II176 II174_S
 CZE I20 I27_N I27_S
-CZE I20 Zel KotSka_N
+CZE I20 I26_E KotSka_N
 CZE I20 73(D5) I3
 CZE I22 I27_S Kat_E
 CZE I22 AlfSta I20
 CZE I22 II193_N II183
 CZE I25 DEU/CZE I13
 CZE I26 DEU/CZE D5(89)
+CZE I26 I20_S Mas
+CZE I27 I15_E Vel
 CZE I27 II201 III1807
 CZE I27 Plz I20_W
 CZE I27 D5 II180_S
 CZE I27 III18030 CZE/DEU
-CZE I30 II613 D8(48)
+CZE I28 I15 I7
+CZE I30 I62 D8(48)
 CZE I30 D8(74) II528
+CZE I31 I37_W I11/I35
+CZE I33 D11 I37
 CZE I34 I3/I20 D1
 CZE I35 10 II610
+CZE I35 II611 I31_Sme
+CZE I37 I31 D35
 CZE I37 II602_E D1
 CZE I37 II324_Dra III32226
 CZE I37Tru I14/I16 D11
 CZE I38 I9 III25915
 CZE I38 III2764 46(D10)
 CZE I39 I4 I3
+CZE I42 Plo_W I52
+CZE I42 I50 Plo_E
 CZE I48 8(D48) III04816
 CZE I48Ces 70 CZE/POL
-CZE I48Fry NaPri D48(52)
+CZE I48Fry D48(46A) D48(52)
+CZE I50 I42 210(D1)
 CZE I52 D52(26) CZE/AUT
-CZE I52Brn D1 10
+CZE I52Brn I42 10
+CZE I56 II479_E Mar
 CZE I56Dol III46611_Pet II470/647
 CZE I57 III4834 III05721
 CZE I58 Hor_S II486_Krm
 CZE I58 I11 Hor_N
+CZE I61 III00715 D7
 CZE I62 I13_E I30
 CZE I63 I8 D8
 CZE I66 III1912 II174
+CZE I67 II468 I48
 
 CZE II101 II118_S II118_N
 CZE II101 I9_N I9_S
@@ -109,6 +128,7 @@ CZE II118Pri D5 D4
 CZE II119 II114 III10226
 CZE II122 II143_E II165
 CZE II122 Nuz II105_E
+CZE II126 III03321 III33713
 CZE II128 II149 II152
 CZE II141 II145 II143
 CZE II141 II165 I39
@@ -122,6 +142,7 @@ CZE II145 II171 II190
 CZE II149 I34 II128
 CZE II156Ces I3 III15611
 CZE II157 I39 II160
+CZE II157 III15714 I3_S
 CZE II160 II157 II163
 CZE II162 II160 II163
 CZE II163 I39 I3
@@ -152,11 +173,14 @@ CZE II201 III2012 II606
 CZE II201 II193_N II233_S
 CZE II205 I6 II193
 CZE II207 III1938 II193
+CZE II219 II221 III2193
 CZE II219 I25_N III2199
+CZE II221Ost II219 III22137
 CZE II227 I6_W II237
 CZE II229 II227_E I27
 CZE II230 III11757 II191
 CZE II233 II201_W II235
+CZE II233 II180_W Moh
 CZE II235 II233 II605
 CZE II236 II118 II116
 CZE II236 III2352 III2363
@@ -170,10 +194,10 @@ CZE II243 III2438 I8
 CZE II245 II611 III24510
 CZE II246 II608 II240
 CZE II248 III2482 I13
-CZE II248 III2486 III25362
 CZE II253 III25364 II258/613
 CZE II261 III26111 II240_E
 CZE II261 Nova II613
+CZE II263 I13_E I15
 CZE II264 I9 Nar
 CZE II268 III26846 III26845
 CZE II268 III26837 II262
@@ -184,9 +208,13 @@ CZE II270 III27019 II268_W
 CZE II273 III2733 I9/I16
 CZE II276 III27235 II272
 CZE II280 I16 III2806
+CZE II286 End II293
+CZE II293 II286 I16
 CZE II294 I14 DolRok
+CZE II296 Vel I14
 CZE II300Zac I16 I14
 CZE II324 PalTri I37_Dra
+CZE II325 I14 III32551
 CZE II330 II334/611 III33011
 CZE II331 III24417 D10(14)
 CZE II358 Clu I14
@@ -197,31 +225,35 @@ CZE II385 II389 II387
 CZE II389 III3795 II385
 CZE II390 D1 III3791
 CZE II434 II367 II435_N
+CZE II468 I67 II648
 CZE II470 I56_E II477/647
 CZE II473 D56 Kva
-CZE II479 II465/469 I56_S
-CZE II479 I56_N II477_N
+CZE II477 SlezSka_W III4773
+CZE II479 II465/469 II477_N
 CZE II480 II482 II483
 CZE II483 I57 II480
 CZE II486 I58_Krm III4863
 CZE II528 I13_W I30
 CZE II599 D0 II101/115
 CZE II602 I37_S Val
+CZE II603 II634 I3/I34
 CZE II603Kam Pra/Ves D0
 CZE II605 D0 III23636
 CZE II605 D5(41) II235
-CZE II606 II118 III0063
 CZE II606 *I6 D6_Nes
 CZE II606Lib D6_Lub *D6_Lib
 CZE II606Hos Pra/Hos II201
-CZE II608 Zdi/Pfa D8
-CZE II608 III0083 III0085
-CZE II608 II240 D8(35)
+CZE II608 Zdi/Pfa III0085
+CZE II608 I16 I15
 CZE II611 D0 II245
 CZE II611 II272 II329_N
-CZE II613 D8 II261
+CZE II611 I11/I35 I33/I37
+CZE II613 D8 I62
+CZE II613 I30_Ust II261
+CZE II634 II603 I3/I34
 CZE II647 I11/I58 III0581
 CZE II648 38(D48) 45(D48)
+CZE II648 I48 II468
 
 CZE 5KvePra Kon D1
 CZE BrnSka 1 6
@@ -233,9 +265,9 @@ CZE RadRad D5 Buc
 CZE SpoSka MO D1
 CZE VysRad KbelSka D0
 
-#┌───────────────────────────────────────────┐
-#│                    AUT                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      AUT                     
+# ─────────────────────────────────────────────
 
 AUT A1 169 281
 AUT A1 292 297
@@ -265,6 +297,8 @@ AUT B154 L543 B158
 AUT B155 A1 B1
 AUT B158 B1 B154
 AUT B177 DEU/AUT A12
+AUT B221 B230 FasGas
+AUT B227 SchBru B1
 AUT B310 CZE/AUT S10
 
 AUT L118-5 KirStr AugGruStr
@@ -273,19 +307,43 @@ AUT L217-5 B154 Sal/Voc
 AUT L543-4 Sal/Voc B151
 AUT L544-4 B152 B145
 AUT L1297-4 RudIppPla B145
+AUT L1299-4 MarStr_E L544
 
-#┌───────────────────────────────────────────┐
-#│                    DEU                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      BEL                     
+# ─────────────────────────────────────────────
 
+BEL A2 A3 BEL/NLD
+BEL A3 R0 A2
+BEL A10 A18 R0
+BEL A18 FRA/BEL 6
+
+BEL R0 A3 A10
+
+# ─────────────────────────────────────────────
+#                      DEU                     
+# ─────────────────────────────────────────────
+
+DEU-NW A2 32 DEU-ST A2 68
 DEU-BY A3 110 114
-DEU-BY A6 70 DEU/CZE
+DEU-NW A3 32 DEU-BY A3 89
+DEU-NW A4 NLD/DEU DEU-NW A4 14
+DEU-SN A4 76 77b
+DEU-BY A6 61 DEU/CZE
 DEU-BY A8 91 116
 DEU-BY A9 65 76
+DEU-MV A11 POL/DEU DEU-BB A11 5
+DEU-ST A14 2 DEU-SN A14 38
+DEU-SN A17 1 DEU/CZE
+DEU-MV A20 24 DEU-BB A20 39
+DEU-NI A30Sch NLD/DEU DEU-NW A30Oey 35
+DEU-NW A59Bon 33 DEU-NW A59Bon 39
 DEU-BY A92 1 28
 DEU-BY A93 28 55
 DEU-BY A95 1 B2
 DEU-BY A99 11 21
+DEU-NW A559 1 3
+DEU-NW A560 1 5
 DEU-BY A93Obe 56 DEU/AUT
 
 DEU-BY B2Wei A95_Esc B23_N
@@ -299,6 +357,15 @@ DEU-BY B21 B21Sch DEU/AUT
 DEU-BY B21Sch A8 B21
 DEU-BY B23 B23Obe B2_W
 DEU-BY B23Obe B2 B23
+DEU-SN B95 S265 DEU/CZE
+DEU-MV B96 L30_N A20
+DEU-MV B96b B96 L29
+DEU-SN B170 S182_Alt K9033
+DEU-SN B171 S214 S221
+DEU-MV B196 B96 FeldStr
+DEU-MV B197 A20 B104
+
+# ──────────────────────
 
 DEU-BY St2127 St2126/2622 A3
 DEU-BY St2130 HamStr FRG57
@@ -310,28 +377,9 @@ DEU-BY St2154 CHA40 B20_N
 DEU-BY St2350 St2088 B2R
 DEU-BY St2622 St2126/2127 B12
 
-DEU-NI A30Sch NLD/DEU DEU-NW A30Oey 35
-
-DEU-NW A2 32 DEU-ST A2 68
-
-DEU-MV A11 POL/DEU DEU-BB A11 5
-DEU-MV A20 24 DEU-BB A20 39
-
-DEU-MV B96 L30_N A20
-DEU-MV B96b B96 L29
-DEU-MV B196 B96 FeldStr
-DEU-MV B197 A20 B104
-
 DEU-MV L29 B196_N B96b
 DEU-MV L30Bre B96 L303
 DEU-MV L292 B196 StrStr
-
-DEU-SN A4 76 77b
-DEU-SN A17 1 DEU/CZE
-
-DEU-SN B95 S265 DEU/CZE
-DEU-SN B170 S182_Alt K9033
-DEU-SN B171 S214 S221
 
 DEU-SN S221 B171 S218
 DEU-SN S214 B171 S216
@@ -340,45 +388,67 @@ DEU-SN S262 S218 S265_W
 DEU-SN S265 B95 S262_N
 DEU-SN S271 S271Fic B95
 
-DEU-ST A14 2 DEU-SN A14 38
-
-#┌───────────────────────────────────────────┐
-#│                    ENG                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      ENG                     
+# ─────────────────────────────────────────────
 
 ENG M2 5 7
 ENG M3 2 8
 ENG M4 4b 20
 ENG M5 15 27
 ENG M11 4 8
-ENG M20 3 7
+ENG M20 3 13
 ENG M25 5 15
 ENG M26 1 3
 
+ENG A1New 80 SCT A1 A6095
 ENG A2 M2(7) A2050_W
 ENG A2 A2050_E A20_E
+ENG A2 A206 B210
+ENG A3 A214/A3036 A219
+ENG A10 A503_E A109_W
 ENG A11Lon A1210/A1211 A12/A118
 ENG A12 A11/A118 A406
+ENG A19 A193 A1
+ENG A20 M20(13) A2_E
 ENG A28 B2248 A257
 ENG A39 B3234_W B3149
 ENG A39 A361_BarN B3263
+ENG A39 A3125_E A361_BarS
 ENG A68 A696 SCT A68 A720
+ENG A104 A503 A406
+ENG A109 A1080_S A10_S
+ENG A109 A1003_W B106
 ENG A120 M11(8) ThrAve
+ENG A167 A184_W A186
+ENG A167M A186 B1318
+ENG A167Nun B1318 A1/A696
+ENG A187 ToA193 CobDene
+ENG A201 A3200 A3211
+ENG A206 A2211 B209
+ENG A219 A3209 B306
 ENG A249 M2 M20
 ENG A290 A2050_W NorLn
 ENG A303 M3 A358
 ENG A358 A303 M5
 ENG A360 A303 B3086_E
-ENG A361Bar A3123 A3125
+ENG A361Bar A3123 A39_BarS
 ENG A361Bar A39_BarN M5
 ENG A377 B3183 A39/A361
 ENG A386 A39 B3236
 ENG A406 M11 A12
+ENG A406 A104 A1400
+ENG A503 A10_N A104
 ENG A696 A1 ENG A696 A68
+ENG A1003 A598 A109_W
+ENG A1080 A504/A105 A109_W
 ENG A1211 A10 A11/A1210
+ENG A1400 A406 A12
 ENG A2050 A2_W A290_N
 ENG A2050 A28/A257 A2_E
+ENG A3036 A3207 A3/A214
 ENG A3125 A39_N A361
+ENG A3209 A3/A218 A219
 
 ENG B2248 BroOakRd A28
 ENG B3236 A386 A39
@@ -387,9 +457,11 @@ ENG B3237 A39 CloCarPark
 ENG B3263 A39 ForeSt
 ENG B3343 A361/A3123 TheEsp
 
-#┌───────────────────────────────────────────┐
-#│                    ESP                    │
-#└───────────────────────────────────────────┘
+ENG E15 A2 DovCalFry
+
+# ─────────────────────────────────────────────
+#                      ESP                     
+# ─────────────────────────────────────────────
 
 ESP-CT A2 520 610
 
@@ -403,9 +475,17 @@ ESP-CT C32B B22 CarFDS
 
 ESP-CT N260 C13_N C14
 
-#┌───────────────────────────────────────────┐
-#│                    HRV                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      FRA                     
+# ─────────────────────────────────────────────
+
+FRA-HDF A16 47 FRA/BEL
+
+FRA-HDF RocEst 1 A16/A26
+
+# ─────────────────────────────────────────────
+#                      HRV                     
+# ─────────────────────────────────────────────
 
 HRV A1 1 7a
 HRV A2 SVN/HRV 7
@@ -419,16 +499,16 @@ HRV D501 A6 A7
 HRV Z5106 L58086 Z5131
 HRV Z5131 D102_W RuzUli
 
-#┌───────────────────────────────────────────┐
-#│                    HUN                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      HUN                     
+# ─────────────────────────────────────────────
 
 HUN F10 GorUt F111
 HUN F111 VorMihUt F117
 
-#┌───────────────────────────────────────────┐
-#│                    ITA                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      ITA                     
+# ─────────────────────────────────────────────
 
 ITA A1 A22 A1Var_N
 ITA A1 SP131 StrFiLiPi
@@ -469,9 +549,9 @@ ITA SS728 RA6 S33Bis
 
 ITA SGCFirLiv A1 A12
 
-#┌───────────────────────────────────────────┐
-#│                    NLD                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      NLD                     
+# ─────────────────────────────────────────────
 
 NLD A1 A10 NLD/DEU
 NLD A4 A10 A9
@@ -479,14 +559,15 @@ NLD A5 A9 3
 NLD A9 A4 A22_S
 NLD A10 A4 14
 NLD A22 A9_S 8
+NLD A76 BEL/NLD NLD/DEU
 
 NLD S100Ams S102_E S114
 NLD S102Ams A5(3) S100
 NLD S114Ams S100 A10
 
-#┌───────────────────────────────────────────┐
-#│                    POL                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      POL                     
+# ─────────────────────────────────────────────
 
 POL A6 DEU/POL S3_S
 
@@ -512,40 +593,49 @@ POL DW333 S3(47) S3(48)
 POL DW933 UliStaLes DW949
 POL DW949 UIiBie DW933
 
-#┌───────────────────────────────────────────┐
-#│                    SCT                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      SCT                     
+# ─────────────────────────────────────────────
 
-SCT M8 2 15
+SCT M8 1 15
 SCT M9 M8 10
 SCT M80 1 M9
 SCT M90 1A 10
 SCT M90Per 10 12
 
-ENG A1New 80 SCT A1 A720
 SCT A8Edi A902 M9
+SCT A9 M9(5) A904
 SCT A9 M90 A889
-SCT A82 CarWay CanSide
+SCT A82 A85_E CanSide
+SCT A84 A811 A85
+SCT A85 A82_S A84
 SCT A86 A82 A889
 SCT A87 A82 A855_S
 SCT A90Edi A902_W M90_N
+SCT A199 A901 A1140
+SCT A720 A1 M8
 SCT A830 A82 GlenPierRd
 SCT A855 A87_E WenSt
 SCT A889 A9 A86
+SCT A901 A900 A199
 SCT A902 A901 A8
+SCT A904 M9 A9
+SCT A6095 A1 B6415_N
 
-#┌───────────────────────────────────────────┐
-#│                    SVK                    │
-#└───────────────────────────────────────────┘
+SCT B6415 A199/A1140 A6095_W
+
+# ─────────────────────────────────────────────
+#                      SVK                     
+# ─────────────────────────────────────────────
 
 SVK I63 I61 D1
 SVK I63 UliSze SVK/HUN
 
 SVK II572 I2 II502
 
-#┌───────────────────────────────────────────┐
-#│                    SVN                    │
-#└───────────────────────────────────────────┘
+# ─────────────────────────────────────────────
+#                      SVN                     
+# ─────────────────────────────────────────────
 
 SVN A1 AUT/SVN 7
 SVN A4 A1 SVN/HRV

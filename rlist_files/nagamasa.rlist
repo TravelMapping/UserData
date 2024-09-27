@@ -4,6 +4,11 @@
 ##                           ##
 ###############################
 
+#### ARE (UAE)
+ARE RedLn AirTer1 SobRea
+ARE GreenLn Bur AlRas
+ARE DXBTram DubMarMal DubMar_E
+
 #### AUS
 ### QLD
 ## CITYTRAIN
@@ -59,10 +64,10 @@ CHE L6 +DIV_Air GenCor
 ### GD
 ## SHENZHEN METRO
 CHN-GD SZMLn1 LuoHu CheGongMiao
-CHN-GD SZMLn2 LianTangChe GangXiaN
+CHN-GD SZMLn2 LianTangChe GangXiaBei
 CHN-GD SZMLn4 HongShan CivCen
 CHN-GD SZMLn6 SciMus HongShan
-CHN-GD SZMLn11 CheGongMiao Air
+CHN-GD SZMLn11 CheGongMiao Airport
 
 ## PRD ICR
 CHN-GD GuangZhu ZhongShanN ZhuHai
@@ -365,6 +370,13 @@ JPN ArashiyamaTm A5 A13
 JPN OsaMon 11 19
 JPN OkiMon 1 7
 
+#### KOR
+### SEOUL
+KOR AREX A01 A11
+KOR 4 420 426
+KOR 1 128 130
+KOR 3 329 328
+
 #### LUX
 LUX T1 LuxExpo Ham
 
@@ -403,6 +415,12 @@ SWE 10Sto Rad TCen
 ### GOTEBERG
 ## TRAM
 SWE 3Got KunPla CenSta
+
+#### THAILAND
+### BANGKOK
+THA Blue BL26 BL12
+THA Silom CEN S360
+THA Suk N10 E5
 
 #### TWN
 TWN TYAir A1 A13
