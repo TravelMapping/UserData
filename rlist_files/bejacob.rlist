@@ -117,6 +117,7 @@ BC ExpoLn Wat MainStSciWor
 
 AUS-NSW CCN Cen Gos
 AUS-NSW SCO Cen Sut
+AUS-NSW MelXPT Cen NSW/VIC
 AUS-NSW T1 Ber Hor
 AUS-NSW T1 Cha Str
 AUS-NSW T2 Mus Str
@@ -126,6 +127,8 @@ AUS-NSW T4Wat BonJct Lof
 AUS-NSW T8 TownHall Cen
 AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
+AUS-VIC MelXPT NSW/VIC SouCro
+
 
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
