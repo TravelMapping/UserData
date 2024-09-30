@@ -403,22 +403,6 @@ KS KS92 KS/MO US73_N  #previous roads when living in OP
 MO MO45SprLea MO92 MO45
 MO MO45 MOsH I-29
 MO MO273 I-29 MO45_S 
-OR OR213 AirWay US26 #07222023 Trip for TFACC meeting to Crater Lake
-WA WA14 1 I-5
-WA I-5 1A OR/WA
-OR I-5 OR/WA 301
-OR I-405 I-5(302B) 1D
-OR US26 I-405(1C) OR213
-OR US26 BurRd US97_S
-OR US97 US26_E OR62
-OR OR62 US97 CraLakeNP
-OR CraCrkRd OR62 RimDr
-OR CraLakeRimDr CraCrkRd CraLakeHwy_E
-OR CraLakeHwy RimDr OR138
-OR OR138 CraLakeHwy I-5(124)
-OR I-5 124 233
-OR I-5 288 299B
-OR US30BypPor I-5 I-205
 TN TN63 US25E_S TN345  #07142023 Travel back to Panama City from Gate City via Powell Valley stop
 TN US25E TN33_E US11W_S
 TN US25E US11W_N US11E_N
@@ -2278,6 +2262,40 @@ NV NV612 NV604 NV593 #06072024
 NY I-90 NY/MA B3 #Trip with GJ Telergee
 NY US20 NY22_S NY/MA #Trip with GJ Telergee
 NY NY22 I-90 US20_E #Trip with GJ Telergee
+OR I-5 233 288 #05132017 Telergee John Day NM Return Trip
+OR I-5 299B 301 #06182019 Port Townsend Bd Mtg Trip 
+OR I-82 11 WA/OR #05102017 Telergee Mtg Trip
+OR I-84 I-5 6 #06182019 Port Townsend Bd Mtg Trip  
+OR I-84 6 179 #05102017 Telergee Mtg Trip
+OR I-84 207 304 #05132017 Telergee John Day NM Return Trip 
+OR I-205 I-5 OR/WA #05102017 Telergee Mtg Trip
+OR I-405 I-5(299B) 1D #06182019 Port Townsend Bd Mtg Trip 
+OR US20 OR126_E OR34_E #05132017 Telergee John Day NM Return Trip
+OR US26 I-405(1C) US101 #06182019 Port Townsend Bd Mtg Trip   
+OR US26 OR7 OR126 #05132017 Telergee John Day NM Return Trip     
+OR US30 I-84(207) I-84(213) #05122017 Telergee John Day NM Return Trip
+OR US101 US26 OR/WA #06182019 Port Townsend Bd Mtg Trip    
+OR OR7 I-84 US26 #05132017 Telergee John Day NM Return Trip 
+OR OR11 OR/WA I-84 #05122017 Telergee John Day NM Return Trip
+OR OR19 US26 JohnDayNM #05132017 Telergee John Day NM Return Trip
+OR OR34 US20_E I-5 #05132017 Telergee John Day NM Return Trip  
+OR OR37 US30_S I-84 #05122017 Telergee John Day NM Return Trip
+OR OR126 US26 US20_E #05132017 Telergee John Day NM Return Trip      
+OR OR213 AirWay US26 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 OR/WA 301 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-405 I-5(302B) 1D #07222023 Trip for TFACC meeting to Crater Lake
+OR US26 I-405(1C) OR213 #07222023 Trip for TFACC meeting to Crater Lake
+OR US26 BurRd US97_S #07222023 Trip for TFACC meeting to Crater Lake
+OR US97 US26_E OR62 #07222023 Trip for TFACC meeting to Crater Lake
+OR OR62 US97 CraLakeNP #07222023 Trip for TFACC meeting to Crater Lake
+OR CraCrkRd OR62 RimDr #07222023 Trip for TFACC meeting to Crater Lake
+OR CraLakeRimDr CraCrkRd CraLakeHwy_E #07222023 Trip for TFACC meeting to Crater Lake
+OR CraLakeHwy RimDr OR138 #07222023 Trip for TFACC meeting to Crater Lake
+OR OR138 CraLakeHwy I-5(124) #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 124 233 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 288 299B #07222023 Trip for TFACC meeting to Crater Lake 
+OR US30BypPor I-5 I-205 #07222023 Trip for TFACC meeting to Crater Lake
+OR US30BypPor I-205 US30_E #07222023 Trip for TFACC meeting to Crater Lake  
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
 RI I-95 24B RI/MA #Trip with GJ Telergee
 RI I-95 CT/RI 24B #Trip to Boston with parents  
@@ -2593,18 +2611,86 @@ VT I-89 13 8 #Trip with GJ Telergee
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
 VT US7 MA/VT US2_E #Trip with GJ Telergee
+WA I-5 168B 230 #12042018 Jefferson PUD Visit 
+WA I-5 168B 154 #09142018 NTCA Trip with Bea 
+WA I-5 154 149 #09132018 NTCA Trip with Bea
+WA I-5 132 149 #12052018 Jefferson PUD Visit
+WA I-5 111 104 #09132018 NTCA Trip with Bea
+WA I-5 1A OR/WA #07222023 Trip for TFACC meeting to Crater Lake
+WA I-82 WA/OR 113 #05102017 Telergee Meeting
+WA I-90 WA519 10 #09142018 NTCA Trip with Bea 
 WA I-90 277 WA/ID #11072016 Telergee Board Meeting
-WA I-90 220A 277 #11102016 Telergee Return 
+WA I-90 220A 277 #11102016 Telergee Return
+WA I-205 OR/WA 27 #05102017 Telergee Meeting
+WA I-405 14 I-5(154) #09142018 NTCA Trip with Bea 
 WA US2 I-90(277) WA21_N #11072016 Telergee Board Meeting
 WA US12 WA/ID WA124_E #11102016 Telergee Return
 WA US12 WA124_W I-182(4) #11102016 Telergee Return
-WA US395 I-182(14) I-90(220A) #11102016 Telergee Return         
+WA US12 WA124_E IreRd #05122017 Telergee visit Whitman NHS
+WA US12 WA8 US101 #09142018 NTCA Trip with Bea 
+WA US101 I-5 WA108 #09142018 NTCA Trip with Bea
+WA US101 US12 RubyBea #09142018 NTCA Trip with Bea
+WA US101 RubyBea WA104 #09142018 NTCA Trip with Bea
+WA US101 OR/WA WA401 #06182019 Jefferson PUD Mtg
+WA US101 WA4 WA107 #06182019 Jefferson PUD Mtg
+WA US101 WA108 WA104 #06182019 Jefferson PUD Mtg         
+WA US195 I-90 WA26 #05122017 Telergee visit Whitman NHS  
+WA US395 I-182(14) I-90(220A) #11102016 Telergee Return
+WA US395 I-82(113) I-182(12A) #05102017 Telergee Meeting
+WA SteCynRd WA706 ParVlyRd_S #09132018 NTCA Trip with Bea
+WA UppHohRd US101 HohVisCen #Trip with GJ hike to waterfall
+WA HurRidRd ParkAve End #09142018 NTCA Trip with Bea
+WA WA3 WA104 WA304 #09142018 NTCA Trip with Bea
+WA WA3 WA304 WA16 #12052018 Jefferson PUD Visit
+WA WA4 WA401 US101 #06182019 Jefferson PUD Mtg      
+WA WA7 WA161 WA706 #09132018 NTCA Trip with Bea
+WA WA7 WA161 WA702 #09132018 NTCA Trip with Bea
+WA WA8 WA108 US12 #09142018 NTCA Trip with Bea
+WA WA8 WA108 US101 #GJ Trip to Seattle            
+WA WA14 6 1 #05102017 Telergee visit Ft Vancouver    
+WA WA14 1 I-5 #07222023 Trip for TFACC meeting to Crater Lake
+WA WA16 WA3 I-5 #12052018 Jefferson PUD Visit
+WA WA19 WA20 WA104 #12042018 Jefferson PUD Visit 
+WA WA20 I-5 CouPorFry #12042018 Jefferson PUD Visit
+WA WA20 I-5 NFD400 #05172019 Jefferson PUD with Beau 
+WA WA20Por PoCouFry WA19 #12042018 Jefferson PUD Visit
+WA WA20Por WA19 US101 #05192019 Jefferson PUD with Beau
+WA WA20SprAna WA20 AnaFry #05182019 Jefferson PUD with Beau    
 WA WA21 US2_W WA174 #11072016 Telergee Board Meeting
-WA WA124 US12_E US12_W #11102016 Telergee Return  
-WA WA155 WA174 RooWay #11072016 Telergee Board Meeting 
+WA WA26 US195 WA127 #05122017 Telergee visit Whitman NHS
+WA WA99 WSeaBri RoySt #09142018 NTCA Trip with Bea 
+WA WA99Fed WA518 188thSt #09132018 NTCA Trip with Bea
+WA WA99Fed 188thSt WA509/516 #12042018 Jefferson PUD Mtg Dinner Cooperleaf 
+WA WA104 US101 WA3 #09142018 NTCA Trip with Bea
+WA WA107 US101 US12 #06182019 Jefferson PUD Mtg 
+WA WA108 US101 WA8 #09142018 NTCA Trip with Bea
+WA WA124 US12_E US12_W #11102016 Telergee Return
+WA WA125 WA125Spr OR/WA #05122017 Telergee visit Whitman NHS 
+WA WA125SprWal US12 WA125 #05122017 Telergee visit Whitman NHS  
+WA WA127 WA26 US12 #05122017 Telergee visit Whitman NHS    
+WA WA155 WA174 RooWay #11072016 Telergee Board Meeting
+WA WA161 WA512/167 WA7 #09132018 NTCA Trip with Bea 
+WA WA167 WA516 WA161/512 #09132018 NTCA Trip with Bea  
 WA WA174 WA21 WA155 #11072016 Telergee Board Meeting
+WA WA181 I-405 WA516 #12042018 Jefferson PUD Mtg Dinner Cooperleaf 
 WA WA240 I-182(4) JadAve #11102016 Visit Manhattan Project
-WA WA240BusRic WA240_W WA240_E #11102016 Visit Manhattan Project     
+WA WA240BusRic WA240_W WA240_E #11102016 Visit Manhattan Project
+WA WA304 WA3 BreFry #09142018 NTCA Trip with Bea
+WA WA305 WA3 WinFry #05202019 Jefferson PUD with Beau 
+WA WA310 WA3 WA304 #09142018 NTCA Trip with Bea
+WA WA401 US101 WA4 #06182019 Jefferson PUD Mtg   
+WA WA507 WA702 WA510 #09132018 NTCA Trip with Bea
+WA WA510 WA507 I-5 #09132018 NTCA Trip with Bea 
+WA WA516 I-5 WA167 #09132018 NTCA Trip with Bea
+WA WA516 I-5 WA509/99 #12042018 Jefferson PUD Mtg Dinner Cooperleaf  
+WA WA518 154thSt I-5 #09132018 NTCA Trip with Bea
+WA WA519 YesWay I-90 #09142018 NTCA Trip with Bea 
+WA WA520 I-5 I-405 #09142018 NTCA Trip with Bea
+WA WA530 I-5 WA20 #05172019 Jefferson PUD with Beau 
+WA WA702 WA7 WA507 #09132018 NTCA Trip with Bea 
+WA WA706 WA7 MouRaiNP #09132018 NTCA Trip with Bea 
+WA AirExpy WA518 Ter #09132018 NTCA Trip with Bea
+WA WSeaBri 35thAve ColWay #09142018 NTCA Trip with Bea          
 WI I-41 164B 170B #Training Class in Green Bay
 WI I-43 72A 192 #Training Class in Green Bay   
 WI I-94 WI/IL 310C #Training Class in Green Bay    
