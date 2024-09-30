@@ -546,9 +546,10 @@ DEU-NI 5Han Sto AegTorPla                         #2021
 DEU-NI 6Han NordHaf AegTorPla                     #2021
 DEU-NI 7Han MisBurg WettBer                       #2021
 DEU-NI 8Han DraStr MesNord                        #2021
-DEU-NI 9Han FasKrug Emp                           #2021
+DEU-NI 9Han HanHbf Emp                            #2021
 DEU-NI 10Han Ahl HbfZOB                           #2021
 DEU-NI 11Han HalHoffStr AegTorPla                 #2021
+DEU-NI 11Han FasKrug HanHbf                       #2021, traveled as line 9
 DEU-NI 17Han HbfZOB WalSteStr                     #2021
 
 #Bielefeld
