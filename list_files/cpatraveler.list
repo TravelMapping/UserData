@@ -1683,7 +1683,8 @@ AL US78 I-20(123) US11_S #Legion Field
 AL US78 US11_N I-20(153) #Ragland
 AL US80 AL5 AL14_W #Hunting Trip
 AL US80 CR7_Low I-65(167) #Trip to Selma
-AL US80 AL126_E CR107 #Visit Rod 
+AL US80 AL126_E CR107 #Visit Rod
+AL US80 AL138 US29_S #Tuskgee Airman Trip 
 AL US82 US231_S AL110 #Lake Eufaula
 AL US82 US29_N AL51_N #Lake Eufaula
 AL US82 US431_S AL/GA #Trips to GA 
@@ -1706,9 +1707,13 @@ AL US411 AL77 US231_N #08262024 Trip from Bea to Home
 AL US411 US231_S US78 #08262024 Trip from Bea to Home 
 AL US431 AL147 I-20(191) #Callaway Trip
 AL US431 I-20(188) US231/53 #New Hope and Callaway Trip
+AL US72AltDec AL67_S US31_S #Joe Wheeler Electric
+AL US72AltDec US31_N I-565(1) #Joe Wheeler Electric  
 AL US80BusSel US80/14 US80/41 #Trips to Salem
+AL US411BusCen US411_W US411_E #Cherokee Electric 
 AL AL5 AL28 US43 #Pine Belt Audit
-AL AL9 US231 I-20 #Mt Cheaha Trips  
+AL AL9 US231 I-20 #Mt Cheaha Trips
+AL AL9 US411Bus AL/GA #Cherokee Electric    
 AL AL10 I-65 AL245 #Pioneer Electric Audit
 AL AL10 AL28 AL5 #Pine Belt Audit
 AL AL10 US331_N AL245 #08252024 Travel Home to Bea's 
@@ -1718,12 +1723,17 @@ AL AL17 US45 US84 #Milry Audit
 AL AL21 US80_W AL28 #Camden Audit
 AL AL21 AL77_N US231/280 #Coosa Electric Audit
 AL AL22 BUS80_E AL5 #Pine Belt Audit
+AL AL24 AL157 AL67 #Joe Wheeler Electric
 AL AL25 US78 US231_N #08262024 Trip from Bea to Home
-AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home 
+AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home
+AL AL25 AL219_S CR58 #Tuscaloosa Trips  
 AL AL28 AL21 AL10_E #Camden Audit 
 AL AL27 US231/249 AL173 # Travel to MCLB Albany
+AL AL35 US72/279 AL9 #Sand Mountain Electric
+AL AL36 US31 US231 #New Hope Audit 
 AL AL41 AL10/28 AL265 #Camden Audit
-AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha  
+AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha
+AL AL50 AL229 AL49 #Lake Martin   
 AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home 
 AL AL53 I-65 US231/431 #12172017 Montgomery Trip Ardmore Audit         
 AL AL55 FL/AL US331_S  #07052024
@@ -1732,39 +1742,53 @@ AL AL59 US31_S AL182 #Gulf Shore Trips
 AL AL59 US31_N AL287 #Gulf Shore Trips
 AL AL62 MilWayRd AL227 #04062024 Jackson to Scott Co Trip
 AL AL63 AL14 AL22_E #Lake Martin Trips
+AL AL67 US72ALT/20_E US231 #Joe Wheeler & Arab Electric
+AL AL68 AL9_N AL35 #Pick up Maggie
+AL AL68 US411_S US11_S #Cherokee Electric
+AL AL68 US11_N I-59 #Cherokee Electric  
 AL AL69 I-65(304) US31_S #Cullman Electric Audit
-AL AL69 US278_E US431/79 #04062024 Jackson to Scott Co Trip   
+AL AL69 US278_E US431/79 #04062024 Jackson to Scott Co Trip
+AL AL69 US43 AL177 #Clarke Washington   
 AL AL75 CR27 AL/GA #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 CR27 #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 US431 #N Alabama Audit Trip
 AL AL75 US231_N I-59 #Oneonta Audits
 AL AL77 US431_N US411 #08262024 Trip from Bea to Home
 AL AL77 AL21_S US411 #Ragland Audit   
-AL AL79 AL/TN US431_N #04062024 Jackson to Scott Co Trip 
+AL AL79 AL/TN US431_N #04062024 Jackson to Scott Co Trip
+AL AL81 US29/80 I-85 #Tuskgee Airman Trip 
 AL AL85 AL92_W US84/134 #Travel to St Andrews from Rucker
 AL AL85 AL27 AL92_W #08252024 Travel Home to Bea's 
 AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
+AL AL94 US331 US231 #Mon-Cre Audit
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
 AL AL104 AL59 US98 #Trip to Grand Hotel 09052024  
 AL AL111 AL14 AL143 #Living in Prattville    
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
+AL AL119 US280 US31_N #Birmingham Trips 
 AL AL122 US84 AL302 #08252024 Travel Home to Bea's
 AL AL123 AL103 AL167 #08272024 Clanton to Home 
 AL AL127 AL99 AL/TN #08252024 Travel Home to Bea's
 AL AL134 AL88_W US84/331 #Living in Enterprise
+AL AL138 I-85 US80 #Tuskgee Airman Trip
 AL AL140 US80 AL14 #Prattville to Selma Trips
 AL AL141 AL166 US331 #08252024 Travel Home to Bea's 
 AL AL143 I-65 US31 #Living in Montgomery
 AL AL144 US231 AL77 #Ragland Audit 
 AL AL145 I-65 US31/22 #08272024 Clanton to Home
 AL AL145 I-65 CR61 #Ragland Audit Trips
+AL AL150 US31 US11 #Birmingham Trips 
+AL AL157 I-65 AL24 #Joe Wheeler Electric
+AL AL158 AL213_N US98 #Singing River Electric
 AL AL161 AL180 AL182 #Orange Beach Trips
 AL AL163 I-10 AL193 #Orange Beach Trip took Ferry    
 AL AL164 AL28 AL10 #Camden Audit
 AL AL166 US84 AL141 #08252024 Travel Home to Bea's 
 AL AL170 US231 AL63 #Lake Martin Trips
+AL AL176 AL35 AL68 #Sand Mountain Electric
+AL AL177 US43_N US43_S #Clarke Washing Electric
 AL AL180 AL161 FortMor #Orange Beach Trips and Ferry
 AL AL181 US98 US31 #09062024 Shopping while at the Grand Hotel 
 AL AL182 DolDr AL/FL #Gulf Shore Trip
@@ -1778,10 +1802,16 @@ AL AL219 AL14_E AL22 #Pine Belt Audit
 AL AL225 US31 I-65 #Trip to AMTA Meeting at Grand     
 AL AL227 AubCarrSceDr AL75  #Day two Cullman to Gate City 04062024
 AL AL227 US431/79 AubCarrSceDr #04062024 Jackson to Scott Co Trip
-AL AL245 AL10 AL185 #08252024 Travel Home to Bea's 
+AL AL229 AL63 AL14_W #Lake Martin
+AL AL229 AL14_E I-85 #Lake Martin 
+AL AL245 AL10 AL185 #08252024 Travel Home to Bea's
+AL AL269 AveV CR65 #Visit Butlers
+AL AL279 AL79 US72_S #Sand Mountain Electric
+AL AL279 AL35_N US72/35 #Sand Mountain Electric 
 AL AL281 US78 AdaGapRd #Mt Cheaha Camping
 AL AL287 AL59 I-65 #Gulf Shore Trips
 AL AL302 AL122 US84 #08252024 Travel Home to Bea's
+AL AL382 US82 AL219 #Tuscaloosa Trips 
 AZ I-8 178 115A 
 AZ I-10 CA/AZ AZ/NM #29Palms Drive
 AZ I-15 NV/AZ AZ/UT
@@ -2653,7 +2683,7 @@ WA WA16 WA3 I-5 #12052018 Jefferson PUD Visit
 WA WA19 WA20 WA104 #12042018 Jefferson PUD Visit 
 WA WA20 I-5 CouPorFry #12042018 Jefferson PUD Visit
 WA WA20 I-5 NFD400 #05172019 Jefferson PUD with Beau 
-WA WA20Por PoCouFry WA19 #12042018 Jefferson PUD Visit
+WA WA20Por PorCouFry WA19 #12042018 Jefferson PUD Visit
 WA WA20Por WA19 US101 #05192019 Jefferson PUD with Beau
 WA WA20SprAna WA20 AnaFry #05182019 Jefferson PUD with Beau    
 WA WA21 US2_W WA174 #11072016 Telergee Board Meeting
