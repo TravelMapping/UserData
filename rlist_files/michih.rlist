@@ -1,4 +1,4 @@
-# Date: 2024-09-30
+# Date: 2024-10-03
 # ----------------
 
 ######################
@@ -778,6 +778,14 @@ HUN 50Bud HatUt PesBekeTer            #2023
 HUN 52Bud Pes NagUtHatUt              #2023
 HUN 52Pac HatUt Pes                   #2023
 HUN 56Bud DeliPal SzeGelTer           #2023
+
+ITA-CAM 1Nap PisSca Gar               #2024, metro
+ITA-CAM 2Nap PozSol NapPiaGar         #2024, commuter rail
+ITA-CAM 4Nap Poz Mos                  #2024, commuter rail
+ITA-CAM 6Nap Mos Mun                  #2024, metro
+ITA-CAM 11Nap AveCen PisSca           #2024, metro
+ITA-CAM Tram1 Pog Por                 #2024, tram, actually traveled as line 412
+ITA-CAM A Fuga Aug                    #2024, funicular
 
 ITA-LOM M1 RhoFieMil Ses1Mag          #2019, Milano
 ITA-LOM M1Bis Bis Pag                 #2019, Milano
