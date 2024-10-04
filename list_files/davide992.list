@@ -205,6 +205,12 @@ ITA SGCFirLiv ViaLiv A12
 ITA TanMod 6 17B
 ITA VarPar 6 15
 
+# Netherlands
+NLD A4 2 A10
+NLD A10 A4 14
+NLD S100Ams OosKade S114
+NLD S114Ams S100 A10
+
 # Poland
 POL A1 20 24
 POL A2 26 32
