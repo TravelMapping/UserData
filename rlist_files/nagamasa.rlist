@@ -164,10 +164,15 @@ HKG DisResLn SunBay DisRes
 
 HKG 615 HongLokRd YuenLong
 
+## OTHERS
 HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
 ### ITA
+## TRENITALIA
+ITA-LIG FbRomGen +SKIP_Montro ITA-LAZ FbRomGen RomaTer
+ITA-LIG FaRomGen +SKIP_Montro ITA-LAZ FaRomGen RomaTer
+
 ## METROPOLITANA DI ROMA
 ITA-LAZ MA Ott Ter
 ITA-LAZ MB Ter Col
@@ -390,6 +395,8 @@ NLD 52Ams Rok StaZuid
 #### NOR
 NOR FLY2 NatThe OsloLuf
 NOR RE20 OsloS NOR RE20 NOR/SWE
+NOR F1 OsloS NOR/SWE
+
 
 NOR 12Osl AkerBry Jer
 
