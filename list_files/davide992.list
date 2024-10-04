@@ -205,6 +205,9 @@ ITA SGCFirLiv ViaLiv A12
 ITA TanMod 6 17B
 ITA VarPar 6 15
 
+# Italy Strade Statali
+ITA SS674 RA3 SS223
+
 # Netherlands
 NLD A4 2 A10
 NLD A10 A4 14
