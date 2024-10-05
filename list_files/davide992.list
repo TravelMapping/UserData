@@ -208,6 +208,9 @@ ITA TanMod 6 18
 ITA VarPar 6 15
 
 # Italy Strade Statali
+ITA SS12Ste SS49Bis ITA/AUT
+ITA SS49 SS49Bis ITA/AUT
+ITA SS49BisSch A22 SS49
 ITA SS674 RA3 SS223
 
 # Netherlands
