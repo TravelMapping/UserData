@@ -502,6 +502,7 @@ NJ US1 PA/NJ NJ29
 NY BerCon I-87 NY/MA
 NY GarStaPkwy NJ/NY I-87/287
 NY HutRivPkwy 1 NY/CT
+NY NY106 NorStaPkwy I-495
 NY I-190 16 999
 NY I-278 8 999
 NY I-287 0 12
@@ -546,6 +547,7 @@ NY NY203 NY22 DugRd
 NY NY218 NY293 MainSt
 NY NY22 NY121 HarRd
 NY NY22 US6_Bre US4_S
+NY NY24Riv I-495 CR105
 NY NY25 CR48 CroSouFry
 NY NY254 I-87 US4
 NY NY295 NY22 NY/MA
@@ -582,8 +584,8 @@ NY SawMillPkwy Bro/Wes 20
 NY CroCouPkwy 1 HutRivPkwy
 NY GraCenPkwy 23 Que/Nas
 NY CroIslPkwy 29 36
-NY NorStaPkwy Que/Nas 31A
-NY NorStaPkwy 32 NY NorStaPkwy 35A
+NY NorStaPkwy Que/Nas 35A
+
 NY MeaStaPkwy M9 NorStaPkwy
 
 
