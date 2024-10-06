@@ -1672,7 +1672,8 @@ AL US31 US90 AL59_N #Point Clear Trips
 AL US31 AL97_S I-65(164) #MonCre Trips
 AL US31 I-65(186) I-65(205) #Clanton Trips
 AL US31 I-65(318) I-65(354) #Decatur Trips
-AL US31 I-65(284) I-65(266) #08162024 Trip from Bea to Home 
+AL US31 I-65(284) I-65(266) #08162024 Trip from Bea to Home
+AL US31 AL55_S US84_E #10042024 Travel to visit Bea   
 AL US43 I-22 US278/74 #04062024 Trip Jackson to Scott Co 
 AL US43 US72/ALT72 AL/TN #Loretton Trips
 AL US43 US84 I-65(19) #CWEMC Trips
@@ -1710,7 +1711,8 @@ AL US431 I-20(188) US231/53 #New Hope and Callaway Trip
 AL US72AltDec AL67_S US31_S #Joe Wheeler Electric
 AL US72AltDec US31_N I-565(1) #Joe Wheeler Electric  
 AL US80BusSel US80/14 US80/41 #Trips to Salem
-AL US411BusCen US411_W US411_E #Cherokee Electric 
+AL US411BusCen US411_W US411_E #Cherokee Electric
+AL NatTraPkwy MS/AL AL/TN #Trip Back from Tupelo    
 AL AL5 AL28 US43 #Pine Belt Audit
 AL AL9 US231 I-20 #Mt Cheaha Trips
 AL AL9 US411Bus AL/GA #Cherokee Electric    
@@ -1718,15 +1720,18 @@ AL AL10 I-65 AL245 #Pioneer Electric Audit
 AL AL10 AL28 AL5 #Pine Belt Audit
 AL AL10 US331_N AL245 #08252024 Travel Home to Bea's 
 AL AL14 US80_E US82_W #Live in Prattville goint to Selma
-AL AL14 I-65(181) AL147 #Prattville to Lake and Auburn 
+AL AL14 I-65(181) AL147 #Prattville to Lake and Auburn
+AL AL15 US29/84 AL55_S #10042024 Travel to visit Bea  
 AL AL17 US45 US84 #Milry Audit  
 AL AL21 US80_W AL28 #Camden Audit
 AL AL21 AL77_N US231/280 #Coosa Electric Audit
 AL AL22 BUS80_E AL5 #Pine Belt Audit
+AL AL22 AL139 US80/14 #10042024 Travel to visit Bea 
 AL AL24 AL157 AL67 #Joe Wheeler Electric
 AL AL25 US78 US231_N #08262024 Trip from Bea to Home
 AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home
-AL AL25 AL219_S CR58 #Tuscaloosa Trips  
+AL AL25 AL219_S CR58 #Tuscaloosa Trips
+AL AL25 AL155_N AL139 #10042024 Travel to visit Bea   
 AL AL28 AL21 AL10_E #Camden Audit 
 AL AL27 US231/249 AL173 # Travel to MCLB Albany
 AL AL35 US72/279 AL9 #Sand Mountain Electric
@@ -1762,24 +1767,31 @@ AL AL85 AL27 AL92_W #08252024 Travel Home to Bea's
 AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
 AL AL94 US331 US231 #Mon-Cre Audit
+AL AL97 US331 US31_N #10042024 Travel to visit Bea
+AL AL97 US31_S US80 #10042024 Travel to visit Bea 
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
 AL AL104 AL59 US98 #Trip to Grand Hotel 09052024  
 AL AL111 AL14 AL143 #Living in Prattville    
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
-AL AL119 US280 US31_N #Birmingham Trips 
+AL AL119 US280 US31_N #Birmingham Trips
+AL AL119 US31_S AL25 #10042024 Travel to visit Bea  
 AL AL122 US84 AL302 #08252024 Travel Home to Bea's
 AL AL123 AL103 AL167 #08272024 Clanton to Home 
 AL AL127 AL99 AL/TN #08252024 Travel Home to Bea's
 AL AL134 AL88_W US84/331 #Living in Enterprise
+AL AL137 US29 FL/AL #10042024 Travel to visit Bea  
 AL AL138 I-85 US80 #Tuskgee Airman Trip
+AL AL139 AL25 AL22 #10042024 Travel to visit Bea
 AL AL140 US80 AL14 #Prattville to Selma Trips
-AL AL141 AL166 US331 #08252024 Travel Home to Bea's 
+AL AL141 AL166 US331 #08252024 Travel Home to Bea's
+AL AL141 AL189 US331 #10042024 Travel to visit Bea 
 AL AL143 I-65 US31 #Living in Montgomery
 AL AL144 US231 AL77 #Ragland Audit 
 AL AL145 I-65 US31/22 #08272024 Clanton to Home
 AL AL145 I-65 CR61 #Ragland Audit Trips
-AL AL150 US31 US11 #Birmingham Trips 
+AL AL150 US31 US11 #Birmingham Trips
+AL AL155 AL119 AL25_S #10042024 Travel to visit Bea 
 AL AL157 I-65 AL24 #Joe Wheeler Electric
 AL AL158 AL213_N US98 #Singing River Electric
 AL AL161 AL180 AL182 #Orange Beach Trips
@@ -1792,7 +1804,8 @@ AL AL177 US43_N US43_S #Clarke Washing Electric
 AL AL180 AL161 FortMor #Orange Beach Trips and Ferry
 AL AL181 US98 US31 #09062024 Shopping while at the Grand Hotel 
 AL AL182 DolDr AL/FL #Gulf Shore Trip
-AL AL185 I-65(130) AL10 #Pioneer Electric Audit 
+AL AL185 I-65(130) AL10 #Pioneer Electric Audit
+AL AL185 AL10 US31_S #10042024 Travel to visit Bea 
 AL AL189 US84_W AL52 #08162024 Trip from Bea to Home
 AL AL193 AL163 LeMoyDr #Orange Beach Trip took Ferry
 AL AL196 AL52 AL27 #08162024 Trip from Bea to Home
@@ -1805,6 +1818,7 @@ AL AL227 US431/79 AubCarrSceDr #04062024 Jackson to Scott Co Trip
 AL AL229 AL63 AL14_W #Lake Martin
 AL AL229 AL14_E I-85 #Lake Martin 
 AL AL245 AL10 AL185 #08252024 Travel Home to Bea's
+AL AL251 US31 AL53 #10042024 Travel to visit Bea 
 AL AL269 AveV CR65 #Visit Butlers
 AL AL279 AL79 US72_S #Sand Mountain Electric
 AL AL279 AL35_N US72/35 #Sand Mountain Electric 
@@ -2012,6 +2026,7 @@ FL FL121 I-10 FL100 #03282018 Glades Board Meeting
 FL FL123 FL85_N FL85_S  #07052024
 FL FL173 FL292 US98 
 FL FL188 FL189 FL85  #07052024
+FL FL189 FL/AL FL4 #10042024 Travel to visit Bea 
 FL FL202 FLA1A I-295 #07072017 Trip to St Augustine
 FL FL207 US1 I-95 #07072017 Trip to St Augustine
 FL FL243 I-95 I-295 #07152018 Hilton Head Trip NTCA   
@@ -2419,7 +2434,8 @@ TN US64 US74_W TN/NC #10242017 Meeting in Pigeon Forge
 TN US64 TN11 US43 #01292019 Trip to Loretto Telephone
 TN US64 US51_S US72_E #01192021 Visiting Bea
 TN US64 TN11 US31 #08162024 Trip from Bea to Home
-TN US64 US41Alt/64Bus US64BusWin_W #08262024 Trip from Bea to Clanton 
+TN US64 US41Alt/64Bus US64BusWin_W #08262024 Trip from Bea to Clanton
+TN US64 US231/431 US64BusFay_W #10042024 Travel to visit Bea
 TN US70 US64_E TN177 #01192021 Visiting Bea      
 TN US72Cha TN2Kim_W AL/TN #09182017 Farmers Trip   
 TN US76 US127 US41_N #04062024 Jackson to Scott Co Trip
@@ -2451,7 +2467,8 @@ TN US412 US70/412Bus TN152_Cla #Bea to Scott County
 TN US421 TN/VA NC/TN #09082018 Visit Jimmy in Boone
 TN US431 I-24(35) US31E/31W #05082018 Loretto Trip - Concerts
 TN US431 US70_NasW US31/31Bus #05082018 Loretto Trip - Nashville Work
-TN US431 US31/431Bus I-840 #Living in M'Boro      
+TN US431 US31/431Bus I-840 #Living in M'Boro
+TN US431 US31Alt/431Bus_S US64/231 #10042024 Travel to visit Bea     
 TN US441 US411_N NC/TN #01022017 Visit Gatlinburg
 TN US441 TN62 I-640 #04062024 Jackson to Scott Co Trip
 TN US441 TN131 I-640 #08152024 Travel from SCTC to Bea's House 
@@ -2461,6 +2478,7 @@ TN US64BusFay US64_E US64_W #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US64_W US41Alt_N #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US41Alt_N US64_E #08262024 Trip from Bea to Clanton
 TN US70BusLeb US70_W US70_E #07012017 Trip to Mt Juliet
+TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
 TN NatTraPkwy TN100 US64 #05082018 Loretto Trip 
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
@@ -2485,7 +2503,9 @@ TN TN46 US70_E I-40 #09042017 GibsonEMC Visit
 TN TN46 US431 TN96 #05082018 Loretto Trip  
 TN TN48 TN49_E US70 #09042017 GibsonEMC Visit
 TN TN49 US79 TN48_S #09042017 GibsonEMC Visit
-TN TN50 TN245 US31 #08252024 Travel Home to Bea's 
+TN TN50 TN245 US31 #08252024 Travel Home to Bea's
+TN TN50 I-65 US31 #10042024 Travel to visit Bea
+TN TN50 I-65 US431 #10042024 Travel to visit Bea    
 TN TN51 TN/KY TN52 #07252017 Return from Scott County
 TN TN52 TN51 TN10 #07252017 Return from Scott County
 TN TN52 US27 TN111 #11032017 Visit to Clinton 
@@ -2523,7 +2543,8 @@ TN TN100 US70S TN96_E #07022017 Memphis IKEA
 TN TN100 US412_W US64 #07022017 Memphis IKEA
 TN TN102 TN96 TN266 #Living in Nashville Area 
 TN TN104TrkDye TN104_W US51Bus #08292017 Sir Fabric F'ville Trip  
-TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet    
+TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet
+TN TN110 US231/431 AL/TN #10042024 Travel to visit Bea      
 TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg
 TN TN111 TN52 I-40 #11032017 Visit to Clinton   
 TN TN120 TN/KY US79 #03102017 Return from Wabash BdMtg
@@ -2574,12 +2595,14 @@ TN TN297 US27_S TN154 #11032017 Visit to Clinton
 TN TN356 US641/54 US79 #09042017 GibsonEMC Visit
 TN TN361 TN362 US19E #09082018 Visit Jimmy in Boone 
 TN TN362 US321/67 TN361 #09082018 Visit Jimmy in Boone
+TN TN373 TN417 US31AltBus/431Bus #10042024 Travel to visit Bea
 TN TN374 US79_S TN237 #03102017 Return from Wabash BdMtg
 TN TN378 US27/60 US27_N #05232017 Bledsoe BdMtg 
 TN TN380 US70S/55 MainSt_E #05232017 Bledsoe BdMtg
 TN TN385Col I-240 I-269 #01192021 Visiting Bea
 TN TN386 I-65 TN174 #09102017 Target-Sam Trip 
 TN TN396 I-65 US31 #07022017 Memphis IKEA
+TN TN417 US431 TN373 #10042024 Travel to visit Bea 
 TN TN441 US31 TN252 #Living in Nashville Area   
 TN TN448 TN66 US411 #01022017 Visit Gatlinburg
 TN TN452 US231 I-840 #Living in M'Boro
