@@ -209,6 +209,7 @@ ITA VarPar 6 15
 
 # Italy Strade Statali
 ITA SS1 SS12 ViaIISet
+ITA SS9Cas RA1 ViaTer
 ITA SS12 SS38 RomStr
 ITA SS12 2 9
 ITA SS12 SP2 SS12Var
