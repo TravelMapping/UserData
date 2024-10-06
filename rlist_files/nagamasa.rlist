@@ -169,6 +169,8 @@ HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
 ### ITA
+ITA-TOS FunCer
+
 ## TRENITALIA
 ITA-LIG FbRomGen +SKIP_Montro ITA-LAZ FbRomGen RomaTer
 ITA-LIG FaRomGen +SKIP_Montro ITA-LAZ FaRomGen RomaTer
@@ -426,7 +428,7 @@ SWE 3Got KunPla CenSta
 #### THAILAND
 ### BANGKOK
 THA Blue BL26 BL12
-THA Silom CEN S360
+THA Silom CEN S6
 THA Suk N10 E5
 
 #### TWN
