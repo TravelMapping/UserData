@@ -1,7 +1,7 @@
 .PHONY: clean
 
-%.time: ../list_files/%.list
-	git log -n 1 --pretty=%ci ../list_files/$*.list > $@
+%.time: ../list_files/$(*F)
+	git log -n 1 --pretty=%ci ../`echo $(*F) | sed 's~.*\.~~'`_files/$(*F) > $@
 
 clean:
 	@rm *.time
