@@ -19,6 +19,7 @@ az us93 az/nv us60
 az us180 i-40(201) erimdr
 az us66hiskin i-40(139) tous93
 az us89altfre az/ut us89
+az norpkwy az303 norave
 az az24 az202 irord
 az az51 i-10 15
 az az64 i-40 us89
@@ -36,12 +37,14 @@ az az89ased i-40bl az179
 az az95 i-40 i-10bl/95
 az az95bul ca/az az/nv
 az az95spad az95 takpoird
+az az101 1 8
 az az101 23b 55a
 az az143 brord mcdrd
 az az179 i-17 az89a
 az az188 az87 us60
 az az202 1a 78
 az az260 i-17 az87_s
+az az303 110b 119
 az az389 ut/az us89alt
 az az587 i-10 az87
 
@@ -922,14 +925,16 @@ nh nh16 us1byp nh26_e
 nh nh16ajac nh16_s nh16_n
 nh nh25 nh16_n us3_s
 nh nh26 errdamrd us3_n
-nh nh31 ma/nh nh124
+nh nh31 ma/nh nh101_e
 nh nh32 ma/nh nh12
 nh nh33 nh108 pevhillrd 
 nh nh43 nh101 us4/202
+nh nh45 nh101 nh123
 nh nh63 ma/nh nh12
 nh nh78 ma/nh nh10/119
 nh nh88 us1 nh108
-nh nh101 nh13 nh1a
+nh nh101 nh9 nh1a
+nh nh101a nh101_w mainst
 nh nh103 vt/nh nh103trk
 nh nh103 nh120 nh10_s
 nh nh103trkcla nh103_e nh103_w
@@ -947,9 +952,13 @@ nh nh115 us3 us2
 nh nh116 us2 cotst
 nh nh118 us4 nh112
 nh nh119 vt/nh nh/ma
+nh nh122 ma/nh nh101_n
+nh nh123 ma/nh nh124_w
 nh nh123 nh/vt nh12a_s
-nh nh124 nh/ma nh31
+nh nh123anip ma/nh nh123
+nh nh124 nh/ma nh101
 nh nh125 nh108 us202/11
+nh nh130 us3 nh101a
 nh nh153con emadrd nh16/113
 nh nh156 nh27 hamrd
 
@@ -1047,7 +1056,7 @@ nv nv118 nv115 end
 nv nv119 us95 beard
 nv nv120 us95 nv119
 nv nv160 i-15 us95
-nv nv163 nv/az us95 us50_e
+nv nv163 nv/az us95
 nv nv165 us95 end
 nv nv172 i-11 end
 nv nv173 i-11 us93bus

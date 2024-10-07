@@ -12,10 +12,11 @@ AK GlaDis Por_S +DIV_Por_C
 
 #CA BART
 CA BARTBlue DalyCity DubPle
-CA BARTGre DalyCity Fre
-CA BARTOra Fre Ric
+CA BARTGre DalyCity Ber
+CA BARTOra Ber Ric
 CA BARTRed Mil Ric
-CA BARTYel Mil Con
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
 
 #CA Cable Cars
 CA CalSt VanNess Dru
@@ -23,8 +24,11 @@ CA PowHyde Mar Bea
 CA PowMas Mar Bay
 
 #CA SF Muni
-CA MuniF 5thCyr Bea
+CA MuniF 17thCas Bea
+CA MuniK BalPark Emb
 CA MuniL Waw Emb
+CA MuniN +DIV_JN 4thKing
+CA MuniT Sun ChiRosePark
 
 #San Diego Trolley
 CA BlueLn SanYsiTC +DIV_Gre_N
@@ -43,27 +47,31 @@ NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
 NY 1 110StCatPkwy SouFry
-NY 2 CenPkN WallSt
-NY 3 CenPkN WallSt
+NY 2 CenPkN FlaAveBroCol
+NY 3 CenPkN NewLotsAve
 NY 4 161StYanSta BowGre
 NY 5 59St BowGre
-NY 6 +DIV_4/5 BroBriCityHall
+NY 6 125thSt BroBriCityHall
 NY 7 34StHudYar JacHeiRooAve
-NY A 145St HowBeaJFK
-NY AOzo 145St +DIV_A
+NY A 145St FarRocMottAve
+NY AOzo 145St RocBlvd
 NY B 145St BriBea
 NY C 145St EucAve
 NY D 145St ConIslStiAve
-NY E SutBlvdArcAve WTC
-NY F +DIV_E ConIslStiAve
-NY G +DIV_A/C/F ChuAve
+NY E JamCenParArc WTC
+NY F BriVanWyckBlvd ConIslStiAve
+NY G HoytSchSts ChuAve
+NY J BroSt JamCenParArc
 NY L 8Ave 1Ave
-NY G +DIV_A/C/F ChuAve
-NY N +DIV_7_E ConIslStiAve
-NY R JacHeiRooAve 59St
-NY Q +DIV_F_N ConIslStiAve
+NY L BroJct CanRocPkwy
+NY M MyrAve ForHil71Ave
+NY N QuePlaza ConIslStiAve
+NY Q LexAve63St ConIslStiAve
+NY R ForHil71Ave 59St
 NY S42 TimSq GraCen
-NY W +DIV_7_E WhiStSFry
+NY SRoc BroCha RocParkBea116St
+NY SPro FraAve ProPk
+NY W QuePlaza WhiStSFry
 NY SIR StGeo OldTown
 
 OH RedLn TowCity LitItaUniCir
@@ -82,12 +90,15 @@ WA T TacDome 4thSt
 
 #US Airports
 AZ PHX RenCarCen T4
+CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
+FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
+NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 TX IAHSub TerA TerC
 
@@ -105,17 +116,22 @@ VA YelLn KingStOldTown VA/DC
 BC ExpoLn Wat MainStSciWor
 
 AUS-NSW CCN Cen Gos
-AUS-NSW T1 Cha +DIV_38
-AUS-NSW T2 +DIV_LpA +DIV_38
-AUS-NSW T3 +DIV_LpA +DIV_4S
+AUS-NSW SCO Cen Sut
+AUS-NSW T1 Ber Hor
+AUS-NSW T1 Cha Str
+AUS-NSW T2 Mus Str
+AUS-NSW T3 Mus Syd
 AUS-NSW T4 BonJct Cro
-AUS-NSW T4Wat BonJct +DIV_Cro
+AUS-NSW T4Wat BonJct Lof
+AUS-NSW T8 TownHall Cen
+AUS-NSW T8Syd TownHall Syd
+AUS-NSW T9 Cha Hor
 
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
 ENG GatEx LonVic Bri
-ENG EliLn +DIV_Hea BondSt
-ENG EliLnHea +DIV_HT5 BondSt
+ENG EliLn HayHar BondSt
+ENG EliLnHea HeaTer23 BondSt
 ENG EliLnShe HeaTer5 BondSt
 ENG LioLn Eus KilHighRd
 
@@ -134,13 +150,14 @@ ENG VicLn KXSP Vic
 
 #Docklands Light Railway
 ENG DLR Bank CutSark
-ENG DLRRoy +DIV_WooW +DIV_StrN
+ENG DLRRoy Sha Pop
 ENG DLRStr CanWha BowChu
-ENG DLRWoo Bank +DIV_StrN
+ENG DLRWoo Bank Pop
 
 FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF LonPar HDF/IDF ParGareNord
 FRA-IDF C ChaMarsTourEif StMicNotDame
+
 #Paris Metro
 FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
@@ -148,10 +165,10 @@ FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
 
 GRC 1Ath Thi Omo
-GRC 2Ath Acr Omo
+GRC 2Ath NeosKos Omo
 GRC 3Ath Mon Aer
 GRC T6 Syn Pik
-GRC T7 +DIV_T6 Kol
+GRC T7 Edem Kol
 
 SCT HMLEdi EdiWav Sti
 

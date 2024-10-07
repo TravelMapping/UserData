@@ -1,12 +1,14 @@
 ########-INTERCITY RAIL LINES-########
 DE AE Wil NY AE PennSta
+CT NENew Sta MA NENew BosSou
+CT HL NHUniSta MA HL Spr
+MA LSBos Spr BosSou
 
 
 ########-COMMUTER RAIL LINES-########
+NY MonBra HunAve Mon
+NY PortJefBra PennSta PortJef
 NY PortWasBra PennSta PortWas
-NY RonBra PennSta Jam
-NY MonBra HunAve Jam
-NY MonBra SKIP_Hic Bab
 NY RocBra GraCen Jam
 
 NY NewHavLn GraCen CT NewHavLn Str

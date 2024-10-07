@@ -1,4 +1,4 @@
-# Date: 2024-08-14
+# Date: 2024-10-02
 # ----------------
 
 #####################################
@@ -16,7 +16,7 @@ SWE     Trelleborg                   DEU-MV  Rostock
 EST     Tallinn                      FIN     Helsinki
 SWE     Helsingborg                  DNK     Helsingor
 MLT     Mgarr                        MLT     Cirkewwa
-ITA     Brindisi                     GRC     Igoumenitsa
+ITA-PUG Brindisi                     GRC     Igoumenitsa
 NLD     Hoek van Holland             ENG     Harwich
 ENG     Dover                        FRA-HDF Calais
 DNK     Egense                       DNK     Hals
@@ -29,6 +29,10 @@ NOR     Lavik                        NOR     Oppedal     #E39
 NOR     Halhjem                      NOR     Sandvik     #E39
 NOR     Arsvagen                     NOR     Mortavika   #E39
 SWE     Ystad                        POL     Swinoujscie
+ITA-LIG Savona                       FRA-COR Bastia
+FRA-COR Bonifacio                    ITA-SAR Santa Teresa Gallura
+ITA-SAR Cagliari                     ITA-SIC Palermo
+ITA-SIC Messina (Viale Giostra)      ITA-CAL Vila San Giovanni
 
 
 #####################################

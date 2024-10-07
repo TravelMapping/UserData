@@ -1,5 +1,5 @@
 # ──────────
-# 2024-08-04
+# 2024-09-23
 # ──────────
 
 # ─────────
@@ -25,17 +25,17 @@ CZE 12Pra Vys SidBar
 CZE 13Pra OlsHrb CecNam
 CZE 14Pra Vys Spo
 CZE 15Pra Kot OlsHrb
-CZE 16Pra SidRepy UstDilDP
+CZE 16Pra SidRepy DepoHos
 CZE 17Pra Kob Libu
 CZE 18Pra NadPod VozPan
 CZE 19Pra Pan Vys
 CZE 20Pra DivSar SidBar
 CZE 21Pra Rad Lev
-CZE 22Pra BilaHora Hos
+CZE 22Pra BilaHora NadZahMes
 CZE 23Pra Kra Zvo
 CZE 24Pra Kob NamBraSyn
 CZE 25Pra BilaHora NasLib
-CZE 26Pra DivSar Hos
+CZE 26Pra DivSar NadZahMes
 
 CZE S1 PraMasNad Kol
 CZE S2 PraMasNad Kol
@@ -58,6 +58,7 @@ CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste StaBol
 CZE S33 MlaBolHlaNad Mel
 CZE S40 Tel KraNadVlt
+CZE S45 Kla KraNadVlt
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -81,11 +82,14 @@ CZE S98 BenesovPra Olb
 # Brno–IDS JMK
 # ────────────
 
+CZE 1Brn MenNam VysHlaVst
 CZE 4Brn NamSvo HlaNad
 CZE 5Brn Ces MenNam
-CZE 8Brn NemBoh HlaNad
+CZE 8Brn NemBoh Gei
 
 CZE S2Jih Let BrnoHlaNad
+CZE S4Jih NamOsl BrnoHlaNad
+CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
@@ -97,12 +101,14 @@ CZE S53Jih Bre Lan
 CZE U1 Most DecHlaNad
 CZE U3 Lit LouLit
 CZE U4 UstiNadLabHlaNad Hne
+CZE U5 Most UstiNadLabHlaNad
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
 CZE U11 Lou Lov
 CZE U12 Most Rak
 CZE U13 Most Zat
 CZE U14 Zat Rak
+CZE U28Dec DecHlaNad DEU-SN U28 BadSch
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
@@ -126,15 +132,16 @@ CZE 3Lib LidSadyZoo Spa
 
 CZE L2 DecHlaNad CesLipaHlaNad
 CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
+CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
 CZE L35 Tur Jic
 
-# ───────
-# Olomouc
-# ───────
+# ─────────────
+# Olomouc–IDSOK
+# ─────────────
 
+CZE 1Olo OkrSoud HlaNad
+CZE 2Olo NamRep HlaNad
 CZE 7Olo NreKre OkrSoud
 
 # ────────────
@@ -142,11 +149,11 @@ CZE 7Olo NreKre OkrSoud
 # ────────────
 
 CZE 1Ost HlaNad HraPol
-CZE X3Ost +DIV_271119 +DIV_7111718
+CZE X3Ost MirNam Pal
 CZE 4Ost SviMos Kar
 CZE 5Ost BudZat PorVre
-CZE 13Ost +DIV_371219 DolVit
-CZE 17Ost PorVre +DIV_71112
+CZE 7Ost PorVre Pal
+CZE 13Ost RedVit DolVit
 
 CZE S2Mor OstSvi MosJab
 CZE S3Mor OstHlaNad HraNaMor
@@ -155,6 +162,12 @@ CZE S6Mor OstHlaNad LisFry
 CZE S6Mor FryMis FryNadOst
 CZE S9Mor OstKun CesTes
 CZE S22Mor MosJab MosJabZas
+
+# ──────────
+# Plzeň–IDPK
+# ──────────
+
+CZE 4Plz BozNem SadyPet
 
 #┌───────────────────────────────────────────┐
 #│                    AUT                    │
@@ -184,8 +197,6 @@ AUT S60 WienHau BruLei
 # ───────
 
 DEU-SN S1Dre RadZit Sch
-DEU-SN U28 BadSch CZE U28Dec DecHlaNad
-DEU-SN L7 CZE/DEU DEU/POL
 
 # ───────
 # München
@@ -215,7 +226,8 @@ ENG BakLn Ken Wat
 ENG CenLnEal SheBush GanHill
 ENG CirLn Bar Mon
 ENG DisLnEdg PutBri Pad
-ENG JubLn BakSt Sou
+ENG JubLn BakSt Wes
+ENG JubLn Wat Sou
 ENG MetLn Ric BakSt
 ENG NorLnMHE MillHillEast ChaCro
 ENG PicLn TurLn Coc
@@ -264,7 +276,7 @@ HUN 60Bud Var SzeHegyGye
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
-POL L7 DEU/POL POL/CZE
+
 
 #┌───────────────────────────────────────────┐
 #│                    SCT                    │

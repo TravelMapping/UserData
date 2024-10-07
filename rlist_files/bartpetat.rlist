@@ -134,17 +134,20 @@ LUX T1 RoutBrePaf StaPlazEto
 
 ##  BE - Berlin
 DEU-BE S7 BB/BE Hbf
+DEU-BE S25 FriStr PotPla
+DEU-BE S25 SudKre BE/BB
 DEU-BE S41 WestKre_N WestHaf
 DEU-BE S41 OstKre SchBerg
 
 DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
+DEU-BE S5 WestKre LicBerg
 
 DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
-DEU-BE U5 Hbf UntLin
+DEU-BE U5 Hbf LicBerg
 DEU-BE U6 NatMus TemHof
 
 DEU-BE M1 Milastrasse SHacMar

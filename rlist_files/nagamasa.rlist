@@ -4,6 +4,11 @@
 ##                           ##
 ###############################
 
+#### ARE (UAE)
+ARE RedLn AirTer1 SobRea
+ARE GreenLn Bur AlRas
+ARE DXBTram DubMarMal DubMar_E
+
 #### AUS
 ### QLD
 ## CITYTRAIN
@@ -55,6 +60,18 @@ CHE 18Gen GareCor CHE 18Gen CERN
 ## TRAIN
 CHE L6 +DIV_Air GenCor
 
+#### CHN
+### GD
+## SHENZHEN METRO
+CHN-GD SZMLn1 LuoHu CheGongMiao
+CHN-GD SZMLn2 LianTangChe GangXiaBei
+CHN-GD SZMLn4 HongShan CivCen
+CHN-GD SZMLn6 SciMus HongShan
+CHN-GD SZMLn11 CheGongMiao Airport
+
+## PRD ICR
+CHN-GD GuangZhu ZhongShanN ZhuHai
+
 #### DEU
 ### MUNICH
 DEU-BY S2 Dac BergLaim
@@ -92,7 +109,9 @@ ENG ArunVlyLn LonVic GatAir
 
 #### ESP
 ## RENFE
-ESP-AN C1Mal MalCenAla Aer
+ESP-AN MadGra +DIV_GraMal Gra
+ESP-AN MadMal +DIV_MalGre MarZam
+ESP-AN C1Mal MalCenAla PlaMay
 
 #### EUR 
 ## EUROSTAR
@@ -143,10 +162,19 @@ HKG ERailLnLok SheShui LokMaChau
 HKG AirExp HongKong Air
 HKG DisResLn SunBay DisRes
 
+HKG 615 HongLokRd YuenLong
+
+## OTHERS
 HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
 ### ITA
+ITA-TOS FunCer
+
+## TRENITALIA
+ITA-LIG FbRomGen +SKIP_Montro ITA-LAZ FbRomGen RomaTer
+ITA-LIG FaRomGen +SKIP_Montro ITA-LAZ FaRomGen RomaTer
+
 ## METROPOLITANA DI ROMA
 ITA-LAZ MA Ott Ter
 ITA-LAZ MB Ter Col
@@ -349,8 +377,18 @@ JPN ArashiyamaTm A5 A13
 JPN OsaMon 11 19
 JPN OkiMon 1 7
 
+#### KOR
+### SEOUL
+KOR AREX A01 A11
+KOR 4 420 426
+KOR 1 128 130
+KOR 3 329 328
+
 #### LUX
 LUX T1 LuxExpo Ham
+
+#### MAC
+MAC Taipa Aer Lot
 
 #### NLD
 NLD IC35 AmsCen SchAir
@@ -359,6 +397,8 @@ NLD 52Ams Rok StaZuid
 #### NOR
 NOR FLY2 NatThe OsloLuf
 NOR RE20 OsloS NOR RE20 NOR/SWE
+NOR F1 OsloS NOR/SWE
+
 
 NOR 12Osl AkerBry Jer
 
@@ -384,6 +424,23 @@ SWE 10Sto Rad TCen
 ### GOTEBERG
 ## TRAM
 SWE 3Got KunPla CenSta
+
+#### THAILAND
+### BANGKOK
+THA Blue BL26 BL12
+THA Silom CEN S6
+THA Suk N10 E5
+
+#### TWN
+TWN TYAir A1 A13
+TWN TPRed R02 R28
+TWN TPGreen G15 G10
+TWN TPOrangeHui O09 O08 
+TWN TPOrangeHui O06 O07
+TWN TPBlue BL11 BL12
+TWN TPBlue BL18 BL23
+TWN TPBrown BR13 BR09
+
 
 #### USA
 ## AMTRAK
@@ -423,6 +480,7 @@ IL RedLn Roo ClaDiv
 IL GreLn Mor StaLake
 
 ### FL
+FL MiaM IntCen MIA
 ## MIAMI METRORAIL
 FL OraLn Bri MiaAir
 
@@ -459,7 +517,7 @@ OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
 ## LINK
-WA 1 Nor AngLake
+WA 1 Lyn AngLake
 WA 2 SBel RedTec
 
 ## SEATTLE STREETCAR

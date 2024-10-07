@@ -1,4 +1,4 @@
-# Date: 2024-08-17
+# Date: 2024-10-03
 # ----------------
 
 ######################
@@ -263,6 +263,20 @@ AUT S45 WienOtt WienHan                        #2024
 AUT S50 Neu WienWes                            #2024, traveled as REX51 from St. Pölten
 #AUT REX51 St. Pölten Hbf Wien WestBf          #2024 via Neulengbach
 
+DEU-BY S1Fri Fre NeuFah                        #2024
+DEU-BY S2 AltoMun Erd                          #2024
+DEU-BY S7 WolHau DonBerBru                     #2024
+DEU-BY S8 Her OstBf                            #2024
+
+FRA-ARA ParEti +DIV_Per +DIV_Vie               #2024, traveled as regional train
+FRA-ARA NanLyon +DIV_Eti LyonPer               #2024, traveled as regional train
+#FRA-ARA Estressin Lyon-Vaise                  #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
+FRA-PAC StrNice NiceVil FRA/MCO                #2024, traveled as Cannes - Menton regional train
+MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Menton regional train
+
+#FRA-COR Ajaccio Bastia                        #2024
+
+#ITA-SAR Sassari Cagliari                      #2024
 
 ######################
 #### METROS/TRAMS ####
@@ -407,10 +421,19 @@ DEU-BY U6 GarForZen KliGroHad    #2022
 DEU-BY S1 FlugHafMun Hbf         #2022 via Moosach
 DEU-BY S8 FlugHafMun Pas         #2022 via Hbf, Leuchtenbergring
 DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
+DEU-BY 12Mun RomPla SchPla       #2024
+DEU-BY 16Mun KarPlaSta EffPla    #2024
+DEU-BY 17Mun AmaBurgStr Hbf      #2024
+DEU-BY 17Mun MaxWebPla StEmm     #2024
 DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
 DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
+DEU-BY 20Mun MooBf KarPlaSta     #2024
 DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
+DEU-BY 21Mun Bor_1 WestFriHof    #2024
+DEU-BY 21Mun Bor_2 KarPlaSta     #2024
+DEU-BY 25Mun OstFriHof DerPla    #2024
+DEU-BY 27Mun PetRing KarPlaSta   #2027
 
 DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
@@ -523,9 +546,10 @@ DEU-NI 5Han Sto AegTorPla                         #2021
 DEU-NI 6Han NordHaf AegTorPla                     #2021
 DEU-NI 7Han MisBurg WettBer                       #2021
 DEU-NI 8Han DraStr MesNord                        #2021
-DEU-NI 9Han FasKrug Emp                           #2021
+DEU-NI 9Han HanHbf Emp                            #2021
 DEU-NI 10Han Ahl HbfZOB                           #2021
 DEU-NI 11Han HalHoffStr AegTorPla                 #2021
+DEU-NI 13Han FasKrug HanHbf                       #2021, traveled as line 9
 DEU-NI 17Han HbfZOB WalSteStr                     #2021
 
 #Bielefeld
@@ -697,15 +721,29 @@ ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxfo
 ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-FRA-BFC T1Dij DijGare QueCen         #2023
-FRA-BFC T2Dij Val CheCen             #2023
+FRA-ARA MA Per VauVelSoie             #2024
+FRA-ARA MB ChaChaHer GenLavHop        #2024
+FRA-ARA MC HotVilLouPra Cui           #2024
+FRA-ARA MD GareVen GareVai            #2024
 
-FRA-IDF M1 DefGraArc ChaVin          #2019
-FRA-IDF M7 Cou8Mai1945 PorCho        #2019
-FRA-IDF M14 SaiLaz Oly               #2019
+FRA-ARA T3 GarePartDieuVil VauVelSoie #2024
+FRA-ARA T4 ChaChaHer GareVen          #2024
 
-FRA-PAC M1 LaRose Fou                #2018
-FRA-PAC M2 BouVil SaiMarDro          #2018, northern extension was only opened in 2019
+FRA-BFC T1Dij DijGare QueCen          #2023
+FRA-BFC T2Dij Val CheCen              #2023
+
+FRA-IDF M1 DefGraArc ChaVin           #2019
+FRA-IDF M7 Cou8Mai1945 PorCho         #2019
+FRA-IDF M14 SaiLaz Oly                #2019
+
+FRA-OCC A BasCam BalGra               #2024
+FRA-OCC B Bor JeanJau                 #2024
+
+FRA-PAC M1 LaRose Fou                 #2018
+FRA-PAC M2 BouVil SaiMarDro           #2018, northern extension was only opened in 2019
+FRA-PAC 1Nic HenSap HopPas            #2024
+FRA-PAC 2Nic CADAMCenAdm PortLym      #2024
+FRA-PAC 3Nic StIsi AerTer2            #2024
 
 #2019, All routes in service as-of 2019 except of short T1 at west end
 HRV 2Zag Crn Sav                      #2019
@@ -741,6 +779,14 @@ HUN 52Bud Pes NagUtHatUt              #2023
 HUN 52Pac HatUt Pes                   #2023
 HUN 56Bud DeliPal SzeGelTer           #2023
 
+ITA-CAM 1Nap PisSca Gar               #2024, metro
+ITA-CAM 2Nap PozSol NapPiaGar         #2024, commuter rail
+ITA-CAM 4Nap Poz Mos                  #2024, commuter rail
+ITA-CAM 6Nap Mos Mun                  #2024, metro
+ITA-CAM 11Nap AveCen PisSca           #2024, metro
+ITA-CAM Tram1 Pog Por                 #2024, tram, actually traveled as line 412
+ITA-CAM A Fuga Aug                    #2024, funicular
+
 ITA-LOM M1 RhoFieMil Ses1Mag          #2019, Milano
 ITA-LOM M1Bis Bis Pag                 #2019, Milano
 ITA-LOM M2 Ges AssMilFioFor           #2019, Milano
@@ -753,6 +799,10 @@ ITA-LAZ MA  Bat Ana                   #2019, Roma
 ITA-LAZ MB  Reb Lau                   #2019, Roma
 ITA-LAZ MB1 Jon Bol                   #2019, Roma
 ITA-LAZ MC SanGio MonComPan           #2019, Roma
+
+ITA-SAR 1Sas StaFS EmiGar             #2024, Sassari
+
+ITA-SIC MetCat MonPo Ste              #2024, Catania
 
 LUX T1 LuxExpo LycBouWeg              #2023
 
