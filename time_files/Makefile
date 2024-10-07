@@ -4,4 +4,4 @@
 	git log -n 1 --pretty=%ci ../`echo $(*F) | sed 's~.*\.~~'`_files/$(*F) > $@
 
 clean:
-	@rm *.time
+	@rm */*.time
