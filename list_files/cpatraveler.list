@@ -1942,7 +1942,8 @@ CO CO67Sed RamRanRd US85
 CO US85 CO470 I-25(207B)
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
-CT US6 CT/RI I-395 #Trip with GJ Telergee  
+CT US6 CT/RI I-395 #Trip with GJ Telergee
+DC GWMemPkwy DC/VA VA/DC #Visit DC    
 DE I-95 MD/DE DE/PA #09242017 NTCA Philly Trip Also some from Earlier Trips
 DE I-295 I-95 DE/NJ #09242017 NTCA Philly
 DE I-495 I-95 6 #09242017 NTCA Philly
@@ -2069,6 +2070,8 @@ GA I-85 21 AL/GA #01042017 Trip from SC to Montgomery
 GA I-185 10 1 #04282019 St George Island Vacation
 GA I-285 62A 43 #02282017 Montgomery to Nashville Trip
 GA I-285 20 43 #09202017 Trip to Bread Baker
+GA I-285 GA279 62A #09202017 Trip to Bread Baker
+GA I-285 43 62 #09202017 Trip to Bread Baker
 GA I-575 9 GA5 #05182018 Atlanta to Lexington  
 GA US17 GA/SC I-16(164) #03142017 NTCA Meeting Trip
 GA US19 GA/NC US76_W #10272017 Return from CVTMA Ashville
@@ -2103,7 +2106,7 @@ GA GA24SprMad US129/441 US278 #03092022 Return from SCTC
 GA GA25 GA/SC I-516(7A) #03142017 NTCA Meeting Trip  
 GA GA25ConSav I-516(7B) US17 #03142017 NTCA Meeting Trip
 GA GA26 I-75 GA153 #03092022 Return from SCTC  
-GA GA26ConGar US80 GA26 #03142017 NTCA Meeting Trip
+GA GA26ConGar US80 I-516 #03142017 NTCA Meeting Trip
 GA GA27 GA41_S US82 #03092022 Return from SCTC
 GA GA41 GA153 US280_W #03092022 Return from SCTC 
 GA GA53 I-75 GA9_N #09232019 Randolph Telephone Trip
@@ -2212,7 +2215,13 @@ ME US302 NH/ME RivSt #Trip with GJ Telergee
 ME US302 RivSt I-295/1 #Telergee Trip
 ME ME22 ME9_W ME77 #Telergee Trip
 ME ME77 ME22 US1Alt #Telergee Trip    
-ME ME100 I-295/1 ParkAve #Telergee Trip  
+ME ME100 I-295/1 ParkAve #Telergee Trip
+MI I-69 IN/MI 133 #Brian Wedding Trip
+MI I-75 117A USA/CAN #Brian Wedding Trip
+MI I-94 33 IN/MI #Brian Wedding Trip
+MI US31 I-75 27 #Brian Wedding Trip
+MI MI22 US31 MI72_W #Brian Wedding Trip
+MI MI72 MI22_W MI22_E #Brian Wedding Trip   
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
 MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
@@ -2559,7 +2568,8 @@ TN US64BusWin US64_W US41Alt_N #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US41Alt_N US64_E #08262024 Trip from Bea to Clanton
 TN US70BusLeb US70_W US70_E #07012017 Trip to Mt Juliet
 TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
-TN NatTraPkwy TN100 US64 #05082018 Loretto Trip 
+TN NatTraPkwy TN100 US64 #05082018 Loretto Trip
+TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled  
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
 TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
@@ -2739,7 +2749,29 @@ UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+VA I-66 VA/DC 1 #Spruce Knob Trips
+VA I-81 VA/WV 221 #Hagerstown Trip & Spruce Knob   
+VA I-95 VA/DC 79 #01122017 Reagan to Mom
+VA I-95 51 46 #Visit Mom from AL 
+VA I-395 VA/DC 1 #01122017 Reagan to Mom
+VA I-464 1 6B #Visit Mom
+VA I-495 170(95) MD/VA #Visit DC
+VA US1 VA/DC I-95(161) #Visit DC
+VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
+VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom 
+VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace  
+VA GWMemPkwy I-495 DC/VA #Visit DC
+VA GWMemPkwyCry VA/DC 1stSt #Visit DC
+VA GWMemPkwyMtV VA400 VA235 #Visit DC
+VA VA3 US360 I-95 #Visit Mom Washington Birthplace
+VA VA3BusWar VA3_E VA3_W #01142017 Visit Mom Washington Birthplace
+VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
+VA VA33 US17_S VA30/249 #01142017 Visit Mom Washington Birthplace        
 VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
+VA VA110 I-395 I-66 #Visit DC
+VA VA134 US258_N US60 #Visit Mom  
+VA VA235 MouVer US1_S #Visit DC 
+VA VA400 1stSt GeoWahPkwy #Visit DC   
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
