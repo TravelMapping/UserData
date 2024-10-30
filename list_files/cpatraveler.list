@@ -1942,7 +1942,8 @@ CO CO67Sed RamRanRd US85
 CO US85 CO470 I-25(207B)
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
-CT US6 CT/RI I-395 #Trip with GJ Telergee  
+CT US6 CT/RI I-395 #Trip with GJ Telergee
+DC GWMemPkwy DC/VA VA/DC #Visit DC    
 DE I-95 MD/DE DE/PA #09242017 NTCA Philly Trip Also some from Earlier Trips
 DE I-295 I-95 DE/NJ #09242017 NTCA Philly
 DE I-495 I-95 6 #09242017 NTCA Philly
@@ -2055,8 +2056,81 @@ FL FL752 FL295 FL289 #09072024 Trip Back from The Grand
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
 FL FL886 US1 FloWay #Going on Crusies out of Miami
 FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
+GA I-16 167 157 #03142017 NTCA Meeting Trip
+GA I-16 116 157 #07172018 Meeting in Hilton Head from Jacksonville
+GA I-20 AL/GA 57 #01142018 Atl Airport to Montgomery Mtg
+GA I-20 67 GA/SC #Birmingham to Camp Lejeune 
 GA I-24 TN/GA GA/TN #Travel M'Boro to Chattanooga  
+GA I-59 AL/GA I-24 #12182017 Callaway and Maggie Pick Up 
+GA I-75 242 101 #SCTC to Naples Trip
+GA I-75 99 62 #SCTC to Naples Trip  
+GA I-75 251 259 #02282017 Montgomery to Nashville Trip
+GA I-75 268 283 #02282017 Montgomery to Nashville Trip  
+GA I-85 21 AL/GA #01042017 Trip from SC to Montgomery
+GA I-185 10 1 #04282019 St George Island Vacation
+GA I-285 62A 43 #02282017 Montgomery to Nashville Trip
+GA I-285 20 43 #09202017 Trip to Bread Baker
+GA I-285 GA279 62A #09202017 Trip to Bread Baker
+GA I-285 43 62 #09202017 Trip to Bread Baker
+GA I-575 9 GA5 #05182018 Atlanta to Lexington  
+GA US17 GA/SC I-16(164) #03142017 NTCA Meeting Trip
+GA US19 GA/NC US76_W #10272017 Return from CVTMA Ashville
+GA US19 I-285(25) US76_W #05182018 Atlanta to Lexington 
+GA US19 GA92 US80_W #01142018 Atl Airport to Montgomery Mtg
+GA US27 US29_S US27Alt_S #12182017 Callaway and Maggie Pick Up
+GA US27 GA100_S GA20/101 #12182017 Callaway and Maggie Pick Up
+GA US27 GA20/101 GA2_E #01142018 Atl Airport to Montgomery Mtg
+GA US27 I-185(1) GA97 #04282019 St George Island Vacation
+GA US27AltNew US27_S I-85 #12182017 Callaway and Maggie Pick Up
 GA US29 AL/GA W9thSt #2000 Knology
+GA US29 GA106 GA10Lp(4) #03092022 Return from SCTC  
+GA US76 US19_N I-75(336) #10272017 Return from CVTMA Ashville
+GA US76 US19_S GA/SC #04072019 Travel to Skyline Board Meeting  
+GA US80 GA26Con FortPulNMon #03142017 NTCA Meeting Trip
+GA US80 US19_N I-185 #01142018 Atl Airport to Montgomery Mtg
+GA US82 US319_S I-75 #05072019 Return from SGI Vacation
+GA US82 GA27/39 AL/GA #03092022 Return from SCTC 
+GA US129 GA283 GA254 #09232019 Randolph Telephone Trip   
+GA US278 I-285(43) US19/41_S #02282017 Montgomery to Nashville Trip
+GA US278 US129/441_S GA83_S #03092022 Return from SCTC 
+GA US301 FL/GA I-16 #07172018 Meeting in Hilton Head from Jacksonville
+GA US319 JacSt US82_W #05072019 Return from SGI Vacation
+GA US441 GA10Lp(4) I-20 #03092022 Return from SCTC    
+GA GA1LpRoW GA1 GA20 #12182017 Callaway and Maggie Pick Up 
+GA GA9 GA53_E GA136 #09232019 Randolph Telephone Trip
+GA GA17 GA115_W I-85 #09232019 Randolph Telephone Trip
+GA GA20 US27_N AL/GA #12182017 Callaway and Maggie Pick Up
+GA GA20 I-575(19) US19/400 #05182018 Atlanta to Lexington    
+GA GA21 GA204 I-516(8) #03142017 NTCA Meeting Trip
+GA GA24SprMad US129/441 US278 #03092022 Return from SCTC
+GA GA25 GA/SC I-516(7A) #03142017 NTCA Meeting Trip  
+GA GA25ConSav I-516(7B) US17 #03142017 NTCA Meeting Trip
+GA GA26 I-75 GA153 #03092022 Return from SCTC  
+GA GA26ConGar US80 I-516 #03142017 NTCA Meeting Trip
+GA GA27 GA41_S US82 #03092022 Return from SCTC
+GA GA41 GA153 US280_W #03092022 Return from SCTC 
+GA GA53 I-75 GA9_N #09232019 Randolph Telephone Trip
+GA GA60 GA136 GA283 #09232019 Randolph Telephone Trip
+GA GA83 US278_W I-75 #03092022 Return from SCTC 
+GA GA85 GA314 GA92_S #01142018 Atl Airport to Montgomery Mtg 
+GA GA92 I-75 MainSt_Woo #09202017 Trip to Bread Baker
+GA GA92 GA85_S US19/41_S #01142018 Atl Airport to Montgomery Mtg
+GA GA97 US27/84 FL/GA #04282019 St George Island Vacation  
+GA GA100 US27Alt US27_S #12182017 Callaway and Maggie Pick Up
+GA GA100 I-20 US27_Ced #01142018 Atl Airport to Montgomery Mtg
+GA GA106 I-85 US29 #03092022 Return from SCTC 
+GA GA115 GA254 GA17_N #09232019 Randolph Telephone Trip 
+GA GA136 US27_N I-59 #01142018 Atl Airport to Montgomery Mtg
+GA GA136 GA9 GA60 #09232019 Randolph Telephone Trip
+GA GA138 I-85 GA279 #01142018 Atl Airport to Montgomery Mtg  
+GA GA109 AL/GA US27/29 #12182017 Callaway and Maggie Pick Up
+GA GA153 GA26 GA41 #03092022 Return from SCTC 
+GA GA190 US27 US27Alt #12182017 Callaway and Maggie Pick Up
+GA GA254 US129 GA115 #09232019 Randolph Telephone Trip 
+GA GA279 GA138 GA314 #01142018 Atl Airport to Montgomery Mtg
+GA GA283 GA60 US129 #09232019 Randolph Telephone Trip
+GA GA314 GA279 GA85 #01142018 Atl Airport to Montgomery Mtg 
+GA GA354 GA190 GA18 #12182017 Callaway and Maggie Pick Up       
 IA I-29 MO/IA 75 #06232020
 IA I-29 75 IA/SD #07102024 Badland Trip
 IA I-74 IA/IL I-80 #04252019
@@ -2141,7 +2215,13 @@ ME US302 NH/ME RivSt #Trip with GJ Telergee
 ME US302 RivSt I-295/1 #Telergee Trip
 ME ME22 ME9_W ME77 #Telergee Trip
 ME ME77 ME22 US1Alt #Telergee Trip    
-ME ME100 I-295/1 ParkAve #Telergee Trip  
+ME ME100 I-295/1 ParkAve #Telergee Trip
+MI I-69 IN/MI 133 #Brian Wedding Trip
+MI I-75 117A USA/CAN #Brian Wedding Trip
+MI I-94 33 IN/MI #Brian Wedding Trip
+MI US31 I-75 27 #Brian Wedding Trip
+MI MI22 US31 MI72_W #Brian Wedding Trip
+MI MI72 MI22_W MI22_E #Brian Wedding Trip   
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
 MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
@@ -2369,7 +2449,8 @@ RI RI138A RI138_W RI138_E #Trip with GJ Telergee
 RI RI214 RI114 RI138A #Trip wit GJ Telergee 
 RI RI238 RI138 GoatIslRd #Trip with GJ Telergee
 RI RI246 I-95 US1/44 #Trip with GJ Telergee
-RI RI403 ComParkRd RI4 #Trip with GJ Telergee          
+RI RI403 ComParkRd RI4 #Trip with GJ Telergee
+SC SC170 GA/SC US17_S #03142017 NTCA Meeting Trip          
 SD I-29 26 109 #07222019
 SD I-29 IA/SD 26 #07102024 Badland Trip
 SD I-90 SD/MN 364 #07212019
@@ -2487,7 +2568,8 @@ TN US64BusWin US64_W US41Alt_N #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US41Alt_N US64_E #08262024 Trip from Bea to Clanton
 TN US70BusLeb US70_W US70_E #07012017 Trip to Mt Juliet
 TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
-TN NatTraPkwy TN100 US64 #05082018 Loretto Trip 
+TN NatTraPkwy TN100 US64 #05082018 Loretto Trip
+TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled  
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
 TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
@@ -2667,7 +2749,29 @@ UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+VA I-66 VA/DC 1 #Spruce Knob Trips
+VA I-81 VA/WV 221 #Hagerstown Trip & Spruce Knob   
+VA I-95 VA/DC 79 #01122017 Reagan to Mom
+VA I-95 51 46 #Visit Mom from AL 
+VA I-395 VA/DC 1 #01122017 Reagan to Mom
+VA I-464 1 6B #Visit Mom
+VA I-495 170(95) MD/VA #Visit DC
+VA US1 VA/DC I-95(161) #Visit DC
+VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
+VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom 
+VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace  
+VA GWMemPkwy I-495 DC/VA #Visit DC
+VA GWMemPkwyCry VA/DC 1stSt #Visit DC
+VA GWMemPkwyMtV VA400 VA235 #Visit DC
+VA VA3 US360 I-95 #Visit Mom Washington Birthplace
+VA VA3BusWar VA3_E VA3_W #01142017 Visit Mom Washington Birthplace
+VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
+VA VA33 US17_S VA30/249 #01142017 Visit Mom Washington Birthplace        
 VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
+VA VA110 I-395 I-66 #Visit DC
+VA VA134 US258_N US60 #Visit Mom  
+VA VA235 MouVer US1_S #Visit DC 
+VA VA400 1stSt GeoWahPkwy #Visit DC   
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
