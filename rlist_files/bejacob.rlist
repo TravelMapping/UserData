@@ -10,6 +10,11 @@ AK GlaDis Anc Por_N
 AK GlaDis Whi +DIV_Por_B
 AK GlaDis Por_S +DIV_Por_C
 
+#CA LA Metro
+CA A 7thStMetCen UniSta
+CA B 7thStMetCen UniSta
+CA D 7thStMetCen UniSta
+
 #CA BART
 CA BARTBlue DalyCity DubPle
 CA BARTGre DalyCity Ber
@@ -100,7 +105,7 @@ MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
-TX IAHSub TerA TerC
+TX IAHSub TerA TerD/E
 
 #Washington Metro
 DC BluLn VA/DC FedCenSW
