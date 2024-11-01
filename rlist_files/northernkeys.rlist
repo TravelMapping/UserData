@@ -2,6 +2,8 @@
 
 # England
 ENG BuxLn ManPic Bux
+ENG CarLn SCT/ENG Car
+ENG ChaTnl FolEurTer GBR/FRA
 ENG ECMLLee LonKinCro Lee
 ENG GWML BathSpa BriTemMea
 ENG LivNorLn +SKIP_Chi +DIV_HVLE
@@ -10,7 +12,33 @@ ENG NorDowLn Rea GatAir
 ENG ReaLn Wok Rea
 ENG SevBeaLn BriTemMea CliDown
 ENG SWML LonWat SouCen
-ENG TPASRteGla ManPic ENG/SCT
-ENG XCMLDon Rea She
+ENG TPASRteGla ManPic Car
+ENG VicLn Eus Vau
+ENG WestLonLn WatJct WemCen
+ENG WesML WLS/ENG BriTemMea
+ENG XCMLDon Rea York
 ENG XCMLMan BriTemMea Sto
 ENG XCMLSou Bas ManPic
+
+# Scotland
+SCT CarLn Dum SCT/ENG
+
+# Wales
+WLS WesML New WLS/ENG
+
+
+
+# # France
+
+# Hauts-de-France
+FRA-HDF ChaTnl GBR/FRA CalEurTer
+
+
+
+# # USA
+
+# Georgia
+GA GoldLn PeaCen ArtsCen
+
+# Washington
+WA 1 UniWas AngLake
