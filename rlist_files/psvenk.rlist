@@ -1,4 +1,4 @@
-# MBTA rapid transit (preview) - all lines clinched on 2023-01-27
+# MBTA rapid transit - all lines clinched on 2023-01-27
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
 MA RedLn Ash Ale
@@ -9,23 +9,23 @@ MA GreLnC CleCir GovCen
 MA GreLnD Riv UniSq
 MA GreLnE HeathSt MedTuf
 
-# MBTA Commuter Rail (preview)
+# MBTA Commuter Rail
 MA ProLn Rte128 BosSou
 
-# Washington Metro (preview)
+# Washington Metro
 MD RedLn Bet DC RedLn UniSta
 DC OraLn FogBotGWU CapSou
 DC GreLn LEnfPla MtVerSq
 
-# Métro de Montréal (preview)
+# Métro de Montréal
 QC GreLn LioGro PieIX
 QC OraLn Sno BerUQAM
 QC BluLn Sno CotDesNei
 
-# Los Angeles Metro (preview)
+# Los Angeles Metro
 CA A UniSta Arc
 
-# New York City Subway (preview)
+# New York City Subway
 NY A 34StPennSta 14St
 NY A ChaSt FulSt
 NY C 34StPennSta FulSt
@@ -53,24 +53,28 @@ NY 6 GraCen BroBriCityHall
 NY 7 34StHudYar FluMainSt
 NY S42 TimSq GraCen
 
-# PATH (preview)
+# PATH
 NJ PATHNWT NewPenn NY PATHNWT WTC
 NJ PATHJ33 GroSt NY PATHJ33 33St
 
-# NJ Transit (preview)
+# NJ Transit
 NY NECorLn PennSta NJ NECorLn NewPenn
 
-# Long Island Rail Road (preview)
+# Long Island Rail Road
 NY PortJefBra PennSta Hic
 NY WHemBra AtlTer Jam
 
-# Metro-North (preview)
+# Metro-North
 NY NewHavLn GraCen Pel
 
-# Amtrak (devel)
+# Amtrak
 NY AE PennSta MA AE BosSou
 NY NENew PennSta MA NENew BosSou
 
-# Chennai Metro (devel)
+# Chennai Metro
 IND-TN BluLn Cen Ala
 IND-TN GreLn Cen Ala
+
+# Delhi Metro
+IND-DL VioLn DelGate ManHou
+IND-DL BluLn Aks ManHou

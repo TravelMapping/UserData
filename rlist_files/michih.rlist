@@ -1,4 +1,4 @@
-# Date: 2024-09-25
+# Date: 2024-10-16
 # ----------------
 
 ######################
@@ -276,6 +276,7 @@ MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Mento
 
 #FRA-COR Ajaccio Bastia                        #2024
 
+#ITA-SAR Sassari Cagliari                      #2024
 
 ######################
 #### METROS/TRAMS ####
@@ -390,7 +391,7 @@ DEU-BW U14 MuhlHau +DIV_WilPla                                                  
 DEU-BW U14 +DIV_WilPla Vai                                                                     #2023 traveled as U1, rerouted from 2024
 DEU-BW U15 StaHeim RuhBank                                                                     #2023
 DEU-BW U19 NeuGer NecParkSta                                                                   #2024
-DEU-BW S1 HerBerg Wen                                                                          #201x/2x
+DEU-BW S1 HerBerg KirHeim                                                                      #201x/2x
 DEU-BW S2 FilSta SchDorf                                                                       #2022/23
 DEU-BW S3 Bac BadCan                                                                           #2024
 DEU-BW S4 Bac LudBurg                                                                          #2024
@@ -545,9 +546,10 @@ DEU-NI 5Han Sto AegTorPla                         #2021
 DEU-NI 6Han NordHaf AegTorPla                     #2021
 DEU-NI 7Han MisBurg WettBer                       #2021
 DEU-NI 8Han DraStr MesNord                        #2021
-DEU-NI 9Han FasKrug Emp                           #2021
+DEU-NI 9Han HanHbf Emp                            #2021
 DEU-NI 10Han Ahl HbfZOB                           #2021
 DEU-NI 11Han HalHoffStr AegTorPla                 #2021
+DEU-NI 13Han FasKrug HanHbf                       #2021, traveled as line 9
 DEU-NI 17Han HbfZOB WalSteStr                     #2021
 
 #Bielefeld
@@ -777,6 +779,14 @@ HUN 52Bud Pes NagUtHatUt              #2023
 HUN 52Pac HatUt Pes                   #2023
 HUN 56Bud DeliPal SzeGelTer           #2023
 
+ITA-CAM 1Nap PisSca Gar               #2024, metro
+ITA-CAM 2Nap PozSol NapPiaGar         #2024, commuter rail
+ITA-CAM 4Nap Poz Mos                  #2024, commuter rail
+ITA-CAM 6Nap Mos Mun                  #2024, metro
+ITA-CAM 11Nap AveCen PisSca           #2024, metro
+ITA-CAM Tram1 Pog Por                 #2024, tram, actually traveled as line 412
+ITA-CAM A Fuga Aug                    #2024, funicular
+
 ITA-LOM M1 RhoFieMil Ses1Mag          #2019, Milano
 ITA-LOM M1Bis Bis Pag                 #2019, Milano
 ITA-LOM M2 Ges AssMilFioFor           #2019, Milano
@@ -791,6 +801,8 @@ ITA-LAZ MB1 Jon Bol                   #2019, Roma
 ITA-LAZ MC SanGio MonComPan           #2019, Roma
 
 ITA-SAR 1Sas StaFS EmiGar             #2024, Sassari
+
+ITA-SIC MetCat MonPo Ste              #2024, Catania
 
 LUX T1 LuxExpo LycBouWeg              #2023
 

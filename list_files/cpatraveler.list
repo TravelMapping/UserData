@@ -403,22 +403,6 @@ KS KS92 KS/MO US73_N  #previous roads when living in OP
 MO MO45SprLea MO92 MO45
 MO MO45 MOsH I-29
 MO MO273 I-29 MO45_S 
-OR OR213 AirWay US26 #07222023 Trip for TFACC meeting to Crater Lake
-WA WA14 1 I-5
-WA I-5 1A OR/WA
-OR I-5 OR/WA 301
-OR I-405 I-5(302B) 1D
-OR US26 I-405(1C) OR213
-OR US26 BurRd US97_S
-OR US97 US26_E OR62
-OR OR62 US97 CraLakeNP
-OR CraCrkRd OR62 RimDr
-OR CraLakeRimDr CraCrkRd CraLakeHwy_E
-OR CraLakeHwy RimDr OR138
-OR OR138 CraLakeHwy I-5(124)
-OR I-5 124 233
-OR I-5 288 299B
-OR US30BypPor I-5 I-205
 TN TN63 US25E_S TN345  #07142023 Travel back to Panama City from Gate City via Powell Valley stop
 TN US25E TN33_E US11W_S
 TN US25E US11W_N US11E_N
@@ -1688,7 +1672,8 @@ AL US31 US90 AL59_N #Point Clear Trips
 AL US31 AL97_S I-65(164) #MonCre Trips
 AL US31 I-65(186) I-65(205) #Clanton Trips
 AL US31 I-65(318) I-65(354) #Decatur Trips
-AL US31 I-65(284) I-65(266) #08162024 Trip from Bea to Home 
+AL US31 I-65(284) I-65(266) #08162024 Trip from Bea to Home
+AL US31 AL55_S US84_E #10042024 Travel to visit Bea   
 AL US43 I-22 US278/74 #04062024 Trip Jackson to Scott Co 
 AL US43 US72/ALT72 AL/TN #Loretton Trips
 AL US43 US84 I-65(19) #CWEMC Trips
@@ -1699,7 +1684,8 @@ AL US78 I-20(123) US11_S #Legion Field
 AL US78 US11_N I-20(153) #Ragland
 AL US80 AL5 AL14_W #Hunting Trip
 AL US80 CR7_Low I-65(167) #Trip to Selma
-AL US80 AL126_E CR107 #Visit Rod 
+AL US80 AL126_E CR107 #Visit Rod
+AL US80 AL138 US29_S #Tuskgee Airman Trip 
 AL US82 US231_S AL110 #Lake Eufaula
 AL US82 US29_N AL51_N #Lake Eufaula
 AL US82 US431_S AL/GA #Trips to GA 
@@ -1722,24 +1708,37 @@ AL US411 AL77 US231_N #08262024 Trip from Bea to Home
 AL US411 US231_S US78 #08262024 Trip from Bea to Home 
 AL US431 AL147 I-20(191) #Callaway Trip
 AL US431 I-20(188) US231/53 #New Hope and Callaway Trip
+AL US72AltDec AL67_S US31_S #Joe Wheeler Electric
+AL US72AltDec US31_N I-565(1) #Joe Wheeler Electric  
 AL US80BusSel US80/14 US80/41 #Trips to Salem
+AL US411BusCen US411_W US411_E #Cherokee Electric
+AL NatTraPkwy MS/AL AL/TN #Trip Back from Tupelo    
 AL AL5 AL28 US43 #Pine Belt Audit
-AL AL9 US231 I-20 #Mt Cheaha Trips  
+AL AL9 US231 I-20 #Mt Cheaha Trips
+AL AL9 US411Bus AL/GA #Cherokee Electric    
 AL AL10 I-65 AL245 #Pioneer Electric Audit
 AL AL10 AL28 AL5 #Pine Belt Audit
 AL AL10 US331_N AL245 #08252024 Travel Home to Bea's 
 AL AL14 US80_E US82_W #Live in Prattville goint to Selma
-AL AL14 I-65(181) AL147 #Prattville to Lake and Auburn 
+AL AL14 I-65(181) AL147 #Prattville to Lake and Auburn
+AL AL15 US29/84 AL55_S #10042024 Travel to visit Bea  
 AL AL17 US45 US84 #Milry Audit  
 AL AL21 US80_W AL28 #Camden Audit
 AL AL21 AL77_N US231/280 #Coosa Electric Audit
 AL AL22 BUS80_E AL5 #Pine Belt Audit
+AL AL22 AL139 US80/14 #10042024 Travel to visit Bea 
+AL AL24 AL157 AL67 #Joe Wheeler Electric
 AL AL25 US78 US231_N #08262024 Trip from Bea to Home
-AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home 
+AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home
+AL AL25 AL219_S CR58 #Tuscaloosa Trips
+AL AL25 AL155_N AL139 #10042024 Travel to visit Bea   
 AL AL28 AL21 AL10_E #Camden Audit 
 AL AL27 US231/249 AL173 # Travel to MCLB Albany
+AL AL35 US72/279 AL9 #Sand Mountain Electric
+AL AL36 US31 US231 #New Hope Audit 
 AL AL41 AL10/28 AL265 #Camden Audit
-AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha  
+AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha
+AL AL50 AL229 AL49 #Lake Martin   
 AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home 
 AL AL53 I-65 US231/431 #12172017 Montgomery Trip Ardmore Audit         
 AL AL55 FL/AL US331_S  #07052024
@@ -1748,43 +1747,65 @@ AL AL59 US31_S AL182 #Gulf Shore Trips
 AL AL59 US31_N AL287 #Gulf Shore Trips
 AL AL62 MilWayRd AL227 #04062024 Jackson to Scott Co Trip
 AL AL63 AL14 AL22_E #Lake Martin Trips
+AL AL67 US72ALT/20_E US231 #Joe Wheeler & Arab Electric
+AL AL68 AL9_N AL35 #Pick up Maggie
+AL AL68 US411_S US11_S #Cherokee Electric
+AL AL68 US11_N I-59 #Cherokee Electric  
 AL AL69 I-65(304) US31_S #Cullman Electric Audit
-AL AL69 US278_E US431/79 #04062024 Jackson to Scott Co Trip   
+AL AL69 US278_E US431/79 #04062024 Jackson to Scott Co Trip
+AL AL69 US43 AL177 #Clarke Washington   
 AL AL75 CR27 AL/GA #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 CR27 #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 US431 #N Alabama Audit Trip
 AL AL75 US231_N I-59 #Oneonta Audits
 AL AL77 US431_N US411 #08262024 Trip from Bea to Home
 AL AL77 AL21_S US411 #Ragland Audit   
-AL AL79 AL/TN US431_N #04062024 Jackson to Scott Co Trip 
+AL AL79 AL/TN US431_N #04062024 Jackson to Scott Co Trip
+AL AL81 US29/80 I-85 #Tuskgee Airman Trip 
 AL AL85 AL92_W US84/134 #Travel to St Andrews from Rucker
 AL AL85 AL27 AL92_W #08252024 Travel Home to Bea's 
 AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
+AL AL94 US331 US231 #Mon-Cre Audit
+AL AL97 US331 US31_N #10042024 Travel to visit Bea
+AL AL97 US31_S US80 #10042024 Travel to visit Bea 
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
 AL AL104 AL59 US98 #Trip to Grand Hotel 09052024  
 AL AL111 AL14 AL143 #Living in Prattville    
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
+AL AL119 US280 US31_N #Birmingham Trips
+AL AL119 US31_S AL25 #10042024 Travel to visit Bea  
 AL AL122 US84 AL302 #08252024 Travel Home to Bea's
 AL AL123 AL103 AL167 #08272024 Clanton to Home 
 AL AL127 AL99 AL/TN #08252024 Travel Home to Bea's
 AL AL134 AL88_W US84/331 #Living in Enterprise
+AL AL137 US29 FL/AL #10042024 Travel to visit Bea  
+AL AL138 I-85 US80 #Tuskgee Airman Trip
+AL AL139 AL25 AL22 #10042024 Travel to visit Bea
 AL AL140 US80 AL14 #Prattville to Selma Trips
-AL AL141 AL166 US331 #08252024 Travel Home to Bea's 
+AL AL141 AL166 US331 #08252024 Travel Home to Bea's
+AL AL141 AL189 US331 #10042024 Travel to visit Bea 
 AL AL143 I-65 US31 #Living in Montgomery
 AL AL144 US231 AL77 #Ragland Audit 
 AL AL145 I-65 US31/22 #08272024 Clanton to Home
 AL AL145 I-65 CR61 #Ragland Audit Trips
+AL AL150 US31 US11 #Birmingham Trips
+AL AL155 AL119 AL25_S #10042024 Travel to visit Bea 
+AL AL157 I-65 AL24 #Joe Wheeler Electric
+AL AL158 AL213_N US98 #Singing River Electric
 AL AL161 AL180 AL182 #Orange Beach Trips
 AL AL163 I-10 AL193 #Orange Beach Trip took Ferry    
 AL AL164 AL28 AL10 #Camden Audit
 AL AL166 US84 AL141 #08252024 Travel Home to Bea's 
 AL AL170 US231 AL63 #Lake Martin Trips
+AL AL176 AL35 AL68 #Sand Mountain Electric
+AL AL177 US43_N US43_S #Clarke Washing Electric
 AL AL180 AL161 FortMor #Orange Beach Trips and Ferry
 AL AL181 US98 US31 #09062024 Shopping while at the Grand Hotel 
 AL AL182 DolDr AL/FL #Gulf Shore Trip
-AL AL185 I-65(130) AL10 #Pioneer Electric Audit 
+AL AL185 I-65(130) AL10 #Pioneer Electric Audit
+AL AL185 AL10 US31_S #10042024 Travel to visit Bea 
 AL AL189 US84_W AL52 #08162024 Trip from Bea to Home
 AL AL193 AL163 LeMoyDr #Orange Beach Trip took Ferry
 AL AL196 AL52 AL27 #08162024 Trip from Bea to Home
@@ -1794,10 +1815,17 @@ AL AL219 AL14_E AL22 #Pine Belt Audit
 AL AL225 US31 I-65 #Trip to AMTA Meeting at Grand     
 AL AL227 AubCarrSceDr AL75  #Day two Cullman to Gate City 04062024
 AL AL227 US431/79 AubCarrSceDr #04062024 Jackson to Scott Co Trip
-AL AL245 AL10 AL185 #08252024 Travel Home to Bea's 
+AL AL229 AL63 AL14_W #Lake Martin
+AL AL229 AL14_E I-85 #Lake Martin 
+AL AL245 AL10 AL185 #08252024 Travel Home to Bea's
+AL AL251 US31 AL53 #10042024 Travel to visit Bea 
+AL AL269 AveV CR65 #Visit Butlers
+AL AL279 AL79 US72_S #Sand Mountain Electric
+AL AL279 AL35_N US72/35 #Sand Mountain Electric 
 AL AL281 US78 AdaGapRd #Mt Cheaha Camping
 AL AL287 AL59 I-65 #Gulf Shore Trips
 AL AL302 AL122 US84 #08252024 Travel Home to Bea's
+AL AL382 US82 AL219 #Tuscaloosa Trips 
 AZ I-8 178 115A 
 AZ I-10 CA/AZ AZ/NM #29Palms Drive
 AZ I-15 NV/AZ AZ/UT
@@ -1879,6 +1907,14 @@ CA CA178Sho CA/NV CA127_N #11162018
 CA CA190Dea CA127 NorHwy #11162018
 CA CA247 CA62 I-15 #11172016
 CA CA266 CA168 CA/NV #2001
+CO CO22 SabBlvd BriRd #10122024 Airport to Brighton Hampton
+CO US85 CO7 US85BusFor_N #10132024 White River FW 10132024
+CO US85BusFor US85_N CO52_E #10132024 White River FW 10132024
+CO CO52 US85Bus_N US287 #10132024 White River FW 10132024
+CO US287 CO52 CO14_W #10132024 White River FW 10132024
+CO CO14 US287_N US40 #10132024 White River FW 10132024
+CO CO131 US40 I-70 #10162024 White River FW
+CO CO13 I-70 AirRd #Return from White River          
 CO US160 US491_S NM/CO #06292024
 CO US160BusMan US160_E US160_W  #06282024
 CO MesaVerRd US160 SprCyn #06292024 
@@ -1906,7 +1942,8 @@ CO CO67Sed RamRanRd US85
 CO US85 CO470 I-25(207B)
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
-CT US6 CT/RI I-395 #Trip with GJ Telergee  
+CT US6 CT/RI I-395 #Trip with GJ Telergee
+DC GWMemPkwy DC/VA VA/DC #Visit DC    
 DE I-95 MD/DE DE/PA #09242017 NTCA Philly Trip Also some from Earlier Trips
 DE I-295 I-95 DE/NJ #09242017 NTCA Philly
 DE I-495 I-95 6 #09242017 NTCA Philly
@@ -1998,6 +2035,7 @@ FL FL121 I-10 FL100 #03282018 Glades Board Meeting
 FL FL123 FL85_N FL85_S  #07052024
 FL FL173 FL292 US98 
 FL FL188 FL189 FL85  #07052024
+FL FL189 FL/AL FL4 #10042024 Travel to visit Bea 
 FL FL202 FLA1A I-295 #07072017 Trip to St Augustine
 FL FL207 US1 I-95 #07072017 Trip to St Augustine
 FL FL243 I-95 I-295 #07152018 Hilton Head Trip NTCA   
@@ -2018,8 +2056,81 @@ FL FL752 FL295 FL289 #09072024 Trip Back from The Grand
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
 FL FL886 US1 FloWay #Going on Crusies out of Miami
 FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
+GA I-16 167 157 #03142017 NTCA Meeting Trip
+GA I-16 116 157 #07172018 Meeting in Hilton Head from Jacksonville
+GA I-20 AL/GA 57 #01142018 Atl Airport to Montgomery Mtg
+GA I-20 67 GA/SC #Birmingham to Camp Lejeune 
 GA I-24 TN/GA GA/TN #Travel M'Boro to Chattanooga  
+GA I-59 AL/GA I-24 #12182017 Callaway and Maggie Pick Up 
+GA I-75 242 101 #SCTC to Naples Trip
+GA I-75 99 62 #SCTC to Naples Trip  
+GA I-75 251 259 #02282017 Montgomery to Nashville Trip
+GA I-75 268 283 #02282017 Montgomery to Nashville Trip  
+GA I-85 21 AL/GA #01042017 Trip from SC to Montgomery
+GA I-185 10 1 #04282019 St George Island Vacation
+GA I-285 62A 43 #02282017 Montgomery to Nashville Trip
+GA I-285 20 43 #09202017 Trip to Bread Baker
+GA I-285 GA279 62A #09202017 Trip to Bread Baker
+GA I-285 43 62 #09202017 Trip to Bread Baker
+GA I-575 9 GA5 #05182018 Atlanta to Lexington  
+GA US17 GA/SC I-16(164) #03142017 NTCA Meeting Trip
+GA US19 GA/NC US76_W #10272017 Return from CVTMA Ashville
+GA US19 I-285(25) US76_W #05182018 Atlanta to Lexington 
+GA US19 GA92 US80_W #01142018 Atl Airport to Montgomery Mtg
+GA US27 US29_S US27Alt_S #12182017 Callaway and Maggie Pick Up
+GA US27 GA100_S GA20/101 #12182017 Callaway and Maggie Pick Up
+GA US27 GA20/101 GA2_E #01142018 Atl Airport to Montgomery Mtg
+GA US27 I-185(1) GA97 #04282019 St George Island Vacation
+GA US27AltNew US27_S I-85 #12182017 Callaway and Maggie Pick Up
 GA US29 AL/GA W9thSt #2000 Knology
+GA US29 GA106 GA10Lp(4) #03092022 Return from SCTC  
+GA US76 US19_N I-75(336) #10272017 Return from CVTMA Ashville
+GA US76 US19_S GA/SC #04072019 Travel to Skyline Board Meeting  
+GA US80 GA26Con FortPulNMon #03142017 NTCA Meeting Trip
+GA US80 US19_N I-185 #01142018 Atl Airport to Montgomery Mtg
+GA US82 US319_S I-75 #05072019 Return from SGI Vacation
+GA US82 GA27/39 AL/GA #03092022 Return from SCTC 
+GA US129 GA283 GA254 #09232019 Randolph Telephone Trip   
+GA US278 I-285(43) US19/41_S #02282017 Montgomery to Nashville Trip
+GA US278 US129/441_S GA83_S #03092022 Return from SCTC 
+GA US301 FL/GA I-16 #07172018 Meeting in Hilton Head from Jacksonville
+GA US319 JacSt US82_W #05072019 Return from SGI Vacation
+GA US441 GA10Lp(4) I-20 #03092022 Return from SCTC    
+GA GA1LpRoW GA1 GA20 #12182017 Callaway and Maggie Pick Up 
+GA GA9 GA53_E GA136 #09232019 Randolph Telephone Trip
+GA GA17 GA115_W I-85 #09232019 Randolph Telephone Trip
+GA GA20 US27_N AL/GA #12182017 Callaway and Maggie Pick Up
+GA GA20 I-575(19) US19/400 #05182018 Atlanta to Lexington    
+GA GA21 GA204 I-516(8) #03142017 NTCA Meeting Trip
+GA GA24SprMad US129/441 US278 #03092022 Return from SCTC
+GA GA25 GA/SC I-516(7A) #03142017 NTCA Meeting Trip  
+GA GA25ConSav I-516(7B) US17 #03142017 NTCA Meeting Trip
+GA GA26 I-75 GA153 #03092022 Return from SCTC  
+GA GA26ConGar US80 I-516 #03142017 NTCA Meeting Trip
+GA GA27 GA41_S US82 #03092022 Return from SCTC
+GA GA41 GA153 US280_W #03092022 Return from SCTC 
+GA GA53 I-75 GA9_N #09232019 Randolph Telephone Trip
+GA GA60 GA136 GA283 #09232019 Randolph Telephone Trip
+GA GA83 US278_W I-75 #03092022 Return from SCTC 
+GA GA85 GA314 GA92_S #01142018 Atl Airport to Montgomery Mtg 
+GA GA92 I-75 MainSt_Woo #09202017 Trip to Bread Baker
+GA GA92 GA85_S US19/41_S #01142018 Atl Airport to Montgomery Mtg
+GA GA97 US27/84 FL/GA #04282019 St George Island Vacation  
+GA GA100 US27Alt US27_S #12182017 Callaway and Maggie Pick Up
+GA GA100 I-20 US27_Ced #01142018 Atl Airport to Montgomery Mtg
+GA GA106 I-85 US29 #03092022 Return from SCTC 
+GA GA115 GA254 GA17_N #09232019 Randolph Telephone Trip 
+GA GA136 US27_N I-59 #01142018 Atl Airport to Montgomery Mtg
+GA GA136 GA9 GA60 #09232019 Randolph Telephone Trip
+GA GA138 I-85 GA279 #01142018 Atl Airport to Montgomery Mtg  
+GA GA109 AL/GA US27/29 #12182017 Callaway and Maggie Pick Up
+GA GA153 GA26 GA41 #03092022 Return from SCTC 
+GA GA190 US27 US27Alt #12182017 Callaway and Maggie Pick Up
+GA GA254 US129 GA115 #09232019 Randolph Telephone Trip 
+GA GA279 GA138 GA314 #01142018 Atl Airport to Montgomery Mtg
+GA GA283 GA60 US129 #09232019 Randolph Telephone Trip
+GA GA314 GA279 GA85 #01142018 Atl Airport to Montgomery Mtg 
+GA GA354 GA190 GA18 #12182017 Callaway and Maggie Pick Up       
 IA I-29 MO/IA 75 #06232020
 IA I-29 75 IA/SD #07102024 Badland Trip
 IA I-74 IA/IL I-80 #04252019
@@ -2038,11 +2149,25 @@ IA IA2 US218/27 CRV56 #03262019
 IA IA22 US218/27 US61_S #04252019
 IA IA27 10 MO/IA #08122021
 IA US6HisIow 1stAve_N 1stAve_S #08122021
+ID I-15 67 93 #08042017 NSAC Meeting Travel to NP
+ID I-84 155 165 #08032017 NSAC Meeting Travel to NP
+ID I-84 194 216 #08042017 NSAC Meeting Travel to NP
+ID I-84 245 ID/UT #08052017 NSAC Meeting Travel to NP   
+ID I-86 58 63 #08032017 NSAC Meeting Travel to NP
 ID I-90 WA/ID 12 #11072016 Telergee Board Meeting
 ID I-90 12 ID/MT #11082016 Telergee Board Meeting
-ID US12 ID/MT WA/ID #11092016 Telergee visit Big Hole NB   
+ID I-15BLPoc US30_W I-15_N #08032017 NSAC Meeting Travel to NP
+ID I-84BLBli I-84_E US30_E #08032017 NSAC Meeting Travel to NP
+ID I-84BLBur I-84_W I-84_E #08032017 NSAC Meeting Travel to NP  
+ID US12 ID/MT WA/ID #11092016 Telergee visit Big Hole NB
+ID US26 I-15(93) I-84(141) #08042017 NSAC Meeting Travel to NP  
+ID US30 US89_N I-86(58) #08032017 NSAC Meeting Travel to NP
+ID US30 I-84BL_E BelRapRd #08032017 NSAC Meeting Travel to NP Snake River Overlook   
+ID US89 UT/ID US30_W #08032017 NSAC Meeting Travel to NP    
 ID US95 I-90(12) NWBlvd #11072016 Telergee Board Meeting
-ID US95 US12_E ThuHillRd #11102016 Telergee visit Nez Perce NHP   
+ID US95 US12_E ThuHillRd #11102016 Telergee visit Nez Perce NHP
+ID ID25 I-84(165) I-84(194) #08042017 NSAC Meeting Travel to NP
+ID ID77 I-84 ID81_S #08052017 NSAC Meeting Travel to NP City of Rocks    
 ID MT43 ID/MT MT/ID #11092016 Telergee visit Big Hole NB     
 LA I-10 LA/MS TX/LA
 LA I-12 85 1A
@@ -2090,7 +2215,13 @@ ME US302 NH/ME RivSt #Trip with GJ Telergee
 ME US302 RivSt I-295/1 #Telergee Trip
 ME ME22 ME9_W ME77 #Telergee Trip
 ME ME77 ME22 US1Alt #Telergee Trip    
-ME ME100 I-295/1 ParkAve #Telergee Trip  
+ME ME100 I-295/1 ParkAve #Telergee Trip
+MI I-69 IN/MI 133 #Brian Wedding Trip
+MI I-75 117A USA/CAN #Brian Wedding Trip
+MI I-94 33 IN/MI #Brian Wedding Trip
+MI US31 I-75 27 #Brian Wedding Trip
+MI MI22 US31 MI72_W #Brian Wedding Trip
+MI MI72 MI22_W MI22_E #Brian Wedding Trip   
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
 MN I-35W 9A I-35(88) #07222019 NTCA Regional Meeting
@@ -2264,6 +2395,40 @@ NV NV612 NV604 NV593 #06072024
 NY I-90 NY/MA B3 #Trip with GJ Telergee
 NY US20 NY22_S NY/MA #Trip with GJ Telergee
 NY NY22 I-90 US20_E #Trip with GJ Telergee
+OR I-5 233 288 #05132017 Telergee John Day NM Return Trip
+OR I-5 299B 301 #06182019 Port Townsend Bd Mtg Trip 
+OR I-82 11 WA/OR #05102017 Telergee Mtg Trip
+OR I-84 I-5 6 #06182019 Port Townsend Bd Mtg Trip  
+OR I-84 6 179 #05102017 Telergee Mtg Trip
+OR I-84 207 304 #05132017 Telergee John Day NM Return Trip 
+OR I-205 I-5 OR/WA #05102017 Telergee Mtg Trip
+OR I-405 I-5(299B) 1D #06182019 Port Townsend Bd Mtg Trip 
+OR US20 OR126_E OR34_E #05132017 Telergee John Day NM Return Trip
+OR US26 I-405(1C) US101 #06182019 Port Townsend Bd Mtg Trip   
+OR US26 OR7 OR126 #05132017 Telergee John Day NM Return Trip     
+OR US30 I-84(207) I-84(213) #05122017 Telergee John Day NM Return Trip
+OR US101 US26 OR/WA #06182019 Port Townsend Bd Mtg Trip    
+OR OR7 I-84 US26 #05132017 Telergee John Day NM Return Trip 
+OR OR11 OR/WA I-84 #05122017 Telergee John Day NM Return Trip
+OR OR19 US26 JohnDayNM #05132017 Telergee John Day NM Return Trip
+OR OR34 US20_E I-5 #05132017 Telergee John Day NM Return Trip  
+OR OR37 US30_S I-84 #05122017 Telergee John Day NM Return Trip
+OR OR126 US26 US20_E #05132017 Telergee John Day NM Return Trip      
+OR OR213 AirWay US26 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 OR/WA 301 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-405 I-5(302B) 1D #07222023 Trip for TFACC meeting to Crater Lake
+OR US26 I-405(1C) OR213 #07222023 Trip for TFACC meeting to Crater Lake
+OR US26 BurRd US97_S #07222023 Trip for TFACC meeting to Crater Lake
+OR US97 US26_E OR62 #07222023 Trip for TFACC meeting to Crater Lake
+OR OR62 US97 CraLakeNP #07222023 Trip for TFACC meeting to Crater Lake
+OR CraCrkRd OR62 RimDr #07222023 Trip for TFACC meeting to Crater Lake
+OR CraLakeRimDr CraCrkRd CraLakeHwy_E #07222023 Trip for TFACC meeting to Crater Lake
+OR CraLakeHwy RimDr OR138 #07222023 Trip for TFACC meeting to Crater Lake
+OR OR138 CraLakeHwy I-5(124) #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 124 233 #07222023 Trip for TFACC meeting to Crater Lake
+OR I-5 288 299B #07222023 Trip for TFACC meeting to Crater Lake 
+OR US30BypPor I-5 I-205 #07222023 Trip for TFACC meeting to Crater Lake
+OR US30BypPor I-205 US30_E #07222023 Trip for TFACC meeting to Crater Lake  
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
 RI I-95 24B RI/MA #Trip with GJ Telergee
 RI I-95 CT/RI 24B #Trip to Boston with parents  
@@ -2284,7 +2449,8 @@ RI RI138A RI138_W RI138_E #Trip with GJ Telergee
 RI RI214 RI114 RI138A #Trip wit GJ Telergee 
 RI RI238 RI138 GoatIslRd #Trip with GJ Telergee
 RI RI246 I-95 US1/44 #Trip with GJ Telergee
-RI RI403 ComParkRd RI4 #Trip with GJ Telergee          
+RI RI403 ComParkRd RI4 #Trip with GJ Telergee
+SC SC170 GA/SC US17_S #03142017 NTCA Meeting Trip          
 SD I-29 26 109 #07222019
 SD I-29 IA/SD 26 #07102024 Badland Trip
 SD I-90 SD/MN 364 #07212019
@@ -2357,7 +2523,8 @@ TN US64 US74_W TN/NC #10242017 Meeting in Pigeon Forge
 TN US64 TN11 US43 #01292019 Trip to Loretto Telephone
 TN US64 US51_S US72_E #01192021 Visiting Bea
 TN US64 TN11 US31 #08162024 Trip from Bea to Home
-TN US64 US41Alt/64Bus US64BusWin_W #08262024 Trip from Bea to Clanton 
+TN US64 US41Alt/64Bus US64BusWin_W #08262024 Trip from Bea to Clanton
+TN US64 US231/431 US64BusFay_W #10042024 Travel to visit Bea
 TN US70 US64_E TN177 #01192021 Visiting Bea      
 TN US72Cha TN2Kim_W AL/TN #09182017 Farmers Trip   
 TN US76 US127 US41_N #04062024 Jackson to Scott Co Trip
@@ -2389,7 +2556,8 @@ TN US412 US70/412Bus TN152_Cla #Bea to Scott County
 TN US421 TN/VA NC/TN #09082018 Visit Jimmy in Boone
 TN US431 I-24(35) US31E/31W #05082018 Loretto Trip - Concerts
 TN US431 US70_NasW US31/31Bus #05082018 Loretto Trip - Nashville Work
-TN US431 US31/431Bus I-840 #Living in M'Boro      
+TN US431 US31/431Bus I-840 #Living in M'Boro
+TN US431 US31Alt/431Bus_S US64/231 #10042024 Travel to visit Bea     
 TN US441 US411_N NC/TN #01022017 Visit Gatlinburg
 TN US441 TN62 I-640 #04062024 Jackson to Scott Co Trip
 TN US441 TN131 I-640 #08152024 Travel from SCTC to Bea's House 
@@ -2399,7 +2567,9 @@ TN US64BusFay US64_E US64_W #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US64_W US41Alt_N #08292017 Sir Fabric F'ville Trip
 TN US64BusWin US41Alt_N US64_E #08262024 Trip from Bea to Clanton
 TN US70BusLeb US70_W US70_E #07012017 Trip to Mt Juliet
-TN NatTraPkwy TN100 US64 #05082018 Loretto Trip 
+TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
+TN NatTraPkwy TN100 US64 #05082018 Loretto Trip
+TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled  
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
 TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
@@ -2423,7 +2593,9 @@ TN TN46 US70_E I-40 #09042017 GibsonEMC Visit
 TN TN46 US431 TN96 #05082018 Loretto Trip  
 TN TN48 TN49_E US70 #09042017 GibsonEMC Visit
 TN TN49 US79 TN48_S #09042017 GibsonEMC Visit
-TN TN50 TN245 US31 #08252024 Travel Home to Bea's 
+TN TN50 TN245 US31 #08252024 Travel Home to Bea's
+TN TN50 I-65 US31 #10042024 Travel to visit Bea
+TN TN50 I-65 US431 #10042024 Travel to visit Bea    
 TN TN51 TN/KY TN52 #07252017 Return from Scott County
 TN TN52 TN51 TN10 #07252017 Return from Scott County
 TN TN52 US27 TN111 #11032017 Visit to Clinton 
@@ -2461,7 +2633,8 @@ TN TN100 US70S TN96_E #07022017 Memphis IKEA
 TN TN100 US412_W US64 #07022017 Memphis IKEA
 TN TN102 TN96 TN266 #Living in Nashville Area 
 TN TN104TrkDye TN104_W US51Bus #08292017 Sir Fabric F'ville Trip  
-TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet    
+TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet
+TN TN110 US231/431 AL/TN #10042024 Travel to visit Bea      
 TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg
 TN TN111 TN52 I-40 #11032017 Visit to Clinton   
 TN TN120 TN/KY US79 #03102017 Return from Wabash BdMtg
@@ -2512,12 +2685,14 @@ TN TN297 US27_S TN154 #11032017 Visit to Clinton
 TN TN356 US641/54 US79 #09042017 GibsonEMC Visit
 TN TN361 TN362 US19E #09082018 Visit Jimmy in Boone 
 TN TN362 US321/67 TN361 #09082018 Visit Jimmy in Boone
+TN TN373 TN417 US31AltBus/431Bus #10042024 Travel to visit Bea
 TN TN374 US79_S TN237 #03102017 Return from Wabash BdMtg
 TN TN378 US27/60 US27_N #05232017 Bledsoe BdMtg 
 TN TN380 US70S/55 MainSt_E #05232017 Bledsoe BdMtg
 TN TN385Col I-240 I-269 #01192021 Visiting Bea
 TN TN386 I-65 TN174 #09102017 Target-Sam Trip 
 TN TN396 I-65 US31 #07022017 Memphis IKEA
+TN TN417 US431 TN373 #10042024 Travel to visit Bea 
 TN TN441 US31 TN252 #Living in Nashville Area   
 TN TN448 TN66 US411 #01022017 Visit Gatlinburg
 TN TN452 US231 I-840 #Living in M'Boro
@@ -2574,23 +2749,113 @@ UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+VA I-66 VA/DC 1 #Spruce Knob Trips
+VA I-81 VA/WV 221 #Hagerstown Trip & Spruce Knob   
+VA I-95 VA/DC 79 #01122017 Reagan to Mom
+VA I-95 51 46 #Visit Mom from AL 
+VA I-395 VA/DC 1 #01122017 Reagan to Mom
+VA I-464 1 6B #Visit Mom
+VA I-495 170(95) MD/VA #Visit DC
+VA US1 VA/DC I-95(161) #Visit DC
+VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
+VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom 
+VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace  
+VA GWMemPkwy I-495 DC/VA #Visit DC
+VA GWMemPkwyCry VA/DC 1stSt #Visit DC
+VA GWMemPkwyMtV VA400 VA235 #Visit DC
+VA VA3 US360 I-95 #Visit Mom Washington Birthplace
+VA VA3BusWar VA3_E VA3_W #01142017 Visit Mom Washington Birthplace
+VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
+VA VA33 US17_S VA30/249 #01142017 Visit Mom Washington Birthplace        
 VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
+VA VA110 I-395 I-66 #Visit DC
+VA VA134 US258_N US60 #Visit Mom  
+VA VA235 MouVer US1_S #Visit DC 
+VA VA400 1stSt GeoWahPkwy #Visit DC   
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
 VT US7 MA/VT US2_E #Trip with GJ Telergee
+WA I-5 168B 230 #12042018 Jefferson PUD Visit 
+WA I-5 168B 154 #09142018 NTCA Trip with Bea 
+WA I-5 154 149 #09132018 NTCA Trip with Bea
+WA I-5 132 149 #12052018 Jefferson PUD Visit
+WA I-5 111 104 #09132018 NTCA Trip with Bea
+WA I-5 1A OR/WA #07222023 Trip for TFACC meeting to Crater Lake
+WA I-82 WA/OR 113 #05102017 Telergee Meeting
+WA I-90 WA519 10 #09142018 NTCA Trip with Bea 
 WA I-90 277 WA/ID #11072016 Telergee Board Meeting
-WA I-90 220A 277 #11102016 Telergee Return 
+WA I-90 220A 277 #11102016 Telergee Return
+WA I-205 OR/WA 27 #05102017 Telergee Meeting
+WA I-405 14 I-5(154) #09142018 NTCA Trip with Bea 
 WA US2 I-90(277) WA21_N #11072016 Telergee Board Meeting
 WA US12 WA/ID WA124_E #11102016 Telergee Return
 WA US12 WA124_W I-182(4) #11102016 Telergee Return
-WA US395 I-182(14) I-90(220A) #11102016 Telergee Return         
+WA US12 WA124_E IreRd #05122017 Telergee visit Whitman NHS
+WA US12 WA8 US101 #09142018 NTCA Trip with Bea 
+WA US101 I-5 WA108 #09142018 NTCA Trip with Bea
+WA US101 US12 RubyBea #09142018 NTCA Trip with Bea
+WA US101 RubyBea WA104 #09142018 NTCA Trip with Bea
+WA US101 OR/WA WA401 #06182019 Jefferson PUD Mtg
+WA US101 WA4 WA107 #06182019 Jefferson PUD Mtg
+WA US101 WA108 WA104 #06182019 Jefferson PUD Mtg         
+WA US195 I-90 WA26 #05122017 Telergee visit Whitman NHS  
+WA US395 I-182(14) I-90(220A) #11102016 Telergee Return
+WA US395 I-82(113) I-182(12A) #05102017 Telergee Meeting
+WA SteCynRd WA706 ParVlyRd_S #09132018 NTCA Trip with Bea
+WA UppHohRd US101 HohVisCen #Trip with GJ hike to waterfall
+WA HurRidRd ParkAve End #09142018 NTCA Trip with Bea
+WA WA3 WA104 WA304 #09142018 NTCA Trip with Bea
+WA WA3 WA304 WA16 #12052018 Jefferson PUD Visit
+WA WA4 WA401 US101 #06182019 Jefferson PUD Mtg      
+WA WA7 WA161 WA706 #09132018 NTCA Trip with Bea
+WA WA7 WA161 WA702 #09132018 NTCA Trip with Bea
+WA WA8 WA108 US12 #09142018 NTCA Trip with Bea
+WA WA8 WA108 US101 #GJ Trip to Seattle            
+WA WA14 6 1 #05102017 Telergee visit Ft Vancouver    
+WA WA14 1 I-5 #07222023 Trip for TFACC meeting to Crater Lake
+WA WA16 WA3 I-5 #12052018 Jefferson PUD Visit
+WA WA19 WA20 WA104 #12042018 Jefferson PUD Visit 
+WA WA20 I-5 CouPorFry #12042018 Jefferson PUD Visit
+WA WA20 I-5 NFD400 #05172019 Jefferson PUD with Beau 
+WA WA20Por PorCouFry WA19 #12042018 Jefferson PUD Visit
+WA WA20Por WA19 US101 #05192019 Jefferson PUD with Beau
+WA WA20SprAna WA20 AnaFry #05182019 Jefferson PUD with Beau    
 WA WA21 US2_W WA174 #11072016 Telergee Board Meeting
-WA WA124 US12_E US12_W #11102016 Telergee Return  
-WA WA155 WA174 RooWay #11072016 Telergee Board Meeting 
+WA WA26 US195 WA127 #05122017 Telergee visit Whitman NHS
+WA WA99 WSeaBri RoySt #09142018 NTCA Trip with Bea 
+WA WA99Fed WA518 188thSt #09132018 NTCA Trip with Bea
+WA WA99Fed 188thSt WA509/516 #12042018 Jefferson PUD Mtg Dinner Cooperleaf 
+WA WA104 US101 WA3 #09142018 NTCA Trip with Bea
+WA WA107 US101 US12 #06182019 Jefferson PUD Mtg 
+WA WA108 US101 WA8 #09142018 NTCA Trip with Bea
+WA WA124 US12_E US12_W #11102016 Telergee Return
+WA WA125 WA125Spr OR/WA #05122017 Telergee visit Whitman NHS 
+WA WA125SprWal US12 WA125 #05122017 Telergee visit Whitman NHS  
+WA WA127 WA26 US12 #05122017 Telergee visit Whitman NHS    
+WA WA155 WA174 RooWay #11072016 Telergee Board Meeting
+WA WA161 WA512/167 WA7 #09132018 NTCA Trip with Bea 
+WA WA167 WA516 WA161/512 #09132018 NTCA Trip with Bea  
 WA WA174 WA21 WA155 #11072016 Telergee Board Meeting
+WA WA181 I-405 WA516 #12042018 Jefferson PUD Mtg Dinner Cooperleaf 
 WA WA240 I-182(4) JadAve #11102016 Visit Manhattan Project
-WA WA240BusRic WA240_W WA240_E #11102016 Visit Manhattan Project     
+WA WA240BusRic WA240_W WA240_E #11102016 Visit Manhattan Project
+WA WA304 WA3 BreFry #09142018 NTCA Trip with Bea
+WA WA305 WA3 WinFry #05202019 Jefferson PUD with Beau 
+WA WA310 WA3 WA304 #09142018 NTCA Trip with Bea
+WA WA401 US101 WA4 #06182019 Jefferson PUD Mtg   
+WA WA507 WA702 WA510 #09132018 NTCA Trip with Bea
+WA WA510 WA507 I-5 #09132018 NTCA Trip with Bea 
+WA WA516 I-5 WA167 #09132018 NTCA Trip with Bea
+WA WA516 I-5 WA509/99 #12042018 Jefferson PUD Mtg Dinner Cooperleaf  
+WA WA518 154thSt I-5 #09132018 NTCA Trip with Bea
+WA WA519 YesWay I-90 #09142018 NTCA Trip with Bea 
+WA WA520 I-5 I-405 #09142018 NTCA Trip with Bea
+WA WA530 I-5 WA20 #05172019 Jefferson PUD with Beau 
+WA WA702 WA7 WA507 #09132018 NTCA Trip with Bea 
+WA WA706 WA7 MouRaiNP #09132018 NTCA Trip with Bea 
+WA AirExpy WA518 Ter #09132018 NTCA Trip with Bea
+WA WSeaBri 35thAve ColWay #09142018 NTCA Trip with Bea          
 WI I-41 164B 170B #Training Class in Green Bay
 WI I-43 72A 192 #Training Class in Green Bay   
 WI I-94 WI/IL 310C #Training Class in Green Bay    

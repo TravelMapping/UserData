@@ -1,7 +1,7 @@
-# 08/03/2024
-# v57
-# Updates for new version of Table 3 (dated 12/21) - AZ through NV, NC
-# Include exit ramp to US 12-20 on IN I-65
+# 09/28/2024
+# v58
+# Add travels in Iceland
+##Update status for new version of Table 3 (dated 12/21) - AZ through NV, NC
 
 
 # Arizona Interstate Highways
@@ -624,21 +624,21 @@ NY I-890 I-90(26) I-90(25)     #  9
 NY I-990 I-290 5               #  6
 
 # New Jersey
-# 431 miles (same total, 9 miles I-95->I-295)
+# 431 miles (same total as Table 3, 9 miles I-95->I-295)
 NJ I-76 PA/NJ 1A               #  3
 NJ I-78 PA/NJ NJ/NY            # 68
 NJ I-80 PA/NJ 68               # 68
 NJ I-95 PA/NJ NJ/NY            # 79+
-NJ I-95Sec I-95_S I-95_N       # 10=89 (Table 3=98)
+NJ I-95Sec I-95_S I-95_N       # 10=89 vs 98=-9
 NJ I-195 1A 35                 # 34
 NJ I-278 US1/9 NJ/NY           #  2
-NJ I-280 I-80 I-95             # 17 vs 18     .31 ramp
+NJ I-280 I-80 I-95             # 18     .31 ramp
 NJ I-287 I-95 NJ/NY            # 67
-NJ I-295 DE/NJ NJ/PA           # 77 (Table 3=68)
-NJ I-676 1 NJ/PA               #  4 vs 5
+NJ I-295 DE/NJ NJ/PA           # 77 vs 68=9
+NJ I-676 1 NJ/PA               #  5
 
 # Pennsylvania
-# 1862 miles (same total; 3 roads renamed I-95, I-276, I-295)
+# 1862 miles (same total as Table 3; 3 roads renamed I-95, I-276, I-295)
 PA I-70 WV/PA PA/MD            #169 vs 81 overlap I-76
 PA I-76 OH/PA PA/NJ            #352 vs 351
 PA I-78 1 PA/NJ                # 78
@@ -913,9 +913,25 @@ NC I-785FutRei US29Bus_S US158/14
 FL I-795FutJac I-295 4
 CA I-905FutOta 1A USA/MEX
 
-
-
-
 # Table 3 differences - See spreadsheet
 
+
+ICELAND
+
+# Iceland Thjodvegir (Main highways)
+
+ISL TH1 TH49_N TH36
+ISL TH1 VikBra TH49_S
+ISL TH35 TH1 Gul
+ISL TH36 TH1 TH365
+ISL TH37 TH365 TH35_N
+ISL TH40 TH41_S LauVeg
+ISL TH41 KefFlu TH413
+ISL TH41 TH49 FaxaGat
+ISL TH43 TH426 TH41
+ISL TH49 AnaNau TH1
+ISL TH215 Rey TH1
+ISL TH365 TH36 TH37
+ISL TH413 TH41 TH1
+ISL TH426 BlaLon TH43
 
