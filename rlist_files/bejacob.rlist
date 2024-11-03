@@ -12,8 +12,9 @@ AK GlaDis Por_S +DIV_Por_C
 
 #CA LA Metro
 CA A 7thStMetCen UniSta
-CA B 7thStMetCen UniSta
-CA D 7thStMetCen UniSta
+CA B NHol UniSta
+CA D WilWes UniSta
+CA E 7thStMetCen Atl
 
 #CA BART
 CA BARTBlue DalyCity DubPle
