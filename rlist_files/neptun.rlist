@@ -1,5 +1,5 @@
 # ──────────
-# 2024-10-31
+# 2024-11-05
 # ──────────
 
 # ─────────
@@ -49,7 +49,7 @@ CZE S8 PraHlaNad LukaPodMed
 CZE S8 TynNadSaz Cer
 CZE S9 LysaNadLab BenPra
 CZE S10 Kol Pre
-CZE S12 NymMes Por
+CZE S12 NymHlaNad Por
 CZE S20 Kol SveNadSaz
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
@@ -122,6 +122,7 @@ CZE T11 Tel DecHlaNad
 # ─────
 
 CZE V3 Jar ParHlaNad
+CZE V5 Tur HraKraHlaNad
 CZE V41 Sany HraKraHlaNad
 CZE V51 ChlNadCid StaPaka
 
