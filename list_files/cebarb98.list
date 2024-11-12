@@ -903,14 +903,6 @@ LA LA3081SprPea LA3081 End
 # Louisiana Other Named Routes
 LA LakePonCswy EspAve US190/22
 
-# Massachussetts State Routes
-MA MA1ASal US1_S MA145_N
-MA MA3 17A(93) MA28_N
-MA MA28 MA3_S WasSt_Som
-MA MA114ASee RI/MA US6_E
-MA MA145 BenSt MainSt
-MA MA145 RevBeaBlvd MA1A_N
-
 # Maryland State Routes
 MD MD2 LoreRd MD665
 MD MD2 US50(23A) US1
@@ -1065,6 +1057,7 @@ MD MD707Wes US50 MD611
 MD MD710 MD2 MD173
 MD MD712 MD235 PHRunRd
 MD MD713 MD175 MD176
+MD MD758 StoRunRd RidRd
 MD MD802 MD8_S MD8_N
 MD MD806 US15 ThuBlvd
 MD MD808 RidBlvd MD27
@@ -1080,6 +1073,14 @@ MD MD5BusHug MD5_S MD5_N
 MD MD5BusWal MD5 US301
 MD MD30BusHam MD30_S MD30_N
 MD MD45BypTow MD45_S MD45_N
+
+# Massachussetts State Routes
+MA MA1ASal US1_S MA145_N
+MA MA3 17A(93) MA28_N
+MA MA28 MA3_S WasSt_Som
+MA MA114ASee RI/MA US6_E
+MA MA145 BenSt MainSt
+MA MA145 RevBeaBlvd MA1A_N
 
 # Missouri State Routes
 MO MO43 I-44BL/66 MO171
@@ -1285,14 +1286,6 @@ OH ORSB US52 OH527_S
 
 #### Changelog ####
 
-# 11/2/2024
-## added traveled routes from this past month:
-### MD 18 from MD 8 to Love Point: traveled 11/2
-### MD 8, MD 552, MD 802, MD 835A: clinched 11/2
-### MD 140 from MD 940 to I-695: traveled 10/26
-### MD 940: clinched 10/26
-## added traveled routes that were previously missing:
-### MD 18 from MD 8 to US 50: traveled March 2024
-### MD 665: clinched September 2024
-### MD 435: clinched September 2024
-### MD 387: clinched September 2024
+# 11/11/2024
+# added MD 758
+# switched Maryland and Massachusetts to correct alphabetical positions 
