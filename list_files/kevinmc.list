@@ -887,6 +887,11 @@ CA I-40 148 CA/AZ
 # 2024-08-25
 CA CA84 PesRd PorRd
 
+# 2024-11-11
+CA I-380 5A 7
+CA CA35 CA92_E 54
+CA CA84 I-280 AlaPul
+
 # undated / reasonable assumptions
 CA CA82 I-880 I-280
 CA CA85 1A 24B
