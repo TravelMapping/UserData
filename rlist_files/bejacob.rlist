@@ -102,6 +102,7 @@ CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
 FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
+IL AirTraSys Ter1 MulModFac
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
 NY AirTrnHow HowBea Loop
