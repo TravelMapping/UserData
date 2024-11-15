@@ -34,3 +34,11 @@ DC OraLn Smi MetCen
 IL BlueLn OHa ClaLake
 IL AirTraSys Ter1 MulModFac
 NE OZRR OmaTraDep_S OmaTraDep_F
+KY CVGTram MainTer ConB
+GA PlaTrn TGat FGatIntTer
+PA PITTrn LanTer AirTer
+TX Sky A8 A21
+VA AerTrn ConB ConCD
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+CO DENTrn CGat JepTer
