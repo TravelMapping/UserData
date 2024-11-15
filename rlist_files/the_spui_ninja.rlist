@@ -2,6 +2,11 @@ ITA-LAZ MB Pie BasSanPao
 ITA-LAZ FL1 RomaOst FiuAer
 ITA-LAZ MA ValAur SanGio
 ITA-LOM M1 Bon Lam
+ITA-TOS T2 Uni PerAer
+ITA-TOS T1 VilCos ValStaSMN
+ITA-TOS FaRomGen FirCam TOS/UMB
+ITA-UMB FaRomGen TOS/UMB UMB/LAZ
+ITA-LAZ FaRomGen UMB/LAZ RomaTer
 CHE S23Gal Gos Urn
 CHE S12 ZurHau Wil
 CHE S1Gal Wil Gos

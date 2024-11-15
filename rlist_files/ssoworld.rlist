@@ -1,4 +1,47 @@
+####### Multinational Europe
+# Eurostar
+ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord # London - Paris direct non-stop
+
+####### UK
+### England
+# London
+# Underground
+ENG JubLn BakSt CanTown    # Jubilee Line
+ENG BakLn Pad EleCas       # Bakerloo Line
+ENG CirLn RoyOak PEdgRd_2  # Circle Line
+ENG HaCLn RoyOak +DIV_Cir  # Hammersmith and City Line
+ENG NorLnBar Bank EleCas   # Northern Line Barnet - Bank - Morden
+
+# Docklands Light Railway
+ENG DLRStI StarLane WooArs # Stratford International - Woolwich Arsenal
+ENG DLR HerQua CutSark     # Bank - Lewisham
+
+# Elizabeth Line
+ENG EliLnHea +DIV_HT5 Pad
+ENG EliLnShe HeaTer5 Pad
+
+# Heathrow Express
+ENG HEx LonPad HeaTer5
+
+####### FRANCE
+### Ille De France 
+# IDF RER
+FRA-IDF C ChaMarsTourEif Inv
+
+# Paris Metro
+FRA-IDF M1 PalRoyMusLou HotVil
+FRA-IDF M2 CdGEto Vil
+FRA-IDF M3 Vil StLaz
+FRA-IDF M9 AlmaMar StAug
+FRA-IDF M13 StLaz Inv
+FRA-IDF M12 Conc StLaz
+FRA-IDF M14 StLaz Cha
+
 ####### USA
+####### Multi-state USA
+# Amtrak
+CA PS SanFeDep +DIV_AntVly  # Pacific Surfliner
+
 ### California
 # Los Angeles
 ## LA Metro Subway
@@ -34,6 +77,12 @@ VA BluLn Pen DC BluLn MetCen
 DC RedLn MetCen MD RedLnGle Whe
 VA YelLn Pen DC YelLn GalPla
 DC OraLn FogBotGWU DC OraLn Smi
+
+### Florida
+# WDW Monorail
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
 
 ### Illinois
 # Chicago L
@@ -86,3 +135,4 @@ NY N QuePlaza 34StHerSq
 
 ## Roosevelt Island Tram
 NY RIT Man RooIsl
+

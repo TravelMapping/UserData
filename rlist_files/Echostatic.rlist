@@ -47,8 +47,8 @@ TX GreLn MarCen DeepEll
 TX RedLn DalZoo LovLn
 
 #METRO Transit Light Rail
-MN BlueLine MallofAmerica HennepinAve
-MN GreenLine HennepinAve SnellingAve
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN GreenLine TargetFieldPlatform2 RiceSt
 
 #Straßenbahn Berlin
 DEU-BE M1 UOraBurTor KupGra

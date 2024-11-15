@@ -28,14 +28,15 @@ CA B Nhol UniSta
 CA BARTGre Emb Fre
 CA BARTRed SanFraAir 12thStOak
 CA BlueLn SanYsiTC UTCTC
-CA C RedBea Nor
+CA C AviCen Nor
+CA KEls RedBea AviCen 
 CA CC SanJoseDir SacVlySta
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
 CA D WilWes UniSta
 CA E DowSanMon 7thStMetCen
 CA E *OldGoldLn Atl
-CA GreLn SanFeDep SanTownCen
+CA GreLn SanFeDep Gro
 CA InlEmpLn SanAna SanBerDep
 CA CT Tam SanFraKing
 CA MuniF 4thSto Bea
@@ -43,7 +44,7 @@ CA MuniL Waw VanNess
 CA MuniN LaPla 4thKing
 CA MuniT Sun King
 CA OraCouLn UniSta Oce
-CA OraLn Cou ArnAve
+CA OraLn Cou ElCaj
 CA PerVlyLn RivDow PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
@@ -54,7 +55,7 @@ CA SL UniSta CA/AZ
 CA SMART SanRafDT SonCtyApt
 CA Spr Oce EscTC
 CA SRTBlue ConRivCol Watt80
-CA SRTGold Sac ValSta HisFol
+CA SRTGold SacValSta HisFol
 CA SW UniSta CA/AZ
 CA VenCouLn UniSta Cha
 CA VTABlue SanTer Bay
@@ -81,7 +82,7 @@ CO WLn JefCouGovCenGol UniSta
 
 #CT
 
-CT AE NY/CA Sta
+CT AE NY/CT Sta
 CT EssSteTrn Ess DeepRivLan
 
 #DE
@@ -126,12 +127,12 @@ IL WV UniSta IL/IN
 #IN
 
 IN CL IL/IN IN/OH
-IN SouShoLn Ham IL/IN
-IN WV LI/LN LN/MI
+IN SouShoLn Ham IN/IL
+IN WV IL/IN IN/MI
 
 #LA
 
-LA CR NewOrl LA/MA
+LA CR NewOrl LA/MS
 
 #ME
 
@@ -147,7 +148,7 @@ MD CamLn DC/MD BalCam
 MD CL WV/MD MD/DC
 MD CLCum Cum MD/WV
 MD CLPaw WV/MD MD/WV
-ND CR DC/MD MD/DE
+MD CR DC/MD MD/DE
 MD OraLn DC/MD NewCar
 MD PennLn DC/MD BWIAir
 MD RedLn ShaGro MD/DC
@@ -196,7 +197,7 @@ NH DE MA/NH NH/ME
 
 NJ AE PA/NJ NJ/NY
 NJ AirTrn NewLibAir TerC
-NJ AtlCityLn PA/NJ Atl City
+NJ AtlCityLn PA/NJ AtlCity
 NJ CR PA/NJ NewPenn
 NJ MainLn SecJct NJ/NY
 NJ NECorLn NY/NJ NewLibAir
@@ -241,7 +242,7 @@ OR WilShoTro LakeOsw End
 #PA
 
 PA AE DE/PA PA/NJ
-PA AirLn PHL TerB Phi30thSt
+PA AirLn PHLTerB Phi30thSt
 PA AtlCityLn Phi30thSt PA/NJ
 PA BlueLn All WasJct
 PA CHELn Phi30thSt CheHillE
@@ -259,7 +260,7 @@ PA StrRR Str LeaPl
 
 #RI
 
-RI ProLn TFGAir RA/MA
+RI ProLn TFGAir RI/MA
 
 #SC
 
@@ -294,7 +295,7 @@ UT SLn CenPoi Fai
 VA BluLn FraSpr VA/DC
 VA CA Sta Man
 VA CN Pet Ale
-VA CR NC/VA AN/DC
+VA CR NC/VA VA/DC
 VA FreLn FraSpr VA/DC
 VA ManLn Man VA/DC
 VA NENew NewNews Ale
