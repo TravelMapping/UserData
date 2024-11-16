@@ -31,6 +31,8 @@ CA BlueLn SanYsiTC UTCTC
 CA C AviCen Nor
 CA KEls RedBea AviCen 
 CA CC SanJoseDir SacVlySta
+CA CopLn ElCaj SanTownCen
+CA Coa SanFeDep Oce
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
 CA D WilWes UniSta
@@ -219,9 +221,9 @@ NY AirTrnJam Jam T4
 NY ES Pou PennSta
 NY HudLn GraCen Pou
 NY NECorLn PennSta NY/NJ
-NY MainLn NY/NJ Suf
+NY MainLn NJ/NY Suf
 NY RonBra Jam Min
-NY PortJerLn NY/NJ MidTwonWal
+NY PortJerLn NJ/NY MidTownWal
 
 #OH
 
@@ -233,7 +235,8 @@ OK HF TX/OK OklCity
 
 #OR
 
-OR AC PorUniSta OR/WA
+OR AC Sal OR/WA
+OR CS Sal OR/WA
 OR BlueLn HatGovCen OldTownChi
 OR EBPor PorUniSta OR/WA
 OR RedLn WasPark PorIntAir
@@ -307,6 +310,7 @@ VA YelLn Hun VA/DC
 #WA
 
 WA AC OR/WA Tuk
+WA CS OR/WA Van
 WA EBPor OR/WA Spo
 
 #WV
@@ -341,9 +345,13 @@ ENG HamCouLn LonWat HamCou
 
 #IRELAND
 
-IRL CortInt DubHeu LimJct
+IRL CorkInt DubHeu LimJct
 IRL LimInt LimJct LimCol
 IRL GrnLn Dom Daw
+
+#ITALY
+
+ITA-LOM 10Mil ViaMonGra ViaFarViaFer
 
 #SCOTLAND
 
