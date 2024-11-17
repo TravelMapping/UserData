@@ -94,7 +94,22 @@ WA S Sea TacDome
 WA 1 Wes AngLake
 WA T TacDome 4thSt
 
-#US Airports
+#US Airpoirts Airside
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV BlueLn Ter1 DGat
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+WA GreLn DGat_Sta DGat_Fin
+WA BlueLn AGat_Sta AGat_Fin
+
+#US Airports Landside
 AZ PHX RenCarCen T4
 CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
@@ -102,6 +117,7 @@ CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
 FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
+IL AirTraSys Ter1 MulModFac
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
 NY AirTrnHow HowBea Loop
@@ -127,14 +143,13 @@ AUS-NSW MelXPT Cen NSW/VIC
 AUS-NSW T1 Ber Hor
 AUS-NSW T1 Cha Str
 AUS-NSW T2 Mus Str
-AUS-NSW T3 Mus Syd
+AUS-NSW T3 Mus Red
 AUS-NSW T4 BonJct Cro
 AUS-NSW T4Wat BonJct Lof
 AUS-NSW T8 TownHall Cen
 AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
 AUS-VIC MelXPT NSW/VIC SouCro
-
 
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
