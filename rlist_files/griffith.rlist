@@ -3,6 +3,7 @@ CT AE CT/RI NY/CT
 CT EssSteTrn Ess DeepRivLan
 CT ShoLnE NewLon NHUniSta
 CT NewHavLn NY/CT NHStaSt
+GA PlaTrn DomTer FGatIntTer
 LA StCha TulUni CanCar
 MA AE BosSou RI/MA
 MA BluLn Bow Won
@@ -24,6 +25,7 @@ NY HarLn GraCen Sou
 NY HudLn GraCen Pee
 NY NewHavLn GraCen NY/CT
 NY S42 TimSq GraCen
+PA PITTrn LanTer AirTer
 PA StrRR Str LeaPl
 RI AE RI/MA CT/RI
 RI ProLn RI/MA WicJct
