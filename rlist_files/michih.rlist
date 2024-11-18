@@ -1,4 +1,4 @@
-# Date: 2024-11-16
+# Date: 2024-11-17
 # ----------------
 
 ######################
@@ -448,11 +448,14 @@ DEU-BY 8Nur Erl DokuZen                #2024
 
 
 DEU-BE U1 WitBergPla MocBru            #2018
+DEU-BE U5 Hbf Honow                    #2024
 DEU-BE U7 MocBru SudSte                #2018
 #DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER                                                #2001
+DEU-BE S2 GesBru FriStr                #2024
 DEU-BE S9 TrePark AdlHof               #2023
 DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
 DEU-BE S47 NeuKol SpiFeld              #2023
+DEU-BE M6 OderBruStr RieStr            #2024
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
 DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
