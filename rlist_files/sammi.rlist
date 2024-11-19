@@ -159,12 +159,26 @@ FRA-HDF ParCol IDF/HDF HDF/GES
 FRA-GES ParColCha HDF/GES GES/HDF
 FRA-HDF ParColGou GES/HDF HDF/GES
 FRA-GES ParCol HDF/GES Str
+FRA-GES StrMon Str MulVil
+FRA-GES ParZur MulVil FRA/CHE
 
-NLD IC35 AmsCen RotCen  # & onward to RotLom
+CHE ParZur FRA/CHE ZurHau
+CHE S24 ZurHau Zug
+CHE 3Zur Cen Sih
+CHE 4Zur EscWyssPla Bel
+CHE 6Zur ETHUni BahEnge
+CHE S1Zen Luz Zug
+CHE S2Zen Zug ArtGol
+CHE S3Zen Luz ArthGol
+
+# Zurich - Amsterdam
+CHE S6Bas BasSBB BasBadBah
+
+NLD IC35 AmsCen RotCen
+NLD IC35 RotCen +SKIP_RotLom
 
 NLD B MasWest Bla
 NLD D RotCen Zui
 NLD 3Haa Spui LaanNOI
 NLD 17Haa StaHolSpo DenHaagCen
-
-# TODO: Strasbourg - Basel - Zürich - Luzern - Amsterdam - Rotterdam
+# TODO: R'dam - Den Haag - Gouda
