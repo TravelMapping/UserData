@@ -1,4 +1,4 @@
-# Date: 2024-11-18
+# Date: 2024-11-19
 # ----------------
 
 ######################
@@ -288,6 +288,8 @@ DEU-BB S2 Ber BB/BE                            #2024
 DEU-BE S2 BB/BE BornHolStr                     #2024
 DEU-BE S2 PriWeg BE/BB                         #2024
 DEU-BB S2Bla BE/BB BlaFel                      #2024
+DEU-BE S5 Hbf BE/BB                            #2024
+DEU-BB S5 BE/BB StrBergNord                    #2024
 DEU-BB S8 +DIV_Ber BB/BE                       #2024, traveled as RE5
 DEU-BE S8 BB/BE +DIV_Ges                       #2024, traveled as RE5
 #DEU-BE RE5 Berlin Hbf  DEU-BB Oranienburg     #2024
@@ -356,6 +358,8 @@ CZE 7Olo OkrSoud Fib               #2023
 
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
+
+DEU-BB 89Str SStrBerg LustGar      #2024
 
 DEU-BB 91Pot BfPirHei BfRehBru     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
 DEU-BB 91Pir BfRehBru BfPirHei     #2022, Bhf Pirschheide - Platz d. Einheit-West (both directions on one-way sections!) - Hbf - Bhf Rehbrücke
@@ -465,7 +469,9 @@ DEU-BY 8Nur Erl DokuZen                #2024
 
 
 DEU-BE U1 WitBergPla MocBru            #2018
+DEU-BE U1 UhlStr WarStr                #2024
 DEU-BE U2 RuhLeb Pan                   #2024
+DEU-BE U4 NolDorfPla InnsBruPla        #2024
 DEU-BE U5 Hbf Honow                    #2024
 DEU-BE U6 LeoPla AltMarDorf            #2024
 DEU-BE U7 RatHausSpa Rud               #2018-24
