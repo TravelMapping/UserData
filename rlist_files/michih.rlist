@@ -1,4 +1,4 @@
-# Date: 2024-11-17
+# Date: 2024-11-18
 # ----------------
 
 ######################
@@ -209,6 +209,10 @@ ENG ChiML Sol BirMoorSt     #2018, Birmingham Moor Street - Solihull
 
 #ESP-IB  Soller                       ESP-IB  Palma                 #1996
 
+DEU-BE S9 TrePark AdlHof               #2023
+DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
+DEU-BE S47 NeuKol SpiFeld              #2023
+
 DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 #DEU-SN RB22 Leipzig Knauthain LeiPlagWitz     #2023
 
@@ -216,7 +220,6 @@ DEU-SN S1 +DIV_Pla LeiPlagWitz                 #2023, traveled as RB22
 DEU-NI S3 Leh HilHeimHbf                       #2024
 DEU-NI S4 HanHbf HilHeimHbf                    #2024
 DEU-NI S7 HanHbf Cel                           #2024
-
 
 DEU-BW S31Kar +DIV_Ubs KarRuheHbf              #2024, actually traveled as IC2162
 #DEU-BW IC2162 Stuttgart Hbf Karlsruhe Hbf     #2024, rerouted via Bruchsal
@@ -277,6 +280,20 @@ MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Mento
 #FRA-COR Ajaccio Bastia                        #2024
 
 #ITA-SAR Sassari Cagliari                      #2024
+
+DEU-BB S1 OraBurg BB/BE                        #2024
+DEU-BE S1 BB/BE BornHolStr                     #2024
+DEU-BE S1 PotPla WannSee                       #2024
+DEU-BB S2 Ber BB/BE                            #2024
+DEU-BE S2 BB/BE BornHolStr                     #2024
+DEU-BE S2 PriWeg BE/BB                         #2024
+DEU-BB S2Bla BE/BB BlaFel                      #2024
+DEU-BB S8 +DIV_Ber BB/BE                       #2024, traveled as RE5
+DEU-BE S8 BB/BE +DIV_Ges                       #2024, traveled as RE5
+#DEU-BE RE5 Berlin Hbf  DEU-BB Oranienburg     #2024
+DEU-BE S9 Spa OlySta                   #2024
+DEU-BE S26 PotPla BE/BB                        #2024
+DEU-BB S26 BE/BB TetSta                        #2024
 
 ######################
 #### METROS/TRAMS ####
@@ -448,13 +465,13 @@ DEU-BY 8Nur Erl DokuZen                #2024
 
 
 DEU-BE U1 WitBergPla MocBru            #2018
+DEU-BE U2 RuhLeb Pan                   #2024
 DEU-BE U5 Hbf Honow                    #2024
-DEU-BE U7 MocBru SudSte                #2018
-#DEU-BE  MORE ROUTES IN BERLIN I DON'T REMEMBER                                                #2001
+DEU-BE U6 LeoPla AltMarDorf            #2024
+DEU-BE U7 RatHausSpa Rud               #2018-24
+DEU-BE U8 Wit HerStr                   #2024
+DEU-BE U9 OslStr RatHausSte            #2024
 DEU-BE S2 GesBru FriStr                #2024
-DEU-BE S9 TrePark AdlHof               #2023
-DEU-BE S42 OstKre_N OstKre_S           #2023, full loop counter-clockwise
-DEU-BE S47 NeuKol SpiFeld              #2023
 DEU-BE M6 OderBruStr RieStr            #2024
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
