@@ -92,7 +92,7 @@ VA I-295 53 VA I-295 1
 VA I-395 1 DC I-395 US50
 
 # Interstates non-clinched
-WA I-5 164 WA I-5 USA/CAN
+WA I-5 142 USA/CAN
 AZ I-10 199 TX I-10 187
 TX I-20 I-10 TX I-20 290
 TX I-20 553 AL I-20 1
@@ -340,7 +340,7 @@ WA WA522 I-405 US2
 WA WA530 I-5 211thPL
 WA WA536 DivSt I-5
 WA WA542 I-5 GlaCreRd
-WA WSeaBri SpoSt ColWay
+WA WSeaBri SpoSt DelWay
 
 # Washington clinched
 WA WA9SprSum WA9 WA/BC
