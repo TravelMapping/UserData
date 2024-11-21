@@ -1,4 +1,4 @@
-# Date: 2024-11-19
+# Date: 2024-11-21
 # ----------------
 
 ######################
@@ -297,6 +297,10 @@ DEU-BE S9 Spa OlySta                   #2024
 DEU-BE S26 PotPla BE/BB                        #2024
 DEU-BB S26 BE/BB TetSta                        #2024
 
+DEU-NW S3 EssSte HatMit                        #2024
+DEU-NW S9 HalSee EssSte                        #2024
+
+
 ######################
 #### METROS/TRAMS ####
 ######################
@@ -585,8 +589,11 @@ DEU-NW 2Bie AltHag Sie                #2022
 DEU-NW 3Bie BabHauSud DurTor6         #2022
 DEU-NW 4Bie LohHof StiHor             #2022
 
-#Bochum
+#Bochum / Gelsenkirchen
 DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
+DEU-NW 301Gel EssStr HeiKonPla        #2024
+DEU-NW 302Gel BuerRatHaus BocLanS     #2024
+DEU-NW 308Boc BocHbf HatMit           #2024
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
@@ -632,6 +639,8 @@ DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethen
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
 DEU-NW 103Ess WertStr +DIV_Var       #2024
 DEU-NW 105Ess UntStr EssHbf          #2024
+DEU-NW 107Ess HeiKonPla RatHausEss   #2024
+DEU-NW 108Ess AltEssBf RatHausEss    #2024
 
 #Mülheim
 DEU-NW 102Mul OberDum UhlHor         #2024
