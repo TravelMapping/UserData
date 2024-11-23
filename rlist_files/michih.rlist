@@ -1,4 +1,4 @@
-# Date: 2024-11-22
+# Date: 2024-11-23
 # ----------------
 
 ######################
@@ -650,6 +650,11 @@ DEU-NW 103Ess WertStr +DIV_Var       #2024
 DEU-NW 105Ess UntStr EssHbf          #2024
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
+
+#Krefeld
+DEU-NW 041Kre NordRing_1 Gru         #2024
+DEU-NW 042Kre EdelStaWerkTor3 BocPla #2024
+DEU-NW 044Kre HulsBetHof RheHaf      #2024
 
 #Mülheim
 DEU-NW 102Mul OberDum UhlHor         #2024
