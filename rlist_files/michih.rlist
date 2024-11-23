@@ -627,9 +627,9 @@ DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
 DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
 #Düsseldorf
-DEU-NW U71 RathS BenBetHof            #2024, actually to HellRieStr
+DEU-NW U71 RathS HellRieStr           #2024
 DEU-NW U72 RatMit SchStrArbAge        #2024
-DEU-NW U72 BilkS HellRieStr           #2024, actually to BenBetHof
+DEU-NW U72 BilkS BenBetHof            #2024
 DEU-NW U73 GerHeimS PohWeg            #2024
 DEU-NW U73 HeiHeiAll UniOstBotGar     #2022
 DEU-NW U75 NeuHbf VennHauAll          #2024
