@@ -61,6 +61,10 @@ IL AirTraSys Ter3 MulModFac
 MN HubTram Ter1 HubBui
 NY AirTrnJam Jam T5
 
+#United States Airside Airport Rail Systems
+CO DENTrn JepTer CGat
+TX Sky A8 A21
+
 #United States Tourist Railroads
 CO RoyGorRou CanCity Par
 
