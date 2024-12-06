@@ -1331,3 +1331,18 @@ NM NM475 US84/285 WasAve_N
 NM NM583 NM68/584 McCRd
 NM US66HisSFe US84/285 WAlaSt
 #Old Spanish Trail piece from NM 475 to Tesuque
+
+#family vacations as a kid
+VA VA207 I-95 US301
+VA US301 VA207 VA/MD
+MD US301 VA/MD MD/DE
+DE US301 MD/DE *OldUS301
+DE DE299 DE15_S US13 #east of DE15_N may be wrong
+DE US13 DE299 DE7/72 #south of DE896 may be wrong
+DE DE7 US13/72 OldDupHwy
+DE US13 *OldUS13 DE1(156)
+DE US13 DE1(156) I-295
+DE I-295 US13/40 DE/NJ
+NJ I-295 DE/NJ 1
+NJ NJTpk I-295(1) 8
+NJ NJ33 *I-95 PerRd #to Dugans Grove Road
