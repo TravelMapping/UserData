@@ -94,7 +94,22 @@ WA S Sea TacDome
 WA 1 Wes AngLake
 WA T TacDome 4thSt
 
-#US Airports
+#US Airpoirts Airside
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV BlueLn Ter1 DGat
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+WA GreLn DGat_Sta DGat_Fin
+WA BlueLn AGat_Sta AGat_Fin
+
+#US Airports Landside
 AZ PHX RenCarCen T4
 CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
@@ -119,6 +134,8 @@ DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
+
+PR TrenUrb SagCor Bay
 
 BC ExpoLn Wat MainStSciWor
 

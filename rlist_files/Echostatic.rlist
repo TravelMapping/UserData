@@ -48,7 +48,7 @@ TX RedLn DalZoo LovLn
 
 #METRO Transit Light Rail
 MN BlueLine MallofAmerica TargetFieldPlatform2
-MN GreenLine TargetFieldPlatform2 RiceSt
+MN GreenLine TargetFieldPlatform2 UnionDepot
 
 #Straßenbahn Berlin
 DEU-BE M1 UOraBurTor KupGra
@@ -60,6 +60,10 @@ DEU-BE M5 UOraBurTor UAlePla
 IL AirTraSys Ter3 MulModFac
 MN HubTram Ter1 HubBui
 NY AirTrnJam Jam T5
+
+#United States Airside Airport Rail Systems
+CO DENTrn JepTer CGat
+TX Sky A8 A21
 
 #United States Tourist Railroads
 CO RoyGorRou CanCity Par

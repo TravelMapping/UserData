@@ -671,16 +671,21 @@ PA I-83 MD/PA 19
 PA I-83 41A 46
 PA I-95 DE/PA 7
 PA I-476 0 16
+PA US13 34thSt GirAve_E # actual north end is Reservoir Dr
 PA US15 MD/PA US11/581
 PA US30 PA24 PA340_W
 PA US202 I-76 MonAve
 PA US222 US30_W US322
 PA US322 I-83(46) PA743
 PA US422Rea US322 PA743_S
+#  US1AltTrkPhi LanDr HorDr - not long enough for a segment
+#  PA3 PA611 16thSt - not long enough for a segment
+#  PA3 22ndSt 23rdSt - not long enough for a segment
 PA PA39 US322/422 HerParkDr
 PA PA283 PA743 US30
 PA PA340 US30_W PA772_E
 PA PA581 5 6
+PA PA611 PA3 SprGarSt # actual north end is Ridge Ave
 PA PA743 HerParkDr_W PA283
 PA PA772 PA340_W PA340_E
 PR PR1 CllCom PR16/26
