@@ -1,0 +1,82 @@
+﻿#United Kingdom
+#England
+ENG ECMLEdi LonKinCro ENG/SCT
+ENG TPNRtePic ManPic York
+ENG AirLn ManPic ManAir
+ENG EliLnHea HeaTer23 Pad
+ENG CirLn TowHill HighStKen
+ENG DisLnEdg Pad EarCou
+ENG DisLn EarCou TowHill
+ENG VicLn KXSP Vic
+ENG CenLn Que TotCouRd
+ENG BakLn OxfCir PicCir
+
+#Scotland
+SCT ECMLEdi EdiWav ENG/SCT
+SCT EdiTram StAndSq OceTer
+
+#United States
+#Alabama
+AL CR Tus Bir
+
+#California
+CA AirTrnRed GarG/BART_S Ter1
+CA AirTrnBlue Ter1 GarG/BART
+CA BARTRed SanFraAir Emb
+CA MuniF MaiDru Pier39Sto
+CA MuniN Irv8th9th PowSt
+CA MuniT King UniSqMar
+CA PowMas Mar Bay
+
+#District of Columbia
+DC BluLn FarW StaArm
+DC GreLn LEnfPla GeoAvePet
+DC OraLn FarW StaArm
+DC RedLn Tak DupCir
+DC YelLn VA/DC GalPla
+
+#Florida
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+
+#Georgia
+GA AtlStr WooPark ParkPl
+GA BluLn HamEHol Dec
+GA GoldLn Air Bro
+GA RedLn Air NorSpr
+GA SkyTrn Air GatCen
+
+#Illinois
+IL BlueLn UICHal ClaLake
+IL BroLn Sed Loop
+IL GreLn Roo ClaLake
+IL OraLn Mid Loop
+IL RedLn Add Roo
+
+#Massachusetts
+MA GreLnB Ken ParkSt
+MA GreLnE MusFineArts Cop
+MA OraLn Chi Sta
+MA RedLn CenSq JFK
+
+#New York
+NY 1 14St 34StPennSta
+NY B W4St 81StMusNH
+NY N 34StHerSq LexAve59st
+NY Q 86thSt 59thSt
+NY R RecSt 34StHerSq
+
+#Pennsylvania
+PA AirLn Eas Phi30thSt
+PA MarFraLn 30th 5th
+
+#Tennessee
+TN LooMouIR StElmo PoiPark
+
+#Texas
+TX RedLn Aka GalPk
+
+#Virginia
+VA BluLn ArlCem KingStOldTown
+VA YelLn KingStOldTown VA/DC

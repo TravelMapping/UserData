@@ -1,0 +1,40 @@
+#. Northeast Regional
+DC NERoa WasUniSta DC/MD
+MD NERoa DC/MD BWIAir
+
+#. MARC Penn Line
+DC PennLn WasUniSta DC/MD
+MD PennLn DC/MD Hal
+
+#. Baltimore Light Rail
+MD BLRL Lin Fai
+MD BLRLBWI BWIAir Fai
+
+#. Washington DC Metro Red Line
+DC RedLn MetCen DC/MD
+MD RedLnGle DC/MD Whe
+
+#. Washington DC Metro Green Line
+MD GreLnSui Sui MD/DC
+DC GreLn MD/DC DC/MD
+MD GreLn DC/MD Gre
+
+#. Washington DC Metro Yellow Line
+VA YelLn EisAve VA/DC
+DC GreLn VA/DC MtVerSq
+
+#. Washington DC Metro Blue Line
+DC BluLn FogBotGWU DC/MD
+MD BluLn DC/MD AddRdSeatPle
+
+#. Washington DC Metro Orange Line
+DC OraLn FogBotGWU DC/MD
+MD OraLn DC/MD NewCar
+
+#. Washington DC Metro Silver Line
+DC SilLn FogBotGWU DC/MD
+MD SilLn DC/MD AddRdSeatPle
+
+#. New York City Subway
+NY 1 TimSq42St CorStWTC
+NY F 47-50StsRocCen YorkSt

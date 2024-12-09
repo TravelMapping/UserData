@@ -511,10 +511,10 @@ FL FL408 1 21
 FL FL414 34(429) 4B
 FL FL414 4B 9
 FL FL414 MaiSumBlvd HopeRd
-FL FL417 26 38 #under construction from 6 to 26
+FL FL417 6 38
 FL FL429 30 34 #under construction from 18 to 30
 FL FL453 FL429 FL46
-FL FL528 I-4 13 #under construction from 13 to 16
+FL FL528 I-4 16
 FL FL589 1 14 #northbound is split into 2 2-lane roadways near 2B
 FL FL618 8 10
 FL FL826 FL94 FLTpk
@@ -777,7 +777,7 @@ MD MD295 MD175 MD100
 MD MD295 I-195 I-95 #construction in Baltimore may end up removing lanes?
 
 
-ME I-95 NH/ME 44 #construction from 44 to 48
+ME I-95 NH/ME 48 #to mile marker 49 NB
 ME I-295 7 8A
 
 

@@ -78,4 +78,7 @@ WA WA900 I-405(5) I-90
 # Bookstore trip
 WA WA523 WA99 WA522
 WA WA524 MainSt WA522
-
+# Aurora
+WA I-90 18 31
+WA WA202 MeaWay I-90
+WA WA203 WA202 ToltHillRd

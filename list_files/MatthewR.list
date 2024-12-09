@@ -1,5 +1,5 @@
 #M’s Travels
-#Last Updated: 27 March 2024
+#Last Updated: 8 August 2024
 
 #[United States]
 
@@ -401,7 +401,7 @@ CA CA3 CA299_E CA299_W
 #CA-4:
 CA CA4 30 12B
 CA CA4 CRJ4 DisBayBlvd
-CA CA4 I-5(471) 69
+CA CA4 I-5(471) CA207
 
 #CA-9:
 CA CA9 SarAve CA1
@@ -532,8 +532,8 @@ CA CA60 I-10(16B) I-10(93)
 CA CA61 HarBayPkwy I-880(34)
 
 #CA-61 Alameda Section
-CA CA61Pos CA185 HighSt
 CA CA61 8thSt WebSt
+CA CA61Pos AtlAve 7thSt
 
 #CA-62:
 CA CA62 I-10 UtahTr
@@ -577,6 +577,8 @@ CA CA83 I-10 HoltBlvd
 
 #CA-84 Fremont Section:
 CA CA84 CA1 I-880(19)
+CA CA84 PasPadPkwy PleSunRd
+CA CA84 ConAve I-580
 
 #CA-84 Rio Vista Section:
 CA CA84Rio RyerIslFry CA12
@@ -686,6 +688,9 @@ CA CA130 MtHam QuiRd
 
 #CA-131:
 CA CA131 ParDr US101
+
+#CA-132:
+CA CA132 CRJ3 GatRd
 
 #CA-134:
 CA CA134 1A 9A
@@ -1020,6 +1025,62 @@ NV DayPassRd CA/NV NV374
 Ky WooTra FSR135 KY453
 
 
+#[Argentina]
+
+#(Argentina Rutas Nacionales)
+
+#Argentina RN8
+ARG RN8 RN9 RP31_E
+
+#Argentina RN9
+ARG RN9 AvGenPaz 7(Cir)
+ARG RN9 AvCir_N BvEAgu
+
+#Argentina RN12
+ARG RN12 RN101 ARG/BRA
+
+#Argentina RN19
+ARG RN19 RN1V09 AvCir
+
+#Argentina RN20 Córdoba Section
+ARG RN20Cor RN36 RN38/RPC45
+
+#Argentina RN36
+ARG RN36 RN20 AltaGra
+
+#Argentina RN38
+ARG RN38 RN20/RPC45 PesGar
+
+#Argentina RN101
+ARG RN101 RN12 AerIntIgu
+
+#Argetnina RNA008
+ARG RNA008 RN9_N RN9_S
+
+#(Argentina Select Freeways)
+
+#Argentina AU1
+ARG AU1 AutBALP AU6
+
+#Argentina Autopista Dellepiane
+ARG AutDel AU1/6 AvGenPaz
+
+#Argentina Autopista Illia
+ARG AutIll Arr AvLib_N
+
+#Argentina Autopista Juárez Celman
+ARG AutJuaCel AvCir RN9
+
+#Argentina Autoroute Riccheri
+ARG AutRic 14 17
+
+#Argentina Avenida de Circunvalación
+ARG AvCirCor 2 8
+
+#Argentina Avenida General Paz
+ARG AvGenPaz AvLib RN9
+
+
 #[Belize]
 
 #(Belize National Routes)
@@ -1044,6 +1105,105 @@ BLZ AR4 HumHwy SanFelRd
 #Botswana A33 KasAir Kaz
 
 
+#[Brazil]
+
+#(Brazil Sistema Rodoviário Federal)
+
+#Brazil BR469
+BRA-PR BR469 Arg End
+
+
+#[Costa Rica]
+
+#(Costa Rica Rutas Nacionales Primarias)
+
+#Costa Rica RP1
+CRI RP1 CRI/NIC Ave8
+
+#Costa Rica RP21
+CRi RP21 RT918 CalElFos
+
+
+#[Ecuador]
+
+#(Ecuador Red Vial Estatal)
+
+#Ecuador E28C
+ECU E28C AvDieAlm E28D
+
+#Ecuador E28D
+ECU E28D E28C E35
+
+#Ecuador E35
+ECU E35 E28D CasPeg
+
+
+#[France]
+
+#(France Autoroutes)
+
+#Ile de France A1
+FRA-IDF A1 AerChaGau 1
+
+#Nouvelle-Aquitaine A63
+FRA-NAQ A63 ESP/FRA 5.1
+
+
+#[Germany]
+
+#(Germany Autobahnen)
+
+#Bavaria A92
+DEU-BY A92 6 4a
+
+#(Europe Select Name Freeways- Germany)
+
+#Zubringer Flughafen Munchen Central+South
+DEU-BY ZubFluMun A92 TerWestMit_S
+
+
+#[Greece]
+
+#(Greece Autokinetodromos)
+
+#Greece A6
+GRC A6 20 16
+
+#Greece A62
+GRC A62 ExhCen K2
+
+#Greece A64
+GRC A64 Y7 Y1
+
+#(Greece Ethniki Odos)
+
+#Greece EO8
+GRC EO8 EO54/91 LenOdos
+
+#Greece EO54
+GRC EO54 PanKan EO8/91
+
+#Greece EO56A
+GRC EO56A EO91EO56
+
+#Greece EO91
+GRC EO91 EO8/54 PriPet
+
+
+#[Italy]
+
+#(Italy Ausostrada)
+
+#Italy A8
+ITA A8 A9 SS33
+
+#Italy A9
+ITA A9 ITA/CHE A8
+
+#Italy A91
+ITA A91 SS296 ViaMag_E
+
+
 #[Mexico]
 
 #(Mexico Federal Expressways)
@@ -1052,13 +1212,13 @@ BLZ AR4 HumHwy SanFelRd
 MEX-BCS MEX1D AerLosCab MEX1_S
 
 #Distrito Federal 95D:
-MEX-DF MEX95DMex MOR/DF HColMil
+MEX-DF MEX95D MOR/DF HColMil
 
 #Guanajuato 45D:
 MEX-GTO MEX45D QRO/GTO GTO51
 
 #Morelos 95D:
-MEX-MOR MEX95DMex HColMil MOR/DF
+MEX-MOR MEX95D HColMil MOR/DF
 
 #Morelos 115D:
 MEX-MOR MEX115D MEX95D Tep
@@ -1067,12 +1227,12 @@ MEX-MOR MEX115D MEX95D Tep
 MEX-QRO MEX45D QRO/GTO MEX45
 
 #Queretaro 57D:
-MEX-QRO MEX57DSJu QRO100 MEX57/111
+MEX-QRO MEX57D QRO100 MEX57/111
 
 #(Mexico Carreteras Federales)
 
 #Baja California MEX1:
-MEX-BC MEX1 LibSur PueNue
+MEX-BC MEX1 LibSur MEX1D_Pue
 MEX-BC MEX1 MEX3_N BlvdLazCar_S
 
 #Baja California MEX2:
@@ -1201,6 +1361,75 @@ MAR N9 N8_E N7/N8
 MAR N25 N8_E Azi
 
 
+#[Nicaragua]
+
+#(Nicaragua Red Vial Nacional)
+
+#Nicaragua NIC2
+NIC NIC2 NIC/CRI NIC62
+NIC NIC2 NN211 NIC4A_S
+
+#Nicaragua NIC4A
+NIC NIC4A NIC2_S VolMas
+
+#Nicaragua NIC11B
+NIC NIC11B Mas NIC4A_S
+
+#Nicaragua NIC62
+NIC NIC62 NIC2 NIC34B/NN211
+
+
+#[Peru]
+
+#(Peru Red Vial Nacional)
+
+#Peru PE3S
+PER PE3S CaPal_N PE28F
+
+#Peru PE20B
+PER PE20B AvTomVal 
+
+#Peru PE28B
+PER PE28B Oll PE28G
+
+#Peru PE28F
+PER PE28F PE3S PE28B
+
+#Peru PE28G
+PER PE28G PE28B PE3S
+
+#(Peru Select Freeways)
+
+#Circuito de Playas
+PER CirPla AvRafEsc SubBal
+
+
+#[Portugal]
+
+#(Portugal Autoestrada)
+
+#Portugal A1
+PRT A1 A28 16
+
+#Portugal A4
+PRT A4 1 3
+
+#Portugal A25
+PRT A25 7 AveJoaoReal
+
+#Portugal A28
+PRT A28 A1 4
+
+#Via Regional Interior
+PRT VRI AveAer 3
+
+#(UNECE Intl E Roads- Portugal)
+
+#Portugal E80
+PRT E80 16(A1) 7(A25)
+
+
+
 #[South Africa]
 
 #(South Africa National Highways)
@@ -1221,6 +1450,99 @@ ZAF N12 420 113(N3)
 
 #South Africa R24
 ZAF R24 TamIntAir N3/N12
+
+
+#[Spain]
+
+#(Spain Autopista / Autovia)
+
+#Spain A2 Lleida
+ESP-CT A2 559 610
+
+#Spain A8
+ESP-PV 115 121
+
+#Spain AP1 Bergara
+ESP-PV AP1 ESP/FRA 19(AP8) 
+ESP-PV AP1 27(AP8) 145
+
+#Spain AP8 
+ESP-PV 115 FRA/ESP
+
+#Spain B10
+ESP-CT B10 19(W) 24
+
+#Spain B22
+ESP-CT B22Ter AirT1 C31
+
+#(Spain Carretera Nacionales)
+
+#Spain N637
+ESP-PV N637 8 16
+
+#(Basque Country Oinarrizko Sarea)
+
+#ESP_PV GI20 AP1/8_W AP1/8_E
+
+#(Catalonia Xarxa Basica)
+
+#ESP-CT C31Pra N340 189
+
+
+#[Switzerland]
+
+#(Switzerland Autobahnen / Autoroutes)
+
+#Switzerland A2
+CHE A2 CHE/ITA 49A
+
+
+#[Turkey]
+
+#(Turkey Otoyol)
+
+#Turkey O3
+TUR O3 18 O1
+
+#Turkey O7
+TUR O7 7 10
+
+#Turkey O7 Cobancesme
+TUR O7Cob O7 O3
+
+
+#[United Kingdom]
+
+#(Great Britain Motorways)
+
+#England M4
+ENF M4 4 12
+ENG M4 15 18
+
+#England M4 Heathrow Spur
+ENG M4Hea 4 4A
+
+#England M40
+ENG M40 1 8A
+
+#(Great Britain A Roads)
+
+#England A4
+ENG A4 A367 M4(12)
+ENG A4 M4(4a) FleSt_E
+
+#England A40 Oxford
+ENG A40 A501 M40(1)
+ENG A40 M40(8a) A420
+
+#England A46 Stroud
+ENG A46Str M4 A4
+
+#England A419
+ENG A419 A420 M4
+
+#England A420
+ENG A420 A40 A419
 
 
 #[Zambia]
