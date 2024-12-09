@@ -41,6 +41,7 @@ CA BlueLn SanYsiTC +DIV_Gre_N
 CA GreLn 12thImpTC Gro
 CA OraLn Cou Gro
 
+AZ VMR 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
@@ -91,8 +92,11 @@ TX RedLnHou EnsHCC CenSta
 WA SeaCenMon SeaCen WesCen
 WA N Eve Sea
 WA S Sea TacDome
-WA 1 Wes AngLake
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
 WA T TacDome 4thSt
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
 
 #US Airpoirts Airside
 CO DENTrn JepTer CGat
@@ -110,7 +114,7 @@ WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 
 #US Airports Landside
-AZ PHX RenCarCen T4
+AZ PHX RenCarCen 44thSt
 CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
