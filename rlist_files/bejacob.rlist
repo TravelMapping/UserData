@@ -112,6 +112,7 @@ TX IAHSky TerA TerDE
 TX Sky A8 A21
 WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
+WA YelLn AGat DGat
 
 #US Airports Landside
 AZ PHX RenCarCen 44thSt
