@@ -940,7 +940,10 @@ ARE M5 49(E11D) 54(E11D)
 ### THA
 THA M7 1 4
 THA MahaNakExpy SiRatExpy 5
-THA SiRatExpyAso MahaNakExpy Tx2-06
+THA SiRatExpyAso SiRatExpy Tx2-06
+THA SiRatExpy N2-03 SiRatExpyAso
+THA Thl31DMT Thl31_S DonMeuIA
+THA Thl4169 BanPlaiLaem AngThoSoi15
 
 ### TWN 
 TWN F1 2 18
