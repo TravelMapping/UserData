@@ -139,6 +139,7 @@ TX I-35W I-35(370B) 85
 IA I-235 0 999
 KS I-135 I-35 95
 KS I-235 1A 16
+OK I-335 130 149                                # Kickapoo Turnpike
 KS I-335 127 177
 KS I-435 MO/KS MO I-435 MO/KS
 KS I-635 1A KS/MO 
@@ -154,7 +155,7 @@ MN I-35BLFar I-35_S I-35_N
 MN I-35BLAlb I-35_S I-35_N
 MO I-35BLCam I-35_S I-35_N
 # Pending Interstates - do not change until implemented by collaborator
-OK KicTpk 130 149                # Kickapoo Turnpike (Now I-335)# I-37
+# I-37
 TX I-37 US181 TX I-37 142
 # I-39
 IL I-39 0 WI I-39 187
@@ -185,9 +186,9 @@ WI I-43 1 WI I-43 192
 # I-44
 TX I-44 1 MO I-44 I-70
 OK I-244 1A 999
+OK I-344 OK152 I-35/44           # John Kilpatrick Turnpike (Now I-344)
 OK I-444 I-244_W I-244_E
 # Pending Interstates - do not change until implemented by collaborator
-OK JohnKilTpk OK152 I-35/44      # John Kilpatrick Turnpike (Now I-344)
 # I-45
 TX I-45 1A TX I-45 284A
 TX I-345 284A 286
