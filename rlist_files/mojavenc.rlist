@@ -89,6 +89,13 @@ BEL IC6A BruAirZav BruCen
 
 DEU-NW ParDor KolnHbf DusDorfHbf
 
+
+FRA-CVL ParBor CVL/NAQ IDF/CVL
+
+FRA-NAQ ParHen BorStJean Hen
+FRA-NAQ BruBor CVL/NAQ BorStJean
+
+FRA-IDF ParBor ParMon IDF/CVL
 FRA-IDF ParAms ParGareNord IDF/HDF
 FRA-IDF CVer VerChaRiveGau Inv
 FRA-IDF FunMon Inf Sup
@@ -98,10 +105,14 @@ FRA-IDF M12 Abb  NotDameCha
 
 FRA-HDF ParAms IDF/HDF FRA/BEL
 
+ESP-AR MadBarFig ZarDel AR/CT
+
+
 ESP-CT L1 Esp Clot
 ESP-CT L2 Par Clot
 ESP-CT L3 Esp Valc
 ESP-CT L4 Pob PasGra
+ESP-CT MadBarFig AR/CT San
 
 ESP-MD C3 Sol NueMin
 ESP-MD M2 Can Sol
@@ -109,6 +120,8 @@ ESP-MD M2 Can Sol
 
 ESP-PV E2 ESP/FRA AmaDon
 ESP-PV C1Don DonSanSeb Bin
+
+
 
 ITA-CAM 13Nap PomScaVilMis NapGar
 ITA-CAM 1Nap Tol Gar
