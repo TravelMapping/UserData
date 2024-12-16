@@ -46,6 +46,10 @@ CO DurSilNGR Dur Sil
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA UPTRiv UPT FreMar
+LA StCha CanCar How
 MO MLRedLn LamAirTer1 LacLan
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
