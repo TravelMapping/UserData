@@ -41,10 +41,15 @@ CA BlueLn SanYsiTC +DIV_Gre_N
 CA GreLn 12thImpTC Gro
 CA OraLn Cou Gro
 
+AZ VMR 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA UPTRiv UPT FreMar
+LA StCha CanCar How
 MO MLRedLn LamAirTer1 LacLan
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
@@ -91,11 +96,30 @@ TX RedLnHou EnsHCC CenSta
 WA SeaCenMon SeaCen WesCen
 WA N Eve Sea
 WA S Sea TacDome
-WA 1 Wes AngLake
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
 WA T TacDome 4thSt
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
 
-#US Airports
-AZ PHX RenCarCen T4
+#US Airpoirts Airside
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV BlueLn Ter1 DGat
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+WA GreLn DGat_Sta DGat_Fin
+WA BlueLn AGat_Sta AGat_Fin
+WA YelLn AGat DGat
+
+#US Airports Landside
+AZ PHX RenCarCen 44thSt
 CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
@@ -119,6 +143,8 @@ DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
+
+PR TrenUrb SagCor Bay
 
 BC ExpoLn Wat MainStSciWor
 

@@ -201,6 +201,7 @@ ITA-CAM 2Nap NapPiaCav Pom
 JPN SanyoShin ShinOsaka Hakata
 JPN TokaidoShin Tokyo ShinOsaka
 JPN HarukaLtd ShinOsaka KansaiAir
+JPN SuperInabaLtd Okayama Tottori
 
 ## JR HOKKAIDO
 JPN ChitoseLn H14 01
@@ -245,6 +246,9 @@ JPN KansaiLnW Q38 Q36
 JPN JRNaraLn D01 D21
 JPN HanwaLn R20 R45
 JPN KansaiAirportLn S45 S47
+
+## JR SHIGOKU
+JPN YosanLn Y36 Y40
 
 ### HEAVY 
 ## TOBU
@@ -296,6 +300,7 @@ JPN ArashiyamaLn HK81 HK98
 JPN SenriLn K11 HK94
 JPN KobeLn HK01 HK16
 JPN TakarazukaLn HK01 HK49
+JPN MinohLn HK48 HK59
 
 ## NISHITETSU
 JPN NnrTenjinLn T01 T13
@@ -342,13 +347,15 @@ JPN KarasumaLn K09 K11
 JPN KyoTozaiLn T12 T17
 
 ## OSAKA SUBWAY
+JPN KitakyuNambokuLn M06 M11
 JPN MidosujiLn M11 M23
 JPN TanimachiLn T20 T27
-JPN YotsubashiLn Y11 Y16
+JPN YotsubashiLn Y11 Y21
 JPN OskChuoLn C11 C19
 JPN SennichiLn S12 S18
 JPN SakaisujiLn K11 K20
 JPN NagahoriLn N15 N27
+JPN NankoLn P14 P18
 
 ## OKAYAMA TRAM
 JPN OkaHigaTm H01 H05
@@ -375,6 +382,8 @@ JPN EnodenLn EN01 EN15
 JPN AichiLoopLn 10 12
 JPN ArashiyamaTm A5 A13
 JPN OsaMon 11 19
+JPN UemachiLn HN01 HN10
+JPN ChizuLn Kamigori Chizu
 JPN OkiMon 1 7
 
 #### KOR
@@ -427,15 +436,17 @@ SWE 3Got KunPla CenSta
 
 #### THAILAND
 ### BANGKOK
-THA Blue BL26 BL12
+THA ARL A1 A8
+THA DarkRed RN01 RN08
+THA Blue BL31 BL11
 THA Silom CEN S6
 THA Suk N10 E5
 
 #### TWN
 TWN TYAir A1 A13
 TWN TPRed R02 R28
-TWN TPGreen G15 G10
-TWN TPOrangeHui O09 O08 
+TWN TPGreen G16 G10
+TWN TPOrangeHui O11 O08 
 TWN TPOrangeHui O06 O07
 TWN TPBlue BL11 BL12
 TWN TPBlue BL18 BL23

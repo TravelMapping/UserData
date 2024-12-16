@@ -3301,6 +3301,10 @@ NC US29 NC49_S TrySt_S
 # 2024-11-03
 NC NC160 NC49_S NC49_N
 
+# 2024-11-17
+NC I-485 4 10
+NC US29 RedDr US74_E
+
 ################
 # NORTH DAKOTA #
 ################
