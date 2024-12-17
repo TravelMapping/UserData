@@ -1753,7 +1753,7 @@ AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home
 AL AL53 I-65 US231/431 #12172017 Montgomery Trip Ardmore Audit         
 AL AL55 FL/AL US331_S  #07052024
 AL AL56 US43 AL17_S #Milry Audit
-AL AL59 MS/AL AL17_N #12132024 Trip to Hattiesburg 
+AL AL56 MS/AL AL17_N #12132024 Trip to Hattiesburg 
 AL AL59 US31_S AL182 #Gulf Shore Trips
 AL AL59 US31_N AL287 #Gulf Shore Trips
 AL AL59 AL225 AL287 #12132024 Trip to Hattiesburg
@@ -2284,7 +2284,7 @@ MS MS198Bea US98_E US98_W #12132024 Trip to Hattiesburg
 MS MS198Hat US49 I-59/98 #12132024 Trip to Hattiesburg 
 MS MS198Luc MS26 US98_W #12132024 Trip to Hattiesburg
 MS MS198McL MS57 US98 #12132024 Trip to Hattiesburg
-MS MS612 MS163 MS/AL #SREPA Audit 
+MS MS612 MS613 MS/AL #SREPA Audit 
 MS MS613 MS198 MS612 #SREPA Audit   
 MT I-90 ID/MT 201 #11082016 Telergee Board Meeting
 MT I-90BLDee I-90_W I-90_E #11092016 Visit Grant-Kohrs Ranch NHS
