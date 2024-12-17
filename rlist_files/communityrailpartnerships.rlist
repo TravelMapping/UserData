@@ -144,6 +144,10 @@ ENG ChiLn Bar Bos
 ENG SusCoaLn Bri Lit
 ##Sussex Downs Line
 ENG SusDowLn Bri Sea
+##Hounslow and Reading Line
+ENG CheLp Bar Fel
+ENG KinLp Bar Twi
+ENG WinLn Twi Fel
 
 #TransWilts Community Rail Partnership
 ENG TraWilLn Swi Wes
@@ -168,9 +172,6 @@ ENG RheeVlyLn Mel Fox
 
 #Purbeck Community Rail Partnership
 ENG SWML HolHea DorSou
-
-#Surrey Hills to South Downs
-ENG PorDirLn Far Has
 
 #Chester Shrewsbury Community Rail Partnership
 ENG NWSWChe Che ENG NWSW Shr
@@ -280,12 +281,29 @@ ENG YorCoaLn Sca HullParInt
 #Barton Cleethorpes Community Rail Partnership
 ENG BarLn BarHum Cle
 
+#Hampshire Community Rail Partnership
+##Three Rivers CRP
+ENG TestVlyLn Sal Rom_2
+ENG SWML Mic SouCen
+ENG NetLn SouCen Bur
+##Reading to Basingstoke CRP
+ENG BruLn Rea Bas
+##Wey Valley CRP
+ENG AltLn AshVale Alt
+ENG WeyVlyLn Far Gui
+##Hills to Harbour CRP
+ENG PorDirLn Gui PorHar
+
+#Darent Valley Community Rail Partnership
+ENG ThaLnkSev Swa Sev
+
+#White Cliffs Community Rail Partnership
+ENG PadWoodLn Wes FolWest
+ENG HS1Dov FolWest San
+
 ###Not listed on gov.uk###
 #Bedford - St Albans CRP
 ENG ThaLnk Bed StAlbCity
-
-#Darent Valley CRP
-ENG ThaLnkSev Swa Sev	
 
 #Chase Line Community Station Partnership
 ENG ChaLn Lan RugTreVal
@@ -301,32 +319,12 @@ ENG OxCanLn DidPkwy Ban
 ENG ThaVlyLn GorStr DidPkwy
 ENG RegLn Shi HenTha
 
-#Reading - Basingstoke CRP
-ENG BruLn Rea Bas
-
-#ThreeRivers CRP
-ENG TestVlyLn Sal Rom_2
-ENG SWML Mic SouCen
-ENG NetLn SouCen Bur
-
 #South Wessex CRP
 ENG HeaWesLn Fro Wey
-
-#Hounslow and Richmond CRP
-ENG CheLp Bar Fel
-ENG KinLp Bar Twi
-ENG WinLn Twi Fel
 
 #The Community Train CRP
 ENG CheLn RayPark CheSou
 ENG HamCouLn RayPark Sur
-
-#Wey Valley CRP
-ENG AltLn AshVale Alt
-ENG WeyVlyLn Far Gui
-
-#Hills to Harbour CRP
-ENG PorDirLn Far PorHar
 
 #Isle of Wight CRP
 ENG IslLn RydePierHead Sha
@@ -367,6 +365,5 @@ SCT FifeLnCow EdiWav NorQue
 ENG SEML Min Ram
 ENG ThaLn BirSea Ram
 
-#White Cliffs CRP
-ENG PadWoodLn Wes FolWest
-ENG HS1Dov FolWest San
+#Ipswich to Cambridge CRP
+ENG MidSufLn Ips Cam
