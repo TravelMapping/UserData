@@ -1,14 +1,6 @@
-# =================================================
-# BC - British Columbia Provincial Highways (canbc)
-# =================================================
-
 BC BC91 15 22
 BC BC99 GraSt_S PacSt
 BC BC99 DenSt StaParkDr_S
-
-# =========================================
-# ON - Ontario Provincial Freeways (canonf)
-# =========================================
 
 ON ON400 21 241
 ON ON401 344A 348
@@ -20,56 +12,19 @@ ON ON407 1 24
 ON ON420 MonRd StaAve
 ON ON427 QEW FasDr
 ON ONQEW PeaBrg 139
-
-# ==================================
-# ON - Trans-Canada Highway (cantch)
-# ==================================
-
 ON TCHGeo ON17 *OldHwy69_EstN
 ON TCHGeo *OldON69_Gru ON400(141)
-
-# =========================================
-# ON - Canada Select Named Freeways (cansf)
-# =========================================
-
 ON GarExpy 139 153
-
-# ====================================
-# ON - Ontario King's Highways (canon)
-# ====================================
-
 ON ON12 ON400(141) ON400(147)
 ON ON69 ON400(241) *OldON69_Gru
 ON ON69 *OldHwy69_EstN ON17
 
-# =============================
-# ITA - Italy Autostrada (itaa)
-# =============================
-
 ITA A91 AGRA SS296
-
-# ==========================================
-# ITA - UNECE International 'E' Roads (eure)
-# ==========================================
-
 ITA E80 A12/A91 A91/AGRA
-
-# =============================================
-# MEX-QROO - Mexico Carreteras Federales (mexf)
-# =============================================
 
 MEX-QROO MEX307 XelHa AerIntCan
 
-# ===========================================
-# MEX-YUC - Mexico Federal Expressways (mexd)
-# ===========================================
-
 MEX-YUC MEX180D YUC79 MEX295
-
-# ============================================
-# MEX-YUC - Mexico Carreteras Federales (mexf)
-# ============================================
-
 MEX-YUC MEX180 YUC79 Coba
 MEX-YUC MEX295 PerVal_N MEX180D
 
