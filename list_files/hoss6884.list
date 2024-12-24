@@ -28,77 +28,31 @@ MEX-YUC MEX180D YUC79 MEX295
 MEX-YUC MEX180 YUC79 Coba
 MEX-YUC MEX295 PerVal_N MEX180D
 
-# ===================================
-# AL - Alabama State Highways (usaal)
-# ===================================
-
 AL AL59 AL182 AL180
 AL AL182 DolDr AL/FL
 
-# =============================================
-# AR - United States Interstate Highways (usai)
-# =============================================
-
 AR I-55 TN/AR 1
-
-# ============================================
-# AR - United States Numbered Highways (usaus)
-# ============================================
-
 AR US61 TN/AR I-55(1)
 AR US64 I-55(1) AR/TN
 AR US70 I-55(1) AR/TN
 AR US78 I-55(1) AR/TN
 AR US79 I-55(1) AR/TN
 
-# =============================================
-# AZ - United States Interstate Highways (usai)
-# =============================================
-
 AZ I-10 139 *OldI-10_W
 AZ I-10 *OldI-10_E 250
 AZ I-17 194 341
 AZ I-40 48 195
-
-# ============================================
-# AZ - United States Numbered Highways (usaus)
-# ============================================
-
 AZ US60 201(17) 212
 AZ US93 I-40(71) AZ/NV
-
-# =====================================================
-# AZ - United States Future Interstate Highways (usaif)
-# =====================================================
-
 AZ I-11FutHoo 2 AZ/NV
 AZ I-11FutKin 71(40) 48(40)
-
-# ================================================
-# AZ - United States Select Named Freeways (usasf)
-# ================================================
-
 AZ SkyHarBlvd BucRd AZ143
-
-# ===================================
-# AZ - Arizona State Highways (usaaz)
-# ===================================
-
 AZ AZ77 InaRd AZ79
 AZ AZ79 AZ77 US60
 AZ AZ89ASed I-17(337) I-17(341)
 AZ AZ143 1 3
-
-# =============================================
-# AZ - United States Historic Highways (usaush)
-# =============================================
-
 AZ US80HisFlo US60 AZ79/287
 AZ US80HisFlo AZ79/79Bus InaRd
-
-# =============================================
-# CO - United States Interstate Highways (usai)
-# =============================================
 
 CO I-25 200 207A
 CO I-25 213 216
@@ -107,17 +61,7 @@ CO I-70 205 289
 CO I-76 1A 16
 CO I-225 I-25 12
 CO I-270 0 I-70
-
-# =======================================================
-# CO - United States Business Interstate Highways (usaib)
-# =======================================================
-
 CO I-70BLDen I-70_W I-70_E
-
-# ============================================
-# CO - United States Numbered Highways (usaus)
-# ============================================
-
 CO US6 I-70(216) I-70(244)
 CO US6 CO58/93 CO470
 CO US6 I-25(213) I-70(276A)
@@ -132,57 +76,24 @@ CO US87 I-25(200) I-25(207A)
 CO US87 I-25(213) I-25(216)
 CO US87 I-25(217) I-25(257)
 CO US287 I-70(289) US40_W
-
-# ================================================
-# CO - United States Select Named Freeways (usasf)
-# ================================================
-
 CO E470 1A 47
 CO PenaBlvd I-70 Ter
-
-# ====================================
-# CO - Colorado State Highways (usaco)
-# ====================================
-
 CO CO35 I-70 53rdPl
 CO CO58 US6 5
 CO CO470 US6 26
 
-# =============================================
-# CT - United States Interstate Highways (usai)
-# =============================================
-
 CT I-84 NY/CT CT/MA
-
-# ============================================
-# CT - United States Numbered Highways (usaus)
-# ============================================
-
 CT US6 I-84(4) I-84(8)
 CT US6 I-84(10) I-84(15)
 CT US6 I-84(38) I-84(60)
 CT US7 I-84(3) I-84(7)
 CT US44 I-84(50) I-84(53)
 CT US202 I-84(4) I-84(7)
-
-# =======================================
-# CT - Connecticut State Highways (usact)
-# =======================================
-
 CT CT72 3 4A
-
-# =============================================
-# DE - United States Interstate Highways (usai)
-# =============================================
 
 DE I-95 MD/DE 4A
 DE I-95 5C 8
 DE I-295 I-95 DE/NJ
-
-# ============================================
-# DE - United States Numbered Highways (usaus)
-# ============================================
-
 DE US9 DE18/404 DE1_S
 DE US13 DE20_E ScaRd
 DE US13 DE1(114) DE1(119)
@@ -190,24 +101,9 @@ DE US13 DE1(152) DE1(156)
 DE US40 I-295_S DE/NJ
 DE US113 MD/DE DE1
 DE US202 I-95(5C) DE/PA
-
-# ================================================
-# DE - United States Select Named Freeways (usasf)
-# ================================================
-
 DE PunRunCon US13 DE1
-
-# =======================================================
-# DE - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 DE US9TrkGeo US9_W US113_S
 DE US13BusBri US13_S DE404Bus_W
-
-# ====================================
-# DE - Delaware State Highways (usade)
-# ====================================
-
 DE DE1 MD/DE DE4
 DE DE1BusMil US113_S DE1_N
 DE DE1A DE1_S DE1_N
@@ -233,35 +129,12 @@ DE DE404 MD/DE DE1
 DE DE404BusBri DE404_W DE404_E
 DE DE404TrkGeo DE404_W US113_S
 
-# =============================================
-# DC - United States Interstate Highways (usai)
-# =============================================
-
 DC I-66 VA/DC US50_E
-
-# ============================================
-# DC - United States Numbered Highways (usaus)
-# ============================================
-
 DC US1 US50_W US50_E
 DC US29 VA/DC MSt
 DC US50 VA/DC DC/MD
-
-# =======================================================
-# DC - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 DC US1AltWas US1_S US50_E
-
-# ========================================================
-# DC - United States Select National Park Highways (usanp)
-# ========================================================
-
 DC GWMemPkwy VA/DC DC/VA
-
-# =============================================
-# FL - United States Interstate Highways (usai)
-# =============================================
 
 FL I-4 I-275 2
 FL I-4 65 75A
@@ -272,32 +145,12 @@ FL I-275 I-75_S 2
 FL I-275 5 39A
 FL I-275 39B 45B
 FL I-595 10 12
-
-# ============================================
-# FL - United States Numbered Highways (usaus)
-# ============================================
-
 FL US19 US41 I-275(17)
 FL US27 FLTpk(35) I-75(23)
 FL US41 FL789 I-275
 FL US301 US41_S US41_N
-
-# ================================================
-# FL - United States Select Named Freeways (usasf)
-# ================================================
-
 FL FLTpk 26A 69
-
-# =======================================================
-# FL - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 FL US41BusBra US41_S US41_N
-
-# ===================================
-# FL - Florida State Highways (usafl)
-# ===================================
-
 FL FL64 GulfDr US41/301
 FL FL72 FL758 US41
 FL FL292 GonDr FL173
@@ -308,30 +161,12 @@ FL FL789 US41 FL64
 FL FL836 FLTpk(26A) 17thAve
 FL FL884 FowSt FL739
 
-# =============================================
-# GA - United States Interstate Highways (usai)
-# =============================================
-
 GA I-20 67 GA/SC
 GA I-75 242 251
 GA I-85 70 GA/SC
 GA I-285 46 61
-
-# ============================================
-# GA - United States Numbered Highways (usaus)
-# ============================================
-
 GA US278 I-20(75) I-20(90)
-
-# ===================================
-# GA - Georgia State Highways (usaga)
-# ===================================
-
 GA GA12 I-20(75) I-20(90)
-
-# =============================================
-# IL - United States Interstate Highways (usai)
-# =============================================
 
 IL I-39 I-55 IL/WI
 IL I-41 WI/IL 1B
@@ -356,11 +191,6 @@ IL I-290 I-90 I-90/94
 IL I-294 0 52
 IL I-355 0 I-290
 IL I-474 0 15
-
-# ============================================
-# IL - United States Numbered Highways (usaus)
-# ============================================
-
 IL US6 I-74(2) I-74(5)
 IL US6 QuadCityAir I-80(9)
 IL US6 I-80(161) IL/IN
@@ -386,11 +216,6 @@ IL US45 IL132 OldMCRd_S
 IL US45 *OldMCRd_N IL/WI
 IL US50 MO/IL I-64(19)
 IL US51 I-74(135) I-90(1)
-
-# ====================================
-# IL - Illinois State Highways (usail)
-# ====================================
-
 IL IL3 I-255(6) I-255(10)
 IL IL3 I-55(1A) StCAve_S
 IL IL21 US45_S IL176
@@ -424,18 +249,9 @@ IL IL176 I-94 IL131
 IL IL251 I-88 US20
 IL IL255 I-270 US67
 IL IL394 US30 I-80/94
-
-# =============================================
-# IL - United States Historic Highways (usaush)
-# =============================================
-
 IL US66HisChi MO/IL I-270(3)
 IL US66HisChi I-270(4A) I-270(4B)
 IL US66HisChi I-55(268) I-55(276C)
-
-# =============================================
-# IN - United States Interstate Highways (usai)
-# =============================================
 
 IN I-64 IL/IN IN/KY
 IN I-65 110B 112
@@ -455,11 +271,6 @@ IN I-465 25 44
 IN I-465 49 53
 IN I-469 0 31
 IN I-865 I-65 I-465
-
-# ============================================
-# IN - United States Numbered Highways (usaus)
-# ============================================
-
 IN US6 IL/IN IN/OH
 IN US12 IL/IN US41_S
 IN US12 IN912(7A) IN912(8)
@@ -493,18 +304,8 @@ IN US421 I-74(132) I-465(49)
 IN US421 I-465(44) I-465(27)
 IN US421 US24/39 US30
 IN US421 US6_E I-80/90
-
-# =======================================================
-# IN - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 IN US31BusSou US31_S IN23/933
 IN US31BusSou MarSt US31_N
-
-# ===================================
-# IN - Indiana State Highways (usain)
-# ===================================
-
 IN IN1 I-469(6) I-69/I-469
 IN IN2 US30_W IN49_N
 IN IN2 US421_S US421_N
@@ -548,21 +349,12 @@ IN IN331 US20_W US20_E
 IN IN912 7A US6Bus
 IN IN933 MarSt US31Bus_N
 
-# =============================================
-# IA - United States Interstate Highways (usai)
-# =============================================
-
 IA I-29 MO/IA 51
 IA I-74 I-80 *OldI-74
 IA I-80 NE/IA 4
 IA I-80 239 IA/IL
 IA I-280 I-80 IA/IL
 IA I-380 0 MitAve
-
-# ============================================
-# IA - United States Numbered Highways (usaus)
-# ============================================
-
 IA US6 I-29(51) I-80(4)
 IA US6 IA965 1stAve_Cor
 IA US6 I-80(271) I-280(1)
@@ -576,26 +368,12 @@ IA US151 US61_S 188(61)
 IA US218 96 16(380)
 IA US218 71(380) MitAve
 IA US275 I-29(47) I-29(35)
-
-# ================================
-# IA - Iowa State Highways (usaia)
-# ================================
-
 IA IA27 0(380) 71(380)
 IA IA38 I-80(271) I-80(267)
-
-# =============================================
-# KS - United States Interstate Highways (usai)
-# =============================================
 
 KS I-70 224(KT) KS/MO
 KS I-635 4 KS/MO
 KS I-670 I-70 KS/MO
-
-# ============================================
-# KS - United States Numbered Highways (usaus)
-# ============================================
-
 KS US24 US73_N KS/MO
 KS US40 US73_N KS/MO
 KS US59 US73_N US73_S
@@ -604,20 +382,11 @@ KS US73 I-70 KS92_E
 KS US73 CR14 KS/NE
 KS US159 US73_S KS/NE
 KS US169 I-70(422A) KS/MO
-
-# ==================================
-# KS - Kansas State Highways (usaks)
-# ==================================
-
 KS KS5 I-635(7) I-635(8)
 KS KS7 I-70 KS92_E
 KS KS7 CR14 US73_N
 KS KS20 US73_N US73_S
 KS KS92 US73_S US73_N
-
-# =============================================
-# KY - United States Interstate Highways (usai)
-# =============================================
 
 KY I-64 IN/KY 12
 KY I-64 75 KY/WV
@@ -627,46 +396,17 @@ KY I-75 111 KY/OH
 KY I-264 12 20
 KY I-275 OH/KY KY/IN
 KY I-471 1 KY/OH
-
-# ============================================
-# KY - United States Numbered Highways (usaus)
-# ============================================
-
 KY US60 I-264(20) KY1747
 KY US150 IN/KY I-64(3)
-
-# =======================================================
-# KY - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 KY US62TrkEli I-65(91) US62_N
-
-# ====================================
-# KY - Kentucky State Highways (usaky)
-# ====================================
-
 KY KY8 I-71/75 US27/8Bus
 KY KY8BusBel US27/8 I-471
 KY KY61 I-65(134) I-65(134A)
 KY KY627TrkWin I-64(94) KY627_N
 
-# =============================================
-# LA - United States Interstate Highways (usai)
-# =============================================
-
 LA I-10 223B 234A
 LA I-910 13 I-10
-
-# ============================================
-# LA - United States Numbered Highways (usaus)
-# ============================================
-
 LA US61 AirAccRd NewOrlApt
-
-# =======================================================
-# LA - United States Auxiliary Numbered Highways (usausb)
-# =======================================================
-
 LA US90BusNew 13 I-10
 
 # =============================================
