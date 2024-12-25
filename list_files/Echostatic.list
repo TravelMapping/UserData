@@ -33,7 +33,7 @@ IN I-465 4 31
 IN I-465 33 44
 IN I-469 0 21
 KS I-35 OK/KS KS/MO
-KY I-69 21 148
+KY I-69 TN/KY 148
 LA I-10 TX/LA 159
 LA I-12 1A 38
 LA I-20 TX/LA LA/MS
@@ -338,9 +338,6 @@ IN IN931 US31_S US31_N
 
 #Indiana Select Named Freeways
 IN KeyPkwy I-465 US31
-
-#Kentucky Parkways
-KY PurPkwy TN/KY 21
 
 #Louisiana State Highways
 LA LA1 LA986 US190_E
