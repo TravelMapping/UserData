@@ -2992,3 +2992,34 @@ NZL SH16 3 19
 NZL SH20 9 16
 NZL SH20 16 19
 NZL SH20 19 24
+
+##Thailand##
+THA M7 1 13
+THA M7Lae M7 Thl3
+THA M7Pat M7 Thl3
+THA M9 1 9
+THA M9 9 Thl35
+#construction here
+THA M9 Thl4 Thl3901/3902_51
+THA BhuBrg RamaIIIRd Thl3113
+THA BhuBrg Thl3113 M9
+THA BurWitExpy S1Expy 53
+THA ChaRatExpy S1Expy 26
+THA MahaNakExpy 1 17
+THA MahaNakExpyDao MahaNakExpy Thl303
+THA PraRatExpy 2 17
+THA S1Expy ChaRatExpy BurWitExpy
+THA SiRatExpy T2-13 N2-11
+THA SiRatExpyAso SiRatExpy Tx2-06
+Thl1 Thl31 Thl2
+Thl2 Thl1 Thl3188_N
+#maybe some of Thl31 but it's hard to tell
+THA Thl31DMT Thl31_S Thl31/38
+THA Thl34 Thl3/3102 Chch2004
+THA Thl38 Thl31_S Thl1
+THA Thl304 Nb3030 Thl306
+THA Nb1020 Thl301/306 M9
+#Nb1036 is unsigned
+THA Nb3021 TakSinRd PhetKasRd
+THA Nb3021 PhetKasRd Nb3021_U32 #beyond here is not a freeway
+THA Nb3030 Thl304 Nb3021 #beyond here is not a freeway, though it's under construction
