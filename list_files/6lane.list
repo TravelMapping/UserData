@@ -3011,8 +3011,8 @@ THA PraRatExpy 2 17
 THA S1Expy ChaRatExpy BurWitExpy
 THA SiRatExpy T2-13 N2-11
 THA SiRatExpyAso SiRatExpy Tx2-06
-Thl1 Thl31 Thl2
-Thl2 Thl1 Thl3188_N
+THA Thl1 Thl31 Thl2
+THA Thl2 Thl1 Thl3188_N
 #maybe some of Thl31 but it's hard to tell
 THA Thl31DMT Thl31_S Thl31/38
 THA Thl34 Thl3/3102 Chch2004
