@@ -38,7 +38,7 @@ CA CZ Eme CA/NV
 CA D WilWes UniSta
 CA E DowSanMon 7thStMetCen
 CA E *OldGoldLn Atl
-CA GreLn SanFeDep Gro
+CA GreLn 12thImpTC Gro
 CA InlEmpLn SanAna SanBerDep
 CA CT Tam SanFraKing
 CA MuniF 4thSto Bea
@@ -81,6 +81,7 @@ CO PlaValTro ConParkREI EmpFieMileHigh
 CO RLn Lin Peo
 CO RoyGorRou CanCity Par
 CO WLn JefCouGovCenGol UniSta
+CO DENTrn JepTer CGat
 
 #CT
 
@@ -97,7 +98,7 @@ DE CR MD/DE DE/PA
 DC AE WasUniSta DC/MD
 DC BluLn VA/DC DC/MD
 DC CamLn WasUniSta DC/MD
-DC CL MD/DC WasUniSta
+DC FL MD/DC WasUniSta
 DC CR VA/DC DC/MD
 DC DCSC UniSta OklAve
 DC FreLn VA/DC WasUniSta
@@ -109,26 +110,28 @@ DC YelLn VA/DC Arc
 
 #FL
 
-FL SS Tam WinPark
+FL FL Tam WinPark
 FL SunRail DeBary SandLakeRd
 FL TECO DowTam CenPark
+FL GateLinkTBW TerB Air3
 
 #GA
 
 GA CR AL/GA GA/SC
 GA RedLn Air ArtsCen
+GA SkyTrn Air RenCarCen
 
 #IL
 
 IL BlueLn Oha Cic
-IL CL UniSta IL/IN
+IL FL UniSta IL/IN
 IL HI UniSta IL/WI
 IL SouShoLn IN/IL MilSta
 IL WV UniSta IL/IN
 
 #IN
 
-IN CL IL/IN IN/OH
+IN FL IL/IN IN/OH
 IN SouShoLn Ham IN/IL
 IN WV IL/IN IN/MI
 
@@ -147,9 +150,9 @@ MD BLRLBWI BWIAir HuntVly
 MD BLRLPen CamYds PennSta
 MD BluLn DC/MD DowLar
 MD CamLn DC/MD BalCam
-MD CL WV/MD MD/DC
-MD CLCum Cum MD/WV
-MD CLPaw WV/MD MD/WV
+MD FL WV/MD MD/DC
+MD FLCum Cum MD/WV
+MD FLPaw WV/MD MD/WV
 MD CR DC/MD MD/DE
 MD OraLn DC/MD NewCar
 MD PennLn DC/MD BWIAir
@@ -227,7 +230,7 @@ NY PortJerLn NJ/NY MidTownWal
 
 #OH
 
-OH CL IN/OH OH/PA
+OH FL IN/OH OH/PA
 
 #OK
 
@@ -260,6 +263,7 @@ PA PaoThoLn Pao Phi30thSt
 PA PATCO 15th16thLoc PA/NJ
 PA RedLn All WasJct
 PA StrRR Str LeaPl
+PA FL OH/PA PitUni
 
 #RI
 
@@ -283,6 +287,7 @@ TX OraLn DFWAir LBJCen
 TX RedLn ParkLn ParRd
 TX TEXRail FortWorTP GraMainSt
 TX TriRaiExp FortWorTP DalUni
+TX Sky A8 A21
 
 #UT
 
@@ -315,8 +320,8 @@ WA EBPor OR/WA Spo
 
 #WV
 
-WV CL MD/WV WV/MD
-WV CLPaw MD/WV WV/MD
+WV FL MD/WV WV/MD
+WV FLPaw MD/WV WV/MD
 
 #WI
 
