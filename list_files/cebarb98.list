@@ -466,7 +466,7 @@ VA US29BusChr US29_S US29_N
 #. US 30
 PA US30 I-70_E PA915_S
 PA US30 I-83 CenRd_B
-NJ US30 US9 VirAve
+NJ US30 GarStaPkwy VirAve
 
 #. US 31
 IN US31 6thSt StaAve
@@ -675,7 +675,7 @@ VA US301 VA207 DE US301 DE1
 #. US 322
 PA US322 PA26 I-81(67)
 PA US322 PA452 I-95(4)
-NJ US322 US40_W AtlAve
+NJ US322 NJ50 AtlAve
 
 #. US 331
 FL US331 I-10 US90_E
@@ -1114,8 +1114,11 @@ MS MS607 US90 I-10
 
 # New Jersey State Routes
 NJ NJ42 AtlCityExpy I-295
+NJ NJ45 NJ49 US40_E
 NJ NJ47 AtlAve GarStaPkwy
 NJ NJ47 US40_W US40_E
+NJ NJ49 I-295 NJ45
+NJ NJ50 US40_W US322
 NJ NJ87 US30 NJ87_U
 NJ NJ109 JacSt US9
 NJ NJ140 US130 CR540
@@ -1127,7 +1130,7 @@ NJ NJ495 I-95 NJ/NY
 # New Jersey Parkways and Turnpikes
 NJ AtlCityExpy BalAve 44
 NJ AtlBriCon AtlCityExpy NJ87
-NJ GarStaPkwy 0 38
+NJ GarStaPkwy 0 41
 NJ PalIntPkwy ToUS9W NJ/NY
 NJ NJTpk I-295(1) 16E
 
@@ -1302,5 +1305,7 @@ OH ORSB US52 OH527_S
 
 #### Changelog ####
 
+# 12/29/2024
+# added routes in NJ
 # 12/28/2024
 # added routes in NJ and MD
