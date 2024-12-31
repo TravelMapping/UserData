@@ -1,5 +1,43 @@
-FIN JoeMoo 21 31
-FIN ImaMoo 65 St160
-FIN KuoMoo 60 77
-FIN MooHelLusi 1 St140
-FIN Vt6 Vt7 Vt5
+#Moottoritiet
+FIN JoeMoo 21 31 #12/2024
+FIN ImaMoo 65 St160 #12/2024
+FIN KuoMoo 60 77 #08/2024
+FIN MooHelLusi 1 St140 #12/2024
+FIN JyvEMoo Vt9_S Vt18/23 #12/2024
+FIN JyvPMoo 53 60 #2000
+FIN LahKeha 12 Vt4 #11/2024
+FIN MooHelTam 9 KuoTie #05/2024
+FIN MooHelVaa Vt4 90 #2018
+FIN MooTurLie VahTie St204 #01/2024
+FIN OulMoo Vt4/8 Yt8460 #10/2024
+FIN PerTie KarTie St922 #2011
+FIN TamKeha Vt12 Kt65 #03/2023
+FIN TuuVay PohKatu Kt45_N #02/2024
+FIN VaajMoo St638 TorTie #12/2024
+#Valtatiet
+FIN Vt3 Vt1 Kt67_E #03/2023 Seinäjoelle asti
+FIN Vt4 Vt1 Kt81 #2000 Rovaniemelle asti
+FIN Vt5 Vt4_S St950 #2013 Kiutakönkäälle asti
+FIN Vt6 Vt7 Vt5 #08/2024
+FIN Vt7 Vt4 FIN/RUS #2018
+FIN Vt8 Vt9/10 4 #07/2021 Turku-Raisio
+FIN Vt9 Vt8/10 Vt23_E
+FIN Vt9 61(Vt5) FIN/RUS
+FIN Vt10 St130 Vt12 #07/2024 Tuulos-Hämeenlinna
+FIN Vt12 Kt65 St367/373 #Kouvola-Tampere 2024
+FIN Vt12 Vt2_E EmaTie #01/2024 Nokia-Huittinen
+FIN Vt13 Vt4_N FIN/RUS #Nuijamaa-Äänekoski 2000
+FIN Vt14 Vt5 Vt6 #2023
+FIN Vt16 Kt66 Vt13
+FIN Vt18 Kt67 Vt4/13
+FIN Vt21 Vt29 PutTie #1999 Tornio-Muonio
+FIN Vt22 LeeMadKatu Vt5 #10/2024
+FIN Vt23 Vt18_W 25 #Joensuu-Petäjävesi 05/2024
+FIN Vt26 Vt7 Vt6 #12/2024
+FIN Vt27 Kt88 Vt5 #10/2024
+FIN Vt29 Vt4 FIN/SWE #2013
+#Kantatiet
+FIN St482 Vt6 Fry
+FIN St482Lip Fry Vt9/23
+#Seututiet
+FIN St950 Vt5 Yt8693 #Oulangan kansallispuistolle 2013
