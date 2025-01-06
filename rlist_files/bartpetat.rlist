@@ -85,11 +85,13 @@ NLD D RotCen Akk
 NLD E DenHaagCen Sli
 
 #Tram
+NLD 2Ams CenSta Mus
 NLD 4Ams CenSta Eur
 NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
+NLD 24Ams Vij VUmcHoo
 NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
