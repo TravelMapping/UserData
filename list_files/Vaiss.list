@@ -37,36 +37,27 @@ FIN Vt23 Vt18_W 25 #Joensuu-Petäjävesi 05/2024
 FIN Vt26 Vt7 Vt6 #12/2024
 FIN Vt27 Kt88 Vt5 #10/2024
 FIN Vt29 Vt4 FIN/SWE #2013
-#Kantatiet
 
-#Seututiet
-FIN St950 Vt5 Yt8693 #Oulangan kansallispuistolle 2013
+#Kantatiet
 FIN St482 Vt6 Fry
 FIN St482Lip Fry Vt9/23
 
+
+
+
+
+
+
+
+#Seututiet
+FIN St950 Vt5 Yt8693 #Oulangan kansallispuistolle 2013
+
 #5.1.
-
 FIN Keha1 Kt51 St170
-
-FIN Vt23 St694 Kt66/68 #Seinäjoki-Hauho Savotta 2022?
-FIN Vt18 Kt67 Vt4/13 #seinäjoki jypin kautta
-FIN Vt19 Vt3 5
-FIN Vt19 Kt67 Vt16
-FIN Vt15 St367 Kt46
-FIN Vt15 Vt13_E Vt5
 
 FIN Kt45 Vt4 Vt3 # Tuusulanväylä. Pohjoispää kun tultiin Polestarilla Seinäjoelta Sarille
 FIN Kt54 Vt3 Vt12 # Kesä 2024 Reissulla Vääksy-HML-Riihimäki-Lahti
 FIN Kt62 Vt13/15 KotTie #Kesä 2024 Mikkeli-Puumala-Sulkava-Savonlinna
-FIN Kt66 Vt9 Vt23_W #Seinäjoki-Hauho Savotta 2022?
-FIN Kt78 Vt22 SilTie #10/2024 pohjoisesta tullessa
-FIN Kt68 Yt6215 Vt18_E #Ähtäri city
-FIN Kt79 Vt4 St956 #Rovaniemi-Levi
-FIN Kt80 Vt21 Kt79_S #Kolari-Ylläs-Levi
-FIN Kt74 Vt6/9 St514/522
-FIN Kt46 Vt15 St365
-FIN Kt76 Vt6 Yt9002 #Vuokatti-Sotkamo
-
 FIN St434 Kt62 St435 #kesä2024 Puumala-Sulkava-Savonlinna
 FIN St435 St434 Vt14 #kesä2024 Puumala-Sulkava-Savonlinna
 FIN St459 Vt5/14 Yt4595 # 90-luvulla Juva-Virtasalmi Juhannusta
@@ -80,12 +71,11 @@ FIN St492 Vt6/9 St494
 FIN St494 St486 Kt74
 FIN St501 MarTie JoeLen
 FIN St502 St573 YlaTie #kaivossekoilu postilla 2019?
-FIN St504 St520 End
 FIN St518 Kt73_S Kt73_N
 FIN St567 St566 St569 #Tahkolle kevät 2024
 FIN St569 St566/573 St577 #Tahkolta kevät 2024
-FIN St566 Vt9 St567#Tahkolle kevät 2024
-FIN St566 St568 St569/573 Tahkolta kevät 2024
+FIN St566 Vt9 St567 #Tahkolle kevät 2024
+FIN St566 St568 St569/573 #Tahkolta kevät 2024
 FIN St568 Vt9 St566 #Tahkolta kevät 2024
 FIN St573 Vt9 St566/569 #Juankoskelle 2009?
 FIN St577 St569 St582 #Juankoskelta Pohjoiseen
@@ -93,22 +83,36 @@ FIN St582 Vt5 St577 #Juankoskelta pohjoiseen
 FIN St562 Vt9 KuoLen #Kuopion lentokenttä 2024
 FIN St534 Vt5 Vt23 #Kuopiosta Joensuuhun Leppävirran kautta kauan sitten
 FIN St474 Kt71 St476 #Savonlinnasta Joensuuhun Savonrannan kautta
-FIN St313 St314 St140/363 “Vierumäki-Vääksyn kanava 07/2024
+FIN St313 St314 St140/363 #Vierumäki-Vääksyn kanava 07/2024
 FIN St317 Vt12 Vt24 #Vierumäki-Vääksy-Lammi-HML 07/2024
 FIN St130 Kt54 Yt2896 #Tervakoski-Riihimäki 07/2024
 FIN St322 Yt3230 Yt3222 #Sappeen reissu 11/2024
 FIN St694 Vt23 Yt7036 #Seinäjoki-Hauho Savotta 2022?
+FIN Vt23 St694 Kt66/68 #Seinäjoki-Hauho Savotta 2022?
+FIN Kt66 Vt9 Vt23_W #Seinäjoki-Hauho Savotta 2022?
+FIN Vt18 Kt67 Vt4/13 #seinäjoki jypin kautta
+FIN Kt68 Yt6215 Vt18_E #Ähtäri city
+FIN Vt19 Vt3 5
+FIN Vt19 Kt67 Vt16
 FIN St924 Vt4 Kar #Simon mökki
+FIN Kt79 Vt4 St956 #Rovaniemi-Levi
+FIN Kt80 Vt21 Kt79_S #Kolari-Ylläs-Levi
 FIN St940 Vt21 SuoTie #Kolari-Äkäslompolo
+FIN Kt74 Vt6/9 St514/522
 FIN St522 Kt74 MekTie
 FIN St373 Vt12 Vt6
 FIN St365 Vt6/12 Kt46
+FIN Vt15 St367 Kt46
+FIN Vt15 Vt13_E Vt5
+FIN Kt46 Vt15 St365
 FIN St140 St313/363 Kt46 #Vierumäki-Heinola 07/2024
 FIN St363 St140/313 Yt4142 #Vierumäki-Heinola 07/2024
 FIN St920 EteTie OljTie
 FIN St926 KarVay Yt9262
 FIN St899 Vt6 Vt5
+FIN Kt78 Vt22 SilTie #10/2024 pohjoisesta tullessa
 FIN St822 Kt88 Vt4 #Häät Kestilässä 2008
+FIN Kt76 Vt6 Yt9002 #Vuokatti-Sotkamo
 FIN St542 Vt23 HonTie #Varistaipaleen kanava 2021?
 FIN St160 Vt6(66) Vt6_E #Vuoksenniska
 FIN St397 Vt6 Kt62 #Imatraa
@@ -118,6 +122,25 @@ FIN St371 St374_E St170 #Hamina
 FIN St170Ham St374 Yt3513 #Hamina
 FIN St170 Kt45 St101 #keskusta-Itäkeskus
 
+#7.1.
+FIN St504 Vt9 St573
+FIN St504 St502 End
+FIN Kt73 Vt6 Kt75
+FIN Kt75 Vt6 Kt73 #Nurmes 10/2024
+FIN Kt77 Vt13 Vt5 #Siilinjärvi-Seinäjoki
+FIN Vt13 Vt16 Kt77 #Siilinjärvi-Seinäjoki
+FIN Kt71 Vt14 Vt6 #Puhos-Savonlinna
+FIN Kt67 SuuTie Vt19 #Seinäjokea
+
+
+
 #3222 tie sappeeelle Laht-Sappee
 #3400 Hauholle Seinäjoelta Virtojen kautta
 #9401 Äkäslompolo-Ylläsjärvi
+
+
+
+#Savonranta Punkalta kotiin
+
+#Paltamo korjaus
+#vt77
