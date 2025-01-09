@@ -1,7 +1,8 @@
 #Interstates
 CA I-5 144 142
 CA I-5 107A 48
-OR I-5 299B WA I-5 1A
+OR I-5 286 WA I-5 1A
+WA I-5 156 163A
 CA I-8 172 AZ I-8 178
 CA I-10 77 LA I-10 159
 LA I-10 267 FL I-10 I-95
@@ -219,6 +220,9 @@ NV NV592 ParRd NV582
 NV NV610 NV604 I-15
 NV NV613 US95 CR215
 
+#Oregon State Routes
+OR OR10 LomAVe WesAve
+
 #Utah State Routes
 UT UT9 UT17 US89
 UT UT16 WY/UT UT30
@@ -253,6 +257,9 @@ WY NorCanRd GraLoopRd_W GraLoopRd_E
 WY OldGarRd NEntRd MT OldGarRd NEntRd
 WY RocMemPkwy GraTetNP YelNP
 WY SEntRd US89/191 GraLoopRd
+
+#Canada Routes
+BC BC99 GeoSt_E MarDr_E
 
 #China & Hong Kong Routes
 CHN-GD G45 G15/G1501 3432
