@@ -3,18 +3,27 @@ AZ SunLink Sto HelWar
 AZ TSCDorDor MarHeiRioSalPkwy DorApaBlvd
 AZ TSCMarMar DorApaBlvd MarHeiRioSalPkwy
 AZ VMR 19thAveDun GilRdMainSt
-OR BlueLn WasPark PioSq
+OR AC PorUniSta BC AC VanPacCen
+OR BlueLn BeaTraCen PioSq
 OR GreLn OakSt MainSt
-OR OraLn UniStaGliSt OakSt
-OR RedLn ProPark PorIntAir
-OR YelLn PineSt ExpoCen
+OR NSLn MooGib 5thMon
+OR OraLn UniStaGliSt PSUUrbCenMillSt
+OR RedLn WasPark PorIntAir
+OR WesExpSer BeaTraCen Wil
+OR YelLn PioCou ExpoCen
 UT BlueLn Cou SaltLakeCen
 UT FroRun MurCen SLCen
 UT GreLn Bal Air
 UT RedLn MurCen Lib
 UT SLn CenPoi Fai
+WA 1 Wes TukIntBlvd
+WA SeaCenMon SeaCen WesCen
+WA SouLakeUniLn Mer Wes9thDen
 
 #Canada
+BC CanLnRic Wat RicBri
+BC ExpoLnPro Wat ProWayUni
+BC MilLn VCCCla LafLakeDou
 ON 1 Spa BloYon
 ON 2 DunW BloYon
 ON 501 SpaAve JohnSt
