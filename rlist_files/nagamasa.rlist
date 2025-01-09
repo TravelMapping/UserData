@@ -211,9 +211,8 @@ JPN ChitoseAirLn H14 AP15
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY25_A JY25_B
-JPN SaikyoLn JA08 JA15
-JPN SaikyoLn JA21 JA26
-JPN MusashinoLn JM26 JM13
+JPN SaikyoLn JA08 JA26
+JPN MusashinoLn JM28 JM13
 JPN YokosukaLn JO08 JO07
 JPN ChuoRapidLn JC01 JC11
 JPN TohokuLn JU01 JU07
@@ -324,7 +323,7 @@ JPN ChiyodaLn C01 C18
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z02 Z14
 JPN TokNambokuLn N01 N08
-JPN FukutoshinLn F09 F16
+JPN FukutoshinLn F01 F16
 
 ## TOEI
 JPN AsakusaLn A08 A20
