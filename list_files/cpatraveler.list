@@ -1965,8 +1965,10 @@ CO CO67Sed RamRanRd US85
 CO US85 CO470 I-25(207B)
 CO CO172 US160 NM/CO #12032024 Jemez Inventory
 CO US36 US385_S CO63 #01082025 YW Inventory 
+CO US40 CR32 CO94 #01092025 Sangre de Cristo Inventory  
 CO CO52 CO79 CO39 #01072025 Morgan Inventory 
-CO CO79 CO36_E CO52 #01072025 Morgan Inventory 
+CO CO79 CO36_E CO52 #01072025 Morgan Inventory
+CO CO92 US50_E US50_W #01102025 Grand Valley Inventory 
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
 CT US6 CT/RI I-395 #Trip with GJ Telergee
