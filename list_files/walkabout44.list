@@ -1,4 +1,4 @@
-# 01/11/2025
+# 01/12/2025
 # v59
 # Complete NY I-295
 # Update status for new version of Table 3 (dated 12/22)
@@ -370,9 +370,9 @@ OK I-40 TX/OK OK/AR            #335 vs 330 overlap I-35
 OK I-44 TX/OK OK/MO            #335 vs 324 overlap I-35
 OK I-235 1A 4B                 #  5
 OK I-240 1A I-40               # 17 vs 16
-OK I-244 1A I-44               # 16           
-#OK I-335 130 149              # 19 not on OK City E added 2024
-#OK I-344 OK152 I-40           #  6 not on OK City SW added 2024
+OK I-244 1A I-44               # 16
+#OK I-335 130 149               # 19  OK City E MISSING
+#OK I-344 OK152 I-40            #  6  OK City SW MISSING
 OK I-344 I-40 I-35/44          # 25
 OK I-444 I-244_W I-244_E       #  2 vs 3
 
@@ -507,14 +507,9 @@ IL I-474 0 15                  # 14 vs 15
 # 1313 miles (Table 3 1307) diff 6, I-164 -21, I-69 27
 IN I-64 IL/IN IN/KY            #123
 IN I-65 KY/IN US12/20          #261
-IN I-69 KenAve 153
-#IN I-69 153 163               # 10 mi not on
+IN I-69 KenAve 153             #
+#IN I-69 153 163                # 10 mi S of Indianapolis MISSING
 IN I-69 163 IN/MI              #321 Table 3 294
-
-
-
-IN I-69 163 IN/MI              #159+    vs 160+    
-IN I-69Whe KenAve 153          #153=312 vs 154=314 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
@@ -794,10 +789,12 @@ TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
 TN I-840 1 76                  # 78 vs 77
 
 # North Carolina
-# 1410 miles (Table 3 1365) diff 45: I-74 10, I-140 14, I-295 9, I-587 -4, I-840 8, I-885 8
+# 1431 miles (Table 3 1365) diff 73: I-42 28, I-74 10, I-140 14, I-295 9, I-587 -4, I-840 8, I-885 8
 NC I-26 4A(240) NC/SC          # 44+
 NC I-26Fau TN/NC 13            #  9 =53
 NC I-40 TN/NC US117_S          #420
+#NC I-42 1 8                    #  8  Start to US 70 MISSING
+#NC I-42Gol 34 53               # 20  Goldsboro bypass MISSING
 NC I-73 22 123                 # 99
 NC I-74 VA/NC 17               # 16+
 NC I-74Hig 55 22(73)           # 31+ 
@@ -890,8 +887,12 @@ FL I-595 I-75 12               # 14 vs 13
 #PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
 
 # Interstates Not on
-#0 mile extensions
-#0-1 NY I-295 NY25 1                #   .17 South end past I-495
+#NC I-42 1 8                    #  8  Start to US 70 MISSING
+#NC I-42Gol 34 53               # 19  Goldsboro bypass MISSING
+#IN I-69 153 163                # 10  S of Indianapolis MISSING
+#OK I-335 130 149               # 19  OK City E MISSING
+#OK I-344 OK152 I-40            #  6  OK City SW MISSING
+
 # Alaska & Puerto Rico Not on
 #AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
 #AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
