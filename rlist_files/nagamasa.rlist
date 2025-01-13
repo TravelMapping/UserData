@@ -169,7 +169,7 @@ HKG PT Peak CenTer
 HKG OPOE Wat Sum
 
 ### ITA
-ITA-TOS FunCer
+ITA-TOS FunCer Bas Alt
 
 ## TRENITALIA
 ITA-LIG FbRomGen +SKIP_Montro ITA-LAZ FbRomGen RomaTer
@@ -328,7 +328,7 @@ JPN FukutoshinLn F09 F16
 
 ## TOEI
 JPN AsakusaLn A08 A20
-JPN MitaLn I01 I09
+JPN MitaLn I01 I17
 JPN ShinjukuLn S02 S14
 JPN OedoLn E28_A E09
 JPN OedoLn E17 E20
@@ -348,7 +348,7 @@ JPN KyoTozaiLn T12 T17
 
 ## OSAKA SUBWAY
 JPN KitakyuNambokuLn M06 M11
-JPN MidosujiLn M11 M23
+JPN MidosujiLn M11 M26
 JPN TanimachiLn T20 T27
 JPN YotsubashiLn Y11 Y21
 JPN OskChuoLn C11 C19
@@ -397,7 +397,7 @@ KOR 3 329 328
 LUX T1 LuxExpo Ham
 
 #### MAC
-MAC Taipa Aer Lot
+MAC TaipaLn TerMar PaiKok
 
 #### NLD
 NLD IC35 AmsCen SchAir

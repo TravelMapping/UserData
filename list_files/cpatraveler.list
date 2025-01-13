@@ -1843,6 +1843,7 @@ AL AL279 AL79 US72_S #Sand Mountain Electric
 AL AL279 AL35_N US72/35 #Sand Mountain Electric 
 AL AL281 US78 AdaGapRd #Mt Cheaha Camping
 AL AL287 AL59 I-65 #Gulf Shore Trips
+AL AL287 AL59 US31 #12132024 Trip to Hattiesburg
 AL AL302 AL122 US84 #08252024 Travel Home to Bea's
 AL AL382 US82 AL219 #Tuscaloosa Trips 
 AZ I-8 178 115A 
@@ -1962,7 +1963,16 @@ CO CO8 CO470 US285
 CO CO105Sed WolRd CO67 #052424 San Isabel Bd Meeting to DEN
 CO CO67Sed RamRanRd US85
 CO US85 CO470 I-25(207B)
-CO CO172 US160 NM/CO #12032024 Jemez Inventory 
+CO CO172 US160 NM/CO #12032024 Jemez Inventory
+CO US36 US385_S CO63 #01082025 YW Inventory 
+CO US40 CR32 CO94 #01092025 Sangre de Cristo Inventory
+CO US40 CO64 CO13_S #01112025 GV Inv Off Day
+CO DinParkRd US40 DeePark #01112025 GV Inv Off Day     
+CO CO52 CO79 CO39 #01072025 Morgan Inventory
+CO CO64 CO13 DriRockRd #01112025 GV Inv Off Day   
+CO CO79 CO36_E CO52 #01072025 Morgan Inventory
+CO CO92 US50_E US50_W #01102025 Grand Valley Inventory
+CO CO139 US6/50 CO64 #01112025 GV Inv Off Day 
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
 CT US6 CT/RI I-395 #Trip with GJ Telergee
@@ -2136,7 +2146,8 @@ GA GA1LpRoW GA1 GA20 #12182017 Callaway and Maggie Pick Up
 GA GA9 GA53_E GA136 #09232019 Randolph Telephone Trip
 GA GA17 GA115_W I-85 #09232019 Randolph Telephone Trip
 GA GA20 US27_N AL/GA #12182017 Callaway and Maggie Pick Up
-GA GA20 I-575(19) US19/400 #05182018 Atlanta to Lexington    
+GA GA20 I-575(19) US19/400 #05182018 Atlanta to Lexington
+GA GA20 I-575(16) ButRd #12212024 Travel to Bea - Bread Becker     
 GA GA21 GA204 I-516(8) #03142017 NTCA Meeting Trip
 GA GA24SprMad US129/441 US278 #03092022 Return from SCTC
 GA GA25 GA/SC I-516(7A) #03142017 NTCA Meeting Trip  
@@ -2161,13 +2172,16 @@ GA GA136 US27_N I-59 #01142018 Atl Airport to Montgomery Mtg
 GA GA136 GA9 GA60 #09232019 Randolph Telephone Trip
 GA GA138 I-85 GA279 #01142018 Atl Airport to Montgomery Mtg  
 GA GA109 AL/GA US27/29 #12182017 Callaway and Maggie Pick Up
+GA GA141ConAtl GA141 GA237 #NECA Trips 
 GA GA153 GA26 GA41 #03092022 Return from SCTC 
 GA GA190 US27 US27Alt #12182017 Callaway and Maggie Pick Up
+GA GA237 US19 GA13 #NECA Trips 
 GA GA254 US129 GA115 #09232019 Randolph Telephone Trip 
 GA GA279 GA138 GA314 #01142018 Atl Airport to Montgomery Mtg
 GA GA283 GA60 US129 #09232019 Randolph Telephone Trip
 GA GA314 GA279 GA85 #01142018 Atl Airport to Montgomery Mtg 
-GA GA354 GA190 GA18 #12182017 Callaway and Maggie Pick Up       
+GA GA354 GA190 GA18 #12182017 Callaway and Maggie Pick Up
+GA GA400 1A 4 #NECA Trips       
 IA I-29 MO/IA 75 #06232020
 IA I-29 75 IA/SD #07102024 Badland Trip
 IA I-74 IA/IL I-80 #04252019
@@ -2270,9 +2284,28 @@ MN US10 I-35(107A) MN/WI #07222019 NTCA Regional Meeting
 MN US75 MN23/30 CR22_Pip #07222019 NTCA Regional Meeting
 MN US212 MN23_E I-494 #07222019 NTCA Regional Meeting
 MN MN23 US75_N US212_E #07222019 NTCA Regional Meeting  
-MN MN30 SD/MN US75/23 #07222019 NTCA Regional Meeting 
+MN MN30 SD/MN US75/23 #07222019 NTCA Regional Meeting
+MO I-29 53 MO/IA #06222020 Trip to MACC
+MO I-44 1 46 #02032020 Ozark Audit
+MO I-44 82 I-70 #04072022 Region 8 Mtg to MJM 
+MO I-49 157 AR/MO #11172019 Cookson Hills Audit
+MO I-55 207B 196 #04102017 Visit StLouis NTCA Meeting
+MO I-229 1A 14 #01072025 United Inventory
+MO I-270 26A 20A #Travel thru StL various trips
+MO I-29BLStJ US169_S US169_N #
+MO I-44BLMou I-44_W I-44_E #02032020 Ozark Audit  
+MO US50 MO185 I-470(7) #07182020 Trip Home from Bea     
 MO US61 MO/IA I-70 #08122021
-MO MO27 MO/IA US61 #08122021 
+MO US400 I-44 KS/MO #02032020 Ozark Audit
+MO MO8 MO185 MO21 #07182020 Trip Home from Bea
+MO MO21 MO8 MO72_E #07182020 Trip Home from Bea 
+MO MO27 MO/IA US61 #08122021
+MO MO34 US61/25 MO/IL #07182020 Trip Home from Bea
+MO MO39 I-44BL_W MO174/39Bus #02032020 Ozark Audit
+MO MO39BusMou MO39_S MO39_N #02032020 Ozark Audit
+MO MO72 MO21_N I-55BL/61 #07182020 Trip Home from Bea
+MO MO174 MO39 MO39Bus #02032020 Ozark Audit
+MO MO185 US50 MO8 #07182020 Trip Home from Bea 
 MS US11 MS/AL I-59(169)
 MS US11 I-59(60) MainStHat #12132024 Trip to Hattiesburg
 MS US98 MS/AL OldHwy63 #12132024 Trip to Hattiesburg
@@ -2466,6 +2499,7 @@ NV NV158 NV157 NV156 #06072024
 NV NV159 CR215 NV160 #04162014
 NV NV159Sun NV612 NV582 #06072024
 NV NV160 I-15 NV372 #11162018
+NV NV161 LasVegBlvd EsmSt #12192024 Mohave Bd Meeting 
 NV NV164 US95 CA/NV #11122016
 NV NV266 CA/NV US95 #2001
 NV NV372 NV160 CA/NV #11162018
@@ -2594,6 +2628,7 @@ TN US41 I-24(174) US11_S #04062024 Jackson to Scott Co Trip
 TN US41 US11/64 US11/64_E #04062024 Jackson to Scott Co Trip
 TN US41 US31W_N LigChaRd #Gun Range
 TN US41 TN53 JoeJacPkwy #08152024 Travel from SCTC to Bea's House
+TN US41 I-24(174) TN28_S #12212024 Bea House and Bread Becker 
 TN US41AltNas US64Bus_W TN55_E #08292017 Sir Fabric F'ville Trip
 TN US41AltNas US41_S TN56 #Travel to Alabama visit Suwanee
 TN US41AltNas TN64 TN55_E #08262024 Trip from Bea to Clanton
@@ -2673,6 +2708,8 @@ TN TN17 US41/76 TN153 #04062024 Jackson to Scott Co Trip
 TN TN19 US51_S US70_E #09042017 GibsonEMC Visit
 TN TN22 MS/TN US64_E #05082018 Loretto Trip 
 TN TN25 TN10 TN141_S #07252017 Return from Scott County
+TN TN27 US41/64 I-24 #12212024 Bea House Bread Becker
+TN TN28 I-24 US127 #Bledsoe Audits 
 TN TN29 US70 US27 #08152024 Travel from SCTC to Bea's House   
 TN TN30 TN111 US27 #05232017 Bledsoe BdMtg
 TN TN31 TN33 TN131 #08152024 Travel from SCTC to Bea's House 
@@ -2730,10 +2767,12 @@ TN TN110 US231/431 AL/TN #10042024 Travel to visit Bea
 TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg
 TN TN111 TN52 I-40 #11032017 Visit to Clinton   
 TN TN120 TN/KY US79 #03102017 Return from Wabash BdMtg
+TN TN129 US31 US31Alt_N #01012025 Return from Bea House 
 TN TN130 US41Alt/55 US64Bus #08262024 Trip from Bea to Clanton      
 TN TN131 US11/70 TN162 #01012017 Visit Manhatten Project VC
 TN TN131 TN31 US441 #08152024 Travel from SCTC to Bea's House
-TN TN133 TN/VA US421 #05152018 Scott County - Skyline 
+TN TN133 TN/VA US421 #05152018 Scott County - Skyline
+TN TN134 US41/64 TN156_W #Bledsoe Audit
 TN TN135 TN290 I-40 #10302017 Trip to Cookeville - Twin Lakes
 TN TN136 TN111_N 12thSt #10302017 Trip to Cookeville - Twin Lakes
 TN TN141 TN25_E US70_E #07252017 Return from Scott County
@@ -2744,7 +2783,8 @@ TN TN146 TN281 US70S #08152024 Travel from SCTC to Bea's House
 TN TN152 US412_E I-40 #Bea to Scott County
 TN TN153 US27 I-75 #07142023 SCTC Back Home via GA - Also PYs Bledsoe Audits
 TN TN154 TN/KY TN52 #11032017 Visit to Clinton
-TN TN155 16A 3 #Working in Nashville   
+TN TN155 16A 3 #Working in Nashville
+TN TN156 US72 TN134 #Bledsoe Audit    
 TN TN162 I-40/140 TN62 #01012017 Visit Manhatten Project VC
 TN TN166 AL/TN US64_E #08252024 Travel Home to Bea's 
 TN TN166 US64_W TN245 #08252024 Travel Home to Bea's
@@ -2873,20 +2913,40 @@ VA I-464 1 6B #Visit Mom
 VA I-495 170(95) MD/VA #Visit DC
 VA US1 VA/DC I-95(161) #Visit DC
 VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
-VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom 
+VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom
+VA US17BusGlo US17_S US17_N #12282024 Trip to Comfort Pt  
+VA US58 US60 US13 #12272024 Trip to VA Beach
+VA US58BusVir US58 AtlAve #Visit Mom   
 VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace  
 VA GWMemPkwy I-495 DC/VA #Visit DC
 VA GWMemPkwyCry VA/DC 1stSt #Visit DC
 VA GWMemPkwyMtV VA400 VA235 #Visit DC
 VA VA3 US360 I-95 #Visit Mom Washington Birthplace
+VA VA3 VA198_W VA14_E #12282024 Trip to Comfort Pt 
 VA VA3BusWar VA3_E VA3_W #01142017 Visit Mom Washington Birthplace
+VA VA14 US17Bus_S BayLan #12282024 Trip to Comfort Pt 
 VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
+VA VA31Jam VA5/199 JamFry #Visit Mom
 VA VA33 US17_S VA30/249 #01142017 Visit Mom Washington Birthplace        
 VA VA70 US58 TN/VA #08152024 Travel from SCTC to Bea's House
 VA VA110 I-395 I-66 #Visit DC
-VA VA134 US258_N US60 #Visit Mom  
-VA VA235 MouVer US1_S #Visit DC 
-VA VA400 1stSt GeoWasPkwy #Visit DC   
+VA VA134 US258_N US60 #Visit Mom
+VA VA143TrkHam US258_S VA143_W #Visit Mom
+VA VA149 VA165 PriAnneRd #12272024 Trip to VA Beach 
+VA VA152 US258 LakDr #Visit Mom
+VA VA165 US17Bus VA149 #12272024 Trip to Virginia Beach
+VA VA165 US460 VA337 #12292024 Trip to Airport
+VA VA198 SR653 VA3_W #12282024 Trip to Comfort Pt
+VA VA216 US17 SR649 #12282024 Trip to Comfort Pt
+VA VA223 VA198 SR633 #12282024 Trip to Comfort Pt 
+VA VA225 I-264 US60 #12272024 Trip to VA Beach      
+VA VA235 MouVer US1_S #Visit DC
+VA VA247 VA337 I-64 #Trip to Airport 
+VA VA278 US258 LanAFB #Visit Mom
+VA VA351 US258 VA415 #Visit Mom
+VA VA359 VA31 ColPkwy #Visit Mom  
+VA VA400 1stSt GeoWasPkwy #Visit DC
+VA VA415 US258 VA351 #Visit Mom    
 VT I-89 13 8 #Trip with GJ Telergee 
 VT I-189 US7 I-89 #Trip with GJ Telergee
 VT US2 MemDr VT/NH #Trip with GJ Telergee  
