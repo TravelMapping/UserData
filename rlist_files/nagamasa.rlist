@@ -213,14 +213,14 @@ JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY25_A JY25_B
 JPN SaikyoLn JA08 JA26
 JPN MusashinoLn JM28 JM13
-JPN YokosukaLn JO08 JO07
+JPN YokosukaLn JO19 JO07
 JPN ChuoRapidLn JC01 JC11
 JPN TohokuLn JU01 JU07
 JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
 JPN SenzanLn Sendai Yamagata
-JPN ShonanShinjukuLn JS24 JS17
+JPN ShonanShinjukuLn JS21 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAptLn JO35 JO37
 JPN NaritaAbikoLn Abiko Narita
@@ -378,6 +378,7 @@ JPN TokMon MO01 MO11
 JPN RinkaiLn R03 R08
 JPN YurikamomeLn U01 U16
 JPN MinatoMiraiLn MM01 MM06
+JPN ShoMon SMR1 SMR8
 JPN EnodenLn EN01 EN15
 JPN AichiLoopLn 10 12
 JPN ArashiyamaTm A5 A13
