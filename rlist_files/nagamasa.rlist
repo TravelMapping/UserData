@@ -225,7 +225,8 @@ JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAptLn JO35 JO37
 JPN NaritaAbikoLn Abiko Narita
 JPN SobuLn JO19 JO21
-JPN ChuoSobuLn JB34 JB30
+JPN ChuoSobuLn JB34 JB28
+JPN ChuoSobuLn JB19 JB07
 JPN KeiyoLn JE01 JE14
 
 ## JR CENTRAL
@@ -329,7 +330,7 @@ JPN FukutoshinLn F01 F16
 ## TOEI
 JPN AsakusaLn A08 A20
 JPN MitaLn I01 I17
-JPN ShinjukuLn S02 S14
+JPN ShinjukuLn S01 S21
 JPN OedoLn E28_A E09
 JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
