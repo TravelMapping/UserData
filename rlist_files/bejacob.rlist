@@ -10,6 +10,12 @@ AK GlaDis Anc Por_N
 AK GlaDis Whi +DIV_Por_B
 AK GlaDis Por_S +DIV_Por_C
 
+#CA LA Metro
+CA A 7thStMetCen UniSta
+CA B NHol UniSta
+CA D WilWes UniSta
+CA E 7thStMetCen Atl
+
 #CA BART
 CA BARTBlue DalyCity DubPle
 CA BARTGre DalyCity Ber
@@ -35,10 +41,15 @@ CA BlueLn SanYsiTC +DIV_Gre_N
 CA GreLn 12thImpTC Gro
 CA OraLn Cou Gro
 
+AZ VMR 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA UPTRiv UPT FreMar
+LA StCha CanCar How
 MO MLRedLn LamAirTer1 LacLan
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
@@ -85,22 +96,42 @@ TX RedLnHou EnsHCC CenSta
 WA SeaCenMon SeaCen WesCen
 WA N Eve Sea
 WA S Sea TacDome
-WA 1 Wes AngLake
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
 WA T TacDome 4thSt
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
 
-#US Airports
-AZ PHX RenCarCen T4
+#US Airpoirts Airside
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV BlueLn Ter1 DGat
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+WA GreLn DGat_Sta DGat_Fin
+WA BlueLn AGat_Sta AGat_Fin
+WA YelLn AGat DGat
+
+#US Airports Landside
+AZ PHX RenCarCen 44thSt
 CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
 FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
+IL AirTraSys Ter1 MulModFac
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
-TX IAHSub TerA TerC
+TX IAHSub TerA TerD/E
 
 #Washington Metro
 DC BluLn VA/DC FedCenSW
@@ -113,6 +144,8 @@ MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
 
+PR TrenUrb SagCor Bay
+
 BC ExpoLn Wat MainStSciWor
 
 AUS-NSW CCN Cen Gos
@@ -121,14 +154,13 @@ AUS-NSW MelXPT Cen NSW/VIC
 AUS-NSW T1 Ber Hor
 AUS-NSW T1 Cha Str
 AUS-NSW T2 Mus Str
-AUS-NSW T3 Mus Syd
+AUS-NSW T3 Mus Red
 AUS-NSW T4 BonJct Cro
 AUS-NSW T4Wat BonJct Lof
 AUS-NSW T8 TownHall Cen
 AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
 AUS-VIC MelXPT NSW/VIC SouCro
-
 
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5

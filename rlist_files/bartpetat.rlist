@@ -1,6 +1,6 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
-NLD IC35 AmsCen NLD/BEL
+NLD IC35 RotCen NLD/BEL
 
 NLD RE1 Lee Gro
 NLD RS1 Lee Gro
@@ -85,11 +85,13 @@ NLD D RotCen Akk
 NLD E DenHaagCen Sli
 
 #Tram
+NLD 2Ams CenSta Mus
 NLD 4Ams CenSta Eur
 NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
+NLD 24Ams Vij VUmcHoo
 NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
@@ -97,12 +99,15 @@ NLD 1Haa ZwaPad StaDel
 NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
 NLD 9Haa ZwaPad KalSta
+NLD 34Haa SavLoh LanZoe
 
-NLD 4Rot Koo +DIV_78
+NLD 4Rot Koo +DIV_8S
+NLD 4Rot +DIV_25 RotCen
 NLD 7Rot Zaa RotCen
 NLD 8Rot +DIV_47 Beu
 NLD 24Rot Oos Beu
-NLD 25Rot RotCen Tel_2
+NLD 25Rot Beu +DIV_47
+NLD 25Rot RotCen LOOP
 
 
 # BELGIUM
@@ -164,6 +169,8 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 
 ##  HB - Bremen
+DEU-HB 3Bre UseAks DomsHei
+DEU-HB 10Bre MoorStr Hbf
 
 
 ##  HH - Hamburg
@@ -200,7 +207,7 @@ DEU-NW S41Lie BEL/DEU AacHbf
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
-DEU-NW U71 UhLandStr SchBen
+DEU-NW U71 UhLandStr HeiHeiAll
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 

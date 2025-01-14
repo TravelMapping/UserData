@@ -23,6 +23,7 @@ CA MuniM BalPark Emb
 CA MuniN VanNess 4thKing
 CA MuniT King ChiRosePark
 CA PowHyde PowJacWas Bea
+CA SMART Lar RohPark
 
 CT NewHavLn Sta WestHav
 
@@ -117,6 +118,7 @@ NY SIR StGeo Tot
 
 OH RedLn W65thLor Sup
 
+ON LW Uni Bur
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
@@ -124,6 +126,8 @@ ON 501 SpaAve NevPkBlvd
 ON 503 ChuSt_1 KinRd
 ON 505 DunW YonSt
 ON 509 ExhLp UniSta
+ON 511 BatSta ExhLp
+ON 512 GunLp StClaSta
 
 PA AE DE/PA PA/NJ
 PA StrRR Str LeaPl
@@ -133,7 +137,9 @@ QC GreLn Ang HonBea
 QC OraLn CoteVer Mon
 QC YelLn BerUQAM LonUniDeShe
 
-UT GreLn DecLake CityCen
+UT BlueLn DraTownCen Are
+UT GreLn WestValCen Air
+UT RedLn 4800WOldBinHwy UniMedCen
 
 VA BluLn FraSpr VA/DC
 VA OraLn VieFaiGMU VA/DC
