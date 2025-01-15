@@ -12,10 +12,16 @@ DC SilLn VA/DC CapSou
 
 CHE S24Wei ZurFlu ZurHau
 
+CZE 12Pra ChoSady And 
+
+ENG BakLn PicCir Wat
 ENG GatEx Bri LonVic
-ENG CirLn Wes Pad_1
+ENG CoaELn Bri Fal
+ENG DisLn EarCou Wes
 ENG JubLn StJohWood LonBri
+ENG PicLnHT4 GrePark PicCir
 ENG EliLnShe Pad HeaTer5
+ENG VicLn GrePark Vic
 
 FRA-IDF M6 BirHak PlaIta
 FRA-IDF M7 PontNeuf PlaIta
@@ -33,6 +39,8 @@ IL EBPor WI/IL UniSta
 IL LI UniSta BloNor
 IL SK UniSta ChaUrb
 IL SW UniSta IA/IL
+
+ITA-LIG +SKIP_Montro LaSpeCen
 
 KS SW CO/KS KS/MO
 
@@ -56,6 +64,11 @@ PA BroStLn NRG CityHall
 PA ManNorLn Phi30thSt Man
 PA PATCO 15th16thLoc PA/NJ
 
+POL 5Kra DwoGloTun Bia
+POL 14Kra TeaSlo Dab
+POL S1Kra KraLot WieRynKop
+POL S3Kra Osw KraGlo
+
 VA BluLn Ros ArlCem
 VA SilLn Ros VA/DC
 
@@ -64,5 +77,3 @@ WA 1 UniWas SeaTacAir
 WA 1stHillLn OccMall 7thJac
 
 WI EBPor MN/WI WI/IL
-
-POL 5Kra DworzecGlownyTunel Bialucha 

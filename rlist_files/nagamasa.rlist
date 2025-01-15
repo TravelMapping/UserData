@@ -211,21 +211,22 @@ JPN ChitoseAirLn H14 AP15
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY25_A JY25_B
-JPN SaikyoLn JA08 JA15
-JPN SaikyoLn JA21 JA26
-JPN MusashinoLn JM26 JM13
-JPN YokosukaLn JO08 JO07
+JPN SaikyoLn JA08 JA26
+JPN MusashinoLn JM28 JM13
+JPN YokosukaLn JO19 JO07
 JPN ChuoRapidLn JC01 JC11
 JPN TohokuLn JU01 JU07
 JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
 JPN SenzanLn Sendai Yamagata
+JPN ShonanShinjukuLn JS21 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAptLn JO35 JO37
 JPN NaritaAbikoLn Abiko Narita
 JPN SobuLn JO19 JO21
-JPN ChuoSobuLn JB34 JB30
+JPN ChuoSobuLn JB34 JB28
+JPN ChuoSobuLn JB19 JB07
 JPN KeiyoLn JE01 JE14
 
 ## JR CENTRAL
@@ -324,12 +325,12 @@ JPN ChiyodaLn C01 C18
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z02 Z14
 JPN TokNambokuLn N01 N08
-JPN FukutoshinLn F09 F16
+JPN FukutoshinLn F01 F16
 
 ## TOEI
 JPN AsakusaLn A08 A20
 JPN MitaLn I01 I17
-JPN ShinjukuLn S02 S14
+JPN ShinjukuLn S01 S21
 JPN OedoLn E28_A E09
 JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
@@ -375,9 +376,10 @@ JPN InaLn NS01 NS02
 JPN TsukubaExpress TX01 TX10
 JPN AccExpHaneda KK17 KS42
 JPN TokMon MO01 MO11
-JPN RinkaiLn R04 R08
+JPN RinkaiLn R03 R08
 JPN YurikamomeLn U01 U16
 JPN MinatoMiraiLn MM01 MM06
+JPN ShoMon SMR1 SMR8
 JPN EnodenLn EN01 EN15
 JPN AichiLoopLn 10 12
 JPN ArashiyamaTm A5 A13
