@@ -1458,3 +1458,10 @@ DE I-295 US13/40 DE/NJ
 NJ I-295 DE/NJ 1
 NJ NJTpk I-295(1) 8
 NJ NJ33 *I-95 PerRd #to Dugans Grove Road
+
+#annual Boy Scout trips as a kid
+NJ I-287 10 22
+NJ US206 I-287(22) CloRd
+NJ NJ23 CloRd NJ/NY
+NY US6 NY42/97 I-84(1)
+NY NY42 US6/209 CarRd
