@@ -1,20 +1,6 @@
-# 01/12/2025
-# v59
-# Complete NY I-295
-# Update status for new version of Table 3 (dated 12/22)
-# Add new roads added to Travel Mapping:
-# Complete PA I-86SWa
-# Add NY I-86
-# Add OK I-335 (not on)
-# Add OK I-344 (25 on, 6 not on)
-# Add KY I-169
-# Add 21 miles to KY I-69
-# Delete KY I-69Fut
-# Delete IN I-69FutInd
-# Delete PA I-86FutSWa
-# Change AZ AZ89ASed to AZ AZ89A
-# Change AZ AZ180ACon to AZ AZ180A
-# Change IN I-69Whe to IN I-69
+# 01/15/2025
+# v60
+# Complete AZ AZ386 to Kitt Peak
 
 
 # Arizona Interstate Highways
@@ -136,6 +122,7 @@ AZ AZ347 AZ84 I-10
 AZ AZ366 End US191
 AZ AZ373 AZ260 End
 AZ AZ377 AZ277 AZ77
+AZ AZ386 AZ86 KittPeakObs
 AZ AZ387 AZ84 AZ87
 AZ AZ389 UT/AZ US89Alt
 AZ AZ473 AZ260 HawLake
