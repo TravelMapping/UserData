@@ -222,11 +222,12 @@ JPN SensekiLn Aobadori MatsuKai
 JPN SenzanLn Sendai Yamagata
 JPN ShonanShinjukuLn JS21 JS07
 JPN JobanLn JJ02 Tsuchiura
-JPN NaritaAptLn JO35 JO37
 JPN NaritaAbikoLn Abiko Narita
-JPN SobuLn JO19 JO21
+JPN SobuLn JO19 JO33
+JPN NaritaLn JO33 JO35
+JPN NaritaAptLn JO35 JO37
 JPN ChuoSobuLn JB34 JB28
-JPN ChuoSobuLn JB19 JB07
+JPN ChuoSobuLn JB22 JB07
 JPN KeiyoLn JE01 JE14
 
 ## JR CENTRAL
