@@ -61,16 +61,21 @@ CHE 18Gen GareCor CHE 18Gen CERN
 CHE L6 +DIV_Air GenCor
 
 #### CHN
+### CRH
+CHN-GD GuangShenJiang ShenZhenN HKG GuangShenJiang WKow
+
 ### GD
+## PRD ICR
+CHN-GD GuangZhu ZhongShanN ZhuHai
+
+## GUANGZHOU METRO
+
 ## SHENZHEN METRO
 CHN-GD SZMLn1 LuoHu CheGongMiao
 CHN-GD SZMLn2 LianTangChe GangXiaBei
 CHN-GD SZMLn4 HongShan CivCen
 CHN-GD SZMLn6 SciMus HongShan
 CHN-GD SZMLn11 CheGongMiao Airport
-
-## PRD ICR
-CHN-GD GuangZhu ZhongShanN ZhuHai
 
 #### DEU
 ### MUNICH
