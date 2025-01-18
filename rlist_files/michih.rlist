@@ -1,4 +1,4 @@
-# Date: 2024-12-23
+# Date: 2025-01-17
 # ----------------
 
 ######################
@@ -397,6 +397,12 @@ DEU-BW 6AMan RP/BW Tat             #2022, L'hafen Berliner Platz - Wasserturm - 
 DEU-BW 5Man +DIV_Was BW/HE         #2024, rerouted from Wasserturm to Paradeplatz due to construction
 DEU-HE 5Vie BW/HE HE/BW            #2024
 DEU-BW 5Hei HE/BW ParPla           #2024
+DEU-RP 4ALud BadDurkHeimBf Hbf     #2025
+DEU-RP 6Lud RheGonHeimEndSte LudStr #2025
+DEU-RP 7Lud Opp BerPla             #2025
+DEU-RP 10Lud FriHeimMit LuiHaf     #2025
+#DEU-RP 4ALud Hbf SudWestSta       #2025, rerouted 4A due to Konrad-Adenauer-Brücke closure
+
 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
 DEU-BW U2 RotPla StaGal                                                                        #201x, any
