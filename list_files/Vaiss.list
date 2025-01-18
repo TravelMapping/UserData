@@ -155,6 +155,13 @@ FIN MooTurHel 26 HuoTie #Nummela Leenan ja Heikin luona
 FIN Vt2 Vt1 Vt25 #Nummela Leenan ja Heikin luona
 FIN St120 Vt3 Kt50 # Vihdintie Pasila-Varisto Mikan luo 2022?
 
+#17.1.
+FIN Kt58 Kt66_N Vt23_E #TRE-Keuruu 01/2025
+FIN St447 Vt13 Vt23 #Pieksämäki-Kangasniemi Tampereelle mennessä 01/2025
+FIN St453 Vt23 Vt5 #Varkaus-Pieksämäki Tampereelle mennessä 01/2025
+FIN St411 Vt4 St140 #Vierumäki 07/2025
+FIN VKKTieSav Vt14/4792_W Vt14/4792_E #Punkan maisematie
+
 #3222 tie sappeeelle Laht-Sappee
 #3400 Hauholle Seinäjoelta Virtojen kautta
 #9401 Äkäslompolo-Ylläsjärvi
