@@ -18,7 +18,7 @@ CA I-5 5A 13A           # CA75 CA15
 CA I-5TrkNew I-5_S I-5_N
 
 # I-8
-CA I-8 7 11             # I-15 11
+CA I-8 2A 11            # I-5 Lk Murray Blvd
 
 # I-10
 CA I-10 19A 21          # I-5 I-710
@@ -178,8 +178,7 @@ FL I-95 176 205         # W Melbourne FL528
 CA I-105 1A 18          # Missing eastern terminus ramp
 
 # I-110 (CA)
-CA I-110 9 10           # I-405 CA91
-CA I-110 14 21          # CA110 I-105
+CA I-110 1A 21          # Everything except the southern end
 
 # I-184 (ID) - Clinched
 ID I-184 0 US20/26
@@ -312,10 +311,13 @@ VA I-664 1 15
 CA I-680 I-280/101 71
 
 # I-710 (CA)
-CA I-710 8 22           # CA91 I-10
+CA I-710 1 22           # CA47 I-10
 
 # I-780 (CA)
 CA I-780 1A 7           # Clinched except W terminus ramp
+
+# I-805 (CA)
+CA I-805 17B 20A        # I-8 Mesa College Dr
 
 # I-820 (TX)
 TX I-820 28A 34         # I-30 I-20
@@ -454,6 +456,9 @@ TX US75 I-635 GeoBushTpk
 # US76
 GA US76 GA5/515 GA60
 
+# US80
+CA US80HisSan MonRd 70thSt
+
 # US85
 CO US85 LakeAve_E CO115(46)
 
@@ -564,6 +569,8 @@ OR US395 SouPl OR/WA
 OR US395 CR63 US26_W
 OR US395 US20_W US20_E
 
+CA US395HisSan MonRd I-8
+
 # US400 - Clinched
 CO US400 US50/385 CO/KS
 KS US400 CO/KS KS/MO
@@ -615,6 +622,9 @@ CA CA37 20 21           # SFDK I-80
 CA CA39 LinAve CA91
 CA CA39 CA1 CA22
 
+# CA47
+CA CA47 1A I-710
+
 # CA55
 CA CA55 17 18           # Lincoln Ave CA91
 CA CA55 9 11A           # Edinger Ave I-5
@@ -652,8 +662,15 @@ CA CA91 34 51           # CA55 I-15
 # CA92
 CA CA92 CA1 26          # CA1 I-880
 
+# CA99 and US-99 Historic
+CA US99HisFer CA118 TruSt_S
+CA US99HisFer LyoAve HenMayoDr
+
 # CA110
 CA CA110 21 24A         # I-10 US101
+
+# CA118
+CA CA118 44A 45         # I-5 San Fernando Rd
 
 # CA126
 CA CA126 13 40
@@ -663,6 +680,9 @@ CA CA133 CA1 10A        # CA1 I-5
 
 # CA161 - Clinched
 CA CA161 US97 CA139/39
+
+# CA163
+CA CA163 2A 7B          # Robinson Ave Balboa Ave
 
 # CA170 - Clinched
 CA CA170 5 11B          # US101 I-5
@@ -873,6 +893,7 @@ ID ID78 ID51_N BruSanDun
 # Business Loops
 ID I-15BLIda I-15_S I-15_N
 ID I-15BLBla MerSt I-15_N
+ID I-84BLBli I-84_W I-84_E
 ID I-84BLCal I-84_W I-84_E
 ID I-84BLMou I-84_W I-84_E
 ID I-84BLBur 21stSt_E I-84_E
