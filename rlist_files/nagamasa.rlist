@@ -551,6 +551,7 @@ WA SouLakeUniLn LakeUniPark WesHub
 ON TerLnk Ter1 Vis
 CA AirTrnBlue RenCarCen Loop
 CA AirTrnRed GarG/BART_S GarG/BART_F
+GA SkyTrn Air RenCarCen
 IL AirTraSys Ter1 Ter5
 FL MiaM IntCen MIA
 NY AirTrnJam Jam Loop
