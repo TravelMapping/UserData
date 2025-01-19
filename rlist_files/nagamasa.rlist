@@ -26,7 +26,6 @@ BC ExpoLn Wat Met
 BC MilLn VCCCla ComBro
 
 ### CAN-ON
-ON TerLnk Ter1 Vis
 ## GO TRANSIT 
 ON KT Kit Uni
 ON LE Uni Osh
@@ -178,6 +177,7 @@ HKG ERailLnLok SheShui LokMaChau
 HKG AirExp HongKong Air
 HKG DisResLn SunBay DisRes
 
+## LRT
 HKG 615 HongLokRd YuenLong
 
 ## OTHERS
@@ -218,6 +218,7 @@ JPN SanyoShin ShinOsaka Hakata
 JPN TokaidoShin Tokyo ShinOsaka
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
+JPN SuperHakutoLtd Himeji Tottori
 
 ## JR HOKKAIDO
 JPN ChitoseLn H14 01
@@ -427,7 +428,6 @@ NOR FLY2 NatThe OsloLuf
 NOR RE20 OsloS NOR RE20 NOR/SWE
 NOR F1 OsloS NOR/SWE
 
-
 NOR 12Osl AkerBry Jer
 
 #### SGP
@@ -471,7 +471,6 @@ TWN TPBlue BL11 BL12
 TWN TPBlue BL18 BL23
 TWN TPBrown BR13 BR09
 
-
 #### USA
 ## AMTRAK
 OR AC PorUniSta BC AC VanPacCen
@@ -490,10 +489,6 @@ CA MuniJ 20th CivCen
 CA MuniN Jud9th CivCen
 CA MuniN Emb 2nd
 CA MuniT Mar ChiRosePark
-
-## AIRTRAIN
-CA AirTrnBlue RenCarCen Loop
-CA AirTrnRed GarG/BART_S GarG/BART_F
 CA OAKAir OakIntAir Col
 
 ### CO
@@ -502,15 +497,12 @@ CO ALn UniSta DenAir
 CO WLn DecFed UniSta
 
 ### IL 
-IL AirTraSys Ter1 Ter5
-
 ## CHICAGO L
 IL BlueLn OHa ClaLake
 IL RedLn Roo ClaDiv
 IL GreLn Mor StaLake
 
 ### FL
-FL MiaM IntCen MIA
 ## MIAMI METRORAIL
 FL OraLn Bri MiaAir
 
@@ -522,7 +514,6 @@ FL OmniLp MusPk Loop
 NV AE ParkMGM Bel
 
 ### NY
-NY AirTrnJam Jam Loop
 NY NECorLn PennSta NJ NECorLn Met
 
 ## MTA
@@ -553,3 +544,41 @@ WA 2 SBel RedTec
 ## SEATTLE STREETCAR
 WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn LakeUniPark WesHub
+
+#### AIRPORTS
+### LANDSIDE
+## AMERICAS
+ON TerLnk Ter1 Vis
+CA AirTrnBlue RenCarCen Loop
+CA AirTrnRed GarG/BART_S GarG/BART_F
+IL AirTraSys Ter1 Ter5
+FL MiaM IntCen MIA
+NY AirTrnJam Jam Loop
+
+### AIRSIDE
+## AMERICAS
+CO DENTrn JepTer CGat
+FL TPAShu MainTer AirA
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+NV BlueLn Ter1 DGat
+NV RedLn Ter3 DGat
+NV GreLn Ter1 CGat
+VA AerTrn ConB ConCD
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
+WA BlueLn AGat_Sta AGat_Fin
+
+## ASIA
+ARE DXBT1APM Ter1 ConD
+CHN-SH PVGWestLn T1 S1
+HKG HKGAPM T1E T1Mid
+JPN KIXNWing Main Edge
+KOR ICNShuTra Ter1 Ter2
+THA BKKAPM MTB SAT-1
+TWN TPESkyS Ter1 Ter2
+
+## EUROPE
+CHE SkyMet AirCen DockE
+FRA-IDF LISA PorK PorM
+
