@@ -61,7 +61,7 @@ CHE L6 +DIV_Air GenCor
 
 #### CHN
 ### CRH
-CHN-GD GuangShenGang GuangMingCheng HKG GuangShenGang WKow
+CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 
 ### GD
 ## PRD ICR
@@ -69,13 +69,16 @@ CHN-GD GuangZhu ZhongShanN ZhuHai
 
 ## GUANGZHOU METRO
 CHN-GD GZMLn1 GuangZhouERaiSta HuangSha
+CHN-GD GZMLn3 HanXiChangLong CanTow
 CHN-GD GZMLn6 CulPar BeiJingLu
-CHN-GD GZMLn8 CulPar TongDe
+CHN-GD GZMLn7 GuangZhouS HanXiChangLong
+CHN-GD GZMLn8 TongFuXi TongDe
+CHN-GD GFLn LiJiao XiLang
 
 ## SHENZHEN METRO
 CHN-GD SZMLn1 LuoHu CheGongMiao
 CHN-GD SZMLn2 LianTangChe GangXiaBei
-CHN-GD SZMLn4 HongShan CivCen
+CHN-GD SZMLn4 ConExhCen HongShan
 CHN-GD SZMLn6 SciMus HongShan
 CHN-GD SZMLn11 CheGongMiao Airport
 
