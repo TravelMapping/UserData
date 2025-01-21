@@ -1,12 +1,12 @@
-# Date: 2025-01-17
+# Date: 2025-01-21
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
-DEU-BW RS7 UlmHbf BW/BY
-DEU-BY RS7 BW/BY Mem
+DEU-BW RS7Ulm UlmHbf BW/BY
+DEU-BY RS7Ulm BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 DEU-BY S4 GelDorf DIV_DonBruW         #2022, traveled as RE72 from Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
@@ -41,7 +41,7 @@ DEU-BB S3 BE/BB Erk                   #2022, traveled as RE1
 DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
 DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
-DEU-ST S3 HalSaaHbf +DIV_Ros          #2022, actually traveled as RE16 to Naumburg
+DEU-ST S11 HalSaaHbf +DIV_MerS        #2022, actually traveled as RE16 to Naumburg
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
 DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
 #DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
@@ -62,17 +62,18 @@ DEU-NI RS2Twi HB/NI Twi               #2021, ICE Ulm-Bremen
 #DEU-BW  Stuttgart Hbf                DEU-BW  Ludwigsburg           #2022
 DEU-BY S3 MamDorf DIV_DonBruW         #2022, traveled several times with ICE and RE
 #DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
-DEU-BW RS3 MunKin UlmHbf
+DEU-BW RS3Ulm MunKin UlmHbf
 #DEU-BW  Ulm Hbf                      DEU-BW  Donaueschingen        #2022, RE55 via Munderkingen, Fridlingen
 DEU-BW S10Fre Hbf DonEsc              #2022, S10
 DEU-BW S2Fre +DIV_Den Hbf             #2022, RB26 to Offenburg
 #DEU-BW  Freiburg Hbf                 DEU-BW  Offenburg             #2022, RB26
-DEU-BW S71Kar KarRuheHbf Ach          #2022, traveled as RB26 from Offenburg
+DEU-BW S71Kar KarRuheHbf Ach          #2022, traveled as RE2 from Offenburg
+DEU-BW RS2Off Off +DIV_RE2            #2022, traveled as RE2 to Karlsruhe
 #DEU-BW  Offenburg                    DEU-BW  Karlsruhe Hbf         #2022, RE2
 DEU-BW S31Kar +DIV_DurN KarRuheHbf    #2022, traveled as IRE1
 DEU-BW S5Kar GroObeStr PfoHeimHbf     #2022, traveled as IRE1
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Stuttgart Hbf         #2022, IRE1 via Pforzheim, NOT via Bietigheim-Bissingen
-DEU-BW RS2 UlmHbf BibSud
+DEU-BW RS2Ulm UlmHbf BibSud
 #DEU-BW  Ulm Hbf                      DEU-BY  Lindau-Reutin         #2022, RE5 via FN-Stadt, Biberach
 #DEU-BW  Kornwestheim                 DEU-BW  Stgt-Untertürkheim    #2023, rerouted via Münster, Zazenhausen
 
@@ -86,8 +87,8 @@ DEU-HE S9 WiesBadHbf FraFurtHbf       #2022, S9 via Mainz-Kastel, Airport
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #2022, RB75 via Mainz Hbf, Groß-Gerau
 
 DEU-BW RS5Ulm BY/BW UlmHbf
-DEU-BY RS5 BW/BY BY/BW
-DEU-BW RS5 AalHbf BW/BY
+DEU-BYUlm RS5 BW/BY BY/BW
+DEU-BW RS5Aal AalHbf BW/BY
 #DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
 DEU-BW S4Kar +DIV_Pfu OhrCap          #2022, traveled as RE80
@@ -108,7 +109,7 @@ DEU-BW S41Hei +DIV_Jag NecSulm        #2022, traveled as RE8
 #DEU-BW  Ulm Hbf                      DEU-BW  Plochingen            #2022, IRE6 via Biberach, Balingen, Tübingen
 
 #DEU-BW  Heilbronn Hbf                DEU-BW  Ludwigsburg           #2024, MEX12
-DEU-BW RS21 UlmHbf Bib                                              #2024, RS21
+DEU-BW RS21Ulm UlmHbf Bib                                           #2024, RS21
 
 DEU-NW S1 DortMundDorFeld BocHbf                                    #2022 via Oespel, Langendreer
 DEU-NW S1 MulHeimHbf DuisBurgHbf
@@ -168,7 +169,10 @@ DEU-NW S23 BonnHbf +DIV_End                                         #2022, trave
 DEU-RP S5Wor WorBadePark WorBadAll    #2022, as RE6 Neustadt - Karlsruhe
 DEU-RP S5Wor +DIV_WorW RP/BW          #2022, as RE6 Neustadt - Karlsruhe
 #DEU-RP  Neustadt Hbf                 DEU-BW  Karlsruhe Hbf         #2022, RE6
+DEU-BW RS1Off Off +DIV_RS11                                         #2022, traveled as RE2
+DEU-BW RS11Off Hau Hor                                              #2022, traveled as RE2
 DEU-BW S6Bod Eng Sin                                                #2022, traveled as RE2
+DEU-BW S10Fre DonEsc Vil                                            #2022, traveled as RE2
 #DEU-BW  Karlsruhe Hbf                DEU-BW  Singen                #2022, RE2 via Offenburg, Hornberg, Engen
 DEU-BW S61Bod +DIV_RB31 Rad                                         #2022, traveled as IRE3
 DEU-BW S6Bod Sin +DIV_S61                                           #2022, traveled as IRE3
@@ -232,7 +236,7 @@ DEU-HE S1Hir BW/HE HE/BW                       #2024
 DEU-BW S1Mos HE/BW MosBachNecElz               #2024
 DEU-BW S41Hei MosBachNecElz Har                #2024
 
-DEU-BY RS71 BW/BY WeiHorn                      #2024
+DEU-BY RS71Ulm BW/BY WeiHorn                   #2024
 
 #DEU-BW RE87 Lauda DEU-BY Aschaffenburg Hbf    #2024
 DEU-HE S2 MarPla DieBachBf                     #2024
