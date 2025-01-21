@@ -87,7 +87,7 @@ DEU-HE S9 WiesBadHbf FraFurtHbf       #2022, S9 via Mainz-Kastel, Airport
 #DEU-HE  Wiesbaden Hbf                DEU-HE  Darmstadt Hbf         #2022, RB75 via Mainz Hbf, Groß-Gerau
 
 DEU-BW RS5Ulm BY/BW UlmHbf
-DEU-BYUlm RS5 BW/BY BY/BW
+DEU-BY RS5Ulm BW/BY BY/BW
 DEU-BW RS5Aal AalHbf BW/BY
 #DEU-BW  Ulm Hbf                      DEU-BW  Aalen Hbf             #2022, RS5
 #DEU-BW  Stuttgart Hbf                DEU-BW  Crailsheim            #2022, MEX13 via Waiblingen, Aalen (two travels merged)
