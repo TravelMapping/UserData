@@ -779,8 +779,31 @@ VA	VA156	US60_W		I-295(31)
 
 # Illinois additions
 
-IL	I-55	157	167
-IL	I-57	44	238
-IL	I-74	125	179
+IL	I-39	I-55	WI	I-39	177(90)
+WI	I-39	175(90)			142(90)
+WI	I-41	IL/WI			54
+WI	I-43	1			72A
+IL	I-55	MO/IL			US41
+IL	I-57	44			315
+IL	I-57	318			358
+KY	I-65	TN/KY			91
+KY	I-65	102			136B
+IN	I-65	1A			110B
+IA	I-74	I-80	IN	I-74	73
+IA	I-80	284	IL	I-80	79
+IL	I-80	112			IL/IN
+IL	I-88				
+IL	I-90	76			59A(94)
+WI	I-94	240	IL	I-94	IL/IN
+
 IL	I-55BLBlo	I-55_S	I-55_N
 IL	US51BusBlo	VetPky	I-55
+#Update to clinched
+
+
+# Chicago trips
+# Iowa trip I-74, I-80, I-39
+# Wisconsin trip I-94, I-43, etc
+# Peoria Springfield I-155 or w/e
+# St Louis routes (Spr StL is already covered)
+# Local routes in BN
