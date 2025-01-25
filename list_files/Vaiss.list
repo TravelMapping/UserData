@@ -162,6 +162,20 @@ FIN St453 Vt23 Vt5 #Varkaus-Pieksämäki Tampereelle mennessä 01/2025
 FIN St411 Vt4 St140 #Vierumäki 07/2025
 FIN VKKTieSav Vt14/4792_W Vt14/4792_E #Punkan maisematie
 
+#24.1.
+FIN St616 St428 Vt13 #Pieksämäki-Joutsa 01/2025
+FIN St610 Vt4 Vt9 #Joutsa-Korpilahti 01/2025
+FIN St339 Vt9 St310 #TRE-Kangasala 01/2025 huom puuttuu pari sekvenssiä
+FIN St296 St167 Vt12 #Kärkkäiselle 01/2025
+FIN St140 St296 St167 #01/2025
+FIN St312 ManKatu Yt1711 #Lahti-Nastola 01/2025 Nexus koulutus
+FIN St359 Vt12 VilTie #Lahti-Joensuu matkalla 01/2025 Nexus koulutus
+FIN St364 St359 Vt12 #Lahti-Joensuu matkalla 01/2025 Nexus koulutus
+FIN St370 St373 Vt15 #Lahti-Joensuu matkalla 01/2025 Nexus koulutus
+FIN E12 3 EroKatu
+FIN E75 UniKatu HelFry
+FIN Kt88 Vt27 Vt4 #Iisalmi-Pulkkila 10/2024
+
 #3222 tie sappeeelle Laht-Sappee
 #3400 Hauholle Seinäjoelta Virtojen kautta
 #9401 Äkäslompolo-Ylläsjärvi
