@@ -3,6 +3,7 @@
 CO ALn UniSta DenAir
 CO BroManPikPeakCR Man PikPeak
 CO CZ UT/CO +DIV_BLn/GLn
+CO DENTrn JepTer CGat
 CO FortColMunRai CityPark MouHow
 CO RoyGorRou Par CanCity
 
@@ -15,6 +16,9 @@ DC YelLn VA/DC MtVerSq
 
 # Florida
 FL SBankLn Riv KinAve
+
+# Georgia
+GA PlaTrn DomTer CGat
 
 # Maryland
 MD BluLn DC/MD DowLar
@@ -52,3 +56,8 @@ VA BluLn FraSpr VA/DC
 #VA SilLn +DIV_Blue VA/DC
 VA Tide MacSq NewRd
 VA YelLn +DIV_Blue_S VA/DC
+
+# Washington
+WA BlueLn AGat_Fin BGat
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
