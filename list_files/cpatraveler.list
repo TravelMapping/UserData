@@ -2045,8 +2045,8 @@ DC I-295 MD/DC 5
 DC I-395 VA/DC US50
 DC I-495 VA/DC DC/MD
 DC I-695 I-395 2A
-DC US1 VA/DC RholslAve_W 
-DC US29 RholslAve_E VA/DC 
+DC US1 VA/DC NorCapSt 
+DC US29 DC/MD VA/DC 
 DC US50 VA/DC DC/MD 
 DC US1AltWas US1_S US50_E
 DC ClaBarPkwy ChaBriRd MD/DC
@@ -2339,13 +2339,20 @@ IL I-55 3A 20
 IL I-55 154 US41  
 IL I-70 3 92
 IN I-65 123 140 #02202018 Wabash to Indy Airport
-IN I-65 140 201 #08032021 BKD Seminar 
+IN I-65 140 201 #08032021 BKD Seminar
+IN I-65 KY/IN 114 #04272014 NRA Meeting
+IN I-65 114 123 #Return from Michigan Trip
+IN I-65 201 259B #Return from Michigan Trip 
 IN I-69 21 KenAve #03092017 Wabash Bd Mtg
 IN I-69 296 200 #8152020 Return from Millersburg
-IN I-70 IN/IL 73 #02202018 Wabash to Indy Airport
+IN I-69 356 IN/MI #Trip to Michigan
+IN I-70 IL/IN 73 #02202018 Wabash to Indy Airport
 IN I-70 90 IN/OH #08032021 Trip to Spruce Knob
+IN I-70 73 80 #Trip to Airport
 IN I-74 39 IL/IN #8152020 Return from Millersburg
-IN I-74 164 94 #08032021 BKD Seminar 
+IN I-74 164 94 #08032021 BKD Seminar
+IN I-80 72 144 #Trip to Michigan
+IN I-94 12 IN/MI #Return from Michigan Trip 
 IN I-265 0 7 #04112019 Highland to Wabash Mtg
 IN I-275 KY/IN 16 #08032021 BKD Seminar
 IN I-465 9 20 #02202018 Wabash to Indy Airport
@@ -2354,10 +2361,11 @@ IN I-469 19 0 #8152020 Return from Millersburg
 IN I-865 I-65 I-465 #8152020 Return from Millersburg
 IN US24 I-65 IL/IN #08032021 BKD Seminar 
 IN US30 IN/OH I-469(19) #8152020 Return from Millersburg
+IN US31 I-80/90 123 #Trip to Michigan
 IN US36 IL/IN I-465(44) #08032021 Trip to Spruce Knob 
 IN US41 US50/150 I-64 #02172017 Trip to Lincoln NM Finish Wabash
 IN US41 IN66_W I-69 #11272018 Return from Wabash Interim
-IN US 41 KY/IN I-69 #03092017 Wabash Bd Mtg
+IN US41 KY/IN I-69 #03092017 Wabash Bd Mtg
 IN US50 IL/IN US41_S #02172017 Trip to Lincoln NM Finish Wabash
 IN US150 IN66 IN154 #03172019 Flat Rock Bd Mtg
 IN US231 I-64 KY/IN #02172017 Trip to Lincoln NM Finish Wabash
@@ -2810,11 +2818,10 @@ NY NY22 I-90 US20_E #Trip with GJ Telergee
 NY NY104 US62 NY384 #Nigara Falls Trip
 NY NY218 US9W/293 US9W_S #Visit West Point 
 NY NY293 US6 US9W/218 #Visit Wes Point
-NY NY384 RaiBlvd RaiBri #Nigara Falls Trip 
+NY NY384 I-190 RaiBri #Nigara Falls Trip 
 NY NY440 10 NY/NJ #Living in NJ
 NY BeltPkwy I-278 20 #Living in NY
 NY FDRooDr I-478 12 #Living in NY
-NY SeaTrl NY384_E I-190(21A) #Nigara Falls Trip 
 OH I-70 IN/OH 155 #08032021 Trip to Spruce
 OH I-71 220 KY/OH #Nigara Falls Trip  
 OH I-77 WV/OH 65 #08142020 Millersburg Trip
@@ -2829,7 +2836,7 @@ OH US36 I-77 OH83_N #08142020 Millersburg Trip
 OH US50 OH/WV OH32_W #04112019 Return from Spruce
 OH US52 US23 OH/WV #04102019 Trip to Spruce
 OH OH7 I-470 US22(244A) #04132018 Return to Pitt Airport
-OH OH32 US50-W I-275 #04112019 Return from Spruce
+OH OH32 US50_W I-275 #04112019 Return from Spruce
 OH OH39 OH241 OH3/60 #08142020 Millersburg Trip
 OH OH60 OH3/39 US30 #08142020 Millersburg Trip
 OH OH60 I-70 OH339_S #08032021 Spruce Trip 
