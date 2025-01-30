@@ -1,7 +1,14 @@
 	#leshii_Rail
 	
 	#Amtrak
-VA NENor +DIV_Ric Ash CT NENor NHUniSta
+VA NENor +DIV_Ric VA/DC
+DC NENor VA/DC DC/MD
+MD NENor DC/MD MD/DE
+DE NENor MD/DE DE/PA
+PA NENor DE/PA PA/NJ
+NJ NENor PA/NJ NJ/NY
+NY NENor NJ/NY NY/CT
+CT NENor NY/CT NHUniSta
 
 	#Aiports
 CO DENTrn JepTer CGat
