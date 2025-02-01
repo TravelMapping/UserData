@@ -1,5 +1,5 @@
 # ──────────
-# 2025-01-16
+# 2025-01-29
 # ──────────
 
 # ─────────
@@ -25,13 +25,13 @@ CZE 12Pra Vys SidBar
 CZE 13Pra OlsHrb CecNam
 CZE 14Pra Vys Spo
 CZE 15Pra Kot OlsHrb
-CZE 16Pra SidRepy DepoHos
+CZE 16Pra SidRepy UstDilDP
 CZE 17Pra VozKob Libu
 CZE 18Pra NadPod VozPan
-CZE 19Pra Pan Vys
+CZE 19Pra Pan Leh
 CZE 20Pra DivSar SidBar
 CZE 21Pra Rad Lev
-CZE 22Pra BilaHora NadZahMes
+CZE 22Pra BilaHora Hos
 CZE 23Pra Kra Zvo
 CZE 24Pra Kob NamBraSyn
 CZE 25Pra BilaHora SidHlo
@@ -48,6 +48,7 @@ CZE S7 Ber CesBrod
 CZE S8 PraHlaNad Cer
 CZE S9 LysaNadLab BenPra
 CZE S10 Kol Pre
+CZE S11 Pec Kou
 CZE S12 NymHlaNad Por
 CZE S18 Saz Kol
 CZE S20 Kol SveNadSaz
