@@ -62,6 +62,7 @@ CHE L6 +DIV_Air GenCor
 #### CHN
 ### CRH
 CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
+CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
 
 ### GD
 ## PRD ICR
@@ -78,8 +79,10 @@ CHN-GD GFLn LiJiao XiLang
 ## SHENZHEN METRO
 CHN-GD SZMLn1 LuoHu CheGongMiao
 CHN-GD SZMLn2 LianTangChe GangXiaBei
+CHN-GD SZMLn3 ShoPar LianHuaCun
 CHN-GD SZMLn4 ConExhCen HongShan
 CHN-GD SZMLn6 SciMus HongShan
+CHN-GD SZMLn10 FuTianChe DongGuaLing
 CHN-GD SZMLn11 CheGongMiao Airport
 
 ### SH
@@ -267,6 +270,7 @@ JPN InbiLn Tottori Tsuyama
 JPN KansaiLnW Q38 Q36
 JPN JRNaraLn D01 D21
 JPN HanwaLn R20 R45
+JPN JRTozaiLn H41 H44
 JPN KansaiAirportLn S45 S47
 
 ## JR SHIGOKU
@@ -342,7 +346,7 @@ JPN MarunouchiLn M08 M14
 JPN MarunouchiLn M15 M25
 JPN HibiyaLn H01 H22
 JPN TokTozaiLn T01 T23
-JPN ChiyodaLn C01 C18
+JPN ChiyodaLn C01 C19
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z02 Z14
 JPN TokNambokuLn N01 N08
