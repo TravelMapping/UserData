@@ -176,6 +176,26 @@ FIN E12 3 EroKatu
 FIN E75 UniKatu HelFry
 FIN Kt88 Vt27 Vt4 #Iisalmi-Pulkkila 10/2024
 
+#25.1.
+FIN St100 Vt3 Kt45 #Koskelantie 2024
+FIN St152 Kt45 Vt4 #Posti Huurrekuja 2023
+FIN St135 TaseTie TikTie #Jumbon ympäristöä 2024
+FIN Keha3 29 53 #Kehä3
+
+#31.1.
+FIN Vt20 TulVay St833 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St833 Vt20 St836 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St836 St833 St837 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St837 St836 St800 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St800 St837 Kt78_S #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN Kt78 St891 St800_S #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St891 Kt78 Vt5 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St904 St900 Vt5 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN St900 St904 Kt76 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN Kt76 Kt75 St900/912 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+FIN Kt75 Vt6 Kt76 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
+
+
 #3222 tie sappeeelle Laht-Sappee
 #3400 Hauholle Seinäjoelta Virtojen kautta
 #9401 Äkäslompolo-Ylläsjärvi

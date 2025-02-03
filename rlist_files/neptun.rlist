@@ -1,5 +1,5 @@
 # ──────────
-# 2025-01-29
+# 2025-02-01
 # ──────────
 
 # ─────────
@@ -92,12 +92,15 @@ CZE U3 Lit LouLit
 CZE U4 UstiNadLabHlaNad Hne
 CZE U5 Most UstiNadLabHlaNad
 CZE U6 TepCec Rad
+CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
 CZE U11 Lou LitHorNad
 CZE U12 Most Rak
 CZE U13 Most Zat
 CZE U14 Zat Rak
+CZE U21 RouNadLab BriObec
+CZE U22 BriObec Vra
 CZE U28Dec DecHlaNad DEU-SN U28 BadSch
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
