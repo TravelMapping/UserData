@@ -246,9 +246,8 @@ JPN SenzanLn Sendai Yamagata
 JPN ShonanShinjukuLn JS21 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAbikoLn Abiko Narita
-JPN SobuMainLn JO19 JO33
+JPN NaritaAptLn JO28 JO37
 JPN NaritaLn JO33 JO35
-JPN NaritaAptLn JO35 JO37
 JPN ChuoSobuLn JB02 JB39
 JPN KeiyoLn JE01 JE14
 
@@ -577,7 +576,7 @@ WA YelLn AGat DGat
 WA BlueLn AGat_Sta AGat_Fin
 
 ## ASIA
-ARE DXBT1APM Ter1 ConD
+ARE DXBTer1APM Ter1 ConD
 CHN-SH PVGWestLn T1 S1
 HKG HKGAPM T1E T1Mid
 JPN KIXNWing Main Edge
