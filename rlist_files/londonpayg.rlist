@@ -63,7 +63,6 @@ ENG RheeVlyLn WelGarCity KinCro
 ENG NorCityLn Moo HerNor
 ENG NorCityLnWel AlePal WelGarCity
 ENG StaEx LonLivSt TotHale
-ENG NhpLn LonEus WatJct
 ENG HasLn ChaCro Orp
 ENG BexLn LonVic Dar
 ENG BroNLn GroPark BroNor
@@ -108,7 +107,7 @@ ENG WAMLStr Str Bro
 ENG ChiMLOxf LonMar HighWyc
 ENG AylLn LonMar Ame
 ENG LutAirExp LonStPanInt LutAirPkwy
-ENG BasLn LonWat Wey
+ENG BasLn LonWat Sur
 ENG BooLn LonWat Eps
 ENG CheLn LonWat CheSou
 ENG CheLp LonWat VirWat

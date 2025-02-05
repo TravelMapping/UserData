@@ -2,7 +2,7 @@
                    ###                           ###
                    ###      myselfalso.list      ###
                    ###                           ###
-                   ### Updated: December 1, 2024 ###
+                   ### Updated: January 31, 2025 ###
                    ###                           ###
                    #################################
 
@@ -212,7 +212,9 @@ VA US15 VA267 VA/MD
 PA US15BusGet PA134 US15_N
 PA US15BusMan US15_S US15_N
 
-PA US19 US19Trk_N I-79(76)
+PA US19 PA65_S I-79(76)
+
+PA US19TrkPit US19_S PA51_S
 PA US19TrkPit I-279(4) US19_N
 
 OH US20 OH2_W OH534
@@ -227,9 +229,11 @@ PA US22 US11/15_S PA/NJ
 NJ US22 PA/NJ I-78(18)
 NJ US22 NJ27 US1/9
 
+PA US22BusMon US22_W US22_E
+
 DC US29 VA/DC GeoAve_S
 
-PA US30 US22_W US220
+PA US30 US22_W I-70_W
 PA US30 I-81 PA/NJ
 
 PA US40 PA281_N PA/MD
@@ -408,7 +412,7 @@ PA PA252 US202_S PA23
 PA PA254 PA405 PA54
 PA PA254 PA44/642 PA487
 PA PA261 DE/PA US322
-PA PA272 PA324 US30/222
+PA PA272 PA324 US322
 PA PA281 US40_E SugLoafRd
 PA PA281 PA31_W US30
 PA PA283 EisBlvd US30
@@ -421,7 +425,7 @@ PA PA309BusWil PA309_S PA309_N
 PA PA313 PA309/663 PA113
 PA PA320 I-76 PA23
 PA PA325 US22/322 US209
-PA PA340 US30_W PA897_S
+PA PA340 US30_W ReeRd
 PA PA341 PA230 PA241
 PA PA341TrkDeo PA341_W PA341_E
 PA PA343 PA72 I-78
@@ -440,6 +444,7 @@ PA PA443 FroSt OakGroRd
 PA PA445 PA192_E PA192_W
 PA PA462 US30_W US30_E
 PA PA463 PA63 PA611
+PA PA472 3rdSt_S PA372
 PA PA487 PA61 KnoPkwy
 PA PA487 PA254 PA93
 PA PA491 US202 PA261

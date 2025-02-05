@@ -1,5 +1,5 @@
 # ──────────
-# 2025-01-12
+# 2025-02-04
 # ──────────
 
 # ─────────
@@ -25,16 +25,16 @@ CZE 12Pra Vys SidBar
 CZE 13Pra OlsHrb CecNam
 CZE 14Pra Vys Spo
 CZE 15Pra Kot OlsHrb
-CZE 16Pra SidRepy DepoHos
+CZE 16Pra SidRepy UstDilDP
 CZE 17Pra VozKob Libu
 CZE 18Pra NadPod VozPan
-CZE 19Pra Pan Vys
+CZE 19Pra Pan Leh
 CZE 20Pra DivSar SidBar
 CZE 21Pra Rad Lev
-CZE 22Pra BilaHora NadZahMes
+CZE 22Pra BilaHora Hos
 CZE 23Pra Kra Zvo
 CZE 24Pra Kob NamBraSyn
-CZE 25Pra BilaHora NasLib
+CZE 25Pra BilaHora SidHlo
 CZE 26Pra DivSar NadZahMes
 
 CZE S1 PraMasNad Kol
@@ -48,9 +48,11 @@ CZE S7 Ber CesBrod
 CZE S8 PraHlaNad Cer
 CZE S9 LysaNadLab BenPra
 CZE S10 Kol Pre
+CZE S11 Pec Kou
 CZE S12 NymHlaNad Por
 CZE S18 Saz Kol
 CZE S20 Kol SveNadSaz
+CZE S22 PraMasNad Mil
 CZE S23 Ner Cel
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
@@ -79,7 +81,7 @@ CZE S80 Cer Chr
 CZE S82 Smr SveNadSaz
 CZE S88 PraHlaNad Dob
 CZE S90 Olb Mez
-CZE S98 BenesovPra Olb
+CZE S98 BenesovPra Sed
 
 # ───
 # DÚK
@@ -90,12 +92,16 @@ CZE U2 KarVary Cho
 CZE U3 Lit LouLit
 CZE U4 UstiNadLabHlaNad Hne
 CZE U5 Most UstiNadLabHlaNad
+CZE U6 TepCec Rad
+CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
-CZE U11 Lou Lov
+CZE U11 Lou LitHorNad
 CZE U12 Most Rak
 CZE U13 Most Zat
 CZE U14 Zat Rak
+CZE U21 RouNadLab BriObec
+CZE U22 BriObec Vra
 CZE U28Dec DecHlaNad DEU-SN U28 BadSch
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel

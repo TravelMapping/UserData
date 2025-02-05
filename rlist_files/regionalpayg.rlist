@@ -88,3 +88,26 @@ ENG KinLp LonWat ClaJct_2
 ENG CheLp LonWat Wey
 ENG ReaLn LonWat Rea
 ENG WinLn LonWat WinEtonRiv
+
+#Glasgow Subway#
+SCT GlaSub Par_1 Par_2
+
+#Robin Hood#
+ENG NET1 Huc TotLn
+ENG NET2 PhoPark CliSou
+
+#Nexus#
+ENG TWMGre SouHyl Air
+ENG TWMYel StJam SouShi
+ENG NhbLn New Ash
+
+#Bee Network#
+ENG MetLnkAlB Alt Bury
+ENG MetLnkAlP Alt Pic
+ENG MetLnkPBy Pic Bury
+ENG MetLnkEDR EDid RocTownCen
+ENG MetLnkEDS EDid ShawCro
+ENG MetLnkEAL Ecc AshUndLyne
+ENG MetLnkMAV ManAir Vic
+ENG MetLnkMEC MedCityUK EtiCam
+ENG MetLnkTCC TraCen DeaCas
