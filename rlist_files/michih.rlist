@@ -1,4 +1,4 @@
-# Date: 2025-01-21
+# Date: 2025-02-06
 # ----------------
 
 ######################
@@ -304,6 +304,8 @@ DEU-BB S26 BE/BB TetSta                        #2024
 
 DEU-NW S3 EssSte HatMit                        #2024
 DEU-NW S9 HalSee EssSte                        #2024
+
+DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark      #2025
 
 
 ######################
