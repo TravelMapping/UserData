@@ -1,5 +1,5 @@
 # ──────────
-# 2025-02-08
+# 2025-02-11
 # ──────────
 
 # ─────────
@@ -78,8 +78,8 @@ CZE S70 Kar Ber
 CZE S71 PraRad PraBec
 CZE S75 Rak Ber
 CZE S76 Loc ZadTre
-CZE S80 Cer Chr
-CZE S82 Smr SveNadSaz
+CZE S80 Cer LedSaz
+CZE S82 LedSaz SveNadSaz
 CZE S88 PraHlaNad Dob
 CZE S90 Olb Mez
 CZE S98 BenesovPra Sed
