@@ -1,5 +1,5 @@
 # ──────────
-# 2025-02-04
+# 2025-02-12
 # ──────────
 
 # ─────────
@@ -52,6 +52,7 @@ CZE S11 Pec Kou
 CZE S12 NymHlaNad Por
 CZE S18 Saz Kol
 CZE S20 Kol SveNadSaz
+CZE S21 Jicn NymHlaNad
 CZE S22 PraMasNad Mil
 CZE S23 Ner Cel
 CZE S27 Cas Tre
@@ -77,8 +78,8 @@ CZE S70 Kar Ber
 CZE S71 PraRad PraBec
 CZE S75 Rak Ber
 CZE S76 Loc ZadTre
-CZE S80 Cer Chr
-CZE S82 Smr SveNadSaz
+CZE S80 Cer LedSaz
+CZE S82 LedSaz SveNadSaz
 CZE S88 PraHlaNad Dob
 CZE S90 Olb Mez
 CZE S98 BenesovPra Sed
@@ -142,8 +143,10 @@ CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
 CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
+CZE S6Jih BrnoZid Bla
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
+CZE S71Jih VysMor Nez
 
 # ─────────────
 # IDSOK–Olomouc
@@ -159,8 +162,8 @@ CZE 7Olo NreKre OkrSoud
 
 CZE V3 Jar ParHlaNad
 CZE V5 Tur HraKraHlaNad
-CZE V41 Sany HraKraHlaNad
-CZE V51 ChlNadCid StaPaka
+CZE V41 Kol HraKraHlaNad
+CZE V51 MesKra StaPaka
 
 # ────────────
 # ODIS–Ostrava

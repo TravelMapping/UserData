@@ -195,6 +195,19 @@ FIN St900 St904 Kt76 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
 FIN Kt76 Kt75 St900/912 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
 FIN Kt75 Vt6 Kt76 #01/2025 Oulu Nexus koulutus kotimatka Kuhmon kautta
 
+#8.2.
+FIN St384 Vt26 St170 #02/2025 Taavetti-Virojoki Helsinki Nexus koulutus 
+FIN St160 Vt6(66) Vt6_E #02/2025 Imatraa Helsinki Nexus koulutus 
+FIN Kt62 Vt6_E FIN/RUS #02/2025 Imatra-Enso raja-asema Helsinki Nexus koulutus
+FIN St397 Vt6 Kt62 #02/2025 Imatraa Helsinki Nexus koulutus 
+FIN MooHelVaa 88 90 #02/2025 Virojoki-Vaalimaa motari Helsinki Nexus koulutus 
+FIN E18 88 FIN/RUS #02/2025 Virojoki-Vaalimaa motari Helsinki Nexus koulutus 
+FIN Vt7 88 FIN/RUS #02/2025 Virojoki-Vaalimaa motari Helsinki Nexus koulutus 
+FIN St170Ham Vt7(77) Vt7(90) #02/2025 Virojoki-Kotka rinnakkaistie Helsinki Nexus koulutus 
+FIN St374 Vt7 Vt26 #02/2025 Haminaa rinnakkaistie Helsinki Nexus koulutus huom puuttuu pikkupätkä!!
+FIN St170 Vt7(62) St352 #02/2025 Porvoo-Kotka rinnakkaistie Helsinki Nexus koulutus
+
+
 
 #3222 tie sappeeelle Laht-Sappee
 #3400 Hauholle Seinäjoelta Virtojen kautta

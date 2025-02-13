@@ -87,7 +87,7 @@ CHN-GD SZMLn11 CheGongMiao Airport
 
 ### SH
 ## SHANGHAI METRO
-CHN-SH SHMLn2 LuJiaZui LongYangRd
+CHN-SH SHMLn2 LiuJiaZui LongYangRd
 CHN-SH SHMLn7 WGaoKeRd YaoHuaRd
 CHN-SH SHMLn10 ENanJingRd YuYuanGar
 CHN-SH SHMLn13 MaDangRd ShiBoAve
@@ -233,12 +233,12 @@ JPN ChitoseAirLn H14 AP15
 
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
-JPN YamanoteLn JY25_A JY25_B
+JPN YamanoteLn JY24_A JY24_B
 JPN SaikyoLn JA08 JA26
 JPN MusashinoLn JM28 JM13
-JPN YokosukaLn JO19 JO07
+JPN YokosukaSobuLn JO07 JO28
 JPN ChuoRapidLn JC01 JC11
-JPN TohokuLn JU01 JU07
+JPN UtsunomiyaLn JU01 JU07
 JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
@@ -246,11 +246,9 @@ JPN SenzanLn Sendai Yamagata
 JPN ShonanShinjukuLn JS21 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAbikoLn Abiko Narita
-JPN SobuLn JO19 JO33
+JPN NaritaAptLn JO28 JO37
 JPN NaritaLn JO33 JO35
-JPN NaritaAptLn JO35 JO37
-JPN ChuoSobuLn JB34 JB28
-JPN ChuoSobuLn JB22 JB07
+JPN ChuoSobuLn JB02 JB39
 JPN KeiyoLn JE01 JE14
 
 ## JR CENTRAL
@@ -297,7 +295,7 @@ JPN OdkOdawaraLn OH01 OH28
 JPN OdkEnoshimaLn OH28 OE13
 
 ## TOKYU
-JPN ToyokoLn TY03 TY21
+JPN ToyokoLn TY01 TY21
 JPN DenentoshiLn DT01 DT03
 JPN SetagayaLn SG01 SG10
 
@@ -484,7 +482,7 @@ OR AC PorUniSta BC AC VanPacCen
 
 ### CA 
 ## CALTRAIN
-CA CT SanCla SanFraKing
+CA CalTra SanCla SanFraKing
 
 ## BART
 CA BARTGre MonSt Ber
@@ -578,7 +576,7 @@ WA YelLn AGat DGat
 WA BlueLn AGat_Sta AGat_Fin
 
 ## ASIA
-ARE DXBT1APM Ter1 ConD
+ARE DXBTer1APM Ter1 ConD
 CHN-SH PVGWestLn T1 S1
 HKG HKGAPM T1E T1Mid
 JPN KIXNWing Main Edge

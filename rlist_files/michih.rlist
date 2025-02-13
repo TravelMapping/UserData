@@ -1,4 +1,4 @@
-# Date: 2025-01-21
+# Date: 2025-02-07
 # ----------------
 
 ######################
@@ -304,6 +304,11 @@ DEU-BB S26 BE/BB TetSta                        #2024
 
 DEU-NW S3 EssSte HatMit                        #2024
 DEU-NW S9 HalSee EssSte                        #2024
+
+DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark      #2025
+#DEU-NW RB31 Moers Duisburg Hbf                #2025, via Rheinhausen
+#DEU-NW RE49 Dinslaken OB-Sterkrade            #2025
+
 
 
 ######################
@@ -637,6 +642,12 @@ DEU-NW U46 StaGar WesHal              #2022, Stadtgarten - Westfalenhallen
 DEU-NW U47 DortMundWes Apl            #2022, Westerfilde - Aplerbeck
 DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 
+#Duisburg
+DEU-NW 901Dui OberMarSch MulHeimHbf   #2025
+DEU-NW 903Dui DinBf HamRatHaus        #2025
+DEU-NW 903Dui DuisBurgHbf ManTor2     #2025
+
+
 #Düsseldorf
 DEU-NW U71 RathS HellRieStr           #2024
 DEU-NW U72 RatMit SchStrArbAge        #2024
@@ -670,6 +681,7 @@ DEU-NW 044Kre HulsBetHof RheHaf      #2024
 #Mülheim
 DEU-NW 102Mul OberDum UhlHor         #2024
 DEU-NW 104Mul AbzAktStr EvaKraHaus   #2024
+DEU-NW 112Obe NeuMar StaMit          #2025
 DEU-NW 112Obe LandWehr HauFriHof     #2024
 
 #Wuppertal
