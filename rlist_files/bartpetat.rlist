@@ -429,6 +429,15 @@ HKG TWLn Cen TsuWan
 #HKG NPCC TC NP
 #HKG OPCC Wat Sum
 HKG PT Peak CenTer
+HKG HKGAPM T1E T1Mid
+
+# MACAU
+MAC TaipaLn PaiKok Bar
+
 
 #CHINA
+CHN-GX LanGuang +DIV_GuiLinN 
+CHN-GD LanGuang GuangZhouS
+
+CHN-GD GuangShenGang GuangZhouS ShenZhenN
 
