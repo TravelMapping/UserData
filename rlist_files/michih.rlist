@@ -1,4 +1,4 @@
-# Date: 2025-02-15
+# Date: 2025-02-21
 # ----------------
 
 ######################
@@ -494,6 +494,9 @@ DEU-BY 5Nur TierGar WorDorStr          #2024
 DEU-BY 6Nur WestFriHof DokuZen         #2024
 DEU-BY 7Nur Hbf TriStr                 #2024
 DEU-BY 8Nur Erl DokuZen                #2024
+
+DEU-BY 4Wur BurBrau KonBerStr          #2025
+DEU-BY 5Wur BerPla_1 RotBau            #2025
 
 
 DEU-BE U1 WitBergPla MocBru            #2018
