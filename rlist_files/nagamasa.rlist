@@ -225,7 +225,7 @@ JPN TokaidoShin Tokyo ShinOsaka
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
 JPN SuperHakutoLtd Himeji Tottori
-JPN NarExpShin Tokyo NarAirTer23
+JPN NarExpShn Tokyo NarAirTer23
 JPN Skyliner KS02 KS41
 JPN TobuKegon TS01 TN25
 
@@ -476,8 +476,7 @@ TWN TYAir A1 A13
 TWN TPRed R02 R28
 TWN TPGreen G10 G19
 TWN TPOrangeHui O06 O11
-TWN TPBlue BL11 BL17
-TWN TPBlue BL18 BL23
+TWN TPBlue BL11 BL23
 TWN TPBrown BR13 BR09
 
 #### USA
