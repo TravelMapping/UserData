@@ -1,5 +1,5 @@
 #M’s Travels
-#Last Updated: 18 January 2025
+#Last Updated: 24 February 2025
 
 #[United States]
 
@@ -433,7 +433,7 @@ CA CA17 26 1A
 CA CA17BusSco ScoValDr CA17(3)
 
 #CA-18:
-CA CA18 CA210 StaCut
+CA CA18 CA210 BalLakeRd
 
 #CA-19:
 CA CA19 WhiBlvd WasBlvd
@@ -477,8 +477,8 @@ CA CA36 I-5BL_S CA89_N
 CA CA37 US101 21
 
 #CA-38:
-CA CA38 CA18 StaCut
-CA CA38 JenLakeRd_W I-10
+CA CA38 CA18 LakeWilDr
+CA CA38 JenLakeRd_E I-10
 
 #CA-39 Westminster Section:
 CA CA39 KatAve CA22
@@ -732,6 +732,9 @@ CA CA152 CA99 WatRd
 #CA-154:
 CA CA154 US101(101B) US101(146)
 
+#CA-155:
+CA CA155 CA178 WofBlvd_N
+
 #CA-156:
 CA CA156 CA1 CHG1
 CA CA156 CA156Bus_S CA152
@@ -764,7 +767,8 @@ CA CA170 6A 11B
 #CA-175:
 CA CA175 CA29/29Bus CA29_S
 
-#CA-178 Sierra Section:
+#CA-178 Lake Isabella Section:
+CA CA178 CA58/99 SieWay
 CA CA178 TroRd PinRd
 
 #CA-178 Shoshone Section:
@@ -1403,7 +1407,7 @@ NZL SH8B SH6 SH8
 NZL SH75 LinRd RueJol
 
 #New Zealand SH76
-NZL HS76 SH1 ShaRd
+NZL SH76 SH1 ShaRd
 
 #New Zealand SH79
 NZL SH79 SH1 SH8
