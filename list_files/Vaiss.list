@@ -207,6 +207,35 @@ FIN St170Ham Vt7(77) Vt7(90) #02/2025 Virojoki-Kotka rinnakkaistie Helsinki Nexu
 FIN St374 Vt7 Vt26 #02/2025 Haminaa rinnakkaistie Helsinki Nexus koulutus huom puuttuu pikkupätkä!!
 FIN St170 Vt7(62) St352 #02/2025 Porvoo-Kotka rinnakkaistie Helsinki Nexus koulutus
 
+#16.2.
+FIN St348 St344 Vt23 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN St344 Kt66 St348 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN St337 Kt65 Kt66 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN Kt65 Vt3 St337 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN TamKeha 47 Kt65 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN Vt11 KouTie Vt3 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN E16 Vt2_E 47(Vt3) #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN Kt41 Vt9 Vt2/12 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN E63 Kt41 Kt40 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN E18Naa Vt9 Vt1 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN Vt10 Vt1 Kt40 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN MooTurHel 8 HuoTie #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN Vt1 NorKatu 8 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN St170 Vt7(55) Vt7(62) #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsinki
+FIN St374 St170 Vt26 #02/2025 Keuruu-Nokia Nexus koulutus Lieto-Helsink
+
+#20.2.
+FIN St170 Kt45 Vt7(55) #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN St364 Vt6 St359 #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN Vt15 Vt6 Vt5 #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN Kt72 Vt5 Vt23_E #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN St308 Vt3 Yt3003_S #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN MooTamNok Kt65 Yt2505 #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN Vt12 Kt65 PolRatKatu #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN St130 St309 MooHelTam #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN St309 St130 KauKatu #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
+FIN St559 SilTie Kt75 #2024 Rissala lentokenttä-Siilinjärvi
+
 
 
 #3222 tie sappeeelle Laht-Sappee

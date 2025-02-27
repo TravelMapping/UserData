@@ -1,5 +1,5 @@
 # ──────────
-# 2025-02-12
+# 2025-02-20
 # ──────────
 
 # ─────────
@@ -219,7 +219,7 @@ DEU-SN S1Dre RadZit Sch
 
 DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
-DEU-BY U6 StuSta SenTor
+DEU-BY U6 StuSta GoePla
 
 DEU-BY 16Mun SenTor MauKirStr
 DEU-BY 17Mun RomPla HbfNord
@@ -284,8 +284,10 @@ HUN M1 VorTer MexUt
 HUN M2 OrsVezTere SzeKalTer
 
 HUN 2Bud JasMariTer VigTer
-HUN 56Bud Var MikoUtca
+HUN 47Bud DeakFerTer MorZsiKor
+HUN 56Bud Var DozGyoTer
 HUN 60Bud Var SzeHegyGye
+HUN 61Bud Var MorZsiKor
 
 #┌───────────────────────────────────────────┐
 #│                    POL                    │

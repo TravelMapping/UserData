@@ -1,4 +1,4 @@
-# Date: 2025-02-07
+# Date: 2025-02-21
 # ----------------
 
 ######################
@@ -123,6 +123,9 @@ DEU-NW S7 WupTalHbf SolHbf                                          #2024
 DEU-NW S1 DusDorfHbf SolHbf                                         #2024
 DEU-NW S28 WupTalVohWin DusDorfGerHeim                              #2024
 
+
+DEU-BY S1 FlugHafMun Hbf         #2022 via Moosach
+DEU-BY S8 FlugHafMun Pas         #2022 via Hbf, Leuchtenbergring
 
 DEU-HE S7 FraFurtSta RiedStaGod       #2022, traveled with ICE
 DEU-HE S9Bur GrosRohrHeim HE/BW       #2022, traveled with ICE
@@ -308,7 +311,9 @@ DEU-NW S9 HalSee EssSte                        #2024
 DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark      #2025
 #DEU-NW RB31 Moers Duisburg Hbf                #2025, via Rheinhausen
 #DEU-NW RE49 Dinslaken OB-Sterkrade            #2025
-
+DEU-BY S3 Pas HolzKir                          #2025
+#DEU-BY RB58 Holzkirchen - Kreuzstraße         #2025
+DEU-BY S5 SanMarStr KreStr                     #2025
 
 
 ######################
@@ -460,13 +465,13 @@ DEU-BY U3 Moo FurRiedWest        #2022
 DEU-BY U4 WestEndStr AraPark     #2022
 DEU-BY U5 LaiPla NeuPerSud       #2022
 DEU-BY U6 GarForZen KliGroHad    #2022
-DEU-BY S1 FlugHafMun Hbf         #2022 via Moosach
-DEU-BY S8 FlugHafMun Pas         #2022 via Hbf, Leuchtenbergring
 DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
-DEU-BY 12Mun RomPla SchPla       #2024
+DEU-BY 12Mun RomPla +DIV_ParStr  #2024
+DEU-BY 12Mun KarlTheoStr SchNord #2025
 DEU-BY 16Mun KarPlaSta EffPla    #2024
 DEU-BY 17Mun AmaBurgStr Hbf      #2024
 DEU-BY 17Mun MaxWebPla StEmm     #2024
+DEU-BY 18Mun GonPla MulStr       #2025
 DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
 DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
 DEU-BY 20Mun MooBf KarPlaSta     #2024
@@ -474,8 +479,11 @@ DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
 DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
 DEU-BY 21Mun Bor_1 WestFriHof    #2024
 DEU-BY 21Mun Bor_2 KarPlaSta     #2024
+DEU-BY 23Mun SchNord MunFre      #2025
+DEU-BY 25Mun MaxWebPla OstFriHof #2025
 DEU-BY 25Mun OstFriHof DerPla    #2024
-DEU-BY 27Mun PetRing KarPlaSta   #2027
+DEU-BY 27Mun PetRing KarPlaSta   #2024
+DEU-BY 28Mun SchPla +DIV_ParStr  #2024, traveled as 12
 
 DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
@@ -486,6 +494,9 @@ DEU-BY 5Nur TierGar WorDorStr          #2024
 DEU-BY 6Nur WestFriHof DokuZen         #2024
 DEU-BY 7Nur Hbf TriStr                 #2024
 DEU-BY 8Nur Erl DokuZen                #2024
+
+DEU-BY 4Wur BurBrau KonBerStr          #2025
+DEU-BY 5Wur BerPla_1 RotBau            #2025
 
 
 DEU-BE U1 WitBergPla MocBru            #2018

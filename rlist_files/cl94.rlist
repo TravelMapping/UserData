@@ -10,7 +10,7 @@ ENG VicLn FPK BRX
 ENG WaCLn WAT BAN
 
 ENG ChiMLOxf LonMar Oxf
-ENG HT5T A C
+ENG HT5Tra GatA1A23 GatC52C66
 ENG OxfLn LonPad Oxf
 
 CA BARTRed Mil WestOak
@@ -27,6 +27,8 @@ CA MuniT King ChiRosePark
 CA PowHyde PowJacWas Bea
 CA SMART Lar RohPark
 
+CO DENTrn JepTer CGat
+
 CT NewHavLn Sta WestHav
 
 DC AE WasUniSta DC/MD
@@ -40,6 +42,8 @@ DC SilLn VA/DC DC/MD
 DC YelLn VA/DC MtVerSq
 
 DE AE MD/DE DE/PA
+
+GA PlaTrn DomTer FGatIntTer
 
 MA GreLnD Riv NorSta
 MA GreLnE Pru NorSta
@@ -75,6 +79,7 @@ NJ PATHJ33 JouSq NJ/NY
 NJ PATHNWT NewPenn NJ/NY
 
 NV AE ParkMGM Bel
+NV GreLn Ter1 CGat
 NV LVM MGMGra SLS
 NV MTI Mir TreIsl
 
@@ -147,5 +152,14 @@ VA BluLn FraSpr VA/DC
 VA OraLn VieFaiGMU VA/DC
 VA SilLn WieResE VA/DC
 VA YelLn Hun VA/DC
+
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
 
 WV CassSceRR CassDep BaldKnob
