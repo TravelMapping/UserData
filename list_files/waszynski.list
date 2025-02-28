@@ -218,7 +218,6 @@ CA I-5BLArb I-5_S I-5_N
 CA I-5BLWee I-5_S US97_N
 CA I-5BLYre CA263 I-5_N
 CA I-8BLYum I-8(172) AZ I-8BLYum HarGisPkwy
-CA I-10BLBly US95_N I-10_E
 CA I-15BLBar BarRd I-15_N
 CA I-80BLSac 1A 3
 CA I-80BLSac 9B 14C
@@ -391,7 +390,7 @@ UT UT313 End US191
 UT BryCynSceDr UT63 End
 UT CapReefSceDr UT24 CapGorRd
 UT DelArchRd MainParkRd DelArch
-UT IslSkySceDr UT313 Ends
+UT IslSkySceDr UT313 End
 UT MainParkRd US191 DevGarCam
 UT ZionCynDr UT9 End
 
