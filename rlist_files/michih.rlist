@@ -1,4 +1,4 @@
-# Date: 2025-02-21
+# Date: 2025-03-02
 # ----------------
 
 ######################
@@ -315,6 +315,13 @@ DEU-BY S3 Pas HolzKir                          #2025
 #DEU-BY RB58 Holzkirchen - Kreuzstraße         #2025
 DEU-BY S5 SanMarStr KreStr                     #2025
 
+#DEU-RP RE3 Idar-Oberstein Mainz               #2025
+DEU-RP S6 MaiHbf LudHafHbf                     #2025, traveled as RE4
+#DEU-RP RE4 Mainz Ludigshafen                  #2025
+DEU-RP S1 LudHafHbf RP/BW                      #2025
+DEU-BW S1Man RP/BW MannHeimHbf                 #2025
+DEU-BW S9 MannHeimHbf KarRuheHbf               #2025
+#DEU-BW RE1 Karlsruhe-Durlach Stuttgart Hbf    #2025, rerouted via Bietigheim-Bissingen
 
 ######################
 #### METROS/TRAMS ####
@@ -399,6 +406,7 @@ DEU-BW 2Fre Hbf DorfStr            #2022
 DEU-BW S4Kar AlbTalBf KroPla       #2022
 DEU-BW 1Kar MuhlBurTor KroPla      #2022
 DEU-BW 2Kar KniNord BahVorPla      #2022, via ZKM, Europaplatz
+DEU-BW 2Kar BahVorPla EllStr       #2025
 
 #Mannheim tram main station was closed due to construction in July 2022
 DEU-BW 1Man SchEndSte Uni          #2022
