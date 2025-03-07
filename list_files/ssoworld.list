@@ -2732,11 +2732,9 @@ OK OK66 I-44(221) I-44(241)
 OK OK112 US59/271 US271_N
 OK OK351 OK51_W OK364
 OK OK364 OK351 33
-   OK OK375 63 104                  # Indian Nation Turnpike
+OK OK375 63 104                  # Indian Nation Turnpike
 # Double entered under USA Interstates by primary above - remove if concurrency is deleted
-OK OK152 JohnKilTpk I-44         # New segment of I-240
-OK JohnKilTpk OK152 I-35/44      # John Kilpatrick Turnpike (Now I-344)
-OK KicTpk 130 149                # Kickapoo Turnpike (Now I-335)
+OK OK152 JohnKilTpk I-44         # New segment of I-240?
 OK GilExpy TisPkwy I-244         # Gilcrease Expressway
 # OK TisPkwy I-244 GilExpy       ## Tisdale Parkway - not in roll right now.
 
