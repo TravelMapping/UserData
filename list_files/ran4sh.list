@@ -1,45 +1,57 @@
 # North-South primary interstates
 # 99 New York
-# 95 Jacksonville-CT
+NY	I-95	13	CT	I-95	76
+NJ	I-95	6	NY	I-95	1C
+PA	I-95	17			22
+DE	I-95	11	PA	I-95	14
+FL	I-95	337	DE	I-95	8	
 # 91 New Haven-Wallingford/Meriden
 # 87 New York
 # Omit 87 NC for now, use US route only
-# 85 clinched
+AL	I-85	0	VA	I-85	68
 # 83 almost clinched
 # 81 TN-Syracuse
+TN	I-81	1	NY	I-81	25A
 # 79 PA Tpk-I-80
-# 77 SC-wytheville
-# Omit 77 WV, covered by 64
-# 75 tampa-cincinnati
+OH	I-77	44			47
+SC	I-77	I-26	VA	I-77	32
+FL	I-75	261	OH	I-75	1B	
 # 71 cincinnati-I-76
 # 69 indianapolis-ft wayne
 # 65 mobile-huntsville
 # 65 nashville-nw indiana
 # 59 hattiesburg-chattanooga
 # 57 I-24-chicago
-# 55 us 82?-chicago
-# 43 state line-milwaukee
-# 41 milwaukee (maybe omit overlap part)
-# 39 bloomington-madison
+IL	I-57	318			358
+IL	I-57	44			315
+MS	I-55	185	IL	I-55	US41
+WI	I-43	1			72A
+WI	I-41	38			54
+WI	I-39	175(90)			142(90)
+IL	I-39	I-55	WI	I-39	177(90)
 # 15 san diego-las vegas
 # 11 las vegas
 # 5 san diego
 # 5 los angeles-seattle
 
 # East-West primary interstates
-# 94 madison-nw indiana (maybe omit 80 overlap part)
-# 90 chicago
-# Omit 80 overlap of 90 (use 80 for it)
-# 90 south bend in-utica/rome? ny
+WI	I-94	240	IL	I-94	74
+OH	I-90	142	NY	I-90	31(NYST)
+IL	I-90	68			43B(94)
+WA	I-90	106			176
 # 88 chicago
 # 86 new york
 # 84 oregon
 # 84 scranton-hartford
-# 80 sacramento area (grandparents/molly/katalysst etc)
+NJ	I-80	65			68
+IN	I-80	96	NJ	I-80	43
+IL	I-80	112	IN	I-80	72
+IA	I-80	284	IL	I-80	79
+CA	I-80	33			82
 # 78 harrisburg-nyc area
 # 76 I-71-ohio tpk
 # 76 pennsylvania
-# 74 quad cities-indianapolis
+IA	I-74	I-80	IN	I-74	73
 # Omit 74 extension (NC) except where necessary
 # 72 jacksonville-champaign
 # 70 columbia mo-pa tpk
@@ -48,27 +60,50 @@
 # 64 west virginia-virginia
 # 44 st louis
 # Omit 42 nc, use US route
-# 40 california-raleigh
-# 40 wilmington
+NC	I-40	385			416
+CA	I-40	I-15	NC	I-40	309
 # 30 dallas-little rock (greyhound)
-# 26 asheville-spartanburg
-# 26 columbia-charleston
-# 24 illinois-chattanooga
+SC	I-26	107			216
+NC	I-26	4A(240)	SC	I-26	18
+IL	I-24	I-57	TN	I-24Cha	185
 # 22 memphis-birmingham
-# 20 texas-south carolina
-# 16 georgia
+TX	I-20	I-10	SC	I-20	141
+GA	I-16	1			167
 # 10 california-texas
 # 10 mississippi-alabama
 # 10 florida
 # 8 san diego
 # 4 florida
 
-GA	I-16	1			167
-AL	I-20	123	SC	I-20	141
-TN	I-24	43	TN	I-24Cha	185
-FL	I-75	274	TN	I-75	2
-AL	I-85	0	VA	I-85	68
-FL	I-95	362	GA	I-95	94
+# Long-distance US route travel
+
+# PA-NY Williamsport-Rochester
+PA	US15	I-80		NY	US15	I-99(15)
+NY	I-86	36				44
+# NY state routes to Canandaigua
+
+# Eastern PA - Allentown, Reading, WilmingtonDE-York, Harrisburg
+# OH-PA I77-Pittsburgh
+# VA US 460 & US 58
+# Southeast (Carolina/Georgia/Florida)
+# FL-AL Tallahassee-Montgomery
+# FL-AL PanamaCityBeach-ColumbusGA
+# GA-AL Tifton-Birmingham
+# AL-TN Huntsville-Chattanooga
+# MS Greenwood
+# AR Jonesboro
+# OH-WV Charleston-Dayton
+# OH-IN Columbus-FtWayne-Chicago
+# OH-IN Toledo-FtWayne
+# IL Bloomington-Decatur
+# IL Jacksonville-StLouisMO
+# AZ Grand Canyon
+# NV-AZ Las Vegas from I-40
+# CA Lake Tahoe
+
+WA	US97	I-82(37)			I-90(106)
+CA	US97	I-5		WA	US97	WA22
+
 GA	I-185	8			I-85
 GA	I-285	GA279			62
 GA	I-475	I-75_S			3
@@ -244,9 +279,6 @@ GA GA162ConPor	GA162		GA81
 GA RonReaPkwy	PleHillRd	GA124
 GA SugPkwy	GA20		US29_E
 
-NC	I-26	4A(240)	SC	I-26	18
-SC	I-26	107			216
-SC	I-95	160	DE	I-95	5C
 SC	I-126	I-26			US21
 SC	I-385	35			42
 SC	I-526	10			17
@@ -296,12 +328,6 @@ SC	SC461	SC61		I-526
 SC	SC544	US17		US17Bus
 SC	SC576	US76		US501Bus/41Alt
 
-TN	I-40	387	NC	I-40	46
-NC	I-77	1B	VA	I-77	32
-
-NC	I-40	85	103
-NC	I-40	281	293
-NC	I-40	385	416
 NC	I-140	14	20
 NC	I-240	1A	9
 NC	I-277	1B	5
@@ -344,7 +370,6 @@ NC	NC177	SC/NC		US1
 NC	NC225	US25_S		US176
 NC	NC280	US64/276	I-26
 
-VA	I-81	81	PA	I-81	89
 PA	I-78	1	NJ	I-78	59
 
 #Norfolk/Williamsburg
@@ -843,22 +868,10 @@ VA	US60	VA150		VA161
 VA	US1	US60		I-95(76B)
 VA	VA156	US60_W		I-295(31)
 
-IL	I-39	I-55	WI	I-39	177(90)
-WI	I-39	175(90)			142(90)
-WI	I-41	IL/WI			54
-WI	I-43	1			72A
-IL	I-55	MO/IL			US41
-IL	I-57	44			315
-IL	I-57	318			358
 KY	I-65	TN/KY			91
 KY	I-65	102			136B
 IN	I-65	1A			110B
-IA	I-74	I-80	IN	I-74	73
-IA	I-80	284	IL	I-80	79
-IL	I-80	112			IL/IN
 IL	I-88	131			I-294_N
-IL	I-90	68			59A(94)
-WI	I-94	240	IL	I-94	IL/IN
 
 TN	TN155	6	US70
 TN	TN254	I-65	I-24
@@ -880,12 +893,13 @@ IL	I-55BLBlo	I-55_S	I-55_N
 IL	US51BusBlo	US51_S	US51_N
 
 IL	US51	I-72(141)	I-74(135)
-IL	US150	US24/116	SemSt
+IL	US136	MainSt_McL	US150
+IL	US150	US24/116	US136
 IL	IL9	CouSt		I-57
 IL	IL29	AnnSt		I-74(95A)
 IL	IL116	I-39		I-55
 
-IL	US66HisChi	CR32	CR65
+IL	US66HisChi	US136_E	CR65
 
 IL	US41	31stSt		LakeShoDr_N
 IL	US20	I-290(13)	I-294(33)
