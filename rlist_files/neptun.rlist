@@ -1,5 +1,5 @@
 # ──────────
-# 2025-03-08
+# 2025-03-09
 # ──────────
 
 # ─────────
@@ -219,15 +219,20 @@ DEU-SN S1Dre RadZit Sch
 
 DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
+DEU-BY U3 SchPla MunFre
+DEU-BY U5 Hbf NeuPerSud
 DEU-BY U6 StuSta GoePla
 
 DEU-BY 16Mun SenTor MauKirStr
 DEU-BY 17Mun RomPla HbfNord
+DEU-BY 18Mun Gie SenTor
+DEU-BY 28Mun SenTor SchPla
 
 DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
 DEU-BY S2 Dac Hbf
 DEU-BY S2Pet PetHau Dac
+DEU-BY S5 NeuPerSud Gie
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
