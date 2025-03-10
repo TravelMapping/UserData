@@ -1,8 +1,7 @@
-# Image Number 8967
-
 # CANADA
 
 # Canada Select Named Freeways
+AB CroTrl 10Ave MemDr
 BC KniSt BriRd 63rdAve
 ON AllRd EglAve TraRd
 ON DonValPkwy GarExpy ON401/404
@@ -17,10 +16,12 @@ ON RR174 ON417 RR57
 SK RingRd SK6_N PasSt
 
 # Alberta Provincial Highways
-AB AB1 AB93_S AB2
-AB AB2 AB533_W 266
+AB AB1 AB1A_W 36St
+AB AB1ALak AB1_W WhiRd
+AB AB2 AB533_W 271
 AB AB3 BC/AB AB22
 AB AB22 AB3 AB533
+AB AB201 36 60
 AB AB93 BC/AB AB1_E
 AB AB533 AB22 AB2_S
 
