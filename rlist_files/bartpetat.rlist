@@ -101,13 +101,13 @@ NLD 3Haa Hel CenWest_2
 NLD 9Haa ZwaPad KalSta
 NLD 34Haa SavLoh LanZoe
 
-NLD 4Rot Koo +DIV_8S
-NLD 4Rot +DIV_25 RotCen
+NLD 4Rot Koo +DIV_Zaa
+NLD 4Rot +DIV_8 RotCen
 NLD 7Rot Zaa RotCen
-NLD 8Rot +DIV_47 Beu
-NLD 24Rot Oos Beu
-NLD 25Rot Beu +DIV_47
-NLD 25Rot RotCen LOOP
+NLD 8Rot Schw LOOP
+# NLD 24Rot Oos Beu
+# NLD 25Rot Beu +DIV_47
+# NLD 25Rot RotCen LOOP
 
 
 # BELGIUM
@@ -384,7 +384,6 @@ JPN HanzomonLn Z13 Z14
 JPN ChuoSobuLn JB10 JB22
 JPN GinzaLn G01 G08
 JPN YamanoteLn JY01 JY17
-JPN TokTozaiLn T03 T04
 
 #Kyoto
 JPN KarasumaLn K09 K11
@@ -436,8 +435,8 @@ MAC TaipaLn PaiKok Bar
 
 
 #CHINA
-CHN-GX LanGuang +DIV_GuiLinN 
-CHN-GD LanGuang GuangZhouS
+CHN-GX LanGuang +DIV_GuiLinN GX/GD
+CHN-GD LanGuang GX/GD GuangZhouS
 
 CHN-GD GuangShenGang GuangZhouS ShenZhenN
 
