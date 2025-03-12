@@ -1,4 +1,14 @@
+#Intercity Rail
+
+#Amtrak
+IL BO UniSta IL/WI
+MN BO WI/MN StPaulUniDep
+WI BO IL/WI WI/MN
+
 #Heavy Rail
+
+#Chicago L
+IL BroLn Qui StaLake
 
 #New York City Subway
 NY S42 TimSq GraCen
