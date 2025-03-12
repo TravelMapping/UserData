@@ -1,5 +1,5 @@
 # ──────────
-# 2025-03-09
+# 2025-03-11
 # ──────────
 
 # ─────────
@@ -201,7 +201,20 @@ AUT 2Wie Schw Tabs
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S7 WienRen Flu
 AUT S40 TulDon WienFraJosBah
-AUT S60 WienHau BruLei
+AUT S60 WienMie BruLei
+
+# ────────
+# Salzburg
+# ────────
+
+AUT S2Sal Str DEU-BY S2Sal Fre
+
+# ────
+# Linz
+# ────
+
+AUT S1Obe LinzHau +DIV_R53
+AUT S2Obe Wels LinzHau
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
@@ -232,6 +245,7 @@ DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
 DEU-BY S2 Dac Hbf
 DEU-BY S2Pet PetHau Dac
+DEU-BY S4 OstBf Gra
 DEU-BY S5 NeuPerSud Gie
 
 #┌───────────────────────────────────────────┐
@@ -291,6 +305,7 @@ HUN M3 UjpKoz KobKis
 HUN M4 KelPal KelVas
 
 HUN 2Bud JasMariTer VigTer
+HUN 4Bud JasMariTer SzeKalTer
 HUN 14Bud UjpKoz LehTer
 HUN 47Bud DeakFerTer MorZsiKor
 HUN 56Bud Var DozGyoTer
