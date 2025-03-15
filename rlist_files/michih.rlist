@@ -1,4 +1,4 @@
-# Date: 2025-03-02
+# Date: 2025-03-14
 # ----------------
 
 ######################
@@ -424,6 +424,11 @@ DEU-RP 6Lud RheGonHeimEndSte LudStr #2025
 DEU-RP 7Lud Opp BerPla             #2025
 DEU-RP 10Lud FriHeimMit LuiHaf     #2025
 #DEU-RP 4ALud Hbf SudWestSta       #2025, rerouted 4A due to Konrad-Adenauer-Brücke closure
+DEU-BW 22Hei KirHeiStr StaBuc      #2025
+DEU-BW 23Hei StaBuc FriHof         #2025
+DEU-BW 24Hei +DIV_Han BetKraHaus   #2025
+DEU-BW 26Hei +DIV_Han KirHeimFriHof #2025
+
 
 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
