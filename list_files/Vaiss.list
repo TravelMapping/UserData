@@ -236,6 +236,18 @@ FIN St130 St309 MooHelTam #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
 FIN St309 St130 KauKatu #02/2025 Nexus koulutus Tampere+Helsinki tiimipalaveri
 FIN St559 SilTie Kt75 #2024 Rissala lentokenttä-Siilinjärvi
 
+#13.3.
+FIN St573 Vt9 St566/569 #03/2025 Tahkolle
+FIN St569 St566/573 St577 #03/2025 Tahkolle
+FIN St577 Kt75 St569 #03/2025 Tahkolle
+FIN St577 Kt75 TahTie #03/2025 Tahkolle
+FIN Kt75 Vt5 St577 #03/2025 Tahkolle
+FIN St559 Vt9 Vt5_N #03/2025 Tahkolle
+FIN St553 Vt5_S ToVt5/9 #03/2025 Nexus koulutus Kuopio + Jyppi
+FIN Vt9 SatKatu 61(Vt5) #03/2025 Nexus koulutus Kuopio + Jyppi
+FIN St637 Vt4/13_S St640 #03/2025 Nexus koulutus Kuopio + Jyppi
+FIN St640 Vt9/13 St637 #03/2025 Nexus koulutus Kuopio + Jyppi
+
 
 
 #3222 tie sappeeelle Laht-Sappee
