@@ -1,5 +1,5 @@
 # ──────────
-# 2025-03-11
+# 2025-03-17
 # ──────────
 
 # ─────────
@@ -178,9 +178,10 @@ CZE 13Ost RedVit DolVit
 
 CZE S2Mor OstSvi MosJab
 CZE S3Mor OstHlaNad HraNaMor
+CZE S4Mor Sed MosOstAir
 CZE S5Mor FryNadOst Ost
-CZE S6Mor OstHlaNad LisFry
-CZE S6Mor FryMis FryNadOst
+CZE S6Mor OstHlaNad Ver
+CZE S8Mor Stu Ver
 CZE S9Mor OstKun CesTes
 CZE S22Mor MosJab MosJabZas
 
