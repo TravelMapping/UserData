@@ -276,6 +276,7 @@ CA CA299 US395_S CA/NV
 CA AlfHarHwy PanDr HartMemPark
 CA BadRd CA178 CA190
 CA BigOakRd CA120 TioPassRd
+CA DanViewRd CA190 DanView
 CA DayPassRd NorHwy CA/NV
 CA ElPorRd CA140 SouDr_E
 CA GenHwy CA198 KinCanRd
@@ -2403,6 +2404,7 @@ OH I-680 1 3A
 OH I-75BLSid I-75_S I-75_N
 OH I-75BLFin I-75_S I-75_N
 OH DayAirRd I-70 BoeDr
+OH IntGtwy CasAve RCCtr
 OH RonReaHwy I-275 I-71
 OH US6 OH66_N US23
 OH US6 CedPoiCau OH2San_E
