@@ -2023,24 +2023,36 @@ CO CO172 US160 NM/CO #12032024 Jemez Inventory
 CO US36 US385_S CO63 #01082025 YW Inventory 
 CO US40 CR32 CO94 #01092025 Sangre de Cristo Inventory
 CO US40 CO64 CO13_S #01112025 GV Inv Off Day
+CO US40 I-70BLDen_W I-70(254) #03212025 Drive around Den after CO FW
 CO US385 US40_E CO96_E #01292025 KC to SW
 CO US385 CR196 US50/400 #01292025 KC to SW
 CO US50TrkLam US50_W US50_E #01292025 KC to SW    
 CO DinParkRd US40 DeePark #01112025 GV Inv Off Day
 CO ParkRd VisCen End #01142025 Travel to Trinidad San Isabel
+CO CO8 CO391 CO470 #03212025 Drive around Den after CO FW
+CO CO8 CO391 CO121 #03212025 Drive around Den after CO FW 
+CO CO26 I-25 CO95 #03212025 Drive around Den after CO FW 
 CO CO36 ColAve_W I-70(316) #01282025 KC Inventory
 CO CO40 CO36 MainSt #01282025 KC Inventory       
 CO CO52 CO79 CO39 #01072025 Morgan Inventory
-CO CO64 CO13 DriRockRd #01112025 GV Inv Off Day   
+CO CO64 CO13 DriRockRd #01112025 GV Inv Off Day
+CO CO72 CO93 I-70 #03212025 Drive around Den after CO FW     
 CO CO79 CO36_E CO52 #01072025 Morgan Inventory
+CO CO88 CO26 US6 #03212025 Drive around Den after CO FW
+CO CO88 US285 CO26 #03212025 Drive around Den after CO FW 
 CO CO90Mon US550 CR90 #01132025 Grand Valley Inventory
 CO CO92 US50_E US50_W #01102025 Grand Valley Inventory
+CO CO93 US6 CO72 #03212025 Drive around Den after CO FW
+CO CO95 CO26 US285 #03212025 Drive around Den after CO FW
+CO CO95 I-76 CO26 #03212025 Drive around Den after CO FW 
 CO CO112 US160 US285 #01142025 Travel to Trinidad San Isabel 
 CO CO135 US50 ElkAve #01142025 Travel to Trinidad San Isabel  
 CO CO139 US6/50 CO64 #01112025 GV Inv Off Day
 CO CO149 US50 US160 #01142025 Travel to Trinidad San Isabel
 CO CO165 I-25 AbbRd #01152025 SIEC Inv Lunch High octane
-CO CO348 US50_W US50_E #01132025 Grand Valley Inventory  
+CO CO348 US50_W US50_E #01132025 Grand Valley Inventory
+CO CO391 US285 CO8 #03212025 Drive around Den after CO FW
+CO CO391 US6 CO8 #03212025 Drive around Den after CO FW  
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
 CT I-395 37 CT/MA #Trip with GJ Telergee
 CT US6 CT/RI I-395 #Trip with GJ Telergee
