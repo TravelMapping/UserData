@@ -1733,8 +1733,10 @@ AL AL17 AL133_N AL/TN #11152024 Visit Bea
 AL AL21 US80_W AL28 #Camden Audit
 AL AL21 AL77_N US231/280 #Coosa Electric Audit
 AL AL21 FL/AL US31 #01182025 Cathy Scrap WE Drive Around
+AL AL21 AL28 AL47_N #03232025 Travel Home from Bea
 AL AL22 BUS80_E AL5 #Pine Belt Audit
-AL AL22 AL139 US80/14 #10042024 Travel to visit Bea 
+AL AL22 AL139 US80/14 #10042024 Travel to visit Bea
+AL AL22 AL191 AL139 #03232025 Travel Home from Bea  
 AL AL24 AL157 AL67 #Joe Wheeler Electric
 AL AL24 AL243 US43 #11152024 Visit Bea 
 AL AL25 US78 US231_N #08262024 Trip from Bea to Home
@@ -1748,6 +1750,8 @@ AL AL35 US72/279 AL9 #Sand Mountain Electric
 AL AL36 US31 US231 #New Hope Audit 
 AL AL41 AL10/28 AL265 #Camden Audit
 AL AL41 I-65 US29/31 #11192024 Trip Back from Bea
+AL AL41 US80_E AL89 #03232025 Travel Home from Bea
+AL AL47 AL83 CR106 #03232025 Travel Home from Bea 
 AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha
 AL AL50 AL229 AL49 #Lake Martin   
 AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home 
@@ -1774,16 +1778,19 @@ AL AL75 US231_N I-59 #Oneonta Audits
 AL AL77 US431_N US411 #08262024 Trip from Bea to Home
 AL AL77 AL21_S US411 #Ragland Audit   
 AL AL79 AL/TN US431_N #04062024 Jackson to Scott Co Trip
+AL AL79 US231_S I-20/59 #03232025 Travel Home from Bea 
 AL AL81 US29/80 I-85 #Tuskgee Airman Trip 
 AL AL85 AL92_W US84/134 #Travel to St Andrews from Rucker
 AL AL85 AL27 AL92_W #08252024 Travel Home to Bea's 
 AL AL87 AL167_S US84_W #08162024 Trip from Bea to Home
+AL AL89 AL41 AL21 #03232025 Travel Home from Bea 
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
 AL AL94 US331 US231 #Mon-Cre Audit
 AL AL97 US331 US31_N #10042024 Travel to visit Bea
 AL AL97 US31_S US80 #10042024 Travel to visit Bea 
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
-AL AL104 AL59 US98 #Trip to Grand Hotel 09052024  
+AL AL104 AL59 US98 #Trip to Grand Hotel 09052024
+AL AL106 NixRd I-65 #03232025 Travel Home from Bea   
 AL AL111 AL14 AL143 #Living in Prattville    
 AL AL113 I-65 US29/31_N #Pensacola Beach Trip
 AL AL117 AL/TN US72 #Russell Cave NM Trip
@@ -1824,6 +1831,7 @@ AL AL182 DolDr AL/FL #Gulf Shore Trip
 AL AL185 I-65(130) AL10 #Pioneer Electric Audit
 AL AL185 AL10 US31_S #10042024 Travel to visit Bea 
 AL AL189 US84_W AL52 #08162024 Trip from Bea to Home
+AL AL191 US31 AL22 #03232025 Travel Home from Bea 
 AL AL193 AL163 LeMoyDr #Orange Beach Trip took Ferry
 AL AL195 AL5 AL243 #11152024 Visit Bea
 AL AL196 AL52 AL27 #08162024 Trip from Bea to Home
@@ -3076,7 +3084,8 @@ TN US411 GA/TN US321 #10242017 Meeting in Pigeon Forge
 TN US412 I-65 US641 #07022017 Memphis IKEA
 TN US412 TN54/88 I-40(79) #07022017 Memphis IKEA
 TN US412 TN54/88 US51_S #10182019 Trip to KC
-TN US412 US70/412Bus TN152_Cla #Bea to Scott County  
+TN US412 US70/412Bus TN152_Cla #Bea to Scott County
+TN US412 TN152_Cla US641 #03222025 Kids to Safari   
 TN US421 TN/VA NC/TN #09082018 Visit Jimmy in Boone
 TN US431 I-24(35) US31E/31W #05082018 Loretto Trip - Concerts
 TN US431 US70_NasW US31/31Bus #05082018 Loretto Trip - Nashville Work
@@ -3094,7 +3103,8 @@ TN US70BusLeb US70_W US70_E #07012017 Trip to Mt Juliet
 TN US412BusCol US412_W US31_S #11152024 Visit Bea
 TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
 TN NatTraPkwy TN100 US64 #05082018 Loretto Trip
-TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled  
+TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled
+TN TN7 TN247_W SanFePk #03222025 Kids to Safari - Dark Mills Rd  
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
 TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
@@ -3124,7 +3134,8 @@ TN TN49 US79 TN48_S #09042017 GibsonEMC Visit
 TN TN50 TN245 US31 #08252024 Travel Home to Bea's
 TN TN50 I-65 US31 #10042024 Travel to visit Bea
 TN TN50 I-65 US431 #10042024 Travel to visit Bea
-TN TN50 TN245 US43/412 #11152024 Visit Bea    
+TN TN50 TN245 US43/412 #11152024 Visit Bea
+TN TN50 TN48/100_W TN247 #03222025 Kids to Safari   
 TN TN51 TN/KY TN52 #07252017 Return from Scott County
 TN TN52 TN51 TN10 #07252017 Return from Scott County
 TN TN52 US27 TN111 #11032017 Visit to Clinton 
@@ -3160,6 +3171,7 @@ TN TN96 TN100_E I-40(268) #07242017 Travel to SCTC
 TN TN99 TN96 I-65 #11222017 Drive Around  
 TN TN100 US70S TN96_E #07022017 Memphis IKEA
 TN TN100 US412_W US64 #07022017 Memphis IKEA
+TN TN100 US412_E TN50_E #03222025 Kids to Safari
 TN TN102 TN96 TN266 #Living in Nashville Area 
 TN TN104TrkDye TN104_W US51Bus #08292017 Sir Fabric F'ville Trip  
 TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet
@@ -3202,7 +3214,8 @@ TN TN245 TN166 TN50 #08252024 Travel Home to Bea's
 TN TN246 I-840 US31 #11172024 Driving around visiting Bea 
 TN TN247 US31_N BucLn #08262024 Taking D to School
 TN TN247 TN246_S US31_N #11172024 Driving around visiting Bea
-TN TN247 BucLn US431 #11172024 Driving around visiting Bea 
+TN TN247 BucLn US431 #11172024 Driving around visiting Bea
+TN TN247 TN50 TN7_S #03222025 Kids to Safari 
 TN TN248 I-65 US31 #Visiting Franklin to M'Boro
 TN TN252 TN96 US31 #Living in Nashville Area
 TN TN253 US31 US31Alt/41Alt #Living in Nashville Area 
