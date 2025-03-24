@@ -217,7 +217,7 @@ SVK I60 I18 I64
 SVK I64 I64C I60
 SVK I64C D1 I64              #Signed as I64B: https://forum.travelmapping.net/index.php?topic=6778
 SVK D1 188 199
-SVK D3 2 8
+SVK D3 1 8
 SVK I61 D3 I60
 SVK I60 I11_E I18
 SVK I60 I61 I11_W
