@@ -1,4 +1,4 @@
-# Date: 2025-03-24
+# Date: 2025-03-26
 # ----------------
 
 
@@ -8443,7 +8443,7 @@ ITA A19DirPal ViaEmiGia A19
 ITA A20 A18 A19
 ITA A21 SS29 A4
 ITA A21Cor A21 A1
-ITA A21RaccBre SPBS235 ViaBre   #Also traveled SP19 up to A4's exit Ospitaletto (currently u/c to be upgraded to motorway)
+ITA A21RaccBre ToA4 ViaBre
 ITA A22 AUT/ITA A1
 ITA A23 A4 ITA/AUT
 ITA A24 CirTib SS80Rac
