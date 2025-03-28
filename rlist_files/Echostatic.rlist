@@ -1,4 +1,20 @@
+#Intercity Rail
+
+#Amtrak
+IL BO UniSta IL/WI
+MN BO WI/MN StPaulUniDep
+WI BO IL/WI WI/MN
+
 #Heavy Rail
+
+#Chicago L
+IL BlueLn Bel UICHal
+IL BroLn Kim Loop
+IL OraLn Mid Loop
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn Roo How
+IL SkoSwi DemSko How
 
 #New York City Subway
 NY S42 TimSq GraCen

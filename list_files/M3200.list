@@ -164,6 +164,8 @@ CA ScoCasRd CA190 ScoCas
 CA GenHwy CA198 LodRd
 CA ParkBlvd CA62_W CA62_E
 CA PinBasRd I-10 ParkBlvd
+CA DanViewRd CA190 DanView
+CA AlfHarHwy PanDr HartMemPark
 
 #CA_StateHighways
 
@@ -746,7 +748,6 @@ HI HI36 AirAccRd HI37
 HI HI37 HI36 HI377_N
 HI HI377 HI37_N HI378
 HI HI378 HI377 HalNP
-HI HI240 HI19 WaiValRd
 
 #IA_Interstates
 
@@ -2122,7 +2123,6 @@ VT I-93 NH/VT 1
 #VT_StateHighways
 
 VT VT18 I-93 US2
-VT VT119 US5 VT/NH
 
 #VT_USHighways
 
@@ -2481,6 +2481,7 @@ IRL N18 4 9
 IRL N70 R561_W R563
 IRL R563 N70 N72
 IRL N72 R563 N22_N
+IRL R148 R108 RoryOMoBri
 
 #ITALY
 
