@@ -2141,9 +2141,11 @@ FL US98BusPen US98_E US98_W
 FL US441 FL806 US98_E #03292017 Glades Board Meeting
 FL FLA1A US1Bus_S FL202 #07072017 Trip to St Augustine
 FL FLA1AFer SJRivFry AmeIslPkwy_N  #07072017 Trip to St Augustine
+FL FLA1AFor US98 FL802 #03272025 Glades Board Meeting 
 FL FLA1ANor US1_N US1_S #03262025 Glades Board Meeting 
 FL FLA1ANSB FL44 CRA1A #02122017 Trip to Canveral National Seashore
 FL FL4 US29 FL87 #11192024 Trip Back from Bea
+FL FL7 US98/441 60thSt #03272025 Glades Board Meeting  
 FL FL16 US17_S US1Bus #07072017 Trip to St Augustine
 FL FL19 US441_N US27 #03282018 Glades Board Meeting
 FL FL20Hig US27/41 US441 #07272024 TFACC Meeting
@@ -2211,16 +2213,26 @@ FL FL417 17 26 #07272024 TFACC Meeting
 FL FL436 FL528 FL15 #07272024 TFACC Meeting
 FL FL492 US27/301 FL40 #Silver Springs Trip with Kids 
 FL FL528 11 42 #02112017 Trip to Canveral National Seashore
+FL FL700 US98/441_S US98/441 #03272025 Glades Board Meeting
+FL FL704 FL7 ALA1A #03272025 Glades Board Meeting  
 FL FL708 US1 PBObaHwy #03262025 Glades Board Meeting
 FL FL708 FL809 FL710 #03262025 Glades Board Meeting
-FL FL710 CR811 FL70 #03262025 Glades Board Meeting   
+FL FL710 CR811 FL70 #03262025 Glades Board Meeting
+FL FL715 FL80 US98/441 #03272025 Glades Board Meeting
+FL FL717 FL715 FL15/80_N #03272025 Glades Board Meeting
+FL FL717 FL15/80_S FL880 #03272025 Glades Board Meeting     
 FL FL727 FL295 FL292 #01182025 Cathy Scrap WE Drive Around
+FL FL729 US98/441_S US98/441_N #03272025 Glades Board Meeting 
 FL FL742 US90 US29 #12132024 Trip to Hattiesburg
 FL FL750 FL291 I-110 #Pensacola Beach Trips from Airport 
 FL FL752 FL295 FL289 #09072024 Trip Back from The Grand
-FL FL786 FL809 US1 #03262025 Glades Board Meeting 
+FL FL786 FL809 US1 #03262025 Glades Board Meeting
+FL FL802 FLA1A FL809 #03272025 Glades Board Meeting 
 FL FL806 I-95 US441 #03292017 Glades Board Meeting
-FL FL809 BelRd FL786 #03262025 Glades Board Meeting 
+FL FL809 BelRd FL786 #03262025 Glades Board Meeting
+FL FL809 FL802 BelRd #03272025 Glades Board Meeting
+FL FL812 FL715 US98/441 #03272025 Glades Board Meeting  
+FL FL880 FL717 FL15/80 #03272025 Glades Board Meeting 
 FL FL886 US1 FloWay #Going on Crusies out of Miami
 FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
 GA I-16 167 157 #03142017 NTCA Meeting Trip
