@@ -2,9 +2,11 @@ AZ SW CA/AZ AZ/NM
 AZ SunLink CusAvCon 2ndStHigAve
 
 BC AC USA/CAN VanPacCen
+BC CanLn Wat YalRou
 
 CA CS UniSta Eme
 CA SW UniSta CA/AZ
+CA MuniF 3rdKea Pier39Sto
 
 CO SW NM/CO CO/KS
 
@@ -59,6 +61,8 @@ NJ PATCO PA/NJ Had
 
 NM SW AZ/NM NM/CO
 
+OR ALp PSUUrbCen 10thCou
+
 PA AirLn PHLTerEF Phi30thSt
 PA BroStLn NRG CityHall
 PA ManNorLn Phi30thSt Man
@@ -72,6 +76,12 @@ POL S3Kra Osw KraGlo
 VA BluLn Ros ArlCem
 VA SilLn Ros VA/DC
 
+WA AC SeaKingSt USA/CAN
+WA 1 UDis SeaTacAir
+WA 1stHillLn OccMall 7thJac
+WA GreLn DGat_Sta DGat_Fin
+
+WI EBPor MN/WI WI/IL
 WA AC SeaKingSt USA/CAN
 WA 1 UniWas SeaTacAir
 WA 1stHillLn OccMall 7thJac
