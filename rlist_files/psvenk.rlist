@@ -25,6 +25,23 @@ QC BluLn Sno CotDesNei
 # Los Angeles Metro
 CA A UniSta Arc
 
+# Chicago L
+IL OraLn Mid Loop
+
+# Toronto subway and streetcars
+ON 1 Spa Uni
+ON 1 King Que
+ON 1 Col BloYon
+ON 2 HighPk MainSt
+ON 501 GlenAve SpaAve
+ON 504a PetSt YonSt
+ON 504a SumSt MillStDisLp
+ON 504b SumSt GerStE
+ON 506 AugAve Col
+ON 506 BroAve MainStSta
+ON 510 SpaSta ColSt
+ON 510 QueStW ReesSt
+
 # New York City Subway
 NY A 34StPennSta 14St
 NY A ChaSt FulSt
