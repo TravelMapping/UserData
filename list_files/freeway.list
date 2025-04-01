@@ -1067,27 +1067,27 @@ ITA A12Liv A12 SS1_Liv
 ITA A13 A14 A4
 ITA A13Pad A13 CorPriMag
 ITA A13Fer A13 SS309
-ITA A14 
-ITA A14Cas
-ITA A14DirRav
-ITA A14Bar
-ITA A15
-ITA A15San
-ITA A15Ler
-ITA A16
-ITA A18
-ITA A18Sir
-ITA A18DirCat
-ITA A19
-ITA A19DirPal
-ITA A20
-ITA A21
-ITA A21Cor
-ITA A21RaccBre
-ITA A22
-ITA A23
-ITA A24
-ITA A25
+ITA A14 A1 SS7
+ITA A14Cas A14 A1
+ITA A14DirRav A14 SS16
+ITA A14Bar A14 TanBari
+ITA A15 A1 SP331 #extension north under construction
+ITA A15San A15 ViaAlcGas
+ITA A15Ler A15 SP331
+ITA A16 A1 A14
+ITA A18 A20 RA15
+ITA A18Sir SP14 SS194
+ITA A18DirCat A18 ViaMarPolo
+ITA A19 A19Dir StrBum #and extension east into Catania
+ITA A19DirPal ViaEmiGia A19
+ITA A20 A18 A19
+ITA A21 SS29 A4
+ITA A21Cor A21 A1
+ITA A21RaccBre ToA4 ViaBre
+ITA A22 AUT/ITA A1
+ITA A23 A4 ITA/AUT
+ITA A24 CirTib SS80Rac
+ITA A25 A24 A14
 ITA A26
 ITA A27
 ITA A28
@@ -1143,21 +1143,33 @@ ITA T2
 ITA T4
 
 
-ITA E27 SS27_S A5 #this isn't SS27?
+#ITA SS7BisAce around Avellino
+#ITA SS10Var around Voghera
+#ITA SS52 near Tolmezzo
 ITA SS64VarSas ViaPila_N A1
 #ITA SS470Dir (Bergamo)
+#ITA SS676 around Udine
+ITA E27 SS27_S A5
+ITA E90Pal ViaRegSicNO_S ViaEmiGia
 
+#ITA SP1 (Barletta-Andria-Trani)
 #ITA SP1 (Genova)
 #ITA SP1 (Milano)
 #ITA SP1 (Napoli)
 #ITA SP3 (Bologna)
 #ITA SP3 (Reggio Emilia)
+#ITA SP5Var (Verona)
+#ITA SR6 (Barletta-Andria-Trani)
 #ITA SPIX (Brescia)
+#ITA SP10 (Cremona)
+#ITA SP10Var (Alessandria)
 #ITA SR10Var (Padova)
 #ITA SP11 (Milano)
 #ITA SP11 (Torino)
 #ITA SPBS11 (Brescia)
+#ITA SP19 (Bologna)
 #ITA SP19 (Brescia)
+#ITA SP30 (Alessandria)
 #ITA SP31Bis (Torino)
 #ITA SP35 (Milano)
 #ITA SP46 (Vicenza)
@@ -1165,7 +1177,11 @@ ITA SS64VarSas ViaPila_N A1
 #ITA SP62 (Verona)
 #ITA SP87 (Napoli)
 #ITA SP131 (Firenze)
+#ITA SP231 (Barletta-Andria-Trani)
 #ITA SP235 (Lodi)
+#ITA SP235 (Trento)
+#ITA SP236 (Bari)
+#ITA SPBS236 (Brescia)
 #ITA SP308 (Padova)
 #ITA SP335 (Napoli)
 #ITA SP450 (Verona)
@@ -1175,15 +1191,21 @@ ITA SS64VarSas ViaPila_N A1
 #ITA SP500 (Torino)
 #ITA SP527 (Napoli)
 #ITA SPBS567 (Brescia)
+#ITA SP569 (Bologna)
 #ITA SP671 (Bergamo)
 #ITA NSA56 at Sistiana
+#ITA CirTib (Roma)
+#ITA Complanare Sud (Bologna)
 #ITA Corso Primo Maggio (Padova)
 #ITA Tangentiale Est (Brescia)
 #ITA Tangentiale Est (Verona)
+#ITA Tangentiale Nord (Mantova)
 #ITA Tangentiale Nord (Padova)
+#ITA Tangentiale Sud (Mantova)
 #ITA Tangentiale Sud (Verona)
 #ITA Tangentiale Sud (Vicenza)
 #ITA Via Enrico Melen (Genova)
+#ITA Viale del Tecnopolo (Roma)
 #continuation of A8 in Milan
 
 
