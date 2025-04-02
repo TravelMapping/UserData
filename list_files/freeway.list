@@ -1148,22 +1148,66 @@ ITA ViaInd SGCFPL A11
 ITA ViaMarPolo SS67 A1
 
 
+ITA SS3BisPer SS675 SS16
 #ITA SS7BisAce around Avellino
 #ITA SS10Var around Voghera
 #ITA SS11Dir around Chiari
+ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
+ITA SS16 SP15_N SP28_N #this is actually SS 16 var
+ITA SS16 A14dir SS67_S
+ITA SS16 ViaRomSud_S ViaRomNord
+ITA SS16 ViaTre ViaFer #not the way north end
+ITA SS16 ViaCas ViaAleMag
+ITA SS16 AveNordSud SP2
+ITA SS16 SP123 SP77
+ITA SS16 6 1
+#ITA SS16Bar construction near SP22
+ITA SS16Bar SS673Dir ViaMicInt
+ITA SS16Bar ViaBari SS379
+ITA SS16Bri SS379 SS613
+ITA SS26DirCou A5_N Ent
+ITA SS27Var T2 SR28
 #ITA SS52 near Tolmezzo
 ITA SS64VarSas ViaPila_N A1
+ITA SS114 AutCatSir SP14
+ITA SS115 SS115Dir_E SP76
+ITA SS115 SS386 SP61
+ITA SS115 SP75_W SP75_E
+ITA SS115 SS115Qua SS640
+ITA SS115 SP63 PunCio
+ITA SS115 ViaPal SP7
+ITA SS115 SS514 SS194_N
+ITA E25Cag SS131/34 SP34 #this is SS131
+ITA SS131 SP34 SS292Dir #and north one more interchange
+#under construction at SS292Dir
+ITA SS131 SS292Dir StaCam
+ITA SS131 SS129Bis SP56_Ser
+#under construction here
+ITA SS131 Nur SS554
+ITA SS195RaccCas SS195 SS130
+ITA SS202DirPad LocPad RA13
+ITA SS379 SS16_N SS16_S
 #ITA SS470Dir (Bergamo)
+ITA SS554 SP17 SS125
+ITA SS554 SS131Dir SS195Rac
+ITA SS613 SS16 ViaRis
 #ITA SS617 around Pavia
+ITA SS675 SS1Bis SS3
+ITA E45 SS675_W SR204_W #this is unsigned SS 675 racc
 #ITA SS676 around Udine
+ITA SS729 SS131 SS125/199
+ITA SS738 A2 ViaGugMar
+ITA E25 GenAer SP1_S #what is going on with the labels here?
 ITA E27 SS27_S A5
 ITA E90Pal ViaRegSicNO_S ViaEmiGia
 ITA E751 SP11 SS15_N #does this have another number?
+
 
 #ITA SP1 (Barletta-Andria-Trani)
 #ITA SP1 (Genova)
 #ITA SP1 (Milano)
 #ITA SP1 (Napoli)
+#ITA SP2 (Viterbo)
 #ITA SP3 (Bologna)
 #ITA SP3 (Reggio Emilia)
 #ITA SP3Bis (Cuneo)
@@ -1191,6 +1235,7 @@ ITA E751 SP11 SS15_N #does this have another number?
 #ITA SR53 (Treviso)
 #ITA SP60 (Monza e Brianza)
 #ITA SP62 (Verona)
+#ITA SR79 (Terni)
 #ITA SP87 (Napoli)
 #ITA SR89 (Treviso)
 #ITA SP103 (Milano)
@@ -1228,11 +1273,14 @@ ITA E751 SP11 SS15_N #does this have another number?
 #ITA SP671 (Bergamo)
 #ITA NSA56 at Sistiana
 #ITA Asse del Servizi (Catania)
+#ITA Asse Nord-Sud (Ancona)
 #ITA Asse Viario Vomero-Soccavo-Pianura (Napoli)
 #ITA CirTib (Roma)
+#ITA CirVarMas (Tattari)
 #ITA Complanare Sud (Bologna)
 #ITA Corso Primo Maggio (Padova)
 #ITA Corso Regina Margherita (Torino)
+#ScoVelMarBir between Marsala and Trapani
 #ITA Tangentiale Est (Brescia)
 #ITA Tangentiale Est (Verona)
 #ITA Tangentiale Nord (Mantova)
@@ -1248,6 +1296,7 @@ ITA E751 SP11 SS15_N #does this have another number?
 #ITA Viale Isacco Newton (Roma)
 #ITA Viale del Tecnopolo (Roma)
 #continuation of A8 in Milan
+#incomplete bypass at Gela
 
 
 ##UNITED STATES
