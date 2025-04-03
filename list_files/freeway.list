@@ -1224,8 +1224,6 @@ ITA SS12VarMir SS12_S SP8
 ITA SS12VarMor SP20_S SS12_N
 ITA SS14VarPor ViaEttMaj SS14_E
 ITA SS14VarSDP SS14 SP47
-
-
 ITA SS16 A14dir SS67_S
 ITA SS16 ViaRomSud_S ViaRomNord
 ITA SS16 ViaTre ViaFer #not the way north end
@@ -1237,13 +1235,32 @@ ITA SS16 6 1
 ITA SS16Bar SS673Dir ViaMicInt
 ITA SS16Bar ViaBari SS379
 ITA SS16Bri SS379 SS613
+ITA SS16Lec ViaGioRos SP10
+ITA SS16Lec SP349 SS275 #a few RIROs in here but mostly handled with frontage roads
+ITA SS16Lec SS275 SS695
 ITA SS16DirPes RA12 ViaAndDor
 ITA SS16 SP15_N SP28_N #this is actually SS 16 var
 ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
+ITA SS17 SP8_N SP8_S
+ITA SS17Ise Sul SP13b
+ITA SS17Ise SS85 SS650
+ITA SS17Ise ZonaInd Pet
+ITA SS17Ise ViaMol SS647
+ITA SS17Fog SS17_U1 SS673
+ITA SS17Ter SS684Dir SS17Bis
+ITA SS17VarFor SP21 SS17/652
+ITA SS18Sal A3 A2_C
+ITA SS18 ToSS283 SP34
+ITA SS18 ViaMare SS280
+ITA SS18VarCil SS18Cap SS517Var
 ITA SS20 ViaProBov SP259
-ITA SS20Ven ToA10 SS1 
+ITA SS20Ven ToA10 SS1
+ITA SS26 ViaTor SP228
+ITA SS26 ViaFer LocSol
 ITA SS26DirCou A5_N Ent
 ITA SS27Var T2 SR28
+
+
 ITA SS33 A52 ViaAchRat
 ITA SS33 A26 ViaSem
 #ITA SS49 MooWeg next interchange
@@ -1317,6 +1334,7 @@ ITA SS715 Via11Set SP327
 ITA SS12Mod 25 10 #this is actually SS724 dir/A
 ITA SS729 SS131 SS125/199
 ITA SS738 A2 ViaGugMar
+ITA SS740 ViaPor MesRegFry
 ITA E25 GenAer SP1_S #what is going on with the labels here?
 ITA E27 SS27_S A5
 ITA E90Pal ViaRegSicNO_S ViaEmiGia
@@ -1383,6 +1401,7 @@ ITA E848 SS106var ViaEur
 #ITA SP334 (Napoli)
 #ITA SP335 (Napoli)
 #ITA SP349Var (Vicenza)
+#ITA SP367 (Lecce)
 #ITA SPexSS412 (Milano)
 #ITA SP415 (Milano)
 #ITA SR429 (Siena)
@@ -1411,7 +1430,8 @@ ITA E848 SS106var ViaEur
 #ITA Complanare Sud (Bologna)
 #ITA Corso Primo Maggio (Padova)
 #ITA Corso Regina Margherita (Torino)
-#ScoVelMarBir between Marsala and Trapani
+#ITA ScoVelMarBir between Marsala and Trapani
+#ITA Strada del Medio Savuto (Catanzaro)
 #ITA Tangenziale Est (Brescia)
 #ITA Tangenziale Est (Udine)
 #ITA Tangenziale Est (Verona)
