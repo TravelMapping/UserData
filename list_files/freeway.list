@@ -756,7 +756,7 @@ FRA-BRE D767-22Beg N12 D786_W
 FRA-BRE D768-56Pon N24 C268
 FRA-BRE D768-56Pon D768A_Thu CdA/Mor
 FRA-BRE D700-22 CdA/Mor N164_E
-FRA-BRE D700-22 CdA/Mor D768 D53_E
+FRA-BRE D700-22 D768 D53_E
 FRA-BRE D700-22 D35_W D44E
 FRA-BRE D700-22 RueGra D712_W
 FRA-BRE D168-35 D266/D603 D114
@@ -1043,6 +1043,7 @@ ITA A1NRo A1 AGRA
 ITA A1SRo A1 AGRA
 ITA A1Cap A1 A56
 ITA A2 A30 A2Rac
+ITA A2DirNap A3 A2
 ITA A2RaccReg A2 ViaMon
 ITA A3 ViaGalFer A2
 ITA A4 CorVer RA13
@@ -1119,7 +1120,7 @@ ITA A57 A4_W A4_E
 ITA A58 1 A1
 ITA A59 SP19 SP24
 ITA A60 A8 SS712
-ITA A91 ViaMag_E
+ITA A91 ViaMag_E SS296
 ITA AGRA 1 SS1
 ITA AutCatSir RA15 SP193
 ITA AutSisRab RA13 SP11
@@ -1142,7 +1143,7 @@ ITA RA15 A18 SS114
 ITA RA16 A28 SS13 #why isn't this in itaa?
 ITA SPV A4 A27
 ITA T1 FRA/ITA ViaGraJor
-ITA T2 CHA/ITA SS27
+ITA T2 CHE/ITA SS27
 ITA T4 FRA/ITA A32
 ITA SGCFirLiv ViaLiv ViaMog_W
 ITA SGCFirPisa SGCFirLiv A12
@@ -1150,21 +1151,53 @@ ITA ViaInd SGCFPL A11
 ITA ViaMarPolo SS67 A1
 
 
+ITA SS1Civ AGRA ViaMur
 ITA SS1 SP154 A12_SPP
 ITA SS1 A12_MalN SP11
 ITA SS1 ViaLit ViaAur_S
 ITA SS1 ViaAur_N ViaLuiEin
+ITA SS1DirVad ViaQui ViaFer
+ITA SS1DirVad ViaGiuVer SS1
+ITA SS1VarSpe SS330 SS1
+ITA SS2 SS2Bis ViaMer
+ITA SS2 SP13A Cam
+ITA SS2 SP12 Cuna #under construction north of here
+ITA SS2Bis SS2 AGRA
+ITA SS3 ViaFla_S CimPriPor
+ITA SS3 SP462 SS76
+ITA SS3 SS452 Via_FlaN
+ITA SS3 SP257 SS73Bis
 ITA SS3BisPer SS675 SS16
+ITA SS4 NSA265 ViaSal
+ITA SS4 SP64_S SP64_N
+ITA SS4 Bac_S SP61
+ITA SS4 SP70 SS78
+ITA SS4 SS78 RA11 #doesn't quite make it to SS78
+ITA SS4DirPas SS4 A1
+ITA SS4RaccMon RA11 ViaCom
+ITA SS7 SS7Rac SS7Dir
+ITA SS7Cas Cas_W Cas_E
 ITA SS7Ben SS752 RA9_Ben
 ITA SS7Ben A16 SS7Bis
 ITA SS7Ben SP400 SP150
-ITA E841 SS7Bis_W SS7/7Bis #this is part of SS7Bis
 ITA SS7Tar DigaSanGiu 5
 ITA SS7Tar ViaMat SP20
 ITA SS7Tar SS106Dir A14
 ITA SS7Tar SP48 SS7_U2
 ITA SS7Tar SS689 SS16
+ITA SS7BisAce SS7Qua ViaNazPug
+ITA E841 SS7Bis_W SS7/7Bis #this is part of SS7BisAce
 #ITA SS7BisAce around Avellino
+#ITA SS7Dir east of Terracina
+ITA SS7QuaMon SP303 A56
+ITA SS7RaccTer SS7 SS148
+ITA SS7RaccVil SS7Bis SP101
+ITA SS7TerMan SS7 ViaCesBat #and the continuation northwest, whatever it's numbered
+ITA SS7TerMan SP143 ToSP109 #and the bypass to SP109
+ITA NSA568 SS7_N SS7_S #this is SS7Var around Cisterna di Latina
+ITA SS7VarFor SS630 SS7_S
+
+
 #ITA SS10Var around Voghera
 #ITA SS11Dir around Chiari
 ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
@@ -1236,6 +1269,7 @@ ITA SS223 SP99 SS715
 ITA SS231 ViaCun ViaRegEla
 ITA SS231 SR29 SP3
 ITA SS231 SP456 SR10
+#ITA SS257 at east end
 ITA SS280 A2 SS109Bis
 ITA SS280DirCat SS280 SS106var
 ITA SS379 SS16_N SS16_S
@@ -1247,6 +1281,7 @@ ITA SS554 SP17 SS125
 ITA SS554 SS131Dir SS195Rac
 ITA SS613 SS16 ViaRis
 #ITA SS617 around Pavia
+ITA SS675 SS1Bis_W SS1Bis_E
 ITA SS675 SS1Bis SS3
 ITA E45 SS675_W SR204_W #this is unsigned SS 675 racc
 #ITA SS676 around Udine
@@ -1311,7 +1346,10 @@ ITA E848 SS106var ViaEur
 #ITA SPBS236 (Brescia)
 #ITA SR246 (Vicenza)
 #ITA SP279 (Avellino)
+#ITA SP303Var (Napoli)
 #ITA SP308 (Padova)
+#ITA SR311 (Viterbo)
+#ITA SP334 (Napoli)
 #ITA SP335 (Napoli)
 #ITA SP349Var (Vicenza)
 #ITA SPexSS412 (Milano)
@@ -1342,13 +1380,16 @@ ITA E848 SS106var ViaEur
 #ITA Corso Primo Maggio (Padova)
 #ITA Corso Regina Margherita (Torino)
 #ScoVelMarBir between Marsala and Trapani
-#ITA Tangentiale Est (Brescia)
-#ITA Tangentiale Est (Verona)
-#ITA Tangentiale Nord (Mantova)
-#ITA Tangentiale Nord (Padova)
-#ITA Tangentiale Sud (Mantova)
-#ITA Tangentiale Sud (Verona)
-#ITA Tangentiale Sud (Vicenza)
+#ITA Tangenziale Est (Brescia)
+#ITA Tangenziale Est (Verona)
+#ITA Tangenziale Nord (Mantova)
+#ITA Tangenziale Nord (Padova)
+#ITA Tangenziale Sud (Mantova)
+#ITA Tangenziale Sud (Taranto)
+#ITA Tangenziale Sud (Verona)
+#ITA Tangenziale Sud (Vicenza)
+#ITA Via Appia Bis (Roma)
+#ITA Via Boscofangone (Napoli)
 #ITA Via Cristoforo Colombo (Roma)
 #ITA Via Enrico Melen (Genova)
 #ITA Via della Liberta (Venezia)
