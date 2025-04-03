@@ -1,6 +1,7 @@
 AZ PHX RenCarCen T3
 
-CA B HolHigh UniSta
+CA AirTrnBlue RenCarCen Ter3
+CA B HolHig UniSta
 CA BARTBlue DalyCity Col
 CA BARTRed DalyCity DtnBer
 CA BlueLn SanYsiTC AmePlz
@@ -28,11 +29,11 @@ DE CA MD/DE DE/PA
 FL MiaM MIA IntCen
 fl TPAShu MainTer AirA
 
-GA PlaTrn DomTerm FGatIntTer
+GA PlaTrn DomTer FGatIntTer
 GA RedLn Air Buc
 GA SkyTrn RenCarCen Air
 
-IL AirTraSys Ter1 MultModFac
+IL AirTraSys Ter1 MulModFac
 IL BlueLn OHa Jac
 IL BroLn Wes Loop
 IL MLBlueLn MO/IL EastRiv
@@ -40,7 +41,7 @@ IL MLRedLn MO/IL EastRiv
 IL OraLn Mid Loop
 IL RedLn Jac How
 
-LA StCha CanCar CarStChar
+LA StCha CanCar CarStCha
 
 MA DE BosNor MA/NH 
 MA GreLnD KEN NorSta
@@ -52,6 +53,9 @@ MD RedLnGle DC/MD SilSpr
 
 ME DE NH/ME Por
 
+MN HubTram Ter1 HubBui
+
+MO KCSC UniSta RivMar
 MO MLBlueLn ForParkDeBal MO/IL
 MO MLRedLn LamAirTer1 MO/IL
 MO MR KanCityUni StLouGat
@@ -59,11 +63,12 @@ MO MR KanCityUni StLouGat
 NH DE MA/NH NH/ME
 
 NJ AE PA/NJ Met
+NJ AirTrn NewLibAir TerA
 NJ CA PA/NJ NJ/NY
-NJ GlaBr Sum Hob
+NJ GlaBra Sum Hob
 NJ MorEssLn Mor NY/NJ
 NJ PATHHWT Hob NJ/NY
-NJ PATHHJ33 JouSq NJ/NY
+NJ PATHJ33 JouSq NJ/NY
 NJ PATHNWT NewPenn NJ/NY
 NJ RarVlyLn Wes NewPenn
 
@@ -88,7 +93,7 @@ NY 2 WallSt 96St
 NY 3 WallSt 96St
 NY 4 BowGre 161StYanSta
 NY 5 BowGre 86St
-NY 6 BroBriCityHall 193rdSt
+NY 6 BroBriCityHall 103rdSt
 NY 7 42StTimSq JacHeiRooAve
 
 OH RedLn Air TowCity
@@ -101,7 +106,7 @@ PA MarFraLn 15th 5th
 PA PITTrn LanTer AirTer
 
 TX IAHSky TerA TerDE
-TX TXSky A8 A21
+TX Sky A8 A21
 
 VA AerTrn MainTer ConCD
 VA BluLn RRWasNatAir VA/DC
@@ -109,6 +114,7 @@ VA OraLn EFallsChu VA/DC
 VA SilLn DulIntAir VA/DC
 VA YelLn RRWasNatAir VA/DC
 
+WA GreLn DGat-Sta DGat_Fin
 WA 1 Wes SeaTacAir
 
 BC CanLn Wat BroCityHall
@@ -125,11 +131,14 @@ ARG C AvMayo GenSanMar
 
 AUS-NSW M1 MarPla VicCro
 AUS-NSW T2 CirQuay TownHall
-AUS-TSW T4 BonJct TownHall
+AUS-NSW T4 BonJct TownHall
 
-AUT U1 HauSidTirPla Ste
+AUT U1 HauSudTirPla Ste
 AUT U3 Wes Lan
-AUT U4 WienHei WienMit
+AUT U4 Ket WienHei
+AUT WRT Sch_1 Sch_2
+AUT 38Wie Gri Scho
+AUT 41Wie Pot Scho
 
 BEL LonAms FRA/BEL BruMidi
 
@@ -190,7 +199,7 @@ END OxfLn LonPad Oxf
 ENG PicLnHT4 HeaTer23 Coc
 ENG PicLnUxb Uxb Coc
 ENG SEML LonChaCro AshInt
-ENG SusDownLn Lew NewHar
+ENG SusDowLn Lew NewHar
 ENG SusMLE ClaJct Lew
 ENG VicLn Vic WalCen
 ENG WaCLn Wat Bank
@@ -209,6 +218,7 @@ FRA-IDF K16 HDF/IDF ParGareNord
 FRA-IDF L ParStLaz VerRiveDro
 FRA-IDF LonPar HDF/IDF ParGareNord
 FRA-IDF M1 CdGEto GareLyon
+FRA-IDF M2 PlaCli BarRoc
 FRA-IDF M3 StLaz Rep
 FRA-IDF M4 PorCli MonBie
 FRA-IDF M6 CdGEto MonBie
@@ -216,7 +226,7 @@ FRA-IDF M8 Inv StrStDen
 FRA-IDF M9 Tro Rep
 FRA-IDF M11 HotVil Rep
 FRA-IDF M12 MonBie Pig
-FRA-IDF M13 Pig Inv
+FRA-IDF M13 PlaCli Inv
 FRA-PAC StrNice NiceVil FRA/MCO
 
 GRC 2Ath Acr Syn
@@ -230,7 +240,7 @@ HUN M1 DeakFerTer HosTere
 IRL CorkCom Cobh CorkKent
 
 KOR 1 132 135
-KOR 2 201 203
+KOR 2 201_W 203
 KOR 2 214 223
 KOR 3 330 340
 
@@ -244,16 +254,17 @@ NLD 1Ams JanPieHei Lei
 NLD 2Ams CenSta Mus
 Nld 26Ams CenSta MUZ
 
+NOR R45 Myr Flam
 NOR F4 Myr Voss
 
-PRT 12ELis Lim1 Lim2
+PRT 12ELis Lim_1 Lim_2
 
 SGP NE NE1 NE3
 SGP NS NS7 NS22
 SGP TE TE14 TE17
 
 SWE 7Sto TCen NorMusVasmus
-SWE 18Sto Ske OdenPlan
+SWE 18Sto Ska OdenPlan
 
 TUR B1Ist Yenk Usk
 TUR M2 Yenk Sish
