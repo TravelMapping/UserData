@@ -1196,12 +1196,36 @@ ITA SS7TerMan SS7 ViaCesBat #and the continuation northwest, whatever it's numbe
 ITA SS7TerMan SP143 ToSP109 #and the bypass to SP109
 ITA NSA568 SS7_N SS7_S #this is SS7Var around Cisterna di Latina
 ITA SS7VarFor SS630 SS7_S
-
-
+ITA SS9Imo ViaFraRos SP302_S
+ITA SS9Cas SP26 ViaTer
+ITA SS9Cas SP6 ViaEmiOve
+ITA SS9Fid SP71 ViaEmi_E
+ITA SS9Fid Tan SP462R
+ITA SS9 SP591 SP126 #under construction west of here
+ITA SS9 SS9Dir SP107
+ITA SS9DirLod SS9 SP235
+ITA SS9Var SS9_E ToSP9
+ITA SS9Var ToSP9 SS9_W
+ITA SS9VarSud 9 StrBud
+#ITA SS10 around Cremona
+#ITA SS10 around Piadena
+#ITA SS10Racc/Var around Alessandria
 #ITA SS10Var around Voghera
+#ITA SS11 around Settimo Torinese
+#ITA SS11 around Rondissone
+#ITA SS11 around Vercelli
+#ITA SS11 just west of Milano
+#ITA SS11 east from Brescia (SS 45 bis)
 #ITA SS11Dir around Chiari
-ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
-ITA SS16 SP15_N SP28_N #this is actually SS 16 var
+ITA SS12 ViaLucCero SP1
+ITA SS12 ViaNaz 9
+ITA SS12VarIso SS12_S SS12_N
+ITA SS12VarMir SS12_S SP8
+ITA SS12VarMor SP20_S SS12_N
+ITA SS14VarPor ViaEttMaj SS14_E
+ITA SS14VarSDP SS14 SP47
+
+
 ITA SS16 A14dir SS67_S
 ITA SS16 ViaRomSud_S ViaRomNord
 ITA SS16 ViaTre ViaFer #not the way north end
@@ -1214,6 +1238,8 @@ ITA SS16Bar SS673Dir ViaMicInt
 ITA SS16Bar ViaBari SS379
 ITA SS16Bri SS379 SS613
 ITA SS16DirPes RA12 ViaAndDor
+ITA SS16 SP15_N SP28_N #this is actually SS 16 var
+ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
 ITA SS20 ViaProBov SP259
 ITA SS20Ven ToA10 SS1 
 ITA SS26DirCou A5_N Ent
@@ -1288,6 +1314,7 @@ ITA E45 SS675_W SR204_W #this is unsigned SS 675 racc
 ITA SS680 SS73 SP19
 ITA SS689 SS7 PorTar
 ITA SS715 Via11Set SP327
+ITA SS12Mod 25 10 #this is actually SS724 dir/A
 ITA SS729 SS131 SS125/199
 ITA SS738 A2 ViaGugMar
 ITA E25 GenAer SP1_S #what is going on with the labels here?
@@ -1301,6 +1328,7 @@ ITA E848 SS106var ViaEur
 #ITA SP1 (Genova)
 #ITA SP1 (Milano)
 #ITA SP1 (Napoli)
+#ITA SP1 (Verona)
 #ITA SP2 (Viterbo)
 #ITA SP3 (Bologna)
 #ITA SP3 (Reggio Emilia)
@@ -1310,11 +1338,13 @@ ITA E848 SS106var ViaEur
 #ITA SP8 (Roma)
 #ITA SPIX (Brescia)
 #ITA SP10 (Cremona)
+#ITA SR10 around Legnago (Verona)
 #ITA SP10Var (Alessandria)
 #ITA SR10Var (Padova)
 #ITA SP11 (Milano)
 #ITA SP11 (Torino)
 #ITA SP11 (Vercelli)
+#ITA former? SS11 and SS11Dir around Peschiera del Garda (Verona)
 #ITA SPBS11 (Brescia)
 #ITA SP14 (Milano)
 #ITA SP19 (Bologna)
@@ -1340,6 +1370,7 @@ ITA E848 SS106var ViaEur
 #ITA SP215 (Monza e Brianza)
 #ITA SP229 (Napoli)
 #ITA SP231 (Barletta-Andria-Trani)
+#ITA SP234 (Lodi)
 #ITA SP235 (Lodi)
 #ITA SP235 (Trento)
 #ITA SP236 (Bari)
@@ -1359,6 +1390,7 @@ ITA E848 SS106var ViaEur
 #ITA SP456 (Asti)
 #ITA SP457Var (Alessandria)
 #ITA SP460 (Torino)
+#ITA SP467R (Modena)
 #ITA SP469 (Brescia)
 #ITA SP470 (Bergamo)
 #ITA SP498 (Bergamo)
@@ -1381,6 +1413,7 @@ ITA E848 SS106var ViaEur
 #ITA Corso Regina Margherita (Torino)
 #ScoVelMarBir between Marsala and Trapani
 #ITA Tangenziale Est (Brescia)
+#ITA Tangenziale Est (Udine)
 #ITA Tangenziale Est (Verona)
 #ITA Tangenziale Nord (Mantova)
 #ITA Tangenziale Nord (Padova)
@@ -1390,10 +1423,12 @@ ITA E848 SS106var ViaEur
 #ITA Tangenziale Sud (Vicenza)
 #ITA Via Appia Bis (Roma)
 #ITA Via Boscofangone (Napoli)
+#ITA Via della Cooperazione (Bologna)
 #ITA Via Cristoforo Colombo (Roma)
 #ITA Via Enrico Melen (Genova)
 #ITA Via della Liberta (Venezia)
 #ITA Via Palmanova (Milano)
+#ITA Via dello Sport (Verona)
 #ITA Viadotto della Magliana (Roma)
 #ITA Viale Isacco Newton (Roma)
 #ITA Viale del Tecnopolo (Roma)
