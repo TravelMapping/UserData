@@ -1259,10 +1259,25 @@ ITA SS26 ViaTor SP228
 ITA SS26 ViaFer LocSol
 ITA SS26DirCou A5_N Ent
 ITA SS27Var T2 SR28
-
-
+ITA SS28VarChi SS28_N SS28_S
+ITA SS29 SP29 SP33
+ITA SS29VarCar SP29_W SS29
+#ITA SS30 around Ponti
+#ITA SS30 around Strevi
+#ITA SS30 around Borgoratto Alessandrino
+#ITA SS30 around Alessandria
+ITA SS32 SP4_N SP18
 ITA SS33 A52 ViaAchRat
 ITA SS33 A26 ViaSem
+ITA SS36 SP5 SS38 #and south a bit
+ITA SS36RaccLec SS36 SP62
+ITA SS38 ViaSta ViaSte
+ITA SS38 ViaAlPon SP28
+ITA SS38 VinStr SP109
+ITA SS38 SP52 SS12
+ITA SS38VarDel SS36 SS38 #farther east
+
+
 #ITA SS49 MooWeg next interchange
 ITA SS49 SP153 SP40
 ITA SS49 SP40Rac ViaDob
