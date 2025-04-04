@@ -1186,8 +1186,7 @@ ITA SS7Tar SS106Dir A14
 ITA SS7Tar SP48 SS7_U2
 ITA SS7Tar SS689 SS16
 ITA SS7BisAce SS7Qua ViaNazPug
-ITA E841 SS7Bis_W SS7/7Bis #this is part of SS7BisAce
-#ITA SS7BisAce around Avellino
+ITA SS7BisAve RA2 SS7
 #ITA SS7Dir east of Terracina
 ITA SS7QuaMon SP303 A56
 ITA SS7RaccTer SS7 SS148
@@ -1210,13 +1209,13 @@ ITA SS9VarSud 9 StrBud
 #ITA SS10 around Cremona
 #ITA SS10 around Piadena
 #ITA SS10Racc/Var around Alessandria
-#ITA SS10Var around Voghera
+ITA SS10VarVog SS10_W SP35
 #ITA SS11 around Settimo Torinese
 #ITA SS11 around Rondissone
 #ITA SS11 around Vercelli
 #ITA SS11 just west of Milano
 #ITA SS11 east from Brescia (SS 45 bis)
-#ITA SS11Dir around Chiari
+ITA SS11DirChi SS11 A35
 ITA SS12 ViaLucCero SP1
 ITA SS12 ViaNaz 9
 ITA SS12VarIso SS12_S SS12_N
@@ -1323,6 +1322,24 @@ ITA SS79 SS4 SS79Bis
 ITA SS79BisTer SS79 SS675
 ITA SS80RaccMSA A24 SP22a
 ITA SS80VarTer SS80 A24
+ITA SS81 SS649 LocCamTri
+ITA SS85 SS158 SP331
+ITA SS85 SanAga SS17
+ITA SS85VarVen SS85_S SS85_N
+ITA SS87Vin SS372 SP625 #a few RIROs
+ITA SS87Vin ConPiaMul SP53_Sas
+ITA SS87Vin SP69 SP53_Cam
+ITA SS87 SS709 SS16
+ITA SS89 ViaGar SP159
+ITA SS89 Aer SP26
+ITA SS93 SP189 Cas
+ITA SS94DirBar SS94 SS743
+ITA SS95VarSat SP12 SS95_S
+ITA SS95VarSat SS95_S SS276
+ITA SS96 SP224 SS99
+ITA SS96 ViaBari SS96Bis
+ITA SS99 SS96 SS7 #not north of SS99Rac
+#ITA SS99Rac
 
 
 ITA SS106 ViaCar ViaMorRav
@@ -1396,11 +1413,14 @@ ITA E848 SS106var ViaEur
 
 
 #ITA SP1 (Barletta-Andria-Trani)
+#ITA SR1 (Foggia)
 #ITA SP1 (Genova)
 #ITA SP1 (Milano)
 #ITA SP1 (Napoli)
 #ITA SP1 (Verona)
+#ITA SP2 (Barletta-Andria-Trani)
 #ITA SP2 (Viterbo)
+#ITA SP3 (Barletta-Andria-Trani)
 #ITA SP3 (Bologna)
 #ITA SP3 (Reggio Emilia)
 #ITA SP3Bis (Cuneo)
@@ -1436,6 +1456,7 @@ ITA E848 SS106var ViaEur
 #ITA SP87 (Napoli)
 #ITA SR89 (Treviso)
 #ITA SP103 (Milano)
+#ITA SP105 (Benevento)
 #ITA SP131 (Firenze)
 #ITA SP134 (Vicenza)
 #ITA SP161 (Torino)
