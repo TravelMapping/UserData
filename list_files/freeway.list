@@ -1387,8 +1387,13 @@ ITA SS121 SP76 ViaEur
 ITA SS122 SS118/189 SS640_W
 ITA SS124 SR100 SP10
 ITA SS124 ViaNaz SS287 #one more interchange east
-
-
+ITA SS125Ter StrMil SS125Var_N
+ITA SS125 SS125Var ViaNaz #one circle in the middle without a waypoint
+ITA SS125 SS199/729 ViaAldoMoro #one circle in the middle without a waypoint
+ITA SS125VarBar SS125_S SS125_N
+ITA SS125VarMur SS125_N SS554
+ITA SS130 SS554 SP8
+ITA SS130 SS196 SS126
 ITA E25Cag SS131/34 SP34 #this is SS131
 ITA SS131 SP34 SS292Dir #and north one more interchange
 #under construction at SS292Dir
@@ -1396,6 +1401,11 @@ ITA SS131 SS292Dir StaCam
 ITA SS131 SS129Bis SP56_Ser
 #under construction here
 ITA SS131 Nur SS554
+ITA SS131DirCag ViaGuiPer SS131
+ITA SS131DirOlb SS131 SS129
+ITA SS131DirOlb SS389 SS729 #north of SS729 is not actually SS131DirOlb
+
+
 ITA SS195RaccCas SS195 SS130
 ITA SS202 AutSisRab_N PasSantAnd
 ITA SS202DirPad LocPad RA13
@@ -1435,6 +1445,9 @@ ITA E751 SP11 SS15_N #does this have another number?
 ITA E848 SS106var ViaEur
 
 
+#ITA NSA12 (Biella)
+#ITA NSA56 at Sistiana
+#ITA NSA167 (Sassari)
 #ITA SP1 (Barletta-Andria-Trani)
 #ITA SR1 (Foggia)
 #ITA SP1 (Genova)
@@ -1442,6 +1455,8 @@ ITA E848 SS106var ViaEur
 #ITA SP1 (Napoli)
 #ITA SP1 (Verona)
 #ITA SP2 (Barletta-Andria-Trani)
+#ITA SP2 (Cagliari)
+#ITA SP2 (Sud Sardegna)
 #ITA SP2 (Viterbo)
 #ITA SP3 (Barletta-Andria-Trani)
 #ITA SP3 (Bologna)
@@ -1452,6 +1467,7 @@ ITA E848 SS106var ViaEur
 #ITA SP8 (Roma)
 #ITA SPIX (Brescia)
 #ITA SP10 (Cremona)
+#ITA SP10 (Nuoro)
 #ITA SR10 around Legnago (Verona)
 #ITA SP10Var (Alessandria)
 #ITA SR10Var (Padova)
@@ -1460,7 +1476,9 @@ ITA E848 SS106var ViaEur
 #ITA SP11 (Vercelli)
 #ITA former? SS11 and SS11Dir around Peschiera del Garda (Verona)
 #ITA SPBS11 (Brescia)
+#ITA SP13 (Sassari)
 #ITA SP14 (Milano)
+#ITA SP17 (Nuoro)
 #ITA SP19 (Bologna)
 #ITA SP19 (Brescia)
 #ITA SP23R (Torino)
@@ -1522,18 +1540,23 @@ ITA E848 SS106var ViaEur
 #ITA SP589 (Torino)
 #ITA SP589Var (Torino)
 #ITA SP671 (Bergamo)
-#ITA NSA56 at Sistiana
 #ITA Asse del Servizi (Catania)
+#ITA Asse Mediano di Scorrimiento (Cagliari)
 #ITA Asse Nord-Sud (Ancona)
 #ITA Asse Viario Vomero-Soccavo-Pianura (Napoli)
+#ITA Circonvallazione di Mores (Sassari)
+#ITA Circonvallazione di Sindia (Nuoro)
+#ITA Circonvallazione Sud (Nuoro)
 #ITA CirTib (Roma)
-#ITA CirVarMas (Tattari)
+#ITA CirVarMas (Sassari)
 #ITA Complanare Sud (Bologna)
 #ITA Corso Primo Maggio (Padova)
 #ITA Corso Regina Margherita (Torino)
+#ITA Dorsale Consortile (Cagliari)
 #ITA Pedemontana della Piana di Gioia Tauro
 #ITA ScoVelMarBir between Marsala and Trapani
 #ITA Strada del Medio Savuto (Catanzaro)
+#ITA Strada Panoramica Olbia
 #ITA Tangenziale Est (Brescia)
 #ITA Tangenziale Est (Udine)
 #ITA Tangenziale Est (Verona)
@@ -1553,6 +1576,7 @@ ITA E848 SS106var ViaEur
 #ITA Via dello Sport (Verona)
 #ITA Viadotto della Magliana (Roma)
 #ITA Viale Isacco Newton (Roma)
+#ITA Viale Salvatore Ferrara (Cagliari)
 #ITA Viale del Tecnopolo (Roma)
 #continuation of A8 in Milan
 #incomplete bypass at Gela
