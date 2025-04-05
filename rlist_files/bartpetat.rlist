@@ -296,6 +296,7 @@ FRA-IDF B GareNord ChaHal
 FRA-IDF C IssyValSei GareAus
 FRA-IDF E HauStLaz Mag
 FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF FunMon Inf Sup
 
 #Paris Metro / Sub-urban
 FRA-IDF N ParMon Cla
@@ -338,13 +339,16 @@ CZE S20 Kolin KutnaHoraHlavniNadrazi
 
 
 # SPAIN
-ESP-VC 3Val Col Aer
-ESP-VC 7Val Jes Ala
-
-ESP-CT R5 Esp MonMon
-
 ESP-AN C1Mal MalCenAla Aer
 ESP-AN L1 BlasInf PlaCuba
+
+ESP-CT R5 Esp MonMon
+ESP-CT FunMon Par ParcMon
+ESP-CT FunStJoan Mon StJoan
+ESP-CT CreMon MonEnl Mon
+
+ESP-VC 3Val Col Aer
+ESP-VC 7Val Jes Ala
 
 
 # PORTUGAL

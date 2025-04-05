@@ -2968,7 +2968,7 @@ NLD RingRot A29 A4/A20_S
 NLD RingSHer A59_N A59_S
 NLD RingTil A58/A65 A58/N260
 NLD RingUtr A2_S A2_N
-NLD RingWee N280 EinWeg
+NLD RingWee N275_E N275_W
 
 NLD TilWeg N2 RingEin
 
