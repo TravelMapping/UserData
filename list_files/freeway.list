@@ -756,7 +756,7 @@ FRA-BRE D767-22Beg N12 D786_W
 FRA-BRE D768-56Pon N24 C268
 FRA-BRE D768-56Pon D768A_Thu CdA/Mor
 FRA-BRE D700-22 CdA/Mor N164_E
-FRA-BRE D700-22 CdA/Mor D768 D53_E
+FRA-BRE D700-22 D768 D53_E
 FRA-BRE D700-22 D35_W D44E
 FRA-BRE D700-22 RueGra D712_W
 FRA-BRE D168-35 D266/D603 D114
@@ -1043,6 +1043,7 @@ ITA A1NRo A1 AGRA
 ITA A1SRo A1 AGRA
 ITA A1Cap A1 A56
 ITA A2 A30 A2Rac
+ITA A2DirNap A3 A2
 ITA A2RaccReg A2 ViaMon
 ITA A3 ViaGalFer A2
 ITA A4 CorVer RA13
@@ -1119,7 +1120,7 @@ ITA A57 A4_W A4_E
 ITA A58 1 A1
 ITA A59 SP19 SP24
 ITA A60 A8 SS712
-ITA A91 ViaMag_E
+ITA A91 ViaMag_E SS296
 ITA AGRA 1 SS1
 ITA AutCatSir RA15 SP193
 ITA AutSisRab RA13 SP11
@@ -1142,7 +1143,7 @@ ITA RA15 A18 SS114
 ITA RA16 A28 SS13 #why isn't this in itaa?
 ITA SPV A4 A27
 ITA T1 FRA/ITA ViaGraJor
-ITA T2 CHA/ITA SS27
+ITA T2 CHE/ITA SS27
 ITA T4 FRA/ITA A32
 ITA SGCFirLiv ViaLiv ViaMog_W
 ITA SGCFirPisa SGCFirLiv A12
@@ -1150,25 +1151,78 @@ ITA ViaInd SGCFPL A11
 ITA ViaMarPolo SS67 A1
 
 
+ITA SS1Civ AGRA ViaMur
 ITA SS1 SP154 A12_SPP
 ITA SS1 A12_MalN SP11
 ITA SS1 ViaLit ViaAur_S
 ITA SS1 ViaAur_N ViaLuiEin
+ITA SS1DirVad ViaQui ViaFer
+ITA SS1DirVad ViaGiuVer SS1
+ITA SS1VarSpe SS330 SS1
+ITA SS2 SS2Bis ViaMer
+ITA SS2 SP13A Cam
+ITA SS2 SP12 Cuna #under construction north of here
+ITA SS2Bis SS2 AGRA
+ITA SS3 ViaFla_S CimPriPor
+ITA SS3 SP462 SS76
+ITA SS3 SS452 Via_FlaN
+ITA SS3 SP257 SS73Bis
 ITA SS3BisPer SS675 SS16
+ITA SS4 NSA265 ViaSal
+ITA SS4 SP64_S SP64_N
+ITA SS4 Bac_S SP61
+ITA SS4 SP70 SS78
+ITA SS4 SS78 RA11 #doesn't quite make it to SS78
+ITA SS4DirPas SS4 A1
+ITA SS4RaccMon RA11 ViaCom
+ITA SS7 SS7Rac SS7Dir
+ITA SS7Cas Cas_W Cas_E
 ITA SS7Ben SS752 RA9_Ben
 ITA SS7Ben A16 SS7Bis
 ITA SS7Ben SP400 SP150
-ITA E841 SS7Bis_W SS7/7Bis #this is part of SS7Bis
 ITA SS7Tar DigaSanGiu 5
 ITA SS7Tar ViaMat SP20
 ITA SS7Tar SS106Dir A14
 ITA SS7Tar SP48 SS7_U2
 ITA SS7Tar SS689 SS16
-#ITA SS7BisAce around Avellino
-#ITA SS10Var around Voghera
-#ITA SS11Dir around Chiari
-ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
-ITA SS16 SP15_N SP28_N #this is actually SS 16 var
+ITA SS7BisAce SS7Qua ViaNazPug
+ITA SS7BisAve RA2 SS7
+#ITA SS7Dir east of Terracina
+ITA SS7QuaMon SP303 A56
+ITA SS7RaccTer SS7 SS148
+ITA SS7RaccVil SS7Bis SP101
+ITA SS7TerMan SS7 ViaCesBat #and the continuation northwest, whatever it's numbered
+ITA SS7TerMan SP143 ToSP109 #and the bypass to SP109
+ITA NSA568 SS7_N SS7_S #this is SS7Var around Cisterna di Latina
+ITA SS7VarFor SS630 SS7_S
+ITA SS9Imo ViaFraRos SP302_S
+ITA SS9Cas SP26 ViaTer
+ITA SS9Cas SP6 ViaEmiOve
+ITA SS9Fid SP71 ViaEmi_E
+ITA SS9Fid Tan SP462R
+ITA SS9 SP591 SP126 #under construction west of here
+ITA SS9 SS9Dir SP107
+ITA SS9DirLod SS9 SP235
+ITA SS9Var SS9_E ToSP9
+ITA SS9Var ToSP9 SS9_W
+ITA SS9VarSud 9 StrBud
+#ITA SS10 around Cremona
+#ITA SS10 around Piadena
+#ITA SS10Racc/Var around Alessandria
+ITA SS10VarVog SS10_W SP35
+#ITA SS11 around Settimo Torinese
+#ITA SS11 around Rondissone
+#ITA SS11 around Vercelli
+#ITA SS11 just west of Milano
+#ITA SS11 east from Brescia (SS 45 bis)
+ITA SS11DirChi SS11 A35
+ITA SS12 ViaLucCero SP1
+ITA SS12 ViaNaz 9
+ITA SS12VarIso SS12_S SS12_N
+ITA SS12VarMir SS12_S SP8
+ITA SS12VarMor SP20_S SS12_N
+ITA SS14VarPor ViaEttMaj SS14_E
+ITA SS14VarSDP SS14 SP47
 ITA SS16 A14dir SS67_S
 ITA SS16 ViaRomSud_S ViaRomNord
 ITA SS16 ViaTre ViaFer #not the way north end
@@ -1180,28 +1234,122 @@ ITA SS16 6 1
 ITA SS16Bar SS673Dir ViaMicInt
 ITA SS16Bar ViaBari SS379
 ITA SS16Bri SS379 SS613
+ITA SS16Lec ViaGioRos SP10
+ITA SS16Lec SP349 SS275 #a few RIROs in here but mostly handled with frontage roads
+ITA SS16Lec SS275 SS695
 ITA SS16DirPes RA12 ViaAndDor
+ITA SS16 SP15_N SP28_N #this is actually SS 16 var
+ITA SS16 SP68_S SP48 #this is actually SS 16 var/A
+ITA SS17 SP8_N SP8_S
+ITA SS17Ise Sul SP13b
+ITA SS17Ise SS85 SS650
+ITA SS17Ise ZonaInd Pet
+ITA SS17Ise ViaMol SS647
+ITA SS17Fog SS17_U1 SS673
+ITA SS17Ter SS684Dir SS17Bis
+ITA SS17VarFor SP21 SS17/652
+ITA SS18Sal A3 A2_C
+ITA SS18 ToSS283 SP34
+ITA SS18 ViaMare SS280
+ITA SS18VarCil SS18Cap SS517Var
 ITA SS20 ViaProBov SP259
-ITA SS20Ven ToA10 SS1 
+ITA SS20Ven ToA10 SS1
+ITA SS26 ViaTor SP228
+ITA SS26 ViaFer LocSol
 ITA SS26DirCou A5_N Ent
 ITA SS27Var T2 SR28
+ITA SS28VarChi SS28_N SS28_S
+ITA SS29 SP29 SP33
+ITA SS29VarCar SP29_W SS29
+#ITA SS30 around Ponti
+#ITA SS30 around Strevi
+#ITA SS30 around Borgoratto Alessandrino
+#ITA SS30 around Alessandria
+ITA SS32 SP4_N SP18
 ITA SS33 A52 ViaAchRat
 ITA SS33 A26 ViaSem
+ITA SS36 SP5 SS38 #and south a bit
+ITA SS36RaccLec SS36 SP62
+ITA SS38 ViaSta ViaSte
+ITA SS38 ViaAlPon SP28
+ITA SS38 VinStr SP109
+ITA SS38 SP52 SS12
+ITA SS38VarDel SS36 SS38 #farther east
+ITA SS42Ber SP591 SS42Dir
+ITA SS42 SP53 SP294_N
+ITA SS42DirTre SS42_S SP89
+ITA SS45 SP226 SP62
+ITA SS45BisGar TanSud SP116
+ITA SS45BisGar SP85 SS12
+ITA SS45TerVob SS45Bis SP237
+ITA SS47 SP111 ViaSanBor
+ITA SS47 SP74 ViaCod
+ITA SS47 ViaMonGra ViaVan
+ITA SS47 SS50BisVar SP75
+ITA SS47 SP237 SP228
+ITA SS47 ViaEur ViaDosRoda_S
+ITA SS47 10 9
 #ITA SS49 MooWeg next interchange
 ITA SS49 SP153 SP40
 ITA SS49 SP40Rac ViaDob
 ITA SS49 ViaPus_W ViaPus_E
 ITA SS49BisSch SS12 SS49
+ITA SS50BisVarFel SS47 SS50
+ITA SS50BisVarFel SS50 SR37/348
+ITA SS51 ViaTer ViaColZor
+ITA SS51BisLoz ViaRoma_S ViaRoma_N
 #ITA SS52 near Tolmezzo
+#ITA SS52 around Socchieve
+ITA SS52BisDirTol SR52 SS52Bis
+ITA SS53 A31 SP29
+ITA SS53 SP94Dir SS47
+ITA SS54DirGag SS54 SR356
+ITA SS62 ViaSpe SP120
+ITA SS62 SP120 SP49 #and on to the circle
+ITA SS63 SP98 LocCan
 ITA SS64VarSas ViaPila_N A1
+ITA SS67 SP34 ViaMag
 ITA SS73BisFan ViaGioChi SP92
 ITA SS73VarPal SS73_W SS73_E
+ITA SS75 SS3Bis SS3
+ITA SS76 SS318 SS16
+ITA SS76DirCas SS76 ViaFos
+ITA SS77 SS77Var SS16
+ITA SS77Fol SS3 SS77Var #this is actually part of SS77VarPol
+ITA SS77VarPol SS77_W SS77_E
+ITA SS78 SP237_N SP237_S
+ITA SS79 SS4 SS79Bis
+ITA SS79BisTer SS79 SS675
+ITA SS80RaccMSA A24 SP22a
+ITA SS80VarTer SS80 A24
+ITA SS81 SS649 LocCamTri
+ITA SS85 SS158 SP331
+ITA SS85 SanAga SS17
+ITA SS85VarVen SS85_S SS85_N
+ITA SS87Vin SS372 SP625 #a few RIROs
+ITA SS87Vin ConPiaMul SP53_Sas
+ITA SS87Vin SP69 SP53_Cam
+ITA SS87 SS709 SS16
+ITA SS89 ViaGar SP159
+ITA SS89 Aer SP26
+ITA SS93 SP189 Cas
+ITA SS94DirBar SS94 SS743
+ITA SS95VarSat SP12 SS95_S
+ITA SS95VarSat SS95_S SS276
+ITA SS96 SP224 SS99
+ITA SS96 ViaBari SS96Bis
+ITA SS99 SS96 SS7 #not north of SS99Rac
+#ITA SS99Rac
+ITA SS100 SS16 ViaFedSve_S #and one more interchange south
+ITA SS100 SP237 SS7
+ITA SS101 ViaGiuMos 4
 ITA SS106 ViaCar ViaMorRav
 ITA SS106 SS182 SP124
 ITA SS106 SS107 ConGabGra
 ITA SS106Tre SS106Rad ViaNaz
 ITA SS106RIM SS106Var_S SS106Var_N
 ITA SS106Tar SS106Var ZITar
+ITA SS106DirPal SS106 SS7
 ITA SS106VarCat SS106_W SP16_N
 ITA SS106VarMon SS106_S SS106_N
 ITA SS106VarNSS SS106_S SS106_N
@@ -1212,7 +1360,10 @@ ITA SS107 ViaPieBuc ViaCarCar
 ITA SS107 SP209 SanBer
 ITA SS107 ValPic SS108Bis
 #ITA SS107 not quite a freeway in the SP26 area
+ITA SS109BisCat SP25 SS109BisDir
+ITA SS109BisCat ViaLuiMar SS280
 ITA SS114 AutCatSir SP14
+ITA SS114DirLen SS114 SS194
 ITA SS115 SS115Dir_E SP76
 ITA SS115 SS386 SP61
 ITA SS115 SP75_W SP75_E
@@ -1220,6 +1371,29 @@ ITA SS115 SS115Qua SS640
 ITA SS115 SP63 PunCio
 ITA SS115 ViaPal SP7
 ITA SS115 SS514 SS194_N
+ITA SS115DirMaz SS115 LunFataMor
+ITA SS115QuaAgr SS115 ViaFraPet
+ITA SS117BisGel SP13 SS288_E
+ITA SS117TerNic SS117 SS120
+ITA SS118 SS122/189
+ITA SS118 SP77 SS121
+ITA SS119DirSan SS119 SP4
+ITA SS121 SP13 SS284
+ITA SS121 SP84 SP77_N
+#under construction here
+ITA SS121 SP6Bis SP18_W
+ITA SS121 ViaBau SS118
+ITA SS121 SP76 ViaEur
+ITA SS122 SS118/189 SS640_W
+ITA SS124 SR100 SP10
+ITA SS124 ViaNaz SS287 #one more interchange east
+ITA SS125Ter StrMil SS125Var_N
+ITA SS125 SS125Var ViaNaz #one circle in the middle without a waypoint
+ITA SS125 SS199/729 ViaAldoMoro #one circle in the middle without a waypoint
+ITA SS125VarBar SS125_S SS125_N
+ITA SS125VarMur SS125_N SS554
+ITA SS130 SS554 SP8
+ITA SS130 SS196 SS126
 ITA E25Cag SS131/34 SP34 #this is SS131
 ITA SS131 SP34 SS292Dir #and north one more interchange
 #under construction at SS292Dir
@@ -1227,34 +1401,206 @@ ITA SS131 SS292Dir StaCam
 ITA SS131 SS129Bis SP56_Ser
 #under construction here
 ITA SS131 Nur SS554
+ITA SS131DirCag ViaGuiPer SS131
+ITA SS131DirOlb SS131 SS129
+ITA SS131DirOlb SS389 SS729 #north of SS729 is not actually SS131DirOlb
+ITA SS389 StrProNuo SS131Dir #this is actually SS131Rac
+ITA SS145 A3 StrPan
+ITA SS145VarVic SS145_N SS145_S
+ITA SS148 ViaOceAtl PraMar
+ITA SS148 ViaVac SP38
+ITA SS148 ViaCor SP46
+ITA SS153 Nav SS17
+ITA SS156 SS699 SP159
+ITA SS158 ViaStrNaz SS652
+ITA SS162Dir A56 SS162NC
+ITA SS162NC SS7BisVar SS7Qua
+ITA SS170DirAnd A14 SS16
+ITA SS172 SP48 SS7
+ITA SS172DirFas ViaRoma SS16
+ITA SS189 ViaIme SP17
+ITA SS193 SS114 SP3
+ITA SS194 SS114Dir ViaEtn #under construction west of here
+ITA SS194 SS115_E SP66
+ITA SS195 ViaPla SP92 #this is actually SS195Var
+ITA SS195Bis SP91 SS195_W
 ITA SS195RaccCas SS195 SS130
+ITA SS196 ViaEur SP7
 ITA SS202 AutSisRab_N PasSantAnd
 ITA SS202DirPad LocPad RA13
+ITA SS212Ben SS372 SS212Var
+ITA SS212 SP162 SS645_E
+ITA SS212 SP154 SP146
+ITA SS212VarPie SS212_S Zen
+ITA SS214 A1 SP53
+ITA SS219 SS318 Moc #under construction west of here
+#stopped looking at exSS with 220
 ITA SS223 SS1 SP32_W
 #under construction here
 ITA SS223 SP99 SS715
 ITA SS231 ViaCun ViaRegEla
 ITA SS231 SR29 SP3
 ITA SS231 SP456 SR10
+ITA SS239 ViaCimaTosa ViaDolBre
+ITA SS240VarMor SS240 SP23
+#ITA SS256Var new route
+#ITA SS257 at east end
+ITA SS260 Piz ViaSanGio
+ITA SS265 SS372 SP116_Mad
+ITA SS268 ExSS162Dir A3
+ITA SS268RaccPal SS268 A30
+ITA SS274 SS101 SP201
+ITA SS274 SP350 SP360
+ITA SS274 ViaGiuVit Ale
+ITA SS274 SP324_S SS275
+ITA SS275 SS16 SP363_W
 ITA SS280 A2 SS109Bis
 ITA SS280DirCat SS280 SS106var
+ITA SS283VarGhi SP270 SP123
+ITA SS284 SS121 SP80
+ITA SS291VarSas ViaAttPod SS127Bis
+ITA SS318 SS3Bis SS76/SS3_N
+ITA SS336 A8 SS336Dir
+ITA SS336DirMal SS336 SS526
+ITA SS336DirVan SS336Dir SS431
+ITA SS340 SS708 SP71_S
+ITA SS340 Bri_S Bri_N
+ITA SS340 VialVNov SS340Dir
+ITA SS340DirGra SS340 ViaArmDiaz
+ITA SS340DirGra ViaSta ViaMus
+#ITA SS342Dir
+ITA SS343 StrSel ViaPo
+ITA SS344 ViaBruJam SP55
+ITA SS372 A1 SS7
 ITA SS379 SS16_N SS16_S
+ITA SS389Art SS389Var SP27
+ITA SS389VarMam SS389_N SP69
+ITA SS389VarMam SP69 SS389_S
+ITA SS391 SS130 ViaCadNas
+ITA SS398 SP40 SP39
+ITA SS401DirRSA SS655 Roc
 ITA SS407 SP1_W SS658
 ITA SS407 VagBas SPFerMac #may have a few RIROs
-#ITA SS470Dir (Bergamo)
+ITA SS423 SP136 ToSP58
+ITA SS434 TanSud SS16
+ITA SS448 VocCasaBai SS3Bis
+#ITA SS468
+ITA SS470Dir SP154 SS42
+#ITA SS514 under construction
+ITA SS516DirLie SS516 SP14
+ITA SS517VarCas SS117Dir NSA161_N
 ITA SS534 A2 SS106Rad
 ITA SS554 SP17 SS125
 ITA SS554 SS131Dir SS195Rac
+ITA SS578 A24 Gro_N
+ITA SS585DirLau SS585 SP100
+ITA SS591BisOri SP671 SS42
+ITA SS598 AteLuc_W Poz
+ITA SS598 ToSS95 SP103_W #a few RIROs?
+ITA SS598 SS92_N SP133_W
+ITA SS612 ViaMol ViaIIINov
+ITA SS612 SP101 ViaVich
 ITA SS613 SS16 ViaRis
-#ITA SS617 around Pavia
+ITA SS616 SP64 SS108Bis
+ITA SS617 A54 SP71
+ITA SS624 ViaRegSicSE SS188_W
+ITA SS626 SS640 SS115
+ITA SS626DirRav SS190 SP6_S
+ITA SS626DirRav SP6_S SS123
+ITA SS640 SP80 A19
+ITA SS640DirCal SS640 SS191
+ITA SS647 SS17 SS647Dir_S
+ITA SS649 ViaAia SS81
+ITA SS650 SS17 SS16
+ITA SS652 SS158 SS16 #part of this is still under construction?
+ITA SS653 SS742 Col
+ITA SS655 ViaAvi SP79
+ITA SS655 SS96Bis SS7
+ITA SS656 SS649Dir A14
+ITA SS656Dir SS656 A25
+ITA SS658 SS407 ViaFiuTer
+ITA SS658 ViaSanNic SS655
+ITA SS658Dir SS658 SS655
+ITA SS659 SS33 Pon
+ITA SS672 SS597 SS127 #extension under construction
+ITA SS674 RA3 SS223
+ITA SS675 SS1Bis_W SS1Bis_E #extension not yet mapped
 ITA SS675 SS1Bis SS3
+ITA SS675BisTer SS675 StrCam
 ITA E45 SS675_W SR204_W #this is unsigned SS 675 racc
 #ITA SS676 around Udine
+ITA SS679 SR71 SP21_N
 ITA SS680 SS73 SP19
+ITA SS681 ViaGugMar ZonaInd
+ITA SS682 SP5_W SS106
+ITA SS682DirSan A2 SP51
+ITA SS683 SS514 SP34 #under construction to the west
+ITA SS683VarCal SS124_E SP37
+ITA SS684 SS17 ViaMau
+ITA SS684Dir ViaMau SS17Ter
+ITA SS685 SS4 SP477
+ITA SS685 SS209 SS418
+ITA SS686 Qua ViaCam
+ITA SS687 SanMarSel SS744
+ITA SS688 SS89 SS89_W
+ITA SS688 SS89_E SP53
 ITA SS689 SS7 PorTar
+ITA SS690 A25 SS749
+ITA SS691 A2 SS7
+ITA SS692 SS17 SP109
+ITA SS693 SP35 SS750
+ITA SS694 1 11B #not actually SS694
+ITA SS694 11B SS613
+ITA SS697 SS379 SC105
+ITA SS698 SS1_S CivFer
+ITA SS699 SS156 SS7
+ITA SS700 SP4 SS265
+ITA SS701 SS4 ViaSal
+ITA SS702 ToA33 SP661
+ITA SS703 SS32 SP11_W #extension under construction
+ITA SS704 SP12 SP564_W
+ITA SS704 SP564_E SP5
+ITA SS705 SP21 SS705Dir
+ITA SS706 SR10 SR457Var
+ITA SS707 A8/A60 SP233
+ITA SS709 SS16 SS87
+ITA SS710 SS87 SS645
+ITA SS710 SS645 SS647Dir #not yet mapped
+ITA SS711 SS710 SP160
+ITA SS712 A60 SS342
+ITA SS713Vaz SP66/67 SP60
+ITA SS713 SS182 ToSS182
+ITA SS713 ToSS182 SP148
+ITA SS713DirSSB SS713 SS182
+ITA SS714 SP25Bis SS263
+ITA SS714DirFra SS714 SP23/33
+ITA SS714DirPin SS714 SR16 #has been realigned
+ITA SS714DirVil SS714 SS16
 ITA SS715 Via11Set SP327
+ITA SS716 SS64 SS719
+ITA SS717 SS1 SP582 #not quite from SS1
+ITA SS718 ViaLam ViaGalGal
+ITA SS719 ViaSanQui A11(PraW)
+ITA SS720 SP548 ViaBeg
+ITA SS722 1 Via20Set
+ITA SS723 SS723Dir A13
+ITA SS724 10 SP467R
+ITA SS724DirMod 18 20
+ITA SS12Mod 25 10 #this is actually SS724 dir/A
+ITA SS725 TanPla_N SS45
+ITA SS726 1 SP105
+ITA SS727 SS9 SS727Bis
+ITA SS727BisFor A14 ViaPla #south of ViaPla is not SS727bis
 ITA SS729 SS131 SS125/199
+ITA SS736 A2 ViaPasRos
 ITA SS738 A2 ViaGugMar
+ITA SS739 SS18 SP2 #now NSA433
+ITA SS740 ViaPor MesRegFry
+ITA SS741 ViaSen SR2
+ITA SS743 SS401 SS7
+ITA SS743 SS7 SS94Dir
+ITA SS749 SS630 SS690
+ITA SS752 SS7 SP42
 ITA E25 GenAer SP1_S #what is going on with the labels here?
 ITA E27 SS27_S A5
 ITA E90Pal ViaRegSicNO_S ViaEmiGia
@@ -1262,11 +1608,20 @@ ITA E751 SP11 SS15_N #does this have another number?
 ITA E848 SS106var ViaEur
 
 
+#ITA NSA12 (Biella)
+#ITA NSA56 at Sistiana
+#ITA NSA167 (Sassari)
 #ITA SP1 (Barletta-Andria-Trani)
+#ITA SR1 (Foggia)
 #ITA SP1 (Genova)
 #ITA SP1 (Milano)
 #ITA SP1 (Napoli)
+#ITA SP1 (Verona)
+#ITA SP2 (Barletta-Andria-Trani)
+#ITA SP2 (Cagliari)
+#ITA SP2 (Sud Sardegna)
 #ITA SP2 (Viterbo)
+#ITA SP3 (Barletta-Andria-Trani)
 #ITA SP3 (Bologna)
 #ITA SP3 (Reggio Emilia)
 #ITA SP3Bis (Cuneo)
@@ -1275,13 +1630,18 @@ ITA E848 SS106var ViaEur
 #ITA SP8 (Roma)
 #ITA SPIX (Brescia)
 #ITA SP10 (Cremona)
+#ITA SP10 (Nuoro)
+#ITA SR10 around Legnago (Verona)
 #ITA SP10Var (Alessandria)
 #ITA SR10Var (Padova)
 #ITA SP11 (Milano)
 #ITA SP11 (Torino)
 #ITA SP11 (Vercelli)
+#ITA former? SS11 and SS11Dir around Peschiera del Garda (Verona)
 #ITA SPBS11 (Brescia)
+#ITA SP13 (Sassari)
 #ITA SP14 (Milano)
+#ITA SP17 (Nuoro)
 #ITA SP19 (Bologna)
 #ITA SP19 (Brescia)
 #ITA SP23R (Torino)
@@ -1289,31 +1649,48 @@ ITA E848 SS106var ViaEur
 #ITA SP30 (Alessandria)
 #ITA SP31Bis (Torino)
 #ITA SP35 (Milano)
+#ITA SP40 (Padova)
 #ITA SP46 (Vicenza)
 #ITA SR47 (Padova)
 #ITA SR53 (Treviso)
 #ITA SP60 (Monza e Brianza)
 #ITA SP62 (Verona)
+#ITA SP63 (Benevento)
+#ITA SP66 (Ragusa)
+#ITA SP70 (Ferrara)
+#ITA SR71 around Giovi/Capolona
+#ITA SR71 around Calbenzano
 #ITA SR79 (Terni)
 #ITA SP87 (Napoli)
 #ITA SR89 (Treviso)
 #ITA SP103 (Milano)
+#ITA SP105 (Benevento)
 #ITA SP131 (Firenze)
 #ITA SP134 (Vicenza)
 #ITA SP161 (Torino)
 #ITA SR177 (Pordenone)
+#ITA SP215 around Turi (Bari)
 #ITA SP215 (Monza e Brianza)
 #ITA SP229 (Napoli)
 #ITA SP231 (Barletta-Andria-Trani)
+#ITA SP234 (Lodi)
 #ITA SP235 (Lodi)
 #ITA SP235 (Trento)
 #ITA SP236 (Bari)
 #ITA SPBS236 (Brescia)
+#ITA SPBS237 (Brescia)
 #ITA SR246 (Vicenza)
+#ITA SR249 around Valeggio sul Mincio (Verona)
 #ITA SP279 (Avellino)
+#ITA SP291 (Avellino)
+#ITA SP303Var (Napoli)
 #ITA SP308 (Padova)
+#ITA SR311 (Viterbo)
+#ITA SP334 (Napoli)
 #ITA SP335 (Napoli)
 #ITA SP349Var (Vicenza)
+#ITA SP363 (Lecce)
+#ITA SP367 (Lecce)
 #ITA SPexSS412 (Milano)
 #ITA SP415 (Milano)
 #ITA SR429 (Siena)
@@ -1321,41 +1698,62 @@ ITA E848 SS106var ViaEur
 #ITA SP456 (Asti)
 #ITA SP457Var (Alessandria)
 #ITA SP460 (Torino)
+#ITA SP467R (Modena)
 #ITA SP469 (Brescia)
 #ITA SP470 (Bergamo)
 #ITA SP498 (Bergamo)
+#ITA SP500 (Napoli)
 #ITA SP500 (Torino)
 #ITA SP501 (Torino)
+#ITA SP510 (Brescia)
 #ITA SP527 (Napoli)
 #ITA SPBS567 (Brescia)
 #ITA SP569 (Bologna)
 #ITA SP589 (Torino)
 #ITA SP589Var (Torino)
 #ITA SP671 (Bergamo)
-#ITA NSA56 at Sistiana
 #ITA Asse del Servizi (Catania)
+#ITA Asse Mediano di Scorrimiento (Cagliari)
 #ITA Asse Nord-Sud (Ancona)
 #ITA Asse Viario Vomero-Soccavo-Pianura (Napoli)
+#ITA Circonvallazione di Mores (Sassari)
+#ITA Circonvallazione di Sindia (Nuoro)
+#ITA Circonvallazione Sud (Nuoro)
 #ITA CirTib (Roma)
-#ITA CirVarMas (Tattari)
+#ITA CirVarMas (Sassari)
 #ITA Complanare Sud (Bologna)
 #ITA Corso Primo Maggio (Padova)
 #ITA Corso Regina Margherita (Torino)
-#ScoVelMarBir between Marsala and Trapani
-#ITA Tangentiale Est (Brescia)
-#ITA Tangentiale Est (Verona)
-#ITA Tangentiale Nord (Mantova)
-#ITA Tangentiale Nord (Padova)
-#ITA Tangentiale Sud (Mantova)
-#ITA Tangentiale Sud (Verona)
-#ITA Tangentiale Sud (Vicenza)
+#ITA Dorsale Consortile (Cagliari)
+#ITA Galleria Ratella/Poggio/Bussana (Imperia)
+#ITA Pedemontana della Piana di Gioia Tauro
+#ITA ScoVelMarBir between Marsala and Trapani
+#ITA Strada del Medio Savuto (Catanzaro)
+#ITA Strada Oraziana (Potenza)
+#ITA Strada Panoramica Olbia
+#ITA Tangenziale Est (Brescia)
+#ITA Tangenziale Est (Udine)
+#ITA Tangenziale Est (Verona)
+#ITA Tangenziale Nord (Mantova)
+#ITA Tangenziale Nord (Padova)
+#ITA Tangenziale Nord (Potenza)
+#ITA Tangenziale Sud (Mantova)
+#ITA Tangenziale Sud (Taranto)
+#ITA Tangenziale Sud (Verona)
+#ITA Tangenziale Sud (Vicenza)
+#ITA Via Appia Bis (Roma)
+#ITA Via Boscofangone (Napoli)
+#ITA Via della Cooperazione (Bologna)
 #ITA Via Cristoforo Colombo (Roma)
 #ITA Via Enrico Melen (Genova)
 #ITA Via della Liberta (Venezia)
 #ITA Via Palmanova (Milano)
+#ITA Via dello Sport (Verona)
 #ITA Viadotto della Magliana (Roma)
 #ITA Viale Isacco Newton (Roma)
+#ITA Viale Salvatore Ferrara (Cagliari)
 #ITA Viale del Tecnopolo (Roma)
+#ITA Zona Industriale di Atessa
 #continuation of A8 in Milan
 #incomplete bypass at Gela
 
