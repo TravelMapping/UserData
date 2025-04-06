@@ -1,4 +1,4 @@
-# Date: 2025-04-05
+# Date: 2025-04-06
 # ----------------
 
 ######################
@@ -693,9 +693,9 @@ DEU-NW 701Dus DOMEHul RathS           #2024
 DEU-NW 701Dus HeiStr SchaStr          #2024
 DEU-NW 701Dus SchaStr EllMitS         #2025
 DEU-NW 705Dus SchaStr +DIV_SteA       #2025
-DEU-NW 705Dus MerStr +DIV_SteB        #2025
+DEU-NW 705Dus SteMerStr +DIV_SteB     #2025
 DEU-NW 706Dus HammS FraStr            #2024
-DEU-NW 706Dus SchaStr SteBurg         #2025
+DEU-NW 706Dus SchaStr SteMerStr       #2025
 DEU-NW 707Dus UntRathS MedHafKesStr   #2024
 DEU-NW 708Dus UhLandStr BirStr        #2025
 DEU-NW 709Dus TheHeuPla SchStrArbAge  #2024
