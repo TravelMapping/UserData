@@ -1,3 +1,9 @@
+# before road trip: 8093.87, rank 338
+# after road trip: 
+
+# Mobrule before: 293, 59th percentile
+# Mobrule after: 
+
 #### United States ####
 # Connecticut
 CT I-84 57 CT/MA
@@ -148,14 +154,15 @@ NJ I-78 59 NJ/NY
 NJ I-78 52 48
 NJ I-80 47B PA/NJ
 NJ I-95 16E PA/NJ
-NJ I-195 35 6
+NJ I-195 35 1A
 NJ I-278 3 NJ/NY
 NJ I-280 13 I-80
 NJ I-287 I-95 22
+NJ I-295 73 67
 NJ I-295 36 26A
 NJ I-295 1 DE/NJ
 NJ I-676 1 NJ/PA
-NJ US1 WooCenDr AleRd
+NJ US1 WooCenDr I-295
 NJ US9 US22/21 NJ139
 NJ US9 NewAir NJ81
 NJ US9 NJ79 GreSt
@@ -175,6 +182,7 @@ NJ NJ18 BucDr MainSt
 NJ NJ18 30 25
 NJ NJ24 I-78 7
 NJ NJ27 GreSt NJ18
+NJ NJ29 I-195/295 CR546
 NJ NJ32 I-95 US130
 NJ NJ34 US9 MorRd
 NJ NJ34 CR520 LaiRd
