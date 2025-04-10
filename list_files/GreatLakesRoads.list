@@ -174,6 +174,10 @@ FL I-110 1 6
 FL I-175 I-275 FL687
 FL I-275 I-75_S I-75_N
 FL I-375 I-275 US19Alt
+# Named Freeways (FL)
+FL FLTpk 1 17
+FL FLTpk 47A 307
+FL FLTpkMia I-95/826 4X 
 
 # Georgia
 # Interstates (GA)
@@ -188,6 +192,13 @@ GA I-95 FL/GA GA/SC
 GA I-185 1 I-85
 GA I-285 GA279 62
 GA I-475 I-75_S I-75_N
+# US Highways (GA)
+GA US27 I-185(1) GA97
+# State Highways (GA)
+GA GA97 US27/84 GA97Spr
+GA GA204 I-95 HarTruPkwy
+# Named Freeways (GA)
+GA HarTruPkwy GA204 PreSt
 
 # Hawaii
 # Interstates (HI)
@@ -220,6 +231,10 @@ ID I-90 WA/ID ID/MT
 ID I-184 0 US20/26
 # US Highways (ID)
 ID US20 OR/ID ID/MT
+ID US95 ID55_N ID8_W
+# State Highways (ID)
+ID ID8 US95_N WA/ID
+ID ID55 I-84(46) US95_N
 
 # Illinois
 # Interstates (IL)
@@ -265,6 +280,11 @@ IN I-469 0 31
 IN I-865 I-65 I-465
 # US Highways (IN)
 IN US20 IL/IN IN/OH
+# Named Freeways (IN)
+IN HWCookDr I-70 Ter
+IN KeyPkwy I-465 US31
+IN VetMemPkwy US41 RivDr
+IN SamJonExpy I-70 I-74/465
 
 # Iowa
 # Interstates (IA)
@@ -328,12 +348,22 @@ LA I-310 1 US90
 LA I-510 1A LA47_S
 LA I-610 1A I-10_E
 LA I-910 US90Bus_W I-10
+# Named Freeways (LA)
+LA LakePonCswy EspAve US190/22
 
 # Maine
 # Interstates (ME)
 ME I-95 NH/ME USA/CAN
 ME I-295 I-95(44) 28
 ME I-395 US2 6
+# US Highways (ME)
+ME US1 I-295(28) ME46
+ME US1AltBan I-395(6) ME46
+ME US2 NH/ME US201_S
+ME US201 US2_W I-95
+# State Highways (ME)
+ME ME46 US1 US1Alt
+ME ME174 US1 FortKnoxSP
 
 # Maryland
 # Interstates (MD)
@@ -443,6 +473,8 @@ MT I-115 I-15/90 ClaSt
 MT I-315 I-15 6thSt
 # US Highways (MT)
 MT US20 ID/MT YelNP
+# State Highways (MT)
+MT MT200 I-90(109) I-15BL_N
 
 # Nebraska
 # Interstates (NE)
@@ -469,6 +501,20 @@ NH I-93 MA/NH NH/VT
 NH I-95 MA/NH NH/ME
 NH I-293 I-93_S I-93_N
 NH I-393 I-93 NH9
+# US Highways (NH)
+NH US2 NH115 NH/ME
+NH US3 KilRd NH101
+NH US3 US202_E I-93(13)
+NH US3 US302 NH115
+NH US202 NH9_Hil I-89(5)
+NH US202 US3_N I-93
+NH US302 I-93(40) US3
+# State Highways (NH)
+NH NH9 US202_W WasSt
+NH NH9 VT/NH NH101
+NH NH12 NH9_W NH101_E
+NH NH101 I-95 KilRd
+NH NH115 US3 US2
 
 # New Jersey
 # Interstates (NJ)
@@ -482,6 +528,10 @@ NJ I-295 DE/NJ 1
 NJ I-295 22 23
 NJ I-295 60 NJ/PA
 NJ I-676 1 NJ/PA
+# Named Freeways (NJ)
+NJ AtlBriCon AtlCityExpy NJ87
+NJ AtlCityExpy BalAve 44
+NJ NJTpk I-295(1) I-95(72) 
 
 # New Mexico
 # Interstates (NM)
@@ -516,6 +566,10 @@ NY I-890 I-90(26) I-90(25)
 NY I-990 I-290 5
 # US Highways (NY)
 NY US20 PA/NY NY/MA
+# Named Freeways (NY)
+NY BerCon I-87 NY/MA
+NY InnLoop I-490 UniSt
+NY LaSExpy I-190 WilRd
 
 # North Carolina
 # Interstates (NC)
@@ -547,6 +601,18 @@ ND I-29 SD/ND 141
 ND I-94 42 61
 ND I-94 152 ND/MN
 ND I-194 I-94 I-94BL
+ND I-94BLBis I-194 ND1804
+# US Highways (ND)
+ND US2 US85_S US2BusMin_E
+ND US2 I-29/81 ND/MN
+ND US83 I-94(159) MinAFB
+ND US85 SD/ND US2_E
+ND US83BypMin US83_N US83_S
+# State Highways (ND)
+ND ND22 I-94 ND22Byp
+ND ND23 US85 ND23Bus_E
+ND ND1804 I-94 I-94BL
+ND ND23BusWat ND23_W ND23_E
 
 # Ohio
 # Interstates (OH)
@@ -575,6 +641,8 @@ OH I-675 I-75 26
 OH I-680 1 I-76
 # US Highways (OH)
 OH US20 IN/OH OH/PA
+# Named Freeways (OH)
+OH BerFwy I-71 I-480
 
 # Oklahoma
 # Interstates (OK)
@@ -586,6 +654,8 @@ OK I-235 1A 4B
 OK I-244 1A I-44
 OK I-335 130 149
 OK I-344 I-40 I-35/44
+# Named Freeways (OK)
+OK GilExpy I-244 US75
 
 # Oregon
 # Interstates (OR)
@@ -628,6 +698,16 @@ PA US20 OH/PA PA/NY
 RI I-95 CT/RI RI/MA
 RI I-195 1 RI/MA
 RI I-295 I-95 RI/MA
+# US Highways (RI)
+RI US1 RI4 RI138_E
+RI US6 CT/RI I-195(2C)
+# State Highways (RI)
+RI RI3 I-95(9) RI102_S
+RI RI4 US1 I-95
+RI RI102 RI3_S RI4(5)
+RI RI138 US1_N AdmKalRd_W
+RI RI138A RI138_W RI238_S
+RI RI146 I-95 RI/MA
 
 # South Carolina
 # Interstates (SC)
@@ -642,6 +722,23 @@ SD I-29 47 SD/ND
 SD I-90 WY/SD SD/MN
 SD I-190 1A SD44
 SD I-229 1A 10
+SD I-90BLCha I-90_E I-90_W
+SD I-90BLWal I-90_W I-90_E
+# US Highways (SD)
+SD US12 US281 I-29
+SD US16 US16Alt/89 US16Trk
+SD US81 SD50/52 SD46
+SD US81 I-29(180) US212
+SD US83 I-90(212) PieSt
+SD US85 I-90(10) SD/ND
+SD US212 US81 I-29
+SD US281 US12 I-90
+SD US16TrkRap I-90(61) US16
+SD US16AltCus US16_E US16_W
+# State Highways (SD)
+SD SD46 US81 I-29
+SD SD50 US81/52 SD/IA
+SD SD244 US16Alt MtRusNP
 
 # Tennessee
 # Interstates (TN)
@@ -691,8 +788,11 @@ TX I-820 1A 34
 # US Highways (TX)
 TX US54ElP 20 TX/NM
 # Spurs (TX)
-TX TXSpr320 RaiDr US54BusElP
+TX TXSpr320 RaiDr US54Bus
 TX TXSpr601 20A TXLp375
+# Named Freeways (TX)
+TX ChiTrlPkwy I-20 I-30
+TX WesTlwy FM723 RicAve
 
 # Utah
 # Interstates (UT)
@@ -709,6 +809,16 @@ VT I-89 NH/VT USA/CAN
 VT I-91 MA/VT USA/CAN
 VT I-93 NH/VT I-91
 VT I-189 I-89 US7
+# US Highways (VT)
+VT US2 US2Bus_W I-91
+VT US2BusMon US2_W US2_E
+VT US302 US2 BerSH
+# State Routes (VT)
+VT VT9 I-91(3) VT/NH
+VT VT9TrkBra VT9_E VT9_W
+VT VT9 VT279 I-91(2)
+VT VT62 I-89 BerSH
+VT VT279 VT9 NY/VT
 
 # Virginia
 # Interstates (VA)
@@ -735,6 +845,9 @@ WA I-90 WA519 WA/ID
 WA I-205 OR/WA I-5
 WA I-405 I-5(154) I-5(182)
 WA I-705 I-5 StaWay
+# Named Freeways (WA)
+WA AirExpy Ter WA518
+WA WSeaBri I-5(163A) 35thAve
 
 # West Virginia
 # Interstates (WV)
@@ -764,8 +877,12 @@ WY I-25 298 300
 WY I-80 UT/WY WY/NE
 WY I-90 MT/WY WY/SD
 WY I-180 I-80 I-80BL/30
-# US Highway (WY)
+# US Highways (WY)
 WY US20 YelNP WY/NE
+# State Highways (WY)
+WY WY50 I-90 WY387
+WY WY259 I-25 WY387
+WY WY387 WY59 WY259
 
 # National Park Highways
 # YELL
