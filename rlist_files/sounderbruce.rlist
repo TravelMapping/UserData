@@ -89,7 +89,7 @@ OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
 OR BlueLn HatGovCen CleAve
-OR GreLn PSUSou Gat99thAve
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
@@ -99,6 +99,7 @@ OR BLp GraHol +SKIP_11thMar
 OR BLp +DIV_Nor 11thMar_N
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_N
+OR WesExpSer BeaTraCen Wil
 
 OR AC PorUniSta BC AC VanPacCen
 OR CS PorUniSta OR/WA
