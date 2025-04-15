@@ -1766,6 +1766,7 @@ CA CA120Lee US395_N US6
 CA CA121 CA37 CA116
 CA CA125 1 MisGorRd
 CA CA126 1A I-5
+CA CA127 StaLineRd CA/NV
 CA CA132 I-580 CA99/108
 CA CA134 1A 13B 
 CA CA135 US101(154) US101(173)
@@ -1782,6 +1783,7 @@ CA CA163 ASt I-15
 CA CA166 US101(171) US101(175)
 CA CA170 5 11B
 CA CA180 57A KinCanNP
+CA CA190Dea BadRd CA127
 CA CA198 101 SeqNP
 CA CA210 45 85
 CA CA217 MesRd 3
@@ -1795,6 +1797,9 @@ CA ElPorRd BigOakRd SouDr_E      # -- Yosemite NP - El Portal Road
 CA GenHwy CA198 KinCanRd         # -- Sequoia NP - General's Hwy
 CA KinCanRd CA180_W GenHwy       # -- King's Canyon NP - King's Canyon Rd
 CA WawRd CA41 SouDr              # -- Yosemite NP - Wawona Road
+CA BadRd Bad CA190               # -- Death Valley NP - Badwater Road
+CA DanViewRd CA190 DanView       # -- Death Valley NP - Dante's View Road
+
 
 # Colorado (CO)
 # ---------------------
@@ -2563,6 +2568,7 @@ NV NV173 I-11 US93Bus
 NV NV318 US93 US6
 NV NV341 US50 US395Alt
 NV NV342 NV341_S NV341_N
+NV NV373 CA/NV US95
 NV NV431 NV28 US395Alt
 NV NV592Spr NV596 I-15
 NV NV564 I-11/215 LkMeadNRA
