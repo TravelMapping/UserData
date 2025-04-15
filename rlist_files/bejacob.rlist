@@ -120,6 +120,7 @@ FL GateLinkTAW TerA Air1
 FL GateLinkTBE TerB Air4
 FL GateLinkTBW TerB Air3
 GA PlaTrn DomTer FGatIntTer
+KY CVGTram MainTer ConB
 MI ExpTram SouSta NorSta
 MN MSPTram ConDE ConAB
 NV BlueLn Ter1 DGat
@@ -218,6 +219,7 @@ GRC T6 Syn Pik
 GRC T7 Edem Kol
 
 SCT HMLEdi EdiWav Sti
-
 TUR T1Ist BeyKapCar Toph
 
+#Europe Airpoirts Airside
+ENG HT5Tra GatA1A23 GatC52C66
