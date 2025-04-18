@@ -1,4 +1,4 @@
-# Date: 2025-04-17
+# Date: 2025-04-18
 # ----------------
 
 
@@ -4301,6 +4301,7 @@ DEU-NI L885 LemVegFry K217
 DEU-NI L887 A28 NI/HB
 DEU-NI IndStrNord A39 Vwt
 DEU-NI NordTanOld A293 A29
+DEU-NI K92 A39 FraStr
 
 
 
@@ -5091,6 +5092,7 @@ DEU-NW ChoZub A57 K8
 DEU-NW IndStrKol MerStr NieEi
 DEU-NW K3 A448 A43
 DEU-NW K4 A57 L100
+DEU-NW K8 WeiRing ChoZub
 DEU-NW K16 L284 L124
 DEU-NW MalStrDor SunWeg L663
 DEU-NW RheBruDus B7 EliStr
