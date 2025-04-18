@@ -3,6 +3,7 @@ DC NENew WasUniSta MA NENew BosSou
 CT HL NHUniSta MA HL Spr
 FL FL Mia DC FL WasUniSta
 MA LSBos Spr BosSou
+CA CS UniSta OakJackLonSq
 
 FL BriLn MiaCen BriOrlSta
 
@@ -34,6 +35,14 @@ NJ GlaBra Hob Gla
 
 FL TriRail MiaAir WestPalmBea
 FL TriRailDow MiaCen MetTra
+
+CA ClTra Tam SanFraKing
+
+CA SanBerLn UniSta RedDow
+CA Arr SanBerDow RedUni
+CA AntVlyLn UniSta Lan
+CA RivLn UniSta RivDow
+CA PerVlyLn UniSta PerS
 
 ########-HERITAGE RAILROADS-########
 CT EssSteTrn Ess DeepRivLan
@@ -159,12 +168,21 @@ WA SeaCenMon SeaCen WesCen
 WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
+CA BARTBlue DalyCity DubPle
+CA BARTOra Ber Ric
 CA BARTRed Col CivCen
+CA BARTYel Mil PitTra
 CA MuniN 2nd PowSt
-CA AirTrnBlue RenCarCen Loop
+CA MuniT King ChiRosePark
+CA AirTrnBlue LongTermPar Loop
 
+CA SRTGold SacValSta HisFol
+
+CA A WilRosaPar APUCitCol
 CA B NHol UniSta
+CA C AviLAX WilRosaPar
 CA D WilWes UniSta
+CA E DowSanMon LitTokArtsDis
 
 CA GreLn 12thImpTC FasVly
 CA BlueLn CivCen OldTownTC
