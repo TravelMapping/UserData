@@ -1,5 +1,5 @@
 # ──────────
-# 2025-04-17
+# 2025-04-20
 # ──────────
 
 # ─────────
@@ -55,6 +55,7 @@ CZE S20 Kol SveNadSaz
 CZE S21 Jicn NymHlaNad
 CZE S22 PraMasNad Mil
 CZE S23 Ner Cel
+CZE S24 Cel Moc
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
 CZE S30 Tur MlaBolHlaNad
@@ -125,6 +126,7 @@ CZE L1 Lib Tan
 CZE L2 DecHlaNad Lib
 CZE L3 Libe ZelBrod
 CZE L4 Rum Ryb
+CZE L4 Svor MlaBolHlaNad
 CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
 CZE L12 JosDul Smr
