@@ -693,6 +693,21 @@ BEL N702 N774 N76
 #BEL Tunnel Stéphanie in Bruxelles
 
 
+##BOSNIA AND HERZEGOVINA
+BIH A1Odz HRV/BIH 2
+BIH A1Rud 5 6
+BIH A1 12 M17_Bra
+BIH A1Bub 30 BIH/HRV
+BIH A1Lak 1 5
+BIH A2 1 6
+
+BIH GraAutSar R901 A1
+
+BIH M17Dob R441 A1(13)
+BIH M17 RusPas BlaCes
+BIH M101 A1 M108
+
+
 ##CROATIA
 HRV A1 1 D425
 HRV A2 SVN/HRV 7
@@ -3473,6 +3488,12 @@ MYS FT195 Ser2 Ser2Hei_W
 MYS FT241 E2 Ser2
 #MYS Persiaran Utara and others in Putrajaya
 #MYS stuff in Seremban 2
+
+
+##MONTENEGRO
+MNE A1 M2 R13
+
+MNE M1.1 M1 M2
 
 
 ##NETHERLANDS
