@@ -3685,7 +3685,8 @@ SWE SalLed VarLed FisVag
 SWE SodLedGot L158 E6/E20
 SWE StoVag HorGat 18
 SWE TreVag 12 StaGat
-SWE VasLedGot OscLed 
+SWE UppVag 186 VisVag
+SWE VasLedGot OscLed L158
 SWE VastKustVag M892 19
 SWE VaxMot R30 MarVag
 
