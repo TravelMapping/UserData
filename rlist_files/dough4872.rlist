@@ -29,6 +29,11 @@ NJ PortJerLn SecJct NJ/NY
 NY PortJerLn NJ/NY PortJer
 NY A 42StPABT 34StPennSta
 CO ELn CouLine Sou
+CO BroManPikPeakCR Man PikPeak
 PA StrRR Str LeaPl
 FL ExpMon TraTicCen_1 TraTicCen_2
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTBE TerB Air4
+GA PlaTrn DomTer CGat
 GA SkyTrn Air RenCarCen

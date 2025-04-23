@@ -29,6 +29,8 @@ CA SRTGre 13thSt 7thRic
 CA PS Oce +DIV_Uni1
 CA PS UniSta +DIV_Uni2
 
+CO DENTrn AGat BGat
+
 DC DCSC UniSta OklAve
 VA BluLn FraSpr MD BluLn DowLar
 MD GreLnSui BraAve MD GreLn Gre
@@ -87,7 +89,7 @@ OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
 OR BlueLn HatGovCen CleAve
-OR GreLn PSUSou Gat99thAve
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
@@ -97,6 +99,7 @@ OR BLp GraHol +SKIP_11thMar
 OR BLp +DIV_Nor 11thMar_N
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_N
+OR WesExpSer BeaTraCen Wil
 
 OR AC PorUniSta BC AC VanPacCen
 OR CS PorUniSta OR/WA
@@ -117,6 +120,9 @@ WA T TacDome StJos
 WA SeaCenMon SeaCen WesCen
 WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
 
 WA AC OR/WA USA/CAN
 WA CS OR/WA SeaKingSt
@@ -137,8 +143,7 @@ BC WestCoaExp CoqCen Wat
 
 BC AC USA/CAN VanPacCen
 
-ON TrilLine #Trillium Line (Ottawa)
-
+ON OT2 Bay Gre
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
