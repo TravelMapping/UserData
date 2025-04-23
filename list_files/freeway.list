@@ -1867,6 +1867,7 @@ DEU-HB AutZubArs A1 ArsHeerStr
 DEU-HB AutZubHem HemTun A1
 DEU-NW K4 A57 L100
 DEU-NW ChoZub A57 K8
+DEU-BY FU6 St2242 St2245
 DEU-BY N4 A73(39) RotStr
 DEU-BY N4 LanStr WieStr
 DEU-TH K35 A71 K14
@@ -1878,12 +1879,14 @@ DEU-NW MalStrDor SunWeg L663
 DEU-BY MaxPlaStr OdeRing A3
 DEU-NI NordTanOld A293 A29
 DEU-BY OdeRing WalAll B15
+DEU-BW PadAll SuwAll AdeSteStr
 DEU-NW RheBruDus B7 EliStr
 DEU-BY SudTanFur B8 A73
 DEU-BW SudTanKar RP/BW B3
 DEU-NW K3 K1 A43
+DEU-NW K8 WeiRing L34
 DEU-NW K16 L284 L124
-DEU-BY FU6 St2242 St2245
+DEU-NI K92 A39 RabStr
 DEU-BY ZubFluMun A92 *Old
 DEU-BY ZubFluMunN ZubFluMun AllLuf
 
@@ -2620,14 +2623,11 @@ DEU-HE L3268 L3193_S SieStr
 
 #DEU-BW K3575
 #DEU-BW K9915
-#DEU-BW Paduaallee (Freiburg im Breisgau)
 #DEU-BY AIC25
 #DEU-BY NordTan (Würzburg)
 #DEU-By OstUmgAsc (München)
 #DEU-HE K47 (Calden)
 #DEU-HE KurtSchRing (Russelsheim am Main)
-#DEU-NI K92 (Wolfsburg)
-#DEU-NW K8 (Köln)
 #DEU-NW Plessingstraße
 #DEU-RP K6 (Koblenz)
 #DEU-ST EurCha (Halle)
@@ -3373,6 +3373,14 @@ ITA E848 SS106var ViaEur
 #incomplete bypass at Gela
 
 
+##KOSOVO
+RKS R6 1 6
+RKS R7 ALB/RKS 7
+RKS R7Pri 8 N25
+
+#RKS N2a
+
+
 ##LUXEMBOURG
 LUX A1 A3/A6 LUX/DEU
 LUX A3 B3 LUX/FRA
@@ -3650,6 +3658,21 @@ NLD S103Rot S123/S126 A15/A29
 #NLD Welterlaan (Heerlen)
 
 
+##NORTH MACEDONIA
+MKD A1 SRB/MKD MKD/GRC
+MKD A1Pri A1_Gra R1103
+MKD A2 OldA2_Kri R1205
+MKD A2 8 IliSka
+MKD A3 7 9 #assuming it will be a full freeway once rebuilt; the existing two-lane is not quite
+MKD A3Sht A4_S *R2342
+MKD A4 12(A2) 13(A1)
+MKD A4 10(A1) 13
+MKD A4 14 R1310
+MKD A4 R1403_Sul R1403_Kal
+
+#MKD former? A20 into Skopje from the east
+
+
 ##PHILIPPINES
 PHL E1 N1/N160 N2/N209
 PHL E2 Sky_N N4/N434
@@ -3668,6 +3691,33 @@ PHL NLEXMab E1 N213
 PHL Sky N411 E1
 PHL NLEXCon N180 E5/N130
 PHL N11 N142 26thSt
+
+
+##SERBIA
+SRB A1 HUN/SRB SRB/MKD
+SRB A2 A1 7
+SRB A3 HRV/SRB A1
+SRB A4 A1 SRB/BGR
+SRB A5 A1 7
+SRB A8 A1 M3
+SRB A12 A1 1
+
+SRB M2 B21 A3/A8
+SRB M3 A8 B26_Les
+SRB M6 B13_N B13_S
+SRB M7 B33_E BozeDim
+SRB M9 B27_E B27_W
+SRB M11 A1/A3 1
+SRB M11 FedFel A1_Pot
+SRB M15 Zir B24
+
+SRB B22 KruPut Orl
+SRB B23 B21_N B21_S
+SRB B47 BulDesSte_E ZrePut
+
+SRB R475 Sur A2
+
+#SRB BulVojMis
 
 
 ##SLOVENIA
