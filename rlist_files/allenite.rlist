@@ -78,6 +78,7 @@ ENG WCMLECre Cre ManPic
 ENG TPNRtePic ManPic York
 
 # Aberdeen to Lake District / Liverpool
+SCT GMLEdi Hay Abe
 ENG WCMLA WigNorWes SCT WCMLA EdiWav
 ENG LakLn OxeLakeDis Win
 ENG CityLn LivLimeSt WigNorWes
@@ -96,4 +97,10 @@ NLD AmsDis AmsCen SchAir
 ###########
 IRL DART DubPea BrayDaly
 
+
+###############
+# Isle of Man #
+###############
+IMN IMR Dou Cas
+IMN MER DerCas Lax
 
