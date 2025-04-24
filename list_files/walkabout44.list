@@ -1,8 +1,6 @@
-# 04/14/2025
-# v62
-# Add I-69 TX (already on)
-# Add I-73 NC (Rockingham bypass, not on)
-# Add I-74 NC (Rockingham to Hamlet, already on)
+# 04/23/2025
+# v63
+# Add AZ US80HisWel (previously traveled in 1959)
 
 
 # Arizona Interstate Highways
@@ -150,6 +148,7 @@ AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60 AZ77_S
+AZ US80HisWel 21 54
 AZ US89AHisCla AZ89A_S AZ89A_N
 
 # Hawaii 
