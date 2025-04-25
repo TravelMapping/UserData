@@ -15,6 +15,10 @@ QC GreLn LioGro Viau
 QC OraLn Sno LioGro
 QC OraLn LucLAll Lau
 SK Can MB/SK SK/AB
+ITA-LAZ FbRomGen TOS/LAZ RomaTer
+ITA-TOS FbRomGen PisCen TOS/LAZ
+ITA-TOS FaRomGen PisCen FirCam
+ITA-LAZ FL1 +DIV_FL5 FiuAer
 ITA-LAZ FL4 RomaTer Cia
 ITA-LAZ FL4Alb RomaTer Cia
 ITA-LAZ FL4Fra RomaTer Cia
