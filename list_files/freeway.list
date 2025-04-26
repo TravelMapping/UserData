@@ -4066,6 +4066,33 @@ POL DW935 UliLot DK78_S #under construction to the west
 #POL Trasa Łagiewnicka (Kraków)
 
 
+##ROMANIA
+ROU A0 A3 DN1
+ROU A0Jil DN6 A2
+ROU A1 BulPre DN7C
+ROU A1Sib DN7_Boi DN68A_Oha
+ROU A1Ara DN68A_Mar ROU/HUN
+ROU A2 SosLib A4
+ROU A3Buc StrGhe DN1
+ROU A3Bra DN73 DN73G
+ROU A3 DN15J DN1F/1J
+ROU A3Sup DN1H Sup
+ROU A3Ora DN19 ROU/HUN
+ROU A4 DN2A ConPort
+ROU A6 DN6 A1
+ROU A7Miz A3 DJ100C
+ROU A7Foc DJ203K DN2
+ROU A7 DN2/2T DN2_N
+ROU A10 1 7
+ROU A11 A1 DN7
+
+ROU DEx12 DN65A DN65F
+ROU DEx16 A3 DN1Y
+
+ROU DN1Y DEx16 DNCOra
+ROU DNVO1Z DJ797D DN79
+
+
 ##SERBIA
 SRB A1 HUN/SRB SRB/MKD
 SRB A2 A1 7
@@ -4380,6 +4407,21 @@ CHE H21 BouStBer CHE/ITA
 #CHE spur from A6 exit 15, 16
 #CHE spur from A8 exit 26
 #CHE spur from A9 exit 33
+
+
+##UKRAINE
+UKR M01 M03/M05 HorVal
+UKR M01 NabSho BerVul
+UKR M03 MykBoiVul ZarVul
+UKR M03 T1016 MizAerBor #some RIROs but all channelized?
+UKR M03Pol M03 M22
+UKR M05 Buz Sok
+UKR M29 M03 Nov
+UKR M30Dni M30 T0421
+
+#UKR NabSho (Kyiv)
+
+#CRM may have some but they're not all mapped
 
 
 ##UNITED STATES
