@@ -1526,6 +1526,21 @@ NM I-25 446 NM/CO
 # US Routes
 NM US64 CRB13 I-25(450)
 
+##### OREGON #####
+
+# Interstate Highways
+OR I-5 301 305
+OR I-84 OR99E 31
+OR I-405 2A I-5(302B)
+
+# Select Named Freeways / Parkways
+
+# State Routes
+OR OR213 US30_Byp AirWay
+
+# US Routes
+OR US30BypPor I-5 OR213
+
 ################################################################
 
 ##### ONTARIO #####
