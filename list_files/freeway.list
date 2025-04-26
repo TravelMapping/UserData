@@ -723,6 +723,41 @@ BIH M17 RusPas BlaCes
 BIH M101 A1 M108
 
 
+##BULGARIA
+BGR A1 UliSae I6
+BGR A2 II18 I4
+BGR A2Var III5102 I2_Var
+BGR A3 II18 I1_Zhe
+BGR A3Kul I1_Kre Kul
+BGR A4 A1 BGR/TUR
+BGR A5 I9_N I9_S
+BGR A6Sof I1/I6 VasLev
+BGR A6 III811 I8
+
+BGR I1 ROU/BGR III122
+BGR I1 102 113
+BGR I1 Bul2riYuni III103 #not quite to Bul2riYuni; possibly some more south of here
+BGR I1Bla II62_E II62_W
+BGR I1Bla BeloPole III106
+BGR I1Bla PokSho A3_BlaS
+BGR I1Bla A3_Zhe II19
+BGR I5 III5008 UliHanAsp #may have some RIROs
+BGR I6Per KvaReno II63
+BGR I6Per UliYurGag A3/A6
+#BGR I8Dra seems to have too many RIROs
+BGR I8Bos III811 Hra
+BGR I9 III2008 A5_N
+BGR I9 III906_S UliDimDim
+
+BGR II18 A1 BulCheVrah
+BGR II18 A6 I8
+BGR II18 UliObeSho SST
+
+#BGR probably some streets in Sofia
+#BGR BulVasLev (Warna) or not quite
+#BGR III5004
+
+
 ##CROATIA
 HRV A1 1 D425
 HRV A2 SVN/HRV 7
