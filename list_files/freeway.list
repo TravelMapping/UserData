@@ -2850,8 +2850,18 @@ GRC A621 A6 A64
 GRC PerOdosThe 12 EO16
 GRC TheNeoMou Vou A24
 
-GRC EO8ACor EO8 A7/A8 #not all the way to EO8
+GRC EO1 A1(67) Nik
+GRC EO2 Ore A2(23)
+GRC EO3 A27_Pto OdosOik
+GRC EO3 Sot EP03
+GRC EO6 Meg Pin_E
 GRC EO8AEle EO8 A8
+GRC EO8ACor EO8 A7/A8 #not all the way to EO8
+#GRC EO51 around Kornofolia, Labara
+GRC EO51 OdosAgiPar Tho
+GRC EO51 OdosKon OdosOre_N
+GRC EO51 OdosOre_N Kas_S
+GRC EO51 Spi EO53
 GRC EO56A AktiVas KekOdos
 GRC EO56A KarDim EO91
 GRC EO63Lef KatoChr A25
