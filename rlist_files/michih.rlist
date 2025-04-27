@@ -1,4 +1,4 @@
-# Date: 2025-04-06
+# Date: 2025-04-26
 # ----------------
 
 ######################
@@ -326,6 +326,11 @@ DEU-BW S9 MannHeimHbf KarRuheHbf               #2025
 DEU-NW S5 DortMundHbf WitHbf                   #2025
 DEU-NW S5 WitHbf HagHbf                        #2025, traveled as RB40
 DEU-NW S9 EssSte HagHbf                        #2025
+
+#DEU-NW RB28 Düren Euskirchen                  #2025
+DEU-NW S23 BonnHbf EusKir                      #2025
+#DEU-NW RE5 Bonn Hbf Cologne Hbf               #2025
+DEU-NW S19 Dur KolnHbf                         #2025
 
 
 
