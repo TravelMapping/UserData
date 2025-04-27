@@ -273,6 +273,23 @@ FIN St352 St170 St355 #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN St355 Vt15 End #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN Vt15 KotKatu 74(Vt7) #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN St138 MeiTie TieTie #Nexus viimeinen koulutus Helsinki Laura Mukana
+FIN Vt14 Vt5 Kt71 #Nexus viimeinen koulutus Helsinki Laura Mukana
+FIN Kt71 Vt14 Vt6 #Nexus viimeinen koulutus Helsinki Laura Mukana
+
+#17.4.
+FIN LanVay PorKatu 18 #04/2025 Tiimipalaveri 
+FIN Kt50 Kt51 30A #04/2025 Tiimipalaveri 
+FIN Keha3 Kt51 30A #04/2025 Tiimipalaveri 
+FIN St110 St120 Kt50 #04/2025 Tiimipalaveri 
+FIN St120 Vt3 St110 #04/2025 Tiimipalaveri 
+FIN St100 Vt3 Kt45 #04/2025 Tiimipalaveri 
+FIN St152 Vt4 St140 #04/2025 Tiimipalaveri 
+FIN St363 St140/313 Kt46 #04/2025 Tiimipalaveri 
+FIN Kt46 St369 St363 #04/2025 Tiimipalaveri 
+FIN St369 Kt46 Vt15 #04/2025 Tiimipalaveri 
+FIN St377 Vt15 Vt13 #04/2025 Tiimipalaveri 
+FIN St408 St409 St387/390 #04/2025 Tiimipalaveri 
+
 
 
 
