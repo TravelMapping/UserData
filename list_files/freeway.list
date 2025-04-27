@@ -3659,6 +3659,18 @@ ITA E848 SS106var ViaEur
 #incomplete bypass at Gela
 
 
+##KENYA
+KEN DonKunByp A8 A7
+KEN DonKunBypKip DonKunByp KipTer
+KEN NaiExpy NaiWes Mlo
+KEN SouByp A8_W A2/A8 #may have some RIROs
+
+KEN A2 A8_W KipRd
+KEN A2 2 13
+KEN A2 14 15A
+KEN A2 16A 17
+
+
 ##KOSOVO
 RKS R6 1 6
 RKS R7 ALB/RKS 7
