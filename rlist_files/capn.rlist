@@ -1,0 +1,34 @@
+DC SM VA/DC DC/MD
+DC GreLn LEnfPla DC/MD
+DC OraLn VA/DC DC/MD
+DC RedLn MD/DC DC/MD
+
+FL SM Kis FL/GA
+
+GA SM FL/GA GA/SC
+
+MD NENor DC/MD BWIAir
+MD GreLn DC/MD Gre
+MD OraLn DC/MD NewCar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Whe
+
+NC SM SC/NC NC/VA
+
+NJ NENor NewBru NY/NJ
+
+NY NENor NJ/NY PennSta
+NY 1 137StCityCol SouFry
+NY 5 EasDyreAve BroBriCityHall
+NY A 145St ChaSt 
+NY E SutBlvdArcAve Lexave53St
+NY J ChaSt SutBlvdArcAve
+
+PA ManNorLn Phi30thSt MainSt
+PA PA PitUni Phi30thSt
+PA WilNewLn PennMed Phi30thSt
+
+SC SM GA/SC SC/NC
+
+VA SM NC/VA VA/DC
+VA BluLn ArlCem VA/DC
