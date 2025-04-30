@@ -1,6 +1,7 @@
 listname;description;includeInRanks
 defaults;;1
 6lane;Marks all segments with 6 or more lanes;0
+freeway;Marks all segments that are freeways;0
 allamericanroads;Roads designated as All American Roads;0
 nationalscenicbyways;Roads designated as National Scenic Byways;0
 highprioritycorridors;US High Priority Corridors;0

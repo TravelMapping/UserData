@@ -1,5 +1,5 @@
 # ──────────
-# 2025-03-09
+# 2025-04-20
 # ──────────
 
 # ─────────
@@ -55,6 +55,7 @@ CZE S20 Kol SveNadSaz
 CZE S21 Jicn NymHlaNad
 CZE S22 PraMasNad Mil
 CZE S23 Ner Cel
+CZE S24 Cel Moc
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
 CZE S30 Tur MlaBolHlaNad
@@ -88,9 +89,11 @@ CZE S98 BenesovPra Sed
 # DÚK
 # ───
 
+CZE 2MaL MostNad Vel
+
 CZE U1 KadPru DecHlaNad
 CZE U2 KarVary Cho
-CZE U3 Lit LouLit
+CZE U3 Lit DecHlaNad
 CZE U4 UstiNadLabHlaNad Hne
 CZE U5 Most UstiNadLabHlaNad
 CZE U6 TepCec Rad
@@ -98,16 +101,17 @@ CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
 CZE U11 Lou LitHorNad
-CZE U12 Most Rak
-CZE U13 Most Zat
-CZE U14 Zat Rak
+CZE U12 LouLit Rak
+CZE U13 Most ZatZap
+CZE U14 ChoMes Rak
 CZE U21 RouNadLab BriObec
 CZE U22 BriObec Vra
-CZE U28Dec DecHlaNad DEU-SN U28 BadSch
+CZE U28 Rum CZE U28Dec DecHlaNad
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T6 Kas Pod
 CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
 CZE T11 Tel DecHlaNad
@@ -118,10 +122,15 @@ CZE T11 Tel DecHlaNad
 
 CZE 3Lib LidSadyZoo Spa
 
-CZE L2 DecHlaNad CesLipaHlaNad
-CZE L3 Libe MalaSka
+CZE L1 Lib Tan
+CZE L2 DecHlaNad Lib
+CZE L3 Libe ZelBrod
+CZE L4 Rum Ryb
+CZE L4 Svor MlaBolHlaNad
 CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
+CZE L12 JosDul Smr
+CZE L31 Tan ZelBrod
 CZE L35 Tur Jic
 
 # ──────────
@@ -141,6 +150,7 @@ CZE 8Brn NemBoh Gei
 
 CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
+CZE S6Jih UheHra StaMesUheHra
 CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
 CZE S6Jih BrnoZid Bla
@@ -154,13 +164,14 @@ CZE S71Jih VysMor Nez
 
 CZE 1Olo OkrSoud HlaNad
 CZE 2Olo NamRep HlaNad
+CZE 3Olo Zik HlaNad
 CZE 7Olo NreKre OkrSoud
 
 # ─────
 # IREDO
 # ─────
 
-CZE V3 Jar ParHlaNad
+CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V41 Kol HraKraHlaNad
 CZE V51 MesKra StaPaka
@@ -178,9 +189,10 @@ CZE 13Ost RedVit DolVit
 
 CZE S2Mor OstSvi MosJab
 CZE S3Mor OstHlaNad HraNaMor
+CZE S4Mor Sed MosOstAir
 CZE S5Mor FryNadOst Ost
-CZE S6Mor OstHlaNad LisFry
-CZE S6Mor FryMis FryNadOst
+CZE S6Mor OstHlaNad Ver
+CZE S8Mor Stu Ver
 CZE S9Mor OstKun CesTes
 CZE S22Mor MosJab MosJabZas
 
@@ -201,7 +213,20 @@ AUT 2Wie Schw Tabs
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S7 WienRen Flu
 AUT S40 TulDon WienFraJosBah
-AUT S60 WienHau BruLei
+AUT S60 WienMie BruLei
+
+# ────────
+# Salzburg
+# ────────
+
+AUT S2Sal Str DEU-BY S2Sal Fre
+
+# ────
+# Linz
+# ────
+
+AUT S1Obe LinzHau +DIV_R53
+AUT S2Obe Wels LinzHau
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
@@ -232,6 +257,7 @@ DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
 DEU-BY S2 Dac Hbf
 DEU-BY S2Pet PetHau Dac
+DEU-BY S4 OstBf Gra
 DEU-BY S5 NeuPerSud Gie
 
 #┌───────────────────────────────────────────┐
@@ -291,6 +317,7 @@ HUN M3 UjpKoz KobKis
 HUN M4 KelPal KelVas
 
 HUN 2Bud JasMariTer VigTer
+HUN 4Bud JasMariTer SzeKalTer
 HUN 14Bud UjpKoz LehTer
 HUN 47Bud DeakFerTer MorZsiKor
 HUN 56Bud Var DozGyoTer

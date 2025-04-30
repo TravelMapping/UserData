@@ -1,18 +1,24 @@
 ########-INTERCITY RAIL LINES-########
-DE AE Wil NY AE PennSta
-CT NENew Sta MA NENew BosSou
+DC NENew WasUniSta MA NENew BosSou
 CT HL NHUniSta MA HL Spr
+FL FL Mia DC FL WasUniSta
 MA LSBos Spr BosSou
+CA CS UniSta OakJackLonSq
 
+FL BriLn MiaCen BriOrlSta
 
 ########-COMMUTER RAIL LINES-########
+NY BabBra PennSta Bab
 NY GreBra Ron Gre
+NY HemBra GraCen Hem
+NY LongBeaBra PennSta LongBea
 NY MonBra HunAve Mon
 NY OysBayBra Jam OysBay
 NY PortJefBra PennSta PortJef
 NY PortWasBra PennSta PortWas
-NY RocBra GraCen Jam
+NY RocBra GraCen FarRoc
 NY RonBra PennSta Ron
+NY WHemBra AtlTer WHem
 
 NY NewHavLn GraCen CT NewHavLn Str
 CT NewHavLnCan Sta NewCan
@@ -27,10 +33,20 @@ NY MonBooLn PennSta NJ MonBooLn Hac
 NY MorEssLn PennSta NJ MorEssLn Hac
 NJ GlaBra Hob Gla
 
+FL TriRail MiaAir WestPalmBea
+FL TriRailDow MiaCen MetTra
+
+CA ClTra Tam SanFraKing
+
+CA SanBerLn UniSta RedDow
+CA Arr SanBerDow RedUni
+CA AntVlyLn UniSta Lan
+CA RivLn UniSta RivDow
+CA PerVlyLn UniSta PerS
 
 ########-HERITAGE RAILROADS-########
 CT EssSteTrn Ess DeepRivLan
-DE WWRC Hoc Gre
+DE WilWesRR Hoc Gre
 PA StrRR Str LeaPl
 
 
@@ -117,6 +133,7 @@ MO MLBlueLn Uni ConCen
 #--------SOUTH CITIES--------
 GA RedLn Air NorSpr
 GA SkyTrn Air RenCarCen
+GA PlaTrn DomTer DGat
 
 FL GreLn DadSou Pal
 FL OraLn DadSou MiaAir
@@ -126,6 +143,7 @@ FL InnLp GovCen_S GovCen_N
 FL MiaM MIA IntCen
 
 FL ResMon TraTicCen_1 TraTicCen_2
+FL TerLink TerA/B TerC
 
 TN MainStTro But Mad
 
@@ -134,6 +152,7 @@ TX GreLn NCarFra Buc
 TX OraLn DFWAir LBJCen
 TX RedLn Wes ParRd
 TX DalStr BisArts Uni
+TX Sky A8 A21
 
 TX PurLnHou TheDis PalmCenTC
 
@@ -142,18 +161,28 @@ AZ VMR 3rdSt SycMainSt
 AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
+CO DENTrn JepTer AGat
 
 WA 1 SeaTacAir UniWas
 WA SeaCenMon SeaCen WesCen
 WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
+CA BARTBlue DalyCity DubPle
+CA BARTOra Ber Ric
 CA BARTRed Col CivCen
+CA BARTYel Mil PitTra
 CA MuniN 2nd PowSt
-CA AirTrnBlue RenCarCen Loop
+CA MuniT King ChiRosePark
+CA AirTrnBlue LongTermPar Loop
 
+CA SRTGold SacValSta HisFol
+
+CA A WilRosaPar APUCitCol
 CA B NHol UniSta
+CA C AviLAX WilRosaPar
 CA D WilWes UniSta
+CA E DowSanMon LitTokArtsDis
 
 CA GreLn 12thImpTC FasVly
 CA BlueLn CivCen OldTownTC

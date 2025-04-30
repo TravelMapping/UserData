@@ -1,10 +1,10 @@
-                   #################################
-                   ###                           ###
-                   ###      myselfalso.list      ###
-                   ###                           ###
-                   ### Updated: February 4, 2025 ###
-                   ###                           ###
-                   #################################
+                   ##################################
+                   ###                            ###
+                   ###      myselfalso.list       ###
+                   ###                            ###
+                   ###   Updated: April 6, 2025   ###
+                   ###                            ###
+                   ##################################
 
 ### United States Interstate Highway System ###
 
@@ -321,7 +321,7 @@ PA LinHwy US30_EveE I-70_W
 PA LinHwy US11 MouRd
 PA SeaTrl PA832 BayPkwy_W
 TN GatByp US441_S US321/441
-VA GeoWasPkwy MarDr I-495
+VA GWMemPkwy MarDr I-495
 VA GWMemPkwyCry 1stSt VA/DC
 VA GWMemPkwyMtV VA235 VA400
 
@@ -331,6 +331,8 @@ PA PA3 29thSt PA611
 PA PA5 PA832 I-79/290
 PA PA5AltEri PA299 CraSt
 PA PA8 I-376 PA910
+PA PA10 PA472_S PA472_N
+PA PA10 PA41 US30
 PA PA10 I-176(7)_S US222Bus
 PA PA12 US422 PA662
 PA PA18 I-70 US22
@@ -347,8 +349,9 @@ PA PA31 ClayPikeRd TecDr
 PA PA34 SheRd US11/15
 PA PA39 FroSt US322/422
 PA PA41 DE/PA US30
+PA PA41AltTrkAvo US1_N PA41_N
 PA PA42 US11_S I-80
-PA PA42 PA239 PA118
+PA PA42 PA118_E PA118_W
 PA PA44 PA642_W PA254
 PA PA44 PA880 PA973
 PA PA45 PA144 PA642
@@ -372,6 +375,8 @@ PA PA73 PA61 PA29_S
 PA PA73 PA113 US202
 PA PA73 TacSt_W PA/NJ
 PA PA74 US15_S PA641_E
+PA PA82 WalSt US1
+PA PA82AltTrkEas PA82_S PA10_N
 PA PA87 PA864 PA973
 PA PA93 TamSt PA424
 PA PA93 PenBlvd I-81
@@ -431,8 +436,10 @@ PA PA309 I-81(165) I-81(170)
 PA PA309BusWil PA309_S PA309_N
 PA PA313 PA309/663 PA113
 PA PA320 I-76 PA23
+PA PA324 PA741_W PA741_E
 PA PA325 US22/322 US209
 PA PA340 US30_W ReeRd
+PA340AltTrkWag US30/10 US30/82
 PA PA341 PA230 PA241
 PA PA341TrkDeo PA341_W PA341_E
 PA PA343 PA72 I-78
@@ -441,11 +448,12 @@ PA PA366 PA28 PA66
 PA PA378 PA309 US22
 PA PA380 I-579 PA286_W
 PA PA381 US40_E PA31/711
-PA PA405 PA147 US220
+PA PA405 PA61 US220
 PA PA412 PA212_W PA378
 PA PA424 I-81 PA93
 PA PA441 PA999 PaxSt
 PA PA441TrkMid PA441_S PA441_N
+PA PA441TrkLow PA283 PA441
 PA PA442 PA405 PA42
 PA PA443 FroSt OakGroRd
 PA PA445 PA192_E PA192_W
@@ -471,8 +479,7 @@ PA PA711 PA381_S PA31_W
 PA PA711 US30 PA56_E
 PA PA722 PA283 PA272
 PA PA737 US222 RedRd
-PA PA741 PA722 PA999
-PA PA741 DecSt PA41
+PA PA741 ComAve PA41
 PA PA743 PA441 US22
 PA PA743TrkHer PA743_S US322_W
 PA PA772 PA441 PA501_N
@@ -480,6 +487,7 @@ PA PA772 PA23_W US30
 PA PA819 PA31 PA286
 PA PA832 US20 PA5Alt
 PA PA837 CurHolRd US19/51
+PA PA841AltTrkWes PA841_S PA896_N
 PA PA863 US222 BriEdgeRd
 PA PA864 PA87 US220
 PA PA880 ValRd_E PA44
@@ -500,7 +508,7 @@ PA PA982 PA130_W OldDerRd
 PA PA987 US22 PA946
 PA PA993 PA130 PA66Bus
 PA PA997 I-76 PA696_N
-PA PA999 DukeSt PA462
+PA PA999 PA441 PA462
 
 ### Alabama State Highways ###
 

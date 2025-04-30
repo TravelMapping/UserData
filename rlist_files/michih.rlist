@@ -1,4 +1,4 @@
-# Date: 2025-03-02
+# Date: 2025-04-26
 # ----------------
 
 ######################
@@ -323,6 +323,17 @@ DEU-BW S1Man RP/BW MannHeimHbf                 #2025
 DEU-BW S9 MannHeimHbf KarRuheHbf               #2025
 #DEU-BW RE1 Karlsruhe-Durlach Stuttgart Hbf    #2025, rerouted via Bietigheim-Bissingen
 
+DEU-NW S5 DortMundHbf WitHbf                   #2025
+DEU-NW S5 WitHbf HagHbf                        #2025, traveled as RB40
+DEU-NW S9 EssSte HagHbf                        #2025
+
+#DEU-NW RB28 Düren Euskirchen                  #2025
+DEU-NW S23 BonnHbf EusKir                      #2025
+#DEU-NW RE5 Bonn Hbf Cologne Hbf               #2025
+DEU-NW S19 Dur KolnHbf                         #2025
+
+
+
 ######################
 #### METROS/TRAMS ####
 ######################
@@ -424,6 +435,11 @@ DEU-RP 6Lud RheGonHeimEndSte LudStr #2025
 DEU-RP 7Lud Opp BerPla             #2025
 DEU-RP 10Lud FriHeimMit LuiHaf     #2025
 #DEU-RP 4ALud Hbf SudWestSta       #2025, rerouted 4A due to Konrad-Adenauer-Brücke closure
+DEU-BW 22Hei KirHeiStr StaBuc      #2025
+DEU-BW 23Hei StaBuc FriHof         #2025
+DEU-BW 24Hei +DIV_Han BetKraHaus   #2025
+DEU-BW 26Hei +DIV_Han KirHeimFriHof #2025
+
 
 
 DEU-BW U1 HesVogRain FellBachLutKir                                                            #201x/2023, rerouted and truncated from 2024
@@ -628,6 +644,7 @@ DEU-NW 4Bie LohHof StiHor             #2022
 DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
 DEU-NW 301Gel EssStr HeiKonPla        #2024
 DEU-NW 302Gel BuerRatHaus BocLanS     #2024
+DEU-NW 306Boc WanEicHbf BocRatHaus    #2025
 DEU-NW 308Boc BocHbf HatMit           #2024
 
 #Bonn
@@ -679,8 +696,13 @@ DEU-NW U79 DuisBurgMeiBf UniOstBotGar #2022
 DEU-NW U83 GerHeimKraHaus HeiHeiAll   #2024
 DEU-NW 701Dus DOMEHul RathS           #2024
 DEU-NW 701Dus HeiStr SchaStr          #2024
+DEU-NW 701Dus SchaStr EllMitS         #2025
+DEU-NW 705Dus SchaStr +DIV_SteA       #2025
+DEU-NW 705Dus SteMerStr +DIV_SteB     #2025
 DEU-NW 706Dus HammS FraStr            #2024
+DEU-NW 706Dus SchaStr SteMerStr       #2025
 DEU-NW 707Dus UntRathS MedHafKesStr   #2024
+DEU-NW 708Dus UhLandStr BirStr        #2025
 DEU-NW 709Dus TheHeuPla SchStrArbAge  #2024
 
 #Essen
@@ -688,6 +710,7 @@ DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West
 DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
 DEU-NW 103Ess WertStr +DIV_Var       #2024
+DEU-NW 103Ess RatHausEss Ste         #2025
 DEU-NW 105Ess UntStr EssHbf          #2024
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 108Ess AltEssBf RatHausEss    #2024

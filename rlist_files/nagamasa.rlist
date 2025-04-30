@@ -488,16 +488,19 @@ OR AC PorUniSta BC AC VanPacCen
 CA CalTra SanCla SanFraKing
 
 ## BART
+CA BARTOra Ber 19thStOak
+CA BARTBlue BalPark BayFair
 CA BARTGre MonSt Ber
-CA BARTYel Mil Emb
+CA BARTYel Mil 19thStOak
+CA BARTRed Mil 19thStOak
+CA OAKAir OakIntAir Col
 
 ## MUNI
 CA MuniF 9thLar 3rdKea
 CA MuniJ 20th CivCen
-CA MuniN Jud9th CivCen
-CA MuniN Emb 2nd
+CA MuniK Chu Emb
+CA MuniN 46th 4thKing
 CA MuniT Mar ChiRosePark
-CA OAKAir OakIntAir Col
 
 ### CO
 ## RTD
@@ -545,6 +548,8 @@ OR RedLn GooseHolJefSt Hol42ndAve
 OR YelLn PSUUrbCenMonSt UniStaHoyt
 
 ### WA 
+WA SeaCenMon SeaCen WesCen
+
 ## LINK
 WA 1 Lyn AngLake
 WA 2 SBel RedTec
