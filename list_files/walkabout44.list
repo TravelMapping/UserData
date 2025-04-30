@@ -1,6 +1,9 @@
-# 04/25/2025
-# v64
-# Complete AZ AZ366 - Finish Arizona
+# 04/29/2025
+# v65
+# Complete OK I-335
+# Complete OK I-344
+# Add OK OK152 (may become I-240 someday)
+# Complete AR I-49FutBar
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -359,10 +362,10 @@ OK I-44 TX/OK OK/MO            #335 vs 324 overlap I-35
 OK I-235 1A 4B                 #  5
 OK I-240 1A I-40               # 17 vs 16
 OK I-244 1A I-44               # 16
-#OK I-335 130 149               # 19  OK City E NOT ON
-#OK I-344 OK152 I-40            #  6  OK City SW NOT ON
-OK I-344 I-40 I-35/44          # 25
+OK I-335 130 149               # 19
+OK I-344 OK152 I-35/44         # 31
 OK I-444 I-244_W I-244_E       #  2 vs 3
+OK OK152 I-344 I-44            # may become I-240 at some point, 4 
 
 # Arkansas
 # 750 miles (Table 3 745) diff 5: I-49 5
@@ -893,8 +896,8 @@ FL I-595 I-75 12               # 14 vs 13
 
 
 # US Future Interstate Highways (outside Arizona)
-# means not been on - 4 sections
-# AR I-49FutBar 187 193             # Barling - Ft Smith SE not on
+# means not been on - 3 sections
+AR I-49FutBar 187 193
 AZ I-11FutHoo 2 AZ/NV
 AZ I-11FutKin 71(40) 48(40)
 CA I-905FutOta 1A USA/MEX
@@ -903,7 +906,7 @@ IN I-265FutLou 7 IN/KY
 KY I-265FutLou 35 KY/IN
 LA I-49FutMor LA308 LA182_B
 LA I-49FutFra LA182_W LA318
-LA I-49FutNIb LA83_W LA675
+LA I-49FutNib LA83_W LA675
 NC I-26FutAsh 13 4A(240)
 NC I-73FutMad NC68 NC/VA
 NC I-73FutRoc NC38 US1
