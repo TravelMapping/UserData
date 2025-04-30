@@ -3,6 +3,9 @@ Added AR5 new bypass extension
 Added AR8
 Added AR84
 
+#4.29.25
+US 177 Stillwater
+
 4.28.25
 Added some routes in AR and OK
 
@@ -478,6 +481,7 @@ OK US64 US266 I-40(311)
 OK US64 OK364_W US266
 OK US69 US69Alt_S US60_W
 OK US75 OK11_E US266
+OK US177 OK312 OK51
 
 OK US177 I-40 OK66
 OK US266 US62/75 US64
