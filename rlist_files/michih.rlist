@@ -1,4 +1,4 @@
-# Date: 2025-04-26
+# Date: 2025-05-01
 # ----------------
 
 ######################
@@ -332,6 +332,11 @@ DEU-NW S23 BonnHbf EusKir                      #2025
 #DEU-NW RE5 Bonn Hbf Cologne Hbf               #2025
 DEU-NW S19 Dur KolnHbf                         #2025
 
+#DEU-NW RB51 Lünen - Dortmund Hbf              #2025
+DEU-NW S4 Unna DortMundLutDortMund             #2025
+DEU-NW ParDor +SKIP_BocHbf DortMundHbf         #2025, actually traveled as RE6
+#DEU-NW RE6 Dortmund Hbf Bochum Hbf            #2025
+DEU-NW S1 DortMundHbf WatHon                   #2025
 
 
 ######################
@@ -645,7 +650,9 @@ DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
 DEU-NW 301Gel EssStr HeiKonPla        #2024
 DEU-NW 302Gel BuerRatHaus BocLanS     #2024
 DEU-NW 306Boc WanEicHbf BocRatHaus    #2025
+DEU-NW 308Boc SchBankStr BocHbf       #2025
 DEU-NW 308Boc BocHbf HatMit           #2024
+DEU-NW 310Boc HonKir BocHbf           #2025
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
