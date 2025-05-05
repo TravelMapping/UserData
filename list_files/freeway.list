@@ -5293,6 +5293,96 @@ CHE H21 BouStBer CHE/ITA
 #CHE spur from A9 exit 33
 
 
+##TURKEY
+TUR O2 O3 D100
+TUR O3 1 
+TUR O3Edi 3 31
+TUR O3Lul 6 62
+TUR O3Sil 10 102
+TUR O4
+TUR O4Cay
+TUR O4Ger
+TUR O5
+TUR O6
+TUR O7
+TUR O7Bal
+TUR O7Cek
+TUR O7Cob
+TUR O7Aks
+TUR O7Dem
+TUR O7Koc
+TUR O20
+TUR O21
+TUR O21Kir
+TUR O21A
+TUR O22
+TUR O30
+TUR O31
+TUR O32
+TUR O33
+TUR O33Hor
+TUR O51
+TUR O51Ser
+TUR O52
+TUR O53
+TUR O53Top
+TUR O54
+
+TUR AvcHarBag
+TUR AydCevYolu
+TUR BuyBayBag
+TUR BuyYolu
+TUR CimBag
+TUR GorBagYolu
+TUR HabHasBag
+TUR HasOkmBag
+TUR HavKav
+TUR KomBag
+TUR KurPenBag
+TUR KuzCevYolu
+TUR MetEseBag
+TUR O1
+TUR SamBagYolu
+TUR SamKarBag
+TUR SileYolu
+TUR TarCik
+TUR UskUmrBag
+TUR YeniRivaYolu
+
+TUR D020 Tay MitMah
+TUR D020 Kag O2
+TUR D100Cor Cor AtaBul
+TUR D100Cor 
+TUR D100 EyupAksCd Her_E #east one more interchange; may have a few RIROs
+TUR D100 AlbNecCd MehKagCd #not quite to AlbNecCd; other interchanges need to be mapped
+TUR D100 MirMumCd O4(14)
+TUR D100 O4(19) D160/D655 #but it's exit 22, not 19
+TUR D567 CerHalYolu BuyDegYolu
+TUR D570 3(O6) D569
+TUR D650 Sel_N Sel_S
+TUR D650 SelYolu Bil
+TUR D650 ToD685 Dos #not quite to Dos but interchange is not mapped
+TUR D795 I55-51 Kav #one more interchange north
+TUR D795 D030_W Hav
+TUR D795 Arm D100_E
+
+#TUR Eskihisar Feribot Yolu
+#TUR LevKav (Istanbul)
+#TUR OmerTurBul
+#TUR bypass around Antalya
+#TUR bypass around Çorlu
+#TUR former D020 east of Istanbul Airport
+#TUR continuation of O1 past D100
+#TUR continuation of O3 past O1
+#TUR spur from O3 exit 1-1 west of Edirne
+#TUR spur from O3 exit 12
+#TUR spur from O3 exit 15
+#TUR spur from O3 exit 18
+#TUR spur from O4 exit 19
+#TUR spur from O4 exit 22
+#TUR spur from O7 exit K6
+
+
 ##UKRAINE
 UKR M01 M03/M05 HorVal
 UKR M01 NabSho BerVul
