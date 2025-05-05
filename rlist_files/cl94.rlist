@@ -166,3 +166,9 @@ WA GreLn DGat_Sta DGat_Fin
 WA YelLn AGat DGat
 
 WV CassSceRR CassDep BaldKnob
+
+AUT S2Vor Fel AUT/LIE
+
+CHE S2Vor LIE/CHE Buc
+
+LIE S2Vor AUT/LIE LIE/CHE
