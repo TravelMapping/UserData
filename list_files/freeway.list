@@ -5295,22 +5295,22 @@ CHE H21 BouStBer CHE/ITA
 
 ##TURKEY
 TUR O2 O3 D100
-TUR O3 1 
+TUR O3 1 O1
 TUR O3Edi 3 31
 TUR O3Lul 6 62
 TUR O3Sil 10 102
-TUR O4
-TUR O4Cay
-TUR O4Ger
-TUR O5
-TUR O6
-TUR O7
-TUR O7Bal
-TUR O7Cek
-TUR O7Cob
-TUR O7Aks
-TUR O7Dem
-TUR O7Koc
+TUR O4 O1 O20
+TUR O4Cay 5 53
+TUR O4Ger 25 D100
+TUR O5 O4 O30
+TUR O6 D110 D200
+TUR O7 O3 O4
+TUR O7Bal 19 192
+TUR O7Cek O2 O7
+TUR O7Cob Oda 195
+TUR O7Aks O4 O7
+TUR O7Dem O7 O4/O5
+TUR O7Koc O7 O4
 TUR O20
 TUR O21
 TUR O21Kir
@@ -5357,8 +5357,10 @@ TUR D100 EyupAksCd Her_E #east one more interchange; may have a few RIROs
 TUR D100 AlbNecCd MehKagCd #not quite to AlbNecCd; other interchanges need to be mapped
 TUR D100 MirMumCd O4(14)
 TUR D100 O4(19) D160/D655 #but it's exit 22, not 19
+TUR D130 AlsCd D100/D605 #one more interchange west
 TUR D567 CerHalYolu BuyDegYolu
 TUR D570 3(O6) D569
+TUR D605 Tav D100/D130 #north one more interchange
 TUR D650 Sel_N Sel_S
 TUR D650 SelYolu Bil
 TUR D650 ToD685 Dos #not quite to Dos but interchange is not mapped
@@ -5374,13 +5376,23 @@ TUR D795 Arm D100_E
 #TUR former D020 east of Istanbul Airport
 #TUR continuation of O1 past D100
 #TUR continuation of O3 past O1
+#TUR continuation of O5 past O30
+#TUR continuation of O7Cob past BuyBayBag
 #TUR spur from O3 exit 1-1 west of Edirne
 #TUR spur from O3 exit 12
 #TUR spur from O3 exit 15
 #TUR spur from O3 exit 18
+#TUR spur from O4 exit 12
 #TUR spur from O4 exit 19
 #TUR spur from O4 exit 22
-#TUR spur from O7 exit K6
+#TUR spur from O5 exit 9
+#TUR spur from O5 exit 22
+#TUR spur from O7 exit 6
+#TUR spur from O7 exit 24
+#TUR spur from O7 exit 27
+#TUR spur from O7Cob exit 33
+#TUR spur from O7Cob exit 35
+#TUR spur from O7Cob exit 19 (actually 36?)
 
 
 ##UKRAINE
