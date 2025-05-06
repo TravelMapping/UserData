@@ -5369,12 +5369,19 @@ TUR D100 EyupAksCd Her_E #east one more interchange; may have a few RIROs
 TUR D100 AlbNecCd MehKagCd #not quite to AlbNecCd; other interchanges need to be mapped
 TUR D100 MirMumCd O4(14)
 TUR D100 O4(19) D160/D655 #but it's exit 22, not 19
-
-
+#TUR D110 I59-53 two interchanges east
 TUR D130 AlsCd D100/D605 #one more interchange west
+TUR D140 1MesCd O20_W #one more interchange east
+TUR D140 YMECd D750_N #and short continuation east
+TUR D140 YilBeyBul EmekCd #a couple RIROs; one more interchange east
+TUR D200 D650_N IsmInoCd_W #a couple RIROs
+TUR D200 AnaBul D750_S
+
+
 TUR D525 O31 42
 TUR D567 CerHalYolu BuyDegYolu
 TUR D570 3(O6) D569
+#TUR D595 around İznik
 TUR D605 Tav D100/D130 #north one more interchange
 TUR D650 Sel_N Sel_S
 TUR D650 SelYolu Bil
@@ -5384,15 +5391,22 @@ TUR D795 D030_W Hav
 TUR D795 Arm D100_E
 
 #TUR I61-64 etc. (Trabzon)
+#TUR 1071 Malazgirt Bulvarı (Ankara)
+#TUR Anadolu Bulvarı (Ankara)
+#TUR Ankara Bulvarı (Ankara)
 #TUR Arnavutköy Habibler Yolu
 #TUR Barbaros Bulvarı
 #TUR BozTun (Ordu)
+#TUR Celal Bayar Bulvarı (Ankara)
+#TUR CumBul (Ankara)
 #TUR Eskihisar Feribot Yolu
 #TUR HalKav (Istanbul)
+#TUR İsmet İnönü Bulvarı (Ankara)
 #TUR LevKav (Istanbul)
 #TUR OmerTurBul
 #TUR Otogar Bağlantı Yolu
 #TUR Piyalepaşa Bulvarı
+#TUR Sanayi Bulvarı (Ankara)
 #TUR TepKav (Istanbul)
 #TUR TopKav (Istanbul)
 #TUR bypass around Antalya
