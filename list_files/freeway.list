@@ -5351,13 +5351,26 @@ TUR UskUmrBag O1 O2
 TUR YeniRivaYolu O2 PamSok
 TUR YeniRivaYolu SogCd KesCd
 
+TUR D010 D795 Gaz #may have a few RIROs
+TUR D010 I52-79 UnyeDoguGir
+TUR D010 I52-82_W I52-82_E #a couple RIROs
+TUR D010 Tir_W Tir_E
+TUR D010 I61-75 I61-35 #may have a few RIROs
+TUR D010 OldD010_W SahCd
+TUR D010 KarSahYolu_S KarSahYolu_N
+TUR D010 MenBul I53-09
+TUR D010 Bal I53-04
 TUR D020 Tay MitMah
 TUR D020 Kag O2
+TUR D020Sil KurPenBag IstParkBul
+#TUR D050 near I08-52? not all interchanges mapped
 TUR D100Cor Cor AtaBul
 TUR D100 EyupAksCd Her_E #east one more interchange; may have a few RIROs
 TUR D100 AlbNecCd MehKagCd #not quite to AlbNecCd; other interchanges need to be mapped
 TUR D100 MirMumCd O4(14)
 TUR D100 O4(19) D160/D655 #but it's exit 22, not 19
+
+
 TUR D130 AlsCd D100/D605 #one more interchange west
 TUR D525 O31 42
 TUR D567 CerHalYolu BuyDegYolu
@@ -5370,8 +5383,10 @@ TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
 
+#TUR I61-64 etc. (Trabzon)
 #TUR Arnavutköy Habibler Yolu
 #TUR Barbaros Bulvarı
+#TUR BozTun (Ordu)
 #TUR Eskihisar Feribot Yolu
 #TUR HalKav (Istanbul)
 #TUR LevKav (Istanbul)
