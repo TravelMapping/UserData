@@ -5376,6 +5376,11 @@ TUR D140 YMECd D750_N #and short continuation east
 TUR D140 YilBeyBul EmekCd #a couple RIROs; one more interchange east
 TUR D200 D650_N IsmInoCd_W #a couple RIROs
 TUR D200 AnaBul D750_S
+TUR D260 FirCd TunaCd #just east of TunaCd if that's a separate interchange
+TUR D300 KemCd 1410Sok
+TUR D300 MehTopBul I64-50
+TUR D300 D260_W D260_E
+TUR D300 InoCd SivCd
 
 
 TUR D525 O31 42
@@ -5390,6 +5395,7 @@ TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
 
+#TUR I42-17 (Konya)
 #TUR I61-64 etc. (Trabzon)
 #TUR 1071 Malazgirt Bulvarı (Ankara)
 #TUR Anadolu Bulvarı (Ankara)
@@ -5411,6 +5417,8 @@ TUR D795 Arm D100_E
 #TUR TopKav (Istanbul)
 #TUR bypass around Antalya
 #TUR bypass around Çorlu
+#TUR bypass around Malatya
+#TUR connection between D300 and D260
 #TUR former D020 east of Istanbul Airport
 #TUR continuation of O1 past D100
 #TUR continuation of O3 past O1
