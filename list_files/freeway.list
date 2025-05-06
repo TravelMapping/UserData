@@ -5294,6 +5294,7 @@ CHE H21 BouStBer CHE/ITA
 
 
 ##TURKEY
+TUR O1 3 14
 TUR O2 O3 D100
 TUR O3 1 O1
 TUR O3Edi 3 31
@@ -5311,53 +5312,54 @@ TUR O7Cob Oda 195
 TUR O7Aks O4 O7
 TUR O7Dem O7 O4/O5
 TUR O7Koc O7 O4
-TUR O20
-TUR O21
-TUR O21Kir
-TUR O21A
-TUR O22
-TUR O30
-TUR O31
-TUR O32
-TUR O33
-TUR O33Hor
-TUR O51
-TUR O51Ser
-TUR O52
-TUR O53
-TUR O53Top
-TUR O54
+TUR O20 1 O4
+TUR O21 O20 25
+TUR O21Kir D260/765 Har
+TUR O21A 19 193
+TUR O22 O5 4
+TUR O30 1 23
+TUR O31 O30 16
+TUR O32 D300 9
+TUR O33 O30 CanTatKoyu
+TUR O33Hor I35-79 O33
+TUR O51 1 13
+TUR O51Ser 8 52
+TUR O52 1 D400
+TUR O53 O52 D817
+TUR O53Top O52 2
+TUR O54 14 147
 
-TUR AvcHarBag
-TUR AydCevYolu
-TUR BuyBayBag
-TUR BuyYolu
-TUR CimBag
-TUR GorBagYolu
-TUR HabHasBag
-TUR HasOkmBag
-TUR HavKav
-TUR KomBag
-TUR KurPenBag
-TUR KuzCevYolu
-TUR MetEseBag
-TUR O1
-TUR SamBagYolu
-TUR SamKarBag
-TUR SileYolu
-TUR TarCik
-TUR UskUmrBag
-TUR YeniRivaYolu
+TUR AvcHarBag O3 D100 #and continuation south?
+TUR AydCevYolu 7 72
+TUR BuyBayBag D100/D569 O1
+TUR BuyYolu 5Sk SamKarBag
+TUR CimBag O7 SileYolu
+TUR GorBagYolu O5 D200
+TUR HabHasBag 32 O2
+TUR HasOkmBag O2 O1 #and continuation south?
+TUR HavKav TekBul O4
+TUR KomBag O7 D020
+TUR KurPenBag O4 D100
+TUR KuzCevYolu D655_W D100/655
+TUR MetEseBag O2 O3 #and continuation south
+TUR SamBagYolu O22 11EylBul
+TUR SamKarBag O4 D100 #and continuation south
+TUR SileYolu O2 SirCelBul
+TUR SileYolu UluCd D020
+TUR TarCik O51 D400
+TUR UskUmrBag O1 O2
+TUR YeniRivaYolu O2 PamSok
+TUR YeniRivaYolu SogCd KesCd
 
 TUR D020 Tay MitMah
 TUR D020 Kag O2
 TUR D100Cor Cor AtaBul
-TUR D100Cor 
 TUR D100 EyupAksCd Her_E #east one more interchange; may have a few RIROs
 TUR D100 AlbNecCd MehKagCd #not quite to AlbNecCd; other interchanges need to be mapped
 TUR D100 MirMumCd O4(14)
 TUR D100 O4(19) D160/D655 #but it's exit 22, not 19
 TUR D130 AlsCd D100/D605 #one more interchange west
+TUR D525 O31 42
 TUR D567 CerHalYolu BuyDegYolu
 TUR D570 3(O6) D569
 TUR D605 Tav D100/D130 #north one more interchange
@@ -5368,9 +5370,16 @@ TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
 
+#TUR Arnavutköy Habibler Yolu
+#TUR Barbaros Bulvarı
 #TUR Eskihisar Feribot Yolu
+#TUR HalKav (Istanbul)
 #TUR LevKav (Istanbul)
 #TUR OmerTurBul
+#TUR Otogar Bağlantı Yolu
+#TUR Piyalepaşa Bulvarı
+#TUR TepKav (Istanbul)
+#TUR TopKav (Istanbul)
 #TUR bypass around Antalya
 #TUR bypass around Çorlu
 #TUR former D020 east of Istanbul Airport
@@ -5378,6 +5387,7 @@ TUR D795 Arm D100_E
 #TUR continuation of O3 past O1
 #TUR continuation of O5 past O30
 #TUR continuation of O7Cob past BuyBayBag
+#TUR continuation of O21 past O20, D400
 #TUR spur from O3 exit 1-1 west of Edirne
 #TUR spur from O3 exit 12
 #TUR spur from O3 exit 15
@@ -5393,6 +5403,10 @@ TUR D795 Arm D100_E
 #TUR spur from O7Cob exit 33
 #TUR spur from O7Cob exit 35
 #TUR spur from O7Cob exit 19 (actually 36?)
+#TUR spur from O31 exit 14
+#TUR spur from O31 exit 16
+#TUR spur from O33 exit 2
+#TUR spur from O33 exit 5
 
 
 ##UKRAINE
@@ -6908,7 +6922,7 @@ PR PR2 PR361 214
 PR PR2 221 PR9
 PR PR5 PR199 PR2
 PR PR5 PR29 PR22
-PR PR5Toa PR828 PR148/626
+PR PR5Toa PR828 PR148/826
 PR PR9 PR52 PR2
 PR PR9 PR500 PR10
 PR PR10Pon PR52 PR14
