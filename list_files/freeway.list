@@ -5379,8 +5379,12 @@ TUR D200 AnaBul D750_S
 TUR D260 FirCd TunaCd #just east of TunaCd if that's a separate interchange
 TUR D300 KemCd 1410Sok
 TUR D300 MehTopBul I64-50
+TUR E981 AlbCd D330_W #AlbCd not yet mapped; this isn't D300?
 TUR D300 D260_W D260_E
 TUR D300 InoCd SivCd
+TUR D320 Kumk Gon
+TUR D320 I20-09 D585_S
+TUR D330 YeniIstCd D715_N
 
 
 TUR D525 O31 42
@@ -5400,6 +5404,7 @@ TUR D795 Arm D100_E
 #TUR 1071 Malazgirt Bulvarı (Ankara)
 #TUR Anadolu Bulvarı (Ankara)
 #TUR Ankara Bulvarı (Ankara)
+#TUR Ankara Bulvarı (Denizli)
 #TUR Arnavutköy Habibler Yolu
 #TUR Barbaros Bulvarı
 #TUR BozTun (Ordu)
