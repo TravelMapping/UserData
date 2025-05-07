@@ -5395,10 +5395,18 @@ TUR D400 D850_N I27-02
 TUR D400 1403Sok D885
 TUR D515 I09-60 KadDenYolu
 TUR D525 O31 42
-
-
+TUR D550Kes D110 I22-53
+TUR D550Kes 
+TUR D550 AnaCd KemCd
+TUR D550 D300_W HalEdipCd
+TUR D555Sal D240 D565
+TUR D565 D250_W MimSinBlvd_S
+TUR D565 IzmManYolu_N BesCd
+TUR D565 119Sk D300
 TUR D567 CerHalYolu BuyDegYolu
 TUR D570 3(O6) D569
+TUR D575 AtaBul O5(15) #a few RIROs?
+TUR D585 I20-09 DenAciYolu_W
 #TUR D595 around İznik
 TUR D605 Tav D100/D130 #north one more interchange
 TUR D650 Sel_N Sel_S
@@ -5448,6 +5456,7 @@ TUR D795 Arm D100_E
 #TUR spur from O4 exit 19
 #TUR spur from O4 exit 22
 #TUR spur from O5 exit 9
+#TUR spur from O5 exit 12
 #TUR spur from O5 exit 22
 #TUR spur from O7 exit 6
 #TUR spur from O7 exit 24
