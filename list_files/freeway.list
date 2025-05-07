@@ -5386,9 +5386,17 @@ TUR D320 Kumk Gon
 TUR D320 I20-09 D585_S
 TUR D330 YeniIstCd D715_N
 TUR D360 DiyOto D885_N
-
-
+TUR D400 AkdBul BatiCevYolu #not quite to BatiCevYolu
+TUR D400 D650 AspBul
+TUR D400 AspBul D685
+TUR D400 SelBul ZubHanCd
+TUR D400 60024Sok D815_S
+TUR D400 D850_N I27-02
+TUR D400 1403Sok D885
+TUR D515 I09-60 KadDenYolu
 TUR D525 O31 42
+
+
 TUR D567 CerHalYolu BuyDegYolu
 TUR D570 3(O6) D569
 #TUR D595 around İznik
@@ -5424,6 +5432,7 @@ TUR D795 Arm D100_E
 #TUR bypass around Antalya
 #TUR bypass around Çorlu
 #TUR bypass around Malatya
+#TUR bypass around Şanlıurfa
 #TUR connection between D300 and D260
 #TUR former D020 east of Istanbul Airport
 #TUR continuation of O1 past D100
