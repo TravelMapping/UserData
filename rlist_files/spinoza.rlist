@@ -5,22 +5,36 @@ AUT U4 Schw Scho
 AUT S7 Flu WienPra
 
 DEU-BY U6 GarForZen MarPla
+DEU-BY S1 FlugHafMun HacBru
+DEU-HE S2 LedMus HeuSta
+DEU-HE S8 OffBachOst FraFurtFlugHafRegBf
+DEU-HE S9 OffBachOst FraFurtFlugHafRegBf
 
 ENG KinLp Vau_1 Ted
 ENG PicLn PicCir KXSP
-ENG ChaTnl FolEurTer GBR/FRA
+ENG LonPar LonStPanInt GBR/FRA
+
+ESP-MD M1 GranVia Ato
+ESP-MD M2 CuaCam PriVer
+ESP-MD M4 MarCri AveAme
+ESP-MD M5 Can Pir
+ESP-MD M6 DieLeon CuaCam
+ESP-MD M8 NueMin FerMad
+ESP-MD M9 PriVer AveAme
+ESP-MD M10 NueMin PlaEsp
 
 FRA-ARA ParMil BFC/ARA FRA/ITA
 FRA-BFC ParMil IDF/BFC BFC/ARA
-FRA-HDF GBR/FRA CalEurTer
+FRA-HDF LonPar HDF/IDF GBR/FRA
 FRA-IDF M1 Cha Bas
 FRA-IDF M4 PorOrl ChaRou
 FRA-IDF M12 FroPop MonBie
 FRA-IDF M14 GareLyon Cha
 FRA-IDF B AerCDG1 CiteUni
-FRA-IDF ParGareLyon IDF/BFC
+FRA-IDF ParMil ParGareLyon IDF/BFC
+FRA-IDF LonPar HDF/IDF ParGareNord
 
-ITA-LAZ Spa ReRoma
+ITA-LAZ MA Spa ReRoma
 
 ITA-LOM M1 Lor Pal
 ITA-LOM M2 CasGob SantAgo
@@ -48,11 +62,9 @@ JPN HanzomonLn Z01 Z03
 JPN GinzaLn G04 G09
 JPN MarunouchiLn M08 M16
 
-ESP-MD M1 GranVia Ato
-ESP-MD M2 CuaCam PriVer
-ESP-MD M4 MarCri AveAme
-ESP-MD M5 Can Pir
-ESP-MD M6 DieLeon CuaCam
-ESP-MD M8 NueMin FerMad
-ESP-MD M9 PriVer AveAme
-ESP-MD M10 NueMin PlaEsp
+NLD 52Ams Vij Eur
+NLD 7Ams Lei Vij
+
+NOR FLY1 OsloLuf OsloS
+NOR FLY2 OsloLuf Lys
+NOR 1Osl Jer Maj
