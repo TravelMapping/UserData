@@ -5412,10 +5412,15 @@ TUR D605 Tav D100/D130 #north one more interchange
 TUR D650 Sel_N Sel_S
 TUR D650 SelYolu Bil
 TUR D650 ToD685 Dos #not quite to Dos but interchange is not mapped
+TUR D715 YemEkbCd HudCd
+TUR D715 D330_E KanCd #KanCd not yet mapped
+TUR D750 1071MazBul SahCd #a few RIROs
+TUR D785 ToD030 SinCorYolu #may have RIROs
 TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
 
+#TUR I37-28 (Kastamonu)
 #TUR I42-17 (Konya)
 #TUR I61-64 etc. (Trabzon)
 #TUR 1071 Malazgirt Bulvarı (Ankara)
