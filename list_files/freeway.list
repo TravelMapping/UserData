@@ -4473,7 +4473,7 @@ ESP-CL N122 Lan_W A11_Lan
 ESP-PV N124 25 30
 ESP-CT N150 CarCol CarMon
 ESP-CT N150 AP7 C58
-ESP-AR N211 N211A_W N211A_E #new bypass around Alcorisa
+ESP-AR N211 Alc_W Alc_E
 ESP-VC N220 V30 V11
 ESP-VC N225 N234 287B(A7)
 ESP-RI N232 N232a_TirW N126
@@ -4520,7 +4520,7 @@ ESP-VC N330 Cof_N Cof_S
 ESP-AN N331 AveEur A307
 ESP-VC N332 38(A38) AviAla
 ESP-VC N332 N332a_Dev CV725
-ESP-VC N332 AP7(63) CamMolMon
+ESP-VC N332 AP7(63) CV750
 ESP-VC N332 AviComVal N332a_VilW
 ESP-VC N332 N338 AviMed
 ESP-VC N332 N332a_MarN N332a_MarS
@@ -5340,7 +5340,7 @@ TUR HasOkmBag O2 O1 #and continuation south?
 TUR HavKav TekBul O4
 TUR KomBag O7 D020
 TUR KurPenBag O4 D100
-TUR KuzCevYolu D655_W D100/655
+TUR KuzCevYolu D655_W D100/D655
 TUR MetEseBag O2 O3 #and continuation south
 TUR SamBagYolu O22 11EylBul
 TUR SamKarBag O4 D100 #and continuation south
@@ -5396,7 +5396,6 @@ TUR D400 1403Sok D885
 TUR D515 I09-60 KadDenYolu
 TUR D525 O31 42
 TUR D550Kes D110 I22-53
-TUR D550Kes 
 TUR D550 AnaCd KemCd
 TUR D550 D300_W HalEdipCd
 TUR D555Sal D240 D565
@@ -5419,7 +5418,15 @@ TUR D785 ToD030 SinCorYolu #may have RIROs
 TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
+TUR D817 MeteAslBul
+#TUR D825 near I46-76, not yet mapped
+TUR D850 D180 GazBul_S #may have a few RIROs
+TUR D885 I61-53 Kos #begins a bit north of I61-53 but not yet mapped; may have some RIROs
+TUR D885 I29-01_N I29-01_S #via the bypass
+TUR D955Bat RecErdBul_W Ucy #one more interchange south; may have a few RIROs
+TUR D965 BesMin I13-77
 
+#TUR I29-01 (Gümüşhane)
 #TUR I37-28 (Kastamonu)
 #TUR I42-17 (Konya)
 #TUR I61-64 etc. (Trabzon)
@@ -5434,6 +5441,7 @@ TUR D795 Arm D100_E
 #TUR CumBul (Ankara)
 #TUR Eskihisar Feribot Yolu
 #TUR HalKav (Istanbul)
+#TUR Haliliye Bulvarı (Şanlıurfa)
 #TUR İsmet İnönü Bulvarı (Ankara)
 #TUR LevKav (Istanbul)
 #TUR OmerTurBul
