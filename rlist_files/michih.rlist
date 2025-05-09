@@ -1,4 +1,4 @@
-# Date: 2025-04-26
+# Date: 2025-05-02
 # ----------------
 
 ######################
@@ -332,6 +332,15 @@ DEU-NW S23 BonnHbf EusKir                      #2025
 #DEU-NW RE5 Bonn Hbf Cologne Hbf               #2025
 DEU-NW S19 Dur KolnHbf                         #2025
 
+#DEU-NW RB51 Lünen - Dortmund Hbf              #2025
+DEU-NW S4 Unna DortMundLutDortMund             #2025
+DEU-NW ParDor +SKIP_BocHbf DortMundHbf         #2025, actually traveled as RE6
+#DEU-NW RE6 Dortmund Hbf Bochum Hbf            #2025
+DEU-NW S1 DortMundHbf WatHon                   #2025
+
+DEU-NW S1 BocHbf EssHbf                        #2025
+DEU-NW S2Rec Her RecHauHbf                     #2025
+
 
 
 ######################
@@ -645,7 +654,10 @@ DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
 DEU-NW 301Gel EssStr HeiKonPla        #2024
 DEU-NW 302Gel BuerRatHaus BocLanS     #2024
 DEU-NW 306Boc WanEicHbf BocRatHaus    #2025
+DEU-NW 306Boc BocRatHaus BocHbf       #2025
+DEU-NW 308Boc SchBankStr BocHbf       #2025
 DEU-NW 308Boc BocHbf HatMit           #2024
+DEU-NW 310Boc HonKir BocHbf           #2025
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
@@ -709,10 +721,12 @@ DEU-NW 709Dus TheHeuPla SchStrArbAge  #2024
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
 DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
+DEU-NW 101Ess EssHbf HelStr_2        #2025
 DEU-NW 103Ess WertStr +DIV_Var       #2024
 DEU-NW 103Ess RatHausEss Ste         #2025
 DEU-NW 105Ess UntStr EssHbf          #2024
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
+DEU-NW 107Ess EssHbf Bre             #2025
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
 
 #Krefeld

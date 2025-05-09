@@ -1,9 +1,6 @@
-# 04/29/2025
-# v65
-# Complete OK I-335
-# Complete OK I-344
-# Add OK OK152 (may become I-240 someday)
-# Complete AR I-49FutBar
+# 05/07/2025
+# v66
+# Complete IN I-69
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -498,9 +495,7 @@ IL I-474 0 15                  # 14 vs 15
 # 1313 miles (Table 3 1307) diff 6, I-164 -21, I-69 27
 IN I-64 IL/IN IN/KY            #123
 IN I-65 KY/IN US12/20          #261
-IN I-69 KenAve 153             #
-#IN I-69 153 163                # 10 mi S of Indianapolis NOT ON
-IN I-69 163 IN/MI              #321 Table 3 294
+IN I-69 KenAve IN/MI           #321 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152

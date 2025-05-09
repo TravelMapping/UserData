@@ -7,6 +7,10 @@ FL SM Kis FL/GA
 
 GA SM FL/GA GA/SC
 
+MA BluLn Aqu Bow
+MA OraLn DowXing SulSq
+MA RedLn Ale DowXing
+
 MD NENor DC/MD BWIAir
 MD GreLn DC/MD Gre
 MD OraLn DC/MD NewCar
@@ -15,7 +19,7 @@ MD RedLnGle DC/MD Whe
 
 NC SM SC/NC NC/VA
 
-NJ NENor NewBru NY/NJ
+NJ NENor NewBru NJ/NY
 
 NY NENor NJ/NY PennSta
 NY 1 137StCityCol SouFry
@@ -24,9 +28,11 @@ NY A 145St ChaSt
 NY E SutBlvdArcAve Lexave53St
 NY J ChaSt SutBlvdArcAve
 
-PA ManNorLn Phi30thSt MainSt
 PA PA PitUni Phi30thSt
+PA ManNorLn Phi30thSt MainSt
 PA WilNewLn PennMed Phi30thSt
+PA MarFraLn 30th 5th
+PA StrRR Str LeaPl
 
 SC SM GA/SC SC/NC
 
