@@ -71,8 +71,7 @@ NLD S43Lie BEL/NLD Maa
 
 #Metro
 NLD 21Utr PRSciPark Ijs
-NLD 20Utr PRSciPark CSCen
-NLD 20Utr CSJaa +DIV_21
+NLD 20Utr PRSciPark NieZuid
 NLD 22Utr CSCen PRSciPark
 
 NLD 50Ams Isl Gein
@@ -439,6 +438,15 @@ HKG HKGAPM T1E T1Mid
 
 # MACAU
 MAC TaipaLn PaiKok Bar
+
+# TAIWAN
+TWN HSR TPE ZUY
+
+TWN TYAir A1 A12
+TWN BroLn BR01 BR11
+TWN RedLn R03 R05
+TWN RedLn R10 R15
+
 
 
 #CHINA
