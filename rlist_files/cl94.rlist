@@ -174,11 +174,25 @@ DEU-BW U3 Vai Pli
 DEU-BW U6 StaBib MohBf
 DEU-BW U14 ChaPla Vai
 
+DEU-BY S2 Dac LeuBergRing
+DEU-BY S2Pet PetHau Dac
+DEU-BY S3 MamDorf OstBf
+DEU-BY S7 SieWer Hbf
 DEU-BY S8 DonBerBru FlugHafMun
-DEU-BY U2 Hbf InnsBruRing
+DEU-BY S2Nur Roth HartManHof
+DEU-BY S5Nur NurnBergHbf AllBerg
+DEU-BY U1 OlyEinZen KolPla
+DEU-BY U2 FeldMoc InnsBruRing
+DEU-BY U3 Moo MarPla
+DEU-BY U3 SenTor FurRiedWest
 DEU-BY U4 KarPlaSta AraPark
 DEU-BY U5 KarPlaSta NeuPerSud
-DEU-BY 17Mun MarsStr IsarTor
+DEU-BY U6 MarPla GarForZen
+DEU-BY U3Nur Hbf GroReuSch
+DEU-BY 3Aug Hbf RotTor
+DEU-BY 16Mun RomPla StEmm
+DEU-BY 17Mun AmaBurgStr StEmm
+DEU-BY 27Mun Pin SenTor
 
 CHE S2Vor LIE/CHE Buc
 
