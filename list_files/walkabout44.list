@@ -1,6 +1,10 @@
-# 05/07/2025
-# v66
-# Complete IN I-69
+# 05/12/2025
+# v67
+# Complete TN I-69FutUni Union City Bypass
+# Complete NC I-73 Rockingham Bypass
+# Complete NC I-42
+# Complete NC I-42Gol
+# This completes all interstate highways in lower 49 states, for now
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -779,13 +783,11 @@ TN I-840 1 76                  # 78 vs 77
 NC I-26 4A(240) NC/SC          # 44+
 NC I-26Fau TN/NC 13            #  9 =53
 NC I-40 TN/NC US117_S          #420
-#NC I-42 1 8                    #  8  Start to US 70 NOT ON
-#NC I-42Gol 34 53               # 20  Goldsboro bypass NOT ON
-#NC I-73 US74(306) 22           #  6  Rockingham bypass NOT ON	
-NC I-73 22 123                 # 99
+NC I-42 1 8                    #  8  
+NC I-42Gol 34 53               # 20  
+NC I-73 US74(306) 123          #105  	
 NC I-74 VA/NC 17               # 16+
-NC I-74Hig 55 22(73)           # 31+
-NC I-74Hig 306(US74) 321(US74) # 15+
+NC I-74Hig 55 321(US74)        # 46+
 NC I-74Pem 194 213             # 19=73 vs 56 - 27 diff
 NC I-77 SC/NC NC/VA            #105
 NC I-85 SC/NC NC/VA            #200
@@ -920,8 +922,7 @@ SC I-73FutMyr US17 US701
 SC I-526FutCha SC30_E 3
 TN I-69FutMem MS/TN US51
 TN I-69FutTri 15(155) TN183_End
-#TN I-69FutUni US51_S US45W/51      # Newly built Union City not on
-TN I-69FutUni US45W/51 TN/KY
+TN I-69FutUni US51_S TN/KY
 TN I-269FutMem 19 US51
 # VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
 
