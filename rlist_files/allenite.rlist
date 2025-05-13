@@ -5,7 +5,7 @@
 ## Airports (usaaair [Air] & usaair [Land]) ##
 
 #-ATL
-GA PlaTrn DomTer BGat
+GA PlaTrn DomTer DGat
 GA SkyTrn Air RenCarCen
 #-DTW
 MI ExpTram SouSta NorSta
@@ -29,6 +29,9 @@ MI DetPeoMov RenCen Mic_N
 #-WDW
 FL EpcMon TraTicCen EPCOT
 FL ResMon TraTicCen_1 TraTicCen_2
+
+#-Yukon Pass
+AK WPY Ska BC WPY WhiPass
 
 
 ##################
@@ -61,7 +64,6 @@ ENG VicLn KXSP GrePark
 
 ### END London Underground ###
 
-
 # East Main Line
 ENG ECMLEdi LonKinCro SCT ECMLEdi EdiWav
 
@@ -71,6 +73,7 @@ SCT EdiTram PriSt EdiAir
 # Manchester to Wales
 ENG LlaManLn Che ManAir # Bus Substitution (some not on rail)
 WLS LlaManLn LlaJct ENG LlaManLn Che
+WLS WCMLC LlaJct +SKIP_Lfp
 
 # Wales to York
 ENG WCMLC Cre Che
