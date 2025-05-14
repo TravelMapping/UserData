@@ -3103,7 +3103,8 @@ TN US41 I-24(174) TN28_S #12212024 Bea House and Bread Becker
 TN US41AltNas US64Bus_W TN55_E #08292017 Sir Fabric F'ville Trip
 TN US41AltNas US41_S TN56 #Travel to Alabama visit Suwanee
 TN US41AltNas TN64 TN55_E #08262024 Trip from Bea to Clanton
-TN US41AltNas TN99_W TN270 #11182024 Doctor Visit in M'Boro   
+TN US41AltNas TN99_W TN270 #11182024 Doctor Visit in M'Boro
+TN US41AltNas TN270 US231Bus #051125 Visit Lucky Ladd Farm with kids     
 TN US43 AL/TN US412_W #05082018 Loretto Trip 
 TN US45 I-40 US45E/45W #09042017 GibsonEMC Visit
 TN US45SFu US45E/45W TN/KY #Hickman Audit  
@@ -3141,6 +3142,7 @@ TN US79 US641 TN49 #09042017 GibsonEMC Visit
 TN US129 NC/TN US411_S #05232018 Atlanta to KY Statewide 
 TN US129 US411_N I-40 #05232018 Atlanta to KY Statewide
 TN US231 I-40 TN/KY #07012017 Trip to Mt Juliet
+TN US231BusShe US231_N US231_S #051125 Visit Lucky Ladd Farm with kids 
 TN US321 US411 US441_N #10242017 Meeting in Pigeon Forge
 TN US321 US441_S NC/TN #10242017 Meeting in Pigeon Forge  
 TN US411 GA/TN US321 #10242017 Meeting in Pigeon Forge  
@@ -3221,7 +3223,9 @@ TN TN60 US27/378 US64/74 #10242017 Meeting in Pigeon Forge
 TN TN61 US441_N TN95 #09082018 Visit Jimmy in Boone         
 TN TN62 TN95 I-75/640 #01012017 Visit Manhatten Project VC
 TN TN63 I-75(141) US27/297 #11032017 Visit to Clinton
-TN TN64 TN269_W US41Alt #08262024 Trip from Bea to Clanton  
+TN TN64 TN269_W US41Alt #08262024 Trip from Bea to Clanton
+TN TN64 TN82_N US231/231Bus #051125 Visit Lucky Ladd Farm with kids
+TN TN64 US231_S US31Alt #051125 Visit Lucky Ladd Farm with kids  
 TN TN66Sev I-40 US411/441 #01022017 Visit Gatlinburg
 TN TN70 TN/VA TN33_S #08152024 Travel from SCTC to Bea's House 
 TN TN76Whi US31W_S I-65 #Driving in Nashville - Sloan 
