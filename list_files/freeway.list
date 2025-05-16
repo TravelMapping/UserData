@@ -5461,6 +5461,53 @@ CHE H21 BouStBer CHE/ITA
 #CHE spur from A9 exit 33
 
 
+##THAILAND
+THA M6 Thl2 9
+THA M7 1 16
+THA M7Ban M7 Thl34
+THA M7Lae M7 Thl3
+THA M7Pat M7 Thl3
+THA M7Jom M7 HuayYai_E
+THA M7Jom HuayYai_W Thl3
+THA M9 1 Thl3901/3902_72
+THA M9 M9_U73 Thl1/32
+THA M81 5 8
+THA BurWitExpy S1Expy 53
+THA ChaRatExpy MahaNakExpy 27
+THA MahaNakExpy 1 17
+THA MahaNakExpyDao MahaNakExpy 30
+THA PraRatExpy 2 17
+THA S1Expy ChaRatExpy BurWitExpy
+THA SiRatExpy T2-13 N2-11
+THA SiRatExpyAso SiRatExpy Tx2-06
+THA ThoBrg SiRatExpy Thl303
+THA UdonRatExpy T2-05 N2-16
+THA BhuBrg YanRd M9
+THA BhuBrgSuk BhuBrg PhrRd
+THA RamaVIIIBrg PraRd SomPPKRd
+THA SomPPKRd PhanPhiLila Thl338
+THA Thl1 TalRan Thl2
+THA Thl2 Thl1 Thl3188_N
+THA Thl4 PhraPatChe Thl3524
+THA Thl4 Thl3528 Thl3647
+THA Thl31 PhaRd Thl38_DMA
+THA Thl31DMT Thl31_S Thl31/38
+THA Thl32 Xy2053 XyTh1-0038
+THA Thl34 Thl3/3102 Thl3/361
+THA Thl35 Thl303 Thl35_U39
+THA Thl38 Thl31_S Thl1
+THA Thl302 Thl306 M9
+THA Thl338 End Thl4
+THA Thl341 Thl338 End
+THA Thl370 Thl34 SuvAir
+THA Nb1020 Thl301/306 M9
+#THA unsigned Nb1036
+THA Nb3021 TakSinRd PhetKasRd #and continuation at south end
+THA Nb3021 ThBangWaek Nb3021_U32
+#THA spur to airport from M7
+#probably missing a few
+
+
 ##TURKEY
 TUR O1 3 14
 TUR O2 O3 D100
