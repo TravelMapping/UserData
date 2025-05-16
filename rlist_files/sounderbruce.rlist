@@ -8,9 +8,10 @@ CA E ExpoPkUSC 7thStMetCen
 CA E *OldGoldLn Atl
 CA SanBerLn CalStaLA Cla
 
-CA BlueLn SanYsiTC SanFeDep
-CA GreLn 12thImpTC SanTownCen
-CA OraLn Cou ArnAve
+CA BlueLn SanYsiTC +DIV_Gre_N
+CA CopLn ElCaj SanTownCen
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
 CA Spr Oce VisTC
 CA Coa SanFeDep Oce
 
