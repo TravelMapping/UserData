@@ -1551,7 +1551,6 @@ CO US285 US50_E CO17_N
 CO CO17 US285_N CO112
 CO ParkRd VisCen CO150
 CO CO150 GreSandDunNP US160
-CO US160 CO150 I-25(50)
 CO I-25 NM/CO 214A
 CO US24 I-25(141) US24Bus_W
 CO US24BusMSp US24_W US24_E
@@ -1734,6 +1733,7 @@ AL AL21 US80_W AL28 #Camden Audit
 AL AL21 AL77_N US231/280 #Coosa Electric Audit
 AL AL21 FL/AL US31 #01182025 Cathy Scrap WE Drive Around
 AL AL21 AL28 AL47_N #03232025 Travel Home from Bea
+AL AL21 US31 AL41_N #05092025 Travel to Bea 
 AL AL22 BUS80_E AL5 #Pine Belt Audit
 AL AL22 AL139 US80/14 #10042024 Travel to visit Bea
 AL AL22 AL191 AL139 #03232025 Travel Home from Bea  
@@ -1743,7 +1743,8 @@ AL AL25 US78 US231_N #08262024 Trip from Bea to Home
 AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home
 AL AL25 AL219_S CR58 #Tuscaloosa Trips
 AL AL25 AL155_N AL139 #10042024 Travel to visit Bea
-AL AL25 US31_S AL155_N #11192024 Trip Back from Bea   
+AL AL25 US31_S AL155_N #11192024 Trip Back from Bea
+AL AL25 AL28 AL69_N #05092025 Travel to Bea   
 AL AL28 AL21 AL10_E #Camden Audit 
 AL AL27 US231/249 AL173 # Travel to MCLB Albany
 AL AL35 US72/279 AL9 #Sand Mountain Electric
@@ -1751,6 +1752,7 @@ AL AL36 US31 US231 #New Hope Audit
 AL AL41 AL10/28 AL265 #Camden Audit
 AL AL41 I-65 US29/31 #11192024 Trip Back from Bea
 AL AL41 US80_E AL89 #03232025 Travel Home from Bea
+AL AL41 AL21_N AL221 #05092025 Travel to Bea
 AL AL47 AL83 CR106 #03232025 Travel Home from Bea 
 AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha
 AL AL50 AL229 AL49 #Lake Martin   
@@ -1770,7 +1772,10 @@ AL AL68 US411_S US11_S #Cherokee Electric
 AL AL68 US11_N I-59 #Cherokee Electric  
 AL AL69 I-65(304) US31_S #Cullman Electric Audit
 AL AL69 US278_E US431/79 #04062024 Jackson to Scott Co Trip
-AL AL69 US43 AL177 #Clarke Washington   
+AL AL69 US43 AL177 #Clarke Washington
+AL AL69 AL25_N US11_N #05092025 Travel to Bea
+AL AL69 US43/82 AL5_N #05092025 Travel to Bea
+AL AL69 AL5_S I-65(299) #05092025 Travel to Bea  
 AL AL75 CR27 AL/GA #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 CR27 #04062024 Jackson to Scott Co Trip
 AL AL75 AL227 US431 #N Alabama Audit Trip
@@ -1839,6 +1844,7 @@ AL AL196 AL52 AL27 #08162024 Trip from Bea to Home
 AL AL205 US431_N US431_S #08262024 Trip from Bea to Home
 AL AL212 MainSt AL14 #Wetumpka Bank Audit 
 AL AL219 AL14_E AL22 #Pine Belt Audit
+AL AL221 AL41 AL28 #05092025 Travel to Bea
 AL AL225 US31 I-65 #Trip to AMTA Meeting at Grand
 AL AL225 I-65 AL59 #12132024 Trip to Hattiesburg      
 AL AL227 AubCarrSceDr AL75  #Day two Cullman to Gate City 04062024
@@ -2035,6 +2041,7 @@ CO US40 CO64 CO13_S #01112025 GV Inv Off Day
 CO US40 I-70BLDen_W I-70(254) #03212025 Drive around Den after CO FW
 CO US85 US85BusFor_N US85BusPla_N #04222025 Sangre de Cristo Board Meeting
 CO US85BusPla US85_S US85_N #04222025 Sangre de Cristo Board Meeting
+CO US160 CO150 I-25BL_N
 CO US385 US40_E CO96_E #01292025 KC to SW
 CO US385 CR196 US50/400 #01292025 KC to SW
 CO US50TrkLam US50_W US50_E #01292025 KC to SW    
@@ -2891,7 +2898,8 @@ NV I-15 CA/NV 34 #Joshua Tree Trip
 NV I-15 42 NV/AZ #Zion Trip
 NV I-15BLMes I-15_S I-15_N #Zion Trip
 NV I-580 33 24 #2001
-NV US93 NV168 I-15(64) #03292025 Sidetrip Mohave FW 
+NV US93 NV168 I-15(64) #03292025 Sidetrip Mohave FW
+NV US93 NV320_N NV168 #05142025 Mohave Board Meeting Trip 
 NV US95 NV266 NV374 #2001
 NV US95 NV374 76(11) #11162018
 NV US95 NV163 CA/NV #Marine Corp Trip
@@ -2913,6 +2921,10 @@ NV NV168 I-15(91) US93 #03292025 Sidetrip Mohave FW
 NV NV169 LkMeadNRA I-15 #03292025 Sidetrip Mohave FW
 NV NV170 I-15 I-15BL #03292025 Sidetrip Mohave FW    
 NV NV266 CA/NV US95 #2001
+NV NV319 NV/UT US93 #05142025 Mohave Board Meeting Trip
+NV NV320 US93_S US93_N #05142025 Mohave Board Meeting Trip
+NV NV321 US93_N US93_S #05142025 Mohave Board Meeting Trip
+NV NV322 NV321 End #05142025 Mohave Board Meeting Trip 
 NV NV372 NV160 CA/NV #11162018
 NV NV374 DeaValNP US95 #11162018
 NV NV431 I-580/395 NV28 #2001
@@ -3096,7 +3108,8 @@ TN US41 I-24(174) TN28_S #12212024 Bea House and Bread Becker
 TN US41AltNas US64Bus_W TN55_E #08292017 Sir Fabric F'ville Trip
 TN US41AltNas US41_S TN56 #Travel to Alabama visit Suwanee
 TN US41AltNas TN64 TN55_E #08262024 Trip from Bea to Clanton
-TN US41AltNas TN99_W TN270 #11182024 Doctor Visit in M'Boro   
+TN US41AltNas TN99_W TN270 #11182024 Doctor Visit in M'Boro
+TN US41AltNas TN270 US231Bus #051125 Visit Lucky Ladd Farm with kids     
 TN US43 AL/TN US412_W #05082018 Loretto Trip 
 TN US45 I-40 US45E/45W #09042017 GibsonEMC Visit
 TN US45SFu US45E/45W TN/KY #Hickman Audit  
@@ -3134,6 +3147,7 @@ TN US79 US641 TN49 #09042017 GibsonEMC Visit
 TN US129 NC/TN US411_S #05232018 Atlanta to KY Statewide 
 TN US129 US411_N I-40 #05232018 Atlanta to KY Statewide
 TN US231 I-40 TN/KY #07012017 Trip to Mt Juliet
+TN US231BusShe US231_N US231_S #051125 Visit Lucky Ladd Farm with kids 
 TN US321 US411 US441_N #10242017 Meeting in Pigeon Forge
 TN US321 US441_S NC/TN #10242017 Meeting in Pigeon Forge  
 TN US411 GA/TN US321 #10242017 Meeting in Pigeon Forge  
@@ -3160,7 +3174,8 @@ TN US412BusCol US412_W US31_S #11152024 Visit Bea
 TN US431BusLew US31AltBus_S US431_S #10042024 Travel to visit Bea 
 TN NatTraPkwy TN100 US64 #05082018 Loretto Trip
 TN CadCoveLpRd LauCreRd_A LauCreRd_B #To include portion traveled
-TN TN7 TN247_W SanFePk #03222025 Kids to Safari - Dark Mills Rd  
+TN TN7 TN247_W SanFePk #03222025 Kids to Safari - Dark Mills Rd 
+TN TN7 SanFePk US43/412 #05102025 Kids to Chickasaw Park
 TN TN7Ard I-65 AL/TN #12172017 Montgomery Trip
 TN TN7TrkArd TN7 TN/AL #12172017 Montgomery Trip   
 TN TN8 TN56 US127/111 #05232017 Bledsoe BdMtg
@@ -3202,6 +3217,7 @@ TN TN54 US45W_N US641 #09042017 GibsonEMC Visit
 TN TN55 I-24 US70S/380 #05232017 Bledsoe BdMtg
 TN TN55 US41Alt/130 I-24 #08292017 Sir Fabric F'ville Trip 
 TN TN55BusMcM TN55 TN380 #05232017 Bledsoe BdMtg
+TN TN55 TN82 VisCtr #JT Team Meeting - Jack Daniel 
 TN TN56 US70S TN8 #05232017 Bledsoe BdMtg
 TN TN56 US70 I-40(273) #10302017 Trip to Cookeville - Twin Lakes
 TN TN56 I-40(280) TN53/85 #10302017 Trip to Cookeville - Twin Lakes
@@ -3213,12 +3229,15 @@ TN TN60 US27/378 US64/74 #10242017 Meeting in Pigeon Forge
 TN TN61 US441_N TN95 #09082018 Visit Jimmy in Boone         
 TN TN62 TN95 I-75/640 #01012017 Visit Manhatten Project VC
 TN TN63 I-75(141) US27/297 #11032017 Visit to Clinton
-TN TN64 TN269_W US41Alt #08262024 Trip from Bea to Clanton  
+TN TN64 TN269_W US41Alt #08262024 Trip from Bea to Clanton
+TN TN64 TN82_N US231/231Bus #051125 Visit Lucky Ladd Farm with kids
+TN TN64 US231_S US31Alt #051125 Visit Lucky Ladd Farm with kids  
 TN TN66Sev I-40 US411/441 #01022017 Visit Gatlinburg
 TN TN70 TN/VA TN33_S #08152024 Travel from SCTC to Bea's House 
 TN TN76Whi US31W_S I-65 #Driving in Nashville - Sloan 
 TN TN78 TN/KY I-155 #09042017 GibsonEMC Visit
 TN TN78 US51 TN104 #09042017 GibsonEMC Visit
+TN TN82 US231Bus_S TN55 #JT Team Meeting - Jack Daniel
 TN TN83 US70 TN56 #10302017 Trip to Cookeville - Twin Lakes 
 TN TN88 US51 US412_A #07022017 Memphis IKEA
 TN TN91 US421/133 US321_S #05152018 Scott County - Skyline
@@ -3271,7 +3290,8 @@ TN TN246 I-840 US31 #11172024 Driving around visiting Bea
 TN TN247 US31_N BucLn #08262024 Taking D to School
 TN TN247 TN246_S US31_N #11172024 Driving around visiting Bea
 TN TN247 BucLn US431 #11172024 Driving around visiting Bea
-TN TN247 TN50 TN7_S #03222025 Kids to Safari 
+TN TN247 TN50 TN7_S #03222025 Kids to Safari
+TN TN247 TN246_N TN7_S #05102025 Kids to Chickasaw Park 
 TN TN248 I-65 US31 #Visiting Franklin to M'Boro
 TN TN252 TN96 US31 #Living in Nashville Area
 TN TN253 US31 US31Alt/41Alt #Living in Nashville Area 
@@ -3320,20 +3340,27 @@ TX I-10 187 NM/TX #29 Palms Trip
 TX I-20 I-10 TX/LA #29 Palms Trip
 UT I-15 AZ/UT 132 #Trip with Family to Las Vegas
 UT I-15 365 284 #08052017 TFACC Meeting Trip
+UT I-15 284 222 #05132025 Mohave Board Meeting Trip
+UT I-15 222 132 #05142025 Mohave Board Meeting Trip 
 UT I-70 UT/CO 182 #11302021 Inventory Trip 
 UT I-70 182 0 #Trip with Family to Las Vegas 
 UT I-80 115 120 #08032017 TFACC Meeting Trip
 UT I-80 123 UT/WY #08032017 TFACC Meeting Trip
 UT I-84 ID/UT 26 #08052017 TFACC Meeting Trip
 UT I-84 120 87 #08062017 TFACC Meeting Trip
-UT I-15BLStG I-15_N I-15_S #03302025 Sidetrip Mohave FW 
+UT I-215 23 11 #05142025 Mohave Board Meeting Trip 
+UT I-15BLStG I-15_N I-15_S #03302025 Sidetrip Mohave FW
+UT I-15BLNep I-15_S I-15_N #05132025 Mohave Board Meeting Trip
+UT I-15BLFil I-15_S I-15_N #05142025 Mohave Board Meeting Trip
+UT I-15BLBea I-15_N I-15_S #05142025 Mohave Board Meeting Trip  
 UT US40 US189_S UT/CO #08052017 TFACC Meeting Trip 
 UT US89 UT30_E UT/ID #08032017 TFACC Meeting Trip
 UT US89 I-84 I-15(324) #08062017 TFACC Meeting Trip
 UT US89 I-15(312) I-80 #08062017 TFACC Meeting Trip      
 UT US89 UT9 US89Alt #11172017 Pipe Spring Utah Park Trip
 UT US89 I-70(56) UT143 #11172017 Pipe Spring Utah Park Trip
-UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante 
+UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante
+UT US89 I-215 I-15(291) #05132025 Mohave Board Meeting Trip 
 UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT UT162 UT/CO US191 #11302024 Moab Trip
 UT US163 US191 AZ/UT #09122024 Grand Junction to Phoenix
@@ -3355,18 +3382,22 @@ UT UT13 UT83 I-15/84(365) #08052017 TFACC Meeting Trip
 UT UT14 UT148 UT130 #11172017 Pipe Spring Utah Park Trip
 UT UT17 I-15 UT9 #11172017 Pipe Spring Utah Park Trip
 UT UT18 UT34 UT56 #03302025 Sidetrip Mohave FW 
-UT UT20 I-15 US89 #Visit South Central Comm wRobert Escalante  
+UT UT20 I-15 US89 #Visit South Central Comm wRobert Escalante
+UT UT21 UT160 UT130 #05142025 Mohave Board Meeting Trip  
 UT UT30 UT/WY US89_N #08032017 TFACC Meeting Trip
 UT UT34 I-15 RivRd #03302025 Sidetrip Mohave FW 
 UT UT43 UT44 WY/UT #08062017 TFACC Meeting Trip 
 UT UT44 US191 UT43 #08062017 TFACC Meeting Trip
 UT UT46 US191 CO/UT #12022024 SMEC Inventory
-UT UT56 UT130 I-15 #11172017 Pipe Spring Utah Park Trip   
+UT UT56 UT130 I-15 #11172017 Pipe Spring Utah Park Trip
+UT UT56 I-15 NV/UT #05142025 Mohave Board Meeting Trip    
 UT UT59 UT9 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT UT83 I-84 UT13 #08052017 TFACC Meeting Trip
 UT UT92 AshBlvd US189 #08052017 TFACC Meeting Trip
 UT UT128 US191 I-70/6 #09092024 Navopache to Grand Junction 
-UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip 
+UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip
+UT UT130 UT21 I-15(57) #05142025 Mohave Board Meeting Trip
+UT UT132 UT28 I-15 #05132025 Mohave Board Meeting Trip  
 UT UT143 US89 UT148 #11172017 Pipe Spring Utah Park Trip
 UT UT148 UT143 UT14 #11172017 Pipe Spring Utah Park Trip 
 UT UT149 US40 DinNM #08062017 TFACC Meeting Trip 
