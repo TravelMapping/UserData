@@ -1,10 +1,7 @@
-# 05/12/2025
-# v67
-# Complete TN I-69FutUni Union City Bypass
-# Complete NC I-73 Rockingham Bypass
-# Complete NC I-42
-# Complete NC I-42Gol
-# This completes all interstate highways in lower 49 states, for now
+# 05/15/2025
+# v68
+# Complete NC I-785FutRei Reidsville NC
+# Complete VA I-785FutDan Danville VA
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -876,13 +873,6 @@ FL I-595 I-75 12               # 14 vs 13
 #PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W NOT ON
 #PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao NOT ON
 
-# Interstates Not on
-#NC I-42 1 8                    #  8  Start to US 70 NOT ON
-#NC I-42Gol 34 53               # 19  Goldsboro bypass NOT ON
-#NC I-73 US74(306) 22           #  6  Rockingham bypass NOT ON	
-#IN I-69 153 163                # 10  S of Indianapolis NOT ON
-#OK I-335 130 149               # 19  OK City E NOT ON
-#OK I-344 OK152 I-40            #  6  OK City SW NOT ON
 
 # Alaska & Puerto Rico Not on
 #AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line NOT ON
@@ -893,7 +883,7 @@ FL I-595 I-75 12               # 14 vs 13
 
 
 # US Future Interstate Highways (outside Arizona)
-# means not been on - 3 sections
+# means not been on - 0 sections
 AR I-49FutBar 187 193
 AZ I-11FutHoo 2 AZ/NV
 AZ I-11FutKin 71(40) 48(40)
@@ -912,7 +902,7 @@ NC I-74FutPil I-74_W US52
 NC I-74FutWhi 228 248             
 NC I-87FutRoc 13 464(64)
 NC I-785FutRei US29Bus_S US158/14
-# NC I-785FutRei US158/14 NC/VA     # N of Reidsville not on
+NC I-785FutRei US29Bus_S NC/VA
 NY I-86FutBin PA/NY 72A
 NY I-86FutDep 79 EvaRd
 NY I-86FutMon BushHilRd I-87
@@ -924,7 +914,7 @@ TN I-69FutMem MS/TN US51
 TN I-69FutTri 15(155) TN183_End
 TN I-69FutUni US51_S TN/KY
 TN I-269FutMem 19 US51
-# VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
+VA I-785FutDan NC/VA US58/360
 
 
 # ICELAND
