@@ -27,7 +27,7 @@ MA FitLn BosNor Wac
 MA FraLn ForPk495 BosSou
 MA GreLn QuiCen BosSou
 MA HavLn BosNor Hav
-MA HavLnWilWil BosNor Hav
+MA HavLnWil BosNor Hav
 MA KinLn KinRte3 Bra
 MA LowLn BosNor Low
 MA MidLn MidLak BosSou
@@ -38,6 +38,9 @@ RI ProLn Pro RI/MA
 MA RocLn BosNor Roc
 MA StoLn Sto BosSou
 MA WorLn Wor BosSou
+MA DE BosNor MA/NH
+NH DE MA/NH NH/ME
+ME DE NH/ME OldOrcBea
 
 NY 3 CenPkN 34StPennSta
 NY 6 23rdSt BroBriCityHall
@@ -61,13 +64,20 @@ NJ NECorLn NY/NJ Tre
 NY NJerCoaLn PennSta NY/NJ
 NJ NJerCoaLn NY/NJ PerAmb
 
+CT AE NY/CT CT/RI
 CT EssSteTrn Ess DeepRivLan
 
+PA AE Phi30thSt PA/NJ
 PA MarFraLn 30th 5th
 PA TreLn Phi30thSt PA/NJ
 NJ TreLn PA/NJ Tre
 
+NJ AE PA/NJ NJ/NY
+
+NY AE NJ/NY NY/CT
 NY BMR ErieCanHar Uni
+
+RI AE CT/RI RI/MA
 
 VA BluLn FraSpr VA/DC
 DC BluLn VA/DC Smi

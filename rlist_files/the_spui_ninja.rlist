@@ -2,6 +2,11 @@ ITA-LAZ MB Pie BasSanPao
 ITA-LAZ FL1 RomaOst FiuAer
 ITA-LAZ MA ValAur SanGio
 ITA-LOM M1 Bon Lam
+ITA-TOS T2 Uni PerAer
+ITA-TOS T1 VilCos ValStaSMN
+ITA-TOS FaRomGen FirCam TOS/UMB
+ITA-UMB FaRomGen TOS/UMB UMB/LAZ
+ITA-LAZ FaRomGen UMB/LAZ RomaTer
 CHE S23Gal Gos Urn
 CHE S12 ZurHau Wil
 CHE S1Gal Wil Gos
@@ -27,5 +32,14 @@ DC RedLn MD/DC BroCUA
 MO KCSC UniSta RivMar
 DC OraLn Smi MetCen
 IL BlueLn OHa ClaLake
+FL TriRail WestPalmBea FortLauAir
 IL AirTraSys Ter1 MulModFac
 NE OZRR OmaTraDep_S OmaTraDep_F
+KY CVGTram MainTer ConB
+GA PlaTrn TGat FGatIntTer
+PA PITTrn LanTer AirTer
+TX Sky A8 A21
+VA AerTrn ConB ConCD
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+CO DENTrn CGat JepTer

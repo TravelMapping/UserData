@@ -1,3 +1,33 @@
+ENG BakLn HarWea EleCas
+ENG CotLn LonPad Her
+ENG EGriLn LonVic EastGri
+ENG GatEx LonVic Bri
+ENG NhpLn LonEus Nor
+ENG OxfLn LonPad Oxf
+ENG PadWoodLn FolCen DovPri
+ENG PicLn HeaTer5 LOOP Coc
+ENG RobHoodLn Not Wor
+ENG SWalML LonPad BriPkwy
+ENG TPNRte LivLimeSt ManVic
+ENG WCMLD LonEus LivLimeSt
+ENG XCMLMan BriTemMea BriPkwy
+ENG XCMLSou BirNewSt Sta
+
+FRA-HDF J IDF/HDF HDF/NOR
+FRA-HDF LonPar LilEur HDF/IDF
+FRA-HDF P22 +DIV_Nord Arr
+FRA-HDF P43 Dou Val
+FRA-HDF P44 Arr Dou
+FRA-IDF J ParStLaz IDF/HDF
+FRA-IDF JVer ParStLaz IDF/NOR
+FRA-IDF LCer ParStLaz CerHaut
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF ParDor ParGareNord +DIV_Lil1
+FRA-NOR JVer IDF/NOR Ver
+
+GA RedLn Air FivePoi
+GA SkyTrn Air RenCarCen
+
 IL AirTraSys Ter1 MulModFac
 IL BlueLn OHa ForPk
 IL BNSF Aur UniSta
@@ -26,6 +56,11 @@ IN CL IL/IN IN/OH
 IN LSBos IL/IN IN/OH
 IN LSNew IL/IN IN/OH
 
+JPN KeikyuMainLn A07 KK64
+JPN OshiageLn KS45 KS09
+JPN ShoMon SMR1 SMR8
+JPN Skyliner KS09 KS41
+
 MO MLRedLn Uni MO/IL
 
 NJ NJerCoaLn NY/NJ Rah
@@ -36,3 +71,5 @@ OH CL IN/OH OH/PA
 
 PA CL OH/PA PitUni
 PA PA PitUni Alt
+
+SVK S70 BraHlaSta SVK S70 Kve

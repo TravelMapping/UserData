@@ -511,10 +511,10 @@ FL FL408 1 21
 FL FL414 34(429) 4B
 FL FL414 4B 9
 FL FL414 MaiSumBlvd HopeRd
-FL FL417 26 38 #under construction from 6 to 26
+FL FL417 6 38
 FL FL429 30 34 #under construction from 18 to 30
 FL FL453 FL429 FL46
-FL FL528 I-4 13 #under construction from 13 to 16
+FL FL528 I-4 16
 FL FL589 1 14 #northbound is split into 2 2-lane roadways near 2B
 FL FL618 8 10
 FL FL826 FL94 FLTpk
@@ -534,7 +534,7 @@ GA I-75 177 GA/TN
 GA I-475 I-75_S 15
 GA I-675 5 I-285
 GA I-85 35 78
-GA I-85 78 137
+GA I-85 78 149
 GA I-185 1 12
 GA I-285 GA279 20
 GA I-285 20 62
@@ -565,7 +565,7 @@ IA I-80 NE/IA 5
 IA I-80 121 123
 IA I-80 123 137
 IA I-80 137 143
-IA I-80 240 246 #construction from 237 to 240, 246 to 249
+IA I-80 237 249
 IA I-235 I-80(123) I-80(137)
 #IA I-380 0 2 under construction
 IA I-380 16 24B
@@ -777,7 +777,7 @@ MD MD295 MD175 MD100
 MD MD295 I-195 I-95 #construction in Baltimore may end up removing lanes?
 
 
-ME I-95 NH/ME 44 #construction from 44 to 48
+ME I-95 NH/ME 48 #to mile marker 49 NB
 ME I-295 7 8A
 
 
@@ -1998,15 +1998,14 @@ FRA-PDL D323-49Ang BlvdChaBar RuePru
 ##Germany##
 DEU-SH A1 20 DEU-NI A1Buc 40
 DEU-NI A1Buc 43 DEU-NI A1 58b
-DEU-NI A1 62 DEU-NI A1 65
-DEU-NI A1 68 DEU-NW A1 72
+DEU-NI A1 62 DEU-NW A1 72
 DEU-NW A1 77 DEU-NW A1 79a
 DEU-NW A1 82 DEU-NW A1 104
 DEU-NW A1 107 DEU-NW A1 109
 DEU-NW A2 1 DEU-BB A2 81
 DEU-NW A3 10 DEU-BY A3 73
 DEU-BY A3 83 DEU-BY A3 88
-DEU-BY A3 101 DEU-BY A3 103
+DEU-BY A3 99 DEU-BY A3 103
 DEU-NW A4 4 DEU-NW A4 17
 DEU-HE A4Her 37 DEU-SN A4 81b
 DEU-HE A5 11 DEU-HE A5 26a
@@ -2992,3 +2991,35 @@ NZL SH16 3 19
 NZL SH20 9 16
 NZL SH20 16 19
 NZL SH20 19 24
+
+##Thailand##
+THA M7 1 13
+THA M7Lae M7 Thl3
+THA M7Pat M7 Thl3
+THA M9 1 9
+THA M9 9 Thl35
+#construction here
+THA M9 Thl4 Thl3901/3902_51
+THA BhuBrg RamaIIIRd Thl3113
+THA BhuBrg Thl3113 M9
+THA BurWitExpy S1Expy 53
+THA ChaRatExpy S1Expy 26
+THA MahaNakExpy 1 17
+THA MahaNakExpyDao MahaNakExpy Thl303
+THA PraRatExpy 2 17
+THA S1Expy ChaRatExpy BurWitExpy
+THA SiRatExpy T2-13 N2-11
+THA SiRatExpyAso SiRatExpy Tx2-06
+THA ThoBrg SiRatExpy Thl303
+THA Thl1 Thl31 Thl2
+THA Thl2 Thl1 Thl3188_N
+#maybe some of Thl31 but it's hard to tell
+THA Thl31DMT Thl31_S Thl31/38
+THA Thl34 Thl3/3102 Chch2004
+THA Thl38 Thl31_S Thl1
+THA Thl304 Nb3030 Thl306
+THA Nb1020 Thl301/306 M9
+#Nb1036 is unsigned
+THA Nb3021 TakSinRd PhetKasRd
+THA Nb3021 PhetKasRd Nb3021_U32 #beyond here is not a freeway
+THA Nb3030 Thl304 Nb3021 #beyond here is not a freeway, though it's under construction
