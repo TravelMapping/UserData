@@ -10,19 +10,25 @@ CHE S21Gal StGal App
 DEU-BY S1Vor LinIns DEU/AUT
 
 #London Underground
-ENG CirLin EdgRd_1 EdgRd_2
+ENG BakLn OxfCir Wat
+ENG CenLn OxfCir Bank
+ENG CirLn EdgRd_1 EdgRd_2
+ENG DisLn Wes AldEast
+ENG HaCLn KXSP AldEast
 ENG JubLn GrePark NorGre
+ENG NorLnEdg WarSt Emb
 ENG PicLn GrePark KXSP
 ENG VicLn Vau KXSP
+ENG WaCLn Wat Bank
 
 # -- United States & Canada --
 #Acela / NE Corridor
 DE AE Wil DE/PA
 PA AE DE/PA PA/NJ
 NJ AE PA/NJ NJ/NY
-NY AE NJ/NY NY/CT
-CT AE NY/CT NHUniSta
-CT HL NHUniSta Har
+NY AE NJ/NY PennSta
+NY NESpr PennSta NY/CT
+CT NESpr NY/CT Har
 
 #Heartland Flyer
 OK HF Nor Pur
@@ -37,10 +43,10 @@ CO RoyGorRou CanCity Par
 #Chicago 
 IL BlueLn Cum ClaLake
 IL RedLn Lake Add
-IL OraLn ClaLake
+IL OraLn Mid ClaLake
 
 #Dallas DART
-TX RedLn WEnd SprVly
+TX RedLn ConCen SprVly
 
 #Denver RTD
 CO ALn UniSta DenAir
@@ -48,6 +54,9 @@ CO ALn UniSta DenAir
 #NYC MTA
 NY 1 CorStWTC 72St
 NY 7 42StTimSq JacHeiRooAve
+NY E WTC 42ndStPABT
+NY R CorSt CanSt
+NY S42 TimSq GraCen
 
 #Washington Metro
 DC RedLn FriHei UniSta
