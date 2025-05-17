@@ -2830,7 +2830,7 @@ IDN T2Sum Bel 14
 IDN T3Sum 01 367
 IDN T4Sum T1 JlSulSer
 IDN T6Sum Pal 82
-IDN JTBTP N1 17
+IDN JTBTP N7 17
 IDN JTBJ 00 N1_Mes
 IDN JTDRP JTPD 104
 IDN JTKTTT 101 109
@@ -4235,7 +4235,7 @@ POL DK74 DW476_W DW476_E
 POL DK74 S7 UliWys
 POL S74 DK73 Ced
 POL DK78 S7_N Sud
-POL DK78 DW791_S Krz #new bypass
+POL DK78 DW791_S UliGor
 POL DK79Kat DW902 UliLwo
 POL DK79 DK50_W GorKal_N
 POL S79 1 R12(S2)
@@ -5741,7 +5741,7 @@ TUR D785 ToD030 SinCorYolu #may have RIROs
 TUR D795 I55-51 Kav #one more interchange north
 TUR D795 D030_W Hav
 TUR D795 Arm D100_E
-TUR D817 MeteAslBul
+TUR D817 MeteAslBul FenCd
 #TUR D825 near I46-76, not yet mapped
 TUR D850 D180 GazBul_S #may have a few RIROs
 TUR D885 I61-53 Kos #begins a bit north of I61-53 but not yet mapped; may have some RIROs
@@ -6982,7 +6982,7 @@ MS MS12 ColViewDr MS182_W
 MS MS30 US45_N MS145
 MS MS67 I-10/110 SanBlvd
 MS MS178 MS145 US45
-MS MS304 US51 I-69_S
+MS MS304 US61 I-69_S
 MS MS713 OldMS304 I-69
 
 NC AllAmeFwy OwenDr I-295 #and continuation into fort
