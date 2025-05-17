@@ -3362,6 +3362,7 @@ UT US89 I-70(56) UT143 #11172017 Pipe Spring Utah Park Trip
 UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante
 UT US89 I-215 I-15(291) #05132025 Mohave Board Meeting Trip 
 UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
+UT US89 UT9 UT12 #05152025 Mohave to San Isabel
 UT UT162 UT/CO US191 #11302024 Moab Trip
 UT US163 US191 AZ/UT #09122024 Grand Junction to Phoenix
 UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
@@ -3369,6 +3370,7 @@ UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
 UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
 UT US491 US191 CO/UT #11302021 Inventory Trip
+UT BryCynSceDr UT63 End #05152025 Mohave to San Isabel
 UT DelArchRd MainParkRd CacValRd #12012024 Moab Trip
 UT IslSkySceDr UT313 End #12012024 Moab Trip
 UT MainParkRd US191 DevGarCam #12012024 Moab Trip
@@ -3392,6 +3394,7 @@ UT UT46 US191 CO/UT #12022024 SMEC Inventory
 UT UT56 UT130 I-15 #11172017 Pipe Spring Utah Park Trip
 UT UT56 I-15 NV/UT #05142025 Mohave Board Meeting Trip    
 UT UT59 UT9 AZ/UT #11172017 Pipe Spring Utah Park Trip
+UT UT63 UT12 BryCanNP #05152025 Mohave to San Isabel
 UT UT83 I-84 UT13 #08052017 TFACC Meeting Trip
 UT UT92 AshBlvd US189 #08052017 TFACC Meeting Trip
 UT UT128 US191 I-70/6 #09092024 Navopache to Grand Junction 
