@@ -3980,7 +3980,8 @@ NLD S103Rot S123/S126 A15/A29
 
 ##NEW ZEALAND
 NZL SH1 OldSH1 471
-NZL SH1 474 Pok_S #one more interchange south
+NZL SH1 474 Pok_S
+NZL SH1 Pok_S PioRd #not yet mapped
 NZL SH1 DraRd GlenMurRd
 NZL SH1 TahOhiRd TirRd
 NZL SH1 SH5_N SH5_S
