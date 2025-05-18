@@ -37,13 +37,16 @@ OK HF Nor Pur
 CA PS SanBar SimiVly
 
 # - US/Canada Scenic Railways - 
+CO GeoLoopRai DevGat SilPlu
 CO RoyGorRou CanCity Par
+NE OZRR OmaTraDep_S OmaTraDep_F
+UT HebValRai HebValRaiDep VivPark
 
 # - US/Canada Metro Systems -
-#Chicago 
-IL BlueLn Cum ClaLake
-IL RedLn Lake Add
-IL OraLn Mid ClaLake
+#Chicago CTA
+IL BlueLn Cum Jac
+IL RedLn Jac Add
+IL OraLn Mid Loop
 
 #Dallas DART
 TX RedLn ConCen SprVly
@@ -53,8 +56,11 @@ CO ALn UniSta DenAir
 
 #NYC MTA
 NY 1 CorStWTC 72St
+NY 6 BleSt GraCen
 NY 7 42StTimSq JacHeiRooAve
+NY D GraSt BroLafSt
 NY E WTC 42ndStPABT
+NY N 14StUniSq TimSq42St
 NY R CorSt CanSt
 NY S42 TimSq GraCen
 
