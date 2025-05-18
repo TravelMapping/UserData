@@ -3884,26 +3884,82 @@ JPN KE5
 JPN N1
 JPN N1Fuj
 JPN N1Hok
+JPN N1Oda
 JPN N1Rit
+JPN N1Sei
 JPN N2
+JPN N2EH
+JPN N2Kak
+JPN N2Ono
+JPN N2Tam
 JPN N2WH
 JPN N3Kag
 JPN N3Kur
+JPN N7
+JPN N7Aom
+JPN N8
 JPN N10Usa
+JPN N16
+JPN N16Hac
 JPN N16Hod
+JPN N17
+JPN N17Kum
+JPN N18
 JPN N23
+JPN N26
 JPN N29
+JPN N33
+JPN N33Mat
+JPN N36
+JPN N37Hak
+JPN N38Fur
+JPN N41
+JPN N42IFT
+JPN N42Kii
+JPN N46
+JPN N47
+JPN N47SKE
+JPN N47SKW
+JPN N49
+JPN N50
 JPN N53
+JPN N56Mat
 JPN N57
 JPN N57Kit
 JPN N58Nag
 JPN N58Nah
 JPN N58Ura
+JPN N101
+JPN N105Oma
+JPN N106Hak
+JPN N106Har
+JPN N106Hir
+JPN N106Kuz
+JPN N106Miy
+JPN N106Shi
+JPN N106Ton
+JPN N113
+JPN N116
+JPN N121Aiz
+JPN N126Sam
+JPN N135Man
+JPN N136Izu
+JPN N138
 JPN N139
+JPN N140Min
+JPN N140NKR
+JPN N150Nan
+JPN N153
 JPN N155
+JPN N159
 JPN N161
+JPN N167Ise
 JPN N175
+JPN N175Nis
 JPN N176Tak
+JPN N183
+JPN N192ToE
+JPN N197Ozu
 JPN N200Hiy
 JPN N201Yak
 JPN N202Ega
@@ -3917,44 +3973,83 @@ JPN N212Nak
 JPN N212Yab
 JPN N213Oit
 JPN N247Chi
+JPN N249
 JPN N251Ain
 JPN N251Shi
+JPN N253
+JPN N253Joe
+JPN N253Ura
+JPN N256
 JPN N266Mis
+JPN N278Hak
+JPN N279Mut
+JPN N279Shi
+JPN N292
+JPN N313
 JPN N324Hon
 JPN N324Mat
 JPN N324Nag
 JPN N330
+JPN N337
+JPN N337Doo
+#JPN N353 (Shibukawa)
 JPN N374MOR
+JPN N419Tak
 JPN N423
 JPN N423Min
 JPN N444Ari
+JPN N464
 JPN N473Kan
+JPN N473Sag
+JPN N477Yok
+JPN N485Mat
 JPN N490
 JPN N504Hok
 JPN N504Sat
 
+#JPN P1 (Nara)
+#JPN P8 (Osaka)
 #JPN P17 (Fukuoka)
+#JPN P22 (Kanazawa)
+#JPN P61 (Akita)
 #JPN P72 (Okayama)
 #JPN P73 (Hiroshima)
+#JPN P74 By-Pass (Shizuoka)
 #JPN P219 (Kagoshima)
 #JPN P720 (Sanda)
+#JPN former Chiba-Sotobo Toll Road
 #JPN Flight Road
+#JPN Gorin-ohashi Toll Road
+#JPN Harbor Highway
+#JPN Higashiharima Road
 #JPN Hitotsuba Toll Road
 #JPN Ibusuki Skyline
+#JPN Ise Futami Toba Line
+#JPN Kujukuri Toll Road
 #JPN Kumamoto Nishi Expressway
+#JPN Loop Road (Chuo)
 #JPN Megami Bridge
+#JPN Mimasaka-Okayama Road
+#JPN Minamichita Road
+#JPN Miura Jukan Road
+#JPN Miyagi-Kenpoku Road
 #JPN Miyakonojo-Shibushi Road
 #JPN Nagoya-Seto Road
 #JPN Nanbu East Road
 #JPN Nansatsu Jukan Road
 #JPN Nishisonogi Road
+#JPN Okayama Blue Line
 #JPN Osumi Longitudinal Road
 #JPN Rokko Toll Road
 #JPN Rokko-Kita Toll Road
 #JPN Sanage Green Road
-#JPN Seishin By-Pass
+#JPN Sanroku Toll Road
+#JPN Shigiikoma Skyline
 #JPN Shimabara Road
+#JPN Togane-Kujukuri Toll Road
+#JPN Ube Coastal Road
 #JPN Yamaguchi-Ube Road
+#JPN new road at east end of E80
 
 
 ##KENYA
