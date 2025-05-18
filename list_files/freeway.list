@@ -3888,10 +3888,14 @@ JPN N1Rit
 JPN N2
 JPN N2WH
 JPN N3Kag
+JPN N3Kur
+JPN N10Usa
 JPN N16Hod
 JPN N23
 JPN N29
 JPN N53
+JPN N57
+JPN N57Kit
 JPN N58Nag
 JPN N58Nah
 JPN N58Ura
@@ -3900,22 +3904,56 @@ JPN N155
 JPN N161
 JPN N175
 JPN N176Tak
+JPN N200Hiy
+JPN N201Yak
+JPN N202Ega
+JPN N202Ima
+JPN N203
+JPN N203Kyu
+JPN N206Kaw
+JPN N206Kom
+JPN N208Ari
+JPN N212Nak
+JPN N212Yab
+JPN N213Oit
 JPN N247Chi
+JPN N251Ain
+JPN N251Shi
+JPN N266Mis
+JPN N324Hon
+JPN N324Mat
+JPN N324Nag
+JPN N330
 JPN N374MOR
 JPN N423
 JPN N423Min
+JPN N444Ari
 JPN N473Kan
 JPN N490
+JPN N504Hok
+JPN N504Sat
 
+#JPN P17 (Fukuoka)
 #JPN P72 (Okayama)
 #JPN P73 (Hiroshima)
+#JPN P219 (Kagoshima)
 #JPN P720 (Sanda)
 #JPN Flight Road
+#JPN Hitotsuba Toll Road
+#JPN Ibusuki Skyline
+#JPN Kumamoto Nishi Expressway
+#JPN Megami Bridge
+#JPN Miyakonojo-Shibushi Road
 #JPN Nagoya-Seto Road
+#JPN Nanbu East Road
+#JPN Nansatsu Jukan Road
+#JPN Nishisonogi Road
+#JPN Osumi Longitudinal Road
 #JPN Rokko Toll Road
 #JPN Rokko-Kita Toll Road
 #JPN Sanage Green Road
 #JPN Seishin By-Pass
+#JPN Shimabara Road
 #JPN Yamaguchi-Ube Road
 
 
