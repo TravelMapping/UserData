@@ -3370,7 +3370,9 @@ UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
 UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
 UT US491 US191 CO/UT #11302021 Inventory Trip
+UT BriViewDr UT275 BriViewDr_N #051625 Mohave to San Isabel
 UT BryCynSceDr UT63 End #05152025 Mohave to San Isabel
+UT CapReefSceDr UT24 CapGorRd #051625 Mohave to San Isabel
 UT DelArchRd MainParkRd CacValRd #12012024 Moab Trip
 UT IslSkySceDr UT313 End #12012024 Moab Trip
 UT MainParkRd US191 DevGarCam #12012024 Moab Trip
@@ -3380,12 +3382,14 @@ UT UT7 I-15 UT9 #03302025 Sidetrip Mohave FW
 UT UT8 UT18 DixDowRd #03302025 Sidetrip Mohave FW        
 UT UT9 I-15 US89 #Trip to Zion with Family and Other Zion Visits
 UT UT12 US89 500W #Visit South Central Comm wRobert Escalante
+UT UT12 500W UT24 #051625 Mohave to San Isabel
 UT UT13 UT83 I-15/84(365) #08052017 TFACC Meeting Trip
 UT UT14 UT148 UT130 #11172017 Pipe Spring Utah Park Trip
 UT UT17 I-15 UT9 #11172017 Pipe Spring Utah Park Trip
 UT UT18 UT34 UT56 #03302025 Sidetrip Mohave FW 
 UT UT20 I-15 US89 #Visit South Central Comm wRobert Escalante
-UT UT21 UT160 UT130 #05142025 Mohave Board Meeting Trip  
+UT UT21 UT160 UT130 #05142025 Mohave Board Meeting Trip
+UT UT24 UT12 UT95 #051625 Mohave to San Isabel   
 UT UT30 UT/WY US89_N #08032017 TFACC Meeting Trip
 UT UT34 I-15 RivRd #03302025 Sidetrip Mohave FW 
 UT UT43 UT44 WY/UT #08062017 TFACC Meeting Trip 
@@ -3397,6 +3401,7 @@ UT UT59 UT9 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT UT63 UT12 BryCanNP #05152025 Mohave to San Isabel
 UT UT83 I-84 UT13 #08052017 TFACC Meeting Trip
 UT UT92 AshBlvd US189 #08052017 TFACC Meeting Trip
+UT UT95 UT24 US191 #051625 Mohave to San Isabel
 UT UT128 US191 I-70/6 #09092024 Navopache to Grand Junction 
 UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip
 UT UT130 UT21 I-15(57) #05142025 Mohave Board Meeting Trip
@@ -3407,10 +3412,12 @@ UT UT149 US40 DinNM #08062017 TFACC Meeting Trip
 UT UT154 TerDr I-80 #08032017 TFACC Meeting Trip
 UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
 UT UT211 US191 NeeRd #11302024 Moab Trip
-UT UT219 UT18 CreRd #03302025 Sidetrip Mohave FW  
+UT UT219 UT18 CreRd #03302025 Sidetrip Mohave FW
+UT UT262 US191 UT162 #051625 Mohave to San Isabel
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+UT UT275 UT95 NatBriNM #051625 Mohave to San Isabel
 UT UT279 US191 End #12012024 Moab Trip
 UT UT313 US191 End #12012024 Moab Trip
 UT UT318 UT9 QuaCreSP #03302025 Sidetrip Mohave FW 
