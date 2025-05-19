@@ -113,6 +113,8 @@ NC I-77 SC/NC 13        # SC/NC I-85
 SC I-77 90 SC/NC        # Carowinds
 
 # I-78
+PA I-78 1 51            # I-81 US22
+PA I-78 53 67           # PA309 PA412
 NJ I-78 59 NJ/NY        # I-95 NJ/NY
 NY I-78 NJ/NY HudSt     # Clinched
 
@@ -124,12 +126,16 @@ UT I-80 1 102           # NV/UT UT201
 UT I-80 114 145         # Wright Bros Dr UT224
 OH I-80 145 161         # I-71 OH57
 
+# I-81
+PA I-81 67 70           # US22 I-83
+PA I-81 72 89           # N Mountain Rd I-78
+
 # I-82 - Clinched
 WA I-82 I-90 WA/OR      # Clinched
 OR I-82 WA/OR 11        # Clinched
 
 # I-83
-PA I-83 41A 50          # PA581 US22
+PA I-83 41A 51          # PA581 I-81
 
 # I-84 (West)
 OR I-84 I-5 OR/ID       # Clinched
@@ -145,12 +151,16 @@ GA I-85 70 71           # ATL Airport
 # I-86 (West) - Clinched
 ID I-86 1 63            # Clinched
 
+# I-86 (East)
+NY I-86 36 46           # I-390 NY414
+
 # I-90
 WA I-90 WA519 WA/ID     # Clinched
 ID I-90 WA/ID 12        # WA/ID US95
 MT I-90 309 437         # US191 E Laurel
 MT I-90 446A 456        # King Ave I-94
 OH I-90 OH2_W 145       # I-80 -> OH2
+NY I-90 50(NYST) 48(NYST)
 MA I-90 106 137         # I-495 Logan Airport
 
 # I-93
@@ -168,8 +178,12 @@ CT I-95 NY/CT CT/RI     # Clinched
 NY I-95 1 NY/CT         # NY9A NY/CT
 NJ I-95 PA/NJ 14        # PA/NJ I-78
 PA I-95 40 PA/NJ        # PA Tpk
+PA I-95 14 22           # PHL Airport I-676
 VA I-95 51 170          # I-85 I-495
 FL I-95 176 205         # W Melbourne FL528
+
+# I-99
+NY I-99 PA/NY 13        # Clinched NY
 
 
 ## 3 Digit Interstates ##
@@ -180,8 +194,14 @@ CA I-105 1A 18          # Missing eastern terminus ramp
 # I-110 (CA)
 CA I-110 1A 21          # Everything except the southern end
 
+# I-180 (PA) - Clinched
+PA I-180 I-80/147 29
+
 # I-184 (ID) - Clinched
 ID I-184 0 US20/26
+
+# I-190 (NY)
+NY I-190 16 21          # I-290 Niagara Scenic Pkwy
 
 # I-195 (NJ)
 NJ I-195 6 16           # NJTP Six Flags
@@ -232,11 +252,15 @@ CA I-280 3A 12          # CA87 CA85
 CA I-280 I-680/101 2    # US101 7th St
 
 # I-283 (PA)
+PA I-283 2 3            # I-83 PA441
 PA I-283 I-76 1         # I-76 PA283
 
 # I-285 (GA)
 GA I-285 GA279 20       # I-85 to I-75 western portion
 GA I-285 61 62
+
+# I-290 (NY) - Clinched
+NY I-290 I-190 I-90
 
 # I-295 (NJ/DE)
 NJ I-295 DE/NJ 1
@@ -247,6 +271,9 @@ VA I-295 43 28A         # I-95 I-64
 
 # I-315 (MT - Unsigned) - Clinched
 MT I-315 I-15 6thSt
+
+# I-390 (NY)
+NY I-390 I-86 7         # I-86 NY408
 
 # I-405 (CA)
 CA I-405 37A I-5(158)   # I-110 I-5
@@ -267,6 +294,9 @@ MO I-435 65 71          # Eastwood Trafficway I-49
 
 # I-464 (VA) - Clinched
 VA I-464 1 6B           # I-64 I-264
+
+# I-476 (PA)
+PA I-476 18 56          # Ridge Pike Lehigh Valley
 
 # I-480 (OH)
 OH I-480 9 10
@@ -360,8 +390,10 @@ DE US13 DE1(152) I-295
 VA US13 VA10/32 I-664(13)
 
 # US15
-MD US15 12 MD/PA
+PA US15 I-180(27A) PA/NY
+PA US15 US22/322_E PA147_N
 PA US15 MD/PA ErfRd
+MD US15 12 MD/PA
 
 # US17
 VA US17 US258_S VA143_N
@@ -381,7 +413,9 @@ MT US20 ID/MT US191/287_N
 MA US20 MA135 I-495
 
 # US22
+PA US22 US11/15_S I-81
 PA US22 I-83 PA39_E
+PA US22 I-78(8) PA145
 
 # US23
 OH US23 OH315 140       # OH315 OH4
@@ -442,6 +476,9 @@ VA US58 VA225 LynPkwy
 
 # US60
 MO US60 MO360/413 US65
+
+# US62
+NY US62 I-290 EllCreRd
 
 # US65
 MO US65 AR/MO I-44
@@ -1034,8 +1071,26 @@ NJ NJ32 US130 I-95
 # NY9A
 NY NY9A CanSt HenHudPkwy(15)
 
+# NY63
+NY NY63 NY408 NY33/98
+
+# NY98
+NY NY98 NY5/63 I-90
+
+# NY384
+NY NY384 NY104 RaiBri
+
+# NY408
+NY NY408 I-390 NY63
+
+# NY414
+NY NY414 NY352 I-86
+
 # Belt Pkwy
 NY BeltPkwy 3 19            # I-278 JFK
+
+# Niagara Scenic Pkwy
+NY NiaScePkwyNia I-190 JohnDalyBlvd
 
 
 ## North Carolina ##
@@ -1223,14 +1278,32 @@ OR US101BusAst EnsLn US101_N
 # PA39
 PA PA39 US22_E US322/422
 
+# PA145
+PA PA145 US22 LehSt
+
+# PA147
+PA PA147 US15_N I-80/180
+
 # PA283
 PA PA283 I-283 PA441Trk
 
+# PA309
+PA PA309 I-78(60) US22
+
+# PA412
+PA PA412 I-78 MinTraBri
+
 # PA441
+PA PA441 KecRd EisBlvd_S
+PA PA441 ChaHillRd 28thSt_N
+
 PA PA441TrkLow PA283 UniSt_N
 
 # PA581
 PA PA581 5 6
+
+# PA611
+PA PA611 SouSt AllAve
 
 
 ## Tennessee ##
@@ -1585,3 +1658,35 @@ BC BC95 USA/CAN BC93
 
 # BC99
 BC BC99 USA/CAN 16
+
+
+## Ontario ##
+
+# ON400
+ON ON400 21 32
+
+# ON401
+ON ON401 344 362
+
+# ON403
+ON ON403 64 101(QEW)
+ON ON403 122 ON401_E
+
+# ON407
+ON ON407 1 66
+
+# ON420
+ON ON420 QEW StaAve
+
+# ON427
+ON ON427 ON401 DixRd
+
+# Lincoln M. Alexander Pkwy
+ON LinAlePkwy ON403 RedHillPkwy
+
+# QEW
+ON ONQEW 30 88
+ON ONQEW 99 100
+
+# Red Hill Valley Pkwy
+ON RedHillPkwy LinAlePkwy BarSt
