@@ -4756,6 +4756,10 @@ WV US52 US460/52Trk WV/VA
 VA US52 I-81(80) PleViewRd
 VA US58 SR707 I-77
 
+# 2025-05-20
+WV WV20 I-79 US50_Cla
+WV US50 WV20 I-79
+
 #############
 # WISCONSIN #
 #############
