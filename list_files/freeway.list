@@ -3903,13 +3903,25 @@ JPN N1Ots P43 Ich
 JPN N1Ots Oe E1/E88
 JPN N1DKR P188 N1Kei
 JPN N1DKR NagHig P17 #one more interchange north
-JPN N2
-JPN N2EH
-JPN N2Ham
-JPN N2Kak
-JPN N2Ono
-JPN N2Tam
-JPN N2WH
+JPN N2Ham End N2
+JPN N2Kak E93 N2/N179
+JPN N2 N2Kak/N179 P29_B
+JPN N2 N250_W P61
+JPN N2 N429_N N2Tam
+JPN N2Tam N2 P471
+JPN N2 P54_E N2Ono_E #not quite to P54_E
+JPN N2Ono N2_E N2_W
+JPN N2 N2Ono_W P25_Hir
+JPN N2 P25_Hir P344 #P344 not yet mapped
+JPN N2 P195 P67_B #P195 not yet mapped
+JPN N2 P67_B N2EH_E
+JPN N2EH N2_E N2_W
+JPN N2 N2EH_W P86 #a few RIROs?
+JPN N2WH N2_E E2
+#JPN N2 branch east from P335
+JPN N2 P335 E2/P6
+JPN N2 E2(45) N190_W
+JPN N2 P57 P72
 JPN N3
 JPN N3Kag
 JPN N3Kur
@@ -4050,10 +4062,13 @@ JPN N504Sat
 #JPN P8 (Osaka)
 #JPN P17 (Fukuoka)
 #JPN P22 (Kanazawa)
+#JPN P57 (Shimonoseki)
 #JPN P61 (Akita)
 #JPN P72 (Okayama)
 #JPN P73 (Hiroshima)
 #JPN P74 By-Pass (Shizuoka)
+#JPN P83 (Hiroshima)
+#JPN P212 (Yamaguchi)
 #JPN P219 (Kagoshima)
 #JPN P241 (Nobeoka)
 #JPN P331 (Masuda)
