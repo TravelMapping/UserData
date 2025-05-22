@@ -3922,10 +3922,20 @@ JPN N2WH N2_E E2
 JPN N2 P335 E2/P6
 JPN N2 E2(45) N190_W
 JPN N2 P57 P72
-JPN N3
-JPN N3Kag
-JPN N3Kur
-JPN N4Uts
+JPN N3Kur End N3
+JPN N3 P73 P87 #not quite to P87 but the other interchanges aren't mapped
+#JPN N3 a bit between P87 and P69, not yet mapped
+JPN N3 N200_S P17 #one more interchange north
+JPN N3Kum P342 P49
+JPN N3 N266_S N218_E
+JPN N3Kag E3_Kag P24
+#JPN N4Uts N354 south one interchange, P56 south one interchange, maybe between P44 and N352/P47
+JPN N4 P6 N288
+JPN N4 P51 P114 #P114 not yet mapped
+JPN N4 N45 P8 #one more interchange south
+JPN N4Miz P8 N4
+JPN N4 N4Miz E4(36)
+JPN N4 N282/P16 E4(43)
 JPN N7
 JPN N7Aom
 JPN N8
@@ -4004,6 +4014,7 @@ JPN N192ToE
 JPN N197OHB
 JPN N197Ozu
 JPN N199
+JPN N200
 JPN N200Hiy
 JPN N200Nog
 JPN N201Yak
