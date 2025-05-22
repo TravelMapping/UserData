@@ -121,6 +121,7 @@ VA I-464 1 6B
 VA I-495 MD/VA 43
 VA I-664 1 15
 WA I-5 127 230
+WA I-90 WA519 2
 WI I-535 5thSt WI/MN
 WV I-70 OH/WV WV/PA
 
@@ -317,6 +318,7 @@ VA US60 VA134 I-64(273)
 VA US60 VA225 VA279
 VA US60 21st/22ndSt HarPoiRd
 VA US460 VA165 I-64(276)
+WA US12 WA7 WA123
 WI US53 CatAve WI/MN
 WV US40 I-70(0A) I-70(1A)
 WV US250 I-70(0A) I-70(1B)
@@ -342,6 +344,12 @@ TX US190BusCop US190_W US190_E
 TX US281BusLam US281_S US281_N
 VA US58BusVir US58 US60
 VA US460AltNor I-264(8) StPauBlvd_S
+
+#United States Select National Park Highways
+MS NatTraPkwy FisFryRd MS43
+VA ColPkwy ParDr VA199
+VA GWMemPkwy DC/VA I-495
+WA SteCynRd WA706 WA123
 
 #Arkansas State Highways
 AR AR77 I-55(7) US64Spr
@@ -404,7 +412,7 @@ MN MN36 I-35W I-694
 MN MN39 MN23 MN/WI
 MN MN45 MN210 I-35
 MN MN47 HenAve BroSt
-MN MN48 I-35 CR15
+MN MN48 I-35 MN/WI
 MN MN51 I-94 CRB2
 MN MN55 54thSt MN5
 MN MN62 US212_E MN77
@@ -433,9 +441,6 @@ MS MS468 TreBlvd I-20
 MS MS469 MainSt US49
 MS MS475 I-20 MS25
 MS MS605 US90 MS67
-
-#Mississippi Select National Park Highways
-MS NatTraPkwy FisFryRd MS43
 
 #Mississippi Select Named Freeways
 MS StaSt I-55 EndMaint
@@ -469,6 +474,8 @@ PA PA43 22 36
 TN TN1 US51/14 US64/70
 TN TN14 TN3_N US51_S
 TN TN78 US51 I-155
+
+#Tennessee Select Named Freeways
 TN SamCooBlvd US64/70 7
 
 #Texas State Highways
@@ -625,11 +632,26 @@ VA VA199 VA132 US60_E
 VA VA247 VA194 VA165
 VA VA279 US58 US60
 VA VA337 US58_E PriAnneRd
-VA ColPkwy ParDr VA199
-VA GWMemPkwy DC/VA I-495
+
+#Washington State Highways
+WA WA7 US12 WA704
+WA WA20 WA20Spr WA536
+WA WA123 US12 SteCanRd
+WA WA512 I-5 SteRd
+WA WA519 I-90 1stAve
+WA WA536 WA20 I-5
+WA WA704 SpaLpRd WA7
+WA WA706 WA7 MouRaiNP
+
+#Washington State Auxiliary Highways
+WA WA20SprAna WA20 ComAve_N
+
+#Washington Select Named Freeways
+WA WSeaBri AdmWay I-5(163A)
 
 #Wisconsin State Highways
 WI WI35 WI105 I-535
+WI WI77 MN/WI WI35_S
 WI WI105 MN/WI WI35
 
 #Italy Autostrada
