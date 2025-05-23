@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: April 30, 2025
+# Last Updated: May 18, 2025
 
 
 # ---------------------------------- #
@@ -61,7 +61,7 @@ IL I-55 154 269
 IL I-55 277B US41
 IL I-57 MO/IL 358
 IL I-70 3 IL/IN
-IL I-72 96 182
+IL I-72 MO/IL 182
 IL I-74 93 IL/IN
 IL I-80 79 112
 IL I-80 126 151
@@ -115,18 +115,24 @@ MS I-55 289 MS/TN
 
 # ----- Missouri ----- #
 
+MO I-35 12 54
 MO I-44 291A 290C
 MO I-55 AR/MO 66
 MO I-57 1 MO/IL
 MO I-64 25 MO/IL
 MO I-70 2L 232
-MO I-435 63A MO/KS
+MO I-72 US61 MO/IL
+MO I-435 52B MO/KS
 MO I-270 12 MO/IL
 MO I-670 KS/MO 2N
 
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV I-11 76 81
+NV I-15 38 42
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -306,6 +312,9 @@ KS US40 KS10_W I-70(366)
 # ----- Minnesota ----- #
 # ----- Mississippi ----- #
 # ----- Missouri ----- #
+
+MO US36 US61 I-35
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
@@ -515,9 +524,17 @@ MS MS302 US51 I-55
 # ----- Missouri ----- #
 
 MO MO340 I-270 FeeFeeRd
+MO MO370 1A 12
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV NV159 CR215 RedRockRd
+NV NV589 
+NV NV592Spr NV596 I-15
+NV NV596 SahAve ChaBlvd
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -586,6 +603,8 @@ FL FLTpk 99 307
 IN KeyPkwy US31 I-465
 MD BalWasPkwy US50/201 MD175
 NC AllAmeFwy MorRd OwenDr
+NV CR215 26 28
+NV HRAirCon WayNewBlvd I-215
 NY GraCenPkwy 4A 6
 PA HarTayBri US11/15_S FroSt
 VA GWMemPkwyCry ReaNatAir_N I-395

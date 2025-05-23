@@ -8,9 +8,10 @@ CA E ExpoPkUSC 7thStMetCen
 CA E *OldGoldLn Atl
 CA SanBerLn CalStaLA Cla
 
-CA BlueLn SanYsiTC SanFeDep
-CA GreLn 12thImpTC SanTownCen
-CA OraLn Cou ArnAve
+CA BlueLn SanYsiTC +DIV_Gre_N
+CA CopLn ElCaj SanTownCen
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
 CA Spr Oce VisTC
 CA Coa SanFeDep Oce
 
@@ -113,7 +114,7 @@ TX MLnTro CityPlaNob_W FedHar
 UT GreLn CityCen Air
 
 WA 1 Lyn AngLake
-WA 2 SBel RedTec
+WA 2 SBel DowRed
 WA N Eve Sea
 WA S Sea Lak
 WA T TacDome StJos
