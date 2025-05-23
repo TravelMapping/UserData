@@ -3916,7 +3916,7 @@ JPN N2 P25_Hir P344 #P344 not yet mapped
 JPN N2 P195 P67_B #P195 not yet mapped
 JPN N2 P67_B N2EH_E
 JPN N2EH N2_E N2_W
-JPN N2 N2EH_W P86 #a few RIROs?
+JPN N2 N2EH_W P86 #a few LILOs?
 JPN N2WH N2_E E2
 #JPN N2 branch east from P335
 JPN N2 P335 E2/P6
@@ -3936,8 +3936,15 @@ JPN N4 N45 P8 #one more interchange south
 JPN N4Miz P8 N4
 JPN N4 N4Miz E4(36)
 JPN N4 N282/P16 E4(43)
-JPN N7
-JPN N7Aom
+JPN N6 N354/N125Ami P64
+JPN N6 P43_N P16 #one more interchange south
+JPN N6 P40 P50_S
+JPN N6 Ona P66 #may have a few LILOs
+JPN N6 P48 N399 #one LILO
+JPN N6 N115/P74 P38_B
+JPN N7 N8/N49 N460
+JPN N7 P56_C P65 #one LILO near the south end?
+#JPN N7Aom E4 west and east one interchange
 JPN N8
 JPN N10Miy
 JPN N10Usa
