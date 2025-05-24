@@ -1,4 +1,4 @@
-# Date: 2025-05-19
+# Date: 2025-05-24
 # ----------------
 
 ######################
@@ -343,6 +343,9 @@ DEU-NW S2Rec Her RecHauHbf                     #2025
 
 DEU-BB S1Wit WitBer BB/ST                      #2025
 DEU-ST S1 BB/ST MagBurgHbf                     #2025
+
+DEU-BY S1Vor LinReu DEU/AUT                    #2025
+AUT S1Vor DEU/AUT Bre                          #2025
 
 
 ######################
