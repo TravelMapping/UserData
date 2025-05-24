@@ -3945,7 +3945,15 @@ JPN N6 N115/P74 P38_B
 JPN N7 N8/N49 N460
 JPN N7 P56_C P65 #one LILO near the south end?
 #JPN N7Aom E4 west and east one interchange
-JPN N8
+JPN N8 N7/N49 N116
+JPN N8 P8 N17/N351
+JPN N8 P11_Imi P24
+#JPN N8 portions of P32 P59 but interchanges are not all mapped
+JPN N8 P59 N8Ima
+JPN N8 N305_N P22 #north 6 interchanges
+JPN N8 N416/P22 N305
+JPN N8Tsu N8_N E8
+JPN N8Tsu N27/N8Kan N8_S
 JPN N10Miy
 JPN N10Usa
 JPN N13
