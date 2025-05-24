@@ -3367,11 +3367,16 @@ UT I-80 115 120 #08032017 TFACC Meeting Trip
 UT I-80 123 UT/WY #08032017 TFACC Meeting Trip
 UT I-84 ID/UT 26 #08052017 TFACC Meeting Trip
 UT I-84 120 87 #08062017 TFACC Meeting Trip
-UT I-215 23 11 #05142025 Mohave Board Meeting Trip 
+UT I-215 23 11 #05142025 Mohave Board Meeting Trip
+UT I-215 I-15 23 #05232025 Holy Cross FW 
 UT I-15BLStG I-15_N I-15_S #03302025 Sidetrip Mohave FW
 UT I-15BLNep I-15_S I-15_N #05132025 Mohave Board Meeting Trip
 UT I-15BLFil I-15_S I-15_N #05142025 Mohave Board Meeting Trip
-UT I-15BLBea I-15_N I-15_S #05142025 Mohave Board Meeting Trip  
+UT I-15BLBea I-15_N I-15_S #05142025 Mohave Board Meeting Trip
+UT I-70BLGre I-70_E I-70_W #05222025 Holy Cross FW 
+UT US6 I-70(157) I-15(257B) #05222025 Holy Cross FW
+UT US6BusPri US6_E US6_W #05222025 Holy Cross FW
+UT US6BusHel US6_E US6_W #05232025 Holy Cross FW  
 UT US40 US189_S UT/CO #08052017 TFACC Meeting Trip 
 UT US89 UT30_E UT/ID #08032017 TFACC Meeting Trip
 UT US89 I-84 I-15(324) #08062017 TFACC Meeting Trip
@@ -3382,9 +3387,12 @@ UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante
 UT US89 I-215 I-15(291) #05132025 Mohave Board Meeting Trip 
 UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT US89 UT9 UT12 #05152025 Mohave to San Isabel
+UT US89 US189 UT145 #05232025 Holy Cross FW
+UT US89 I-215 I-80 #05232025 Holy Cross FW 
 UT UT162 UT/CO US191 #11302024 Moab Trip
 UT US163 US191 AZ/UT #09122024 Grand Junction to Phoenix
 UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
+UT US189 I-15 US89 #05232025 Holy Cross FW 
 UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
 UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
@@ -3400,6 +3408,7 @@ UT ZionCynDr UT9 End #Zion Canyon Visit
 UT UT7 I-15 UT9 #03302025 Sidetrip Mohave FW
 UT UT8 UT18 DixDowRd #03302025 Sidetrip Mohave FW        
 UT UT9 I-15 US89 #Trip to Zion with Family and Other Zion Visits
+UT UT10 UT55 US6/191 #05222025 Holy Cross FW 
 UT UT12 US89 500W #Visit South Central Comm wRobert Escalante
 UT UT12 500W UT24 #051625 Mohave to San Isabel
 UT UT13 UT83 I-15/84(365) #08052017 TFACC Meeting Trip
@@ -3426,10 +3435,12 @@ UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip
 UT UT130 UT21 I-15(57) #05142025 Mohave Board Meeting Trip
 UT UT132 UT28 I-15 #05132025 Mohave Board Meeting Trip  
 UT UT143 US89 UT148 #11172017 Pipe Spring Utah Park Trip
+UT UT145 US89 I-15 #05232025 Holy Cross FW
 UT UT148 UT143 UT14 #11172017 Pipe Spring Utah Park Trip 
 UT UT149 US40 DinNM #08062017 TFACC Meeting Trip 
 UT UT154 TerDr I-80 #08032017 TFACC Meeting Trip
 UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
+UT UT201Sal US89 900W #05232025 Holy Cross FW 
 UT UT211 US191 NeeRd #11302024 Moab Trip
 UT UT219 UT18 CreRd #03302025 Sidetrip Mohave FW
 UT UT262 US191 UT162 #051625 Mohave to San Isabel
