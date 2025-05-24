@@ -401,6 +401,7 @@ LA LA378 I-10 LA379
 LA LA986 LA76/415 LA1
 
 #Minnesota State Highways
+MN MN1 CR6_E MN61
 MN MN5 I-494(11C) MN55/62
 MN MN5 JacSt US61_S
 MN MN7 LouAve MN100
@@ -643,6 +644,7 @@ WA WA7 US12 WA704
 WA WA20 WA20Spr WA536
 WA WA123 US12 SteCanRd
 WA WA512 I-5 SteRd
+WA WA518 AirExpy I-5
 WA WA519 I-90 1stAve
 WA WA536 WA20 I-5
 WA WA704 SpaLpRd WA7
@@ -652,6 +654,7 @@ WA WA706 WA7 MouRaiNP
 WA WA20SprAna WA20 ComAve_N
 
 #Washington Select Named Freeways
+WA AirExpy WA518 Ter
 WA WSeaBri AdmWay I-5(163A)
 
 #Wisconsin State Highways
