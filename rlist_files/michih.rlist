@@ -1,4 +1,4 @@
-# Date: 2025-04-06
+# Date: 2025-05-24
 # ----------------
 
 ######################
@@ -327,6 +327,25 @@ DEU-NW S5 DortMundHbf WitHbf                   #2025
 DEU-NW S5 WitHbf HagHbf                        #2025, traveled as RB40
 DEU-NW S9 EssSte HagHbf                        #2025
 
+#DEU-NW RB28 Düren Euskirchen                  #2025
+DEU-NW S23 BonnHbf EusKir                      #2025
+#DEU-NW RE5 Bonn Hbf Cologne Hbf               #2025
+DEU-NW S19 Dur KolnHbf                         #2025
+
+#DEU-NW RB51 Lünen - Dortmund Hbf              #2025
+DEU-NW S4 Unna DortMundLutDortMund             #2025
+DEU-NW ParDor +SKIP_BocHbf DortMundHbf         #2025, actually traveled as RE6
+#DEU-NW RE6 Dortmund Hbf Bochum Hbf            #2025
+DEU-NW S1 DortMundHbf WatHon                   #2025
+
+DEU-NW S1 BocHbf EssHbf                        #2025
+DEU-NW S2Rec Her RecHauHbf                     #2025
+
+DEU-BB S1Wit WitBer BB/ST                      #2025
+DEU-ST S1 BB/ST MagBurgHbf                     #2025
+
+DEU-BY S1Vor LinReu DEU/AUT                    #2025
+AUT S1Vor DEU/AUT Bre                          #2025
 
 
 ######################
@@ -640,7 +659,10 @@ DEU-NW U35 SchStr HuSta               #2022, Hustadt - Herne Schloß Strükede
 DEU-NW 301Gel EssStr HeiKonPla        #2024
 DEU-NW 302Gel BuerRatHaus BocLanS     #2024
 DEU-NW 306Boc WanEicHbf BocRatHaus    #2025
+DEU-NW 306Boc BocRatHaus BocHbf       #2025
+DEU-NW 308Boc SchBankStr BocHbf       #2025
 DEU-NW 308Boc BocHbf HatMit           #2024
+DEU-NW 310Boc HonKir BocHbf           #2025
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
@@ -704,10 +726,12 @@ DEU-NW 709Dus TheHeuPla SchStrArbAge  #2024
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
 DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
+DEU-NW 101Ess EssHbf HelStr_2        #2025
 DEU-NW 103Ess WertStr +DIV_Var       #2024
 DEU-NW 103Ess RatHausEss Ste         #2025
 DEU-NW 105Ess UntStr EssHbf          #2024
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
+DEU-NW 107Ess EssHbf Bre             #2025
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
 
 #Krefeld
@@ -794,11 +818,19 @@ DEU-ST 8Hal Tro ElsaBraStrStr       #2022, Trotha - Emil-Eichhorn - Volkspark - 
 DEU-ST 10Hal GotBog Hbf             #2022, Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf
 DEU-ST 12Hal Tro RiePla             #2022, Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz
 
-DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
+DEU-ST 9Mag NeuStaSee +DIV_AltMar    #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
+DEU-ST 5Mag RaiStr +DIV_AltMar       #2020, actually traveled with 9 (9 and 10 are now swapped through old town)
+DEU-ST 9Mag RaiStr Ref               #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
 DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
-DEU-ST 10Mag KasStr +DIV_AltMar      #2020, line 10 via Hbf, 2nd segment is line 9 now
-DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, line 10 via Hbf, traveled with line 10
+DEU-ST 10Mag KasStr +DIV_AltMar      #2020, via Hbf, 2nd segment is line 9 now
+DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, via Hbf, actually traveled with line 10 (9 and 10 are now swapped through old town)
 DEU-ST 2Mag HasBachPla WesHus        #2020
+DEU-ST 1Mag KanSti +DIV_AltMar       #2025, actually started at Goldschmiedebrücke since 1 was rerouted
+DEU-ST 10Mag BarSee KasStr           #2025
+DEU-ST 2Mag LosStr OpeHaus           #2025
+DEU-ST 5Mag OpeHaus MesGeElbAuenPark #2025
+DEU-ST 6Mag HeuMar HerKrug           #2025
+DEU-ST 4Mag CityCar PecPla           #2025
 
 DEU-TH 1Erf EurPla ThuHal            #2022
 DEU-TH 2Erf PRPlaMes WieHug          #2022

@@ -136,6 +136,7 @@ NC US76 US74_W NC211
 NC US76 NC133_S US421_S
 NC US129 US64/74 US19/74
 NC US158 US421(235) US421(232C)
+NC US158 US158BusOxf_E US158BusHen_W
 NC US158 NC168 WriMemDr
 NC US220 81 US29/70
 NC US221 US221Bus/226 US221Trk_N
@@ -175,7 +176,7 @@ VA I-85 NC/VA 68
 VA I-95 NC/VA VA/DC
 VA I-195 VA146 I-95
 VA I-264 I-64/664 8
-VA I-295 53 28A
+VA I-295 53 1
 VA I-395 1 10B
 VA I-464 1 6B
 VA I-495 MD/VA VA/DC
@@ -1524,6 +1525,21 @@ NM I-25 446 NM/CO
 
 # US Routes
 NM US64 CRB13 I-25(450)
+
+##### OREGON #####
+
+# Interstate Highways
+OR I-5 301 305
+OR I-84 OR99E 31
+OR I-405 2A I-5(302B)
+
+# Select Named Freeways / Parkways
+
+# State Routes
+OR OR213 US30_Byp AirWay
+
+# US Routes
+OR US30BypPor I-5 OR213
 
 ################################################################
 

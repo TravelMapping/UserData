@@ -36,8 +36,7 @@ CA Coa SanFeDep Oce
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
 CA D WilWes UniSta
-CA E DowSanMon 7thStMetCen
-CA E *OldGoldLn Atl
+CA E DowSanMon Atl
 CA GreLn 12thImpTC Gro
 CA InlEmpLn SanAna SanBerDep
 CA CalTra Tam SanFraKing
@@ -47,7 +46,7 @@ CA MuniN LaPla 4thKing
 CA MuniT Sun King
 CA OraCouLn UniSta Oce
 CA OraLn Cou ElCaj
-CA PerVlyLn RivDow PerS
+CA PerVlyLn UniSta PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
 CA SanBerLn UniSta SanBerDow

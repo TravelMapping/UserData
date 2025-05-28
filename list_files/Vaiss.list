@@ -159,6 +159,7 @@ FIN St120 Vt3 Kt50 # Vihdintie Pasila-Varisto Mikan luo 2022?
 FIN Kt58 Kt66_N Vt23_E #TRE-Keuruu 01/2025
 FIN St447 Vt13 Vt23 #Pieksämäki-Kangasniemi Tampereelle mennessä 01/2025
 FIN St453 Vt23 Vt5 #Varkaus-Pieksämäki Tampereelle mennessä 01/2025
+FIN Vt13 Vt9/23_E St447/616 #Kangasniemi-Jyväskylä Tampereelle mennessä 01/2025
 FIN St411 Vt4 St140 #Vierumäki 07/2025
 FIN VKKTieSav Vt14/4792_W Vt14/4792_E #Punkan maisematie
 
@@ -273,6 +274,33 @@ FIN St352 St170 St355 #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN St355 Vt15 End #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN Vt15 KotKatu 74(Vt7) #Nexus viimeinen koulutus Helsinki Laura Mukana
 FIN St138 MeiTie TieTie #Nexus viimeinen koulutus Helsinki Laura Mukana
+FIN Vt14 Vt5 Kt71 #Nexus viimeinen koulutus Helsinki Laura Mukana
+FIN Kt71 Vt14 Vt6 #Nexus viimeinen koulutus Helsinki Laura Mukana
+
+#17.4.
+FIN LanVay PorKatu 18 #04/2025 Tiimipalaveri 
+FIN Kt50 Kt51 30A #04/2025 Tiimipalaveri 
+FIN Keha3 Kt51 30A #04/2025 Tiimipalaveri 
+FIN St110 St120 Kt50 #04/2025 Tiimipalaveri 
+FIN St120 Vt3 St110 #04/2025 Tiimipalaveri 
+FIN St100 Vt3 Kt45 #04/2025 Tiimipalaveri 
+FIN St152 Vt4 St140 #04/2025 Tiimipalaveri 
+FIN St363 St140/313 Kt46 #04/2025 Tiimipalaveri 
+FIN Kt46 St369 St363 #04/2025 Tiimipalaveri 
+FIN St369 Kt46 Vt15 #04/2025 Tiimipalaveri 
+FIN St377 Vt15 Vt13 #04/2025 Tiimipalaveri 
+FIN St408 St409 St387/390 #04/2025 Tiimipalaveri 
+
+#8.5.
+FIN St637 SepTie Kt69_E #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN Kt69 St637_S Vt9 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN Kt72 Vt23_W Vt9 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN Vt13 St447/616 Vt5_N #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN St446 St447 Vt9/23 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN St428 St426 Vt5 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN St426 Vt5 St428 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+FIN Vt24 Vt4 St140 #05/2025 Saana Lahti-Mikkeli-Jyväskylä
+
 
 
 

@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: March 9, 2025
+# Last Updated: May 18, 2025
 
 
 # ---------------------------------- #
@@ -30,7 +30,7 @@ CO I-70 E470 CO/KS
 # ----- Deleware ----- #
 # District of Columbia ----- #
 
-DC I-395 1 7
+DC I-395 VA/DC 7
 DC I-695 I-395 2A
 
 # ----- Florida ----- #
@@ -56,13 +56,12 @@ GA I-575 I-75 3
 
 IL I-24 I-57 IL/KY
 IL I-39 I-55 IL/WI
-IL I-55 60 98
+IL I-55 MO/IL 98
 IL I-55 154 269
 IL I-55 277B US41
 IL I-57 MO/IL 358
-IL I-64 MO/IL 3
 IL I-70 3 IL/IN
-IL I-72 96 182
+IL I-72 MO/IL 182
 IL I-74 93 IL/IN
 IL I-80 79 112
 IL I-80 126 151
@@ -116,18 +115,24 @@ MS I-55 289 MS/TN
 
 # ----- Missouri ----- #
 
+MO I-35 12 54
 MO I-44 291A 290C
 MO I-55 AR/MO 66
 MO I-57 1 MO/IL
 MO I-64 25 MO/IL
 MO I-70 2L 232
-MO I-435 63A MO/KS
+MO I-72 US61 MO/IL
+MO I-435 52B MO/KS
 MO I-270 12 MO/IL
 MO I-670 KS/MO 2N
 
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV I-11 76 81
+NV I-15 38 42
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -185,6 +190,9 @@ TN I-640 I-40_E 3
 # ----- Utah ----- #
 # ----- Vermont ----- #
 # ----- Virginia ----- #
+
+VA I-395 10C VA/DC
+
 # ----- Washington ----- #
 # ----- West Virginia ----- #
 
@@ -276,8 +284,7 @@ IL US45 I-24(37) IL145
 IL US51 IL48 I-74(135)
 IL US136 I-57 MainSt_Gif
 IL US136 IL47 1stSt_Fis
-IL US150 IL130_S IL47_S
-IL US150 IL9_W CheSt
+IL US150 IL130_S IL9_W
 IL US150 WasRd CouLineRd
 IL US150 IL1/16 IL/IN
 IL US150 US24/8 IL8_E
@@ -305,6 +312,9 @@ KS US40 KS10_W I-70(366)
 # ----- Minnesota ----- #
 # ----- Mississippi ----- #
 # ----- Missouri ----- #
+
+MO US36 US61 I-35
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
@@ -435,7 +445,7 @@ GA GA83 I-20 US278_E
 IL IL1 PolRd IL33
 IL IL1 IL17_W IL114
 IL IL4 WabAve IL97
-IL IL9 I-57 IL115
+IL IL9 US45_S IL115
 IL IL9 CR6 CR29
 IL IL10 US150 IL47
 IL IL10 I-72 US51Bus
@@ -448,6 +458,7 @@ IL IL29 I-74(93) TruAve
 IL IL29 CleLakeAve GraAve_W
 IL IL31 I-88 US20
 IL IL32 I-57 OutBelt
+IL IL38 IL23 LafRd
 IL IL47 IL10 US24
 IL IL47 US30/56 I-80
 IL IL48 WatSt I-72(144)
@@ -513,9 +524,17 @@ MS MS302 US51 I-55
 # ----- Missouri ----- #
 
 MO MO340 I-270 FeeFeeRd
+MO MO370 1A 12
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV NV159 CR215 RedRockRd
+NV NV589 
+NV NV592Spr NV596 I-15
+NV NV596 SahAve ChaBlvd
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -584,8 +603,11 @@ FL FLTpk 99 307
 IN KeyPkwy US31 I-465
 MD BalWasPkwy US50/201 MD175
 NC AllAmeFwy MorRd OwenDr
+NV CR215 26 28
+NV HRAirCon WayNewBlvd I-215
 NY GraCenPkwy 4A 6
 PA HarTayBri US11/15_S FroSt
+VA GWMemPkwyCry ReaNatAir_N I-395
 
 # ----------------------- #
 # ----- US HISTORIC ----- #
