@@ -1,4 +1,4 @@
-# Date: 2025-05-02
+# Date: 2025-05-24
 # ----------------
 
 ######################
@@ -341,6 +341,11 @@ DEU-NW S1 DortMundHbf WatHon                   #2025
 DEU-NW S1 BocHbf EssHbf                        #2025
 DEU-NW S2Rec Her RecHauHbf                     #2025
 
+DEU-BB S1Wit WitBer BB/ST                      #2025
+DEU-ST S1 BB/ST MagBurgHbf                     #2025
+
+DEU-BY S1Vor LinReu DEU/AUT                    #2025
+AUT S1Vor DEU/AUT Bre                          #2025
 
 
 ######################
@@ -813,11 +818,19 @@ DEU-ST 8Hal Tro ElsaBraStrStr       #2022, Trotha - Emil-Eichhorn - Volkspark - 
 DEU-ST 10Hal GotBog Hbf             #2022, Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf
 DEU-ST 12Hal Tro RiePla             #2022, Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz
 
-DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
+DEU-ST 9Mag NeuStaSee +DIV_AltMar    #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
+DEU-ST 5Mag RaiStr +DIV_AltMar       #2020, actually traveled with 9 (9 and 10 are now swapped through old town)
+DEU-ST 9Mag RaiStr Ref               #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
 DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
-DEU-ST 10Mag KasStr +DIV_AltMar      #2020, line 10 via Hbf, 2nd segment is line 9 now
-DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, line 10 via Hbf, traveled with line 10
+DEU-ST 10Mag KasStr +DIV_AltMar      #2020, via Hbf, 2nd segment is line 9 now
+DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, via Hbf, actually traveled with line 10 (9 and 10 are now swapped through old town)
 DEU-ST 2Mag HasBachPla WesHus        #2020
+DEU-ST 1Mag KanSti +DIV_AltMar       #2025, actually started at Goldschmiedebrücke since 1 was rerouted
+DEU-ST 10Mag BarSee KasStr           #2025
+DEU-ST 2Mag LosStr OpeHaus           #2025
+DEU-ST 5Mag OpeHaus MesGeElbAuenPark #2025
+DEU-ST 6Mag HeuMar HerKrug           #2025
+DEU-ST 4Mag CityCar PecPla           #2025
 
 DEU-TH 1Erf EurPla ThuHal            #2022
 DEU-TH 2Erf PRPlaMes WieHug          #2022

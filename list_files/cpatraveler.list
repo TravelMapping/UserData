@@ -2039,24 +2039,33 @@ CO US36 US385_S CO63 #01082025 YW Inventory
 CO US40 CR32 CO94 #01092025 Sangre de Cristo Inventory
 CO US40 CO64 CO13_S #01112025 GV Inv Off Day
 CO US40 I-70BLDen_W I-70(254) #03212025 Drive around Den after CO FW
+CO US50BusOla US50_E US50_W #05182025 Mohave to San Isabel
 CO US85 US85BusFor_N US85BusPla_N #04222025 Sangre de Cristo Board Meeting
 CO US85BusPla US85_S US85_N #04222025 Sangre de Cristo Board Meeting
 CO US160 CO150 I-25BL_N
+CO US160 CO389 US287/385 #051925 San Isabel to SW 
 CO US385 US40_E CO96_E #01292025 KC to SW
 CO US385 CR196 US50/400 #01292025 KC to SW
 CO US50TrkLam US50_W US50_E #01292025 KC to SW    
 CO DinParkRd US40 DeePark #01112025 GV Inv Off Day
 CO ParkRd VisCen End #01142025 Travel to Trinidad San Isabel
 CO CO8 CO391 CO470 #03212025 Drive around Den after CO FW
-CO CO8 CO391 CO121 #03212025 Drive around Den after CO FW 
+CO CO8 CO391 CO121 #03212025 Drive around Den after CO FW
+CO CO10 I-25BL I-25 #05182025 Mohave to San Isabel
+CO CO15 US160/285 TweRd #05182025 Mohave to San Isabel
+CO CO15Cap CR6 US285 #05182025 Mohave to San Isabel   
 CO CO26 I-25 CO95 #03212025 Drive around Den after CO FW 
 CO CO36 ColAve_W I-70(316) #01282025 KC Inventory
 CO CO40 CO36 MainSt #01282025 KC Inventory       
 CO CO52 CO79 CO39 #01072025 Morgan Inventory
 CO CO64 CO13 DriRockRd #01112025 GV Inv Off Day
+CO CO65 I-70 CO92 #05182025 Mohave to San Isabel
 CO CO66 US85 I-25 #04222025 Sangre de Cristo Board Meeting 
-CO CO72 CO93 I-70 #03212025 Drive around Den after CO FW     
+CO CO72 CO93 I-70 #03212025 Drive around Den after CO FW
+CO CO78 CO165 SimTr #05182025 Mohave to San Isabel 
+CO CO78BusBeu CO78 PenAve #05182025 Mohave to San Isabel     
 CO CO79 CO36_E CO52 #01072025 Morgan Inventory
+CO CO85 I-25 VenBlvd_N #Updated from US85 051825 
 CO CO88 US285 I-25(199) #04232025 Return from Sangre de Cristo Bd Mtg
 CO CO88 CO26 US6 #03212025 Drive around Den after CO FW
 CO CO88 US285 CO26 #03212025 Drive around Den after CO FW 
@@ -2065,15 +2074,25 @@ CO CO92 US50_E US50_W #01102025 Grand Valley Inventory
 CO CO93 US6 CO72 #03212025 Drive around Den after CO FW
 CO CO95 CO26 US285 #03212025 Drive around Den after CO FW
 CO CO95 I-76 CO26 #03212025 Drive around Den after CO FW 
+CO CO100 US160 MainSt #051925 San Isabel to SW
 CO CO112 US160 US285 #01142025 Travel to Trinidad San Isabel
+CO CO114 US50 US285 #05182025 Mohave to San Isabel  
 CO CO119 I-25 US36_W #04222025 Sangre de Cristo Board Meeting
-CO CO119 US36_E CO72_E #04222025 Sangre de Cristo Board Meeting   
-CO CO135 US50 ElkAve #01142025 Travel to Trinidad San Isabel  
+CO CO119 US36_E CO72_E #04222025 Sangre de Cristo Board Meeting
+CO CO133 CO92 CO82 #05182025 Mohave to San Isabel   
+CO CO135 US50 ElkAve #01142025 Travel to Trinidad San Isabel
+CO CO136 US285 IvySt #05182025 Mohave to San Isabel   
 CO CO139 US6/50 CO64 #01112025 GV Inv Off Day
+CO CO142 US285 CO159 #05182025 Mohave to San Isabel 
 CO CO149 US50 US160 #01142025 Travel to Trinidad San Isabel
 CO CO165 I-25 AbbRd #01152025 SIEC Inv Lunch High octane,
 CO CO300 US24 CR5A #04222025 Sangre de Cristo Board Meeting
+CO CO325 CO13 RifMouPark #05182025 Mohave to San Isabel
+CO CO330 CO65 58-1/2Rd #05182025 Mohave to San Isabel 
 CO CO348 US50_W US50_E #01132025 Grand Valley Inventory
+CO CO368 US285 CO370 #05182025 Mohave to San Isabel
+CO CO370 CO15 US285 #05182025 Mohave to San Isabel
+CO CO371 CO368 CO15 #05182025 Mohave to San Isabel
 CO CO391 US285 CO8 #03212025 Drive around Den after CO FW
 CO CO391 US6 CO8 #03212025 Drive around Den after CO FW  
 CT I-95 NY/CT CT/RI #Trip to Boston with Parents 
@@ -3348,11 +3367,16 @@ UT I-80 115 120 #08032017 TFACC Meeting Trip
 UT I-80 123 UT/WY #08032017 TFACC Meeting Trip
 UT I-84 ID/UT 26 #08052017 TFACC Meeting Trip
 UT I-84 120 87 #08062017 TFACC Meeting Trip
-UT I-215 23 11 #05142025 Mohave Board Meeting Trip 
+UT I-215 23 11 #05142025 Mohave Board Meeting Trip
+UT I-215 I-15 23 #05232025 Holy Cross FW 
 UT I-15BLStG I-15_N I-15_S #03302025 Sidetrip Mohave FW
 UT I-15BLNep I-15_S I-15_N #05132025 Mohave Board Meeting Trip
 UT I-15BLFil I-15_S I-15_N #05142025 Mohave Board Meeting Trip
-UT I-15BLBea I-15_N I-15_S #05142025 Mohave Board Meeting Trip  
+UT I-15BLBea I-15_N I-15_S #05142025 Mohave Board Meeting Trip
+UT I-70BLGre I-70_E I-70_W #05222025 Holy Cross FW 
+UT US6 I-70(157) I-15(257B) #05222025 Holy Cross FW
+UT US6BusPri US6_E US6_W #05222025 Holy Cross FW
+UT US6BusHel US6_E US6_W #05232025 Holy Cross FW  
 UT US40 US189_S UT/CO #08052017 TFACC Meeting Trip 
 UT US89 UT30_E UT/ID #08032017 TFACC Meeting Trip
 UT US89 I-84 I-15(324) #08062017 TFACC Meeting Trip
@@ -3363,14 +3387,19 @@ UT US89 UT20 UT12 #Visit South Central Comm wRobert Escalante
 UT US89 I-215 I-15(291) #05132025 Mohave Board Meeting Trip 
 UT US89AltKan US89 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT US89 UT9 UT12 #05152025 Mohave to San Isabel
+UT US89 US189 UT145 #05232025 Holy Cross FW
+UT US89 I-215 I-80 #05232025 Holy Cross FW 
 UT UT162 UT/CO US191 #11302024 Moab Trip
 UT US163 US191 AZ/UT #09122024 Grand Junction to Phoenix
 UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
+UT US189 I-15 US89 #05232025 Holy Cross FW 
 UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
 UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
 UT US491 US191 CO/UT #11302021 Inventory Trip
+UT BriViewDr UT275 BriViewDr_N #051625 Mohave to San Isabel
 UT BryCynSceDr UT63 End #05152025 Mohave to San Isabel
+UT CapReefSceDr UT24 CapGorRd #051625 Mohave to San Isabel
 UT DelArchRd MainParkRd CacValRd #12012024 Moab Trip
 UT IslSkySceDr UT313 End #12012024 Moab Trip
 UT MainParkRd US191 DevGarCam #12012024 Moab Trip
@@ -3379,13 +3408,16 @@ UT ZionCynDr UT9 End #Zion Canyon Visit
 UT UT7 I-15 UT9 #03302025 Sidetrip Mohave FW
 UT UT8 UT18 DixDowRd #03302025 Sidetrip Mohave FW        
 UT UT9 I-15 US89 #Trip to Zion with Family and Other Zion Visits
+UT UT10 UT55 US6/191 #05222025 Holy Cross FW 
 UT UT12 US89 500W #Visit South Central Comm wRobert Escalante
+UT UT12 500W UT24 #051625 Mohave to San Isabel
 UT UT13 UT83 I-15/84(365) #08052017 TFACC Meeting Trip
 UT UT14 UT148 UT130 #11172017 Pipe Spring Utah Park Trip
 UT UT17 I-15 UT9 #11172017 Pipe Spring Utah Park Trip
 UT UT18 UT34 UT56 #03302025 Sidetrip Mohave FW 
 UT UT20 I-15 US89 #Visit South Central Comm wRobert Escalante
-UT UT21 UT160 UT130 #05142025 Mohave Board Meeting Trip  
+UT UT21 UT160 UT130 #05142025 Mohave Board Meeting Trip
+UT UT24 UT12 UT95 #051625 Mohave to San Isabel   
 UT UT30 UT/WY US89_N #08032017 TFACC Meeting Trip
 UT UT34 I-15 RivRd #03302025 Sidetrip Mohave FW 
 UT UT43 UT44 WY/UT #08062017 TFACC Meeting Trip 
@@ -3397,20 +3429,25 @@ UT UT59 UT9 AZ/UT #11172017 Pipe Spring Utah Park Trip
 UT UT63 UT12 BryCanNP #05152025 Mohave to San Isabel
 UT UT83 I-84 UT13 #08052017 TFACC Meeting Trip
 UT UT92 AshBlvd US189 #08052017 TFACC Meeting Trip
+UT UT95 UT24 US191 #051625 Mohave to San Isabel
 UT UT128 US191 I-70/6 #09092024 Navopache to Grand Junction 
 UT UT130 UT14 UT56 #11172017 Pipe Spring Utah Park Trip
 UT UT130 UT21 I-15(57) #05142025 Mohave Board Meeting Trip
 UT UT132 UT28 I-15 #05132025 Mohave Board Meeting Trip  
 UT UT143 US89 UT148 #11172017 Pipe Spring Utah Park Trip
+UT UT145 US89 I-15 #05232025 Holy Cross FW
 UT UT148 UT143 UT14 #11172017 Pipe Spring Utah Park Trip 
 UT UT149 US40 DinNM #08062017 TFACC Meeting Trip 
 UT UT154 TerDr I-80 #08032017 TFACC Meeting Trip
 UT UT186 US89_N US89_S #08062017 TFACC Meeting Trip
+UT UT201Sal US89 900W #05232025 Holy Cross FW 
 UT UT211 US191 NeeRd #11302024 Moab Trip
-UT UT219 UT18 CreRd #03302025 Sidetrip Mohave FW  
+UT UT219 UT18 CreRd #03302025 Sidetrip Mohave FW
+UT UT262 US191 UT162 #051625 Mohave to San Isabel
 UT UT268 US89 800W #08062017 TFACC Meeting Trip
 UT UT269 US89 I-15/80 #08062017 TFACC Meeting Trip
 UT UT270 US89 900S #08062017 TFACC Meeting Trip
+UT UT275 UT95 NatBriNM #051625 Mohave to San Isabel
 UT UT279 US191 End #12012024 Moab Trip
 UT UT313 US191 End #12012024 Moab Trip
 UT UT318 UT9 QuaCreSP #03302025 Sidetrip Mohave FW 

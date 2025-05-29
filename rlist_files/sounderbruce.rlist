@@ -44,6 +44,8 @@ IL BlueLn OHa Monr
 IL BlueLn Jac ForPk
 IL BroLn StaLake ClaLake
 IL GreLn StaLake AdaWab
+IL MLBlueLn MO/IL EastRiv
+IL MLRedLn MO/IL EastRiv
 
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
@@ -60,8 +62,13 @@ MA NewLn BosNor Che
 MI QLn GraBlvd ConSt
 MI DetPeoMov Mic_S Mic_N
 
-MO KCSC UniSta CityMar
-MO KCSC RivMarW RivMar
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN NorLn CoonRapRiv TarFie
+MN HubTram Ter1 HubBui
+
+MO KCSC UniSta RivMar
+MO MLBlueLn CenWestEnd MO/IL
+MO MLRedLn DelLp MO/IL
 
 NV LVM BalParLV Har/Linq
 NV AE ParkMGM Bel
@@ -128,6 +135,8 @@ WA YelLn AGat DGat
 WA AC OR/WA USA/CAN
 WA CS OR/WA SeaKingSt
 WA EBSea SeaKingSt MT EBSea Whi
+
+WI HopMLn Int CityHall
 
 AB BlueLn 69thSt Sad
 AB RedLn Sun VicParkSta
