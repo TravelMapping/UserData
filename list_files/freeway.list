@@ -3719,6 +3719,7 @@ JPN E39 E5 9
 JPN E41 1(THE) 10(Noe)
 JPN E41Ana N249 P37
 JPN E42 39-1 10
+#JPN E42 at Kiho
 JPN E42Shi N42 P235
 JPN E42Wak 39 20-1
 JPN E44Kus 20 21
@@ -3928,10 +3929,12 @@ JPN N3 N200_S P17 #one more interchange north
 JPN N3Kum P342 P49
 JPN N3 N266_S N218_E
 JPN N3Kag E3_Kag P24
-#JPN N4Uts N354 south one interchange, P56 south one interchange, maybe between P44 and N352/P47
+JPN N4Uts P268 N354
+JPN N4Uts P190 P56
+JPN N4Uts P44 Mach #may have some LILOs
 JPN N4 P6 N288
-JPN N4 P51 P114 #P114 not yet mapped
-JPN N4 N45 P8 #one more interchange south
+JPN N4 P51 P114
+JPN N4 HakZut P8_Miy
 JPN N4Miz P8 N4
 JPN N4 N4Miz E4(36)
 JPN N4 N282/P16 E4(43)
@@ -3973,26 +3976,41 @@ JPN N20Hac P47 C4/N20
 JPN N20 P38 P34
 JPN N21 N248_W P207 (not quite to P207)
 JPN N21 E41 N157 #under construction to west?
-JPN N23
-JPN N26
-JPN N29
-JPN N33
-JPN N33Mat
-JPN N36
-JPN N37Hak
-JPN N38Fur
-JPN N38Kus
-JPN N41
-JPN N42IFT
-JPN N42Kii
-JPN N43
-JPN N46
-JPN N47
-JPN N47SKE
-JPN N47SKW
-JPN N48
-JPN N49
-JPN N50
+JPN N23 N1 E87/NE3
+JPN N23Toy N1 N23
+JPN N23 P55 P59_W
+JPN N23Chu P54 N306
+JPN N23Chu P10 P55_N
+JPN N23Chu N165 N23/N166
+#JPN N26 between N480 and P40_N?
+JPN N26 P63_S N24_E #not quite to P63_S but other interchanges not mapped yet
+JPN N27 P225 E27(14) #east several more interchanges
+#JPN N27 E27(14) west several interchanges
+JPN N29 N2 E2 #north another interchange, not yet mapped
+JPN N33 N194_W P299
+JPN N33 N440Mis_S N440Mis_N
+JPN N33Mat E56 N56/N56Mat
+JPN N36 Wan Bok
+JPN N37Hak P127 P699
+JPN N38Fur N38_N N38_S
+JPN N38Kus N240 P53
+#JPN N41 part between P49 and P84, but not mapped
+JPN N41 N418_W N418_E #one more interchange south
+JPN N41 P73 E67 #and north thru the tunnel
+JPN N42IFT N42_E P37
+#JPN N42Kii portion between P31_N and P29 (not yet mapped)
+JPN N42Kii P29 E42(34)
+JPN N43 HE17(17-05) P10
+JPN N46 N341_B N341_D
+JPN N47 N13 N47SKE
+JPN N47SKE N47 N458
+#missing piece
+JPN N47SKW P34 N47
+JPN N47 P44 E7 #one more interchange west
+JPN N48 E4 P31 #east one more and west two more interchanges
+JPN N49 N6 Iwa
+JPN N403_S N7/N8
+#JPN N50 N294 west 2 interchanges
 JPN N53
 JPN N56Mat
 JPN N57
