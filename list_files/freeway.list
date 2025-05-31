@@ -4051,9 +4051,13 @@ JPN N139 N469 P72
 JPN N140Min N140_N N299
 JPN N140NKR N140_N N140/P6 #not quite to N140/P6 but interchanges not mapped
 JPN N150Nan N473 N150
-JPN N153
-JPN N155
-JPN N159
+#JPN N153 C2/N302 east one interchange
+N153Toy N153 C3
+JPN N155Chi N155_S N247Chi_N #not quite to N155_S, but intermediate interchange not mapped
+JPN N155 N419_S P56_S
+JPN N155 E1/P76 N153_W #south from E1/P76 but not mapped
+JPN N156 N248/P92 P77_N
+JPN N159 P56_E P22/P27
 JPN N161
 JPN N167Ise
 JPN N175
