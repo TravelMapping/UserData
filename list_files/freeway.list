@@ -4037,14 +4037,20 @@ JPN N116 P2 N8_N
 JPN N119Uts N119 N119Utc
 #JPN N121 N287Yon south one interchange
 JPN N121Aiz N121_N N121_S
-JPN N126Sam
-JPN N135Man
-JPN N136Izu
-JPN N138
-JPN N139
-JPN N140Min
-JPN N140NKR
-JPN N150Nan
+JPN N126Sam N126 C4(93) #and part of continuation east
+JPN N129 P65 C4(33) #not all the way to P65, but other interchanges not mapped
+JPN N135Man N135_S N135_N
+JPN N136Izu N414_OHC P134 #and thru the tunnel to the intersection
+JPN N136Izu P138 E70_Kan
+JPN N138Fuj 3 4
+JPN N138 E68_End N469Got
+JPN N138Got N138 E1A
+JPN N139 P353/P414 P76_N
+JPN N139 N469 P72
+#JPN N139 both ways from E68
+JPN N140Min N140_N N299
+JPN N140NKR N140_N N140/P6 #not quite to N140/P6 but interchanges not mapped
+JPN N150Nan N473 N150
 JPN N153
 JPN N155
 JPN N159
@@ -4117,6 +4123,7 @@ JPN N504Sat
 #JPN P8 (Osaka)
 #JPN P17 (Fukuoka)
 #JPN P22 (Kanazawa)
+#JPN P28 (Hokuto)
 #JPN P57 (Shimonoseki)
 #JPN P61 (Akita)
 #JPN P72 (Okayama)
@@ -4154,6 +4161,7 @@ JPN N504Sat
 #JPN Nishisonogi Road
 #JPN Okayama Blue Line
 #JPN Osumi Longitudinal Road
+#JPN Overhead Way (Tsuchiura)
 #JPN Ring No. 2
 #JPN Rokko Toll Road
 #JPN Rokko-Kita Toll Road
