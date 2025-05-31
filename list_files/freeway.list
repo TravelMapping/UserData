@@ -4058,8 +4058,12 @@ JPN N155 N419_S P56_S
 JPN N155 E1/P76 N153_W #south from E1/P76 but not mapped
 JPN N156 N248/P92 P77_N
 JPN N159 P56_E P22/P27
-JPN N161
-JPN N167Ise
+#JPN N161 both ways from N303/P54, not yet mapped
+#JPN N161 both ways from P38
+#JPN N161 P23 south
+JPN N161 P345 N1 #and north from P345
+JPN N163 N170Sot_S N168 #not quite to N168 but not mapped
+JPN N167Ise N167 N42IFT
 JPN N175
 JPN N175Nis
 JPN N176Tak
@@ -4140,6 +4144,7 @@ JPN N504Sat
 #JPN P331 (Masuda)
 #JPN P720 (Sanda)
 #JPN former Chiba-Sotobo Toll Road
+#JPN Chuwa Trunk Line
 #JPN Flight Road
 #JPN Gorin-ohashi Toll Road
 #JPN Harbor Highway
