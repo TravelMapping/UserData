@@ -254,6 +254,7 @@ ENG LonAms LonStPanInt GBR/FRA
 ENG ChaTnl FolEurTer GBR/FRA
 ENG LutAirExp LonStPanInt LutAirPkwy
 ENG DeaVlyLn She York
+ENG LakHavRwy Lak Hav
 
 #Londen Underground / TFL
 ENG EliLn TotCouRd CanWha
@@ -269,6 +270,9 @@ ENG DLR CanWha CutSark
 ENG DLRRoy Sha CanTown
 ENG DLR Bank Lim
 ENG NorLnBar KXSP LonBri
+
+#Tram
+ENG MetLnkEDR DeaCas ExcSqu
 
 
 # NORWAY
