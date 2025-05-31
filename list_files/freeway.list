@@ -21,7 +21,8 @@ AUS-QLD A1 WalSt QLD57
 AUS-QLD M1 290 AUS-NSW M1Bal TruHillRd
 AUS-NSW M1Gra IluRd B91
 AUS-NSW A1Cof SolIslWay_N SolIslWay_Kor
-AUS-NSW A1Cof LinRd GliWay_S
+AUS-NSW A1Cof LinRd TD18_Boa
+AUS-NSW M1Kem TD18_Boa GliWay_S
 AUS-NSW M1Kem TD12/14 TD12_S
 AUS-NSW M1Kem TelPtRd B56
 AUS-NSW A1Bul WooWay_S BulWay_S
@@ -32,7 +33,7 @@ AUS-NSW M1Syd A1 M5
 AUS-NSW M1Wol PriHwy_Wat MtOusRd
 AUS-NSW M1Wol MtOusRd WeirSt
 AUS-NSW A1She RoseValRd BelSt
-AUS-NSW A1She TooRd TD7_Ber #one more interchange south
+AUS-NSW A1She TooRd SchLn
 AUS-VIC M1 C104_E C103_W
 AUS-VIC M1 DarSCRd C421
 AUS-VIC M1 A17_E B130
@@ -86,7 +87,7 @@ AUS-NSW CahExpy A4 CowWhaRd
 AUS-NSW CroCityTun A4 NSHeadRd
 
 AUS-QLD M2 M1 QLD38
-AUS-QLD A2 QLD80 GatHeiRd #one more interchange east
+AUS-QLD A2 OutRingRd GatHeiRd
 AUS-QLD A2 PosRidRd A21/A39
 AUS-QLD M3Bal M1 GymRd
 AUS-QLD A3Bri MR5 M7_N
@@ -755,8 +756,8 @@ EST T1 T179 T23
 EST T1 T93 T3
 EST T2 T330 T11
 EST T2 T114 T159_S
-EST T2 T92 RingTee #and farther southeast but interchange not yet mapped
-#EST T4 Kernu bypass not yet mapped
+EST T2 T92 Len
+EST T4 KerMoiTee RiiTee
 EST T4 T59 T6 #maybe not all the way to T59
 EST T11 T1 T2
 EST T11 T2 T15
@@ -773,7 +774,7 @@ FIN Vt2 St126/133 Yt1261
 FIN Vt2 Yt2804 Vt10
 FIN Vt2 Yt2443 ProTie
 FIN Vt3 St100/120 Kt65
-FIN Vt3 RokTie Yt2761 #not quite to RokTie but bypass not yet mapped
+FIN Vt3 Yt2620 Yt2761
 FIN Vt3 Vt23_W NieTie
 FIN Vt3 TieTie Yt6920
 FIN Vt3 St715_S E12_W
@@ -797,8 +798,8 @@ FIN Vt6 LinTie St160
 FIN Vt6 KruTie Kt73
 FIN Vt7 Vt4 90
 FIN Vt8 AlaTie 8
-FIN Vt8 HitTie Yt2176
-#FIN Vt8 Yt2070 new bypass not yet mapped
+FIN Vt8 HitTie PohKeha
+FIN Vt8 Yt2170 KauTie
 FIN Vt8 Vt2_W KarTie_S
 FIN Vt8 Vt3/18_W St724
 FIN Vt8 St724 KorVag
@@ -2387,9 +2388,7 @@ DEU-SN B173 A17 KamWeg
 DEU-SN B173 S73 S172
 DEU-SN B174 K6105 S228
 DEU-SN B175Zwi B93_N VW
-DEU-SN B178 S112 S128
-#under construction in here
-DEU-SN B178Zit S132 DEU/POL
+DEU-SN B178 S112 DEU/POL
 DEU-ST B184 B187 ElbHaus
 DEU-NI B188 B3 L311/L412
 DEU-NI B188 A39 VW
@@ -3882,38 +3881,98 @@ JPN KE3 KE1 KE2
 JPN KE4 401 E3(4)
 JPN KE5 503 KE4
 
-JPN N1
-JPN N1Fuj
-JPN N1Hok
-JPN N1Oda
-JPN N1Rit
-JPN N1Sei
-JPN N2
-JPN N2EH
-JPN N2Ham
-JPN N2Kak
-JPN N2Ono
-JPN N2Tam
-JPN N2WH
-JPN N3
-JPN N3Kag
-JPN N3Kur
-JPN N4Uts
-JPN N7
-JPN N7Aom
-JPN N8
-JPN N10Miy
-JPN N10Usa
-JPN N13
-JPN N16
-JPN N16Hac
-JPN N16Hod
-JPN N17
-JPN N17Job
-JPN N17Kum
-JPN N18
-JPN N20Hac
-JPN N21
+JPN N1Oda N1_Iry N1_W
+JPN N1 P380 N246/N414
+JPN N1 N139 N139FIS
+JPN N1 FujEki KanBarW
+JPN N1Sei N1_E ShiMarRd
+JPN N1Sei P54 N1_W
+JPN N1 P81/P381 P253 #one more interchange east
+JPN N1Fuj N1 E1A
+JPN N1 P413_E N152
+#JPN N1 N152 next interchange west
+JPN N1 N257/N301 N23Mei
+JPN N1Hok P66_E P64
+JPN N1 P28 N306
+JPN N1 ToP647 ToE25
+JPN N1 P126 N307Hin
+JPN N1 P13_E P27_KonE
+JPN N1Rit P22 P55
+JPN N1Ots P43 Ich
+JPN N1Ots Oe E1/E88
+JPN N1DKR P188 N1Kei
+JPN N1DKR NagHig P17 #one more interchange north
+JPN N2Ham End N2
+JPN N2Kak E93 N2/N179
+JPN N2 N2Kak/N179 P29_B
+JPN N2 N250_W P61
+JPN N2 N429_N N2Tam
+JPN N2Tam N2 P471
+JPN N2 P54_E N2Ono_E #not quite to P54_E
+JPN N2Ono N2_E N2_W
+JPN N2 N2Ono_W P25_Hir
+JPN N2 P25_Hir P344 #P344 not yet mapped
+JPN N2 P195 P67_B #P195 not yet mapped
+JPN N2 P67_B N2EH_E
+JPN N2EH N2_E N2_W
+JPN N2 N2EH_W P86 #a few LILOs?
+JPN N2WH N2_E E2
+#JPN N2 branch east from P335
+JPN N2 P335 E2/P6
+JPN N2 E2(45) N190_W
+JPN N2 P57 P72
+JPN N3Kur End N3
+JPN N3 P73 P87 #not quite to P87 but the other interchanges aren't mapped
+#JPN N3 a bit between P87 and P69, not yet mapped
+JPN N3 N200_S P17 #one more interchange north
+JPN N3Kum P342 P49
+JPN N3 N266_S N218_E
+JPN N3Kag E3_Kag P24
+#JPN N4Uts N354 south one interchange, P56 south one interchange, maybe between P44 and N352/P47
+JPN N4 P6 N288
+JPN N4 P51 P114 #P114 not yet mapped
+JPN N4 N45 P8 #one more interchange south
+JPN N4Miz P8 N4
+JPN N4 N4Miz E4(36)
+JPN N4 N282/P16 E4(43)
+JPN N6 N354/N125Ami P64
+JPN N6 P43_N P16 #one more interchange south
+JPN N6 P40 P50_S
+JPN N6 Ona P66 #may have a few LILOs
+JPN N6 P48 N399 #one LILO
+JPN N6 N115/P74 P38_B
+JPN N7 N8/N49 N460
+JPN N7 P56_C P65 #one LILO near the south end?
+#JPN N7Aom E4 west and east one interchange
+JPN N8 N7/N49 N116
+JPN N8 P8 N17/N351
+JPN N8 P11_Imi P24
+#JPN N8 portions of P32 P59 but interchanges are not all mapped
+JPN N8 P59 N8Ima
+JPN N8 N305_N P22 #north 6 interchanges
+JPN N8 N416/P22 N305
+JPN N8Tsu N8_N E8
+JPN N8Tsu N27/N8Kan N8_S
+#JPN N9 west of E27?
+JPN N9 P43 N53 #2 more interchanges west
+JPN N9Mat 27(SIE) N9
+JPN N9Ham N9_E 4(Ham)
+JPN N10Shi P58 E10(3)
+JPN N10Usa N10 E10(9)
+JPN N10 P10_N N219Hir
+#JPN N10 near P28
+JPN N10Miy P45 N10 #continues north
+JPN N16Hod E16/E83 N16_N
+JPN N16Hac P47 P160
+JPN N17Kum P83 N17Fuk
+JPN N17 N17Job/N291 N291/P26
+JPN N18 N405/P38 N8/N350
+#JPN N19 south from P473
+JPN N20Mej P506 MejGreAve
+JPN N20Hac P47 C4/N20
+JPN N20 P38 P34
+JPN N21 N248_W P207 (not quite to P207)
+JPN N21 E41 N157 #under construction to west?
 JPN N23
 JPN N26
 JPN N29
@@ -3977,6 +4036,7 @@ JPN N192ToE
 JPN N197OHB
 JPN N197Ozu
 JPN N199
+JPN N200
 JPN N200Hiy
 JPN N200Nog
 JPN N201Yak
@@ -4035,10 +4095,13 @@ JPN N504Sat
 #JPN P8 (Osaka)
 #JPN P17 (Fukuoka)
 #JPN P22 (Kanazawa)
+#JPN P57 (Shimonoseki)
 #JPN P61 (Akita)
 #JPN P72 (Okayama)
 #JPN P73 (Hiroshima)
 #JPN P74 By-Pass (Shizuoka)
+#JPN P83 (Hiroshima)
+#JPN P212 (Yamaguchi)
 #JPN P219 (Kagoshima)
 #JPN P241 (Nobeoka)
 #JPN P331 (Masuda)
@@ -4428,8 +4491,7 @@ NLD S103Rot S123/S126 A15/A29
 
 ##NEW ZEALAND
 NZL SH1 OldSH1 471
-NZL SH1 474 Pok_S
-NZL SH1 Pok_S PioRd #not yet mapped
+NZL SH1 474 Pok_S PioRd
 NZL SH1 DraRd GlenMurRd
 NZL SH1 TahOhiRd TirRd
 NZL SH1 SH5_N SH5_S
@@ -5179,7 +5241,7 @@ ESP-GA N120 LU652 LUP4702 #one more interchange east
 ESP-GA N120 LU933_Noc LU933_QuiE
 ESP-GA N120 OU602 OU603
 ESP-GA N120 N536 Por
-ESP-CL N120Tor GA/CL NVI #one more interchange west
+ESP-GA N120 CamCov ESP-CL N120Tor NVI
 ESP-CL N120 A66 LE5521
 ESP-CL N120 CL613 CarBur
 ESP-RI N120 LR308 130(A12)

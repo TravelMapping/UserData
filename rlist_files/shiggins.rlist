@@ -13,6 +13,8 @@ TX OraLn DFWAir MarCen
 MI DetPeoMov Mic_S Mic_N
 
 #MARTA
+GA BluLn FivePoi EdgCanPk
+GA GreLn FivePoi KingMem
 GA OraLn PeaCen Air
 GA RedLn PeaCen Air
 
