@@ -4074,22 +4074,30 @@ JPN N183 P8 N180_N #not quite to N180_N
 JPN N197Ozu N197_E N197_W
 JPN N197OHB P610 N10Oit
 JPN N199 KE2/N199Kit N495 #not quite to N495
-JPN N200
-JPN N200Hiy
-JPN N200Nog
-JPN N201Yak
-JPN N202Ega
-JPN N202Ima
-JPN N203
-JPN N203Kyu
-JPN N205
-JPN N206Kaw
-JPN N206Kom
-JPN N208Ari
-JPN N212Nak
-JPN N212Yab
-JPN N213Oit
-JPN N220
+JPN N200Nog KE4 P22
+JPN N200Hiy N200_A P77
+JPN N200 P53 N3_S
+JPN N201Yak N201_E N211 #not quite to N211 but interchanges not mapped
+JPN N201Yak N200 N201_W
+JPN N201 E3 FE4(404)
+JPN N202Ima P49_E P49_W
+JPN N202Ima Yos N202/N323 #one more interchange east
+JPN N202Ega N202 N206Kom
+JPN N203 P350 N203Kyu
+JPN N203Kyu N203/P37 N203Tak
+#JPN N205 E35 south one interchange
+JPN N205 N202 P213 #not quite to P213, but interchanges not mapped
+JPN N206Kaw E96 N206
+JPN N206Kom N206 N202Ega
+JPN N207Nag N207 P124
+JPN N208Ari P736 N444
+JPN N212Nak N213 7
+JPN N212Yab N500 N212
+JPN N213Oit 2 N213
+JPN N219 E10 N219Hir/P14 #not quite to E10 but not mapped
+JPN N219Hir N219/P14 N10
+#JPN N220 E10/E98 south one interchange
+#JPN N220 P377 south two interchanges
 JPN N246
 JPN N247Chi
 JPN N248
@@ -4168,6 +4176,7 @@ JPN N504Sat
 #JPN Miyagi-Kenpoku Road
 #JPN Miyakonojo-Shibushi Road
 #JPN Nagoya-Seto Road
+#JPN Nakatsu-Hita Road
 #JPN Nanbu East Road
 #JPN Nansatsu Jukan Road
 #JPN Nishisonogi Road
