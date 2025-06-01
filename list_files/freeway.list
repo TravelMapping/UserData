@@ -4064,14 +4064,16 @@ JPN N159 P56_E P22/P27
 JPN N161 P345 N1 #and north from P345
 JPN N163 N170Sot_S N168 #not quite to N168 but not mapped
 JPN N167Ise N167 N42IFT
-JPN N175
-JPN N175Nis
-JPN N176Tak
-JPN N183
-JPN N192ToE
-JPN N197OHB
-JPN N197Ozu
-JPN N199
+#JPN N170 N170Izu_A north 2 interchanges, not mapped
+JPN N175 E2 P23_N
+JPN N175Nis End N175
+JPN N176Tak P13 P10_S
+JPN N183 P8 N180_N #not quite to N180_N
+#JPN N191 portion between N9_W and P40, not mapped
+#JPN N192ToE N438 east, not mapped
+JPN N197Ozu N197_E N197_W
+JPN N197OHB P610 N10Oit
+JPN N199 KE2/N199Kit N495 #not quite to N495
 JPN N200
 JPN N200Hiy
 JPN N200Nog
@@ -4128,6 +4130,7 @@ JPN N504Hok
 JPN N504Sat
 
 #JPN P1 (Nara)
+#JPN P1 (Takatsuki)
 #JPN P8 (Osaka)
 #JPN P17 (Fukuoka)
 #JPN P22 (Kanazawa)
