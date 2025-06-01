@@ -3937,7 +3937,7 @@ JPN N4 P51 P114
 JPN N4 HakZut P8_Miy
 JPN N4Miz P8 N4
 JPN N4 N4Miz E4(36)
-JPN N4 N282/P16 E4(43)
+JPN N4 N282_N E4(43)
 JPN N6 N354/N125Ami P64
 JPN N6 P43_N P16 #one more interchange south
 JPN N6 P40 P50_S
@@ -3974,7 +3974,7 @@ JPN N18 N405/P38 N8/N350
 JPN N20Mej P506 MejGreAve
 JPN N20Hac P47 C4/N20
 JPN N20 P38 P34
-JPN N21 N248_W P207 (not quite to P207)
+JPN N21 N248_W P207 #not quite to P207
 JPN N21 E41 N157 #under construction to west?
 JPN N23 N1 E87/NE3
 JPN N23Toy N1 N23
@@ -4009,7 +4009,7 @@ JPN N47SKW P34 N47
 JPN N47 P44 E7 #one more interchange west
 JPN N48 E4 P31 #east one more and west two more interchanges
 JPN N49 N6 Iwa
-JPN N403_S N7/N8
+JPN N49 N403_S N7/N8
 #JPN N50 N294 west 2 interchanges
 #JPN N53 P72 north, not mapped
 JPN N56Mat N56/N33Mat End
@@ -4052,7 +4052,7 @@ JPN N140Min N140_N N299
 JPN N140NKR N140_N N140/P6 #not quite to N140/P6 but interchanges not mapped
 JPN N150Nan N473 N150
 #JPN N153 C2/N302 east one interchange
-N153Toy N153 C3
+JPN N153Toy N153 C3
 JPN N155Chi N155_S N247Chi_N #not quite to N155_S, but intermediate interchange not mapped
 JPN N155 N419_S P56_S
 JPN N155 E1/P76 N153_W #south from E1/P76 but not mapped
@@ -4763,7 +4763,7 @@ POL S22 19(S7) POL/RUS
 POL DK24 S3_S UliPoz_W
 POL DK25 DW251 Mar
 POL DK25 UliZag UliGlo
-POL DK25 UliBoc UliOst #north to the next interchange
+POL DK25 TerInw UliOst
 POL DK33 DK8 DK46
 POL DK35 DW376 BolChr
 POL DK45 DK46/94_W DW435_W
@@ -4827,7 +4827,7 @@ POL DW835 S12/S17 SkeSho
 POL DW874 S12/S17(10) DW809
 POL DW902 UliFelOrl DK79
 POL DW911 DK94 DK79
-POL DW925 DW902 Uli1Maja #and continuation south
+POL DW925 DW902 UliBie_W
 POL DW935 UliLot DK78_S #under construction to the west
 
 #POL Aleja Jana Nowaka-Jeziorańskiego (Gliwice)
