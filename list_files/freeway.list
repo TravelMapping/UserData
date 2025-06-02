@@ -4119,12 +4119,14 @@ JPN N278Hak E5/E59 4
 JPN N279Mut N279/N338Omi N338
 JPN N279Shi N279 N4 #not quite to N279
 #JPN N292 south from N403_N but not mapped
-JPN N308Han
-JPN N313
-JPN N324Hon
-JPN N324Mat
-JPN N324Nag
-JPN N330
+#JPN N309 N170 north 2 interchanges
+JPN N313 N482_W P50 #not quite to P50
+JPN N313 7 2
+JPN N324Nag P51 E34
+JPN N324Hon P308 N324
+JPN N324Mat N324_W N324_E
+#JPN N330 E58 west 2 interchanges
+#JPN N331 portion between N331Oro and P77, not mapped
 JPN N337
 JPN N337Doo
 #JPN N353 (Shibukawa)
