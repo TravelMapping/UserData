@@ -174,6 +174,7 @@ DEU-BW U3 Vai Pli
 DEU-BW U6 StaBib MohBf
 DEU-BW U14 ChaPla Vai
 
+DEU-BY S1 FlugHafMun LeuBergRing
 DEU-BY S2 Dac LeuBergRing
 DEU-BY S2Pet PetHau Dac
 DEU-BY S3 MamDorf OstBf
@@ -182,8 +183,8 @@ DEU-BY S7 SieWer Hbf
 DEU-BY S8 DonBerBru FlugHafMun
 DEU-BY S2Nur Roth NurnBergHbf
 DEU-BY S5Nur NurnBergHbf AllBerg
-DEU-BY U1 OlyEinZen MesStaOst
-DEU-BY U2 FeldMoc InnsBruRing
+DEU-BY U1 OlyEinZen ManPla
+DEU-BY U2 FeldMoc MesStaOst
 DEU-BY U3 Moo FurRiedWest
 DEU-BY U4 KarPlaSta AraPark
 DEU-BY U5 LaiPla NeuPerSud

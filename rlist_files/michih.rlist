@@ -1,4 +1,4 @@
-# Date: 2025-05-02
+# Date: 2025-05-31
 # ----------------
 
 ######################
@@ -341,6 +341,16 @@ DEU-NW S1 DortMundHbf WatHon                   #2025
 DEU-NW S1 BocHbf EssHbf                        #2025
 DEU-NW S2Rec Her RecHauHbf                     #2025
 
+DEU-BB S1Wit WitBer BB/ST                      #2025
+DEU-ST S1 BB/ST MagBurgHbf                     #2025
+
+DEU-BY S1Vor LinReu DEU/AUT                    #2025
+AUT S1Vor DEU/AUT Bre                          #2025
+
+#DEU-NW RE16 Essen Hbf Witten Hbf              #2025, rerouted via Steele instead of Wattenscheid, then not via Langendreer
+DEU-NW S11 DusDorfFlugHafTer DusDorfUntRath    #2025
+DEU-NW S11 NeuHbf KolnLon                      #2025
+DEU-NW S28 DusDorfBilk KaaSee                  #2025
 
 
 ######################
@@ -658,6 +668,9 @@ DEU-NW 306Boc BocRatHaus BocHbf       #2025
 DEU-NW 308Boc SchBankStr BocHbf       #2025
 DEU-NW 308Boc BocHbf HatMit           #2024
 DEU-NW 310Boc HonKir BocHbf           #2025
+DEU-NW 310Boc Mark517 HevDorf         #2025
+DEU-NW 302Boc LaerMit OWerk           #2025
+DEU-NW 318Boc BocHbf BocDahlHau       #2025
 
 #Bonn
 DEU-NW 16Rhe BarPla StaHal            #2022, U16
@@ -668,14 +681,19 @@ DEU-NW 66Bon SiegBurgBf BadHon        #2022, U66
 
 #Cologne
 DEU-NW 01Kol WeiWest BensBerg         #2021, U1
+DEU-NW 03Kol GorZen VenStrGur         #2025, U3
 DEU-NW 03Kol HansBocPlaBfWest Thi     #2021, U3
+DEU-NW 04Kol BocMund SchBus           #2025, U4
 DEU-NW 04Kol HansBocPlaBfWest WiePla  #2021, U4
 DEU-NW 04Kol BfDeuLANAre Wei          #2024, U4
 DEU-NW 05Kol SparKasButzWeiHof HeuMar #2021, U5
 DEU-NW 07Kol FreBen ZunDorf           #2021, U7
+DEU-NW 09Kol SulzHerKeiPla NeuMar     #2025, U9
 DEU-NW 09Kol NeuMar KonFor            #2021, U9
 DEU-NW 12Kol EbePla ZollStoSudFriHof  #2021, U12
+DEU-NW 12Kol Mer RudPla               #2025, U12
 DEU-NW 13Kol VisStr SulzGur           #2021, U13
+DEU-NW 15Kol ChorWei WilSolStr        #2025, U15
 DEU-NW 16Rhe NieSebStr SurBf          #2021, U16
 DEU-NW 17Kol SevStr SurBf             #2021, U17
 DEU-NW 18Rhe Thi SulzGur              #2021, U18
@@ -694,6 +712,7 @@ DEU-NW U49 DortMundHbf Hac            #2022, Hbf - Hacheney
 DEU-NW 901Dui OberMarSch MulHeimHbf   #2025
 DEU-NW 903Dui DinBf HamRatHaus        #2025
 DEU-NW 903Dui DuisBurgHbf ManTor2     #2025
+DEU-NW 903Dui HamRatHaus DuisBurgHbf  #2025
 
 
 #Düsseldorf
@@ -704,11 +723,14 @@ DEU-NW U73 GerHeimS PohWeg            #2024
 DEU-NW U73 HeiHeiAll UniOstBotGar     #2022
 DEU-NW U75 NeuHbf VennHauAll          #2024
 DEU-NW U76 RheStr HeiHeiAll           #2023
+DEU-NW U77 SeeSte DusDorfHbf          #2025
+DEU-NW U78 MesNord KenDamm            #2025
 DEU-NW U79 DuisBurgMeiBf UniOstBotGar #2022
 DEU-NW U83 GerHeimKraHaus HeiHeiAll   #2024
 DEU-NW 701Dus DOMEHul RathS           #2024
 DEU-NW 701Dus HeiStr SchaStr          #2024
 DEU-NW 701Dus SchaStr EllMitS         #2025
+DEU-NW 704Dus MerStra DusDorfHbf      #2025
 DEU-NW 705Dus SchaStr +DIV_SteA       #2025
 DEU-NW 705Dus SteMerStr +DIV_SteB     #2025
 DEU-NW 706Dus HammS FraStr            #2024
@@ -716,6 +738,7 @@ DEU-NW 706Dus SchaStr SteMerStr       #2025
 DEU-NW 707Dus UntRathS MedHafKesStr   #2024
 DEU-NW 708Dus UhLandStr BirStr        #2025
 DEU-NW 709Dus TheHeuPla SchStrArbAge  #2024
+DEU-NW SkyTrn FernBf TerC             #2025
 
 #Essen
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
@@ -725,6 +748,7 @@ DEU-NW 101Ess EssHbf HelStr_2        #2025
 DEU-NW 103Ess WertStr +DIV_Var       #2024
 DEU-NW 103Ess RatHausEss Ste         #2025
 DEU-NW 105Ess UntStr EssHbf          #2024
+DEU-NW 105Ess EssHbf FinStr          #2025
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 107Ess EssHbf Bre             #2025
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
@@ -813,11 +837,19 @@ DEU-ST 8Hal Tro ElsaBraStrStr       #2022, Trotha - Emil-Eichhorn - Volkspark - 
 DEU-ST 10Hal GotBog Hbf             #2022, Göttinger Bogen - Rennbahnkreuz - Marktplatz - Steintor - Berliner Brücke - Hbf
 DEU-ST 12Hal Tro RiePla             #2022, Trotha - Zoo - Lessingstraße - Steintor - Riebeckplatz
 
-DEU-ST 9Mag NeuStaSee Ref            #2020, via Domplatz
+DEU-ST 9Mag NeuStaSee +DIV_AltMar    #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
+DEU-ST 5Mag RaiStr +DIV_AltMar       #2020, actually traveled with 9 (9 and 10 are now swapped through old town)
+DEU-ST 9Mag RaiStr Ref               #2020, actually traveled 9 from NeuStaSee via Domplatz, Planckstraße to Reform
 DEU-ST 1Mag MilWeg KasStr            #2020, actually also Milchweg-IKEA but that's closed as-at 2023
-DEU-ST 10Mag KasStr +DIV_AltMar      #2020, line 10 via Hbf, 2nd segment is line 9 now
-DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, line 10 via Hbf, traveled with line 10
+DEU-ST 10Mag KasStr +DIV_AltMar      #2020, via Hbf, 2nd segment is line 9 now
+DEU-ST 9Mag +DIV_AltMar HasBachPla   #2020, via Hbf, actually traveled with line 10 (9 and 10 are now swapped through old town)
 DEU-ST 2Mag HasBachPla WesHus        #2020
+DEU-ST 1Mag KanSti +DIV_AltMar       #2025, actually started at Goldschmiedebrücke since 1 was rerouted
+DEU-ST 10Mag BarSee KasStr           #2025
+DEU-ST 2Mag LosStr OpeHaus           #2025
+DEU-ST 5Mag OpeHaus MesGeElbAuenPark #2025
+DEU-ST 6Mag HeuMar HerKrug           #2025
+DEU-ST 4Mag CityCar PecPla           #2025
 
 DEU-TH 1Erf EurPla ThuHal            #2022
 DEU-TH 2Erf PRPlaMes WieHug          #2022

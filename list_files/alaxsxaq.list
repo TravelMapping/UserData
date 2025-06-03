@@ -26,8 +26,8 @@ MT MT49 US2 TwoMedRd
 MT TwoMedRd MT49 TwoMedLk
 #AZ
 AZ US89AltFre US89 UT US89AltKan US89 #idk if this will work
-AZ AZ89ASed I-40BL RedRockRd
-AZ AZ89ASed AZ260 FainRd #maybe more?
+AZ AZ89A I-40BL RedRockRd
+AZ AZ89A AZ260 FainRd #maybe more?
 AZ AZ179 I-17 AZ89A
 AZ US60 AZ260_E TegSt #show low to wickenburg
 #phx metro
@@ -193,7 +193,7 @@ NM US66HisSan I-40(275) NM91
 #thunder bay (incomplete)
 ON ON17 SH590 SupShoRd #extend to ouimet canyon road
 #ON587 (sleeping giant)
-ON SH587 ON11/17 SH587_End
+ON SH587 ON11/17 SH587_S
 #mount mckay?
 #transit through canada
 AB AB4 USA/CAN AB512 
@@ -250,7 +250,7 @@ HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
 HI HI139 HI11 HI130
 HI HI130 HI139 CR132 #to leilani estates
 HI ChaCraRd CraRimDr HolSeaArch
-HI HI160 HI11 PuuHonNHP
+#HI HI160 HI11 PuuHonNHP #HI160 removed
 #WA
 WA AirExpy Ter WA518
 WA WA518 AirExpy I-5
@@ -346,6 +346,9 @@ ISL TH37 TH365 TH35_N
 ISL TH35 TH1 Gey
 ISL TH1 TH35 TH413
 ISL TH413 TH1 TH41
+#switzerland/liechtenstein
+CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
+LIE GTS Ege LettStr #from balzers to vaduz post
 
 #CA
 #thunder bay
