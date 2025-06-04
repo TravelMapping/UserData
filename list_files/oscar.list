@@ -3746,9 +3746,10 @@ ON ON3Win AmbBrg HowAve
 ON ON3Win OutDr ON77
 ON ON3For ON140 RoseHillRd
 ON ON4 ON3 ComRd
-ON ON6 ON3 ON403(74)
-ON ON6 ON401(299) ON7_W
-ON ON6 Sid3 ON89
+ON ON6 MainSt BelAve
+ON ON6 GarSt RR10/8
+# TobFry
+# gap due to construction closure (until late 2025) in Fergus
 ON ON6Man SBayFerry ON17
 ON ON7Wat RR50 OldON24_N
 ON ON7Wat VicRdS CasDr
