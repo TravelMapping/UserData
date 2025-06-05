@@ -1,8 +1,11 @@
-#This list is intended for mapping roads that are explicitly signed as a beltway, ring, etc in some way, or implicitly such (eg inner/outer directions)
+#This list is intended for mapping roads that are explicitly signed as a beltway, ring, loop, etc in some way, or implicitly such (eg inner/outer directions). Doesn't have to be a complete ring, but does exclude Business Loop type roads even though they have 'loop'.
 
 #AUSTRALIA# - incomplete
 ##Adelaide##
 AUS-SA R1 A1_E A1_W
+##Canberra##
+AUS-ACT A23 StaCir_N StaCir_S
+AUS-ACT AdeAve A23 StaCir_W
 ##Mackay##
 #Mackay Ring Road not in browser
 ##Melbourne##
@@ -440,9 +443,76 @@ WLS WIERR ClyRd_N ClyRd_S
 ENG YorkIRR B1363_E B1363_W
 
 #UNITED STATES# - not complete at all
-##Allegheny County## (note many bits not in browser)
-###Purple###
-###Blue###
+##ALABAMA##
+###Dothan###
+AL AL210 US431_S US231_S
+
+##ARIZONA##
+###Phoenix##
+AZ AZ101 1 61B
+AZ AZ202 1A 78
+AZ AZ303 CanTraBlvd I-17
+
+##DC##
+###Capital Beltway##
+MD I-495 DC/MD MD/VA
+DC I-495 VA/DC DC/MD
+VA I-495 MD/VA VA/DC
+
+##FLORIDA##
+###Jacksonville###
+FL I-295 I-95 61
+###Orlando###
+FL FL417 I-4 55A
+FL FL429 1 55A
+###Tallahassee##
+FL US319 FL61/263 FL61
+FL FL263 US319 US27
+
+##GEORGIA##
+###Athens###
+GA GA10LpAth 1 US78
+###Rome###
+GA GA1LpRom US411 GA20
+GA GA1LpRoW GA1 GA20
+###Sylvania###
+GA GA73LpSyl GA73_S GA73_N
+###Tallulah Falls###
+GA GA15LpTal GA15_S GA15_N
+
+##KENTUCKY##
+###Elizabethtown###
+KY KY3005 End US62_E
+###Glasgow###
+KY US68 US68BusGla_W US68BusGla_E
+KY KY1519 KY1307 US68/68Bus
+KY KY3600 KY1297 US68/68Bus
+###Lexington###
+KY KY4 US27 19
+
+##MARYLAND##
+###Baltimore###
+MD I-695 BroHwy 44
+
+##NEW YORK##
+###New York City###
+NY BeltPkwy I-278 25
+###Rochester###
+NY InnLoop I-490 UniSt
+
+##NORTH CAROLINA##
+###Charlotte###
+NC I-277 1B 5
+NC I-485 30 I-85(48)
+
+##OKLAHOMA##
+###Okmulgee###
+OK OK56LpOkm US62 US75
+
+##PENNSYLVANIA##
+###Allegheny County, PA### (note many bits not in browser)
+####Purple####
+####Blue####
 PA US19 BasSt IvoAve
 PA US19TrkPit PotAve PioAve
 PA PA8 PA380_W HigParkBri
@@ -453,14 +523,14 @@ PA PA51 PA88 MaySt
 PA PA88 McNRd PA51
 PA PA121 PotAve PA50
 PA PA837 WestSt BecRunRd
-###Green###
+####Green####
 PA US19 ThrDegRd SewOakRd
 PA PA8 PA130 HigParkBri
 PA PA8 DunAve HarRunRd
 PA PA28 6 8
 PA PA130 PA8 VerRd
 PA PA837 McKDuqBri RanBri
-###Yellow###
+####Yellow####
 PA I-79 65 68
 PA US19 ConRd PA121
 PA US22BusMon PA791 RodiRd
@@ -476,7 +546,7 @@ PA PA380 PA791 HulRd
 PA PA791 US22Bus PA380
 PA PA885 LebChuRd_E LebChuRd_W
 PA PA910 CedRidRd FreRd
-###Orange###
+####Orange####
 PA I-376 57 60
 PA I-376BLMoo UniBlvd I-376_E
 PA US22 McKRd I-376(60)
@@ -488,23 +558,118 @@ PA PA56TrkNew PA56_W PA366_E
 PA PA380 CenRd NewTexRd
 PA PA910 I-79 OakRd
 PA PA978 BatRidRd_E McKRd
-###Red###
+####Red####
 PA PA366 PA28 7thAve
-##Athens, GA##
-GA GA10LpAth 1 US78
-##Baltimore##
-MD I-695 BroHwy 44
-##Charlotte##
-NC I-277 1B 5
-NC I-485 30 I-85(48)
-##Hampton Roads##
-VA I-64 264 299
-VA I-664 1 15
-##Harrisburg##
+###Harrisburg###
 PA I-81 59 70
 PA I-83 41A 51
 PA PA581 1 6
-##Washington##
-MD I-495 DC/MD MD/VA
-DC I-495 VA/DC DC/MD
-VA I-495 MD/VA VA/DC
+
+##TEXAS##
+###Abilene###
+TX TXLp322 US83/84 I-20
+###Amarillo###
+TX TXLp335 I-40(75)_N I-40(75)_S
+###Athens###
+TX TXLp7 TX31_A TX31_C
+###Austin###
+TX TXLp1 TX45_S TX45_N
+TX TXLp360 US290 US183
+###Belton###
+TX TXLp121 FM436 FM439
+###Carrizo Springs###
+TX TXLp517 US277 US83
+###Center###
+TX TXLp500 TX7_S US96_N
+###Commerce###
+TX TXLp178 TX224 TX11Bus
+###Conroe###
+TX TXLp336 FM2854_S FM2854_N
+###Crockett###
+TX TXLp304 TX19_W TX19_E
+###Dallas###
+TX TXLp9 I-35E I-45BL
+TX TXLp12 I-35E(436)_W I-35E(436)_E
+###Del Rio###
+TX TXLp79 US277_S US90_N
+###Denton###
+TX TXLp288 I-35 I-35E
+###Eagle Pass###
+TX TXLp480 IndBlvd US57
+###El Paso###
+TX TXLp375 TX20 I-10(13)
+###Gladewater###
+TX TXLp485 US271_S US271_N
+###Granby###
+TX TXLp567 US377 US377Bus
+###Harlingen###
+TX TXLp499 I-69E(23A) I-69E(29A)
+###Henderson###
+TX TXLp571 US79 US259
+###Houston###
+TX TXLp8 TX225_S TX225_N
+###Jacksonville###
+TX TXLp456 FM347 TX204
+###Kerrville###
+TX TXLp98 FM1338 TX16
+TX TXLp534 TX173 BenDr
+###Laredo###
+TX TXLp20 ManHeinRd WorTraBri
+###Longview###
+TX TXLp281 I-20(595) I-20(599)
+###Lubbock###
+TX TXLp289 I-27(1A)_W I-27(1A)_E
+###Lufkin###
+TX TXLp287 US59Bus_W US59Bus_E
+###Marshall###
+TX TXLp390 TX43_W US80_E
+###Midland###
+TX TXLp250 I-20(131) I-20(143)
+###Mineola###
+TX TXLp564 US80 US69_S
+###Monahans###
+TX TXLp464 TX18_S TX18_N
+###Nacogdoches###
+TX TXLp224 US59/259 TXLp224_E
+###New Braunfels###
+TX TXLp337 I-35(184) I-35(189)
+###Odessa###
+TX TXLp338 I-20(121)_N I-20(121)_S
+###Palestine###
+TX TXLp256 TX155_E TX155_W
+###Pampa###
+TX TXLp171 TX70_S TX70_N
+###Paris###
+TX TXLp286 FM79_E FM79_W
+###Perryton###
+TX TXLp143 FM1267 US83_N
+###Post###
+TX TXLp46 US84 US380/207
+###San Angelo###
+TX TXLp306 US67_W US67_E
+###San Antonio###
+TX TXLp13 US90 I-410
+TX TXLp1604 I-10(587)_S I-10(587)_N
+###Sulphur Springs###
+TX TXLp301 I-30/67 TX19/154
+###Tatum###
+TX TXLp42 TX70_S TX70_N
+###Temple###
+TX TXLp363 I-35(304)_W I-35(304)_E
+###Texarkana###
+TX TXLp151 I-369/59 TX/AR
+###Tyler###
+TX TXLp49 TX110_S US69_N
+TX TXLp323 TXLp323_S US271_N
+###Victoria###
+TX TXLp463 US77 US59
+###Waco###
+TX TXLp340 US84_W US77Bus
+TX TXLp396 TX6 US77
+###Wichita Falls###
+TX TXLp11 US277Bus I-44
+
+##VIRGINIA##
+###Hampton Roads###
+VA I-64 264 299
+VA I-664 1 15
