@@ -1,4 +1,4 @@
-# Date: 2025-05-31
+# Date: 2025-06-07
 # ----------------
 
 ######################
@@ -825,6 +825,9 @@ DEU-SN 12Lei GohNord +DIV_NordPla                #2020, actually traveled as tem
 DEU-SN 14Lei SBfPlagWitz MarStr                  #2023, actually traveled as temporary line 34
 DEU-SN 15Lei Mil MeusDorf                        #2020, Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf
 DEU-SN 16Lei MesGel Los                          #2020, Messegelände - Hbf - Lößnig
+
+DEU-SN 3Zwi NeuPla EckBachWen                    #2025
+DEU-SN 4Zwi NeuMar Pol                           #2025
 
 DEU-ST 1Hal FroZuk MarPla           #2022, closed south of Böllberg stop due to construction
 DEU-ST 2Hal SolStr SBfSudSta        #2022, Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt
