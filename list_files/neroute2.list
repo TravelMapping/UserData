@@ -1428,8 +1428,9 @@ OH US24 OH51 OH/MI
 #OH US27 from Findlay Street to Brighton Place
 #OH US33BusNel only the part that doesn't bypass the old brick alignment
 OH US35 43B(23) 64
-OH US42 EggAve I-71(2)
+OH US42 US27/52_S I-71(2)
 OH US50 I-71_S RedBankRd
+OH US50TrkCin US22/27 DelAve #east to Stanley Avenue
 OH US52 OH823 CR1
 OH US52 CR1A/23 US23Spur
 OH US68 5 I-75
