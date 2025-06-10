@@ -357,6 +357,60 @@ RI RI138 EShoRd RI138A/238
 ##SOUTH CAROLINA##
 SC I-185 SC417 12
 
+##TEXAS##
+TX I-169 I-69E FM1847
+TX US62ElP MEX/USA US85_N #not all the way to US85_N
+TX US77 MEX/USA EastAve
+TX US183 MonDr LoyLn #not actually US 183 but Toll SH 183
+TX US277SprDel TXSpr239_N USA/MEX #not all the way to TXSpr239_N
+TX US290 US183 FM734 #not actually US 290 but Toll SH 290
+TX TX4 MEX/USA US77Bus
+TX TX45 PecParkBlvd I-35(223)
+TX TX45Bea FM1626 TXLp1
+TX TX71 FM973 TX45/130 #the freeway lanes are toll; the frontage roads are not
+TX TX99 RivParkDr RivParkDr #only the overpass is tolled
+TX TX99 NewTerBlvd NewTerBlvd #only the overpass is tolled
+TX TX99 US90Alt FM1464
+TX TX99 AirBlvd HarRd
+TX TX99 MasRd_S BelSt
+TX TX99 PeekRd PeekRd #only the overpass is tolled
+TX TX99 BelBlvd BelBlvd #only the overpass is tolled
+TX TX99 WesTlwy WesTlwy #only the overpass is tolled
+TX TX99 I-10(743) FisRd
+TX TX99 FM1405 FM1405
+TX TX99 TX146Bus LeeDr
+TX TX121 DenTapRd I-35E #not actually 121 but SRT
+TX TX121 HebPkwy US75_S #not actually 121 but SRT
+TX TX130 614(10) 411
+TX TX183A US183_S US183_N
+TX TX183A US183_N TX29 #not yet mapped
+TX TX249 NorBlvd FM1774_N #part is not actually 249 but TBT
+#looks like TX288 is only extra freeway lanes
+TX TX360 LoneStarRd CampWisRd
+TX TX550 TX48 FM3248
+TX TXLp1 ScoRidPkwy TX45_N
+TX TXLp8 TX225_S GenRBRd #not actually BW8 but SHT
+TX TXLp8 BeaRd BelAve #not actually BW8 but SHT
+TX TXLp8 BeeSt EllaBlvd #not actually BW8 but SHT
+TX TXLp8 MesaDr US90_E #not actually BW8 but SHT
+TX TXLp8 JacPortBlvd TX225_N #not actually BW8 but SHT
+TX TXLp49 TX110_S US69_N
+TX ChiTrlPkwy US67 I-30 #not all the way to US67
+TX DalNorTlwy I-35E US380
+TX FBTollRd TXLp8 US90Alt
+TX FBPTollRd SieRanRd TXLp8
+TX GeoBushTpk I-20 TX183
+TX GeoBushTpk NBeltLineRd I-635
+TX GeoBushTpk ValViewLn SanLakeRd
+TX GeoBushTpk OldDenRd CusPkwy
+TX GeoBushTpk JupRd BraRd
+TX GeoBushTpk TX78 I-30(61B)
+TX HarTollRd CroRd I-45
+#TX HTR Airport Connector
+TX IntPkwy AirDr_S ExpNor
+TX WesTlwy FM723 RicAve
+#maybe some other border bridges on FM roads
+
 ##VIRGINIA##
 VA I-264 7B 8
 VA US13 US60 WisePoiLn
