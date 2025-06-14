@@ -8,6 +8,9 @@ FRA-BFC ParMil IDF/BFC BFC/ARA
 FRA-IDF ParMil ParGareLyon IDF/BFC
 
 # Italy - Lombardia
+ITA-LOM M1 PorVen Cor
+ITA-LOM M2 CerNav PorGen
+ITA-LOM MXP2 MilCen MalAerTer2
 ITA-LOM ParMil MilPorGar PIE/LOM
 
 # Italy - Piemonte
