@@ -7,6 +7,10 @@ FRA-BFC ParMil IDF/BFC BFC/ARA
 # France - Île-de-France
 FRA-IDF ParMil ParGareLyon IDF/BFC
 
+# Italy - Emilia-Romagna
+ITA-EMI S4B BolCen Imo
+ITA-EMI S5 Mod BolCen
+
 # Italy - Lombardia
 ITA-LOM M1 PorVen Cor
 ITA-LOM M2 CerNav PorGen
