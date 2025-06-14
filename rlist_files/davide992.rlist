@@ -1,0 +1,14 @@
+# France - Auvergne-Rhône-Alpes
+FRA-ARA ParMil BFC/ARA FRA/ITA
+
+# France - Bourgogne Franche-Comté
+FRA-BFC ParMil IDF/BFC BFC/ARA
+
+# France - Île-de-France
+FRA-IDF ParMil ParGareLyon IDF/BFC
+
+# Italy - Lombardia
+ITA-LOM ParMil MilPorGar PIE/LOM
+
+# Italy - Piemonte
+ITA-PIE ParMil PIE/LOM FRA/ITA
