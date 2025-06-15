@@ -1,4 +1,4 @@
-# Date: 2025-06-08
+# Date: 2025-06-14
 # ----------------
 
 ######################
@@ -353,6 +353,11 @@ DEU-NW S11 DusDorfFlugHafTer DusDorfUntRath    #2025
 DEU-NW S11 NeuHbf KolnLon                      #2025
 DEU-NW S28 DusDorfBilk KaaSee                  #2025
 DEU-BE S75 WarStr WarBerg                      #2025
+
+CHE S1Gal SteRhe Kre                           #2025
+CHE S14Gal DEU/CHE Kre                         #2025, actually traveled as IR75
+DEU-BW S14Gal Kon DEU/CHE                      #2025, actually traveled as IR75
+DEU-BW S6Bod Rad Kon                           #2025
 
 
 ######################
