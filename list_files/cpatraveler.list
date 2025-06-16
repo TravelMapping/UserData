@@ -2812,7 +2812,7 @@ NC US17 227 US64(514) #021118 ATMC FW
 NC US17 NC211 NC87_S #100618 ATMC Annual Mtg    
 NC US17BusWlm MarSt_N US17_S #033017 ATMC Bd Mtg
 NC US19 I-26 US19E/19W #102517 CVTMA Fall Mtg
-NC US19 US64/74 GA/NC #102617 CVTMA Fall Mtg  
+NC US19 US64/74 GA/NC #102617 CVTMA Fall Mtg 
 NC US19E US19/19W NC194 #102517 CVTMA Fall Mtg
 NC US19E NC/TN NC194_S #090718 Visit Jimmy 
 NC US29 161 NC/VA #010918 ATMC Inventory 
@@ -2881,7 +2881,7 @@ NC NC18 NC113 NC16_S #020718 Skyline FW
 NC NC24 NC58 US17_N #100717 ATMC Annual Mtg
 NC NC24 NC205 NC200 #010818 ATMC Annual Mtg
 NC NC24 NC58 US70 #USMC 
-NC NC24 NC24_E NC24_W #USMC
+NC NC24BusJac NC24_E NC24_W #USMC
 NC NC30 NC903 US264 #100717 ATMC Annual Mtg
 NC NC32 NC94 US17 #021118 ATMC FW 
 NC NC33 US17 NC306_S #100717 ATMC Annual Mtg
@@ -3243,9 +3243,11 @@ OR I-5 124 233 #07222023 Trip for TFACC meeting to Crater Lake
 OR I-5 288 299B #07222023 Trip for TFACC meeting to Crater Lake 
 OR US30BypPor I-5 I-205 #07222023 Trip for TFACC meeting to Crater Lake
 OR US30BypPor I-205 US30_E #07222023 Trip for TFACC meeting to Crater Lake
+PA I-79 WV/PA 14 #04122018 Highland Bd Mtg 
 PA I-90 PA/NY OH/PA #Nigara Falls Trip   
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
-PA US219 MD/PA PA/NY #Nigara Falls Trip 
+PA US219 MD/PA PA/NY #Nigara Falls Trip
+PA PA21 I-79 WV/PA #04122018 Highland Bd Mtg  
 RI I-95 24B RI/MA #Trip with GJ Telergee
 RI I-95 CT/RI 24B #Trip to Boston with parents  
 RI I-195 1 RI/MA #Trip with GJ Telergee
@@ -3653,6 +3655,7 @@ UT UT279 US191 End #12012024 Moab Trip
 UT UT313 US191 End #12012024 Moab Trip
 UT UT318 UT9 QuaCreSP #03302025 Sidetrip Mohave FW 
 VA I-66 VA/DC 1 #Spruce Knob Trips
+VA I-77 VA/WV 40 #01182018 Highland Inventory  
 VA I-81 VA/WV 221 #Hagerstown Trip & Spruce Knob   
 VA I-95 VA/DC 79 #01122017 Reagan to Mom
 VA I-95 51 46 #Visit Mom from AL 
@@ -3664,8 +3667,12 @@ VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
 VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom
 VA US17BusGlo US17_S US17_N #12282024 Trip to Comfort Pt  
 VA US58 US60 US13 #12272024 Trip to VA Beach
-VA US58BusVir US58 AtlAve #Visit Mom   
-VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace  
+VA US58BusVir US58 AtlAve #Visit Mom
+VA US219 VA/WV US460 #01182018 Highland Inventory
+VA US220 VA/WV US250 #04122018 Highland Bd Mtg 
+VA US250 US220 WV/VA #04122018 Highland Bd Mtg     
+VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace
+VA US460 US219 WV/VA #01182018 Highland Inventory   
 VA GWMemPkwy I-495 DC/VA #Visit DC
 VA GWMemPkwyCry VA/DC 1stSt #Visit DC
 VA GWMemPkwyMtV VA400 VA235 #Visit DC
@@ -3787,7 +3794,33 @@ WI US141 I-43(178) US41_S #Training Class in Green Bay
 WI WI29 I-41 WI57/54 #Training Class in Green Bay
 WI WI32 ToWI172 WI54_E #Training Class in Green Bay
 WI WI54 I-41 I-43 #Training Class in Green Bay   
-WI WI172 I-43 StrArpt #Training Class in Green Bay 
+WI WI172 I-43 StrArpt #Training Class in Green Bay
+WV I-64 181 KY/WV #03082017 Highland Tel FW
+WV I-64 WV/VA 181 #01182018 Highland Inventory
+WV I-77 9 VA/WV #01182018 Highland Inventory 
+WV I-79 I-77 99 #01182018 Highland Inventory 
+WV I-79 115 119 #04122018 Highland Bd Mtg
+WV I-79 132 WV/PA #04122018 Highland Bd Mtg 
+WV I-470 1 OH/WV #04122018 Highland Bd Mtg
+WV US22 OH/WV WV/PA #04122018 Highland Bd Mtg 
+WV US33 I-79 US220_S #01182018 Highland Inventory
+WV US50 I-79 US250_N #04122018 Highland Bd Mtg   
+WV US60 I-64(181) CR60/34 #03082017 Highland Tel FW
+WV US60 CR60/34 WV63 #01182018 Highland Inventory
+WV US219 WV63_E VA/WV #01182018 Highland Inventory   
+WV US220 US33_E VA/WV #01182018 Highland Inventory
+WV US220 WV/MD US33_E #04122018 Highland Bd Mtg   
+WV US250 WV/VA WV28/92 #03082017 Highland Tel FW
+WV US250 WV28/92 US33_E #04122018 Highland Bd Mtg
+WV US250 US50_W I-79 #04122018 Highland Bd Mtg
+WV US250 WV891 I-470 #04122018 Highland Bd Mtg
+WV US340 WV/VA VA/WV #04132017 Highland Tel Bd Mtg
+WV US460 WV/VA I-77 #01182018 Highland Inventory
+WV WV20 US119/33 I-79 #04122018 Highland Bd Mtg 
+WV WV63 US60 US219_S #01182018 Highland Inventory  
+WV WV92 US250/28 US60 #03082017 Highland Tel FW 
+WV WV92 US33/250 US33/219 #01182018 Highland Inventory
+WV WV891 WV/PA US250 #04122018 Highland Bd Mtg   
 WY I-25 CO/WY 80 #01132013 CO Inventory side trip to NPS Locations
 WY I-25 80 92  #01142023 CO Inventory side trip to NPS Locations
 WY I-80 UT/WY 34  #Trip to NSAC Annual Meeting in Salt Lake City 08032017
