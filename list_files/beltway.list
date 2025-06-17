@@ -13,7 +13,6 @@ AUS-VIC M80 M1 MR46
 ##Townsville##
 AUS-QLD A1 QLD14 QLD13
 
-
 #BELGIUM#
 ##Aalst##
 BEL R41 A10 N9_E
@@ -96,6 +95,16 @@ BEL R61 N627 N672
 BEL R80 N82_S N82_N
 ##Waregem##
 BEL R35 N382b_E N382b_W
+
+#CANADA#
+##Regina##
+SK RingRd SK1/11 PasSt
+##Saskatoon##
+SK SK11 SK16_E IdyDr_S
+SK SK11Cir SK16_E SK16_W
+##Winnepeg##
+MB MB100 42 1
+MB MB101 42 1
 
 #DENMARK#
 ##Aalborg##
@@ -235,6 +244,35 @@ IRL DubOO J51 R813
 IRL KilRR J1 J10
 ##Sligo##
 IRL SliCityLp J1 R292
+
+#ITALY# - incomplete (just done motorways)
+##Bologna##
+ITA RA1 A14Cas A14
+ITA RA1Bol A14 RA1
+##Catania##
+ITA RA15 A18 SS114
+##Como##
+ITA A59 SP19 SP24
+##Mestre##
+ITA A57 A4_W A4_E
+##Milano##
+ITA A1 A1Mil_N A50_S
+ITA A50 A8 A1_S
+ITA A51 1 23
+ITA A52 A51 A50
+ITA A58 1 A1
+##Naples##
+ITA A1Cap A1 A56
+ITA A56 1 14
+##Pavia##
+ITA A54 SS35_S SS35_N
+##Roma##
+ITA AGRA 1 SS1
+##Torino##
+ITA A55 A6 A55Fal
+ITA A55Fal A55 StrSet
+##Varese##
+ITA A60 SP57 SS712
 
 #NEW ZEALAND#
 ##Auckland##

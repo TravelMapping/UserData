@@ -74,8 +74,10 @@ ENG A5201 A401 A501
 ENG A5204 A5 A400
 ENG B100 A1 AppSt
 ENG B144 B100 A1200
+ENG B240 A3/A3202 A201
 ENG B300 A3 A23/A302
 ENG B323 A3203/A3212 A3214
+ENG B324 B323 A202
 ENG B326 A202 A302
 ENG B400 A4 A40
 ENG B401 A40/A400 B402
@@ -138,6 +140,41 @@ FL FLTpk 1 11A
 FL FLTpk 13 304
 FL FLTpkMia FL826 4X
 
+##ILLINOIS##
+IL I-80 154 160
+IL I-88 54 76
+IL I-88 78 I-294_N
+IL I-90 3 15
+IL I-90 17 79C
+IL I-90 59A(94) IL/IN
+IL I-94 1B 8
+IL I-94 10 29
+IL I-294 0 52
+IL I-355 0 29
+IL IL9 IA/IL IL96_S
+IL IL56 GalBlvd IL31_S #not all the way to GalBlvd
+IL IL390 US20 11
+IL IL390 12 15
+
+##INDIANA##
+IN I-80 16 21
+IN I-90 IL/IN 14A
+IN I-90 14B IN/OH
+IN IN265 11 IN/KY
+IN IN912 I-90 US41
+IN IN912 RilRd 5A
+
+##KANSAS##
+KS I-35 4 127A
+KS I-70 366 224(KT)
+KS I-135 I-35 1B
+KS I-335 127 177
+KS I-470 6 183(KT)
+
+##KENTUCKY##
+KY I-65 137 IN I-65 0A
+KY KY841 37 KY/IN
+
 ##LOUISIANA##
 LA LA1 OldLA1_S OldLA1_N
 LA LakePonCswy EspAve ECswyApp #not all the way to EspAve
@@ -169,6 +206,14 @@ MA I-90 NY/MA 134
 MA I-90 135 137
 MA US1 MA99_S CarSt
 MA MA1ASal US1 PorSt
+
+##MICHIGAN##
+MI I-75 339 343
+MI I-75 394 USA/CAN
+MI I-94 275 USA/CAN
+
+##MINNESOTA##
+MN US71 US53_S USA/CAN #not all the way to US53_S
 
 ##NEW HAMPSHIRE##
 NH I-93 I-293_N I-89
@@ -223,6 +268,7 @@ NY I-87 9(NYST) 10(NYST)
 NY I-87 15A(NYST) 24(NYST)
 NY I-90 61(NYST) 55(NYST)
 NY I-90 50(NYST) 26(NYST) #26 to 24 is free if you enter or exit at 25A
+NY I-90 12 NY/MA
 NY I-95 16 18B
 NY I-190 17 18
 NY I-190 20A 21B
@@ -236,6 +282,7 @@ NY I-490 29 I-90(45)
 NY I-495 2ndAve 14
 NY I-678 16 18
 NY I-690 I-90 1
+NY I-787 I-87 1
 NY US6 US9W/202 NY9D
 NY US44 US9W_S US9
 NY NY23 NY385 NY9G_S #not all the way to either end
@@ -253,6 +300,35 @@ NY TacStaPkwy RockCityRd I-90
 NC US74BypMon 255 273
 NC NC540 36 69
 NC NC885 1 5
+
+##OHIO##
+OH I-76 219 OH/PA
+OH I-80 IN/OH 219
+OH I-90 IN/OH OH2_W
+OH I-480 I-80_W 1
+OH I-480 42 I-80_E
+OH I-680 16 I-76
+
+##OKLAHOMA##
+OK I-44 5 30
+OK I-44 46 107
+OK I-44 138A(35) 221
+OK I-44 34(364) MO I-44 1
+OK I-335 130 149
+OK I-344 OK152 15thSt
+OK I-344 I-40 I-35/44
+OK US412 I-35 US64_Wes
+OK US412 US412Alt_W US59/412Alt
+OK OK4 US62/277 FoxLn #not all the way to FoxLn
+OK OK266 OK66 I-44
+OK OK301 US177 E1630
+OK OK312 20A US412
+OK OK344 1 US64/412
+OK OK351 OK51_W 33
+OK OK351 37 56
+OK OK364 I-44(218) US64_E
+OK OK364 US64_W 33
+OK OK375 1 104
 
 ##PENNSYLVANIA##
 PA I-70 58 US30_E
@@ -280,6 +356,60 @@ RI RI138 EShoRd RI138A/238
 
 ##SOUTH CAROLINA##
 SC I-185 SC417 12
+
+##TEXAS##
+TX I-169 I-69E FM1847
+TX US62ElP MEX/USA US85_N #not all the way to US85_N
+TX US77 MEX/USA EastAve
+TX US183 MonDr LoyLn #not actually US 183 but Toll SH 183
+TX US277SprDel TXSpr239_N USA/MEX #not all the way to TXSpr239_N
+TX US290 US183 FM734 #not actually US 290 but Toll SH 290
+TX TX4 MEX/USA US77Bus
+TX TX45 PecParkBlvd I-35(223)
+TX TX45Bea FM1626 TXLp1
+TX TX71 FM973 TX45/130 #the freeway lanes are toll; the frontage roads are not
+TX TX99 RivParkDr RivParkDr #only the overpass is tolled
+TX TX99 NewTerBlvd NewTerBlvd #only the overpass is tolled
+TX TX99 US90Alt FM1464
+TX TX99 AirBlvd HarRd
+TX TX99 MasRd_S BelSt
+TX TX99 PeekRd PeekRd #only the overpass is tolled
+TX TX99 BelBlvd BelBlvd #only the overpass is tolled
+TX TX99 WesTlwy WesTlwy #only the overpass is tolled
+TX TX99 I-10(743) FisRd
+TX TX99 FM1405 FM1405
+TX TX99 TX146Bus LeeDr
+TX TX121 DenTapRd I-35E #not actually 121 but SRT
+TX TX121 HebPkwy US75_S #not actually 121 but SRT
+TX TX130 614(10) 411
+TX TX183A US183_S US183_N
+TX TX183A US183_N TX29 #not yet mapped
+TX TX249 NorBlvd FM1774_N #part is not actually 249 but TBT
+#looks like TX288 is only extra freeway lanes
+TX TX360 LoneStarRd CampWisRd
+TX TX550 TX48 FM3248
+TX TXLp1 ScoRidPkwy TX45_N
+TX TXLp8 TX225_S GenRBRd #not actually BW8 but SHT
+TX TXLp8 BeaRd BelAve #not actually BW8 but SHT
+TX TXLp8 BeeSt EllaBlvd #not actually BW8 but SHT
+TX TXLp8 MesaDr US90_E #not actually BW8 but SHT
+TX TXLp8 JacPortBlvd TX225_N #not actually BW8 but SHT
+TX TXLp49 TX110_S US69_N
+TX ChiTrlPkwy US67 I-30 #not all the way to US67
+TX DalNorTlwy I-35E US380
+TX FBTollRd TXLp8 US90Alt
+TX FBPTollRd SieRanRd TXLp8
+TX GeoBushTpk I-20 TX183
+TX GeoBushTpk NBeltLineRd I-635
+TX GeoBushTpk ValViewLn SanLakeRd
+TX GeoBushTpk OldDenRd CusPkwy
+TX GeoBushTpk JupRd BraRd
+TX GeoBushTpk TX78 I-30(61B)
+TX HarTollRd CroRd I-45
+#TX HTR Airport Connector
+TX IntPkwy AirDr_S ExpNor
+TX WesTlwy FM723 RicAve
+#maybe some other border bridges on FM roads
 
 ##VIRGINIA##
 VA I-264 7B 8

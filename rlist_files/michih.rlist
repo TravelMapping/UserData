@@ -1,4 +1,4 @@
-# Date: 2025-05-31
+# Date: 2025-06-14
 # ----------------
 
 ######################
@@ -292,6 +292,7 @@ MCO ParNice FRA/MCO MonMonCar                  #2024, traveled as Cannes - Mento
 DEU-BB S1 OraBurg BB/BE                        #2024
 DEU-BE S1 BB/BE BornHolStr                     #2024
 DEU-BE S1 PotPla WannSee                       #2024
+DEU-BE S2 GesBru FriStr                        #2024
 DEU-BB S2 Ber BB/BE                            #2024
 DEU-BE S2 BB/BE BornHolStr                     #2024
 DEU-BE S2 PriWeg BE/BB                         #2024
@@ -351,6 +352,12 @@ AUT S1Vor DEU/AUT Bre                          #2025
 DEU-NW S11 DusDorfFlugHafTer DusDorfUntRath    #2025
 DEU-NW S11 NeuHbf KolnLon                      #2025
 DEU-NW S28 DusDorfBilk KaaSee                  #2025
+DEU-BE S75 WarStr WarBerg                      #2025
+
+CHE S1Gal SteRhe Kre                           #2025
+CHE S14Gal DEU/CHE Kre                         #2025, actually traveled as IR75
+DEU-BW S14Gal Kon DEU/CHE                      #2025, actually traveled as IR75
+DEU-BW S6Bod Rad Kon                           #2025
 
 
 ######################
@@ -551,8 +558,15 @@ DEU-BE U6 LeoPla AltMarDorf            #2024
 DEU-BE U7 RatHausSpa Rud               #2018-24
 DEU-BE U8 Wit HerStr                   #2024
 DEU-BE U9 OslStr RatHausSte            #2024
-DEU-BE S2 GesBru FriStr                #2024
+DEU-BE M1 +DIV_Sch SHacMar             #2025, traveled as rerouted M5
+#DEU-BE rer. M5 +DIV_Sch URosaLuxPla   #2025, traveled as rerouted M5 via Weinmeisterstraße
+DEU-BE M5 +DIV_Hbf1 LuneBurStr         #2025
+DEU-BE M5 +DIV_Hbf2 SHacMar            #2025
+DEU-BE M5 MollStrOttoBraStr ZinStr     #2025
 DEU-BE M6 OderBruStr RieStr            #2024
+DEU-BE M8 URosaLuxPla OttoBraStr       #2025, traveled as rerouted M5
+DEU-BE M10 TurmStr BerPla              #2025
+DEU-BE M13 JesStr SWarStr              #2025
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
 DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
@@ -825,6 +839,9 @@ DEU-SN 12Lei GohNord +DIV_NordPla                #2020, actually traveled as tem
 DEU-SN 14Lei SBfPlagWitz MarStr                  #2023, actually traveled as temporary line 34
 DEU-SN 15Lei Mil MeusDorf                        #2020, Miltitz - Angerbrücke - Waldplatz - Hbf - Augustusplatz - Naunhofer Straße - Meusdorf
 DEU-SN 16Lei MesGel Los                          #2020, Messegelände - Hbf - Lößnig
+
+DEU-SN 3Zwi NeuPla EckBachWen                    #2025
+DEU-SN 4Zwi NeuMar Pol                           #2025
 
 DEU-ST 1Hal FroZuk MarPla           #2022, closed south of Böllberg stop due to construction
 DEU-ST 2Hal SolStr SBfSudSta        #2022, Soltauer Straße - Marktplatz - Steintor - Hbf - Am Grünen Feld - S-Bahnhof Südstadt
