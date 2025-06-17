@@ -1,0 +1,128 @@
+# UNITED STATES
+
+# ARIZONA
+
+# TRAM LINES
+
+AZ SunLink CusFro_W HelWar
+
+AZ VMR 19thAveDun GilRdMainSt
+
+
+# TROLLEY LINES
+
+AZ TSCDorDor MarHeiRioSalPkwy DorApaBlvd
+AZ TSCMarMar DorApaBlvd MarHeiRioSalPkwy
+
+
+# PEOPLE MOVER LINES
+
+AZ PHX RenCarCen 44thSt
+
+
+
+# DISTRICT OF COLUMBIA
+
+# METRO LINES
+
+DC RedLn GalPla UniSta
+
+DC YelLn GalPla
+
+
+
+# NEW JERSEY
+
+# AMTRAK
+
+NJ AE PA/NJ NJ/NY
+
+NJ KS PA/NJ NewPenn
+
+NJ NENor PA/NJ NJ/NY
+
+NJ PA PA/NJ NewPenn
+
+
+# METRO-NORTH
+
+NJ PortJerLn Hob SecJct
+
+
+# NJ TRANSIT
+
+NJ BerCouLn Hob SecJct
+
+NJ GlaBra Hob Gla
+
+NJ MainLn Hob Pat
+
+NJ MeaRailLn Hob Mea
+
+NJ MonBooLn NY/NJ Dov
+
+NJ MorEssLn NY/NJ Hac
+
+NJ NECorLn NY/NJ Tre
+
+NJ NECorLnPri PriJct Pri
+
+NJ NJerCoaLn NewPenn BayHead
+
+NJ PasVlyLn Hob AndSt
+
+NJ RarVlyLn NewPenn HighBri
+
+
+# PATCO SPEEDLINE
+
+NJ PATCO PA/NJ Bro
+
+
+# PATH
+
+NJ PATH Hob NJ/NY
+
+NJ PATHHWT Hob NJ/NY
+
+NJ PATHJ33 JouSq NJ/NY
+
+NJ PATHNWT NewPenn NJ/NY
+
+
+# NJ TRANSIT LIGHT RAIL
+
+NJ HBLRHTT HobTer TonAve
+
+NJ HBLRWST LibSP TonAve
+
+NJ HBLR8HT LibSP HobTer
+
+NJ NLRCS PennSta GroSt
+
+NJ NLRBSE PennSta BroadStSta
+
+NJ RivLn EntCen WalRandTC
+
+
+# PEOPLE MOVERS
+
+NJ AirTrn NewLibAir TerA
+
+
+
+# TEXAS
+
+# PEOPLE MOVER LINES
+
+TX Sky A22 A21
+
+TX IAHSky TerA TerD/E
+
+
+
+# VIRGINIA
+
+# METRO LINES
+
+VA YelLn PenCity VA/DC
