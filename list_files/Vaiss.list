@@ -309,6 +309,7 @@ FIN St176 St170 Vt6 #05/2025 Saana PKS-terminaali + Tiimin kuukausipalaveri
 #2.6.
 FIN St368 St419 Vt5 #06/2025 Saana Lahti pilotti
 FIN St419 Vt5 St368 #06/2025 Saana Lahti pilotti
+FIN St429 Vt5 St431 #06/2025 Saana Lahti pilotti
 FIN St167 LovKatu St140 #06/2025 Saana Lahti pilotti
 FIN Vt24 St140 St314 #06/2025 Saana Lahti pilotti
 FIN St314 Vt24 St410 #06/2025 Saana Lahti pilotti
@@ -317,7 +318,74 @@ FIN St413 St410/612 Vt4 #06/2025 Saana Lahti pilotti
 FIN St428 Vt4 St616 #06/2025 Saana Lahti pilotti
 FIN St431 Vt5 St616_S #06/2025 Saana Lahti pilotti
 
+#19.6.
+FIN Vt15 74(Vt7) Vt6 #06/2025 Lauran ja Saran kanssa kesälomareissu #Kouvola-Kotka
+FIN St102 St110 Kt51 #06/2025 Lauran ja Saran kanssa kesälomareissu#Kehä2
+FIN St114 Vt1 HelTie #06/2025 Lauran ja Saran kanssa kesälomareissu#Kauniainen
+FIN St110 St120 Vt8/9 #06/2025 Lauran ja Saran kanssa kesälomareissu#HKI-Turku vanhaa
+FIN Vt2 St110 MeriTie #06/2025 Lauran ja Saran kanssa kesälomareissu#Nummelan pisto
+FIN St186 Kt52_N PerTie #06/2025 Lauran ja Saran kanssa kesälomareissu#Salo
+FIN Kt52 St186_W St110_W #06/2025 Lauran ja Saran kanssa kesälomareissu#Salon ympäri
+FIN St181 ValTie St110 #06/2025 Lauran ja Saran kanssa kesälomareissu#Paimio
+FIN MooTurHel 3 8 #06/2025 Lauran ja Saran kanssa kesälomareissu#Turun pää
+FIN E18 MarTurFry Vt9 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E18 Vt10 8 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E63 Vt8 TurHar #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN MooTurNou 2 4 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E18Naa KapNaaFry 24 #06/2025 Lauran ja Saran kanssa kesälomareissu#Naantaliin
+FIN Kt40 24 St189 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St203 Vt9 TurLen #06/2025 Lauran ja Saran kanssa kesälomareissu#Turun lentokenttä
+FIN St189 Kt40 Yt1930 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN SaaRenTie St192_E St189_W #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St192 Yt1930 St194 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St194 St192 St196 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St196 St194 Vt8 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E8 Vt2_E St196 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E16 AndTie Vt8 #06/2025 Lauran ja Saran kanssa kesälomareissu#Rauman satama
+FIN Vt11 Vt2 MikTie #06/2025 Lauran ja Saran kanssa kesälomareissu#Biltemassa käynti Tamp
+FIN E8 Yt2680 Vt2_E #06/2025 Lauran ja Saran kanssa kesälomareissu#Porissa Meriporia koh
+FIN St272 St269 Vt8 #06/2025 Lauran ja Saran kanssa kesälomareissu#Porissa Meriporia kohti
+FIN St269 Vt2 VeiKatu #06/2025 Lauran ja Saran kanssa kesälomareissu#Porissa Meriporia ko
+FIN Vt2 Yt2170 SatKatu #06/2025 Lauran ja Saran kanssa kesälomareissu#Nakkilaan asti
+FIN RanTie Vt2 St663 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St663 St662 Vt8 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St662 St663 Vt8 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN RanTie Vt8/6761 Kt67 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Kt67 KasSam Yt6761 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St676 Kt67 St673 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E8 Yt6761 St662 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E8 St663 Yt6600 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St673 St676 St715 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN RanTie Vt3/8_N Vt8/717 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E8 ValiTie Vt3/18_W #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN VaasMoo E12_W St715_S #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Vt3 St715_S VaaPui #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E12 UmeaVaaFry St715_S #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St715 Vt3/18_S Vt3/8_N #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St704 St715 VaaLen #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St724 Vt8 GerTie #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St717 SepTie YriKatu #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E8 St725 Vt3/18_E #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St725 Vt8 Vt19 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Vt19 St725 St738 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St738 Vt19 St741 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St741 Kt63_E St738 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Kt63 St741_N St751 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St751 Kt63 Kt58 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St750 St751_W St751_E #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Kt58 St775_S St751/775 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St775 Vt4 Kt58_S #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN E75 St775 Kt77_E #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN Kt77 Vt4_N St659 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St659 St551 Kt77 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St551 St659 St545 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St545 Vt9 St551 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St531 Vt5 Vt9 #06/2025 Lauran ja Saran kanssa kesälomareissu
+FIN St534 Vt5 Vt23 #06/2025 Lauran ja Saran kanssa kesälomareissu
 
+
+#43 tie ajettu uudessa-kaupungissa mutta kartassa virhe!!
+#Raippaluodon tiessä virhe!!!
 
 
 #3222 tie sappeeelle Laht-Sappee
