@@ -72,6 +72,7 @@ MA RedLnM Ash Mat
 MI DetPeoMov Mic_S Mic_N
 MI QLn GraBlvd ConSt
 MO MLRedLn LamAirTer1 LacLan
+NV LVM MGMGra SLS
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
 NJ NECorLn NY/NJ NewLibAir
@@ -136,7 +137,9 @@ GA PlaTrn DomTer FGatIntTer
 KY CVGTram MainTer ConB
 MI ExpTram SouSta NorSta
 MN MSPTram ConDE ConAB
+NV GreLn Ter1 CGat
 NV BlueLn Ter1 DGat
+NV RedLn Ter3 DGat
 TX IAHSky TerA TerDE
 TX Sky A8 A21
 WA GreLn DGat_Sta DGat_Fin
