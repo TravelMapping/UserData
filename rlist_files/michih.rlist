@@ -1,4 +1,4 @@
-# Date: 2025-06-14
+# Date: 2025-06-20
 # ----------------
 
 ######################
@@ -358,6 +358,20 @@ CHE S1Gal SteRhe Kre                           #2025
 CHE S14Gal DEU/CHE Kre                         #2025, actually traveled as IR75
 DEU-BW S14Gal Kon DEU/CHE                      #2025, actually traveled as IR75
 DEU-BW S6Bod Rad Kon                           #2025
+
+DEU-HB RS1Blu BreFar HB/NI                     #2025
+DEU-NI RS1Bec HB/NI NI/HB                      #2025
+DEU-HB RS1 NI/HB BreAum                        #2025
+DEU-HB RS1 BreVegeSack HB/NI                   #2025
+DEU-NI RS1 HB/NI Ver                           #2025
+DEU-HB RS2Bre BreHavLehe HB/NI                 #2025, actually traveled as RE9
+DEU-NI RS2 HB/NI NI/HB                         #2025, actually traveled as RE9
+DEU-HB RS2 NI/HB BreHbf                        #2025, actually traveled as RE9
+DEU-NI RS3 WilHavHbf NI/HB                     #2025
+DEU-HB RS3 NI/HB BreHbf                        #2025
+DEU-NI RS4 NorHam Hude                         #2025
+DEU-NI RS6 RotBurg Ver                         #2025
+DEU-NI RS30 BadZwiAhn Hude                     #2025
 
 
 ######################
