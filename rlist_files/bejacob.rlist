@@ -142,6 +142,7 @@ NV BlueLn Ter1 DGat
 NV RedLn Ter3 DGat
 TX IAHSky TerA TerDE
 TX Sky A8 A21
+VA AerTrn ConB ConCD
 WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 WA YelLn AGat DGat
