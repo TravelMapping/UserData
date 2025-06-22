@@ -1,0 +1,48 @@
+#darmstarm's list of routes.
+#default: Region Route Waypoint1 Waypoint2
+#multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
+#last updated 6-21-25. UNFINISHED
+#USA
+#delaware
+DE I-95 MD/DE DE/PA
+DE DE1 DE4 DE26
+DE DE7 DE/PA DE1(166)
+DE DE41 DE/PA DE2/62
+DE DE48 DE41 DE100/141
+DE DE896 DE/MD DE279
+#pennsylvania
+PA US1 MD/PA PA352
+PA PA41 DE/PA US30
+PA PA841 MD/PA PA41
+PA PA896 MD/PA US30
+#maryland
+MD I-95 DC/MD MD/DE
+MD US1 MD/PA I-695(32)
+MD US40 MD7Elk MD7/279
+MD MD7Elk SouSt US40
+MD MD213 MD/PA MD273
+MD MD268 MainSt MD279
+MD MD279 MD/DE MD268
+MD MD316 MD279 MD277
+MD MD896 MD/PA DE/MD
+#washington dc
+DC I-95 VA/DC DC/MD
+#north carolina
+NC I-85 NC/VA 178
+NC I-95 NC/VA 138
+NC US64 464 14(440)
+#south carolina
+#georgia
+#florida
+#new mexico
+#ohio
+#tenessee
+#michigan
+#new york
+#new jersey
+#virginia
+VA I-85 NC/VA 68
+VA I-95 VA/DC NC/VA
+#west virginia
+#alabama
+#CANADA
