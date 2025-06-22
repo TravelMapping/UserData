@@ -1,4 +1,4 @@
-# Date: 2025-06-20
+# Date: 2025-06-21
 # ----------------
 
 ######################
@@ -645,7 +645,9 @@ DEU-HE 12Fra RothSchAll EisSpoHalFestPla         #2024
 DEU-HE 14Fra GusBurgPla ErnMayPla                #2024
 DEU-HE 11Fra TilStr_1 SchHutStr                  #2024
 
-DEU-HE 4Kas RatHausFunfFenStr BurHaus             #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
+DEU-HE 3Kas IhrHauStr OberZweMit                 #2025
+DEU-HE 4Kas RatHausFunfFenStr BurHaus            #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
+DEU-HE 6Kas IhrHauStr SchZenBruHof               #2025
 
 DEU-MV 1Ros MecBurAll HafAll
 DEU-MV 2Ros ReuHag KurtSchRing
