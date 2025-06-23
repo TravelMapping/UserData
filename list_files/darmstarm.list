@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-21-25. UNFINISHED
+#last updated 6-22-25. UNFINISHED
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -9,40 +9,77 @@ DE DE1 DE4 DE26
 DE DE7 DE/PA DE1(166)
 DE DE41 DE/PA DE2/62
 DE DE48 DE41 DE100/141
+DE DE141 DE48/100 US202/261
 DE DE896 DE/MD DE279
 #pennsylvania
+PA I-90 PA/NY OH/PA
+PA I-95 DE/PA 12 #incomplete
+#PA I-99 ??? #circleville golf course
+PA US30 PA41 PA283 #incomplete
 PA US1 MD/PA PA352
 PA PA41 DE/PA US30
+PA PA52 DE/PA PA926
+PA PA472 US1 PA372
+PA PA666 US6 PA948
 PA PA841 MD/PA PA41
 PA PA896 MD/PA US30
 #maryland
 MD I-95 DC/MD MD/DE
+MD I-695 33 27 #95 to 146
 MD US1 MD/PA I-695(32)
 MD US40 MD7Elk MD7/279
 MD MD7Elk SouSt US40
+MD MD146 I-695 BleRd #incomplete
 MD MD213 MD/PA MD273
 MD MD268 MainSt MD279
 MD MD279 MD/DE MD268
+MD MD295 I-95 MD175 #balt-wash
 MD MD316 MD279 MD277
 MD MD896 MD/PA DE/MD
 #washington dc
 DC I-95 VA/DC DC/MD
 #north carolina
+NC I-40 US117_S 138(85) #nc 61, def went further than this, but this i know for sure
 NC I-85 NC/VA 178
-NC I-95 NC/VA 138
-NC US64 464 14(440)
+NC I-95 NC/VA 138 #TWO SEGMENTS FOR NC I95
+NC I-95 SC/NC 81
+NC US64 464 293(40)
 #south carolina
+SC I-20 141 GA/SC
+SC I-95 SC/NC 160
 #georgia
+GA US27 GA45/91_S GA91Spr
+GA GA1 GA45/91_S GA91Spr
+GA GA39 GA91_S GA91_N
+GA GA45 GA91_S US27_S
+#incomplete florida trip leave-off
+#GA GA62 GA91_S 
+#GA GA91 FL/GA #incomplete
 #florida
+FL US90 FL77 FL277
+FL US98 FL79 WisLn
+FL US231 FL/AL FL273
+FL FL2 FL/GA US231
+FL FL30 DelPl FL79 #we never took 79 directly into 30, always us98
+FL FL77 US90 FL273
+FL FL79 US90 US98
+FL FL273 FL77 US231
+FL FL277 US90 FL79
 #new mexico
+NM I-25 419 222
+NM NM58 US64 I-25 #interstate to cimmaron
 #ohio
+OH I-90 OH/PA 174B
+OH OH2 207 195A
 #tenessee
+TN I-40 421 389
+TN I-81 1 TN/VA
 #michigan
 #new york
 #new jersey
+NJ I-295 DE/NJ 34 #incomplete
 #virginia
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
 #west virginia
 #alabama
-#CANADA
