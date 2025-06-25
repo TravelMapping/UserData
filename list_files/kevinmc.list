@@ -892,6 +892,9 @@ CA I-380 5A 7
 CA CA35 CA92_E 54
 CA CA84 I-280 AlaPul
 
+# 2025-06-23
+CA I-280 I-680/101 1B
+
 # undated / reasonable assumptions
 CA CA82 I-880 I-280
 CA CA85 1A 24B
