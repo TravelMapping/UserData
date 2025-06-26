@@ -10,8 +10,8 @@ CT NESpr NY/CT Bri
 
 #DC
 
-DC FreLn VA/DC WasUniSta
-DC RedLn UniSta DC/MD
+DC BluLn VA/DC StaArm
+DC RedLn MetCen DC/MD
 
 #Florida
 
@@ -40,6 +40,7 @@ IL RI LaSSt Jol
 IL RISub LaSSt BlueIsl
 IL SWS UniSta Man
 IL UPNW OglTraCen Har
+IL UPNWMcH OglTraCen McH
 IL UPN OglTraCen IL/WI
 IL UPW Elb OglTraCen
 
@@ -85,7 +86,7 @@ NY C 34StPennSta HighSt
 
 #Virginia
 
-VA FreLn FraSpr VA/DC
+VA BluLn FraSpr VA/DC
 
 #Wisconsin
 WI UPN IL/WI Ken

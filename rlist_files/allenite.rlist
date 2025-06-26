@@ -1,0 +1,109 @@
+#################
+# United States #
+#################
+
+## Airports (usaaair [Air] & usaair [Land]) ##
+
+#-ATL
+GA PlaTrn DomTer DGat
+GA SkyTrn Air RenCarCen
+#-DTW
+MI ExpTram SouSta NorSta
+#-DFW
+TX Sky A8 B20
+#-LAS (D Gates)
+NV BlueLn Ter1 DGat
+#-MCO (Orlando)
+FL GateLinkTBW TerB Air3
+#-PHX
+AZ PHX RenCarCen T4
+
+
+
+## Local Trains ##
+
+#-Detroit, MI
+MI DetPeoMov Mic_S HunPla
+MI DetPeoMov RenCen Mic_N
+
+#-WDW
+FL EpcMon TraTicCen EPCOT
+FL ResMon TraTicCen_1 TraTicCen_2
+
+#-Yukon Pass
+AK WPY Ska BC WPY WhiPass
+
+
+##################
+# United Kingdom #
+##################
+
+# Old Eurostar (Waterloo) to Paris
+ENG WinLn LonWat QueRd
+ENG ThaLn +DIV_WinW +DIV_SEML
+ENG SEML +DIV_CML AshInt
+
+# Eurostar (St Pancras) to Paris
+ENG LonPar LonStPanInt FRA-IDF LonPar ParGareNord
+
+### London Underground ###
+ENG BakLn BakSt PicCir
+
+ENG CenLn Hol LivSt
+
+ENG CirLn EdgRd_1 BakSt
+ENG CirLn KXSP EdgRd_2
+
+ENG JubLn GrePark Wes
+
+ENG NorLnBat LeiSqu Wat
+
+ENG PicLnHT4 Kni KXSP
+
+ENG VicLn KXSP GrePark
+
+### END London Underground ###
+
+# East Main Line
+ENG ECMLEdi LonKinCro SCT ECMLEdi EdiWav
+
+# Edinburgh Tram
+SCT EdiTram PriSt EdiAir
+
+# Manchester to Wales
+ENG LlaManLn Che ManAir # Bus Substitution (some not on rail)
+WLS LlaManLn LlaJct ENG LlaManLn Che
+WLS WCMLC LlaJct +SKIP_Lfp
+
+# Wales to York
+ENG WCMLC Cre Che
+ENG WCMLECre Cre ManPic
+ENG TPNRtePic ManPic York
+
+# Aberdeen to Lake District / Liverpool
+SCT GMLEdi Hay Abe
+ENG WCMLA WigNorWes SCT WCMLA EdiWav
+ENG LakLn OxeLakeDis Win
+ENG CityLn LivLimeSt WigNorWes
+
+
+###############
+# Netherlands #
+###############
+
+# Airport to Amsterdam Centraal
+NLD AmsDis AmsCen SchAir
+
+
+###########
+# Ireland #
+###########
+IRL DART DubPea BrayDaly
+
+
+###############
+# Isle of Man #
+###############
+IMN IMR Dou Cas
+IMN MER DerCas Lax
+
