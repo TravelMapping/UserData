@@ -1,4 +1,4 @@
-# Date: 2025-06-22
+# Date: 2025-06-26
 # ----------------
 
 
@@ -9662,7 +9662,7 @@ POL S1 A1 DK1/86_S
 POL S1Bie S52 DK1_S
 POL S1Mil DK1_N Zwa
 POL S2 R9 R17
-POL S3 Tro 57
+POL S3 1 57
 POL S5 A1 A8
 POL S6 53 A1
 POL S6Kol A6 15
@@ -9689,7 +9689,7 @@ POL DK1Psz DK86_S S1/S52
 POL DK1Cis S1_N S1_S
 POL DK1Zwa Zwa POL/SVK
 POL DK2Swi DEU/POL DK29
-POL DK3 YstSwiFry Tro
+POL DK3 YstSwiFry S3
 POL DK5 DK94_E A4(127)
 POL DK5 DK34 S3
 #POL DK5 DW369 POL/CZE                           #will it get a DW number?
