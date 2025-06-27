@@ -1,4 +1,4 @@
-# Date: 2025-06-26
+# Date: 2025-06-27
 # ----------------
 
 
@@ -9599,7 +9599,7 @@ NOR E16 Rv4_N Rv2_N
 NOR E16Osl Rv35 1
 NOR E18 E39 Rv22_N
 NOR E18San E18 SanLuf
-NOR E39Tro 99 Fv6179_Myr
+NOR E39Tro 99 Fv6182_S
 NOR E39Tro Fv6179_Gje HalKanFry
 NOR E39Mol Fv62_Lon MolFurFry
 NOR E39Mol HalKanFry Fv62_Skj
