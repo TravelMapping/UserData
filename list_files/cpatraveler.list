@@ -2454,7 +2454,7 @@ IL I-70 3 92
 IL I-270 MO/IL 15 #041017 Lincoln Home NHS
 IL US45 US50_W US40_W #021617 Wabash Fieldwork
 IL US45 I-64 US50_W #030917 Wabash Bd Mtg 
-IL US50 IL30/250 IL/IN #021717 George Roger NM 
+IL US50 IL130/250 IL/IN #021717 George Roger NM 
 IL IL33 US45_S OutBelt #021617 Wabash Fieldwork
 IL IL33 US45_S IL130_S #021717 George Roger NM 
 IL IL130 IL33_W US50/250 #021717 George Roger NM
@@ -2578,7 +2578,7 @@ KY US119 US23/460 KY/WV #081420 Millersburg Trip
 KY US119Goo WV/KY KY/WV #081420 Millersburg Trip
 KY US119Tug WV/KY KY/WV #081420 Millersburg Trip
 KY US150 BluPkwy KY245  #030817 Highland FW 
-KY US231 KY/IN I-156(70) #021717 George Roger NM
+KY US231 KY/IN I-165(70) #021717 George Roger NM
 KY BroRd MamCavePkwy KY70/2325 #030917 Mammoth Cave NP  
 KY MamCavePkwy KY70/255 End #030917 Mammoth Cave NP 
 KY ParkCityRd KY255 MamCavePkwy #030917 Mammoth Cave NP  
@@ -2595,12 +2595,31 @@ KY KY1079 US31E KY357 #030917 Mammoth Cave NP
 KY KY2155 US60/231 KY2245/2262 #030917 Mammoth Cave NP 
 KY KY2262 KY54 KY/IN #030917 Mammoth Cave NP 
 KY BluPkwy 72 21 #030717 Highland FW            
-LA I-10 LA/MS TX/LA
+LA I-10 LA/MS 246 #062917 Singing River Annual Mtg
+LA I-10 236B 223A #062917 Singing River Annual Mtg
+LA I-10 246 236B
+LA I-10 223A 220 
+LA I-10 TX/LA 155B
+LA I-10 220 155B #062917 Singing River Annual Mtg
 LA I-12 85 1A
 LA I-20 186 TX/LA
 LA I-59 I-10/12 LA/MS
+LA I-110 I-10 8A #062917 Singing River Annual Mtg
+LA I-310 2 1 #062917 Singing River Annual Mtg
+LA I-510 1A LA47_S #062917 Singing River Annual Mtg
 LA LakePonCswy EspAve US190/22
+LA US61 LA49 I-310 #062917 Singing River Annual Mtg
+LA US61 I-110(8B) LA/MS #062917 Singing River Annual Mtg
+LA US80 LA3218 LA/MS #062917 Singing River Annual Mtg
+LA US84 MS/LA LA3180 #062917 Singing River Annual Mtg
 LA US190 LA22 I-12
+LA LA39 LA46/3021 I-10 #062917 Singing River Annual Mtg
+LA LA46 LA47 LA39/3021 #062917 Singing River Annual Mtg
+LA LA47 I-510_S LA46 #062917 Singing River Annual Mtg
+LA LA49 JoeYenBlvd US61 #062917 Singing River Annual Mtg
+LA LA131 LA3180 US84/425 #062917 Singing River Annual Mtg
+LA LA3180 US84/425 LA131 #062917 Singing River Annual Mtg
+LA LA3218 US80 StChaSt #062917 Singing River Annual Mtg
 MA I-90 90 NY/MA #Trip with GJ Telergee
 MA I-90 MA1A 134 #NTCA Fall Conference
 MA I-93 1 7 #Trip with GJ Telergee 
@@ -2626,15 +2645,21 @@ MA MA25 10 1 #Trip with GJ Telergee
 MA MA28 ShoRd MA132 #Trip with GJ Telergee
 MA MA132 MA28 US6 #Trip with GJ Telergee 
 MA MA137 US6 MA28 #Trip with GJ Telergee
-MD I-70 91 52 #10072018 09242017 Earlier Trips     
-MD I-95 DC/MD 49 #10072018 09242017 Earlier Trips
-MD I-95 MD/DE 56 #10072018 09242017 Earlier Trips 
-MD I-95 56 49 #041217 Ft McHenry Highland Trip 
-MD I-195 TerRd 2 #041217 Highland Bd Mtg 
+MD I-70 52 82 #071117 CFC Mtg 
+MD I-70 91 82 #10072018 09242017 Earlier Trips     
+MD I-95 DC/MD 27 #10072018 09242017 Earlier Trips
+MD I-95 MD/DE 56 #10072018 09242017 Earlier Trips
+MD I-95 49 43 
+MD I-95 56 49 #041217 Ft McHenry Highland Trip
+MD I-95 43 27 #071117 CFC Mtg 
+MD I-195 TerRd 2 #041217 Highland Bd Mtg
+MD I-495 27 MD/VA #071117 CFC Mtg 
 MD I-695 11 16 #10072018 09242017 Earlier Trips 
 MD I-895 4 10 #041217 Highland Bd Mtg
+MD US15 VA/MD US340_W #071117 CFC Mtg
 MD US29 25 22 #041417 Highland Bd Mtg 
-MD US40 MD213 I-95 #10072018 Trip Parents to BWI 
+MD US40 MD213 I-95 #10072018 Trip Parents to BWI
+MD US40 I-70(82) US29 #071117 CFC Mtg 
 MD US301 MD544 MD313 #10072018 Trip Parents to BWI
 MD US340 10 VA/MD #041217 Highland Bd Mtg
 MD MD100 US29 11 #041417 Highland Bd Mtg
@@ -3795,10 +3820,12 @@ VA I-95 VA/DC 79 #01122017 Reagan to Mom
 VA I-95 51 46 #Visit Mom from AL 
 VA I-395 VA/DC 1 #01122017 Reagan to Mom
 VA I-464 1 6B #Visit Mom
-VA I-495 170(95) MD/VA #Visit DC
+VA I-495 47 VA/DC #Visit DC
+VA I-495 MD/VA 47 #071117 CFC Mtg
 VA US1 VA/DC I-95(161) #Visit DC
 VA US11 VA55_W SR627_E #041317 Highland Bd Mtg Cedar Creek NHP  
-VA US15 US33_E I-64 #080421 Spruce to Mom House  
+VA US15 US33_E I-64 #080421 Spruce to Mom House
+VA US15 VA7_E VA/MD #071117 CFC Mtg  
 VA US17 VA216 I-95(126) #01142017 Visit Mom Washington Birthplace
 VA US17 US17BusChe_S I-64(291) #01012018 Visit Mom
 VA US17BusGlo US17_S US17_N #12282024 Trip to Comfort Pt
@@ -3814,7 +3841,8 @@ VA US220 VA84 US250 #04102019 Highland Bd Mtg
 VA US250 US220 WV/VA #04122018 Highland Bd Mtg
 VA US250 VA262 US220 #030717 Highland FW 
 VA US340 VA/WV VA7 #041217 Highland Bd Mtg
-VA US340 I-66 SkyDr #041317 Highland Bd Mtg      
+VA US340 I-66 SkyDr #041317 Highland Bd Mtg
+VA US340Lou VA/MD WV/VA #041217 Highland Bd Mtg      
 VA US360 US17_N VA3 #01142017 Visit Mom Washington Birthplace
 VA US460 US219 WV/VA #01182018 Highland Inventory
 VA US501 BlueRidPkwy US60 #030717 Highland FW
@@ -3827,7 +3855,8 @@ VA VA3 VA204 I-95 #Visit Mom
 VA VA3 VA198_E VA204 #011417 Visit GW Birthplace NM 
 VA VA3 VA198_W VA14_E #12282024 Trip to Comfort Pt 
 VA VA3BusWar VA3_E VA3_W #01142017 Visit Mom Washington Birthplace
-VA VA7 US340 I-81 #041217 Highland Bd Mtg 
+VA VA7 US340 I-81 #041217 Highland Bd Mtg
+VA VA7 I-495 US15/7Bus #071117 CFC Mtg 
 VA VA14 US17Bus_S BayLan #12282024 Trip to Comfort Pt
 VA VA16 I-81 NC/VA #050117 Skyline Bd Mtg   
 VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
@@ -3847,7 +3876,7 @@ VA VA152 US258 LakDr #Visit Mom
 VA VA165 US17Bus VA149 #12272024 Trip to Virginia Beach
 VA VA165 US460 VA337 #12292024 Trip to Airport
 VA VA198 SR653 VA3_W #12282024 Trip to Comfort Pt
-VA VA204 VA End #011417 Visit GW Birthplace NM
+VA VA204 VA3 End #011417 Visit GW Birthplace NM
 VA VA216 US17 SR649 #12282024 Trip to Comfort Pt
 VA VA223 VA198 SR633 #12282024 Trip to Comfort Pt 
 VA VA225 I-264 US60 #12272024 Trip to VA Beach
@@ -3858,7 +3887,6 @@ VA VA257 I-81 VA42_S #041317 Highland Bd Mtg
 VA VA262 I-64/81 US250 #030817 Highland FW
 VA VA276 US33 VA253 #041317 Highland Bd Mtg  
 VA VA278 US258 LanAFB #Visit Mom
-VA VA340Lou VA/MD WV/VA #041217 Highland Bd Mtg
 VA VA351 US258 VA415 #Visit Mom
 VA VA359 VA31 ColPkwy #Visit Mom  
 VA VA400 1stSt GeoWasPkwy #Visit DC
