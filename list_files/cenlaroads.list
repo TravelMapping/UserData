@@ -1013,6 +1013,11 @@ LA LA3278 LA504 LA6
 LA LA3279 LA1 LA490
 LA LA3281 BaySt LA15/33
 
+# United States Select Tourist Routes
+LA GRR LA1_PorN LA987-6_S
+LA GRRBat LA30_E ChiSt
+LA GRRBat FloSt SpaTownRd_W
+
 
 # Mississippi
 
