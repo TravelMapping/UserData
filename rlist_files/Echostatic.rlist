@@ -62,6 +62,9 @@ DEU-BE S9 Bel BE/BB
 TX GreLn MarCen DeepEll
 TX RedLn DalZoo LovLn
 
+#MAX Light Rail
+OR RedLn RoseQuaTraCen PorIntAir
+
 #METRO Transit Light Rail
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
