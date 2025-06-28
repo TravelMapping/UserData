@@ -1401,7 +1401,7 @@ NV I-215 1 12
 NV I-80BLVer I-80_W I-80_E
 NV I-80BLRen I-80_W I-80_E
 NV I-11 AZ/NV 76
-NV I-15BLMes MesBlvd I-15N
+NV I-15BLMes MesBlvd I-15_N
 
 #NV_StateHighways
 
