@@ -1,4 +1,4 @@
-# Date: 2025-06-27
+# Date: 2025-06-30
 # ----------------
 
 
@@ -9337,7 +9337,7 @@ MDA R34.1 R34 MDA/ROU
 # NORTH MACEDONIA
 
 MKD A1 SRB/MKD MKD/GRC
-MKD A1Pri R1103 A3
+MKD A1Pri Far A3
 #MKD "Old A1Pri" A1 A3
 MKD A2 2 UliBorKid
 MKD A2 32 MKD/ALB
