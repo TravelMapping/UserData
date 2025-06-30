@@ -2654,15 +2654,18 @@ MA MA28 ShoRd MA132 #Trip with GJ Telergee
 MA MA132 MA28 US6 #Trip with GJ Telergee 
 MA MA137 US6 MA28 #Trip with GJ Telergee
 MD I-70 52 82 #071117 CFC Mtg 
-MD I-70 91 82 #10072018 09242017 Earlier Trips     
+MD I-70 91 82 #10072018 09242017 Earlier Trips
+MD I-70 26 52 #092817 Gettysburg  
+MD I-81 MD/PA 4 #092817 Gettysburg      
 MD I-95 DC/MD 27 #10072018 09242017 Earlier Trips
-MD I-95 MD/DE 56 #10072018 09242017 Earlier Trips
+MD I-95 MD/DE 56 #092417 Travel to NTCA Philly
 MD I-95 49 43 
 MD I-95 56 49 #041217 Ft McHenry Highland Trip
 MD I-95 43 27 #071117 CFC Mtg 
 MD I-195 TerRd 2 #041217 Highland Bd Mtg
 MD I-495 27 MD/VA #071117 CFC Mtg 
-MD I-695 11 16 #10072018 09242017 Earlier Trips 
+MD I-695 11 16 #10072018 09242017 Earlier Trips
+MD I-695 33 27 #092417 Travel to NTCA Philly 
 MD I-895 4 10 #041217 Highland Bd Mtg
 MD US15 VA/MD US340_W #071117 CFC Mtg
 MD US29 25 22 #041417 Highland Bd Mtg 
@@ -3343,11 +3346,38 @@ OR I-5 124 233 #07222023 Trip for TFACC meeting to Crater Lake
 OR I-5 288 299B #07222023 Trip for TFACC meeting to Crater Lake 
 OR US30BypPor I-5 I-205 #07222023 Trip for TFACC meeting to Crater Lake
 OR US30BypPor I-205 US30_E #07222023 Trip for TFACC meeting to Crater Lake
-PA I-79 WV/PA 14 #04122018 Highland Bd Mtg 
+PA I-76 326 PA/NJ #092417 NTCA Mtg
+PA I-76 326 312 #092717 Hopewell Furnace NHS
+PA I-76 298 236 #092717 Hopewell Furnace NHS
+PA I-79 WV/PA 14 #04122018 Highland Bd Mtg
+PA I-81 16 MD/PA #092817 Gettysburg   
 PA I-90 PA/NY OH/PA #Nigara Falls Trip   
 PA I-95 DE/PA PA/NJ #Trip to Philly Airport with Mikey plus NTCA Trip 092017
+PA I-176 1 I-76 #092717 Hopewell Furnace NHS
+PA I-276 326 I-95 #092417 NTCA Mtg 
+PA I-476 I-95 16 #092417 NTCA Mtg
+PA I-676 I-76 PA/NJ #092417 NTCA Mtg
+PA US1 US1AltTrk_N I-76(339) #092417 NTCA Mtg 
+PA US1AltTrkPhi US30_E US1_N #092417 NTCA Mtg 
+PA US13 I-76/30 UniAve #092417 NTCA Mtg
+PA US15 I-76 PA134 #092717 Hopewell Furnace NHS
+PA US15BusGet BarGreRd US30/116 #092717 Hopewell Furnace NHS   
+PA US30 US1AltTrk_N I-76(342) #092417 NTCA Mtg
+PA US30 US15 I-81 #092817 Gettysburg  
+PA US202 I-76 US422 #092417 NTCA Mtg    
 PA US219 MD/PA PA/NY #Nigara Falls Trip
-PA PA21 I-79 WV/PA #04122018 Highland Bd Mtg  
+PA US422Rea US202 PA23 #092417 NTCA Mtg
+PA PA3 US13 PA611 #092417 NTCA Mtg
+PA PA10 PA23_E I-176(1) #092717 Hopewell Furnace NHS  
+PA PA21 I-79 WV/PA #04122018 Highland Bd Mtg
+PA PA23 US422 PA252 #092417 NTCA Mtg
+PA PA23 PA345 PA10_N #092717 Hopewell Furnace NHS
+PA PA100 I-76 PA401 #092717 Hopewell Furnace NHS
+PA PA134 US15 US15Bus #092717 Hopewell Furnace NHS 
+PA PA252 PA23 BapRd #092417 NTCA Mtg
+PA PA345 PA401 HopRd #092717 Hopewell Furnace NHS
+PA PA401 PA100 PA345 #092717 Hopewell Furnace NHS 
+PA PA611 I-676 I-95 #092417 NTCA Mtg     
 RI I-95 24B RI/MA #Trip with GJ Telergee
 RI I-95 CT/RI 24B #Trip to Boston with parents  
 RI I-195 1 RI/MA #Trip with GJ Telergee
@@ -3724,10 +3754,12 @@ TX I-10 187 NM/TX #29 Palms Trip
 TX I-20 I-10 TX/LA #29 Palms Trip
 TX I-45 48A 1A #072017 ManU Trip w Beau
 TX I-69 132 123 #072017 ManU Trip w Beau
-TX I-610 8A 32 #072017 ManU Trip w Beau
+TX I-610 TX288 8A #072017 ManU Trip w Beau
+TX I-610 38 32 #072017 ManU Trip w Beau  
 TX US90AltHal I-45 I-610(2) #072017 ManU Trip w Beau   
 TX TX35 TXLp8 I-45 #072017 ManU Trip w Beau
 TX TX87Gal I-45 PortBolFry #072017 ManU Trip w Beau
+TX TX168 TX87 End #072017 ManU Trip w Beau 
 TX TX275 TX87 I-45 #072017 ManU Trip w Beau   
 TX TXLp8 I-45(32) TX35 #072017 ManU Trip w Beau 
 TX TXSpr5 I-45 US90Alt #072017 ManU Trip w Beau
