@@ -1,4 +1,4 @@
-# Date: 2025-06-21
+# Date: 2025-06-29
 # ----------------
 
 ######################
@@ -373,6 +373,14 @@ DEU-NI RS4 NorHam Hude                         #2025
 DEU-NI RS6 RotBurg Ver                         #2025
 DEU-NI RS30 BadZwiAhn Hude                     #2025
 
+#DEU-BW RB15 Ulm            DEU-BY Plattling   #2025 via Regensburg
+#DEU-BY RE3  Plattling             Landshut    #2025
+#DEU-BY RE25 Regensburg Hbf        Landshut    #2025
+#DEU-BY RB44 Landshut              Wasserburg  #2025
+#DEU-BY RB48 Wasserburg            Grafing Bf  #2025
+DEU-BY S4 Gra EbeBerg                          #2025, actually traveled as RB48
+#DEU-BY RB54 Grafing Bf            München-Ost #2025
+
 
 ######################
 #### METROS/TRAMS ####
@@ -523,31 +531,32 @@ DEU-BY 4Aug OberHauNordPR KonPla              #2024
 DEU-BY 6Aug StaBer FriBergWestPR              #2024
 DEU-BY 8Aug Hbf FusAre                        #2024
 
-DEU-BY U1 OlyEinZen ManPla       #2022
-DEU-BY U2 FeldMoc MesStaOst      #2022
-DEU-BY U3 Moo FurRiedWest        #2022
-DEU-BY U4 WestEndStr AraPark     #2022
-DEU-BY U5 LaiPla NeuPerSud       #2022
-DEU-BY U6 GarForZen KliGroHad    #2022
-DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
-DEU-BY 12Mun RomPla +DIV_ParStr  #2024
-DEU-BY 12Mun KarlTheoStr SchNord #2025
-DEU-BY 16Mun KarPlaSta EffPla    #2024
-DEU-BY 17Mun AmaBurgStr Hbf      #2024
-DEU-BY 17Mun MaxWebPla StEmm     #2024
-DEU-BY 18Mun GonPla MulStr       #2025
-DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
-DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
-DEU-BY 20Mun MooBf KarPlaSta     #2024
-DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
-DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
-DEU-BY 21Mun Bor_1 WestFriHof    #2024
-DEU-BY 21Mun Bor_2 KarPlaSta     #2024
-DEU-BY 23Mun SchNord MunFre      #2025
-DEU-BY 25Mun MaxWebPla OstFriHof #2025
-DEU-BY 25Mun OstFriHof DerPla    #2024
-DEU-BY 27Mun PetRing KarPlaSta   #2024
-DEU-BY 28Mun SchPla +DIV_ParStr  #2024, traveled as 12
+DEU-BY U1 OlyEinZen ManPla                    #2022
+DEU-BY U2 FeldMoc MesStaOst                   #2022
+DEU-BY U3 Moo FurRiedWest                     #2022
+DEU-BY U4 WestEndStr AraPark                  #2022
+DEU-BY U5 LaiPla NeuPerSud                    #2022
+DEU-BY U6 GarForZen KliGroHad                 #2022
+DEU-BY 12Mun LeoPla HohZolPla                 #2023 Leonrodplatz - Hohenzollernplatz
+DEU-BY 12Mun RomPla +DIV_ParStr               #2024
+DEU-BY 12Mun KarlTheoStr SchNord              #2025
+DEU-BY 16Mun KarPlaSta EffPla                 #2024
+DEU-BY 17Mun AmaBurgStr Hbf                   #2024
+DEU-BY 17Mun MaxWebPla StEmm                  #2024
+DEU-BY 17Mun ReiBachPla MaxWebPla             #2025
+DEU-BY 18Mun GonPla MulStr                    #2025
+DEU-BY 18Mun HbfSud SchSeeStr                 #2023 Hbf Süd - Schwanseestraße
+DEU-BY 19Mun PasBf BergLaim                   #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
+DEU-BY 20Mun MooBf KarPlaSta                  #2024
+DEU-BY 21Mun LeoPla HbfNord                   #2023 Leonrodplatz - Hbf Nord
+DEU-BY 21Mun MaxMon StVeitStr                 #2023 Maxmonument - St.-Veit-Straße
+DEU-BY 21Mun Bor_1 WestFriHof                 #2024
+DEU-BY 21Mun Bor_2 KarPlaSta                  #2024
+DEU-BY 23Mun SchNord MunFre                   #2025
+DEU-BY 25Mun MaxWebPla OstFriHof              #2025
+DEU-BY 25Mun OstFriHof DerPla                 #2024
+DEU-BY 27Mun PetRing KarPlaSta                #2024
+DEU-BY 28Mun SchPla +DIV_ParStr               #2024, traveled as 12
 
 DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
