@@ -284,6 +284,7 @@ FL FLTpkMia I-95/826 4X
 # Georgia
 # Interstates (GA)
 GA I-16 1 2
+GA I-16 157 167
 GA I-20 AL/GA 57
 GA I-24 TN/GA GA/TN
 GA I-59 AL/GA I-24
@@ -294,7 +295,10 @@ GA I-95 FL/GA GA/SC
 GA I-185 1 I-85
 GA I-285 GA279 62
 GA I-475 I-75_S I-75_N
+GA I-516 MilSt 8
 # US Highways (GA)
+GA US17 I-95(29) GlyPkwy
+GA US17 I-516(3) GA/SC
 GA US27 I-185(1) GA97
 # State Highways (GA)
 GA GA20 I-75(218) US19/41
@@ -304,6 +308,7 @@ GA GA139 I-85 EmbDr
 GA GA204 I-95 HarTruPkwy
 # Named Freeways (GA)
 GA HarTruPkwy GA204 PreSt
+GA VetPkwy GA204 I-516
 
 # Hawaii
 # Interstates (HI)
@@ -1551,6 +1556,7 @@ SC I-185 I-385 HenAve
 SC I-385 I-26 42
 SC I-585 23 25B
 # US Highways (SC)
+SC US17 GA/SC SC315
 SC US17 SC30 HouNorBlvd
 SC US29 I-85(34) SC183
 SC US52 I-95 US76
@@ -1561,6 +1567,7 @@ SC US176 I-85 WoodSt
 SC SC9 WoodSt I-585(25A)
 SC SC30 US17 3
 SC SC153 US123 I-85
+SC SC315 US17 BelHillRd
 
 # South Dakota
 # Interstates (SD)
