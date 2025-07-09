@@ -1121,7 +1121,6 @@ NC I-485 57 67
 NC I-540 1 26
 NC I-587 18 23
 NC I-795 38(264) 24
-NC I-85BLGre 36A I-85_N
 NC US13 AshSt US70_E
 NC US17 US70_W NC55_N
 NC US21 SC/NC I-77(16)
@@ -2317,3 +2316,16 @@ MO US66HisStl KinBlvd_S I-44(290A)
 MO US66HisStL MarSt TucBlvd_N
 MO US66HisStl I-270(34) MO/IL
 TX US66HisSha I-40(161) I-40(164)
+
+# US Select Tourist Routes (usatr), concurrencies currently untracked ----- ----- ----- ----- -----
+IN NatRd US40_Ree US40_Ray
+IN ORSB ToIN256 IN56/156_E
+OH LinHwy US30_Upp US30_BucW
+OH LinHwy 4thSt_MayE TriRd
+OH NatRd US40_SprE US22/40_BriW
+
+# US National Historic Trails (usanht), incidental concurrencies untracked ----- ----- ----- ----- -----
+KS CATrl I-70(346) KS10 # Oregon Trail
+KS CATrlOla 143rdSt_W KS/MO
+KS LCTrl ParPkwy StaAve_E
+KS LCTrl US69 KS/MO
