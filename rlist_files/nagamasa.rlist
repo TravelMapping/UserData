@@ -111,9 +111,13 @@ DEU-BE U2 ZooGar AlePla
 DEU-BE U6 KurtSchPla KochStr
 DEU-BE U8 AlePla KotTor
 
-#HAMBURG
+### HAMBURG
 DEU-HH S1Flu Ohl HamBurgAirPort
+DEU-HH S1 HamBurgHbf Ohl
+DEU-HH S3 HamBurgAlt JunSti
 
+DEU-HH U1 SteStr LohMuhStr
+DEU-HH U3 LanBru HbfSudc
 
 ### ENG
 ## UNDERGROUND
