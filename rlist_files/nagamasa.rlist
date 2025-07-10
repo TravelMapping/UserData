@@ -111,6 +111,10 @@ DEU-BE U2 ZooGar AlePla
 DEU-BE U6 KurtSchPla KochStr
 DEU-BE U8 AlePla KotTor
 
+#HAMBURG
+DEU-HH S1Flu Ohl HamBurgAirPort
+
+
 ### ENG
 ## UNDERGROUND
 ENG DisLn SouKen MileEnd
