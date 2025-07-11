@@ -8,6 +8,7 @@ OR EBPor PorUniSta IL EBPor UniSta
 IL CA UniSta DC CA WasUniSta
 CA PS Irv OldTownTC
 
+MA RocLn BosNor Roc
 MA NewLn BosNor New
 MA HavLn BosNor Hav
 MA HavLnWil BosNor Law
@@ -17,7 +18,6 @@ MA FitLn Lin BosNor
 MA NeeLn NeeHei BackBay
 MA WorLn Wor BackBay
 MA ProLn BackBay RI ProLn Pro
-MA MidLn BosSou Bro
 MA FallRivLn BosSou FallRiv
 MA NewBedLn BosSou NewBed
 MA KinLn BosSou Whi
@@ -25,7 +25,7 @@ MA GreLn BosSou Gre
 
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
-MA RedLn Ale QuiCen
+MA RedLnBra Ale QuiCen
 MA GreLnB BosUniE GovCen
 MA GreLnC HawSt GovCen
 MA GreLnD Riv UniSq
@@ -39,12 +39,12 @@ VA YelLn Pen Hun
 FRA-IDF LonPar ParGareNord ENG LonPar LonStPanInt
 
 ENG SWalML LonPad WLS SWalML Bri
-WLS VoGLn Bri CarCen
+WLS ValeGlaLn Bri CarCen
 
 ENG CirLn Emb GloRd
 ENG PicLn KXSP SouKen
 ENG BakLn Pad Emb
 ENG NorLnEdg Emb TotCouRd
 
-FR-IDF C ChaMarsTourEif Jav
-FR-IDF D ChaHal GareNord
+FRA-IDF C ChaMarsTourEif Jav
+FRA-IDF D ChaHal GareNord
