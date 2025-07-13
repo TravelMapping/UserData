@@ -320,14 +320,32 @@ NLD N217 DeHav AquWeg
 #PORTUGAL#
 #https://infraestruturas.maps.arcgis.com/apps/webappviewer/index.html?id=0d5c6ec74cd4485aaf78ec7ca75d6118 but some tolls were removed effective 2025/01/01 https://diariodarepublica.pt/dr/detalhe/lei/37-2024-875716581
 PRT A1 2 18B
+PRT A2 A5 1
+PRT A2 2 15
+PRT A3 3 14
 PRT A4 3 5 #or is this now gone?
 PRT A4 7 15
+PRT A5 6 10
+PRT A6 1 9
+PRT A7 2 14
 PRT A8 3 11
 PRT A8 20 28
+PRT A9 1 8
+PRT A10 1 6
+PRT A11 1 5
+PRT A11 6 17
+PRT A12 AveAlvCun 4
+PRT A13 1 6
+PRT A14 4 9
+PRT A15 2 7
+PRT A16 6 7
+PRT A16 10 11
+PRT A16 14 15
 PRT A17 1 13
 PRT A17 14 15
 PRT A17 16 17 #actual numbers, not the wrong ones we currently have
 PRT A19 1 3 #actual numbers, not the wrong ones we currently have
+PRT A21 A8 N116
 PRT A23 1 2
 PRT A25 4 5 #or is this now gone?
 PRT A25 5A 6 #or is this now gone?
@@ -337,6 +355,7 @@ PRT A28 16 17
 PRT A29 2 4
 PRT A29 5 6
 PRT A29 13 14 #why is this one not on the map?
+PRT A32 1 8
 PRT A33 4 5
 PRT A33 6 7
 PRT A33 8 9
@@ -346,6 +365,15 @@ PRT A41 9 19
 PRT A42 1 2
 PRT A42 4 5
 PRT A42 6 10
+PRT A43 7 8
+PRT IP2Est GNR A6
+PRT IP9 A3 A11
+PRT IC2 4A(A1) N3
+PRT IC8 A17 2
+PRT IC21 A2 1
+PRT IC22 AveCarTei A9
+PRT IC33 IC1 A2
+PRT IC36 A8 A1
 
 #SLOVAKIA#
 #SVK D4 at Austrian border
