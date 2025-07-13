@@ -317,6 +317,36 @@ ITA T4 FRA/ITA A32
 NLD A24 A20 A15
 NLD N217 DeHav AquWeg
 
+#PORTUGAL#
+#https://infraestruturas.maps.arcgis.com/apps/webappviewer/index.html?id=0d5c6ec74cd4485aaf78ec7ca75d6118 but some tolls were removed effective 2025/01/01 https://diariodarepublica.pt/dr/detalhe/lei/37-2024-875716581
+PRT A1 2 18B
+PRT A4 3 5 #or is this now gone?
+PRT A4 7 15
+PRT A8 3 11
+PRT A8 20 28
+PRT A17 1 13
+PRT A17 14 15
+PRT A17 16 17 #actual numbers, not the wrong ones we currently have
+PRT A19 1 3 #actual numbers, not the wrong ones we currently have
+PRT A23 1 2
+PRT A25 4 5 #or is this now gone?
+PRT A25 5A 6 #or is this now gone?
+PRT A25 6A 8 #or is this now gone?
+PRT A28 12 13
+PRT A28 16 17
+PRT A29 2 4
+PRT A29 5 6
+PRT A29 13 14 #why is this one not on the map?
+PRT A33 4 5
+PRT A33 6 7
+PRT A33 8 9
+PRT A41 1 2
+PRT A41 2A 8
+PRT A41 9 19
+PRT A42 1 2
+PRT A42 4 5
+PRT A42 6 10
+
 #SLOVAKIA#
 #SVK D4 at Austrian border
 
