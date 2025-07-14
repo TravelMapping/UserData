@@ -3167,8 +3167,8 @@ NOR OsloKolMot 42 50
 NOR OsloKriMot 15 48
 NOR OsloKriMotDor 52 *Dor
 NOR Ring1 E6/E18 E18(5a)
-NOR Ring2 E6 TroVei
-NOR Ring2 DraVei_E E18
+NOR Ring2 E6 NorGata
+NOR Ring2 TroVei E18
 NOR Ring3 32 E18
 NOR RyfTv E134_W E134_E
 NOR SanSkaMot 1 5
