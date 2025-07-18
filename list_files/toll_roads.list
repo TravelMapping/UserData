@@ -53,6 +53,46 @@ AUT S37 283 302
 #BELGIUM#
 BEL R2 11 12
 
+#CZECHIA#
+#you need to buy a vignette to drive on most dálnice https://edalnice.cz/en/map-of-toll-roads/index.html#/road_map
+CZE D0 76 16
+CZE D1 6 182
+CZE D1 210 258
+CZE D1 260 I55/655
+CZE D1Ost I55 354
+CZE D2 3 CZE/SVK #vignette not required until Lanžhot rest area when entering from Slovakia
+CZE D3 II603_Mez 76
+CZE D3 79 104
+CZE D3 107 130
+CZE D3 141 159
+CZE D4 9 85
+CZE D5 1 14
+CZE D5 22 67
+CZE D5 89 CZE/DEU #vignette not required until Rozvadov rest area when entering from Germany
+CZE D6 7 I6_Nes
+CZE D7 2 18
+CZE D8 1 64
+CZE D8 80 CZE/DEU #vignette not required in the opposite direction
+CZE D10 14 39
+CZE D10 46 71
+CZE D11 8 113
+CZE D35Opa 126 I17
+CZE D35Moh 235 261
+CZE D35 276 296
+CZE D46 1 21
+CZE D46 1 21
+CZE D46 26 37
+CZE D48Bel 1 8
+CZE D48Nov III0487 21
+CZE D48 II482 52
+CZE D48 54 70
+CZE D49 1 9
+CZE D52 10 23
+CZE D55 16 30
+CZE D55 32 35
+CZE D55Sta III43220 64
+CZE D56 40 D48
+
 #FRANCE#
 FRA-HDF A1 ParcAst 16 #there are tolls on the ramps at 7 but it's free to go to ParcAst
 FRA-HDF A2 A1 15
