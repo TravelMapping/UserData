@@ -181,6 +181,21 @@ CHE S3Zen Luz ArthGol
 
 # Zurich - Amsterdam
 CHE S6Bas BasSBB BasBadBah
+DEU-BW S2Fre +DIV_Gun +DIV_Den
+DEU-BW RS1Off Off +DIV_RE7
+DEU-BW RS2Off Off +DIV_RE2
+DEU-BW S7Kar Ach +DIV_KarW
+DEU-BW S71Kar +DIV_KarW KarRuheHbf
+DEU-BW S9 KarRuheHbf HE/BW
+DEU-HE S9Bur HE/BW GrosRohrHeim
+DEU-HE S7 RiedStaGod FraFurtHbf
+DEU-HE S8 FraFurtHbf RP/HE
+DEU-RP S8 RP/HE +DIV_MaiN
+DEU-NW S23 BonnHbf +DIV_End
+DEU-NW ParDor +DIV_Her +DIV_KaiW
+NLD RS32 +DIV_RE19 ArnCen
+NLD RS33 ArnCen +DIV_ICA
+NLD RS324 +DIV_ICE EdeWag
 
 NLD LonAms AmsCen RotCen
 NLD IC35 RotCen +SKIP_Bar
