@@ -115,7 +115,8 @@ ENG NorLnMHE Wat Eus
 ENG PicLnUxb PicCir KXSP
 ENG VicLn Vic KXSP
 ENG EliLn Pad CanWha
-ENG DLR CanWha CutSark
+ENG DLR CanWha Gre
+ENG WaCLn Wat Bank
 ENG WMM1 WestBromCen EdgVil
 SCT EdiTram StAndSq Hay
 SCT GlaSub Par_1 Par_2
@@ -137,6 +138,10 @@ SCT FifeLnCow EdiWav NorQue
 SCT ShoLn EdiWav Kir
 SCT LowSle GlaCen ENG/SCT
 ENG LowSle ENG/SCT LonEus
+ENG WCMLA LonEus BirNewSt
+ENG NhpLn LonEus BirNewSt
+ENG ThaLnk Far Bri
+ENG EliLnHea HeaTer23 CanWha
 
 ENG LonPar LonStPanInt GBR/FRA
 FRA-HDF LonPar GBR/FRA HDF/IDF
