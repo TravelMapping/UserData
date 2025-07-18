@@ -34,7 +34,7 @@ BC CanLnRic Wat RicBri
 BC MilLn VCCCla ComBro
 BC ExpoLn Wat ComBro
 
-CA CT SanFraKing SanJoseDir
+CA CalTra SanFraKing SanJoseDir
 CA BARTBlue DalyCity DubPle
 CA BARTGre DalyCity Ber
 CA BARTOra Ber NorBer
@@ -147,14 +147,16 @@ ENG LonPar LonStPanInt GBR/FRA
 FRA-HDF LonPar GBR/FRA HDF/IDF
 FRA-IDF LonPar HDF/IDF ParGareNord
 
-FRA-IDF M2 Cha BirHak
-FRA-IDF M3 Cha StLaz
+FRA-IDF M2 CdGEto BarRoc
 FRA-IDF M4 BarRoc DenRoc
+FRA-IDF M6 CdGEto BirHak
 FRA-IDF M6 DenRoc MonBie
 FRA-IDF M7 GareEst Cha
+FRA-IDF M14 Cha StLaz
+FRA-IDF M14 MaiBla BibFraMit
 FRA-IDF A ChaHal GareLyon
-FRA-IDF B MasTGV StMicNotDame
-FRA-IDF C VirRiveGau StMicNotDame
+FRA-IDF B MasPal GareNord
+FRA-IDF C VirRiveGau BibFraMit
 FRA-IDF D GareNord GareLyon
 FRA-IDF N VirRiveGau ParMon
 FRA-IDF FunMon Inf Sup
@@ -172,6 +174,7 @@ CHE S24 ZurHau Zug
 CHE 3Zur Cen Sih
 CHE 4Zur EscWyssPla Bel
 CHE 6Zur ETHUni BahEnge
+CHE 9Zur Bel ETHUni
 CHE S1Zen Luz Zug
 CHE S2Zen Zug ArtGol
 CHE S3Zen Luz ArthGol
@@ -179,10 +182,10 @@ CHE S3Zen Luz ArthGol
 # Zurich - Amsterdam
 CHE S6Bas BasSBB BasBadBah
 
-NLD IC35 AmsCen RotCen
-NLD IC35 RotCen +SKIP_RotLom
+NLD LonAms AmsCen RotCen
+NLD IC35 RotCen +SKIP_Bar
 
-NLD B MasWest Bla
+NLD B MasWest Oosp
 NLD D RotCen Zui
 NLD 3Haa Spui LaanNOI
 NLD 17Haa StaHolSpo DenHaagCen
