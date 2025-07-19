@@ -1,5 +1,5 @@
-#https://github.com/TravelMapping/UserData
 #Repository for User Files
+#https://github.com/TravelMapping/UserData
 #.list files for TravelMapping users are stored here, and are retrieved from here for site updates.
 #
 #TM users are welcome to update their own lists by submitting pull requests through to this repository or to submit list file updates by email to travmap@teresco.org to be placed here by the site admins.
@@ -595,7 +595,7 @@ NV NV445 NugAve NV659
 NV NV445 QueWay EagCanRd
 NV NV562 AirCon AnnOakDr
 NV NV578 I-15 LasVegBlvd
-NV NV582 ColDr I-11
+NV NV582 ColDr I-11 #College Dr to I-11 (17B), apparently deprecated
 # NV NV589 NV595 I-15 #Sahara Blvd
 NV NV595 NV589 US95
 NV NV613 CR215 US95
@@ -1039,7 +1039,7 @@ TX TX114 CarAve TX183
 TX TX121 I-35W/287 TX5_N
 TX TX123 US90 US181Bus 
 TX TX130 41(410) I-35
-TX TX146 NASA1 FM2094
+TX TX146 NASA1 BayBlvd #FM2094
 TX TX178 TX20 I-10
 TX TX179 FM553 I-45
 TX TX183 TX360 TX356
@@ -1194,13 +1194,13 @@ ON HigAve PowSt ON401
 BEL A3 18 BEL/DEU
 BEL A12 R0 2
 BEL E314 E40/A3 BEL/NLD
-BEL E40 E19 BEL/DEU
+BEL E40 A12 BEL/DEU
 BEL R0 A12 A3
 
 BEL N21 N277 R20
 BEL N23 R20 A3
 BEL N201 N277 R20
-BEL N277 2(A12) KonPie
+BEL N277 2(A12) KonPle
 
 #Its German, but in Belgium...
 BEL B258 DEU/BEL BEL/DEU
@@ -1231,7 +1231,7 @@ DEU-NW B7 A52 L392_E
 DEU-NW B56 NLD/DEU A46
 DEU-NW B258 BEL/DEU K2
 DEU-NW B258 L167 L115
-DEU-NW B258Aac L235 A44
+#DEU-NW B258Aac L235 A44
 DEU-NW B258Roe A44 DEU/BEL
 
 DEU-RP B50 B50n_W B53_N
@@ -1247,7 +1247,7 @@ DEU-NW L65 L167 NW/RP
 DEU-NW L115 B258 A1_S
 DEU-NW L167 L65 B258
 DEU-NW L221 L260 L238
-DEU-NW L235 B258 L221_E
+DEU-NW L235 A44 L221_E
 DEU-NW L238 L221 L240
 DEU-NW L240 L238 A44
 DEU-NW L260 L221 B258
