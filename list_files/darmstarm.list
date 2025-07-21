@@ -30,21 +30,25 @@ DE DE279 DE4/896 MD/DE
 DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
 DE DE896 DE/MD DE71_S
 #pennsylvania
-PA I-76 226 247
-PA I-80 123 111
+PA I-76 226 247 #niagra trip
+PA I-76 331 328 #tobyhana trip
+PA I-80 123 111 #niagra trip
+PA I-80 298 302 #tobyhana trip
 PA I-81 44 MD/PA #two parts
 PA I-81 70 67
 PA I-83 46B 51
 PA I-90 PA/NY OH/PA
 PA I-95 DE/PA 26 #incomplete
 PA I-283 1 3
+PA I-476 56 16 #various trips
 PA US1 MD/PA PA352
 PA US6 PA666 US6BusWar_E
 PA US6BusWar US6_E US62_N
-PA US22 I-81 US322_W
+PA US22 I-81 US322_W #niagra trip
+PA US22 PA33 I-476 #tobyhana trip
 PA US30 PA41 US15 #gap to gettysburg
 PA US62 US6Bus_E PA/NY
-PA US202 US1/322 US422 #tmg, valley forge
+PA US202 US1/322 I-76 #tmg, valley forge
 PA US219 PA153 PA948_N
 PA US222 US422/12 PA61 #only part i know for sure
 PA US322 PA452 US1_N #sun valley
@@ -53,6 +57,7 @@ PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 US222Bus #reading part
 PA PA10 PA472_S I-176(2)
 PA PA26 UniDr US322
+PA PA33 I-80 US22 #tobyhana trip
 PA PA41 DE/PA US30
 PA PA52 DE/PA PA926
 PA PA53 US322_W US322_E 
@@ -61,6 +66,7 @@ PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA113 US30 DevDr #downingtown east
 PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
+PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
 PA PA272 MD/PA KirMillRd #camp horseshoe
 PA PA283 I-283 US30
 PA PA340 PA772_E PA462
@@ -68,11 +74,16 @@ PA PA345 PA82 WarRd_E #french creek
 PA PA401 US202 PhoPike
 PA PA420 I-95 US13
 PA PA462 PA999 PA340 #unfortunately didn't go on enough of 999 for it to count.
+PA PA611 I-95 PatAve #go birds
+PA PA611 I-80(298) BroRd # camping trip in tobyhana
 PA PA472 US1 PA372
 PA PA666 US6 PA948
+PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
 PA PA743 PA283 US422
 PA PA772 US30 PA340_W
-PA PA841 MD/PA PA41
+PA PA796 PA896 PA41
+PA PA841 MD/PA PA82
+PA PA841AltTrkWes PA841_N PA841_S
 PA PA842 NewRd PA162
 PA PA896 MD/PA US30
 PA PA926 PA841 US202/322 #pocopson to 202
