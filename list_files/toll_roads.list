@@ -931,6 +931,31 @@ CHE ZubRhe 14 14a #explicitly signed Keine Vignettenpflicht north of 14a
 CHE ZubRuf A6 H10
 CHE ZubWie 1 32
 
+#THAILAND#
+#THA M6 not yet toll?
+THA M7 5 16
+THA M7Ban M7 Thl34
+THA M7Lae M7 Thl3608_1
+THA M7Pat M7 Thl3240
+THA M7Jom M7 HuayYai_E
+THA M9 3 4
+THA M9 7C 8
+THA M9 9 Thl35
+#THA M81 not yet toll?
+THA BurWitExpy S1Expy 53
+THA ChaRatExpy MahaNakExpy 27
+THA MahaNakExpy 1 17
+THA MahaNakExpyDao MahaNakExpy 30
+THA PraRatExpy 2 17
+THA S1Expy ChaRatExpy BurWitExpy
+THA SiRatExpy T2-13 N2-11
+THA SiRatExpyAso SiRatExpy Tx2-06
+THA ThoBrg SiRatExpy Thl303
+THA UdonRatExpy T2-05 N2-16
+THA BhuBrg Thl3113 M9
+THA Thl31DMT Thl31_S Thl31/38
+THA Thl38 Thl31_S Thl31_DMA
+
 #UNITED KINGDOM#
 ENG M6Tol 9(M42) 11A(M6)
 ENG A15 A1077 A164/A1105
