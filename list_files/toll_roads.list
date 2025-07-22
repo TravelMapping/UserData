@@ -53,6 +53,9 @@ AUT S37 283 302
 #BELGIUM#
 BEL R2 11 12
 
+#CAMBODIA#
+KHM E4 ToNH4/5 NH4_Sih
+
 #CZECHIA#
 #you need to buy a vignette to drive on most dálnice https://edalnice.cz/en/map-of-toll-roads/index.html#/road_map
 CZE D0 76 16
@@ -1313,6 +1316,30 @@ PA PA576 6 8
 PA PA576 11 16
 PA PA739 NJ/PA US209 #not all the way to US209
 PA BetRossBri I-95 PA/NJ
+
+##PUERTO RICO##
+PR PR5 AveLosMil PR174
+PR PR17 PR8 PR26
+PR PR20 AveDavUrb PR199 #northbound only? https://www.metropistas.com/autopista-pr-20/ says there's southbound too, but where?
+PR PR22 7 9
+PR PR22 17 22
+PR PR22 27 32
+PR PR22 42 48
+PR PR22 57 71
+PR PR22 77 84
+PR PR52 2 4 #northbound only?
+PR PR52 4 15
+PR PR52 23 32
+PR PR52 39 76
+PR PR52 80 91 #southbound only
+PR PR52 91 95 #northbound only
+PR PR52 104 PR9
+PR PR53 2 5
+PR PR53 25 31
+PR PR53 33 35
+PR PR53Gua PR54 83
+PR PR53Gua 91 PR52
+PR PR66 CamCiu 19
 
 ##RHODE ISLAND
 RI RI138 EShoRd RI138A/238
