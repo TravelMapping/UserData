@@ -1,5 +1,5 @@
 # ──────────
-# 2025-06-25
+# 2025-07-15
 # ──────────
 
 # ─────────
@@ -149,14 +149,15 @@ CZE 4Plz BozNem SadyPet
 CZE 1Brn MenNam VysHlaVst
 CZE 4Brn NamSvo HlaNad
 CZE 5Brn Ces MenNam
-CZE 8Brn NemBoh Gei
+CZE 8Brn NemBoh Mif
 
 CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
 CZE S6Jih UheHra StaMesUheHra
 CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
-CZE S6Jih BrnoZid Bla
+CZE S6Jih BrnoZid StaMesUheHra
+CZE S9Jih Bre StaMesUheHra
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
 CZE S71Jih VysMor Nez
@@ -187,7 +188,7 @@ CZE V51 MesKra StaPaka
 
 CZE 1Ost HlaNad HraPol
 CZE X3Ost MirNam Pal
-CZE 4Ost SviMos Kar
+CZE 4Ost SviMos NovaHutJisBra
 CZE 5Ost BudZat PorVre
 CZE 7Ost PorVre Pal
 CZE 13Ost RedVit DolVit
@@ -198,7 +199,7 @@ CZE S4Mor Sed MosOstAir
 CZE S5Mor FryNadOst Ost
 CZE S6Mor OstHlaNad Ver
 CZE S8Mor Stu Ver
-CZE S9Mor OstKun CesTes
+CZE S9Mor OstSvi CesTes
 CZE S22Mor MosJab MosJabZas
 
 #┌───────────────────────────────────────────┐

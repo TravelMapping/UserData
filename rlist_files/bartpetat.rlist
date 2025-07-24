@@ -391,9 +391,10 @@ JPN TokaidoShin Tokyo Kyoto
 #Tokyo
 JPN YurikamomeLn U01 U07
 JPN HanzomonLn Z13 Z14
-JPN ChuoSobuLn JB10 JB22
+# JPN ChuoSobuLn JB10 JB22
 JPN GinzaLn G01 G08
 JPN YamanoteLn JY01 JY17
+JPN AsakusaLn A13 A20
 
 #Kyoto
 JPN KarasumaLn K09 K11
@@ -448,9 +449,9 @@ TWN HSR TPE ZUY
 
 TWN TYAir A1 A12
 TWN BroLn BR01 BR11
-TWN RedLn R03 R05
-TWN RedLn R10 R15
-
+TWN RedLn R03 R15
+TWN BlueLn B10 BL14
+TWN GreLn G12 G18
 
 
 #CHINA

@@ -42,11 +42,12 @@ IL NCS UniSta Ant
 IL UPNW OglTraCen Har
 IL UPNWMcH OglTraCen McH
 IL UPN OglTraCen IL/WI
-IL SouShoLn +DIV_ME MilSta
+IL SouShoLn IN/IL MilSta
+IL BlueLn OHa ForPk
 IL BroLn Kim Loop
 IL GreLn HarLake Ash63rd
 IL GreLnE63 HarLake CotGro
-IL OraLn +DIV_Gre Loop
+IL OraLn Mid Loop
 IL PinkLn +DIV_Gre Loop
 IL PurLn How Lin
 IL RedLn 95thDanRyan How
@@ -58,6 +59,7 @@ IN LSBos IL/IN +DIV_Mic
 IN LSNew IL/IN +DIV_Mic
 IN PM IL/IN +DIV_SB
 IN WV IL/IN IN/MI
+IN SouShoLn SouBendAir IN/IL
 IA SW MO/IA IA/IL
 MI BW IN/MI PortHur
 MI WV IN/MI Pon
