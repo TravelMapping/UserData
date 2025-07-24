@@ -247,9 +247,8 @@ NJ I-278 3 NJ/NY        # I-95 NJ/NY
 NY I-278 NJ/NY 16       # NJ/NY Belt Pkwy
 
 # I-280 (CA)
-CA I-280 47B 54         # CA1 US101
-CA I-280 3A 12          # CA87 CA85
-CA I-280 I-680/101 2    # US101 7th St
+CA I-280 3A 5thSt       # CA87 5th St SF
+CA I-280 I-680/101 2    # US101 7th St SJ
 
 # I-283 (PA)
 PA I-283 2 3            # I-83 PA441
@@ -444,7 +443,7 @@ ID US30 OR/ID US95_S        # Fruitland
 ID US30 I-84(9) I-86(58)
 ID US30 I-15(47) ID34_S
 
-OR US30HisCol I-84(18) I-84(37)
+OR US30HisCol JorRd I-84(35)
 
 # US34
 IA US34 I-35 US69
@@ -550,6 +549,7 @@ WA US101 US101Alt_N WA107
 WA US101 OR/WA US101Alt_S
 OR US101 LogRd OR/WA
 CA US101 398B 433B      # CA85 I-80
+CA US101 385B 393       # I-280 Great America Pkwy
 CA US101 3B 27A         # CA110 CA27
 
 WA US101AltIlw US101_S US101_N
@@ -650,6 +650,9 @@ CA CA12 I-80(43) 58B
 # CA15 - Clinched
 CA CA15 1A 6B           # I-5 I-8
 
+# CA17
+CA CA17 25 26           # Hamilton Ave I-280
+
 # CA22
 CA CA22 8 12            # CA39 Harbor Blvd
 
@@ -697,6 +700,7 @@ CA CA84 CA238_S I-580
 CA CA85 19A 24B         # I-280 US101
 
 # CA87
+CA CA87 8 9             # Skyport US101
 CA CA87 5 6B            # I-280 DT SJ
 
 # CA91
@@ -1196,7 +1200,7 @@ OR OR39 CA/OR US97
 OR OR47 FleRd US26_W
 
 # OR58
-OR OR58 OR429 CreCutRd
+OR OR58 ORH429 CR1351
 
 # OR78 - Clinched
 OR OR78 US20/395 US95
