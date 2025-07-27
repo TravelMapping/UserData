@@ -947,6 +947,7 @@ MEX-EMEX AutNauEca AquSer MEX-DF AutNauEcaEca AniPer
 MEX-EMEX AutPirTex MEX136D MEX132D
 MEX-PUE AutPueTla AniPerEco MEX-TLAX AutPueTla MEX117
 MEX-DF AutSieNac AveGranCan MEX-EMEX AutSieNac AveCen_N
+MEX-NAY AutTepSB MEX10 MEX12
 MEX-DF AutUrbNte DistSanAnt DF/EMEX
 MEX-DF AutUrbPte AutUrbSur AveCen
 MEX-DF AutUrbSur XocCoa Eje10Sur
