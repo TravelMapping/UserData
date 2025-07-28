@@ -37,7 +37,8 @@ PA I-80 298 302 #tobyhana trip
 PA I-81 44 MD/PA #two parts
 PA I-81 70 67
 PA I-83 46B 51
-PA I-90 PA/NY OH/PA
+PA I-86 PA/NY 1 #niagara trip (rnrhf)
+PA I-90 37 OH/PA #niagara trip (rnrhf)
 PA I-95 DE/PA 26 #incomplete
 PA I-283 1 3
 PA I-476 56 16 #various trips
@@ -55,6 +56,7 @@ PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 US222Bus #reading part
+PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
 PA PA26 UniDr US322
 PA PA33 I-80 US22 #tobyhana trip
@@ -237,14 +239,27 @@ TN I-81 1 TN/VA
 TN US129 I-40 CheTrl
 #michigan
 #new york
+NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
 NY PalIntPkwy NJ/NY 6 #college new york trip 2024
-NY I-90 PA/NY 57(NYST)
+NY I-86 10 PA/NY #niagara trip (rnrhf)
+NY I-90 59(NYST) 56(NYST) #niagara trip
+NY I-90 50(NYST) 55A(NYST) #niagara trip (duff's -> bills)
 NY I-95 NJ/NY 1 #george washington bridge
+NY I-190 7 21 #niagara trip
+NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
-NY US62 PA/NY NY60
+NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
+NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
+NY US62 PA/NY NY60 #niagara trip (ride up)
+NY US219 I-90_N US20Alt #niagara trip (duff's -> bills)
+NY NY5 NY179 I-190 #niagara trip (niagara)
 NY NY9A HenHudPkwy(14) HenHudPkwy(11) #to central park by car
-NY NY60 US62 FluAve #niagara trip
-NY NY430 StrRd NY60/394 #niagara trip
+NY NY60 US62 FluAve #niagara trip (ride up)
+NY NY60 SylRd I-90 #niagara trip (niagara)
+NY NY75 US20 I-90 #niagara trip (bills -> bemus)
+NY NY179 I-90 NY5 #niagara trip (niagara)
+NY NY263 I-290 NY324 #niagara trip (duff's)
+NY NY430 StrRd NY60/394 #niagara trip (niagara)
 #new jersey
 NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
