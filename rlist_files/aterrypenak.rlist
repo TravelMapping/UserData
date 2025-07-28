@@ -36,14 +36,16 @@ CO ELn EmpFieMileHigh UniSta
 MA GreLnD Lon NorSta
 MN BlueLine MallofAmerica MSPTerminal1
 MN GreenLine TargetFieldPlatform2 UnionDepot
-MO MLBlueLn Ski CenWestEnd
-MO MLRedLn LamAirTer2 CenWestEnd
+MO MLBlueLn ShrLanI44 LacLan
+MO MLRedLn LamAirTer2 8thPine
 TX RedLnHou FanS Pre
 
 # Streetcars
 FL TECO DickGrePla CenPark
 MI QLn GraBlvd ConSt
+MO KCSC UniSta RivMar
 OH Con Ban_E Ban_W
+OK DowLoop SciPark_W SciPark_E
 WI HopMLn Int BurCom
 WI KenStr 11thAve54thSt_S 11thAve54thSt_N
 

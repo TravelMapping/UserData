@@ -82,13 +82,17 @@ CHL TunSanCri R70 AvKen
 
 #Colombia
 COL AutNorBog AvCl80 RN45A
-COL AvNQS AvDor AutNor
+COL AvNQS AvDor AvCl116
 COL AvDor EjeAmb AerIntDor
 
 COL RN01 SanAnd_w SanAnd_E
-COL RN45A Bog RN55
+COL RN45A Bog RN45ACNA_S
+COL RN45A RN45ACNA_N Cl8_W
+COL RN45ACNA RN45A_S RN45A_N
+COL RN50 PuePie Bog
 COL RN55 RN45A RN55CNC_N
 COL RN55CNC RN55_S RN55_N
+COL RN90Mar AerSimBol AvLib
 
 #Ecuador
 #ECU E5  not loaded in TM yet
@@ -619,7 +623,7 @@ CA ColFwy I-5 ColSt
 CA LinHwyAub  I-80(118) CA49_S
 CA LinHwyDix PorRd LinSt
 CA LinHwyFol MatFieRd RilSt_N
-CA VLSBTul CavLpRd US97
+CA VLSBTul CaveLpRd US97
 
 #Colorado
 CO I-25 91 269
