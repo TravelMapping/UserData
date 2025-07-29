@@ -81,7 +81,7 @@ ON ON427 RR7 QEW
 ON ONQEW PeaBrg 139
 
 # ON Named Expressways----------------------------------------------------------
-ON ONGar 139 LakeShoBlvdE
+ON GarExpy 139 157                     # Entire route QEW - DVP
 ON ONDVP GarExpy ON401/404
 ON ECRowExpy ON3 DouAve
 
