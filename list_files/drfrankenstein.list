@@ -650,7 +650,7 @@ MI I-696 1 18C(10)
 # MI US Routes------------------------------------------------------------------
 MI US23 MI14_E I-75(117A)
 
-MI US31 I-94(30) I-196(44)
+MI US31 27 44(196)                     # I-196 concurrency, Benton Harbor - Holland
 MI US131 MI11 WeaSt
 MI US131 I-196 I-296(89)
 
