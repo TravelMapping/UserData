@@ -53,7 +53,7 @@ QC TCHMai ON/QC QC/NB
 QC TCHKir A-15(1) CheGla
 
 # QC Routes nationales----------------------------------------------------------
-QC QC133 A-35(6) USA/CAN
+QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
 QC QC136Mon 1 AvePap                   # Entire route
 QC QC170 A-70 QC138
 QC QC175 A-20/73 QC172
