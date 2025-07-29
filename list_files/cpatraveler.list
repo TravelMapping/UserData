@@ -1760,7 +1760,8 @@ AL AL47 AL83 CR106 #03232025 Travel Home from Bea
 AL AL49 I-85 AL281 #Horseshoe Bend Trip Mt Cheaha
 AL AL50 AL229 AL49 #Lake Martin   
 AL AL52 AL87 AL27_S #08162024 Trip from Bea to Home
-AL AL52 AL27_N US231 #060725 Visit Level Plains  
+AL AL52 AL27_N US231 #060725 Visit Level Plains
+AL AL52 AL95 AL/GA #072825 Seminole Park Day Trip  
 AL AL53 I-65 US231/431 #12172017 Montgomery Trip Ardmore Audit
 AL AL54 US331 AL52 #060725 Visit Level Plains          
 AL AL55 FL/AL US331_S  #07052024
@@ -1798,6 +1799,7 @@ AL AL89 AL41 AL21 #03232025 Travel Home from Bea
 AL AL92 AL85_S AL167 #08252024 Travel Home to Bea's
 AL AL92 US84 AL85_N #060725 Visit Level Plains 
 AL AL94 US331 US231 #Mon-Cre Audit
+AL AL95 AL52 AL134 #072825 Seminole Park Day Trip
 AL AL97 US331 US31_N #10042024 Travel to visit Bea
 AL AL97 US31_S US80 #10042024 Travel to visit Bea 
 AL AL99 US31 AL127 #08252024 Travel Home to Bea's
@@ -1815,6 +1817,7 @@ AL AL126 AL126 TecDr #071525 Visit LJM WTM
 AL AL127 AL99 AL/TN #08252024 Travel Home to Bea's
 AL AL128 AL63 HodDr #Camping at Wind Creek
 AL AL134 AL88_W US84/331 #Living in Enterprise
+AL AL134 US431_S AL95 #072825 Seminole Park Day Trip
 AL AL137 US29 FL/AL #10042024 Travel to visit Bea  
 AL AL138 I-85 US80 #Tuskgee Airman Trip
 AL AL139 AL25 AL22 #10042024 Travel to visit Bea
@@ -2359,14 +2362,18 @@ GA GA26 I-75 GA153 #03092022 Return from SCTC
 GA GA26ConGar US80 I-516 #03142017 NTCA Meeting Trip
 GA GA27 GA41_S US82 #03092022 Return from SCTC
 GA GA35ConTho US19/84 GA35 #11092024 Trip to Thomasville
-GA GA37 GA55/62 GA91 #071525 Visit Robert 
+GA GA37 GA55/62 GA91 #071525 Visit Robert
+GA GA39 ClanPark GA273 #072825 Seminole Park Day Trip  
 GA GA41 GA153 US280_W #03092022 Return from SCTC 
 GA GA53 I-75 GA9_N #09232019 Randolph Telephone Trip
 GA GA55 US82 GA37/62 #071525 Visit Robert 
 GA GA60 GA136 GA283 #09232019 Randolph Telephone Trip
+GA GA62 AL/GA GA370 #072825 Seminole Park Day Trip
 GA GA83 US278_W I-75 #03092022 Return from SCTC 
 GA GA85 GA314 GA92_S #01142018 Atl Airport to Montgomery Mtg
-GA GA91 GA37 GA253 #071525 Visit Robert  
+GA GA91 GA91Alt_S GA91Alt_N #072825 Seminole Park Day Trip
+GA GA91 GA37 GA253 #071525 Visit Robert
+GA GA91AltDon GA91_S GA91_N #072825 Seminole Park Day Trip  
 GA GA92 I-75 MainSt_Woo #09202017 Trip to Bread Baker
 GA GA92 GA85_S US19/41_S #01142018 Atl Airport to Montgomery Mtg
 GA GA97 US27/84 FL/GA #04282019 St George Island Vacation
@@ -2387,17 +2394,23 @@ GA GA153 GA26 GA41 #03092022 Return from SCTC
 GA GA190 US27 US27Alt #12182017 Callaway and Maggie Pick Up
 GA GA219 GA103/116 US27 #071525 Visit Robert
 GA GA237 US19 GA13 #NECA Trips
+GA GA241 FL/GA US27Bus #072825 Seminole Park Day Trip
+GA GA253 End GA253Spr #072825 Seminole Park Day Trip
 GA GA253 GA91 US27Bus_N #071525 Visit Robert
 GA GA253 US27Bus_N GA253Spr #071525 Visit Robert
 GA GA253SprBai US84 GA253 #071525 Visit Robert   
-GA GA254 US129 GA115 #09232019 Randolph Telephone Trip 
+GA GA254 US129 GA115 #09232019 Randolph Telephone Trip
+GA GA273 GA370 GA39 #072825 Seminole Park Day Trip
+GA GA273SprCed End GA370 #072825 Seminole Park Day Trip 
 GA GA279 GA138 GA314 #01142018 Atl Airport to Montgomery Mtg
 GA GA283 GA60 US129 #09232019 Randolph Telephone Trip
 GA GA302 FL/GA GA97 #071625 TJ Bainbridge Trip
 GA GA302SprFac GA97 GA302 #071625 TJ Bainbridge Trip
+GA GA309 FL/GA US27/84 #072825 Seminole Park Day Trip
 GA GA309 CalSt_E US27/84 #071525 Visit Robert
 GA GA314 GA279 GA85 #01142018 Atl Airport to Montgomery Mtg 
 GA GA354 GA190 GA18 #12182017 Callaway and Maggie Pick Up
+GA GA370 GA273 GA62 #072825 Seminole Park Day Trip
 GA GA400 1A 4 #NECA Trips
 GA GA520 I-185 GA55 #071525 Visit Robert 
 HI I-H1 8B AinAve #092014
