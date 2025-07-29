@@ -269,9 +269,9 @@ NJ I-287 I-95 NJ/NY
 
 NJ I-95 NJ/NY 6
 NJ I-95Sec I-95_S I-95_N               # Entire route around Secaucus
-NJ I-95Tre PA/NJ I-295
 NJ I-195 5 35
 NJ I-295 2A DE/NJ
+NJ I-295 67 NJ/PA                      # West of US 1 to Pennsylvania; old I-95
 
 # NJ US Routes------------------------------------------------------------------
 NJ US1 I-95/295 NJ/NY
