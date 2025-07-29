@@ -195,10 +195,10 @@ NY US11 NY190 US2
 NY US44 US9W_S US9
 
 # NY Parkways-------------------------------------------------------------------
-NY FDRooDr 18 2
+NY FDRooDr 2 17                        # Brooklyn Br - RFK/Triboro Br & Harlem River Dr (N terminus)
 NY TacStaPkwy I-90 BroRivPkwy
 NY SprBroPkwy TacStaPkwy BroRivPkwy
-NY HarRivDr 18 20A
+NY HarRivDr 17 19A                     # RFK/Triboro Br & FDR Dr (S terminus) - 3 Av Br
 NY HenHudPkwy 8 24
 NY HutRivPkwy 1 26
 NY BroRivPkwy 9 TacStaPkwy
