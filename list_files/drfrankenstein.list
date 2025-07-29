@@ -634,7 +634,7 @@ MI I-75 43 51
 MI I-75 114 117A
 MI I-275 29 165(96)
 MI I-375 I-75 BeaSt
-MI I-375BSDet I-375 MI3
+# MI I-375BSDet I-375 MI3              # ??? was this Gratiot? idk but it's gone
 
 MI I-94 IN/MI 34
 MI I-94 272 MI/Can
