@@ -137,7 +137,7 @@ NB NB130 NB2(172) SomRd
 BC TCHMai 3 13
 
 # BC Highways-------------------------------------------------------------------
-BC BC99 GraSt VilGateBlvd
+BC BC99 GraSt_S VilGateBlvd            # YVR Airport - Whistler
 
 ##### U N I T E D   S T A T E S ################################################
 #===== New York ================================================================
