@@ -268,7 +268,7 @@ NJ I-280 1 17
 NJ I-287 I-95 NJ/NY
 
 NJ I-95 NJ/NY 6
-NJ I-95_W I-95_S I-95_N
+NJ I-95Sec I-95_S I-95_N               # Entire route around Secaucus
 NJ I-95Tre PA/NJ I-295
 NJ I-195 5 35
 NJ I-295 2A DE/NJ
