@@ -593,7 +593,7 @@ VA US60 VA225 HarPoiRd
 VA US60 US360/60Trk_W VA147_E
 
 # VA State Routes---------------------------------------------------------------
-VA VA76 SR652/754 VA146
+VA VA76 SR754 VA146                    # Brandermill (near W terminus) - Richmond (near E terminus)
 VA VA146 VA76 I-195
 VA VA195 I-195 US60
 
