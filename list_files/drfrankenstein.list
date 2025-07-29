@@ -608,7 +608,7 @@ NC I-95 1 NC/VA
 NC US301 I-95(1) SC/NC
 NC US501 I-95 SC/NC
 
-NC US17 SC/NC I-40
+NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
 
 NC US421 US17/74_W I-140
 
