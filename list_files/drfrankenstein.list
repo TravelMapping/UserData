@@ -56,7 +56,7 @@ QC TCHKir A-15(1) CheGla
 QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
 QC QC136Mon 1 AvePap                   # Entire route
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
-QC QC175 A-20/73 QC172
+QC QC175 A-20 QC172                    # Lévis - Chicoutimi-Nord (N terminus)
 
 # QC Routes régionales (sud)----------------------------------------------------
 QC QC201 QC202 QC342                   # Entire route St-Antoine-Abbé - Rigaud
