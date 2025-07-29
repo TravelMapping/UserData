@@ -17,7 +17,6 @@ QC A-19 BoulHenBou BoulDag
 QC A-20 ON/QC QC132
 QC A-20Rim QC132_W QC132MJo
 QC A-520 A-20 A-40
-QC A-920 CheFle A-20
 
 QC A-25 A-20 46
 
@@ -58,6 +57,9 @@ QC QC133 A-35(6) USA/CAN
 QC QC136Mon 1 AvePap                   # Entire route
 QC QC170 A-70 QC138
 QC QC175 A-20/73 QC172
+
+# QC Routes régionales (sud)----------------------------------------------------
+QC QC201 QC202 QC342                   # Entire route St-Antoine-Abbé - Rigaud
 
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
