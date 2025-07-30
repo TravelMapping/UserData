@@ -1,8 +1,7 @@
 ##### C A N A D A ##############################################################
 #===== Québec ==================================================================
 # QC Autoroutes ----------------------------------------------------------------
-QC A-5 ON/QC QC105_N
-QC A-5 QC366_W QC366_E
+QC A-5 ON/QC QC105/366_E               # Entire route Hull - Wakefield
 
 QC A-10 1 143
 QC A-410 BlvdUni A-10
@@ -18,7 +17,7 @@ QC A-20 ON/QC QC132
 QC A-20Rim QC132_W QC132MJo
 QC A-520 A-20 A-40
 
-QC A-25 A-20 46
+QC A-25 A-20 QC125/158_N               # Entire route Longueuil - St-Esprit
 
 QC A-30 1 BlvdPol
 QC A-30Bec QC132_W End
@@ -36,7 +35,7 @@ QC A-440 17 35
 QC A-440EQu 21 29
 QC A-640 QC344_W QC344_E
 
-QC A-50 BlvdAll QC117
+QC A-50 RueMon QC117                   # Entire route Gatineau - Mirabel
 
 QC A-55 VT/QC 226
 QC A-955 RuePri A-55
@@ -53,13 +52,23 @@ QC TCHMai ON/QC QC/NB
 QC TCHKir A-15(1) CheGla
 
 # QC Routes nationales----------------------------------------------------------
+QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
+QC QC117 A-15/40 A-50                  # Montréal (S terminus) - Mirabel
+QC QC131 QC138 14(31)                  # Lavaltrie (S terminus) - Joliette
 QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
 QC QC136Mon 1 AvePap                   # Entire route
+QC QC138Mon A-15 QC131                 # Montréal - Lavaltrie
+QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
+QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
 QC QC175 A-20 QC172                    # Lévis - Chicoutimi-Nord (N terminus)
 
 # QC Routes régionales (sud)----------------------------------------------------
 QC QC201 QC202 QC342                   # Entire route St-Antoine-Abbé - Rigaud
+
+# QC Routes régionales (nord)---------------------------------------------------
+QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
+QC QC344 A-50 A-640_W                  # Grenville - Pointe-Calumet
 
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
