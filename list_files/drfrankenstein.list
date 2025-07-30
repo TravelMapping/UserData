@@ -120,6 +120,7 @@ QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
 QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - Stanbridge East
+QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 
 # QC Routes régionales (nord)---------------------------------------------------
