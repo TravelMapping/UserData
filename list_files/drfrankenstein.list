@@ -3,49 +3,52 @@
 # QC Autoroutes ----------------------------------------------------------------
 QC A-5 ON/QC QC105/366_E               # Entire route Hull - Wakefield
 
-QC A-10 1 143
-QC A-410 BlvdUni A-10
-QC A-610 A-10 QC112
+QC A-10 1 143                          # Entire route Brossard - Sherbrooke
+QC A-410 A-10 QC108                    # Entire route
+QC A-610 A-10 QC112                    # Entire route
 
-QC A-13 1 22
+QC A-13 1 22                           # Entire route Lachine - St-Eustache
 
-QC A-15 NY/QC QC117
+QC A-15 NY/QC QC117                    # Entire route St-Bernard-de-Lacolle - Ste-Agathe-des-Monts
 
-QC A-19 BoulHenBou BoulDag
+QC A-19 BoulHenBou BoulDag             # Entire route Montréal - Laval
 
-QC A-20 ON/QC QC132
-QC A-20Rim QC132_W QC132MJo
-QC A-520 A-20 A-40
+QC A-20 ON/QC 542                      # Entire route Rivière-Beaudette - N-D-des-Neiges
+QC A-20Rim QC132_W QC132MJo            # Entire route Le Bic - Mont-Joli
+QC A-520 A-20 A-40                     # Entire route Dorval - St-Laurent
 
 QC A-25 A-20 QC125/158_N               # Entire route Longueuil - St-Esprit
 
-QC A-30 1 BlvdPol
-QC A-30Bec QC132_W End
-QC A-530 QC201_S 12
-QC A-730 A-30 QC132_E
-QC A-930 A-15 A-30
+QC A-30 1 BlvdPol                      # Entire route Vaudreuil - Sorel
+QC A-30Bec QC132_W End                 # Entire route Bécancour - Gentilly
+QC A-530 QC201_S 12                    # Entire route St-Timothée - St-Stanislas
+QC A-730 A-30 QC132_E                  # Entire route
+QC A-930 A-15 A-30                     # Entire route
 
-QC A-31 1 15
+QC A-31 1 15                           # Entire route Lavaltrie - Joliette
 
-QC A-35 1 18
+QC A-35 1 18                           # Entire route St-Sébastien - Carignan
 
-QC A-40 ON/QC 325
-QC A-40 307N 325
-QC A-440 17 35
-QC A-440EQu 21 29
-QC A-640 QC344_W QC344_E
+QC A-40 ON/QC 325                      # Entire route Pte-Fortune - Québec
+QC A-440 17 35                         # Entire route R-148 - A-25
+QC A-440WQu 12 RueFraCar               # Entire route
+QC A-440EQu 21 29                      # Entire route
+QC A-640 QC344_W QC344_E               # Entire route Pte-Calumet - Charlemagne
+QC A-740 BoulHoc BoulLeb               # Entire route Ste-Foy - Lebourgneuf
 
 QC A-50 RueMon QC117                   # Entire route Gatineau - Mirabel
 
-QC A-55 VT/QC 226
-QC A-955 RuePri A-55
+QC A-55 VT/QC 226                      # Entire route Stanstead - Grand-Mère
+QC A-955 RuePri A-55                   # Entire route Ste-Eulalie - St-Albert
 
-QC A-70 47 QC170
+QC A-70 47 QC170_E                     # R-175 - Bagotville AFB
 
-QC A-73 131 167
-QC A-973 RueDor A-73
+QC A-73 131 167                        # A-20 - Stoneham (N terminus)
+QC A-573 A-73 QC369                    # Entire route Québec - Shannon
+QC A-973 RueDor A-73                   # Entire route to rue Dorchester
 
-QC A-85 A-20 3Rang
+QC A-85 A-20 3Rang                     # Entire route Rivière-du-Loup - Témiscouata
+QC A-85Not NB/QC 47                    # Entire route Edmundston - St-Louis-du-Ha! Ha!
 
 # QC Route transcanadienne------------------------------------------------------
 QC TCHMai ON/QC QC/NB
