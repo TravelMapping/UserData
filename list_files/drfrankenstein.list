@@ -51,12 +51,13 @@ QC A-85 A-20 3Rang                     # Entire route Rivière-du-Loup - Témisc
 QC A-85Not NB/QC 47                    # Entire route Edmundston - St-Louis-du-Ha! Ha!
 
 # QC Route transcanadienne------------------------------------------------------
-QC TCHMai ON/QC QC/NB
-QC TCHKir A-15(1) CheGla
+QC TCHMai ON/QC QC/NB                  # Entire route Pte-Fortune - Edmundston
+QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
+
 
 # QC Routes nationales----------------------------------------------------------
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
-QC QC117 A-15/40 A-50                  # Montréal (S terminus) - Mirabel
+QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC131 QC138 14(31)                  # Lavaltrie (S terminus) - Joliette
 QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
 QC QC136Mon 1 AvePap                   # Entire route
