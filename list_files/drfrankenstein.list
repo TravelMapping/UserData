@@ -87,6 +87,7 @@ QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
 QC QC154 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
+QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
 QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
 QC QC161 QC263_S QC122_W               # Lac-Mégantic - Victoriaville
 QC QC165 QC116_E QC263_S               # Princeville - Plessisville (R-116 concurrency)
@@ -120,7 +121,28 @@ QC QC275 QC173 A-20                    # St-Côme-Linière (S terminus) - St-Jea
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
-QC QC344 A-50 A-640_W                  # Grenville - Pointe-Calumet
+QC QC323 QC148 ChVen                   # Montebello (S terminus) - Lac-des-Plages (toward Vendée)
+QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigaud
+QC QC327 QC344 QC117                   # St-André-d'Argenteuil (S terminus) - Mont-Tremblant
+QC QC327 MteeRyan ChVoy                # Mont-Tremblant (resort village, N terminus)
+QC QC329 A-50 QC125                    # Entire route Lachute - St-Donat
+QC QC335 QC138 A-640                   # Montréal (S terminus) - Bois-des-Filion
+QC QC335 QC158/339 QC158_E             # St-Lin-Laurentides (R-158 concurrency)
+QC QC337 QC344 MteeMaj                 # Terrebonne (S terminus) - La Plaine
+QC QC337 QC158/339 QC343_N             # St-Lin-Laurentides - St-Alphonse-Rodriguez
+QC QC338 ON/QC A-20                    # Entire route Rivière-Beaudette - Vaudreuil-Dorion
+QC QC340 ON/QC A-20                    # Entire route St-Télésphore - Vaudreuil-Dorion
+QC QC342 ON/QC A-20                    # Entire route Pte-Fortune - Vaudreuil-Dorion
+QC QC343 QC337_S QC347                 # St-Alphonse-Rodriguez - St-Côme (N terminus)
+QC QC344 A-50 MteeLes                  # Grenville (W terminus) - Rosemère
+QC QC344 A-25 RangChaAub_E             # Terrebonne
+QC QC344 A-640_E BoulBri               # Charlemagne - Le Gardeur
+QC QC347 QC343 QC125                   # N-D-de-la-Merci (W terminus) - St-Côme
+QC QC360 QC138_Que QC369               # Beauport (W terminus)
+QC QC360 QC138_W BoulBea               # Ste-Anne-de-Beaupré
+QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
+QC QC364 RuePri_N A-15                 # Huberdeau - St-Sauveur (E terminus)
+QC QC370 QC117 ChMas                   # Entire route Ste-Adèle - Ste-Marguerite-du-Lac-Masson/Estérel
 
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
