@@ -56,6 +56,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 
 
 # QC Routes nationales----------------------------------------------------------
+QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC131 QC138 14(31)                  # Lavaltrie (S terminus) - Joliette
