@@ -58,6 +58,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 # QC Routes nationales----------------------------------------------------------
 QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
+QC QC108 QC112 QC173                   # Entire route Magog - Beauceville
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC131 QC138 14(31)                  # Lavaltrie (S terminus) - Joliette
 QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
@@ -66,10 +67,14 @@ QC QC138Mon A-15 QC131                 # Montréal - Lavaltrie
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
 QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
+QC QC173 QC275 QC108                   # St-Côme-Linière - Beauceville
+QC QC173 QC275_S QC275_N               # St-Isidore - St-Henri (R-275 concurrency)
 QC QC175 A-20 QC172                    # Lévis - Chicoutimi-Nord (N terminus)
 
 # QC Routes régionales (sud)----------------------------------------------------
 QC QC201 QC202 QC342                   # Entire route St-Antoine-Abbé - Rigaud
+QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
+QC QC275 QC173 A-20                    # St-Côme-Linière (S terminus) - St-Jean-Chrysostome
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
