@@ -1,42 +1,68 @@
+##### C A N A D A ##############################################################
+#===== Québec ==================================================================
+# QC Autoroutes ----------------------------------------------------------------
 QC A-5 ON/QC QC105_N
-QC A-5_N QC366_W QC366_E
-QC A-10 A-720 143
+QC A-5 QC366_W QC366_E
+
+QC A-10 1 143
 QC A-410 BlvdUni A-10
 QC A-610 A-10 QC112
+
 QC A-13 1 22
+
 QC A-15 NY/QC QC117
-QC A-19 A-40 BlvdDag
+
+QC A-19 BoulHenBou BoulDag
+
 QC A-20 ON/QC QC132
 QC A-20Rim QC132_W QC132MJo
 QC A-520 A-20 A-40
-QC A-720 1 AveNotDame
-QC A-920 CheFle A-20
+
 QC A-25 A-20 46
+
 QC A-30 1 BlvdPol
 QC A-30Bec QC132_W End
 QC A-530 QC201_S 12
 QC A-730 A-30 QC132_E
 QC A-930 A-15 A-30
+
 QC A-31 1 15
+
 QC A-35 1 18
+
 QC A-40 ON/QC 325
 QC A-40 307N 325
 QC A-440 17 35
 QC A-440EQu 21 29
 QC A-640 QC344_W QC344_E
+
 QC A-50 BlvdAll QC117
+
 QC A-55 VT/QC 226
 QC A-955 RuePri A-55
+
 QC A-70 47 QC170
+
 QC A-73 131 167
 QC A-973 RueDor A-73
+
 QC A-85 A-20 3Rang
+
+# QC Route transcanadienne------------------------------------------------------
 QC TCHMai ON/QC QC/NB
 QC TCHKir A-15(1) CheGla
-QC QC133 A-35(6) USA/CAN
-QC QC170 A-70 QC138
-QC QC175 A-20/73 QC172
 
+# QC Routes nationales----------------------------------------------------------
+QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
+QC QC136Mon 1 AvePap                   # Entire route
+QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
+QC QC175 A-20 QC172                    # Lévis - Chicoutimi-Nord (N terminus)
+
+# QC Routes régionales (sud)----------------------------------------------------
+QC QC201 QC202 QC342                   # Entire route St-Antoine-Abbé - Rigaud
+
+#===== Ontario =================================================================
+# ON 400-Series Highways--------------------------------------------------------
 ON ON400 21 141
 ON ON401 ON/QC ON3
 ON ON402 USA/ON ON401
@@ -53,15 +79,21 @@ ON ON417 QC/ON 184
 ON ON420 QEW StaAve
 ON ON427 RR7 QEW
 ON ONQEW PeaBrg 139
-ON ONGar 139 LakeShoBlvdE
-ON ONDVP GarExpy ON401/404
+
+# ON Named Expressways----------------------------------------------------------
+ON GarExpy 139 157                     # Entire route QEW - DVP
+ON DonValPkwy GarExpy ON401/404        # Entire route Gardiner - 401/404
 ON ECRowExpy ON3 DouAve
+
+# ON Trans-Canada Highway-------------------------------------------------------
 ON TCHOtt ON/QC RR508
 ON TCHCen ON115(45) ON417
+
+# ON King's Highway-------------------------------------------------------------
 ON ON2 1000IslPkwy ON401
 ON ON3For KilStE RR116
-ON ON3Win AmbBrg ON401
-ON ON4StT ON3 GlaDr
+ON ON3Win AmbBrg ON401(5)              # Huron Church Rd in Windsor, Ambassador Br (W terminus) - 401
+ON ON4 ON3 ON401(180)                  # St. Thomas - 401
 ON ON6 ON401(299) WooSt
 ON ON6 ON403(74) ON403(61)
 ON ON7 ON115(45) ON417
@@ -72,8 +104,8 @@ ON ON9Ora RR31_E ON400
 ON ON10 ValBlvd RR9
 ON ON15 ON7 ON401
 ON ON16 OPIntBrg ON416
-ON ON17 ON417(184) ON41
-ON ON27 ON427 EglAve
+ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
+# ON ON27 ON427 EglAve                 # [Downloaded]
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
 ON ON40 ON401 ON402
@@ -87,28 +119,45 @@ ON ON137 USA/ON ON401
 ON ON138 ON401 ON417
 ON ON140 ON58A RR27
 ON ON148 ON/QC ON41
+
+# ON Regional Roads-------------------------------------------------------------
 ON RR174 ON417 RR57
 
+#===== New Brunswick ===========================================================
+# NB Primary Highways-----------------------------------------------------------
 NB NB2 187 QC/NB
+
+# NB Secondary Highways---------------------------------------------------------
 NB NB95 ME/NB NB2
 NB NB103 SomRd HarBriHRd
 NB NB130 NB2(172) SomRd
 
+#==== British Columbia =========================================================
+# BC Trans-Canada Highway-------------------------------------------------------
 BC TCHMai 3 13
-BC BC99 GraSt VilGateBlvd
 
+# BC Highways-------------------------------------------------------------------
+BC BC99 GraSt_S VilGateBlvd            # YVR Airport - Whistler
+
+##### U N I T E D   S T A T E S ################################################
+#===== New York ================================================================
+# NY Interstates----------------------------------------------------------------
 NY I-78 HudSt NJ/NY
 NY I-278 NJ/NY I-95
 NY I-678 13 I-95
+
 NY I-81 PA/NY NY/Can
 NY I-481 I-81 9
+
 NY I-84 16 17
 NY I-684 10 CT/NY
 NY I-684Pur NY/CT I-287
+
 NY I-87 NY/Can 7(MDE)
 NY I-87 I-278 1(MDE)
 NY I-287 NJ/NY 12
 NY I-787 9 1
+
 NY I-90 26(NYST) B2
 NY I-90 46(NYST) 53(NYST)
 NY I-190 I-90 9
@@ -118,27 +167,38 @@ NY I-490 14 15
 NY I-490 16 23
 NY I-590 1 I-390
 NY I-890 4C I-90(26)
+
 NY I-95 9 NJ/NY
 NY I-95 NY/CT 15
+
+# NY US Routes------------------------------------------------------------------
 NY US1 I-95(15) HutPkwy
 NY US1 SouBlvd BosRd_S
+
 NY US2 US11 NY/VT
 NY US202 US6_W US9_S
 NY US202 BearMtPkwy_W TacStaPkwy
+
 NY US6 PalPkwy US9_S
+
 NY US4 NY151 I-90
+
 NY US9 NY9A_Bro End
-NY US9 DycSt W230St
+NY US9 DycSt 230thSt
 NY US9 NJ/NY I-95(1)
 NY US9W US6/202 NY299
 NY US9W I-87(10) NJ/NY
+
 NY US11 NY189 NY3
 NY US11 NY190 US2
+
 NY US44 US9W_S US9
-NY FDRooDr 18 2
+
+# NY Parkways-------------------------------------------------------------------
+NY FDRooDr 2 17                        # Brooklyn Br - RFK/Triboro Br & Harlem River Dr (N terminus)
 NY TacStaPkwy I-90 BroRivPkwy
 NY SprBroPkwy TacStaPkwy BroRivPkwy
-NY HarRivDr 18 20A
+NY HarRivDr 17 19A                     # RFK/Triboro Br & FDR Dr (S terminus) - 3 Av Br
 NY HenHudPkwy 8 24
 NY HutRivPkwy 1 26
 NY BroRivPkwy 9 TacStaPkwy
@@ -147,6 +207,8 @@ NY GraCenPkwy 4 9E
 NY GarStaPkwy I-87/287 NJ/NY
 NY PalIntPkwy NJ/NY US6/9W
 NY LakeOntPkwy LakeAve NY18
+
+# NY State Routes---------------------------------------------------------------
 NY NY2 NY22 NY/MA
 NY NY3 US11 I-81
 NY NY7 I-87(6) NY/VT
@@ -159,7 +221,7 @@ NY NY15 FordSt I-490
 NY NY17Bin 90 NY/NJ
 NY NY17B NY55_S NY17
 NY NY18 LakeOntSPkwy NY390
-NY NY22 NY/QC I-684(10)
+NY NY22 I-684(10) US11                 # Brewster (end I-684) - Mooers (N terminus), toward Hemmingford
 NY NY22 WinHillRd CraRd
 NY NY25 2ndAve NY25A_Que
 NY NY30 NY17 NY/QC
@@ -194,31 +256,46 @@ NY NY495 DyerAve NJ/NY
 NY NY590 5 TitAve
 NY NY812 NY/ON NY37_N
 
+#===== New Jersey ==============================================================
+# NJ Interstates----------------------------------------------------------------
 NJ I-78 NJ/NY 59
 NJ I-78 44 56
 NJ I-278 US1/9 NJ/NY
+
 NJ I-80 PA/NJ 68
 NJ I-280 1 17
+
 NJ I-287 I-95 NJ/NY
+
 NJ I-95 NJ/NY 6
-NJ I-95_W I-95_S I-95_N
-NJ I-95Tre PA/NJ I-295
+NJ I-95Sec I-95_S I-95_N               # Entire route around Secaucus
 NJ I-195 5 35
 NJ I-295 2A DE/NJ
+NJ I-295 67 NJ/PA                      # West of US 1 to Pennsylvania; old I-95
+
+# NJ US Routes------------------------------------------------------------------
 NJ US1 I-95/295 NJ/NY
 NJ US1TrkJer US1_S US1_N
+
 NJ US206 CR514 CR518
+
 NJ US9 CR514_S NJ/NY
 NJ US9 NJ440 NJ184
 NJ US9 Gar(82) Gar(123)
 NJ US9TrkJer US9_S US9_N
 NJ US9W NJ/NY I-95
+
 NJ US130 US1/171 NJ133
 NJ US130 I-195 NJ33_E
+
 NJ US46 NJ/NY I-80(4B)
+
+# NJ Parkways-------------------------------------------------------------------
 NJ GarStaPkwy NJ/NY NJ109
 NJ PalIntPkwy NJ/NY ToUS9W
 NJ NJTpk 72(95) I-295(1)
+
+# NJ State Routes---------------------------------------------------------------
 NJ NJ3 US46 GarStaPkwy
 NJ NJ3 US1/9 BloAve
 NJ NJ7 CR508 US1/9Trk
@@ -247,47 +324,76 @@ NJ NJ440 I-95/287 NJ/NY
 NJ NJ440Jer NY/NJ PortJerBlvd
 NJ NJ495 NJ/NY NJ3
 
+#===== Pennsylvania ============================================================
+# PA Interstates----------------------------------------------------------------
 PA I-476 131 56
+
 PA I-80 PA/NJ 309
+
 PA I-81 70 PA/NY
+
 PA I-83 MD/PA 51
+
 PA I-95 DE/PA PA/NJ
+
+# PA US Routes------------------------------------------------------------------
 PA US22 I-476 PA309
 PA US222 I-78 US222Bus_N
 PA US222 PA12 US30_E
 PA US222 PA741_E MD/PA
 PA US222BusRea US222_N PA12
+
 PA US30 US222_N PA896
+
+# PA State Routes---------------------------------------------------------------
 PA PA12 US222Bus US422
 PA PA309 US22 I-78(54)
 PA PA741 US222/272 PA896
 PA PA896 US30 DecSt
 
+#===== Maine ===================================================================
+# ME Interstates----------------------------------------------------------------
 ME I-95 NH/ME 45
 ME I-95 103 ME/Can
 ME I-295 3 I-95_N
 ME I-395 1 6
+
+# ME US Routes------------------------------------------------------------------
 ME US1 US1Byp_N NH/ME
 ME US1BypPor NH/ME US1_N
+
 ME US202 OldWinRd I-95(109)
+
+# ME State Routes---------------------------------------------------------------
 ME ME11 OldWinRd I-95(109)
 ME ME11 I-95(127) WasSt
 ME ME103 DenRd US1
 ME ME137 I-95 WasSt
 ME ME236 US1 I-95
 
+#===== Vermont =================================================================
+# VT Interstates----------------------------------------------------------------
 VT I-89 VT/Can NH/VT
 VT I-189 I-89 US7
+
 VT I-91 VT/Can MA/VT
+
 VT I-93 I-91 NH/VT
+
+# VT US Routes------------------------------------------------------------------
 VT US2 NY/VT US302
 VT US302 US2 VT/NH
+
 VT US4 NY/VT VT/NH
 VT US4BusRut US4_W US4_E
+
 VT US5 MA/VT I-91(9)
 VT US5 VACutRd VT/Can
 VT US5AltDer US5 I-91
+
 VT US7 I-89(22) VT9
+
+# VT State Routes---------------------------------------------------------------
 VT VT2A I-89 US2/7
 VT VT8 MA/VT VT100_N
 VT VT9 NY/VT VT279
@@ -314,17 +420,28 @@ VT VT243 VT105 VT/QC
 VT VT279 VT9 NY/VT
 VT VT289 VT117 VT2A
 
+#===== New Hampshire ===========================================================
+# NH Interstates----------------------------------------------------------------
 NH I-89 NH/VT 0
+
 NH I-93 NH/VT MA/NH
 NH I-293 I-93_N 5
 NH I-293 4 3
+
 NH I-95 NH/ME 2
+
+# NH US Routes------------------------------------------------------------------
 NH US1 NH1B US1Byp_S
 NH US1BypPor NH/ME US1_S
+
 NH US302 VT/NH SchSt
+
 NH US3 RayWieDr BedRd
+
 NH US4 VT/NH NH120_S
 NH US4 US1Byp NH16_N
+
+# NH State Routes---------------------------------------------------------------
 NH NH3AMan I-293(7) I-293(4)
 NH NH3AMan PerRd RouDr
 NH NH10 I-89(19) I-89(13)
@@ -337,132 +454,207 @@ NH NH101 I-93_S I-95
 NH NH108 NH33 NH101
 NH NH112 US302 GooLn
 NH NH120 US4_E NH10_Han
+
+# NH Named Routes---------------------------------------------------------------
 NH EveTpk 13(93) 11
 
+#===== Massachusetts ===========================================================
+# MA Interstates----------------------------------------------------------------
 MA I-91 MA/VT CT/MA
+
 MA I-93 MA/NH 4
+
 MA I-195 22 21
 MA I-495 7 1
+
+# MA US Routes------------------------------------------------------------------
 MA US1 I-93(27) I-93(4)
+
 MA US5 MA2 MA/VT
+
+# MA State Routes---------------------------------------------------------------
 MA MA2 NY/MA US5/10
 MA MA3 26(93) 7(93)
 MA MA8 MA2_W MA/VT
 MA MA24 I-93 14
 MA MA28 I-195 I-495(3)
 
+#===== Connecticut =============================================================
+# CT Interstates----------------------------------------------------------------
 CT I-684 CT/NY NY/CT
+
 CT I-91 CT/MA 1
+
 CT I-95 50 NY/CT
+
+# CT US Routes------------------------------------------------------------------
 CT US1 CT337 BreSt
 CT US1 I-95(39) MilPkwy
+
 CT US5 WilSt FerSt
+
+# CT State Routes---------------------------------------------------------------
 CT CT10 CT40 CT15
 CT CT10 CT34_E I-95
 CT CT15 49 54
 CT CT15 57 60
 CT CT25 7 CT111
-CT CT34 I-95 CT10_S
+# CT CT34 I-95 CT10_S                  # [Downgraded] Legion/MLK Jr in New Haven
 CT CT34 CT111 CT15
 CT CT40 I-91 CT10
 CT CT103 PoolRd MonAve
 CT CT111 CT25 CT34
 
+#===== Delaware ================================================================
+# DE Interstates----------------------------------------------------------------
 DE I-95 MD/DE DE/PA
 DE I-295 DE/NJ I-95
+
+# DE US Routes------------------------------------------------------------------
 DE US301 MD/DE US40
+
 DE US13 I-295 DE1(152)
 DE US13 PunRunCon MD/DE
+
+# DE State Routes---------------------------------------------------------------
 DE DE1 156 97
 DE DE896 US301/71 I-95
 
+#===== Maryland ================================================================
 MD I-83 1 MD/PA
+
 MD I-95 DC/MD 2
 MD I-95 MD/DE 47
-MD I-97 7 17
+
 MD I-195 TerRd 4
 MD I-295 I-95/495 MD/DC
 MD I-395 I-95 ConSt
 MD I-495 DC/MD 19
 MD I-695 0 48
 MD I-895 4 15
+
+MD I-97 7 17
+
+# MD US Routes------------------------------------------------------------------
 MD US1 MD/PA MD161
 MD US1 MorRd US40Trk_E
 MD US301 VA/MD MD8
 MD US301 DukeSt MD/DE
+
 MD US13 MD/DE VA/MD
+
 MD US222 MD/PA US1
+
 MD US50 DC/MD MD201/295
 MD US50 I-95/495 US301_N
+
+# MD State Routes---------------------------------------------------------------
 MD MD3 US50/301 I-97/32
 MD MD155 MD161 I-95
 MD MD161 US1 MD155
 MD MD201 DC/MD US50/295
 MD MD210 MD/DC I-95/495
-MD MD222 US1/222 US1_S
+# MD MD222 US1/222 US1_S               # Concurrency with US 1
 MD MD295 US50/201 US40
 MD MD702 BackRivNRd I-695
 
+#===== District of Columbia ====================================================
+# DC Interstates----------------------------------------------------------------
 DC I-95 DC/MD VA/DC
 DC I-295 MD/DC 4
 DC I-395 VA/DC US50
 DC I-495 DC/MD VA/DC
 DC I-695 I-395 I-295/295
+
+# DC US Routes------------------------------------------------------------------
 DC US50 I-395 DC/MD
+
+# DC District Route-------------------------------------------------------------
 DC DC295 I-295/695 DC/MD
 
+#===== Virginia ================================================================
+# VA Interstates----------------------------------------------------------------
 VA I-64 177 178
 VA I-64 200 299
 VA I-264 ParAve 14
 VA I-664 1 15
+
 VA I-95 NC/VA VA/DC
 VA I-295 1 53
 VA I-395 1 VA/DC
 VA I-495 170(95) VA/DC
+
+# VA US Routes------------------------------------------------------------------
 VA US301 VA207 VA/MD
+
 VA US13 VA/MD US60
+
 VA US60 VA225 HarPoiRd
 VA US60 US360/60Trk_W VA147_E
-VA VA76 SR652/754 VA146
+
+# VA State Routes---------------------------------------------------------------
+VA VA76 SR754 VA146                    # Brandermill (near W terminus) - Richmond (near E terminus)
 VA VA146 VA76 I-195
 VA VA195 I-195 US60
 
+#===== North Carolina ==========================================================
+# NC Interstates----------------------------------------------------------------
 NC I-40 418 328
 NC I-140 14 20
+
 NC I-95 1 NC/VA
+
+# NC US Routes------------------------------------------------------------------
 NC US301 I-95(1) SC/NC
 NC US501 I-95 SC/NC
-NC US17 SC/NC I-40
+
+NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
+
 NC US421 US17/74_W I-140
+
 NC US74 US17_S US17/421_N
+
 NC US76 US17_S US17/74_N
 
+#===== South Carolina ==========================================================
+# SC US Routes------------------------------------------------------------------
 SC US301 SC/NC US501_S
 SC US501 SC/NC US17Bus
+
 SC US17 SC707_Myr SC/NC
 SC US17BusMyr GleBayRd US17_N
 
+#===== Michigan ================================================================
+# MI Interstates
 MI I-69 72 80
 MI I-69 105 MI/Can
 MI I-69BLPor I-69_E WatSt
+
 MI I-75 43 51
 MI I-75 114 117A
 MI I-275 29 165(96)
 MI I-375 I-75 BeaSt
-MI I-375BSDet I-375 MI3
+# MI I-375BSDet I-375 MI3              # ??? was this Gratiot? idk but it's gone
+
 MI I-94 IN/MI 34
 MI I-94 272 MI/Can
 MI I-94BLPor I-94_E WatSt
+
 MI I-96 30 192A
 MI I-96BLHow I-96_W MI59_E
 MI I-196 I-94 I-96
 MI I-196BLSou I-196_S PhoSt
 MI I-296 86 I-96
 MI I-696 1 18C(10)
+
+# MI US Routes------------------------------------------------------------------
 MI US23 MI14_E I-75(117A)
-MI US31 I-94(30) I-196(44)
+
+MI US31 27 44(196)                     # I-196 concurrency, Benton Harbor - Holland
 MI US131 MI11 WeaSt
 MI US131 I-196 I-296(89)
+
+# MI State Routes---------------------------------------------------------------
 MI MI3 BroSt FisFwy
 MI MI6 I-196 I-96
 MI MI10 MI3 18C
@@ -473,12 +665,22 @@ MI MI39 VilRd I-96(182)
 MI MI52 MI36_W I-69
 MI MI59 I-96 I-96BL_E
 
+#===== Indiana =================================================================
+# IN Interstates----------------------------------------------------------------
 IN I-80 IL/IN 16
+
 IN I-94 IL/IN IN/MI
 
+#===== Illinois ================================================================
+# IL Interstates----------------------------------------------------------------
 IL I-57 353 359
+
 IL I-90 51H(94) 59A(94)
 IL I-290 10 30
+
 IL I-94 51H IL/IN
-IL I-294 I-290 IL50
+IL I-294 12 31B                        # Alsip (IL 50) - Hillside (I-290)
+
+
+# IL State Routes---------------------------------------------------------------
 IL IL110 I-290(15A) I-290(30)

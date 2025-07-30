@@ -1,4 +1,4 @@
-# Date: 2025-07-12
+# Date: 2025-07-29
 # ----------------
 
 ######################
@@ -936,6 +936,11 @@ FRA-ARA T4 ChaChaHer GareVen          #2024
 
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
+
+FRA-CVL TramB CatHotVil GeoPom        #2025
+
+FRA-GES TramARei Neu HopDeb           #2025
+FRA-GES TramBRei Neu ChaTGV           #2025
 
 FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019

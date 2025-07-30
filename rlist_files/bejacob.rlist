@@ -47,6 +47,10 @@ CA BlueLn SanYsiTC +DIV_Gre_N
 CA GreLn 12thImpTC Gro
 CA OraLn Cou Gro
 
+#Sacranento RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+
 AZ A 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL TriRail MetTra MiaAir
@@ -128,6 +132,7 @@ WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
 
 #US Airpoirts Airside
+CA AutPeoMov CenTerB ConB
 CO DENTrn JepTer CGat
 FL GateLink TerA Air2
 FL GateLinkTAW TerA Air1

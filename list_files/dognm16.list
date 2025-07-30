@@ -89,7 +89,7 @@ VA I-81 222 VA/WV
 VA VA262 I-64/81 US11_S
 VA US250 US11/250Trk I-81
 #bristol: got gas, had zaxbys
-#staunton: stayed at the comfort inn
+#staunton: stayed at the comfort inn, kudra passed off to anika
 
 
 TN I-40 AR/TN 421
@@ -179,6 +179,7 @@ CA CA116 CA121 US101(481B)
 CA CA120 1A 6
 CA CA121 CA37 CA29(16)
 CA CA123 I-580 I-80
+CA CA123 UniAve I-580(19A)
 CA CA128 CA1 US101Bus_S
 CA CA128 SilTr_E I-505
 CA CA152 US101(356) US101(357)
@@ -218,7 +219,9 @@ CA I-780 1A 7
 CA I-880 I-280 46B
 CA I-980 2B I-880
 CA US50 I-80 6
-CA US101 BroSt 146
+CA US101 BroSt 108
+CA US101 105 103
+CA US101 97 87A
 CA US101BusClo US101_S CloBlvd_S
 CA US101BusClo CA128_W US101_N
 
