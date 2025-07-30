@@ -33,6 +33,7 @@ QC A-40 ON/QC 325                      # Entire route Pte-Fortune - Québec
 QC A-440 17 35                         # Entire route R-148 - A-25
 QC A-440WQu 12 RueFraCar               # Entire route
 QC A-440EQu 21 29                      # Entire route
+QC A-540 3 9                           # A-73 (S terminus) - A-40
 QC A-640 QC344_W QC344_E               # Entire route Pte-Calumet - Charlemagne
 QC A-740 BoulHoc BoulLeb               # Entire route Ste-Foy - Lebourgneuf
 
@@ -79,17 +80,17 @@ QC QC137 QC112 AvPin                   # Granby (S terminus) - St-Thomas-d'Aquin
 QC QC138Mon USA/CAN AvStSac            # Elgin (W terminus) - Québec (Père-Lelièvre)
 QC QC138Mon BoulHenBour RivSagFry      # Québec (Hôpital Enfant-Jésus) - Baie-Ste-Catherine (E terminus)
 QC QC138 RivSagFry RueVer              # Tadoussac (W terminus) - Forestville
-QC QC139 USA/CAN RueDuf_S              # Richford/Abercorn (S terminus) - Granby
+QC QC139 USA/CAN QC143                 # Entire route Richford/Abercorn - St-Nicéphore
 QC QC141 USA/CAN QC112_W               # Entire route Canaan/Ste-Herménégilde - Orford
 QC QC143 USA/CAN QC141                 # Derby Line/Stanstead (US 5, S terminus) - Ayer's Cliff
-QC QC143 BoulJeanBre QC132             # Drummondville - St-François-du-Lac (N terminus)
+QC QC143 QC139 QC132                   # St-Nicéphore - St-François-du-Lac (N terminus)
 QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
 QC QC154 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
 QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
 QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
-QC QC161 QC263_S QC122_W               # Lac-Mégantic - Victoriaville
+QC QC161 QC263_S A-20                  # Lac-Mégantic - Ste-Eulalie (N terminus)
 QC QC165 QC116_E QC263_S               # Princeville - Plessisville (R-116 concurrency)
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
 QC QC171 QC116_E QC116_W               # Lévis (R-116 concurrency)
@@ -115,9 +116,11 @@ QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
+QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
-QC QC275 QC173 A-20                    # St-Côme-Linière (S terminus) - St-Jean-Chrysostome
+QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - Stanbridge East
+QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
@@ -491,9 +494,11 @@ VT VT100 MA/VT VT105
 VT VT101 VT100 VT105
 VT VT104 VT15 StAlbSH
 VT VT105 VT78 US5_N
+VT VT108 VT118 VT/QC                   # W Berkshire - Frelighsburg (N terminus)
 VT VT108 VT100 VT15
 VT VT117 US2 VT2A/15
-VT VT118 VT242 VT105_W
+VT VT118 VT242 VT105_W                 # Montgomery Ctr (toward Jay) - E Berkshire
+VT VT118 RicRd VT108                   # W Berkshire (N terminus)
 VT VT125 VT17 VT22A_S
 VT VT127 PeaSt US2/7
 VT VT139 VT105 VT/QC
