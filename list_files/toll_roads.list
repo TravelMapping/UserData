@@ -763,10 +763,10 @@ MEX-EMEX MEX15D MEX55_S Tem
 MEX-MICH MEX15D MICH2 ToMEX126
 MEX-MICH MEX15D MEX51/126 MEX-JAL MEX15D AveTon #there's no toll at the southbound exit to VisPed, but there seems to be no reasonable way to leave the area without getting back on 15D
 MEX-JAL MEX15DTeq MEX15_S MEX15 #SanSof is a private gated community
-MEX-JAL MEX15DTeq Mag MEX-NAY MEX15D MEX76D #ignoring EstBar due to unofficial nature
+MEX-JAL MEX15DTeq Mag MEX-NAY MEX15D MEX15DTep #ignoring EstBar due to unofficial nature
 MEX-NAY MEX15DTep MEX15D_S MEX9
 #no toll if you enter 15DTep at MEX9 and go south on 15DEsc (why is there no toll booth on that loop?)
-MEX-NAY MEX15DEsc MEX15DTep MEX15_Cru
+MEX-NAY MEX15DEsc MEX76D MEX15_Cru
 MEX-NAY MEX15DEsc MEX15_Jic MEX-SIN MEX15D MEX15_Cam
 MEX-SIN MEX15D Esc AveMun
 MEX-SIN MEX15D Mar Toy
@@ -774,7 +774,7 @@ MEX-SIN MEX15D Mel SINAE1
 MEX-SIN MEX15DNav Cho Pob7
 MEX-SON MEX15DGua SON176 Chi
 MEX-SON MEX15DGua EjiGabLey Qui
-MEX-SON MEX15DGua SON117_Esp MEX15DObr_N
+MEX-SON MEX15DGua SON117_Esp EstCor
 MEX-SON MEX15DGua May MEX15_N
 MEX-SON MEX15DObr MEX15D_S MEX15D_N
 MEX-SON MEX15D SON80 SON78
