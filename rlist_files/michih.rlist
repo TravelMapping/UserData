@@ -1,4 +1,4 @@
-# Date: 2025-08-01
+# Date: 2025-08-02
 # ----------------
 
 ######################
@@ -931,10 +931,12 @@ FRA-ARA MB ChaChaHer GenLavHop        #2024
 FRA-ARA MC HotVilLouPra Cui           #2024
 FRA-ARA MD GareVen GareVai            #2024
 
-FRA-ARA T2 JeanXXIIIMarBas StPriBelAir #2025
-FRA-ARA T3 GarePartDieuVil VauVelSoie  #2024
-FRA-ARA T4 ChaChaHer GareVen           #2024
-FRA-ARA T5 GraBla Eur                  #2025
+FRA-ARA T1 Deb ThiLaf                 #2025
+FRA-ARA T2 Per StPriBelAir            #2025
+FRA-ARA T3 GarePartDieuVil VauVelSoie #2024
+FRA-ARA T4 ChaChaHer GareVen          #2024
+FRA-ARA T5 GraBla Eur                 #2025
+FRA-ARA T6 Deb HopEstPin              #2025
 
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
