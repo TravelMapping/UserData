@@ -1,3 +1,18 @@
+CHE 17Gen Pla BelAir
+CHE IC1 GenAer GenCor
+CHE ParGen FRA/CHE GenCor
+
+FRA-ARA ParGen BFC/ARA FRA/CHE
+FRA-BFC ParGen IDF/BFC BFC/ARA
+FRA-IDF B GareNord AerCDG2TGV
+FRA-IDF M1 CdGEto HotVil
+FRA-IDF M7 Cha Cad
+FRA-IDF M8 EcoMil LedRol
+FRA-IDF M9 AlmaMar RicDro
+FRA-IDF M12 NotDameCha Pig
+FRA-IDF M14 GareLyon Pyr
+FRA-IDF ParGen ParGareLyon IDF/BFC
+
 GRC 2Ath Omo Acr
 GRC 3Ath Syn MedMou
 

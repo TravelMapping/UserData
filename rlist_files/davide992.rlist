@@ -1,0 +1,59 @@
+# England
+ENG BakLn OxfCir LamNor
+ENG CenLn SheBush Bank
+ENG GatEx GatAir LonVic
+
+# Spain - Andalucía
+ESP-AN C1Mal MarZam Aer
+ESP-AN MadGra Cor Gra
+ESP-AN MadSev SanJus Cor
+
+# Spain - Catalunya
+ESP-CT L1 Tor ArcTri
+ESP-CT L3 Les Esp
+ESP-CT L5 Dia CollTei
+ESP-CT L7 AviTib PlaCat
+ESP-CT L9S AerT1 Tor
+
+# France - Auvergne-Rhône-Alpes
+FRA-ARA ParMil BFC/ARA FRA/ITA
+
+# France - Bourgogne Franche-Comté
+FRA-BFC ParMil IDF/BFC BFC/ARA
+
+# France - Hauts-de-France
+FRA-HDF D Cre HDF/IDF
+
+# France - Île-de-France
+FRA-IDF A GareLyon MarValChe
+FRA-IDF B AerCDG2TGV ChaHal
+FRA-IDF CDGVAL Ter1 Ter2Gare
+FRA-IDF CVer VerChaRiveGau GareAus
+FRA-IDF D ChaHal HDF/IDF
+FRA-IDF M1 LaDefGraArc GareLyon
+FRA-IDF M2 Pig Coun
+FRA-IDF M3 Ope Par
+FRA-IDF M4 MonBie LesHal
+FRA-IDF M7 PalRoyMusLou PorVil
+FRA-IDF M14 BibFraMit Mad
+FRA-IDF ParMil ParGareLyon IDF/BFC
+
+# Italy - Emilia-Romagna
+ITA-EMI S4B BolCen Imo
+ITA-EMI S5 Mod BolCen
+
+# Italy - Lombardia
+ITA-LOM M1 PorVen Cor
+ITA-LOM M2 CerNav PorGen
+ITA-LOM MXP2 MilCen MalAerTer2
+ITA-LOM ParMil MilPorGar PIE/LOM
+
+# Italy - Piemonte
+ITA-PIE ParMil PIE/LOM FRA/ITA
+
+# Portugal
+PRT LnVrd Ala CaisSod
+PRT LnVrm Aer Ala
+
+# Scotland
+SCT EdiTram EdiAir StAndSq

@@ -4,7 +4,8 @@
 
 # LIGHT RAIL LINES
 
-AZ VMR 19thAveDun GilRdMainSt
+AZ A DowPhoHub GilRdMainSt
+AZ B DowPhoHub 19thAveDun
 
 
 # PEOPLE MOVER LINES
@@ -19,7 +20,7 @@ AZ PHX T3 44thSt
 
 DC RedLn GalPla UniSta
 
-DC YelLn GalPla
+DC YelLn VA/DC GalPla
 
 
 
@@ -29,7 +30,7 @@ DC YelLn GalPla
 
 TX Sky A22 A21
 
-TX IAHSky TerA TerD/E
+TX IAHSky TerA TerDE
 
 
 

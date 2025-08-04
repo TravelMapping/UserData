@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: May 18, 2025
+# Last Updated: June 18, 2025
 
 
 # ---------------------------------- #
@@ -63,8 +63,7 @@ IL I-57 MO/IL 358
 IL I-70 3 IL/IN
 IL I-72 MO/IL 182
 IL I-74 93 IL/IN
-IL I-80 79 112
-IL I-80 126 151
+IL I-80 79 IL/IN
 IL I-88 78 136
 IL I-94 53B 63
 IL I-255 9 25
@@ -80,6 +79,7 @@ IN I-65 KY/IN 106
 IN I-65 129 140
 IN I-70 IL/IN IN/OH
 IN I-74 IL/IN IN/OH
+IN I-80 IL/IN IN/OH
 IN I-465 0 49
 IN I-865 I-65 I-465
 
@@ -88,6 +88,7 @@ IN I-865 I-65 I-465
 
 KS I-70 CO/KS 421B
 KS I-435 MO/KS 1B
+KS I-470 1A 1B
 KS I-670 I-70 KS/MO
 
 # ----- Kentucky ----- #
@@ -154,16 +155,28 @@ NC I-95 SC/NC 49
 OH I-70 IN/OH OH/WV
 OH I-74 IN/OH I-75
 OH I-75 1C 4
+OH I-76 218 OH/PA
+OH I-77 156 163A
+OH I-80 IN/OH 151
+OH I-80 187 218
+OH I-270 I-71 7
+OH I-270 43 55
 OH I-470 I-70 OH/WV
+OH I-271 27B 34
+OH I-480 I-80_W I-80_E
+OH I-480War I-480 I-271
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
 # ----- Pennsylvania ----- #
 
 PA I-70 WV/PA 161(76)
+PA I-76 OH/PA 10
 PA I-76 75 201
-PA I-79 WV/PA 34
+PA I-79 WV/PA 59
 PA I-81 1 77
+PA I-376 26 70A
+PA I-279 I-376 1D
 
 # ----- Rhode Island ----- #
 # ----- South Carolina ----- #
@@ -266,8 +279,7 @@ IL US20 I-294(17) IL50
 IL US20 I-355 IL31
 IL US24 IL117 US150/8
 IL US24 I-39 IL251
-IL US24 I-57 IL1_N
-IL US24 IL47 1stSt
+IL US24 IL1_N 1stSt
 IL US30 I-57 US45
 IL US30 IL59_S I-55
 IL US34 I-294 IL83
@@ -276,6 +288,7 @@ IL US36 IL105/121 I-72(133)
 IL US40 IL162 DouSt
 IL US40 IL33_E IL32/33
 IL US41 I-55 BelAve
+IL US45 CR20 CR11/33
 IL US45 I-57(184) I-74
 IL US45 US24_W US24_E
 IL US45 I-57(308) IL83_S
@@ -331,9 +344,10 @@ NC US701 NC410_N SC/NC
 # ----- North Dakota ----- #
 # ----- Ohio ----- #
 
-OH US27 PeteRoseWay_W US42/127
+OH US27 PeteRoseWay_W US22_S
 OH US40 CR214 CR28A
 OH US40 BricRd OH256
+OH US422 PubSqu I-77
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
@@ -341,6 +355,7 @@ OH US40 BricRd OH256
 
 PA US11 PA174 PA316
 PA US11 PA114 HarTayBri_W
+PA US19 I-376(69B) PA65_S
 
 # ----- Rhode island ----- #
 # ----- South Carolina ----- #
@@ -458,9 +473,8 @@ IL IL29 I-74(93) TruAve
 IL IL29 CleLakeAve GraAve_W
 IL IL31 I-88 US20
 IL IL32 I-57 OutBelt
-IL IL38 IL23 LafRd
-IL IL47 IL10 US24
-IL IL47 US30/56 I-80
+IL IL38 I-39 IL59
+IL IL47 US30/56 IL10
 IL IL48 WatSt I-72(144)
 IL IL48 IL127_S US51
 IL IL49 IL16_W I-70
@@ -469,7 +483,7 @@ IL IL54 US150 I-74
 IL IL54 US51 US51Bus
 IL IL56 SumAve HigAve
 IL IL56 US30/47 IL25
-IL IL59 I-88 US30_E
+IL IL59 IL38 US30_E
 IL IL64 CamHilDr IL25
 IL IL83 US45_S I-88
 IL IL97 IL4 I-55BL
@@ -530,10 +544,10 @@ MO MO370 1A 12
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
 
-NV NV159 CR215 RedRockRd
-NV NV589 
+NV NV159 CR215 RedRockRd 
 NV NV592Spr NV596 I-15
 NV NV596 SahAve ChaBlvd
+NV NV613 CR215 I-11
 
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
@@ -547,6 +561,7 @@ NC NC410 US701_N US74
 # ----- North Dakota ----- #
 # ----- Ohio ----- #
 
+OH OH87 I-271 LanRd
 OH OH256 I-70 US40
 
 # ----- Oklahoma ----- #
@@ -554,11 +569,13 @@ OH OH256 I-70 US40
 # ----- Pennsylvania ----- #
 
 PA PA39 I-81 HerParkDr_E
+PA PA65 I-279 US19_S
 PA PA114 I-81 US11
 PA PA174 US11/533 I-81
 PA PA316 I-81 US11
 PA PA581 1 6
 PA PA696 PA997_N US11/533_N
+PA PA837 I-376 US19/51
 PA PA997 I-76 PA696_N
 
 # ----- Rhode island ----- #
@@ -601,6 +618,7 @@ CO E470 1A 47
 CO PenaBlvd Ter 6
 FL FLTpk 99 307
 IN KeyPkwy US31 I-465
+IN SamJonExpy I-70 I74/465
 MD BalWasPkwy US50/201 MD175
 NC AllAmeFwy MorRd OwenDr
 NV CR215 26 28

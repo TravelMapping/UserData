@@ -28,15 +28,19 @@ NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJerCoaLn PennSta NJ NJerCoaLn Woo
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ RarVlyLn NewPenn HighBri
 NY MonBooLn PennSta NJ MonBooLn Hac
 NY MorEssLn PennSta NJ MorEssLn Hac
 NJ GlaBra Hob Gla
+NJ MainLn Hob NH MainLn Suf
+NJ PortJerLn Hob NY PortJerLn PortJer
+NJ PasVlyLn Hob NY PasVlyLn SprVly
 
 FL TriRail MiaAir WestPalmBea
 FL TriRailDow MiaCen MetTra
 
-CA ClTra Tam SanFraKing
+CA CalTra Tam SanFraKing
 
 CA SanBerLn UniSta RedDow
 CA Arr SanBerDow RedUni
@@ -157,7 +161,7 @@ TX Sky A8 A21
 TX PurLnHou TheDis PalmCenTC
 
 #--------WEST CITIES--------
-AZ VMR 3rdSt SycMainSt
+AZ A 3rdSt SycMainSt
 AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
@@ -168,10 +172,10 @@ WA SeaCenMon SeaCen WesCen
 WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
-CA BARTBlue DalyCity DubPle
+CA BARTBlue PowSt DubPle
 CA BARTOra Ber Ric
-CA BARTRed Col CivCen
-CA BARTYel Mil PitTra
+CA BARTYel Mil CivCen
+CA BARTYel PowSt PitTra
 CA MuniN 2nd PowSt
 CA MuniT King ChiRosePark
 CA AirTrnBlue LongTermPar Loop
