@@ -630,7 +630,7 @@ DE US13 I-295 DE1(152)
 DE US13 PunRunCon MD/DE
 
 # DE State Routes---------------------------------------------------------------
-DE DE1 DE1A_N 164A                     # Rehoboth Beach - Christiana (I-95)
+DE DE1 MD/DE 164A                      # Fenwick Is (S terminus) - Christiana (I-95)
 DE DE896 US301/71 I-95
 
 #===== Maryland ================================================================
@@ -655,11 +655,13 @@ MD US301 VA/MD MD8
 MD US301 DukeSt MD/DE
 
 MD US13 MD/DE VA/MD
+MD US113 US13 US50                     # Pocomoke (S terminus) - Berlin
 
 MD US222 MD/PA US1
 
 MD US50 DC/MD MD201/295
 MD US50 I-95/495 US301_N
+MD US50 US113 MD528                    # Berlin - Ocean City (E terminus)
 
 # MD State Routes---------------------------------------------------------------
 MD MD3 US50/301 I-97/32
@@ -669,6 +671,7 @@ MD MD201 DC/MD US50/295
 MD MD210 MD/DC I-95/495
 # MD MD222 US1/222 US1_S               # Concurrency with US 1
 MD MD295 US50/201 US40
+MD MD528 US50 MD/DE                    # Ocean Gateway - Fenwick Is (N terminus)
 MD MD702 BackRivNRd I-695
 
 #===== District of Columbia ====================================================
@@ -700,7 +703,9 @@ VA I-495 170(95) VA/DC
 # VA US Routes------------------------------------------------------------------
 VA US301 VA207 VA/MD
 
-VA US13 VA/MD US60
+VA US13 US58/58Bus_W VA/MD             # Suffolk - New Church (N terminus)
+
+VA US58 I-95 I-664                     # Emporia - Hampton Roads
 
 VA US60 VA225 HarPoiRd
 VA US60 US360/60Trk_W VA147_E
@@ -715,7 +720,7 @@ VA VA195 I-195 US60
 NC I-40 418 328
 NC I-140 14 20
 
-NC I-95 1 NC/VA
+NC I-95 SC/NC NC/VA                    # Entire route
 
 # NC US Routes------------------------------------------------------------------
 NC US301 I-95(1) SC/NC
@@ -730,12 +735,30 @@ NC US74 US17_S US17/421_N
 NC US76 US17_S US17/74_N
 
 #===== South Carolina ==========================================================
+# SC Interstates----------------------------------------------------------------
+SC I-20BSFlo I-20 RadDr                # to Radio Dr
+
+SC I-95 160 SC/NC                      # Florence - Dillon (N terminus)
+SC I-95 GA/SC 157                      # Savannah Wildlife Refuge (S terminus) - Florence
+
 # SC US Routes------------------------------------------------------------------
 SC US301 SC/NC US501_S
 SC US501 SC/NC US17Bus
 
 SC US17 SC707_Myr SC/NC
 SC US17BusMyr GleBayRd US17_N
+
+# SC US76 I-95(157) SC51               # only to S Ebenezer Rd
+
+#===== Georgia =================================================================
+# GA Interstates----------------------------------------------------------------
+GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
+
+#===== Florida =================================================================
+# FL Interstates----------------------------------------------------------------
+FL I-4 71 132                          # Orlando (Central Fla Pkwy) - Daytona Beach (E terminus)
+
+FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N terminus)
 
 #===== Michigan ================================================================
 # MI Interstates
