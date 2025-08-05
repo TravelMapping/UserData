@@ -119,6 +119,7 @@ QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
+QC QC223 USA/CAN RueJacCar             # Lacolle (S terminus) - St-Jean-sur-Richelieu
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
@@ -285,7 +286,7 @@ NY US9W US6/202 NY299
 NY US9W I-87(10) NJ/NY
 
 NY US11 NY189 NY3
-NY US11 NY190 US2
+NY US11 EllBri USA/CAN                 # Ellenburg - Lacolle (N terminus)
 
 NY US44 US9W_S US9
 
