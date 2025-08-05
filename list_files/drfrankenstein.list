@@ -125,6 +125,7 @@ QC QC243 USA/CAN A-10                  # N Troy / Mansonville (S terminus) - She
 QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
 QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
+QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
