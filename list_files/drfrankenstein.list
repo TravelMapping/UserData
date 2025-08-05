@@ -132,7 +132,7 @@ QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
-QC QC307 AvPont ChMontCas              # Gatineau (Vérendrye) - Cantley (Mt Cascades)
+QC QC307 A-50 ChMontCas                # Gatineau (S terminus) - Cantley (Mt Cascades)
 QC QC323 QC148 QC117                   # Entire route Montebello - Mont-Tremblant
 QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigaud
 QC QC327 QC344 QC117                   # St-André-d'Argenteuil (S terminus) - Mont-Tremblant
