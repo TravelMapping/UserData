@@ -27,7 +27,7 @@ QC A-930 A-15 A-30                     # Entire route
 
 QC A-31 1 15                           # Entire route Lavaltrie - Joliette
 
-QC A-35 1 18                           # Entire route St-Sébastien - Carignan
+QC A-35 QC133 55                       # Entire route St-Sébastien - Carignan
 
 QC A-40 ON/QC 325                      # Entire route Pte-Fortune - Québec
 QC A-440 17 35                         # Entire route R-148 - A-25
@@ -86,7 +86,7 @@ QC QC143 USA/CAN QC141                 # Derby Line/Stanstead (US 5, S terminus)
 QC QC143 QC139 QC132                   # St-Nicéphore - St-François-du-Lac (N terminus)
 QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
-QC QC154 25eRue RteDef                 # Grand-Mère
+QC QC153 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
 QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
 QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
