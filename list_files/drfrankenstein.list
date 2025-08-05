@@ -457,11 +457,13 @@ ME I-395 1 6
 ME US1 US1Byp_N NH/ME
 ME US1BypPor NH/ME US1_N
 
+ME US2 NH/ME ME26_N                    # Gilead (W terminus) - Newry
 ME US202 OldWinRd I-95(109)
 
 # ME State Routes---------------------------------------------------------------
 ME ME11 OldWinRd I-95(109)
 ME ME11 I-95(127) WasSt
+ME ME26 US2_W ME/NH                    # Bethel - Upton (N terminus)
 ME ME103 DenRd US1
 ME ME137 I-95 WasSt
 ME ME236 US1 I-95
@@ -476,7 +478,7 @@ VT I-91 VT/Can MA/VT
 VT I-93 I-91 NH/VT
 
 # VT US Routes------------------------------------------------------------------
-VT US2 NY/VT US302
+VT US2 NY/VT VT/NH                     # Entire route Alburgh - Guildhall
 VT US302 US2 VT/NH
 
 VT US4 NY/VT VT/NH
@@ -505,11 +507,13 @@ VT VT104 VT15 StAlbSH
 VT VT105 VT78 US5_N
 VT VT108 VT118 VT/QC                   # W Berkshire - Frelighsburg (N terminus)
 VT VT108 VT100 VT15
+VT VT114 VT141 VT/NH                   # Canaan (QC to NH)
 VT VT117 US2 VT2A/15
 VT VT118 VT242 VT108                   # Montgomery Ctr (toward Jay) - W Berkshire (N terminus)
 VT VT125 VT17 VT22A_S
 VT VT127 PeaSt US2/7
 VT VT139 VT105 VT/QC
+VT VT141 VT114 VT/QC                   # Entire route Canaan to Ste-Herménégilde
 VT VT191 I-91 US5
 VT VT242 VT118 VT101
 VT VT243 VT105 VT/QC
@@ -530,8 +534,10 @@ NH I-95 NH/ME 2
 NH US1 NH1B US1Byp_S
 NH US1BypPor NH/ME US1_S
 
+NH US2 VT/NH NH/ME                     # Entire route Lancaste - Shelburne
 NH US302 VT/NH SchSt
 
+NH US3 NH26_E MainSt_Ste               # Colebrook - Canaan (to VT)
 NH US3 RayWieDr BedRd
 
 NH US4 VT/NH NH120_S
@@ -545,6 +551,7 @@ NH NH10 LebSt US302
 NH NH10A NH/VT NH10
 NH NH16 US1Byp 6
 NH NH25A NH10_S VT/NH
+NH NH26 US3_N NH/ME                    # Colebrook (at US 3) - Cambridge (E terminus)
 NH NH33 I-95 NH108
 NH NH101 I-93_S I-95
 NH NH108 NH33 NH101
