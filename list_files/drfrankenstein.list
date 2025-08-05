@@ -500,8 +500,7 @@ VT VT105 VT78 US5_N
 VT VT108 VT118 VT/QC                   # W Berkshire - Frelighsburg (N terminus)
 VT VT108 VT100 VT15
 VT VT117 US2 VT2A/15
-VT VT118 VT242 VT105_W                 # Montgomery Ctr (toward Jay) - E Berkshire
-VT VT118 RicRd VT108                   # W Berkshire (N terminus)
+VT VT118 VT242 VT108                   # Montgomery Ctr (toward Jay) - W Berkshire (N terminus)
 VT VT125 VT17 VT22A_S
 VT VT127 PeaSt US2/7
 VT VT139 VT105 VT/QC
