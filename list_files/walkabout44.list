@@ -1,5 +1,5 @@
-# 08/03/2025
-# v70
+# 08/04/2025
+# v70 (corrected)
 # Add AZ AZ266SprFtG AZ266 FtGra         Traveled in 2022
 # Add AZ US60HisMes May SosRd            Traveled in 1958, also US 70-80-89
 # Add AZ US80HisPan I-10(281) I-10(291)  Traveled in 1958
@@ -151,6 +151,7 @@ AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60 AZ77_S
+AZ US80HisPan I-10(281) I-10(291)
 AZ US80HisWel 21 54
 AZ US89AHisCla AZ89A_S AZ89A_N
 
