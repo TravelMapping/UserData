@@ -78,6 +78,7 @@ QC QC136Mon 1 AvePap                   # Entire route
 QC QC136 A-73 RueNotDame               # Entire route
 QC QC137 QC112 AvPin                   # Granby (S terminus) - St-Thomas-d'Aquin
 QC QC138Mon USA/CAN AvStSac            # Elgin (W terminus) - Québec (Père-Lelièvre)
+QC QC138Mon RueSou BoulWilHam_E        # A-973 / Centre de foires vincinity
 QC QC138Mon BoulHenBour RivSagFry      # Québec (Hôpital Enfant-Jésus) - Baie-Ste-Catherine (E terminus)
 QC QC138 RivSagFry RueVer              # Tadoussac (W terminus) - Forestville
 QC QC139 USA/CAN QC143                 # Entire route Richford/Abercorn - St-Nicéphore
