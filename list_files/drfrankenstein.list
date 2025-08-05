@@ -756,9 +756,12 @@ GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
 
 #===== Florida =================================================================
 # FL Interstates----------------------------------------------------------------
-FL I-4 71 132                          # Orlando (Central Fla Pkwy) - Daytona Beach (E terminus)
+FL I-4 68 132                          # Kissimee - Daytona Beach (E terminus)
 
 FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N terminus)
+
+# FL State Routes---------------------------------------------------------------
+FL FL535 PoiBlvd I-4                   # Kissimee Vineland Rd, Poinciana Rd - I-4 (N terminus)
 
 #===== Michigan ================================================================
 # MI Interstates
