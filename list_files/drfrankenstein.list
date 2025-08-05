@@ -316,6 +316,7 @@ NY NY7 I-87(6) NY/VT
 NY NY7 AlbShaRd UniSt
 NY NY9A HenHudPkwy(23) I-478
 NY NY9G US9_S NCliSt
+NY NY9H US9_S US9_N                    # Entire route Livingston - Kinderhook
 NY NY9N US9_N US9_S
 NY NY12F US11 I-81
 NY NY15 FordSt I-490
@@ -333,8 +334,10 @@ NY NY55 NY17B_W FerRd
 NY NY56 NY37 NY310
 NY NY56 StaRd NY68
 NY NY68 NY56 RusTurRd
+NY NY82 TacStaPkwy_N US9/23            # Tagkhanic - Livingston (TSP - I-90 shunpike)
 NY NY100 SprBroPkwy_Tuc I-87
 NY NY104 I-81 NY390
+NY NY129 NY9A UndAve                   # Croton-on-Hudson (W terminus) - Yorktown (to TSP); Croton Gorge Park
 NY NY131 NY37_W NY37_E
 NY NY146 BalRd RivRd
 NY NY155 WolfRd AlbShaRd
@@ -371,14 +374,15 @@ NJ I-287 I-95 NJ/NY
 NJ I-95 NJ/NY 6
 NJ I-95Sec I-95_S I-95_N               # Entire route around Secaucus
 NJ I-195 5 35
-NJ I-295 2A DE/NJ
-NJ I-295 67 NJ/PA                      # West of US 1 to Pennsylvania; old I-95
+NJ I-295 DE/NJ NJ/PA                   # Entire route Pennsville (Del Mem Br) - Ewing (Scudder Falls Br)
 
 # NJ US Routes------------------------------------------------------------------
 NJ US1 I-95/295 NJ/NY
 NJ US1TrkJer US1_S US1_N
 
-NJ US206 CR514 CR518
+NJ US202 US206/28 I-287(22)            # Somerville - Bedminster (206 concurrency)
+
+NJ US206 I-295 I-287(22)               # Lawrence - Bedminster
 
 NJ US9 CR514_S NJ/NY
 NJ US9 NJ440 NJ184
@@ -626,7 +630,7 @@ DE US13 I-295 DE1(152)
 DE US13 PunRunCon MD/DE
 
 # DE State Routes---------------------------------------------------------------
-DE DE1 156 97
+DE DE1 DE1A_N 164A                     # Rehoboth Beach - Christiana (I-95)
 DE DE896 US301/71 I-95
 
 #===== Maryland ================================================================
