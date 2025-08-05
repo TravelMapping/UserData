@@ -156,6 +156,7 @@ QC QC360 QC138_Que QC369               # Beauport (W terminus)
 QC QC360 QC138_W BoulBea               # Ste-Anne-de-Beaupré
 QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
 QC QC364 RuePri_N A-15                 # Huberdeau - St-Sauveur (E terminus)
+QC QC366 A-50 QC148                    # Templeton (S terminus)
 QC QC370 QC117 ChMas                   # Entire route Ste-Adèle - Ste-Marguerite-du-Lac-Masson/Estérel
 
 #===== Ontario =================================================================
