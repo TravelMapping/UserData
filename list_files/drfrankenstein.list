@@ -756,7 +756,9 @@ GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
 
 #===== Florida =================================================================
 # FL Interstates----------------------------------------------------------------
-FL I-4 68 132                          # Kissimee - Daytona Beach (E terminus)
+FL I-4 I-275 132                       # Entire route Tampa - Daytona Beach
+
+FL I-275 28 45B                        # Pinellas Pk - I-4
 
 FL I-95 191 205                        # Suntree (to Satellite Beach) - Cape Canaveral
 FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N terminus)
@@ -764,6 +766,8 @@ FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N termi
 # FL US Routes------------------------------------------------------------------
 FL US17 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
 FL US17 FL426 FL423                    # Winter Park, Orlando Ave, Fairbanks Ave - Lee Rd
+
+FL US19AltStP FL666 FL60_W             # Seminole - Clearwater
 
 FL US441 I-4(80) FL438                 # Orlando, I-4 - Princeton St
 
@@ -773,6 +777,7 @@ FL US192 CR545_S CelAve                # Kissimee, Irlon Bronson Mem Pkwy, Intl 
 
 # FL State Routes---------------------------------------------------------------
 # FL FLA1AVer FL518 FL404              # only btwn Shearwater Pkwy (Hightower Beach) - Pineda Causeway
+FL FL60 IslWay I-275                   # Clearwater Island - Tampa
 
 FL FL404 WicRd FLA1A                   # Entire route Pineda Causeway, Suntree - Satellite Beach
 FL FL423 I-4 US17/92                   # Winter Park, Lee Rd, I-4 - Orlando Ave
@@ -783,6 +788,10 @@ FL FL482 CR423 FL528                   # Orlando, Sand Lk Rd, John Young Pkwy - 
 FL FL528 I-4 42                        # Beachline Expy, Orlando (W terminus) - Cocoa
 FL FL535 PoiBlvd I-4                   # Kissimee Vineland Rd, Poinciana Rd - I-4 (N terminus)
 FL FL536 I-4 FL535                     # Entire route Kissimee, World Ctr Dr
+
+FL FL666 FL699 US19Alt                 # Entire route Tom Stuart Causeway, Madeira Beach - Seminole
+FL FL694 FL693 I-275                   # Park Blvd, Pinellas Pk
+FL FL699 FL666 171stAve                # Gulf Blvd, Reddington Beach - Madeira Beach
 
 #===== Michigan ================================================================
 # MI Interstates
