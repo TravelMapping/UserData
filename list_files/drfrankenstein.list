@@ -758,9 +758,23 @@ GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
 # FL Interstates----------------------------------------------------------------
 FL I-4 68 132                          # Kissimee - Daytona Beach (E terminus)
 
+FL I-95 191 205                        # Suntree (to Satellite Beach) - Cape Canaveral
 FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N terminus)
 
+# FL US Routes------------------------------------------------------------------
+FL US17 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
+
+FL US441 I-4(80) FL438                 # Orlando, I-4 - Princeton St
+
+FL US92 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
+
 # FL State Routes---------------------------------------------------------------
+# FL FLA1AVer FL518 FL404              # only btwn Shearwater Pkwy (Hightower Beach) - Pineda Causeway
+
+FL FL404 WicRd FLA1A                   # Entire route Pineda Causeway, Suntree - Satellite Beach
+FL FL438 US441 RioGraAve               # Orlando, Princeton St, N Orange Blossom Tr - Rio Grande Ave
+
+FL FL528 I-4 42                        # Orlando (W terminus) - Cocoa
 FL FL535 PoiBlvd I-4                   # Kissimee Vineland Rd, Poinciana Rd - I-4 (N terminus)
 
 #===== Michigan ================================================================
