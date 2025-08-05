@@ -701,6 +701,7 @@ VA I-395 1 VA/DC
 VA I-495 170(95) VA/DC
 
 # VA US Routes------------------------------------------------------------------
+VA US301 RivRd WagRd                   # Petersburg, Rives Rd - Wagner Rd
 VA US301 VA207 VA/MD
 
 VA US13 US58/58Bus_W VA/MD             # Suffolk - New Church (N terminus)
@@ -709,9 +710,13 @@ VA US58 I-95 I-664                     # Emporia - Hampton Roads
 
 VA US60 VA225 HarPoiRd
 VA US60 US360/60Trk_W VA147_E
+VA US460BusPet I-95(52) US301_N        # Whyte St, I-95 - Crater Rd
+VA US460BusPet I-95(50) VA109          # County Dr, I-95 - Hickory Rd
 
 # VA State Routes---------------------------------------------------------------
+VA VA36 I-95 VA144                     # Petersburg, Whyte/Washington Sts, I-95 - Sisisky Blvd
 VA VA76 SR754 VA146                    # Brandermill (near W terminus) - Richmond (near E terminus)
+VA VA109 US460Bus FortGA               # Entire route Petersburg, Hickory Hill Rd, County Dr - Ft Gregg-Adams
 VA VA146 VA76 I-195
 VA VA195 I-195 US60
 
@@ -730,6 +735,8 @@ NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
 
 NC US421 US17/74_W I-140
 
+NC US64 463 466                        # Rocky Mt, around I-95
+
 NC US74 US17_S US17/421_N
 
 NC US76 US17_S US17/74_N
@@ -738,8 +745,7 @@ NC US76 US17_S US17/74_N
 # SC Interstates----------------------------------------------------------------
 SC I-20BSFlo I-20 RadDr                # to Radio Dr
 
-SC I-95 160 SC/NC                      # Florence - Dillon (N terminus)
-SC I-95 GA/SC 157                      # Savannah Wildlife Refuge (S terminus) - Florence
+SC I-95 GA/SC SC/NC                    # Entire route Savannah - Dillon
 
 # SC US Routes------------------------------------------------------------------
 SC US301 SC/NC US501_S
