@@ -60,7 +60,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
 QC QC108 QC112 QC173                   # Entire route Magog - Beauceville
-QC QC112 QC138 A-73                    # Entire route Montréal - Vallée-Jct
+QC QC112 QC138 QC-275                  # Entire route Montréal - Frampton
 QC QC116 1 QC132                       # Entire route Longueuil - Lévis
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC122 QC132 QC143_S                 # Yamaska (W terminus) - Drummondville
@@ -113,6 +113,8 @@ QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Co
 QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
+QC QC216 QC161_N QC263_S               # Ham-Nord - St-Jacques-le-Majeur-de-Wolfestown
+QC QC216 QC275_N RteMas                # Ste-Marguerite - N-D-Aux-de-Buckland
 QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
