@@ -128,7 +128,7 @@ QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Rom
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
-QC QC323 QC148 ChVen                   # Montebello (S terminus) - Lac-des-Plages (toward Vendée)
+QC QC323 QC148 QC117                   # Entire route Montebello - Mont-Tremblant
 QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigaud
 QC QC327 QC344 QC117                   # St-André-d'Argenteuil (S terminus) - Mont-Tremblant
 QC QC327 MteeRyan ChVoy                # Mont-Tremblant (resort village, N terminus)
