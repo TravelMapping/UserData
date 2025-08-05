@@ -769,7 +769,7 @@ FL US441 I-4(80) FL438                 # Orlando, I-4 - Princeton St
 
 FL US92 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
 FL US92 FL426 FL423                    # Winter Park, Orlando Ave, Fairbanks Ave - Lee Rd
-FL US192 CR545_S I-4                   # Kissimee, Irlon Bronson Mem Pkwy, Old Lk Wilson Rd - I-4
+FL US192 CR545_S CelAve                # Kissimee, Irlon Bronson Mem Pkwy, Intl Dr
 
 # FL State Routes---------------------------------------------------------------
 # FL FLA1AVer FL518 FL404              # only btwn Shearwater Pkwy (Hightower Beach) - Pineda Causeway
