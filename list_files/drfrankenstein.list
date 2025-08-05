@@ -121,6 +121,7 @@ QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Je
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
 QC QC223 USA/CAN RueJacCar             # Lacolle (S terminus) - St-Jean-sur-Richelieu
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
+QC QC229 A-30 QC132                    # Varennes (N terminus)
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
 QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - Stanbridge East
