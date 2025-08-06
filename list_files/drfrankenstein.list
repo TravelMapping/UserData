@@ -880,3 +880,23 @@ IL I-294 12 31B                        # Alsip (IL 50) - Hillside (I-290)
 
 # IL State Routes---------------------------------------------------------------
 IL IL110 I-290(15A) I-290(30)
+
+#===== Utah ====================================================================
+# UT Interstates
+UT I-15 265 308                        # Provo - Salt Lake City
+UT I-215 1 12                          # SE quadrant (Holladay)
+
+UT I-80 115 123                        # Salt Lake City, I-15 concurrency - SLC Airport
+
+# UT US Routes------------------------------------------------------------------
+UT US89 UT269 UT270                    # Salt Lake City, State St & 400 S, 600 S - W Temple
+UT US89 UT241 UT114_N                  # Lindon
+UT US189 I-15 800N                     # Provo, University Ave, Lakeview Pkwy (S terminus) - 800 N
+
+# UT State Routes---------------------------------------------------------------
+UT UT52 UT114/176 I-15                 # Orem, Canyon Pkwy, toward Vineyard
+UT UT114 US89_S I-15                   # Provo, Center St, N 500 W - I-15
+UT UT114 820N CenSt_Ore                # Orem - Vineyard
+UT UT176 UT52/114 MainSt               # Vineyard Connector, Geneva Rd - Main St
+UT UT186 300N/StaSt I-80               # Salt Lake City, Capitol Hill - Belt Route (E terminus)
+UT UT269 I-15/80 US89                  # Entire route Salt Lake City, 500/600 S to State St
