@@ -135,6 +135,7 @@ QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
+QC QC303 QC301_S QC148_W               # Portage-du-Fort (S terminus) - Shawville
 QC QC307 A-50 ChMontCas                # Gatineau (S terminus) - Cantley (Mt Cascades)
 QC QC323 QC148 QC117                   # Entire route Montebello - Mont-Tremblant
 QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigaud
@@ -208,6 +209,7 @@ ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
 ON ON40 ON401 ON402
+ON ON41 ON7 ON132                      # Kaladar (S terminus) - Balaclava
 ON ON41 ON148 ON17
 ON ON58 RR3 ON58A
 ON ON58Tho ON406 ON20/RR20
@@ -215,6 +217,7 @@ ON ON58AWel ON58 ON140
 ON ON60 RR20 ON17                      # Renfrew (E terminus)
 ON ON62 RR2_E RR2_W
 ON ON115 ON401 ON7_E
+ON ON132 ON41 ON60                     # Entire route Balaclava - Renfrew
 ON ON137 USA/ON ON401
 ON ON138 ON401 ON417
 ON ON140 ON58A RR27
