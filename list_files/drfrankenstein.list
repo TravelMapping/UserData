@@ -160,6 +160,7 @@ QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
 QC QC364 RuePri_N A-15                 # Huberdeau - St-Sauveur (E terminus)
 QC QC366 A-50 QC148                    # Templeton (S terminus)
 QC QC370 QC117 ChMas                   # Entire route Ste-Adèle - Ste-Marguerite-du-Lac-Masson/Estérel
+QC QC371 A-573 BoulVal_N               # Val-St-Michel (S terminus) - Village Vacances Valcartier
 
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
