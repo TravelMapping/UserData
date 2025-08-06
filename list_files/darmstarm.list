@@ -31,7 +31,7 @@ DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but d
 DE DE896 DE/MD DE71_S
 #pennsylvania
 PA I-76 226 247 #niagara trip
-PA I-76 331 328 #tobyhana trip
+PA I-76 341 328 #briarwood invitational
 PA I-80 123 111 #niagara trip
 PA I-80 298 302 #tobyhana trip
 PA I-81 44 MD/PA #two parts
@@ -41,7 +41,8 @@ PA I-86 PA/NY 1 #niagara trip (rnrhf)
 PA I-90 37 OH/PA #niagara trip (rnrhf)
 PA I-95 DE/PA 26 #incomplete
 PA I-283 1 3
-PA I-476 56 16 #various trips
+PA I-176 2 10
+PA I-476 56 5 #various trips
 PA US1 MD/PA PA352
 PA US6 PA666 US6BusWar_E
 PA US6BusWar US6_E US62_N
@@ -109,9 +110,11 @@ MD US1 I-95/495 MD193 #umd college park
 MD US13 VA/MD US13BusSal_S #two parts
 MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
+MD US15 10 US340_W #harper's ferry trip
 MD US40 MD7Elk MD7/155
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
 MD US301 MD/DE VA/MD
+MD US340 10 VA/MD #harper's ferry trip
 MD MD3 US50/301 I-97/32
 MD MD7Elk SouSt US40
 MD MD41 I-695 JopRd
@@ -283,21 +286,30 @@ NJ NJ70 I-295 CR541
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
 #virginia
-VA I-64 299 282
+VA I-64 299 282 #delmarva trip
+VA I-64 200 234 #williamsburg trip
 VA I-77 NC/VA 40
-VA I-81 TN/VA 81
+VA I-81 TN/VA 98 #from virginia tech to tenessee border
+VA I-81 118 300 #incomplete. virginia tech return trip
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
+VA I-295 43 28A #williamsburg trip
 VA I-664 13 15
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US58 I-95 I-664
 VA US211 SkyDr US340_N
 VA US301 VA207 VA/MD
+VA US340Lou VA/MD WV/VA #harper's ferry trip
+VA US460 SR700 I-81(118) #VTech tour, mountain lake hotel
+VA US460 US460BusPea_E SR613/617 #raleigh -> blacksburg
+VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA VA20 US15 I-64
+VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
 VA VA207 US301 I-95
 #west virginia
-WV I-81 VA/WV WV/MD
+WV I-81 VA/WV WV/MD #college to hershey park
+WV US340 WV/VA SheSt #shanendoah trip
 #alabama
 AL US80 AL/GA US280/431_S
 AL US231 US431 FL/AL
