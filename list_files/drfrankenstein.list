@@ -362,6 +362,7 @@ NY NY812 NY/ON NY37_N
 
 #===== New Jersey ==============================================================
 # NJ Interstates----------------------------------------------------------------
+NJ I-78 PA/NJ 29                       # Philipsburg (W terminus) - Bridgewater (I-287)
 NJ I-78 NJ/NY 59
 NJ I-78 44 56
 NJ I-278 US1/9 NJ/NY
@@ -433,6 +434,9 @@ NJ NJ495 NJ/NY NJ3
 # PA Interstates----------------------------------------------------------------
 PA I-476 131 56
 
+PA I-78 49 51                          # US 22 concurrency
+PA I-78 60 PA/NJ                       # Allentown - Easton (E terminus)
+
 PA I-80 PA/NJ 309
 
 PA I-81 70 PA/NY
@@ -443,15 +447,17 @@ PA I-95 DE/PA PA/NJ
 
 # PA US Routes------------------------------------------------------------------
 PA US22 I-476 PA309
-PA US222 I-78 US222Bus_N
-PA US222 PA12 US30_E
+PA US22 I-78(49) SchRd                 # Haines - Bethlehem
+PA US222 US30_E I-78                   # Lancaster - Allentown
 PA US222 PA741_E MD/PA
 PA US222BusRea US222_N PA12
 
-PA US30 US222_N PA896
+PA US30 HilRd PA896                    # York - Strasburg
 
 # PA State Routes---------------------------------------------------------------
 PA PA12 US222Bus US422
+PA PA100 SchRd I-78                    # Haines, Shantz Rd - William Penn Hwy
+PA PA145 I-78/309 PA222                # I-78 (S terminus) - downtown Allentown
 PA PA309 US22 I-78(54)
 PA PA741 US222/272 PA896
 PA PA896 US30 DecSt
@@ -674,8 +680,13 @@ MD MD295 US50/201 US40
 MD MD528 US50 MD/DE                    # Ocean Gateway - Fenwick Is (N terminus)
 MD MD702 BackRivNRd I-695
 
+# MD National Park Hwys---------------------------------------------------------
+MD BalWasPkwy US50/201 MD175           # Entire route Washington - Ft Meade
+
 #===== District of Columbia ====================================================
 # DC Interstates----------------------------------------------------------------
+DC I-66 US50_W US50_E                  # Theodore Roosevelt Mem Br
+
 DC I-95 DC/MD VA/DC
 DC I-295 MD/DC 4
 DC I-395 VA/DC US50
@@ -683,10 +694,14 @@ DC I-495 DC/MD VA/DC
 DC I-695 I-395 I-295/295
 
 # DC US Routes------------------------------------------------------------------
+DC US50 I-66_W I-66_E                  # Theodore Roosevelt Mem Br
 DC US50 I-395 DC/MD
 
 # DC District Route-------------------------------------------------------------
 DC DC295 I-295/695 DC/MD
+
+# DC National Park Hwys---------------------------------------------------------
+DC GWMemPkwy WasBlvd DC/VA
 
 #===== Virginia ================================================================
 # VA Interstates----------------------------------------------------------------
@@ -698,7 +713,7 @@ VA I-664 1 15
 VA I-95 NC/VA VA/DC
 VA I-295 1 53
 VA I-395 1 VA/DC
-VA I-495 170(95) VA/DC
+VA I-495 52 VA/DC                      # Annandale - Woodrow Wilson Mem Br (S terminus)
 
 # VA US Routes------------------------------------------------------------------
 VA US301 RivRd WagRd                   # Petersburg, Rives Rd - Wagner Rd
@@ -714,11 +729,14 @@ VA US460BusPet I-95(52) US301_N        # Whyte St, I-95 - Crater Rd
 VA US460BusPet I-95(50) VA109          # County Dr, I-95 - Hickory Rd
 
 # VA State Routes---------------------------------------------------------------
-VA VA36 I-95 VA144                     # Petersburg, Whyte/Washington Sts, I-95 - Sisisky Blvd
+VA VA36 I-95 I-295                     # Petersburg, Whyte/Washington Sts & Oaklawn Blvd
 VA VA76 SR754 VA146                    # Brandermill (near W terminus) - Richmond (near E terminus)
 VA VA109 US460Bus FortGA               # Entire route Petersburg, Hickory Hill Rd, County Dr - Ft Gregg-Adams
 VA VA146 VA76 I-195
 VA VA195 I-195 US60
+
+# VA National Park Hwys---------------------------------------------------------
+VA GWMemPkwy I-66 SpoRunPkwy
 
 #===== North Carolina ==========================================================
 # NC Interstates----------------------------------------------------------------
