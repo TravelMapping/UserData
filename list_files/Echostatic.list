@@ -391,6 +391,9 @@ WA SteCynRd WA706 WA123
 #United States Select Tourist Routes
 MN GRR MinDr 46thAve
 
+#United States National Historic Trails
+OR OrTrlRiv I-205(22) I-84(44)
+
 #Arkansas State Highways
 AR AR77 I-55(7) US64Spr
 AR AR440 11 13
@@ -731,3 +734,4 @@ WI WI105 MN/WI WI35
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
