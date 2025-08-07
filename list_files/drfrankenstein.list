@@ -206,6 +206,7 @@ ON ON10 ValBlvd RR9
 ON ON15 ON7 ON401
 ON ON16 OPIntBrg ON416
 ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
+ON ON20 ON58 RR70                      # Entire length Thorold, Lundy's Lane
 # ON ON27 ON427 EglAve                 # [Downloaded]
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
@@ -221,7 +222,7 @@ ON ON115 ON401 ON7_E
 ON ON132 ON41 ON60                     # Entire route Balaclava - Renfrew
 ON ON137 USA/ON ON401
 ON ON138 ON401 ON417
-ON ON140 ON58A RR27
+ON ON140 ON3 RR27                      # Entire length Port Colborne - Welland
 ON ON148 ON/QC ON41
 
 # ON Regional Roads-------------------------------------------------------------
