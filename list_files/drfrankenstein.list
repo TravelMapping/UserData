@@ -243,7 +243,7 @@ NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
-NB NB177 FerRd NB102                   # Hillandale (Hardings Pt Ferry) - Lingley
+NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
