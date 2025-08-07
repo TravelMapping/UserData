@@ -229,10 +229,13 @@ ON RR174 ON417 RR57
 #===== New Brunswick ===========================================================
 # NB Trans-Canada Highway-------------------------------------------------------
 NB TCHMai QC/NB 258                    # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB TCHMai 423 506                      # Petitcodiac (NB 1) - Sackville
 
 # NB Primary Highways-----------------------------------------------------------
-NB NB1 39 125                          # Bocabec (NB 127) - St John (Seely St)
+NB NB1 39 137                          # Bocabec (NB 127 to St Andrews) - Rothesay (NB 111)
+NB NB1 198 NB2                         # Sussex - Petitcodiac (E terminus)
 NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB NB2 423 506                         # Petitcodiac (NB 1) - Sackville
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
 
@@ -241,9 +244,14 @@ NB NB95 ME/NB NB2
 NB NB100 ManRd CroSt                   # St John, Manawagonish Rd - Crown St
 NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
+NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy Coastal Route)
+NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
 NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
+
+# NB Tertiary Highways----------------------------------------------------------
+NB NB825 NB111_W NB111_E               # Entire route thru Simonds Parish
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
