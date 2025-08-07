@@ -131,6 +131,7 @@ QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
 QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
+QC QC289 NB/QC A-20                    # Témiscouata (S terminus) - St-Alexandre-de-Kamouraska (near N terminus)
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
@@ -240,9 +241,10 @@ NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
 NB NB8 170 179                         # Newcastle - Miramichi
-NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Tide Head
+NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Campellton
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
 NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
+NB NB17 NB2 NB11                       # St-Léonard (near W terminus) - Campbellton (E terminus)
 
 # NB Secondary Highways---------------------------------------------------------
 NB NB95 ME/NB NB2
@@ -253,12 +255,13 @@ NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy C
 NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
 NB NB113 NB11 MisIslLig                # Entire route Pokemouche - Miscou
 NB NB114 RocRd NB15                    # Hopewell Rocks - Moncton (E terminus)
+NB NB120 QC/NB NB2                     # Entire route Lac-Baker - Edmundston
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
 NB NB133 NB134 NB140                   # Main St thru Shediac
 NB NB134Mon NB133 NB475                # Shediac - Bouctouche
 NB NB134Mon ChGra NB11(53)             # Ste-Anne-de-Kent - Rexton
-NB NB134 VanBlvd NB11                  # Bathurst - Tide Head (N terminus)
+NB NB134 VanBlvd NB11                  # Bathurst - Campbellton (N terminus)
 NB NB140 NB15 NB133                    # Entire length E Shediac, Ch Ohio
 NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
 
