@@ -239,6 +239,8 @@ NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (N
 NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
+NB NB8 170 179                         # Newcastle - Miramichi
+NB NB11 NB15 179(8)                    # Shediac (S terminus) - Miramichi
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
 NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
 
