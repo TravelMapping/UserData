@@ -1,10 +1,11 @@
-                   ##################################
-                   ###                            ###
-                   ###      myselfalso.list       ###
-                   ###                            ###
-                   ###   Updated: July 22, 2025   ###
-                   ###                            ###
-                   ##################################
+        ###################################
+        ###                             ###
+        ###       myselfalso.list       ###
+        ###                             ###
+        ###   Updated: August 6, 2025   ###
+        ###                             ###
+        ###################################
+
 
 ### United States Interstate Highway System ###
 
@@ -234,22 +235,30 @@ DC I-695 I-395 I-295
 
 ### US National system ###
 
-NJ US1 NJ81 US1Trk_S
-PA US1 MD/PA US322_E
-PA US1 US30 WisAve
-MD US1 MD200 MD32
-MD US1 I-83 US40Trk_E
-MD US1 MD24_S MD/PA
-DC US1 VA/DC NorCapSt
-VA US1 VA286 VA/DC
-FL US1 IntGolfPkwy SanCarAve
 FL US1 I-95(349) I-95(350A)
+FL US1 IntGolfPkwy SanCarAve
+VA US1 VA286 VA/DC
+DC US1 VA/DC NorCapSt
+MD US1 MD24_S MD/PA
+MD US1 I-83 US40Trk_E
+MD US1 MD200 MD32
+PA US1 MD/PA US13_N
+NJ US1 NJ81 US1Trk_S
+NJ US1 I-95(72) NJ/NY
+NY US1 NJ/NY I-95(2B)
+CT US1 I-95(84) CT/RI
+RI US1 CT/RI RI138_E
+RI US1 I-95(41A) I-95(42)
+MA US1 I-95(29) I-93/95
 
 DC US1AltWas US1_S US50_E
+PA US1AltTrkPhi US1_S US30_E
 
 VT US2 US2Bus_W MemDr
 
 VT US2BusMon US2_W US2_E
+
+MA US3 RivSt MA2_E
 
 VT US4 I-89 VT/NH
 NH US4 NH10_N I-95
@@ -298,7 +307,7 @@ MD US15 VA/MD MD/PA
 PA US15 MD/PA PA/NY
 NY US15 PA/NY I-99(13)
 
-PA US15BusGet PA134 US15_N
+PA US15BusGet MD/PA US15_N
 PA US15BusMan US15_S US15_N
 
 FL US17 I-10(361) I-95(353C)
@@ -320,6 +329,7 @@ PA US19TrkPit I-279(4) US19_N
 
 OH US20 OH2_W OH534
 PA US20 PA832 I-79
+MA US20 MA2_W MA2_E
 
 OH US20HisPai OH2 OH528
 
@@ -344,6 +354,10 @@ PA US30 I-81 PA/NJ
 NJ US30 PA/NJ I-676(5B)
 NJ US30 CR542_W CR542_E
 NJ US30 GarStaPkwy VirAve
+
+PA US30BusBed US30_W US30_E
+PA US30BusTrkCoa US30_W PA82_N
+PA US30BusDow US30_W PA340
 
 PA US40 PA281_N PA/MD
 MD US40 PA/MD I-70(1A)
@@ -409,11 +423,14 @@ CT US202 CT4_W CT4_E
 CT US202 DowdAve US44_E
 NH US202 I-89(5) US4_E
 
-PA US209 PA147 I-476
+PA US202BusMon US202 PA611
+
+PA US209 PA147 FirRd
 
 VA US211 US11_S US11_N
 
 PA US219 US219BusMey_S US422
+PA US219 I-80(304) I-80(309)
 
 PA US219BusMey US219_S US219_N
 
@@ -447,13 +464,18 @@ TN US321 US441_S US441_N
 PA US322 US6_W I-79
 PA US322 I-99(62) PA897_S
 PA US322 US202_N PA/NJ
-PA US322BusSta US322_W US322_E
 NJ US322 PA/NJ CR551
 NJ US322 NJ42 AtlAve
 
+PA US322BusSta US322_W US322_E
+PA US322AltTrkDow US322_W US30/113
+PA US322AltTrkDow US30/30Bus US202/322
+
 PA US422 PA28_S US219
 PA US422Rea US322 US202
+
 PA US422BusInd US422_W US422_E
+PA US422BusRea US422_W US422_E
 
 AL US431 I-85(62) TorBlvd
 AL US431 AL75 BuckIslDr
@@ -472,6 +494,7 @@ CT MilPkwy 1 3
 DC BeaDr RockCrkPkwy HarStNW
 DC GWMemPkwy VA/DC DC/VA
 DC RockCrkPkwy LinMemCir US29
+MA StoDr SolFieRd MA28
 NH EveTpk MA/NH 13(93)
 NJ AtlCityExpy BalAve 44
 NJ GarStaPkwy NJ109 NJ/NY
@@ -492,6 +515,8 @@ VA GWMemPkwyCry 1stSt VA/DC
 VA GWMemPkwyMtV VA235 VA400
 
 ### United States National Historic Trails ###
+
+RI WRTrl RI138A RI24
 
 VA WRTrl MouVer VA286
 VA WRTrl VA199_W I-64(243)
@@ -553,6 +578,7 @@ PA PA87 PA864 PA973
 PA PA93 TamSt PA424
 PA PA93 PenBlvd I-81
 PA PA93 I-80 PA487
+PA PA93TrkNPa PA93_S US209/54
 PA PA94 CloLn US15
 PA PA97Lit PA194 US15
 PA PA100 US202 I-76
@@ -564,7 +590,7 @@ PA PA113 PA73 PA313
 PA PA114 PA944 OldYorkRd
 PA PA115 LongPondRd I-80
 PA PA116 KnoOrrRd US15
-PA PA117 US322/72 PA241_S
+PA PA117 US322/72 US422
 PA PA117 US322 US422
 PA PA118 PA405 PA239
 PA PA121 US19 I-376
@@ -611,7 +637,7 @@ PA PA313 PA309/663 PA113
 PA PA320 I-76 PA23
 PA PA324 PA741_W PA741_E
 PA PA325 US22/322 US209
-PA PA340 US30_W ReeRd
+PA PA340 PA462 US30Bus
 PA PA340AltTrkWag PA340_W PA340_E
 PA PA341 PA230 PA241
 PA PA341TrkDeo PA341_W PA341_E
@@ -635,8 +661,7 @@ PA PA472 3rdSt_S PA372
 PA PA487 PA61 KnoPkwy
 PA PA487 PA254 PA93
 PA PA491 US202 PA261
-PA PA501 US222/272 US222/30
-PA PA501 US322 I-78
+PA PA501 US222/272 I-78
 PA PA581 1 6
 PA PA601 PA31/281 OakSt
 PA PA618 US6 PA18
@@ -772,6 +797,11 @@ MD MD896 DE/MD MD/PA
 ME ME4 NH/ME ME236_S
 ME ME236 I-95 ME4_S
 
+### Massachusetts State Highways ###
+
+MA MA2 RivSt MA28
+MA MA28 StoDr MA3_S
+
 ### Missouri State Highways ###
 
 MO MO30 MO366 I-44(290A)
@@ -845,6 +875,7 @@ RI RI3 US1 RI78
 RI RI4 US1 I-95
 RI RI24 RI114 RI/MA
 RI RI78 CT/RI US1
+RI RI114 RI138_W RI24
 RI RI138 I-95 RI24(5)
 RI RI138A RI138_W RI138_E
 RI RI214 RI138A RI114
