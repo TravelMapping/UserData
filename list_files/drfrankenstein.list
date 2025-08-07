@@ -60,7 +60,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
 QC QC108 QC112 QC173                   # Entire route Magog - Beauceville
-QC QC112 QC138 QC-275                  # Entire route Montréal - Frampton
+QC QC112 QC138 QC275                   # Entire route Montréal - Frampton
 QC QC116 1 QC132                       # Entire route Longueuil - Lévis
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC122 QC132 QC143_S                 # Yamaska (W terminus) - Drummondville
