@@ -240,7 +240,7 @@ NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
 NB NB8 170 179                         # Newcastle - Miramichi
-NB NB11 NB15 179(8)                    # Shediac (S terminus) - Miramichi
+NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Tide Head
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
 NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
 
@@ -251,12 +251,22 @@ NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
 NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy Coastal Route)
 NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
+NB NB113 NB11 MisIslLig                # Entire route Pokemouche - Miscou
 NB NB114 RocRd NB15                    # Hopewell Rocks - Moncton (E terminus)
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
+NB NB133 NB134 NB140                   # Main St thru Shediac
+NB NB134Mon NB133 NB475                # Shediac - Bouctouche
+NB NB134Mon ChGra NB11(53)             # Ste-Anne-de-Kent - Rexton
+NB NB134 VanBlvd NB11                  # Bathurst - Tide Head (N terminus)
+NB NB140 NB15 NB133                    # Entire length E Shediac, Ch Ohio
 NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
 
 # NB Tertiary Highways----------------------------------------------------------
+NB NB475 NB134 NB505                   # Entire route Bouctouche - Ste-Anne-de-Kent
+
+NB NB505 NB134_S NB475                 # Ste-Anne-de-Kent (S terminus) - toward Bouctouche
+
 NB NB825 NB111_W NB111_E               # Entire route thru Simonds Parish
 
 #===== Nova Scotia =============================================================
