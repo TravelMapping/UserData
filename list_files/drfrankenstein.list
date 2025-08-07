@@ -227,12 +227,19 @@ ON ON148 ON/QC ON41
 ON RR174 ON417 RR57
 
 #===== New Brunswick ===========================================================
+# NB Trans-Canada Highway-------------------------------------------------------
+NB TCHMai QC/NB 258                    # St-Jacques (W terminus) - Kingsclear (NB 3)
+
 # NB Primary Highways-----------------------------------------------------------
-NB NB2 187 QC/NB
+NB NB1 39 122                          # Bocabec (NB 127) - St John (Main St, NB 100)
+NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 
 # NB Secondary Highways---------------------------------------------------------
 NB NB95 ME/NB NB2
+NB NB100 ManRd NB1(117)                # St John West, Fairville Blvd, Manawagonish Rd - Thruway
 NB NB103 SomRd HarBriHRd
+NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
 
 #==== British Columbia =========================================================
