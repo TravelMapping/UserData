@@ -89,8 +89,7 @@ QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
 QC QC153 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
-QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
-QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
+QC QC158 QC148_W A-40                  # Lachute (W terminus) - Berthierville
 QC QC161 QC263_S A-20                  # Lac-Mégantic - Ste-Eulalie (N terminus)
 QC QC165 QC116_E QC263_S               # Princeville - Plessisville (R-116 concurrency)
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
