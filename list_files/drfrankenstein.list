@@ -27,7 +27,7 @@ QC A-930 A-15 A-30                     # Entire route
 
 QC A-31 1 15                           # Entire route Lavaltrie - Joliette
 
-QC A-35 1 18                           # Entire route St-Sébastien - Carignan
+QC A-35 QC133 55                       # Entire route St-Sébastien - Carignan
 
 QC A-40 ON/QC 325                      # Entire route Pte-Fortune - Québec
 QC A-440 17 35                         # Entire route R-148 - A-25
@@ -60,7 +60,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
 QC QC108 QC112 QC173                   # Entire route Magog - Beauceville
-QC QC112 QC138 A-73                    # Entire route Montréal - Vallée-Jct
+QC QC112 QC138 QC-275                  # Entire route Montréal - Frampton
 QC QC116 1 QC132                       # Entire route Longueuil - Lévis
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC122 QC132 QC143_S                 # Yamaska (W terminus) - Drummondville
@@ -78,6 +78,7 @@ QC QC136Mon 1 AvePap                   # Entire route
 QC QC136 A-73 RueNotDame               # Entire route
 QC QC137 QC112 AvPin                   # Granby (S terminus) - St-Thomas-d'Aquin
 QC QC138Mon USA/CAN AvStSac            # Elgin (W terminus) - Québec (Père-Lelièvre)
+QC QC138Mon RueSou BoulWilHam_E        # A-973 / Centre de foires vincinity
 QC QC138Mon BoulHenBour RivSagFry      # Québec (Hôpital Enfant-Jésus) - Baie-Ste-Catherine (E terminus)
 QC QC138 RivSagFry RueVer              # Tadoussac (W terminus) - Forestville
 QC QC139 USA/CAN QC143                 # Entire route Richford/Abercorn - St-Nicéphore
@@ -86,7 +87,7 @@ QC QC143 USA/CAN QC141                 # Derby Line/Stanstead (US 5, S terminus)
 QC QC143 QC139 QC132                   # St-Nicéphore - St-François-du-Lac (N terminus)
 QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
-QC QC154 25eRue RteDef                 # Grand-Mère
+QC QC153 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
 QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
 QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
@@ -112,20 +113,31 @@ QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Co
 QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
+QC QC216 QC161_N QC263_S               # Ham-Nord - St-Jacques-le-Majeur-de-Wolfestown
+QC QC216 QC275_N RteMas                # Ste-Marguerite - N-D-Aux-de-Buckland
 QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
+QC QC223 USA/CAN RueJacCar             # Lacolle (S terminus) - St-Jean-sur-Richelieu
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
+QC QC227 QC116 A-20                    # Ste-Madeleine (N terminus)
+QC QC229 A-30 QC132                    # Varennes (N terminus)
+QC QC233 A-10 QC112                    # St-Césaire
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
 QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - Stanbridge East
+QC QC243 USA/CAN A-10                  # N Troy / Mansonville (S terminus) - Shefford
 QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
+QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
+QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
-QC QC323 QC148 ChVen                   # Montebello (S terminus) - Lac-des-Plages (toward Vendée)
+QC QC303 QC301_S QC148_W               # Portage-du-Fort (S terminus) - Shawville
+QC QC307 A-50 ChMontCas                # Gatineau (S terminus) - Cantley (Mt Cascades)
+QC QC323 QC148 QC117                   # Entire route Montebello - Mont-Tremblant
 QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigaud
 QC QC327 QC344 QC117                   # St-André-d'Argenteuil (S terminus) - Mont-Tremblant
 QC QC327 MteeRyan ChVoy                # Mont-Tremblant (resort village, N terminus)
@@ -146,6 +158,7 @@ QC QC360 QC138_Que QC369               # Beauport (W terminus)
 QC QC360 QC138_W BoulBea               # Ste-Anne-de-Beaupré
 QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
 QC QC364 RuePri_N A-15                 # Huberdeau - St-Sauveur (E terminus)
+QC QC366 A-50 QC148                    # Templeton (S terminus)
 QC QC370 QC117 ChMas                   # Entire route Ste-Adèle - Ste-Marguerite-du-Lac-Masson/Estérel
 
 #===== Ontario =================================================================
@@ -196,12 +209,15 @@ ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
 ON ON40 ON401 ON402
+ON ON41 ON7 ON132                      # Kaladar (S terminus) - Balaclava
 ON ON41 ON148 ON17
 ON ON58 RR3 ON58A
 ON ON58Tho ON406 ON20/RR20
 ON ON58AWel ON58 ON140
+ON ON60 RR20 ON17                      # Renfrew (E terminus)
 ON ON62 RR2_E RR2_W
 ON ON115 ON401 ON7_E
+ON ON132 ON41 ON60                     # Entire route Balaclava - Renfrew
 ON ON137 USA/ON ON401
 ON ON138 ON401 ON417
 ON ON140 ON58A RR27
@@ -277,7 +293,7 @@ NY US9W US6/202 NY299
 NY US9W I-87(10) NJ/NY
 
 NY US11 NY189 NY3
-NY US11 NY190 US2
+NY US11 EllBri USA/CAN                 # Ellenburg - Lacolle (N terminus)
 
 NY US44 US9W_S US9
 
@@ -298,10 +314,12 @@ NY LakeOntPkwy LakeAve NY18
 # NY State Routes---------------------------------------------------------------
 NY NY2 NY22 NY/MA
 NY NY3 US11 I-81
+NY NY3 I-87 US9                        # Plattsburgh (E terminus)
 NY NY7 I-87(6) NY/VT
 NY NY7 AlbShaRd UniSt
 NY NY9A HenHudPkwy(23) I-478
 NY NY9G US9_S NCliSt
+NY NY9H US9_S US9_N                    # Entire route Livingston - Kinderhook
 NY NY9N US9_N US9_S
 NY NY12F US11 I-81
 NY NY15 FordSt I-490
@@ -319,8 +337,10 @@ NY NY55 NY17B_W FerRd
 NY NY56 NY37 NY310
 NY NY56 StaRd NY68
 NY NY68 NY56 RusTurRd
+NY NY82 TacStaPkwy_N US9/23            # Tagkhanic - Livingston (TSP - I-90 shunpike)
 NY NY100 SprBroPkwy_Tuc I-87
 NY NY104 I-81 NY390
+NY NY129 NY9A UndAve                   # Croton-on-Hudson (W terminus) - Yorktown (to TSP); Croton Gorge Park
 NY NY131 NY37_W NY37_E
 NY NY146 BalRd RivRd
 NY NY155 WolfRd AlbShaRd
@@ -345,6 +365,7 @@ NY NY812 NY/ON NY37_N
 
 #===== New Jersey ==============================================================
 # NJ Interstates----------------------------------------------------------------
+NJ I-78 PA/NJ 29                       # Philipsburg (W terminus) - Bridgewater (I-287)
 NJ I-78 NJ/NY 59
 NJ I-78 44 56
 NJ I-278 US1/9 NJ/NY
@@ -357,14 +378,15 @@ NJ I-287 I-95 NJ/NY
 NJ I-95 NJ/NY 6
 NJ I-95Sec I-95_S I-95_N               # Entire route around Secaucus
 NJ I-195 5 35
-NJ I-295 2A DE/NJ
-NJ I-295 67 NJ/PA                      # West of US 1 to Pennsylvania; old I-95
+NJ I-295 DE/NJ NJ/PA                   # Entire route Pennsville (Del Mem Br) - Ewing (Scudder Falls Br)
 
 # NJ US Routes------------------------------------------------------------------
 NJ US1 I-95/295 NJ/NY
 NJ US1TrkJer US1_S US1_N
 
-NJ US206 CR514 CR518
+NJ US202 US206/28 I-287(22)            # Somerville - Bedminster (206 concurrency)
+
+NJ US206 I-295 I-287(22)               # Lawrence - Bedminster
 
 NJ US9 CR514_S NJ/NY
 NJ US9 NJ440 NJ184
@@ -415,6 +437,9 @@ NJ NJ495 NJ/NY NJ3
 # PA Interstates----------------------------------------------------------------
 PA I-476 131 56
 
+PA I-78 49 51                          # US 22 concurrency
+PA I-78 60 PA/NJ                       # Allentown - Easton (E terminus)
+
 PA I-80 PA/NJ 309
 
 PA I-81 70 PA/NY
@@ -425,15 +450,17 @@ PA I-95 DE/PA PA/NJ
 
 # PA US Routes------------------------------------------------------------------
 PA US22 I-476 PA309
-PA US222 I-78 US222Bus_N
-PA US222 PA12 US30_E
+PA US22 I-78(49) SchRd                 # Haines - Bethlehem
+PA US222 US30_E I-78                   # Lancaster - Allentown
 PA US222 PA741_E MD/PA
 PA US222BusRea US222_N PA12
 
-PA US30 US222_N PA896
+PA US30 HilRd PA896                    # York - Strasburg
 
 # PA State Routes---------------------------------------------------------------
 PA PA12 US222Bus US422
+PA PA100 SchRd I-78                    # Haines, Shantz Rd - William Penn Hwy
+PA PA145 I-78/309 PA222                # I-78 (S terminus) - downtown Allentown
 PA PA309 US22 I-78(54)
 PA PA741 US222/272 PA896
 PA PA896 US30 DecSt
@@ -449,11 +476,13 @@ ME I-395 1 6
 ME US1 US1Byp_N NH/ME
 ME US1BypPor NH/ME US1_N
 
+ME US2 NH/ME ME26_N                    # Gilead (W terminus) - Newry
 ME US202 OldWinRd I-95(109)
 
 # ME State Routes---------------------------------------------------------------
 ME ME11 OldWinRd I-95(109)
 ME ME11 I-95(127) WasSt
+ME ME26 US2_W ME/NH                    # Bethel - Upton (N terminus)
 ME ME103 DenRd US1
 ME ME137 I-95 WasSt
 ME ME236 US1 I-95
@@ -468,7 +497,7 @@ VT I-91 VT/Can MA/VT
 VT I-93 I-91 NH/VT
 
 # VT US Routes------------------------------------------------------------------
-VT US2 NY/VT US302
+VT US2 NY/VT VT/NH                     # Entire route Alburgh - Guildhall
 VT US302 US2 VT/NH
 
 VT US4 NY/VT VT/NH
@@ -497,12 +526,13 @@ VT VT104 VT15 StAlbSH
 VT VT105 VT78 US5_N
 VT VT108 VT118 VT/QC                   # W Berkshire - Frelighsburg (N terminus)
 VT VT108 VT100 VT15
+VT VT114 VT141 VT/NH                   # Canaan (QC to NH)
 VT VT117 US2 VT2A/15
-VT VT118 VT242 VT105_W                 # Montgomery Ctr (toward Jay) - E Berkshire
-VT VT118 RicRd VT108                   # W Berkshire (N terminus)
+VT VT118 VT242 VT108                   # Montgomery Ctr (toward Jay) - W Berkshire (N terminus)
 VT VT125 VT17 VT22A_S
 VT VT127 PeaSt US2/7
 VT VT139 VT105 VT/QC
+VT VT141 VT114 VT/QC                   # Entire route Canaan to Ste-Herménégilde
 VT VT191 I-91 US5
 VT VT242 VT118 VT101
 VT VT243 VT105 VT/QC
@@ -523,8 +553,10 @@ NH I-95 NH/ME 2
 NH US1 NH1B US1Byp_S
 NH US1BypPor NH/ME US1_S
 
+NH US2 VT/NH NH/ME                     # Entire route Lancaste - Shelburne
 NH US302 VT/NH SchSt
 
+NH US3 NH26_E MainSt_Ste               # Colebrook - Canaan (to VT)
 NH US3 RayWieDr BedRd
 
 NH US4 VT/NH NH120_S
@@ -538,6 +570,7 @@ NH NH10 LebSt US302
 NH NH10A NH/VT NH10
 NH NH16 US1Byp 6
 NH NH25A NH10_S VT/NH
+NH NH26 US3_N NH/ME                    # Colebrook (at US 3) - Cambridge (E terminus)
 NH NH33 I-95 NH108
 NH NH101 I-93_S I-95
 NH NH108 NH33 NH101
@@ -606,7 +639,7 @@ DE US13 I-295 DE1(152)
 DE US13 PunRunCon MD/DE
 
 # DE State Routes---------------------------------------------------------------
-DE DE1 156 97
+DE DE1 MD/DE 164A                      # Fenwick Is (S terminus) - Christiana (I-95)
 DE DE896 US301/71 I-95
 
 #===== Maryland ================================================================
@@ -631,11 +664,13 @@ MD US301 VA/MD MD8
 MD US301 DukeSt MD/DE
 
 MD US13 MD/DE VA/MD
+MD US113 US13 US50                     # Pocomoke (S terminus) - Berlin
 
 MD US222 MD/PA US1
 
 MD US50 DC/MD MD201/295
 MD US50 I-95/495 US301_N
+MD US50 US113 MD528                    # Berlin - Ocean City (E terminus)
 
 # MD State Routes---------------------------------------------------------------
 MD MD3 US50/301 I-97/32
@@ -645,10 +680,16 @@ MD MD201 DC/MD US50/295
 MD MD210 MD/DC I-95/495
 # MD MD222 US1/222 US1_S               # Concurrency with US 1
 MD MD295 US50/201 US40
+MD MD528 US50 MD/DE                    # Ocean Gateway - Fenwick Is (N terminus)
 MD MD702 BackRivNRd I-695
+
+# MD National Park Hwys---------------------------------------------------------
+MD BalWasPkwy US50/201 MD175           # Entire route Washington - Ft Meade
 
 #===== District of Columbia ====================================================
 # DC Interstates----------------------------------------------------------------
+DC I-66 US50_W US50_E                  # Theodore Roosevelt Mem Br
+
 DC I-95 DC/MD VA/DC
 DC I-295 MD/DC 4
 DC I-395 VA/DC US50
@@ -656,10 +697,14 @@ DC I-495 DC/MD VA/DC
 DC I-695 I-395 I-295/295
 
 # DC US Routes------------------------------------------------------------------
+DC US50 I-66_W I-66_E                  # Theodore Roosevelt Mem Br
 DC US50 I-395 DC/MD
 
 # DC District Route-------------------------------------------------------------
 DC DC295 I-295/695 DC/MD
+
+# DC National Park Hwys---------------------------------------------------------
+DC GWMemPkwy WasBlvd DC/VA
 
 #===== Virginia ================================================================
 # VA Interstates----------------------------------------------------------------
@@ -671,27 +716,37 @@ VA I-664 1 15
 VA I-95 NC/VA VA/DC
 VA I-295 1 53
 VA I-395 1 VA/DC
-VA I-495 170(95) VA/DC
+VA I-495 52 VA/DC                      # Annandale - Woodrow Wilson Mem Br (S terminus)
 
 # VA US Routes------------------------------------------------------------------
+VA US301 RivRd WagRd                   # Petersburg, Rives Rd - Wagner Rd
 VA US301 VA207 VA/MD
 
-VA US13 VA/MD US60
+VA US13 US58/58Bus_W VA/MD             # Suffolk - New Church (N terminus)
+
+VA US58 I-95 I-664                     # Emporia - Hampton Roads
 
 VA US60 VA225 HarPoiRd
 VA US60 US360/60Trk_W VA147_E
+VA US460BusPet I-95(52) US301_N        # Whyte St, I-95 - Crater Rd
+VA US460BusPet I-95(50) VA109          # County Dr, I-95 - Hickory Rd
 
 # VA State Routes---------------------------------------------------------------
+VA VA36 I-95 I-295                     # Petersburg, Whyte/Washington Sts & Oaklawn Blvd
 VA VA76 SR754 VA146                    # Brandermill (near W terminus) - Richmond (near E terminus)
+VA VA109 US460Bus FortGA               # Entire route Petersburg, Hickory Hill Rd, County Dr - Ft Gregg-Adams
 VA VA146 VA76 I-195
 VA VA195 I-195 US60
+
+# VA National Park Hwys---------------------------------------------------------
+VA GWMemPkwy I-66 SpoRunPkwy
 
 #===== North Carolina ==========================================================
 # NC Interstates----------------------------------------------------------------
 NC I-40 418 328
 NC I-140 14 20
 
-NC I-95 1 NC/VA
+NC I-95 SC/NC NC/VA                    # Entire route
 
 # NC US Routes------------------------------------------------------------------
 NC US301 I-95(1) SC/NC
@@ -701,17 +756,69 @@ NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
 
 NC US421 US17/74_W I-140
 
+NC US64 463 466                        # Rocky Mt, around I-95
+
 NC US74 US17_S US17/421_N
 
 NC US76 US17_S US17/74_N
 
 #===== South Carolina ==========================================================
+# SC Interstates----------------------------------------------------------------
+SC I-20BSFlo I-20 RadDr                # to Radio Dr
+
+SC I-95 GA/SC SC/NC                    # Entire route Savannah - Dillon
+
 # SC US Routes------------------------------------------------------------------
 SC US301 SC/NC US501_S
 SC US501 SC/NC US17Bus
 
 SC US17 SC707_Myr SC/NC
 SC US17BusMyr GleBayRd US17_N
+
+# SC US76 I-95(157) SC51               # only to S Ebenezer Rd
+
+#===== Georgia =================================================================
+# GA Interstates----------------------------------------------------------------
+GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
+
+#===== Florida =================================================================
+# FL Interstates----------------------------------------------------------------
+FL I-4 I-275 132                       # Entire route Tampa - Daytona Beach
+
+FL I-275 28 45B                        # Pinellas Pk - I-4
+
+FL I-95 191 205                        # Suntree (to Satellite Beach) - Cape Canaveral
+FL I-95 260 FL/GA                      # Daytona Beach - St Marys River (N terminus)
+
+# FL US Routes------------------------------------------------------------------
+FL US17 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
+FL US17 FL426 FL423                    # Winter Park, Orlando Ave, Fairbanks Ave - Lee Rd
+
+FL US19AltStP FL666 FL60_W             # Seminole - Clearwater
+
+FL US441 I-4(80) FL438                 # Orlando, I-4 - Princeton St
+
+FL US92 I-4(80) US441_N                # Orlando, I-4 - Colonial Dr
+FL US92 FL426 FL423                    # Winter Park, Orlando Ave, Fairbanks Ave - Lee Rd
+FL US192 CR545_S CelAve                # Kissimee, Irlon Bronson Mem Pkwy, Intl Dr
+
+# FL State Routes---------------------------------------------------------------
+# FL FLA1AVer FL518 FL404              # only btwn Shearwater Pkwy (Hightower Beach) - Pineda Causeway
+FL FL60 IslWay I-275                   # Clearwater Island - Tampa
+
+FL FL404 WicRd FLA1A                   # Entire route Pineda Causeway, Suntree - Satellite Beach
+FL FL423 I-4 US17/92                   # Winter Park, Lee Rd, I-4 - Orlando Ave
+FL FL426 I-4 US17/92                   # Winter Park, Fairbanks Ave, I-4 - Orlando Ave
+FL FL438 US441 RioGraAve               # Orlando, Princeton St, N Orange Blossom Tr - Rio Grande Ave
+FL FL482 CR423 FL528                   # Orlando, Sand Lk Rd, John Young Pkwy - Beachline Expy
+
+FL FL528 I-4 42                        # Beachline Expy, Orlando (W terminus) - Cocoa
+FL FL535 PoiBlvd I-4                   # Kissimee Vineland Rd, Poinciana Rd - I-4 (N terminus)
+FL FL536 I-4 FL535                     # Entire route Kissimee, World Ctr Dr
+
+FL FL666 FL699 US19Alt                 # Entire route Tom Stuart Causeway, Madeira Beach - Seminole
+FL FL694 FL693 I-275                   # Park Blvd, Pinellas Pk
+FL FL699 FL666 171stAve                # Gulf Blvd, Reddington Beach - Madeira Beach
 
 #===== Michigan ================================================================
 # MI Interstates
