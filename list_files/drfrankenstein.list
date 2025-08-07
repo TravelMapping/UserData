@@ -270,11 +270,14 @@ NS NS6 NS104 NS2_N                     # Amherst (W terminus)
 
 #===== Prince Edward Island ====================================================
 # PEI Trans-Canada Highway------------------------------------------------------
-PE TCHPEI NB/PE PE10_W                 # Borden-Carleton, Confederation Br (W terminus) - Carleton
+PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W terminus) - Eldon
 
 # PEI Highways------------------------------------------------------------------
-PE PE1 NB/PE PE10_W                    # Borden-Carleton, Confederation Br (W terminus) - Carleton
+PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
 PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
+PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
+
+PE PE209 End PE1                       # Entire route Pt Prim - Eldon
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
