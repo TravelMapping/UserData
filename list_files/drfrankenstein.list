@@ -953,9 +953,11 @@ UT I-80 115 123                        # Salt Lake City, I-15 concurrency - SLC 
 UT US89 UT269 UT270                    # Salt Lake City, State St & 400 S, 600 S - W Temple
 UT US89 UT241 UT114_N                  # Lindon
 UT US189 I-15 800N                     # Provo, University Ave, Lakeview Pkwy (S terminus) - 800 N
+UT US189 UT52 UT92                     # Orem - So Fork Pk
 
 # UT State Routes---------------------------------------------------------------
-UT UT52 UT114/176 I-15                 # Orem, Canyon Pkwy, toward Vineyard
+UT UT48 UT68_N I-15                    # Midvale
+UT UT52 UT114/176 US189                # Entire route Orem, Canyon Pkwy
 UT UT114 US89_S I-15                   # Provo, Center St, N 500 W - I-15
 UT UT114 820N CenSt_Ore                # Orem - Vineyard
 UT UT176 UT52/114 MainSt               # Vineyard Connector, Geneva Rd - Main St
