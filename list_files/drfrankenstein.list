@@ -229,15 +229,18 @@ ON RR174 ON417 RR57
 #===== New Brunswick ===========================================================
 # NB Trans-Canada Highway-------------------------------------------------------
 NB TCHMai QC/NB 258                    # St-Jacques (W terminus) - Kingsclear (NB 3)
-NB TCHMai 423 506                      # Petitcodiac (NB 1) - Sackville
+NB TCHMai 423 NB/NS                    # Petitcodiac (NB 1) - Aulac (E terminus)
+NB TCHPEI 25 NB/PE                     # Port Elgin - Confederation Br (E terminus)
 
 # NB Primary Highways-----------------------------------------------------------
 NB NB1 39 137                          # Bocabec (NB 127 to St Andrews) - Rothesay (NB 111)
 NB NB1 198 NB2                         # Sussex - Petitcodiac (E terminus)
 NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (NB 3)
-NB NB2 423 506                         # Petitcodiac (NB 1) - Sackville
+NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
+NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
+NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
 
 # NB Secondary Highways---------------------------------------------------------
 NB NB95 ME/NB NB2
@@ -246,12 +249,32 @@ NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
 NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy Coastal Route)
 NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
+NB NB114 RocRd NB15                    # Hopewell Rocks - Moncton (E terminus)
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
 NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
 
 # NB Tertiary Highways----------------------------------------------------------
 NB NB825 NB111_W NB111_E               # Entire route thru Simonds Parish
+
+#===== Nova Scotia =============================================================
+# NS Trans-Canada Highway-------------------------------------------------------
+NS TCHMai NB/NS NS104(3)               # Ft Lawrence (W terminus) - W Amherst
+
+# NS Arterial Highways----------------------------------------------------------
+NS NS104 NB/NS 3                       # Ft Lawrence (W terminus) - W Amherst
+
+# NS Trunk Highways-------------------------------------------------------------
+NS NS2 NS6_W NS104(1)                  # Amherst (N terminus)
+NS NS6 NS104 NS2_N                     # Amherst (W terminus)
+
+#===== Prince Edward Island ====================================================
+# PEI Trans-Canada Highway------------------------------------------------------
+PE TCHPEI NB/PE PE10_W                 # Borden-Carleton, Confederation Br (W terminus) - Carleton
+
+# PEI Highways------------------------------------------------------------------
+PE PE1 NB/PE PE10_W                    # Borden-Carleton, Confederation Br (W terminus) - Carleton
+PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
