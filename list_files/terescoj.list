@@ -2799,6 +2799,7 @@ NC LinFalRd BlueRidPkwy VisCen
 #ND ND297 I-29 N3rdSt does not exist?
 #ND ND810 I-194 7thSt Unnumbered part of Bismarck Expy
 ND ND1804 BisExpy I-94
+ND ND1806 I-94 I-94BL_E
 ND BisExpy I-94BL WasSt
 ND EastRivRd ParkRd SceLpDr
 ND LCTrlSBi I-94BL ND1804
