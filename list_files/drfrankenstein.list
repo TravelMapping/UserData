@@ -109,6 +109,7 @@ QC QC203 USA/CAN QC138                 # Entire route Havelock - Howick
 QC QC205 QC219 QC132                   # Entire route Hemmingford - Beauharnois
 QC QC207 QC205 QC132/138               # Entire route St-Urbain-Premier - Kahnawá:ke
 QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Constant
+QC QC211 RteStPat A-20                 # St-Liboire - St-Simon (N terminus)
 QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
@@ -375,7 +376,7 @@ NY LakeOntPkwy LakeAve NY18
 # NY State Routes---------------------------------------------------------------
 NY NY2 NY22 NY/MA
 NY NY3 US11 I-81
-NY NY3 I-87 US9                        # Plattsburgh (E terminus)
+NY NY3 NY190 US9                       # Plattsburgh (E terminus), Cornelia St, shopping district
 NY NY7 I-87(6) NY/VT
 NY NY7 AlbShaRd UniSt
 NY NY9A HenHudPkwy(23) I-478
