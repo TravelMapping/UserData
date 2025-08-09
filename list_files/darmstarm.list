@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-7-25.
+#last updated 8-8-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -40,10 +40,11 @@ PA I-81 70 67 #niagara trip
 PA I-83 41A 51 #niagara trip, raleigh-> hershey
 PA I-86 PA/NY 1 #niagara trip (rnrhf)
 PA I-90 37 OH/PA #niagara trip (rnrhf)
-PA I-95 DE/PA 26 #incomplete
+PA I-95 DE/PA PA/NJ #various trips
 PA I-283 1 3
+PA I-295 PA/NJ I-95/276 #college of new jersey
 PA I-176 2 10
-PA I-476 56 5 #various trips
+PA I-476 74 5 #various trips
 PA US1 MD/PA PA352
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
@@ -53,11 +54,13 @@ PA US22 PA33 I-476 #tobyhana trip
 PA US30 PA41 US15 #gap to gettysburg
 PA US62 US6Bus_E PA/NY
 PA US202 US1/322 I-76 #tmg, valley forge
+PA US209 I-476 PA309 #relatives trip
 PA US219 PA153 PA948_N
 PA US222 US422/12 PA61 #only part i know for sure
 PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) US422 #hershey -> raleigh
+PA US322 I-95(4) PA/NJ #relatives, old house
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 US222Bus #reading part
 PA PA8 I-90 WagRd #rnrhf
@@ -101,7 +104,7 @@ PA PA948 PA120 PA666
 PA PA957 PA69_N US62
 PA PA970 US322 I-80
 #maryland
-MD I-68 14 82
+MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
 MD I-83 16 12 #to 695, alternate way
@@ -172,12 +175,11 @@ NC I-40 US117_S 189 #up to winston salem
 NC I-74 VA/NC 17 #tenessee trip
 NC I-77 NC/VA 101 #tenessee trip
 NC I-85 NC/VA SC/NC
-NC I-95 NC/VA 138 #TWO SEGMENTS FOR NC I95
-NC I-95 SC/NC 81
+NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-440 1 12
 NC I-485 30 32
 NC I-885 5 9
-NC US1 US401_N I-440(11)
+NC US1 99 US401_N #update 8-8-25
 NC US15 NC/VA I-85(202)
 NC US29 I-485(32) MalCreRd
 NC US52 140 117 #tenessee trip
@@ -200,7 +202,7 @@ NC NC885 1 5
 SC I-20 141 GA/SC
 SC I-85 51B SC/NC
 SC I-85 GA/SC 42
-SC I-95 SC/NC 160
+SC I-95 SC/NC GA/SC #flagler beach trip
 SC I-385 36 42 #florida trip
 SC US29 US123 I-85(42)  #florida trip
 SC US123 NorSt US29 #florida trip
@@ -211,6 +213,7 @@ GA I-75 251 238 #dwarf house trip
 GA I-85 GA/SC 102 #three parts
 GA I-85 95 78 #dwarf house trip
 GA I-85 21 68
+GA I-95 GA/SC FL/GA #flagler beach trip
 GA I-185 10 I-85
 GA I-285 31 33 #to dwarf house
 GA I-285 GA279 62A #from drawrf house
@@ -289,19 +292,26 @@ NJ GarStaPkwy 129 172 #college new york trip 2024
 NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
 NJ I-95 PA/NJ 16E #medieval times trip
 NJ I-95 74 NJ/NY #george washington bridge
+NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
-NJ I-295 DE/NJ 34 #incomplete
+NJ I-295 DE/NJ 34 #various trips
+NJ I-295 72 NJ/PA #college of new jersey
 NJ US9 CR623 Gar(25) #ocean city trip 2025
 NJ US40 DE/NJ NJ55
+NJ US130 US322 I-295(23) #relatives trip
+NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
 NJ NJ3 I-95 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
+NJ NJ18 6 7 #infoage
+NJ NJ31 I-295 EwiRd #college of new jersey
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
 NJ NJ70 I-295 CR541
+NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
 #virginia
@@ -337,7 +347,9 @@ VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
 VA VA151 VA6_E US250 #raleigh -> hershey
 VA VA207 US301 I-95
 #west virginia
+WV I-68 WV/MD 7 #WVU tour
 WV I-81 VA/WV WV/MD #college to hershey park
+WV US119 CR857_N ColAve #WVU tour
 WV US340 WV/VA SheSt #shanendoah trip
 #alabama
 AL US80 AL/GA US280/431_S
