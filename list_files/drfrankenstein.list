@@ -60,7 +60,7 @@ QC TCHKir 162 1                        # La Macaza - Montréal (S terminus)
 QC QC104 QC134 QC243                   # Entire route La Prairie - Lac-Brome
 QC QC105 A-5(5) QC301                  # Hull (S terminus) - Kazabazua
 QC QC108 QC112 QC173                   # Entire route Magog - Beauceville
-QC QC112 QC138 QC-275                  # Entire route Montréal - Frampton
+QC QC112 QC138 QC275                   # Entire route Montréal - Frampton
 QC QC116 1 QC132                       # Entire route Longueuil - Lévis
 QC QC117 A-15/40 162                   # Montréal (S terminus) - La Macaza
 QC QC122 QC132 QC143_S                 # Yamaska (W terminus) - Drummondville
@@ -89,8 +89,7 @@ QC QC147 QC206 QC141_N                 # Coaticook (R-141 concurrency)
 QC QC148 ON/QC A-13/440                # Entire route Pembroke - Mirabel
 QC QC153 25eRue RteDef                 # Grand-Mère
 QC QC155 A-55 RteDef                   # Grand-Mère (S terminus) across St Maurice River
-QC QC158 QC148_W QC335/337_N           # Lachute (W terminus) - St-Lin-Laurentides
-QC QC158 A-25_S A-31/131               # St-Esprit - Joliette
+QC QC158 QC148_W A-40                  # Lachute (W terminus) - Berthierville
 QC QC161 QC263_S A-20                  # Lac-Mégantic - Ste-Eulalie (N terminus)
 QC QC165 QC116_E QC263_S               # Princeville - Plessisville (R-116 concurrency)
 QC QC170 A-70_E QC138                  # Saguenay (end A-70) - St-Siméon (E terminus)
@@ -110,6 +109,7 @@ QC QC203 USA/CAN QC138                 # Entire route Havelock - Howick
 QC QC205 QC219 QC132                   # Entire route Hemmingford - Beauharnois
 QC QC207 QC205 QC132/138               # Entire route St-Urbain-Premier - Kahnawá:ke
 QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Constant
+QC QC211 RteStPat A-20                 # St-Liboire - St-Simon (N terminus)
 QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
@@ -128,10 +128,12 @@ QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
 QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - Stanbridge East
 QC QC243 USA/CAN A-10                  # N Troy / Mansonville (S terminus) - Shefford
+QC QC245 RteNicAus QC112               # Bolton-Est - Eastman (N terminus)
 QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
 QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
+QC QC289 NB/QC A-20                    # Témiscouata (S terminus) - St-Alexandre-de-Kamouraska (near N terminus)
 
 # QC Routes régionales (nord)---------------------------------------------------
 QC QC301 ON/QC QC105                   # Entire route Portage-du-Fort - Kazabazua
@@ -160,6 +162,7 @@ QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
 QC QC364 RuePri_N A-15                 # Huberdeau - St-Sauveur (E terminus)
 QC QC366 A-50 QC148                    # Templeton (S terminus)
 QC QC370 QC117 ChMas                   # Entire route Ste-Adèle - Ste-Marguerite-du-Lac-Masson/Estérel
+QC QC371 A-573 BoulVal_N               # Val-St-Michel (S terminus) - Village Vacances Valcartier
 
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
@@ -205,6 +208,7 @@ ON ON10 ValBlvd RR9
 ON ON15 ON7 ON401
 ON ON16 OPIntBrg ON416
 ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
+ON ON20 ON58 RR70                      # Entire length Thorold, Lundy's Lane
 # ON ON27 ON427 EglAve                 # [Downloaded]
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
@@ -220,20 +224,78 @@ ON ON115 ON401 ON7_E
 ON ON132 ON41 ON60                     # Entire route Balaclava - Renfrew
 ON ON137 USA/ON ON401
 ON ON138 ON401 ON417
-ON ON140 ON58A RR27
+ON ON140 ON3 RR27                      # Entire length Port Colborne - Welland
 ON ON148 ON/QC ON41
 
 # ON Regional Roads-------------------------------------------------------------
 ON RR174 ON417 RR57
 
 #===== New Brunswick ===========================================================
+# NB Trans-Canada Highway-------------------------------------------------------
+NB TCHMai QC/NB 258                    # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB TCHMai 423 NB/NS                    # Petitcodiac (NB 1) - Aulac (E terminus)
+NB TCHPEI 25 NB/PE                     # Port Elgin - Confederation Br (E terminus)
+
 # NB Primary Highways-----------------------------------------------------------
-NB NB2 187 QC/NB
+NB NB1 39 137                          # Bocabec (NB 127 to St Andrews) - Rothesay (NB 111)
+NB NB1 198 NB2                         # Sussex - Petitcodiac (E terminus)
+NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
+NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
+NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
+NB NB8 170 179                         # Newcastle - Miramichi
+NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Campellton
+NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
+NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
+NB NB17 NB2 NB11                       # St-Léonard (near W terminus) - Campbellton (E terminus)
 
 # NB Secondary Highways---------------------------------------------------------
 NB NB95 ME/NB NB2
+NB NB100 ManRd CroSt                   # St John, Manawagonish Rd - Crown St
+NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
+NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy Coastal Route)
+NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
+NB NB113 NB11 MisIslLig                # Entire route Pokemouche - Miscou
+NB NB114 RocRd NB15                    # Hopewell Rocks - Moncton (E terminus)
+NB NB120 QC/NB NB2                     # Entire route Lac-Baker - Edmundston
+NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
+NB NB133 NB134 NB140                   # Main St thru Shediac
+NB NB134Mon NB133 NB475                # Shediac - Bouctouche
+NB NB134Mon ChGra NB11(53)             # Ste-Anne-de-Kent - Rexton
+NB NB134 VanBlvd NB11                  # Bathurst - Campbellton (N terminus)
+NB NB140 NB15 NB133                    # Entire length E Shediac, Ch Ohio
+NB NB177 ColNaseBlvd NB102             # Thru Gd Bay-Westfield
+
+# NB Tertiary Highways----------------------------------------------------------
+NB NB475 NB134 NB505                   # Entire route Bouctouche - Ste-Anne-de-Kent
+
+NB NB505 NB134_S NB475                 # Ste-Anne-de-Kent (S terminus) - toward Bouctouche
+
+NB NB825 NB111_W NB111_E               # Entire route thru Simonds Parish
+
+#===== Nova Scotia =============================================================
+# NS Trans-Canada Highway-------------------------------------------------------
+NS TCHMai NB/NS NS104(3)               # Ft Lawrence (W terminus) - W Amherst
+
+# NS Arterial Highways----------------------------------------------------------
+NS NS104 NB/NS 3                       # Ft Lawrence (W terminus) - W Amherst
+
+# NS Trunk Highways-------------------------------------------------------------
+NS NS2 NS6_W NS104(1)                  # Amherst (N terminus)
+NS NS6 NS104 NS2_N                     # Amherst (W terminus)
+
+#===== Prince Edward Island ====================================================
+# PEI Trans-Canada Highway------------------------------------------------------
+PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W terminus) - Eldon
+
+# PEI Highways------------------------------------------------------------------
+PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
+PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
+PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
+
+PE PE209 End PE1                       # Entire route Pt Prim - Eldon
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
@@ -314,7 +376,7 @@ NY LakeOntPkwy LakeAve NY18
 # NY State Routes---------------------------------------------------------------
 NY NY2 NY22 NY/MA
 NY NY3 US11 I-81
-NY NY3 I-87 US9                        # Plattsburgh (E terminus)
+NY NY3 NY190 US9                       # Plattsburgh (E terminus), Cornelia St, shopping district
 NY NY7 I-87(6) NY/VT
 NY NY7 AlbShaRd UniSt
 NY NY9A HenHudPkwy(23) I-478
@@ -515,6 +577,7 @@ VT VT8 MA/VT VT100_N
 VT VT9 NY/VT VT279
 VT VT10A US5 NH/VT
 VT VT15 US2_W VT2A/117
+VT VT15 VT104 VT100Alt                 # Cambridge - Morrisville
 VT VT15 VT104 VT108
 VT VT17 NY/VT VT125
 VT VT22A US4 US7
@@ -880,3 +943,25 @@ IL I-294 12 31B                        # Alsip (IL 50) - Hillside (I-290)
 
 # IL State Routes---------------------------------------------------------------
 IL IL110 I-290(15A) I-290(30)
+
+#===== Utah ====================================================================
+# UT Interstates
+UT I-15 265 308                        # Provo - Salt Lake City
+UT I-215 1 12                          # SE quadrant (Holladay)
+
+UT I-80 115 123                        # Salt Lake City, I-15 concurrency - SLC Airport
+
+# UT US Routes------------------------------------------------------------------
+UT US89 UT269 UT270                    # Salt Lake City, State St & 400 S, 600 S - W Temple
+UT US89 UT241 UT114_N                  # Lindon
+UT US189 I-15 800N                     # Provo, University Ave, Lakeview Pkwy (S terminus) - 800 N
+UT US189 UT52 UT92                     # Orem - So Fork Pk
+
+# UT State Routes---------------------------------------------------------------
+UT UT48 UT68_N I-15                    # Midvale
+UT UT52 UT114/176 US189                # Entire route Orem, Canyon Pkwy
+UT UT114 US89_S I-15                   # Provo, Center St, N 500 W - I-15
+UT UT114 820N CenSt_Ore                # Orem - Vineyard
+UT UT176 UT52/114 MainSt               # Vineyard Connector, Geneva Rd - Main St
+UT UT186 300N/StaSt I-80               # Salt Lake City, Capitol Hill - Belt Route (E terminus)
+UT UT269 I-15/80 US89                  # Entire route Salt Lake City, 500/600 S to State St
