@@ -1,4 +1,4 @@
-# Date: 2025-08-02
+# Date: 2025-08-09
 # ----------------
 
 ######################
@@ -382,6 +382,9 @@ DEU-BY S4 Gra EbeBerg                          #2025, actually traveled as RB48
 #DEU-BY RB54 Grafing Bf            München-Ost #2025
 
 CHE S1Gal SteRhe Rom                           #2025
+CHE S2Gal Ror StMar                            #2025, actually traveled as IR2212 something
+CHE S3Vor StMar CHE/AUT                        #2025
+AUT S3Vor CHE/AUT Bre                          #2025
 
 
 ######################
