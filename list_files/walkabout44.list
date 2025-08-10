@@ -1,6 +1,8 @@
-# 06/10/2025
-# v69
-# Delete NC I-73FutRoc     Removed from Travel Mapping
+# 08/04/2025
+# v70 (corrected)
+# Add AZ AZ266SprFtG AZ266 FtGra         Traveled in 2022
+# Add AZ US60HisMes May SosRd            Traveled in 1958, also US 70-80-89
+# Add AZ US80HisPan I-10(281) I-10(291)  Traveled in 1958
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -110,6 +112,7 @@ AZ AZ260 AZ89A US180/191
 AZ AZ261 AZ260 AZ273
 AZ AZ264 US160 AZ/NM
 AZ AZ266 FortGraRd_S US191
+AZ AZ266SprFtG AZ266 FtGra
 AZ AZ273 BigLakeRd AZ260
 AZ AZ277 AZ260 AZ77
 AZ AZ277S AZ277 End
@@ -137,6 +140,7 @@ AZ PetForRd US180 I-40              # Petrified Forest NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 
 # Arizona US Historic Highways
+AZ US60HisMes May SosRd
 AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
@@ -147,6 +151,7 @@ AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60 AZ77_S
+AZ US80HisPan I-10(281) I-10(291)
 AZ US80HisWel 21 54
 AZ US89AHisCla AZ89A_S AZ89A_N
 

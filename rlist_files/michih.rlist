@@ -1,4 +1,4 @@
-# Date: 2025-06-29
+# Date: 2025-08-09
 # ----------------
 
 ######################
@@ -380,6 +380,11 @@ DEU-NI RS30 BadZwiAhn Hude                     #2025
 #DEU-BY RB48 Wasserburg            Grafing Bf  #2025
 DEU-BY S4 Gra EbeBerg                          #2025, actually traveled as RB48
 #DEU-BY RB54 Grafing Bf            München-Ost #2025
+
+CHE S1Gal SteRhe Rom                           #2025
+CHE S2Gal Ror StMar                            #2025, actually traveled as IR2212 something
+CHE S3Vor StMar CHE/AUT                        #2025
+AUT S3Vor CHE/AUT Bre                          #2025
 
 
 ######################
@@ -929,11 +934,21 @@ FRA-ARA MB ChaChaHer GenLavHop        #2024
 FRA-ARA MC HotVilLouPra Cui           #2024
 FRA-ARA MD GareVen GareVai            #2024
 
+FRA-ARA T1 Deb ThiLaf                 #2025
+FRA-ARA T2 Per StPriBelAir            #2025
 FRA-ARA T3 GarePartDieuVil VauVelSoie #2024
 FRA-ARA T4 ChaChaHer GareVen          #2024
+FRA-ARA T5 GraBla Eur                 #2025
+FRA-ARA T6 Deb HopEstPin              #2025
 
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
+
+FRA-CVL TramA JulVer Zen              #2025
+FRA-CVL TramB ClosHam GeoPom          #2025
+
+FRA-GES TramARei Neu HopDeb           #2025
+FRA-GES TramBRei Neu ChaTGV           #2025
 
 FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019

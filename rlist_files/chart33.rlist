@@ -1,3 +1,18 @@
+CHE 17Gen Pla BelAir
+CHE IC1 GenAer GenCor
+CHE ParGen FRA/CHE GenCor
+
+FRA-ARA ParGen BFC/ARA FRA/CHE
+FRA-BFC ParGen IDF/BFC BFC/ARA
+FRA-IDF B GareNord AerCDG2TGV
+FRA-IDF M1 CdGEto HotVil
+FRA-IDF M7 Cha Cad
+FRA-IDF M8 EcoMil LedRol
+FRA-IDF M9 AlmaMar RicDro
+FRA-IDF M12 NotDameCha Pig
+FRA-IDF M14 GareLyon Pyr
+FRA-IDF ParGen ParGareLyon IDF/BFC
+
 GRC 2Ath Omo Acr
 GRC 3Ath Syn MedMou
 
@@ -43,8 +58,10 @@ MD RedLnGle DC/MD Gle
 MA BluLn Air GovCen
 MA DE BosNor MA/NH
 MA GreLnD Riv Lec
+MA GreLnE Hay Riv
 MA NENew RI/MA BosSou
 MA NESpr Spr CT/MA
+MA OraLn Hay StoBro
 NJ NESpr NJ/NY PA/NJ
 NY A 34StPennSta JayStMetTech
 NY C FulSt JayStMetTech
