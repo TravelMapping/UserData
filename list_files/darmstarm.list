@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-8-25.
+#last updated 8-10-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -115,9 +115,9 @@ MD I-270SprAsh 2 I-495 #hershey -> raleigh
 MD I-295 MD/DC I-95/495
 MD I-495 27 34 #to bethesda
 MD I-495 38 MD/VA #hershey -> raleigh
-MD I-695 44 27 #95 to 146
-MD I-695 12B 24 #i-83 to UMBC
-MD I-695 4 0 #i97 to i95
+MD I-695 BroHwy 4 #i95 to i97
+MD I-695 12B 44 #various trips
+MD I-795 1 9 #cunningham falls trip
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
 MD US13 VA/MD US13BusSal_S #two parts
@@ -134,6 +134,7 @@ MD MD3 US50/301 I-97/32
 MD MD7Elk SouSt US40
 MD MD41 I-695 JopRd
 MD MD45 WarRd TimRd
+MD MD140 I-795 US15 #cunningham falls trip
 MD MD146 I-695 BleRd #towson
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
@@ -239,30 +240,37 @@ GA GA300 US19/82Bus I-75
 GA GA520BusAlb GA91 US19
 GA GA540 GA15 US221_N
 #florida
-FL US90 FL77 FL277
-FL US98 FL79 WisLn
-FL US231 FL/AL FL273
-FL FL2 FL/GA US231
+FL I-95 FL/GA 362 #flagler beach trip
+FL I-95 333 298 #flagler beach trip
+FL I-295 35 58 #flagler beach trip
+FL US1 I-95(298) PalmCoaPkwy #flagler beach trip
+FL US90 FL77 FL277 #panama city trip 2025
+FL US98 FL79 WisLn #panama city trip 2025
+FL US231 FL/AL FL273 #panama city trip 2025
+FL FL2 FL/GA US231 #panama city trip 2025
+FL FL9BJac I-295 4 #flagler beach trip
 FL FL30 DelPl FL79 #we never took 79 directly into 30, always us98
-FL FL77 US90 FL273
-FL FL79 FL277 US98
-FL FL273 FL77 US231
-FL FL277 US90 FL79
+FL FL77 US90 FL273 #panama city trip 2025
+FL FL79 FL277 US98 #panama city trip 2025
+FL FL273 FL77 US231 #panama city trip 2025
+FL FL277 US90 FL79 #panama city trip 2025
 #new mexico
 NM I-25 419 222
 NM NM58 US64 I-25 #interstate to cimmaron
 #ohio
-OH I-77 156 I-90
-OH I-90 OH/PA 174B # or 188?
-OH I-271 I-90 27B
-OH I-480 26 20
-OH I-480War I-271 I-480
-OH OH2 207 195A
+OH I-77 156 I-90 #niagara trip (rnrhf)
+OH I-90 OH/PA 174B # or 188? niagara trip (rnrhf)
+OH I-271 I-90 27B #niagara trip (rnrhf)
+OH I-480 26 20 #niagara trip (rnrhf)
+OH I-480War I-271 I-480 #niagara trip (rnrhf)
+OH OH2 207 195A #niagara trip (rnrhf)
 #tenessee
 TN I-40 421 386
 TN I-81 1 TN/VA
 TN US129 I-40 CheTrl
 #michigan
+MI I-94 198 204B #oak park wedding, mid 2010s
+MI MI39 1 16 #oak park wedding, mid 2010s
 #new york
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
 NY PalIntPkwy NJ/NY 6 #college new york trip 2024
