@@ -21,6 +21,10 @@ CA BARTBlue DalyCity WestOak
 CA BARTRed SanFraAir DtnBer
 CA BARTYel SanFraAir Roc
 CA CalTra SanCla PaloAlto
+CA MuniF Pier39Sto 17thCas
+CA MuniM ForHill Emb
+CA MuniN Cole Emb
+CO DENTrn JepTer CGat
 CO LeaRai Lea FrePass
 CA SW UniSta CA/AZ
 CO SW NM/CO CO/KS
@@ -35,6 +39,7 @@ DE NENew MD/DE DE/PA
 DC OraLn VA/DC FedCenSW
 DC RedLn MetCen UniSta
 FL ExpMon TraTicCen_1 TraTicCen_2
+FL GateLink TerA Air2
 FL SunRail LynxCenSta WinPark
 GA GreLn CNNCen InnParkRey
 GA RedLn Air FivePoi
@@ -49,6 +54,10 @@ IL SW IA/IL UniSta
 IN LSNew IL/IN IN/OH
 KOR ICNShuTra Ter1 Ter2
 KS SW CO/KS KS/MO
+LA CanCem Bou Sco
+LA CanCityPark Bou Sco
+LA StCha CanCar 6thSt
+LA UPTRiv Car Dum
 MA BluLn GovCen Aqu
 MA GreLnC Cop GovCen
 MA GreLnE MusFineArts Hay
@@ -106,6 +115,7 @@ PA StrRR Str LeaPl
 QC GreLn Peel BerUQAM
 RI NENew CT/RI RI/MA
 TX GreLnHou TheDis ConDis
+TX PurLnHou TheDis ConDis
 TX RedLn 8thCor CityPlaUpt
 TX RedLnHou FanS MooPk
 TX SL NM/TX Hou
