@@ -40,8 +40,11 @@ DC OraLn VA/DC FedCenSW
 DC RedLn MetCen UniSta
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL GateLink TerA Air2
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
 FL SunRail LynxCenSta WinPark
 GA GreLn CNNCen InnParkRey
+GA PlaTrn DomTer FGatIntTer
 GA RedLn Air FivePoi
 IA SW MO/IA IA/IL
 IL BlueLn OHa Rac
@@ -66,6 +69,7 @@ MA RedLn Har Ash
 MA RedLnM Ash Mat
 MD NENew DC/MD MD/DE
 MA OraLn DowXing Hay
+MN MSPTram ConDE ConC
 MO SW KS/MO MO/IA
 NJ NECorLn NY/NJ NewPenn
 NJ NENew PA/NJ NJ/NY
@@ -74,6 +78,7 @@ NJ PATHNWT NewPenn JouSq
 NJ PATHJ33 JouSq NJ/NY
 NM SL AZ/NM NM/TX
 NM SW AZ/NM NM/CO
+NV BlueLn Ter1 DGat
 NY 1 VanCorPk SouFry
 NY 2 GunHillRd WallSt
 NY 3 135St WallSt
@@ -115,10 +120,12 @@ PA StrRR Str LeaPl
 QC GreLn Peel BerUQAM
 RI NENew CT/RI RI/MA
 TX GreLnHou TheDis ConDis
+TX IAHSky TerA TerDE
 TX PurLnHou TheDis ConDis
 TX RedLn 8thCor CityPlaUpt
 TX RedLnHou FanS MooPk
 TX SL NM/TX Hou
+VA AerTrn ConB ConCD
 VA BluLn RRWasNatAir VA/DC
 VA OraLn DunnLorMer VA/DC
 WA AC SeaKingSt USA/CAN
