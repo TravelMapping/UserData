@@ -173,12 +173,14 @@ DC DC295 DC/MD 1A
 #north carolina
 NC RalChaExpy I-440 I-40
 NC I-40 US117_S 189 #up to winston salem
+NC I-42 1 7 #roadtrip 8-13-25
 NC I-74 VA/NC 17 #tenessee trip
 NC I-77 NC/VA 101 #tenessee trip
 NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-440 1 12
 NC I-485 30 32
+NC I-540 24 26 #roadtrip 8-13-25
 NC I-885 5 9
 NC US1 99 US401_N #update 8-8-25
 NC US15 NC/VA I-85(202)
@@ -186,17 +188,22 @@ NC US29 I-485(32) MalCreRd
 NC US52 140 117 #tenessee trip
 NC US52 107 108B #winston salem
 NC US64 464 293(40)
+NC US64BusWen NC231 I-540 #roadtrip 8-13-25
 NC US70 LomSt WhiMillRd
 NC US158 I-40 HanMallBlvd #JDL
 NC US401 BreRd I-40
 NC US421 232C I-40(212) #winston salem trip, as well as partially tenessee trip
 NC NC36 I-40 CleRd #garner wawa
+NC NC36 4(42) US70 #roadtrip 8-13-25
+NC NC42 US70 NC96 #roadtrip 8-13-25
 NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_N #crapel hill
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
 NC NC96 US64/264 US64Bus_W
+NC NC96 NC42 NC231 #roadtrip 8-13-25
+NC NC231 NC96 US64Bus #roadtrip 8-13-25
 NC NC540 64 67
 NC NC885 1 5
 #south carolina
