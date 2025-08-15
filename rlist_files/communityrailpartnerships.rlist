@@ -5,7 +5,7 @@ ENG CheCreLn Che Cre
 #Abbey Line Community Rail Partnership
 ENG AbbLn WatJct StAlbAbb
 #Barton Cleethorpes Community Rail Partnership
-ENG BarLn Clee BarHum
+ENG BarLn Cle BarHum
 #Bishop Line Community Rail Partnership
 ENG TeesVlyLn BisAuc Dar
 #Bittern Line Community Rail Partnership
@@ -92,10 +92,11 @@ ENG SevVlyLn Ash CamDur
 #Hampshire Community Rail Partnership
 ##Three Rivers
 ENG TestVlyLn Sal Rom_2
-ENG SWML Mic SouCen
+ENG BotLn Mic Win
+ENG SWML Win SouCen
 ENG NetLn Bur SouCen
 ##Reading-Basingstoke
-ENG BruLn Rea Bas
+ENG ReaBasLn Rea Bas
 ##Wey Valley
 ENG AltLn AshVale Alt
 ENG WeyVlyLn Far Gui
@@ -141,7 +142,8 @@ ENG MidCheLn ManPic Che
 ENG NewRvrLn Bro HerEast
 #North Cheshire Community Rail Partnership
 ENG WirLnEll Hoo EllPort
-ENG NorCheLn EllPort WarBankQuay
+ENG NorCheLn EllPort Hel
+ENG LlaManLn Hel WarBankQuay
 #North Nottinghamshire & Lincolnshire CRP
 ENG RomLn LinCen Don
 ENG LinLn Shi LinCen
@@ -168,7 +170,7 @@ ENG SwaRwy War Swa
 ENG RobHoodLn Not Wor
 #Severnside Community Rail Partnership
 ENG SevVlyLn CamDur BriTemMea
-ENG CorML Pil Tau
+ENG CarExeLn Pil Tau
 ENG SevBeaLn WesSupMare SevBea
 ENG HeaWesLn BriTemMea Wes
 #Settle Carlisle Development Company
@@ -183,7 +185,8 @@ ENG WinLn Ash WinEtonRiv
 ENG ReaLn Sta Rea
 ##Hounslow to Richmond Line
 ENG CheLp Bar Fel
-ENG WinLn Bar Ash
+ENG KinLp Bar Twi
+ENG WinLn Twi Ash
 ##North Downs Line
 ENG NorDowLn Rea GatAir
 ##Tonbridge to Reigate Line
