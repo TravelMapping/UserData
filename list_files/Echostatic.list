@@ -389,6 +389,9 @@ WA SteCynRd WA706 WA123
 #United States Select Tourist Routes
 MN GRR MinDr 46thAve
 
+#United States Historic Highways
+OR US30HisCol I-84(17) HisCRHwy
+
 #United States National Historic Trails
 OR OrTrlRiv I-205(22) I-84(44)
 
@@ -734,6 +737,7 @@ WI WI105 MN/WI WI35
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
 
 
 
