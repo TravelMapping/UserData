@@ -176,6 +176,8 @@ FRA-IDF FunMon Inf Sup
 #### HKG 
 ## HK TRAMWAYS
 HKG 1 WesMar ShauKeiWan
+HKG 2 PatSt_A LeiRd
+HKG 2 TinLokLn ShauKeiWan
 HKG 3 ShekTongTsui ForHill_B
 
 ## MTR
