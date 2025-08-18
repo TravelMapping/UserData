@@ -254,8 +254,8 @@ NB NB2 QC/NB 306                       # St-Jacques (W terminus) - Oromocto/Gage
 NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
 NB NB7 306(2) 97                       # Oromocto - St John (S terminus)
-NB NB8 170 179                         # Newcastle - Miramichi
-NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Campellton
+NB NB8 170 NB11                        # Newcastle - Bathurst (N terminus)
+NB NB11 NB15 NB/QC                     # Shediac (S terminus) - Campellton
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
 NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
 NB NB17 NB2 NB11                       # St-Léonard (near W terminus) - Campbellton (E terminus)
