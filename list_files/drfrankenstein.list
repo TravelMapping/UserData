@@ -246,7 +246,7 @@ ON RR174 ON417 RR57
 # NB Trans-Canada Highway-------------------------------------------------------
 NB TCHMai QC/NB 306                    # St-Jacques (W terminus) - Oromocto/Gagetown (NB 7)
 NB TCHMai 423 NB/NS                    # Petitcodiac (NB 1) - Aulac (E terminus)
-NB TCHPEI 25 NB/PE                     # Port Elgin - Confederation Br (E terminus)
+NB TCHPEI NB2 NB/PE                    # Entire route Aulac - Confederation Br (E terminus)
 
 # NB Primary Highways-----------------------------------------------------------
 NB NB1 39 NB2                          # Bocabec (NB 127 to St Andrews) - Petitcodiac (E terminus)
@@ -257,7 +257,7 @@ NB NB7 306(2) 97                       # Oromocto - St John (S terminus)
 NB NB8 170 NB11                        # Newcastle - Bathurst (N terminus)
 NB NB11 NB15 NB/QC                     # Shediac (S terminus) - Campellton
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
-NB NB16 25 NB/PE                       # Port Elgin - Confederation Br (E terminus)
+NB NB16 NB2 NB/PE                      # Entire route Aulac - Confederation Br (E terminus)
 NB NB17 NB2 NB11                       # St-Léonard (near W terminus) - Campbellton (E terminus)
 
 # NB Secondary Highways---------------------------------------------------------
@@ -308,7 +308,7 @@ PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W te
 # PEI Highways------------------------------------------------------------------
 PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
 PE PE1A PE1 PE2                        # Entire route Borden-Carleton - Travellers Rest
-PE PE2 PE12_C PE1_W                    # Miscouche - Charlottetown
+PE PE2 PE12_C PE16_E                   # Miscouche - Souris (E terminus)
 PE PE6 PE2/20 PE242_W                  # Kensington (W terminus) - Rustico
 PE PE6 PE242_E PE7/251                 # Rustico - Oyster Bed Bridge
 PE PE7 PE2 PE6                         # Entire route Milton Sta - Oyster Bed Bridge
@@ -323,6 +323,8 @@ PE PE182 PE14 PE12                     # Entire route Christopher Cross - Seacow
 PE PE209 End PE1                       # Entire route Pt Prim - Eldon
 PE PE236 BriRd PE2                     # Entire route Charlottetown - Milton Sta
 PE PE242 PE6_W PE6_E                   # Entire route Rustico, around Grand Pere Pt
+PE PE301 PE16_S PE16_N                 # Entire route Kingsboro - Lakeville
+PE PE306 PE2 PE16                      # Entire route Souris West - St Margarets
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
