@@ -144,6 +144,7 @@ QC QC325 QC338 QC342                   # Entire route Rivière-Beaudette - Rigau
 QC QC327 QC344 QC117                   # St-André-d'Argenteuil (S terminus) - Mont-Tremblant
 QC QC327 MteeRyan ChVoy                # Mont-Tremblant (resort village, N terminus)
 QC QC329 A-50 QC125                    # Entire route Lachute - St-Donat
+QC QC333 QC117 ChLacCon                # St-Jérôme (S terminus) - Ste-Sophie
 QC QC335 QC138 A-640                   # Montréal (S terminus) - Bois-des-Filion
 QC QC335 QC158/339 QC158_E             # St-Lin-Laurentides (R-158 concurrency)
 QC QC337 QC344 MteeMaj                 # Terrebonne (S terminus) - La Plaine
