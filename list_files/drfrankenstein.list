@@ -203,7 +203,7 @@ ON ECRowExpy ON3 DouAve
 
 # ON Trans-Canada Highway-------------------------------------------------------
 ON TCHOtt ON/QC RR508
-ON TCHCen ON115(45) ON417
+ON TCHCen RR18 ON417                   # Lindsay - Ottawa (E terminus)
 
 # ON King's Highway-------------------------------------------------------------
 ON ON2 1000IslPkwy ON401
@@ -212,7 +212,7 @@ ON ON3Win AmbBrg ON401(5)              # Huron Church Rd in Windsor, Ambassador 
 ON ON4 ON3 ON401(180)                  # St. Thomas - 401
 ON ON6 ON401(299) WooSt
 ON ON6 ON403(74) ON403(61)
-ON ON7 ON115(45) ON417
+ON ON7 RR18 ON417                      # Lindsay - Ottawa (E terminus)
 ON ON7Wat ON8_E RR5
 ON ON7Wat ON6_S OldON24_N
 ON ON8 KingStByp_E RR5
@@ -226,7 +226,7 @@ ON ON20 ON58 RR70                      # Entire length Thorold, Lundy's Lane
 ON ON33Pic ON62 GNPEdwFry_S            # Entire route Bloomfield - Glenora
 ON ON33 GNPEdwFry_N ColBayRd           # Entire route Adolphustown - Kingston
 ON ON34 ON417 MainSt
-ON ON35 ON401 ON115_N
+ON ON35 ON401 KentSt                   # Newcastle (S terminus) - Lindsay
 ON ON40 ON401 ON402
 ON ON41 ON7 ON132                      # Kaladar (S terminus) - Balaclava
 ON ON41 ON148 ON17
