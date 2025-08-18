@@ -244,17 +244,17 @@ ON RR174 ON417 RR57
 
 #===== New Brunswick ===========================================================
 # NB Trans-Canada Highway-------------------------------------------------------
-NB TCHMai QC/NB 258                    # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB TCHMai QC/NB 306                    # St-Jacques (W terminus) - Oromocto/Gagetown (NB 7)
 NB TCHMai 423 NB/NS                    # Petitcodiac (NB 1) - Aulac (E terminus)
 NB TCHPEI 25 NB/PE                     # Port Elgin - Confederation Br (E terminus)
 
 # NB Primary Highways-----------------------------------------------------------
 NB NB1 39 137                          # Bocabec (NB 127 to St Andrews) - Rothesay (NB 111)
 NB NB1 198 NB2                         # Sussex - Petitcodiac (E terminus)
-NB NB2 QC/NB 258                       # St-Jacques (W terminus) - Kingsclear (NB 3)
+NB NB2 QC/NB 306                       # St-Jacques (W terminus) - Oromocto/Gagetown (NB 7)
 NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
-NB NB7 80 97                           # Lingley (NB 102) - St John (S terminus)
+NB NB7 306(2) 97                       # Oromocto - St John (S terminus)
 NB NB8 170 179                         # Newcastle - Miramichi
 NB NB11 NB15 NB/QC                     # Shediac (S terminue) - Campellton
 NB NB15 NB106 NB16                     # Entire route Moncton - Port Elgin
