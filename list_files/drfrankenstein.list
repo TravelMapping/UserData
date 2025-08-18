@@ -305,14 +305,20 @@ PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W te
 PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
 PE PE1A PE1 PE2                        # Entire route Borden-Carleton - Travellers Rest
 PE PE2 PE12_C PE1_W                    # Miscouche - Charlottetown
+PE PE6 PE2/20 PE242_W                  # Kensington (W terminus) - Rustico
+PE PE6 PE242_E PE7/251                 # Rustico - Oyster Bed Bridge
+PE PE7 PE2 PE6                         # Entire route Milton Sta - Oyster Bed Bridge
 PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
 PE PE11 PE2 PE1A                       # Entire route Summerside - Mt Pleasant
 PE PE12 PE2 NorCapeTr                  # Miscouche - North Cape (N terminus)
 PE PE14 PE2_S PE182                    # Carleton (S terminus) - Christopher Cross
+PE PE20 PE262_N PE6/8                  # Campbells Pond - New London (E terminus)
 PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
 
 PE PE182 PE14 PE12                     # Entire route Christopher Cross - Seacow Pond
 PE PE209 End PE1                       # Entire route Pt Prim - Eldon
+PE PE236 BriRd PE2                     # Entire route Charlottetown - Milton Sta
+PE PE242 PE6_W PE6_E                   # Entire route Rustico, around Grand Pere Pt
 
 #==== British Columbia =========================================================
 # BC Trans-Canada Highway-------------------------------------------------------
