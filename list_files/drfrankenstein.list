@@ -587,6 +587,7 @@ VT VT100 MA/VT VT105
 VT VT101 VT100 VT105
 VT VT104 VT15 StAlbSH
 VT VT105 VT78 US5_N
+VT VT107 VT100 I-89                    # Pittsfield (W terminus) - Bethel (near E terminus)
 VT VT108 VT118 VT/QC                   # W Berkshire - Frelighsburg (N terminus)
 VT VT108 VT100 VT15
 VT VT114 VT141 VT/NH                   # Canaan (QC to NH)
