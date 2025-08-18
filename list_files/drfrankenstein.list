@@ -346,7 +346,7 @@ NY I-678 13 I-95
 NY I-81 PA/NY NY/Can
 NY I-481 I-81 9
 
-NY I-84 16 17
+NY I-84 52 NY/CT                       # E Fishkill (TSP) - Southeast (E terminus)
 NY I-684 10 CT/NY
 NY I-684Pur NY/CT I-287
 
@@ -387,9 +387,12 @@ NY US9W I-87(10) NJ/NY
 NY US11 NY189 NY3
 NY US11 EllBri USA/CAN                 # Ellenburg - Lacolle (N terminus)
 
+NY US20 AdiNor WesAve                  # Albany, Western Ave
+
 NY US44 US9W_S US9
 
 # NY Parkways-------------------------------------------------------------------
+NY CroCouPkwy 4 HutRivPkwy             # Yonkers (Central Pk Ave) - Eastchester (E terminus)
 NY FDRooDr 2 17                        # Brooklyn Br - RFK/Triboro Br & Harlem River Dr (N terminus)
 NY TacStaPkwy I-90 BroRivPkwy
 NY SprBroPkwy TacStaPkwy BroRivPkwy
@@ -431,7 +434,7 @@ NY NY56 StaRd NY68
 NY NY59 NY17 US202_W                   # Ramapo (W terminus) - Suffern
 NY NY68 NY56 RusTurRd
 NY NY82 TacStaPkwy_N US9/23            # Tagkhanic - Livingston (TSP - I-90 shunpike)
-NY NY100 SprBroPkwy_Tuc I-87
+NY NY100 SprBroPkwy_Tuc I-87           # Yonkers, Central Pk Ave (S terminus)
 NY NY104 I-81 NY390
 NY NY129 NY9A UndAve                   # Croton-on-Hudson (W terminus) - Yorktown (to TSP); Croton Gorge Park
 NY NY131 NY37_W NY37_E
@@ -676,36 +679,54 @@ NH NH25A NH10_S VT/NH
 NH NH26 US3_N NH/ME                    # Colebrook (at US 3) - Cambridge (E terminus)
 NH NH33 I-95 NH108
 NH NH101 I-93_S I-95
+NH NH102 NH128 I-93                    # Londonderry, Nashua Rd
 NH NH108 NH33 NH101
+NH NH111 SulRd NH128                   # Londonderry, Haverhill Rd
 NH NH112 US302 GooLn
 NH NH120 US4_E NH10_Han
+NH NH128 MA/NH NH102                   # Pelham (S terminus) - Londonderry
 
 # NH Named Routes---------------------------------------------------------------
 NH EveTpk 13(93) 11
 
 #===== Massachusetts ===========================================================
 # MA Interstates----------------------------------------------------------------
+MA I-84 CT/MA 6                        # Holland (S terminus) - Sturbridge
+
+MA I-290 12 32                         # Entire route Auburn - Marlborough
+
 MA I-91 MA/VT CT/MA
 
 MA I-93 MA/NH 4
 
 MA I-195 22 21
+MA I-395 9 12                          # Oxford - Auburn (N terminus)
 MA I-495 7 1
+MA I-495 65 89C                        # Marlborough (I-290) - Lowell
 
 # MA US Routes------------------------------------------------------------------
 MA US1 I-93(27) I-93(4)
 
 MA US5 MA2 MA/VT
 
+MA US20 I-84 MA56                      # Sturbridge - Oxford
+
 # MA State Routes---------------------------------------------------------------
 MA MA2 NY/MA US5/10
 MA MA3 26(93) 7(93)
 MA MA8 MA2_W MA/VT
+MA MA12 DepRd MA56                     # N Oxford, Main St
 MA MA24 I-93 14
 MA MA28 I-195 I-495(3)
+MA MA56 MA12 US20                      # N Oxford, Leicester St (S terminus)
+
+# MA Named Freeways-------------------------------------------------------------
+MA LowCon 2 GorSt                      # I-495 - Lowell (N terminus)
 
 #===== Connecticut =============================================================
 # CT Interstates----------------------------------------------------------------
+CT I-84 NY/CT 51                       # Danbury (W terminus) - Hartford (I-91)
+CT I-84 57 CT/MA                       # Hartford (CT 15) - Union (E terminus)
 CT I-684 CT/NY NY/CT
 
 CT I-91 CT/MA 1
@@ -727,8 +748,7 @@ CT US7 CT15 CT57/107                   # Norwalk - Georgetown
 # CT State Routes---------------------------------------------------------------
 CT CT10 CT40 CT15
 CT CT10 CT34_E I-95
-CT CT15 NY/CT 39                       # Greenwich (S terminus) - Norwalk (US 7)
-CT CT15 42 86                          # Westport (Weston Rd) - Hartford (I-91)
+CT CT15 NY/CT I-84                     # Entire route Greenwich - Hartford
 CT CT25 7 CT111
 CT CT27 US1 I-95                       # Mystic, Greenmanville Ave, downtown - I-95
 # CT CT34 I-95 CT10_S                  # [Downgraded] Legion/MLK Jr in New Haven
@@ -736,7 +756,9 @@ CT CT34 CT111 CT15
 CT CT40 I-91 CT10
 CT CT57 CT15 US7                       # Westport - Georgetown (N terminus)
 CT CT103 PoolRd MonAve
+CT CT104 CT137 CT15                    # Hartford, Long Ridge Rd (S terminus)
 CT CT111 CT25 CT34
+CT CT137 CT104 CT15                    # Stamford, High Ridge Rd
 CT CT215 US1_S US1_N                   # Entire route Groton - Mystic
 CT CT349 SheRd MerStExt                # Groton, Eastern Pt - Meridian St
 CT CT349 3A 3B                         # Groton, ramps to I-95
