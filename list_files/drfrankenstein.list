@@ -124,6 +124,7 @@ QC QC223 USA/CAN QC112_W               # Lacolle (S terminus) - Chambly
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
 QC QC227 QC116 A-20                    # Ste-Madeleine (N terminus)
 QC QC229 A-30 QC132                    # Varennes (N terminus)
+QC QC229 QC227_N QC116_W               # Around Mt St Hilaire
 QC QC233 A-10 QC112                    # St-Césaire
 QC QC235 USA/CAN A-20                  # Morses Line/St-Armand (S terminus) - St-Hyacinthe
 QC QC236 QC132_W QC132_E               # Entire route St-Stanislas-de-Kostka - Beauharnois
