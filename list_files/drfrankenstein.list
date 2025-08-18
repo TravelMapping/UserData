@@ -110,6 +110,8 @@ QC QC205 QC219 QC132                   # Entire route Hemmingford - Beauharnois
 QC QC207 QC205 QC132/138               # Entire route St-Urbain-Premier - Kahnawá:ke
 QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Constant
 QC QC211 RteStPat A-20                 # St-Liboire - St-Simon (N terminus)
+QC QC212 QC108 RteParc                 # Cookshire (W terminus) - N.-D.-des-Bois
+QC QC214 QC112 QC253                   # E Angus (W terminus)
 QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
@@ -130,6 +132,7 @@ QC QC237 USA/CAN QC202                 # Entire route Berkshire/Ferlighsburg - S
 QC QC243 USA/CAN A-10                  # N Troy / Mansonville (S terminus) - Shefford
 QC QC245 RteNicAus QC112               # Bolton-Est - Eastman (N terminus)
 QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
+QC QC253 QC108 QC214                   # Cookshire - E Angus (N terminus)
 QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
