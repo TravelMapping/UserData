@@ -303,11 +303,15 @@ PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W te
 
 # PEI Highways------------------------------------------------------------------
 PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
-PE PE1A PE1 PE2                        # Entire length Borden-Carleton - Travellers Rest
-PE PE2 PE1A PE1_W                      # Travellers Rest - Charlottetown
+PE PE1A PE1 PE2                        # Entire route Borden-Carleton - Travellers Rest
+PE PE2 PE12_C PE1_W                    # Miscouche - Charlottetown
 PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
+PE PE11 PE2 PE1A                       # Entire route Summerside - Mt Pleasant
+PE PE12 PE2 NorCapeTr                  # Miscouche - North Cape (N terminus)
+PE PE14 PE2_S PE182                    # Carleton (S terminus) - Christopher Cross
 PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
 
+PE PE182 PE14 PE12                     # Entire route Christopher Cross - Seacow Pond
 PE PE209 End PE1                       # Entire route Pt Prim - Eldon
 
 #==== British Columbia =========================================================
