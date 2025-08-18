@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-12
+# 2025-08-18
 # ──────────
 
 # ─────────
@@ -224,17 +224,36 @@ AUT S40 TulDon WienFraJosBah
 AUT S60 WienMie BruLei
 
 # ────────
+# Kärntnen
+# ────────
+
+AUT S1Kar VilHau StVeitGlan
+AUT S2Kar VilHau StVeitGlan
+AUT S4Kar Arn VilHau
+
+# ────────
 # Salzburg
 # ────────
 
 AUT S2Sal Str DEU-BY S2Sal Fre
 
+# ──────────
+# Steiermark
+# ──────────
+
+AUT S1Ste BruMur GrazHau
+AUT S8Ste StMic BruMur
+
 # ────
 # Linz
 # ────
 
+AUT 4Lin Hau SchTra
+AUT 50Lin Pos Hau
+
 AUT S1Obe LinzHau +DIV_R53
 AUT S2Obe Wels LinzHau
+AUT S3Obe LinzHau Pre
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
