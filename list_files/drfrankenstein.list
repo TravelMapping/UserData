@@ -133,6 +133,7 @@ QC QC245 RteNicAus QC112               # Bolton-Est - Eastman (N terminus)
 QC QC247 A-55 QC141                    # Entire route Stanstead - Magog
 QC QC253 QC108 QC214                   # Cookshire - E Angus (N terminus)
 QC QC267 RteMontAds QC112              # Adstock - Thetford Mines
+QC QC273 A-20 QC132                    # St-Apollinaire - St-Antoine-de-Tilly (N terminus)
 QC QC275 QC173 A-20                    # Entire route St-Côme-Linière - St-Romuald
 QC QC279 QC216 A-20                    # N-D-Aux-de-Buckland (S terminus) - A-20 before Beaumont
 QC QC289 NB/QC A-20                    # Témiscouata (S terminus) - St-Alexandre-de-Kamouraska (near N terminus)
