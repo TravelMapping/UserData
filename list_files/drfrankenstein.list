@@ -935,27 +935,37 @@ SC US17BusMyr GleBayRd US17_N
 #===== Georgia =================================================================
 # GA Interstates----------------------------------------------------------------
 GA I-85 95 113                         # Doraville (I-285 Perimeter) - Buford
-GA I-285 33 36                         # Tucker
+GA I-285 33 61                         # Tucker - ATL
 GA I-985 I-85 24                       # Entire route Buford - Gainesville
 
 GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
 
 # GA US Routes------------------------------------------------------------------
+GA US29 I-285(38) GA236_W              # Tucker, Lawrenceville Hwy
 GA US129 GA283 US129BypCle_S           # Clermont - Cleveland
 GA US129 US129BypCle_N GA75Alt_N       # North of Cleveland
 GA US129BypCle US129_S US129_N         # Entire route, Cleveland, Appalachian Pkwy
 
 GA US23 I-985(4) GA52                  # Buford - Lula
 
+GA US29 GA10_W US78_E                  # Atlanta - Scottdale
+
 GA US76 GA17/515 GA17/75               # Chatuge Lake - Presley (17 concurrency)
+
+GA US78 GA10_W GA410(3)                # Atlanta - Tucker
+GA US278 GA10_W US23/78                # Atlanta - Decatur
 
 # GA State Routes---------------------------------------------------------------
 GA GA2 GA17/515 GA17/75                # Chatuge Lake - Presley (17 concurrency)
+GA GA8 GA10_W US78_E                   # Atlanta - Scottdale
+GA GA8 I-285(38) GA236_W               # Tucker, Lawrenceville Hwy
+GA GA10 I-75/85 US23/29                # Atlanta - Decatur
 GA GA11 GA283 US129BypCle_S            # Clermont - Cleveland
 GA GA11 US129BypCle_N GA75Alt_N        # North of Cleveland
 GA GA17 GA75Alt GA/NC                  # Unicoi Tpke, Helen - Chatuge Lake toward Hayesville (N terminus)
 GA GA52 GA283 US23                     # Lula - Clermont
 GA GA75AltCle US129Byp GA75_N          # Cleveland, Appalachian Pkwy - Unicoi Tpke (N terminus)
+GA GA236 NorPkwy US29_N                # Tucker, Lavista Rd
 GA GA283 US129 SkiMouRd                # Clermont to Lula Rd
 GA GA365 I-985 GA52                    # Gainesville - Lula
 GA GA515 US76_E GA/NC                  # Chatuge Lake, 17 concurrency
