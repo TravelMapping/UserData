@@ -223,6 +223,8 @@ ON ON16 OPIntBrg ON416
 ON ON17 ON41 ON417_Bra                 # Pembroke - Arnprior (E terminus)
 ON ON20 ON58 RR70                      # Entire length Thorold, Lundy's Lane
 # ON ON27 ON427 EglAve                 # [Downloaded]
+ON ON33Pic ON62 GNPEdwFry_S            # Entire route Bloomfield - Glenora
+ON ON33 GNPEdwFry_N ColBayRd           # Entire route Adolphustown - Kingston
 ON ON34 ON417 MainSt
 ON ON35 ON401 ON115_N
 ON ON40 ON401 ON402
