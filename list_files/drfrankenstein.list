@@ -899,13 +899,23 @@ NC US501 I-95 SC/NC
 
 NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
 
+NC US19 NC141 US129_N                  # Andrews, 129 concurrency
+
 NC US421 US17/74_W I-140
 
+NC US129 NC141 NC/TN                   # Andrews - Deals Gap (N terminus)
+
+NC US64 NC141 NC69                     # Murphy - Hayesville
 NC US64 463 466                        # Rocky Mt, around I-95
 
+NC US74 NC141 US129_N                  # Andrews, 129 concurrency
 NC US74 US17_S US17/421_N
 
 NC US76 US17_S US17/74_N
+
+# NC State Routes---------------------------------------------------------------
+NC NC69 GA/NC US64                     # S terminus - US 64 before Hayesville
+NC NC141 US64 US19/74                  # Entire route
 
 #===== South Carolina ==========================================================
 # SC Interstates----------------------------------------------------------------
@@ -924,7 +934,31 @@ SC US17BusMyr GleBayRd US17_N
 
 #===== Georgia =================================================================
 # GA Interstates----------------------------------------------------------------
+GA I-85 95 113                         # Doraville (I-285 Perimeter) - Buford
+GA I-285 33 36                         # Tucker
+GA I-985 I-85 24                       # Entire route Buford - Gainesville
+
 GA I-95 FL/GA GA/SC                    # Entire route St Marys - Savannah
+
+# GA US Routes------------------------------------------------------------------
+GA US129 GA283 US129BypCle_S           # Clermont - Cleveland
+GA US129 US129BypCle_N GA75Alt_N       # North of Cleveland
+GA US129BypCle US129_S US129_N         # Entire route, Cleveland, Appalachian Pkwy
+
+GA US23 I-985(4) GA52                  # Buford - Lula
+
+GA US76 GA17/515 GA17/75               # Chatuge Lake - Presley (17 concurrency)
+
+# GA State Routes---------------------------------------------------------------
+GA GA2 GA17/515 GA17/75                # Chatuge Lake - Presley (17 concurrency)
+GA GA11 GA283 US129BypCle_S            # Clermont - Cleveland
+GA GA11 US129BypCle_N GA75Alt_N        # North of Cleveland
+GA GA17 GA75Alt GA/NC                  # Unicoi Tpke, Helen - Chatuge Lake toward Hayesville (N terminus)
+GA GA52 GA283 US23                     # Lula - Clermont
+GA GA75AltCle US129Byp GA75_N          # Cleveland, Appalachian Pkwy - Unicoi Tpke (N terminus)
+GA GA283 US129 SkiMouRd                # Clermont to Lula Rd
+GA GA365 I-985 GA52                    # Gainesville - Lula
+GA GA515 US76_E GA/NC                  # Chatuge Lake, 17 concurrency
 
 #===== Florida =================================================================
 # FL Interstates----------------------------------------------------------------
@@ -1036,9 +1070,26 @@ IL IL110 I-290(15A) I-290(30)
 
 #===== Kentucky ================================================================
 # KY Interstates----------------------------------------------------------------
+KY I-64 75 81                          # Lexington, I-75 concurrency
+
+KY I-71 77 KY/OH                       # Walton - Covington (N terminus), I-75 concurrency
+
+KY I-75 TN/KY KY/OH                    # Entire route Whitley Co - Covington
 
 # KY State Routes---------------------------------------------------------------
 KY KY8 I-71/75 US25/42                 # Covington, 4th & 5th Sts
+
+#===== Tennessee ===============================================================
+# TN Interstates----------------------------------------------------------------
+TN I-40 386 387A                       # Knoxville, Alcoa Hwy US 129 - I-275
+
+TN I-75 3(640) TN/KY                   # Knoxville (I-275) - Jellico (N terminus)
+TN I-275 I-40 3                        # Entire route Knoxville, I-40 - I-75/I-640/US 25W
+
+# TN US Routes------------------------------------------------------------------
+TN US411 US129_S US129_N               # Maryville, 129 concurrency
+
+TN US129 NC/TN I-40                    # Entire route Deals Gap - Knoxville
 
 #===== Utah ====================================================================
 # UT Interstates
