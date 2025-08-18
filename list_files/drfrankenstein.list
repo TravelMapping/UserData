@@ -158,6 +158,7 @@ QC QC335 QC138 A-640                   # Montréal (S terminus) - Bois-des-Filio
 QC QC335 QC158/339 QC158_E             # St-Lin-Laurentides (R-158 concurrency)
 QC QC337 QC344 MteeMaj                 # Terrebonne (S terminus) - La Plaine
 QC QC337 QC158/339 QC343_N             # St-Lin-Laurentides - St-Alphonse-Rodriguez
+QC QC337 RueEgl QC131                  # Ste-Béatrix - St-Jean-de-Matha (N terminus)
 QC QC338 ON/QC A-20                    # Entire route Rivière-Beaudette - Vaudreuil-Dorion
 QC QC340 ON/QC A-20                    # Entire route St-Télésphore - Vaudreuil-Dorion
 QC QC342 ON/QC A-20                    # Entire route Pte-Fortune - Vaudreuil-Dorion
@@ -166,6 +167,7 @@ QC QC344 A-50 MteeLes                  # Grenville (W terminus) - Rosemère
 QC QC344 A-25 RangChaAub_E             # Terrebonne
 QC QC344 A-640_E BoulBri               # Charlemagne - Le Gardeur
 QC QC347 QC343 QC125                   # N-D-de-la-Merci (W terminus) - St-Côme
+QC QC348 RteSteBea_N RteSteBea_S       # along Rte de Ste-Béatrix
 QC QC360 QC138_Que QC369               # Beauport (W terminus)
 QC QC360 QC138_W BoulBea               # Ste-Anne-de-Beaupré
 QC QC362 QC138_W QC138_E               # Entire route Baie-St-Paul - La Malbaie
