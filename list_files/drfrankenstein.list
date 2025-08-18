@@ -265,10 +265,12 @@ NB NB95 ME/NB NB2
 NB NB100 ManRd CroSt                   # St John, Manawagonish Rd - Crown St
 NB NB102 NB7 NB177                     # Lingley (W terminus)
 NB NB103 SomRd HarBriHRd
+NB NB106 NB15 KingSt                   # Moncton, Main St
 NB NB111 NB1(137) NB825_W              # Rothesay (W terminus) - NB 825 (Fundy Coastal Route)
 NB NB111 NB825_E NB1(198)              # NB 825 (Fundy Coastal Route) - Sussex (E terminus)
 NB NB113 NB11 MisIslLig                # Entire route Pokemouche - Miscou
-NB NB114 RocRd NB15                    # Hopewell Rocks - Moncton (E terminus)
+NB NB114 NB1(211) NB915_S              # Cardwell - Alma
+NB NB114 NB915_N NB15                  # Riverside-Albert - Moncton (E terminus)
 NB NB120 QC/NB NB2                     # Entire route Lac-Baker - Edmundston
 NB NB127 NB3 NB1(39)                   # Entire route Lawrence Sta - St Andrews - Bocabec
 NB NB130 NB2(172) SomRd
@@ -285,6 +287,8 @@ NB NB475 NB134 NB505                   # Entire route Bouctouche - Ste-Anne-de-K
 NB NB505 NB134_S NB475                 # Ste-Anne-de-Kent (S terminus) - toward Bouctouche
 
 NB NB825 NB111_W NB111_E               # Entire route thru Simonds Parish
+
+NB NB915 NB114_S NB114_N               # Entire route Alma - Riverside-Albert via Cape Enragé
 
 #===== Nova Scotia =============================================================
 # NS Trans-Canada Highway-------------------------------------------------------
