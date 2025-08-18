@@ -73,6 +73,7 @@ QC QC131 QC138 QC347_S                 # Lavaltrie (S terminus) - St-Jean-de-Mat
 QC QC132 USA/CAN QC132_W               # Entire route Dundee - Percé - Ste-Flavie
 # TODO: probably got more if not all, check logs
 QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
+QC QC133 QC116/229 StLauFry            # Belœil - Sorel-Tracy (N terminus)
 QC QC134 A-15 QC138                    # Entire route Candiac - Montréal
 QC QC136Mon 1 AvePap                   # Entire route
 QC QC136 A-73 RueNotDame               # Entire route
