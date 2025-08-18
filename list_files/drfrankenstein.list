@@ -111,8 +111,7 @@ QC QC207 QC205 QC132/138               # Entire route St-Urbain-Premier - Kahnaw
 QC QC209 USA/CAN QC132                 # Entire route Ellenburg/Franklin - St-Constant
 QC QC211 RteStPat A-20                 # St-Liboire - St-Simon (N terminus)
 QC QC212 QC108 RteParc                 # Cookshire (W terminus) - N.-D.-des-Bois
-QC QC214 QC112 QC253                   # E Angus (W terminus)
-QC QC214 QC108_W QC108_E               # Bury (R-108 concurrency)
+QC QC214 QC112 ChFra                   # E Angus (W terminus) - Hampden
 QC QC215 QC139 QC243                   # Entire route Sutton - Lac-Brome
 QC QC216 QC108 A-410                   # Magog (W terminus) - Sherbrooke
 QC QC216 QC161_N QC263_S               # Ham-Nord - St-Jacques-le-Majeur-de-Wolfestown
