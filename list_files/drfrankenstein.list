@@ -316,6 +316,7 @@ PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
 PE PE11 PE2 PE1A                       # Entire route Summerside - Mt Pleasant
 PE PE12 PE2 NorCapeTr                  # Miscouche - North Cape (N terminus)
 PE PE14 PE2_S PE182                    # Carleton (S terminus) - Christopher Cross
+PE PE16 PE2_E PE2_W                    # Entire route Souris - St Peters
 PE PE20 PE262_N PE6/8                  # Campbells Pond - New London (E terminus)
 PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
 
