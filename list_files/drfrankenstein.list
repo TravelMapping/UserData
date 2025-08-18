@@ -424,6 +424,7 @@ NY NY15 FordSt I-490
 NY NY17Bin 90 NY/NJ
 NY NY17B NY55_S NY17
 NY NY18 LakeOntSPkwy NY390
+NY NY22 NY172_W NY172_E                # Bedford, 172 concurrency
 NY NY22 I-684(10) US11                 # Brewster (end I-684) - Mooers (N terminus), toward Hemmingford
 NY NY22 WinHillRd CraRd
 NY NY25 2ndAve NY25A_Que
@@ -443,6 +444,7 @@ NY NY129 NY9A UndAve                   # Croton-on-Hudson (W terminus) - Yorktow
 NY NY131 NY37_W NY37_E
 NY NY146 BalRd RivRd
 NY NY155 WolfRd AlbShaRd
+NY NY172 I-684 NY22_N                  # Bedford, I-684 - Long Ridge Rd
 NY NY185 NY/VT NY9N/22
 NY NY189 NY/QC US11
 NY NY190 NY374_W NY3
@@ -759,9 +761,9 @@ CT CT34 CT111 CT15
 CT CT40 I-91 CT10
 CT CT57 CT15 US7                       # Westport - Georgetown (N terminus)
 CT CT103 PoolRd MonAve
-CT CT104 CT137 CT15                    # Hartford, Long Ridge Rd (S terminus)
+CT CT104 CT137 CT/NY                   # Entire route Hartford, Long Ridge Rd
 CT CT111 CT25 CT34
-CT CT137 CT104 CT15                    # Stamford, High Ridge Rd
+CT CT137 US1 CT15                      # Stamford, High Ridge Rd, S terminus - Merritt Pkwy
 CT CT215 US1_S US1_N                   # Entire route Groton - Mystic
 CT CT349 SheRd MerStExt                # Groton, Eastern Pt - Meridian St
 CT CT349 3A 3B                         # Groton, ramps to I-95
