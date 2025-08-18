@@ -179,18 +179,19 @@ QC QC371 A-573 BoulVal_N               # Val-St-Michel (S terminus) - Village Va
 #===== Ontario =================================================================
 # ON 400-Series Highways--------------------------------------------------------
 ON ON400 21 141
-ON ON401 ON/QC ON3
+ON ON401 5 ON/QC                       # Windsor (Huron Church Rd, Ambassador Br) - Bainsville (E terminus)
 ON ON402 USA/ON ON401
 ON ON403 ON401_E ON401_W
 ON ON404 17 53
 ON ON406 QEW 9
 ON ON406 10 RR27
-ON ON407 1 BroRd
+ON ON407 1 135                         # Burlington (QEW/403, W terminus) - Clarington (418)
 ON ON409 ON427 ON401                   # Entire route YYZ - Etobicoke
 ON ON410 ON403 21
 ON ON410 ON401 21
 ON ON416 ON401 75B
 ON ON417 QC/ON 184
+ON ON418 ON401 ON407                   # Entire route
 ON ON420 QEW StaAve
 ON ON427 RR7 QEW
 ON ONQEW PeaBrg 139
@@ -970,7 +971,7 @@ MI I-69 72 80
 MI I-69 105 MI/Can
 MI I-69BLPor I-69_E WatSt
 
-MI I-75 43 51
+MI I-75 OH/MI 51                       # Erie (S terminus) - Detroit
 MI I-75 114 117A
 MI I-275 29 165(96)
 MI I-375 I-75 BeaSt
@@ -1005,6 +1006,14 @@ MI MI39 VilRd I-96(182)
 MI MI52 MI36_W I-69
 MI MI59 I-96 I-96BL_E
 
+# MI Tourist Routes-------------------------------------------------------------
+MI LECT I-75(43) USA/CAN               # Melvindale - Ambassador Br
+
+#===== Ohio ====================================================================
+# OH Interstates----------------------------------------------------------------
+OH I-71 KY/OH 1B(75)                   # Cincinnati, 75 concurrency
+OH I-75 KY/OH OH/MI                    # Entire route Cincinnati - Toledo
+
 #===== Indiana =================================================================
 # IN Interstates----------------------------------------------------------------
 IN I-80 IL/IN 16
@@ -1024,6 +1033,12 @@ IL I-294 12 31B                        # Alsip (IL 50) - Hillside (I-290)
 
 # IL State Routes---------------------------------------------------------------
 IL IL110 I-290(15A) I-290(30)
+
+#===== Kentucky ================================================================
+# KY Interstates----------------------------------------------------------------
+
+# KY State Routes---------------------------------------------------------------
+KY KY8 I-71/75 US25/42                 # Covington, 4th & 5th Sts
 
 #===== Utah ====================================================================
 # UT Interstates
