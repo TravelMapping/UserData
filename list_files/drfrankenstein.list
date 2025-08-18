@@ -71,9 +71,7 @@ QC QC125Mon QC138 A-25(17)             # Montréal - Laval
 QC QC125 RangCoteSL PNMontTre          # Entire route St-Esprit - St-Donat
 QC QC131 QC138 QC347_S                 # Lavaltrie (S terminus) - St-Jean-de-Matha
 QC QC132 USA/CAN QC132_W               # Entire route Dundee - Percé - Ste-Flavie
-# TODO: probably got more if not all, check logs
-QC QC133 USA/CAN A-10                  # St-Armand (border) - Richelieu (A-10)
-QC QC133 QC116/229 StLauFry            # Belœil - Sorel-Tracy (N terminus)
+QC QC133 USA/CAN StLauFry              # Entire route St-Armand - Sorel-Tracy
 QC QC134 A-15 QC138                    # Entire route Candiac - Montréal
 QC QC136Mon 1 AvePap                   # Entire route
 QC QC136 A-73 RueNotDame               # Entire route
@@ -121,10 +119,11 @@ QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
-QC QC223 USA/CAN QC116/229             # Lacolle (S terminus) - Belœil
+QC QC223 USA/CAN QC132                 # Entire route Lacolle - Sorel-Tracy
 QC QC224 A-20 RteMou_E                 # Ste-Rosalie - before St-Hugues
 QC QC224 4eRang_S QC239_N              # past St-Hugues - St-Marcel-de-Richelieu
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
+QC QC227 QC202 QC133_W                 # Venise-en-Québec (S terminus) - St-Sébastien
 QC QC227 QC116 A-20                    # Ste-Madeleine (N terminus)
 QC QC229 QC116_W A-20                  # McMasterville
 QC QC229 QC227_N QC116_W               # Around Mt St Hilaire
