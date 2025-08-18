@@ -119,7 +119,7 @@ QC QC217 MteeGuay QC104                # Entire route Lacolle - La Prairie
 QC QC218 QC173/275 QC275_N             # St-Henri (R-275 concurrency)
 QC QC219 USA/CAN A-35                  # Entire route Mooers/Hemmingford - St-Jean-sur-Richelieu
 QC QC221 QC202_W QC132/138             # Lacolle - Kahnawá:ke (N terminus)
-QC QC223 USA/CAN RueJacCar             # Lacolle (S terminus) - St-Jean-sur-Richelieu
+QC QC223 USA/CAN QC112_W               # Lacolle (S terminus) - Chambly
 QC QC226 QC132 QC271                   # Entire route St-François-du-Lac - Ste-Croix
 QC QC227 QC116 A-20                    # Ste-Madeleine (N terminus)
 QC QC229 A-30 QC132                    # Varennes (N terminus)
