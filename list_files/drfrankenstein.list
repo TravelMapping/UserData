@@ -686,7 +686,7 @@ NH NH33 I-95 NH108
 NH NH101 I-93_S I-95
 NH NH102 NH128 I-93                    # Londonderry, Nashua Rd
 NH NH108 NH33 NH101
-NH NH111 SulRd NH128                   # Londonderry, Haverhill Rd
+NH NH111 SulRd I-93                    # Londonderry, Haverhill Rd
 NH NH112 US302 GooLn
 NH NH120 US4_E NH10_Han
 NH NH128 MA/NH NH102                   # Pelham (S terminus) - Londonderry
