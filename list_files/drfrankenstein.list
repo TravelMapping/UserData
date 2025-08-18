@@ -249,8 +249,7 @@ NB TCHMai 423 NB/NS                    # Petitcodiac (NB 1) - Aulac (E terminus)
 NB TCHPEI 25 NB/PE                     # Port Elgin - Confederation Br (E terminus)
 
 # NB Primary Highways-----------------------------------------------------------
-NB NB1 39 137                          # Bocabec (NB 127 to St Andrews) - Rothesay (NB 111)
-NB NB1 198 NB2                         # Sussex - Petitcodiac (E terminus)
+NB NB1 39 NB2                          # Bocabec (NB 127 to St Andrews) - Petitcodiac (E terminus)
 NB NB2 QC/NB 306                       # St-Jacques (W terminus) - Oromocto/Gagetown (NB 7)
 NB NB2 423 NB/NS                       # Petitcodiac (NB 1) - Aulac (E terminus)
 NB NB3 NB127 NB2                       # Lawrence Sta - Kingsclear
@@ -304,6 +303,8 @@ PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W te
 
 # PEI Highways------------------------------------------------------------------
 PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
+PE PE1A PE1 PE2                        # Entire length Borden-Carleton - Travellers Rest
+PE PE2 PE1A PE1_W                      # Travellers Rest - Charlottetown
 PE PE10 PE1_W TigRd                    # Carleton - Cumberland Cove
 PE PE26 KepRd_E PE1/272                # Tea Hill Pk - Mt Mellick (E terminus)
 
