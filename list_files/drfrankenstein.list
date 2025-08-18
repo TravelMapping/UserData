@@ -308,7 +308,7 @@ PE TCHPEI NB/PE PE209                  # Borden-Carleton, Confederation Br (W te
 # PEI Highways------------------------------------------------------------------
 PE PE1 NB/PE PE209                     # Borden-Carleton, Confederation Br (W terminus) - Eldon
 PE PE1A PE1 PE2                        # Entire route Borden-Carleton - Travellers Rest
-PE PE2 PE12_C PE16_E                   # Miscouche - Souris (E terminus)
+PE PE2 PE14_S PE16_E                   # Carleton - Souris (E terminus)
 PE PE3 PE1 PE4                         # Mt Mellick (W terminus) - Roseneath
 PE PE4 PE3 PE2                         # Roseneath - Central Kings (E terminus)
 PE PE6 PE2/20 PE242_W                  # Kensington (W terminus) - Rustico
