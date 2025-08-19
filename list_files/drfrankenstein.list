@@ -388,6 +388,7 @@ NY US9 NJ/NY I-95(1)
 NY US9W US6/202 NY299
 NY US9W I-87(10) NJ/NY
 
+NY US11 I-81/17 CR52                   # Kirkwood, Court St
 NY US11 NY189 NY3
 NY US11 EllBri USA/CAN                 # Ellenburg - Lacolle (N terminus)
 
@@ -545,6 +546,7 @@ NJ NJ495 NJ/NY NJ3
 
 #===== Pennsylvania ============================================================
 # PA Interstates----------------------------------------------------------------
+PA I-76 201 226                        # Blue Mountain - Carlisle
 PA I-476 131 56
 
 PA I-78 49 51                          # US 22 concurrency
@@ -552,13 +554,17 @@ PA I-78 60 PA/NJ                       # Allentown - Easton (E terminus)
 
 PA I-80 PA/NJ 309
 
-PA I-81 70 PA/NY
+PA I-81 1 24                           # State Line (S terminus) - Shippensburg
+PA I-81 52 PA/NY                       # Carlisle - Great Bend (N terminus)
 
 PA I-83 MD/PA 51
 
 PA I-95 DE/PA PA/NJ
 
 # PA US Routes------------------------------------------------------------------
+PA US11 PA696_S PA696_N                # Shippensburg, 696 concurrency
+PA US11 I-76 I-81(52)                  # Carlisle, Harrisburg Pike
+
 PA US22 I-476 PA309
 PA US22 I-78(49) SchRd                 # Haines - Bethlehem
 PA US222 US30_E I-78                   # Lancaster - Allentown
@@ -572,6 +578,9 @@ PA PA12 US222Bus US422
 PA PA100 SchRd I-78                    # Haines, Shantz Rd - William Penn Hwy
 PA PA145 I-78/309 PA222                # I-78 (S terminus) - downtown Allentown
 PA PA309 US22 I-78(54)
+PA PA533 PA696_S PA696_N               # Shippensburg, 696 concurrency
+PA PA641 PA696_N PA696_S               # Newburg, 696 concurrency
+PA PA696 I-81(24) PA997_N              # Shippensburg - Hopewell (N terminus)
 PA PA741 US222/272 PA896
 PA PA896 US30 DecSt
 
@@ -788,6 +797,8 @@ DE DE1 MD/DE 164A                      # Fenwick Is (S terminus) - Christiana (I
 DE DE896 US301/71 I-95
 
 #===== Maryland ================================================================
+MD I-81 WV/MD MD/PA                    # Entire route
+
 MD I-83 1 MD/PA
 
 MD I-95 DC/MD 2
@@ -858,6 +869,10 @@ VA I-64 200 299
 VA I-264 ParAve 14
 VA I-664 1 15
 
+VA I-77 NC/VA 32                       # Cana (S terminus) - Wytheville
+
+VA I-81 81 VA/WV                       # Wytheville - Winchester (N terminus)
+
 VA I-95 NC/VA VA/DC
 VA I-295 1 53
 VA I-395 1 VA/DC
@@ -868,6 +883,12 @@ VA US301 RivRd WagRd                   # Petersburg, Rives Rd - Wagner Rd
 VA US301 VA207 VA/MD
 
 VA US13 US58/58Bus_W VA/MD             # Suffolk - New Church (N terminus)
+
+VA US17 US522_S JubEarDr               # Winchester, Millwood Pike
+
+VA US522 US17/50_S JubEarDr            # Winchester, Millwood Pike
+
+VA US50 JubEarDr US522_S               # Winchester, Millwood Pike
 
 VA US58 I-95 I-664                     # Emporia - Hampton Roads
 
@@ -886,10 +907,19 @@ VA VA195 I-195 US60
 # VA National Park Hwys---------------------------------------------------------
 VA GWMemPkwy I-66 SpoRunPkwy
 
+#===== West Virginia ===========================================================
+# WV Interstates----------------------------------------------------------------
+WV I-81 VA/WV WV/MD                    # Entire route
+
 #===== North Carolina ==========================================================
 # NC Interstates----------------------------------------------------------------
+NC I-40 123 152                        # Hickory - Statesville
 NC I-40 418 328
 NC I-140 14 20
+
+NC I-77 51 NC/VA                       # Statesville - Mt Airy (N terminus)
+
+NC I-85 SC/NC 17                       # Grover (S terminus) - Gastonia
 
 NC I-95 SC/NC NC/VA                    # Entire route
 
@@ -901,6 +931,7 @@ NC US17 SC/NC US421_N                  # Carolina Shores (SC line) - Wilmington
 
 NC US19 NC141 US129_N                  # Andrews, 129 concurrency
 
+NC US321 I-85 43                       # Gastonia - Hickory
 NC US421 US17/74_W I-140
 
 NC US129 NC141 NC/TN                   # Andrews - Deals Gap (N terminus)
@@ -921,6 +952,8 @@ NC NC141 US64 US19/74                  # Entire route
 # SC Interstates----------------------------------------------------------------
 SC I-20BSFlo I-20 RadDr                # to Radio Dr
 
+SC I-85 GA/SC SC/NC                    # Entire route Lk Hartwell - Blacksburg
+
 SC I-95 GA/SC SC/NC                    # Entire route Savannah - Dillon
 
 # SC US Routes------------------------------------------------------------------
@@ -934,7 +967,9 @@ SC US17BusMyr GleBayRd US17_N
 
 #===== Georgia =================================================================
 # GA Interstates----------------------------------------------------------------
-GA I-85 95 113                         # Doraville (I-285 Perimeter) - Buford
+GA I-75 249C 251                       # Atlanta, Downtown Connector
+
+GA I-85 249C(75) GA/SC                 # Atlanta - Lavonia (N terminus)
 GA I-285 33 61                         # Tucker - ATL
 GA I-985 I-85 24                       # Entire route Buford - Gainesville
 
