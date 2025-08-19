@@ -197,7 +197,7 @@ ON ON427 RR7 QEW
 ON ONQEW PeaBrg 139
 
 # ON Named Expressways----------------------------------------------------------
-ON AllRd ON401 TraRd                   # 401 - N terminus
+ON AllRd LawAve TraRd                  # Lawrence - N terminus
 ON GarExpy 139 157                     # Entire route QEW - DVP
 ON DonValPkwy GarExpy ON401/404        # Entire route Gardiner - 401/404
 ON ECRowExpy ON3 DouAve
