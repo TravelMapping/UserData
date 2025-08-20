@@ -50,6 +50,7 @@ ON 510 SpaSta UniSta
 ON 511 BatSta ExhLp
 
 ### CAN-QC
+QC GreLn LioGro Bea
 QC OraLn LioGro MonRoy
 
 #### CHE
