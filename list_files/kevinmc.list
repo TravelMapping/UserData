@@ -3379,6 +3379,10 @@ NC CliDomeRd TN/NC NC/TN
 NC CliDomeRdCli TN/NC CliDomeTrl
 NC BlueRidPkwy US441 US23/74
 
+# 2025-08-20
+NC NC215 MarSt StaCoveRd
+NC US276 BlueRidPkwy US23Bus_S
+
 ################
 # NORTH DAKOTA #
 ################
