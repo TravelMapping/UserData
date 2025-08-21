@@ -1,4 +1,5 @@
-#Holy cow it worked :) 
+#It worked! 
+
 
 #Starting with I-70
 CO I-70 167 261
@@ -10,11 +11,17 @@ CO I-225 I-25 12
 
 CO I-25 181 268
 
+CO I-270 0 I-70
+#Got another! 
+
+
 #Let's get into US Highways too
 
 CO US6 McCCreRd AvonRd
 CO US6 I-70(244) I-25(209A)
+
 CO US24 CO91 CO9_N
+
 CO US36 CO119_W I-270(0)
 
 CO US40 3rdSt CO9
@@ -26,6 +33,6 @@ CO US40 CO125 I-70BLDen_W
 #If US 40 is rerouted in the future, I think I still want credit for it. I drove it as it existed at the time! 
 
 CO US285 CO291 I-25 
-#I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexagerate. 
+#I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexaggerate. 
 
 CO US287 HarRd ProRd

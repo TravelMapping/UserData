@@ -1458,9 +1458,7 @@ MO US40 KS/MO MO/IL
 MO US50 KS/MO MO/IL
 MO US54 KS/MO MO/IL
 MO US56 KS/MO US71
-MO US59 KS/MO I-229(6B)
-MO US59 I-29BL_S I-29(56)
-MO US59 MOsN_Hol MO111Spr
+MO US59 KS/MO MO111Spr
 # gap in route travel north of Craig only for bridge closure over I-29, between Craig School and Adobe Rd
 MO US59 300thSt MO/IA
 MO US60 OK/MO MO/IL
@@ -8845,6 +8843,7 @@ CA LinHwyAub TayRd_NewE CA193_S
 IA US6HisBro CouLineRd AAve
 MT LCTrlBla US191_N US87/200_E
 NM US66HisAlb I-40(149) I-40(197)
+NV PETrl US395Bus_N I-580(5)
 TX US66HisCon I-40(89) TX207_S
 OK US66HisElk GraAve I-40BL_W
 OR US30HisCol I-84(17) I-84(37)

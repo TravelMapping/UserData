@@ -3,6 +3,7 @@ DC NENew WasUniSta MA NENew BosSou
 CT HL NHUniSta MA HL Spr
 FL FL Mia DC FL WasUniSta
 MA LSBos Spr BosSou
+PA PA PitUni NY PA PennSta
 CA CS UniSta OakJackLonSq
 
 FL BriLn MiaCen BriOrlSta
@@ -33,7 +34,7 @@ NJ RarVlyLn NewPenn HighBri
 NY MonBooLn PennSta NJ MonBooLn Hac
 NY MorEssLn PennSta NJ MorEssLn Hac
 NJ GlaBra Hob Gla
-NJ MainLn Hob NH MainLn Suf
+NJ MainLn Hob NY MainLn Suf
 NJ PortJerLn Hob NY PortJerLn PortJer
 NJ PasVlyLn Hob NY PasVlyLn SprVly
 
@@ -116,7 +117,8 @@ MD RedLn ShaGro DC RedLn UniSta
 VA YelLn Hun DC YelLn GalPla
 
 #--------MIDWEST CITIES--------
-PA BlueLn Gat SouHilJct
+PA RedLn SouHilVlg All
+PA SilLn Lib All
 
 OH RedLn Bro TriCCamDis
 
