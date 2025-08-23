@@ -1,4 +1,4 @@
-# Date: 2025-08-09
+# Date: 2025-08-23
 # ----------------
 
 ######################
@@ -796,6 +796,7 @@ DEU-NW 105Ess EssHbf FinStr          #2025
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 107Ess EssHbf Bre             #2025
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
+DEU-NW 109Ess FroHauBreOrt +DIV_Ber  #2025, actually traveled from Kronenberg since 109 was rerouted
 
 #Krefeld
 DEU-NW 041Kre NordRing_1 Gru         #2024
