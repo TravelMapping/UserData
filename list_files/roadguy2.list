@@ -1752,6 +1752,7 @@ GA SugPkwy GA20 US29_E
 ID I-15 UT/ID ID/MT
 ID I-84 OR/ID ID/UT
 ID I-86 1 63
+ID I-90 WA/ID ID/MT
 
 #ID US20 I-84 Caldwell concurrency
 #ID US20 I-84 Boise-Mtn Home concurrency
@@ -1793,6 +1794,7 @@ ID I-84BLBli US30_E I-84_E
 #ID I-84BLBur ID27 overlap
 #ID I-84BLBur US30 overlap
 ID I-86BLAme I-86_W I-86_E
+ID I-90BLPos I-90_W SelWy_W
 
 ID US20BusIda US26_E US20_E
 ID US26BusRir US26_W US26_E
