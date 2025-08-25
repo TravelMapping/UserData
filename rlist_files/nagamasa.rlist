@@ -111,6 +111,14 @@ DEU-BE U2 ZooGar AlePla
 DEU-BE U6 KurtSchPla KochStr
 DEU-BE U8 AlePla KotTor
 
+### HAMBURG
+DEU-HH S1Flu Ohl HamBurgAirPort
+DEU-HH S1 HamBurgHbf Ohl
+DEU-HH S3 HamBurgAlt JunSti
+
+DEU-HH U1 SteStr LohMuhStr
+DEU-HH U3 LanBru HbfSud
+
 ### ENG
 ## UNDERGROUND
 ENG DisLn SouKen MileEnd
@@ -547,12 +555,15 @@ OR NSLn 23rdMar Joh_N
 OR RedLn GooseHolJefSt Hol42ndAve
 OR YelLn PSUUrbCenMonSt UniStaHoyt
 
+### UT
+UT GreLn GalPlz Air
+
 ### WA 
 WA SeaCenMon SeaCen WesCen
 
 ## LINK
 WA 1 Lyn AngLake
-WA 2 SBel RedTec
+WA 2 SBel DowRed
 
 ## SEATTLE STREETCAR
 WA 1stHillLn BroDen OccMall

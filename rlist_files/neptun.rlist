@@ -1,5 +1,5 @@
 # ──────────
-# 2025-05-26
+# 2025-08-22
 # ──────────
 
 # ─────────
@@ -100,7 +100,7 @@ CZE U6 TepCec Rad
 CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
-CZE U11 Lou LitHorNad
+CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
 CZE U13 Most ZatZap
 CZE U14 ChoMes Rak
@@ -111,6 +111,7 @@ CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T5 Lib RouNadLab
 CZE T6 Kas Pod
 CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
@@ -140,7 +141,9 @@ CZE L62 Ras BilyPotPodSmr
 # IDPK–Plzeň
 # ──────────
 
-CZE 4Plz BozNem SadyPet
+CZE 1Plz Bol Slo
+CZE 2Plz Skv Sve
+CZE 4Plz Kos Uni
 
 # ────────────
 # IDS JMK–Brno
@@ -149,14 +152,15 @@ CZE 4Plz BozNem SadyPet
 CZE 1Brn MenNam VysHlaVst
 CZE 4Brn NamSvo HlaNad
 CZE 5Brn Ces MenNam
-CZE 8Brn NemBoh Gei
+CZE 8Brn NemBoh Mif
 
 CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
 CZE S6Jih UheHra StaMesUheHra
 CZE S22Jih BreNadSvi Let
 CZE S3Jih Kri Sak
-CZE S6Jih BrnoZid Bla
+CZE S6Jih BrnoZid StaMesUheHra
+CZE S9Jih Bre StaMesUheHra
 CZE S51Jih Sak Bre
 CZE S53Jih Bre Lan
 CZE S71Jih VysMor Nez
@@ -187,7 +191,7 @@ CZE V51 MesKra StaPaka
 
 CZE 1Ost HlaNad HraPol
 CZE X3Ost MirNam Pal
-CZE 4Ost SviMos Kar
+CZE 4Ost SviMos NovaHutJisBra
 CZE 5Ost BudZat PorVre
 CZE 7Ost PorVre Pal
 CZE 13Ost RedVit DolVit
@@ -198,7 +202,7 @@ CZE S4Mor Sed MosOstAir
 CZE S5Mor FryNadOst Ost
 CZE S6Mor OstHlaNad Ver
 CZE S8Mor Stu Ver
-CZE S9Mor OstKun CesTes
+CZE S9Mor OstSvi CesTes
 CZE S22Mor MosJab MosJabZas
 
 #┌───────────────────────────────────────────┐
@@ -221,17 +225,36 @@ AUT S40 TulDon WienFraJosBah
 AUT S60 WienMie BruLei
 
 # ────────
+# Kärntnen
+# ────────
+
+AUT S1Kar VilHau StVeitGlan
+AUT S2Kar VilHau StVeitGlan
+AUT S4Kar Arn VilHau
+
+# ────────
 # Salzburg
 # ────────
 
 AUT S2Sal Str DEU-BY S2Sal Fre
 
+# ──────────
+# Steiermark
+# ──────────
+
+AUT S1Ste BruMur GrazHau
+AUT S8Ste StMic BruMur
+
 # ────
 # Linz
 # ────
 
+AUT 4Lin Hau SchTra
+AUT 50Lin Pos Hau
+
 AUT S1Obe LinzHau +DIV_R53
 AUT S2Obe Wels LinzHau
+AUT S3Obe LinzHau Pre
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
@@ -251,7 +274,7 @@ DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
 DEU-BY U3 SchPla MunFre
 DEU-BY U5 Hbf NeuPerSud
-DEU-BY U6 StuSta GoePla
+DEU-BY U6 GarForZen GoePla
 
 DEU-BY 16Mun SenTor MauKirStr
 DEU-BY 17Mun RomPla HbfNord
@@ -321,11 +344,25 @@ HUN M2 OrsVezTere DeliPal
 HUN M3 UjpKoz KobKis
 HUN M4 KelPal KelVas
 
-HUN 2Bud JasMariTer VigTer
-HUN 4Bud JasMariTer SzeKalTer
-HUN 14Bud UjpKoz LehTer
-HUN 47Bud DeakFerTer MorZsiKor
-HUN 56Bud Var DozGyoTer
+HUN 1Bud BecUtVorUt KelVas
+HUN 2Bud JasMariTer Koz
+HUN 2BPac JasMariTer Pes
+HUN 3Bud MexUt OrsVezTere
+HUN 3Bud Ele GubUtHatUt
+HUN 4Bud SzeKalTer UjbKoz
+HUN 6Bud SzeKalTer MorZsiKor
+HUN 12Bud RakUjpVas RakKosUtca
+HUN 14Bud KapMegUt LehTer
+HUN 17Bud KolTer SavPark
+HUN 19Bud KolTer KelVas
+HUN 23Bud BorTer KelPal
+HUN 28Bud BlaLujTer KobAlsoVas
+HUN 41Bud MorZsiKor KamIfjPark
+HUN 42Bud HatUt KisTulUtca
+HUN 47Bud DeakFerTer VarTer
+HUN 52Bud Pes HatUt
+HUN 56Bud Huv RudGyo
+HUN 59ABud SzeKalTer MarAronTer
 HUN 60Bud Var SzeHegyGye
 HUN 61Bud Var MorZsiKor
 

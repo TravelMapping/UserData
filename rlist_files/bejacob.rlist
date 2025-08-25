@@ -47,6 +47,10 @@ CA BlueLn SanYsiTC +DIV_Gre_N
 CA GreLn 12thImpTC Gro
 CA OraLn Cou Gro
 
+#Sacranento RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+
 AZ A 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL TriRail MetTra MiaAir
@@ -72,6 +76,7 @@ MA RedLnM Ash Mat
 MI DetPeoMov Mic_S Mic_N
 MI QLn GraBlvd ConSt
 MO MLRedLn LamAirTer1 LacLan
+NV LVM MGMGra SLS
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
 NJ NECorLn NY/NJ NewLibAir
@@ -127,6 +132,7 @@ WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
 
 #US Airpoirts Airside
+CA AutPeoMov CenTerB ConB
 CO DENTrn JepTer CGat
 FL GateLink TerA Air2
 FL GateLinkTAW TerA Air1
@@ -136,9 +142,12 @@ GA PlaTrn DomTer FGatIntTer
 KY CVGTram MainTer ConB
 MI ExpTram SouSta NorSta
 MN MSPTram ConDE ConAB
+NV GreLn Ter1 CGat
 NV BlueLn Ter1 DGat
+NV RedLn Ter3 DGat
 TX IAHSky TerA TerDE
 TX Sky A8 A21
+VA AerTrn ConB ConCD
 WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 WA YelLn AGat DGat

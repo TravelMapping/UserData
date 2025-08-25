@@ -1,4 +1,4 @@
-# Date: 2025-06-14
+# Date: 2025-08-23
 # ----------------
 
 ######################
@@ -359,6 +359,33 @@ CHE S14Gal DEU/CHE Kre                         #2025, actually traveled as IR75
 DEU-BW S14Gal Kon DEU/CHE                      #2025, actually traveled as IR75
 DEU-BW S6Bod Rad Kon                           #2025
 
+DEU-HB RS1Blu BreFar HB/NI                     #2025
+DEU-NI RS1Bec HB/NI NI/HB                      #2025
+DEU-HB RS1 NI/HB BreAum                        #2025
+DEU-HB RS1 BreVegeSack HB/NI                   #2025
+DEU-NI RS1 HB/NI Ver                           #2025
+DEU-HB RS2Bre BreHavLehe HB/NI                 #2025, actually traveled as RE9
+DEU-NI RS2 HB/NI NI/HB                         #2025, actually traveled as RE9
+DEU-HB RS2 NI/HB BreHbf                        #2025, actually traveled as RE9
+DEU-NI RS3 WilHavHbf NI/HB                     #2025
+DEU-HB RS3 NI/HB BreHbf                        #2025
+DEU-NI RS4 NorHam Hude                         #2025
+DEU-NI RS6 RotBurg Ver                         #2025
+DEU-NI RS30 BadZwiAhn Hude                     #2025
+
+#DEU-BW RB15 Ulm            DEU-BY Plattling   #2025 via Regensburg
+#DEU-BY RE3  Plattling             Landshut    #2025
+#DEU-BY RE25 Regensburg Hbf        Landshut    #2025
+#DEU-BY RB44 Landshut              Wasserburg  #2025
+#DEU-BY RB48 Wasserburg            Grafing Bf  #2025
+DEU-BY S4 Gra EbeBerg                          #2025, actually traveled as RB48
+#DEU-BY RB54 Grafing Bf            München-Ost #2025
+
+CHE S1Gal SteRhe Rom                           #2025
+CHE S2Gal Ror StMar                            #2025, actually traveled as IR2212 something
+CHE S3Vor StMar CHE/AUT                        #2025
+AUT S3Vor CHE/AUT Bre                          #2025
+
 
 ######################
 #### METROS/TRAMS ####
@@ -509,31 +536,32 @@ DEU-BY 4Aug OberHauNordPR KonPla              #2024
 DEU-BY 6Aug StaBer FriBergWestPR              #2024
 DEU-BY 8Aug Hbf FusAre                        #2024
 
-DEU-BY U1 OlyEinZen ManPla       #2022
-DEU-BY U2 FeldMoc MesStaOst      #2022
-DEU-BY U3 Moo FurRiedWest        #2022
-DEU-BY U4 WestEndStr AraPark     #2022
-DEU-BY U5 LaiPla NeuPerSud       #2022
-DEU-BY U6 GarForZen KliGroHad    #2022
-DEU-BY 12Mun LeoPla HohZolPla    #2023 Leonrodplatz - Hohenzollernplatz
-DEU-BY 12Mun RomPla +DIV_ParStr  #2024
-DEU-BY 12Mun KarlTheoStr SchNord #2025
-DEU-BY 16Mun KarPlaSta EffPla    #2024
-DEU-BY 17Mun AmaBurgStr Hbf      #2024
-DEU-BY 17Mun MaxWebPla StEmm     #2024
-DEU-BY 18Mun GonPla MulStr       #2025
-DEU-BY 18Mun HbfSud SchSeeStr    #2023 Hbf Süd - Schwanseestraße
-DEU-BY 19Mun PasBf BergLaim      #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
-DEU-BY 20Mun MooBf KarPlaSta     #2024
-DEU-BY 21Mun LeoPla HbfNord      #2023 Leonrodplatz - Hbf Nord
-DEU-BY 21Mun MaxMon StVeitStr    #2023 Maxmonument - St.-Veit-Straße
-DEU-BY 21Mun Bor_1 WestFriHof    #2024
-DEU-BY 21Mun Bor_2 KarPlaSta     #2024
-DEU-BY 23Mun SchNord MunFre      #2025
-DEU-BY 25Mun MaxWebPla OstFriHof #2025
-DEU-BY 25Mun OstFriHof DerPla    #2024
-DEU-BY 27Mun PetRing KarPlaSta   #2024
-DEU-BY 28Mun SchPla +DIV_ParStr  #2024, traveled as 12
+DEU-BY U1 OlyEinZen ManPla                    #2022
+DEU-BY U2 FeldMoc MesStaOst                   #2022
+DEU-BY U3 Moo FurRiedWest                     #2022
+DEU-BY U4 WestEndStr AraPark                  #2022
+DEU-BY U5 LaiPla NeuPerSud                    #2022
+DEU-BY U6 GarForZen KliGroHad                 #2022
+DEU-BY 12Mun LeoPla HohZolPla                 #2023 Leonrodplatz - Hohenzollernplatz
+DEU-BY 12Mun RomPla +DIV_ParStr               #2024
+DEU-BY 12Mun KarlTheoStr SchNord              #2025
+DEU-BY 16Mun KarPlaSta EffPla                 #2024
+DEU-BY 17Mun AmaBurgStr Hbf                   #2024
+DEU-BY 17Mun MaxWebPla StEmm                  #2024
+DEU-BY 17Mun ReiBachPla MaxWebPla             #2025
+DEU-BY 18Mun GonPla MulStr                    #2025
+DEU-BY 18Mun HbfSud SchSeeStr                 #2023 Hbf Süd - Schwanseestraße
+DEU-BY 19Mun PasBf BergLaim                   #2023 Pasing - Hbf + Hbf Süd - Berg am Laim
+DEU-BY 20Mun MooBf KarPlaSta                  #2024
+DEU-BY 21Mun LeoPla HbfNord                   #2023 Leonrodplatz - Hbf Nord
+DEU-BY 21Mun MaxMon StVeitStr                 #2023 Maxmonument - St.-Veit-Straße
+DEU-BY 21Mun Bor_1 WestFriHof                 #2024
+DEU-BY 21Mun Bor_2 KarPlaSta                  #2024
+DEU-BY 23Mun SchNord MunFre                   #2025
+DEU-BY 25Mun MaxWebPla OstFriHof              #2025
+DEU-BY 25Mun OstFriHof DerPla                 #2024
+DEU-BY 27Mun PetRing KarPlaSta                #2024
+DEU-BY 28Mun SchPla +DIV_ParStr               #2024, traveled as 12
 
 DEU-BY U1Nur FurHardHohe LangWasSud    #2024
 DEU-BY U2Nur FlugHaf RotBach           #2022
@@ -631,7 +659,9 @@ DEU-HE 12Fra RothSchAll EisSpoHalFestPla         #2024
 DEU-HE 14Fra GusBurgPla ErnMayPla                #2024
 DEU-HE 11Fra TilStr_1 SchHutStr                  #2024
 
-DEU-HE 4Kas RatHausFunfFenStr BurHaus             #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
+DEU-HE 3Kas IhrHauStr OberZweMit                 #2025
+DEU-HE 4Kas RatHausFunfFenStr BurHaus            #2022, Rathaus/Fünffen. - Hess.Lichtenau Bürgerhaus AND Am Stern - Helsa Am Steinhof i.e. including the Steinhof loop which is not in RB
+DEU-HE 6Kas IhrHauStr SchZenBruHof               #2025
 
 DEU-MV 1Ros MecBurAll HafAll
 DEU-MV 2Ros ReuHag KurtSchRing
@@ -766,6 +796,7 @@ DEU-NW 105Ess EssHbf FinStr          #2025
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 107Ess EssHbf Bre             #2025
 DEU-NW 108Ess AltEssBf RatHausEss    #2024
+DEU-NW 109Ess FroHauBreOrt +DIV_Ber  #2025, actually traveled from Kronenberg since 109 was rerouted
 
 #Krefeld
 DEU-NW 041Kre NordRing_1 Gru         #2024
@@ -904,11 +935,21 @@ FRA-ARA MB ChaChaHer GenLavHop        #2024
 FRA-ARA MC HotVilLouPra Cui           #2024
 FRA-ARA MD GareVen GareVai            #2024
 
+FRA-ARA T1 Deb ThiLaf                 #2025
+FRA-ARA T2 Per StPriBelAir            #2025
 FRA-ARA T3 GarePartDieuVil VauVelSoie #2024
 FRA-ARA T4 ChaChaHer GareVen          #2024
+FRA-ARA T5 GraBla Eur                 #2025
+FRA-ARA T6 Deb HopEstPin              #2025
 
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
+
+FRA-CVL TramA JulVer Zen              #2025
+FRA-CVL TramB ClosHam GeoPom          #2025
+
+FRA-GES TramARei Neu HopDeb           #2025
+FRA-GES TramBRei Neu ChaTGV           #2025
 
 FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019

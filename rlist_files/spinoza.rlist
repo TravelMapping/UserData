@@ -1,5 +1,5 @@
 AUT U1 KaiVIC Ste
-AUT U2 Pra MesPra
+AUT U2 Schr MesPra
 AUT U3 Ste Lan
 AUT U4 Schw Scho
 AUT S7 Flu WienPra
@@ -58,7 +58,7 @@ ITA-PIE M1 Ben Fer
 ITA-PIE SFM1 TorPorSusa Chi
 ITA-PIE SFM2 TorPorSusa TorLin
 ITA-PIE SFM3 OulxCesClaSes TorPorNuo
-ITA-PIE SFM4 Rac TorPorSusa
+ITA-PIE SFM4 TorLin TorPorSusa
 ITA-PIE SFM6 TorLin TorPorSusa
 ITA-PIE SFM7 Rac TorPorSusa
 ITA-PIE SFMA CasAer Ven
@@ -75,7 +75,7 @@ JPN HanzomonLn Z01 Z03
 JPN GinzaLn G04 G09
 JPN MarunouchiLn M08 M16
 JPN TokaidoShin ShinOsaka Tokyo
-JPN YosanLin Y55/U00 Y00
+JPN YosanLn Y55/U00 Y00
 JPN SetoOhashiLnShi M12 Y00
 JPN SetoOhashiLnW M12 M01
 JPN TokaidoLnW A63 A31
