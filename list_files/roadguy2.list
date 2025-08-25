@@ -2767,6 +2767,7 @@ OK GilExpy US75 I-244
 
 #oregon
 
+OR I-5 40 58
 OR I-5 256 294
 OR I-5 295 OR/WA
 OR I-82 WA/OR I-84
@@ -2775,18 +2776,28 @@ OR I-84 179 OR/ID
 OR US20 US101 OR223
 #OR US30 I-5 overlap
 #OR US30 various I-84 overlaps
+OR US97 CA/OR OR62
 OR US101 CA/OR US20
+OR US199 CA/OR OR99/238
 #OR US395 (I-84/82 concurrency)
 
 OR OR7 I-84 OR86
 OR OR10 LomAve OR217
 #only fred meyer turnoff but close enough
 OR OR22 16A OR99EBus
+OR OR62 OR234 US97
+OR OR99 I-5(40) OR234_E
+OR OR99 US199/OR238 I-5(58)
+# sightclinch OR99 D to A Streets Grants Pass
 OR OR99W OR217 I-5(294)
 #OR OR99E I-5 overlap Salem north
 OR OR217 2C(OR10) 6
 OR OR223 US20 OR223_Dal
 OR OR223Dal OR223 OR22
+OR OR234 OR99_E OR62
+
+OR CraCrkRd OR62 RimDr
+OR CraLakeRimDr RimVlg CraCrkRd
 
 #pennsylvania
 
