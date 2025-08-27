@@ -207,10 +207,9 @@ ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
 IRL DARTHow How GraCanDock
 
 ###Germany###
-DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
-DEU-HE S3 +DIV_LouN DarmStaHbf #covering Frankfurt Hbf - Bensheim
-DEU-BW S6Man +SKIP_MannHeimFriFeldSud DEU-HE S6Ben BensHeim #covering Bensheim - Heidelberg Hbf
-DEU-BW S1Man MannHeimFriFeldSud HeiBergHbf #covering Bensheim - Heidelberg Hbf
+DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
+DEU-HE RE60 FraFurtHbf BensHeim
+DEU-HE RB68 BensHeim DEU-BW RB68Wei HeiBergHbf
 DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei VolHochSch BetHof
 DEU-BW 26Hei AltHalBad CzeBru
