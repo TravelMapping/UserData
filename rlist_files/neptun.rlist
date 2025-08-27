@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-09
+# 2025-08-22
 # ──────────
 
 # ─────────
@@ -100,7 +100,7 @@ CZE U6 TepCec Rad
 CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
-CZE U11 Lou LitHorNad
+CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
 CZE U13 Most ZatZap
 CZE U14 ChoMes Rak
@@ -111,6 +111,7 @@ CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T5 Lib RouNadLab
 CZE T6 Kas Pod
 CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
@@ -224,17 +225,36 @@ AUT S40 TulDon WienFraJosBah
 AUT S60 WienMie BruLei
 
 # ────────
+# Kärntnen
+# ────────
+
+AUT S1Kar VilHau StVeitGlan
+AUT S2Kar VilHau StVeitGlan
+AUT S4Kar Arn VilHau
+
+# ────────
 # Salzburg
 # ────────
 
 AUT S2Sal Str DEU-BY S2Sal Fre
 
+# ──────────
+# Steiermark
+# ──────────
+
+AUT S1Ste BruMur GrazHau
+AUT S8Ste StMic BruMur
+
 # ────
 # Linz
 # ────
 
+AUT 4Lin Hau SchTra
+AUT 50Lin Pos Hau
+
 AUT S1Obe LinzHau +DIV_R53
 AUT S2Obe Wels LinzHau
+AUT S3Obe LinzHau Pre
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │

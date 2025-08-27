@@ -1613,10 +1613,14 @@ CA TioPassRd BigOakRd CA120
 CA WawRd CA41 SouDr
 CA LinHwyTra LamRd BriRd
 CA LinHwyLat LouAve RothRd
-CA LinHwyLod TurRd_W CA99
-CA LinHwyAub NewRd CA49_S
+CA LinHwyLod RobDr CA99
+CA LinHwyAub EngColWay TayRd_PenN
+CA LinHwyAub TayRd_NewW CA49_S
 CA LinHwyAlt GoldRunRd TowRd
+CA LinHwyCla OldWhiRocRd End
 CA LinHwyDix PorRd LinSt
+CA LinHwyElD US50(37) CA49_E
+CA LinHwyElD PlaDr_S US50(44B)
 CA LinHwyFol MatFieRd US50(31)
 CA VLSB CA89 CA/OR
 CA VLSBChe CA89 CA147
