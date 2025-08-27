@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-22
+# 2025-08-27
 # ──────────
 
 # ─────────
@@ -386,6 +386,8 @@ SCT GlaSub Par_1 Par_2
 #│                    SVK                    │
 #└───────────────────────────────────────────┘
 
+SVK Tre TreTepa TreTepi
+
 # ──────────
 # Bratislava
 # ──────────
@@ -394,6 +396,7 @@ SVK 9Bra KraUdo Kap
 
 SVK S8 BraPet Rus
 SVK S20 Kuty BraHlaSta
+SVK S50 BraHlvSta Trn
 SVK S60 BraHlaSta Gal
 
 # ──────
