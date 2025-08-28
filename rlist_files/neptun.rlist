@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-27
+# 2025-08-28
 # ──────────
 
 # ─────────
@@ -149,10 +149,17 @@ CZE 4Plz Kos Uni
 # IDS JMK–Brno
 # ────────────
 
-CZE 1Brn MenNam VysHlaVst
+CZE 1Brn Rec Pis
 CZE 4Brn NamSvo HlaNad
-CZE 5Brn Ces MenNam
+CZE 5Brn SteCtv MenNam
+CZE 6Brn MenNam StaLisSmy
+CZE 7Brn LesCerRok HlaNad
 CZE 8Brn NemBoh Mif
+CZE 10Brn Ryb Ces
+CZE 10Brn Ece VozKom
+CZE 11Brn VozKom Bra
+CZE 12Brn TecPark Klu
+CZE 12Brn KonNam HlaNad
 
 CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
