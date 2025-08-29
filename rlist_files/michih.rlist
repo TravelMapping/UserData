@@ -1,4 +1,4 @@
-# Date: 2025-08-27
+# Date: 2025-08-28
 # ----------------
 
 ######################
@@ -10,6 +10,7 @@ DEU-BY RS7Ulm BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 DEU-BY S4 GelDorf DIV_DonBruW         #2022, actually traveled as RE72 from Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
+DEU-BY RB92 +DIV_RE7 +DIV_RE3                                   #2022, actually traveled as RE70 Lindau - Immenstadt
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
 DEU-BY S1Vor LinIns LinReu            #2022, S1
 DEU-BY S2Pet PetHau Dac               #2022, actually traveled as RE1 to Ingolstadt
@@ -43,6 +44,7 @@ DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magd
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
 DEU-ST S11 HalSaaHbf +DIV_MerS        #2022, actually traveled as RE16 to Naumburg
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
+DEU-BY RE54 +DIV_RB25 BamBerg         #2022, actually traveled RE42 from Naumburg
 DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
 #DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
 DEU-BY S2Nur NurnBergHbf Roth         #2022, actually traveled RE16 to Donauwörth
@@ -56,8 +58,15 @@ DEU-HB RE4 NI/HB BreHbf               #2021 Bremen Hbf - Rotenburg (Wümme)
 #DEU-NW Düsseldorf Hbf                DEU-BY  Aschaffenburg Hbf     #2016
 
 DEU-BW RE5 StuHbf UlmHbf              #2020
-DEU-HB RS2 BreHbf HB/NI               #2021, ICE Ulm-Bremen
-DEU-NI RS2Twi HB/NI Twi               #2021, ICE Ulm-Bremen
+
+DEU-NW RE1 DuisBurgHbf DortMundHbf    #2021, actually traveled as ICE Ulm-Bremen
+DEU-NW RB50 DortMundHbf MunHbf        #2021, actually traveled as ICE Ulm-Bremen
+DEU-NW RE2 MunHbf NW/NI               #2021, actually traveled as ICE Ulm-Bremen
+DEU-NI RE2Nat NW/NI NI/NW             #2021, actually traveled as ICE Ulm-Bremen
+DEU-NW RE2Nat NI/NW NW/NI             #2021, actually traveled as ICE Ulm-Bremen
+DEU-NI RE2Osn NW/NI OsnHbf            #2021, actually traveled as ICE Ulm-Bremen
+DEU-HB RE9 BreHbf HB/NI               #2021, actually traveled as ICE Ulm-Bremen
+DEU-NI RE9 HB/NI OsnHbf               #2021, actually traveled as ICE Ulm-Bremen
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 DEU-BY S3 MamDorf DIV_DonBruW         #2022, actually traveled several times with ICE and RE
 #DEU-BW  Ulm Hbf                      DEU-BY  Munich Hbf            #2022, ICE512
@@ -83,10 +92,13 @@ DEU-HE RB75Wie WiesBadHbf HE/RP       #2022, RB75 Wiesbaden - Mainz Hbf - Groß-
 DEU-RP RB75 HE/RP RP/HE               #2022, RB75 Wiesbaden - Mainz Hbf - Groß-Gerau - Darmstadt Hbf
 DEU-HE RB75 RP/HE DarmStaHbf          #2022, RB75 Wiesbaden - Mainz Hbf - Groß-Gerau - Darmstadt Hbf
 
+DEU-HE RE54 FraFurtHbf HE/BY          #2023 Frankfurt Hbf - Lohr
+DEU-BY RE54 HE/BY Lohr                #2023 Frankfurt Hbf - Lohr
+
 DEU-BW RS5Ulm BY/BW UlmHbf
 DEU-BY RS5Ulm BW/BY BY/BW
 DEU-BW RS5Aal AalHbf BW/BY
-DEU-BW MEX90 StuHbf Cra               #2022, actually traveled as MEX13 via Waiblingen, Aalen (two travels merged)
+DEU-BW MEX13 StuHbf Cra               #2022, Stuttgart -  Waiblingen - Aalen - Crailsheim(two travels merged)
 DEU-BW RE80 HeilBroHbf Cra            #2022
 DEU-BW RE10b HeiBergHbf NecSulm       #2022
 DEU-BW S2Man MannHeimHbf HeiBergHbf   #2022
