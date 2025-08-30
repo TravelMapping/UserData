@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-28
+# 2025-08-29
 # ──────────
 
 # ─────────
@@ -62,6 +62,7 @@ CZE S30 Tur MlaBolHlaNad
 CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste LysaNadLab
 CZE S33 MlaBolHlaNad Mel
+CZE S36 MlaCec MlaBolHlaNad
 CZE S40 Tel KraNadVlt
 CZE S43 KraNadVlt Ner
 CZE S45 Kla KraNadVlt
@@ -128,6 +129,7 @@ CZE L2 DecHlaNad Lib
 CZE L3 Libe ZelBrod
 CZE L4 Rum Ryb
 CZE L4 Svor MlaBolHlaNad
+CZE L5 LomNadPop StaPaka
 CZE L6 Cer MniLib
 CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
@@ -189,7 +191,10 @@ CZE V2 HraKraHlaNad Cas
 CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V22 Cas RycNadKne
+CZE V24 Vac Cho
+CZE V31 Sta Vac
 CZE V41 Kol HraKraHlaNad
+CZE V42 KunNadLab TruHlaNad
 CZE V51 MesKra StaPaka
 
 # ────────────
