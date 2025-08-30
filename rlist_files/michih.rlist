@@ -1,4 +1,4 @@
-# Date: 2025-08-28
+# Date: 2025-08-30
 # ----------------
 
 ######################
@@ -10,7 +10,6 @@ DEU-BY RS7Ulm BW/BY Mem
 #DEU-BW  Ulm Hbf                      DEU-BY  Oberstorf         #2022, RE75 via Memmingen
 DEU-BY S4 GelDorf DIV_DonBruW         #2022, actually traveled as RE72 from Memmingen
 #DEU-BY  Memmingen                    DEU-BY  Munich Hbf        #2022, RE72
-DEU-BY RB92 +DIV_RE7 +DIV_RE3                                   #2022, actually traveled as RE70 Lindau - Immenstadt
 #DEU-BY  Lindau-Reutin                DEU-BY  Immenstadt        #2022, RE70
 DEU-BY S1Vor LinIns LinReu            #2022, S1
 DEU-BY S2Pet PetHau Dac               #2022, actually traveled as RE1 to Ingolstadt
@@ -376,6 +375,10 @@ CHE S1Gal SteRhe Rom                           #2025
 CHE S2Gal Ror StMar                            #2025, actually traveled as IR2212 something
 CHE S3Vor StMar CHE/AUT                        #2025
 AUT S3Vor CHE/AUT Bre                          #2025
+
+DEU-BY RB92Mem Mem BY/BW                       #2025
+DEU-BW RB92 BY/BW BW/BY                        #2025
+DEU-BY RB92 BW/BY LinIns                       #2025
 
 
 ######################
