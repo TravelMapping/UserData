@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-29
+# 2025-08-30
 # ──────────
 
 # ─────────
@@ -188,13 +188,15 @@ CZE 7Olo NreKre OkrSoud
 # ─────
 
 CZE V2 HraKraHlaNad Cas
+CZE V3 TepNadMet Vac
 CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V22 Cas RycNadKne
 CZE V24 Vac Cho
 CZE V31 Sta Vac
+CZE V34 TruHlaNad TepNadMet
 CZE V41 Kol HraKraHlaNad
-CZE V42 KunNadLab TruHlaNad
+CZE V42 Vrc TruHlaNad
 CZE V51 MesKra StaPaka
 
 # ────────────
