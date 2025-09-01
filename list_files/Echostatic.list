@@ -412,6 +412,7 @@ WA SteCynRd WA706 WA123
 WY DevTowRd WY110 VisCen
 
 #United States Select Tourist Routes
+MN GRR MN55_E CR46_E
 MN GRR MinDr 46thAve
 
 #United States Historic Highways
@@ -487,8 +488,8 @@ MN MN47 HenAve BroSt
 MN MN47 MN27_W MN18_W
 MN MN47 CR4_A CR12_N
 MN MN48 I-35 MN/WI
-MN MN51 I-94 CRB2
-MN MN55 54thSt MN5
+MN MN51 FordPkwy I-694
+MN MN55 CR43 CedAve
 MN MN60 I-90 CR3_Mad
 MN MN61 I-35 USA/CAN
 MN MN62 US212_E MN77
@@ -777,6 +778,7 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
 
 
 
