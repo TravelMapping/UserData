@@ -1,0 +1,62 @@
+
+#LAST UPDATED 5 August 2024
+
+#RAILWAYS
+
+#MBTA
+#Rapid Transit
+#Blue Line
+MA BluLn Air Bow
+
+#Green Line B
+MA GreLnB BosCol GovCen
+#Green Line C
+MA GreLnC CleCir GovCen
+#Green Line D
+MA GreLnD Riv UniSq
+#Green Line E
+MA GreLnE HeathSt MedTuf
+
+#Orange Line
+MA OraLn ForHil OakGro
+
+#Red Line
+#Ashmont
+MA RedLn Ash Ale
+#Braintree
+MA RedLnBra Bra Ale
+
+#Ashmont-Mattapan High Speed Trolley
+MA RedLnM Ash Mat
+
+#Commuter Rail
+MA WorLn BackBay BosSou
+
+#NJPath
+NJ PATHH33 Hob NY PATHH33 33St
+
+#WaltDisneyWorldMonorail
+FL ResMon ConRes TraTicCen_2
+FL EpcMon TraTicCen EPCOT
+
+#WMATA
+VA YelLn CryCity DC YelLn Arc
+
+#DocklandsLightRailway
+ENG DLRRoy TowGat PriReg
+
+#LondonUnderground
+#Jubilee
+ENG JubLn Wes CanTown
+
+#DenverRTD
+#ALine
+CO ALn UniSta DenAir
+CO ELn UniDen UniSta
+
+#ATLAirport
+GA SkyTrn Air GatCen
+
+#SFO
+CA AirTrnRed GarG/BART_S GarA
+CA AirTrnRed Ter1 GarG/BART_F

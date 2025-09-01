@@ -1,14 +1,378 @@
+#bluewonder310s list
 
+# Alabama (not visited)
+
+# Alaska (not visited)
+
+# American Samoa (not visited)
+
+# Arizona
+# Interstates (AZ)
+AZ I-15 NV/AZ AZ/UT
+AZ I-17 289 341
+AZ I-40 CA/AZ AZ/NM
+AZ I-40BLFla I-40_W I-40_E
+
+# Arkansas
+# Interstates (AR)
+AR I-30 111 143
+AR I-40 OK/AR 279B
+
+# California
+# Interstates (CA)
 CA I-5 MEX/USA 747
-CA I-405 I-5 72 
 CA I-10 1 117
+CA I-15 6B CA/NV
+CA I-40 I-15 CA/AZ
+CA I-80 1A CA/NV
+CA I-105 1A StuRd
+CA I-110 GafSt 21
+CA I-205 I-580 I-5
+CA I-238 14 17
+CA I-280 I-680/101 57
+CA I-305 1A 6
+CA I-380 5A 7
+CA I-405 I-5(94A) I-5(158)
+CA I-505 1A I5
 CA I-580 1A I-5
 CA I-680 I-280/101 71
-CA I-80 1A CA/NV
+CA I-780 7 LemSt
+CA I-805 I-5(1A) I-5(31)
+CA I-880 I-280 46B
+CA I-980 I-880 2B
+# US Highways (CA)
+CA US50 1A CA/NV 
+CA US101 1A CA/OR
+CA US395 ManRewRd CA14
+CA US395 MillCrkDr CA203
+# State Highways (CA)
+CA CA1 CA133 DimLn
+CA CA1 CA92 EthSt
+CA CA2 CenAve HigAve
+CA CA14 CA58 RedRanRd
+CA CA17 1A 26
+CA CA24 2 15
+CA CA25 US101 CA146
+CA CA29 I-80 CA128_W
+CA CA44 CA89_S CA273/299
+CA CA58 CA223 167
+CA CA60 I-10(16B) 38
+CA CA61 WebSt CA185
+CA CA68 US101 SinAve
+CA CA75 I-5(5A) I-5(14A)
+CA CA78 1A SanDieZoo
+CA CA82 I-880 I-280
+CA CA84 I-580 CA82
+CA CA87 1A 9
+CA CA90 CA1 SlaAve
+CA CA92 End CA1
+CA CA99 227 I-5(221)
+CA CA108 CA120_W US395
+CA CA110 21 GleSt
+CA CA120 1A YosNP
+CA CA132 I-580 CA99
+CA CA133 10A 14
+CA CA139 CA/OR LooHacRd
+CA CA146 US101 PinNP
+CA CA146Pin OldEntSta CA25
+CA CA156 US101(345) CA1
+CA CA166 CA1 I-5
+CA CA178 US395 PinRd
+CA CA180 KinCanNP 57A
+CA CA185 ASt CA77
+CA CA198 101 SeqNP
+CA CA203 US395 Mad/Mon
+CA CA217 UCSB 3
+CA CA223 CA184 CA58
+CA CA237 11 CA82
+CA CA238 I-680 HayLim
+CA CA238Cas 14 AppAve
+CA CA242 3B I-680
+CA CA262 I-680 I-880
+CA CA282 CA75 AlaBlvd
 
-CA US-110 CA60 794
+# Colorado
+# Interstates (CO)
+# US Highways (CO)
+CO US160 CO140 MikeWashRd
 
-CA I-40 1 NC I-40 301
+# Connecticut
+# Interstates (CT)
+CT I-84 57 CT/MA
+CT I-91 1 29
+CT I-91 35 40
+CT I-95 NY/CT 15
+CT I-95 27 48
+CT I-291 1 6
+# US Highways (CT)
 
-NC I-73 103 111
-NC I-85 131B NC/VA
+# Delaware
+# Interstates (DE)
+DE I-95 8 DE/PA
+
+# District of Columbia
+# Interstates (DC)
+DC I-95 VA/DC DC/MD
+DC I-295 MD/DC 5
+DC I-395 VA/DC US50
+DC I-495 VA/DC DC/MD
+DC I-695 I-395 2A
+
+# Florida
+# Interstates (FL)
+FL I-4 74A 132
+FL I-75 220 80
+FL I-95 FL/GA 249
+FL I-275 39B 5
+FL I-295 35 58
+FL I-395 1 FLA1A
+FL I-795FutJac I-295 4
+
+# Georgia
+# Interstates (GA)
+GA I-16 157 167
+GA I-75 271 259
+GA I-85 72 68
+GA I-95 GA/SC FL/GA
+GA I-285 57 20
+
+# Guam (not visited)
+
+# Hawaii
+# Interstates (HI)
+HI I-H1 5 21A
+HI I-H201 1A I-H1
+
+# Idaho (not visited)
+
+# Illinois
+# Interstates (IL)
+IL I-80 IA/IL 4
+IL I-88 I-290 1
+IL I-94 66A IL/IN
+IL I-190 ChiOHAir 1C
+IL I-294 40A 7
+
+# Indiana
+# Interstates (IN)
+IN I-94 IL/IN 26
+
+# Iowa
+# Interstates (IA)
+IA I-80 254 IA/IL
+
+# Kansas (not visited)
+
+# Kentucky
+# Interstates (KY)
+KY I-71 185(75) KY/OH
+KY I-275 4 84
+
+# Louisiana
+# Interstates (LA)
+LA I-10 221 234A
+
+# Maine (not visited)
+
+# Maryland
+# Interstates (MD)
+MD I-83 14 1
+MD I-95 55 52
+MD I-270 2 32
+MD I-270SprAsh I-495 2
+MD I-295 I-95/495 MD/DC
+MD I-370 1 3
+MD I-495 3 DC/MD
+MD I-495 33 23
+MD I-695 19 28
+MD I-795 1 9
+
+# Massachusetts
+# Interstates (MA)
+MA I-84 CT/MA I-90
+MA I-90 MA1A NY/MA
+MA I-91 CT/MA 11
+MA I-93 28 7
+MA I-95 64 39B
+MA I-95 RI/MA 26
+MA I-195 26 40
+
+# Michigan (not visited)
+
+# Minnesota
+# Interstates (MN)
+MN I-35 127 132
+MN I-35E 103A 127
+MN I-35W 11B 17C
+
+# Mississippi
+# Interstates (MS)
+
+# Missouri (not visited)
+
+# Montana (not visited)
+
+# Nebraska (not visited)
+
+# Nevada
+# Interstates (NV)
+NV I-11 91 AZ/NV
+NV I-15 CA/NV NV/UT
+NV I-80 CA/NV 15
+NV I-213 1 12
+NV I-580 36 58
+
+# New Hampshire (not visited)
+
+# New Jersey
+# Interstates (NJ)
+NJ I-80 43 57
+NJ I-95 9 13A
+NJ I-287 17 36
+NJ I-295 67 NJ/PA
+
+# New Mexico
+# Interstates (NM)
+NM I-25 191 276
+NM I-40 AZ/MN MN/TX
+NM I-25BLBel I-25_S I-25_N
+NM I-40BLGal I-40_W I-40_E
+NM I-40BLGra I-40_W I-40_E
+
+# New York
+# Interstates (NY)
+NY I-87 1 10
+NY I-90 1 NY/MA
+NY I-95 7 NY/CT
+NY I-190 16 22
+NY I-290 I-90 I-190
+NY I-295 5 10
+NY I-495 22A 41
+NY I-495 53 63
+NY I-678 12 19
+NY I-695 I-95 I-295
+
+# North Carolina
+# Interstates (NC)
+NC I-26 4A(240) 54
+NC I-40 TN/NC 390
+NC I-73 22 111
+NC I-74 17 VA/NC
+NC I-74Hig 86 22(73)
+NC I-77 13 SC/NC
+NC I-85 SC/NC NC/VA
+NC I-87 3 13
+NC I-240 9 31(26)
+NC I-277 1B 5
+NC I-285 107(52) I-85
+NC I-440 1 16
+NC I-485 30 I-85(48)
+NC I-540 1 26
+NC I-785 I-85 14(840)
+NC I-840 I-85 103(73)
+NC I-885 5 13
+NC I-85BLGre 33 I-85_N
+NC I-85BLLex I-85_N I-85_S
+NC I-73FutMad NC68 NC/VA
+NC I-74FutPil US52 I-74_W
+NC I-87FutRoc 13 464(64)
+# US Highways (NC)
+
+# State Highways (NC)
+
+# North Dakota (not visited)
+
+# Northern Mariana Islands (not visited)
+
+# Ohio
+# Interstates (OH)
+OH I-71 KY/OH 2
+OH I-75 1E 52
+
+# Oklahoma
+# Interstates (OK)
+OK I-35 55 126
+OK I-40 53 OK/AR
+
+# Oregon
+# Interstates (OR)
+
+# Pennsylvania
+# Interstates (PA)
+PA I-76 320 344
+PA I-95 DE/PA 12
+PA I-276 351
+PA I-476 16 I-95
+PA I-676 I-76 5thSt
+
+# Puerto Rico
+# Interstates (PR)
+PR I-PR1 PR22 PR2
+PR I-PR2 PR26 PR52
+
+# Rhode Island
+# Interstates (RI)
+RI I-95 36B RI/MA
+
+# South Carolina
+# Interstates (SC)
+SC I-77 5 SC/NC
+SC I-85 SC/NC 51B
+SC I-95 164 GA/SC
+SC I-385 19 42
+
+# South Dakota (not visited)
+
+# Tennessee
+# Interstates (TN)
+TN I-26 32 37
+TN I-40 235 407
+TN I-55 TN/AR 6
+TN I-65 53 59
+TN I-240 16 25
+TN I-840 31 76
+
+# Texas
+# Interstates (TX)
+TX I-10 572 763
+TX I-35E 431 433A
+TX I-37 133 142
+TX I-40 NM/TX TX/OK
+TX I-45 24 40
+TX I-69 94 147
+
+# Utah
+# Interstates (UT)
+UT I-15 AZ/UT 95
+
+# U.S. Virgin Islands
+# Interstates (VI)
+
+# Vermont (not visited)
+
+# Virginia
+# Interstates (VA)
+VA I-64 187 190
+VA I-66 1 44
+VA I-77 NC/VA VA/WV
+VA I-81 81 315
+VA I-85 NC/VA 68
+VA I-95 51 VA/DC
+VA I-395 1 VA/DC
+VA I-495 VA/DC MD/VA
+VA I-581 1 6
+
+# Washington
+# Interstates (WA)
+WA I-5 127 230
+
+# West Virginia
+# Interstates (WV)
+WV I-77 VA/WV 14
+
+# Wisconsin
+# Interstates (WI)
+WI I-43 80 316(94)
+WI I-94 310C 318
+
+# Wyoming (not visited)

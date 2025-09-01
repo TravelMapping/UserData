@@ -1,4 +1,4 @@
-# MBTA rapid transit (preview) - all lines clinched on 2023-01-27
+# MBTA rapid transit - all lines clinched on 2023-01-27
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
 MA RedLn Ash Ale
@@ -9,28 +9,89 @@ MA GreLnC CleCir GovCen
 MA GreLnD Riv UniSq
 MA GreLnE HeathSt MedTuf
 
-# Washington Metro (preview)
+# MBTA Commuter Rail
+MA ProLn Rte128 BosSou
+
+# Washington Metro
 MD RedLn Bet DC RedLn UniSta
 DC OraLn FogBotGWU CapSou
 DC GreLn LEnfPla MtVerSq
 
-# Métro de Montréal (preview)
+# Métro de Montréal
 QC GreLn LioGro PieIX
 QC OraLn Sno BerUQAM
 QC BluLn Sno CotDesNei
 
-# Los Angeles Metro (preview)
+# Los Angeles Metro
 CA A UniSta Arc
 
-# New York City Subway (preview)
-NY N AstBlvd LexAve59St
+# Chicago L
+IL OraLn Mid Loop
 
-# NJ Transit (preview)
+# Toronto subway and streetcars
+ON 1 Spa Uni
+ON 1 King Que
+ON 1 Col BloYon
+ON 2 HighPk MainSt
+ON 501 GlenAve SpaAve
+ON 504a PetSt YonSt
+ON 504a SumSt MillStDisLp
+ON 504b SumSt GerStE
+ON 506 AugAve Col
+ON 506 BroAve MainStSta
+ON 510 SpaSta ColSt
+ON 510 QueStW ReesSt
+
+# New York City Subway
+NY A 34StPennSta 14St
+NY A ChaSt FulSt
+NY C 34StPennSta FulSt
+NY E JamCenParArc JacHeiRooAve
+NY E 34StPennSta W4thSt
+NY B 34StHerSq AtlAveBarCen
+NY D 42StBryPk 34StHerSq
+NY F JacHeiRooAve JayStMetTech
+NY M DelStEssSt 34StHerSq
+NY L 8Ave LivAve
+NY J BroSt DelStEssSt
+NY N AstBlvd AtlAveBarCen
+NY Q 96St AtlAveBarCen
+NY R JacHeiRooAve 57St7Av
+NY R 34StHerSq RecSt
+NY W 34StHerSq 8StNYU
+NY 1 116StColUni CorStWTC
+NY 2 E180St 135St
+NY 2 34StPennSta BorHall
+NY 3 135St NewLotsAve
+NY 4 42StGraCen AtlAveBarCen
+NY 5 EasDyreAve E180St
+NY 5 42StGraCen BroBriCityHall
+NY 6 GraCen BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY S42 TimSq GraCen
+
+# PATH
+NJ PATHNWT NewPenn NY PATHNWT WTC
+NJ PATHJ33 GroSt NY PATHJ33 33St
+
+# NJ Transit
 NY NECorLn PennSta NJ NECorLn NewPenn
 
-# Amtrak (devel)
-NY AE PennSta MA AE BosSou
+# Long Island Rail Road
+NY PortJefBra PennSta Hic
+NY WHemBra AtlTer Jam
 
-# Chennai Metro (devel)
+# Metro-North
+NY NewHavLn GraCen Pel
+
+# Amtrak
+NY AE PennSta MA AE BosSou
+NY NENew PennSta MA NENew BosSou
+
+# Chennai Metro
 IND-TN BluLn Cen Ala
 IND-TN GreLn Cen Ala
+
+# Delhi Metro
+IND-DL VioLn DelGate ManHou
+IND-DL BluLn Aks ManHou

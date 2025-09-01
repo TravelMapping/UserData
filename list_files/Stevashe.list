@@ -17,9 +17,11 @@
       PA I-76 342 344
       CA I-80 1A NV I-80 18
       WA I-82 I-90 OR I-82 11
-      OR I-84 I-5 64
-        OR I-84 87 104
-        OR I-84 179 209
+      OR I-84 I-5 OR I-84 69
+        OR I-84 87 ID I-84 3
+        ID I-84 9 ID I-84 27
+        ID I-84 38 ID I-84 49
+        ID I-84 54 ID I-84 90
       WA I-90 4thAve MT I-90 306
         MA I-90 134 MA1A
       MA I-93 14 28
@@ -66,6 +68,7 @@
       CA I-880 I-280 46B
       CA I-980 I-880 2B
       WA I-182 I-82 14
+      ID I-184 0 US20/26
       PA I-283 1 3
       MN I-494 70 11C
       ME I-295 I-95(44) I-95(103)
@@ -97,7 +100,7 @@
       ME US2 US1_N US1_S
     CO US6 I-70(171) US40_E
       CO US6 I-70(261) I-70(276A)
-    WA US12 HorWay WA US12 WA8
+    WA US12 US101 WA US12 WA8
       WA US12 I-5(88) MT US12 I-90(174)
       MT US12 MT141 MT US12 US287_S
       MI US12 I-94(181) MI US12 I-94(185)
@@ -105,16 +108,18 @@
     FL US17 US192_W LanRd
     OR US20 WavDr I-5
       OR US20 ButMarRd PilButSP
+      ID US20 I-184 I-84(90)
+      ID US20 I-84(95) I-15(118)
     PA US22 PA443 PA230
     MI US24 MI153 US24Bus_N
       MI US24 MI15 I-75
     OR US26 OR47_N US97_S
+      ID US26 I-15/20Bus ID31
     OR US30 US101 ToWA433
       OR US30 I-405(3) I-84(44)
       OR US30 I-84(44A) I-84(62)
-      OR US30 OR281 I-84(64)
-      OR US30 US197 I-84(104)
-      OR US30 I-84(179) I-84(207)
+      OR US30 OR281 I-84(207)
+      OR US30 I-84(376) ID US30 I-84(9)
       PA US30 PA741 PA US30 PA41
       PA US30 US322 NJ US30 CooSt
     CA US50 I-80 CA/NV
@@ -126,8 +131,10 @@
     AR US70 AR192 US270_E
     TX US71 AR/TX TX US71 TXLp14
     TX US75 MidRd AraRd
+    TX US79 US79BusCar_S US59_N
     TX US80 TX31 TXLp390_E
     TX US84 FM3055 US259
+    MT US89 ParkSt GoiSunRd
     MT US93 I-90(101) LionMouRd
     ID US95 I-90(12) US2_E
     CA US97 I-5 WA US97 WA/Can
@@ -142,7 +149,8 @@
     NJ US130 I-76Con NJ90
     MI US131 81 86
     MN US169 I-494 ValViewRd
-    MT US191WYe YelNP_S MT US191 MT86
+    WY US191 WY22 YelNP
+      MT US191WYe YelNP_S MT US191 MT86
     FL US192 FL429 US17/441
     WA US195 WA272 WA26
       WA US195 HatRd I-90
@@ -169,26 +177,51 @@
 
   #--National Parks--
 
-    WA SteCynRd WA706 WA123
-    WA SunParkRd Sun WA410
-    WA HurRidRd ParkAve End
-    WA UppHohRd US101 HohVisCen
-    OR CraCrkRd OR62 RimDr
-    OR CraLakeHwy RimDr OR138
-    OR CraLakeRimDr CraLakeHwy_W CraCrkRd
-    CA KinCanRd CA180_W GenHwy
-    CA LasPeakHwy CA89_S CA44/89
-    CA GenHwy CA198 KinCanRd
-    CA BigOakRd CA120 ElPorRd
-    CA ElPorRd BigOakRd SouDr_E
-    CA WawRd CA41 SouDr
-    MT GoiSunRd US2 LakeMcDon
-    MT WEntRd US20/191 WY WEntRd GraLoopRd
-    WY GraLoopRd NorCanRd_W NorCanRd_E
-    WY NorCanRd GraLoopRd_W GraLoopRd_E
-    ME ParHillRd ParkLpRd VisCenRd
-    ME ParkLpRd SieMonRd_S SieMonRd_N
-    ME CadSumRd ParkLpRd End
+    #Mt Rainier
+      WA SteCynRd WA706 WA123
+      WA SunParkRd Sun WA410
+    
+    #Olympic
+      WA HurRidRd ParkAve End
+      WA UppHohRd US101 HohVisCen
+
+    #Crater Lake
+      OR CraCrkRd OR62 RimDr
+      OR CraLakeHwy RimDr OR138
+      OR CraLakeRimDr CraLakeHwy_W CraCrkRd
+      
+    #Lassen Volcanic
+      CA LasPeakHwy CA89_S CA44/89
+    
+    #Yosemite
+      CA BigOakRd CA120 ElPorRd
+      CA ElPorRd BigOakRd SouDr_E
+      CA WawRd CA41 SouDr
+      
+    #Kings Canyon
+      CA KinCanRd CA180_W GenHwy
+      
+    #Sequoia
+      CA GenHwy CA198 KinCanRd
+
+    #Glacier
+      MT GoiSunRd US2 US89
+      
+    #Yellowstone
+      MT NEntRd OldGarRd MT NEntRd US89
+      MT OldGarRd NEntRd WY OldGarRd NEntRd
+      MT WEntRd US20/191 WY WEntRd GraLoopRd
+      WY GraLoopRd NEntRd_W NEntRd_E
+      WY NorCanRd GraLoopRd_W GraLoopRd_E
+      WY SEntRd US89/191 GraLoopRd
+      
+    #Grand Teton
+      WY TetParkRd US26/89 US89/191
+      
+    #Acadia
+      ME ParHillRd ParkLpRd VisCenRd
+      ME ParkLpRd SieMonRd_S SieMonRd_N
+      ME CadSumRd ParkLpRd End
 
   
   #--Alaska--
@@ -235,6 +268,7 @@
       WA WA21 US2_E US2_W
       WA WA22 I-82(50) I-82(82)
       WA WA24 I-82 WA243
+      WA WA26 I-90 US195
       WA WA26 I-90 WA243
       WA WA27 WA272_E WA290
       WA WA28 US2/97 WA285
@@ -361,9 +395,14 @@
 
     #OR US Banner Routes
       OR US26BusGov US26_W US26_E
+      OR US30BypPor I-205 US30_E
       OR US97BusBen US97_S US97_N
       OR US97BusKla US97_S US97_N
       OR US101BusAst US101_S US101_N
+      
+      #OR US Historic Routes
+        OR US30HisCol I-84(18) I-84(37)
+        OR US30HisCas I-84(44) I-84(51)
 
     #OR Oregon Routes
       OR OR6 US101/131 US26
@@ -379,6 +418,7 @@
       OR OR62 OR99/238 OR140
         OR OR62 OR234 CraLakeNP
       OR OR66 OR99 OR140
+      OR OR74 I-84/US30 WilCreRd
       OR OR99 I-5(11) I-5(192)
         OR OR99E OR43 I-5(307)
       OR OR104 US101 LakeDr
@@ -521,13 +561,22 @@
   #--Idaho--
 
     #ID Interstate Business Routes
+      ID I-84BLCal I-84_W I-84_E
+      ID I-84BLMou I-84_W I-84_E
       ID I-90BLPos I-90_W I-90_E
       ID I-90BLOsb I-90_W I-90_E
       ID I-90BLWal I-90_W I-90_E
       ID I-90BLMul I-90_W I-90_E
+      
+    #ID US Banner Routes
+      ID US20BusIda US20_W US26_E
+      ID US26BusRir ID48 US26_E
 
     #ID State Highways
+      ID ID31 US26 ID33
+      ID ID33 ID31 ID/WY
       ID ID41 ID53_W US2
+      ID ID48 CRA4 US26Bus
       ID ID53 WA/ID ID41_N
       ID ID57 US2 WSideRd_N
       ID ID128 WA/ID US12
@@ -541,6 +590,7 @@
       MT I-90BLMis I-90_W I-90_E
       MT I-90BLDee I-90_W I-90_E
       MT I-90BLBoz I-90_W MT86
+      MT I-90BLLiv ParkSt_W I-90_E
 
     #MT US Banner Routes
       MT US12BusMis US12_W US12_E
@@ -550,7 +600,7 @@
     #MT Montana Highways
       MT MT1 I-90(208) I-90(153)
       MT MT2 I-15/90 I-90(278)
-      MT MT35 MT83 MT82
+      MT MT35 US93 SR206
       MT MT40 US93 US2
       MT MT28 MT200 US93
       MT MT64 WhiOttRd US191
@@ -561,21 +611,27 @@
       MT MT86 US191 BraCreRd
       MT MT135 I-90 MT200
       MT MT141 US12 MT200
-      MT MT200 MT28 MT135
-        MT MT200 US93_N I-90(96)
+      MT MT200 SR471 I-90(109)
         MT MT200 MT83 MT141
 
     #MT Secondary Highways
       MT SR205 I-90(278) BufJumpRd
       MT SR205 I-90(278) I-90(306)
+      MT SR206 MT35 US2
       MT SR290 SR291 AirBlvd
       MT SR291 I-90 GolWestDr
       MT SR345 US191 StuRd_E
       MT SR411 SR205 SypCynRd
       MT SR412 US191 SR411
+      MT SR471 ID/MT MT200
       MT SR487 US93 End
 
  
+  #--Wyoming--
+  
+    #WY Highways
+  
+  
   #--Colorado--
   
     #CO Named Freeways
@@ -596,12 +652,15 @@
       TX TX43 TXLp390_S TX77
       TX TX49 TX155 US59
       TX TX64 TX243 TX31
+      TX TX77 US59_S TX43
       TX TX78 I-30 I-635
       TX TX93 I-369/59 US67
       TX TX103 US59/69 FM842
+      TX TX149 TX315 US79_N
       TX TX154 US259 TXLp390
       TX TX155 US259 TX49
       TX TX243 TX34 TX64
+      TX TX315 US259 TX149
 
       #TX State Highway Banner Routes
         TX TX105BusCle FM1725 TXLp573_S
@@ -771,9 +830,6 @@
         ME ME100AWin ME100_S ME100_N
         ME ME137BusWat SprSt_W ME137_E
         
-
-
- 
  #----CANADA----
   
   #--Trans-Canada Highway--

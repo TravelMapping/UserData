@@ -1,0 +1,717 @@
+#This list is intended for mapping roads that are explicitly signed as a beltway, ring, loop, etc in some way, or implicitly such (eg inner/outer directions). Doesn't have to be a complete ring, but does exclude Business Loop type roads even though they have 'loop'.
+
+#AUSTRALIA# - incomplete
+##Adelaide##
+AUS-SA R1 A1_E A1_W
+##Canberra##
+AUS-ACT A23 StaCir_N StaCir_S
+AUS-ACT AdeAve A23 StaCir_W
+##Mackay##
+#Mackay Ring Road not in browser
+##Melbourne##
+AUS-VIC M80 M1 MR46
+##Townsville##
+AUS-QLD A1 QLD14 QLD13
+
+#BELGIUM#
+##Aalst##
+BEL R41 A10 N9_E
+##Aarschot##
+BEL R25 N223 N10_E
+##Antwerp##
+BEL R1 7 A1_N
+BEL R2 A12 A11
+BEL R10 LedKaai N1/N180
+BEL R11 N148 N12/N112
+##Brugge##
+BEL R30 R30 N9
+##Brussels##
+BEL R0 A4_N A4_S
+BEL R20 A10 R20_N
+BEL R21 A12 FraRooLaan
+BEL R22 CokSt N5
+##Charleroi##
+BEL R3 A15_W N568a
+BEL R9 27E 27O
+##Chatelet##
+BEL R53 N576/N975_W N576/N975_S
+##Chimay##
+BEL R55 N939 N99
+##Diest##
+BEL R26 N2_S N2_E
+##Eeklo##
+BEL R43 B404 NieDor
+##Geel##
+BEL R14 N71 N19_N
+##Gent##
+BEL R4 1 N424
+BEL R40 N60_N N60_S
+##Hannut##
+BEL R62 N240 N80_S
+##Hasselt##
+BEL R70 N2_S N2_N
+BEL R71 N80_W N80_E
+##Kortrijk##
+BEL R8 3 N50
+BEL R36 R36y_W R36y_E
+BEL R36y R36_N R36_S
+##Leuven##
+BEL R23 N264_W N264_E
+##Lier##
+BEL R16 N14_N N13
+##Mechelen##
+BEL R6 N16 N15
+BEL R12 N16 N1
+##Mons##
+BEL R5 A7 N6_S
+BEL R5a A7 N538
+BEL R50 N50_N N50_S
+##Nivelles##
+BEL R24 N533 N93/N237
+##Poperinge##
+BEL R33 N308_W KroWeg
+##Oostende##
+BEL R31 N34_E N34
+##Retie##
+BEL R18 N118_N N18_E
+##Roeselare##
+BEL R32 N37_E N32/N36
+##Sint-Niklaas##
+BEL R42 N41 N70
+##Tienen##
+BEL R27 N3_W R27a
+BEL R27a R27 OplWeg
+##Torhout##
+BEL R34 A17 N32_S
+##Tongeren##
+BEL R72 N79_E N20_S
+##Tournai##
+BEL R52 N507_W N507_E
+##Turnhout##
+BEL R13 N124 N119
+##Verviers##
+BEL R61 N627 N672
+##Virton##
+BEL R80 N82_S N82_N
+##Waregem##
+BEL R35 N382b_E N382b_W
+
+#CANADA#
+##Regina##
+SK RingRd SK1/11 PasSt
+##Saskatoon##
+SK SK11 SK16_E IdyDr_S
+SK SK11Cir SK16_E SK16_W
+##Winnepeg##
+MB MB100 42 1
+MB MB101 42 1
+
+#DENMARK#
+##Aalborg##
+DNK O1Aal JFKPla_W JFKPla_E
+##Aarhus##
+DNK O1Aar MR_N StrVej
+DNK O2Aar SR451 SR505_E
+DNK O3Aar SR501 SR451
+##Bilund##
+DNK O1Bil MR_W MR_E
+##Brønderslev##
+DNK O1Bro BreGade_S BreGade_N
+DNK O2Bro SR190_N SR190_S
+##Fredericia##
+DNK OFre KobGade_N PriGade_E
+##Grenå##
+DNK OGre BavVej_N BavVej_W
+##Haderslev##
+DNK OHad SR170_N PR47
+##Helsingør##
+DNK O1Hel SR237_N SR237_S
+DNK O2Hel O3_S O3_N
+DNK O3Hel SR152 SR237
+##Herning##
+DNK OHer SR195_E SR195
+##Hillerød##
+DNK O2Hil PR6_S PR16_E
+##Hjørring##
+DNK OHjo PR35 PR35_W
+##Holstebro##
+DNK OHol HerVej SkjVej
+DNK O2Hol MR_S SR521
+##Horsens##
+DNK O1Hor HoeGulGade_E HoeGulGade_W
+##København##
+DNK O2Kob PR21_S PR21_W
+DNK O3Kob E47/E55(19) SR151
+DNK O4Kob E47/E55 E20/E47
+##Kolding##
+DNK OKol SR191_W SR191
+##Næstved##
+DNK ONas RinVej_E RinVej_W
+DNK O2Nas PR22_E PR22_W
+##Nykøbing Falster##
+DNK ONyk VesAlle_N EngBlvd_W
+##Odense##
+DNK O1Ode RudVej_N RudVej_S
+DNK O2Ode SR160/301_W SR160/301_E
+DNK O3Ode PR9 SR165
+##Randers##
+DNK O1Ran UdbVej_N UdbVej_W
+##Roskilde##
+DNK O1Ros MR_E MR_W
+DNK O2Ros PR6_N MR_S
+##Sæby##
+DNK OSab FreVej_N SkovAll_E
+##Skagen##
+DNK ONSka FreVej_E FyrVej_W
+##Skive##
+DNK OSki NorBlvd HavVej
+##Thisted##
+DNK OThi KirVej_W KirVej_E
+##Vejle##
+DNK O1Vej SR170_S SR170_W
+DNK O2Vej O1_W O1_N
+##Viborg##
+DNK OVib RodeVej_W RodeVej_E
+##Vordinborg##
+DNK OVor ChrWinVej AlGade_W
+
+#FINLAND#
+##Helsinki##
+FIN Keha1 Kt51 St170
+FIN Keha2 St110 Kt51
+FIN Keha3 Kt51 SeiKatu
+
+#FRANCE#
+##Bordeaux##
+FRA-NAQ A630 A10/N230 21
+FRA-NAQ N230 1 21
+##Caen##
+FRA-NOR N814 1 A13
+##Lyon##
+FRA-ARA TEO 1 A42
+FRA-ARA D383-69M A42 A7
+##Nantes##
+FRA-PDL A844 36 38
+FRA-PDL N844 38 36
+##Rennes##
+FRA-BRE N136 1 N157
+##Paris##
+###Péripherique###
+FRA-IDF BP A4_S A4_N
+###Super-Péripherique###
+FRA-IDF A86 26 25
+FRA-IDF N186Orl 25 26
+###Francillien###
+FRA-IDF N104Gou N184 A1
+FRA-IDF N1104 A1 N2
+FRA-IDF N2 A104_S 5
+FRA-IDF A104 N2_E A4/N104
+FRA-IDF N104 A4 A10
+##Toulouse##
+FRA-OCC A61 A62/A68 A620
+FRA-OCC A62 A620 A61/A68
+FRA-OCC A620 A61 A62
+
+#GERMANY#
+##Erfurt##
+#Stadt-ring not in browser
+##Gießen##
+DEU-HE B49 B429 7(A485)
+DEU-HE B429 A480 B49
+DEU-HE A480 3 4
+DEU-HE A485 1 7
+##Hamburg##
+DEU-HH Ring1 B4_W B4_E
+DEU-HH Ring2 BreStr A1
+DEU-HH Ring3 ElbCha HH/SH
+DEU-SH Ring3 HH/SH SH/HH
+DEU-HH Ring3Pop SH/HH SasCha
+##Munchen##
+#Altstadtring not in browser
+DEU-BY B2R A95_E A95_W #Mittlerring
+##Nürnberg##
+DEU-BY B4R B4_E B4_W
+
+#IRELAND#
+##Cork##
+IRL CorIOCW J1 N27
+IRL CorIOACW J7 J12
+##Dublin##
+IRL DubIOACW J40 R802
+IRL DubIOCW J1 R105
+IRL DubOO J51 R813
+##Kilkenny##
+IRL KilRR J1 J10
+##Sligo##
+IRL SliCityLp J1 R292
+
+#ITALY# - incomplete (just done motorways)
+##Bologna##
+ITA RA1 A14Cas A14
+ITA RA1Bol A14 RA1
+##Catania##
+ITA RA15 A18 SS114
+##Como##
+ITA A59 SP19 SP24
+##Mestre##
+ITA A57 A4_W A4_E
+##Milano##
+ITA A1 A1Mil_N A50_S
+ITA A50 A8 A1_S
+ITA A51 1 23
+ITA A52 A51 A50
+ITA A58 1 A1
+##Naples##
+ITA A1Cap A1 A56
+ITA A56 1 14
+##Pavia##
+ITA A54 SS35_S SS35_N
+##Roma##
+ITA AGRA 1 SS1
+##Torino##
+ITA A55 A6 A55Fal
+ITA A55Fal A55 StrSet
+##Varese##
+ITA A60 SP57 SS712
+
+#NEW ZEALAND#
+##Auckland##
+NZL SH16 8B 19
+NZL SH18 SH1 11
+NZL SH20 1 24
+##Christchurch##
+NZL RRRChr ColSt_W ColSt_E
+##Hamilton##
+NZL RRHRHam SH3_W SH3_E
+
+#NETHERLANDS#
+##Curacao##
+CUW RingCur FDRWeg_1 FDRWeg_2
+##Alkmaar##
+NLD RingAlk A9_W A9_E
+##Almelo##
+NLD RingAlm Sti_N Sti_S
+##Alphen a/d Rijn##
+NLD RingAlp N11/N207_W N11/N207_E
+##Amsterdam##
+NLD CenRingAms S102_E S102_W
+NLD RingAms A8_W A8_E
+##Apeldoorn##
+NLD RingApe N344_N N344_S
+##Arnhem##
+NLD CenRingArn N224_W N224_E
+##Assen##
+NLD RingAss HaarWeg_W HaarWeg_E
+##Barendrecht##
+NLD RingBar A15_E A15_W
+##Breda##
+NLD RingBre DwaDijk_W DwaDijk_E
+##Den Haag##
+NLD CenRingDen S101_S S101_N
+NLD RingDen N44_E N44_W
+##Eindhoven##
+NLD RingEin TilWeg_W TilWeg_E
+##Enschede##
+NLD RingEns ZuiVal_W ZuiVal_E
+##Groningen##
+NLD RingGro N7/N46_E N7/N46_W
+##Hilversum##
+NLD RingHil A27_W A27_E
+##Hoofddrop##
+NLD RingHoo N205_W N205_E
+##Leeuwarden##
+NLD RingLee DraWeg_W DraWeg_E
+##Lelystad##
+NLD RingLel HouDre_N HouDre_S
+##Rijssen##
+NLD RingRij EntStr_N EntStr_S
+##Roosendaal##
+NLD RingRoo SpoStr_E SpoStr_W
+##Rotterdam##
+NLD CenRingRot S112_E S112_W
+NLD RingRot A4/A20_N A4/A20_S
+##s'Hertogenbosch##
+NLD RingSHer A59_N A59_S
+##Spijkenisse##
+NLD RingSpi N493_E N493_W
+##Tilburg##
+NLD RingTil N261_E N261_W
+##Utrecht##
+NLD RingUtr A2_S A2_N
+##Weert##
+NLD RingWee N275_E N275_W
+##Zoetermeer##
+NLD RingZoe N206_W N206_E
+##Zwolle##
+NLD RingZwo MidWeg_E MidWeg_W
+
+#NORWAY#
+##Oslo##
+NOR Ring1 E6/E18 E18(5a)
+NOR Ring2 E6 E18
+NOR Ring3 32(E6) E18
+
+#POLAND#
+##Krakow##
+POL A4 51 52
+POL S7EKr R9 R11
+POL S52Kra R13 R17
+POL DK52Kra R17 R18
+POL S52WKr R18 R1
+##Warsaw##
+POL S8 R10b R1
+POL S2 R9 R17
+POL S17 R18 1
+
+#SPAIN#
+##Barcelona##
+ESP-CT B10 19(W) B20/C58
+ESP-CT B20 18(M) 16
+
+#UNITED KINGDOM#
+##Andover##
+ENG AndRR A303_E A303_W
+##Avon##
+ENG AvonRR A38 A4
+##Ayr##
+SCT AyrRR A713_W A713_E
+##Bangor##
+NIR BanRR B20 A2_E
+##Basingstoke##
+ENG BasRR A30_W A33_S
+##Belfast##
+NIR BelIR A6_E A6_W
+NIR BelOR A6 A2
+##Birmingham##
+ENG BirRR 1 A435
+##Blackburn##
+ENG BlaOR 1 A666_S
+ENG BlaRR A677 M65
+##Bolton##
+ENG BolRR A676_W A579
+##Bournemouth##
+ENG BouRR A347_W A347_E
+##Bradford##
+ENG BraCRR A650_N A6181_N
+ENG BraRR M606_E M606_W
+##Cambridge##
+ENG CamRR A603_S A603_N
+##Chichester##
+ENG ChiRR B2178_N B2178_S
+##Coleraine##
+NIR ColRR B185 B201
+##Coventry##
+ENG CovRR 1 B4113
+##Derby##
+ENG DerIRR 2 A52_E
+ENG DerRR A6_S A6_E
+##Dewsbury##
+ENG DewRR B6409_E B6409_W
+##Dundee##
+SCT DunRR A923_W A923_E
+##Eastbourne##
+ENG EasRR B2107_E B2107_W
+##Hanley##
+ENG HanRR A5010 A5006_N
+##Huddersfield##
+ENG HudRR A641_E A641_W
+##Hull##
+ENG HullRR IngLn A1033_E
+##Huntingdon##
+ENG HunRR PatLinkRd_E PatLinkRd_W
+##Kidderminster##
+ENG KidRR A442/A451 A442/A4535
+##Leeds##
+ENG LeeCCL J1_W J1_E
+ENG LeeIRR A65 A653
+ENG LeeRR A653 M1
+##Leicester##
+ENG LeiCR A607_E A607_W
+ENG LeiOR A5460_N A5460_S
+##Liverpool##
+ENG LivRR A565 A561
+##London##
+ENG LonRR A1202 A1210
+ENG LonNCir A4 WooFry
+ENG LonSCir WooFry A4
+ENG LonOrb 1A A206
+##Loughborough##
+ENG LouRR A6_S A60
+##Manchester##
+ENG ManRRInn A5103_E A5103_W
+ENG ManRROut 18 M62_E
+##Northampton##
+ENG NhtRR A4500 A428
+##Norwich##
+ENG NorRR A1074_S A1074_N
+##Nottingham##
+ENG NotRR A453 A60
+##Nuneaton##
+ENG NunRR B4102_S B4102_N
+##Oxford##
+ENG OxfRR A420_W A420_E
+##Perth##
+SCT PerRR A912_N A85_W
+##St Helier##
+JEY SHRR A1 A17
+##Salisbury##
+ENG SalRR A338_S A360
+##Sheffield##
+ENG SheRRInn 1 A57_E
+ENG SheRROut A61_S A61_N
+##Skelmersdale##
+ENG SkeRR A5068_W A5068_E
+##Southampton##
+ENG SouRR A33_N A335
+##Stourbridge##
+ENG StoRR A451_W A451_E
+##Sunderland##
+ENG SunIRR B1294 A183
+##Swindon##
+ENG SwiRR B4006_W B4006_E
+##Walsall##
+ENG WalRR B4210_E B4210_W
+##Watford##
+ENG WatRR A411_N A411_W
+##Wolverhampton##
+ENG WolRR A4123_E A4123_W
+##Wrexam Industrial Estate##
+WLS WIERR ClyRd_N ClyRd_S
+##York##
+ENG YorkIRR B1363_E B1363_W
+
+#UNITED STATES# - not complete at all
+##ALABAMA##
+###Dothan###
+AL AL210 US431_S US231_S
+
+##ARIZONA##
+###Phoenix##
+AZ AZ101 1 61B
+AZ AZ202 1A 78
+AZ AZ303 CanTraBlvd I-17
+
+##DC##
+###Capital Beltway##
+MD I-495 DC/MD MD/VA
+DC I-495 VA/DC DC/MD
+VA I-495 MD/VA VA/DC
+
+##FLORIDA##
+###Jacksonville###
+FL I-295 I-95 61
+###Orlando###
+FL FL417 I-4 55A
+FL FL429 1 55A
+###Tallahassee##
+FL US319 FL61/263 FL61
+FL FL263 US319 US27
+
+##GEORGIA##
+###Athens###
+GA GA10LpAth 1 US78
+###Rome###
+GA GA1LpRom US411 GA20
+GA GA1LpRoW GA1 GA20
+###Sylvania###
+GA GA73LpSyl GA73_S GA73_N
+###Tallulah Falls###
+GA GA15LpTal GA15_S GA15_N
+
+##KENTUCKY##
+###Elizabethtown###
+KY KY3005 End US62_E
+###Glasgow###
+KY US68 US68BusGla_W US68BusGla_E
+KY KY1519 KY1307 US68/68Bus
+KY KY3600 KY1297 US68/68Bus
+###Lexington###
+KY KY4 US27 19
+
+##MARYLAND##
+###Baltimore###
+MD I-695 BroHwy 44
+
+##NEW YORK##
+###New York City###
+NY BeltPkwy I-278 25
+###Rochester###
+NY InnLoop I-490 UniSt
+
+##NORTH CAROLINA##
+###Charlotte###
+NC I-277 1B 5
+NC I-485 30 I-85(48)
+
+##OKLAHOMA##
+###Okmulgee###
+OK OK56LpOkm US62 US75
+
+##PENNSYLVANIA##
+###Allegheny County, PA### (note many bits not in browser)
+####Purple####
+####Blue####
+PA US19 BasSt IvoAve
+PA US19TrkPit PotAve PioAve
+PA PA8 PA380_W HigParkBri
+PA PA28 3B 6
+PA PA50 BalRd PA121
+PA PA51 ChaAve_W McKRocBri
+PA PA51 PA88 MaySt
+PA PA88 McNRd PA51
+PA PA121 PotAve PA50
+PA PA837 WestSt BecRunRd
+####Green####
+PA US19 ThrDegRd SewOakRd
+PA PA8 PA130 HigParkBri
+PA PA8 DunAve HarRunRd
+PA PA28 6 8
+PA PA130 PA8 VerRd
+PA PA837 McKDuqBri RanBri
+####Yellow####
+PA I-79 65 68
+PA US19 ConRd PA121
+PA US22BusMon PA791 RodiRd
+PA PA50 HopeHolRd MainSt_W
+PA PA51 ForGroRd FerSt
+PA PA60 BeaGraRd CamRunRd
+PA PA88 BetChuRd ConRd
+PA PA121 US19 GreRd_S
+PA PA130 ThoSt PatSt
+PA PA148 PA148Trk_N US30
+PA PA148TrkMcK LysBlvd_W PA148_N
+PA PA380 PA791 HulRd
+PA PA791 US22Bus PA380
+PA PA885 LebChuRd_E LebChuRd_W
+PA PA910 CedRidRd FreRd
+####Orange####
+PA I-376 57 60
+PA I-376BLMoo UniBlvd I-376_E
+PA US22 McKRd I-376(60)
+PA PA48 PA51 US22Bus
+PA PA50 BowHillRd PreRd
+PA PA51 SewBri UniBlvd_W
+PA PA56 9thSt PA56Trk_W
+PA PA56TrkNew PA56_W PA366_E
+PA PA380 CenRd NewTexRd
+PA PA910 I-79 OakRd
+PA PA978 BatRidRd_E McKRd
+####Red####
+PA PA366 PA28 7thAve
+###Harrisburg###
+PA I-81 59 70
+PA I-83 41A 51
+PA PA581 1 6
+
+##TEXAS##
+###Abilene###
+TX TXLp322 US83/84 I-20
+###Amarillo###
+TX TXLp335 I-40(75)_N I-40(75)_S
+###Athens###
+TX TXLp7 TX31_A TX31_C
+###Austin###
+TX TXLp1 TX45_S TX45_N
+TX TXLp360 US290 US183
+###Belton###
+TX TXLp121 FM436 FM439
+###Carrizo Springs###
+TX TXLp517 US277 US83
+###Center###
+TX TXLp500 TX7_S US96_N
+###Commerce###
+TX TXLp178 TX224 TX11Bus
+###Conroe###
+TX TXLp336 FM2854_S FM2854_N
+###Crockett###
+TX TXLp304 TX19_W TX19_E
+###Dallas###
+TX TXLp9 I-35E I-45BL
+TX TXLp12 I-35E(436)_W I-35E(436)_E
+###Del Rio###
+TX TXLp79 US277_S US90_N
+###Denton###
+TX TXLp288 I-35 I-35E
+###Eagle Pass###
+TX TXLp480 IndBlvd US57
+###El Paso###
+TX TXLp375 TX20 I-10(13)
+###Gladewater###
+TX TXLp485 US271_S US271_N
+###Granby###
+TX TXLp567 US377 US377Bus
+###Harlingen###
+TX TXLp499 I-69E(23A) I-69E(29A)
+###Henderson###
+TX TXLp571 US79 US259
+###Houston###
+TX TXLp8 TX225_S TX225_N
+###Jacksonville###
+TX TXLp456 FM347 TX204
+###Kerrville###
+TX TXLp98 FM1338 TX16
+TX TXLp534 TX173 BenDr
+###Laredo###
+TX TXLp20 ManHeinRd WorTraBri
+###Longview###
+TX TXLp281 I-20(595) I-20(599)
+###Lubbock###
+TX TXLp289 I-27(1A)_W I-27(1A)_E
+###Lufkin###
+TX TXLp287 US59Bus_W US59Bus_E
+###Marshall###
+TX TXLp390 TX43_W US80_E
+###Midland###
+TX TXLp250 I-20(131) I-20(143)
+###Mineola###
+TX TXLp564 US80 US69_S
+###Monahans###
+TX TXLp464 TX18_S TX18_N
+###Nacogdoches###
+TX TXLp224 US59/259 TXLp224_E
+###New Braunfels###
+TX TXLp337 I-35(184) I-35(189)
+###Odessa###
+TX TXLp338 I-20(121)_N I-20(121)_S
+###Palestine###
+TX TXLp256 TX155_E TX155_W
+###Pampa###
+TX TXLp171 TX70_S TX70_N
+###Paris###
+TX TXLp286 FM79_E FM79_W
+###Perryton###
+TX TXLp143 FM1267 US83_N
+###Post###
+TX TXLp46 US84 US380/207
+###San Angelo###
+TX TXLp306 US67_W US67_E
+###San Antonio###
+TX TXLp13 US90 I-410
+TX TXLp1604 I-10(587)_S I-10(587)_N
+###Sulphur Springs###
+TX TXLp301 I-30/67 TX19/154
+###Tatum###
+TX TXLp42 TX70_S TX70_N
+###Temple###
+TX TXLp363 I-35(304)_W I-35(304)_E
+###Texarkana###
+TX TXLp151 I-369/59 TX/AR
+###Tyler###
+TX TXLp49 TX110_S US69_N
+TX TXLp323 TXLp323_S US271_N
+###Victoria###
+TX TXLp463 US77 US59
+###Waco###
+TX TXLp340 US84_W US77Bus
+TX TXLp396 TX6 US77
+###Wichita Falls###
+TX TXLp11 US277Bus I-44
+
+##VIRGINIA##
+###Hampton Roads###
+VA I-64 264 299
+VA I-664 1 15
+
+##WASHINGTON##
+WA WA100 WA100_W WA100_S
+
