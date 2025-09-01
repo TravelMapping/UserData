@@ -207,13 +207,24 @@ NC NC231 NC96 US64Bus #roadtrip 8-13-25
 NC NC540 64 67
 NC NC885 1 5
 #south carolina
-SC I-20 141 GA/SC
-SC I-85 51B SC/NC
-SC I-85 GA/SC 42
+SC I-20 141 GA/SC #florida trip
+SC I-85 51B SC/NC #florida trip
+SC I-85 GA/SC 42 #florida trip
 SC I-95 SC/NC GA/SC #flagler beach trip
 SC I-385 36 42 #florida trip
+SC US15 SC441 I-20(116) #congaree trip 8-31-25
 SC US29 US123 I-85(42)  #florida trip
+#SC US76 Congress Rd to Reese Rd, too small for a waypoint. congaree trip 8-31-25
+SC US76 SC263 SC441 #congaree trip 8-31-25
 SC US123 NorSt US29 #florida trip
+SC US601 I-20 SC262 #congaree trip 8-31-25
+SC SC9 I-95 SC57_N #congaree trip 8-31-25 - slightly shorter than waypoint here!
+SC SC48 MouViewRd SC769 #congaree trip 8-31-35 - stopped at sims rd, went as far as griffins creek rd
+#SC SC262 US601 Congress Rd, which is nowhere close to the next waypoint
+SC SC263 SC764 US76/378 #congaree trip 8-31-25
+SC SC441 US76/378 US15 #congaree trip 8-31-25
+SC SC764 PouLn SC263 #only as far as chalk st to the west. congaree trip 8-31-25
+SC SC769 ElmSavRd SC48 #congaree trip 8-31-25 - off old congaree road
 #georgia
 GA I-20 183 GA/SC
 GA I-75 99 102
