@@ -3425,6 +3425,12 @@ NC I-795 22 25
 NC NC581 NC581Con OldSmiRd
 NC US13 AshSt WayMemDr
 
+# 2025-08-31
+NC US70AltPin US70_W US70_E
+NC US70 I-40(298) I-40(306)
+NC I-40 219 227
+NC US29 I-85(120) I-85BL(36A)
+
 ################
 # NORTH DAKOTA #
 ################
