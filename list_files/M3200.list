@@ -118,6 +118,10 @@ AZ US89AHisCla AZ89A_S AZ89A_N
 AZ US80HisWel WilSt I-8(54)
 AZ US93 2 AZ/NV
 AZ US89AltFre US89 AZ/UT
+AZ US60HisMes May SosRd
+AZ US70HisMes May SosRd
+AZ US80HisMes May SosRd
+AZ US89HisMes SosRd May
 
 #CA_Interstates
 
@@ -1733,6 +1737,18 @@ OR US30 6thSt 15thSt
 OR US30BypPor US30_W 238thDr
 OR US30 ToWA433 I-84(44)
 OR US26 OR43 I-205
+
+#OR_USNationalHistoricTrails
+
+OR LCTrl US101_S BroSt
+OR LCTrl 6thSt 15thSt
+OR LCTrl ToWA433 LomSt_W
+OR LCTrlDal I-84(17) I-84(76)
+OR LCTrlDal I-84(82) I-84(83)
+OR ORTrlRiv I-205(10) I-205(22)
+OR ORTrlRiv I-84(9A) I-84(44)
+OR ORTrlRiv I-84(44A) I-84(76)
+OR ORTrlRiv I-84(82) I-84(87)
 
 #PA_Interstates
 
