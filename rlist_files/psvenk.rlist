@@ -98,3 +98,32 @@ IND-TN GreLn Cen Ala
 # Delhi Metro
 IND-DL VioLn DelGate ManHou
 IND-DL BluLn Aks ManHou
+
+# Métro de Paris
+FRA-IDF M1 ChaElyCle Bas
+FRA-IDF M2 Anv Nat
+FRA-IDF M3 StLaz HavCau
+FRA-IDF M4 GareNord StPla
+FRA-IDF M5 GareNord Rep
+FRA-IDF M6 Tro MotPicGre
+FRA-IDF M7 Pel PalRoyMusLou
+FRA-IDF M7 Cha SulMor
+FRA-IDF M8 MotPicGre EcoMil
+FRA-IDF M8 TourMau StrStDen
+FRA-IDF M9 StrStDen Mar
+FRA-IDF M10 MotPicGre Jus
+FRA-IDF M11 Ram Rep
+FRA-IDF M12 SevBab Conc
+FRA-IDF M13 StLaz Dur
+FRA-IDF M14 Mad Cha
+
+# Réseau express régional d'Île-de-France
+FRA-IDF A CdGEto Aub
+FRA-IDF B AerCDG2TGV Lux
+FRA-IDF E LaDef Mag
+
+# Transilien
+FRA-IDF L LaDef VirRiveDro
+
+# Europe Funiculars
+FRA-IDF FunMon Inf Sup
