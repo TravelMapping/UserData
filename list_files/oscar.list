@@ -2562,8 +2562,7 @@ IN SamJonExpy I-74/465 I-70
 IN VetMemPkwy KenAve RivDr
 KY AudPkwy 1 24
 KY BluPkwy 1 72
-KY ComMtnPkwy I-64 *OldMtnPkwy_W
-KY ComMtnPkwy *OldMtnPkwy_E US460
+KY ComMtnPkwy I-64 US460_E
 KY CumPkwy 1 88
 KY HalRogPkwy KY914 *OldHRPkwy_W
 KY HalRogPkwy *OldHRPkwy_E 59
@@ -8888,5 +8887,3 @@ MEX-BC MEX2 MEX2D_MexE BC/SON
 MEX-SON MEX2 BC/SON C26
 MEX-SON MEX15 MEX15DNog MEX/USA
 MEX-SON MEX15DNog MEX15 MEX/USA
-
-
