@@ -499,7 +499,7 @@ OR AC PorUniSta BC AC VanPacCen
 CA CalTra SanCla SanFraKing
 
 ## BART
-CA BARTOra Ber 19thStOak
+CA BARTOra Ber Ric
 CA BARTBlue BalPark BayFair
 CA BARTGre MonSt Ber
 CA BARTYel Mil 19thStOak
@@ -512,6 +512,9 @@ CA MuniJ 20th CivCen
 CA MuniK Cas MonSt
 CA MuniN 46th 4thKing
 CA MuniT Mar ChiRosePark
+
+#SMART
+CA SMART SanRafDT NovSanMar
 
 ## VTA
 CA VTAGre SanCla JapAyer
