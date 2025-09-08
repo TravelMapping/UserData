@@ -1,0 +1,42 @@
+# Notes:
+# Check to see if I-110 starts at CA 47.
+# Check to see if I-710 starts at CA 47/103.
+# Work on the rest of California and US.
+
+
+
+# California
+# Interstates
+CA I-5 3 CA/OR # At the Newhall Pass Interchange, I-5 dissapears on the map to favor Interstate 5 Truck (see line below), although the route is still passable.
+CA I-5Trk I_5S I_5N
+CA I-8 2A CA/AZ
+CA I-10 1 CA/AZ
+CA I-15 6B CA/NV
+CA I-40 I-15 CA/AZ
+CA I-80 1A CA/NV
+CA I-110 1A 9
+CA I-205 I-580 I-5
+CA I-405 I-5(94) 63C
+CA I-580 1A I-5
+CA I-710 1 18A
+CA I-880 I-280 31A # I-880 only touches I-580 at I-80 (also its irl northern terminus), but it ends in-game at I-580 in-game wayyy south of that interchange, so I-238 is used instead.
+# Interstates 210 & 980 are inaccessible and therefore not listed here.
+
+# US Highways
+CA US6 US395 CA/NV
+CA US50 1A CA/NV
+CA US95 CA/AZ I-40(144)
+CA US97 I-5 CA/OR
+CA US101 1A CA/OR
+CA US199 US101 CA/OR
+CA US395 CA58 CA/NV # US 395 only touches CA 14 at Inyokern, but it starts in-game at CA 14/58 wayyyyy south of that intersection, so CA 58 is used instead.
+CA US395Sus CA/NV CA/OR
+
+# State Routes
+CA CA1 1A(10) 72(101)
+CA CA1 78(101) 132(101)
+CA CA1 191B(101) 445B(101)
+CA CA3 CA299_E CA299_W
+CA CA4 I-5(471) CA99(252B)
+CA CA9 CA1 KeyWay
+CA CA11 1A 2

@@ -2,6 +2,7 @@ listname;description;includeInRanks
 defaults;;1
 6lane;Marks all segments with 6 or more lanes;0
 allamericanroads;Roads designated as All American Roads;0
+americantrucksimulator;Roads shown and can be used in the game American Truck Simulator;0
 appalachiandhs;Appalachian Development Highway System;0
 beltway;Roads explicitly beltway or ring road;0
 formernationalroutes;Former French Route Nationales and Irish National Routes;0
