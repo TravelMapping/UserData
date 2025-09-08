@@ -1,7 +1,15 @@
 listname;description;includeInRanks
 defaults;;1
 6lane;Marks all segments with 6 or more lanes;0
-futureinterstates;;0
+allamericanroads;Roads designated as All American Roads;0
+americantrucksimulator;Roads shown and can be used in the game American Truck Simulator;0
+appalachiandhs;Appalachian Development Highway System;0
+beltway;Roads explicitly beltway or ring road;0
+formernationalroutes;Former French Route Nationales and Irish National Routes;0
+freeway;Marks all segments that are freeways;0
+futureinterstates;Freeways designated as future interstates;0
+highprioritycorridors;US High Priority Corridors;0
+HV2022;Vaiss after 2022;0
 jt2015a3;Jim's 2015 A3 (2018-24);0
 jt2020;Jim in 2020;0
 jt2020q5;Jim's 2020 Q5 (2024-);0
@@ -9,18 +17,28 @@ jt2021;Jim in 2021;0
 jt2022;Jim in 2022;0
 jt2023;Jim in 2023;0
 jt2024;Jim in 2024;0
+jt2025;Jim in 2025;0
+terescoj;Jim's lifetime travels;1
 michihpanda80;panda80's travels together with michih;0
 michihsi404;si404's travels together with michih;0
+MidnightEquinox24;Hoss6884's 2024 travel in personal car;0
+MidnightEquinox25;Hoss6884's 2025 travel in personal car;0
+nationalscenicbyways;Roads designated as National Scenic Byways;0
+Noire;Ib3kii's list for 3D Driving Simulator on Google Maps;0
 tem_built;Trans-European Motorways (Built);0
 tem_corridors;Trans-European Motorways (Corridors);0
 tent_atlcor;Trans-European Transport Network (Atlantic Corridor);0
 tent_baladrcor;Trans-European Transport Network (Baltic Sea – Adriatic Sea Corridor);0
 tent_balaegcor;Trans-European Transport Network (Baltic Sea - Black Sea - Aegean Sea Corridor);0
 tent_balmedcor;Trans-European Transport Network (Western Balkans - Eastern Mediterranean Corridor);0
+tent_core;Trans-European Transport Network (Core Network);0
 tent_corr;Trans-European Transport Network (All corridors);0
 tent_medcor;Trans-European Transport Network (Mediterranean Corridor);0
 tent_norbalcor;Trans-European Transport Network (North Sea – Baltic Corridor);0
 tent_normedcor;Trans-European Transport Network (North Sea - Rhine-Mediterranean Corridor);0
 tent_rhidancor;Trans-European Transport Network (Rhine – Danube Corridor);0
 tent_scamedcor;Trans-European Transport Network (Scandinavian – Mediterranean Corridor);0
-terescoj;Jim's lifetime travels;1
+toll_roads;Marks all tolled segments;0
+ukprimary;UK Primary Route Network;0
+uktrunk;UK Strategic Route Network;0
+usprimary;primary systems in selected U.S. states;0

@@ -1,9 +1,9 @@
 # ──────────
-# 2024-08-04
+# 2025-09-03
 # ──────────
 
 # ─────────
-# Praha–PID
+# PID–Praha
 # ─────────
 
 CZE A NemMot DepoHos
@@ -26,16 +26,16 @@ CZE 13Pra OlsHrb CecNam
 CZE 14Pra Vys Spo
 CZE 15Pra Kot OlsHrb
 CZE 16Pra SidRepy UstDilDP
-CZE 17Pra Kob Libu
+CZE 17Pra VozKob Libu
 CZE 18Pra NadPod VozPan
-CZE 19Pra Pan Vys
+CZE 19Pra Pan Leh
 CZE 20Pra DivSar SidBar
 CZE 21Pra Rad Lev
 CZE 22Pra BilaHora Hos
 CZE 23Pra Kra Zvo
 CZE 24Pra Kob NamBraSyn
-CZE 25Pra BilaHora NasLib
-CZE 26Pra DivSar Hos
+CZE 25Pra BilaHora SidHlo
+CZE 26Pra DivSar NadZahMes
 
 CZE S1 PraMasNad Kol
 CZE S2 PraMasNad Kol
@@ -45,19 +45,27 @@ CZE S4 Hne PraMasNas
 CZE S5 KlaMes PraMasNad
 CZE S6 Ber PraSmi
 CZE S7 Ber CesBrod
-CZE S8 PraHlaNad LukaPodMed
-CZE S8 TynNadSaz Cer
+CZE S8 PraHlaNad Cer
 CZE S9 LysaNadLab BenPra
 CZE S10 Kol Pre
-CZE S12 NymMes Por
+CZE S11 Pec Kou
+CZE S12 NymHlaNad Por
+CZE S18 Saz Kol
 CZE S20 Kol SveNadSaz
+CZE S21 Jicn NymHlaNad
+CZE S22 PraMasNad Mil
+CZE S23 Ner Cel
+CZE S24 Cel Moc
 CZE S27 Cas Tre
 CZE S28 Kol ZrucSaz
 CZE S30 Tur MlaBolHlaNad
 CZE S31 MlaBolHlaNad Vel
-CZE S32 Ste StaBol
+CZE S32 Ste LysaNadLab
 CZE S33 MlaBolHlaNad Mel
+CZE S36 MlaCec MlaBolHlaNad
 CZE S40 Tel KraNadVlt
+CZE S43 KraNadVlt Ner
+CZE S45 Kla KraNadVlt
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -72,88 +80,143 @@ CZE S70 Kar Ber
 CZE S71 PraRad PraBec
 CZE S75 Rak Ber
 CZE S76 Loc ZadTre
-CZE S80 Cer Chr
-CZE S82 Smr SveNadSaz
+CZE S80 Cer LedSaz
+CZE S82 LedSaz SveNadSaz
+CZE S88 PraHlaNad Dob
 CZE S90 Olb Mez
-CZE S98 BenesovPra Olb
-
-# ────────────
-# Brno–IDS JMK
-# ────────────
-
-CZE 4Brn NamSvo HlaNad
-CZE 5Brn Ces MenNam
-CZE 8Brn NemBoh HlaNad
-
-CZE S2Jih Let BrnoHlaNad
-CZE S3Jih Kri Sak
-CZE S51Jih Sak Bre
-CZE S53Jih Bre Lan
+CZE S98 BenesovPra Sed
 
 # ───
 # DÚK
 # ───
 
-CZE U1 Most DecHlaNad
-CZE U3 Lit LouLit
+CZE 2MaL MostNad Vel
+
+CZE U1 KadPru DecHlaNad
+CZE U2 KarVary Cho
+CZE U3 Lit DecHlaNad
 CZE U4 UstiNadLabHlaNad Hne
+CZE U5 Most UstiNadLabHlaNad
+CZE U6 TepCec Rad
+CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
-CZE U11 Lou Lov
-CZE U12 Most Rak
-CZE U13 Most Zat
-CZE U14 Zat Rak
+CZE U11 Pos CesLipaHlaNad
+CZE U12 LouLit Rak
+CZE U13 Most ZatZap
+CZE U14 ChoMes Rak
+CZE U21 RouNadLab BriObec
+CZE U22 BriObec Vra
+CZE U28 Rum CZE U28Dec DecHlaNad
 CZE U32 UstiNadLabZap Mel
 CZE U40 Lou Tel
 CZE U57 Zlu BlaJes
 
+CZE T5 Lib RouNadLab
+CZE T6 Kas Pod
 CZE T8 MolKruHor LouLit_1
 CZE T10 Svor PraHlaNad
 CZE T11 Tel DecHlaNad
+
+# ────────────
+# IDOL–Liberec
+# ────────────
+
+CZE 3Lib LidSadyZoo Spa
+
+CZE L1 Lib Tan
+CZE L2 DecHlaNad Lib
+CZE L3 Libe ZelBrod
+CZE L4 Rum Ryb
+CZE L4 Svor MlaBolHlaNad
+CZE L5 LomNadPop StaPaka
+CZE L6 Cer MniLib
+CZE L7Var Var CZE L7 Lib
+CZE L9 JabNadJiz MarKrk
+CZE L12 JosDul Smr
+CZE L31 Tan ZelBrod
+CZE L35 Tur Jic
+CZE L61 Rasp JinPodSmr
+CZE L62 Ras BilyPotPodSmr
+
+# ──────────
+# IDPK–Plzeň
+# ──────────
+
+CZE 1Plz Bol Slo
+CZE 2Plz Skv Sve
+CZE 4Plz Kos Uni
+
+# ────────────
+# IDS JMK–Brno
+# ────────────
+
+CZE 1Brn Rec Pis
+CZE 4Brn NamSvo HlaNad
+CZE 5Brn SteCtv MenNam
+CZE 6Brn MenNam StaLisSmy
+CZE 7Brn LesCerRok HlaNad
+CZE 8Brn NemBoh Mif
+CZE 10Brn Ryb Ces
+CZE 10Brn Ece VozKom
+CZE 11Brn VozKom Bra
+CZE 12Brn TecPark Klu
+CZE 12Brn KonNam HlaNad
+
+CZE S2Jih Let BrnoHlaNad
+CZE S4Jih NamOsl BrnoHlaNad
+CZE S6Jih UheHra StaMesUheHra
+CZE S22Jih BreNadSvi Let
+CZE S3Jih Kri Sak
+CZE S6Jih BrnoZid StaMesUheHra
+CZE S9Jih Bre StaMesUheHra
+CZE S51Jih Sak Bre
+CZE S53Jih Bre Lan
+CZE S71Jih VysMor Nez
+
+# ─────────────
+# IDSOK–Olomouc
+# ─────────────
+
+CZE 1Olo OkrSoud HlaNad
+CZE 2Olo NamRep HlaNad
+CZE 3Olo Zik HlaNad
+CZE 7Olo NreKre OkrSoud
 
 # ─────
 # IREDO
 # ─────
 
-CZE V41 Sany HraKraHlaNad
-CZE V51 ChlNadCid StaPaka
+CZE V2 HraKraHlaNad Let
+CZE V3 TepNadMet Vac
+CZE V4 TruHlaNad ParHlaNad
+CZE V5 Tur HraKraHlaNad
+CZE V22 Cas RycNadKne
+CZE V24 Vac Cho
+CZE V31 Sta Vac
+CZE V34 TruHlaNad TepNadMet
+CZE V41 Kol HraKraHlaNad
+CZE V42 Vrc TruHlaNad
+CZE V51 MesKra StaPaka
 
 # ────────────
-# Liberec-IDOL
-# ────────────
-
-CZE 3Lib LidSadyZoo Spa
-
-CZE L2 DecHlaNad CesLipaHlaNad
-CZE L3 Libe MalaSka
-CZE L7 POL/CZE Lib
-CZE L7Var Var CZE/DEU
-CZE L9 JabNadJiz MarKrk
-CZE L35 Tur Jic
-
-# ───────
-# Olomouc
-# ───────
-
-CZE 7Olo NreKre OkrSoud
-
-# ────────────
-# Ostrava–ODIS
+# ODIS–Ostrava
 # ────────────
 
 CZE 1Ost HlaNad HraPol
-CZE X3Ost +DIV_271119 +DIV_7111718
-CZE 4Ost SviMos Kar
+CZE X3Ost MirNam Pal
+CZE 4Ost SviMos NovaHutJisBra
 CZE 5Ost BudZat PorVre
-CZE 13Ost +DIV_371219 DolVit
-CZE 17Ost PorVre +DIV_71112
+CZE 7Ost PorVre Pal
+CZE 13Ost RedVit DolVit
 
 CZE S2Mor OstSvi MosJab
 CZE S3Mor OstHlaNad HraNaMor
+CZE S4Mor Sed MosOstAir
 CZE S5Mor FryNadOst Ost
-CZE S6Mor OstHlaNad LisFry
-CZE S6Mor FryMis FryNadOst
-CZE S9Mor OstKun CesTes
+CZE S6Mor OstHlaNad Ver
+CZE S8Mor Stu Ver
+CZE S9Mor OstSvi CesTes
 CZE S22Mor MosJab MosJabZas
 
 #┌───────────────────────────────────────────┐
@@ -173,7 +236,39 @@ AUT 2Wie Schw Tabs
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S7 WienRen Flu
 AUT S40 TulDon WienFraJosBah
-AUT S60 WienHau BruLei
+AUT S60 WienMie BruLei
+
+# ────────
+# Kärntnen
+# ────────
+
+AUT S1Kar VilHau StVeitGlan
+AUT S2Kar VilHau StVeitGlan
+AUT S4Kar Arn VilHau
+
+# ────────
+# Salzburg
+# ────────
+
+AUT S2Sal Str DEU-BY S2Sal Fre
+
+# ──────────
+# Steiermark
+# ──────────
+
+AUT S1Ste BruMur GrazHau
+AUT S8Ste StMic BruMur
+
+# ────
+# Linz
+# ────
+
+AUT 4Lin Hau SchTra
+AUT 50Lin Pos Hau
+
+AUT S1Obe LinzHau +DIV_R53
+AUT S2Obe Wels LinzHau
+AUT S3Obe LinzHau Pre
 
 #┌───────────────────────────────────────────┐
 #│                    DEU                    │
@@ -184,8 +279,7 @@ AUT S60 WienHau BruLei
 # ───────
 
 DEU-SN S1Dre RadZit Sch
-DEU-SN U28 BadSch CZE U28Dec DecHlaNad
-DEU-SN L7 CZE/DEU DEU/POL
+DEU-SN S3Dre FreitalHaiBerg DreHbf
 
 # ───────
 # München
@@ -193,15 +287,21 @@ DEU-SN L7 CZE/DEU DEU/POL
 
 DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
-DEU-BY U6 StuSta SenTor
+DEU-BY U3 SchPla MunFre
+DEU-BY U5 Hbf NeuPerSud
+DEU-BY U6 GarForZen GoePla
 
 DEU-BY 16Mun SenTor MauKirStr
 DEU-BY 17Mun RomPla HbfNord
+DEU-BY 18Mun Gie SenTor
+DEU-BY 28Mun SenTor SchPla
 
 DEU-BY S1 NeuFah Hbf
 DEU-BY S1Fri Fre NeuFah
 DEU-BY S2 Dac Hbf
 DEU-BY S2Pet PetHau Dac
+DEU-BY S4 OstBf Gra
+DEU-BY S5 NeuPerSud Gie
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
@@ -215,7 +315,8 @@ ENG BakLn Ken Wat
 ENG CenLnEal SheBush GanHill
 ENG CirLn Bar Mon
 ENG DisLnEdg PutBri Pad
-ENG JubLn BakSt Sou
+ENG JubLn BakSt Wes
+ENG JubLn Wat Sou
 ENG MetLn Ric BakSt
 ENG NorLnMHE MillHillEast ChaCro
 ENG PicLn TurLn Coc
@@ -254,21 +355,53 @@ ESP-CT L4 Bar Ver
 # ────────
 
 HUN M1 VorTer MexUt
-HUN M2 OrsVezTere SzeKalTer
+HUN M2 OrsVezTere DeliPal
+HUN M3 UjpKoz KobKis
+HUN M4 KelPal KelVas
 
-HUN 2Bud JasMariTer VigTer
-HUN 56Bud Var MikoUtca
+HUN 1Bud BecUtVorUt KelVas
+HUN 2Bud JasMariTer Koz
+HUN 2BPac JasMariTer Pes
+HUN 3Bud MexUt OrsVezTere
+HUN 3Bud Ele GubUtHatUt
+HUN 4Bud SzeKalTer UjbKoz
+HUN 6Bud SzeKalTer MorZsiKor
+HUN 12Bud RakUjpVas RakKosUtca
+HUN 14Bud KapMegUt LehTer
+HUN 17Bud KolTer SavPark
+HUN 19Bud KolTer KelVas
+HUN 23Bud BorTer KelPal
+HUN 28Bud BlaLujTer KobAlsoVas
+HUN 41Bud MorZsiKor KamIfjPark
+HUN 42Bud HatUt KisTulUtca
+HUN 47Bud DeakFerTer VarTer
+HUN 52Bud Pes HatUt
+HUN 56Bud Huv RudGyo
+HUN 59ABud SzeKalTer MarAronTer
 HUN 60Bud Var SzeHegyGye
+HUN 61Bud Var MorZsiKor
 
 #┌───────────────────────────────────────────┐
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
-POL L7 DEU/POL POL/CZE
+
+
+#┌───────────────────────────────────────────┐
+#│                    SCT                    │
+#└───────────────────────────────────────────┘
+
+# ───────
+# Glasgow
+# ───────
+
+SCT GlaSub Par_1 Par_2
 
 #┌───────────────────────────────────────────┐
 #│                    SVK                    │
 #└───────────────────────────────────────────┘
+
+SVK Tre TreTepa TreTepi
 
 # ──────────
 # Bratislava
@@ -278,5 +411,16 @@ SVK 9Bra KraUdo Kap
 
 SVK S8 BraPet Rus
 SVK S20 Kuty BraHlaSta
+SVK S50 BraHlvSta Trn
 SVK S60 BraHlaSta Gal
+
+# ──────
+# Košice
+# ──────
+
+SVK 4Kos RadStaMes SocJanaPavII
+SVK 6Kos Hav StaNam
+SVK 7Kos BotZah Vaz
+SVK R2Kos VstAreUSSte Vaz
+
 

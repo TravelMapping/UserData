@@ -1,0 +1,47 @@
+ON UP PeaAir Uni
+
+IL CL UniSta IL/IN
+IN CL IL/IN IN/OH
+OH CL IN/OH OH/PA
+PA CL OH/PA PA/MD
+MD CLCum PA/MD MD/WV
+WV CLPaw MD/WV WV/MD
+MD CLPaw WV/MD MD/WV
+WV CL MD/WV WV/MD
+DC CL MD/DC WasUniSta
+
+IL HI UniSta IL/WI
+WI HI IL/WI Mil
+
+LA NO NewOrl LA/MS
+MS NO LA/MS MS/TN
+TN NO MS/TN TN/KY
+KY NO TN/KY KY/IL
+IL NO KY/IL UniSta
+
+MO MR Kir StLouGat
+MO TX StLouGat MO/IL
+IL TX MO/IL UniSta
+
+FL AZ San FL/GA
+GA AZ FL/GA GA/SC
+SC AZ GA/SC SC/NC
+NC AZ SC/NC NC/VA
+VA AZ NC/VA LorAutoTra
+
+CO RoyGorRou CanCity Par
+
+GA SkyTrn Air RenCarCen
+IL BNSF Aur UniSta
+IL ME 211thStLinHwy MilSta
+
+NLD 50Ams Ams StaBijAre
+NLD 54Ams CenSta StaBijAre
+
+AUS-QLD AirLn Cen DomAir
+AUS-QLD GCLn Cen Hel
+AUS-QLD GLink Hel BroNor
+AUS-NSW T8 DomAir CirQuay
+AUS-SA GLNELG MosSqu RunMall
+
+FL ExpMon TraTicCen_1 MagKin

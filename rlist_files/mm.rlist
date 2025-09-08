@@ -21,7 +21,7 @@ FL InnLp GovCen_N GovCen_S
 
 #Iowa
 
-IA CZ NE/IL IA/IL
+IA CZ NE/IA IA/IL
 
 #Illinois
 
@@ -40,6 +40,7 @@ IL RI LaSSt Jol
 IL RISub LaSSt BlueIsl
 IL SWS UniSta Man
 IL UPNW OglTraCen Har
+IL UPNWMcH OglTraCen McH
 IL UPN OglTraCen IL/WI
 IL UPW Elb OglTraCen
 
@@ -74,7 +75,7 @@ MI DetPeoMov Mic_S Mic_N
 
 #Nebraska
 
-NE CZ Lin NE/IL
+NE CZ Lin NE/IA
 
 #New York
 

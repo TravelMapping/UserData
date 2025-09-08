@@ -1,9 +1,12 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
-NLD IC35 AmsCen NLD/BEL
+NLD IC35 RotCen NLD/BEL
 
 NLD RE1 Lee Gro
 NLD RS1 Lee Gro
+NLD RS4 Gro Eem
+NLD RS5 Gro Del
+NLD RS7 Gro Vee
 NLD RS11 Nij Roe
 NLD RS12 Roe MaaRan
 NLD RS15 Sit Hee
@@ -68,8 +71,7 @@ NLD S43Lie BEL/NLD Maa
 
 #Metro
 NLD 21Utr PRSciPark Ijs
-NLD 20Utr PRSciPark CSCen
-NLD 20Utr CSJaa +DIV_21
+NLD 20Utr PRSciPark NieZuid
 NLD 22Utr CSCen PRSciPark
 
 NLD 50Ams Isl Gein
@@ -85,11 +87,13 @@ NLD D RotCen Akk
 NLD E DenHaagCen Sli
 
 #Tram
+NLD 2Ams CenSta Mus
 NLD 4Ams CenSta Eur
 NLD 12Ams CenSta Lei
 NLD 12Ams Pijp Amss
 NLD 14Ams Rok Ale
 NLD 19Ams StaSlo Lei
+NLD 24Ams Vij VUmcHoo
 NLD 25Ams StaZuid Wes
 NLD 26Ams CenSta Ijb
 
@@ -97,12 +101,15 @@ NLD 1Haa ZwaPad StaDel
 NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
 NLD 9Haa ZwaPad KalSta
+NLD 34Haa SavLoh LanZoe
 
-NLD 4Rot Koo +DIV_78
+NLD 4Rot Koo +DIV_Zaa
+NLD 4Rot +DIV_8 RotCen
 NLD 7Rot Zaa RotCen
-NLD 8Rot +DIV_47 Beu
-NLD 24Rot Oos Beu
-NLD 25Rot RotCen Tel_2
+NLD 8Rot Schw LOOP
+# NLD 24Rot Oos Beu
+# NLD 25Rot Beu +DIV_47
+# NLD 25Rot RotCen LOOP
 
 
 # BELGIUM
@@ -112,7 +119,7 @@ BEL IC2 Bru AntCen
 BEL IC7 Ess AntCen
 BEL IC35 NLD/BEL BruMidi
 BEL LonAms FRA/BEL BEL/NLD
-BEL S41 Wel BEL/DEU
+BEL S41 LieStLam BEL/DEU
 BEL S43 LieGui BEL/NLD
 
 #Tram
@@ -134,17 +141,20 @@ LUX T1 RoutBrePaf StaPlazEto
 
 ##  BE - Berlin
 DEU-BE S7 BB/BE Hbf
+DEU-BE S25 FriStr PotPla
+DEU-BE S25 SudKre BE/BB
 DEU-BE S41 WestKre_N WestHaf
 DEU-BE S41 OstKre SchBerg
 
 DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
+DEU-BE S5 WestKre LicBerg
 
 DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
-DEU-BE U5 Hbf UntLin
+DEU-BE U5 Hbf LicBerg
 DEU-BE U6 NatMus TemHof
 
 DEU-BE M1 Milastrasse SHacMar
@@ -161,6 +171,8 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 
 ##  HB - Bremen
+DEU-HB 3Bre UseAks DomsHei
+DEU-HB 10Bre MoorStr Hbf
 
 
 ##  HH - Hamburg
@@ -197,7 +209,7 @@ DEU-NW S41Lie BEL/DEU AacHbf
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
 DEU-NW U79 Klemensplatz DusseldorfHbf
-DEU-NW U71 UhLandStr SchBen
+DEU-NW U71 UhLandStr HeiHeiAll
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
 DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
@@ -242,6 +254,7 @@ ENG LonAms LonStPanInt GBR/FRA
 ENG ChaTnl FolEurTer GBR/FRA
 ENG LutAirExp LonStPanInt LutAirPkwy
 ENG DeaVlyLn She York
+ENG LakHavRwy Lak Hav
 
 #Londen Underground / TFL
 ENG EliLn TotCouRd CanWha
@@ -257,6 +270,9 @@ ENG DLR CanWha CutSark
 ENG DLRRoy Sha CanTown
 ENG DLR Bank Lim
 ENG NorLnBar KXSP LonBri
+
+#Tram
+ENG MetLnkEDR DeaCas ExcSqu
 
 
 # NORWAY
@@ -283,6 +299,7 @@ FRA-IDF B GareNord ChaHal
 FRA-IDF C IssyValSei GareAus
 FRA-IDF E HauStLaz Mag
 FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF FunMon Inf Sup
 
 #Paris Metro / Sub-urban
 FRA-IDF N ParMon Cla
@@ -325,13 +342,16 @@ CZE S20 Kolin KutnaHoraHlavniNadrazi
 
 
 # SPAIN
-ESP-VC 3Val Col Aer
-ESP-VC 7Val Jes Ala
-
-ESP-CT R5 Esp MonMon
-
 ESP-AN C1Mal MalCenAla Aer
 ESP-AN L1 BlasInf PlaCuba
+
+ESP-CT R5 Esp MonMon
+ESP-CT FunMon Par ParcMon
+ESP-CT FunStJoan Mon StJoan
+ESP-CT CreMon MonEnl Mon
+
+ESP-VC 3Val Col Aer
+ESP-VC 7Val Jes Ala
 
 
 # PORTUGAL
@@ -371,10 +391,10 @@ JPN TokaidoShin Tokyo Kyoto
 #Tokyo
 JPN YurikamomeLn U01 U07
 JPN HanzomonLn Z13 Z14
-JPN ChuoSobuLn JB10 JB22
+# JPN ChuoSobuLn JB10 JB22
 JPN GinzaLn G01 G08
 JPN YamanoteLn JY01 JY17
-JPN TokTozaiLn T03 T04
+JPN AsakusaLn A13 A20
 
 #Kyoto
 JPN KarasumaLn K09 K11
@@ -419,6 +439,24 @@ HKG TWLn Cen TsuWan
 #HKG NPCC TC NP
 #HKG OPCC Wat Sum
 HKG PT Peak CenTer
+HKG HKGAPM T1E T1Mid
+
+# MACAU
+MAC TaipaLn PaiKok Bar
+
+# TAIWAN
+TWN HSR TPE ZUY
+
+TWN TYAir A1 A12
+TWN BroLn BR01 BR11
+TWN RedLn R03 R15
+TWN BlueLn B10 BL14
+TWN GreLn G12 G18
+
 
 #CHINA
+CHN-GX LanGuang +DIV_GuiLinN GX/GD
+CHN-GD LanGuang GX/GD GuangZhouS
+
+CHN-GD GuangShenGang GuangZhouS ShenZhenN
 

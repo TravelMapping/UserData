@@ -1,0 +1,82 @@
+#Switzerland / Austria / Germany
+AUT S1Vor DEU/AUT Bre
+AUT S3Vor CHE/AUT Bre
+
+CHE IC5 ZurFlu Ror
+CHE S2Gal Ror StMar
+CHE S3Vor StMar CHE/AUT
+CHE S21Gal StGal App
+
+DEU-BY S1Vor LinIns DEU/AUT
+
+#London Underground
+ENG BakLn OxfCir Wat
+ENG CenLn OxfCir Bank
+ENG CirLn EdgRd_1 EdgRd_2
+ENG DisLn Wes AldEast
+ENG HaCLn KXSP AldEast
+ENG JubLn GrePark NorGre
+ENG NorLnEdg WarSt Emb
+ENG PicLn GrePark KXSP
+ENG VicLn Vau KXSP
+ENG WaCLn Wat Bank
+
+# -- United States & Canada --
+#Acela / NE Corridor
+DE AE Wil DE/PA
+PA AE DE/PA PA/NJ
+NJ AE PA/NJ NJ/NY
+NY AE NJ/NY PennSta
+NY NESpr PennSta NY/CT
+CT NESpr NY/CT Har
+
+#Heartland Flyer
+OK HF Nor Pur
+
+#Pacific Surfliner
+CA PS SanBar SimiVly
+
+# - US/Canada Scenic Railways - 
+CO GeoLoopRai DevGat SilPlu
+CO RoyGorRou CanCity Par
+NE OZRR OmaTraDep_S OmaTraDep_F
+UT HebValRai HebValRaiDep VivPark
+
+# - US/Canada Metro Systems -
+#Chicago CTA
+IL BlueLn Cum Jac
+IL RedLn Jac Add
+IL OraLn Mid Loop
+
+#Dallas DART
+TX RedLn ConCen SprVly
+
+#Denver RTD
+CO ALn UniSta DenAir
+
+#NYC MTA
+NY 1 CorStWTC 72St
+NY 6 BleSt GraCen
+NY 7 42StTimSq JacHeiRooAve
+NY D GraSt BroLafSt
+NY E WTC 42ndStPABT
+NY N 14StUniSq TimSq42St
+NY R CorSt CanSt
+NY R QuePla JacHeiRooAve
+NY S42 TimSq GraCen
+
+#Washington Metro
+DC RedLn FriHei UniSta
+DC YelLn VA/DC GalPla
+VA YelLn RRWasNatAir VA/DC
+DC BluLn VA/DC CapS
+VA BluLn ArlCem VA/DC
+
+# - US/Canada Airport Trains
+CO DENTrn JepTer CGat
+FL GateLinkTBE TerB Air4
+GA PlaTrn DomTer FGatIntTer
+MI ExpTram SouSta NorSta
+MN MSPTram ConAB ConDE
+TX Sky A8 A21
+VA AerTrn MainTer ConB
