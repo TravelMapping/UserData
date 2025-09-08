@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: September 1, 2025
+# Last Updated: September 7, 2025
 
 
 # ---------------------------------- #
@@ -296,8 +296,7 @@ IL US45 I-57(308) IL83_S
 IL US45 I-70 US40_W
 IL US45 I-24(37) IL145
 IL US51 IL48 I-74(135)
-IL US136 I-57 MainSt_Gif
-IL US136 IL47 1stSt_Fis
+IL US136 US51 MainSt_Gif
 IL US150 IL130_S IL9_W
 IL US150 WasRd CouLineRd
 IL US150 IL1/16 IL/IN
@@ -493,7 +492,6 @@ IL IL64 IL47 I-355
 IL IL72 I-290 IL58
 IL IL83 US45_S I-88
 IL IL97 IL4 I-55BL
-IL IL105 WatSt_S IL121_N
 IL IL105 I-72 WasSt
 IL IL105 MainSt_S MainSt_N
 IL IL108 IL4_N I-55
@@ -639,5 +637,5 @@ VA GWMemPkwyCry ReaNatAir_N I-395
 # ----------------------- #
 
 IL US66HisCar MacBlvd_S WabAve_W
-IL US66HisChi IL23_N I-55(92)
+IL US66His IL23_N I-55(92)
 IL US66HisWil US66His_W US66His_E
