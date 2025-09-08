@@ -8,7 +8,7 @@
 # California
 # Interstates
 CA I-5 3 CA/OR # At the Newhall Pass Interchange, I-5 dissapears on the map to favor Interstate 5 Truck (see line below), although the route is still passable.
-CA I-5Trk I_5S I_5N
+CA I-5TrkNew I_5S I_5N
 CA I-8 2A CA/AZ
 CA I-10 1 CA/AZ
 CA I-15 6B CA/NV
