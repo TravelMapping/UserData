@@ -1,15 +1,62 @@
 # Notes:
-# Check to see if I-110 starts at CA 47.
-# Check to see if I-710 starts at CA 47/103.
-# Work on the Nevada and the rest of the US.
-# Check every route to see if its correct
+# Work on New Mexico and the rest of the US.
+# Check every route to see if its correct.
 
+
+
+# Arizona
+# Interstates
+AZ I-8 CA/AZ 178
+AZ I-10 CA/AZ AZ/NM
+AZ I-15 NV/AZ AZ/UT
+AZ I-17 198 341
+AZ I-19 I-19BL 101
+AZ I-40 CA/AZ AZ/NM
+
+  # Business Interstates
+AZ I-10BLSan I-10_W I-10_E
+AZ I-40BLSel I-40_W ChiSt_W
+AZ I-40BLFla AZ89A I-40_E
+AZ I-40BLHol 8thAve AirRd
+
+# US Highways
+AZ US60 US93 AZ303
+AZ US60 153A(10) AZ/NM
+AZ US64 US160 AZ/NM
+AZ US70 US60 AZ77_S
+AZ US70 US191_S AZ/NM
+AZ US89 I-40BL/180 AZ/UT
+AZ US93 US60 AZ/NV
+AZ US95 16thSt_W AZ/CA
+AZ US160 US89 AZ/NM
+AZ UZ163 US160 AZ/UT
+AZ US180 GraCynNP AZ77_S
+AZ UAS180 AZ61_S US191_S
+AZ US191 US70_W AZ/UT
+
+  # Special US Highways
+AZ US89AltFre AZ389 AZ/UT
+
+# State Routes
+AZ AZ51 I-10 2
+AZ AZ61 US180_W US191_N
+AZ AZ64 PineRd US89
+AZ AZ66 I-40 Coc/Yav
+AZ AZ77 I-10 I-40(292)
+AZ AZ85 I-8 I-10
+AZ AZ89 AZ89A I-40 
+AZ AZ90 AZ92 I-10
+AZ AZ92 AZ90 BufSolTr
+AZ AZ98 US89 US160
+AZ AZ260 AZ89A I-17
+AZ AZ303 104 I-17
+AZ AZ389 UT/AZ US89Alt
 
 
 # California
 # Interstates
 CA I-5 3 CA/OR # At the Newhall Pass Interchange, I-5 dissapears on the map to favor Interstate 5 Truck (see line below), although the route is still passable.
-CA I-5TrkNew I_5S I_5N
+CA I-5TrkNew I-5_S I-5_N
 CA I-8 2A CA/AZ
 CA I-10 1 CA/AZ
 CA I-15 6B CA/NV
@@ -82,7 +129,102 @@ CA CA905 1A 8
 
 # Nevada
 # Interstates
+NV I-11 AZ/NV 96
+NV I-15 CA/NV NV/AZ
+NV I-80 CA/NV NV/UT
+NV I-580 US50/395 36
 
 # US Highways
+NV US6 CA/NV NV/UT
+NV US50 CA/NV NV/UT
+NV US93 AZ/NV NV/ID
+NV US95 14(11) US6_W
+NV US95 I-80(83) NV/OR
+NV US395 CA/NV NV/CA
+
+  # Special US Highways
+NV US93AltWen US93_S US93_N
+NV US395BusCar US395_S US395_N
 
 # State Routes
+NV NV140 OR/NV US95
+NV NV208 US395 NV824
+NV NV225 I-80BL NV/ID
+NV NV292 NV140 NV/OR # That's the only 2 waypoints...
+NV NV305 US50 NV304
+NV NV319 US93 NV/UT
+NV NV374 DeaValNP US95
+NV NV375 US6 NV318 # NV 375 never touches US 93, so NV 318 is used instead.
+NV NV376 US6 US50
+
+
+# New Mexico
+# Interstates
+NM I-10 AZ/NM NM/TX
+NM I-25 I-10 NM/CO
+NM I-40 AZ/NM NM/TX
+
+  # Business Interstates
+NM I-25BLSoc I-25_S I-25_N
+NM I-25BLRat I-25_S I-25_N
+NM I-40BLGal ArmOrtBlvd I-40_E
+NM I-40BLSan I-40_W I-40_E
+NM I-40BLTuc GalMunApt I-40_E
+
+# US Highways
+NM US54 TX/NM NM/TX
+NM US56 US64/87 NM/OK
+NM US60 AZ/NM I-25(175)
+NM US60 US54_W NM/TX
+NM US62 TX/NM NM/TX
+NM US64 AZ/NM NM/OK
+NM US70 AZ/NM US54_E
+NM US70 US380_W NM/TX
+NM US82 US54/70 NM18/83
+NM US84 CO/NM NM/TX
+NM US85 TX/NM NM/CO
+NM US87 TX/NM NM/CO
+NM US160 AZ/NM NM/CO
+NM US180 I-10(82A) NM/TX
+NM US180Car TX/NM NM/TX
+NM US285 TX/NM US54_W
+NM US285 I-25(290) US84_W
+NM US380 I-25 US70/285
+NM US412 US64/87 NM/OK
+NM US491 I-40(20) NM/CO
+NM US550 I-25(242) NM/CO
+
+  # Special US Highways
+NM US54BusTuc I-40BL US54_E
+NM US64BusFar US64_W US64_E
+NM US70TrkRos US70_W US70_E
+NM US285TrkRos US70/380 US285_N
+
+# State Routes
+NM NM18 US62/180 US82/83
+NM NM104 CRAR I-40BL
+NM NM209 I-40 I-40BL/104
+NM NM218 NM18/132 US62/180
+NM NM237 I-40BL US54
+NM NM529 US82 US62/180
+NM NM597 US160 FourCorMon
+NM NM599 I-25 US84/285
+
+
+
+# Other
+# Arizona
+AZ US66HisKin ToUS93 I-40BL_SelW
+AZ US66HisFla AZ89A US180_E
+AZ US66HisHol 8thAve AirRd
+AZ PetForRd PinRd I-40
+
+# California
+CA US66HisBar HinRd I-40(2)
+CA US66HisBar I-40(50) I-40(107) # Exit 115's literally the next exit...
+
+# New Mexico
+NM US66HisGal FloSt NM566
+NM US66HisAlb NM556 I-40(178)
+NM US66HisSan I-40(273) I-40(277)
+NM US66HisTuc NM237 ToNM286
