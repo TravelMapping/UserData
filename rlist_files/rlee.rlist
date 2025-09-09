@@ -1,5 +1,6 @@
 #4/21/25 added dfw sky
 #8/11/25 finished dfw. added atl from 2014
+#8/21/25 Chicago
 
 CO DENTrn JepTer CGat
 
@@ -8,6 +9,18 @@ FL EpcMon TraTicCen EPCOT
 
 GA BluLn CNNCen Avo
 GA PlaTrn DomTer CGat
+
+IL AirTraSys Ter1 MulModFac
+IL BlueLn OHa ForPk
+IL GreLnE63 CerMcCPl StaLake
+IL OraLn Roo Loop
+IL PurLn How Lin
+IL BroLn Loop Bel
+IL RedLn She How
+# Rode the Purple Express PM Rush from Loop to How and Purple regular from How to Lin. 
+# Brown overlaps Purple Expr from Loop to Red/Brown split at Bel. Red  overlaps Purple Expr from Sheffield @ Willow St to Howard.
+# Did ride Red Line from Cermak to Sheffield.
+IL RedLn CerChi She
 
 MS CR Lau Mer
 

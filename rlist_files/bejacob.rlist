@@ -1,6 +1,7 @@
 #Amtrak
 BC AC USA/CAN VanPacCen
 CA CS UniSta CA/OR
+CA PS SanFeDep SanLuisObi
 DC FL WasUniSta DC/VA
 FL FL GA/FL Mia
 GA FL SC/GA GA/FL
@@ -43,9 +44,10 @@ CA MuniN +DIV_JN 4thKing
 CA MuniT Sun ChiRosePark
 
 #San Diego Trolley
-CA BlueLn SanYsiTC +DIV_Gre_N
-CA GreLn 12thImpTC Gro
-CA OraLn Cou Gro
+CA BlueLn SanYsiTC UTCTC
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
+CA CopLn ElCaj SanTownCen
 
 #Sacranento RT Light Rail
 CA SRTBlue CosRivCol Watt80
@@ -113,8 +115,9 @@ NY W QuePlaza WhiStSFry
 NY SIR StGeo OldTown
 
 OH RedLn TowCity LitItaUniCir
-OR RedLn Cas PorIntAir
-OR RedLn PioSq LloCen11thAve
+OR RedLn PioSq PorIntAir
+OR BLp 11thMar_S 11thCou
+OR BLp GraHoyt 11thMar_N
 PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq

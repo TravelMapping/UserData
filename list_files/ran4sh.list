@@ -3,6 +3,31 @@
 # Regional routes (Region - roughly by media markets or states)
 # Trucking listed separately but also counted in main list
 
+# Recent trips (to be integrated below eventually)
+NJ I-287 I-95 21
+NJ NJ495 I-95 NJ/NY
+NY NY495 NJ/NY DyerAve
+NY I-278 32A 42
+NY GraCenPkwy 4A 9E
+NY NY25A GraCenPkwy I-678
+NY I-678 13 19
+NY HutRivPkwy 1A 4A
+VT VT11 US7 I-91
+VT US7 VT11 VT279_W
+VT VT279 NY/VT US7_N
+NY NY7 I-87(7) BenByp
+CA CA57 1A 25B
+CA I-5 95 107A
+CA CA133 CA1 10A
+IN I-94 IL/IN MI I-94 34
+MI I-196 I-94 64
+MI MI6 I-196 I-96
+MI I-96 1A 46
+MI US31 110 170
+MI US10 LauSt US31_S
+WI US10 8thSt_S LakeMicFry
+WI I-43 1 144
+
 # North-South primary interstates
 # 99 New York
 NY	I-95	13	CT	I-95	76
@@ -31,9 +56,7 @@ KY	I-71	77	OH	I-71	106
 # 65 mobile-huntsville
 # 65 nashville-nw indiana
 # 59 hattiesburg-chattanooga
-# 57 I-24-chicago
-IL	I-57	318			358
-IL	I-57	44			315
+IL	I-57	44			358
 MS	I-55	185	IL	I-55	US41
 WI	I-43	1			72A
 WI	I-41	38			54

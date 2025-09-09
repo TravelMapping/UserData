@@ -50,6 +50,7 @@ ON 510 SpaSta UniSta
 ON 511 BatSta ExhLp
 
 ### CAN-QC
+QC GreLn LioGro Bea
 QC OraLn LioGro MonRoy
 
 #### CHE
@@ -176,6 +177,8 @@ FRA-IDF FunMon Inf Sup
 #### HKG 
 ## HK TRAMWAYS
 HKG 1 WesMar ShauKeiWan
+HKG 2 PatSt_A LeiRd
+HKG 2 TinLokLn ShauKeiWan
 HKG 3 ShekTongTsui ForHill_B
 
 ## MTR
@@ -496,7 +499,7 @@ OR AC PorUniSta BC AC VanPacCen
 CA CalTra SanCla SanFraKing
 
 ## BART
-CA BARTOra Ber 19thStOak
+CA BARTOra Ber Ric
 CA BARTBlue BalPark BayFair
 CA BARTGre MonSt Ber
 CA BARTYel Mil 19thStOak
@@ -506,9 +509,16 @@ CA OAKAir OakIntAir Col
 ## MUNI
 CA MuniF 9thLar 3rdKea
 CA MuniJ 20th CivCen
-CA MuniK Chu Emb
+CA MuniK Cas MonSt
 CA MuniN 46th 4thKing
 CA MuniT Mar ChiRosePark
+
+#SMART
+CA SMART SanRafDT NovSanMar
+
+## VTA
+CA VTAGre SanCla JapAyer
+CA VTAOra GreMall Mil
 
 ### CO
 ## RTD

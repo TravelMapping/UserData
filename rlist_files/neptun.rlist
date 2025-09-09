@@ -1,5 +1,5 @@
 # ──────────
-# 2025-08-18
+# 2025-09-03
 # ──────────
 
 # ─────────
@@ -62,6 +62,7 @@ CZE S30 Tur MlaBolHlaNad
 CZE S31 MlaBolHlaNad Vel
 CZE S32 Ste LysaNadLab
 CZE S33 MlaBolHlaNad Mel
+CZE S36 MlaCec MlaBolHlaNad
 CZE S40 Tel KraNadVlt
 CZE S43 KraNadVlt Ner
 CZE S45 Kla KraNadVlt
@@ -100,7 +101,7 @@ CZE U6 TepCec Rad
 CZE U7 DecHlaNad UstiNadLabZap
 CZE U8 DecHlaNad Mly
 CZE U10 Most Lov
-CZE U11 Lou CesLipaHlaNad
+CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
 CZE U13 Most ZatZap
 CZE U14 ChoMes Rak
@@ -128,6 +129,7 @@ CZE L2 DecHlaNad Lib
 CZE L3 Libe ZelBrod
 CZE L4 Rum Ryb
 CZE L4 Svor MlaBolHlaNad
+CZE L5 LomNadPop StaPaka
 CZE L6 Cer MniLib
 CZE L7Var Var CZE L7 Lib
 CZE L9 JabNadJiz MarKrk
@@ -149,10 +151,17 @@ CZE 4Plz Kos Uni
 # IDS JMK–Brno
 # ────────────
 
-CZE 1Brn MenNam VysHlaVst
+CZE 1Brn Rec Pis
 CZE 4Brn NamSvo HlaNad
-CZE 5Brn Ces MenNam
+CZE 5Brn SteCtv MenNam
+CZE 6Brn MenNam StaLisSmy
+CZE 7Brn LesCerRok HlaNad
 CZE 8Brn NemBoh Mif
+CZE 10Brn Ryb Ces
+CZE 10Brn Ece VozKom
+CZE 11Brn VozKom Bra
+CZE 12Brn TecPark Klu
+CZE 12Brn KonNam HlaNad
 
 CZE S2Jih Let BrnoHlaNad
 CZE S4Jih NamOsl BrnoHlaNad
@@ -178,11 +187,16 @@ CZE 7Olo NreKre OkrSoud
 # IREDO
 # ─────
 
-CZE V2 HraKraHlaNad Cas
+CZE V2 HraKraHlaNad Let
+CZE V3 TepNadMet Vac
 CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V22 Cas RycNadKne
+CZE V24 Vac Cho
+CZE V31 Sta Vac
+CZE V34 TruHlaNad TepNadMet
 CZE V41 Kol HraKraHlaNad
+CZE V42 Vrc TruHlaNad
 CZE V51 MesKra StaPaka
 
 # ────────────
@@ -265,6 +279,7 @@ AUT S3Obe LinzHau Pre
 # ───────
 
 DEU-SN S1Dre RadZit Sch
+DEU-SN S3Dre FreitalHaiBerg DreHbf
 
 # ───────
 # München
@@ -386,6 +401,8 @@ SCT GlaSub Par_1 Par_2
 #│                    SVK                    │
 #└───────────────────────────────────────────┘
 
+SVK Tre TreTepa TreTepi
+
 # ──────────
 # Bratislava
 # ──────────
@@ -394,6 +411,7 @@ SVK 9Bra KraUdo Kap
 
 SVK S8 BraPet Rus
 SVK S20 Kuty BraHlaSta
+SVK S50 BraHlvSta Trn
 SVK S60 BraHlaSta Gal
 
 # ──────

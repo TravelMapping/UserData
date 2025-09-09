@@ -51,6 +51,18 @@ ITA-LOM ParMil MilPorGar PIE/LOM
 # Italy - Piemonte
 ITA-PIE ParMil PIE/LOM FRA/ITA
 
+# Japan
+JPN AsakusaLn A07 A18
+JPN ChuoSobuLn JB02 JB10
+JPN ChuoSobuLn JB19 JB21
+JPN DisMon Gateway_A Gateway_B
+JPN GinzaLn G09 G14
+JPN KeikyuAirportLn KK11 KK17
+JPN KeikyuMainLn A07 KK11
+JPN KeiyoLn JE01 JE07
+JPN YamanoteLn JY24_A JY24_B
+JPN YurikamomeLn U04 U15
+
 # Portugal
 PRT LnVrd Ala CaisSod
 PRT LnVrm Aer Ala

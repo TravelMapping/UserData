@@ -38,7 +38,7 @@ DC FreBra WasUniSta +DIV_NEC
 DC PennLn WasUniSta DC/MD
 DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
-FL FL +DIV_Orl FortLau
+FL FL Tam FortLau
 FL SM FortLau +DIV_Tam
 FL BriLn WestPalmBea MiaCen
 FL TriRail ManPark FortLau
@@ -86,7 +86,7 @@ NJ MonBooLn NY/NJ +DIV_Hob/Nwk
 NJ MorEssLn NY/NJ +DIV_Hob/Nwk
 NJ NECorLn NY/NJ Tre
 NJ NJerCoaLn NY/NJ +DIV_NEC
-NJ RarVlyLn +DIV_NEC
+NJ RarVlyLn NewPenn +DIV_NEC
 NJ TreLn PA/NJ Tre
 NY AE NJ/NY +DIV_LIRR
 NY AD +DIV_Jer PennSta
