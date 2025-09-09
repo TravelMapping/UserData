@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-10-25.
+#last updated 9-8-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -172,27 +172,39 @@ DC I-695 2A I-395
 DC DC295 DC/MD 1A
 #north carolina
 NC RalChaExpy I-440 I-40
-NC I-40 US117_S 189 #up to winston salem
+NC I-40 US117_S 81 #up to black mountain (BRR 9-25)
+NC I-40 53 75 #BRR 9-25
 NC I-42 1 7 #roadtrip 8-13-25
 NC I-74 VA/NC 17 #tenessee trip
 NC I-77 NC/VA 101 #tenessee trip
+NC I-77 51 50 #BRR 9-25
 NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
+NC I-240 5B 9 #BRR 9-25
 NC I-440 1 12
 NC I-485 30 32
 NC I-540 24 26 #roadtrip 8-13-25
 NC I-885 5 9
 NC US1 99 US401_N #update 8-8-25
 NC US15 NC/VA I-85(202)
+NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
+NC US19E CRSchRd NC197_S #BRR 9-25. east to jacks creek rd
 NC US29 I-485(32) MalCreRd
-NC US52 140 117 #tenessee trip
+NC US52 140 109 #tenessee trip, BRR
 NC US52 107 108B #winston salem
 NC US64 464 293(40)
+NC US64 BilCrkRd NC9 #BRR 9-25
 NC US64BusWen NC231 I-540 #roadtrip 8-13-25
 NC US70 LomSt WhiMillRd
+NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US158 I-40 HanMallBlvd #JDL
+NC US221 OldUS421_W US321_N #BRR 9-25
+NC US221 DeeRd NC181_N #BRR 9-25
+NC US221BusJef NC88_W NC194_N #BRR 9-25
 NC US401 BreRd I-40
-NC US421 232C I-40(212) #winston salem trip, as well as partially tenessee trip
+NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
+NC US421 OldUS421_W US221_S #BRR 9-25
+#NC NC9 US64/74Alt ingles #BRR 9-25
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
@@ -203,8 +215,18 @@ NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
 NC NC96 US64/264 US64Bus_W
 NC NC96 NC42 NC231 #roadtrip 8-13-25
+NC NC119 I-40/85 5thSt #BRR 9-25
+NC NC181 US221_N NC194 #BRR 9-25
+NC NC194 HelCreRd HelRd #BRR 9-25 rough estimate on west side
+#NC NC194 US221_Bal GrantHouckRd #brr 9-25
+NC NC194 NC181 OldPubRd #BRR 9-25
+NC NC197 NC226_S RelRd #BRR 9-25
+NC NC197 BolCreRd_N US19E_S #BRR 9-25
+NC NC197 BolCreRd_S PaiForRd #BRR 9-25
+NC NC226 US19E_S NC197_S #BRR 9-25
+NC NC226AltBak NC226_S NC226_N #BRR 9-25. I don't completely know the deal with how this was taken but it certainly was to the end
 NC NC231 NC96 US64Bus #roadtrip 8-13-25
-NC NC540 64 67
+NC NC540 64 1 #last update - BRR 9-25
 NC NC885 1 5
 #south carolina
 SC I-20 141 GA/SC #florida trip
@@ -345,7 +367,7 @@ VA SkyDr US340 US211
 VA I-64 299 282 #delmarva trip
 VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
-VA I-77 NC/VA 40
+VA I-77 NC/VA VA/WV #completed with BRR 9-25
 VA I-81 TN/VA 98 #from virginia tech to tenessee border
 VA I-81 118 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech
 VA I-85 NC/VA 68
@@ -357,6 +379,7 @@ VA US13 I-64(282) VA/MD
 VA US15 NC/VA VA20
 VA US29 VA86 VA6_W #raleigh -> hershey
 VA US58 I-95 I-664
+VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
 VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
 VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
@@ -367,16 +390,23 @@ VA US460 US460BusPea_E SR613/617 #raleigh -> blacksburg
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA VA6 US29_S VA151_N #raleigh -> hershey
+VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA86 NC/VA US29/58 #raleigh -> hershey
 VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
 VA VA151 VA6_E US250 #raleigh -> hershey
 VA VA207 US301 I-95
+VA VA362 US58 GraHigSP #BRR 9-25
 #west virginia
 WV I-68 WV/MD 7 #WVU tour
+WV I-77 VA/WV 7 #BRR 9-25
 WV I-81 VA/WV WV/MD #college to hershey park
+#WV US19 US460_E GreenValleyRd #BRR 9-25
+WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
 WV US119 CR857_N ColAve #WVU tour
 WV US340 WV/VA SheSt #shanendoah trip
+WV US460 12MileRd US19_N #BRR 9-25
+WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
 #alabama
 AL US80 AL/GA US280/431_S
 AL US231 US431 FL/AL
