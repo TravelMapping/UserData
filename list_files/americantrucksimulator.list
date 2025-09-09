@@ -1,14 +1,15 @@
 # Notes:
 # Check to see if I-110 starts at CA 47.
 # Check to see if I-710 starts at CA 47/103.
-# Work on the rest of California and US.
+# Work on the Nevada and the rest of the US.
+# Check every route to see if its correct
 
 
 
 # California
 # Interstates
 CA I-5 3 CA/OR # At the Newhall Pass Interchange, I-5 dissapears on the map to favor Interstate 5 Truck (see line below), although the route is still passable.
-CA I-5Trk I_5S I_5N
+CA I-5TrkNew I_5S I_5N
 CA I-8 2A CA/AZ
 CA I-10 1 CA/AZ
 CA I-15 6B CA/NV
@@ -20,7 +21,6 @@ CA I-405 I-5(94) 63C
 CA I-580 1A I-5
 CA I-710 1 18A
 CA I-880 I-280 31A # I-880 only touches I-580 at I-80 (also its irl northern terminus), but it ends in-game at I-580 in-game wayyy south of that interchange, so I-238 is used instead.
-# Interstates 210 & 980 are inaccessible and therefore not listed here.
 
 # US Highways
 CA US6 US395 CA/NV
@@ -40,3 +40,49 @@ CA CA3 CA299_E CA299_W
 CA CA4 I-5(471) CA99(252B)
 CA CA9 CA1 KeyWay
 CA CA11 1A 2
+CA CA14 I-5 CA58 # CA 14 only touches US 395 at Inyokern, but it starts in-game at US 395/CA 58 wayyyyy south of that intersection, so CA 58 is used instead.
+CA CA15 1B 6B # CA 15 never touches CA 905, so I-5 is used instead.
+CA CA16 US50 CRE2
+CA CA17 1A 26
+CA CA34 RiceAve LasPosRd
+CA CA36 CA44 US395
+CA CA37 US101 21
+CA CA41 132 Ave12
+# CA 43, although is listed in the game and passable, is through a CA 58 concurrency, which i cant accurately represent here.
+CA CA44 CA273/299 CA36
+CA CA47 1A I-710
+CA CA58 US101 I-15
+CA CA65 CA99 7thStaRd
+CA CA75 CA282 I-5(14A)
+CA CA76 I-15 CRS16_W
+CA CA78 CRS3 CA86_S
+CA CA86 I-8 I-10
+CA CA89 US50_W US50_E
+CA CA89 RivSt HenRd
+CA CA99 I-5(221) 254A
+CA CA108 CA219
+CA CA120 1A CA99(242)
+CA CA120Lee US395_N US6
+CA CA121 CA37 TraSt
+CA CA126 1A 40
+CA CA132 CA99 MitRd # someone get the CA99_N waypoint for CA132 PLEASE.
+CA CA135 US101(173) BetRd
+CA CA139 CA299_W CA/OR
+CA CA145 I-5/33 ShawAve
+CA CA152 CA1 CA99
+CA CA180 CA145 63
+CA CA190Dea US395 NorHwy
+CA CA198 US101 I-5 # CA 198 never touches CA 145, so I-5 is used instead.
+CA CA255 US101_S StaDr
+CA CA269 HydRd CA145
+CA CA273 I-5(667) CA299_E
+CA CA299 US101 US395_N
+CA CA905 1A 8
+
+
+# Nevada
+# Interstates
+
+# US Highways
+
+# State Routes
