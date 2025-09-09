@@ -123,7 +123,7 @@ CA I-80 1A CA/NV        # Clinched
 NV I-80 CA/NV 178       # CA/NV NV289
 NV I-80 303 NV/UT       # Elko NV/UT
 UT I-80 1 102           # NV/UT UT201
-UT I-80 114 145         # Wright Bros Dr UT224
+UT I-80 114 168         # Wright Bros Dr I-84
 OH I-80 145 161         # I-71 OH57
 
 # I-81
@@ -137,10 +137,10 @@ OR I-82 WA/OR 11        # Clinched
 # I-83
 PA I-83 41A 51          # PA581 I-81
 
-# I-84 (West)
-OR I-84 I-5 OR/ID       # Clinched
-ID I-84 OR/ID ID/UT     # Clinched
-UT I-84 ID/UT 87        # ID/UT US89
+# I-84 (West) - Clinched
+OR I-84 I-5 OR/ID
+ID I-84 OR/ID ID/UT
+UT I-84 ID/UT 120
 
 # I-85
 VA I-85 NC/VA 68        # Clinched
@@ -217,7 +217,7 @@ OR I-205 I-5 OR/WA
 NV I-215 10 12          # I-15 NV171
 
 # I-215 (UT)
-UT I-215 12 I-15        # I-15 I-15
+UT I-215 2 I-15         # I-80 East I-15
 
 # I-225 (CO)
 CO I-225 I-25 5         # I-25 Illif Ave
@@ -1463,6 +1463,10 @@ UT UT171 UT172 US89
 
 # UT172
 UT UT172 UT171 I-80
+UT UT172 6200S UT173
+
+# UT173
+UT UT173 UT85 UT154
 
 # UT177
 UT UT177 1A 7
