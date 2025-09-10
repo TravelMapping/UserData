@@ -1,13 +1,21 @@
-#Switzerland / Austria / Germany
+#Europe
 AUT S1Vor DEU/AUT Bre
 AUT S3Vor CHE/AUT Bre
 
+CHE IC3 Sar Chur
 CHE IC5 ZurFlu Ror
+CHE S1Gal Rom StGal
 CHE S2Gal Ror StMar
 CHE S3Vor StMar CHE/AUT
+# Note: S4Gal substitutes for IR13
+CHE S4Gal StGal Sar
 CHE S21Gal StGal App
+# Bernina Express, Chur (CHE) > Tirano (ITA)
 
 DEU-BY S1Vor LinIns DEU/AUT
+
+#ITA RE8 MilCen Lec
+#ITA FrMilBatt Mil Fir (train 9555 from Milano Centrale to Battipaglia)
 
 #London Underground
 ENG BakLn OxfCir Wat
