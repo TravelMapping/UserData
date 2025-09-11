@@ -1,5 +1,5 @@
 # Notes:
-# Work on Washington and the rest of the US.
+# Work on Utah and the rest of the US.
 # Check every route to see if its correct.
 
 
@@ -210,6 +210,7 @@ NM NM529 US82 US62/180
 NM NM597 US160 FourCorMon
 NM NM599 I-25 US84/285
 
+
 # Oregon
 # Interstates
 OR I-5 CA/OR OR/WA
@@ -233,9 +234,11 @@ OR US199 CA/OR I-5
 OR US395 CA/OR I-84(188)
 OR US395 I-82 OR/WA
 
-
   # Special US Highways
-
+OR US30BusOnt I-84(374) US30_E
+OR US97BusBen US20_E US20_W
+OR US97BusKla US97_S US97_N
+OR US101BusAst OR202_E US101_N
 
 # State Routes
 OR OR7 CamSt I-84
@@ -251,6 +254,41 @@ OR OR201 US20/26_W I-84(374)
 OR OR213 I-5 LanDr
 OR OR569 9B GatSt
 
+
+# Washington
+# Interstates
+WA I-5 OR/WA 258
+WA I-82 I-90 WA/OR
+WA I-90 WA519 WA/ID
+WA I-182 I-82 14
+WA I-205 OR/WA 27
+WA I-405 I-5(154) 11
+
+# US Highways
+WA US2 I-5 NorSpoCor
+WA US12 US101 WA8
+WA US12 I-5(88) WA/ID
+WA US97 OR/WA WA20_E
+WA US101 OR/WA I-5
+WA US395 OR/WA WA20_W
+
+  # Special US Highways
+WA US97BusOka US97_S US97_N
+
+# State Routes
+WA WA8 US12 US101
+WA WA14 I-5 10
+WA WA20Por US101 PorCouFry
+WA WA20 CouPorFry US395_S
+WA WA155 US2 WA174
+WA WA261 HarRd I-90/395
+WA WA285 SteSt US2/97
+WA WA397 25thAve I-182
+WA WA432 WA433 I-5
+WA WA433 OR/WA WA432
+WA WA526 40thAve WA99/527
+WA WA529 I-5(193) WA528
+WA WA900 I-405(4B) HarAve
 
 
 # Other
