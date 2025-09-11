@@ -1,4 +1,4 @@
-# Date: 2025-08-30
+# Date: 2025-09-11
 # ----------------
 
 ######################
@@ -379,6 +379,31 @@ AUT S3Vor CHE/AUT Bre                          #2025
 DEU-BY RB92Mem Mem BY/BW                       #2025
 DEU-BW RB92 BY/BW BW/BY                        #2025
 DEU-BY RB92 BW/BY LinIns                       #2025
+
+DEU-HE RE5 OffHbf +DIV_ICES                    #2025, actually traveled as ICE692 + ICE1586/ICE2916
+#ICE692 Ulm - Frankfurt - Fulda                #2025
+DEU-NI RE2 Got NorHar                          #2025, actually traveled as ICE1586/ICE2916
+DEU-NI RE2 +DIV_Ret HanHbf                     #2025, actually traveled as ICE1586/ICE2916
+DEU-NI RB83 +DIV_ICE Got                       #2025, actually traveled as ICE1586/ICE2916
+DEU-HE RB83 +DIV_RE2 FulIhr                    #2025, actually traveled as ICE1586/ICE2916
+DEU-HE RB4 +DIV_RE2 KasWilHohe                 #2025, actually traveled as ICE1586/ICE2916
+DEU-HE RE5 +DIV_Obe +DIV_Kir                   #2025, actually traveled as ICE1586/ICE2916
+#ICE1586/ICE2916 Fulda - Hannover              #2025
+DEU-NI RB40 BraHbf NI/ST                       #2025, actually traveled as IC2039
+DEU-ST RB40 NI/ST MagBurgHbf                   #2025, actually traveled as IC2039
+DEU-NI RE60 BraHbf HanHbf                      #2025, actually traveled as IC2039
+#IC2039 Hannover - Magdeburg                   #2025
+DEU-ST S1 +DIV_SchBeck SchBeckBadSal           #2025, actually traveled as RB41
+#RB41 Magdeburg - Staßfurt - Aschersleben      #2025
+DEU-ST S47 HalTro HalSaaHbf                    #2025, actually traveled as RE4
+#RE4 Aschersleben - Könnern - Halle            #2025
+DEU-ST S8Hal HalSaaHbf ST/SN                   #2025
+DEU-SN S8 ST/SN SN/ST                          #2025
+DEU-ST S8 SN/ST BitFeld                        #2025
+DEU-ST S2 DesHbf BitFeld                       #2025, actually traveled as RE13
+#RE13 Bitterfeld - Zerbst - Magdeburg          #2025
+IC2443 Magdeburg - Köthen - Halle              #2025
+ICE705 Halle - Erfurt - Nürnberg - D'wörth     #2025
 
 
 ######################
@@ -893,6 +918,13 @@ DEU-ST 2Mag LosStr OpeHaus           #2025
 DEU-ST 5Mag OpeHaus MesGeElbAuenPark #2025
 DEU-ST 6Mag HeuMar HerKrug           #2025
 DEU-ST 4Mag CityCar PecPla           #2025
+DEU-ST 6Mag DiesDorf CityCar         #2025
+DEU-ST 1Mag WestRing SudBurg         #2025
+DEU-ST 10Mag SBfEicWei HalStaStrLeiStr #2025, 10 was rerouted via Am Fuchsberg
+DEU-ST 5Mag SudRing RaiStr           #2025, actually traveled as rerouted 10
+DEU-ST 3Mag HasBachPla RaiStr        #2025, actually traveled as rerouted 10
+DEU-ST 10Mag SudRing SudBurg         #2025, 10 wasrerouted via Am Fuchsberg
+
 
 DEU-TH 1Erf EurPla ThuHal            #2022
 DEU-TH 2Erf PRPlaMes WieHug          #2022
