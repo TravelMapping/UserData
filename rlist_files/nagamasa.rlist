@@ -496,7 +496,7 @@ OR AC PorUniSta BC AC VanPacCen
 
 ### CA 
 ## CALTRAIN
-CA CalTra SanCla SanFraKing
+CA CalTra SanJoseDir SanFraKing
 
 ## BART
 CA BARTOra Ber Ric
@@ -517,6 +517,7 @@ CA MuniT Mar ChiRosePark
 CA SMART SanRafDT NovSanMar
 
 ## VTA
+CA VTAGre SanJoseDir SanAnt
 CA VTAGre SanCla JapAyer
 CA VTAOra GreMall Mil
 
