@@ -97,12 +97,11 @@ CHN-SH Maglev LongYangRd PuDongAirTer12
 #### DEU
 ### MUNICH
 DEU-BY S2 Dac BergLaim
-DEU-BY S4 BergLaim Gra
 DEU-BY S8 OstBf FlugHafMun
 DEU-BY U1 OlyEinZen Hbf
 DEU-BY U3 OlyEinZen MarPla
 
-DEU-BY S2Sal Fre AUT S2Sal SalHau
+DEU-BY RE5 MunHbf AUT RE5Sal SalHbf
 
 ### BERLIN
 DEU-BE S1 BraBurTor PotPla
