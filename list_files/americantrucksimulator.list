@@ -29,9 +29,9 @@ AZ US89 I-40BL/180 AZ/UT
 AZ US93 US60 AZ/NV
 AZ US95 16thSt_W AZ/CA
 AZ US160 US89 AZ/NM
-AZ UZ163 US160 AZ/UT
+AZ US163 US160 AZ/UT
 AZ US180 GraCynNP AZ77_S
-AZ UAS180 AZ61_S US191_S
+AZ US180 AZ61_S US191_S
 AZ US191 US70_W AZ/UT
 
   # Special US Highways
@@ -64,7 +64,7 @@ CA I-40 I-15 CA/AZ
 CA I-80 1A CA/NV
 CA I-110 1A 9
 CA I-205 I-580 I-5
-CA I-405 I-5(94) 63C
+CA I-405 I-5(94A) 63C
 CA I-580 1A I-5
 CA I-710 1 18A
 CA I-880 I-280 31A # I-880 only touches I-580 at I-80 (also its irl northern terminus), but it ends in-game at I-580 in-game wayyy south of that interchange, so I-238 is used instead.
@@ -72,12 +72,12 @@ CA I-880 I-280 31A # I-880 only touches I-580 at I-80 (also its irl northern ter
 # US Highways
 CA US6 US395 CA/NV
 CA US50 1A CA/NV
-CA US95 CA/AZ I-40(144)
+CA US95 CA/AZ I-40(133)
 CA US97 I-5 CA/OR
 CA US101 1A CA/OR
 CA US199 US101 CA/OR
 CA US395 CA58 CA/NV # US 395 only touches CA 14 at Inyokern, but it starts in-game at CA 14/58 wayyyyy south of that intersection, so CA 58 is used instead.
-CA US395Sus CA/NV CA/OR
+CA US395Sus NV/CA CA/OR
 
 # State Routes
 CA CA1 1A(10) 72(101)
@@ -89,7 +89,7 @@ CA CA9 CA1 KeyWay
 CA CA11 1A 2
 CA CA14 I-5 CA58 # CA 14 only touches US 395 at Inyokern, but it starts in-game at US 395/CA 58 wayyyyy south of that intersection, so CA 58 is used instead.
 CA CA15 1B 6B # CA 15 never touches CA 905, so I-5 is used instead.
-CA CA16 US50 CRE2
+CA CA16Wil US50 CRE2
 CA CA17 1A 26
 CA CA34 RiceAve LasPosRd
 CA CA36 CA44 US395
@@ -107,7 +107,7 @@ CA CA86 I-8 I-10
 CA CA89 US50_W US50_E
 CA CA89 RivSt HenRd
 CA CA99 I-5(221) 254A
-CA CA108 CA219
+CA CA108 CA219 CA120_E
 CA CA120 1A CA99(242)
 CA CA120Lee US395_N US6
 CA CA121 CA37 TraSt
