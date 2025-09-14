@@ -1,4 +1,4 @@
-# Date: 2025-09-12
+# Date: 2025-09-13
 # ----------------
 
 ######################
@@ -16,7 +16,7 @@ DEU-BY RB13 IngHbf AugHbf                                       #2022
 DEU-BY RE80 AugHbf Don                                          #2022, actually traveled as RE8
 DEU-BY RB15 BW/BY IngHbf                                        #2022, RB15 Ulm - Donauwörth - Ingolstadt - Regensburg
 DEU-BY RB17 IngNord RegHbf                                      #2022, actually traveled as RB15 Ulm - Donauwörth - Ingolstadt - Regensburg
-DEU-BY S6Nur NeuStaBf NurnBergHbf     #~2012? actually traveled with RE from Würzburg to Munich
+DEU-BY S6Nur NeuStaBf NurnBergHbf                               #~2012? actually traveled with RE from Würzburg to Munich
 DEU-BY RE10 NurnBergHbf WurHbf                                  #~2012? traveled with unknown service, Würzburg - Nürnberg - München
 DEU-BY RE1 MunHbf NurnBergHbf                                   #~2012? traveled with unknown service, Würzburg - Nürnberg - München
 DEU-BY RE80 MunHbf WurHbf                                       #~2012? traveled with unknown service, München - Treuchtlingen - Würzburg
@@ -28,21 +28,22 @@ DEU-BY RE31 Mar HofHbf                                          #2022, actually 
 DEU-SN C15 +DIV_Hbf +DIV_NieWie                                 #2022, actually traveled as RB30 to Dresden
 DEU-SN S3Dre FreiBerg DreHbf                                    #2022, actually traveled as RB30 from Chemnitz
 #DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
-DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, actually traveled as RB18 to Cottbus
-#DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 via Coswig
+DEU-BB RE13 +DIV_RE18 CotHbf                                    #2022, actually traveled as RE18 Dresden - Coswig - Ortrand - Cottbus
+DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, actually traveled as RE18 Dresden - Coswig - Ortrand - Cottbus
+#DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 Dresden - Coswig - Ortrand - Cottbus
 DEU-BB RE1 Fra CotHbf                                           #2022, actually traveled as RB11
 DEU-ST RE1 MagBurgHbf ST/BB                                     #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BB RE1Bra ST/BB BB/BE                                       #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BE RE1 BB/BE BE/BB                                          #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BB RE1 BE/BB Fra                                            #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
-DEU-ST S1 +DIV_MagN +DIV_SchBeck      #2022, actually traveled as RE30 to Halle
-DEU-ST S8Hal HalSaaHbf +DIV_Die       #2022, actually traveled as RE30 from Magdeburg
+DEU-ST S1 +DIV_MagN +DIV_SchBeck                                #2022, actually traveled as RE30 to Halle
+DEU-ST S8Hal HalSaaHbf +DIV_Die                                 #2022, actually traveled as RE30 from Magdeburg
 #DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
-DEU-ST S11 HalSaaHbf +DIV_MerS        #2022, actually traveled as RE16 to Naumburg
+DEU-ST S11 HalSaaHbf +DIV_MerS                                  #2022, actually traveled as RE16 to Naumburg
 #DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
-DEU-BY RE54 +DIV_RB25 BamBerg         #2022, actually traveled RE42 from Naumburg
-DEU-BY S1Nur BamBerg NurnBergHbf      #2022, actually traveled RE42 from Naumburg
-#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg; partially mapped by S1Nur
+DEU-TH RE14 BY/TH Saa                                           #2022, actually traveled as RE42 from Naumburg
+DEU-BY RE14 NurnBergHbf BY/TH                                   #2022, actually traveled as RE42 from Naumburg
+#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg
 DEU-BY RE16 NurnBergHbf Don                                     #2022
 
 DEU-HH RE4 HamBurgHbf HH/NI           #2021, Rotenburg (Wümme) - Hamburg Hbf
@@ -177,10 +178,9 @@ DEU-BW RE200 Wen UlmHbf               #2023, Ulm - Merklingen - Wendlingen
 
 DEU-BY RE7 AugHbf KemHbf              #2023
 DEU-BY RB67 AugHbf Wei                #2023
-DEU-BY S6 Tut DIV_DonBruW             #2023, actually traveled as RB6
 DEU-BY RB6 MunHbf Wei                 #2023
 
-DEU-BY RE5 MunHbf +DIV_RB54                                         #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
+DEU-BY RB54 MunHbf DEU/AUT                                          #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
 AUT S4Tir InnHau Kuf                                                #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, actually traveled as EC85 via southern route in Munich
 
