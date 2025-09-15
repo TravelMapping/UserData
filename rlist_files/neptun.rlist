@@ -1,5 +1,5 @@
 # ──────────
-# 2025-09-03
+# 2025-09-09
 # ──────────
 
 # ─────────
@@ -303,6 +303,12 @@ DEU-BY S2Pet PetHau Dac
 DEU-BY S4 OstBf Gra
 DEU-BY S5 NeuPerSud Gie
 
+# ─────────────────
+# Baden-Württemberg
+# ─────────────────
+
+DEU-BW RS4Off Off FRA-GES RS4Off Str
+
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
 #└───────────────────────────────────────────┘
@@ -345,6 +351,25 @@ ESP-CT R2N PasGra Aer
 
 ESP-CT L3 Valc Fon
 ESP-CT L4 Bar Ver
+
+#┌───────────────────────────────────────────┐
+#│                    FRA                    │
+#└───────────────────────────────────────────┘
+
+# ──────────
+# Strasbourg
+# ──────────
+
+FRA-GES TramB Rep HomFer
+FRA-GES TramD GareCen DEU-BW TramD KehlRat
+FRA-GES TramE Rep Lan
+
+# ────────
+# Mulhouse
+# ────────
+
+FRA-GES Tram1Mul GareCen Cha
+FRA-GES TramTrn PorJeu ThaStJac
 
 #┌───────────────────────────────────────────┐
 #│                    HUN                    │

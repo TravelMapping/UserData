@@ -1177,6 +1177,10 @@ MD US40 I-68(72) I-70(82)
 MD US40ScePin NatPike_E US40_E
 MD US522 WV/MD MD/PA
 
+#MD_USSelectTouristRoutes
+
+MD NatRd MD75 MD808
+
 #ME_Interstates
 
 ME I-195 I-95 2
@@ -1306,6 +1310,10 @@ MI US23BusAnn US23_S US23_N
 MI US127 40 156
 MI US127BusCla US127_S US10Bus
 MI US12 I-69BL I-69
+
+#MI_USSelectTouristRoutes
+
+MI LSCT FroSt I-75(394)
 
 #MO_Interstates
 
@@ -2303,6 +2311,11 @@ WI US18 267(12) 79(151)
 WI US14 WI59_E I-43
 WI US51 OldUS14_E US14
 WI US12 321A 330
+
+#WI_USSElectTouristRoutes
+
+WI LMCT RivAve I-41/43
+WI LMCT I-43(185) CRTT_Doo
 
 #WV_Interstates
 
