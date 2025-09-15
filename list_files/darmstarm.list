@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 9-8-25.
+#last updated 9-14-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -116,7 +116,7 @@ MD I-295 MD/DC I-95/495
 MD I-495 27 34 #to bethesda
 MD I-495 38 MD/VA #hershey -> raleigh
 MD I-695 BroHwy 4 #i95 to i97
-MD I-695 12B 44 #various trips
+MD I-695 7 44 #various trips, last updated 9-25
 MD I-795 1 9 #cunningham falls trip
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
@@ -184,7 +184,7 @@ NC I-240 5B 9 #BRR 9-25
 NC I-440 1 12
 NC I-485 30 32
 NC I-540 24 26 #roadtrip 8-13-25
-NC I-885 5 9
+NC I-885 5 13 #completed 9-25
 NC US1 99 US401_N #update 8-8-25
 NC US15 NC/VA I-85(202)
 NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
