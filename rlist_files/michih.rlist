@@ -64,7 +64,7 @@ DEU-NI RE2Osn NW/NI OsnHbf            #2021, actually traveled as ICE Ulm-Bremen
 DEU-HB RE9 BreHbf HB/NI               #2021, actually traveled as ICE Ulm-Bremen
 DEU-NI RE9 HB/NI OsnHbf               #2021, actually traveled as ICE Ulm-Bremen
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
-DEU-BY S3 MamDorf DIV_DonBruW         #2022, actually traveled several times with ICE and RE
+DEU-BY S3 MamDorf HirGar              #2022, actually traveled several times with ICE and RE
 DEU-BY RE9 MunHbf BY/BW               #2022, actually traveled as ICE512 Ulm - München
 DEU-BW RE55 DonEsc UlmHbf             #2022, RE55 via Munderkingen, Fridlingen
 DEU-BW S10Fre Hbf DonEsc              #2022, S10
