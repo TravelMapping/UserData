@@ -113,8 +113,7 @@ MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
 MD I-270SprAsh 2 I-495 #hershey -> raleigh
 MD I-295 MD/DC I-95/495
-MD I-495 27 34 #to bethesda
-MD I-495 38 MD/VA #hershey -> raleigh
+MD I-495 DC/MD MD/VA #hershey -> raleigh, bethesda. completed 9-25
 MD I-695 BroHwy 4 #i95 to i97
 MD I-695 7 44 #various trips, last updated 9-25
 MD I-795 1 9 #cunningham falls trip
@@ -125,6 +124,7 @@ MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
 MD US15 10 US340_W #harper's ferry trip
 MD US15 MD/PA 12 #hershey -> raleigh
+MD US29 25 I-495 #baltimore -> raleigh 9-25
 MD US40 MD7Elk MD7/155
 MD US40 US15_N I-70(53) #hershey -> raleigh
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
@@ -375,6 +375,7 @@ VA I-95 VA/DC NC/VA
 VA I-295 43 28A #williamsburg trip
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
+VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US29 VA86 VA6_W #raleigh -> hershey
@@ -394,6 +395,7 @@ VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA86 NC/VA US29/58 #raleigh -> hershey
 VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
+VA VA123 US1 I-95 #baltimore -> raleigh 9-25
 VA VA151 VA6_E US250 #raleigh -> hershey
 VA VA207 US301 I-95
 VA VA362 US58 GraHigSP #BRR 9-25

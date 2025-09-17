@@ -1,17 +1,24 @@
-        ###################################
-        ###                             ###
-        ###       myselfalso.list       ###
-        ###                             ###
-        ###   Updated: August 6, 2025   ###
-        ###                             ###
-        ###################################
+      #######################################
+      ###                                 ###
+      ###         myselfalso.list         ###
+      ###                                 ###
+      ###   Updated: September 15, 2025   ###
+      ###                                 ###
+      #######################################
 
 
 ### United States Interstate Highway System ###
 
 FL I-4 7A 72
 
-FL I-10 343 I-95
+CA I-5 110A 134B
+
+CA I-10 1 13
+
+CA I-15 115 246
+NV I-15 33 37
+
+CA I-15BLBar I-15_S I-15_N
 
 GA I-16 157 167
 
@@ -140,9 +147,13 @@ PA I-99 1 MusLn
 PA I-99FutMan I-180 PA/NY
 NY I-99 PA/NY 13
 
+CA I-110 9 21
+
 PA I-176 I-76 11
 
 PA I-180 I-80/147 29
+
+CA I-210 25 45
 
 VA I-264 I-64/664 14
 
@@ -184,6 +195,8 @@ NY I-390 I-86 12
 CT I-395 76 CT/MA
 VA I-395 1 VA/DC
 DC I-395 VA/DC US50
+
+CA I-405 37A 39
 
 VA I-464 1 6B
 
@@ -331,8 +344,6 @@ OH US20 OH2_W OH534
 PA US20 PA832 I-79
 MA US20 MA2_W MA2_E
 
-OH US20HisPai OH2 OH528
-
 PA US22 PA18 I-99
 PA US22 US11/15_S PA/NJ
 NJ US22 PA/NJ I-78(18)
@@ -394,8 +405,6 @@ VA US60 21st/22ndSt US58Bus
 NC US64 US64BypMan_W US158/12
 NC US64BypMan US64_W US64_E
 
-MO US66His KinBlvd_S ColeSt
-
 SC US78 SC642 LineSt
 
 FL US90 US301Byp US301_N
@@ -403,6 +412,8 @@ FL US90 I-95(350A) I-95(349)
 FL US90 PenRd FLA1A
 
 FL US92 FL583 I-4(7B)
+
+CA US101 1A 11B
 
 MD US113 US13 MD/DE
 MD US13BusSal PriSt US13_N
@@ -486,6 +497,14 @@ VA US460 VA337 I-64(275)
 
 VA US522 I-81 US11_N
 PA US522 US322_W US11/15
+
+### United States Historic Highways ###
+
+OH US20HisPai OH2 OH528
+
+CA US66HisHol I-10 MisRd
+CA US66HisBar CA58 I-15(184)
+MO US66His KinBlvd_S ColeSt
 
 ### United States Select Named Freeways ###
 
@@ -713,6 +732,16 @@ AL AL75 CR400/843 AL35
 AL AL79 US431_S BuckIslDr
 AL AL227 CR400/402 US431/79
 
+### California State Highways ###
+
+CA CA1 1A(10) OceAve
+CA CA1 TorBlvd CA90
+CA CA2 CenAve US101(4B)
+CA CA110 21 24A
+CA CA127 I-15 OldSpaTr
+CA CA134 4 13B
+CA CA210 45 64A
+
 ### Connecticut State Highways ###
 
 CT CT2 I-91 US1
@@ -806,6 +835,10 @@ MA MA28 StoDr MA3_S
 
 MO MO30 MO366 I-44(290A)
 MO MO366 KinBlvd MO30
+
+### Nevada State Highways ###
+
+NV NV160 OldSpaHwy I-15
 
 ### North Carolina State Highways ###
 
