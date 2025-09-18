@@ -53,7 +53,7 @@ AL US72 MS/AL NatTraPkwy
 AL US78 US11_S I-20(140)
 AL US78 AL21 AL/GA
 AL US90 I-10(30) AL59_S
-#AL US431 US78 AL301 #concurrent with US78 at the time, I-20 was not yet in service there
+#AL US431 US78 AL301 #congruent with US78 at the time, I-20 was not yet in service there
 AR I-30 143 46
 AR I-30 30 TX/AR
 AR I-40 153B 279B
@@ -145,8 +145,16 @@ AZ US163 AZ/UT US160 #AZ464 at that time
 AZ US180 GraCynNP US89
 AZ US180 I-40(201) PetForRd
 AZ US191 I-10(352) I-10(331)
+BC BC1 NanFry 25
+BC BC1 44A 129
+BC BC1 BC7_E 374
+BC BC1Van HorBayFry JohSt #plus JohSt to Fort Street
 BC BC2 BC97 BC/AB
 BC BC3 BC95A BC/AB
+BC BC7 BarHwy ToBC1
+BC BC7 HaigHwy BC1_E
+BC BC9 YaleRd HaigHwy
+BC BC17 11 CloAve
 BC BC93 BC/AB BC95A
 BC BC95 BC3/BC93 BC95A_S
 BC BC95A BC93/95 BC3/95
@@ -154,6 +162,9 @@ BC BC97 BC/YT BC2
 BC BC97Con BC/YT YT/BC
 BC BC97Lia BC/YT YT/BC
 BC BC97Low BC/YT YT/BC
+BC BC99 3 13
+BC BC99 GeoSt_E 4Ave
+BC BC99 GraSt_S USA/CAN
 BC YT2 BC/YT AK/BC
 BC YT3 BC/YT AK/BC
 CA BigOakRd CA120 ElPorRd
@@ -565,7 +576,7 @@ ID ID55 US95_N WarWagRd #less Boydston St to WarWagRd
 ID ID55 LkSt_E ID44_E #less LkSt_E to Deinhart Lane
 ID ID61 US89 WY/ID
 ID ID87 ID/MT US20
-ID US12 US95_S ID3
+ID US12 WA/ID ID/MT
 ID US20 I-84(28) ID16
 ID US20 ID44 I-84(95)
 ID US20 US26/93 ID/MT
@@ -760,9 +771,9 @@ KS US183 CRR KS18
 KS US281 US36_E US36_W
 KS US281 US24_E US24_W
 KS US281 KS18_W KS18_E
-#KS US400 CO/KS BroSt #preexisting routes mostly concurrent with US50 and US54--US400 not yet established
+#KS US400 CO/KS BroSt #preexisting routes mostly congruent with US50 and US54--US400 not yet established
 #KS US400 WasSt HarRd #preexisting route concurrency especially former KS96 E of Augusta--US400 not yet established
-#KS US400 US59 KS/MO #preexisting routes not completely concurrent--US400 not yet established
+#KS US400 US59 KS/MO #preexisting routes not completely congruent--US400 not yet established
 KY ComMtnPkwy I-64 US460
 KY I-64 IN/KY 3
 KY I-64 5 58
@@ -1174,7 +1185,7 @@ MT I-90 ID/MT 33
 MT I-90 96 105
 MT I-90 105 166
 MT I-90 166 184 #then was US10
-MT I-9O 184 187
+MT I-90 184 187
 MT I-90 187 208 #minus ca 3 miles before 208; then was US10
 MT I-90 208 306 #plus ca 3 miles before 208
 MT I-90 309 319
@@ -1187,9 +1198,9 @@ MT I-90 400 408 #about 412 rather than 408; was US10 then
 MT I-90 408 452 #I-90 only east of about 412
 MT I-90 484 514
 MT I-90BLBil US87_N I-90_E
-MT I-90BLBig I-90_W I-90_W
-MI I-90BLBoz I-90_W #plus US191_S to 5th Avenue
-MI I-90BLBoz MT86 I-90_E #less MT86 to Highland Boulevard
+MT I-90BLBig I-90_W I-90_E
+MT I-90BLBoz I-90_W US191_S#plus US191_S to 5th Avenue
+MT I-90BLBoz MT86 I-90_E #less MT86 to Highland Boulevard
 MT I-90BLMis I-90_W US93_S #less Schramm St to US93_S
 MT I-94 0 23
 MT I-94 23 49 #then was US10 only
@@ -1221,8 +1232,10 @@ MT SR324 LemPassRd OldArmRd
 MT SR359 MT2/69 US287
 MT SR451 FroRd_N WY/MT
 MT US2 SR206 GoiSunRd
-MT US12 ID/MT I-15
+#MT US10 was then congruent or somewhat independent of I-90 between Missoula and Billings and I-94 between Billings and Miles City
+MT US12 ID/MT I-15 #not checked for congruency
 MT US12 US191/3_N MT3_S
+MT US12 I-94(93) I-94(141) #not checked for congruency
 MT US20 ID/MT YelNP
 MT US87 1stAve/2ndAve US191/3
 MT US87 AirRd_Bil I-90(452)
@@ -1233,9 +1246,10 @@ MT US89 I-15(290) I-15(280)
 MT US89 US87_N US87/3
 MT US93 MT35 ID/MT
 MT US191 US87/3 US12/3
+MT US191 I-90(367) I-90(309) #plus I-90(309) to Highland Boulevard
 MT US191WYe US20_W YelNP_S
 MT US212 WY/MT MT78 #less 10th Street to MT78
-MT US212 I-90(452) I-90(510)
+MT US212 I-90(434) I-90(510) #not checked for congruency
 MT US212Coo YelNP MT/WY
 MT US287 SR359 MT87
 MT US287 US20_W YelNP
@@ -1798,16 +1812,34 @@ ON ON403 ON401_W 80
 ON ON417 ON17_Bra 180 #may have been designated ON17 then
 ON ON417 180 QC/ON
 ON ONQEW 100 32
+OR I-5 301 300A
+OR I-5 299B 234
+OR I-84 I-5 84 #was then I-80N, congruency uncertain in some parts
+OR I-84 85 168 #was then I-80N, congruency uncertain in some parts
+OR I-405 1D I-5(299B)
 OR OR18 BakSt US101
+OR OR47 McDonRd US26_E #less McDonRd to just over Columbia/Washington County line
 OR OR78 LavaBedRd US95
-OR OR99W I-5(294) BakSt
+OR OR99E US20_W I-5(234)
+OR OR99W I-5(294) CirBlvd
+OR OR104 MainSt ColBeaRd
+OR OR104SWar OR104 US101
 OR OR140 AckCampRd OR/NV #plus AckCampRd west almost to Doherty Slide Rd, which may no longer exist
 OR OR201 OwyAve ID/OR
 OR OR205 KruResRd RoaSprRan #plus Diamond Grain Camp Rd to KruResRd
+OR OR730 I-84 US395/32 #I-84 then was I-84N
+OR US20 ConBlvd OR99E_N #plus Northeast Seavy Avenue to ConBlvd
 OR US20 US395_S RusRd
+OR US26 US101 TimRd
+OR US26 OR47_N 74
 OR US30 I-5(301) OR/ID
+OR US30HisCas I-84(44) US30
+OR US30HisCol CorHillRd I-84(35) #possibly I-84(17A) instead of CorHillRd
 OR US95 OR/ID OR78
+OR US101 OR/WA ORH104Y
+OR US101 OR104 US26
 OR US101 OR18 CA/OR
+OR US101BusAst FtClaRd US101_N
 OR US395 US20_E CA/OR
 PA I-70 WV/PA PA/MD
 PA I-76 28 330
@@ -2160,7 +2192,7 @@ TX US80 I-30 TXSpr557 #then was I-20
 TX US81 FM174 US81BusAlv_N
 TX US81 US81BusAlv_S US81BusRho_N
 TX US81 US81BusRho_S I-35W
-TX US81BusAlv US81_N US81_S #then simply US81 (concurrent with US287)
+TX US81BusAlv US81_N US81_S #then simply US81 (congruent with US287)
 TX US81BusRho US81_N US81_S #less US81_S to continuation of what was then simply US81 (/US287)
 TX US82 US277/281 US287_S
 TX US82 US69 I-30
@@ -2194,7 +2226,7 @@ TX US287 US287BusRho_S I-35W(60) #less US287BusRho_S to former routing of US287 
 TX US287 I-35W(52B) I-35W(52A)
 TX US287 I-10(853A) I-10(849)
 TX US287BusRho US287_N US287_S #less US287_S to continuation of what was then simply US287 (/US81)
-TX US287BusAlv US287_N US287_S #then simply US287 (concurrent with US81)
+TX US287BusAlv US287_N US287_S #then simply US287 (congruent with US81)
 TX US287BusVer US287_N US287_S #then was simply US287
 TX US290 CirDr_W I-35(230) #plus Fitzhugh Rd to CirDr_W
 TX US377 TX/OK FM455/1192
@@ -2461,7 +2493,30 @@ VT VT100 RanRd VT108 #less RanRd to Brush Hill Road
 VT VT108 TollRd VT100
 VT VT125 US7_N LinRd
 VT VT279 NY/VT US7_S
+WA HurRidRd ParkAve End
+WA I-5 USA/CAN 276
+WA I-5 270 256
+WA I-5 252 166
+WA I-5 165 132
+#WA I-82 113 WA/OR was not there then
+#WA I-182 12A 14 was not there then
+WA UppHohRd US101 HohVisCen
+WA US12 I-182(12A) I-182(14) #I-182 not yet there
+WA US12 I-182(14) WA124_W #was then also US395
+WA US12 WA124_E WA/ID
+WA US101 WA104 OR/WA
+WA US395 I-182(14) I-82(131) #was then WA14 and I-82 not there
+WA US395 I-82(131) OR/WA
+WA WA3 WA104 WA310
+WA WA3 WA304 WA16
 #WA WA14 BriGods OR US30 BriGods (just crossed the bridge)
+WA WA16 WA3 I-5
+WA WA104 US101 WA3
+WA WA124 US12_W US12_E #then was (unnumbered?) link plus toll bridge
+WA WA304 WA310 WA3
+WA WA310 WA3 WA304
+WA WA548 I-5(276) ShiRd #plus ShiRd to Drayton Harbor Road
+WA WA548 GraRd I-5(266) #or maybe only Vista Drive to I-5(266)
 WI I-39 IL/WI 187
 WI I-41 120 38
 WI I-43 192 1
