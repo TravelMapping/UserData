@@ -26,8 +26,8 @@ MT MT49 US2 TwoMedRd
 MT TwoMedRd MT49 TwoMedLk
 #AZ
 AZ US89AltFre US89 UT US89AltKan US89 #idk if this will work
-AZ AZ89ASed I-40BL RedRockRd
-AZ AZ89ASed AZ260 FainRd #maybe more?
+AZ AZ89A I-40BL RedRockRd
+AZ AZ89A AZ260 FainRd #maybe more?
 AZ AZ179 I-17 AZ89A
 AZ US60 AZ260_E TegSt #show low to wickenburg
 #phx metro
@@ -37,6 +37,9 @@ AZ AZ51 15 I-10
 AZ AZ202 78 55
 AZ AZ202 34 30 #kiwa
 AZ AZ202 1A 12
+AZ AZ101 55A 61B
+AZ AZ202 50 43
+AZ AZ24 1 AZ202
 #grand canyon
 AZ US180 I-40BL_W GraCynNP
 AZ AZ64 GraCynNP SouEntRd_N
@@ -91,7 +94,7 @@ NE US26 NE29 NE71_S #to scottsbluff
 NE NE71 US26_E CO/NE
 CO CO71 CO/NE CO14_W
 CO CO14 CO71_N CO52
-CO CO52 CO14 I-76(80)
+CO CO52FMo CO14 I-76
 CO I-76 80 1B #fort morgan to ~arvada
 #other denver
 CO I-70 274 284
@@ -190,7 +193,7 @@ NM US66HisSan I-40(275) NM91
 #thunder bay (incomplete)
 ON ON17 SH590 SupShoRd #extend to ouimet canyon road
 #ON587 (sleeping giant)
-ON SH587 ON11/17 SH587_End
+ON SH587 ON11/17 SH587_S
 #mount mckay?
 #transit through canada
 AB AB4 USA/CAN AB512 
@@ -219,11 +222,12 @@ AK HicPkwy AK1 TudRd
 AK AK3 AK1 AK2
 AK ParkRd AK3 StoHillOve #denali
 AK AK9 AK1 RaiAve #seward
-AK AK4 AK1_W AK10 #wrangell-st elias
+AK AK4 AK8 MeaAve #paxson to valdez
 AK AK10 AK4 McCarRd
 AK McCarRd AK10 KenRiv
 AK AK11 AK2 PipRd286 #south bonanza creek
-AK AK6 AK2 PedDomeRd
+AK AK6 AK2 RivSt
+AK AK8 AK4 AK3
 #dempster
 AK AK5 AK2 AK/YT
 YT YT9 YT/AK GeoBlaFry
@@ -246,13 +250,13 @@ HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
 HI HI139 HI11 HI130
 HI HI130 HI139 CR132 #to leilani estates
 HI ChaCraRd CraRimDr HolSeaArch
-HI HI160 HI11 PuuHonNHP
+#HI HI160 HI11 PuuHonNHP #HI160 removed
 #WA
 WA AirExpy Ter WA518
 WA WA518 AirExpy I-5
 WA I-405 I-5(154) 13B
 WA I-90 10 WA519
-WA I-5 151 169
+WA I-5 132 169
 WA WSeaBri 4thAve I-5(163A)
 WA WA167 I-405 WA161/512
 WA WA161 WA512/167 WasAve #center street/alder cutoff road
@@ -260,12 +264,28 @@ WA WA7 AldCut WA706
 WA WA706 WA7 MouRaiNP
 WA SteCynRd WA706 ParVlyRd_N
 WA SteCynRd ParVlyRd_S WA123
-WA WA123 SteCanRd WA410
+WA WA123 US12 WA410
 WA WA410 WA123 WA164
 WA SunParkRd WA410 Sun
-WA WA164 WA410 17thSt #m st se
+WA WA164 WA410 WA18
 WA WA516 WA515 I-5 #military rd s
 WA WA520 WA513 84thAve
+WA WA16 I-5 WA3
+WA WA3 WA16 WA104
+WA WA104 WA3 US101
+WA US101 WA104 US12
+WA HurRidRd ParkAve End
+WA UppHohRd US101 HohVisCen
+WA WA110 US101 OlyNP
+WA WA110SprMor WA110 OlyNP
+WA US12 US101 WA8
+WA WA8 US12 US101
+WA US101 WA8 I-5
+WA I-5 104 63
+WA WA505 I-5 WA504
+WA WA504 WA505 HumBouTrl #coldwater lake rd
+WA US12 TucRd WA123
+WA WA18 WA164 WA167
 #atlanta/gsm
 GA I-85 72 113
 GA I-75 165 GA/TN
@@ -295,6 +315,40 @@ GA GA237 SidMarBlvd GA13
 GA GA166 LakAve I-285
 GA I-285 5 62A
 GA I-85 68 71
+#eclipse
+MEX-JAL MEX200 BlvdMedAsc_S NAY/JAL
+MEX-NAY MEX200 NAY/JAL MEX200D_Buc
+MEX-NAY MEX200D MEX200_Buc MEX200_Mon
+MEX-NAY MEX200 Say NAY16
+#need to add MEX-NAY NAY16 ?
+MEX-NAY MEX76Ixt IxtCon_S MEX76
+MEX-NAY MEX76 Var MEX12
+MEX-NAY MEX12 MEX76 MEX74
+MEX-NAY MEX74 MEX12 SanBlas
+MEX-NAY AutTepSB MEX12 MEX15D
+MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at AutTepSB (76D)
+MEX-SIN MEX15D NAY/SIN MEX15DMaz
+MEX-SIN MEX15Maz AveRafBue AveEjeMex_S #first breakpoint should be at avenida del delfin
+MEX-NAY MEX200Mit Say MEX200
+#iceland
+ISL TH41 KefFlu TH49
+ISL TH43 TH41 TH426
+ISL TH426 TH43 BlaLon
+ISL TH411 LinVeg TH41
+ISL TH42 TH41 TH427
+ISL TH427 TH42 ThorSta #not this far, only to P1 where the road closure is
+ISL TH40 TH41_S LauVeg
+ISL TH49 TH40 TH1
+ISL TH1 TH49_N TH36
+ISL TH36 TH1 TH365
+ISL TH365 TH36 TH37
+ISL TH37 TH365 TH35_N
+ISL TH35 TH1 Gey
+ISL TH1 TH35 TH413
+ISL TH413 TH1 TH41
+#switzerland/liechtenstein
+CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
+LIE GTS Ege LettStr #from balzers to vaduz post
 
 #CA
 #thunder bay

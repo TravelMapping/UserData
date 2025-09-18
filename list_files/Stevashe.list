@@ -219,10 +219,10 @@
       MT GoiSunRd US2 US89
       
     #Yellowstone
-      MT NEntRd OldGarRd MT NEntRd US89
+      MT NEntRd OldGarRd US89
+        WY NEntRd GraLoopRd OldGarRd
       MT OldGarRd NEntRd WY OldGarRd NEntRd
       MT WEntRd US20/191 WY WEntRd GraLoopRd
-      WY NEntRd GraLoopRd OldGarRd
       WY GraLoopRd NEntRd_W NEntRd_E
       WY NorCanRd GraLoopRd_W GraLoopRd_E
       WY SEntRd US89/191 GraLoopRd

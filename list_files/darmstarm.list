@@ -1,0 +1,415 @@
+#darmstarm's list of routes.
+#default: Region Route Waypoint1 Waypoint2
+#multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
+#last updated 9-14-25.
+#USA
+#delaware
+DE I-95 MD/DE DE/PA
+DE US9 CapeMayFry DaiFarmRd
+DE US9BusLew US9_W US9_E
+DE US13 US202/141 DE273
+DE US13 DE1(119) DE6_E #smyrna
+DE US13 MD/DE AdaRd
+DE US301 5 MD/DE
+DE DE1 DE4 DE26
+DE DE1A DE1_N DE1_S
+DE DE1B DE1A DE1
+DE DE2 DE273 DE141
+DE DE7 DE/PA DE1(166)
+DE DE16 DE36_W AdaRd #to burrsville rd (rd 112)
+DE DE23 DE5/24 PotRd #at least out to here
+DE DE24 DE1 DE5/23
+DE DE36 WooRd DE16_W #WooRd should be adams rd, but not in the waypoints
+DE DE41 DE/PA DE2/62
+DE DE48 DE41 DE2
+DE DE71 DE896_S US301
+DE DE72 DE7_N US40 #rock gym
+DE DE82 DE52 DE/PA
+DE DE141 1 US202/261
+DE DE273 DE896 DE2/72
+DE DE279 DE4/896 MD/DE
+DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
+DE DE896 DE/MD DE71_S
+#pennsylvania
+PA I-76 226 247 #niagara trip
+PA I-76 341 328 #briarwood invitational
+PA I-80 123 111 #niagara trip
+PA I-80 298 302 #tobyhana trip
+PA I-81 59 MD/PA #raleigh -> hershey
+PA I-81 70 67 #niagara trip
+PA I-83 41A 51 #niagara trip, raleigh-> hershey
+PA I-86 PA/NY 1 #niagara trip (rnrhf)
+PA I-90 37 OH/PA #niagara trip (rnrhf)
+PA I-95 DE/PA PA/NJ #various trips
+PA I-283 1 3
+PA I-295 PA/NJ I-95/276 #college of new jersey
+PA I-176 2 10
+PA I-476 74 5 #various trips
+PA US1 MD/PA PA352
+PA US6 PA666 US6BusWar_E #niagara trip
+PA US6BusWar US6_E US62_N
+PA US15 US11/581 MD/PA #hershey -> raleigh
+PA US22 I-81 US322_W #niagara trip
+PA US22 PA33 I-476 #tobyhana trip
+PA US30 PA41 US15 #gap to gettysburg
+PA US62 US6Bus_E PA/NY
+PA US202 US1/322 I-76 #tmg, valley forge
+PA US209 I-476 PA309 #relatives trip
+PA US219 PA153 PA948_N
+PA US222 US422/12 PA61 #only part i know for sure
+PA US322 PA452 US1_N #sun valley
+PA US322 US22_W PA970 #niagara trip
+PA US322 I-83(46A) US422 #hershey -> raleigh
+PA US322 I-95(4) PA/NJ #relatives, old house
+PA US422Rea EgyRd US202 #tmg
+PA US422Rea US222/12 US222Bus #reading part
+PA PA8 I-90 WagRd #rnrhf
+PA PA10 PA472_S I-176(2)
+PA PA26 UniDr US322
+PA PA33 I-80 US22 #tobyhana trip
+PA PA39 HerParkDr_E HanSt #most likely incomplete
+PA PA41 DE/PA US30
+PA PA41AltTrkAvo PA41_S PA41_N
+PA PA52 DE/PA PA926
+PA PA53 US322_W US322_E 
+PA PA69 PA/NY US62 #niagara trip
+PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
+PA PA82 DE/PA PA345 #coatesville, up to french creek
+PA PA113 US30 DevDr #downingtown east
+PA PA153 I-80 US219
+PA PA162 PA82/842 StrRd
+PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
+PA PA272 MD/PA KirMillRd #camp horseshoe
+PA PA283 I-283 US30
+PA PA340 PA772_E PA462
+PA PA345 PA82 WarRd_E #french creek
+PA PA401 US202 PhoPike
+PA PA420 I-95 US13
+PA PA462 PA999 PA340 #unfortunately didn't go on enough of 999 for it to count.
+PA PA581 1 6 #raleigh -> hershey
+PA PA611 I-95 PA3 #go birds (alternatively, to the jimmel)
+PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
+PA PA472 US1 PA372
+PA PA666 US6 PA948
+PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
+PA PA743 PA283 US422
+PA PA772 US30 PA340_W
+PA PA796 PA896 PA41
+PA PA841 MD/PA PA82
+PA PA841AltTrkWes PA841_N PA841_S
+PA PA842 NewRd PA162
+PA PA896 MD/PA US30
+PA PA926 PA841 US202/322 #pocopson to 202
+PA PA948 PA120 PA666
+PA PA957 PA69_N US62
+PA PA970 US322 I-80
+#maryland
+MD I-68 WV/MD 82 #various trips
+MD I-70 1A 91
+MD I-81 MD/PA WV/MD
+MD I-83 16 12 #to 695, alternate way
+MD I-95 DC/MD MD/DE
+MD I-97 7 17
+MD I-270 32 2 #hershey -> raleigh
+MD I-270SprAsh 2 I-495 #hershey -> raleigh
+MD I-295 MD/DC I-95/495
+MD I-495 DC/MD MD/VA #hershey -> raleigh, bethesda. completed 9-25
+MD I-695 BroHwy 4 #i95 to i97
+MD I-695 7 44 #various trips, last updated 9-25
+MD I-795 1 9 #cunningham falls trip
+MD US1 MD/PA I-695(32)
+MD US1 I-95/495 MD193 #umd college park
+MD US13 VA/MD US13BusSal_S #two parts
+MD US13BusSal US13_S US13_N
+MD US13 US50_W MD/DE
+MD US15 10 US340_W #harper's ferry trip
+MD US15 MD/PA 12 #hershey -> raleigh
+MD US29 25 I-495 #baltimore -> raleigh 9-25
+MD US40 MD7Elk MD7/155
+MD US40 US15_N I-70(53) #hershey -> raleigh
+MD US219 MosRd I-68(14) #wisp resort (and accident lol)
+MD US301 MD/DE VA/MD
+MD US340 10 VA/MD #harper's ferry trip
+MD MD3 US50/301 I-97/32
+MD MD7Elk SouSt US40
+MD MD41 I-695 JopRd
+MD MD45 WarRd TimRd
+MD MD140 I-795 US15 #cunningham falls trip
+MD MD146 I-695 BleRd #towson
+MD MD147 GlenArmRd US1/1Bus #loch raven
+MD MD152 I-95 US1 #joppaaaa
+MD MD155 US40/7 I-95
+MD MD161 MD155 MD623
+MD MD193 BalWasPkwy GoodLuckRd
+MD MD201 MD295 DC/MD #end of baltwash to dc
+MD MD213 MD/PA MD273 #two parts
+MD MD213 US40 MD290/313
+MD MD222 MD276 US1 #road trip 7-19-25
+MD MD268 MainSt MD279
+MD MD272 MD/PA I-95 #two parts
+MD MD272 OldElkRd DarRd
+MD MD273 MD213 MD276
+MD MD276 MD222 US1 #road trip 7-19-25
+MD MD279 MD/DE MD268
+MD MD284 MD285_S MD285_N
+MD MD285 MD213 MD284_E
+MD MD295 I-95 MD175 #balt-wash
+MD BalWasPkwy MD175 US50/201
+MD MD313 KniBoxRd MD480
+MD MD313 HolCir MD544 #goldsboro skip
+MD MD313 US301 MD213/290
+MD MD316 MD279 MD277
+MD MD355 I-270/495 MD547 #the mansion at strathmore
+MD MD544 MD313 US301
+MD MD623 MD161 US1
+MD MD763 MD155 JunSt
+MD MD896 MD/PA DE/MD
+#washington dc
+DC I-95 VA/DC DC/MD
+DC I-295 5 MD/DC
+DC I-395 7 VA/DC
+DC I-695 2A I-395
+DC DC295 DC/MD 1A
+#north carolina
+NC RalChaExpy I-440 I-40
+NC I-40 US117_S 81 #up to black mountain (BRR 9-25)
+NC I-40 53 75 #BRR 9-25
+NC I-42 1 7 #roadtrip 8-13-25
+NC I-74 VA/NC 17 #tenessee trip
+NC I-77 NC/VA 101 #tenessee trip
+NC I-77 51 50 #BRR 9-25
+NC I-85 NC/VA SC/NC
+NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
+NC I-240 5B 9 #BRR 9-25
+NC I-440 1 12
+NC I-485 30 32
+NC I-540 24 26 #roadtrip 8-13-25
+NC I-885 5 13 #completed 9-25
+NC US1 99 US401_N #update 8-8-25
+NC US15 NC/VA I-85(202)
+NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
+NC US19E CRSchRd NC197_S #BRR 9-25. east to jacks creek rd
+NC US29 I-485(32) MalCreRd
+NC US52 140 109 #tenessee trip, BRR
+NC US52 107 108B #winston salem
+NC US64 464 293(40)
+NC US64 BilCrkRd NC9 #BRR 9-25
+NC US64BusWen NC231 I-540 #roadtrip 8-13-25
+NC US70 LomSt WhiMillRd
+NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
+NC US158 I-40 HanMallBlvd #JDL
+NC US221 OldUS421_W US321_N #BRR 9-25
+NC US221 DeeRd NC181_N #BRR 9-25
+NC US221BusJef NC88_W NC194_N #BRR 9-25
+NC US401 BreRd I-40
+NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
+NC US421 OldUS421_W US221_S #BRR 9-25
+#NC NC9 US64/74Alt ingles #BRR 9-25
+NC NC36 I-40 CleRd #garner wawa
+NC NC36 4(42) US70 #roadtrip 8-13-25
+NC NC42 US70 NC96 #roadtrip 8-13-25
+NC NC54 I-440(3) BluRidRd #campus
+NC NC54 I-40(290) AviPkwy #att
+NC NC54 I-40(273) US15/501_N #crapel hill
+NC NC74 41 53
+NC NC86 US70 NC/VA #raleigh -> hershey
+NC NC96 US64/264 US64Bus_W
+NC NC96 NC42 NC231 #roadtrip 8-13-25
+NC NC119 I-40/85 5thSt #BRR 9-25
+NC NC181 US221_N NC194 #BRR 9-25
+NC NC194 HelCreRd HelRd #BRR 9-25 rough estimate on west side
+#NC NC194 US221_Bal GrantHouckRd #brr 9-25
+NC NC194 NC181 OldPubRd #BRR 9-25
+NC NC197 NC226_S RelRd #BRR 9-25
+NC NC197 BolCreRd_N US19E_S #BRR 9-25
+NC NC197 BolCreRd_S PaiForRd #BRR 9-25
+NC NC226 US19E_S NC197_S #BRR 9-25
+NC NC226AltBak NC226_S NC226_N #BRR 9-25. I don't completely know the deal with how this was taken but it certainly was to the end
+NC NC231 NC96 US64Bus #roadtrip 8-13-25
+NC NC540 64 1 #last update - BRR 9-25
+NC NC885 1 5
+#south carolina
+SC I-20 141 GA/SC #florida trip
+SC I-85 51B SC/NC #florida trip
+SC I-85 GA/SC 42 #florida trip
+SC I-95 SC/NC GA/SC #flagler beach trip
+SC I-385 36 42 #florida trip
+SC US15 SC441 I-20(116) #congaree trip 8-31-25
+SC US29 US123 I-85(42)  #florida trip
+#SC US76 Congress Rd to Reese Rd, too small for a waypoint. congaree trip 8-31-25
+SC US76 SC263 SC441 #congaree trip 8-31-25
+SC US123 NorSt US29 #florida trip
+SC US601 I-20 SC262 #congaree trip 8-31-25
+SC SC9 I-95 SC57_N #congaree trip 8-31-25 - slightly shorter than waypoint here!
+SC SC48 MouViewRd SC769 #congaree trip 8-31-35 - stopped at sims rd, went as far as griffins creek rd
+#SC SC262 US601 Congress Rd, which is nowhere close to the next waypoint
+SC SC263 SC764 US76/378 #congaree trip 8-31-25
+SC SC441 US76/378 US15 #congaree trip 8-31-25
+SC SC764 PouLn SC263 #only as far as chalk st to the west. congaree trip 8-31-25
+SC SC769 ElmSavRd SC48 #congaree trip 8-31-25 - off old congaree road
+#georgia
+GA I-20 183 GA/SC
+GA I-75 99 102
+GA I-75 251 238 #dwarf house trip
+GA I-85 GA/SC 102 #three parts
+GA I-85 95 78 #dwarf house trip
+GA I-85 21 68
+GA I-95 GA/SC FL/GA #flagler beach trip
+GA I-185 10 I-85
+GA I-285 31 33 #to dwarf house
+GA I-285 GA279 62A #from drawrf house
+GA I-285 58 62 #from drawrf house
+GA US19 US19/82Bus US82_E
+GA US27 GA45/91_S GA91Spr
+GA US41 I-75(239B) CenAve_N #dwarf house trip
+GA US80 AL/GA GA22Con
+GA US82 US19_S GA300_N
+GA GA1 GA45/91_S GA91Spr
+GA GA15 GA68_W GA24
+GA GA22 AL/GA I-185
+GA GA39 GA91_S GA91_N
+GA GA45 GA91_S US27_S
+GA GA47 US1 I-20
+GA GA57 GA112 GA68
+GA GA68 GA57 GA15_N #incomplete
+GA GA91 FL/GA US19Bus/82Bus
+GA GA112 GA257_E GA57 #possibly took a divvy onto balls ferry road but i don't know for sure and there's no closer marker
+GA GA141 SpaDr I-285
+GA GA257 I-75 US129Alt_N
+GA GA300 US19/82Bus I-75
+GA GA520BusAlb GA91 US19
+GA GA540 GA15 US221_N
+#florida
+FL I-95 FL/GA 362 #flagler beach trip
+FL I-95 333 298 #flagler beach trip
+FL I-295 35 58 #flagler beach trip
+FL US1 I-95(298) PalmCoaPkwy #flagler beach trip
+FL US90 FL77 FL277 #panama city trip 2025
+FL US98 FL79 WisLn #panama city trip 2025
+FL US231 FL/AL FL273 #panama city trip 2025
+FL FL2 FL/GA US231 #panama city trip 2025
+FL FL9BJac I-295 4 #flagler beach trip
+FL FL30 DelPl FL79 #we never took 79 directly into 30, always us98
+FL FL77 US90 FL273 #panama city trip 2025
+FL FL79 FL277 US98 #panama city trip 2025
+FL FL273 FL77 US231 #panama city trip 2025
+FL FL277 US90 FL79 #panama city trip 2025
+#new mexico
+NM I-25 419 222
+NM NM58 US64 I-25 #interstate to cimmaron
+#ohio
+OH I-77 156 I-90 #niagara trip (rnrhf)
+OH I-90 OH/PA 174B # or 188? niagara trip (rnrhf)
+OH I-271 I-90 27B #niagara trip (rnrhf)
+OH I-480 26 20 #niagara trip (rnrhf)
+OH I-480War I-271 I-480 #niagara trip (rnrhf)
+OH OH2 207 195A #niagara trip (rnrhf)
+#tenessee
+TN I-40 421 386
+TN I-81 1 TN/VA
+TN US129 I-40 CheTrl
+#michigan
+MI I-94 198 204B #oak park wedding, mid 2010s
+MI MI39 1 16 #oak park wedding, mid 2010s
+#new york
+NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
+NY PalIntPkwy NJ/NY 6 #college new york trip 2024
+NY I-86 10 PA/NY #niagara trip (rnrhf)
+NY I-90 59(NYST) 56(NYST) #niagara trip
+NY I-90 50(NYST) 55A(NYST) #niagara trip (duff's -> bills)
+NY I-95 NJ/NY 1 #george washington bridge
+NY I-190 7 21 #niagara trip
+NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
+NY I-278 NJ/NY 13A # staten island ferry
+NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
+NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
+NY US62 PA/NY NY60 #niagara trip (ride up)
+NY US219 I-90_N US20Alt #niagara trip (duff's -> bills)
+NY NY5 NY179 I-190 #niagara trip (niagara)
+NY NY9A HenHudPkwy(14) HenHudPkwy(11) #to central park by car
+NY NY60 US62 FluAve #niagara trip (ride up)
+NY NY60 SylRd I-90 #niagara trip (niagara)
+NY NY75 US20 I-90 #niagara trip (bills -> bemus)
+NY NY179 I-90 NY5 #niagara trip (niagara)
+NY NY263 I-290 NY324 #niagara trip (duff's)
+NY NY430 StrRd NY60/394 #niagara trip (niagara)
+#new jersey
+NJ NJtpk 3 13 #college new york trip 2024
+NJ NJtpk I-295(1) 2 #ocean city trip 2025
+NJ GarStaPkwy 129 172 #college new york trip 2024
+NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
+NJ I-95 PA/NJ 16E #medieval times trip
+NJ I-95 74 NJ/NY #george washington bridge
+NJ I-195 1A 35 #infoage
+NJ I-278 3 NJ/NY
+NJ I-295 DE/NJ 34 #various trips
+NJ I-295 72 NJ/PA #college of new jersey
+NJ US9 CR623 Gar(25) #ocean city trip 2025
+NJ US40 DE/NJ NJ55
+NJ US130 US322 I-295(23) #relatives trip
+NJ US322 PA/NJ US130 #relatives trip, old house
+NJ US322 NJ55 NJTpk #ocean city trip 2025
+NJ NJ3 I-95 NJ17 #medieval times trip
+NJ NJ17 NJ3 SerRd #medieval times trip
+NJ NJ18 6 7 #infoage
+NJ NJ31 I-295 EwiRd #college of new jersey
+NJ NJ47 NJ55_S NJ347_N #two parts
+NJ NJ47 NJ347_S IndTraRd
+NJ NJ49 NJ55 NJ50 #ocean city trip 2025
+NJ NJ50 NJ49 TucRd #ocean city trip 2025
+NJ NJ55 50 NJ47
+NJ NJ70 I-295 CR541
+NJ NJ138 I-195 NJ18 #infoage
+NJ NJ168 I-295 NJTpk
+NJ NJ347 NJ47_N NJ47_S
+#virginia
+VA SkyDr US340 US211
+VA I-64 299 282 #delmarva trip
+VA I-64 200 234 #williamsburg trip
+VA I-64 99 87 #raleigh -> hershey
+VA I-77 NC/VA VA/WV #completed with BRR 9-25
+VA I-81 TN/VA 98 #from virginia tech to tenessee border
+VA I-81 118 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech
+VA I-85 NC/VA 68
+VA I-95 VA/DC NC/VA
+VA I-295 43 28A #williamsburg trip
+VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
+VA I-664 13 15
+VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
+VA US13 I-64(282) VA/MD 
+VA US15 NC/VA VA20
+VA US29 VA86 VA6_W #raleigh -> hershey
+VA US58 I-95 I-664
+VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
+VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
+VA US250 VA151 I-64(99) #raleigh -> hershey
+VA US301 VA207 VA/MD
+VA US340 VA55_W SkyDr #shanendoah trip 2020
+VA US340Lou VA/MD WV/VA #harper's ferry trip
+VA US460 SR700 I-81(118) #VTech tour, mountain lake hotel
+VA US460 US460BusPea_E SR613/617 #raleigh -> blacksburg
+VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
+VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
+VA VA6 US29_S VA151_N #raleigh -> hershey
+VA VA16 SR622 US58_W #BRR 9-25
+VA VA20 US15 I-64 #panorama farms
+VA VA86 NC/VA US29/58 #raleigh -> hershey
+VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
+VA VA123 US1 I-95 #baltimore -> raleigh 9-25
+VA VA151 VA6_E US250 #raleigh -> hershey
+VA VA207 US301 I-95
+VA VA362 US58 GraHigSP #BRR 9-25
+#west virginia
+WV I-68 WV/MD 7 #WVU tour
+WV I-77 VA/WV 7 #BRR 9-25
+WV I-81 VA/WV WV/MD #college to hershey park
+#WV US19 US460_E GreenValleyRd #BRR 9-25
+WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
+WV US119 CR857_N ColAve #WVU tour
+WV US340 WV/VA SheSt #shanendoah trip
+WV US460 12MileRd US19_N #BRR 9-25
+WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
+#alabama
+AL US80 AL/GA US280/431_S
+AL US231 US431 FL/AL
+AL US431 OpeRd US84_W

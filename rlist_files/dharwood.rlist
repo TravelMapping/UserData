@@ -1,0 +1,281 @@
+AZ PHX RenCarCen T3
+
+CA AirTrnBlue RenCarCen Ter3
+CA B HolHig UniSta
+CA BARTBlue DalyCity Col
+CA BARTRed DalyCity DtnBer
+CA BlueLn SanYsiTC AmePlz
+CA GreLn ConCen OldTownTC
+
+CO ALn UniSta DenAir
+CO DENTrn JepTer CGat
+CO DLn 10thOsa 18thCal
+CO ELn 10thOsa UniSta
+
+CT NewHavLn NY/CT NHUniSta
+
+DC AE WasUniSta DC/MD
+DC BluLn VA/DC CapS
+DC CA WasUniSta DC/MD
+DC GreLn NavyYardBal MtVerSq
+DC OraLn VA/DC CapSou
+DC RedLn MD/DC DC/MD
+DC SilLn VA/DC CapSou
+DC YelLn VA/DC MtVerSq
+
+DE AE MD/DE DE/PA
+DE CA MD/DE DE/PA
+
+FL MiaM MIA IntCen
+fl TPAShu MainTer AirA
+
+GA PlaTrn DomTer FGatIntTer
+GA RedLn Air Buc
+GA SkyTrn RenCarCen Air
+
+IL AirTraSys Ter1 MulModFac
+IL BlueLn OHa Jac
+IL BroLn Wes Loop
+IL MLBlueLn MO/IL EastRiv
+IL MLRedLn MO/IL EastRiv
+IL OraLn Mid Loop
+IL RedLn Jac How
+
+LA StCha CanCar CarStCha
+
+MA DE BosNor MA/NH 
+MA GreLnD KEN NorSta
+
+MD AE DC/MD MD/DE
+MD CA DC/MD MD/DE
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD SilSpr
+
+ME DE NH/ME Por
+
+MN HubTram Ter1 HubBui
+
+MO KCSC UniSta RivMar
+MO MLBlueLn ForParkDeBal MO/IL
+MO MLRedLn LamAirTer1 MO/IL
+MO MR KanCityUni StLouGat
+
+NH DE MA/NH NH/ME
+
+NJ AE PA/NJ Met
+NJ AirTrn NewLibAir TerA
+NJ CA PA/NJ NJ/NY
+NJ GlaBra Sum Hob
+NJ MorEssLn Mor NY/NJ
+NJ PATHHWT Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+NJ RarVlyLn Wes NewPenn
+
+NV BlueLn Ter1 DGat
+NV LVM MGMGra Wes
+
+NY A ChaSt 59StColCir
+NY B W4St 81StMusNH
+NY C HighSt 81StMusnh
+NY CA NJ/NY PennSta
+NY D W4St 161StYanSta
+NY E WTC QuePla
+NY F YorkSt LexAve63St
+NY J BroSt MarAve
+NY N 14StUniSq  AstBlvd
+NY NewHavLn GraCen NY/CT
+NY PATHHWT NJ/NY WTC
+NY PATHH33 NJ/NY 33St
+NY S42 TimSq GraCen
+NY 1 SouFry 96St
+NY 2 WallSt 96St
+NY 3 WallSt 96St
+NY 4 BowGre 161StYanSta
+NY 5 BowGre 86St
+NY 6 BroBriCityHall 103rdSt
+NY 7 42StTimSq JacHeiRooAve
+
+OH RedLn Air TowCity
+
+OR RedLn PioSq PorIntAir
+
+PA AE DE/PA PA/NJ
+PA CA DE/PA PA/NJ
+PA MarFraLn 15th 5th
+PA PITTrn LanTer AirTer
+
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+
+VA AerTrn MainTer ConCD
+VA BluLn RRWasNatAir VA/DC
+VA OraLn EFallsChu VA/DC
+VA SilLn DulIntAir VA/DC
+VA YelLn RRWasNatAir VA/DC
+
+WA GreLn DGat-Sta DGat_Fin
+WA 1 Wes SeaTacAir
+
+BC CanLn Wat BroCityHall
+BC ExpoLn Wat MainStSciWor
+
+ON 1 StGeo Dun
+ON 2 Kip StGeo
+
+QC GreLn Atw BerUQAM
+QC OraLn PlaDArm BerUQAM
+QC YelLn BerUQAM JeaDra
+
+ARG C AvMayo GenSanMar
+
+AUS-NSW M1 MarPla VicCro
+AUS-NSW T2 CirQuay TownHall
+AUS-NSW T4 BonJct TownHall
+
+AUT U1 HauSudTirPla Ste
+AUT U3 Wes Lan
+AUT U4 Ket WienHei
+AUT WRT Sch_1 Sch_2
+AUT 38Wie Gri Scho
+AUT 41Wie Pot Scho
+
+BEL LonAms FRA/BEL BruMidi
+
+BRA-RJ TremCor CosVel CriRed
+BRA-RJ 1Met SiqCam Cin
+
+CHL 1 UniChi Tob
+CHL 3 PlaArm UniChi
+
+CHN-SH MagLev LongYangRd PuDongAirTer12
+
+CZE A StaSka Mus
+CZE B And Mus
+
+DEU-BE S1 FriStr GesBru
+DEU-BE S3 ZooGar FriStr
+DEU-BE U1 KurFurDamm GleDre
+DEU-BE U2 ZooGar StaMit
+DEU-BE U6 StaMit Wed
+DEU-BE U8 BerStr GesBru
+DEU-BY S3 Hbf MarPla
+DEU-BY U1 OlyEinZen SenTor
+DEU-BY U2 SenTor SchPla
+DEU-BY U3 SenTor OlyEinZen
+DEU-BY U4 TheWie OdePla
+DEU-HE S3 LokBf FraFurtHbf
+DEU-HE U1 FraFurtSud WilBraPla
+DEU-HE U4 Hbf KonWac
+DEU-HH S1 ReeBahn JunSti
+DEU-MV S1 War RosHbf
+DEU-MV 5Ros Hbf LanStr
+DEU-NW 16Rhe BonnHbf BadGodBergBf
+
+DNK H OST KobHov
+DNK M2 Nor Luf
+
+ENG BakLn WarAve Wat
+ENG CenLn NotHillGate Lou
+ENG ChaML LonVic DovPri
+ENG CirLn EdgRd_1 EdgRd_2
+ENG DisLnEal EalCom MileEnd
+ENG DisLnEdg FulBdwy EarCou
+ENG DLR CanWha IslGar
+ENG EliLn Pad AbbWood
+ENG GatEx LonVic GatAir
+ENG HaCLn EdgRd LivSt
+ENG HaCLn Whi MileEnd
+ENG HamCouLn LonWat HamCou
+ENG HEx LonPad HeaTer23
+ENG JubLn GrePark Str
+ENG LonAms AshInt GBR/FRA
+ENG MetLnUxb Uxb Ald
+ENG MMLShe LonStPanInt Der
+ENG NKentLn LonBri AbbWoo
+ENG NorLn Bank Ang
+ENG NorLnBat Wat CamTown
+END OxfLn LonPad Oxf
+ENG PicLnHT4 HeaTer23 Coc
+ENG PicLnUxb Uxb Coc
+ENG SEML LonChaCro AshInt
+ENG SusDowLn Lew NewHar
+ENG SusMLE ClaJct Lew
+ENG VicLn Vic WalCen
+ENG WaCLn Wat Bank
+ENG WinLn LonWat WinEtonRiv
+
+ESP-CT L1 PlaSan Cat
+ESP-CT L3 Par PasGra 
+ESP-MD M1 EstArte Sol
+ESP-MD M8 FerMad AerT123
+
+FRA-GES StrNice Str MulVil
+FRA-HDF K16 BouVil HDF/IDF
+FRA-HDF LonAms GBR/FRA FRA/BEL
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF K16 HDF/IDF ParGareNord
+FRA-IDF L ParStLaz VerRiveDro
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF M1 CdGEto GareLyon
+FRA-IDF M2 PlaCli BarRoc
+FRA-IDF M3 StLaz Rep
+FRA-IDF M4 PorCli MonBie
+FRA-IDF M6 CdGEto MonBie
+FRA-IDF M8 Inv StrStDen
+FRA-IDF M9 Tro Rep
+FRA-IDF M11 HotVil Rep
+FRA-IDF M12 MonBie Pig
+FRA-IDF M13 PlaCli Inv
+FRA-PAC StrNice NiceVil FRA/MCO
+
+GRC 2Ath Acr Syn
+
+HKG IslLn Cen QuaBay
+HKG PT Peak CenTer
+HKG TWLn Cen TsimShaTsui
+
+HUN M1 DeakFerTer HosTere
+
+IRL CorkCom Cobh CorkKent
+
+KOR 1 132 135
+KOR 2 201_W 203
+KOR 2 214 223
+KOR 3 330 340
+
+MCO ParNice FRA/MCO MonMonCar
+
+MEX-DF 1 Ins SalAgua
+MEX-DF 8 SalAgua BelArt
+
+NLD ParAms RotCen AmsCen
+NLD 1Ams JanPieHei Lei
+NLD 2Ams CenSta Mus
+Nld 26Ams CenSta MUZ
+
+NOR R45 Myr Flam
+NOR F4 Myr Voss
+
+PRT 12ELis Lim_1 Lim_2
+
+SGP NE NE1 NE3
+SGP NS NS7 NS22
+SGP TE TE14 TE17
+
+SWE 7Sto TCen NorMusVasmus
+SWE 18Sto Ska OdenPlan
+
+TUR B1Ist Yenk Usk
+TUR M2 Yenk Sish
+TUR T1Ist BeyKapCar Toph
+
+
+
+
+
+
+ 
+
+
+ 

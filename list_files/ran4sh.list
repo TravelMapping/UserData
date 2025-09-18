@@ -1,9 +1,146 @@
-GA	I-16	1			167
-AL	I-20	123	SC	I-20	141
-TN	I-24	43	TN	I-24Cha	185
-FL	I-75	274	TN	I-75	2
+# Contents
+# National routes - Interstates NS, EW, US routes NS, EW
+# Regional routes (Region - roughly by media markets or states)
+# Trucking listed separately but also counted in main list
+
+# Recent trips (to be integrated below eventually)
+NJ I-287 I-95 21
+NJ NJ495 I-95 NJ/NY
+NY NY495 NJ/NY DyerAve
+NY I-278 32A 42
+NY GraCenPkwy 4A 9E
+NY NY25A GraCenPkwy I-678
+NY I-678 13 19
+NY HutRivPkwy 1A 4A
+VT VT11 US7 I-91
+VT US7 VT11 VT279_W
+VT VT279 NY/VT US7_N
+NY NY7 I-87(7) BenByp
+CA CA57 1A 25B
+CA I-5 95 107A
+CA CA133 CA1 10A
+IN I-94 IL/IN MI I-94 34
+MI I-196 I-94 64
+MI MI6 I-196 I-96
+MI I-96 1A 46
+MI US31 110 170
+MI US10 LauSt US31_S
+WI US10 8thSt_S LakeMicFry
+WI I-43 1 144
+
+# North-South primary interstates
+# 99 New York
+NY	I-95	13	CT	I-95	76
+NJ	I-95	6	NY	I-95	1C
+PA	I-95	17			22
+DE	I-95	11	PA	I-95	14
+FL	I-95	337	DE	I-95	8
+VT	I-93	1			I-91
+NH	I-93	I-293_N			35
+VT	I-91	7			19
+CT	I-91	1			14A
+NY	I-87	24(NYST)		7
+# I-287 overlap see I-287
+NY	I-87	2(MDE)			6A(NYST)
+# I-87 NC see US route(s)
 AL	I-85	0	VA	I-85	68
-FL	I-95	362	GA	I-95	94
+MD	I-83	12	PA	I-83	51
+TN	I-81	1	NY	I-81	25A
+PA	I-79	77			116
+OH	I-77	44			47
+SC	I-77	I-26	VA	I-77	32
+FL	I-75	261	OH	I-75	4	
+OH	I-71	119			220
+KY	I-71	77	OH	I-71	106
+# 69 indianapolis-ft wayne
+# 65 mobile-huntsville
+# 65 nashville-nw indiana
+# 59 hattiesburg-chattanooga
+IL	I-57	44			358
+MS	I-55	185	IL	I-55	US41
+WI	I-43	1			72A
+WI	I-41	38			54
+WI	I-39	175(90)			142(90)
+IL	I-39	I-55	WI	I-39	177(90)
+# 15 san diego-las vegas
+# 11 las vegas
+# 5 san diego
+# 5 los angeles-seattle
+
+# East-West primary interstates
+WI	I-94	240	IL	I-94	74
+MA	I-90	90			106
+IN	I-90	17	NY	I-90	1
+IL	I-90	68			43B(94)
+WA	I-90	106			176
+IL	I-88	131			I-290
+NY	I-86	36			44
+PA	I-84	I-81/6	CT	I-84	27
+OR	I-84	6			182
+NJ	I-80	65			68
+IN	I-80	96	NJ	I-80	43
+IL	I-80	112	IN	I-80	72
+IA	I-80	284	IL	I-80	79
+CA	I-80	33			82
+# 78 harrisburg-nyc area
+# 76 I-71-ohio tpk
+# 76 pennsylvania
+IA	I-74	I-80	OH	I-74	I-75
+# Omit 74 extension (NC) except where necessary
+# 72 jacksonville-champaign
+# 70 columbia mo-pa tpk
+# 66 virginia
+# 64 missouri-I-57
+# 64 west virginia-virginia
+# 44 st louis
+# Omit 42 nc, use US route
+NC	I-40	385			416
+CA	I-40	I-15	NC	I-40	309
+# 30 dallas-little rock (greyhound)
+SC	I-26	107			216
+NC	I-26	4A(240)	SC	I-26	18
+IL	I-24	I-57	TN	I-24Cha	185
+# 22 memphis-birmingham
+TX	I-20	I-10	SC	I-20	141
+GA	I-16	1			167
+# 10 california-texas
+# 10 mississippi-alabama
+# 10 florida
+# 8 san diego
+# 4 florida
+
+# Long-distance US route travel
+
+# PA-NY Williamsport-Rochester
+PA	US15	I-80		NY	US15	I-99(15)
+NY	I-86	36				44
+# NY state routes to Canandaigua
+
+# Eastern PA - Allentown, Reading, WilmingtonDE-York, Harrisburg
+# OH-PA I77-Pittsburgh
+# VA US 460 & US 58
+# Southeast (Carolina/Georgia/Florida)
+# FL-AL Tallahassee-Montgomery
+# FL-AL PanamaCityBeach-ColumbusGA
+# GA-AL Tifton-Birmingham
+# AL-TN Huntsville-Chattanooga
+# MS Greenwood
+# AR Jonesboro
+# OH-WV Charleston-Dayton
+# OH-IN Columbus-FtWayne-Chicago
+# OH-IN Toledo-FtWayne
+# IL Bloomington-Decatur
+# IL Jacksonville-StLouisMO
+# AZ Grand Canyon
+# NV-AZ Las Vegas from I-40
+# CA Lake Tahoe
+# CA-WA trucking to eastern OR/WA
+WA	US97	I-82(37)			I-90(106)
+CA	US97	I-5		WA	US97	WA22
+
+# Home regions - Georgia, SC, NC, Illinois
+# in each state do Interstates, US routes crossing states, US routes in state, state routes
+
 GA	I-185	8			I-85
 GA	I-285	GA279			62
 GA	I-475	I-75_S			3
@@ -179,9 +316,6 @@ GA GA162ConPor	GA162		GA81
 GA RonReaPkwy	PleHillRd	GA124
 GA SugPkwy	GA20		US29_E
 
-NC	I-26	4A(240)	SC	I-26	18
-SC	I-26	107			216
-SC	I-95	160	DE	I-95	5C
 SC	I-126	I-26			US21
 SC	I-385	35			42
 SC	I-526	10			17
@@ -231,12 +365,6 @@ SC	SC461	SC61		I-526
 SC	SC544	US17		US17Bus
 SC	SC576	US76		US501Bus/41Alt
 
-TN	I-40	387	NC	I-40	46
-NC	I-77	1B	VA	I-77	32
-
-NC	I-40	85	103
-NC	I-40	281	293
-NC	I-40	385	416
 NC	I-140	14	20
 NC	I-240	1A	9
 NC	I-277	1B	5
@@ -279,8 +407,58 @@ NC	NC177	SC/NC		US1
 NC	NC225	US25_S		US176
 NC	NC280	US64/276	I-26
 
-VA	I-81	81	PA	I-81	89
+IL	I-155	0	I-74
+IL	I-355	0	I-290
+IL	I-474	0	15
+IL	I-180	I-80	3
+IL	I-190	0	ChiOHAir
+IL	I-290	I-90	I-90/94
+IL	I-294	0	52
+IL I-55BLBlo	I-55_S	I-55_N
+
+IL	US20	I-290(13)	I-294(33)
+IL	US24	I-39		OldUS66
+IL	US41	31stSt		LakeShoDr_N
+IL	US51	I-72(141)	I-74(135)
+IL	US136	I-155		US150
+IL	US150	US24/116	US136
+IL US51BusBlo	US51_S		US51_N
+IL US66HisChi	US136_E		US24
+
+IL	IL9	CouSt		I-57
+IL	IL29	AnnSt		I-74(95A)
+IL	IL47	I-55		I-80
+IL	IL50	IL83_N		I-55
+IL	IL53	RivRd		IL102
+IL	IL116	I-39		I-55
+IL	IL122	I-155(15)	IL9
+IL	IL251	I-39(8)		US24
+IL	IL394	IL1_S		SteRd
+
+# Remaining travel by region
+
+# New England
+CT	I-395	I-95				35
+CT	I-395	41		MA	I-395	12
+CT	CT2A	CT2_W				6
+CT	CTTpk	I-395				US6
+CT	US6	CTTpk		RI	US6	RI94
+RI	RI94	US6				RI101
+RI	RI101	CT/RI				RI94
+CT	CT101	I-395				CT/RI
+MA	MA12	I-90				I-290(12)
+MA	I-495	58				89
+MA	US3	81		NH	US3	Eve(7)
+NH	US3	I-93(35)			SumSt
+NH	EveTpk	MA/NH				13(93)
+NH	NH115	US3				US2
+VT	US2	ShaLakeRd	ME	US2	BriSt
+
+# Lehigh Valley
 PA	I-78	1	NJ	I-78	59
+PA	US209	PA248	I-476
+PA	PA248	US209	BlueMouDr
+
 
 #Norfolk/Williamsburg
 VA	US58	I-85		I-664
@@ -308,63 +486,6 @@ DC I-695	I-395				1C
 VA I-395	1		DC I-395	7
 
 
-NJ US46 I-95(68) NJ/NY
-NJ I-80 65 68
-NJ NJ17 UniAve TerAve
-NJ NJ81 I-95 NorAve
-NJ GarStaPkwy 38 129
-NJ AtlCityExpy BalAve 7
-NY MosPkwy I-87 HenHudPkwy
-NY HenHudPkwy 8 24
-NY NY9A I-478 HenHudPkwy(23)
-NY FDRooDr I-478 17
-NY HarRivDr 17 18
-
-CT I-91 1 14A
-NY I-95 13 NY/CT
-CT I-95 NY/CT 76
-CT I-395 76 79A
-NY I-295 7 10
-NY I-678 16 I-95
-
-
-DE I-95 MD/DE 5C
-DE I-295 I-95 DE/NJ
-NJ I-295 DE/NJ 1
-NJ NJTpk I-295(1) 72(95)
-NJ I-95 6 NJ/NY
-NJ I-95Sec I-95_S I-95_N
-NY I-95 NJ/NY 1C
-NY I-87 2(MDE) 6A(NYST)
-
-TN I-275 0 3
-TN I-640 3 I-40_E
-TN I-75 3(640) 141
-TN TN63 US27/297 I-75(134)
-TN US27 TN63/297 TN/KY
-
-AZ US180 GraCynNP I-40(285)
-AZ AZ64 I-40 CenRd
-AZ I-40 48 165
-AZ US93 I-40(71) 2
-NV NV172 I-11 End
-NV US93BusBou US93_S US93_N
-NV US93 I-11(15B) I-515(68)
-NV NV593 LasVegBlvd I-515
-
-
-CA CA99 I-5(221) 518(5)
-CA I-5 153B 518
-CA I-80 33 82
-
-CA I-680 0 71
-CA I-280 0 49B
-CA CA1 47B(280) 445B(101)
-CA US101 422 460
-CA CA37 US101 21
-CA US50 I-80 CA/NV
-
-NV I-515 56 76
 
 #Norfolk/Williamsburg
 #Washington
@@ -380,11 +501,14 @@ PA	PA611	I-95		I-76
 PA	I-95	17		22
 PA	I-676	I-76		I-95
 PA	I-76	331		344
+PA	PA291	I-95(10)	ScoWay
 
 #Bethlehem
-PA	US22	I-78(8)		PA191
+PA	US22	I-78(8)		PA33
+PA	PA33	I-78		US22
 PA	PA378	2ndStRamp	US22
-PA	PA145	US22		LehSt
+PA	PA145	US22		PA329
+PA	PA329	PA145		MainSt
 PA	PA329	WeaRd		PA987_S
 PA	PA987	US22		SchRd
 PA	PA987	HanRd		PA329_W
@@ -494,6 +618,89 @@ FL	I-295	10	21
 FL	US17	FL224	I-10(361)
 FL	I-95	337	352B
 FL	I-295	35	61
+
+# Illinois and travel from there - see also home state list
+KY	I-65	TN/KY			91
+KY	I-65	102			136B
+IN	I-65	1A			110B
+
+TN	TN155	6	US70
+TN	TN254	I-65	I-24
+TN	I-65	74	82
+
+WI	I-794	1A	3
+WI	WI794	I-794	OklaAve
+
+IN	US41	45thSt		US6Bus
+
+WI	WI164	I-43		SunDr
+
+MO	I-44	274B			I-70
+MO	I-70	232			249
+MO	I-270	20A	IL	I-270	6
+MO	US67	MidBlvd			I-70
+
+# Earlier unsorted entries - to be sorted
+
+
+NJ US46 I-95(68) NJ/NY
+NJ I-80 65 68
+NJ NJ17 UniAve TerAve
+NJ NJ81 I-95 NorAve
+NJ GarStaPkwy 38 129
+NJ AtlCityExpy BalAve 7
+NY MosPkwy I-87 HenHudPkwy
+NY HenHudPkwy 8 24
+NY NY9A I-478 HenHudPkwy(23)
+NY FDRooDr I-478 17
+NY HarRivDr 17 18
+
+CT I-91 1 14A
+NY I-295 7 10
+NY I-678 16 I-95
+
+
+DE I-95 MD/DE 5C
+DE I-295 I-95 DE/NJ
+NJ I-295 DE/NJ 1
+NJ NJTpk I-295(1) 72(95)
+NJ I-95 6 NJ/NY
+NJ I-95Sec I-95_S I-95_N
+NY I-95 NJ/NY 1C
+NY I-87 2(MDE) 6A(NYST)
+
+TN I-275 0 3
+TN I-640 3 I-40_E
+TN I-75 3(640) 141
+TN TN63 US27/297 I-75(134)
+TN US27 TN63/297 TN/KY
+
+AZ US180 GraCynNP I-40(285)
+AZ AZ64 I-40 CenRd
+AZ I-40 48 165
+AZ US93 I-40(71) 2
+NV NV172 I-11 End
+NV US93BusBou US93_S US93_N
+NV US93 I-11(15B) I-515(68)
+NV NV593 LasVegBlvd I-515
+
+
+CA CA99 I-5(221) 518(5)
+CA I-5 153B 518
+CA I-80 33 82
+
+CA I-680 0 71
+CA I-280 0 49B
+CA CA1 47B(280) 445B(101)
+CA US101 422 460
+CA CA37 US101 21
+CA US50 I-80 CA/NV
+
+NV I-515 56 76
+
+
+
+# End of non-truck listing (Above, both car and truck travel are listed; below, only truck travel is listed)
 
 #Personal travel on truck off days
 MS	US11	6thSt		ChaSt
@@ -712,7 +919,7 @@ TN	TN176	US78		I-240
 VA	US340	SR654		I-64
 IN	US40	RonReaPkwy	I-465(46)
 CT	CT66	I-91		CT2
-CT	CT2	13		28
+CT	CT2	15		36
 IN	IN267	I-74		I-65
 IL	US67	IL255		IL104_W
 IL	IL104	IL99		US67_S
@@ -776,3 +983,5 @@ VA	VA150	US60		VA76
 VA	US60	VA150		VA161
 VA	US1	US60		I-95(76B)
 VA	VA156	US60_W		I-295(31)
+
+# End of listing
