@@ -17,16 +17,21 @@
       PA I-76 342 344
       CA I-80 1A NV I-80 18
       WA I-82 I-90 OR I-82 11
+      MD I-83 1 PA I-83 46B
+        PA I-83 47 PA I-83 51
       OR I-84 I-5 OR I-84 69
         OR I-84 87 ID I-84 3
         ID I-84 9 ID I-84 27
         ID I-84 38 ID I-84 49
         ID I-84 54 ID I-84 90
       WA I-90 4thAve MT I-90 306
-        MA I-90 134 MA1A
+        MA I-90 131 MA1A
+      MA I-91 46 VT I-91 2
       MA I-93 14 28
       MI I-94 169 229
-      PA I-95 3 10
+      MD I-95 47 49
+        MD I-95 52 64
+        PA I-95 3 10
         PA I-95 22 26
         MA I-95 55 ME I-95 302
       MI I-96 37 40
@@ -71,6 +76,8 @@
       ID I-184 0 US20/26
       PA I-283 1 3
       MN I-494 70 11C
+      MD I-195 TerRd 4
+      MD I-695 11 33
       ME I-295 I-95(44) I-95(103)
       ME I-395 US2 6
       MI I-196 41 64
@@ -87,17 +94,19 @@
       MA US1 I-93(14) I-93(19)
       MA US1 MA16 I-95(66)
       MA US1 MA1ASal_S TollRd
+      NH US1 HobRd OceRd
+      ME US1 BidCon ME125/136
       ME US1 ME105 ME52_S
-      ME US1 ME3_W MyrSt
-      ME US1 ME169 US1AltFor_S
+      ME US1 ME3_W ME164_N
     WA US2 WA529 MT US2 US93Alt
       MT US2 MT40 MT US2 GoiSunRd
     ME US2 ME139 US201_N
-      ME US2 ME23_S RidRd
-      ME US2 US202 ME15Bus
-      ME US2 ME116_N ME6_E
+      ME US2 ME23_S ME6_E
       ME US2 US2AltHou_W ME158
       ME US2 US1_N US1_S
+    VT US4 VT30 US5_S
+      NH US4 NH120_S OnTheCom
+    VT US5 VT11_W US4_W
     CO US6 I-70(171) US40_E
       CO US6 I-70(261) I-70(276A)
     WA US12 US101 WA US12 WA8
@@ -120,6 +129,7 @@
       OR US30 I-84(44A) I-84(62)
       OR US30 OR281 I-84(207)
       OR US30 I-84(376) ID US30 I-84(9)
+      PA US30 I-83 PA24
       PA US30 PA741 PA US30 PA41
       PA US30 US322 NJ US30 CooSt
     CA US50 I-80 CA/NV
@@ -168,6 +178,7 @@
     TX US287 EnnPkwy US67
       MT US287 US191_N MT84
       MT US287 I-90 I-15(192)
+    NH US302 NH16_S ME US302 ME117_N
     PA US322 PA443 US30
       PA US322 US1/202 I-95(4)
     NV US395 38 NV US395 50
@@ -208,7 +219,8 @@
       MT GoiSunRd US2 US89
       
     #Yellowstone
-      MT NEntRd OldGarRd MT NEntRd US89
+      MT NEntRd OldGarRd US89
+        WY NEntRd GraLoopRd OldGarRd
       MT OldGarRd NEntRd WY OldGarRd NEntRd
       MT WEntRd US20/191 WY WEntRd GraLoopRd
       WY GraLoopRd NEntRd_W NEntRd_E
@@ -261,6 +273,7 @@
       WA WA11 I-5(231) I-5(250)
       WA WA16 I-5 WA3
       WA WA17 I-90 WA171
+        WA WA17 WA282 WA28
       WA WA18 WA99 I-90
       WA WA19 WA104 WA20
       WA WA20Por US101 PorCouFry
@@ -269,10 +282,8 @@
       WA WA22 I-82(50) I-82(82)
       WA WA24 I-82 WA243
       WA WA26 I-90 US195
-      WA WA26 I-90 WA243
       WA WA27 WA272_E WA290
-      WA WA28 US2/97 WA285
-        WA WA28 WA283 US2
+      WA WA281 I-90 WA28
       WA WA92 WA9 MtnLpHwy
       WA WA96 I-5 WA9
       WA WA99 WA599 I-5(189)
@@ -309,13 +320,14 @@
       WA WA203 WA202 US2
       WA WA204 US2 WA9
       WA WA207 US2 ChiLpRd
-      WA WA231 US2_W US2_E
+      WA WA231 US2_E WA292
       WA WA243 WA24 WA26
       WA WA272 US195 WA27_S
       WA WA281 I-90 WA281Spr
       WA WA283 WA281Spr WA28
       WA WA285 WA28 US2/97
       WA WA290 WA27 WA/ID
+      WA WA292 WA231 US395
       WA WA300 BelSPs WA3
       WA WA302 WA3 WA16
       WA WA303 WA3_S WA304
@@ -371,8 +383,10 @@
       WA WA706 WA7 MouRaiNP
       WA WA821 I-82(26) I-82(3)
       WA WA823 US12 WA821
-      WA WA903 WA970 WenNF
       WA WA900 I-5(158) I-90
+      WA WA902 I-90(264) I-90(272)
+      WA WA904 I-90(257) I-90(270)
+      WA WA903 WA970 WenNF
       WA WA906 I-90(52) I-90(54)
       WA WA970 I-90 US97
       WA WA971 US97Alt_S LakRd
@@ -618,7 +632,6 @@
       MT SR205 I-90(278) BufJumpRd
       MT SR205 I-90(278) I-90(306)
       MT SR206 MT35 US2
-      MT SR290 SR291 AirBlvd
       MT SR291 I-90 GolWestDr
       MT SR345 US191 StuRd_E
       MT SR411 SR205 SypCynRd
@@ -630,7 +643,7 @@
   #--Wyoming--
   
     #WY Highways
-  
+      WY WY22 ID/WY US26/89
   
   #--Colorado--
   
@@ -729,15 +742,24 @@
       FL FL528 I-4 11
         FL FL528 16 54B
     
+  
+  #--Maryland--
+  
+    #MD Routes
+      MD MD295 I-195 I-95
     
+  
   #--Pennsylvania--
     
     #PA Named Freeways
       PA BetRossBri AraAve PA/NJ
     
     #PA Routes
+      PA PA24 US30 SheSt_S
       PA PA41 US1 US30
+      PA PA181 EmigRd PA238
       PA PA230 US22 PA283
+      PA PA238 I-83 PA181
       PA PA272 US30/222 PA772
       PA PA283 EisBlvd US30
       PA PA291 I-95(10) I-76
@@ -747,10 +769,11 @@
       PA PA611 OreAve PA3
       PA PA722 PA283 PA501_N
       PA PA741 PA283 PA999
+      PA PA743 PA241_N PA283
       PA PA772 PA501_S PA272
       PA PA999 DukeSt PA741
-      
-      
+    
+  
   #--New Jersey--
 
     #NJ Routes
@@ -759,7 +782,13 @@
       
   #--Massachusetts--
     
+    #MA Named Freeways
+      MA StoDr SolFieRd Fen
+      MA SolFieRd HarSt StoDr
+    
     #MA Routes
+      MA MA2 NorSt GreBlvd
+      MA MA10 I-91(50) MA63_N
       MA MA16 EveAve MA145
       MA MA28 I-93(21) I-95
       MA MA60 US1 MA1A/16
@@ -770,7 +799,34 @@
       #MA Banner Routes
         MA MA1ASal I-90 US1_Sal
         
-        
+
+  #--Vermont--
+
+    #VT Routes
+      VT VT11 VT7A VT/NH
+      VT VT12 NH/VT US5_N
+      VT VT30 US5/9 VT100_N
+        VT VT30 VT11_E US4
+      VT VT100 VT30_S VT103_S
+      VT VT103 VT131 VT100_S
+      VT VT131 VT103 US5/12
+
+
+  #--New Hampshire--
+  
+    #NH Routes
+      NH NH11 NH12/103 NH120
+      NH NH12 NH11/103 NH/VT
+      NH NH16 NH112 US302_E
+      NH NH33 IslSt PevHillRd
+      NH NH101 12 I-95
+      NH NH111 NH101 NH151
+      NH NH112 NH118 NH16
+      NH NH118 US4 NH112
+      NH NH120 NH11 US4_E
+      NH NH151 NH111 NorRd
+
+
   #--Maine--
 
     #ME Named Freeways
@@ -778,14 +834,14 @@
       ME ScaCon US1 I-295
     
     #ME US Banner Routes
-      ME US1AltBan I-395(3) IndSt
-      ME US1AltFor US1_S ERidRd
-      ME US2AltHou US2_W DanRd
+      ME US1AltBan ME174 ME69/139
+        ME US1AltBan I-395(3) US1_E
+      ME US1AltFor US1_S ME10
       
     #ME State Routes
       ME ME3 AldParkRd ParHillRd
       ME ME6 ME116_N ME169/170
-      ME ME7 US1 US202
+      ME ME7 US1 US2_W
       ME ME8 US201_S I-95
         ME ME8 ME225 US2_E
       ME ME9 Bro I-295(3)
@@ -794,6 +850,7 @@
         ME ME9 ME105 US202_Ham
         ME ME9 I-395 IndSt
         ME ME9 US1Alt_E ME15Bus_N
+      ME ME10 US1 US1Alt
       ME ME11 US202/4 I-95(112)
         ME ME11 ME27_N US2
       ME ME22 ME9_E I-295
@@ -801,12 +858,14 @@
       ME ME25 ME25Bus_W WooSt
       ME ME27 UniSt_Aug I-95
         ME ME27 ME11_N ME225
+      ME ME41 US202 ME133_N
       ME ME52 US1_S US1_N
       ME ME69 I-95(174) US1Alt
       ME ME100 US201_N HighSt_New
       ME ME104 ME27 US2/201
       ME ME105 ME235_N US1
-      ME ME116 US2_E AccRd_W
+      ME ME116 US2_E ME157
+      ME ME117 US302_W ME219
       ME ME125 ME9_W US201_N
       ME ME131 NewEngRd MooMouRd
         ME ME131 ME137 ME141
@@ -814,10 +873,13 @@
         ME ME137 NPalRd ME131
         ME ME137 ME7_N US1
       ME ME139 ME104_N US1Alt
+      ME ME157 ME116 I-95
       ME ME158 ME11 US2
+      ME ME164 US1_S CarLakeRd
       ME ME169 ME6 US1
       ME ME174 US1Alt US1
       ME ME196 I-295 US201
+      ME ME219 ME117 ME133
       ME ME220 CenRd ME100
       ME ME225 ME27 ME8/137
       ME ME235 ME105_E MooMouRd
@@ -829,7 +891,10 @@
         ME ME25BusWes ME25_W ME25_E
         ME ME100AWin ME100_S ME100_N
         ME ME137BusWat SprSt_W ME137_E
-        
+
+
+
+
  #----CANADA----
   
   #--Trans-Canada Highway--
@@ -873,6 +938,9 @@
 
   #--Alberta--
 
+    #AB Named Freeways
+      AB GleTrl AB201 HerDr
+
     #AB Provincial Highways
       AB AB1ACoc AB1_W AB1_E
       AB AB2 248 258
@@ -883,9 +951,10 @@
       AB AB41 AB1_W AB570
       AB AB41A AB1/3 3St_W
         AB AB41A 1St_W MinAve
-      AB AB201SWC AB2 9
-        AB AB201SWC 13 26
+      AB AB201 AB2 9
+        AB AB201 13 26
         AB AB201 36 101
+
 
     #Alberta Secondary Highways
       AB AB570 AB41 AB899
@@ -902,6 +971,14 @@
   
  #----FRANCE----
   
+  #--Île-de-France--
+  
+    #-Val-de-Marne-
+      
+      #VDM Departmental Routes
+        FRA-IDF D120-94Man D280 VdM/Par
+
+  
   #--French Polynesia--
 
     #PF Territorial Routes
@@ -916,7 +993,24 @@
       PYF T9 T1_N T1_S
       PYF T12 T1 T5
       PYF T91 AerMooTem_W AerMooTem_E
+  
+  
+  
+  
+ #----THE NETHERLANDS----
  
+  #NLD CityRoutes
+    NLD S104Ams S105 S103_E
+    NLD S106Ams SurPle AmsWeg
+  
+  
+  
+  
+ #----GERMANY----
+ 
+  #DEU Federal Highways
+    DEU-BW B500 B33 L109
+  
   
   
   
