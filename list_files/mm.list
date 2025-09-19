@@ -1946,10 +1946,12 @@ DC I-66 VA/DC US29
 
 DC US29 MSt I-66
 DC US50 VA/DC I-66_E
+DC US50 23rdSt ConAve_E
 
+DC BeaDr RockCrkPkwy BroBraRd
 DC ClaBarPkwy MD/DC ChaBriRd
 DC GWMemPkwy VA/DC DC/VA
-DC RockCrkPkwy LinMemCir CalSt
+DC RockCrkPkwy LinMemCir BeaDr
 
 
 
