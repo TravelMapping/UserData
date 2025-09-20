@@ -412,8 +412,7 @@ WA SteCynRd WA706 WA123
 WY DevTowRd WY110 VisCen
 
 #United States Select Tourist Routes
-MN GRR MN55_E CR46_E
-MN GRR MinDr 46thAve
+MN GRR MN55_E CR3_Min
 
 #United States Historic Highways
 OR US30HisCol I-84(17) HisCRHwy
@@ -779,6 +778,7 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
 
 
 
