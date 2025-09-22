@@ -1,11 +1,17 @@
 AUT U1 KaiVIC Ste
-AUT U2 Pra MesPra
+AUT U2 Schr MesPra
 AUT U3 Ste Lan
 AUT U4 Schw Scho
 AUT S7 Flu WienPra
 
-DEU-BY U6 GarForZen MarPla
+DEU-BY U6 GarForZen SenTor
 DEU-BY S1 FlugHafMun HacBru
+DEU-BY S8 FlugHafMun Hbf
+DEU-BY 17Mun SenTor KarPlaSta
+DEU-BY 18Mun MarHilfPla SenTor
+DEU-BY 20Mun KarPlaSta MooBf
+DEU-BY 21Mun MarPlaTheStr LeoPla
+
 DEU-HE S2 LedMus HeuSta
 DEU-HE S8 OffBachOst FraFurtFlugHafRegBf
 DEU-HE S9 OffBachOst FraFurtFlugHafRegBf
@@ -24,8 +30,11 @@ ESP-MD M9 PriVer AveAme
 ESP-MD M10 NueMin PlaEsp
 
 FRA-ARA ParMil BFC/ARA FRA/ITA
+
 FRA-BFC ParMil IDF/BFC BFC/ARA
+
 FRA-HDF LonPar HDF/IDF GBR/FRA
+
 FRA-IDF M1 Cha Bas
 FRA-IDF M4 PorOrl ChaRou
 FRA-IDF M12 FroPop MonBie
@@ -33,6 +42,8 @@ FRA-IDF M14 GareLyon Cha
 FRA-IDF B AerCDG1 CiteUni
 FRA-IDF ParMil ParGareLyon IDF/BFC
 FRA-IDF LonPar HDF/IDF ParGareNord
+
+ITA-CAM 2Nap NapPiaGar NapPiaCav
 
 ITA-LAZ MA Spa ReRoma
 
@@ -47,9 +58,9 @@ ITA-PIE M1 Ben Fer
 ITA-PIE SFM1 TorPorSusa Chi
 ITA-PIE SFM2 TorPorSusa TorLin
 ITA-PIE SFM3 OulxCesClaSes TorPorNuo
-ITA-PIE SFM4 Car TorPorSusa
+ITA-PIE SFM4 TorLin TorPorSusa
 ITA-PIE SFM6 TorLin TorPorSusa
-ITA-PIE SFM7 Car TorPorSusa
+ITA-PIE SFM7 Rac TorPorSusa
 ITA-PIE SFMA CasAer Ven
 ITA-PIE 3Tor CadOspGra Liv
 ITA-PIE 4Tor Emi DroCasMir
@@ -58,9 +69,17 @@ ITA-PIE 13Tor Lec VitVen
 ITA-PIE 16Tor PorPalEst PorPalOve
 ITA-PIE SSTor Sas Sup
 
+ITA-VEN PMVen Tro PiaRoma
+
 JPN HanzomonLn Z01 Z03
 JPN GinzaLn G04 G09
 JPN MarunouchiLn M08 M16
+JPN TokaidoShin ShinOsaka Tokyo
+JPN YosanLn Y55/U00 Y00
+JPN SetoOhashiLnShi M12 Y00
+JPN SetoOhashiLnW M12 M01
+JPN TokaidoLnW A63 A31
+JPN SanyoLn A63 S01/W01
 
 NLD 52Ams Vij Eur
 NLD 7Ams Lei Vij

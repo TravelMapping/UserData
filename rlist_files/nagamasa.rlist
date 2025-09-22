@@ -50,6 +50,7 @@ ON 510 SpaSta UniSta
 ON 511 BatSta ExhLp
 
 ### CAN-QC
+QC GreLn LioGro Bea
 QC OraLn LioGro MonRoy
 
 #### CHE
@@ -96,12 +97,11 @@ CHN-SH Maglev LongYangRd PuDongAirTer12
 #### DEU
 ### MUNICH
 DEU-BY S2 Dac BergLaim
-DEU-BY S4 BergLaim Gra
 DEU-BY S8 OstBf FlugHafMun
 DEU-BY U1 OlyEinZen Hbf
 DEU-BY U3 OlyEinZen MarPla
 
-DEU-BY S2Sal Fre AUT S2Sal SalHau
+DEU-BY RE5 MunHbf AUT RE5Sal SalHbf
 
 ### BERLIN
 DEU-BE S1 BraBurTor PotPla
@@ -110,6 +110,14 @@ DEU-BE U1 UhlStr WitBergPla
 DEU-BE U2 ZooGar AlePla
 DEU-BE U6 KurtSchPla KochStr
 DEU-BE U8 AlePla KotTor
+
+### HAMBURG
+DEU-HH S1Flu Ohl HamBurgAirPort
+DEU-HH S1 HamBurgHbf Ohl
+DEU-HH S3 HamBurgAlt JunSti
+
+DEU-HH U1 SteStr LohMuhStr
+DEU-HH U3 LanBru HbfSud
 
 ### ENG
 ## UNDERGROUND
@@ -168,6 +176,8 @@ FRA-IDF FunMon Inf Sup
 #### HKG 
 ## HK TRAMWAYS
 HKG 1 WesMar ShauKeiWan
+HKG 2 PatSt_A LeiRd
+HKG 2 TinLokLn ShauKeiWan
 HKG 3 ShekTongTsui ForHill_B
 
 ## MTR
@@ -485,10 +495,10 @@ OR AC PorUniSta BC AC VanPacCen
 
 ### CA 
 ## CALTRAIN
-CA CalTra SanCla SanFraKing
+CA CalTra SanJoseDir SanFraKing
 
 ## BART
-CA BARTOra Ber 19thStOak
+CA BARTOra Ber Ric
 CA BARTBlue BalPark BayFair
 CA BARTGre MonSt Ber
 CA BARTYel Mil 19thStOak
@@ -498,9 +508,17 @@ CA OAKAir OakIntAir Col
 ## MUNI
 CA MuniF 9thLar 3rdKea
 CA MuniJ 20th CivCen
-CA MuniK Chu Emb
+CA MuniK Cas MonSt
 CA MuniN 46th 4thKing
 CA MuniT Mar ChiRosePark
+
+#SMART
+CA SMART SanRafDT NovSanMar
+
+## VTA
+CA VTAGre SanJoseDir SanAnt
+CA VTAGre SanCla JapAyer
+CA VTAOra GreMall Mil
 
 ### CO
 ## RTD
@@ -547,12 +565,15 @@ OR NSLn 23rdMar Joh_N
 OR RedLn GooseHolJefSt Hol42ndAve
 OR YelLn PSUUrbCenMonSt UniStaHoyt
 
+### UT
+UT GreLn GalPlz Air
+
 ### WA 
 WA SeaCenMon SeaCen WesCen
 
 ## LINK
 WA 1 Lyn AngLake
-WA 2 SBel RedTec
+WA 2 SBel DowRed
 
 ## SEATTLE STREETCAR
 WA 1stHillLn BroDen OccMall

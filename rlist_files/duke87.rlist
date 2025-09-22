@@ -3,7 +3,9 @@ DC NENew WasUniSta MA NENew BosSou
 CT HL NHUniSta MA HL Spr
 FL FL Mia DC FL WasUniSta
 MA LSBos Spr BosSou
+PA PA PitUni NY PA PennSta
 CA CS UniSta OakJackLonSq
+OR EBPor PorUniSta IL EBPor UniSta
 
 FL BriLn MiaCen BriOrlSta
 
@@ -28,15 +30,33 @@ NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJerCoaLn PennSta NJ NJerCoaLn Woo
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ RarVlyLn NewPenn HighBri
 NY MonBooLn PennSta NJ MonBooLn Hac
 NY MorEssLn PennSta NJ MorEssLn Hac
 NJ GlaBra Hob Gla
+NJ MainLn Hob NY MainLn Suf
+NJ PortJerLn Hob NY PortJerLn PortJer
+NJ PasVlyLn Hob NY PasVlyLn SprVly
 
 FL TriRail MiaAir WestPalmBea
 FL TriRailDow MiaCen MetTra
 
-CA ClTra Tam SanFraKing
+IN SouShoLn SouBendAir IL SouShoLn MilSta
+
+IL MDN UniSta FoxLake
+IL ME MilSta UniPk
+IL MESCh MilSta SChi93rdSt
+IL NCS UniSta Ant
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL UPNW OgiTraCen Har
+IL UPW Elb OgiTraCen
+
+OR WesExpSer BeaTraCen Wil
+
+CA CalTra Tam SanFraKing
 
 CA SanBerLn UniSta RedDow
 CA Arr SanBerDow RedUni
@@ -112,17 +132,21 @@ MD RedLn ShaGro DC RedLn UniSta
 VA YelLn Hun DC YelLn GalPla
 
 #--------MIDWEST CITIES--------
-PA BlueLn Gat SouHilJct
+PA RedLn SouHilVlg All
+PA SilLn Lib All
 
 OH RedLn Bro TriCCamDis
 
 MI DetPeoMov Mic_S Mic_N
 
-IL BroLn Bel Loop
-IL GreLn ClaLake 35thBro
+IL BlueLn OHa ForPk
+IL BroLn Kim Loop
+IL GreLn HarLake Ash63rd
+IL GreLnE63 HarLake CotGro
+IL OraLn Mid Loop
 IL PinkLn 54thCer Loop
 IL PurLn How Lin
-IL RedLn Sox35th How
+IL RedLn 95thDanRyan How
 IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
@@ -157,7 +181,7 @@ TX Sky A8 A21
 TX PurLnHou TheDis PalmCenTC
 
 #--------WEST CITIES--------
-AZ VMR 3rdSt SycMainSt
+AZ A 3rdSt SycMainSt
 AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
@@ -168,10 +192,16 @@ WA SeaCenMon SeaCen WesCen
 WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
-CA BARTBlue DalyCity DubPle
+OR BlueLn BeaTraCen Gat99thAve
+OR GreLn PSUSou ClaTownCen
+OR OraLn UniStaGliSt Park
+OR RedLn BeaTraCen PorIntAir
+OR YelLn PSUSou ExpoCen
+
+CA BARTBlue PowSt DubPle
 CA BARTOra Ber Ric
-CA BARTRed Col CivCen
-CA BARTYel Mil PitTra
+CA BARTYel Mil CivCen
+CA BARTYel PowSt PitTra
 CA MuniN 2nd PowSt
 CA MuniT King ChiRosePark
 CA AirTrnBlue LongTermPar Loop

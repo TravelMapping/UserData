@@ -9,8 +9,12 @@ CA SW UniSta CA/AZ
 CA MuniF 3rdKea Pier39Sto
 
 CO SW NM/CO CO/KS
+CO DENTrn JepTer BGat
 
 DC SilLn VA/DC CapSou
+
+DNK M2 Luf KonNyt
+DNK M3 KonNyt Rad
 
 CHE S24Wei ZurFlu ZurHau
 
@@ -25,8 +29,19 @@ ENG PicLnHT4 GrePark PicCir
 ENG EliLnShe Pad HeaTer5
 ENG VicLn GrePark Vic
 
-FRA-IDF M6 BirHak PlaIta
+FRA-IDF A CdGEto Vin
+FRA-IDF B AerCDG2TGV DenRoc
+FRA-IDF M1 GeoV FraDRoo
+FRA-IDF M2 VicHugo PereLac
+FRA-IDF M3 StLaz PereLac
+FRA-IDF M4 BarRoc StrStDen
+FRA-IDF M6 BirHak Dau
 FRA-IDF M7 PontNeuf PlaIta
+FRA-IDF M8 TourMau StrStDen
+FRA_IDF M8 Dau PorDor
+FRA-IDF M9 FraDRoo HavCau
+FRA-IDF M12 Sol MaiAub
+FRA-IDF M13StO StDenPorPar StLaz
 
 IA SW MO/IA IA/IL
 
@@ -62,6 +77,7 @@ NJ PATCO PA/NJ Had
 NM SW AZ/NM NM/CO
 
 OR ALp PSUUrbCen 10thCou
+OR BLueLn WasPark OldTownChi
 
 PA AirLn PHLTerEF Phi30thSt
 PA BroStLn NRG CityHall
@@ -77,13 +93,10 @@ VA BluLn Ros ArlCem
 VA SilLn Ros VA/DC
 
 WA AC SeaKingSt USA/CAN
-WA 1 UDis SeaTacAir
+WA 1 Nor AngLake
+WA 2 MarVIl OveVil
 WA 1stHillLn OccMall 7thJac
+WA BlueLn SGat AGat_Fin
 WA GreLn DGat_Sta DGat_Fin
-
-WI EBPor MN/WI WI/IL
-WA AC SeaKingSt USA/CAN
-WA 1 UniWas SeaTacAir
-WA 1stHillLn OccMall 7thJac
 
 WI EBPor MN/WI WI/IL

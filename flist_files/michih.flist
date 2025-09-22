@@ -1,4 +1,4 @@
-# Date: 2025-02-08
+# Date: 2025-07-12
 # ----------------
 
 #####################################
@@ -48,6 +48,7 @@ DEU-ST  Räbel                        DEU-ST  Havelberg
 DEU-SH  Glückstadt                   DEU-NI  Wischhafen
 DEU-ST  Breitenhagen                 DEU-ST  Badetz
 DEU-ST  Aken                         DEU-ST  Steutz
+DEU-ST  Prettin                      DEU-SN  Dommitzsch
 
 #Moselle
 LUX     Wasserbillig                 DEU-RP  Oberbillig
@@ -64,6 +65,8 @@ DEU-RP  Engelsburg                   DEU-RP  Korb
 DEU-RP  Niederheimbach               DEU-RP  Lorch
 DEU-RP  Bingen                       DEU-HE  Rüdesheim
 DEU-RP  Ingelheim                    DEU-HE  Oestrich-Winkel
+DEU-RP  Nierstein                    DEU-HE  Kornsand
+DEU-RP  Eich                         DEU-HE  Gernsheim
 DEU-BW  Kollerinsel                  DEU-BW  Brühl
 DEU-RP  Leimersheim                  DEU-BW  Leopoldshafen
 DEU-RP  Neuburg                      DEU-BW  Neuburgweier
@@ -73,6 +76,9 @@ FRA-GES Rhinau                       DEU-BW  Kappel
 
 #Rhône
 FRA-PAC Salin-de-Giraud (Rhone)
+
+#Swina
+POL Karsibor
 
 #Weser
 DEU-HB  Bremerhaven                  DEU-NI  Nordenham
@@ -86,6 +92,7 @@ DEU-HB  Vegesack                     DEU-NI  Lemwerder
 
 #Lake Constance
 DEU-BW  Meersburg                    DEU-BW  Konstanz
+DEU-BW  Friedrichshafen              CHE     Romanshorn
 
 
 #####################################

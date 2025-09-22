@@ -11,6 +11,13 @@ endif
 set listdir=~/travelmapping/UserData/list_files
 set rlistdir=~/travelmapping/UserData/rlist_files
 
+# counters for the number of list files and rlist files moved, and the number of each
+# that are new files
+set listfiles=0
+set rlistfiles=0
+set newlistfiles=0
+set newrlistfiles=0
+
 # loop over all command line parameters
 foreach arg ( $* )
   if ( -f ${arg} ) then
@@ -38,11 +45,28 @@ foreach arg ( $* )
 
     echo "Moving ${arg} as ${destfilename} to ${dest}"
     chmod 644 ${arg}
+    if ( ${dest} == ${listdir} ) then
+      @ listfiles++
+      if ( ! -f ${dest}/${destfilename} ) then
+        @ newlistfiles++
+      endif
+    else if ( ${dest} == ${rlistdir} ) then
+      @ rlistfiles++
+      if ( ! -f ${dest}/${destfilename} ) then
+        @ newrlistfiles++
+      endif
+    endif
     if ( ! -f ${dest}/${destfilename} ) then
-      echo "NOTE: this appears to be a new user list file."
+      echo "NOTE: this appears to be a new user list file, remember to run:"
+      echo "git add ${dest}/${destfilename}"
+      echo 'git commit -m "New user list submitted by email."'
     endif
     mv ${arg} ${dest}/${destfilename}
   else
     echo "ERROR: no file ${arg}, ignoring"
   endif
 end
+
+# print summary of what was done
+echo "Moved ${listfiles} list files, ${newlistfiles} of which are new."
+echo "Moved ${rlistfiles} rlist files, ${newrlistfiles} of which are new."

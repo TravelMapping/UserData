@@ -16,7 +16,7 @@ CA BARTRed Mil PowSt
 CA BARTYel Mil PowSt
 CA A WilRosaPar 7thStMetCen
 CA B HolHig 7thStMetCen
-CA C Dou WilRosaPar
+CA C AviLax WilRosaPar
 CA D WilVer 7thStMetCen
 CA E Pico 7thStMetCen
 CA MuniF DonCheeSte Bay
@@ -33,7 +33,7 @@ CT NESpr NY/CT Sta
 CT VT NY/CT Sta
 CT NewHavLn NY/CT Sta
 #DC AE WasUniSta +DIV_Bru
-DC CL MD/DC WasUniSta
+DC FL MD/DC WasUniSta
 #DC CA WasUniSta +DIV_Bru
 #DC CN WasUniSta +DIV_Bru
 #DC CR WasUniSta +DIV_Bru
@@ -43,7 +43,6 @@ DC CL MD/DC WasUniSta
 #DC NESpr WasUniSta +DIV_Bru
 #DC PL WasUniSta +DIV_Bru
 #DC SM WasUniSta +DIV_Bru
-#DC SS WasUniSta +DIV_Bru
 #DC VT WasUniSta +DIV_Bru
 DC BruLn WasUniSta DC/MD
 #DC CamLn WasUniSta +DIV_Bru
@@ -85,7 +84,7 @@ IL TX MO/IL UniSta
 #IL WV UniSta +DIV_HC
 IL BlueLn OHa Monr
 KY CVGTram MainTer ConB
-MD CL *Gai MD/DC
+MD FL *Gai MD/DC
 MD BruLn DC/MD Dic
 MD FreBra DC/MD Mon
 MD RedLnGle DC/MD SilSpr
@@ -108,7 +107,6 @@ NJ NESpr PA/NJ NJ/NY
 NJ PL PA/NJ NJ/NY
 NJ PA PA/NJ NJ/NY
 NJ SM PA/NJ NJ/NY
-NJ SS PA/NJ NJ/NY
 NJ VT PA/NJ NJ/NY
 #NJ MonBooLn NY/NJ +DIV_Hob/Nwk
 #NJ MorEssLn NY/NJ +DIV_Hob/Nwk
@@ -134,7 +132,6 @@ NY NESpr NJ/NY NY/CT
 NY PL NJ/NY PennSta
 NY PA NJ/NY PennSta
 NY SM NJ/NY PennSta
-NY SS NJ/NY PennSta
 NY VT NJ/NY NY/CT
 #NY BabBraGCT +DIV_Penn +DIV_Amt
 #NY BabBra PennSta +DIV_Amt
@@ -180,7 +177,6 @@ PA NESpr Phi30thSt PA/NJ
 PA PL Phi30thSt PA/NJ
 #PA KS +SKIP_Way Phi30thSt
 PA SM Phi30thSt PA/NJ
-PA SS Phi30thSt PA/NJ
 PA VT Phi30thSt PA/NJ
 #PA AtlCityLn +DIV_Key +DIV_NEC
 #PA AirLn +DIV_Sub Phi30thSt

@@ -84,6 +84,7 @@ ENG WooLn CanSt_1 AbbWood
 ENG CatLn EastCro Cat
 ENG ChiLn LonVic Bar
 ENG CoaWLn SouCen Bar
+ENG GipHillLn ClaJct CryPal
 ENG MnkLn AshInt Has
 ENG WalLn WestCro EpsDow
 ENG NbyLn TulHill StrCom
@@ -91,6 +92,7 @@ ENG PecLn LonBri TulHill
 ENG PecLn CryPal BecJct
 ENG SutLn ClaJct Sut
 ENG UckLn LonBri EastCro
+ENG WestLonLn WatJct ClaJct
 ENG WestLonLn StrCom ECro
 
 #####SW#####
@@ -163,7 +165,7 @@ ENG NorLnEdg Edg BatPowSta
 ENG NorLnMHE MillHillEast BatPowSta
 ENG NorLnMor MillHillEast Mor
 ENG PicLn HeaTer5 Coc
-ENG PicLnHT4 HatCro_1 Coc
+ENG PicLnHT4 LOOP Coc
 ENG PicLnUxb Uxb Coc
 ENG VicLn WalCen Bri
 ENG WaCLn Wat Bank
@@ -205,10 +207,9 @@ ENG ChaTnl FolEurTer FRA-HDF ChaTnl CalEurTer
 IRL DARTHow How GraCanDock
 
 ###Germany###
-DEU-HE S8 FraFurtFlugHafRegBf FrankfurtHbf
-DEU-HE S3 +DIV_LouN DarmStaHbf #covering Frankfurt Hbf - Bensheim
-DEU-BW S6Man +SKIP_MannHeimFriFeldSud DEU-HE S6Ben BensHeim #covering Bensheim - Heidelberg Hbf
-DEU-BW S1Man MannHeimFriFeldSud HeiBergHbf #covering Bensheim - Heidelberg Hbf
+DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
+DEU-HE RE60 FraFurtHbf BensHeim
+DEU-HE RB68 BensHeim DEU-BW RB68Wei HeiBergHbf
 DEU-HE 2Dar Hbf Schloss
 DEU-BW 21Hei VolHochSch BetHof
 DEU-BW 26Hei AltHalBad CzeBru

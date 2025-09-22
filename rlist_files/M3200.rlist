@@ -17,7 +17,8 @@ AZ PHX T3 44thSt
 AZ SL CA/AZ Yuma
 AZ SL Ben AZ/NM
 AZ SW CA/AZ Fla
-AZ VMR 19thAveDun GilRdMainSt
+AZ A DowPhoHub GilRdMainSt
+AZ B DowPhoHub 19thAveDun
 
 #CA
 
@@ -28,8 +29,8 @@ CA B Nhol UniSta
 CA BARTGre Emb Fre
 CA BARTRed SanFraAir 12thStOak
 CA BlueLn SanYsiTC UTCTC
-CA C AviCen Nor
-CA KEls RedBea AviCen 
+CA C LAXMTC Nor
+CA K RedBea ExpoCre
 CA CC SanJoseDir SacVlySta
 CA CopLn ElCaj SanTownCen
 CA Coa SanFeDep Oce
@@ -85,7 +86,7 @@ CO DENTrn JepTer CGat
 #CT
 
 CT AE NY/CT Sta
-CT EssSteTrn Ess DeepRivLan
+CT EssSteTrn Ess Che
 
 #DE
 
@@ -178,6 +179,7 @@ MA WorLn Fra BosSou
 #MI
 
 MI WV IN/MI NewBuf
+MI WV Jac AnnArb
 
 #MS
 
