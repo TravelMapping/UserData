@@ -1,4 +1,4 @@
-# Date: 2025-09-13
+# Date: 2025-09-21
 # ----------------
 
 ######################
@@ -64,7 +64,7 @@ DEU-NI RE2Osn NW/NI OsnHbf            #2021, actually traveled as ICE Ulm-Bremen
 DEU-HB RE9 BreHbf HB/NI               #2021, actually traveled as ICE Ulm-Bremen
 DEU-NI RE9 HB/NI OsnHbf               #2021, actually traveled as ICE Ulm-Bremen
 #DEU-BW  Ulm Hbf                      DEU-HB  Bremen Hbf            #2021, ICE1164 via Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
-DEU-BY S3 MamDorf DIV_DonBruW         #2022, actually traveled several times with ICE and RE
+DEU-BY S3 MamDorf HirGar              #2022, actually traveled several times with ICE and RE
 DEU-BY RE9 MunHbf BY/BW               #2022, actually traveled as ICE512 Ulm - München
 DEU-BW RE55 DonEsc UlmHbf             #2022, RE55 via Munderkingen, Fridlingen
 DEU-BW S10Fre Hbf DonEsc              #2022, S10
@@ -181,6 +181,7 @@ DEU-BY RB67 AugHbf Wei                #2023
 DEU-BY RB6 MunHbf Wei                 #2023
 
 DEU-BY RB54 MunHbf DEU/AUT                                          #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
+AUT RB54 DEU/AUT Kuf                                                #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
 AUT S4Tir InnHau Kuf                                                #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, actually traveled as EC85 via southern route in Munich
 
@@ -953,6 +954,8 @@ ENG JubLn BakSt WestHam   #2019, London Jubilee Line:        West Ham - Baker St
 ENG CenLn RuiGar OxfCir   #2019, London Central Line:        West Ruislip - Oxford Circle
 ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
+
+ESP-AR T1 AveAca MagoOz               #2025
 
 FRA-ARA MA Per VauVelSoie             #2024
 FRA-ARA MB ChaChaHer GenLavHop        #2024

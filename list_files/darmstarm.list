@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 9-14-25.
+#last updated 9-20-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -113,11 +113,11 @@ MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
 MD I-270SprAsh 2 I-495 #hershey -> raleigh
 MD I-295 MD/DC I-95/495
-MD I-495 27 34 #to bethesda
-MD I-495 38 MD/VA #hershey -> raleigh
+MD I-495 DC/MD MD/VA #hershey -> raleigh, bethesda. completed 9-25
 MD I-695 BroHwy 4 #i95 to i97
 MD I-695 7 44 #various trips, last updated 9-25
 MD I-795 1 9 #cunningham falls trip
+MD I-895 10 I-95 #various trips
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
 MD US13 VA/MD US13BusSal_S #two parts
@@ -125,6 +125,7 @@ MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
 MD US15 10 US340_W #harper's ferry trip
 MD US15 MD/PA 12 #hershey -> raleigh
+MD US29 25 I-495 #baltimore -> raleigh 9-25
 MD US40 MD7Elk MD7/155
 MD US40 US15_N I-70(53) #hershey -> raleigh
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
@@ -195,27 +196,30 @@ NC US52 107 108B #winston salem
 NC US64 464 293(40)
 NC US64 BilCrkRd NC9 #BRR 9-25
 NC US64BusWen NC231 I-540 #roadtrip 8-13-25
-NC US70 LomSt WhiMillRd
+NC US70 LomSt NC50_N #as far as the mall
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US158 I-40 HanMallBlvd #JDL
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
-NC US401 BreRd I-40
+NC US401 BreRd I-40 #as far south as the partee shack, but no waypoint nearby
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
+NC NC50 US70_W LynnRd #technically to SR 1822
 NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
-NC NC54 I-40(273) US15/501_N #crapel hill
+NC NC54 I-40(273) US15/501_S #crapel hill
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
+NC NC86 I-40 US15/501 #various trips
 NC NC96 US64/264 US64Bus_W
 NC NC96 NC42 NC231 #roadtrip 8-13-25
 NC NC119 I-40/85 5thSt #BRR 9-25
+NC NC147 1A 3C #can opener trip, late 2024
 NC NC181 US221_N NC194 #BRR 9-25
 NC NC194 HelCreRd HelRd #BRR 9-25 rough estimate on west side
 #NC NC194 US221_Bal GrantHouckRd #brr 9-25
@@ -375,6 +379,7 @@ VA I-95 VA/DC NC/VA
 VA I-295 43 28A #williamsburg trip
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
+VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US29 VA86 VA6_W #raleigh -> hershey
@@ -394,6 +399,7 @@ VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA86 NC/VA US29/58 #raleigh -> hershey
 VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
+VA VA123 US1 I-95 #baltimore -> raleigh 9-25
 VA VA151 VA6_E US250 #raleigh -> hershey
 VA VA207 US301 I-95
 VA VA362 US58 GraHigSP #BRR 9-25
