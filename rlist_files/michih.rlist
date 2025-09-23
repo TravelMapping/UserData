@@ -1,4 +1,4 @@
-# Date: 2025-09-21
+# Date: 2025-09-23
 # ----------------
 
 ######################
@@ -956,6 +956,18 @@ ENG TWMGre SouHyl Air     #2019, Newcastle Green Line:       Airport - South Hyl
 ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
 ESP-AR T1 AveAca MagoOz               #2025
+
+ESP-MD C1 AerT4 Cha                   #2025
+ESP-MD C3 Cha Sol                     #2025
+ESP-MD M3 Mon Cal                     #2025
+ESP-MD M3 Sol ElCas                   #2025
+ESP-MD M5 Ope AlaOsu                  #2025
+ESP-MD M6 Arg_1 Mon                   #2025
+ESP-MD M6 PriPio Arg_2                #2025
+ESP-MD M8 FerMad AerT4                #2025
+ESP-MD M10 PlaEsp PueSur              #2025
+ESP-MD M12 PueSur_1 PueSur_2          #2025
+ESP-MD MR PriPio Ope                  #2025
 
 FRA-ARA MA Per VauVelSoie             #2024
 FRA-ARA MB ChaChaHer GenLavHop        #2024
