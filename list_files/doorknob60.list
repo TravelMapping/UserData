@@ -8,7 +8,8 @@ FL I-4 I-275 101B
 # I-5
 WA I-5 104 USA/CAN      # US101 Canada
 WA I-5 OR/WA 68         # OR/WA US12
-OR I-5 216 OR/WA        # OR228 OR/WA
+OR I-5 194 OR/WA        # I-105 OR/WA
+OR I-5 188A 192         # OR99 (Eugene) OR58
 CA I-5 553 747          # I-505 US97
 CA I-5 458B 528         # I-205 Sac Airport
 CA I-5 134A 173         # CA60 173
@@ -190,6 +191,9 @@ NY I-99 PA/NY 13        # Clinched NY
 
 # I-105 (CA)
 CA I-105 1A 18          # Missing eastern terminus ramp
+
+# I-105 (OR) - Clinched
+OR I-105 OR99/126 4
 
 # I-110 (CA)
 CA I-110 1A 21          # Everything except the southern end
@@ -1208,7 +1212,7 @@ OR OR39 CA/OR US97
 OR OR47 FleRd US26_W
 
 # OR58
-OR OR58 ORH429 CR1351
+OR OR58 I-5 CR1351
 
 # OR78 - Clinched
 OR OR78 US20/395 US95
@@ -1223,12 +1227,22 @@ OR OR99E US20_E I-5(234)
 # OR99W
 OR OR99W US20 OR22
 
+# OR99
+OR OR99 I-5(188B) OR126
+
 # OR120 - Clinched
 OR OR120 ColBlvd I-5(307)
 
 # OR126
-OR OR126 OR22 US20_E
+OR OR126 SenRd OR99_N
+OR OR126 ChaSt 52ndSt
+OR OR126 OR126Bus DeeRd
+OR OR126 US20_W US20_E
+OR OR126 US97_S US97_N
 OR OR126 SE9thSt US26
+
+# OR132 (Delta Hwy) - Clinched
+OR OR132 I-105 OR569
 
 # OR141 (Unsigned)
 OR OR141 WasDr OR217
@@ -1286,6 +1300,9 @@ OR OR380 US26 ConRd
 # OR429 - Clinched
 OR OR429 LavaOdeRd OR58
 
+# OR569 (Beltline)
+OR OR569 9B 12      # Delta Hwy I-5
+
 # Business Loops
 OR US30BypPor StJohBri LomSt_W
 OR US30BypPor ColPkwy I-205
@@ -1296,6 +1313,7 @@ OR US95SprWei OR201 OR/ID  # Clinched
 OR US97BusBen US97_S US97_N  # Clinched
 OR OR99EBusSal I-5(253) CheRd  # Clinched
 OR US101BusAst EnsLn US101_N
+OR OR126BusSpr I-105 OR126  # Clinched
 
 
 ## Pennsylvania ##
