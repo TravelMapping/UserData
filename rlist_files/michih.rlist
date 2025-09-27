@@ -1,4 +1,4 @@
-# Date: 2025-09-23
+# Date: 2025-09-26
 # ----------------
 
 ######################
@@ -959,13 +959,20 @@ ESP-AR T1 AveAca MagoOz               #2025
 
 ESP-MD C1 AerT4 Cha                   #2025
 ESP-MD C3 Cha Sol                     #2025
-ESP-MD M3 Mon Cal                     #2025
-ESP-MD M3 Sol ElCas                   #2025
-ESP-MD M5 Ope AlaOsu                  #2025
+ESP-MD C5 MosSoto Ato                 #2025
+ESP-MD C7 Pit MirPacoLuc              #2025
+ESP-MD C7 Ato Val                     #2025
+ESP-MD M1 PinCha CuaCam               #2025
+ESP-MD M1 Sol Valc                    #2025
+ESP-MD M3 Mon ElCas                   #2025
+ESP-MD M4 PinCha AveAme               #2025
+ESP-MD M5 CasaCam AlaOsu              #2025
 ESP-MD M6 Arg_1 Mon                   #2025
 ESP-MD M6 PriPio Arg_2                #2025
+ESP-MD M7 Pit AveAme                  #2025
 ESP-MD M8 FerMad AerT4                #2025
-ESP-MD M10 PlaEsp PueSur              #2025
+ESP-MD M9 PacoLuc PlaCas              #2025
+ESP-MD M10 NueMin PueSur              #2025
 ESP-MD M12 PueSur_1 PueSur_2          #2025
 ESP-MD MR PriPio Ope                  #2025
 
