@@ -64,6 +64,9 @@ ENG WirLn LivJamSt_2 HamSq
 ENG WirLn LivJamSt_1 LivLimeSt
 ENG WirLnWKi HamSq Mor
 
+#####NR#####
+ENG DurCoaLn Tho Sto
+
 #####SE#####
 ENG BexLn PecRye Wel
 ENG BroNLn GroPark BroNor
@@ -270,3 +273,4 @@ MI ExpTram SouSta NorSta
 ####SCT: Glenfinnan, Arisag
 ####DEU: Frankfurt Hbf
 ####ITA: Duomo, Milano Centrale, Centrale
+
