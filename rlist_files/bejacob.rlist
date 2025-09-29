@@ -237,14 +237,15 @@ FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
 
-GRC 1Ath Thi Omo
-GRC 2Ath NeosKos Omo
-GRC 3Ath Mon Aer
+GRC 1Ath Pir Kif
+GRC 2Ath Ell Ant
+GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
-GRC T7 Edem Kol
+GRC T7 LOOP AskVou
 
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 
 #Europe Airpoirts Airside
 ENG HT5Tra GatA1A23 GatC52C66
+ESP-MD APM T4 T4S
