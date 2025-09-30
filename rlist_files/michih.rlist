@@ -1,4 +1,4 @@
-# Date: 2025-09-28
+# Date: 2025-09-30
 # ----------------
 
 ######################
@@ -1093,6 +1093,17 @@ POL 7War Cen PRAleKraSka              #2022, via Plac Zawiszy
 POL 24War Cen Goc                     #2022, via Most Poniatowskiego, Kinowa
 POL 28War MetBem AleRey               #2022, actually traveled with 26 from Mlociny to Bemowo via Aspekt, Radiowa
 POL 33War MetMlo RonONZ               #2022, via Aspekt, Sady Zoliborskiego, Stawki
+
+PRT LnAzu Reb SanApo                  #2025
+PRT LnVrd Ala CaisSod                 #2025
+PRT LnVrm Aer SaoSeb                  #2025
+PRT 25ELis PraFig CorSan              #2025
+PRT 15ELis CorSan San                 #2025, traveled as 25E
+PRT 25ELis San CamOur                 #2025
+PRT 28ELis MarMon CamOur              #2025
+PRT LnAzaApo LisSanApo Ori            #2025
+PRT LnSinMir LisRos Reb               #2025
+
 
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
