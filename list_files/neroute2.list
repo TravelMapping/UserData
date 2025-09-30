@@ -277,7 +277,7 @@ CA CA1 SwaRd_N BeanHolRd
 CA CA1 StaRd 438(101)
 CA CA4 15 30
 CA CA4 I-5(472) 69
-CA CA4 CA4Bus_E MainSt_Mur
+CA CA4 CA4Bus_E CA89
 CA CA4BusAng CA4_W CA4_E
 CA I-5 107B 114B
 CA I-5 116 134B
@@ -317,8 +317,7 @@ CA US40HisRos CA193_S I-80(118)
 CA US40HisAub I-80(119A) HighSt_S
 CA US40HisAub CA49_N RusRd
 CA LinHwyAub TayRd_S CA49_S
-CA CA49 CA108_W CRE18
-CA CA49 CA4Bus_E CA12
+CA CA49 CA108_W CA12
 CA CA49 NewChiRd CA16
 CA CA49 CA193_N I-80(119C)
 CA CA49 I-80(119B) ElmAve_W
@@ -339,6 +338,7 @@ CA CA84Rye CouRd_E WestSacLim
    #as well as the entire former route to I-80
 CA CA88 CA12_E LibRd
 CA CA88 DefGraRd ShaRidRd
+CA CA89 US395 CA4
 CA CA90Yor CA57 KraBlvd
    #turned off just west of Kramer Boulevard into the shopping center
 CA CA91 I-405 VerAve
@@ -356,7 +356,7 @@ CA US101BusKin CRG13/G15 US101_N
    #technically only clinched west of 3rd Street; the road was closed to 1st Street
 CA CA104 CA99 CA124_S
 CA CA108 NeeSt_W CRJ3
-CA CA108 CA120_E CA49_N
+CA CA108 CA120_E US395
 CA CA110 23B 24A
 CA CA113 I-80(70) 37
 CA CA120 1A CA108_E
@@ -372,6 +372,7 @@ CA CA193 TayRd_W I-80
 CA CA193Geo RockCrkRd GarValRd
 CA CA193Geo MarRd CA49_N
 CA I-205 I-580 I-5
+CA CA207 CA4 BearValSA
 CA CA219 CA99 CA108
 CA JBTrlHay JacSt AppAve
 CA CA238Cas AppAve 14
@@ -379,6 +380,7 @@ CA I-238 14 17
 CA CA242 I-680 3B
 #CA CA275 entire length from I-80 to 9th Street
 CA I-280 33 5thSt
+CA US395 CA108 CA89
 CA I-405 40A 63C
 CA I-580 8B(80) 19C
 CA I-580 34 65
