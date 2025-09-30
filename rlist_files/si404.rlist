@@ -66,6 +66,8 @@ ENG WirLnWKi HamSq Mor
 
 #####NR#####
 ENG DurCoaLn Tho Sto
+ENG DurCoaLn Sun +DIV_ECMLN
+ENG DurCoaLn New +DIV_ECMLS
 
 #####SE#####
 ENG BexLn PecRye Wel
@@ -185,6 +187,8 @@ ENG TLnkEEW ElmEnd Wim
 ENG TLnkWBJ Wim BecJct
 ENG TLnkWEE Wim ElmEnd
 ENG TLnkCNA EastCro_1 NewAdd
+ENG TWMGre SouHyl Air
+ENG TWMYel StJam SouShi
 
 ####People Movers####
 ENG HPRT5A Ter5 ParA
@@ -273,4 +277,5 @@ MI ExpTram SouSta NorSta
 ####SCT: Glenfinnan, Arisag
 ####DEU: Frankfurt Hbf
 ####ITA: Duomo, Milano Centrale, Centrale
+
 
