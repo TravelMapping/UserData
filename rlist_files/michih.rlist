@@ -1,4 +1,4 @@
-# Date: 2025-09-30
+# Date: 2025-10-01
 # ----------------
 
 ######################
@@ -1101,7 +1101,7 @@ PRT 25ELis PraFig CorSan              #2025
 PRT 15ELis CorSan San                 #2025, traveled as 25E
 PRT 25ELis San CamOur                 #2025
 PRT 28ELis MarMon CamOur              #2025
-PRT LnAzaApo LisSanApo Ori            #2025
+PRT LnAzaApo LisSanApo Aza            #2025
 PRT LnSinMir LisRos Reb               #2025
 
 
