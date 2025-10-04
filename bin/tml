@@ -10,13 +10,16 @@ endif
 
 set listdir=~/travelmapping/UserData/list_files
 set rlistdir=~/travelmapping/UserData/rlist_files
+set alistdir=~/travelmapping/AirportData/air/data
 
-# counters for the number of list files and rlist files moved, and the number of each
+# counters for the number of list files, rlist files and alist files moved, and the number of each
 # that are new files
 set listfiles=0
 set rlistfiles=0
 set newlistfiles=0
 set newrlistfiles=0
+set alistfiles=0
+set newalistfiles=0
 
 # loop over all command line parameters
 foreach arg ( $* )
@@ -38,6 +41,12 @@ foreach arg ( $* )
     else if ( ${arg} == ${username}.rlist.txt ) then
       set destfilename=${username}.rlist
       set dest=${rlistdir}
+    else if ( ${arg} == ${username}.alist ) then
+      set destfilename=${arg}
+      set dest=${alistdir}
+    else if ( ${arg} == ${username}.alist.txt ) then
+      set destfilename=${username}.alist
+      set dest=${alistdir}
     else
       echo "Unexpected extension on ${arg}, aborting!"
       exit 1
@@ -70,3 +79,4 @@ end
 # print summary of what was done
 echo "Moved ${listfiles} list files, ${newlistfiles} of which are new."
 echo "Moved ${rlistfiles} rlist files, ${newrlistfiles} of which are new."
+echo "Moved ${alistfiles} alist files, ${newalistfiles} of which are new."
