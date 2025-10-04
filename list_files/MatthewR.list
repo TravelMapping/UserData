@@ -1,5 +1,5 @@
 #M’s Travels
-#Last Updated: 8 August 2024
+#Last Updated: 31 March 2025
 
 #[United States]
 
@@ -16,7 +16,7 @@ AZ I-8 CA/AZ 7
 
 #California I-5
 CA I-5 734 553
-CA I-5 525B 1
+CA I-5 525B MEX/USA
 
 #California I-8
 CA I-8 SunCliBlvd 17A
@@ -89,7 +89,11 @@ DC I-395 VA/DC 4
 FL I-4 80 132
 
 #Florida I-95
+FL I-95 BriAve 24
 FL I-95 260 363
+
+#Florida I-595
+FL I-595 10 12
 
 #Georgia I-75
 GA I-75 242 251
@@ -315,6 +319,10 @@ GA US23 I-985(8) I-985(4)
 #Georgia US-29
 GA US29 GA6 WasAve
 
+#Florida US-1
+FL US1 I-595 FLHIntAir
+FL US1 I-95(2A) BahRd
+
 #Illinois US-51
 IL US51 I-57(1) KY/IL
 
@@ -420,6 +428,9 @@ CA CA13 1A I-80/580
 #CA-14: 
 CA CA14 I-5 US395
 
+#CA-15:
+CA CA15 1B 3
+
 #CA-16 Sierra Foothills Section:
 CA CA16Wil CA124 CA49
 
@@ -430,7 +441,7 @@ CA CA17 26 1A
 CA CA17BusSco ScoValDr CA17(3)
 
 #CA-18:
-CA CA18 CA210 StaCut
+CA CA18 CA210 BalLakeRd
 
 #CA-19:
 CA CA19 WhiBlvd WasBlvd
@@ -443,7 +454,7 @@ CA CA20 CA99 I-80
 CA CA22 I-405(23) 14C
 
 #CA-23:
-CA CA23 12 LecRd
+CA CA23 CA1 12 
 
 #CA-24:
 CA CA24 2 15
@@ -474,8 +485,8 @@ CA CA36 I-5BL_S CA89_N
 CA CA37 US101 21
 
 #CA-38:
-CA CA38 CA18 StaCut
-CA CA38 JenLakeRd_W I-10
+CA CA38 CA18 LakeWilDr
+CA CA38 JenLakeRd_E I-10
 
 #CA-39 Westminster Section:
 CA CA39 KatAve CA22
@@ -729,6 +740,9 @@ CA CA152 CA99 WatRd
 #CA-154:
 CA CA154 US101(101B) US101(146)
 
+#CA-155:
+CA CA155 CA178 WofBlvd_N
+
 #CA-156:
 CA CA156 CA1 CHG1
 CA CA156 CA156Bus_S CA152
@@ -761,7 +775,8 @@ CA CA170 6A 11B
 #CA-175:
 CA CA175 CA29/29Bus CA29_S
 
-#CA-178 Sierra Section:
+#CA-178 Lake Isabella Section:
+CA CA178 CA58/99 SieWay
 CA CA178 TroRd PinRd
 
 #CA-178 Shoshone Section:
@@ -1184,7 +1199,7 @@ GRC EO8 EO54/91 LenOdos
 GRC EO54 PanKan EO8/91
 
 #Greece EO56A
-GRC EO56A EO91EO56
+GRC EO56A EO91 EO56
 
 #Greece EO91
 GRC EO91 EO8/54 PriPet
@@ -1207,6 +1222,9 @@ ITA A91 SS296 ViaMag_E
 #[Mexico]
 
 #(Mexico Federal Expressways)
+
+#Baja California 1D:
+MEX-BC MEX1D AvePasPla MEX1_S
 
 #Baja California Sur 1D:
 MEX-BCS MEX1D AerLosCab MEX1_S
@@ -1232,10 +1250,11 @@ MEX-QRO MEX57D QRO100 MEX57/111
 #(Mexico Carreteras Federales)
 
 #Baja California MEX1:
-MEX-BC MEX1 LibSur MEX1D_Pue
-MEX-BC MEX1 MEX3_N BlvdLazCar_S
+MEX-BC MEX1 LibSur MEX1D_Can
+MEX-BC MEX1 ValGua EjiEre
 
 #Baja California MEX2:
+MEX-BC MEX2 Pre ValPal
 MEX-BC MEX2 MEX2D_TecW COrtRub
 
 #Baja California MEX3:
@@ -1332,6 +1351,17 @@ MEX-DF Eje3Sur CalzAntAbad AveParLira
 #Eje 10 Sur
 MEX-DF Eje10Sur AniPer DelMad
 
+#(Mexico Select Freeways)
+
+#Avenida Internacional
+MEX-BC AveInt ViaRap CarrEsc
+
+#Carretera Escenica
+MEX-BC CarrEsc MEX1D CSeg
+
+#Via Rapida
+MEX-BC ViaRap BlvdAbeRod BlvdIns_E
+
 
 #[Morocco]
 
@@ -1360,6 +1390,57 @@ MAR N9 N8_E N7/N8
 #Morocco N25:
 MAR N25 N8_E Azi
 
+#[New Zealand]
+
+#(New Zealand Motorways)
+
+#Christchurch Southern Motorway
+NZL ChrSMot SH1 ShaRd
+
+#(New Zealand State Highways)
+
+#New Zealand SH1
+NZL SH1Wai MemAve SH79
+
+#New Zealand SH6
+NZL SH6 SH97 SH8B
+NZL SH6 SH84 SH7
+
+#New Zealand SH6A
+NZL SH6A SH6 GorRd
+
+#New Zealand SH8
+NZL SH8 SH79 SH8B
+
+#New Zealand SH8B
+NZL SH8B SH6 SH8
+
+#New Zealand SH75
+NZL SH75 LinRd RueJol
+
+#New Zealand SH76
+NZL SH76 SH1 ShaRd
+
+#New Zealand SH79
+NZL SH79 SH1 SH8
+
+#New Zealand SH84
+NZL SH84 SH6 BroSt
+
+#New Zealand SH94
+NZL SH94 SH97 MilSouFry
+
+#New Zealand SH97
+NZL SH97 SH94 SH6
+
+#(New Zealand Tourist Routes)
+
+#Alpine Scenic Route
+NZL AlpSR ArdSt SH6
+
+#Southern Scenic Route
+NZL SouSR GorRd SH94/95
+
 
 #[Nicaragua]
 
@@ -1387,7 +1468,7 @@ NIC NIC62 NIC2 NIC34B/NN211
 PER PE3S CaPal_N PE28F
 
 #Peru PE20B
-PER PE20B AvTomVal 
+PER PE20B AvTomVal PE20K
 
 #Peru PE28B
 PER PE28B Oll PE28G
@@ -1460,14 +1541,14 @@ ZAF R24 TamIntAir N3/N12
 ESP-CT A2 559 610
 
 #Spain A8
-ESP-PV 115 121
+ESP-PV A8 115 121
 
 #Spain AP1 Bergara
 ESP-PV AP1 ESP/FRA 19(AP8) 
 ESP-PV AP1 27(AP8) 145
 
 #Spain AP8 
-ESP-PV 115 FRA/ESP
+ESP-PV AP8 115 FRA/ESP
 
 #Spain B10
 ESP-CT B10 19(W) 24
@@ -1516,7 +1597,7 @@ TUR O7Cob O7 O3
 #(Great Britain Motorways)
 
 #England M4
-ENF M4 4 12
+ENG M4 4 12
 ENG M4 15 18
 
 #England M4 Heathrow Spur

@@ -2,28 +2,39 @@ ENG DLR BAN CUS
 ENG CirLn PAD_1 ERD_2
 ENG CenLn OXC BUH
 ENG BakLn Mar EleCas
-ENG JubLn GRP CYF
+ENG JubLn StJohWood CYF
 ENG NorLn HTD CPC
-ENG NorLnBat WAS KNG
+ENG NorLnBat Hig KNG
 ENG PicLn HWV CKS
 ENG VicLn FPK BRX
 ENG WaCLn WAT BAN
 
 ENG ChiMLOxf LonMar Oxf
-ENG HT5T A C
+ENG HT5Tra GatA1A23 GatC52C66
 ENG OxfLn LonPad Oxf
 
-CA BARTRed Mil WestOak
-CA BartOra BayFair Col
+CA BARTBlue DalyCity DubPle
+CA BARTOra Ber Ric
+CA BARTRed Mil Ric
 CA BARTYel Mil PitTra
+CA CalTra SanJoseDir SanFraKing
 CA eBART PitTra Ant
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+CA SRTGre 13thSt 7thRic
 CA MuniF 17thCas Bea
 CA MuniK BalPark Emb
+CA MuniL Waw Emb
 CA MuniM BalPark Emb
-CA MuniN VanNess 4thKing
-CA MuniT King ChiRosePark
+CA MuniN LaPla 4thKing
+CA MuniT Sun ChiRosePak
+CA OAKAir OakIntAir Col
+CA CalSt VanNess Dru
 CA PowHyde PowJacWas Bea
+CA PowMas Mar Bay
 CA SMART Lar RohPark
+
+CO DENTrn JepTer CGat
 
 CT NewHavLn Sta WestHav
 
@@ -38,6 +49,8 @@ DC SilLn VA/DC DC/MD
 DC YelLn VA/DC MtVerSq
 
 DE AE MD/DE DE/PA
+
+GA PlaTrn DomTer FGatIntTer
 
 MA GreLnD Riv NorSta
 MA GreLnE Pru NorSta
@@ -73,6 +86,7 @@ NJ PATHJ33 JouSq NJ/NY
 NJ PATHNWT NewPenn NJ/NY
 
 NV AE ParkMGM Bel
+NV GreLn Ter1 CGat
 NV LVM MGMGra SLS
 NV MTI Mir TreIsl
 
@@ -146,4 +160,45 @@ VA OraLn VieFaiGMU VA/DC
 VA SilLn WieResE VA/DC
 VA YelLn Hun VA/DC
 
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
+
 WV CassSceRR CassDep BaldKnob
+
+AUT S2Vor Fel AUT/LIE
+
+DEU-BW S1 HerBerg FeuSee
+DEU-BW U3 Vai Pli
+DEU-BW U6 StaBib MohBf
+DEU-BW U14 ChaPla Vai
+
+DEU-BY S1 FlugHafMun LeuBergRing
+DEU-BY S2 Dac LeuBergRing
+DEU-BY S2Pet PetHau Dac
+DEU-BY S3 MamDorf OstBf
+DEU-BY S4 Pas Tru
+DEU-BY S7 SieWer Hbf
+DEU-BY S8 DonBerBru FlugHafMun
+DEU-BY S2Nur Roth NurnBergHbf
+DEU-BY S5Nur NurnBergHbf AllBerg
+DEU-BY U1 OlyEinZen ManPla
+DEU-BY U2 FeldMoc MesStaOst
+DEU-BY U3 Moo FurRiedWest
+DEU-BY U4 KarPlaSta AraPark
+DEU-BY U5 LaiPla NeuPerSud
+DEU-BY U6 MarPla GarForZen
+DEU-BY U3Nur Hbf GroReuSch
+DEU-BY 3Aug Hbf RotTor
+DEU-BY 16Mun RomPla StEmm
+DEU-BY 17Mun AmaBurgStr StEmm
+DEU-BY 27Mun Pin SenTor
+
+CHE S2Vor LIE/CHE Buc
+
+LIE S2Vor AUT/LIE LIE/CHE

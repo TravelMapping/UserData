@@ -1,8 +1,19 @@
-IRL NorCom DubCon DroMac
+# Ireland - Intercity lines
 IRL Ent DroMac DunCla
 # Took a commuter train to Dundalk but IRL.NorCom does not extend that far
 IRL CorkInt DubHeu CorkKent
+IRL SliInt DubCon Dru
+
+# Ireland - Commuter lines
+IRL NorCom DubCon DroMac
+IRL DARTHow How Kili
+
 IRL CorkComMid CorkKent Mid
-IRL DARTHow How TaraSt
-IRL RedLn SpeDock Heu
+
+# Ireland - Luas
+IRL RedLn ThePnt Bel
+IRL RedLnCon Con Tal
+IRL GrnLn Bro BriGlen
+
+# Spain
 ESP-AN C1Mal Aer Fue

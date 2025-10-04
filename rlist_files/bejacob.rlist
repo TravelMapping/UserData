@@ -1,8 +1,15 @@
 #Amtrak
 BC AC USA/CAN VanPacCen
 CA CS UniSta CA/OR
+CA PS SanFeDep SanLuisObi
+DC FL WasUniSta DC/VA
+FL FL GA/FL Mia
+GA FL SC/GA GA/FL
+NC FL VA/NC NC/SC
 OR AC Eug OR/WA
 OR CS CA/OR OR/WA
+SC FL NC/SC SC/GA
+VA FL DC/VA VA/NC
 WA AC OR/WA USA/CAN
 WA CS OR/WA SeaKingSt
 
@@ -37,23 +44,45 @@ CA MuniN +DIV_JN 4thKing
 CA MuniT Sun ChiRosePark
 
 #San Diego Trolley
-CA BlueLn SanYsiTC +DIV_Gre_N
-CA GreLn 12thImpTC Gro
-CA OraLn Cou Gro
+CA BlueLn SanYsiTC UTCTC
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
+CA CopLn ElCaj SanTownCen
 
-AZ VMR 44thStWas GilRdMainSt
+#Sacranento RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+
+AZ A 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
+FL TriRail MetTra MiaAir
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+FL NBankLn JacRTC RosaPar
+FL SBankLn RosaPar KinAve
 LA CanCem HarCas CemTraTer
 LA CanCityPark HarCas MusArt
 LA UPTRiv UPT FreMar
 LA StCha CanCar How
+
+#MBTA
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA GreLnD Cop UniSq
+MA GreLnE HeathSt Lec
+MA RedLnM Ash Mat
+
+MI DetPeoMov Mic_S Mic_N
+MI QLn GraBlvd ConSt
 MO MLRedLn LamAirTer1 LacLan
+NV LVM MGMGra SLS
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
 NJ NECorLn NY/NJ NewLibAir
+NY BMR SpeEve Uni
 NY NJerCoaLn PennSta NY/NJ
 
 #NY Subway
@@ -86,12 +115,15 @@ NY W QuePlaza WhiStSFry
 NY SIR StGeo OldTown
 
 OH RedLn TowCity LitItaUniCir
-OR RedLn Cas PorIntAir
-OR RedLn PioSq LloCen11thAve
+OR RedLn PioSq PorIntAir
+OR BLp 11thMar_S 11thCou
+OR BLp GraHoyt 11thMar_N
 PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq
 PA SilLn Gat StaSq
+TX OraLn DFWAir CityPlaUpt
+TX RedLn Wes CityPlaUpt
 TX RedLnHou EnsHCC CenSta
 WA SeaCenMon SeaCen WesCen
 WA N Eve Sea
@@ -103,17 +135,22 @@ WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
 
 #US Airpoirts Airside
+CA AutPeoMov CenTerB ConB
 CO DENTrn JepTer CGat
 FL GateLink TerA Air2
 FL GateLinkTAW TerA Air1
 FL GateLinkTBE TerB Air4
 FL GateLinkTBW TerB Air3
 GA PlaTrn DomTer FGatIntTer
+KY CVGTram MainTer ConB
 MI ExpTram SouSta NorSta
 MN MSPTram ConDE ConAB
+NV GreLn Ter1 CGat
 NV BlueLn Ter1 DGat
+NV RedLn Ter3 DGat
 TX IAHSky TerA TerDE
 TX Sky A8 A21
+VA AerTrn ConB ConCD
 WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 WA YelLn AGat DGat
@@ -137,12 +174,13 @@ TX IAHSub TerA TerD/E
 DC BluLn VA/DC FedCenSW
 DC GreLn Wat GalPla
 DC OraLn VA/DC FedCenSW
-DC RedLn MD/DC GalPla
+DC RedLn MD/DC UniSta
 DC SilLn VA/DC FedCenSW
 DC YelLn VA/DC GalPla
 MD RedLn Roc MD/DC
 VA BluLn KingStOldTown VA/DC
 VA YelLn KingStOldTown VA/DC
+VA SilLn DulIntAir Cla
 
 PR TrenUrb SagCor Bay
 
@@ -199,13 +237,15 @@ FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
 
-GRC 1Ath Thi Omo
-GRC 2Ath NeosKos Omo
-GRC 3Ath Mon Aer
+GRC 1Ath Pir Kif
+GRC 2Ath Ell Ant
+GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
-GRC T7 Edem Kol
+GRC T7 LOOP AskVou
 
 SCT HMLEdi EdiWav Sti
-
 TUR T1Ist BeyKapCar Toph
 
+#Europe Airpoirts Airside
+ENG HT5Tra GatA1A23 GatC52C66
+ESP-MD APM T4 T4S

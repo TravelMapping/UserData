@@ -1,4 +1,20 @@
+#Intercity Rail
+
+#Amtrak
+IL BO UniSta IL/WI
+MN BO WI/MN StPaulUniDep
+WI BO IL/WI WI/MN
+
 #Heavy Rail
+
+#Chicago L
+IL BlueLn Bel UICHal
+IL BroLn Kim Loop
+IL OraLn Mid Loop
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn Roo How
+IL SkoSwi DemSko How
 
 #New York City Subway
 NY S42 TimSq GraCen
@@ -46,9 +62,22 @@ DEU-BE S9 Bel BE/BB
 TX GreLn MarCen DeepEll
 TX RedLn DalZoo LovLn
 
+#MAX Light Rail
+OR OraLn UniStaGliSt Park
+OR RedLn RoseQuaTraCen PorIntAir
+OR YelLn PSUSou ExpoCen
+
 #METRO Transit Light Rail
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
+
+#Streetcars
+
+#McKinney Avenue Transit Authority
+TX MLnTro Upt_W Upt_E
+
+#Portland Streetcar
+OR ALp 3rdHar 10thCou
 
 #Straßenbahn Berlin
 DEU-BE M1 UOraBurTor KupGra
@@ -56,20 +85,18 @@ DEU-BE M5 UOraBurTor UAlePla
 
 #Other Services
 
+#United States Airside Airport Rail Systems
+CO DENTrn JepTer CGat
+TX Sky A8 A21
+
 #United States Landside Airport Rail Systems
 IL AirTraSys Ter3 MulModFac
 MN HubTram Ter1 HubBui
 NY AirTrnJam Jam T5
 
-#United States Airside Airport Rail Systems
-CO DENTrn JepTer CGat
-TX Sky A8 A21
-
 #United States Tourist Railroads
 CO RoyGorRou CanCity Par
 
-#McKinney Avenue Transit Authority
-TX MLnTro Upt_W Upt_E
-
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+

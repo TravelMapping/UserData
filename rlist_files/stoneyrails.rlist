@@ -2,23 +2,46 @@ AZ SW CA/AZ AZ/NM
 AZ SunLink CusAvCon 2ndStHigAve
 
 BC AC USA/CAN VanPacCen
+BC CanLn Wat YalRou
 
 CA CS UniSta Eme
 CA SW UniSta CA/AZ
+CA MuniF 3rdKea Pier39Sto
 
 CO SW NM/CO CO/KS
+CO DENTrn JepTer BGat
 
 DC SilLn VA/DC CapSou
 
+DNK M2 Luf KonNyt
+DNK M3 KonNyt Rad
+
 CHE S24Wei ZurFlu ZurHau
 
-ENG GatEx Bri LonVic
-ENG CirLn Wes Pad_1
-ENG JubLn StJohWood LonBri
-ENG EliLnShe Pad HeaTer5
+CZE 12Pra ChoSady And 
 
-FRA-IDF M6 BirHak PlaIta
+ENG BakLn PicCir Wat
+ENG GatEx Bri LonVic
+ENG CoaELn Bri Fal
+ENG DisLn EarCou Wes
+ENG JubLn StJohWood LonBri
+ENG PicLnHT4 GrePark PicCir
+ENG EliLnShe Pad HeaTer5
+ENG VicLn GrePark Vic
+
+FRA-IDF A CdGEto Vin
+FRA-IDF B AerCDG2TGV DenRoc
+FRA-IDF M1 GeoV FraDRoo
+FRA-IDF M2 VicHugo PereLac
+FRA-IDF M3 StLaz PereLac
+FRA-IDF M4 BarRoc StrStDen
+FRA-IDF M6 BirHak Dau
 FRA-IDF M7 PontNeuf PlaIta
+FRA-IDF M8 TourMau StrStDen
+FRA_IDF M8 Dau PorDor
+FRA-IDF M9 FraDRoo HavCau
+FRA-IDF M12 Sol MaiAub
+FRA-IDF M13StO StDenPorPar StLaz
 
 IA SW MO/IA IA/IL
 
@@ -33,6 +56,8 @@ IL EBPor WI/IL UniSta
 IL LI UniSta BloNor
 IL SK UniSta ChaUrb
 IL SW UniSta IA/IL
+
+ITA-LIG +SKIP_Montro LaSpeCen
 
 KS SW CO/KS KS/MO
 
@@ -51,18 +76,27 @@ NJ PATCO PA/NJ Had
 
 NM SW AZ/NM NM/CO
 
+OR ALp PSUUrbCen 10thCou
+OR BLueLn WasPark OldTownChi
+
 PA AirLn PHLTerEF Phi30thSt
 PA BroStLn NRG CityHall
 PA ManNorLn Phi30thSt Man
 PA PATCO 15th16thLoc PA/NJ
 
+POL 5Kra DwoGloTun Bia
+POL 14Kra TeaSlo Dab
+POL S1Kra KraLot WieRynKop
+POL S3Kra Osw KraGlo
+
 VA BluLn Ros ArlCem
 VA SilLn Ros VA/DC
 
 WA AC SeaKingSt USA/CAN
-WA 1 UniWas SeaTacAir
+WA 1 Nor AngLake
+WA 2 MarVIl OveVil
 WA 1stHillLn OccMall 7thJac
+WA BlueLn SGat AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
 
 WI EBPor MN/WI WI/IL
-
-POL 5Kra DworzecGlownyTunel Bialucha 

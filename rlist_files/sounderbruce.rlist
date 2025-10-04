@@ -8,9 +8,10 @@ CA E ExpoPkUSC 7thStMetCen
 CA E *OldGoldLn Atl
 CA SanBerLn CalStaLA Cla
 
-CA BlueLn SanYsiTC SanFeDep
-CA GreLn 12thImpTC SanTownCen
-CA OraLn Cou ArnAve
+CA BlueLn SanYsiTC +DIV_Gre_N
+CA CopLn ElCaj SanTownCen
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
 CA Spr Oce VisTC
 CA Coa SanFeDep Oce
 
@@ -29,6 +30,16 @@ CA SRTGre 13thSt 7thRic
 CA PS Oce +DIV_Uni1
 CA PS UniSta +DIV_Uni2
 
+CO ALn UniSta Peo
+CO DLn LitMin 18thCal
+CO DLn 18thSto Loop
+CO ELn RidPkwy UniSta
+CO HLn I-25Bro TheDisConCen
+CO LLn 30thDow +DIV_LLn_S
+CO LLn 16thCal Loop
+CO NLn UniSta Eas124th
+CO RLn Lin Peo
+CO WLn EmpFieMileHigh UniSta
 CO DENTrn AGat BGat
 
 DC DCSC UniSta OklAve
@@ -43,6 +54,8 @@ IL BlueLn OHa Monr
 IL BlueLn Jac ForPk
 IL BroLn StaLake ClaLake
 IL GreLn StaLake AdaWab
+IL MLBlueLn MO/IL EastRiv
+IL MLRedLn MO/IL EastRiv
 
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
@@ -59,8 +72,13 @@ MA NewLn BosNor Che
 MI QLn GraBlvd ConSt
 MI DetPeoMov Mic_S Mic_N
 
-MO KCSC UniSta CityMar
-MO KCSC RivMarW RivMar
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN NorLn CoonRapRiv TarFie
+MN HubTram Ter1 HubBui
+
+MO KCSC UniSta RivMar
+MO MLBlueLn CenWestEnd MO/IL
+MO MLRedLn DelLp MO/IL
 
 NV LVM BalParLV Har/Linq
 NV AE ParkMGM Bel
@@ -89,7 +107,7 @@ OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
 OR BlueLn HatGovCen CleAve
-OR GreLn PSUSou Gat99thAve
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
@@ -99,6 +117,7 @@ OR BLp GraHol +SKIP_11thMar
 OR BLp +DIV_Nor 11thMar_N
 OR NSLn BondLane +DIV_Wat
 OR NSLn 5thMon Joh_N
+OR WesExpSer BeaTraCen Wil
 
 OR AC PorUniSta BC AC VanPacCen
 OR CS PorUniSta OR/WA
@@ -109,10 +128,13 @@ TX RedLn Ham +DIV_Blue_N
 TX DalStr Gre Uni
 TX MLnTro CityPlaNob_W FedHar
 
+UT BlueLn Are SaltLakeCen
+UT BlueLn +DIV_RedLine_N Are
 UT GreLn CityCen Air
+UT RedLn CenPoi +DIV_BlueLine/GreLine
 
 WA 1 Lyn AngLake
-WA 2 SBel RedTec
+WA 2 SBel DowRed
 WA N Eve Sea
 WA S Sea Lak
 WA T TacDome StJos
@@ -126,6 +148,8 @@ WA YelLn AGat DGat
 WA AC OR/WA USA/CAN
 WA CS OR/WA SeaKingSt
 WA EBSea SeaKingSt MT EBSea Whi
+
+WI HopMLn Int CityHall
 
 AB BlueLn 69thSt Sad
 AB RedLn Sun VicParkSta
@@ -142,8 +166,7 @@ BC WestCoaExp CoqCen Wat
 
 BC AC USA/CAN VanPacCen
 
-ON TrilLine #Trillium Line (Ottawa)
-
+ON OT2 Bay Gre
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil

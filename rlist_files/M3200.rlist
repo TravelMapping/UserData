@@ -17,7 +17,8 @@ AZ PHX T3 44thSt
 AZ SL CA/AZ Yuma
 AZ SL Ben AZ/NM
 AZ SW CA/AZ Fla
-AZ VMR 19thAveDun GilRdMainSt
+AZ A DowPhoHub GilRdMainSt
+AZ B DowPhoHub 19thAveDun
 
 #CA
 
@@ -28,26 +29,25 @@ CA B Nhol UniSta
 CA BARTGre Emb Fre
 CA BARTRed SanFraAir 12thStOak
 CA BlueLn SanYsiTC UTCTC
-CA C AviCen Nor
-CA KEls RedBea AviCen 
+CA C LAXMTC Nor
+CA K RedBea ExpoCre
 CA CC SanJoseDir SacVlySta
 CA CopLn ElCaj SanTownCen
 CA Coa SanFeDep Oce
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
 CA D WilWes UniSta
-CA E DowSanMon 7thStMetCen
-CA E *OldGoldLn Atl
+CA E DowSanMon Atl
 CA GreLn 12thImpTC Gro
 CA InlEmpLn SanAna SanBerDep
-CA CT Tam SanFraKing
+CA CalTra Tam SanFraKing
 CA MuniF 4thSto Bea
 CA MuniL Waw VanNess
 CA MuniN LaPla 4thKing
 CA MuniT Sun King
 CA OraCouLn UniSta Oce
 CA OraLn Cou ElCaj
-CA PerVlyLn RivDow PerS
+CA PerVlyLn UniSta PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
 CA SanBerLn UniSta SanBerDow
@@ -59,7 +59,7 @@ CA Spr Oce EscTC
 CA SRTBlue ConRivCol Watt80
 CA SRTGold SacValSta HisFol
 CA SW UniSta CA/AZ
-CA VenCouLn UniSta Cha
+CA VenCouLn UniSta VenE
 CA VTABlue SanTer Bay
 CA VTAGre Win CivCen
 CA VTAOra DtnMouView AlumRock
@@ -86,7 +86,7 @@ CO DENTrn JepTer CGat
 #CT
 
 CT AE NY/CT Sta
-CT EssSteTrn Ess DeepRivLan
+CT EssSteTrn Ess Che
 
 #DE
 
@@ -179,6 +179,7 @@ MA WorLn Fra BosSou
 #MI
 
 MI WV IN/MI NewBuf
+MI WV Jac AnnArb
 
 #MS
 

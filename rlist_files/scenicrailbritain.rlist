@@ -1,3 +1,5 @@
+###https://scenicrailbritain.com/lines/###
+
 #Transwilts Line	Swindon – Salisbury
 ENG TraWilLn Swi Wes
 ENG WesML Wes Sal
@@ -13,7 +15,8 @@ ENG NorDowLn Rei Gui
 ENG SwaLn Sit SheSea
 #North Cheshire Line	Hooton – Warrington Bank Quay
 ENG WirLnEll Hoo EllPort
-ENG NorCheLn EllPort WarBankQuay
+ENG NorCheLn EllPort Hel
+ENG LlaManLn Hel WarBankQuay
 #Tamar Valley Line	Plymouth – Gunnislake
 ENG TamVlyLn Ply Gun
 #New River Line	Hertford East – Broxbourne
@@ -37,7 +40,7 @@ ENG MarValeLn Ble Bed
 #Marshlink Line	Ashford International – Eastbourne
 ENG MnkLn Eas AshInt
 #Maritime Line	Truro – Falmouth
-ENG MrtLn Tru Fal
+ENG MrtLn Tru FalDoc
 #Looe Valley Line	Liskeard – Looe
 ENG LooeVlyLn Lis Looe
 #Tyne Valley Railway	Newcastle – Carlisle
@@ -52,10 +55,11 @@ ENG IslLn RydePierHead Sha
 #Ipswich to Lowestoft	Ipswich – Lowestoft
 ENG EastSufLn Ips Low
 #Severn Shores Line	Cheltenham Spa – Newport	https://www.gloucestershirecommunityrail.org/
-ENG SevShoLn Glo WLS SevShoLn New #Cheltenham - Gloucester in a different way
+ENG CarNotLn Glo CheSpa
+ENG SevShoLn Glo WLS SevShoLn New
 #Windsor to Reading	Windsor – Reading via Ashford	https://www.southeastcrp.org/
 ENG WinLn WinEtonRiv Ash
-ENG ReaLn Ash Rea
+ENG ReaLn Sta Rea
 #Lymington to Brockenhurst	Lymington Pier – Brockenhurst	http://www.newforestcrp.co.uk/
 ENG NewForLn LymPier Bro
 #Hounslow to Richmond	Hounslow – Richmond
@@ -82,7 +86,7 @@ ENG SIBLn StErth StIves
 #South Fylde Line	Preston – Blackpool South	https://communityraillancashire.co.uk/
 ENG SouFylLn Pre BlaSou
 #Ipswich to Felixstowe	Ipswich – Felixstowe
-ENG FelLn IpsFel
+ENG FelLn Ips Fel
 #Severn Beach Line	Bristol Temple Meads – Severn Beach	https://www.gloucestershirecommunityrail.org/
 ENG SevBeaLn BriTemMea SevBea
 #Settle to Carlisle	Settle – Carlisle	https://settle-carlisle.co.uk/
@@ -100,7 +104,8 @@ ENG SunCoaLnWal Col WalNaze
 #Surrey Hills to South Downs	Haslemere – Farncombe	https://hills2downs.org.uk/
 ENG PorDirLn Has Far
 #Riviera Line	Exeter Central – Paignton	https://dcrp.org.uk/
-ENG RivLn ExeStDav Pai #St Davids - Central in elsewhere
+ENG WoELn ExeCen ExeStDav
+ENG RivLn ExeStDav Pai
 #Rhee Valley Line	Cambridge – Royston	https://meldrethsheprethfoxtonrail.org.uk/
 ENG RheeVlyLn Roy Cam
 #Purbeck Line	Wareham – Swanage	https://purbeckcrp.org.uk/
@@ -108,7 +113,7 @@ ENG SWML DorSou HolHea
 #Sussex Downs Line	Brighton – Seaford	https://www.southeastcrp.org/
 ENG SusDowLn Bri Sea
 #Bedford to St Albans City	Bedford – St Albans City	https://bandhcrp.org.uk/
-ENG Tha Bed StAlbCity
+ENG ThaLnk Bed StAlbCity
 #Darent Valley	Sevenoaks – Swanley
 ENG ThaLnkSev Sev Swa
 #Cumbrian Coast Line	Barrow-in-Furness – Carlisle via The Lake District
@@ -119,7 +124,7 @@ ENG CroVlyLn Wic Sou
 ENG CreLn ManPic Cre
 ENG AirLn ManAir Cre
 #Cotswold Line	Oxford – Hereford
-ENG Cot Oxf Her
+ENG CotLn Oxf Her
 #Conwy Valley Line	Llandudno – Blaenau Ffestiniog via Glan Conwy and Betws-y-Coed
 WLS ConVlyLn Llad BlaFfe
 #Chester to Shrewsbury	Chester – Shrewsbury
@@ -137,11 +142,12 @@ ENG DerVlyLn Not Mat
 #Cambrian Coast Line to Aberystwyth	Shrewsbury – Aberystwyth	https://www.thecambrianline.co.uk/
 ENG CamLn Shr WLS CamLn Abe
 #Cambrian Coast Line to Pwllheli	Shrewsbury – Pwllheli	https://www.thecambrianline.co.uk/
-WLS CamCoaLn Mac Pwl #Shrewsbury-Machynlleth already added
+ENG CamLn Shr WLS CamLn Mac
+WLS CamCoaLn Mac Pwl
 #Buxton Line	Manchester Piccadilly – Buxton	http://www.semcorp.org.uk/ https://peakdistrictbytrain.org/
 ENG BuxLn ManPic Bux
 #Borders Railway	Edinburgh – Tweedbank	http://www.bordersrailwayforyou.com/
-SCT BorLn Edi Twe
+SCT BorLn EdiWav Twe
 #Borderlands Line	Bidston – Wrexham Central
 ENG BorLn Bid WLS BorLn WreCen
 #Barton Line	Barton upon Humber – Cleethorpes	https://www.bccrp.co.uk/
@@ -180,7 +186,7 @@ SCT HMLGla DunBir Car
 #Hereward Line	Peterborough – Ely	https://vimeo.com/806771161/ee4ba02cbc
 ENG HerLn Pet Ely
 #Heart of Wessex Line	Bristol Temple Meads – Weymouth
-ENG WesML Bri Wes
+ENG WesML BriTemMea Wes
 ENG HeaWesLn Wes Wey
 #Yorkshire Wolds Coast Line	Hull – Scarborough
 ENG YorCoaLn HullParInt Sca
@@ -189,7 +195,7 @@ ENG HeaWalLn Shr WLS HeaWalLn Swa
 #Bentham Line	Leeds – Morecambe / Heysham Port via Skipton, Bentham & Lancaster
 ENG BenLn Lee HeyPort
 #Glossop Line	Manchester Piccadilly – Glossop via Ashton-under-Lyne	http://www.semcorp.org.uk/ https://peakdistrictbytrain.org/
-ENG GloLin ManPic Glo
+ENG GloLn ManPic Glo
 #Gainsborough Line	Marks Tey – Sudbury
 ENG GaiLn MarTey Sud
 #Furness Line	Lancaster – Barrow-in-Furness
@@ -199,7 +205,7 @@ ENG FliLn Wit Bra
 #Far North Line	Fearn – Wick via Thurso	https://www.fnlcrp.co.uk/
 SCT FarNorLn Fea Wick
 #Esk Valley Railway	Middlesbrough – Whitby
-ENG EskVlyLn 
+ENG EskVlyLn Mid Whi
 #Elephant & Bear Line	Leamington Spa – Nuneaton	https://www.heartcommunityrail.org.uk/
 ENG EleBearLn LeaSpa Nun
 #East Lothian	Edinburgh Waverley – North Berwick	https://eastlothiancrp.org.uk/
@@ -207,4 +213,5 @@ SCT NorBerLn EdiWav NorBer
 #East Hampshire Line	Liphook – Rowlands Castle
 ENG PorDirLn Lip RowCas
 #East Coast Main Line	York – Edinburgh via Newcastle
-ENG TPNRte York SCT TPNRte EdiWav
+ENG TPNRte York New
+ENG TPBRte New SCT TPBRte EdiWav

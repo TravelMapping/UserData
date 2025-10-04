@@ -16,9 +16,9 @@ WLS SevShoLn Che CarCen
 
 #Bristol area#
 ENG SevBeaLn WesSupMare SevBea
-ENG SevVlyLn Ash BriTemMeads
+ENG SevVlyLn Ash BriTemMea
 ENG SWalML Swi BriPkwy
-ENG CorMl Pil BriTemMea
+ENG CarExeLn Pil BriTemMea
 ENG WesML BriTemMea Fre
 ENG GolVlyLn Swi Glo
 ENG GWML Swi BriTemMea
@@ -26,7 +26,7 @@ ENG GWML Swi BriTemMea
 #Cornwall#
 ENG CorML Par Pen
 ENG SIBLn StErth StIves
-ENG MrtLn TruFalDoc
+ENG MrtLn Tru FalDoc
 
 #Southern England (keygo)#
 ##Thameslink & Great Northern##
@@ -81,10 +81,33 @@ ENG MoleVlyLn LonWat Dor
 ENG CheLn LonWat CheSou
 ENG NewGuiLn LonWat Gui
 ENG BooLn LonWat Gui
-ENG LonWat HamCou
-ENG LonWat Wok
+ENG HamCouLn LonWat HamCou
+ENG WokLn LonWat Wok
 ENG SheLn LonWat She
 ENG KinLp LonWat ClaJct_2
 ENG CheLp LonWat Wey
 ENG ReaLn LonWat Rea
 ENG WinLn LonWat WinEtonRiv
+
+#Glasgow Subway#
+SCT GlaSub Par_1 Par_2
+
+#Robin Hood#
+ENG NET1 Huc TotLn
+ENG NET2 PhoPark CliSou
+
+#Nexus#
+ENG TWMGre SouHyl Air
+ENG TWMYel StJam SouShi
+ENG NhbLn New Ash
+
+#Bee Network#
+ENG MetLnkAlB Alt Bury
+ENG MetLnkAlP Alt Pic
+ENG MetLnkPBy Pic Bury
+ENG MetLnkEDR EDid RocTownCen
+ENG MetLnkEDS EDid ShawCro
+ENG MetLnkEAL Ecc AshUndLyne
+ENG MetLnkMAV ManAir Vic
+ENG MetLnkMEC MedCityUK EtiCam
+ENG MetLnkTCC TraCen DeaCas

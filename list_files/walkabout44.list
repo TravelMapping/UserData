@@ -1,21 +1,8 @@
-# 01/12/2025
-# v59
-# Complete NY I-295
-# Update status for new version of Table 3 (dated 12/22)
-# Add new roads added to Travel Mapping:
-# Complete PA I-86SWa
-# Add NY I-86
-# Add OK I-335 (not on)
-# Add OK I-344 (25 on, 6 not on)
-# Add KY I-169
-# Add 21 miles to KY I-69
-# Delete KY I-69Fut
-# Delete IN I-69FutInd
-# Delete PA I-86FutSWa
-# Change AZ AZ89ASed to AZ AZ89A
-# Change AZ AZ180ACon to AZ AZ180A
-# Change IN I-69Whe to IN I-69
-
+# 08/04/2025
+# v70 (corrected)
+# Add AZ AZ266SprFtG AZ266 FtGra         Traveled in 2022
+# Add AZ US60HisMes May SosRd            Traveled in 1958, also US 70-80-89
+# Add AZ US80HisPan I-10(281) I-10(291)  Traveled in 1958
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -125,17 +112,20 @@ AZ AZ260 AZ89A US180/191
 AZ AZ261 AZ260 AZ273
 AZ AZ264 US160 AZ/NM
 AZ AZ266 FortGraRd_S US191
+AZ AZ266SprFtG AZ266 FtGra
 AZ AZ273 BigLakeRd AZ260
 AZ AZ277 AZ260 AZ77
+AZ AZ277S AZ277 End
 AZ AZ286 MEX/USA AZ86
 AZ AZ287 I-10 AZ79
 AZ AZ288 AZ88 ChaTr
 AZ AZ289 End I-19
 AZ AZ303 CanTraBlvd I-17
 AZ AZ347 AZ84 I-10
-AZ AZ366 End US191
+AZ AZ366 BibCampRd US191
 AZ AZ373 AZ260 End
 AZ AZ377 AZ277 AZ77
+AZ AZ386 AZ86 KittPeakObs
 AZ AZ387 AZ84 AZ87
 AZ AZ389 UT/AZ US89Alt
 AZ AZ473 AZ260 HawLake
@@ -150,6 +140,7 @@ AZ PetForRd US180 I-40              # Petrified Forest NM
 AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
 
 # Arizona US Historic Highways
+AZ US60HisMes May SosRd
 AZ US66HisAsh I-40(144) I-40(146)
 AZ US66HisFla I-40(191) I-40(204)
 AZ US66HisHol I-40(285) I-40(289)
@@ -160,6 +151,8 @@ AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
 AZ US80HisFlo US60 AZ77_S
+AZ US80HisPan I-10(281) I-10(291)
+AZ US80HisWel 21 54
 AZ US89AHisCla AZ89A_S AZ89A_N
 
 # Hawaii 
@@ -172,11 +165,11 @@ HI I-H201 1A I-H1              #  4 vs 3
 # Alaska
 # 1082 miles: 880 on 202 not on
 AK I-A1 5thAve_W AK2           #316+
-#AK I-A1 AK2 AK/YT              # 92=408 Tok to Yukon line MISSING
+#AK I-A1 AK2 AK/YT              # 92=408 Tok to Yukon line NOT ON
 AK I-A2 AK1 AK3                #202
 AK I-A3 KenSpurHwy 5thAve      #148
 AK I-A4 AK1 HeaSpurRd          #214+
-#AK I-A4 HeaSpurRd AK2          #110=324 Healy to Fairbanks MISSING
+#AK I-A4 HeaSpurRd AK2          #110=324 Healy to Fairbanks NOT ON
 
 # Washington
 # 764 miles
@@ -371,10 +364,10 @@ OK I-44 TX/OK OK/MO            #335 vs 324 overlap I-35
 OK I-235 1A 4B                 #  5
 OK I-240 1A I-40               # 17 vs 16
 OK I-244 1A I-44               # 16
-#OK I-335 130 149               # 19  OK City E MISSING
-#OK I-344 OK152 I-40            #  6  OK City SW MISSING
-OK I-344 I-40 I-35/44          # 25
+OK I-335 130 149               # 19
+OK I-344 OK152 I-35/44         # 31
 OK I-444 I-244_W I-244_E       #  2 vs 3
+OK OK152 I-344 I-44            # may become I-240 at some point, 4 
 
 # Arkansas
 # 750 miles (Table 3 745) diff 5: I-49 5
@@ -391,7 +384,7 @@ AR I-555 1 49                  # 49 vs 45
 AR I-630 1 8                   #  8 vs 7
 
 # Texas
-# 3470 miles (Table 3 3504) diff -34: I-69 -34
+# 3471 miles (Table 3 3504) diff -33: I-69 -33
 TX I-2 130 176                 # 47
 TX I-10 NM/TX TX/LA            #879 2 overlap I-35
 TX I-14 US190BusCop I-35       # 25
@@ -406,7 +399,7 @@ TX I-37 US181 142              #146 vs 143
 TX I-40 NM/TX TX/OK            #179 vs 177
 TX I-44 1 TX/OK                # 15
 TX I-45 1A 284A                #285
-TX I-69 94 167                 # 76 (-34, Table 3 has 110)
+TX I-69 TXSpr10 167            # 77 (-33, Table 3 has 110)
 TX I-69C 1 FM490               # 18
 TX I-69E PolkSt 56             # 52 vs 54+
 TX I-69ERob FM2826 I-37        # 10 vs 7=61
@@ -507,9 +500,7 @@ IL I-474 0 15                  # 14 vs 15
 # 1313 miles (Table 3 1307) diff 6, I-164 -21, I-69 27
 IN I-64 IL/IN IN/KY            #123
 IN I-65 KY/IN US12/20          #261
-IN I-69 KenAve 153             #
-#IN I-69 153 163                # 10 mi S of Indianapolis MISSING
-IN I-69 163 IN/MI              #321 Table 3 294
+IN I-69 KenAve IN/MI           #321 Table 3 294
 IN I-70 IL/IN IN/OH            #158 vs 155
 IN I-74 IL/IN IN/OH            #174 vs 151 overlap
 IN I-80 IL/IN IN/OH            #153 vs 152
@@ -789,16 +780,16 @@ TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
 TN I-840 1 76                  # 78 vs 77
 
 # North Carolina
-# 1431 miles (Table 3 1365) diff 73: I-42 28, I-74 10, I-140 14, I-295 9, I-587 -4, I-840 8, I-885 8
+# 1461 miles (Table 3 1365) diff 96: I-42 28, I-73 6, I-74 27, I-140 14, I-295 9, I-587 -4, I-840 8, I-885 8
 NC I-26 4A(240) NC/SC          # 44+
 NC I-26Fau TN/NC 13            #  9 =53
 NC I-40 TN/NC US117_S          #420
-#NC I-42 1 8                    #  8  Start to US 70 MISSING
-#NC I-42Gol 34 53               # 20  Goldsboro bypass MISSING
-NC I-73 22 123                 # 99
+NC I-42 1 8                    #  8  
+NC I-42Gol 34 53               # 20  
+NC I-73 US74(306) 123          #105  	
 NC I-74 VA/NC 17               # 16+
-NC I-74Hig 55 22(73)           # 31+ 
-NC I-74Pem 194 213             # 19=66 vs 56 - 10 diff
+NC I-74Hig 55 321(US74)        # 46+
+NC I-74Pem 194 213             # 19=73 vs 56 - 27 diff
 NC I-77 SC/NC NC/VA            #105
 NC I-85 SC/NC NC/VA            #200
 NC I-87 16(440) 13             # 10
@@ -882,47 +873,38 @@ FL I-595 I-75 12               # 14 vs 13
 
 # Puerto Rico
 # 250 miles: 0 on, 250 not on
-#PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E MISSING
-#PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W MISSING
-#PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao MISSING
+#PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E NOT ON
+#PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W NOT ON
+#PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao NOT ON
 
-# Interstates Not on
-#NC I-42 1 8                    #  8  Start to US 70 MISSING
-#NC I-42Gol 34 53               # 19  Goldsboro bypass MISSING
-#IN I-69 153 163                # 10  S of Indianapolis MISSING
-#OK I-335 130 149               # 19  OK City E MISSING
-#OK I-344 OK152 I-40            #  6  OK City SW MISSING
 
 # Alaska & Puerto Rico Not on
-#AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line MISSING
-#AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks MISSING
-#AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E MISSING
-#AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W MISSING
-#AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao MISSING
+#AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line NOT ON
+#AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks NOT ON
+#AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E NOT ON
+#AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W NOT ON
+#AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao NOT ON
 
 
 # US Future Interstate Highways (outside Arizona)
-# means not been on - 4 sections
-# AR I-49FutBar 187 193             # Barling - Ft Smith SE not on
+# means not been on - 0 sections
+AR I-49FutBar 187 193
 AZ I-11FutHoo 2 AZ/NV
 AZ I-11FutKin 71(40) 48(40)
 CA I-905FutOta 1A USA/MEX
 FL I-795FutJac I-295 4
 IN I-265FutLou 7 IN/KY
 KY I-265FutLou 35 KY/IN
-LA I-49FutMor LA308 LA182_B
 LA I-49FutFra LA182_W LA318
+LA I-49FutMor LA308 LA182_B
 LA I-49FutNIb LA83_W LA675
 NC I-26FutAsh 13 4A(240)
 NC I-73FutMad NC68 NC/VA
-NC I-73FutRoc NC38 US1
 NC I-74FutLau 181 194
 NC I-74FutPil I-74_W US52
-NC I-74FutRoc US1 US74BusRoc_E
 NC I-74FutWhi 228 248             
 NC I-87FutRoc 13 464(64)
-NC I-785FutRei US29Bus_S US158/14
-# NC I-785FutRei US158/14 NC/VA     # N of Reidsville not on
+NC I-785FutRei US29Bus_S NC/VA
 NY I-86FutBin PA/NY 72A
 NY I-86FutDep 79 EvaRd
 NY I-86FutMon BushHilRd I-87
@@ -932,10 +914,9 @@ SC I-73FutMyr US17 US701
 SC I-526FutCha SC30_E 3
 TN I-69FutMem MS/TN US51
 TN I-69FutTri 15(155) TN183_End
-#TN I-69FutUni US51_S US45W/51      # Newly built Union City not on
-TN I-69FutUni US45W/51 TN/KY
+TN I-69FutUni US51_S TN/KY
 TN I-269FutMem 19 US51
-# VA I-785FutDan NC/VA US58/360     # Danville S, missed in 19
+VA I-785FutDan NC/VA US58/360
 
 
 # ICELAND
