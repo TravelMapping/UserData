@@ -1,12 +1,12 @@
-# Date: 2025-10-02
+# Date: 2025-10-03
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
-DEU-BW RS7Ulm UlmHbf BW/BY
-DEU-BY RS7Ulm BW/BY Mem
+DEU-BW RS7Ulm UlmHbf BW/BY                                      #2022
+DEU-BY RS7Ulm BW/BY Mem                                         #2022
 DEU-BY RE75 BW/BY Obe                                           #2022, Ulm - Memmingen - Oberstorf
 DEU-BY RE72 MunHbf Mem                                          #2022
 DEU-BY RE70 Imm LinReu                                          #2022
@@ -1098,14 +1098,16 @@ PRT LnAma Odi Rato                    #2025
 PRT LnAzu Reb SanApo                  #2025
 PRT LnVrd Tel CaisSod                 #2025
 PRT LnVrm Aer SaoSeb                  #2025
-PRT 15ELis CaisSod HosEgasMon         #2025
+PRT 15ELis CaisSod Alg                #2025
 PRT 18ELis Cal CemAju                 #2025
+PRT 24ELis PraLuisCar Cam             #2025
 PRT 25ELis PraFig CorSan              #2025
 PRT 15ELis CorSan San                 #2025, traveled as 25E
 PRT 25ELis San CamOur                 #2025
 PRT 28ELis MarMon CamOur              #2025
 PRT LnAzaAlc AlcTer Ori               #2025
 PRT LnAzaApo LisSanApo Aza            #2025
+PRT LnCas CaisSod Cas                 #2025
 PRT LnSinMir LisRos Reb               #2025
 
 
