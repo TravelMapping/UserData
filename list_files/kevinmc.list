@@ -3442,6 +3442,11 @@ NC US70 I-40(298) I-40(306)
 NC I-40 219 227
 NC US29 I-85(120) I-85BL(36A)
 
+# 2025-10-04
+NC US25 5 8
+NC NC225 US25(5) LitRivRd
+NC US176 UpwRd US25
+
 ################
 # NORTH DAKOTA #
 ################
