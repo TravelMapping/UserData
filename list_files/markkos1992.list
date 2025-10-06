@@ -553,12 +553,8 @@ VA OVTrl AbiMusPla VA/TN
 VA SieRd VisCen US301
 VA SkyDr US250 US340
 VA SpoRunPkwy VA124 GeoWasPkwy
-VA WRTrl MouVer VA2/626
-VA WRTrl VA2/609 VA2/631_N
-VA WRTrl VA2/631_S VA2/695_N
-VA WRTrl VA2/695_S SR721_E
-VA WRTrl US301_N VA326
-VA WRTrl US360 ColPkwy
+VA WRTrl MouVer US301_N
+VA WRTrl US301_S ColPkwy
 #North Carolina
 #Interstates
 NC I-26Fau TN/NC 13
@@ -4492,6 +4488,7 @@ IL US66His IL10/121 I-55(133)
 IL US66His I-55BL_S US51Bus_N
 IL US66HisCar IL4_AubD IL4Cha_S
 IL US66HisCar IL4Cha_N MacBlvd_S
+IL US66HisCar Cook/Law 2ndAve_N
 #Michigan
 #Interstates
 MI I-69 10 13
