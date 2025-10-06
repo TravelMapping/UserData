@@ -277,30 +277,33 @@ CA CA1 SwaRd_N BeanHolRd
 CA CA1 StaRd 438(101)
 CA CA4 15 30
 CA CA4 I-5(472) 69
-CA CA4 CA4Bus_E CA89
+CA CA4 CA49/4Bus CA89
 CA CA4BusAng CA4_W CA4_E
 CA I-5 107B 114B
 CA I-5 116 134B
 CA I-5 153B 221
 CA I-5 253 403
 CA I-5 407 472
-CA I-5 506 537
+CA I-5 506 577
+CA I-5BLWil CA20Bus CA20
 CA CA12 I-80(43) BeckAve
 CA CA12 CA88_E CA49
 CA I-15 179 181
 CA I-15 183 184B
 CA I-15BLBar I-15_S I-15_N
 CA CA16Wil US50 FolBlvd
-CA CA16Wil CRE2 DilRd
-CA CA16Wil CA124 CA49
+CA CA16Wil CRE2 CA49
 CA CA17 1A 3
 CA CA17 GleDr CA35
 CA CA17BusSco CA17(3) CA17(5)
    #IMO GraCrkRd and CA17(5) are the same point, since southbound it's just a ramp (I came on from Glenwood Drive)
+CA CA20 I-5BL CA45_N
+CA CA20BusWil I-5BL I-5
 CA CA24 2 15
 CA CA26 CHJ3 CA12_W
 CA CA26 PineSt HigRd
    #Railroad Flat Road to Defender Grade Road
+CA CA28 CA89 CA/NV
 CA CA33 CA152_W I-5(407)
 CA CA35 CA17 BearCrkRd_W
    #CA 35 was closed between Bear Creek Road and Gist Road when I drove it
@@ -317,8 +320,10 @@ CA US40HisRos CA193_S I-80(118)
 CA US40HisAub I-80(119A) HighSt_S
 CA US40HisAub CA49_N RusRd
 CA LinHwyAub TayRd_S CA49_S
-CA CA49 CA108_W CA12
-CA CA49 NewChiRd CA16
+CA WawRd GlaPtRd SouDr #and all of GlaPtRd
+CA CA45 CA20_W CA162_E
+CA CA49 CA140_E CA88_W
+CA CA49 CA104 CA16
 CA CA49 CA193_N I-80(119C)
 CA CA49 I-80(119B) ElmAve_W
 CA US50 I-80 47
@@ -326,6 +331,7 @@ CA US50 I-80 47
 CA CA57 2 9
 CA CA58 I-5(253) I-15
 CA CA65Ros 306 309
+CA CA70 CA149 US395
 CA I-80 1A 9
 CA I-80 9 12
    #rode a bus on this segment with questionable awakeness; also sight clinched on the frontage road at a later time (due to traffic on I-80)
@@ -337,8 +343,11 @@ CA CA84 KinMtnRd US101(408)
 CA CA84Rye CouRd_E WestSacLim
    #as well as the entire former route to I-80
 CA CA88 CA12_E LibRd
+CA CA88 CA104_E CA49_N
 CA CA88 DefGraRd ShaRidRd
+CA CA88 CA89_N CA/NV
 CA CA89 US395 CA4
+CA CA89 CA88_E CA28 #new bridge at Tahoe City
 CA CA90Yor CA57 KraBlvd
    #turned off just west of Kramer Boulevard into the shopping center
 CA CA91 I-405 VerAve
@@ -348,6 +357,7 @@ CA CA92 CA1 End
 CA CA99 I-5(221) 127A
 CA CA99 132A 227
 CA CA99 229 6(50)
+CA CA99 CA162_W CA149
 CA US101 CA60 3B
 CA US101 4A 13
 CA US101 19A 345
@@ -355,17 +365,24 @@ CA US101 356 444
 CA US101BusKin CRG13/G15 US101_N
    #technically only clinched west of 3rd Street; the road was closed to 1st Street
 CA CA104 CA99 CA124_S
+CA CA104 CA88_E CA49
 CA CA108 NeeSt_W CRJ3
 CA CA108 CA120_E US395
 CA CA110 23B 24A
 CA CA113 I-80(70) 37
 CA CA120 1A CA108_E
+CA CA120 CA49_N YosNP
+CA BigOakRd CA120 ElPorRd
 CA CA124 BueVisRd CA16
+CA CA140 CA49_N YosNP
+CA ElPorRd CA140 SouDr_E #also both crossovers and Southside to the end
+CA CA149 CA70 CA99
 CA CA152 US101(356) I-5
 CA CA156 US101(345) CA152
 CA CA160Rio CA4 SacLim
    #also drove the entirety of former CA160 in Sacramento in both directions
 CA CA160 AmeRiv 48
+CA CA162Oro CA45_S CA99_N
 CA CA170 5 11B
 CA CA193 TayRd_W I-80
    #west to Old State Highway; came on at east end from Ophir Road but the rest is just a ramp so I'm counting it to I-80
@@ -381,6 +398,7 @@ CA CA242 I-680 3B
 #CA CA275 entire length from I-80 to 9th Street
 CA I-280 33 5thSt
 CA US395 CA108 CA89
+CA US395Sus NV/CA 8
 CA I-405 40A 63C
 CA I-580 8B(80) 19C
 CA I-580 34 65
@@ -397,7 +415,7 @@ CA CRE3 DougBlvd I-80
 CA CRE9 CA160 CouRd
 CA CRE12 I-5 CRE2
 CA CRE13 CRJ11 CA99
-CA CRE14 WalRd I-80
+CA CRE14 WalRd CRE2
 CA CRE18 CA49 CA4
 CA CRJ6 CA108 CA26
 CA CRJ8 CRJ11 NewHopeRd
@@ -1654,7 +1672,7 @@ VA VA263 ShrMontCir US11
 VA VA276 VA256 VA253
 VA VA280 VA42 US33
 VA VA292 US11 I-81
-VA VA305 VA211 NewMarBat #turned around at the gate
+VA VA305 VA211 BusFarmRd #turned around at the gate
 VA VA321 SR613 ComDr
 VA VA322 SR615_S SR612
 VA VA337 US460 US460_W
@@ -1662,6 +1680,20 @@ VA VA337 US58_E I-564 #one more block to Boush Street
 VA VA359 VA31 ColPkwy
 VA ColPkwy VA199 IslDr
 VA SkyDr US250 US340
+
+NV I-80 13 15
+NV I-80BLRen US395Bus PraWay
+NV US50 NV207 NV341
+NV US395 24(580) NV/CA
+NV US395BusRen US395Alt_S I-80
+NV NV28 CA/NV NV431
+NV NV88 CA/NV NV206
+NV NV206 NV88 NV207
+NV NV207 US50 NV206
+NV NV341 US50 US395Alt
+NV NV342 NV341_S NV341_N
+NV NV431 NV28 US395Alt
+NV NV667 US395Bus GalWay
 
 WV WV259 VA/WV CR59
 NC I-85 178 NC/VA

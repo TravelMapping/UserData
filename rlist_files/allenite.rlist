@@ -39,7 +39,7 @@ AK WPY Ska BC WPY WhiPass
 ##################
 
 # Old Eurostar (Waterloo) to Paris
-ENG WinLn LonWat QueRd
+ENG WinLn LonWat +SKIP_QueRd
 ENG ThaLn +DIV_WinW +DIV_SEML
 ENG SEML +DIV_CML AshInt
 
