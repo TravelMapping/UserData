@@ -303,6 +303,7 @@ CA CA24 2 15
 CA CA26 CHJ3 CA12_W
 CA CA26 PineSt HigRd
    #Railroad Flat Road to Defender Grade Road
+CA CA28 CA89 CA/NV
 CA CA33 CA152_W I-5(407)
 CA CA35 CA17 BearCrkRd_W
    #CA 35 was closed between Bear Creek Road and Gist Road when I drove it
@@ -344,7 +345,9 @@ CA CA84Rye CouRd_E WestSacLim
 CA CA88 CA12_E LibRd
 CA CA88 CA104_E CA49_N
 CA CA88 DefGraRd ShaRidRd
+CA CA88 CA89_N CA/NV
 CA CA89 US395 CA4
+CA CA89 CA88_E CA28 #new bridge at Tahoe City
 CA CA90Yor CA57 KraBlvd
    #turned off just west of Kramer Boulevard into the shopping center
 CA CA91 I-405 VerAve
@@ -1679,8 +1682,18 @@ VA ColPkwy VA199 IslDr
 VA SkyDr US250 US340
 
 NV I-80 13 15
-NV US395 31(580) NV/CA
-NV US395BusRen NV659_S I-80 #just south of NV659_S at Meadowood Mall Way
+NV I-80BLRen US395Bus PraWay
+NV US50 NV207 NV341
+NV US395 24(580) NV/CA
+NV US395BusRen US395Alt_S I-80
+NV NV28 CA/NV NV431
+NV NV88 CA/NV NV206
+NV NV206 NV88 NV207
+NV NV207 US50 NV206
+NV NV341 US50 US395Alt
+NV NV342 NV341_S NV341_N
+NV NV431 NV28 US395Alt
+NV NV667 US395Bus GalWay
 
 WV WV259 VA/WV CR59
 NC I-85 178 NC/VA
