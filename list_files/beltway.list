@@ -411,6 +411,8 @@ ENG DewRR B6409_E B6409_W
 SCT DunRR A923_W A923_E
 ##Eastbourne##
 ENG EasRR B2107_E B2107_W
+##Edinburgh##
+SCT EdiCB A8 B6415
 ##Hanley##
 ENG HanRR A5010 A5006_N
 ##Huddersfield##
@@ -467,6 +469,7 @@ ENG SouRR A33_N A335
 ENG StoRR A451_W A451_E
 ##Sunderland##
 ENG SunIRR B1294 A183
+ENG SunRR B1539 B1522
 ##Swindon##
 ENG SwiRR B4006_W B4006_E
 ##Walsall##
