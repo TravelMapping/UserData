@@ -1,4 +1,4 @@
-# Date: 2025-10-06
+# Date: 2025-10-07
 # ----------------
 
 ######################
@@ -1115,9 +1115,13 @@ PRT LnSinMir LisRos Reb               #2025
 PRT A SenMat CarMic                   #2025
 PRT B PovVar CarMic                   #2025
 PRT C ISMAI SenHora                   #2025
-PRT D HosSaoJoao SaoBen               #2025
+PRT D HosSaoJoao VilaEste             #2025
 PRT E Aer FonCuco                     #2025
 PRT E CarMic Tri                      #2025
+PRT F Tri Fan                         #2025
+PRT 1Por PasAle Inf                   #2025
+PRT 18Por MusCarEle +DIV_22S          #2025
+PRT 22Por +DIV_18S Cle                #2025, actually traveled as 18
 PRT LnAve PorSaoBen Ave               #2025
 PRT LnBra PorCam Con                  #2025, actually traveled as Leco do Balio - Ovar service
 #PRT Leco do Balio PorCam             #2025
