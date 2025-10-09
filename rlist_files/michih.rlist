@@ -1,4 +1,4 @@
-# Date: 2025-10-07
+# Date: 2025-10-08
 # ----------------
 
 ######################
@@ -1123,7 +1123,8 @@ PRT 1Por PasAle Inf                   #2025
 PRT 18Por MusCarEle +DIV_22S          #2025
 PRT 22Por +DIV_18S Cle                #2025, actually traveled as 18
 PRT LnAve PorSaoBen Ave               #2025
-PRT LnBra PorCam Con                  #2025, actually traveled as Leco do Balio - Ovar service
+PRT LnBra PorCam Bra                  #2025
+PRT LnGui PorCam Gui                  #2025
 #PRT Leco do Balio PorCam             #2025
 
 #Whole M network as-at September 2023
