@@ -1,4 +1,4 @@
-# Date: 2025-10-08
+# Date: 2025-10-11
 # ----------------
 
 ######################
@@ -1003,6 +1003,8 @@ FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019
 FRA-IDF M14 SaiLaz Oly                #2019
 
+FRA-NAQ C VilPyr Qui                  #2025
+
 FRA-OCC A BasCam BalGra               #2024
 FRA-OCC B Bor JeanJau                 #2024
 
@@ -1125,7 +1127,7 @@ PRT 22Por +DIV_18S Cle                #2025, actually traveled as 18
 PRT LnAve PorSaoBen Ave               #2025
 PRT LnBra PorCam Bra                  #2025
 PRT LnGui PorCam Gui                  #2025
-#PRT Leco do Balio PorCam             #2025
+PRT LnLei LecaBal PorCam              #2025
 
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
