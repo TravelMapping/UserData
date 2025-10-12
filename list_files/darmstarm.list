@@ -373,7 +373,7 @@ VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
 VA I-77 NC/VA VA/WV #completed with BRR 9-25
 VA I-81 TN/VA 98 #from virginia tech to tenessee border
-VA I-81 118 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech
+VA I-81 114 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
 VA I-295 43 28A #williamsburg trip
@@ -385,23 +385,30 @@ VA US15 NC/VA VA20
 VA US29 VA86 VA6_W #raleigh -> hershey
 VA US58 I-95 I-664
 VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
+VA US58 VA86 US220_N #fall break trip 10-25
 VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
+VA US220 US58_E SR609 #fall break trip 10-25
 VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
 VA US340 VA55_W SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
-VA US460 SR700 I-81(118) #VTech tour, mountain lake hotel
+VA US460 SR700 I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
 VA US460 US460BusPea_E SR613/617 #raleigh -> blacksburg
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
+VA US460BusChr US460_E US460(2) #shanendoah trip 10-25
+VA US460BusChr US460_W RoaSt #shanendoah trip 10-25
 VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA VA6 US29_S VA151_N #raleigh -> hershey
+VA VA8 VA57 I-81 #fall break trip 10-25
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
+VA VA57 SR687 VA8 # fall break trip 10-25
 VA VA86 NC/VA US29/58 #raleigh -> hershey
 VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
 VA VA151 VA6_E US250 #raleigh -> hershey
 VA VA207 US301 I-95
+#VA VA311 SR624 dragon's tooth trailhead
 VA VA362 US58 GraHigSP #BRR 9-25
 #west virginia
 WV I-68 WV/MD 7 #WVU tour
