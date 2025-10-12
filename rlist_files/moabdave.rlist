@@ -12,7 +12,7 @@ ECU MetQui Lab SanFra
 
 #France
 FRA-IDF B GareNord AerCDG2TGV
-FRA-IDF B +DIV_CW MasPal
+FRA-IDF B MasVer MasPal
 FRA-IDF CVer VerChaRiveGau StMicNotDame
 FRA-IDF C GareAus +DIV_Eta
 FRA-IDF CDGVAL Ter2Gare Ter1
@@ -40,7 +40,7 @@ AK DenStar Anc Fai
 AK WPY Ska USA/CAN
 
 #Arizona
-AZ VMR GilRdMainSt Cen
+AZ A GilRdMainSt Cen
 
 #California
 CA CS UniSta SacVlySta
