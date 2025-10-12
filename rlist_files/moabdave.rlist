@@ -21,7 +21,9 @@ FRA-IDF M4 StMic GareNord
 FRA-IDF M13 ChaElyCle MonBie
 
 FRA-CVL A Vau Ver
-#MISSING Intercity trains between Paris and St. Pierre des Corps
+FRA-CVL BruBor StPieCor FRA-IDF BruBor AerCDG2TGV
+FRA-CVL ParTrs StPieCor FRA-IDF ParTrs ParMon
+FRA-CVL 1CVL StPieCor FRA-IDF 1CVL GareAus
 
 #Sweden
 SWE 40Sto ArlCen StoCity
