@@ -4,12 +4,15 @@
 #Australia
 AUS-VIC GWLn FliSt GlenWav
 
+#Canada
+BC WPY USA/CAN Fra
+
 #Ecuador
 ECU MetQui Lab SanFra
 
 #France
 FRA-IDF B GareNord AerCDG2TGV
-FRA-IDF B +DIV_CW MasPal
+FRA-IDF B MasVer MasPal
 FRA-IDF CVer VerChaRiveGau StMicNotDame
 FRA-IDF C GareAus +DIV_Eta
 FRA-IDF CDGVAL Ter2Gare Ter1
@@ -18,11 +21,13 @@ FRA-IDF M4 StMic GareNord
 FRA-IDF M13 ChaElyCle MonBie
 
 FRA-CVL A Vau Ver
-#MISSING Intercity trains between Paris and St. Pierre des Corps
+FRA-CVL BruBor StPieCor FRA-IDF BruBor AerCDG2TGV
+FRA-CVL ParTrs StPieCor FRA-IDF ParTrs ParMon
+FRA-CVL 1CVL StPieCor FRA-IDF 1CVL GareAus
 
 #Sweden
 SWE 40Sto ArlCen StoCity
-#MISSING - Gothenberg Trams
+SWE 11Got SKF BruPar
 
 #UK
 SCT EdiTram EdiAir PriSt
@@ -32,14 +37,18 @@ SCT NorClyLnHel LivNor EdiWav
 #USA
 #Alaska
 AK DenStar Anc Fai
+AK WPY Ska USA/CAN
 
 #Arizona
-AZ VMR GilRdMainSt Cen
+AZ A GilRdMainSt DowPhoHub 
 
 #California
 CA CS UniSta SacVlySta
 CA PS SanFeDep SanBar
 CA CZ Eme CO CZ UniSta
+CA SKuTra FortBra GlenBlaJct
+CA SkuTra Cro Wil
+
 #BART
 CA BARTGre DalyCity Fre 
 CA BARTYel Mil Con
@@ -56,6 +65,8 @@ CO DurSilNGR Dur Sil
 CO GeoLoopRai DevGat SilPlu
 CO RoyGorRou CanCity Par
 CO ELn Bel UniSta
+
+CO DENTrn JepTer CGat
 #CZ see CA
 
 #DC
@@ -64,6 +75,10 @@ DC RedLn UniSta DupCir
 DC BluLn FogBotGWU CapS
 DC GreLn LEnfPla USt
 
+#Florida
+FL GateLinkTBW TerB Air3
+FL ETrn E2 E20
+
 #Illinois
 IL AirTraSys Ter1 Ter5
 
@@ -71,6 +86,7 @@ IL AirTraSys Ter1 Ter5
 MA RedLn ParkSt Ale
 
 #Nevada 
+NV GreLn Ter1 CGat
 NV VirTruRR CarCity VirCity
 
 #New York
@@ -84,7 +100,8 @@ PA BroStLn TasMor CityHall
 
 #Texas
 TX IAHSub TerA TerD/E
-#Missing DFW
+TX IAHSky TerA TerDE
+TX Sky A8 A21
 
 #Utah
 UT FroRun ProCen SLCen
@@ -101,3 +118,6 @@ VA FreLN Fre DC FreLN WasUniSta
 #Washington
 WA SeaCenMon SeaCen WesCen
 WA 1 Wes SeaTacAir
+
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
