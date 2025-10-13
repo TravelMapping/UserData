@@ -66,8 +66,11 @@ RI ProLn Pro RI/MA
 DC NENor VA/DC WasUniSta
 VA NENor Fre VA/DC
 
-# Miscellaneous
+# Airports/Miscellaneous
 AZ PHX T4 44thSt
 CA AirTrnRed Ter1 GarG/BART_F
+CO DENTrn JepTer BGat
 IL AirTraSys Ter1 MulModFac
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
 NV MBT ManBay ExcNor
