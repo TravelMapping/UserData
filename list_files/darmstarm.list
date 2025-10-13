@@ -392,8 +392,7 @@ VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
 VA US340 VA55_W SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
-VA US460 SR700 I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
-VA US460 US460BusPea_E SR613/617 #raleigh -> blacksburg
+VA US460 WV/VA I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US460BusChr US460_E US460(2) #shanendoah trip 10-25
 VA US460BusChr US460_W RoaSt #shanendoah trip 10-25
@@ -413,12 +412,18 @@ VA VA362 US58 GraHigSP #BRR 9-25
 #west virginia
 WV I-68 WV/MD 7 #WVU tour
 WV I-77 VA/WV 7 #BRR 9-25
+WV I-77 9 28 #shanendoah 10-25
 WV I-81 VA/WV WV/MD #college to hershey park
 #WV US19 US460_E GreenValleyRd #BRR 9-25
+WV US19 I-77 EBecByp #shanendoah 10-25
+WV US19 US19Byp_N CR85/9 #shandneoah 10-25 (new river national park)
+WV US19BypBec JerAve US19_N #shanendoah 10-25
 WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
 WV US119 CR857_N ColAve #WVU tour
 WV US340 WV/VA SheSt #shanendoah trip
 WV US460 12MileRd US19_N #BRR 9-25
+WV US460 WV/VA I-77 #shanendoah 10-25
+WV WV16 US19_Fay KingAve #shanendoah 10-25
 WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
 #alabama
 AL US80 AL/GA US280/431_S
