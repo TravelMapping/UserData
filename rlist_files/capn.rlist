@@ -4,6 +4,7 @@ DC OraLn VA/DC DC/MD
 DC RedLn MD/DC DC/MD
 
 FL SM Kis FL/GA
+FL GateLink TerA Air2
 
 GA SM FL/GA GA/SC
 
@@ -19,14 +20,21 @@ MD RedLnGle DC/MD Whe
 
 NC SM SC/NC NC/VA
 
-NJ NENor NewBru NJ/NY
+NJ NENor Tre NJ/NY
+NJ PATHNWT NewPenn NJ/NY
 
 NY NENor NJ/NY PennSta
+NY PATHNWT NJ/NY WTC
+NY NewHavLn GraCen Pel
 NY 1 137StCityCol SouFry
-NY 5 EasDyreAve BroBriCityHall
+NY 2 E180St FulSt
+NY 5 EasDyreAve BowGre
+NY 7 42StTimSq 42StGraCen
 NY A 145St ChaSt 
 NY E SutBlvdArcAve Lexave53St
 NY J ChaSt SutBlvdArcAve
+NY N 5Ave59St TimSq42St
+NY N 34StHerSq CanSt
 
 PA PA PitUni Phi30thSt
 PA ManNorLn Phi30thSt MainSt

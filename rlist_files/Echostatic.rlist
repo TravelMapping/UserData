@@ -65,7 +65,7 @@ TX RedLn DalZoo LovLn
 #MAX Light Rail
 OR OraLn UniStaGliSt Park
 OR RedLn RoseQuaTraCen PorIntAir
-OR YelLn PSUSouCol ExpoCen
+OR YelLn PSUSou ExpoCen
 
 #METRO Transit Light Rail
 MN BlueLine MallofAmerica TargetFieldPlatform2
@@ -99,3 +99,4 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+
