@@ -775,10 +775,12 @@ IA US6 US169_N HicRd
 IA US20 153 215
 IA US30 GriRd 222ndDr
 IA US30 137 151
-IA LinHwy US69_N DayAve
+IA LinHwy CRR38 13thSt #west to X Avenue
+#was closed here for construction
+IA LinHwy SheAv_S DayAve
 IA US63 IA96 IA58
 IA US65 70 84
-IA US69 I-235 I-35BL_N
+IA US69 I-235 I-35BL_N #north to Bloomington Road
 IA US169 I-80 IA141
 IA IA5 72(65) I-35
 IA IA4 IA141_E RusSt
