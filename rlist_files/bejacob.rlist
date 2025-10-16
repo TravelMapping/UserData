@@ -17,11 +17,16 @@ AK GlaDis Anc Por_N
 AK GlaDis Whi +DIV_Por_B
 AK GlaDis Por_S +DIV_Por_C
 
+CA OraCouLn UniSta Oce
+CA SanBerLn UniSta PomN
+
 #CA LA Metro
-CA A 7thStMetCen UniSta
+CA A Loop PomN
 CA B NHol UniSta
+CA C LAXMTC Nor
 CA D WilWes UniSta
-CA E 7thStMetCen Atl
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
 
 #CA BART
 CA BARTBlue DalyCity DubPle
@@ -52,6 +57,12 @@ CA CopLn ElCaj SanTownCen
 #Sacranento RT Light Rail
 CA SRTBlue CosRivCol Watt80
 CA SRTGold SacValSta HisFol
+
+#VTA Light Rail
+CA VTABlue SanTer Bay
+CA VTAGre Win OldIro
+CA VTAOra DtnMouView Bay
+
 
 AZ A 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
