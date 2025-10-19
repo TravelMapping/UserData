@@ -1033,7 +1033,7 @@ NE LinHwy US30_BigE US30_Bru
 NE LinHwyNBe OldLinHwy Rd19
 NE S12A 6thSt NE15
 NE S27E US77 BouSt
-NE LinHwyFre BroSt_N PlaAve
+NE LinHwyFre ColAve PlaAve
 NE LinHwyElk MainSt_N BurtSt
 NE LinHwyWat NE64_E NE64_W
 NE US136TrkNBe US136_E US77
@@ -1852,6 +1852,7 @@ PER PE28F PE3S PE28B
 PER PE28B PE28F Oll
 PER PE3SH Aya Oru
 PER ViaEvi PE3S_E APVAguaBue
+
 
 
 
