@@ -13,8 +13,13 @@ IL SkoSwi DemSko How
 MA RedLn JFK Har
 MI DetPeoMov Mic_S Mic_N
 NJ PATCO PA/NJ Wes
-NY 1 116StColUni TimSq42St
+NY 1 116StColUni SouFry
+NY 4 42StGraCen BowGre
 NY 6 GraCen 86thSt
+NY C 81StMusNH 23St
+NY F 23rdSt JacHeiRooAve
+NY S42 TimSq GraCen
+NY SIR StGeo OldTown
 PA PATCO 8thMar PA/NJ
 VA BluLn VanDornSt VA/DC
 VA YelLn KingStOldTown VA/DC
@@ -59,6 +64,7 @@ MA NewLn BosNor Sal
 MA ProLn RI/MA BosSou
 NJ NECorLn NY/NJ NewPenn
 NY NECorLn PennSta NY/NJ
+NY RonBra PennSta Wya
 PA PaoThoLn Hav Phi30thSt
 RI ProLn Pro RI/MA
 
@@ -66,8 +72,12 @@ RI ProLn Pro RI/MA
 DC NENor VA/DC WasUniSta
 VA NENor Fre VA/DC
 
-# Miscellaneous
+# Airports/Miscellaneous
 AZ PHX T4 44thSt
 CA AirTrnRed Ter1 GarG/BART_F
+CO DENTrn JepTer BGat
 IL AirTraSys Ter1 MulModFac
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
 NV MBT ManBay ExcNor
+NY RIT Man RooIsl

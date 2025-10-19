@@ -7,7 +7,8 @@ AZ I-40 195 OK I-40 151B
 AZ I-19BLNog AZ82 I-19_N
 AZ I-40BLFla AZ89A I-40_E
 #other major interstate sections
-UT I-15 95 MT I-15 USA/CAN #UT20 to canada
+UT I-15 27 MT I-15 USA/CAN #UT17? to canada
+NV I-15 42 UT I-15 16 #las vegas to UT9
 #MT
 MT I-15BLGre I-15_S I-15_N #i-15 business route through great falls 100% completed 2021
 MT US87BypGre US87_N GiaSprRd
@@ -129,9 +130,11 @@ UT UT12 US89 UT63
 UT UT63 UT12 BryCanNP
 UT BryCynSceDr UT63 End
 #moab
-UT US6 US89_S I-70(182)
+UT US6 I-15(257B) I-70(182)
 UT US191 I-70(182) AZ US191 US160_E
 AZ US160 US191_N US89
+UT MainParkRd US191 DevGarCam
+UT DelArchRd MainParkRd CacValRd
 #OK
 OK OK9 US62_E US77
 OK US77 MainSt_Nor MagRd
@@ -325,8 +328,8 @@ MEX-NAY MEX76Ixt IxtCon_S MEX76
 MEX-NAY MEX76 Var MEX12
 MEX-NAY MEX12 MEX76 MEX74
 MEX-NAY MEX74 MEX12 SanBlas
-MEX-NAY AutTepSB MEX12 MEX15D
-MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at AutTepSB (76D)
+MEX-NAY MEX76D MEX12 MEX15D
+MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at MEX76D
 MEX-SIN MEX15D NAY/SIN MEX15DMaz
 MEX-SIN MEX15Maz AveRafBue AveEjeMex_S #first breakpoint should be at avenida del delfin
 MEX-NAY MEX200Mit Say MEX200
@@ -349,6 +352,19 @@ ISL TH413 TH1 TH41
 #switzerland/liechtenstein
 CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
 LIE GTS Ege LettStr #from balzers to vaduz post
+#new utah 2025
+UT I-80 4 120
+UT UT154 TerDr I-80
+UT UT145 I-15 US89
+UT US89 UT73 UT145 #really some exit of the shopping center
+UT UT279 US191 End
+UT IslSkySceDr UT313 End #canyonlands
+UT UT313 IslSkyRd LitCanRd
+UT I-70BLGre I-70_W BroSt
+UT I-70 157 56
+UT UT9 I-15 ZionCan
+UT ZionCynDr UT9 End #zion
+NV I-11 76 75A
 
 #CA
 #thunder bay

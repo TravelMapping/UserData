@@ -1,12 +1,12 @@
-# Date: 2025-09-21
+# Date: 2025-10-11
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
-DEU-BW RS7Ulm UlmHbf BW/BY
-DEU-BY RS7Ulm BW/BY Mem
+DEU-BW RS7Ulm UlmHbf BW/BY                                      #2022
+DEU-BY RS7Ulm BW/BY Mem                                         #2022
 DEU-BY RE75 BW/BY Obe                                           #2022, Ulm - Memmingen - Oberstorf
 DEU-BY RE72 MunHbf Mem                                          #2022
 DEU-BY RE70 Imm LinReu                                          #2022
@@ -957,6 +957,27 @@ ENG TWMYel StJam SouShi   #2019, Newcastle Yellow Line:      St James - South Sh
 
 ESP-AR T1 AveAca MagoOz               #2025
 
+ESP-MD C1 AerT4 Cha                   #2025
+ESP-MD C3 Cha Sol                     #2025
+ESP-MD C5 MosSoto Ato                 #2025
+ESP-MD C7 Pit MirPacoLuc              #2025
+ESP-MD C7 Ato Val                     #2025
+ESP-MD M1 PinCha Valc                 #2025
+ESP-MD M2 CuaCam Ros                  #2025
+ESP-MD M3 Mon ElCas                   #2025
+ESP-MD M4 PinCha AveAme               #2025
+ESP-MD M4 Goya Arg                    #2025
+ESP-MD M5 CasaCam AlaOsu              #2025
+ESP-MD M6 Arg_1 Mon                   #2025
+ESP-MD M6 Leg Arg_2                   #2025
+ESP-MD M7 Pit AveAme                  #2025
+ESP-MD M8 FerMad AerT4                #2025
+ESP-MD M9 PacoLuc ArgRey              #2025
+ESP-MD M10 PlaCas PueSur              #2025
+ESP-MD M11 For PlaEli                 #2025
+ESP-MD M12 PueSur_1 PueSur_2          #2025
+ESP-MD MR PriPio Ope                  #2025
+
 FRA-ARA MA Per VauVelSoie             #2024
 FRA-ARA MB ChaChaHer GenLavHop        #2024
 FRA-ARA MC HotVilLouPra Cui           #2024
@@ -981,6 +1002,8 @@ FRA-GES TramBRei Neu ChaTGV           #2025
 FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019
 FRA-IDF M14 SaiLaz Oly                #2019
+
+FRA-NAQ C VilPyr Qui                  #2025
 
 FRA-OCC A BasCam BalGra               #2024
 FRA-OCC B Bor JeanJau                 #2024
@@ -1072,6 +1095,39 @@ POL 7War Cen PRAleKraSka              #2022, via Plac Zawiszy
 POL 24War Cen Goc                     #2022, via Most Poniatowskiego, Kinowa
 POL 28War MetBem AleRey               #2022, actually traveled with 26 from Mlociny to Bemowo via Aspekt, Radiowa
 POL 33War MetMlo RonONZ               #2022, via Aspekt, Sady Zoliborskiego, Stawki
+
+#Lisboa
+PRT LnAma Odi Rato                    #2025
+PRT LnAzu Reb SanApo                  #2025
+PRT LnVrd Tel CaisSod                 #2025
+PRT LnVrm Aer SaoSeb                  #2025
+PRT 15ELis CaisSod Alg                #2025
+PRT 18ELis Cal CemAju                 #2025
+PRT 24ELis PraLuisCar Cam             #2025
+PRT 25ELis PraFig CorSan              #2025
+PRT 15ELis CorSan San                 #2025, traveled as 25E
+PRT 25ELis San CamOur                 #2025
+PRT 28ELis MarMon CamOur              #2025
+PRT LnAzaAlc AlcTer Ori               #2025
+PRT LnAzaApo LisSanApo Aza            #2025
+PRT LnCas CaisSod Cas                 #2025
+PRT LnSinMir LisRos Reb               #2025
+
+#Porto
+PRT A SenMat CarMic                   #2025
+PRT B PovVar CarMic                   #2025
+PRT C ISMAI SenHora                   #2025
+PRT D HosSaoJoao VilaEste             #2025
+PRT E Aer FonCuco                     #2025
+PRT E CarMic Tri                      #2025
+PRT F Tri Fan                         #2025
+PRT 1Por PasAle Inf                   #2025
+PRT 18Por MusCarEle +DIV_22S          #2025
+PRT 22Por +DIV_18S Cle                #2025, actually traveled as 18
+PRT LnAve PorSaoBen Ave               #2025
+PRT LnBra PorCam Bra                  #2025
+PRT LnGui PorCam Gui                  #2025
+PRT LnLei LecaBal PorCam              #2025
 
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
