@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 10-14-25.
+#last updated 10-18-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -177,6 +177,7 @@ NC I-40 US117_S 81 #up to black mountain (BRR 9-25)
 NC I-40 53 75 #BRR 9-25
 NC I-42 1 7 #roadtrip 8-13-25
 NC I-74 VA/NC 17 #tenessee trip
+NC I-74Hig 33(73) 16B(73) #wingate trip 10-25
 NC I-77 NC/VA 101 #tenessee trip
 NC I-77 51 50 #BRR 9-25
 NC I-85 NC/VA SC/NC
@@ -186,8 +187,9 @@ NC I-440 1 12
 NC I-485 30 32
 NC I-540 24 26 #roadtrip 8-13-25
 NC I-885 5 13 #completed 9-25
-NC US1 99 US401_N #update 8-8-25
+NC US1 NC2 US401_N #update 10-25 wingate trip
 NC US15 NC/VA I-85(202)
+NC US15 NC73 71(1) #wingate trip 10-25
 NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
 NC US19E CRSchRd NC197_S #BRR 9-25. east to jacks creek rd
 NC US29 I-485(32) MalCreRd
@@ -197,7 +199,9 @@ NC US64 464 293(40)
 NC US64 BilCrkRd NC9 #BRR 9-25
 NC US64BusWen NC231 I-540 #roadtrip 8-13-25
 NC US70 LomSt NC50_N #as far as the mall
+NC US74 306 MainSt #wingate trip 10-25
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
+NC US74BusRoc US74_W 1 #wingate trip 10-25
 NC US158 I-40 HanMallBlvd #JDL
 NC US158 US15 I-85(206) #multiple trips
 NC US221 OldUS421_W US321_N #BRR 9-25
@@ -206,6 +210,7 @@ NC US221BusJef NC88_W NC194_N #BRR 9-25
 NC US401 BreRd I-40 #as far south as the partee shack, but no waypoint nearby
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
+NC NC2 US1 US15/501 #wingate trip 10-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
@@ -214,6 +219,7 @@ NC NC50 US70_W LynnRd #technically to SR 1822
 NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_S #crapel hill
+NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
 NC NC86 I-40 US15/501 #various trips
@@ -228,6 +234,7 @@ NC NC194 NC181 OldPubRd #BRR 9-25
 NC NC197 NC226_S RelRd #BRR 9-25
 NC NC197 BolCreRd_N US19E_S #BRR 9-25
 NC NC197 BolCreRd_S PaiForRd #BRR 9-25
+NC NC211 US15/501_N NC73_W #wingate trip 10-25
 NC NC226 US19E_S NC197_S #BRR 9-25
 NC NC226AltBak NC226_S NC226_N #BRR 9-25. I don't completely know the deal with how this was taken but it certainly was to the end
 NC NC231 NC96 US64Bus #roadtrip 8-13-25

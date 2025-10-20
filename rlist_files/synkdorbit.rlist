@@ -29,6 +29,7 @@ FL GateLink TerA Air2
 FL GateLinkTAW TerA Air1
 FL GateLinkTBE TerB Air4
 FL GateLinkTBW TerB Air3
+FL TerLink TerA/B TerC
 
 FL ResMon TraTicCen_1 TraTicCen_2
 FL ExpMon TraTicCen_1 TraTicCen_2
@@ -91,6 +92,7 @@ DC RedLn MD/DC DC/MD
 DC BluLn VA/DC DC/MD
 DC OraLn VA/DC DC/MD
 DC GreLn MD/DC DC/MD
+DC YelLn VA/DC MtVerSq
 
 VA YelLn Hun VA/DC
 VA BluLn PenCity VA/DC
@@ -109,9 +111,15 @@ OR YelLn PSUSouCol ExpoCen
 CA BARTRed BalPark Mac
 CA MuniF 17thCas DonCheeSte
 
-
-
 ##Seattle
+WA 1 Wes AngLake
+WA SeaCenMon SeaCen WesCen
+
+#Boston
+MA GreLnE MusFineArts SciPk
+MA BluLn Won Bow
+MA RedLnBra And ChaMGH
+
 
 #Chicago
 IL BroLn Chi Loop
@@ -147,3 +155,24 @@ BC MilLn VCCCla LafLakeDou
 ### MEXICO
 
 
+### UNITED KINGDOM
+
+#London
+ENG DisLn Ric Wes
+ENG VicLn Eus Vic
+ENG JubLn GrePark LonBri
+ENG BakLn OxfCir EleCas
+ENG NorLn Sto LonBri
+
+ENG LonPar LonStPanInt GBR/FRA
+
+ENG HT5Tra GatA1A23 GatC52C66
+
+### FRANCE
+
+#Paris
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+
+FRA-IDF M1 LaDefGraArc Bas
+FRA-IDF M4 GareNord Cite

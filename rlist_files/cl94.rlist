@@ -68,11 +68,11 @@ MD OraLn DC/MD NewCar
 MD RedLn ShaGro MD/DC
 MD RedLnGle DC/MD Gle
 MD SilLn DC/MD LarTownCen
-MD YelLn DC/MD Gre
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
 MN HubTram Ter1 HubBui
+MN MSPTram ConAB ConDE
 
 NJ AE PA/NJ NJ/NY
 
