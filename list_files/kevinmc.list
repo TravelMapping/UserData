@@ -3448,6 +3448,9 @@ NC NC225 US25(5) LitRivRd
 NC US176 UpwRd US25
 NC US74BusShe US74_W US74_E
 
+# 2025-10-19
+NC I-485 67 4
+
 ################
 # NORTH DAKOTA #
 ################
