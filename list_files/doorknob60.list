@@ -26,7 +26,7 @@ CA I-10 19A 21          # I-5 I-710
 TX I-10 505 561         # Kerrville Wurzbach Rd
 
 # I-11
-NV I-11 65 76           # Russel Rd I-15
+NV I-11 AZ/NV 83        # Cheyenne Ave AZ/NV
 
 # I-15
 MT I-15 63 USA/CAN      # MT41 USA/CAN
@@ -157,7 +157,7 @@ NY I-86 36 46           # I-390 NY414
 
 # I-90
 WA I-90 WA519 WA/ID     # Clinched
-ID I-90 WA/ID 12        # WA/ID US95
+ID I-90 WA/ID 13        # WA/ID 4th St
 MT I-90 309 437         # US191 E Laurel
 MT I-90 446A 456        # King Ave I-94
 OH I-90 OH2_W 145       # I-80 -> OH2
@@ -217,8 +217,8 @@ CA I-205 I-580 I-5
 WA I-205 OR/WA I-5
 OR I-205 I-5 OR/WA
 
-# I-215 (NV)
-NV I-215 10 12          # I-15 NV171
+# I-215 (NV) - Clinched
+NV I-215 1 12
 
 # I-215 (UT)
 UT I-215 2 I-15         # I-80 East I-15
@@ -529,12 +529,14 @@ FL US92 FL687/694 FL618_W
 
 # US93
 ID US93 NV/ID ID25
-NV US93 I-11(65) NV/ID
+NV US93 AZ/NV NV/ID     # Clinched
+AZ US93 2 AZ/NV
 
 # US95
 ID US95 OR/ID USA/CAN   # Clinched
 OR US95 NV/OR OR/ID     # Clinched
 NV US95 I-80(83) NV/OR
+NV US95 14(11) 83(11)
 
 # US97
 WA US97 I-82(37) US2_W
@@ -1053,8 +1055,12 @@ MT I-15BLDil I-15_S I-15_N  # Clinched
 # NV28
 NV NV28 NV431 US50
 
+# NV172 - Clinched
+NV NV172 I-11 End
+
 # Clark County 215
-NV CR215 12 17              # I-15 Durango Dr
+NV CR215 12 25              # I-15 Sahara Ave
+NV CR215 26 28              # NV-159 NV-613
 
 # NV225 - Clinched
 NV NV225 I-80BL NV/ID
@@ -1071,8 +1077,17 @@ NV NV445 I-80 NV659
 # NV573
 NV NV573 *FreRd I-15
 
+# NV592
+NV NV592Spr NV596 I-15
+
 # NV593
 NV NV593 MarPkwy I-11
+
+# NV595
+NV NV595 NV592 I-11
+
+# NV613 - Clinched
+NV NV613 CR215 I-11
 
 # NV653
 NV NV653 NV667 I-580
@@ -1085,6 +1100,7 @@ NV NV795 NV289 US95
 
 # Business Loops
 NV I-80BLElk NV225 I-80_E
+NV US93BusBou US93_S US93_N # Clinched
 
 
 ## New Jersey ##
@@ -1129,7 +1145,7 @@ NY NiaScePkwyNia I-190 JohnDalyBlvd
 NC NC60 US64/74 NC/GA
 
 
-## North Dakote ##
+## North Dakota ##
 
 # ND22
 ND ND22 I-94 ND22Byp
