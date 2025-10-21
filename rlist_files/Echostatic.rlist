@@ -73,6 +73,9 @@ MN GreenLine TargetFieldPlatform2 UnionDepot
 
 #Streetcars
 
+#Kenosha Streetcar
+WI KenStr 11thAve54thSt_S 11thAve54thSt_N
+
 #McKinney Avenue Transit Authority
 TX MLnTro Upt_W Upt_E
 
@@ -99,4 +102,5 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+
 
