@@ -1,5 +1,5 @@
 CT I-91 1 29
-RI I-95 36A NY I-95 22 #Listed in CT section
+RI I-95 36A NY I-95 7 #Listed in CT section
 DC I-695 I-395 2A
 MA I-84 I-90 NY I-84 68
 MA I-95 66 NH I-95 4
@@ -27,7 +27,7 @@ NJ I-676 5B 1
 DE I-295 I-95 PA I-295 I-95/276 #Listed in the NJ section
 NY I-84 36A 52
 NY I-86FutMon BushHilRd NY I-86FutMon I-87
-NY I-87 15(NYST) 26
+NY I-87 5(NYST) 26
 NY I-87 I-278 7(MDE)
 NY I-88 I-81 I-90
 NY I-90 42(NYST) 45(NYST)
@@ -42,6 +42,7 @@ NY I-490 I-90(45) 14
 NY I-495 17 2ndAve
 NY I-678 JFKAir 19
 NY I-684Pur I-287 NY I-684 10
+NY I-695 I-295 I-95
 NY I-781 1 4
 NY I-890 I-90(25) 5
 OH I-75 195B 204
@@ -502,7 +503,7 @@ NY NY878 CroBayBlvd FarBlvd
 NY NY878Far AtlBeaBri RocTpk
 NY KorWarPkwy NY440(1) DruRd
 NY MosPkwy HenHudPkwy GraCon
-NY BeltPkwy 3 7
+NY BeltPkwy I-278 25
 NY BroRivPkwy 2(S) TacStaPkwy
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
@@ -656,5 +657,6 @@ DEU-BY B17 A96 St2016
 DEU-BY B23 St2059 B23Obe
 DEU-BY St2059 B17_N B23
 DEU-BY St2060 Lin B23
+
 
 
