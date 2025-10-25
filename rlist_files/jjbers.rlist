@@ -41,4 +41,18 @@ Other
 CA BARTYel Roc CivCen
 ON 1 VauMetCen Uni
 ON 501 SpaAve YonSt
+AUS-VIC GeeLn SouCro SouGee
+AUS-VIC GWLn FliSt GlenWav
+AUS-VIC WerLn FliSt Wer
+AUS-VIC LavLn FliSt Lav
+AUS-VIC 70Mel DocPk AubRd
+AUS-VIC 16Mel MelUni LunaPk
+AUS-VIC BelLn LOOP +DIV_Lp
+AUS-VIC PakLn +DIV_Tar Cla
+AUS-VIC 96Mel MelMus ClaStJct
+AUS-VIC 11Mel ColSt SouCroSta
+HKG AirExp HongKong Air
+HKG IslLn SheWan NorPoi
+HKG ERailLnLok Adm LokMaChau
+HKG TMLn TaiWai HUH
 
