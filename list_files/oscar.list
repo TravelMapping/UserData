@@ -8792,7 +8792,9 @@ MS MS740 US51 ShaBotRd
 MS MS923 LA/MS MS584
 CA GenHwy CA198 KinCanRd
 CA BigOakRd CA120 ElPorRd
-CA ElPorRd CA140 SouDr_E
+CA ElPorRd CA140 SouDr
+CA SouDr ElPorRd NorDr
+CA NorDr SouDr ElPorRd
 CA KinCanRd CA180_W CA180_E
 CA KinCanRdCed CA180 KanTr
 CA WawRd CA41 SouDr
