@@ -47,6 +47,13 @@ AUS-VIC C473 C478 TheBlvd
 #Bahrain
 BHR M80 SAAKAve BHR/SAU
 
+#Brazil
+#Sao Paulo
+BRA-SP SP330 MargTie Eng 
+BRA-SP MargTie SP280 BR116_N
+BRA-SP BR116 MargPin_S 219
+
+
 #Canada
 #British Columbia
 BC BC1 27 53
@@ -1585,6 +1592,7 @@ WY GraLoopRd OldFaiRd WEntRd
 #US Virgin Islands
 VI VI30 SubBaseRd VI313
 VI VI313 VI30 VI38
+
 
 
 
