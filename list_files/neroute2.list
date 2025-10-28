@@ -322,7 +322,8 @@ CA US40HisRos CA193_S I-80(118)
 CA US40HisAub I-80(119A) HighSt_S
 CA US40HisAub CA49_N RusRd
 CA LinHwyAub TayRd_S CA49_S
-CA WawRd GlaPtRd SouDr #and all of GlaPtRd
+CA WawRd GlaPtRd SouDr
+CA GlaPtRd WawRd GlaPt
 CA CA45 CA20_W CA162_E
 CA CA49 CA140_E CA88_W
 CA CA49 CA104 CA16
@@ -377,7 +378,10 @@ CA CA120 CA49_N YosNP
 CA BigOakRd CA120 ElPorRd
 CA CA124 BueVisRd CA16
 CA CA140 CA49_N YosNP
-CA ElPorRd CA140 SouDr_E #also both crossovers and Southside to the end
+CA ElPorRd CA140 SouDr
+CA SouDr ElPorRd NorDr
+#also both crossovers and Southside to the end
+CA NorDr SouDr ElPorRd
 CA CA149 CA70 CA99
 CA CA152 US101(356) I-5
 CA CA156 US101(345) CA152
