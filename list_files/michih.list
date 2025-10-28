@@ -1,4 +1,4 @@
-# Date: 2025-10-14
+# Date: 2025-10-27
 # ----------------
 
 
@@ -1195,8 +1195,8 @@ CHE A8Lun 32 32a
 CHE A8Sar 33 39
 CHE A9 1 29
 CHE A9Tur H9 31
-CHE A9Rar H9_Ste H9_Rar
-CHE A9Bri Pom 36
+CHE A9Bri 31a 32
+CHE A9Bri 33 36
 CHE A12 1 13
 CHE A13 1 40
 CHE A13Loc H406 H13_Asc
