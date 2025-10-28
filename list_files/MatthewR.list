@@ -1,5 +1,5 @@
 #M’s Travels
-#Last Updated: 24 February 2025
+#Last Updated: 31 March 2025
 
 #[United States]
 
@@ -89,7 +89,11 @@ DC I-395 VA/DC 4
 FL I-4 80 132
 
 #Florida I-95
+FL I-95 BriAve 24
 FL I-95 260 363
+
+#Florida I-595
+FL I-595 10 12
 
 #Georgia I-75
 GA I-75 242 251
@@ -314,6 +318,10 @@ GA US23 I-985(8) I-985(4)
 
 #Georgia US-29
 GA US29 GA6 WasAve
+
+#Florida US-1
+FL US1 I-595 FLHIntAir
+FL US1 I-95(2A) BahRd
 
 #Illinois US-51
 IL US51 I-57(1) KY/IL
@@ -1243,9 +1251,10 @@ MEX-QRO MEX57D QRO100 MEX57/111
 
 #Baja California MEX1:
 MEX-BC MEX1 LibSur MEX1D_Can
-MEX-BC MEX1 MEX1D_S Buf
+MEX-BC MEX1 ValGua EjiEre
 
 #Baja California MEX2:
+MEX-BC MEX2 Pre ValPal
 MEX-BC MEX2 MEX2D_TecW COrtRub
 
 #Baja California MEX3:
@@ -1348,7 +1357,10 @@ MEX-DF Eje10Sur AniPer DelMad
 MEX-BC AveInt ViaRap CarrEsc
 
 #Carretera Escenica
-MEX-BC CarrEsc LibSur MEX1D
+MEX-BC CarrEsc MEX1D CSeg
+
+#Via Rapida
+MEX-BC ViaRap BlvdAbeRod BlvdIns_E
 
 
 #[Morocco]

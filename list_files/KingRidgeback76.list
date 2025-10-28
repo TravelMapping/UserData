@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: March 9, 2025
+# Last Updated: October 26, 2025
 
 
 # ---------------------------------- #
@@ -30,7 +30,7 @@ CO I-70 E470 CO/KS
 # ----- Deleware ----- #
 # District of Columbia ----- #
 
-DC I-395 1 7
+DC I-395 VA/DC 7
 DC I-695 I-395 2A
 
 # ----- Florida ----- #
@@ -56,24 +56,26 @@ GA I-575 I-75 3
 
 IL I-24 I-57 IL/KY
 IL I-39 I-55 IL/WI
-IL I-55 60 98
-IL I-55 154 269
-IL I-55 277B US41
+IL I-55 MO/IL 98
+IL I-55 154 US41
 IL I-57 MO/IL 358
-IL I-64 MO/IL 3
 IL I-70 3 IL/IN
-IL I-72 96 182
-IL I-74 93 IL/IN
-IL I-80 79 112
-IL I-80 126 151
-IL I-88 78 136
+IL I-72 MO/IL 182
+IL I-74 IA/IL IL/IN
+IL I-80 79 IL/IN
+IL I-88 78 DowDr
+IL I-90 52 68
 IL I-94 53B 63
+IL I-155 31 I-74
 IL I-255 9 25
 IL I-355 0 I-290
 IL I-270 MO/IL 15
+IL I-474 0 15
+IL I-280 IA/IL I-80
 IL I-190 1C ChiOHAir
 IL I-290 5 15
-IL I-294 7 40A
+IL I-290 1B I-90
+IL I-294 5 40A
 
 # ----- Indiana ----- #
 
@@ -81,14 +83,21 @@ IN I-65 KY/IN 106
 IN I-65 129 140
 IN I-70 IL/IN IN/OH
 IN I-74 IL/IN IN/OH
+IN I-80 IL/IN IN/OH
 IN I-465 0 49
 IN I-865 I-65 I-465
 
 # ----- Iowa ----- #
+
+IA I-74 I-80 IA/IL
+IA I-80 284 298
+IA I-280 I-80 IA/IL
+
 # ----- Kansas ----- #
 
 KS I-70 CO/KS 421B
 KS I-435 MO/KS 1B
+KS I-470 1A 1B
 KS I-670 I-70 KS/MO
 
 # ----- Kentucky ----- #
@@ -116,18 +125,24 @@ MS I-55 289 MS/TN
 
 # ----- Missouri ----- #
 
+MO I-35 12 54
 MO I-44 291A 290C
 MO I-55 AR/MO 66
 MO I-57 1 MO/IL
 MO I-64 25 MO/IL
 MO I-70 2L 232
-MO I-435 63A MO/KS
+MO I-72 US61 MO/IL
+MO I-435 52B MO/KS
 MO I-270 12 MO/IL
 MO I-670 KS/MO 2N
 
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV I-11 76 81
+NV I-15 38 42
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -149,16 +164,28 @@ NC I-95 SC/NC 49
 OH I-70 IN/OH OH/WV
 OH I-74 IN/OH I-75
 OH I-75 1C 4
+OH I-76 218 OH/PA
+OH I-77 156 163A
+OH I-80 IN/OH 151
+OH I-80 187 218
+OH I-270 I-71 8
+OH I-270 43 55
 OH I-470 I-70 OH/WV
+OH I-271 27B 34
+OH I-480 I-80_W I-80_E
+OH I-480War I-480 I-271
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
 # ----- Pennsylvania ----- #
 
 PA I-70 WV/PA 161(76)
+PA I-76 OH/PA 10
 PA I-76 75 201
-PA I-79 WV/PA 34
-PA I-81 1 77
+PA I-79 WV/PA 59
+PA I-81 MD/PA 77
+PA I-376 26 70A
+PA I-279 I-376 1D
 
 # ----- Rhode Island ----- #
 # ----- South Carolina ----- #
@@ -170,8 +197,8 @@ SC I-95 160 SC/NC
 # ----- South Dakota ----- #
 # ----- Tennessee ----- #
 
-TN I-24Cha GA/TN 185
 TN I-24 TN/GA KY/TN
+TN I-24Cha GA/TN 185
 TN I-40 393 TN/NC
 TN I-55 MS/TN TN/AR
 TN I-65 88 90B
@@ -185,6 +212,9 @@ TN I-640 I-40_E 3
 # ----- Utah ----- #
 # ----- Vermont ----- #
 # ----- Virginia ----- #
+
+VA I-395 10C VA/DC
+
 # ----- Washington ----- #
 # ----- West Virginia ----- #
 
@@ -210,6 +240,7 @@ WI I-94 305 316
 
 
 AZ I-40BLFla I-40_W I-40_E
+CO I-70BLLim I-70(359) US24_W
 GA I-75BLVal I-75_N FoxAve
 IL I-55BLBlo I-55_S I-55_N
 IL I-55BLSpr I-55_S I-55_N
@@ -233,7 +264,7 @@ AZ US180 I-40(201) GraCynNP
 # ----- California ----- #
 # ----- Colorado ----- #
 
-CO US24 I-25(139) I-70(363)
+CO US24 I-25(139)  US40/287_W
 CO US40 I-25 LinSt
 CO US50 CO115_E CO115_W
 CO US287 CO14_E HarRd
@@ -258,8 +289,8 @@ IL US20 I-294(17) IL50
 IL US20 I-355 IL31
 IL US24 IL117 US150/8
 IL US24 I-39 IL251
-IL US24 I-57 IL1_N
-IL US24 IL47 1stSt
+IL US24 IL1_N 1stSt
+IL US30 I-39 IL47/56
 IL US30 I-57 US45
 IL US30 IL59_S I-55
 IL US34 I-294 IL83
@@ -268,30 +299,30 @@ IL US36 IL105/121 I-72(133)
 IL US40 IL162 DouSt
 IL US40 IL33_E IL32/33
 IL US41 I-55 BelAve
-IL US45 I-57(184) I-74
-IL US45 US24_W US24_E
-IL US45 I-57(308) IL83_S
+IL US45 I-57(184) IL83_S
 IL US45 I-70 US40_W
 IL US45 I-24(37) IL145
 IL US51 IL48 I-74(135)
-IL US136 I-57 MainSt_Gif
-IL US136 IL47 1stSt_Fis
-IL US150 IL130_S IL47_S
-IL US150 IL9_W CheSt
+IL US136 US51 MainSt_Gif
+IL US150 IL9_W IL/IN
 IL US150 WasRd CouLineRd
-IL US150 IL1/16 IL/IN
 IL US150 US24/8 IL8_E
+IL US150 IL91 IL6
 
 # ----- Indiana ----- #
 
 IN US31 123 156
-IN US41 I-74 IN47
+IN US36 IN63 US41
+IN US41 I-74 US36
 IN US41 US50/150 IN63_N
 IN US150 IL/IN US41_N
 IN US231 I-74 IN28
 IN US231 IN162_S IN62/68
 
 # ----- Iowa ----- #
+
+IA US61 123 IA/WI
+
 # ----- Kansas ----- #
 
 KS US40 KS10_W I-70(366)
@@ -305,6 +336,9 @@ KS US40 KS10_W I-70(366)
 # ----- Minnesota ----- #
 # ----- Mississippi ----- #
 # ----- Missouri ----- #
+
+MO US36 US61 I-35
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
@@ -321,9 +355,10 @@ NC US701 NC410_N SC/NC
 # ----- North Dakota ----- #
 # ----- Ohio ----- #
 
-OH US27 PeteRoseWay_W US42/127
+OH US27 PeteRoseWay_W US22_S
 OH US40 CR214 CR28A
 OH US40 BricRd OH256
+OH US422 PubSqu I-77
 
 # ----- Oklahoma ----- #
 # ----- Oregon ----- #
@@ -331,11 +366,12 @@ OH US40 BricRd OH256
 
 PA US11 PA174 PA316
 PA US11 PA114 HarTayBri_W
+PA US19 I-376(69B) PA65_S
 
 # ----- Rhode island ----- #
 # ----- South Carolina ----- #
 
-SC US17 MainSt CelCir
+SC US17 SC9_S CelCir
 SC US76 SC576 US301_S
 SC US501 US501BusMar_S SC22
 SC US701 SC9 SC/NC
@@ -356,9 +392,10 @@ UT US163 AZ/UT CR425
 # ----- West Virginia ----- #
 # ----- Wisconsin ----- #
 
-WI US45 120(41) 273(10)
 WI US10 187 276
 WI US12 211 CRA_SauN
+WI US45 120(41) 273(10)
+WI US151 IA/WI 21
 
 # ----- Wyoming ----- #
 
@@ -373,6 +410,7 @@ IL US51BusCli US51_S US51_N
 KY US41AltNas KY1453 KY117
 SC US17BusMyr 38thAve US17_N
 SC US501BusMar SC41Alt_S SC576
+WI US151BusPla US151_S CheSt
 
 # ----------------------------- #
 # ----- US STATE HIGHWAYS ----- #
@@ -395,6 +433,7 @@ AZ AZ202 5 6A
 
 CO CO14 US287_S I-25
 CO CO115 US50_E I-25
+CO CO392 US287 I-25
 
 # ----- Connecticut ----- #
 # ----- Deleware ----- #
@@ -435,35 +474,41 @@ GA GA83 I-20 US278_E
 IL IL1 PolRd IL33
 IL IL1 IL17_W IL114
 IL IL4 WabAve IL97
-IL IL9 I-57 IL115
+IL IL6 2 5
+IL IL9 US45_S IL115
 IL IL9 CR6 CR29
-IL IL10 US150 IL47
-IL IL10 I-72 US51Bus
+IL IL10 US150 US51Bus
 IL IL13 I-57 CR26
 IL IL16 IL128_N IL49_S
 IL IL17 IL113 IL114
 IL IL17 CR20 CR28
 IL IL25 US20 IL56
+IL IL25 I-90 IL68
 IL IL29 I-74(93) TruAve
-IL IL29 CleLakeAve GraAve_W
 IL IL31 I-88 US20
+IL IL31 IL72 BigTimRd
 IL IL32 I-57 OutBelt
-IL IL47 IL10 US24
-IL IL47 US30/56 I-80
+IL IL38 I-39 IL59
+IL IL38 YorkRd IL83
+IL IL47 CR56 IL10
 IL IL48 WatSt I-72(144)
 IL IL48 IL127_S US51
 IL IL49 IL16_W I-70
 IL IL50 I-55 I-294
+IL IL50 I-57 US45/52
 IL IL54 US150 I-74
 IL IL54 US51 US51Bus
-IL IL56 SumAve HigAve
-IL IL56 US30/47 IL25
-IL IL59 I-88 US30_E
-IL IL64 CamHilDr IL25
-IL IL83 US45_S I-88
+IL IL56 US30/47 IL38
+IL IL58 IL59 IL72
+IL IL59 IL38 US30_E
+IL IL59 IL58 US20
+IL IL64 I-39 I-355
+IL IL72 I-290 IL58
+IL IL72 IL31 IL68
+IL IL83 US45_S IL38
 IL IL97 IL4 I-55BL
-IL IL105 WatSt_S IL121_N
 IL IL105 I-72 WasSt
+IL IL105 MainSt_S MainSt_N
 IL IL108 IL4_N I-55
 IL IL113 I-55 IL17
 IL IL115 IL9 E1300N
@@ -513,9 +558,17 @@ MS MS302 US51 I-55
 # ----- Missouri ----- #
 
 MO MO340 I-270 FeeFeeRd
+MO MO370 1A 12
+
 # ----- Montana ----- #
 # ----- Nebraska ----- #
 # ----- Nevada ----- #
+
+NV NV159 CR215 RedRockRd 
+NV NV592Spr NV596 I-15
+NV NV596 SahAve ChaBlvd
+NV NV613 CR215 I-11
+
 # ----- New Hampshire ----- #
 # ----- New Jersey ----- #
 # ----- New Mexico ----- #
@@ -528,6 +581,7 @@ NC NC410 US701_N US74
 # ----- North Dakota ----- #
 # ----- Ohio ----- #
 
+OH OH87 I-271 LanRd
 OH OH256 I-70 US40
 
 # ----- Oklahoma ----- #
@@ -535,11 +589,13 @@ OH OH256 I-70 US40
 # ----- Pennsylvania ----- #
 
 PA PA39 I-81 HerParkDr_E
+PA PA65 I-279 US19_S
 PA PA114 I-81 US11
 PA PA174 US11/533 I-81
 PA PA316 I-81 US11
 PA PA581 1 6
 PA PA696 PA997_N US11/533_N
+PA PA837 I-376 US19/51
 PA PA997 I-76 PA696_N
 
 # ----- Rhode island ----- #
@@ -564,6 +620,7 @@ TN TN155 3 16A
 # ----- West Virginia ----- #
 # ----- Wisconsin ----- #
 
+WI WI81 CRB_Pla WI80_N
 WI WI13 WI34 CRZ_Woo
 WI WI13 US10(187) WI97
 WI WI23 CRB_Ada US12/13
@@ -582,15 +639,19 @@ CO E470 1A 47
 CO PenaBlvd Ter 6
 FL FLTpk 99 307
 IN KeyPkwy US31 I-465
+IN SamJonExpy I-70 I-74/465
 MD BalWasPkwy US50/201 MD175
 NC AllAmeFwy MorRd OwenDr
+NV CR215 26 28
+NV HRAirCon WayNewBlvd I-215
 NY GraCenPkwy 4A 6
 PA HarTayBri US11/15_S FroSt
+VA GWMemPkwyCry ReaNatAir_N I-395
 
 # ----------------------- #
 # ----- US HISTORIC ----- #
 # ----------------------- #
 
-IL US66HisCar MacBlvd_S WabAve_W
-IL US66HisChi IL23_N I-55(92)
+IL US66HisCar US66His_N WabAve_W
+IL US66His IL23_N I-55(92)
 IL US66HisWil US66His_W US66His_E

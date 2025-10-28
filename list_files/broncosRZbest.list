@@ -1,0 +1,95 @@
+#It worked! 
+
+
+#Starting with I-70
+CO I-70 167 261
+CO I-70 269A 274
+CO I-70 276B CO/KS
+
+CO I-225 I-25 12
+#Love that I actually get to say I've clinched one
+
+CO I-25 181 268
+
+CO I-270 0 I-70
+#Got another! 
+
+
+#Let's get into US Highways too
+
+CO US6 McCCreRd AvonRd
+CO US6 I-70(244) I-25(209A)
+
+CO US24 CO91 CO9_N
+
+CO US36 CO119_W I-270(0)
+
+CO US40 3rdSt CO9
+CO US40 CO125 I-70BLDen_W
+
+#As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow.  
+#For example, in the mountain corridor, I have listed both I-70 and US 40. 
+#Even though I-70 leads the concurrency, I drove from WP to Wooly Mammoth trying to follow US 40. 
+#If US 40 is rerouted in the future, I think I still want credit for it. I drove it as it existed at the time! 
+
+CO US285 CO291 I-25 
+#I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexaggerate. 
+
+CO US287 HarRd ProRd
+
+
+
+#KENTUCKY 
+
+KY I-75 115 KY/OH
+KY US60 BlueGraPkwy US25/421
+KY BluPkwy 1 72
+KY WesKYPkwy 107 137
+KY US31W KY90 KY70
+KY I-65 53 131
+KY I-65 135 137
+KY I-264 11 12
+KY I-71 1 KY/OH
+
+#I also drove all 6 miles of KY 609
+
+
+#GEORGIA
+
+GA US78 TechPkwy PeaSt
+GA US78 US278_E GA410(2)
+GA US23 GA154 US29/78_S
+GA US19 14thSt GA13
+GA US19 I-285(27) GA400(9)
+GA I-285 20 39
+GA I-75 259 GA/TN
+GA I-85 72A 95
+
+
+#OHIO
+#only entered Cleveland-area highways so far (but tried to enter all my travels on them throughout the state)
+
+OH I-71 KY/OH I-90
+OH I-77 147 156
+OH I-80 71 151
+OH I-80 152 173
+OH I-90 71 142
+OH I-90 OH2_W OH/PA
+
+OH I-480 I-80_W 21(271)
+OH I-490 1A OH10_E
+OH I-270 I-71 55
+OH I-271 18 26A
+
+OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
+OH US20 CroRd PubSqu
+OH US42 KY/OH TarCemRd
+OH US42 BagRd YorkRd
+OH US42 I-90 PubSqu
+OH US422 PubSqu I-77
+
+
+
+
+
+

@@ -15,7 +15,7 @@ MA OraLn GreSt NorSta
 MA ProLn BosSou RI/MA
 MA RedLn ParkSt Bro
 NC BluLn 25thSt Woo
-NJ AirTrn TerA P4
+NJ AirTrn TerA NewLibAir
 NY AE NY/CT PennSta
 NY 1 TimSq42St 34StPennSta
 NY 4 42StGraCen FulSt
@@ -35,7 +35,7 @@ DEU-BW S4Man Bru HeiBergPfaGruWie
 DEU-BW S6Man NeuEdiFriFeld BW/HE
 DEU-BW S7 HeiBergPfaGruWie NeuEdiFriFeld
 DEU-BW S32Kar KarRuheHbf BruStegWie
-DEU-BW S71Kar Ach KarRuheHbf
+DEU-BW RB44 Ach KarRuheHbf
 DEU-HB 1Bre Bri Hbf
 DEU-HB 2Bre StJurStr DomsHei
 DEU-HB 3Bre DomsHei EurHaf

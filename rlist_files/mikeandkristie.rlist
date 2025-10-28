@@ -1,3 +1,8 @@
+# [United States]
+
+# Alaska
+
+AK CoaCla Sew Anc
 
 # Colorado
 CO ALn UniSta DenAir
@@ -18,7 +23,7 @@ DC YelLn VA/DC MtVerSq
 FL SBankLn Riv KinAve
 
 # Georgia
-GA PlaTrn DomTer CGat
+GA PlaTrn BGat CGat
 
 # Maryland
 MD BluLn DC/MD DowLar
@@ -40,13 +45,23 @@ NY PortJerLn MidTownWal NJ/NY
 
 # North Carolina
 NC BluLn Woo Sto
+# Great Smoky Mountain Railroad
 
 # Pennsylvania
 PA AirLn PHLTerA Phi30thSt
 PA MarFraLn 30th 8th
+PA Mon Low Upp
 
 # South Dakota
 SD 1880Tra HillCity Key
+
+# Tennessee
+TN LooMouIR PoiPark StElmo
+# Tennesse Valley Railroad
+
+# Texas
+
+TX IAHSky TerA TerDE
 
 # Utah
 UT CZ *Tho UT/CO
@@ -58,6 +73,12 @@ VA Tide MacSq NewRd
 VA YelLn +DIV_Blue_S VA/DC
 
 # Washington
-WA BlueLn AGat_Fin BGat
+WA BlueLn AGat_Sta AGat_Fin
 WA GreLn DGat_Sta DGat_Fin
 WA YelLn AGat DGat
+
+
+
+# [Canada]
+
+BC CanLn YVRAir Wat

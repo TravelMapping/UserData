@@ -1,0 +1,178 @@
+### UNITED STATES
+## Miami
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+
+FL InnLp GovCen_N GovCen_S
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+
+FL SkyTrn 1 4
+FL ETrn E2 E20
+
+FL TriRail ManPark MiaAir
+FL TriRailDow MetTra MiaCen
+
+#FL BriLn BriOrlSta MiaCen
+FL BriLn BriOrlSta WestPalmBea
+FL BriLn WestPalmBea MiaCen
+
+## Tampa
+#FL TECO DowTam CenPark
+FL TPAShu MainTer AirA
+FL TPAShuAiC MainTer AirC
+FL TPAShuAiE MainTer AirE
+FL TPAShuAiF MainTer AirF
+
+## Orlando
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+FL TerLink TerA/B TerC
+
+FL ResMon TraTicCen_1 TraTicCen_2
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL EpcMon TraTicCen EPCOT
+
+## Atlanta
+GA GoldLn Air Dor
+GA BluLn HamEHol IndCrk
+GA GreLn Ban EdgCanPk
+GA RedLn Air NorSpr
+
+
+## Cleveland
+OH RedLn Air TriCCamDis
+GA RedLn Air NorSpr
+GA BluLn HamEHol IndCrk
+GA GreLn Ban EdgCanPk
+
+
+## New York
+NY PATHNWT NJ/NY WTC
+NJ PATHNWT GroSt NJ/NY
+NY S42 TimSq GraCen
+NY A 181St +SKIP_WTC
+NY C 168St +SKIP_WTC
+NY E JamCenParArc WTC
+NY 1 59StColCir 34StPennSta
+NY 2 TimSq42St +SKIP_ChrStSheSq
+
+
+
+##Jacksonville
+#FL NBankLn JacRTC RosaPar
+#FL SBankLn RosaPar KinAve
+
+
+#FL SunRail DeBary Poi
+#FL TerLink TerA/B TerC
+
+FL MiaM IntCen MIA
+
+IL AirTraSys Ter1 MulModFac
+FL SkyCon MainTer RenCarCen
+
+## Dallas
+TX Sky A8 A21
+
+## Atlanta
+GA AtlStr DobPla_N DobPla_S
+
+
+## New Orleans
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA StCha CanCar SCla
+LA UPTRiv UPT FreMar
+
+## Washington DC
+DC RedLn MD/DC DC/MD
+DC BluLn VA/DC DC/MD
+DC OraLn VA/DC DC/MD
+DC GreLn MD/DC DC/MD
+DC YelLn VA/DC MtVerSq
+
+VA YelLn Hun VA/DC
+VA BluLn PenCity VA/DC
+VA OraLn VieFaiGMU VA/DC
+
+MD BluLn DC/MD DowLar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Gle
+
+## Portland
+OR BlueLn WasPark 102ndAve
+OR GreLn PSUSou Gat99thAve
+OR YelLn PSUSou ExpoCen
+
+## San Francisco
+CA BARTRed BalPark Mac
+CA MuniF 17thCas DonCheeSte
+
+##Seattle
+WA 1 Wes AngLake
+WA SeaCenMon SeaCen WesCen
+
+#Boston
+MA GreLnE MusFineArts SciPk
+MA BluLn Won Bow
+MA RedLnBra And ChaMGH
+
+
+#Chicago
+IL BroLn Chi Loop
+IL OraLn Roo Loop
+IL PinkLn Mor Loop
+IL GreLn Mor Roo
+
+
+
+### CANADA
+
+#Toronto
+ON 2 Kip BloYon
+ON 1 Mus Col
+ON 504a UniAve JarSt
+
+
+#Montreal
+QC OraLn CoteVer Mon
+QC GreLn Ang HonBea
+QC YelLn BerUQAM LonUniDeShe
+QC BluLn Sno EdoMon
+
+
+#Vancouver
+BC CanLn Wat YVRAir
+BC CanLnRic Wat RicBri
+BC ExpoLn Wat KingGeo
+BC ExpoLnPro Wat ProWayUni
+BC MilLn VCCCla LafLakeDou
+
+
+### MEXICO
+
+
+### UNITED KINGDOM
+
+#London
+ENG DisLn Ric Wes
+ENG VicLn Eus Vic
+ENG JubLn GrePark LonBri
+ENG BakLn OxfCir EleCas
+ENG NorLn Sto LonBri
+
+ENG LonPar LonStPanInt GBR/FRA
+
+ENG HT5Tra GatA1A23 GatC52C66
+
+### FRANCE
+
+#Paris
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+
+FRA-IDF M1 LaDefGraArc Bas
+FRA-IDF M4 GareNord Cite
