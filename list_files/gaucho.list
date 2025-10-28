@@ -411,7 +411,10 @@ CA GenHwy CA198 KinCanRd
 CA KinCanRdCed CA180 KanTr
 CA KinCanRd CA180_W CA180_E
 CA BadRd CA178 CA190
-CA ElPorRd CA140 SouDr_E
+CA ElPorRd CA140 SouDr
+CA SouDr ElPorRd NorDr
+CA NorDr SouDr ElPorRd
+CA GlaPtRd WawRd GlaPt
 CA BigOakRd CA120 ElPorRd
 CA LasPeakHwy CA89_S CA44/89
 CA MinSumRd RedsMeaRes CA203
@@ -988,7 +991,6 @@ NV NV759 US395 HeyRd
 NV EntRd NV488 VisCen
 NV WhePeakSD EntRd WheParkCamp
 
-NV CATrl US395Bus_N I-580(5)
 NV OSTrlMoa 93(15) I-15_N
 
 #New York
