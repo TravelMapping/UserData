@@ -1,0 +1,1639 @@
+#M’s Travels
+#Last Updated: 31 March 2025
+
+#[United States]
+
+#(US Interstates)
+
+#Alabama I-20
+AL I-20 129 68
+
+#Arkansas I-55
+AR I-55 AR/MO TN/AR
+
+#Arizona I-8
+AZ I-8 CA/AZ 7
+
+#California I-5
+CA I-5 734 553
+CA I-5 525B MEX/USA
+
+#California I-8
+CA I-8 SunCliBlvd 17A
+CA I-8 170 CA/AZ
+
+#California I-10
+CA I-10 1 168
+
+#California I-15
+CA I-15 19 115
+CA I-15 179 246
+
+#California I-80
+CA I-80 1A CA/NV
+
+#California I-105
+CA I-105 1A 18
+
+#California I-110
+CA I-110 GafSt 3A
+CA I-110 4 21
+
+#California I-205
+CA I-205 I-580 I-5
+
+#California I-210
+CA I-210 1A 45
+
+#California I-238
+CA I-238 17 14
+
+#California I-280
+CA I-280 I-680/101 5thSt
+
+#California I-305
+CA I-305 1A 6
+
+#California I-380
+CA I-380 5A 7
+
+#California I-405
+CA I-405 I-5(94A) I-5(158)
+
+#California I-505
+CA I-505 1A I-5
+
+#California I-580
+CA I-580 1A I-5
+
+#California I-605
+CA I-605 27 19
+CA I-605 1A 11
+
+#California I-680
+CA I-680 30 71
+
+#California I-710
+CA I-710 1 18A
+
+#California I-805
+CA I-805 I-5(31) I-5(1A)
+
+#California I-880
+CA I-880 I-280 46B
+
+#DC I-395
+DC I-395 VA/DC 4
+
+#Florida I-4
+FL I-4 80 132
+
+#Florida I-95
+FL I-95 BriAve 24
+FL I-95 260 363
+
+#Florida I-595
+FL I-595 10 12
+
+#Georgia I-75
+GA I-75 242 251
+
+#Georgia I-85
+GA I-85 72 GA/SC
+
+#Georgia I-985
+GA I-985 I-85 8
+
+#Illinois I-24
+IL I-24 IL/KY 37
+
+#Illinois I-57
+IL I-57 MO/IL 1
+
+#Indiana I-275
+IN I-275 IN/OH KY/IN
+
+#Kentucky I-24
+KY I-24 KY/TN IL/KY
+
+#Kentucky I-69
+KY I-69 21 106
+
+#Kentucky I-75
+KY I-75 113 KY/OH
+
+#Kentucky I-275
+KY I-275 74 77
+
+#Kentucky I-471
+KY I-471 1 KY/OH
+
+#Massachusetts I-93
+MA I-93 7 24
+
+#Maryland I-495
+MD I-495 MD/VA 36
+
+#Maryland I-595
+MD I-595 24 7
+
+#Minnesota I-94
+MN I-94 167 216
+
+#Minnesota I-494
+MN I-494 1A 27
+
+#Missouri I-55
+MO I-55 95 AR/MO
+
+#Missouri I-57
+MO I-57 MO/IL 1
+
+#Missouri I-155
+MO I-155 MO/TN 1
+
+#Mississippi I-55
+MS I-55 291 96C
+
+#North Carolina I-26
+NC I-26 54 31
+
+#North Carolina I-40
+NC I-40 46 51
+
+#New Jersey I-78
+NJ I-78 NJ/NY 59
+
+#New Jersey I-95
+NJ I-95 14 13A
+
+#Nevada I-11
+NV I-11 61 AZ/NV
+
+#Nevada I-15
+NV I-15 48 34
+
+#Nevada I-80
+NV I-80 CA/NV 21
+
+#Nevada I-580
+NV I-580 68 US50/395
+
+#New York I-495
+NY I-495 23B 2ndAve
+
+#New York I-678
+NY I-678 12 JFKAir
+
+#Ohio I-71
+OH I-71 KY/OH 2
+
+#Ohio I-75
+OH I-75 1B KY/OH
+
+#Ohio I-471
+OH I-471 KY/OH 7
+
+#Oregon I-5
+OR I-5 299B 301
+
+#Oregon I-84
+OR I-84 6 I-5
+
+#Oregon I-205
+OR I-205 21B 24
+
+#South Carolina I-85
+SC I-85 GA/SC 44B
+
+#Tennessee I-24
+TN I-24 54 KY/TN
+
+#Tennesse I-40
+TN I-40 221A 204
+TN I-40 AR/TN 80
+
+#Tennessee I-65
+TN I-65 46 88
+
+#Tennessee I-155
+TN I-155 MO/TN 15
+
+#Tennessee I-440
+TN I-440 I-24 I-40
+
+#Virginia I-66
+VA I-66 67 VA/DC
+
+#Virginia I-95
+VA I-95 126 170
+
+#Virginia I-395
+VA I-395 1 VA/DC
+
+#Virginia I-495
+VA I-495 MD/VA 170(95)
+
+#Washington I-5
+WA I-5 154 182
+
+#Washington I-405
+WA I-405 I-5(182) 23
+
+#(US Business Interstates)
+
+#Arizona I-8 Business Yuma
+AZ I-8BLYum AZ195 US95
+
+#California I-5 Business Dunsmuir
+CA I-5BLDun I-5(729) I-5(732)
+
+#California I-8 Business Winterhaven
+CA I-8BLYum I-8(170) I-8(172)
+
+#California I-80 Business Sacramento
+CA I-80BLSac I-80(82) 6
+
+#Kentucky I-24 Business Paducah
+KY I-24BLPad US45 I-24_E
+
+#(Kentucky Parkways)
+
+#Bluegrass Parkway
+KY BluPkwy 1 72
+
+#Purchase Parkway
+KY PurPkwy TN/KY 21
+
+#Western Kentucky Parkway
+KY WesKYPkwy 38 US31W
+
+#(US Numbered Highways)
+
+#Alabama US-82
+AL US82 I-59(73) MS/AL
+
+#Arizona US-93 AZ/NV 2
+
+#Arizona US-95
+AZ US95 I-8BL ForRd
+
+#California US-50
+CA US50 I-80 CA/NV
+
+#California US-66 Hollywood Historic Section
+CA US66HisHol WilBlvd SanVinBlvd
+CA US66HisHol SunBlvd_W FigSt
+CA US66HisHol SprSt DalySt
+
+#California US-101:
+CA US101 WilCrkRd CA60
+
+#California US-101 Bus Arroyo Grande Section:
+CA US101BusArr CA227_N US101_S
+
+#California US-101 Bus Salinas Section:
+CA US101BusSal US101/183 US101_S
+
+#California US-101 Bus Paso Robles Section:
+CA US101BusPas CRG14 US101_S
+
+#California US-101 Historic San Diego Section:
+CA US101HisSan I-5(54C) NauSt
+CA US101HisSan SeaWorDr I-5(11A)
+
+#California US-395 South Section:
+CA US395 CA108 CA14
+CA US395 GarRd SeaStaRd
+
+#DC US-1:
+DC US1 US50_W VA/DC
+
+#DC US-50:
+DC US50 VA/DC ConAve
+DC US50 DC/MD US1Alt_N
+
+#Georgia US-23:
+GA US23 I-985(8) I-985(4)
+
+#Georgia US-29
+GA US29 GA6 WasAve
+
+#Florida US-1
+FL US1 I-595 FLHIntAir
+FL US1 I-95(2A) BahRd
+
+#Illinois US-51
+IL US51 I-57(1) KY/IL
+
+#Illinois US-60
+IL US60 US51_N IL/KY
+
+#Kentucky US-25
+KY US25 US60/421 US27/68
+
+#Kentucky US-27
+KY US27 US25/60 I-75(113)
+
+#Kentucky US-45
+KY US45 KY/IL US60/62
+
+#Kentucky US-51
+KY US51 KY/IL KY121
+
+#Kentucky US-60
+KY US60 IL/KY I-24
+KY US60 US45_N KY967_E
+KY US60 BlueGraPkwy US25/27
+
+#Kentucky US-62
+KY US62 IL/KY KY121_W
+KY US62 KY453 US45/60
+
+#Kentucky US-68
+KY US68 US62 I-24(16)
+KY US68 US25/60 I-64/75
+
+#Kentucky US-641
+KY US641 US68_W KY453
+
+#Maryland US-50
+MD US50 DC/MD MD16_W
+
+#Missouri US-60
+MO US60 I-57(1) MO/IL
+
+#Missouri US-62
+MO US62 MO/IL US61/60Bus
+
+#Nevada US-50
+NV US50 CA/NV LakDr
+
+#Tennessee US-51
+TN US51 I-155 TN/KY
+
+#Tennessee US-79
+TN US79 TN374_E I-24
+
+
+#(California State Highways)
+
+#CA-1:
+CA CA1 AirRd CA128
+CA CA1 OldStaHwy ValRd
+CA CA1 226 62B(101)
+CA CA1 112 ManBeaBlvd
+CA CA1 CreBlvd I-110
+CA CA1 CA19 DohParkRd
+
+#CA-1 Bus Cayucos:
+CA CA1BusCay CA1_N CA1(284)
+
+#CA-1 Bus Marina:
+CA CA1BusMar CA1(409) CA1(412)
+
+#CA-1 Bus Monterey:
+CA CA1BusMon CA1(401A) CA1(399B)
+
+#CA-1 Bus Seaside:
+CA CA1BusSea CA1(401B) CA1(404)
+
+#CA-2:
+CA CA2 WilBlvd SanVinBlvd
+CA CA2 US101(7) US101(4B)
+CA CA2 US101(4B) PacCreTr
+
+#CA-3:
+CA CA3 CA299_E CA299_W
+
+#CA-4:
+CA CA4 30 12B
+CA CA4 CRJ4 DisBayBlvd
+CA CA4 I-5(471) CA207
+
+#CA-9:
+CA CA9 SarAve CA1
+
+#CA-12:
+CA CA12 CA116 7A
+CA CA12 CalRd CA121_S
+CA CA12 NapaRd_E CA29_S
+CA CA12 I-80(39B) I-80(43)
+CA CA12 CA84 CA160
+CA CA12 CA88_W CA88_E
+
+#CA-13: 
+CA CA13 1A I-80/580
+
+#CA-14: 
+CA CA14 I-5 US395
+
+#CA-15:
+CA CA15 1B 3
+
+#CA-16 Sierra Foothills Section:
+CA CA16Wil CA124 CA49
+
+#CA-17:
+CA CA17 26 1A
+
+#CA-17 Bus Scotts Valley
+CA CA17BusSco ScoValDr CA17(3)
+
+#CA-18:
+CA CA18 CA210 BalLakeRd
+
+#CA-19:
+CA CA19 WhiBlvd WasBlvd
+
+#CA-20:
+CA CA20 US101(568) CA29
+CA CA20 CA99 I-80
+
+#CA-22:
+CA CA22 I-405(23) 14C
+
+#CA-23:
+CA CA23 CA1 12 
+
+#CA-24:
+CA CA24 2 15
+
+#CA-25:
+CA CA25 US101 TresPinRd
+
+#CA-27:
+CA CA27 US101 CA1
+
+#CA-29:
+CA CA29 I-80 CA175_S
+CA CA29 CA175 CA20
+
+#CA-33:
+CA CA33 CA152_W CA152_E
+CA CA33 CA198_W JayAve_E
+CA CA33 CadRd CA58_W
+CA CA33 LocValRd CA166_W
+
+#CA-35:
+CA CA35 CA17 CA1
+
+#CA-36:
+CA CA36 I-5BL_S CA89_N
+
+#CA-37:
+CA CA37 US101 21
+
+#CA-38:
+CA CA38 CA18 LakeWilDr
+CA CA38 JenLakeRd_E I-10
+
+#CA-39 Westminster Section:
+CA CA39 KatAve CA22
+
+#CA-39 Azusa Section:
+CA CA39Azu FooBlvd End
+
+#CA-41:
+CA CA41 CA1 US101
+CA CA41 CA46_W CA46_E
+CA CA41 I-5 QuaAve
+
+#CA-43:
+CA CA43 HouAve LosAngAve
+
+#CA-44:
+CA CA44 CA89_S CA89_N
+
+#CA-46:
+CA CA46 US101(228) I-5
+
+#CA-47:
+CA CA47 1A I-710
+
+#CA-49:
+CA CA49 CA20_E CA20_W
+CA CA49 I-80(119B) LinWay
+CA CA49 SheRd OldCA49_N
+CA CA49 OldCA49_S CenSt
+CA CA49 CA108Bus_E CA120_E
+CA CA49 CA140_W CA140_E
+
+#CA-55:
+CA CA55 1 11A
+
+#CA-56:
+CA CA56 1A 9
+
+#CA-57:
+CA CA57 16 21
+
+#CA-58:
+CA CA58 US101 CA33_S
+CA CA58 I-5(253) StoHwy_E
+CA CA58 CA99(24) I-15
+
+#CA-59:
+CA CA59 CA99(187B) CA99(188)
+
+#CA-60:
+CA CA60 I-10(16B) I-10(93)
+
+#CA-61: Oakland Airport Section
+CA CA61 HarBayPkwy I-880(34)
+
+#CA-61 Alameda Section
+CA CA61 8thSt WebSt
+CA CA61Pos AtlAve 7thSt
+
+#CA-62:
+CA CA62 I-10 UtahTr
+
+#CA-65:
+CA CA65 CA137 43
+
+#CA-66:
+CA CA66 CA210 MonVisAve
+
+#CA-68:
+CA CA68 SinAve US101
+
+#CA-70:
+CA CA70 CA99 RocCamp
+
+#CA70 Bus Oroville:
+CA CA70BusOro CA70(46) CA162_E
+
+#CA-71:
+CA CA71 CA91 12B
+
+#CA-73:
+CA CA73 18B 11
+
+#CA-75:
+CA CA75 TarRd 13B
+
+#CA-77:
+CA CA77 I-880 CA185
+
+#CA-79:
+CA CA79 I-15(61) I-15(58)
+
+#CA-82:
+CA CA82 I-280 WolRd
+CA CA82 CruzBlvd I-880
+
+#CA-83:
+CA CA83 I-10 HoltBlvd
+
+#CA-84 Fremont Section:
+CA CA84 CA1 I-880(19)
+CA CA84 PasPadPkwy PleSunRd
+CA CA84 ConAve I-580
+
+#CA-84 Rio Vista Section:
+CA CA84Rio RyerIslFry CA12
+
+#CA-84 Ryer Island Section:
+CA CA84Rye RyerIslFry WestSacLim
+
+#CA-85:
+CA CA85 1A 24B
+
+#CA-86:
+CA CA86 I-10 CA111_N
+
+#CA-87:
+CA CA87 1A 9
+
+#CA-88:
+CA CA88 US50Alt/89 CA99
+
+#CA-89 Tahoe Section:
+CA CA89 US50Alt/88 AldCrkRd
+CA CA89 CA36_W LasVolNP
+
+#CA-89 Mt. Shasta Section:
+CA CA89MtS CA44_W McArtSP
+
+#CA-90 Marina Del Rey Section:
+CA CA90 CA1 2
+
+#CA-90 Yorba Linda Section:
+CA CA90Yor KraBlvd CA39
+
+#CA-91:
+CA CA91 6 24
+CA CA91 45 51
+
+#CA-92:
+CA CA92 CA1 End
+
+#CA-94:
+CA CA94 3 CA188
+
+#CA-99:
+CA CA99 CA20 CA113
+CA CA99 319 6(50)
+CA CA99 254A 255
+CA CA99 242 I-5(221)
+
+#CA-107:
+CA CA107 CA1 RedBeaBlvd
+
+#CA-108:
+CA CA108 CA120_W US395
+
+#CA-110:
+CA CA110 21 GleSt
+
+#CA-111 Calexico Section:
+CA CA111 CA86_N MainSt
+
+#CA-111 Palm Springs Section:
+CA CA111pal PalmSprLim CA111Bus_N
+
+#CA-112:
+CA CA112 CA61_N I-880
+
+#CA-113:
+CA CA113 I-80(66A) I-80(70)
+CA CA113 I-5(538) CA99
+
+#CA-116:
+CA CA116 CA1 CA12
+CA CA116 LakRd_S ArnDr_N
+
+#CA-120 Central Section:
+CA CA120 1 YosNP
+
+#CA-120 East Sierra Section:
+CA CA120lee YosNP US395_S
+
+#CA-121:
+CA CA121 NapaRd TraSt
+CA CA121 CA12_W CA37
+
+#CA-123:
+CA CA123 SanPabAve_S UniAve
+
+#CA-124:
+CA CA124 CA88 CA16
+
+#CA-126:
+CA CA126 1A 40
+
+#CA-127:
+CA CA127 CA178_W I-15
+
+#CA-128:
+CA CA128 CA1 GeyAve_S
+CA CA128 CA29_S CA29_N
+CA CA128 RaiAve I-505
+
+#CA-129:
+CA CA129 CA1 US101
+
+#CA-130:
+CA CA130 MtHam QuiRd
+
+#CA-131:
+CA CA131 ParDr US101
+
+#CA-132:
+CA CA132 CRJ3 GatRd
+
+#CA-134:
+CA CA134 1A 9A
+
+#CA-135:
+CA CA135 UniValPkwy CA1_S
+
+#CA-137:
+CA CA137 CA99 CA65
+
+#CA-138:
+CA CA138 245thSt GorPostRd
+
+#CA-139: 
+CA CA139 AdaRd CA299_W
+
+#CA-140:
+CA CA140 CA99(186B) YosNP
+
+#CA-145:
+CA CA145 CA99 CA41
+
+#CA-146 Soledad Section:
+CA CA146 PinNP US101
+
+#CA-150:
+CA CA150 US101/1 SanAnaRd_N
+
+#CA-151:
+CA CA151 I-5 DamVisCen
+
+#CA-152:
+CA CA152 CA1 CasRd
+CA CA152 CA99 WatRd
+
+#CA-154:
+CA CA154 US101(101B) US101(146)
+
+#CA-155:
+CA CA155 CA178 WofBlvd_N
+
+#CA-156:
+CA CA156 CA1 CHG1
+CA CA156 CA156Bus_S CA152
+
+#CA-156 Business Hollister:
+CA CA156BusHol CA25 CA156_S
+
+#CA-160 Rio Vista Section:
+CA CA160Rio CA4 CRJ11
+
+#CA-162 Central Valley Section:
+CA CA162Oro LoaCreRd CA70
+
+#CA-166:
+CA CA166 US101(171) CA33_S
+CA CA166 I-5 CA99
+
+#CA-168 Fresno/West Sierra Section:
+CA CA168 AubRd_W RockCrkRd
+
+#CA-168 Bishop Section:
+CA CA168Bis US395_N US395_S
+
+#CA-169 Klamath Section:
+CA CA169 US101 KlaMillRd
+
+#CA-170:
+CA CA170 6A 11B
+
+#CA-175:
+CA CA175 CA29/29Bus CA29_S
+
+#CA-178 Lake Isabella Section:
+CA CA178 CA58/99 SieWay
+CA CA178 TroRd PinRd
+
+#CA-178 Shoshone Section:
+CA CA178Sho DeaValNP CA127_S
+
+#CA-180 Fresno Section:
+CA CA180 BelAve KinCanNP
+
+#CA-183:
+CA CA183 CA1 US101Bus_S
+
+#CA-185:
+CA CA185 HesBlvd CA77
+
+#CA-188:
+CA CA188 CA94 MEX/USA
+
+#CA-190 Central Valley Section:
+CA CA190 CA65 QuaAspCamp
+
+#CA-190 Death Valley Section:
+CA CA190Dea SalValRd BadRd
+
+#CA-192:
+CA CA192 HotSprRd CA154
+
+#CA-198:
+CA CA198 US101 PolkSt
+CA CA198 SeqNP CA216_E
+
+#CA-200:
+CA CA200 CA299 US101
+
+#CA-203:
+CA CA203 Mad/Mon US395
+
+#CA-210:
+CA CA210 45 81
+
+#CA-213:
+CA CA213 I-405 25thSt
+
+#CA-216:
+CA CA216 CA198_E CHJ23/J34
+
+#CA-217:
+CA CA217 3 MesRd
+
+#CA-218:
+CA CA218 CA68 CA1
+
+#CA-221:
+CA CA221 CA121 CA12/29
+
+#CA-233:
+CA CA233 CA99 FroSt
+
+#CA-227:
+CA CA227 US101(201) HigSt
+CA CA227 BroSt_N PriCanRd
+CA CA227 HuaRd TraWay
+
+#CA-236:
+CA CA236 CA9_S CA9_N
+
+#CA-237:
+CA CA237 CA82 9B
+
+#CA-242:
+CA CA242 I-680 3B
+
+#CA-246:
+CA CA246 AveFla CA154
+
+#CA-254:
+CA CA254 US101(674) US101(645)
+
+#CA-261:
+CA CA261 1 6B
+
+#CA-269:
+CA CA269 I-5 JayAve
+
+#CA-270:
+CA CA270 US395 End
+
+#CA-273:
+CA CA273 CypAve I-5(681B)
+
+#CA-299:
+CA CA299 2 AdaRd
+
+#CA-330:
+CA CA330 CA210 CA18
+
+# (Delaware State Highways)
+
+#DE-14:
+DE DE14 MD/DE CatBraRd
+
+# (Georgia State Highways)
+
+#GA-6:
+GA GA6 I-85 US29
+
+#GA-347:
+GA GA347 LanIslPkwy_W I-985
+
+#(Kentucky State Highways)
+
+#KY-95:
+KY KY95 KY2595 KY282
+
+#KY-121:
+KY KY121 US51/60 KY286
+
+#KY-282:
+KY KY282 US62/641 KY95
+
+#KY-286:
+KY KY286 KY121 US62
+
+#KY-348:
+KY KY348 I-69 US641
+
+#KY-453:
+KY KY453 KenLakeDr RivDr
+
+#KY-1523:
+KY KY1523 I-24/69 KY282
+
+#KY-2595:
+KY KY2595 KY95 US641
+
+# (Maryland State Highways)
+
+#MD-2:
+MD MD2 MD648_E US50(27)
+
+#MD-16:
+MD MD16 MD341 SmiRd
+
+#MD-18:
+MD MD18 MD656 US50
+
+#MD-33:
+MD MD33 MD322 WasSt
+
+#MD-162:
+MD MD162 MD170 MD176
+
+#MD-170:
+MD MD170 I-195 MD162
+
+#MD-176:
+MD MD176 MD162 MD648
+
+#MD-313:
+MD MD313 MD404/619 MD317
+
+#MD-317:
+MD MD317 MD313 MD/DE
+
+#MD-322:
+MD MD322 US50_N US50_S
+
+#MD-328:
+MD MD328 US50 MD404
+
+#MD-331:
+MD MD331 US50_N BlaDogAly
+
+#MD-335:
+MD MD335 SmiRd WilDr
+
+#MD-341:
+MD MD341 MD16 MD343
+
+#MD-343:
+MD MD343 US50 End
+
+#MD-404:
+MD MD404 MD328 MD313/619
+
+#MD-456:
+MD MD456 US50 MD656
+
+#MD565 Easton Section:
+MD MD565Eas MD322 LeeTer
+
+#MD-648:
+MD MD648 MD176 MD2_E
+
+#MD656:
+MD MD656 MD456 MD18
+
+#MD-662:
+MD MD662 US50_C US50_D
+
+# (Missouri State Highways)
+
+#MO-77:
+MO MO77 US60/62_E MOsD_Sco
+
+#(Nevada State Highways)
+
+#NV-374:
+NV NV374 DeaValNP US95
+
+# (Virginia State Highways)
+
+#VA-267:
+VA VA267 I-66 DulAirRd
+
+
+#(California Federal Roads)
+
+#Badwater Rd, Death Valley NP
+CA BadRd CA190 CA178
+
+#Big Oak Flat Rd, Yosemite NP
+CA BigOakRd CA120 ElPorRd
+
+#Daylight Pass Rd, Death Valley NP
+CA DayPassRd NorHwy CA/NV
+
+#El Portal Rd, Yosemite NP
+CA ElPorRd CA140 ElCapDr_N
+
+#Generals Highway, Kings Canyon-Sequoia NP
+CA GenHwy KinCanRd CA198
+
+#Lassen Peak Highway, Lassen Volcanic NP
+CA LasPeakHwy CA89_S CA44/89
+
+#Minaret Summit Rd, Inyo NF
+CA MinSumRd CA203 RedsMeaRes
+
+#Park Blvd, Joshua Tree NP
+CA ParkBlvd CA62_W CA62_E
+
+#Pinto Basin Road, Joshua Tree NP
+CA PinBasRd I-10 ParkBlvd
+
+#Scotty’s Castle Rd, Death Valley NP
+CA ScoCasRd CA190 UbeCraRd
+
+#Tioga Pass Rd, Yosemite NP
+CA TioPassRd BigOakRd CA120
+
+
+#(Nevada Federal Roads)
+
+#Daylight Pass Rd, Death Valley NP
+NV DayPassRd CA/NV NV374
+
+
+#(Kentucky Federal Roads)
+
+#Woodlands Trace Highway, Land Between the Lakes NRA
+Ky WooTra FSR135 KY453
+
+
+#[Argentina]
+
+#(Argentina Rutas Nacionales)
+
+#Argentina RN8
+ARG RN8 RN9 RP31_E
+
+#Argentina RN9
+ARG RN9 AvGenPaz 7(Cir)
+ARG RN9 AvCir_N BvEAgu
+
+#Argentina RN12
+ARG RN12 RN101 ARG/BRA
+
+#Argentina RN19
+ARG RN19 RN1V09 AvCir
+
+#Argentina RN20 Córdoba Section
+ARG RN20Cor RN36 RN38/RPC45
+
+#Argentina RN36
+ARG RN36 RN20 AltaGra
+
+#Argentina RN38
+ARG RN38 RN20/RPC45 PesGar
+
+#Argentina RN101
+ARG RN101 RN12 AerIntIgu
+
+#Argetnina RNA008
+ARG RNA008 RN9_N RN9_S
+
+#(Argentina Select Freeways)
+
+#Argentina AU1
+ARG AU1 AutBALP AU6
+
+#Argentina Autopista Dellepiane
+ARG AutDel AU1/6 AvGenPaz
+
+#Argentina Autopista Illia
+ARG AutIll Arr AvLib_N
+
+#Argentina Autopista Juárez Celman
+ARG AutJuaCel AvCir RN9
+
+#Argentina Autoroute Riccheri
+ARG AutRic 14 17
+
+#Argentina Avenida de Circunvalación
+ARG AvCirCor 2 8
+
+#Argentina Avenida General Paz
+ARG AvGenPaz AvLib RN9
+
+
+#[Belize]
+
+#(Belize National Routes)
+
+#Belize AR1- George Price/Western Highway
+BLZ AR1 HumHwy CoaHwy
+
+#Belize AR2- Philip Goldson Highway
+BLZ AR2 IntAirRd CenAmeBlvd
+
+#Belize AR3- Hummingbird Highway
+BLZ AR3 GeoPriHwy SouHwy
+
+#Belize AR4- Southern Highway
+BLZ AR4 HumHwy SanFelRd
+
+
+#[Botswana]
+
+#(Botswana A Roads)
+
+#Botswana A33 KasAir Kaz
+
+
+#[Brazil]
+
+#(Brazil Sistema Rodoviário Federal)
+
+#Brazil BR469
+BRA-PR BR469 Arg End
+
+
+#[Costa Rica]
+
+#(Costa Rica Rutas Nacionales Primarias)
+
+#Costa Rica RP1
+CRI RP1 CRI/NIC Ave8
+
+#Costa Rica RP21
+CRi RP21 RT918 CalElFos
+
+
+#[Ecuador]
+
+#(Ecuador Red Vial Estatal)
+
+#Ecuador E28C
+ECU E28C AvDieAlm E28D
+
+#Ecuador E28D
+ECU E28D E28C E35
+
+#Ecuador E35
+ECU E35 E28D CasPeg
+
+
+#[France]
+
+#(France Autoroutes)
+
+#Ile de France A1
+FRA-IDF A1 AerChaGau 1
+
+#Nouvelle-Aquitaine A63
+FRA-NAQ A63 ESP/FRA 5.1
+
+
+#[Germany]
+
+#(Germany Autobahnen)
+
+#Bavaria A92
+DEU-BY A92 6 4a
+
+#(Europe Select Name Freeways- Germany)
+
+#Zubringer Flughafen Munchen Central+South
+DEU-BY ZubFluMun A92 TerWestMit_S
+
+
+#[Greece]
+
+#(Greece Autokinetodromos)
+
+#Greece A6
+GRC A6 20 16
+
+#Greece A62
+GRC A62 ExhCen K2
+
+#Greece A64
+GRC A64 Y7 Y1
+
+#(Greece Ethniki Odos)
+
+#Greece EO8
+GRC EO8 EO54/91 LenOdos
+
+#Greece EO54
+GRC EO54 PanKan EO8/91
+
+#Greece EO56A
+GRC EO56A EO91 EO56
+
+#Greece EO91
+GRC EO91 EO8/54 PriPet
+
+
+#[Italy]
+
+#(Italy Ausostrada)
+
+#Italy A8
+ITA A8 A9 SS33
+
+#Italy A9
+ITA A9 ITA/CHE A8
+
+#Italy A91
+ITA A91 SS296 ViaMag_E
+
+
+#[Mexico]
+
+#(Mexico Federal Expressways)
+
+#Baja California 1D:
+MEX-BC MEX1D AvePasPla MEX1_S
+
+#Baja California Sur 1D:
+MEX-BCS MEX1D AerLosCab MEX1_S
+
+#Distrito Federal 95D:
+MEX-DF MEX95D MOR/DF HColMil
+
+#Guanajuato 45D:
+MEX-GTO MEX45D QRO/GTO GTO51
+
+#Morelos 95D:
+MEX-MOR MEX95D HColMil MOR/DF
+
+#Morelos 115D:
+MEX-MOR MEX115D MEX95D Tep
+
+#Queretaro 45D:
+MEX-QRO MEX45D QRO/GTO MEX45
+
+#Queretaro 57D:
+MEX-QRO MEX57D QRO100 MEX57/111
+
+#(Mexico Carreteras Federales)
+
+#Baja California MEX1:
+MEX-BC MEX1 LibSur MEX1D_Can
+MEX-BC MEX1 ValGua EjiEre
+
+#Baja California MEX2:
+MEX-BC MEX2 Pre ValPal
+MEX-BC MEX2 MEX2D_TecW COrtRub
+
+#Baja California MEX3:
+MEX-BC MEX3 AveMigHid BlvdLazCar_S
+
+#Baja California Sur MEX1:
+MEX-BCS MEX1 MEX1D/19 CaboPul
+MEX-BCS MEX1 MEX19_N BlvdFunSud_N
+
+#Baja California Sur MEX1 Pichilingue Spur:
+MEX-BCS MEX1Pic Paz_N Pic
+
+#Baja California Sur MEX19:
+MEX-BCS MEX19 MEX1D/1 MEX1_N
+
+#Distrito Federal MEX95:
+MEX-DF MEX95 MOR/DF ViadTla
+
+#Guanajuato MEX51:
+MEX-GTO MEX51 SanMigAll_S AveJim_S
+
+#Guanajuato MEX111:
+MEX-GTO MEX111 QRO/GTO MEX51
+
+#Guerrero MX200:
+MEX-GRO MEX200 AerIntZih_W Ixta
+
+#Guerrero MX200 Zihuatanejo Airport West Spur:
+MEX-GRO MEX200AZW AerIntZih MEX200
+
+#Jalisco MX23:
+MEX-JAL MEX23Cha AerIntGua AreVFG
+
+#Jalisco MX200:
+MEX-JAL MEX200 NAY/JAL BlvdMedAsc_S
+
+#Nayarit MEX200:
+MEX-NAY MEX200 NAY/JAL SanFra
+
+#Nayarit MEX200 Punta de Mita Spur:
+MEX-NAY MEX200Mit MEX200 PunMita
+
+#Oaxaca MEX131:
+MEX-OAX MEX131 MEX200 Ref
+
+#Oaxaca MEX175:
+MEX-OAX MEX175 AerIntOax MEX190_W
+
+#Oaxaca MEX179:
+MEX-OAX MEX179 SanLorAlb MEX190D/190
+
+#Oaxaca MEX190:
+MEX-OAX MEX190 Oax_W MEX190D/179
+
+#Oaxaca MEX200:
+MEX-OAX MEX200 AerPueEsc Zip
+
+#Queretaro MEX45:
+MEX-QRO MEX45 MEX45D MEX57
+
+#Queretaro MEX57:
+MEX-QRO MEX57 MEX45_N QRO100
+
+#Queretaro MEX111:
+MEX-QRO MEX111 MEX57D/57 QRO/GTO
+
+#Quintana Roo MEX307:
+MEX-QROO MEX307 AveCoba Coba
+
+#(Queretaro Carreteras Estatales)
+
+#Queretaro 100
+MEX-QRO QRO100 QRO200 MEX57D/57
+
+#Queretaro 200
+MEX-QRO QRO200 QRO100 AerIntQue
+
+#(Mexico Select Freeways)
+
+#Viaducto Tlalpan
+MEX-DF ViadTla AveIns CalzTla
+
+#(Mexico City Ejes)
+
+#Eje Central
+MEX-DF EjeCen AveHid Eje3Sur
+
+#Eje 1 Parte
+MEX-DF Eje1Pte Eje3Sur CtoBic_N
+
+#Eje 3 Sur
+MEX-DF Eje3Sur CalzAntAbad AveParLira
+
+#Eje 10 Sur
+MEX-DF Eje10Sur AniPer DelMad
+
+#(Mexico Select Freeways)
+
+#Avenida Internacional
+MEX-BC AveInt ViaRap CarrEsc
+
+#Carretera Escenica
+MEX-BC CarrEsc MEX1D CSeg
+
+#Via Rapida
+MEX-BC ViaRap BlvdAbeRod BlvdIns_E
+
+
+#[Morocco]
+
+#(Morocco Autoroutes)
+
+#Morocco A1:
+MAR A1 A3 P3010
+
+#Morocco A3:
+MAR A3 A1 N8
+
+#Morocco A301:
+MAR A301 A3 N9
+
+#(Morocco Routes Nationales)
+
+#Morocco N7:
+MAR N7 N8/N9 R209
+
+#Morocco N8:
+MAR N8 P2201 N25_S
+
+#Morocco N9:
+MAR N9 N8_E N7/N8
+
+#Morocco N25:
+MAR N25 N8_E Azi
+
+#[New Zealand]
+
+#(New Zealand Motorways)
+
+#Christchurch Southern Motorway
+NZL ChrSMot SH1 ShaRd
+
+#(New Zealand State Highways)
+
+#New Zealand SH1
+NZL SH1Wai MemAve SH79
+
+#New Zealand SH6
+NZL SH6 SH97 SH8B
+NZL SH6 SH84 SH7
+
+#New Zealand SH6A
+NZL SH6A SH6 GorRd
+
+#New Zealand SH8
+NZL SH8 SH79 SH8B
+
+#New Zealand SH8B
+NZL SH8B SH6 SH8
+
+#New Zealand SH75
+NZL SH75 LinRd RueJol
+
+#New Zealand SH76
+NZL SH76 SH1 ShaRd
+
+#New Zealand SH79
+NZL SH79 SH1 SH8
+
+#New Zealand SH84
+NZL SH84 SH6 BroSt
+
+#New Zealand SH94
+NZL SH94 SH97 MilSouFry
+
+#New Zealand SH97
+NZL SH97 SH94 SH6
+
+#(New Zealand Tourist Routes)
+
+#Alpine Scenic Route
+NZL AlpSR ArdSt SH6
+
+#Southern Scenic Route
+NZL SouSR GorRd SH94/95
+
+
+#[Nicaragua]
+
+#(Nicaragua Red Vial Nacional)
+
+#Nicaragua NIC2
+NIC NIC2 NIC/CRI NIC62
+NIC NIC2 NN211 NIC4A_S
+
+#Nicaragua NIC4A
+NIC NIC4A NIC2_S VolMas
+
+#Nicaragua NIC11B
+NIC NIC11B Mas NIC4A_S
+
+#Nicaragua NIC62
+NIC NIC62 NIC2 NIC34B/NN211
+
+
+#[Peru]
+
+#(Peru Red Vial Nacional)
+
+#Peru PE3S
+PER PE3S CaPal_N PE28F
+
+#Peru PE20B
+PER PE20B AvTomVal PE20K
+
+#Peru PE28B
+PER PE28B Oll PE28G
+
+#Peru PE28F
+PER PE28F PE3S PE28B
+
+#Peru PE28G
+PER PE28G PE28B PE3S
+
+#(Peru Select Freeways)
+
+#Circuito de Playas
+PER CirPla AvRafEsc SubBal
+
+
+#[Portugal]
+
+#(Portugal Autoestrada)
+
+#Portugal A1
+PRT A1 A28 16
+
+#Portugal A4
+PRT A4 1 3
+
+#Portugal A25
+PRT A25 7 AveJoaoReal
+
+#Portugal A28
+PRT A28 A1 4
+
+#Via Regional Interior
+PRT VRI AveAer 3
+
+#(UNECE Intl E Roads- Portugal)
+
+#Portugal E80
+PRT E80 16(A1) 7(A25)
+
+
+
+#[South Africa]
+
+#(South Africa National Highways)
+
+#South Africa N1:
+ZAF N1 M62 10(W)
+
+#South Africa N2:
+ZAF N2 M62 18(W)
+
+#South Africa N3:
+ZAF N3 113(N) 121(N)
+
+#South Africa N12:
+ZAF N12 420 113(N3)
+
+#[South Africa Main Provincial Roads)
+
+#South Africa R24
+ZAF R24 TamIntAir N3/N12
+
+
+#[Spain]
+
+#(Spain Autopista / Autovia)
+
+#Spain A2 Lleida
+ESP-CT A2 559 610
+
+#Spain A8
+ESP-PV A8 115 121
+
+#Spain AP1 Bergara
+ESP-PV AP1 ESP/FRA 19(AP8) 
+ESP-PV AP1 27(AP8) 145
+
+#Spain AP8 
+ESP-PV AP8 115 FRA/ESP
+
+#Spain B10
+ESP-CT B10 19(W) 24
+
+#Spain B22
+ESP-CT B22Ter AirT1 C31
+
+#(Spain Carretera Nacionales)
+
+#Spain N637
+ESP-PV N637 8 16
+
+#(Basque Country Oinarrizko Sarea)
+
+#ESP_PV GI20 AP1/8_W AP1/8_E
+
+#(Catalonia Xarxa Basica)
+
+#ESP-CT C31Pra N340 189
+
+
+#[Switzerland]
+
+#(Switzerland Autobahnen / Autoroutes)
+
+#Switzerland A2
+CHE A2 CHE/ITA 49A
+
+
+#[Turkey]
+
+#(Turkey Otoyol)
+
+#Turkey O3
+TUR O3 18 O1
+
+#Turkey O7
+TUR O7 7 10
+
+#Turkey O7 Cobancesme
+TUR O7Cob O7 O3
+
+
+#[United Kingdom]
+
+#(Great Britain Motorways)
+
+#England M4
+ENG M4 4 12
+ENG M4 15 18
+
+#England M4 Heathrow Spur
+ENG M4Hea 4 4A
+
+#England M40
+ENG M40 1 8A
+
+#(Great Britain A Roads)
+
+#England A4
+ENG A4 A367 M4(12)
+ENG A4 M4(4a) FleSt_E
+
+#England A40 Oxford
+ENG A40 A501 M40(1)
+ENG A40 M40(8a) A420
+
+#England A46 Stroud
+ENG A46Str M4 A4
+
+#England A419
+ENG A419 A420 M4
+
+#England A420
+ENG A420 A40 A419
+
+
+#[Zambia]
+
+#(Zambia Main Roads)
+
+#Southern M10:
+ZMB M10 T1 Kaz
+
+#(Zambia Trunk Roads)
+
+#Southern T1:
+ZMB T1 ZMB/ZWE AirRd

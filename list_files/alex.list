@@ -1,0 +1,1412 @@
+###############
+# INTERSTATES #
+###############
+
+#######
+# I-4 #
+#######
+FL I-4 67 75B
+
+#######
+# I-5 #
+#######
+CA I-5 28B 446
+CA I-5 458B 461
+CA I-5 553 CA/OR
+OR I-5 CA/OR OR/WA
+WA I-5 OR/WA WA/Can
+
+CA I-105 1A 18
+
+CA I-205 I-580 I-5
+OR I-205 I-5 OR/WA
+WA I-205 OR/WA I-5
+
+CA I-305 1A 6
+
+CA I-405 I-5(94A) I-5(158)
+OR I-405 I-5(299B) I-5(302B)
+WA I-405 I-5(154) I-5(182)
+
+CA I-505 1A I-5
+
+CA I-605 9B 14A
+CA I-605 19 25
+
+WA I-705 I-5 StaWay
+
+########
+# I-10 #
+########
+CA I-10 1 139
+
+CA I-110 20B 21
+
+CA I-210 1A 45
+
+########
+# I-15 #
+########
+CA I-15 59 246
+NV I-15 42 NV/AZ
+AZ I-15 NV/AZ AZ/UT
+UT I-15 AZ/UT 16
+UT I-15 257B 362
+ID I-15 72 119
+
+CA I-215 34 54B
+UT I-215 I-80 6
+
+########
+# I-17 #
+########
+AZ I-17 337 340
+
+########
+# I-25 #
+########
+WY I-25 189 210
+
+########
+# I-35 #
+########
+MN I-35 127 237
+MN I-35 253A 256A
+
+MN I-35E 103B 127
+
+MN I-35W 9A 13
+MN I-35W 26B I-35(127)
+
+########
+# I-40 #
+########
+CA I-40 I-15 CA/AZ
+AZ I-40 CA/AZ 195
+
+########
+# I-41 #
+########
+WI I-41 318(94) 137
+
+########
+# I-43 #
+########
+WI I-43 316(94) 73A
+
+########
+# I-55 #
+########
+IL I-55 293A US41
+
+########
+# I-57 #
+########
+IL I-57 237 350
+
+########
+# I-65 #
+########
+IN I-65 178 262
+
+########
+# I-66 #
+########
+DC I-66 VA/DC EStExpy
+
+VA I-66 43 53
+VA I-66 67 VA/DC
+
+########
+# I-70 #
+########
+CO I-70 UT/CO 260
+
+########
+# I-74 #
+########
+IL I-74 179 IL/IN
+IN I-74 IL/IN 15
+
+########
+# I-76 #
+########
+OH I-76 218 OH/PA
+PA I-76 OH/PA 339
+PA I-76 344 345
+PA I-76 346C 347
+
+PA I-276 I-476 I-95
+
+PA I-476 I-95 1
+PA I-476 13 20
+
+PA I-676 I-76 I-95
+
+########
+# I-78 #
+########
+
+NJ I-278 1 NJ/NY
+NY I-278 NJ/NY 20
+
+########
+# I-80 #
+########
+CA I-80 1A CA/NV
+NV I-80 CA/NV NV/UT
+OH I-80 IN/OH 173
+OH I-80 180 218
+UT I-80 NV/UT UT/WY
+WY I-80 UT/WY 211
+
+NV I-80BLElk NV225 I-80_E
+
+NV I-80BLFer US50Alt_E I-80_E
+
+CA I-280 I-680/101 5thSt
+
+CA I-380 5A 7
+
+CA I-580 1A I-5
+
+CA I-680 I-280/101 71
+
+CA I-780 1A 7
+
+CA I-880 I-280 46B
+
+CA I-980 I-880 2B
+
+WY I-80BLGre I-80_W WY374
+
+WY I-80BLRaw I-80_W WY789_N
+
+########
+# I-83 #
+########
+MD I-83 7 12
+
+########
+# I-84 #
+########
+CT I-84 57 CT/MA
+MA I-84 CT/MA I-90
+OR I-84 I-5 87
+ID I-84 182 222
+UT I-84 340(15) 362(15)
+
+########
+# I-86 #
+########
+ID I-86 1 63
+
+########
+# I-87 #
+########
+NY I-87 7(MDE) 4(NYST)
+NY I-87 16 30
+
+########
+# I-89 #
+########
+NH I-89 I-93 6
+VT I-89 8 13
+VT I-189 I-89 US7
+
+########
+# I-90 #
+########
+ID I-90 WA/ID ID/MT
+IL I-90 WI/IL IL/IN
+IN I-90 IL/IN 17
+IN I-90 23 IN/OH
+MA I-90 9 26
+MN I-90 SD/MN MN/WI
+MT I-90 ID/MT 33
+SD I-90 61 110
+SD I-90 131 SD/MN
+WA I-90 WA519 WA/ID
+WI I-90 MN/WI WI/IL
+
+IL I-190 I-90 ChiOHAir
+
+########
+# I-91 #
+########
+CT I-91 17A 29
+
+########
+# I-93 #
+########
+MA I-93 20 MA/NH
+NH I-93 MA/NH 15
+
+########
+# I-94 #
+########
+MN I-94 231A 241B
+
+IL I-294 8 40A
+
+MN I-394 3 8B
+
+MN I-494 1A 7
+
+MN I-694 35A 41
+
+########
+# I-95 #
+########
+DE I-95 MD/DE 5C
+DE I-95 8 DE/PA
+MD I-95 25 53
+MD I-95 64 MD/DE
+ME I-95 NH/ME 44
+ME I-95 103 182
+NH I-95 5 NH/ME
+NJ I-95 PA/NJ NJ/NY
+NY I-95 NJ/NY 1C
+PA I-95 DE/PA 17
+PA I-95 22 PA/NJ
+
+DE I-295 I-95 DE/NJ
+ME I-295 I-95(44) I-95(103)
+NJ I-295 DE/NJ 68A
+
+MD I-395 I-95 MLKJBlvd
+ME I-395 1 4
+
+MD I-395Was I-395 MD295
+
+MD I-695 23 33
+
+#########
+# I-238 #
+#########
+CA I-238 14 17
+
+#########
+# I-AK1 #
+#########
+AK I-A1 5thAve_W AK3_N
+
+#########
+# I-AK3 #
+#########
+AK I-A3 AK9 5thAve
+
+#########
+# I-AK4 #
+#########
+AK I-A4 AK1 DenNPRd
+
+###############
+# US HIGHWAYS #
+###############
+
+#######
+# US1 #
+#######
+DC US1 RhoIslAve_W DC/MD
+MD US1 DC/MD I-95/495
+NJ US1 CR571 NJ18
+
+ME US1AltBan ME9_E US1_E
+
+#######
+# US2 #
+#######
+WA US2 I-5 WA204
+WA US2 WA522 US97_S
+ME US2 NH/ME Pkwy
+MT US2 MT40 MarPass
+MN US2 I-35(253A) MN/WI
+NH US2 VT/NH NH/ME
+WI US2 MN/WI US53Bus/35
+VT US2 US302 VT/NH
+
+#######
+# US4 #
+#######
+NH US4 I-93(15) I-95
+
+#######
+# US6 #
+#######
+CO US6 I-70(205) MonRd
+CO US6 CO58/93 CO470
+UT US6 I-15(257B) I-70(157)
+
+#######
+# US7 #
+#######
+VT US7 VT22A I-189
+
+#######
+# US9 #
+#######
+NY US9 CR4 NY73
+
+########
+# US10 #
+########
+WI US10 287 291
+
+########
+# US12 #
+########
+IN US12 I-90(17) US20_A
+
+WA US12 US101 WA8
+WA US12 I-5(68) WA131
+
+########
+# US13 #
+########
+PA US13 SprRd ChuLn_S
+
+########
+# US16 #
+########
+WY US16 WY450 US16Byp_W
+WY US16 US16Byp_E WY/SD
+
+SD US16 WY/SD US16Alt/89
+SD US16 SD87 SD244
+SD US16 US16Alt_E US16Trk
+
+SD US16AltCus US16_W SD89
+SD US16AltCus SD244 US16_E
+
+SD US16TrkRap US16 I-90(61)
+
+WY US16BypNew US16_W US16_E
+
+########
+# US20 #
+########
+ID US20 311 I-15(119)
+IN US20 IN51 IN249
+OR US20 IndForRd US97(135A)
+
+########
+# US24 #
+########
+CO US24 CO91 CO300
+
+########
+# US26 #
+########
+OR US26 64 74
+OR US26 BurRd OR173
+OR US26 US97_S OR35
+ID US26 I-15(93) I-15(116)
+ID US26 ID43 ID31
+WY US26 US20/26Bus I-25(189)
+
+########
+# US29 #
+########
+DC US29 11thSt_N RhoIslAve_E
+VA US29 US250_E I-66(52)
+VA US29BusChr US250Bus US29_N
+
+########
+# US30 #
+########
+ID US30 ID74 ID50
+PA US30 US1 LanAve_E
+PA US30 RadCheRd I-476
+
+########
+# US34 #
+########
+CO US34 US40 US34Bus/36
+
+########
+# US36 #
+########
+CO US36 US34_E Bdwy_W
+CO US36 CO119_W TabMesaDr
+
+########
+# US40 #
+########
+CO US40 CO9 US34
+
+########
+# US41 #
+########
+IL US41 I-55 RanSt
+IN US41 I-74 IN55_S
+
+########
+# US50 #
+########
+CA US50 I-80 CA/NV
+NV US50 CA/NV LakDr
+NV US50 US50Alt NV/UT
+UT US50 NV/UT UT/CO
+
+NV US50AltFer I-80BL/95Alt US50_E
+
+CA US50AltPol US50_W US50_E
+
+########
+# US53 #
+########
+MN US53 MN33 RivSt
+
+########
+# US66 #
+########
+CA US66HisHol I-10 BunDr
+
+########
+# US89 #
+########
+AZ US89 AZ64 US89Alt
+UT US89 US89Alt UT12
+UT US89 I-80 1300S
+UT US89 US91_S UT/ID
+ID US89 UT/ID ID/WY
+WY US89 ID/WY LizCreCam
+
+AZ US89AltFre US89 AZ/UT
+
+UT US89AltKan AZ/UT US89
+
+########
+# US91 #
+########
+UT US91 I-15 US89_N
+
+########
+# US93 #
+########
+NV US93 I-80 NV/ID
+ID US93 NV/ID ID74
+MT US93 MT28 MT82
+MT US93 MT40 USA/CAN
+
+########
+# US95 #
+########
+ID US95 438 SupSt
+ID US95 US2/200 USA/CAN
+NV US95 76(515) NV373 
+
+########
+# US97 #
+########
+CA US97 I-5 CA/OR
+OR US97 CA/OR US197
+WA US97 I-90(106) WA153
+
+########
+# US99 #
+########
+CA US99HisInd GolfCenPkwy CliSt
+CA US99HisInd WasSt CookSt
+
+
+#########
+# US101 #
+#########
+CA US101 CA60 CA/OR
+OR US101 CA/OR OR/WA
+WA US101 OR/WA WA401
+WA US101 WA4 WA107
+WA US101 US12 SouShoRd
+WA US101 UppHohRd WA104
+WA US101 RodSt PenCreRd
+WA US101 KonaPla I-5
+
+CA US101BusNov US101_S US101_N
+CA US101BusPet US101_S US101_N
+CA US101BusPis US101_S CA US101BusPis US101_N
+
+#########
+# US169 #
+#########
+MN US169 MN7 63rdAve
+
+#########
+# US180 #
+#########
+AZ US180 AZ64_S GraCynNP
+
+#########
+# US191 #
+#########
+UT US191 UT128 I-70(182)
+WY US191 US26/89_S LizCreCam
+
+#########
+# US197 #
+#########
+OR US197 US97 I-84
+
+#########
+# US199 #
+#########
+CA US199 SForkRd CA/OR
+OR US199 CA/OR I-5
+
+#########
+# US202 #
+#########
+DE US202 I-95(8) DE141/261
+ME US202 MainSt_Win I-95(109)
+NH US202 I-89(5) I-89(4)
+
+#########
+# US206 #
+#########
+NJ US206 CR533_S NJ27
+
+#########
+# US287 #
+#########
+WY US287 I-80BL_W WY220
+
+#########
+# US395 #
+#########
+CA US395 I-15 CA/NV
+CA US395Sus NV/CA CA36
+NV US395 CA/NV NV/CA
+
+##################
+# STATE HIGHWAYS #
+##################
+
+#########################
+# Alaska State Highways #
+#########################
+AK AK7Jun MainSt MenLpRd_N
+
+AK AK9 RaiAve AK1
+
+##########################
+# Arizona State Highways #
+##########################
+AZ AZ64 I-40 US89
+
+AZ AZ89ASed AZ179 I-17(340)
+
+#############################
+# California State Highways #
+#############################
+CA CA1 CA133 MacBlvd
+CA CA1 ElSegBlvd LitLakeRd
+
+CA CA2 CenAve AveSta
+CA CA2 US101(4B) BigPinHwy
+
+CA CA4 1A CA89
+
+CA CA12 CA116 7B
+CA CA12 NapaSt_E CA29/121
+
+CA CA13 1A I-80/580
+
+CA CA14 I-5 US395
+
+CA CA16 I-505 WildWinDr
+
+CA CA17 1A 26
+
+CA CA18 CA330 CA38_S
+CA CA18 CA138_W OldWomRd
+
+CA CA23 LecRd MulHwy_W
+
+CA CA24 2 15
+
+CA CA25 US101 PinNP
+
+CA CA27 CA1 OldTCRd
+CA CA27 US101 VicBlvd
+
+CA CA28 CA89 CA/NV
+
+CA CA29 CA12/121 CA175_S
+
+CA CA33 CA152_W I-5(403)
+
+CA CA35 54 CA1
+CA CA35 CA17 I-280(41B)
+
+CA CA36 I-5 CA89_N
+CA CA36 CA44 US395
+
+CA CA37 US101 21
+
+CA CA38 I-10 CA18_S
+
+CA CA41 128 132
+
+CA CA44 CA89_S CA36
+
+CA CA46 CA1 VinDr
+
+CA CA47 1A SeaFwy_E
+
+CA CA49 CA140_W CA140_E
+CA CA49 CA120_E CA120_W
+
+CA CA57 22A 25B
+
+CA CA58 CA99(25) I-15
+
+CA CA60 I-10(16B) I-10(93)
+
+CA CA62 I-10 UtahTr
+
+CA CA65 CA99 CA198
+
+CA CA68 SunDr CA1(401B)
+
+CA CA74 RamExpy CA243
+
+CA CA78 1A Bro_N
+
+CA CA79 GilSprRd RamExpy
+
+CA CA84 CA35 I-280
+
+CA CA85 1A 19A
+
+CA CA87 1A 9
+
+CA CA88 US50Alt_W CA/NV
+
+CA CA89 CA4 I-80(188B)
+CA CA89 CA36_W LasVolNP
+
+CA CA89MtS CA44_W I-5
+
+CA CA91 40 65B
+
+CA CA92 CA1 13
+
+CA CA99 I-5(221) 30
+CA CA99 133B 242
+
+CA CA108 CA120_W CA120_E
+
+CA CA110 21 24D
+
+CA CA111BusPal CA111_N RamRd
+
+CA CA116 CA1 CA121
+
+CA CA118 28 46B
+
+CA CA120 1 YosNP
+
+CA CA120Lee YosNP US395_S
+
+CA CA121 CA37 CA29(16)
+
+CA CA127 I-15 CA/NV
+
+CA CA128 US101(512) CA1
+CA CA128 TubLn PetForRd
+
+CA CA131 US101 ParDr
+
+CA CA133 8 14
+
+CA CA134 1A 13B
+
+CA CA138 I-5 I-15
+
+CA CA140 CA99(186B) YosNP
+
+CA CA152 US101(357) I-5
+
+CA CA156 CA1 US101(345)
+CA CA156 UniRd CA25
+
+CA CA158 US395_S US395_N
+
+CA CA175 BotRockRd_E CA29_S
+
+CA CA180 57A KinCanNP
+
+CA CA180Ced KinCanNP_W KinCanNP_E
+
+CA CA187 CA1 I-405
+
+CA CA190Dea PanValRd CA127
+
+CA CA198 I-5 SeqNP
+
+CA CA203 Mad/Mon US395
+
+CA CA207 CA4 MtRebaSA
+
+CA CA210 45 64A
+CA CA210 81 85
+
+CA CA217 MesRd 3
+
+CA CA241 19 39
+
+CA CA243 CA74 I-10
+
+CA CA247 CA62 I-15
+
+CA CA254 US101(645) US101(674)
+
+CA CA261 1 6B
+
+CA CA267 CA28 I-80/89
+
+CA CA330 CA210 CA18
+
+###########################
+# Colorado State Highways #
+###########################
+CO CO9 BucSt US40
+
+CO CO91 US24 I-70
+
+CO CO93 US6 TabMesaDr
+
+CO CO470 US6 2
+
+##############################
+# Connecticut State Highways #
+##############################
+CT CT15 NY/CT 68N-E
+CT CT15 89 I-84
+
+##########################
+# Delware State Highways #
+##########################
+DE DE92 DE100 I-95/495
+
+DE DE141 ChiDr US202/261
+
+##########################
+# Florida State Highways #
+##########################
+FL FL405 JFKSCen FL407
+
+FL FL407 FL528 FL405
+
+FL FL435 I-4 MajBlvd
+
+FL FL528 I-4 37
+
+#########################
+# Hawaii State Highways #
+#########################
+HI HI30 HI380 OffRd
+
+HI HI36 HI380 HI37
+
+HI HI37 HI36 HI377_N
+
+HI HI377 HI37_N HI378
+
+HI HI378 HI377 HalNP
+
+HI HI380 HI36A HI30
+
+########################
+# Idaho State Highways #
+########################
+ID ID31 US26 ID33
+
+ID ID33 ID31 ID/WY
+
+ID ID50 US30 I-84
+
+ID ID53 HauLkRd US95
+
+ID ID74 US93 US30
+
+##########################
+# Indiana State Highways #
+##########################
+IN IN25Wes IN28_W US52/231
+
+IN IN28 IN341 IN25_S
+
+IN IN55 750N_E US41_S
+
+IN IN341 IN55 IN28
+
+########################
+# Maine State Highways #
+########################
+ME ME3 US1Alt_E ME102/198
+ME ME3 ParHillRd OttCliRd
+ME ME3 ME233_W ME102
+
+ME ME9 US1Alt_E StaSt
+
+ME ME15BusBan ME15_S StaSt_S
+
+ME ME26 ME219_E Pkwy_E
+
+ME ME102 SealCoveRd ME3
+
+ME ME133 MainSt_Win ME219
+
+ME ME219 ME26_N ME133
+
+ME ME233 ME3_W ME3_E
+
+################################
+# Massachusetts State Highways #
+################################
+MA MA1ASal I-90 MA145_S
+
+MA MA2 US5/10 US3_N
+
+MA MA16 MA2_W EveAve
+
+MA MA112 GreRd MA/VT
+
+############################
+# Minnesota State Highways #
+############################
+MN MN5 I-494(1A) I-35E
+
+MN MN33 I-35 US53
+
+MN MN61 I-35 60thAve
+
+MN MN70 I-35 MN/WI
+
+MN MN77 CR38 I-494
+
+MN MN100 I-494 I-694
+
+MN MN135 CR100/110 MN1/169
+
+MN MN169 US53 CR88_E
+
+##########################
+# Montana State Highways #
+##########################
+MT MT28 MT200 US93
+
+MT MT35 MT82 SR206
+
+MT MT40 US93 US2
+
+MT MT82 US93 MT35
+
+MT MT135 I-90 MT200
+
+MT MT200 MT28 MT135
+
+MT SR206 MT35 US2
+
+#########################
+# Nevada State Highways #
+#########################
+NV NV28 CA/NV VilBlvd
+
+NV NV88 CA/NV US395
+
+NV NV207 US50 NV206
+
+NV NV225 I-80BL I-80
+
+NV NV227 I-80BL FR660
+
+NV NV373 CA/NV US95
+
+NV NV431 NV28 OldMtHwy
+
+NV NV487 NV488 US6/50
+
+NV NV488 LehCavVC NV487
+
+NV NV756 NV88 US395
+
+#############################
+# New Jersey State Highways #
+#############################
+NJ NJ18 I-95 US1
+
+################################
+# New Hampshire State Highways #
+################################
+NH NH16 GlenEllFal US2_E
+
+NH NH127 I-89 NH103_E
+
+###########################
+# New York State Highways #
+###########################
+NY NY9N NY185 BroSt
+
+NY NY22 WalSt NY372
+
+NY NY25A MidRd SunMeaPkwy
+
+NY NY29 NY40_N NY372
+
+NY NY32 US4_Nor RuggRd
+
+NY NY40 NY29_E CR77
+
+NY NY73 NY86 US9
+
+NY NY86 NY73 NY431
+
+NY NY185 NY9N/22 NY/VT
+
+NY NY372 NY29 NY22
+
+NY NY431 WhiMtn NY86
+
+###########################
+# New York State Parkways #
+###########################
+NY BeltPkwy 1 25
+
+NY SagStaPkwy S2 NorStaPkwy
+
+NY SouStaPkwy CroIslPkwy 42
+
+NY SunMeaPkwy SM1 SM5
+
+#######################
+# Oregon State Routes #
+#######################
+OR OR35 US26 OR/WA
+
+OR OR36 PooCreRd OR99
+
+OR OR38 US101 I-5/99
+
+OR OR62 OR234 US97
+
+OR OR99 OR36 OR99W/OR99E
+
+OR OR99E OR99/99W LakeCreRd
+
+OR OR126 US101 PooCreRd
+
+OR OR138 SusCreRd CraLakeHwy
+
+OR OR173 US26 TimLodge
+
+OR OR217 US26 8
+
+OR OR234 OR99_E OR62
+
+OR OR422 OR62 US97_N
+
+###############################
+# Pennsylvania State Highways #
+###############################
+PA PA3 US13 SchAve
+
+PA PA291 I-95(14) 26thSt
+
+###############################
+# South Dakota State Highways #
+###############################
+SD SD87 SD89 US16/385
+
+SD SD89 US16_W SD87
+
+SD SD244 US16/385 US16Alt
+
+#######################
+# Utah State Highways #
+#######################
+UT UT9 I-15 US89
+
+UT UT12 US89 UT63
+
+UT UT63 UT12 BryCanNP
+
+UT UT71 I-80 UT186
+
+UT UT128 US191 2ndSt
+
+UT UT190 I-215 MillBSTrl
+
+UT UT269 I-15/80 UT270
+
+UT UT270 WTem US89
+
+UT UT313 IslSkyRd US191
+
+##########################
+# Vermont State Highways #
+##########################
+VT VT9 NY/VT VT100_S
+
+VT VT17 NY/VT VT22A
+
+VT VT22A VT17 US7
+
+VT VT100 VT112 VT9_E
+
+VT VT112 MA/VT VT100
+
+###########################
+# Virginia State Highways #
+###########################
+VA VA28 I-66 DulAirRd
+
+VA VA267 DulAirRd I-66
+
+#############################
+# Washington State Highways #
+#############################
+WA WA3 WA16 WA104
+
+WA WA4 US101 WA401
+
+WA WA7 US12 WA704
+
+WA WA8 US12 US101
+
+WA WA9 WA204 WA92
+WA WA9 WA531 WA530_W
+WA WA9 WA20_W WA542_E
+WA WA9 LinRd WA/BC
+
+WA WA11 I-5(231) 12thSt
+
+WA WA14 6 HoodRivBri
+
+WA WA16 I-5 WA3
+
+WA WA18 I-5 WA164
+
+WA WA19 WA104 WA20
+
+WA WA20 WA525 WA153
+
+WA WA20Por WA19 PorCouFry
+
+WA WA20SprAna WA20 AnaFry
+
+WA WA92 WA9 MtnLpHwy
+
+WA WA99 WA599 WA104
+WA WA99 168thSt AirRd
+
+WA WA99Fed 170thSt WA518
+
+WA WA104 US101 KinEdmFry
+
+WA WA104Edm EdmKinFry WA522
+
+WA WA107 US101 US12
+
+WA WA116 WA19 FortFlaSP
+
+WA WA119 US101 TeboLn
+
+WA WA131 GifPinNF US12
+
+WA WA141 WA141Alt GulRd
+
+WA WA141AltUnd WA14 WA141
+
+WA WA153 US97 WA20
+
+WA WA160 WA16 FauSouFry
+
+WA WA161 WasAve WA512/167
+
+WA WA163 WA16 ParkWay
+
+WA WA164 WA18 WA410
+
+WA WA166 WA16 WhiAve
+
+WA WA167 WA161/512 WA900
+
+WA WA169 WA164 WA900
+
+WA WA202 RedWay ToltHillRd
+WA WA202 WA203 I-90
+
+WA WA203 ToltHillRd 124thSt
+
+WA WA204 US2 WA9
+
+WA WA304 WA3 BreFry
+
+WA WA305 WinFry WA3
+
+WA WA401 US101 WA4
+
+WA WA410 WA164 WA123
+
+WA WA509 WA518 WA99
+WA WA509 LeLouPl 16thAve
+
+WA WA512 I-5 SteRd
+
+WA WA513 WA520 65thSt
+
+WA WA515 GraWay WA900
+
+WA WA518 WA509 I-5
+
+WA WA520 I-5 LakSamPkwy
+
+WA WA522 I-5 US2
+
+WA WA523 WA99 WA522
+
+WA WA525 I-5 CliMukFry
+
+WA WA525Fre CliMukFry WA20
+
+WA WA526 WA525 I-5
+
+WA WA529 Bro I-5(198)
+WA WA529 EveAve Bro
+
+WA WA531 I-5 WA9
+
+WA WA530 I-5 WA20
+
+WA WA532 SunBlvd I-5
+
+WA WA536 WA20 I-5
+
+WA WA542 I-5 VanWyckRd
+WA WA542 WA9_S AusPass
+
+WA WA543 I-5 WA/BC
+
+WA WA544 PoleRd WA9
+
+WA WA599 I-5 WA99
+
+WA WA704 SpaLpRd WA7
+
+WA WA706 WA7 MouRaiNP
+
+WA WA900 I-5(158) NewAve
+
+WA WA903 WA970 WenNF
+
+WA WA970 I-90 US97
+
+############################
+# Wisconsin State Highways #
+############################
+WI WI28 WI67/175 I-41
+
+WI WI35 WI70_W US2
+
+WI WI47 US10 WI125
+
+WI WI70 MN/WI WI35_N
+
+WI WI119 I-94 WI38
+
+WI WI125 US41 WI47
+
+WI WI145 I-43 I-41(48B)
+
+##########################
+# Wyoming State Highways #
+##########################
+WY WY22 ID/WY US26/89
+
+WY WY59 WY450 WY387
+
+WY WY220 US287 WY257
+
+WY WY257 WY220 US20/26
+
+WY WY259 I-25 WY387
+
+WY WY387 WY259 WY59
+
+WY WY450 US16 WY59
+
+##########################
+# NATIONAL PARK HIGHWAYS #
+##########################
+AK ParkRd AK3 EieVisCen
+
+CA BadRd CA190 Bad
+
+CA BigOakRd CA120 ElPorRd
+
+CA ElPorRd CA140 SouDr_E
+
+CA GenHwy CA198 KinCanRd
+
+CA KinCanRd CA180_W CA180_E
+
+CA KinCanRdCed CA180 KanTr
+
+CA LasPeakHwy CA44/89 CA89_S
+
+CA MinSumRd CA203 DevPosRd
+
+CA MorEmiTr CRE16 CA88
+
+CA ParkBlvd CA62_W CA62_E
+ 
+CA TioPassRd BigOakRd CA120
+
+CA WawRd GlaPtRd SouDr
+
+HI CraRd Sum HI378
+
+ME ParkLpRd GreMeaDr SieMonRd_N
+ME ParkLpRd OttCliRd ParHillRd
+
+MT GoiSunRd US2 LogPass
+
+OR CraCrkRd OR62 RimDr
+
+OR CraLakeHwy RimDr OR138
+
+OR CraLakeRimDr CraLakeHwy_W CraLakeHwy_E
+
+SD BadLpRd I-90(110) I-90(131)
+
+UT ArcSceDr US191 DelArchRd
+
+UT BryCynSceDr UT63 BryPoiRd
+
+UT IslSkySceDr UT313 CynNP
+
+UT ZionCynDr UT9 End
+
+WA HurRidRd ParkAve End
+
+WA SteCynRd WA706 ParVlyRd_N
+
+WA SunParkRd Sun WA410
+
+WA UppHohRd US101 HohVisCen
+
+WY MooWilRd TetParkRd WhiGraRd
+
+WY TetParkRd US26/89 BeaCrk
+
+##################
+# OTHER HIGHWAYS #
+##################
+AK HicPkwy AK1 TudRd
+
+NY CroCouPkwy 4 HutRivPkwy
+
+NY HutRivPkwy 15 NY/CT
+
+WA AirExpy WA518 Ter
+
+WA WSeaBri I-5(163A) AdmWay 
+
+
+##########
+# CANADA #
+##########
+
+########################
+# Trans-Canada Highway #
+########################
+BC TCHMai 2 33
+BC TCHMai 92 170
+BC TCHMai 362 BC/AB
+AB TCHMai BC/AB 118
+
+BC TCHYel BC5 BC/AB
+AB TCHYel BC/AB AB93
+
+BC TCHVan BC19_N BC19A
+
+##########################
+# BC Provincial Highways #
+##########################
+
+BC BC3 170 177
+
+BC BC4 TofHar BC19
+
+BC BC5 177 BC16
+
+BC BC17Ric TsaFry 13
+
+BC BC19 DukePtFry 60
+
+BC BC91 BC99 22
+BC BC91A BC91 MarWay
+
+BC BC93 BC/AB USA/CAN
+
+BC BC95 BC1 USA/CAN
+
+BC BC99 USA/CAN LorRd
+
+BC KniSt BC91 63rdAve
+
+###############################
+# Alberta Provincial Highways #
+###############################
+AB AB40Kan KanLakTrl AB1
+
+AB AB93AJas AB16 AB93
+
+AB AB93A AB93_N AB93_S
+
+AB AB93 AB93AJas AB93A_N
+AB AB93 AB93A_S BC/AB
+
+#########
+# ITALY #
+#########
+ITA A1 A1Cap A3
+ITA A1 SR69 A1NRo
+
+ITA A1Cap A1 ViaFRufCal
+ITA A1NRo A1 AGRA
+
+ITA A3 ViaGalFer ViaAra
+
+ITA A12Civ A91 SS1_N
+
+ITA A24 CirTib AGRA
+
+ITA A27 SS14 SS51_D
+
+ITA A91 ViaMag_E SS296
+
+ITA AGRA 30 SS1
+ITA AGRA 10 14
+
+ITA E66 ViaHansWas SS51
+
+ITA E78 SS1 SS674
+
+ITA E80 SS223 SP36
+ITA E80 SP161 A12/A91
+
+ITA RA3 SS674 SS741
+
+ITA SS51 A27_D SS49
+
+ITA SS674 RA3 SS223
+
+##########
+# MEXICO #
+##########
+MEX-NAY MEX200 LoMar NAY/JAL
+MEX-JAL MEX200 NAY/JAL BlvdMedAsc_S

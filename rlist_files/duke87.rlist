@@ -1,0 +1,241 @@
+########-INTERCITY RAIL LINES-########
+DC NENew WasUniSta MA NENew BosSou
+CT HL NHUniSta MA HL Spr
+FL FL Mia DC FL WasUniSta
+MA LSBos Spr BosSou
+PA PA PitUni NY PA PennSta
+CA CS UniSta OakJackLonSq
+OR EBPor PorUniSta IL EBPor UniSta
+
+FL BriLn MiaCen BriOrlSta
+
+########-COMMUTER RAIL LINES-########
+NY BabBra PennSta Bab
+NY GreBra Ron Gre
+NY HemBra GraCen Hem
+NY LongBeaBra PennSta LongBea
+NY MonBra HunAve Mon
+NY OysBayBra Jam OysBay
+NY PortJefBra PennSta PortJef
+NY PortWasBra PennSta PortWas
+NY RocBra GraCen FarRoc
+NY RonBra PennSta Ron
+NY WHemBra AtlTer WHem
+
+NY NewHavLn GraCen CT NewHavLn Str
+CT NewHavLnCan Sta NewCan
+CT NewHavLnDan SNor Dan
+CT NewHavLnWat Bri Wat
+NY HarLn GraCen Was
+NY HudLn GraCen DobFry
+
+NY NECorLn PennSta NJ NECorLn NewBru
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ RarVlyLn NewPenn HighBri
+NY MonBooLn PennSta NJ MonBooLn Hac
+NY MorEssLn PennSta NJ MorEssLn Hac
+NJ GlaBra Hob Gla
+NJ MainLn Hob NY MainLn Suf
+NJ PortJerLn Hob NY PortJerLn PortJer
+NJ PasVlyLn Hob NY PasVlyLn SprVly
+
+FL TriRail MiaAir WestPalmBea
+FL TriRailDow MiaCen MetTra
+
+IN SouShoLn SouBendAir IL SouShoLn MilSta
+
+IL MDN UniSta FoxLake
+IL ME MilSta UniPk
+IL MESCh MilSta SChi93rdSt
+IL NCS UniSta Ant
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL UPNW OgiTraCen Har
+IL UPW Elb OgiTraCen
+
+OR WesExpSer BeaTraCen Wil
+
+CA CalTra Tam SanFraKing
+
+CA SanBerLn UniSta RedDow
+CA Arr SanBerDow RedUni
+CA AntVlyLn UniSta Lan
+CA RivLn UniSta RivDow
+CA PerVlyLn UniSta PerS
+
+########-HERITAGE RAILROADS-########
+CT EssSteTrn Ess DeepRivLan
+DE WilWesRR Hoc Gre
+PA StrRR Str LeaPl
+
+
+########-USA RAPID TRANSIT LINES-########
+#--------NORTHEAST CITIES--------
+MA BluLn Sta Bow
+MA OraLn Sta ComCol
+MA RedLn ParkSt Har
+MA GreLnD Riv Fen
+MA GreLnD Ken GovCen
+
+NY S42 TimSq GraCen
+NY 1 VanCorPk SouFry
+NY 2 Wak241St FlaAveBroCol
+NY 3 Har148St NewLotsAve
+NY 4 Woo CroHeiUtiAve
+NY 5 EasDyreAve FlaAveBroCol
+NY 6 PelBayPk BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A 207StInw FarRocMottAve
+NY AOzo 207StInw OzoPkLefBlvd
+NY B 145St BriBea
+NY C 168St EucAve
+NY D Nor205St ConIslStiAve
+NY E JamCenParArc WTC
+NY F Jam179St ConIslStiAve
+NY G CouSq ChuAve
+NY SRoc BroCha RocParkBea116St
+NY J BroSt JamCenParArc
+NY L 8Ave CanRocPkwy
+NY M MidVilMetAve ForHil71Ave
+NY N AstDitBlvd ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R ForHil71Ave BayRid95St
+NY SPro FraAve ProPk
+NY W AstDitBlvd WhiStSFry
+NY SIR StGeo Tot
+NY RIT Man RooIsl
+NJ PATHH33 Hob NY PATHH33 33St
+NJ PATHHWT Hob NY PATHHWT WTC
+NJ PATHJ33 JouSq NY PATHJ33 33St
+NJ PATHNWT NewPenn NY PATHNWT WTC
+NJ HBLR8HT 8thSt HobTer
+NJ HBLRHTT HobTer TonAve
+NJ HBLRWST WestSideAve TonAve
+NJ NLRCS PennSta GroSt
+NJ NLRBSE PennSta BroadStSta
+NJ AirTrn NewLibAir TA
+NY AirTrnATL T8_E T8_W
+NY AirTrnHow HowBea Loop
+NY AirTrnJam Jam Loop
+
+PA MarFraLn 40th 34th
+PA MarFraLn 30th 5th
+PA BroStLn EllFed CityHall
+
+MD MetSub OwiMil JohHopHos
+MD BLRL NLin HuntVly
+
+VA BluLn KingStOldTown MD BluLn MorBlvd
+VA OraLn VieFaiGMU DC OraLn StaArm 
+MD RedLn ShaGro DC RedLn UniSta
+VA YelLn Hun DC YelLn GalPla
+
+#--------MIDWEST CITIES--------
+PA RedLn SouHilVlg All
+PA SilLn Lib All
+
+OH RedLn Bro TriCCamDis
+
+MI DetPeoMov Mic_S Mic_N
+
+IL BlueLn OHa ForPk
+IL BroLn Kim Loop
+IL GreLn HarLake Ash63rd
+IL GreLnE63 HarLake CotGro
+IL OraLn Mid Loop
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn 95thDanRyan How
+IL SkoSwi DemSko How
+
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN HubTram Ter1 HubBui
+
+MO MLBlueLn Uni ConCen
+
+#--------SOUTH CITIES--------
+GA RedLn Air NorSpr
+GA SkyTrn Air RenCarCen
+GA PlaTrn DomTer DGat
+
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+FL InnLp GovCen_S GovCen_N
+FL MiaM MIA IntCen
+
+FL ResMon TraTicCen_1 TraTicCen_2
+FL TerLink TerA/B TerC
+
+TN MainStTro But Mad
+
+TX BlueLn UNTDal DowRow
+TX GreLn NCarFra Buc
+TX OraLn DFWAir LBJCen
+TX RedLn Wes ParRd
+TX DalStr BisArts Uni
+TX Sky A8 A21
+
+TX PurLnHou TheDis PalmCenTC
+
+#--------WEST CITIES--------
+AZ A 3rdSt SycMainSt
+AZ PHX 44thSt T4
+
+CO LLn 25thWel 18thSto
+CO DENTrn JepTer AGat
+
+WA 1 SeaTacAir UniWas
+WA SeaCenMon SeaCen WesCen
+WA 1stHillLn 5thJac BroTer
+WA SouLakeUniLn FaiCamDr WesHub
+
+OR BlueLn BeaTraCen Gat99thAve
+OR GreLn PSUSou ClaTownCen
+OR OraLn UniStaGliSt Park
+OR RedLn BeaTraCen PorIntAir
+OR YelLn PSUSou ExpoCen
+
+CA BARTBlue PowSt DubPle
+CA BARTOra Ber Ric
+CA BARTYel Mil CivCen
+CA BARTYel PowSt PitTra
+CA MuniN 2nd PowSt
+CA MuniT King ChiRosePark
+CA AirTrnBlue LongTermPar Loop
+
+CA SRTGold SacValSta HisFol
+
+CA A WilRosaPar APUCitCol
+CA B NHol UniSta
+CA C AviLAX WilRosaPar
+CA D WilWes UniSta
+CA E DowSanMon LitTokArtsDis
+
+CA GreLn 12thImpTC FasVly
+CA BlueLn CivCen OldTownTC
+
+
+########-CANADA RAPID TRANSIT LINES-########
+ON 1 SheW Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+ON 501 BrocAve YonSt
+ON 504a SpeAve YonSt
+
+QC GreLn Ang HonBea
+QC OraLn CoteVer Mon
+QC YelLn BerUQAM LonUniDeShe
+QC BluLn Sno SaiMic
+
+
+########-EUROPE RAPID TRANSIT LINES-########
+ITA-LAZ MA Bat Ana
+ITA-LAZ MB Reb Lau
+ITA-LAZ MB1 Jon Lau
+ITA-LAZ MC SanGio MonComPan
+
+ITA-LOM M1Bis Bis Duo
+ITA-LOM M3 Duo PorRom

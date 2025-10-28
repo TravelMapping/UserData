@@ -1,0 +1,265 @@
+#3 Counties Connect CRP
+ENG NWCLn Shr ENG NWCLnChe Che
+WLS BorLn WreGen WreCen
+ENG CheCreLn Che Cre
+#Abbey Line Community Rail Partnership
+ENG AbbLn WatJct StAlbAbb
+#Barton Cleethorpes Community Rail Partnership
+ENG BarLn Cle BarHum
+#Bishop Line Community Rail Partnership
+ENG TeesVlyLn BisAuc Dar
+#Bittern Line Community Rail Partnership
+ENG BitLn Nor She
+#Blackmore Vale Community Rail Partnership
+ENG WoELn Tis Cre
+#Calder Valley Line Community Rail Partnership
+ENG RibVlyLn Roc MilHill
+ENG CalLn Roc LowMoor
+ENG AthLn Roc Bri
+ENG HudLn Hal Bri
+#Cambrian Community Rail Partnership
+ENG CamLn Shr WLS CamLn Abe
+WLS CamCoaLn Mac Pwl
+#Clitheroe Line Community Rail Partnership
+ENG RibVlyLn BroCro Hel
+#Conwy Valley and North Wales Coast CRP
+WLS NWCLn Sho Hol
+WLS ConVlyLn Llad BlaFfe
+#Creative Isle Community Rail Partnership
+ENG ThaLn BirSea Ram
+ENG SEML Min Ram
+#Crew to Manchester and South East Manchester CRP
+ENG StoLn ManPic Sto
+ENG CreLn Sto Cre
+ENG AirLn ManPic Cre
+#Cumbrian Coast Line Community Rail Partnership
+ENG CumCoaLn BarFur Car
+#Darent Valley Community Rail Partnership
+ENG ThaLnkSev Swa Sev
+#Derwent Valley Line Community Rail Partnership
+ENG DerVlyLn Not Mat
+#Devon and Cornwall Rail Partnership
+##Tamar Valley Line
+ENG TamVlyLn Ply Gun
+##Looe Valley Line
+ENG LooeVlyLn Lis Looe
+##St Ives Bay Line
+##Maritime Line
+ENG MrtLn Tru FalDoc
+##Atlantic Coast Line
+ENG AtlCoaLn Par New
+##Tarka Line
+ENG TarLn ExeCen Bar
+##Dartmoor Line
+ENG DarLn ExeCen Oke
+##Riviera Line
+ENG RivLn ExeStDav Pai
+##Avocet Line
+ENG AvoLn Exm ExeStDav
+##East Devon Line
+ENG WoELn Axm ExeStDav
+#East Lancashire Community Rail Partnership
+ENG EastLanLn Pre Col
+ENG CalVlyLn ManVic Bla
+#East Suffolk Lines Community Rail Partnership
+ENG EastSufLn Ips Low
+ENG FelLn Ips Fel
+#Esk Valley Railway Development Company
+ENG EskVlyLn Mid Whi
+#Essex and South Suffolk Community Rail Partnership
+##Southend Line
+ENG SouLn Bil SouVic
+##Crouch Valley Line
+ENG CroVlyLn Wic Sou
+##Flitch Line
+ENG FliLn Wit Bra
+##Gainsborough Line
+ENG GaiLn Sud MarTey
+##Sunshine Coast Line
+ENG SunCoaLnWal Col WalNaze
+ENG SunCoaLnCla Col ClaSea
+##Mayflower Line
+ENG MayLn Man HarTown
+#Furness Line Community Rail Partnership
+ENG FurLn Car BarFur
+#Gloucestershire Community Rail Partnership
+##Golden Valley Line
+ENG GolVlyLn Kem CheSpa
+##Severn Shores Line
+ENG SevShoLn Glo Lyd
+##Bristol - Birmingham Line
+ENG SevVlyLn Ash CamDur
+#Hampshire Community Rail Partnership
+##Three Rivers
+ENG TestVlyLn Sal Rom_2
+ENG BotLn Mic Win
+ENG SWML Win SouCen
+ENG NetLn Bur SouCen
+##Reading-Basingstoke
+ENG ReaBasLn Rea Bas
+##Wey Valley
+ENG AltLn AshVale Alt
+ENG WeyVlyLn Far Gui
+##Hills to Harbour
+ENG PorDirLn Gui PorHar
+#Heart of England Community Rail Partnership
+ENG EleBearLn LeaSpa Nun
+ENG NhpLn Rug BirInt
+ENG ChaLn BirInt MarGre
+ENG ChiML LeaSpa Sol
+ENG WyreVlyLn Olt StrUponAvon
+ENG ShaLn Shi StrUponAvon
+#Heart of Wales Development Company
+ENG HeaWalLn Shr WLS HeaWalLn Swa
+#Hereward Line Community Rail Partnership
+ENG HerLn Pet Ely
+#High Peak and Hope Valley Community Rail Partnership
+##Buxton Line
+ENG BuxLn Dis Bux
+##Glossop Line
+ENG GloLn Din Had
+##Hope Valley Line
+ENG HopeVlyLn NewMilCen DoreTot
+#Kent community Rail Partnership
+##Medway Valley Line
+ENG PadWoodLn Ton PadWood
+ENG MedVlyLn Str PadWood
+##Swale Rail Line
+ENG SwaLn Sit SheSea
+##Kent Downs Line
+ENG KentDowLn Otf AshInt
+#Lakes Line Community Rail Partnership
+ENG LakLn OxeLakeDis Win
+#Leeds- Morecambe Community Rail Partnership
+ENG BenLn Lee HeyPort
+#Marston Vale Community Rail Partnership
+ENG MarValeLn Ble Bed
+#Meldreth, Shepreth & Foxton Community Rail Partnership
+ENG RheeVlyLn Mel Fox
+#Mid Cheshire Community Rail Partnership
+ENG MidCheLn ManPic Che
+#New River Line Community Rail Partnership
+ENG NewRvrLn Bro HerEast
+#North Cheshire Community Rail Partnership
+ENG WirLnEll Hoo EllPort
+ENG NorCheLn EllPort Hel
+ENG LlaManLn Hel WarBankQuay
+#North Nottinghamshire & Lincolnshire CRP
+ENG RomLn LinCen Don
+ENG LinLn Shi LinCen
+ENG PilLn Wor Bar
+ENG CasLn LinCen Bar
+#North Staffordshire Community Rail Partnership
+ENG NorStaLn Cre Der
+ENG PotLn Sta Cre
+ENG BirLivLn Pen Sta
+#Oxfordshire community Rail Partnership
+ENG ChiMLOxf BicVil Oxf
+ENG ChiML BicNor Ban
+ENG CotLn Oxf Kin
+ENG ThaVlyLn Cho DidPkwy
+ENG OxfCanLn DidPkwy Ban
+#Penistone Line Partnership
+ENG PenLn Hud She
+#Poacher Line Community Rail Partnership
+ENG PoaLn Not Ske
+#Purbeck Community Rail Partnership
+ENG SWML HolHea DorSou
+ENG SwaRwy War Swa
+#Robin Hood Line Community Rail Partnership
+ENG RobHoodLn Not Wor
+#Severnside Community Rail Partnership
+ENG SevVlyLn CamDur BriTemMea
+ENG CarExeLn Pil Tau
+ENG SevBeaLn WesSupMare SevBea
+ENG HeaWesLn BriTemMea Wes
+#Settle Carlisle Development Company
+ENG SaCLn Lee Car
+#South East Lancashire Community Rail Partnership
+ENG BlaLn ManPic Pre
+ENG StaLn WigWal Bol
+ENG RibVlyLn ManVic BroCro
+#Southeast Communities Rail Partnership
+##Windsor to Reading Line
+ENG WinLn Ash WinEtonRiv
+ENG ReaLn Sta Rea
+##Hounslow to Richmond Line
+ENG CheLp Bar Fel
+ENG KinLp Bar Twi
+ENG WinLn Twi Ash
+##North Downs Line
+ENG NorDowLn Rea GatAir
+##Tonbridge to Reigate Line
+ENG RdhLn Red Rei
+ENG RedTonLn Red Ton
+##Uckfield & East Grinstead Lines
+ENG UckLn Oxt Uck
+ENG EGriLn Oxt EastGri
+##1066 Hastings to Tonbridge Line
+ENG HasLn Ton Has
+##Marshlink Line
+ENG MnkLn Has AshInt
+##Arun Valley Line
+ENG ThaLnkPet GatAir Hors
+ENG ArunVlyLn Hor BogReg
+ENG ChiLn Bar Bos
+##Sussex Coast Line
+ENG SusCoaLn Bri Lit
+##Sussex Downs Line
+ENG SusDowLn Bri Sea
+#South Fylde Line Community Rail Partnership
+ENG SouFylLn Pre BlaSou
+#South West Wales Connected CRP
+WLS WWalLn PortTalPkwy MilHav
+WLS WWalLnPem Swa PemDock
+WLS WWalLnFis Car FisHar
+#TransWilts Community Rail Partnership
+ENG TraWilLn Swi Wes
+ENG WesML Wes Sal
+#Tyne Valley Line Community Rail Partnership
+ENG TyneVlyLn Car New
+#West of Lancashire Community Rail Partnership
+ENG CalVlyLn HeaLn WigWal
+ENG WestLanLn Orm Pre
+ENG SptLn Sou WigWal
+#Wherry Lines Community Rail Partnership
+ENG WheLnYar Nor GreYar
+ENG WheLnBer Nor GreYar
+ENG WheLnLow Nor Low
+#White Cliffs Community Rail Partnership
+ENG HS1Dov FolWest San
+ENG PadWoodLn Wes FolWest
+#Worcestershire Community Rail Partnership
+##Cotswold and Malvern Line
+ENG CotLn Hon GreMal
+##Wyre Valley Line
+ENG WyreVlyLn DroSpa Hag
+##Arrow Valley Line
+ENG XCLn BarGre Red
+##Saltway Line
+ENG XCLnBro BarGre Bro
+ENG MalLn Bro DroSpa
+#Yorkshire Coast Community Rail Partnership
+ENG YorCoaLn HullParInt Sca
+#Borders CRP
+SCT BorLn EdiWav Twe
+#East Lothian CRP
+SCT EastLotLn EdiWav Dun
+SCT NorBerLn EdiWav NorBer
+#West Highland CRP
+SCT WestHigLnFor Cri Mal
+#Highland Main Line CRP
+SCT HMLGla DunBir Car
+#South West Scotland CRP
+SCT StrLn Ayr Str
+SCT CarLn Kil GreGre
+#Strathallan CRP
+SCT StaLn BriAll Gle
+#Rail74 CRP
+SCT ArgLnLar Rut HamCen
+#6VT Youth CRP
+SCT DunLn EdiWav EdiPark
+SCT ShoLn Kir EdiWav
+SCT FifeLnLev EdiWav NorQue
+#Far North Line CRP
+SCT FarNorLn Fea Wick

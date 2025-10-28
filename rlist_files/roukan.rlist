@@ -1,0 +1,178 @@
+BC CanLn YalRou Wat
+BC CanLnRic Wat RicBri
+BC ExpoLn StaChi Wat
+BC ExpoLnPro StaChi Wat
+
+CA AirTrnBlue RenCarCen Ter2
+CA BARTBlue PowSt BayFair
+CA BARTGre PowSt Fre
+CA BARTOra Fre Col
+CA BARTRed PowSt WestOak
+CA MuniF FerBui Bay
+CA MuniT YerBueMos ChiRosePak
+CA PowHyde Gea Bea
+CA PowMas PowJacWas Bay
+
+CT HL NHUniSta WinLoc
+CT NewHavLn NY/CT NHUniSta
+
+DC FL WasUniSta DC/VA
+DC SM MD/DC DC/VA
+
+DE PL MD/DE DE/PA 
+DE SM MD/DE DE/PA
+
+DNK A KobHov Dyb
+DNK B KobHov Dyb
+DNK C KobHov Dyb
+DNK E KobHov Dyb
+DNK H KobHov Dyb
+
+ENG ArunVlyLn LonVic GatAir
+ENG LioLn Eus WatJCT
+ENG ChiLn LonVic GatAir
+
+ENG NhpLn LonEus WatJct
+ENG SusMLW LonVic GatAir
+ENG ThaLnk LonBla GatAir
+ENG ThaLnkBed LonBla GatAir
+ENG ThaLnkCam LonBla GatAir
+ENG ThaLnkPet LonBla GatAir
+ENG WCMLB LonEus WatJct
+ENG WCMLC LonEus ENG/WLS
+ENG CenLn OxfCir ChaLn
+ENG CenLnEal OxfCir ChaLn
+ENG CirLn Mon Pad_2
+ENG DisLn Mon Vic
+ENG DisLnEal Mon Vic
+ENG DisLnWim Mon Vic
+ENG NorLnEdg CamTown LeiSqu
+ENG NorLnMHE CamTown LeiSqu
+ENG PicLn Kni Hol
+ENG PicLnUxb Kni Hol
+ENG PicLnHT4 Kni Hol
+ENG VicLn KXSP Vic
+
+ESP-AR MadBarFig CL/AR AR/CT
+
+ESP-CT MadBarFig AR/CT San
+ESP-CT FunMon Par ParcMon
+ESP-CT L2 SagFam Par
+ESP-CT L3 Par Dia
+
+ESP-MD MadBarFig Ato MD/CM
+ESP-MD M2 CuaCam BanEsp
+ESP-MD M3 Mon VilBajoCru
+ESP-MD M7 IslFil Can
+
+FL TPAShu MainTer AirA
+FL TPAShuAiC MainTer AirC
+FL TPAShuAiE MainTer AirE
+FL TPAShuAiF MainTer AirF
+FL TerLink TerA/B TerC
+FL FL GA/FL Tam
+FL SM FL/GA Orl
+FL SunRail WinPark ChuSt
+FL TECO DowTam CenPark
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 MagKin
+FL ExpMon MagKin TraTicCen_2
+
+GA PlaTrn AGat EGat
+GA FL SC/GA GA/FL
+GA SM FL/GA GA/SC
+GA AtlStr SweAubMar PeaCen
+GA GoldLn FivePoi CivCen
+GA RedLn FivePoi CivCen
+
+IL BlueLn OHa ClaLake
+IL RedLn Gra Ful
+
+MA NENew RI/MA BouSou
+MA NENor RI/MA BouSou
+MA NERoa RI/MA BouSou
+MA NESpr RI/MA BouSou
+MA NewLn BosNor Sal
+MA RocLn BosNor Sal
+MA OraLn BackBay NorSta
+MA RedLn KenMIT DowXing
+MA RedLnBra KenMIT DowXing
+MA GreLnB HynConCen ParkSt
+MA GreLnC HynConCen ParkSt
+MA GreLnD HynConCen ParkSt
+MA GreLnE ParkSt NorSta
+
+MD SM DC/MD MD/DE
+
+NC FL VA/NC
+NC SM VA/NC
+
+NJ AirTrn TerC TerA
+NJ SM NewPenn NJ/NY
+NJ HBLRHTT HobTer LinHar
+NJ PATHH33 Hob NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHNWT Har NJ/NY
+
+NY AirTrnATL T8_E T8_W
+NY AirTrnHow FedCir Loop
+NY AirTrnJam Jam Loop
+NY NewHavLn GraCen NY/CT
+NY S42 TimSq GraCen
+NY 1 59StColCir SouFry
+NY 2 E180St FraAve
+NY 3 TimSq42St FraAve
+NY 7 42StTimSq 42StGraCen
+NY A 59StColCir JayStMetTech
+NY AOzo 59StColCir JayStMetTech
+NY B 81StMusNH BroLafSt
+NY C 81StMusNH ChaSt
+NY D ForRd W4St
+NY E WTC JamCenParArc
+NY F LexAve63St JayStMetTech
+NY L 6Ave BedAve
+NY M LexAve53St BroLafSt
+NY N AstBlvd CanSt
+NY Q 86St CanSt
+NY R LexAve59St CanSt
+NY W CanSt AstBlvd
+NY PATHH33 NJ/NY 33St
+NY PATHHWT NJ/NY WTC
+NY PATHJ33 NJ/NY 33St
+NY PATHNWT NJ/NY WTC
+NY RIT Man RooIsl
+
+ON 1 Dup Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+ON 508 LongBraLp 37St
+ON 510 SpaSta QueStW
+
+PA SM DE/PA PA/NJ
+
+RI NENew Pro RI/MA
+RI NENor Pro RI/MA
+RI NERoa Pro RI/MA
+
+SC FL NC/SC SC/GA
+SC SM GA/SC SC/NC
+
+SWE 7Sto DjuBron BelWal
+SWE 7NSto DjuBron Ska
+SWE 10Sto VasSko TCen
+SWE 11Sto SolCen TCen
+SWE 13Sto TCen Lil
+SWE 14Sto Lil Sta
+SWE 18Sto Slu FarStr
+SWE 41Sto Mar StoSod
+SWE 42Sto Mar StoSod
+
+TX Sky A8 A21
+
+VA FL DC/VA VA/NC 
+VA SM DC/VA VA/NC
+
+WLS NWCLn ENG/WLS Ban
+WLS NWSW Ban WLS/ENG
+WLS WCMLC ENG/WLS Ban
