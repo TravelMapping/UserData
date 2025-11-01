@@ -2057,11 +2057,11 @@ CA US395 CA89 CA168_E #2001
 CA ScoCasRd CA190 DayPassRd #11162018
 CA DayPassRd NorHwy CA/NV #11162018
 CA BigOakRd TioPassRd ElPorRd #2001
-CA ElPorRd BigOakRd WawRd #2001
-CA ElPorRd SouDr_E NorDr #2001
-CA ElPorRd NorDr WawRd #2001
+CA ElPorRd BigOakRd SouDr #2001
+CA NorDr SouDr ElPorRd #2001
 CA ParkBlvd CA62_E CA62_W #111216 Joshua Tree Trip
-CA PinBasRd ParkBlvd I-10 #USMC    
+CA PinBasRd ParkBlvd I-10 #USMC
+CA SouDr ElPorRd NorDr #2001    
 CA TioPassRd CA120 BigOakRd #2001
 CA WawRd SouDr TunView #2001
 CA CA1 I-5 CA133 #020517 NTCA Meeting
@@ -4939,8 +4939,10 @@ VA US58 US29_S US58BusMar_E #020418 Skyline FW
 VA US58 US220_N US21/221 #020418 Skyline FW
 VA US58 VA16_S VA93 #020718 Skyline FW
 VA US58 I-95 US58Bus/35 #100618 Visit Parents from ATMC
+VA US58 US58BusCou_E VA10/32 #103125 Visiting Mom Road Trip
 VA US58AltAbi US23_N US58_E #080820 Travel to SCTC
-VA US58AltAbi US11_S US58_E #051418 SCTC Bd Mtg     
+VA US58AltAbi US11_S US58_E #051418 SCTC Bd Mtg
+VA US58BusCou VA35_N US58_E #103125 Visiting Mom Road Trip     
 VA US58BusVir US58 AtlAve #Visit Mom
 VA US58BusMar US58_E US58_W #020418 Skyline FW
 VA US60 WasSt US11Bus #102925 Visit Luke at VM
@@ -5006,8 +5008,9 @@ VA VA7 VA9/7Bus VA267(1) #073016 Visit Antietam
 VA VA7 I-495 US15/7Bus #071117 CFC Mtg
 VA VA9 VA287 VA7 #073016 Visit Antietam
 VA VA10 I-95 I-295 #052821 SCTC to Mom 
+VA VA10 US58/460 US258_N #103125 Visiting Mom Road Trip
 VA VA10 I-295 VA106/156_N #081719 CFC Meeting
-VA VA14 VA33_W US14_S #103025 Visit Mom Trip  
+VA VA14 VA33_W US17_S #103025 Visit Mom Trip  
 VA VA14 US17Bus_S BayLan #12282024 Trip to Comfort Pt
 VA VA16 I-81 NC/VA #050117 Skyline Bd Mtg
 VA VA16 I-81 US19 #040819 Skyline Bd Mtg
@@ -5019,11 +5022,14 @@ VA VA28 US15/29 SR606 #081819 CFC Meeting
 VA VA28 US15/29 US29 #010318 Visit Chancellorsville Battlefield   
 VA VA30 VA33/249 US60 #01142017 Visit Mom Washington Birthplace
 VA VA30 VA33_E US301/2 #010318 Visit Chancellorsville Battlefield
+VA VA31 US460 OweGroRd #103125 Visiting Mom Road Trip
 VA VA31 OweGroRd JamFry #081819 CFC Meeting 
 VA VA31Jam VA5/199 JamFry #081819 CFC Meeting
+VA VA32 US58/460 US17_N #103125 Visiting Mom Road Trip
 VA VA33 US17_S VA30/249 #01142017 Visit Mom Washington Birthplace
 VA VA33 VA3_W US17_N #010318 Visit Chancellorsville Battlefield
 VA VA35 US58 SR616 #100618 Visit Parents from ATMC
+VA VA35 US58Bus_E VA40 #103125 Visiting Mom Road Trip
 VA VA36 I-95 VA156Bus_N #070916 Petersburg NB   
 VA VA40 US15/360 VA385 #053121 Mom to SCTC
 VA VA42Har VA257_E US250_W #041317 Highland Bd Mtg 

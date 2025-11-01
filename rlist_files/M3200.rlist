@@ -22,7 +22,7 @@ AZ B DowPhoHub 19thAveDun
 
 #CA
 
-CA A Loop APUCitCol
+CA A Loop PomN
 CA AntVlyLn UniSta Lan
 CA Arr SanBerDow RedUni
 CA B Nhol UniSta
@@ -350,6 +350,10 @@ ENG PicLnHT4 HeaTer23 CovGar
 ENG SEML ChaCro Sta
 ENG TPNRtePic ManPic Gre
 
+#GERMANY
+
+DEU-BW IC4 CHE/DEU DEU/CHE
+
 #IRELAND
 
 IRL CorkInt DubHeu LimJct
@@ -360,6 +364,10 @@ IRL GrnLn Dom Daw
 
 ITA-LOM 10Mil ViaMonGra Pia24Mag
 ITA-LOM M2 Cen Gar
+ITA-LIG FbRomGen GenPiaPri LIG/TOS
+ITA-TOS LIG/TOS PisCen
+ITA-LOM S8 Lec MilGrePir
+ITA-LOM MalAerTer2 MilBovPol
 
 #SCOTLAND
 
@@ -369,3 +377,15 @@ SCT KyleLn Din KyleLoc
 SCT StrRwy Avi Bro
 SCT WestHigLnFor FortWil Mal
 SCT NorClyLnHel GlaQueSt EdiWav
+
+#SWITZERLAND
+
+CHE IC4Sch CHE/DEU Sch
+CHE IC4 ZurHau CHE/DEU
+CHE S1 Scha SteRhe
+CHE S29 Etz Win
+CHE S11 ZurHau Win
+CHE R41MGB Visp Zer
+CHE IC81 IntOst ZurHau
+CHE IC21 Olt ArthGol
+CHE IC21 Bel Lug
