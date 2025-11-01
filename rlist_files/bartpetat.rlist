@@ -386,6 +386,7 @@ IL BroLn Chi AdaWab
 # JAPAN
 # Highspeed
 JPN TokaidoShin Tokyo Kyoto
+JPN SanyoShin Fukuyama Hakata
 
 # Metro
 #Tokyo
@@ -399,21 +400,34 @@ JPN AsakusaLn A13 A20
 #Kyoto
 JPN KarasumaLn K09 K11
 
+#Fukuoka
+JPN NanakumaLn N11 N18
+JPN KukoLn K06 K09
+JPN NnrTenjinLn T01 T13
+JPN NnrDazaifuLn T13 D02
+JPN KashiiLn JD01 JD06
+JPN KagoshimaLnN JA31 00
+
+#Hiroshima
+JPN SanyoLn W14/X14 X20/G16
+JPN SanyoLn G01/R01 R10
+JPN Hiroden2 M4 M39
+
 # HONG KONG
 #HK Tramways
 HKG 1 WesMar ShauKeiWan
 HKG 2 PatSt_A ShauKeiWan
-HKG 3 ShekTongTsui +DIV_12A
-HKG 3 NorPoiTer ForHill_B
+HKG 3 ShekTongTsui ForHill_B
 HKG 4 ShekTongTsui CauBayTer
 HKG 5 KenTownTer TonRd_B
 HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar
 
 #HK MTR Tram
-HKG 505 SamShi TownCen
+HKG 505 SamShi ChiChu_B
 HKG 507 TuenMunFryPier SuiLun
-HKG 614 PuiTo +DIV_751/761
+HKG 610 TuenMunFryPier YuenLong
+HKG 614 TuenMunFryPier YuenLong
 HKG 615 TuenMunFryPier YuenLong
 HKG 705 TinShuiWai_A WetPark
 HKG 706 TinYat TinSau
@@ -437,7 +451,7 @@ HKG TWLn Cen TsuWan
 
 #HK Others
 #HKG NPCC TC NP
-#HKG OPCC Wat Sum
+HKG OPOE Wat Sum
 HKG PT Peak CenTer
 HKG HKGAPM T1E T1Mid
 
