@@ -365,9 +365,9 @@ IRL GrnLn Dom Daw
 ITA-LOM 10Mil ViaMonGra Pia24Mag
 ITA-LOM M2 Cen Gar
 ITA-LIG FbRomGen GenPiaPri LIG/TOS
-ITA-TOS LIG/TOS PisCen
+ITA-TOS FbRomGen LIG/TOS PisCen
 ITA-LOM S8 Lec MilGrePir
-ITA-LOM MalAerTer2 MilBovPol
+ITA-LOM MXP1 MalAerTer2 MilBovPol
 
 #SCOTLAND
 
@@ -382,10 +382,14 @@ SCT NorClyLnHel GlaQueSt EdiWav
 
 CHE IC4Sch CHE/DEU Sch
 CHE IC4 ZurHau CHE/DEU
-CHE S1 Scha SteRhe
+CHE S1Gal Scha SteRhe
 CHE S29 Etz Win
 CHE S11 ZurHau Win
 CHE R41MGB Visp Zer
 CHE IC81 IntOst ZurHau
 CHE IC21 Olt ArthGol
-CHE IC21 Bel Lug
+CHE S10Tic Air Lug
+CHE R48MGB Zer Rot
+CHE IC1 GenCor Lau
+CHE R3 Lau Bex
+CHE R91Val StMau Brig
