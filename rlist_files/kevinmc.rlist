@@ -87,13 +87,13 @@ ITA-LAZ MB Ter Col
 # INCOMPLETE / SPECULATIVE: early Valley Metro rides
 
 # 2009-03-28
-AZ VMR PriDrWas VetWayCol
+AZ A PriDrWas VetWayCol
 
 # 2009-12-18
 AZ SW Fla AZ/NM
 
 # 2010-04-05
-AZ VMR 3rdSt 44thStWas
+AZ A 3rdSt 44thStWas
 
 # 2015-07-15
 AZ PHX T4 44thSt
@@ -109,7 +109,7 @@ CA PowHyde Mar Bea
 CA BARTRed Mil SanBru
 
 # 2012-05-27
-CA CT MouView SanFraKing
+CA CalTra MouView SanFraKing
 
 # 2012-06-09
 CA BARTBlue 24thMis Emb
@@ -144,7 +144,7 @@ CA PS Ana +DIV_Uni1
 CA PS UniSta +DIV_Uni2
 
 # 2015-03-09
-CA CT SanJoseDir MouView
+CA CalTra SanJoseDir MouView
 
 # 2015-08-14
 CA VTAOra DtnMouView GreAme
@@ -246,7 +246,7 @@ GA GoldLn FivePoi Len
 IL SW IA/IL UniSta
 
 # 2011-11-xx
-IL CL UniSta IL/IN
+IL FL UniSta IL/IN
 
 # 2014-01-02
 IL SB Gal UniSta
@@ -263,7 +263,7 @@ IL HI UniSta IL/WI
 ###########
 
 # 2011-11-xx
-IN CL IL/IN IN/OH
+IN FL IL/IN IN/OH
 
 ########
 # IOWA #
@@ -452,14 +452,14 @@ NC BluLn EastWestBlvd UNCChaMain
 ########
 
 # 2011-11-xx
-OH CL IN/OH OH/PA
+OH FL IN/OH OH/PA
 
 ################
 # PENNSYLVANIA #
 ################
 
 # 2011-11-xx
-PA CL OH/PA PitUni
+PA FL OH/PA PitUni
 
 # 2012-05-14
 PA BroStLn NRG CityHall
