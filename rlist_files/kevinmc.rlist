@@ -328,6 +328,13 @@ NJ PATHNWT NewPenn NJ/NY
 # 2009-09-28
 NJ MeaRailLn SecJct Mea
 
+# 2012-12-08
+NJ NECorLn NY/NJ NewLibAir
+
+# 2013-12-07
+NJ NENew Met NewLibAir
+NJ NECorLn NY/NJ MetPark
+
 ##############
 # NEW MEXICO #
 ##############
@@ -343,8 +350,27 @@ NM SW AZ/NM NM/CO
 NY PATHNWT NJ/NY WTC
 NY 1 116StColUni CorStWTC
 
+# 2007-12-15
+NY D 161StYanSta 125St
+NY 7 42StTimSq MetsWilPoi
+
 # 2008-02-28
 NY AirTrnJam Jam T8
+
+# 2009-06-27
+NY N TimSq42St ConIslStiAve
+
+# 2009-06-29
+NY 1 191St 116StColUni
+NY C 168St 135St
+NY 2 135St 125St
+NY B 116St 81StMusNH
+
+# 2009-06-30
+NY 6 125thSt AstPl
+NY F W4St 2Ave
+NY 4 BowGre BorHall
+NY 2 96St BorHall
 
 # 2009-07-04
 NY 2 96St ChaSt
@@ -354,16 +380,36 @@ NY 1 ChaSt SouFry
 NY 1 168St 116StColUni
 NY A 190St 168St
 
+# 2012-12-08
+NY NECorLn PennSta NY/NJ
+NY E LexAve53St 34StPennSta
+NY C 81StMusNH SprSt
+NY 6 59thSt BleSt
+
+# 2012-12-09
+NY E LexAve53St 14St
+NY L 8Ave 14StUniSq
+
 # 2017-05-26
+NY 5 14StUniSq WallSt
+NY F 2Ave YorkSt
 NY S42 TimSq GraCen
 NY NewHavLn GraCen NY/CT
+
+# 2017-12-30
+NY N QuePlaza LexAve59St
 
 # 2017-12-31
 NY 6 59thSt 23rdSt
 NY 6 UniSq CanSt
 NY J CanSt ChaSt
 
-# TODO NYC subway
+# 2018-01-01
+NY 2 149StGraCon 34StPennSta
+NY 4 KinRd 59St
+
+# 2018-01-02
+NY R 57St7Av 23St
 
 # 2020-01-03
 NY RonBra PennSta Far
