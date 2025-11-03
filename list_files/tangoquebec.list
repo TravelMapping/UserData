@@ -3268,3 +3268,43 @@ WLF T3 T1_E T1_W
 WLF T4 T1_N T1_S
 WLF T5 T1 End
 WLF T6 T4 T1
+
+GRC A1 Ath Aer
+GRC A2 AnoLio Aer
+GRC A3 Ath Cha
+GRC A4 Ath NeaPer
+
+GRC 1The NeosSidSta NeaElv
+
+GRC P1The The Lar
+GRC P2The The Pla
+GRC P3The The 
+
+GRC 1Ath Pir Kif
+GRC 2Ath Ell Ant
+GRC 3Ath Ela Aer
+
+GRC T6 Syn Mou
+
+
+NLD IC35 AmsCen SchAir
+
+NLD RE18 MaaRan NLD/DEU
+
+NLD RS11 Venl Roe
+NLD RS12 Roe MaaRan
+NLD RS15 Sit Hee
+NLD RS18 MaaRan Lan
+
+NLD S43Lie BEL/NLD Maa
+
+
+
+BEL IC20 Bru LieGui
+
+BEL S43 LieGui BEL/NLD
+
+BEL ParDor FRA/BEL LieGui
+
+
+DEU-NW RE18 NLD/DEU AacHbf
