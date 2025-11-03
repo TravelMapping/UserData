@@ -74,7 +74,53 @@ ITA-LAZ MB Ter Col
 # SPAIN #
 #########
 
-# TODO
+#############
+# CATALONIA #
+#############
+
+# 2019-09-05
+ESP-CT L1 Glo Cat
+
+# 2019-09-06
+ESP-CT L4 Pob Joa
+ESP-CT L2 Clot SagFam
+ESP-CT L5 SagFam HosCli
+
+# 2019-09-07
+ESP-CT L1 Glo Esp
+ESP-CT R5 Esp AeriMon
+ESP-CT L3 Lic Esp
+
+# 2019-09-08
+ESP-CT MadBarFig AR/CT San
+
+##########
+# ARAGON #
+##########
+
+# 2019-09-08
+ESP-AR MadBarFig CL/AR AR/CT
+
+####################
+# CASTILE AND LEON #
+####################
+
+# 2019-09-08
+ESP-CL MadBarFig CM/CL CL/AR
+
+######################
+# CASTILLA-LA MANCHA #
+######################
+
+# 2019-09-08
+ESP-CM MadBarFig MD/CM CM/CL
+
+#######################
+# COMUNIDAD DE MADRID #
+#######################
+
+# 2019-09-08
+ESP-MD MadBarFig Ato MD/CM
 
 #######
 # USA #
