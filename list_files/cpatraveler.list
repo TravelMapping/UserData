@@ -1737,7 +1737,9 @@ AL US80BusSel US80/14 US80/41 #Trips to Salem
 AL US411BusCen US411_W US411_E #Cherokee Electric
 AL NatTraPkwy MS/AL AL/TN #Trip Back from Tupelo    
 AL AL5 AL28 US43 #Pine Belt Audit
-AL AL5 I-22/78 AL195 #11152024 Visit Bea  
+AL AL5 US80 I-20(108) #110325 Trip Home from Bea
+AL AL5 I-22/78 AL195 #11152024 Visit Bea
+AL AL5 AL69_S US278/13 #110325 Trip Home from Bea  
 AL AL9 US231 I-20 #Mt Cheaha Trips
 AL AL9 US411Bus AL/GA #Cherokee Electric
 AL AL9 US278_W AL68_W #100425 Trip to Bea    
@@ -1773,8 +1775,10 @@ AL AL25 AL28 AL69_N #05092025 Travel to Bea
 AL AL28 AL21 AL10_E #Camden Audit 
 AL AL27 US231/249 AL173 # Travel to MCLB Albany
 AL AL30 AL198 US431 #100325 Trip to Bea
+AL AL33 US278/195 AL36 #110325 Trip Home from Bea
 AL AL35 AL273 US11_N #100425 Trip to Bea 
 AL AL35 US72/279 AL9 #Sand Mountain Electric
+AL AL36 AL33 I-65 #110325 Trip Home from Bea
 AL AL36 US31 US231 #New Hope Audit
 AL AL37 US84/134 End #060725 Visit Level Plains 
 AL AL41 AL10/28 AL265 #Camden Audit
@@ -1918,7 +1922,8 @@ AL AL243 AL195 AL24 #11152024 Visit Bea
 AL AL245 AL10 AL185 #08252024 Travel Home to Bea's
 AL AL251 US31 AL53 #10042024 Travel to visit Bea
 AL AL255 RidRd BobWadeLn #081325 Home from Bea
-AL AL261 CR17/52 US31 #081325 Home from Bea 
+AL AL261 CR17/52 US31 #081325 Home from Bea
+AL AL269 AveV AL69 #110325 Trip Home from Bea 
 AL AL269 AveV CR65 #Visit Butlers
 AL AL273 AL68 AL35 #100425 Trip to Bea
 AL AL279 AL79 US72_S #Sand Mountain Electric
@@ -1930,6 +1935,7 @@ AL AL287 AL59 US31 #12132024 Trip to Hattiesburg
 AL AL301 I-20/431 US78 #100425 Trip to Bea
 AL AL302 AL122 US84 #08252024 Travel Home to Bea's
 AL AL382 US82 AL219 #Tuscaloosa Trips
+AL SMTrl BroCha CR7_Low #110325 Trip Home from Bea
 AR I-30 138 111 #01012019 WacoTrip with Bea
 AR I-30 78 TX/AR #01012019 WacoTrip with Bea
 AR I-30 143 138 #10092021 Trip to Bea 
