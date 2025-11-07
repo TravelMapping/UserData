@@ -89,7 +89,14 @@ OH US42 I-90 PubSqu
 OH US422 PubSqu I-77
 
 
+#ILLINOIS
 
-
+IL I-74 127 IL/IN
+IL I-55 157 US41
+IL I-94 43B IL/IN
+IL I-90 WI/IL IL/IN
+IL I-290 28B I-90/94
+IL US41 I-55 RanSt
+#haven't typed in St Louis area hwys yet (I-70, US 40, I-270)
 
 
