@@ -1,9 +1,14 @@
-# Date: 2025-10-11
+# Date: 2025-10-25
+# ----------------
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
+
+
+ENG ChaTnl FolEurTer GBR/FRA                                    #2017
+FRA-HDF ChaTnl GBR/FRA CalEurTer                                #2017
 
 DEU-BW RS7Ulm UlmHbf BW/BY                                      #2022
 DEU-BY RS7Ulm BW/BY Mem                                         #2022
