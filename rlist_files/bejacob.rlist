@@ -70,6 +70,7 @@ FL TriRail MetTra MiaAir
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+FL TECO DowTam CenPark
 FL NBankLn JacRTC RosaPar
 FL SBankLn RosaPar KinAve
 LA CanCem HarCas CemTraTer
@@ -133,6 +134,8 @@ PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq
 PA SilLn Gat StaSq
+PA Duq Low Upp
+PA Mon Low Upp
 TX OraLn DFWAir CityPlaUpt
 TX RedLn Wes CityPlaUpt
 TX RedLnHou EnsHCC CenSta
