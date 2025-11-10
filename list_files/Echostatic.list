@@ -472,7 +472,9 @@ IN IN213 IN37 IN26
 IN IN931 US31_S US31_N
 
 #Indiana Select Named Freeways
+IN HWCookDr I-70 Ter
 IN KeyPkwy I-465 US31
+IN SamJonExpy I-74/465 ExeDr
 
 #Louisiana State Highways
 LA LA1 LA986 US190_E
@@ -809,3 +811,4 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
