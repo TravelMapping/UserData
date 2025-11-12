@@ -84,7 +84,7 @@ OH I-271 18 26A
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
 OH US42 KY/OH TarCemRd
-OH US42 BagRd YorkRd
+OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
 OH US422 PubSqu I-77
 
@@ -98,5 +98,25 @@ IL I-90 WI/IL IL/IN
 IL I-290 28B I-90/94
 IL US41 I-55 RanSt
 #haven't typed in St Louis area hwys yet (I-70, US 40, I-270)
+
+
+#WASHINGTON
+
+WA I-90 2 25
+WA I-90 277 WA/ID
+WA I-5 151 166
+WA I-405 I-5(154) 2
+WA US2 AirDr I-90(277)
+WA SteCynRd WA706 ParVlyRd_S
+
+
+#IDAHO
+
+ID I-90 WA/ID 15
+#My US 95 mileage is so small it's hard to capture in TM
+ID I-184 0 US20/26
+ID I-84 49 52
+ID US20 I-184 BroAve
+
 
 
