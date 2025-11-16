@@ -244,20 +244,30 @@ CHN-SC G0512 42 106
 
 JPN E20 SE4 11
 JPN E68 E20 3
+JPN N1Yok P12 P13           # walking
+JPN N4 N1 N6_N
+JPN N4 P302 P315            # walking
 JPN N6 N1 P314
-JPN N15 N4 P316             # partial walking
+JPN N14 P319 P465           # walking
+JPN N15 N4 P304
+JPN N15 P304 P316           # walking
+JPN N17 N4_N P302           # walking
 JPN N17 N254 P319           # walking
 JPN N20 P305 P317
 JPN N20 P403 P304           # walking
-JPN N24 N1/N367 P32_N       # partial walking
+JPN N24 P32_S P32_N
+JPN N24 N1/N367 P32_S       # walking
 JPN N119 N120 P14
-JPN N120 N119 SanRin        # partial walking
+JPN N120 N119 N120Iro_W
+JPN N120 N120Iro_W SanRin   # walking
 JPN N120Iro N120_E N120_W
 JPN N134 P32 N467           # walking
 JPN N137 N139_N *P21        # walking
-JPN N246 P319 P413          # walking
-JPN N261 N54_A P84          # partial walking
+JPN N169 N369 P80           # walking
+JPN N246 P405 P413          # walking
+JPN N261 N54_A P84          # walking/tram
 JPN N367 N1/N24 P186        # walking
+JPN N369 N24/P1 N169        # walking
 JPN SE4 404 E20
 
 KOR Ex130 Sin 7
