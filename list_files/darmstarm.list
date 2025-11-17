@@ -110,7 +110,7 @@ MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
-MD I-83 16 MD/PA #hershey trip 2025
+MD I-83 14 MD/PA #hershey trip 2025
 MD I-95 DC/MD MD/DE
 MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
@@ -195,8 +195,9 @@ NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-240 5B 9 #BRR 9-25
 NC I-440 1 12
+NC I-440 13 16 #roadtrip 11-25
 NC I-485 30 32
-NC I-540 24 26 #roadtrip 8-13-25
+NC I-540 4 26 #roadtrip 11-16-25
 NC I-885 5 13 #completed 9-25
 NC US1 NC2 US401_N #update 10-25 wingate trip
 NC US15 NC/VA I-85(202)
@@ -209,8 +210,8 @@ NC US52 107 108B #winston salem
 NC US64 464 293(40)
 NC US64 BilCrkRd NC9 #BRR 9-25
 NC US64 404 KelRd # diavolo 10-25
-NC US64BusWen NC231 I-540 #roadtrip 8-13-25
-NC US70 LomSt NC50_N #as far as the mall
+NC US64BusWen NC231 I-440 #roadtrip 8-13-25 finished november 2025
+NC US70 LomSt 292 #roadtrip 11-25
 NC US74 306 MainSt #wingate trip 10-25
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US74BusRoc US74_W 1 #wingate trip 10-25
