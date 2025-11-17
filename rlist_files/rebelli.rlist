@@ -2,10 +2,14 @@
 # Delaware
 DE PL MD/DE DE/PA
 
+# District of Columbia
+DC GreLn DC/MD Arc
+
 # Georgia
 GA GoldLn Air PeaCen
 
 # Maryland
+MD GreLn ColPk DC/MD
 MD PL NewCar MD/DE
 
 # New Jersey

@@ -54,3 +54,69 @@ KY I-71 1 KY/OH
 #I also drove all 6 miles of KY 609
 
 
+#GEORGIA
+
+GA US78 TechPkwy PeaSt
+GA US78 US278_E GA410(2)
+GA US23 GA154 US29/78_S
+GA US19 14thSt GA13
+GA US19 I-285(27) GA400(9)
+GA I-285 20 39
+GA I-75 259 GA/TN
+GA I-85 72A 95
+
+
+#OHIO
+#only entered Cleveland-area highways so far (but tried to enter all my travels on them throughout the state)
+
+OH I-71 KY/OH I-90
+OH I-77 147 156
+OH I-80 71 151
+OH I-80 152 173
+OH I-90 71 142
+OH I-90 OH2_W OH/PA
+
+OH I-480 I-80_W 21(271)
+OH I-490 1A OH10_E
+OH I-270 I-71 55
+OH I-271 18 26A
+
+OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
+OH US20 CroRd PubSqu
+OH US42 KY/OH TarCemRd
+OH US42 I-71(234) OH17
+OH US42 I-90 PubSqu
+OH US422 PubSqu I-77
+
+
+#ILLINOIS
+
+IL I-74 127 IL/IN
+IL I-55 157 US41
+IL I-94 43B IL/IN
+IL I-90 WI/IL IL/IN
+IL I-290 28B I-90/94
+IL US41 I-55 RanSt
+#haven't typed in St Louis area hwys yet (I-70, US 40, I-270)
+
+
+#WASHINGTON
+
+WA I-90 2 25
+WA I-90 277 WA/ID
+WA I-5 151 166
+WA I-405 I-5(154) 2
+WA US2 AirDr I-90(277)
+WA SteCynRd WA706 ParVlyRd_S
+
+
+#IDAHO
+
+ID I-90 WA/ID 15
+#My US 95 mileage is so small it's hard to capture in TM
+ID I-184 0 US20/26
+ID I-84 49 52
+ID US20 I-184 BroAve
+
+
+

@@ -9,8 +9,9 @@ CA PS UniSta Cha
 CA SanBerLn UniSta Cla
 CA VenCouLn UniSta VanNuys
 CA CalTra MouView SanFraKing
-CA A Pico APUCitCol
+CA A Pico PomN
 CA B UniSta NHol
+CA D UniSta WilVer
 CA E ExpoCre LATTCOrtInt
 CA K RedBea ExpoCre
 CA BARTOra Ber DtnBer
@@ -30,10 +31,10 @@ CA VTAOra DtnMouView Bay
 OR AC Sal PorUniSta
 OR WesExpSer BeaTraCen Wil
 OR BlueLn HatGovCen CleAve
-OR GreLn PSUSou HolBlvd
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn HilAirFai PorIntAir
-OR YelLn PSUSouCol ExpoCen
+OR YelLn PSUSou ExpoCen
 OR BLp OMSI GraHol
 OR NSLn LowBond Joh_N
 WA AC Van SeaKingSt

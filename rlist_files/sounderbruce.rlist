@@ -1,14 +1,13 @@
 
-CA A Was 7thStMetCen
-CA A UniSta APUCitCol
+CA A WilRosaPar APUCitCol
 CA B NHol UniSta
-CA C AviLAX HarFwy
+CA C LAXMTC Nor
 CA D WilWes UniSta
-CA E ExpoPkUSC 7thStMetCen
-CA E *OldGoldLn Atl
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
 CA SanBerLn CalStaLA Cla
 
-CA BlueLn SanYsiTC +DIV_Gre_N
+CA BlueLn SanYsiTC UTCTC
 CA CopLn ElCaj SanTownCen
 CA GreLn 12thImpTC ElCaj
 CA OraLn Cou ElCaj
@@ -50,12 +49,14 @@ MD RedLn ShaGro MD RedLnGle Gle
 VA SilLn WieResE MD SilLn LarTownCen
 VA YelLn Hun DC YelLn DC/MD
 
-IL BlueLn OHa Monr
-IL BlueLn Jac ForPk
-IL BroLn StaLake ClaLake
-IL GreLn StaLake AdaWab
+DE WilNewLn DE/PA Wil
+
+IL BlueLn OHa ForPk
+IL BroLn +DIV_NW Loop
+IL GreLn Cli +DIV_SE
 IL MLBlueLn MO/IL EastRiv
 IL MLRedLn MO/IL EastRiv
+IL NCS UniSta OHaTra
 
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
@@ -80,6 +81,17 @@ MO KCSC UniSta RivMar
 MO MLBlueLn CenWestEnd MO/IL
 MO MLRedLn DelLp MO/IL
 
+NJ HBLRWST New TonAve
+NJ NLRCS PennSta GroSt
+NJ PATCO PA/NJ Bro
+NJ PATHH33 Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+NJ RivLn WalRandTC Tre
+NJ NECorLn NY/NJ Tre
+NJ KS PA/NJ NJ/NY
+
 NV LVM BalParLV Har/Linq
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
@@ -97,9 +109,15 @@ NY Q 96St +DIV_R/W
 NY R LexAve59St BayRid95St
 NY S42 TimSq GraCen
 NY SIR StGeo Elt
-NJ PATHJ33 JouSq NY PATHJ33 14St
-NJ PATHNWT NewPenn JouSq
 NY BabBra PennSta Jam
+NY NECorLn PennSta NY/NJ
+NY KS NJ/NY PennSta
+NY PATHH33 NJ/NY 33St
+NY PATHJ33 NJ/NY 33St
+NY PATHHWT NJ/NY WTC
+NY PATHNWT NJ/NY WTC
+NY RIT Man RooIsl
+NY AirTrnHow HowBea Loop
 
 OK BriLoop SciPark_N MyrGar
 OK BriLoop Bal SciPark_S
@@ -110,7 +128,7 @@ OR BlueLn HatGovCen CleAve
 OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
-OR YelLn PSUSouCol ExpoCen
+OR YelLn PSUSou ExpoCen
 OR ALp 9thLov_N 9thLov_S
 OR BLp +DIV_Lov_S +SKIP_CenLib
 OR BLp GraHol +SKIP_11thMar
@@ -121,6 +139,14 @@ OR WesExpSer BeaTraCen Wil
 
 OR AC PorUniSta BC AC VanPacCen
 OR CS PorUniSta OR/WA
+
+PA BroStLn CityHall FernRock
+PA MarFraLn 15th Fra
+PA PATCO 15th16thLoc PA/NJ
+PA Rte15 Bro Front
+PA CHELn Phi30thSt Jef
+PA WilNewLn DE/PA Phi30thSt
+PA KS Phi30thSt PA/NJ
 
 TX CapMetRail How PlaSal
 TX BlueLn UniSta StPaul
@@ -162,7 +188,7 @@ BC CanLnRic Wat RicBri
 BC ExpoLn Wat KingGeo
 BC ExpoLnPro Wat ProWayUni
 BC MilLn VCCCla LafLakeDou
-BC WestCoaExp CoqCen Wat
+BC WestCoaExp MisCity Wat
 
 BC AC USA/CAN VanPacCen
 
@@ -230,3 +256,6 @@ DEU-BE S7 WestKre OstKre
 DEU-BE S41 WestKre_N WestKre_S
 DEU-BE S42 OstKre_N OstKre_S
 DEU-BE S46 HerStr SchWei
+
+
+

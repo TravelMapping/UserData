@@ -1,0 +1,215 @@
+# THE NETHERLANDS
+
+NLD RS12 Roe MaaRan
+NLD RS15 Sit Hee
+NLD RE18 Maa NLD/DEU
+
+
+NLD RS32 ArnCen Wehl
+NLD RS33 ArnCen +DIV_ICN
+
+NLD S43Lie BEL/NLD Maa
+
+#Metro
+
+
+#Tram
+
+
+# BELGIUM
+
+#Tram
+
+
+# LUXEMBOURG
+
+
+# GERMANY
+##  BW - Baden-Württemberg
+
+##  BY - Bayern
+
+##  BE - Berlin
+
+##  BB - Brandenburg
+
+##  HB - Bremen
+DEU-HB 3Bre UseAks DomsHei
+DEU-HB 10Bre MoorStr Hbf
+
+##  HH - Hamburg
+
+##  HE - Hessen
+
+##  MV - Mecklenburg-Vorpommern
+
+##  NI - Niedersachsen
+
+##  NW - Nordrhein-Westfalen
+
+##  RP - Rheinland-Pfalz
+
+##  SL - Saarland
+
+## SN - Sachsen
+
+##  ST - Sachsen-Anhalt
+
+##  SH - Schleswig-Holstein
+
+##  TH - Thuringia
+
+
+# DENMARK
+
+# UNITED KINGDOM
+
+## WLS - Wales
+#WLS GtOrmeTwy VicSta Sum
+#WLS SnoMouRwy Lla Clo
+
+## ENG - England
+#Train
+ENG ChaTnl FolEurTer GBR/FRA
+#ENG LakHavRwy Lak Hav
+
+#Londen Underground / TFL
+
+#Tram
+#ENG MetLnkEDR DeaCas ExcSqu
+
+
+# NORWAY
+
+# FRANCE
+#Grand-Est
+
+#Haut de France
+FRA-HDF ChaTnl GBR/FRA CalEurTer
+#FRA-HDF LonAms GBR/FRA FRA/BEL
+#FRA-HDF ParAms IDF/HDF +DIV_Lil2
+
+#IDF
+#FRA-IDF A RueMal ChaHal
+#FRA-IDF B GareNord ChaHal
+#FRA-IDF C IssyValSei GareAus
+#FRA-IDF E HauStLaz Mag
+#FRA-IDF LonPar HDF/IDF ParGareNord
+#FRA-IDF FunMon Inf Sup
+
+#Paris Metro / Sub-urban
+#FRA-IDF N ParMon Cla
+#FRA-IDF M1 GeoV PalRoyMusLou
+#FRA-IDF M2 ChaGauEto Nat
+#FRA-IDF M5 Lau GareAus
+#FRA-IDF M6 ChaGauEto QuaiGare
+#FRA-IDF M7 GareEst Jus
+#FRA-IDF M9 PontSev Mue
+#FRA-IDF M12 StLaz Abb
+
+#FRA-IDF T2 Bri IssyValSei
+
+
+#Normandy
+
+
+# CZECH REPUBLIC
+#Metro
+
+#Tram
+
+#Train
+
+# POLAND
+
+# SLOVENIA
+
+# SPAIN
+ESP-AN C1Mal MalCenAla Aer
+ESP-AN L1 BlasInf PlaCuba
+
+
+# PORTUGAL
+
+# ITALY
+
+#SWISS
+
+#LIECHTENSTEIN
+
+# Austria
+
+#ROMANIA
+
+#TURKEY
+
+#UKRAINE
+
+
+# AMERICA
+# UNITED STATES of AMERICA
+
+
+# ASIA
+# VIETNAM
+# THAILAND
+# JAPAN
+# Highspeed
+JPN SanyoShin Fukuyama Hakata
+
+# Metro
+#Tokyo
+
+#Kyoto
+
+#Fukuoka
+JPN NanakumaLn N11 N18
+JPN KukoLn K06 K09
+JPN NnrTenjinLn T01 T13
+JPN NnrDazaifuLn T13 D02
+JPN KashiiLn JD01 JD06
+JPN KagoshimaLnN JA04 00
+JPN KagoshimaLnN JA31 JA28
+
+#Hiroshima
+JPN SanyoLn W14/X14 X20/G16
+JPN SanyoLn G01/R01 R10
+JPN Hiroden2 M4 M39
+
+# HONG KONG
+#HK Tramways
+HKG 3 ShekTongTsui LuaRdSwaSt
+
+#HK MTR Tram
+
+#HK MTR
+HKG AirExp HongKong Air
+HKG ERailLn Adm HungHom
+HKG IslLn KenTown TaiKoo
+HKG SIslLn Adm OcePark
+HKG TCLn HongKong TungChu
+HKG TWLn Cen LaiKing
+#HKG KTLn Wha TiuKengLeng
+#HKG TKOLn NorPoi PoLam
+#HKG TKOLnLoh TseKwanO LOHPark
+#HKG TMLn WuKaiSha TuenMun
+#HKG DisResLn SunBay DisRes
+
+#HK Others
+HKG OPOE Wat Sum
+HKG PT Peak CenTer
+HKG HKGAPM T1E T1Mid
+
+# MACAU
+
+# TAIWAN
+TWN HSR TPE ZUY
+
+TWN TYAir A1 A12
+TWN BroLn BR01 BR11
+TWN RedLn R03 R15
+TWN BlueLn B10 BL14
+TWN GreLn G12 G18
+
+
+#CHINA
