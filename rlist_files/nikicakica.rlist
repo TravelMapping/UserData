@@ -1,10 +1,11 @@
 FRA-IDF A LaDef MarValChe
 FRA-IDF B AerCDG2TGV BurYve
 FRA-IDF CVer VerChaRiveGau StMicNotDame
-FRA-IDF CPon GareAus MasPal
+FRA-IDF CPon StMicNotDame MasPal
 FRA-IDF E NanFol Mag
 FRA-IDF NRam ParMon Ram
 FRA-IDF R ParGareLyon FonAvon
+FRA-IDF V MasPal VerCha
 FRA-IDF M1 PorMai StPaul
 FRA-IDF M2 PorDau PereLac
 FRA-IDF M3 StLaz PereLac
@@ -28,6 +29,7 @@ FRA-IDF FunMon Inf Sup
 FRA-IDF ParStr ParGareEst IDF/HDF
 FRA-IDF ParZur ParGareLyon IDF/BFC
 FRA-IDF ParLux ParGareEst IDF/HDF
+FRA-IDF ParAms ParGareNord IDF/HDF
 FRA-IDF BruMar MarValChe IDF/BFC
 FRA-BFC ParLyon IDF/BFC BFC/ARA
 FRA-BFC ParZur IDF/BFC BFC/GES
@@ -35,6 +37,7 @@ FRA-HDF ParStr IDF/HDF HDF/GES
 FRA-HDF ParStrGou GES/HDF HDF/GES
 FRA-HDF ParLux IDF/HDF HDF/GES
 FRA-HDF ParLuxGou GES/HDF HDF/GES
+FRA-HDF IDF/HDF FRA/BEL
 FRA-ARA ParLyon BFC/ARA LyonPartDieu
 FRA-ARA ParNice BFC/ARA LyonStExuTGV
 FRA-ARA RE GarePartDieuVil AerLyonStExu
@@ -109,3 +112,5 @@ DNK M2 KonNyt Luf
 DNK M3 KobHov_1 Ost
 LUX ParLux FRA/LUX LuxGareCen
 LUX T1 AlpWei PlaMetz
+BEL ParAms FRA/BEL BEL/NLD
+NLD ParAms BEL/NLD AmsCen

@@ -659,7 +659,7 @@ IA US218 187 71(380)
 IA US275 CRL35 US34_E
 IA US275 IA2_W IA/MO
 ID I-15 ID/MT 143
-ID I-84 28 29
+ID I-84 OR/ID ID/UT
 ID I-84BLCal 21stAve LinSt
 ID I-90 34 ID/MT
 ID ID3 I-90(34) ID6
@@ -685,8 +685,8 @@ ID ID55 LkSt_E ID44_E #less LkSt_E to Deinhart Lane
 ID ID61 US89 WY/ID
 ID ID87 ID/MT US20
 ID US12 WA/ID ID/MT
-ID US20 I-84(28) ID16
-ID US20 ID44 I-84(95)
+ID US20 I-84(26) ID16
+ID US20 ID44 I-84(95) #plus I-84(95) to service plaza at exit 95
 ID US20 US26/93 ID/MT
 ID US26 I-84(28) ID16
 ID US26 ID44 US20_E
@@ -697,9 +697,11 @@ ID US95 US12_E ID55_N
 ID US95 ID55_S OR/ID
 IL I-55 292 286
 IL I-55 282 277B #1982 speculative
-IL I-55 164 157 #perhaps still an untitled forerunner
+IL I-55 167 164 #somewhat speculative in 1985
+IL I-55 164 157
 IL I-55 98 92
 IL I-55 3A MO/IL
+IL I-55BLBlo I-55_N US51Bus
 IL I-57 346 315
 IL I-57 237 162
 IL I-57 162 92 #1981 speculative
@@ -750,7 +752,7 @@ IL IL83 IL19 I-290 #less IL19 to Grove Ave
 IL IL83 US20 127thSt_W #speculative
 IL IL83 DixHwy IL1 #less almost all: DixHwy to Thornton Road; speculative
 IL IL83 TorAve_S US30 #speculative
-IL IL88 76 78 #was IL5 in 1985
+IL I-88 76 78 #was IL5 in 1985
 IL IL92 IA/IL IL192
 IL IL94 US67 IL192
 IL IL100 IL106_E IL106_W
@@ -977,6 +979,9 @@ KY KY15 KY1812/3068 KY476
 KY KY15 KY451_N US119/15Bus
 KY KY15BusWhi KY15_N MainSt
 KY KY19 KY10_W KY165
+KY KY21 KY954 I-75 #highly speculative in 1985
+KY KY21 I-75 KY595 #plus KY595 to Bluebird Avenue
+KY KY21 KY595 US421_S #less KY595 to Bluebird Avenue; highly speculative
 KY KY22 US27_N KY10
 KY KY30 KY11 KY1812_S
 KY KY30 KY1812/3068 KY15_S
@@ -1031,27 +1036,39 @@ KY KY451 HalRogPkwy KY15_N #speculative 1985
 KY KY476 KY15 KY550_E
 KY KY550 KY476_N KY160_S
 KY KY559 KY170 KY11/57
+KY KY595 I-75 KY21
 KY KY910 KY80_E KY80_W
 KY KY914 CumPkwy HalRogPkwy_W
+KY KY954 KY3109 KY21 #highly speculative in 1985
+KY KY1004 US25 KY1955 #highly speculative in 1985 
 KY KY1304 KY229 US25E #speculative
 KY KY1373 US460_E US460_W
 KY KY1377 US51 KY80
 KY KY1384 US23/460_N US23/460_S
+KY KY1505 KY3275/3545 US25 #highly speculative in 1985
 KY KY1659 KY1784 KY1681
 KY KY1681 KY1659 US60_W
 KY KY1685 US460 US421
 KY KY1812 KY15_S KY3068_W #plus KY3068_W to Brown Street
 KY KY1861 KY153 KY322
+KY KY1912 US421 KY2614 #highly speculative in 1985
+KY KY1955 KY2614 KY1004 #highly speculative in 1985
 KY KY1956 HalRogPkwy_W HalRogPkwy_E
 KY KY2155 KY2245/2262 US60/231
+KY KY2614 KY1912 KY1955 #highly speculative in 1985
 KY KY3068 KY1812_W KY15/1812
+KY KY3109 KY954 KY3545 #highly speculative in 1985; may not have had Kentucky highway designation then
 KY MamCavePkwy End KY70/255
 #KY PenPkwy KY351 AudPkwy now US41 and maybe I-69
 KY US23 US60_W US60_E
 KY US23 KY114 KY1384_N #or perhaps stay on US23 / US460 / KY80
 KY US23 KY1384_S US460_E
 KY US23 US119_S VA/KY
+KY US25 I-75(99) I-75(97)
+KY US25 KY595 KY21_W
+KY US25 KY1505 I-75(62) #highly speculative in 1985
 KY US25 US150 I-75(59)
+KY US25 I-75(59) KY1004 #highly speculative in 1985
 KY US25 HalRogPkwy US25E/25W
 KY US25E I-75 TN/KY
 KY US25BusRic KY169 KY52_E
@@ -1098,6 +1115,7 @@ KY US231 US60_W US68/231Bus
 KY US231BusBow US231_N US68Bus_E
 KY US421 KY/IN US42_W
 KY US421 US127_N KY4(7)
+KY US421 KY21_W KY3447 #plus KY3447 to Clover Bottom; highly speculative in 1985
 KY US421 US119_S VA/KY
 KY US460 US60/421 KY1685
 KY US460 I-64 KY686_N
@@ -2225,30 +2243,60 @@ ON ON403 ON401_W 80
 ON ON417 ON17_Bra 180 #may have been designated ON17 then
 ON ON417 180 QC/ON
 ON ONQEW 100 32
-OR I-5 301 300A
-OR I-5 299B 234
-OR I-84 I-5 84 #was then I-80N, congruency uncertain in some parts
-OR I-84 85 168 #was then I-80N, congruency uncertain in some parts
+OR I-5 301 234
+OR I-5 228 162 #1986 speculative
+OR I-84 I-5 84
+OR I-84 85 OR/ID
+#OR I-84 I-5 84 was then I-80N, congruency uncertain in some parts
+#OR I-84 85 168 was then I-80N, congruency uncertain in some parts
 OR I-405 1D I-5(299B)
 OR OR18 BakSt US101
+OR OR22 OR18_W OR18_E
+OR OR22 16A 1 #1986 speculative
+OR OR22 OR226 US20/126 #1986 speculative
+OR OR34 US101 53rdSt #1986 speculative but likely based on two trips
+OR OR34 53rdSt US20/99W #1986 probable
+#OR OR34 in 1985/6 in Corvallis US20_W TO US20_E route at that time
+OR OR34 ORH210 I-5 #1986 speculative
+OR OR38 US101 I-5/99 #1986 speculative
 OR OR47 McDonRd US26_E #less McDonRd to just over Columbia/Washington County line
+OR OR47 US26_E OR99W #1986 speculative
 OR OR78 LavaBedRd US95
+OR OR99 I-5(170) OR38 #1986 speculative
 OR OR99E US20_W I-5(234)
+OR OR99EBusSal OR22 I-5(253) #1986 speculative
 OR OR99W I-5(294) CirBlvd
+OR OR99W CirBlvd US20/34 #very likely
+OR OR99W US20/34 TerHwy #1986 speculative
 OR OR104 MainSt ColBeaRd
 OR OR104SWar OR104 US101
+OR OR126 US101 TerHwy #1986 speculative
+OR OR126 US20_W US26 #1986 speculative
+OR OR127 US30 US26 #1986 speculative
 OR OR140 AckCampRd OR/NV #plus AckCampRd west almost to Doherty Slide Rd, which may no longer exist
+OR OR200 OR99W Ben/Lane
+#OR then OR200 Ben/Lane OR126 now only Territorial Road
 OR OR201 OwyAve ID/OR
 OR OR205 KruResRd RoaSprRan #plus Diamond Grain Camp Rd to KruResRd
-OR US20 ConBlvd OR99E_N #plus Northeast Seavy Avenue to ConBlvd
+OR OR217 US26 8 #speculative 1986
+OR OR223 OR223_Dal US20 #speculative
+OR OR223Dal OR223 OR22 #speculative
+OR OR226 US20 OR22 #1986 speculative
+OR US20 HarSt 53rdSt #plus Harney Street to Fogarty Street, speculative
+OR US20 OR99W OR99E_N #plus NW Monroe Avenue to OR99W
+OR US20 OR99E_N US97Bus_S #1986 speculative
 OR US20 US395_S RusRd
 OR US26 US101 TimRd
+OR US26 TimRd OR47_N #speculative 1986
 OR US26 OR47_N 74
+OR US30 US101 OR127
 OR US30 I-5(301) OR/ID
 OR US30HisCas I-84(44) US30
 OR US30HisCol CorHillRd I-84(35) #possibly I-84(17A) instead of CorHillRd
 OR US95 OR/ID OR78
+OR US97 OR126_E OreAve #1986 speculative
 OR US101 OR/WA ORH104Y
+OR US101 ORH104Y OR104 #speculative 1986
 OR US101 OR104 US26
 OR US101 OR18 CA/OR
 OR US101BusAst FtClaRd US101_N
@@ -2360,7 +2408,7 @@ SC SC288 US178 US276
 SC SC291 US276/253 US25
 SC SC327 US76/301_W US76/301_E
 SC SC414 US25_S US25_N
-SC SC527 US401  #less US401 to Dog Island Road
+SC SC527 US401 US378 #less US401 to Dog Island Road
 SC US1 SC/NC US52_S
 SC US1 US521/601 SC34_W
 SC US15 US52_N US52/401_S
@@ -2715,11 +2763,13 @@ UT CapReefSceDr UT24 CapGorRd
 UT CubCreRd UT149 End
 UT I-15 385 313
 UT I-15 16 8
+#UT I-15BLBri ForSt IS-84_E not implemented in travmaps
 #UT I-70 149 UT/CO #not yet
 UT I-70BLGre I-70_W HasRd #less I-70 to West Main Street
 UT I-80 1 UT/WY
 UT I-80BLWen NV/UT I-80_E
-UT I-84 5 120
+UT I-84 ID/UT 120
+#UT I-84BLBri ForSt IS-84_E not implemented in travmaps
 UT I-215 I-15 22
 UT US6 NV/UT UT132
 UT US6 US89_S US191_N
@@ -2732,6 +2782,7 @@ UT US89 I-15(324) I-15(317A)
 UT US89 US50_W US89Alt
 UT US89 I-70(23) UT30_E #less I-70(23) to Sevier Highway
 UT US89AltKan US89 AZ/UT
+UT US91 US89_N I-15
 UT US163 AZ/UT US191 #UT47 at the time	 
 UT US189 UT/WY US40_E
 UT US191 UT262 US163 #UT47 at the time
@@ -2948,7 +2999,7 @@ VA VA154 LocSt I-64
 VA VA156 VA5/106 VA106/156Bus
 VA VA156 DarRd ChaCityRd_E #plus Elko Road to VA106
 VA VA156BusHop VA36_W VA156_N
-VA VA158 I-77 US52 #speculative
+VA VA148 I-77 US52 #speculative
 VA VA166 US60 US17
 VA VA168 VA166_N NC/VA
 VA VA197 US1/301 VA147

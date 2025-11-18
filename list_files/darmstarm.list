@@ -1,7 +1,7 @@
 #darmstarm's list of routes.
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 10-18-25.
+#last updated 11-07-25.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -37,7 +37,7 @@ PA I-80 123 111 #niagara trip
 PA I-80 298 302 #tobyhana trip
 PA I-81 59 MD/PA #raleigh -> hershey
 PA I-81 70 67 #niagara trip
-PA I-83 41A 51 #niagara trip, raleigh-> hershey
+PA I-83 MD/PA 51 #niagara trip, various hershey trips
 PA I-86 PA/NY 1 #niagara trip (rnrhf)
 PA I-90 37 OH/PA #niagara trip (rnrhf)
 PA I-95 DE/PA PA/NJ #various trips
@@ -59,15 +59,16 @@ PA US219 PA153 PA948_N
 PA US222 US422/12 PA61 #only part i know for sure
 PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
-PA US322 I-83(46A) US422 #hershey -> raleigh
+PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 US222Bus #reading part
+PA US422Rea PA743 US322 #various trips involving hershey park
 PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
 PA PA26 UniDr US322
 PA PA33 I-80 US22 #tobyhana trip
-PA PA39 HerParkDr_E HanSt #most likely incomplete
+PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
 PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
 PA PA52 DE/PA PA926
@@ -93,6 +94,7 @@ PA PA472 US1 PA372
 PA PA666 US6 PA948
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
 PA PA743 PA283 US422
+PA PA743TrkHer PA743_S US322_W # various hershey trips
 PA PA772 US30 PA340_W
 PA PA796 PA896 PA41
 PA PA841 MD/PA PA82
@@ -104,10 +106,11 @@ PA PA948 PA120 PA666
 PA PA957 PA69_N US62
 PA PA970 US322 I-80
 #maryland
+MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
-MD I-83 16 12 #to 695, alternate way
+MD I-83 14 MD/PA #hershey trip 2025
 MD I-95 DC/MD MD/DE
 MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
@@ -135,12 +138,15 @@ MD MD3 US50/301 I-97/32
 MD MD7Elk SouSt US40
 MD MD41 I-695 JopRd
 MD MD45 WarRd TimRd
+#MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
 MD MD146 I-695 BleRd #towson
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
 MD MD155 US40/7 I-95
 MD MD161 MD155 MD623
+MD MD188 McABlvd MD190 #hershey trip 2025
+MD MD190 MD188 I-495 #hershey trip 2025
 MD MD193 BalWasPkwy GoodLuckRd
 MD MD201 MD295 DC/MD #end of baltwash to dc
 MD MD213 MD/PA MD273 #two parts
@@ -161,15 +167,20 @@ MD MD313 HolCir MD544 #goldsboro skip
 MD MD313 US301 MD213/290
 MD MD316 MD279 MD277
 MD MD355 I-270/495 MD547 #the mansion at strathmore
+MD MD355 NewTecWay FreLim #hershey trip 2025
 MD MD544 MD313 US301
 MD MD623 MD161 US1
 MD MD763 MD155 JunSt
 MD MD896 MD/PA DE/MD
 #washington dc
+DC RockCrkPkwy FSt US29 #hershey trip 2025
+DC ClaBarPkwy ChaBriRd MD/DC #hershey trip 2025
 DC I-95 VA/DC DC/MD
 DC I-295 5 MD/DC
 DC I-395 7 VA/DC
 DC I-695 2A I-395
+DC US29 I-66 MSt #hershey trip 2025, to canal st
+DC US50 23rdSt 17thSt #hershey trip 2025
 DC DC295 DC/MD 1A
 #north carolina
 NC RalChaExpy I-440 I-40
@@ -184,8 +195,9 @@ NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-240 5B 9 #BRR 9-25
 NC I-440 1 12
+NC I-440 13 16 #roadtrip 11-25
 NC I-485 30 32
-NC I-540 24 26 #roadtrip 8-13-25
+NC I-540 4 26 #roadtrip 11-16-25
 NC I-885 5 13 #completed 9-25
 NC US1 NC2 US401_N #update 10-25 wingate trip
 NC US15 NC/VA I-85(202)
@@ -197,8 +209,9 @@ NC US52 140 109 #tenessee trip, BRR
 NC US52 107 108B #winston salem
 NC US64 464 293(40)
 NC US64 BilCrkRd NC9 #BRR 9-25
-NC US64BusWen NC231 I-540 #roadtrip 8-13-25
-NC US70 LomSt NC50_N #as far as the mall
+NC US64 404 KelRd # diavolo 10-25
+NC US64BusWen NC231 I-440 #roadtrip 8-13-25 finished november 2025
+NC US70 LomSt 292 #roadtrip 11-25
 NC US74 306 MainSt #wingate trip 10-25
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US74BusRoc US74_W 1 #wingate trip 10-25
@@ -219,6 +232,7 @@ NC NC50 US70_W LynnRd #technically to SR 1822
 NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_S #crapel hill
+NC NC55 US64 HighHouRd #ATT
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
@@ -386,6 +400,7 @@ VA I-81 114 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, 
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
 VA I-295 43 28A #williamsburg trip
+VA I-395 1 8A #hershey trip 2025
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
 VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
@@ -409,17 +424,19 @@ VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US460BusChr US460_E US460(2) #shanendoah trip 10-25
 VA US460BusChr US460_W RoaSt #shanendoah trip 10-25
 VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
-VA VA6 US29_S VA151_N #raleigh -> hershey
+VA VA6 US29_S VA151_N #raleigh -> hershey 2024
 VA VA8 VA57 I-81 #fall break trip 10-25
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
+VA VA27 I-395 BouDr #hershey trip 2025
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25
-VA VA86 NC/VA US29/58 #raleigh -> hershey
+VA VA86 NC/VA US29/58 #raleigh -> hershey 2024
 VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
-VA VA151 VA6_E US250 #raleigh -> hershey
+VA VA144 I-95 US1/301_S #hershey trip 2025
+VA VA151 VA6_E US250 #raleigh -> hershey 2024
 VA VA207 US301 I-95
 #VA VA253 I-81 university blvd #shanendoah trip 10-25
 VA VA280 SR710 US33 #shanendoah trip 10-25

@@ -70,6 +70,7 @@ FL TriRail MetTra MiaAir
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+FL TECO DowTam CenPark
 FL NBankLn JacRTC RosaPar
 FL SBankLn RosaPar KinAve
 LA CanCem HarCas CemTraTer
@@ -133,6 +134,8 @@ PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq
 PA SilLn Gat StaSq
+PA Duq Low Upp
+PA Mon Low Upp
 TX OraLn DFWAir CityPlaUpt
 TX RedLn Wes CityPlaUpt
 TX RedLnHou EnsHCC CenSta
@@ -148,6 +151,10 @@ WA SouLakeUniLn FaiCamDr WesHub
 #US Airpoirts Airside
 CA AutPeoMov CenTerB ConB
 CO DENTrn JepTer CGat
+FL TPAShu MainTer AirA
+FL TPAShuAiC MainTer AirC
+FL TPAShuAiE MainTer AirE
+FL TPAShuAiF MainTer AirF
 FL GateLink TerA Air2
 FL GateLinkTAW TerA Air1
 FL GateLinkTBE TerB Air4
@@ -172,6 +179,7 @@ CA OAKAir OakIntAir Col
 CA AirTrnRed GarG/BART_S GarG/BART_F
 CA AirTrnBlue LongTermPar Loop
 FL MiaM IntCen MIA
+FL SkyCon MainTer RenCarCen
 FL TerLink TerA/B TerC
 GA SkyTrn Air RenCarCen
 IL AirTraSys Ter1 MulModFac
