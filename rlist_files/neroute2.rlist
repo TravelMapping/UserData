@@ -11,7 +11,8 @@ FL SunRail AltSpr SandLakeRd #99% sure I went beyond LynxCenSta to SandLakeRd
 FL TerLink TerA/B TerC
 FL GateLink TerA Air2 #Southwest
 FL GateLinkTAW TerA Air1 #Frontier
-#no idea if I've used the other two
+FL GateLinkTBW TerB Air3 #United
+#no idea if I've used the other one
 
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
