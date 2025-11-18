@@ -1,5 +1,5 @@
 # ──────────
-# 2025-11-11
+# 2025-11-19
 # ──────────
 
 # ─────────
@@ -359,13 +359,42 @@ ESP-CT L4 Bar Ver
 #│                    FRA                    │
 #└───────────────────────────────────────────┘
 
+FRA-IDF ParCol ParGareEst FRA-GES ParCol Str
+
+# ─────
+# Paris
+# ─────
+
+FRA-IDF A LaDef ChaHal
+FRA-IDF C ChaMarsTourEif BibFraMit
+FRA-IDF E NeuPorMai Mag
+
+FRA-IDF L ParStLaz LaDef
+
+FRA-IDF M1 PorMai Con
+FRA-IDF M2 PereLac Nat
+FRA-IDF M3 PereLac Gal
+FRA-IDF M3Bis Gam PorLil
+FRA-IDF M6 Pass Nat
+FRA-IDF M7 Pel PalRoyMusLou
+FRA-IDF M7 LouBla GareEst
+FRA-IDF M7 Cha MaiBla
+FRA-IDF M7Bis LouBla Bot_2
+FRA-IDF M11 PlaFet PorLil
+FRA-IDF M12 StLaz Abb
+FRA-IDF M14 BibFraMit VilGusRou
+
+FRA-IDF FunMon Inf Sup
+
 # ──────────
 # Strasbourg
 # ──────────
 
+FRA-GES TramA Cer EtoBou
 FRA-GES TramB Rep HomFer
-FRA-GES TramD GareCen DEU-BW TramD KehlRat
-FRA-GES TramE Rep Lan
+FRA-GES TramD MarRud DEU-BW TramD KehlRat
+FRA-GES TramE RobEsc EtoPol
+FRA-GES TramF Com PlaIsl
 
 # ────────
 # Mulhouse
