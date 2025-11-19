@@ -284,9 +284,9 @@ AUT S3Obe LinzHau Pre
 DEU-SN S1Dre RadZit Sch
 DEU-SN S3Dre FreitalHaiBerg DreHbf
 
-# ───────
-# München
-# ───────
+# ──────
+# Bayern
+# ──────
 
 DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 FeldMoc SenTor
@@ -299,18 +299,29 @@ DEU-BY 17Mun RomPla HbfNord
 DEU-BY 18Mun Gie SenTor
 DEU-BY 28Mun SenTor SchPla
 
-DEU-BY S1 NeuFah Hbf
-DEU-BY S1Fri Fre NeuFah
-DEU-BY S2 Dac Hbf
-DEU-BY S2Pet PetHau Dac
-DEU-BY S4 OstBf Gra
 DEU-BY S5 NeuPerSud Gie
+
+DEU-BY RB32 Neu Bog
+DEU-BY RB35 Got BayEis
+DEU-BY RB38 Got Vie
+CZE RB95 Cheb DEU-BY RB95Mar Mar
+
+DEU-BY RE1 MunHbf NurnBergHbf
+DEU-BY RE3 Pla PasHbf
+DEU-BY RE5 MunHbf AUT RE5Sal SalHbf
+DEU-BY RE25 MunHbf FurWald
+DEU-BY RE33 NurnBergHbf Mar
+DEU-BY RE50 NurnBergHbf Pla
+DEU-BW RE90 StuHbf DEU-BY RE90 NurnBergHbf
 
 # ─────────────────
 # Baden-Württemberg
 # ─────────────────
 
 DEU-BW RS4Off Off FRA-GES RS4Off Str
+
+DEU-BW RE1 KarRuheHbf StuHbf
+DEU-BW RE2 KarRuheHbf Off
 
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
@@ -373,7 +384,7 @@ FRA-IDF L ParStLaz LaDef
 
 FRA-IDF M1 PorMai Con
 FRA-IDF M2 PereLac Nat
-FRA-IDF M3 PereLac Gal
+FRA-IDF M3 PereLac Gam
 FRA-IDF M3Bis Gam PorLil
 FRA-IDF M6 Pass Nat
 FRA-IDF M7 Pel PalRoyMusLou
