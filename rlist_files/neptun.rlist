@@ -391,7 +391,7 @@ FRA-IDF FunMon Inf Sup
 # ──────────
 
 FRA-GES TramA Cer EtoBou
-FRA-GES TramB Rep HomFer
+FRA-GES TramB HoeGare HomFer
 FRA-GES TramD MarRud DEU-BW TramD KehlRat
 FRA-GES TramE RobEsc EtoPol
 FRA-GES TramF Com PlaIsl
