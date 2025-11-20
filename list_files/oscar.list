@@ -2564,6 +2564,7 @@ MB TCHWin 1 42
 QC TCHMai ON/QC QC/NB
 # stopgap, until I update A-85 files
 AZ SkyHarBlvd I-10 AZ202
+CA ColFwy I-5 ColSt
 CA LosPatPkwy CowCampRd OsoPkwy
 CA AlfHarHwy PanDr HartMemPark
 CO E470 I-25 46
@@ -8938,3 +8939,4 @@ MEX-BC MEX2 MEX2D_MexE BC/SON
 MEX-SON MEX2 BC/SON C26
 MEX-SON MEX15 MEX15DNog MEX/USA
 MEX-SON MEX15DNog MEX15 MEX/USA
+
