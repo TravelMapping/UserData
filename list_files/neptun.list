@@ -1,5 +1,5 @@
 # ──────────
-# 2025-11-19
+# 2025-11-20
 # ──────────
 
 CZE D0 76 28
@@ -480,6 +480,7 @@ DEU-BY B21 B21Sch DEU/AUT
 DEU-BY B21Sch A8 B21
 DEU-BY B23 B23Obe B2_W
 DEU-BY B23Obe B2 B23
+DEU-BW B27 B27a_Zuf B10_W
 DEU-BW B27 A6 K9562
 DEU-BW B27a L1110 B27
 DEU-BW B28 FRA/DEU A5
@@ -626,16 +627,15 @@ ESP-CT N260 C13_N C14
 #                      FRA                     
 # ─────────────────────────────────────────────
 
+FRA-HDF A16 47 FRA/BEL
+
 FRA-GES D152-55 RueSalAll BlvdRoc
 FRA-GES D694-55 D116 RuePontTri
 
 FRA-GES M35-6AE 2 3
-FRA-GES M351-6AE 1 2
-FRA-GES M351-6AE 3 4
+FRA-GES M351-6AE 1 4
 
 FRA-GES E52 RouVie FRA/DEU
-
-FRA-HDF A16 47 FRA/BEL
 
 FRA-HDF RocEst 1 A16/A26
 
@@ -818,6 +818,7 @@ SVN H5 1 5
 SVN R406 H5(2) ToR409
 SVN R409 A1(35) TrzCes_E
 SVN R741 H5(2) H5(1)
+
 
 
 
