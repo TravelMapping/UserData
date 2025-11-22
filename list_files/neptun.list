@@ -1,5 +1,5 @@
 # ──────────
-# 2025-11-20
+# 2025-11-21
 # ──────────
 
 CZE D0 76 28
@@ -501,7 +501,7 @@ DEU-MV B197 A20 B104
 
 # ──────────────────────
 
-DEU-BW L561 EttStr B3
+DEU-BW L561 SchStr_S B3
 DEU-BW L1110Mog L1140 B27a
 DEU-BW L1140 L1110 A81
 DEU-BW L1143 HolStr B27a
@@ -818,6 +818,7 @@ SVN H5 1 5
 SVN R406 H5(2) ToR409
 SVN R409 A1(35) TrzCes_E
 SVN R741 H5(2) H5(1)
+
 
 
 
