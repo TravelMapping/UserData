@@ -1,4 +1,5 @@
 # THE NETHERLANDS
+NLD AmsDis +DIV_Zuid +SKIP_Hoo
 
 NLD RS12 Roe MaaRan
 NLD RS15 Sit Hee
@@ -7,13 +8,16 @@ NLD RE18 Maa NLD/DEU
 
 NLD RS32 ArnCen Wehl
 NLD RS33 ArnCen +DIV_ICN
+NLD RE19 DEU/NLD ArnCen
 
 NLD S43Lie BEL/NLD Maa
 
 #Metro
+NLD 50Ams StaDui StaBijAre
 
 
 #Tram
+NLD 24Ams Vij VUmcHoo
 
 
 # BELGIUM
@@ -46,6 +50,7 @@ DEU-HB 10Bre MoorStr Hbf
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW RE19 DusDorfHbf DEU/NLD
 
 ##  RP - Rheinland-Pfalz
 

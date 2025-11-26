@@ -9,9 +9,11 @@ NLD RS5 Gro Del
 NLD RS7 Gro Vee
 NLD RS11 Nij Roe
 NLD RS12 Roe MaaRan
+NLD RE13 DEU/NLD Ven
 NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 NLD RS18 MaaRan KerCen
+NLD RE19 DEU/NLD ArnCen
 NLD RE20 Zwo Emm
 NLD RS20 Zwo Emm
 NLD RS21 Alm Har
@@ -23,6 +25,8 @@ NLD RS31 Zut Win
 NLD RS32 ArnCen Win
 NLD RS33 ArnCen Tiel
 NLD RS34 AmeCen EdeWag
+NLD RB61 DEU/NLD Hen
+NLD RB64 DEU/NLD Ens
 
 NLD S32Ant Roo NLD/BEL
 NLD S43Lie BEL/NLD Maa
@@ -185,6 +189,8 @@ DEU-HB 10Bre MoorStr Hbf
 
 
 ##  NI - Niedersachsen
+DEU-NI RB61 NW/NI NI/NW
+DEU-NI RB61Bad NW/NI DEU/NLD
 
 
 ##  NW - Nordrhein-Westfalen
@@ -194,7 +200,17 @@ DEU-NW SkyTrn FernBf TerC
 DEU-NW HB211 TecZen EicHof
 DEU-NW HB212 CamNord CamSud
 
+DEU-NW RE9 AacHbf NW/RP
+DEU-NW RE9Opp NW/RP RP/NW
+DEU-NW RE9Sie RP/NW SieHbf
+DEU-NW RE13 NLD/DEU +SKIP_WupTalLanFeld
 DEU-NW RE18 NLD/DEU AacHbf
+DEU-NW RE19 DusDorfHbf DEU/NLD
+DEU-NW RE34 DortMundHbf SieHbf
+DEU-NW RB61 BieHbf +SKIP_HidSch
+DEU-NW RB61 +DIV_RE60 NW/NI
+DEU-NW RB61Rhe NI/NW NW/NI
+DEU-NW RB64 MunHbf DEU/NLD
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
 DEU-NW S5 DortMundHbf +DIV_HagN
@@ -216,6 +232,8 @@ DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
 ##  RP - Rheinland-Pfalz
+DEU-RP RE9 NW/RP RP/NW
+DEU-RP RE9Fur NW/RP RP/NW
 
 
 ##  SL - Saarland
