@@ -553,8 +553,7 @@ VA OVTrl AbiMusPla VA/TN
 VA SieRd VisCen US301
 VA SkyDr US250 US340
 VA SpoRunPkwy VA124 GeoWasPkwy
-VA WRTrl MouVer US301_N
-VA WRTrl US301_S ColPkwy
+VA WRTrl MouVer ColPkwy
 #North Carolina
 #Interstates
 NC I-26Fau TN/NC 13
