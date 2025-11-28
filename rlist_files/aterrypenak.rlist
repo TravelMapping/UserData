@@ -22,6 +22,7 @@ NY Q 96St 14StUniSq
 NY R 34StHerSq 14StUniSq
 NY S42 TimSq GraCen
 NY SIR StGeo OldTown
+OH RedLn Bro LitItaUniCir
 PA PATCO 8thMar PA/NJ
 VA BluLn VanDornSt VA/DC
 VA YelLn KingStOldTown VA/DC
@@ -45,6 +46,8 @@ MN BlueLine MallofAmerica MSPTerminal1
 MN GreenLine TargetFieldPlatform2 UnionDepot
 MO MLBlueLn ShrLanI44 LacLan
 MO MLRedLn LamAirTer2 8thPine
+OH BlueLn TowCity WarVanAken
+OH GreLn TowCity GreRd
 TX RedLnHou FanS Pre
 
 # Streetcars
