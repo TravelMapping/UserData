@@ -1,0 +1,56 @@
+#Thanksgiving Drive 2025
+
+#My main tracking focuses on interstates and US highways, but for this one I'm going to try to grab everything that TM will show. 
+
+#Again, only will include sections that I drove in their entirety. 
+
+
+#OHIO
+OH OH561 US50 BevHillDr
+OH OH32 US50 WooRd
+OH US52 SalRd I-275(72)
+OH I-275 72 OH/KY
+
+#KENTUCKY
+KY I-275 OH/KY 84
+KY I-71 9 185(75)
+KY KY841 35 KY/IN
+
+#INDIANA
+IN IN265 7 IN/KY
+IN I-65 KY/IN 6
+
+#back into KENTUCKY
+KY I-65 TN/KY KY/IN
+
+#TENNESSEE
+TN I-65 86 TN/KY
+TN I-24 44 158
+TN TN27 I-24 US41/64
+TN US41 I-24(174) TN27
+TN I-24Cha 174 178
+TN I-124 I-24 TenRiv
+TN US27 I-124(TenRiv) ManRd
+TN I-24Cha 178 185
+TN I-75 GA/TN 2
+
+#GEORGIA
+GA I-75 290 GA/TN
+GA GA20 I-75(290) I-575(16)
+GA GA140 GA20_W RucRd
+#After a few more Bridge Roads, we arrived! 
+
+#MOUNT YONAH
+GA US19 GA400(9) GA60_S
+GA GA115 US19/400 US129Byp
+GA US129BypCle US129_S US129_N
+GA US129 GA284_Cle US129BypCle_S
+GA GA284 LakRd US129_N
+GA I-985 I-85 24
+GA I-85 109 113
+
+
+
+
+
+
