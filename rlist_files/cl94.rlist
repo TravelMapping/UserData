@@ -34,6 +34,7 @@ CA PowHyde PowJacWas Bea
 CA PowMas Mar Bay
 CA SMART Lar RohPark
 
+CO CZ UT/CO CO/NE
 CO DENTrn JepTer CGat
 
 CT NewHavLn Sta WestHav
@@ -51,6 +52,17 @@ DC YelLn VA/DC MtVerSq
 DE AE MD/DE DE/PA
 
 GA PlaTrn DomTer FGatIntTer
+
+IA CZ NE/IA IA/IL
+
+IL CZ IA/IL UniSta
+IL LSNew UniSta IL/IN
+
+IL BroLn Chi Loop
+IL PinkLn 54thCer Loop
+IL RedLn Roo Gra
+
+IN LSNew IL/IN IN/OH
 
 MA GreLnD Riv NorSta
 MA GreLnE Pru NorSta
@@ -74,6 +86,8 @@ MN GreenLine TargetFieldPlatform2 UnionDepot
 MN HubTram Ter1 HubBui
 MN MSPTram ConAB ConDE
 
+NE CZ CO/NE NE/IA
+
 NJ AE PA/NJ NJ/NY
 
 NJ HBLR8HT LibSP HobTer
@@ -85,6 +99,7 @@ NJ PATHHWT Hob NJ/NY
 NJ PATHJ33 JouSq NJ/NY
 NJ PATHNWT NewPenn NJ/NY
 
+NV CZ Reno NV/UT
 NV AE ParkMGM Bel
 NV GreLn Ter1 CGat
 NV LVM MGMGra SLS
@@ -93,6 +108,7 @@ NV MTI Mir TreIsl
 NY AD FortEdw PennSta
 NY AE NJ/NY PennSta
 NY ES BufDep PennSta
+NY LSNew PA/NY PennSta
 
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
@@ -130,6 +146,7 @@ NY PATHJ33 NJ/NY 33St
 NY PATHNWT NJ/NY WTC
 NY SIR StGeo Tot
 
+OH LSNew IN/OH OH/PA
 OH RedLn W65thLor Sup
 
 ON LW Uni Bur
@@ -144,6 +161,7 @@ ON 511 BatSta ExhLp
 ON 512 GunLp StClaSta
 
 PA AE DE/PA PA/NJ
+PA LSNew OH/PA PA/NY
 PA StrRR Str LeaPl
 
 QC BluLn Sno SaiMic
@@ -151,6 +169,7 @@ QC GreLn Ang HonBea
 QC OraLn CoteVer Mon
 QC YelLn BerUQAM LonUniDeShe
 
+UT CZ NV/UT UT/CO
 UT BlueLn DraTownCen Are
 UT GreLn WestValCen Air
 UT RedLn 4800WOldBinHwy UniMedCen
