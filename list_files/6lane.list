@@ -696,7 +696,7 @@ LA I-610 1A 4A
 LA I-910 US90Bus_W 13
 LA I-910 13 I-10
 LA I-12 1A 19
-LA I-12 59 65 #construction may not be done, but it's pretty close
+LA I-12 57 65
 LA I-12 80 85
 LA I-20 10 19A
 LA I-20 19A 20C
