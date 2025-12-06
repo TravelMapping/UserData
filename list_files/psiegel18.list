@@ -264,6 +264,7 @@ FL FL363 GaiAve GaiSt
 FL FL373 FL371 FL61
 
 #Hawaii Highways
+#Island of Oahu
 HI HI61 HI83 HI72
 HI HI63 I-H1 HI83
 HI HI72 HI61 AinAve
@@ -273,6 +274,10 @@ HI HI83 HI99/930 HI61
 HI HI92 BisSt KalAve
 HI HI99 HI83/930 HI80
 HI HI99 HI78 I-H1(15)
+#Island of Hawaii
+HI HI11 NapRd HI19/190
+HI HI19 WaiBeaDr HI11/190
+#Island of Maui
 
 #Illinois Highways
 IL IL19 US12/45 US41
