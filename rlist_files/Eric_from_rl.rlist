@@ -6,18 +6,31 @@ DC OraLn VA/DC DC/MD
 DC RedLn MD/DC DC/MD
 DC SilLn VA/DC DC/MD
 DC YelLn VA/DC MtVerSq
+DE CN MD/DE DE/PA
 MD BLRL CamYds HuntVly
 MD OraLn DC/MD LarTownCen
 MD CamLn DC/MD BalCam
-MD CN DC/MD BalPenn
+MD CN DC/MD MD/DE
 MD GreLn DC/MD Gre
 MD GreLnSui BraAve MD/DC
 MD MetSub ChaCen OwiMil
 MD OraLn DC/MD NewCar
 MD RedLn ShaGro MD/DC
-MD RedLnGle DC/MD Whe
+MD RedLnGle DC/MD Gle
 MD SilLn DC/MD LarTownCen
 NC CN Cary NC/VA
+NJ CN PA/NJ NJ/NY
+NY 3 TimSq42St WallSt
+NY 6 51stSt 77thSt
+NY 7 34StHudYar
+NY C FulSt 42StPABT
+NY E JacHeiRooAve CouSq23St
+NY CN NJ/NY PennSta
+NY G FluAve CouSq
+NY L 8Ave LorSt
+NY M 5Ave 53St
+NY R WhiStSFry 57St7Ave
+PA CN DE/PA PA/NJ
 VA BluLn FraSpr VA/DC
 VA CN NC/VA VA/DC
 VA OraLn VieFaiGMU VA/DC
@@ -43,7 +56,7 @@ AUT S8Tir WorHau Kit
 BEL IC35 AntBer NLD/BEL
 CHE 18Gen GareCor Blad
 CHE IC1 GenAer GenCor
-CHE IC1 Lau Ber
+CHE IC1 Lau Bern
 CHE IC2 Lug ZurHau
 CHE IC3 Sar ZurHau
 CHE IC5 Lau Ror
@@ -55,7 +68,7 @@ CHE R3 TourPei Lau
 CHE R20Neu Loc ChaFon
 CHE R23Neu CorPes Neu
 CHE R36Jur ChaFon Glo
-CHE R41MGB Zer Ter
+CHE R41MGB Zer Tas
 CHE S1Zen Luz Zug
 CHE S2Gal Ror StMar
 CHE S2Vor Buc LIE/CHE
@@ -79,7 +92,7 @@ ESP-AN L1 CiuExpo OliQui
 ESP-AN T1 PlaNue SanBer
 ESP-AR C1 Cas Mir
 ESP-CM C2 MD/CM Gua
-ESP-CT CreMon Mon Mon MonEnl
+ESP-CT CreMon Mon MonEnl
 ESP-CT FunStJoan StJoan Mon
 ESP-CT FunVal ValInf ValSup
 ESP-CT L1 HosBel Fon
