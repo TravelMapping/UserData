@@ -428,6 +428,7 @@ WY DevTowRd WY110 VisCen
 
 #United States Select Tourist Routes
 MN GRR MN55_E CR3_Min
+MN LSCT CAN/USA MN/WI
 
 #United States Historic Highways
 MN US61OldMoo FireMonRd_N MN123_W
@@ -815,6 +816,7 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
 
 
 
