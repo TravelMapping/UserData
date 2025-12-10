@@ -151,10 +151,10 @@ MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
 MD MD41 I-695 JopRd
-MD MD45 WarRd TimRd
+MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
-MD MD146 I-695 BleRd #towson
+MD MD146 MD45 BleRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
 MD MD155 US40/7 I-95
@@ -241,7 +241,7 @@ NC US158 US15 I-85(206) #multiple trips
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
-NC US401 BreRd I-40 #as far south as the partee shack, but no waypoint nearby
+NC US401 US1_N NC42/55 #to fuquay varina
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
@@ -254,6 +254,9 @@ NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_S #crapel hill
 NC NC55 US64 HighHouRd #ATT
+NC NC55 US1 NC55BypHol_N #road trip 12-9-25
+NC NC55 NC55BypHol_S US401_N #road trip 12-9-25
+NC NC55BypHol NC55_N NC55_S #road trip 12-9-25
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
