@@ -318,6 +318,9 @@ JPN KeikyuMainLn A07 KK11
 JPN KeikyuAirportLn KK11 KK17
 
 ## MEITETSU
+JPN NagoyaMainLn NH33 NH36
+JPN TokonameLn NH33 TA22
+JPN MeiAirportLn TA22 TA24
 JPN ToyotaLn MY07 TT07
 
 ## KINTETSU
