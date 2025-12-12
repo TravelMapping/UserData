@@ -55,5 +55,8 @@ FL SkyTrn 1 4
 GA PlaTrn DomTer FGatIntTer
 NV BlueLn Ter1 DGat
 TX Sky A8 A21
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
 
 AZ PHX RenCarCen EEcoPar
