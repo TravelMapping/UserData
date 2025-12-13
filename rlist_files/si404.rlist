@@ -40,6 +40,7 @@ ENG WAMLStr Str TotHale
 
 ###LN###
 ENG BirLivLn BirNewSt LivLimeSt
+ENG GUCLn LonEus MilKeyCen
 ENG NhpLn BirInt BirNewSt
 ENG TreVlyLn LonEus Sta
 
@@ -102,9 +103,9 @@ ENG WestLonLn StrCom ECro
 ###SW###
 ENG NetLn SouCen PorSou
 ENG SWML LonWat Bou
-ENG WoELn LonWat DIV_WMLE #XC Diversion
-ENG TestVlyLn DIV_WoE Eas #XC Diversion
-ENG PorDirLn Gui DIV_WML #XC Diversion
+ENG WoELn LonWat +DIV_WMLE #XC Diversion
+ENG TestVlyLn +DIV_WoE Eas #XC Diversion
+ENG PorDirLn Gui +DIV_WML #XC Diversion
 ENG BotLn LonWat Win
 ENG BotLn Fare DIV_PDLS #XC Diversion
 ENG ReaLn WinTri Rea
