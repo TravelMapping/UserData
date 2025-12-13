@@ -432,7 +432,7 @@ MN LSCT CAN/USA MN/WI
 
 #United States Historic Highways
 MN US61OldMoo FireMonRd_N MN123_W
-MN US61OldMoo CR46_E I-35(235)
+MN US61OldMoo CR46_E CR45_N
 OR US30HisCol I-84(17) HisCRHwy
 
 #United States National Historic Trails
@@ -815,6 +815,7 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
 
 
 
