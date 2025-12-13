@@ -1,0 +1,137 @@
+#Amtrak
+CT AE NY/CT CT/RI
+DC AE WasUniSta DC/MD
+DE AE MD/DE DE/PA
+MA AE RI/MA BosSou
+MD AE DC/MD MD/DE
+NJ AE PA/NJ NJ/NY
+NY AE NJ/NY NY/CT
+PA AE DE/PA PA/NJ
+RI AE CT/RI RI/MA
+DC NENew VA/DC DC/MD
+DC NENor VA/DC DC/MD
+DC NERoa VA/DC DC/MD
+DC NESpr WasUniSta DC/MD
+DE NENew MD/DE DE/PA
+DE NENor MD/DE DE/PA
+DE NERoa MD/DE DE/PA
+DE NESpr MD/DE DE/PA
+MD NENew DC/MD MD/DE
+MD NENor DC/MD MD/DE
+MD NERoa DC/MD MD/DE
+MD NESpr DC/MD MD/DE
+NJ NENew PA/NJ NJ/NY
+NJ NENor PA/NJ NJ/NY
+NJ NERoa PA/NJ NJ/NY
+NJ NESpr PA/NJ NJ/NY
+NY NENew NJ/NY PennSta
+NY NENor NJ/NY PennSta
+NY NERoa NJ/NY PennSta
+NY NESpr NJ/NY PennSta
+PA NENew DE/PA PA/NJ
+PA NENor DE/PA PA/NJ
+PA NERoa DE/PA PA/NJ
+PA NESpr DE/PA PA/NJ
+VA NENew VA/DC Fre
+VA NENor VA/DC Fre
+VE NERoa VA/DC Ale
+
+#BART
+CA BARTBlue Emb Col
+
+#Incline Railways
+PA Duq Low Upp
+PA Mon Low Upp
+TN LooMouIR StElmo PoiPark
+
+#Cincinnati Connector
+OH Con 6thMain Ban_W
+
+#CTA
+IL BlueLn OHa Jac
+IL OraLn Mid Roo
+IL RedLn Roo NorCly
+
+#MARC
+DC CamLn WasUniSta DC/MD
+DC PennLn WasUniSta DC/MD
+MD CamLn DC/MD BalCam
+MD PennLn DC/MD BalPenn
+
+#MARTA
+GA RedLn FivePoi NorSpr
+
+#MBTA
+MA GreLnE Pru Lec
+MA OraLn NorSta ComCol
+MA RedLn Ash Por
+MA RedLnM Ash CenAve
+
+#Metra
+IL ME MilSta 51st53rdStHydePk
+IL UPNW Pal OgiTraCen
+
+#MTA
+NY S42 TimSq GraCen
+NY 1 TimSq42St SouFry
+NY 4 161StYanSta BowGre
+NY 6 77thSt BroBriCityHall
+NY 7 34StHudYar 42StGraCen
+NY A BroJct 42StPABT
+NY D 25Ave GraSt
+NY E 42ndStPABT WTC
+NY J BroSt BroJct
+NY L 14StUniSq BedAve
+NY R 34StHerSq WhiStSFry
+NY RIT Man RooIsl
+
+#SF Muni
+CA MuniF MaiDru Bea
+CA MuniN Emb LaPla
+
+#VRE
+DC FreLn VA/DC WasUniSta
+DC ManLn VA/DC WasUniSta
+VA FreLn Fre VA/DC
+VA ManLn Ale VA/DC
+
+#WMATA
+DC BluLn VA/DC CapS
+DC GreLn NavyYardBal MtVerSq
+DC RedLn DupCir UniSta
+DC YelLn VA/DC MtVerSq
+VA BluLn FraSpr VA/DC
+VA OraLn VieFaiGMU VA/DC
+VA YelLn Hun VA/DC
+
+#Toronto TTC
+ON 1 Hwy407 Uni
+ON 501 NiaClaSts UniAve
+ON 508 TecSt JarSt
+
+#Dublin Luas
+IRL RedLn Jer Smi
+
+#Airside
+FL GateLinkTBE TerB Air4
+GA PlaTrn TGat EGat
+
+#London Underground
+ENG CirLn HighStKen KinCroStPan
+ENG DisLnEal SouKen Emb
+ENG JubLn Wes LonBri
+ENG PicLnUxb CovGar SouKen
+ENG VicLn Vic KinCroStPan
+
+#Eurostar
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-HDF LonPar GBR/FRA HDF/IDF
+ENG LonPar LonStPanInt GBR/FRA
+
+#Paris Metro
+FRA-IDF M1 Tui FraDRoo
+
+#Paris RER
+FRA-IDF APoi CdGEto ChaHal
+FRA-IDF BMit GareNord StMicNotDame
+FRA-IDF CMon ChaMarsTourEif StMicNotDame

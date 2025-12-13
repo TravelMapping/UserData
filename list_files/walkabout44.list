@@ -1,8 +1,6 @@
-# 08/04/2025
-# v70 (corrected)
-# Add AZ AZ266SprFtG AZ266 FtGra         Traveled in 2022
-# Add AZ US60HisMes May SosRd            Traveled in 1958, also US 70-80-89
-# Add AZ US80HisPan I-10(281) I-10(291)  Traveled in 1958
+# 12/08/2025
+# v71
+# Add KY I-69 extension to mile 152      Traveled in 2025 and before
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -741,11 +739,11 @@ WV I-81 VA/WV WV/MD            # 26
 WV I-470 OH/WV 4               #  4
 
 # Kentucky
-# 944 miles (Table 3 913 miles) diff 86: I-69 52, I-169 34
+# 1001 miles (Table 3 913 miles) diff 88: I-69 54, I-169 34
 KY I-24 IL/KY KY/TN            # 93
 KY I-64 IN/KY KY/WV            #185
 KY I-65 TN/KY KY/IN            #137
-KY I-69 TN/KY 148              #133 State line to I-24 52 miles not on Table 3; overlap I-24
+KY I-69 TN/KY 152              #133 54 miles not on Table 3; overlap I-24
 KY I-71 1 KY/OH                # 78 overlap I-75
 KY I-75 TN/KY KY/OH            #192
 KY I-165 1 70                  # 70

@@ -1,4 +1,4 @@
-# Date: 2025-11-20
+# Date: 2025-11-23
 # ----------------
 # ----------------
 
@@ -454,11 +454,15 @@ BGR 23Sof IskSho UlObi      #2023
 BGR 27Sof KnuMarLui PlMak   #2023
 
 
-CHE 3Ber BernBf WeiBuhl     #2021, including BernBf loop
-CHE 6Ber ZytGlo WorbDorf    #2021
-CHE 7Ber OstRing Bum        #2021
-CHE 8Ber BruWestSideBf Saa  #2021
-CHE 9Ber BernBf Wab         #2021, northern route was not in service due to construction
+CHE 3Ber BernBf WeiBuhl            #2021, including BernBf loop
+CHE 6Ber ZytGlo WorbDorf           #2021
+CHE 7Ber OstRing Bum               #2021
+CHE 8Ber BruWestSideBf Saa         #2021
+CHE 9Ber BernBf Wab                #2021, northern route was not in service due to construction
+
+CHE 1Lau RenGare LauFion           #2025
+CHE 2Lau Cro OucOly                #2025
+
 
 CZE A NemMot DepoHos               #2019, Praha
 CZE B Zli CerMost                  #2019, Praha
@@ -467,6 +471,7 @@ CZE C Let Haje                     #2019, Praha
 CZE 3Olo NamRep HlaNad             #2023
 CZE 4Olo OkrSoud UDomu             #2023
 CZE 7Olo OkrSoud Fib               #2023
+
 
 DEU-BB 1Fra Sta NeuBer             #2022
 DEU-BB 4Fra LebVorSta MarDorfOrt   #2022
@@ -1011,23 +1016,34 @@ FRA-IDF CPon PerLev MasPal            #2025
 FRA-IDF D GarSar StaFraStDen          #2025
 FRA-IDF E NoiSec RosBoisPer           #2025
 FRA-IDF L ParStLaz VerRiveDro         #2025
+FRA-IDF LCer ParStLaz HouCarSei       #2025
 FRA-IDF N ParMon SaiCyr               #2025
 FRA-IDF M1 DefGraArc ChaVin           #2019
+FRA-IDF M2 PorDau PlaCli              #2025
 FRA-IDF M2 Cha Nat                    #2025
 FRA-IDF M3 PontLevBec Gam             #2025
 FRA-IDF M3Bis Gam PorLil              #2025
+FRA-IDF M4 PorCli LesHal              #2025
 FRA-IDF M4 Cha BagLucAub              #2025
+FRA-IDF M5 Sta PlaIta                 #2025
 FRA-IDF M6 CdGEto Nat                 #2025
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019
+FRA-IDF M7Bis LouBla Bot_1            #2025
+FRA-IDF M7Bis PreStGer Bot_2          #2025
 FRA-IDF M8 Bal Rep                    #2025
 FRA-IDF M9 HavCau Rep                 #2025
+FRA-IDF M10 BouPontStClo SevBab       #2025
+FRA-IDF M10Bou GareAus BouPontStClo   #2025
 FRA-IDF M11 Cha RosBoisPer            #2025
-FRA-IDF M13 StLaz MonBie              #2025
+FRA-IDF M12 MaiIssy SevBab            #2025
+FRA-IDF M12 StLaz MaiAub              #2025
+FRA-IDF M13 PlaCli MonBie             #2025
 FRA-IDF M14 StDenPle StLaz            #2025
 FRA-IDF M14 SaiLaz Oly                #2019
 FRA-IDF T1 MarStDen NoiSec            #2025
+FRA-IDF T2 PontBez SusLen             #2025
 FRA-IDF T3a PontGar PorVin            #2025
-FRA-IDF T3b PorLil PorVin             #2025
+FRA-IDF T3b AveFoc PorVin             #2025
 FRA-IDF T5 MarStDen GarSar            #2025
 FRA-IDF T6 VirRiveDro HopBec          #2025
 FRA-IDF T10 JarPar CroBer             #2025
