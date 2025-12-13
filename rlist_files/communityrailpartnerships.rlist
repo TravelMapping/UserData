@@ -17,6 +17,9 @@ ENG RibVlyLn Roc MilHill
 ENG CalLn Roc LowMoor
 ENG AthLn Roc Bri
 ENG HudLn Hal Bri
+#Can Valley CRP
+ENG RheeVlyLn Mel CamSou
+ENG WAML WhiPkwy CamSou
 #Cambrian Community Rail Partnership
 ENG CamLn Shr WLS CamLn Abe
 WLS CamCoaLn Mac Pwl
@@ -134,8 +137,6 @@ ENG LakLn OxeLakeDis Win
 ENG BenLn Lee HeyPort
 #Marston Vale Community Rail Partnership
 ENG MarValeLn Ble Bed
-#Meldreth, Shepreth & Foxton Community Rail Partnership
-ENG RheeVlyLn Mel Fox
 #Mid Cheshire Community Rail Partnership
 ENG MidCheLn ManPic Che
 #New River Line Community Rail Partnership
