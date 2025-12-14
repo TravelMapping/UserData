@@ -428,10 +428,11 @@ WY DevTowRd WY110 VisCen
 
 #United States Select Tourist Routes
 MN GRR MN55_E CR3_Min
+MN LSCT CAN/USA MN/WI
 
 #United States Historic Highways
 MN US61OldMoo FireMonRd_N MN123_W
-MN US61OldMoo CR46_E I-35(235)
+MN US61OldMoo CR46_E CR45_N
 OR US30HisCol I-84(17) HisCRHwy
 
 #United States National Historic Trails
@@ -516,8 +517,7 @@ MN MN55 US169 I-94(234A)
 MN MN55 CedAve CR43
 MN MN60 I-90 CR3_Mad
 MN MN61 I-35 USA/CAN
-MN MN62 US212_W US169
-MN MN62 US212_E MN55_E
+MN MN62 I-494_W MN55_E
 MN MN65 WasAve HenAve
 MN MN65 I-694 CR4_A
 MN MN65Min I-35W 10thSt
@@ -815,6 +815,9 @@ WY WY110 WY24 DevTowNM
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
+
+
+
 
 
 
