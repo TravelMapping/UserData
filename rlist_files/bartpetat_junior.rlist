@@ -49,9 +49,14 @@ DEU-HB 10Bre MoorStr Hbf
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
-DEU-NW ParDor KolnHbf DuisBurgHbf
+DEU-NW RE1 KolnHbf DortMundHbf
 DEU-NW RE18 NLD/DEU AacHbf
 DEU-NW RE19 DusDorfHbf DEU/NLD
+DEU-NW RE49 Wes +DIV_Ste
+
+DEU-NW U43 WesTor KampStr
+DEU-NW U49 DortMundHbf Hac
+
 
 ##  RP - Rheinland-Pfalz
 
