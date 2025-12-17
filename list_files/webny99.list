@@ -1237,6 +1237,8 @@ MN MN19 US169 CR86
 MN MN13 MN77 CR31_N
 # Trip Sun 08/24/2025
 MN MN3 CR46 CR42
+# Trip Sat 12/13/2025
+MN MN7 WilRd US169
 
 
 # Montana
@@ -1349,6 +1351,8 @@ NJ AtlCityExpy 7 44
 NJ GarStaPkwy 0 38
 NJ NJ109 TexAve GarStaPkwy
 NJ US9 CapeMayFry SeaRd
+# Trip Sun 11/23/2025
+NJ US206 CR523 PfiWay
 
 
 # North Dakota
