@@ -5,16 +5,21 @@
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
+DE I-295 I-95 DE/NJ #grandparents old house
+DE I-495 I-95 6
 DE US9 CapeMayFry DaiFarmRd
 DE US9BusLew US9_W US9_E
 DE US13 US202/141 DE273
 DE US13 DE1(119) DE6_E #smyrna
 DE US13 MD/DE AdaRd
+DE US13BusWil DE52 DE202
 DE US301 5 MD/DE
 DE DE1 DE4 DE26
 DE DE1A DE1_N DE1_S
 DE DE1B DE1A DE1
 DE DE2 DE273 DE141
+DE DE3 I-495 DE92 #from when i was a baby, trusting dad on this one (and a small bit recently)
+DE DE4 DE48 DE279 #from when i was a baby, trusting dad on this one (and a small bit recently)
 DE DE7 DE/PA DE1(166)
 DE DE16 DE36_W AdaRd #to burrsville rd (rd 112)
 DE DE23 DE5/24 PotRd #at least out to here
@@ -22,10 +27,14 @@ DE DE24 DE1 DE5/23
 DE DE36 WooRd DE16_W #WooRd should be adams rd, but not in the waypoints
 DE DE41 DE/PA DE2/62
 DE DE48 DE41 DE2
+DE DE52 US13Bus DE/PA
+DE DE62 DE2/41 DE4 #farmer's market alternate route
 DE DE71 DE896_S US301
 DE DE72 DE7_N US40 #rock gym
 DE DE82 DE52 DE/PA
+DE DE92 DE100 US13 #from when i was a baby, trusting dad on this one
 DE DE141 1 US202/261
+DE DE202 I-95/202 US13Bus
 DE DE273 DE896 DE2/72
 DE DE279 DE4/896 MD/DE
 DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
@@ -122,6 +131,8 @@ MD I-695 BroHwy 4 #i95 to i97
 MD I-695 7 44 #various trips, last updated 9-25
 MD I-795 1 9 #cunningham falls trip
 MD I-895 10 I-95 #various trips
+MD I-895SprFur I-895 I-895SprFer #thanksgiving return trip 2025
+MD I-895SprFer I-895SprFur I-695
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
 MD US13 VA/MD US13BusSal_S #two parts
@@ -140,10 +151,10 @@ MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
 MD MD41 I-695 JopRd
-MD MD45 WarRd TimRd
+MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
-MD MD146 I-695 BleRd #towson
+MD MD146 MD45 BleRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
 MD MD155 US40/7 I-95
@@ -160,7 +171,7 @@ MD MD231 MD5 MD381 #raleigh -> home thanksgiving 2025
 MD MD268 MainSt MD279
 MD MD272 MD/PA I-95 #two parts
 MD MD272 OldElkRd DarRd
-MD MD273 MD/DE MD276 #cecil county fair
+MD MD273 MD/DE US1 #cecil county fair, clinched 11-27-25
 MD MD276 MD222 US1 #road trip 7-19-25
 MD MD279 MD/DE MD213
 MD MD284 MD285_S MD285_N
@@ -230,7 +241,7 @@ NC US158 US15 I-85(206) #multiple trips
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
-NC US401 BreRd I-40 #as far south as the partee shack, but no waypoint nearby
+NC US401 US1_N NC42/55 #to fuquay varina
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
@@ -243,6 +254,9 @@ NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_S #crapel hill
 NC NC55 US64 HighHouRd #ATT
+NC NC55 US1 NC55BypHol_N #road trip 12-9-25
+NC NC55 NC55BypHol_S US401_N #road trip 12-9-25
+NC NC55BypHol NC55_N NC55_S #road trip 12-9-25
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
@@ -357,6 +371,7 @@ NY I-95 NJ/NY 1 #george washington bridge
 NY I-190 7 21 #niagara trip
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
+NY I-495 2ndAve 14 #medieval times trip
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
 NY US62 PA/NY NY60 #niagara trip (ride up)
@@ -369,6 +384,7 @@ NY NY75 US20 I-90 #niagara trip (bills -> bemus)
 NY NY179 I-90 NY5 #niagara trip (niagara)
 NY NY263 I-290 NY324 #niagara trip (duff's)
 NY NY430 StrRd NY60/394 #niagara trip (niagara)
+NY NY495 34thSt NJ/NY #medieval times trip
 #new jersey
 NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
@@ -385,7 +401,7 @@ NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
 NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
-NJ NJ3 I-95 NJ17 #medieval times trip
+NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
 NJ NJ31 I-295 EwiRd #college of new jersey
@@ -398,6 +414,7 @@ NJ NJ70 I-295 CR541
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
+NJ NJ495 I-95 NJ/NY #medieval times trip as well as an earlier trip with business friends + family
 #virginia
 VA SkyDr US340 US33 #shanendoah trip 10-25 (central) 2020 (north and upper central)
 VA I-64 299 282 #delmarva trip
@@ -409,7 +426,7 @@ VA I-81 TN/VA 98 #from virginia tech to tenessee border
 VA I-81 114 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
-VA I-295 43 16 #raleigh -> home thanksgiving 2025
+VA I-295 43 1 #raleigh -> home thanksgiving 2025
 VA I-395 1 8A #hershey trip 2025
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
@@ -427,6 +444,7 @@ VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
 VA US220 US58_E SR609 #fall break trip 10-25
 VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
+VA US301 VA30 I-295 #thanksgiving return trip 2025
 VA US340 VA55_W SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
 VA US460 WV/VA I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
@@ -440,6 +458,7 @@ VA VA10 I-95 RivBendBlvd #raleigh -> home thanksgiving 2025
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA27 I-395 BouDr #hershey trip 2025
+VA VA30 SR652 US301/2 #thanksgiving return trip 2025
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25

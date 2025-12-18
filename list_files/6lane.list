@@ -696,7 +696,7 @@ LA I-610 1A 4A
 LA I-910 US90Bus_W 13
 LA I-910 13 I-10
 LA I-12 1A 19
-LA I-12 59 65 #construction may not be done, but it's pretty close
+LA I-12 57 65
 LA I-12 80 85
 LA I-20 10 19A
 LA I-20 19A 20C
@@ -1434,7 +1434,7 @@ TX I-10 574 587 #under construction to 597
 TX I-10 716 729 #under construction to between 709 and 713
 TX I-10 732 833 #westbound ends just before 732; under construction to 729; 4 lanes between 768A and 769A in the "wrong" order
 TX I-10 849 853A #under construction to 833
-TX I-10 853A 876 #east end is at the Woodlark Street exit, whatever that's numbered; under construction to TX/LA
+TX I-10 853A 880 #under construction to TX/LA
 TX I-14 US190BusCop FM2410_E # under construction from here to I-35
 TX I-20 414 421
 TX I-20 428 480
@@ -1670,14 +1670,13 @@ WI WI175 I-94 LloydSt
 
 
 WV I-64 11 15
-WV I-64 39 40
-WV I-64 45 59
+WV I-64 39 59
 WV I-77 40 48
 WV I-77 98 101
 WV I-77 101 104
 WV I-77 173 176
 WV I-79 117 125
-WV I-79 135 137
+WV I-79 132 137
 WV I-81 12 23
 WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
