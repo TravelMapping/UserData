@@ -371,6 +371,7 @@ NY I-95 NJ/NY 1 #george washington bridge
 NY I-190 7 21 #niagara trip
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
+NY I-495 2ndAve 14 #medieval times trip
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
 NY US62 PA/NY NY60 #niagara trip (ride up)
@@ -383,6 +384,7 @@ NY NY75 US20 I-90 #niagara trip (bills -> bemus)
 NY NY179 I-90 NY5 #niagara trip (niagara)
 NY NY263 I-290 NY324 #niagara trip (duff's)
 NY NY430 StrRd NY60/394 #niagara trip (niagara)
+NY NY495 34thSt NJ/NY #medieval times trip
 #new jersey
 NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
@@ -399,7 +401,7 @@ NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
 NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
-NJ NJ3 I-95 NJ17 #medieval times trip
+NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
 NJ NJ31 I-295 EwiRd #college of new jersey
@@ -412,6 +414,7 @@ NJ NJ70 I-295 CR541
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
+NJ NJ495 I-95 NJ/NY #medieval times trip as well as an earlier trip with business friends + family
 #virginia
 VA SkyDr US340 US33 #shanendoah trip 10-25 (central) 2020 (north and upper central)
 VA I-64 299 282 #delmarva trip
