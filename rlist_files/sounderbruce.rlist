@@ -133,8 +133,7 @@ OR ALp 9thLov_N 9thLov_S
 OR BLp +DIV_Lov_S +SKIP_CenLib
 OR BLp GraHol +SKIP_11thMar
 OR BLp +DIV_Nor 11thMar_N
-OR NSLn BondLane +DIV_Wat
-OR NSLn 5thMon Joh_N
+OR NSLn LowBond Joh_N
 OR WesExpSer BeaTraCen Wil
 
 OR AC PorUniSta BC AC VanPacCen
@@ -159,7 +158,7 @@ UT BlueLn +DIV_RedLine_N Are
 UT GreLn CityCen Air
 UT RedLn CenPoi +DIV_BlueLine/GreLine
 
-WA 1 Lyn AngLake
+WA 1 Lyn FedWayDow
 WA 2 SBel DowRed
 WA N Eve Sea
 WA S Sea Lak
@@ -256,6 +255,7 @@ DEU-BE S7 WestKre OstKre
 DEU-BE S41 WestKre_N WestKre_S
 DEU-BE S42 OstKre_N OstKre_S
 DEU-BE S46 HerStr SchWei
+
 
 
 
