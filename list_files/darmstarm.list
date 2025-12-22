@@ -82,26 +82,29 @@ PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
 PA PA52 DE/PA PA926
 PA PA53 US322_W US322_E 
-PA PA69 PA/NY US62 #niagara trip
+PA PA69 PA/NY US62 #niagara trip (nice)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA113 US30 DevDr #downingtown east
 PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
-PA PA272 MD/PA KirMillRd #camp horseshoe
+PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
 PA PA283 I-283 US30
 PA PA340 PA772_E PA462
 PA PA345 PA82 WarRd_E #french creek
 PA PA401 US202 PhoPike
 PA PA420 I-95 US13
-PA PA462 PA999 PA340 #unfortunately didn't go on enough of 999 for it to count.
+PA PA441 LocSt PA999 #pa999 trip 12-25
+PA PA462 PA999 PA340 #through lancaster city
+PA PA462 PA741 2ndSt #pa999 trip 12-25
+PA PA472 US1 PA372
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 PA3 #go birds (alternatively, to the jimmel)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
-PA PA472 US1 PA372
-PA PA666 US6 PA948
+PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
+PA PA741 PA41 PA462 #pa999 trip 12-25
 PA PA743 PA283 US422
 PA PA743TrkHer PA743_S US322_W # various hershey trips
 PA PA772 US30 PA340_W
@@ -113,7 +116,8 @@ PA PA896 MD/PA US30
 PA PA926 PA841 US202/322 #pocopson to 202
 PA PA948 PA120 PA666
 PA PA957 PA69_N US62
-PA PA970 US322 I-80
+PA PA970 US322 I-80 #niagara falls trip
+PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
 #the star spangled banner trail??? most of md382, plus croom station rd
 MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
