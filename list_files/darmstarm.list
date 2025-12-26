@@ -124,7 +124,7 @@ MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
-MD I-83 14 MD/PA #hershey trip 2025
+MD I-83 7 MD/PA #hershey trip 2025 + up to 34th street parking
 MD I-95 DC/MD MD/DE
 MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
@@ -398,7 +398,7 @@ NJ I-95 PA/NJ 16E #medieval times trip
 NJ I-95 74 NJ/NY #george washington bridge
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
-NJ I-295 DE/NJ 34 #various trips
+NJ I-295 DE/NJ 40 #various trips
 NJ I-295 72 NJ/PA #college of new jersey
 NJ US9 CR623 Gar(25) #ocean city trip 2025
 NJ US40 DE/NJ NJ55
@@ -409,12 +409,14 @@ NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
 NJ NJ31 I-295 EwiRd #college of new jersey
+NJ NJ38 I-295 HarRd #grandparents
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
-NJ NJ70 I-295 CR541
+NJ NJ70 I-295 CR541 #grandparents
+NJ NJ74 I-295 NJ70 #grandparents
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
