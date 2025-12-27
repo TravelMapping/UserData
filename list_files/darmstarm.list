@@ -401,6 +401,7 @@ NJ I-278 3 NJ/NY
 NJ I-295 DE/NJ 40 #various trips
 NJ I-295 72 NJ/PA #college of new jersey
 NJ US9 CR623 Gar(25) #ocean city trip 2025
+NJ US9 CR530_E NJ166 #oceangate
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
 NJ US322 PA/NJ US130 #relatives trip, old house
@@ -415,8 +416,8 @@ NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
-NJ NJ70 I-295 CR541 #grandparents
-NJ NJ74 I-295 NJ70 #grandparents
+NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
+NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
