@@ -154,15 +154,18 @@ MD MD3 US50/301 I-97/32
 MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
-MD MD41 I-695 JopRd
+MD MD23 US1 SchRd #en route to grandparents
+MD MD41 I-695 JopRd #micro center
 MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
-MD MD146 MD45 BleRd #towson to grandparents
+MD MD146 MD45 SchRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
+#MD MD152 MD146 Charles St #en route to grandparents
 MD MD155 US40/7 I-95
 MD MD161 MD155 MD623
+#MD MD165 MD23_E Furnace Rd #en route to grandparents
 MD MD188 McABlvd MD190 #hershey trip 2025
 MD MD190 MD188 I-495 #hershey trip 2025
 MD MD193 BalWasPkwy GoodLuckRd
