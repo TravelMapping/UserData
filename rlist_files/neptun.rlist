@@ -1,5 +1,5 @@
 # ──────────
-# 2025-11-19
+# 2025-12-20
 # ──────────
 
 # ─────────
@@ -311,6 +311,7 @@ DEU-BY RE3 Pla PasHbf
 DEU-BY RE5 MunHbf AUT RE5Sal SalHbf
 DEU-BY RE25 MunHbf FurWald
 DEU-BY RE33 NurnBergHbf Mar
+DEU-BY RE40 NurnBergHbf Sch
 DEU-BY RE50 NurnBergHbf Pla
 DEU-BW RE90 StuHbf DEU-BY RE90 NurnBergHbf
 

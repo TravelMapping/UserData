@@ -1,4 +1,42 @@
-#It worked! 
+#I'm so excited to have discovered this site. 
+#TravelMapping.net is the computer version of my atlas + stats spreadsheet. 
+#My atlas + spreadsheet is still my ultimate source of truth, but this allows me to visualize travels on a more malleable map and gives me stats I wouldn't have thought of.  It also provides a check for me. 
+
+#My focus is on interstates and US highways.  Those are what I track in my stats spreadsheet.
+#Yes, I highlight state routes on my atlas.  And yes, sometimes I'll enter those into the site. But those aren't my focus. 
+
+#Project started on Oct 21, 2022 as Mom and I began our drive to Cincy. 
+
+#Generally entering info by state, with the most major highways listed first. 
+
+#As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow. Save myself some data lines and let the site grab the concurrency. 
+#For example, in the I-70 mountain corridor, I have listed both I-70 and US 40. 
+#Even though I-70 leads the concurrency, I drove from WP to the Wooly Mammoth lot trying to follow US 40. 
+#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! 
+
+#In general, if I didn't make it to the next waypoint, I'm not going to include that section.  It should be noted in my spreadsheet where my endpoint is.  
+
+
+#ARIZONA
+
+AZ I-10 147 153A
+AZ I-17 194 195B
+AZ US60 176 PerRd
+
+
+#CALIFORNIA
+CA I-80 2 33
+CA I-80 39B 40B
+CA I-280 I-680/101 3A
+CA I-280 5B 24
+CA I-580 44B 55
+CA I-680 I-280/101 30
+CA I-680 53 71
+#Good golly there are a lot of 80s
+
+CA US101 94A 110
+CA US101 336 389A
+
 
 
 #Starting with I-70
@@ -7,7 +45,7 @@ CO I-70 269A 274
 CO I-70 276B CO/KS
 
 CO I-225 I-25 12
-#Love that I actually get to say I've clinched one
+#I got to say I've clinched one right from the get go! 
 
 CO I-25 181 268
 
@@ -27,31 +65,33 @@ CO US36 CO119_W I-270(0)
 CO US40 3rdSt CO9
 CO US40 CO125 I-70BLDen_W
 
-#As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow.  
-#For example, in the mountain corridor, I have listed both I-70 and US 40. 
-#Even though I-70 leads the concurrency, I drove from WP to Wooly Mammoth trying to follow US 40. 
-#If US 40 is rerouted in the future, I think I still want credit for it. I drove it as it existed at the time! 
 
 CO US285 CO291 I-25 
 #I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexaggerate. 
 
 CO US287 HarRd ProRd
+#Not including the portion of US 287 I've driven in Broomfield since it's shorter than the segment in TM. 
 
 
+#FLORIDA
 
-#KENTUCKY 
+FL I-75 7 23
+FL I-75 116 128
+FL I-95 BriAve 2A
+FL I-95 16 101
+FL I-95 147 180
+FL I-195 2B FL907A
+FL I-395 1 FLA1A
+FL I-595 I-75 12
 
-KY I-75 115 KY/OH
-KY US60 BlueGraPkwy US25/421
-KY BluPkwy 1 72
-KY WesKYPkwy 107 137
-KY US31W KY90 KY70
-KY I-65 53 131
-KY I-65 135 137
-KY I-264 11 12
-KY I-71 1 KY/OH
+FL US1 FL998 I-395
+FL US1 FL822 FL870
+FL US41 CR846 CR850
+FL US27 US1 FL948
+FL US192 CR15 I-95
 
-#I also drove all 6 miles of KY 609
+FL FLA1AFor I-395 US1_S
+FL FLA1AVer FL714 FL60
 
 
 #GEORGIA
@@ -62,8 +102,26 @@ GA US23 GA154 US29/78_S
 GA US19 14thSt GA13
 GA US19 I-285(27) GA400(9)
 GA I-285 20 39
+GA I-985 I-85 24
 GA I-75 259 GA/TN
 GA I-85 72A 95
+GA I-85 109 113
+
+
+
+#KENTUCKY 
+
+KY I-75 115 KY/OH
+KY US60 BlueGraPkwy US25/421
+KY BluPkwy 1 72
+KY WesKYPkwy 107 137
+KY US31W KY90 KY70
+KY I-65 TN/KY KY/IN
+KY I-264 11 12
+KY I-71 1 KY/OH
+
+#I also drove all 6 miles of KY 609
+
 
 
 #OHIO
