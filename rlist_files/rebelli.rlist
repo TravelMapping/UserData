@@ -13,8 +13,13 @@ MD GreLn ColPk DC/MD
 MD PL NewCar MD/DE
 
 # New Jersey
-NJ NECorLn MetPark Tre
-NJ PL PA/NJ Met
+NJ NECorLn NJ/NY Tre
+
+# New York
+NY NECorLn NY/NJ PennSta
+NY B 47-50StsRocCen DeKAv
+NY E CouSq23St 34StPennSta
+NY G HoytSchSts CouSq
 
 # Pennsylvania
 PA PL DE/PA PA/NJ
