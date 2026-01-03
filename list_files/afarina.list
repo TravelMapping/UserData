@@ -222,7 +222,7 @@ IL IL3 IL150_W IL150_E
 IL IL3 I-255(6) I-255(10)
 IL IL3 I-55(1A) I-55(2C)
 IL IL4 IL150_W IL154
-IL IL4 IL177 I-55
+IL IL4 IL15_W I-55
 IL IL4 IL15_E IL15_W
 IL IL4 I-72 WabAve
 IL IL13 IL15_W IL15_E
@@ -247,7 +247,7 @@ IL IL110 I-74(14) I-88(1)
 IL IL110 NapRd I-290(30)
 IL IL121 US36_E US36/105
 IL IL121 IL48_N I-72
-IL IL127 I-64 US40
+IL IL127 IL15 US40
 IL IL127 IL48_E I-55
 IL IL128 US40_E US40_W
 IL IL130 IL15_W IL15_E
@@ -487,6 +487,7 @@ IN IN650 US50 CR67
 IN IN727 PokSP IN127
 IN IN930 I-69 I-469
 IN IN931 US31_S IN26
+IN HWCookDr I-70 Ter
 IN KeyPkwy I-465 US31
 IN SamJonExpy I-74/465 I-70
 IN ShaAve I-465 WasSt
@@ -950,7 +951,7 @@ MO MO79 US54/54Bus US54_W
 MO MO84 US412_W US412_E
 MO MO87 MosZ_How I-70
 MO MO94 I-64 I-70
-MO MO100 WesRd I-270
+MO MO100 WesFarDr I-270
 MO MO109 OldStaRd I-44(264)
 MO MO110Han I-35(12) MO/IL
 MO MO116 US59 MO371
@@ -1563,7 +1564,7 @@ OH OH778 OH101 OH19
 OH OH795 US20_W OH51
 OH OH800 US250_E US36
 OH DayAirRd I-70 BoeDr
-OH IntGtwy CasAve BlueLot
+OH IntGtwy CasAve RCCtr
 OH RonReaHwy I-275 I-71
 
 # Oklahoma ----- ----- ----- ----- -----
@@ -2325,7 +2326,7 @@ AUT L202 A14 L190
 
 # Miscellaneous In-Development ===== ===== ===== ===== =====
 # Historical US Highways ----- ----- ----- ----- -----
-IL US66HisCar 2ndAve_N US66His_N
+IL US66HisCar 2ndSt_N US66His_N
 IL US66His MO/IL I-270(3)
 IL US66His I-55(88) I-55(105)
 MO US66HisMan WesRd I-270
@@ -2340,8 +2341,13 @@ TX US66HisSha I-40(161) I-40(164)
 # US Select Tourist Routes (usatr), concurrencies currently untracked ----- ----- ----- ----- -----
 IN NatRd US40_Ree US40_Ray
 IN ORSB ToIN256 IN56/156_E
+MI LECT OH/MI USA/CAN
 OH LinHwy US30_Upp US30_BucW
 OH LinHwy 4thSt_MayE TriRd
+OH LinHwyAda OH235_S OH81/235
+OH LinHwyAda US68 OH53/67
+OH LinHwyAsh OH430 US42_WinW
+OH LinHwyAsh US42_WinE OH60_E
 OH NatRd US40_SprE US22/40_BriW
 
 # US National Historic Trails (usanht), incidental concurrencies untracked ----- ----- ----- ----- -----
@@ -2349,3 +2355,4 @@ KS CATrl I-70(346) KS10 # Oregon Trail
 KS CATrlOla 143rdSt_W KS/MO
 KS LCTrl ParPkwy StaAve_E
 KS LCTrl US69 KS/MO
+
