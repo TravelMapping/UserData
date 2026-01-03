@@ -1,4 +1,4 @@
-# Date: 2025-11-23
+# Date: 2026-01-03
 # ----------------
 # ----------------
 
@@ -191,9 +191,9 @@ AUT S4Tir InnHau Kuf                                                #2023, actua
 #Munich Hbf - Kufstein - Innsbruck Hbf                              #2023, actually traveled as EC85 via southern route in Munich
 
 DEU-BY RE1 MunHbf IngHbf                                            #2024
-DEU-BY S1Nur NurnBergHbf NeuMar                                     #2024
-DEU-BY S2Nur NurnBergHbf HartManHof                                 #2024
-DEU-BY S3Nur NurnBergHbf AltDorf                                    #2024
+DEU-BY S1Nur NurnBergHbf HartManHof                                 #2024, actually traveled as S2 (renumbered Dec 2025)
+DEU-BY S2Nur NurnBergHbf AltDorf                                    #2024, actually traveled as S3 (renumbered Dec 2025)
+DEU-BY S3Nur NurnBergHbf NeuMar                                     #2024, actually traveled as S1 (renumbered Dec 2025)
 DEU-BY RE1 AllBerg NurnBergHbf                                      #2024
 DEU-BY RE40 NurnBergHbf HartManHof                                  #2024, route "rechts der Pegnitz"
 DEU-BW RE90 StuHbf BW/BY                                            #2024, RE90 Nürnberg - Crailsheim - Backnang - Stuttgart
@@ -656,8 +656,9 @@ DEU-HH S3 SH/HH NeuGra                                                          
 DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
 DEU-NI S5Hor HH/NI Sta                                                                         #2023
 DEU-HH S1 Bla Ohl                                                                              #2020/23
-DEU-HH S2 HolStr HH/SH                                                                         #2023
-DEU-SH S2 HH/SH AuMuh                                                                          #2023
+DEU-HH S2 HolStr BerDorf                                                                       #2023
+DEU-HH S7 BerDorf HH/SH                                                                        #2023, actually traveled as S2 (renumbered Dec 2025)
+DEU-SH S7 HH/SH AuMuh                                                                          #2023, actually traveled as S2 (renumbered Dec 2025)
 DEU-HH RE5 HarBurg HH/NI                                                                       #2023, RE5, different routing in Harburg than S3
 DEU-NI RE5 HH/NI Sta                                                                           #2023, RE5, different routing in Harburg than S3
 
