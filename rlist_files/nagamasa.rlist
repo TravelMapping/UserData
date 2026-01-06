@@ -324,7 +324,7 @@ JPN KeikyuAirportLn KK11 KK17
 JPN NagoyaMainLn NH33 NH34
 JPN NagoyaMainLn NH36 NH37
 JPN TokonameLn NH33 TA22
-JPN MeiAirportLn TA22 TA24
+JPN MeiAirportLn TA23 TA24
 JPN ToyotaLn MY07 TT07
 JPN SetoLn ST01 ST04
 
@@ -382,7 +382,7 @@ JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
 
 ## NAGOYA SUBWAY
-JPN HigashiyamaLn H08 H10
+JPN HigashiyamaLn H07 H17
 JPN MeijoLn M01_A M05
 JPN MeijoLn M06 M08
 JPN TsurumaiLn T05 T07
