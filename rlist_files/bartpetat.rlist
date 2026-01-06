@@ -141,19 +141,25 @@ LUX T1 RoutBrePaf StaPlazEto
 
 
 ##  BY - Bayern
+DEU-BY RE19 BamBerg +DIV_ICCobS
+DEU-BY RE20 BamBerg WurHbf
+DEU-BY RE54 HE/BY +DIV_ICEN
 
 
 ##  BE - Berlin
-DEU-BE S7 BB/BE Hbf
-DEU-BE S25 FriStr PotPla
-DEU-BE S25 SudKre BE/BB
-DEU-BE S41 WestKre_N WestHaf
-DEU-BE S41 OstKre SchBerg
+DEU-BE RE2 Spa OstKre
+DEU-BE RE4 BB/BE +DIV_RE2
+DEU-BE RE4 +DIV_Per BE/BB
 
 DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 DEU-BE S5 WestKre LicBerg
+DEU-BE S7 BB/BE Hbf
+DEU-BE S25 FriStr PotPla
+DEU-BE S25 SudKre BE/BB
+DEU-BE S41 WestKre_N WestHaf
+DEU-BE S41 OstKre SchBerg
 
 DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
@@ -166,8 +172,8 @@ DEU-BE M8 SUHbf_2 BruStrInvStr
 DEU-BE M10 SUHbf_2 UEbeWalStr
 
 
-
 ##  BB - Brandenburg
+DEU-BB RE4Rat ST/BB BB/BE
 DEU-BB S7 PotHbf BB/BE
 
 DEU-BB 91Pot LuiPlaSudSan PotHbf
@@ -183,12 +189,17 @@ DEU-HB 10Bre MoorStr Hbf
 
 
 ##  HE - Hessen
+DEU-HE RE54 FraFurtHbf +DIV_RE55
+DEU-HE RE54 HanHbf HE/BY
 
 
 ##  MV - Mecklenburg-Vorpommern
 
 
 ##  NI - Niedersachsen
+DEU-NI RE1 HanHbf WunsTorf
+DEU-NI RE30 HanHbf WolHbf
+DEU-NI RE60 HanHbf NI/NW
 DEU-NI RB61 NW/NI NI/NW
 DEU-NI RB61Bad NW/NI DEU/NLD
 
@@ -200,6 +211,8 @@ DEU-NW SkyTrn FernBf TerC
 DEU-NW HB211 TecZen EicHof
 DEU-NW HB212 CamNord CamSud
 
+DEU-NW RE5 Wes NW/RP
+DEU-NW RE6 +DIV_Gre Min
 DEU-NW RE9 AacHbf NW/RP
 DEU-NW RE9Opp NW/RP RP/NW
 DEU-NW RE9Sie RP/NW SieHbf
@@ -209,6 +222,7 @@ DEU-NW RE19 DusDorfHbf DEU/NLD
 DEU-NW RE34 DortMundHbf SieHbf
 DEU-NW RE49 Wes +DIV_Ste
 DEU-NW RE49 WupTalVohWin WupTalHbf
+DEU-NW RE60 NI/NW NW/NI
 DEU-NW RB61 BieHbf +SKIP_HidSch
 DEU-NW RB61 +DIV_RE60 NW/NI
 DEU-NW RB61Rhe NI/NW NW/NI
@@ -236,6 +250,8 @@ DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
 ##  RP - Rheinland-Pfalz
+DEU-RP RE2 +DIV_MaiE KobHbf
+DEU-RP RE5 NW/RP KobHbf
 DEU-RP RE9 NW/RP RP/NW
 DEU-RP RE9Fur NW/RP RP/NW
 
@@ -247,6 +263,7 @@ DEU-RP RE9Fur NW/RP RP/NW
 
 
 ##  ST - Sachsen-Anhalt
+DEU-ST RE4 SteHbf ST/BB
 
 
 ##  SH - Schleswig-Holstein
