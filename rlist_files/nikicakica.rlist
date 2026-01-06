@@ -13,7 +13,7 @@ FRA-IDF M4 MarPoi Cite
 FRA-IDF M4 StGerPres DenRoc
 FRA-IDF M5 GareNord PlaIta
 FRA-IDF M6 CdGEto Ber
-FRA-IDF M7 Ope Cha
+FRA-IDF M7 Cad PlaMon
 FRA-IDF M8 ConCor Ope
 FRA-IDF M9 PontSev HavCau
 FRA-IDF M10 BouPontStClo GareAus
@@ -21,7 +21,7 @@ FRA-IDF M10Bou CluSor PorAut
 FRA-IDF M12 PorVer MarxDor
 FRA-IDF M13 StLaz Inv
 FRA-IDF M13 Dur ChaMontRou
-FRA-IDF M14 Pyr ThiOrly
+FRA-IDF M14 StLaz ThiOrly
 FRA-IDF T3a PorVer CiteUni
 FRA-IDF T6 HopBec ChaMon
 FRA-IDF T10 HopBec CroBer
@@ -47,7 +47,7 @@ FRA-GES ParLuxCha HDF/GES GES/HDF
 FRA-GES ParLux HDF/GES FRA/LUX
 FRA-GES ParZur BFC/GES FRA/CHE
 FRA-GES RS4Off DEU/FRA Str
-FRA-GES TramC Rep WinChu
+FRA-GES TramE ParEur WinChu
 FRA-GES Tram1Mul GareCen CiteAdm
 CHE ParZur FRA/CHE ZurHau
 CHE IC2 ZurHau Zug
