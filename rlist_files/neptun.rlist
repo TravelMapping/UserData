@@ -1,5 +1,5 @@
 # ──────────
-# 2025-12-20
+# 2026-01-07
 # ──────────
 
 # ─────────
@@ -66,6 +66,7 @@ CZE S33 MlaBolHlaNad Mel
 CZE S36 MlaCec MlaBolHlaNad
 CZE S40 Tel KraNadVlt
 CZE S43 KraNadVlt Ner
+CZE S44 Vel KraNadVlt
 CZE S45 Kla KraNadVlt
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
@@ -153,7 +154,7 @@ CZE 4Plz Kos Uni
 # ────────────
 
 CZE 1Brn Rec Pis
-CZE 4Brn NamSvo HlaNad
+CZE 4Brn NamMiru HlaNad
 CZE 5Brn SteCtv MenNam
 CZE 6Brn MenNam StaLisSmy
 CZE 7Brn LesCerRok HlaNad
@@ -431,8 +432,7 @@ HUN M4 KelPal KelVas
 HUN 1Bud BecUtVorUt KelVas
 HUN 2Bud JasMariTer Koz
 HUN 2BPac JasMariTer Pes
-HUN 3Bud MexUt OrsVezTere
-HUN 3Bud Ele GubUtHatUt
+HUN 3Bud MexUt GubUtHatUt
 HUN 4Bud SzeKalTer UjbKoz
 HUN 6Bud SzeKalTer MorZsiKor
 HUN 12Bud RakUjpVas RakKosUtca
@@ -454,7 +454,19 @@ HUN 61Bud Var MorZsiKor
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
+#┌───────────────────────────────────────────┐
+#│                    ROU                    │
+#└───────────────────────────────────────────┘
 
+# ─────────
+# Bucuresti
+# ─────────
+
+ROU M1 Ero PiaVic
+ROU M4 Jiu GaraNord2
+
+ROU 3Buc SosChiDepBucNoi Min
+ROU 24Buc BlvdGloBlvdBucNoi SosChiDepBucNoi
 
 #┌───────────────────────────────────────────┐
 #│                    SCT                    │
