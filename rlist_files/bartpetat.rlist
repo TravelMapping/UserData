@@ -207,6 +207,8 @@ DEU-NW RE13 NLD/DEU +SKIP_WupTalLanFeld
 DEU-NW RE18 NLD/DEU AacHbf
 DEU-NW RE19 DusDorfHbf DEU/NLD
 DEU-NW RE34 DortMundHbf SieHbf
+DEU-NW RE49 Wes +DIV_Ste
+DEU-NW RE49 WupTalVohWin WupTalHbf
 DEU-NW RB61 BieHbf +SKIP_HidSch
 DEU-NW RB61 +DIV_RE60 NW/NI
 DEU-NW RB61Rhe NI/NW NW/NI
@@ -224,6 +226,8 @@ DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
+DEU-NW U43 WesTor KampStr
+DEU-NW U49 DortMundHbf Hac
 DEU-NW U79 Klemensplatz DusseldorfHbf
 DEU-NW U71 UhLandStr HeiHeiAll
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee

@@ -3,7 +3,7 @@ CA BARTRed Mil SanFraAir
 DC BluLn VA/DC CapS
 DC RedLn MetCen UniSta
 DC YelLn VA/DC Arc
-IL BlueLn OHa Jac
+IL BlueLn OHa Cli
 IL BroLn Pau Loop
 IL GreLn ConCenPkDr Gar
 IL PinkLn Polk Loop
@@ -52,6 +52,10 @@ TX RedLnHou FanS Pre
 
 # Streetcars
 FL TECO DickGrePla CenPark
+LA CanCem Bou CemTraTer
+LA CanCityPark HarCas MusArt
+LA StCha CanCar SCla
+LA UPTRiv CanSt FreMar # Should be the Riverfront Line from Julia Street to French Market, update when the line is updated
 MI QLn GraBlvd ConSt
 MO KCSC UniSta RivMar
 OH Con Ban_E Ban_W
@@ -76,6 +80,11 @@ RI ProLn Pro RI/MA
 
 # Passenger rail
 DC NENor VA/DC WasUniSta
+IL NO Ky/IL UniSta
+KY NO TN/KY KY/IL
+LA NO NewOrl LA/MS
+MS NO LA/MS MS/TN
+TN NO MS/TN TN/KY
 VA NENor Fre VA/DC
 
 # Airports/Miscellaneous
