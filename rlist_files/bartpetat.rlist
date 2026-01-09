@@ -182,10 +182,13 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 ##  HB - Bremen
 DEU-HB 3Bre UseAks DomsHei
+DEU-HB RE9 +DIV_HemS HB/NI
 DEU-HB 10Bre MoorStr Hbf
 
 
 ##  HH - Hamburg
+DEU-HH RE4 HamBurgHbf HH/NI
+DEU-HH RE8 HamBurgHbf HH/SH
 
 
 ##  HE - Hessen
@@ -198,6 +201,10 @@ DEU-HE RE54 HanHbf HE/BY
 
 ##  NI - Niedersachsen
 DEU-NI RE1 HanHbf WunsTorf
+DEU-NI RE2Nat NW/NI NI/NW
+DEU-NI RE2Osn NW/NI OsnHbf
+DEU-NI RE4 HH/NI +SKIP_Sag
+DEU-NI RE9 HB/NI OsnHbf
 DEU-NI RE30 HanHbf WolHbf
 DEU-NI RE60 HanHbf NI/NW
 DEU-NI RB61 NW/NI NI/NW
@@ -211,6 +218,8 @@ DEU-NW SkyTrn FernBf TerC
 DEU-NW HB211 TecZen EicHof
 DEU-NW HB212 CamNord CamSud
 
+DEU-NW RE2 MunHbf NW/NI
+DEU-NW RE2Nat NI/NW NW/NI
 DEU-NW RE5 Wes NW/RP
 DEU-NW RE6 +DIV_Gre Min
 DEU-NW RE7 SolHbf WupTalVohWin
@@ -271,6 +280,8 @@ DEU-ST RE4 SteHbf ST/BB
 
 
 ##  SH - Schleswig-Holstein
+DEU-SH RE8 HH/SH LubHbf
+DEU-SH RB85 LubHbf Neu
 
 
 ##  TH - Thuringia
@@ -280,6 +291,23 @@ DEU-ST RE4 SteHbf ST/BB
 DNK M1 VanLose VesMag
 DNK M2 VanLose LuftHav
 DNK B Norp KobHov
+
+# SWEDEN
+SWE 40Sto ArlCen StoCity
+SWE 43Sto Bro +DIV_CenN
+
+SWE 7Sto StyGat BelWal
+SWE 11Sto Aka TCen
+SWE 17Sto GulPlan BjoHag
+SWE 25Sto Sic SalDuv
+SWE 30Sto SolSta Sic
+
+# NORWAY
+NOR FLY1 NatThe OsloLuf
+NOR L1 NatThe Nyl
+NOR 1Osl Frog Jer
+NOR 11Osl Jer NyBrua
+NOR 12Osl FroPla AkerBry
 
 
 # UNITED KINGDOM
@@ -316,14 +344,6 @@ ENG NorLnBar KXSP LonBri
 
 #Tram
 ENG MetLnkEDR DeaCas ExcSqu
-
-
-# NORWAY
-NOR FLY1 NatThe OsloLuf
-NOR L1 NatThe Nyl
-NOR 1Osl Frog Jer
-NOR 11Osl Jer NyBrua
-NOR 12Osl FroPla AkerBry
 
 
 # FRANCE
