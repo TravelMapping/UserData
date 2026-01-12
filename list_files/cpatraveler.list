@@ -2175,6 +2175,7 @@ CO US34BusEst US34_W US36_W #073119 Trip with Beau
 CO I-25 250 278 #101825 White River FW
 CO US34 US34Bus/36 US34Bus_W #10242025 White River FW
 CO US34 US34Bus_W US34Bus_E #102325 White River FW
+CO US34 US85_S I-76(66B) #01102026 E Colorado Inv
 CO US36 CO121 CO95 #101825 White River FW
 CO US36 US385_S CO63 #01082025 YW Inventory 
 CO US40 CR32 CO94 #01092025 Sangre de Cristo Inventory
@@ -2186,6 +2187,7 @@ CO US85 US85BusPla_N US85BusFor_N #10242025 White River FW
 CO US85 US85BusPla_N US34_W #102425 White River FW 
 CO US85 US34_W CO/WY #102325 White River FW
 CO US85BusPla US85_S US85_N #04222025 Sangre de Cristo Board Meeting
+CO US138 US6 CO/NE #01112026 E Colorado Inv
 CO US160 CO150 I-25BL_N
 CO US160 CO389 US287/385 #051925 San Isabel to SW
 CO US287 US50/385 CO196 #08202025 Travel to CO Mtg
@@ -2195,6 +2197,7 @@ CO US287 CO60 CO402 #101825 White River FW
 CO US287 CO1 CO/WY #101825 White River FW
 CO US385 US40_E CO96_E #01292025 KC to SW
 CO US385 CR196 US50/400 #01292025 KC to SW
+CO US385 US34 CO/NE #01112026 E Colorado Inv
 CO US400 US50/385 CO/KS #10212021 TCA Trip
 CO US34BusGre US34_W US34_E #102325 White River FW
 CO US50BusOla US50_E US50_W #051825 Mohave to San Isabel
@@ -2208,7 +2211,9 @@ CO CO7BusAll CO7_W CO7_E #10242025 White River FW
 CO CO8 CO391 CO470 #03212025 Drive around Den after CO FW
 CO CO8 CO391 CO121 #03212025 Drive around Den after CO FW
 CO CO10 I-25BL I-25 #05182025 Mohave to San Isabel
+CO CO11 US138/385 CO/NE #01112026 E Colorado Inv
 CO CO13 US40_W CO/WY #101925 White River FW
+CO CO14 CO52 I-76 #01112026 E Colorado Inv
 CO CO15 US160/285 TweRd #05182025 Mohave to San Isabel
 CO CO15Cap CR6 US285 #05182025 Mohave to San Isabel   
 CO CO26 I-25 CO95 #03212025 Drive around Den after CO FW
@@ -2216,12 +2221,15 @@ CO CO35 I-70 I-270 #Visit Denver Soccer
 CO CO35 I-270 53rdPl #101825 White River FW 
 CO CO36 ColAve_W I-70(316) #01282025 KC Inventory
 CO CO40 CO36 MainSt #01282025 KC Inventory
+CO CO52 US85Bus_N I-76(31) #01102026 E Colorado Inv
 CO CO52 CO119 US287 #101825 White River FW
 CO CO52 I-76(31) CO79 #10242025 White River FW       
 CO CO52 CO79 CO39 #01072025 Morgan Inventory
+CO CO52FMo US34 CO14 #01112026 E Colorado Inv
 CO CO56 US287 I-25 #101825 White River FW
 CO CO60 CO257 US85 #10242025 White River FW
 CO CO60Lov US287 I-25FroRd #101825 White River FW
+CO CO61 US34 US6 #01112026 E Colorado Inv
 CO CO64 CO13 DriRockRd #01112025 GV Inv Off Day
 CO CO65 I-70 CO92 #05182025 Mohave to San Isabel
 CO CO66 US85 I-25 #04222025 Sangre de Cristo Board Meeting
@@ -3907,6 +3915,7 @@ NC NC904 US17 1stSt #010516 NC-SC Parks Trip
 NE I-76 CO/NE 3 #01142013 CO Inventory side trip to NPS Locations
 NE I-80 59 102 #01142013 CO Inventory side trip to NPS Locations
 NE I-80 22 59 #01142013 CO Inventory side trip to NPS Locations
+NE I-80 85 126 #01112026 E Colorado Inv
 NE I-80 NE/IA 401 #09052023 Driving Around Prior to MACC Meeting
 NE I-80 177 272 #07112024 Badland Trip
 NE I-80 272 401 #07122024 Badland Trip
@@ -3922,6 +3931,8 @@ NE US6 I-480(4) I-480/75 #09072023 Driving Around After MACC Meeting
 NE US6 US275/92 I-480/75 #07122024 Badland Trip
 NE US20 WY/NE NE29 #01142013 CO Inventory side trip to NPS Locations
 NE US26 NE29 NE71_S #01142013 CO Inventory side trip to NPS Locations
+NE US26 NE61_N I-80 #01112026 E Colorado Inv
+NE US30 US138 US26_E #01112026 E Colorado Inv 
 NE US30 NE/IA NE133  #062320 Trip to MACC
 NE US30 L17J NE19 #01142013 CO Inventory side trip to NPS Locations
 NE US34 CO/NE NE27 #072219 Visit Pipestone Side Trip
@@ -3937,18 +3948,24 @@ NE US77 I-80(405) NE92_E #07122024 Badland Trip
 NE US81 NE12 NE/SD #072219 Visit Pipestone Side Trip
 NE US83 NE/SD I-80 #07112024 Badland Trip
 NE US136 NE/MO US75 #04242025 After United Board Mtg
+NE US138 CO/NE US30 #01112026 E Colorado Inv
 NE US159 US73_N NE/MO #04242025 After United Board Mtg
 NE US275 US6/31 I-80 #09052023 Driving Around Prior to MACC Meeting
 NE US275 NE92_W L28B #07122024 Badland Trip 
+NE US385 CO/NE L25A #01112026 E Colorado Inv
 NE OldOreTrl NE92 FiveRocRd #01142013 CO Inventory side trip to NPS Locations
 NE NE12 NE121 US81 #072219 Visit Pipestone Side Trip
 NE L17J I-80 US30 #01142013 CO Inventory side trip to NPS Locations
 NE NE19 US30 I-80 #01142013 CO Inventory side trip to NPS Locations
 NE NE27Hai US34 KS/NE #072219 Visit Pipestone Side Trip
+NE L25A I-80 US385 #01112026 E Colorado Inv
+NE L25B I-80 US138 #01112026 E Colorado Inv
 NE L28B US275 US6/31 #07122024 Badland Trip
 NE L28K NE133 NE64 #09052023 Driving Around Prior to MACC Meeting
+NE L51A I-80 US30 #01112026 E Colorado Inv
 NE NE29 US20 US26 #01142013 CO Inventory side trip to NPS Locations
 NE NE61 US6_E KS/NE #03242022 CO Fieldwork Trip
+NE NE61 I-80 KeyLakeRd #01112026 E Colorado Inv
 NE NE64 L28K US75 #09052023 Driving Around Prior to MACC Meeting
 NE NE71 US26_E I-80(22) #01142013 CO Inventory side trip to NPS Locations
 NE S79H NE92 StaClubRd #01142013 CO Inventory side trip to NPS Locations
@@ -3957,6 +3974,7 @@ NE NE92 US77_N US6/31 #07122024 Badland Trip
 NE NE121Cro CreRd NE12  #072219 Visit Pipestone Side Trip
 NE NE133 I-680 US30 #062320 Trip to MACC
 NE NE133 I-680 L28K #09052023 Driving Around Prior to MACC Meeting
+NE LinHwy US30_BigE Rd80 #01112026 E Colorado Inv  
 NH I-95 NH/ME MA/NH #Trip with GJ Telergee  
 NH US2 VT/NH NH16_S #Trip with GJ Telergee
 NH US302 NH16_S NH/ME #Trip with GJ Telergee 
