@@ -1,5 +1,5 @@
 # ──────────
-# 2026-01-07
+# 2026-01-12
 # ──────────
 
 # ─────────
@@ -282,7 +282,11 @@ AUT S3Obe LinzHau Pre
 # Dresden
 # ───────
 
+DEU-SN 7Dre WeixDorfRatStr Hbf
+DEU-SN 11Dre BfNeuSta HbfNord
+
 DEU-SN S1Dre RadZit Sch
+DEU-SN S2Dre DreKlo DreNeuSta
 DEU-SN S3Dre FreitalHaiBerg DreHbf
 
 # ──────
