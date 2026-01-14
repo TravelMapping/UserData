@@ -45,9 +45,9 @@ CO I-70 269A 274
 CO I-70 276B CO/KS
 
 CO I-225 I-25 12
-#I got to say I've clinched one right from the get go! 
+#I got to say I've clinched one right from the get-go! 
 
-CO I-25 181 268
+CO I-25 98B 268
 
 CO I-270 0 I-70
 #Got another! 
@@ -65,12 +65,23 @@ CO US36 CO119_W I-270(0)
 CO US40 3rdSt CO9
 CO US40 CO125 I-70BLDen_W
 
+CO US50 McCulBlvd 101(25)
+
+CO US85 I-25(98B) BowAve
+#Lots of sources vary on where this road goes - I followed it from Pueblo to Littleton based on how TM marked it. 
 
 CO US285 CO291 I-25 
 #I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexaggerate. 
 
-CO US287 HarRd ProRd
-#Not including the portion of US 287 I've driven in Broomfield since it's shorter than the segment in TM. 
+
+CO US287 NWPkwy SouBouRd
+CO US287 HarRd MulSt
+#Not including some portions of US 287 I've driven since they're shorter than the segment in TM. See my spreadsheet for full details. 
+
+#Random CO highways I'm including for the heck of it
+CO CO121 CO470 RalRd
+CO CO85 I-25 VenBlvd_N
+#I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
 
 
 #FLORIDA
@@ -120,7 +131,9 @@ KY I-65 TN/KY KY/IN
 KY I-264 11 12
 KY I-71 1 KY/OH
 
-#I also drove all 6 miles of KY 609
+#Random KY state highways I'm including for the heck of it
+KY KY609 KY159 KY177
+
 
 
 
@@ -141,10 +154,14 @@ OH I-271 18 26A
 
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
+OH US20 US322_W US6_W
 OH US42 KY/OH TarCemRd
 OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
+OH US322 PubSqu KenRd
+#Technically missing the block between 12th and 13th (Masthead Brewing)
 OH US422 PubSqu I-77
+OH US422 LeeRd OH8_S
 
 
 #ILLINOIS
