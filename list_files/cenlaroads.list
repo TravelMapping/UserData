@@ -60,6 +60,9 @@ AR AR151 TX/AR 1
 
 # California
 
+# Interstates
+CA I-5 144 146B
+
 # US Highways
 CA US101 9A 11
 
@@ -1496,3 +1499,4 @@ WV WV527 I-64 WV/OH
 # LA 3280
 # LA 3282
 # LA 3285
+
