@@ -58,6 +58,19 @@ AR AR108Tex TX/AR US67
 AR AR151 TX/AR 1
 
 
+# California
+
+# US Highways
+CA US101 9A 11
+
+# California State Highways
+CA CA2 HigAve VineSt
+CA CA134 4 7B
+
+# US Historic Highways
+CA US66HisHol HigAve VineSt
+
+
 # Florida
 
 # Interstates
@@ -1483,4 +1496,3 @@ WV WV527 I-64 WV/OH
 # LA 3280
 # LA 3282
 # LA 3285
-
