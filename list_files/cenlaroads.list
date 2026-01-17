@@ -61,14 +61,21 @@ AR AR151 TX/AR 1
 # California
 
 # Interstates
-CA I-5 144 146B
+CA I-5 142 147B
+CA I-5 153B 166
+CA I-5TrkNew I-5_S I-5_N
+CA I-405 63C I-5(158)
 
 # US Highways
-CA US101 9A 11
+CA US101 5B 19A
+
+# US Select Named Freeways
+CA ColFwy I-5 ColSt
 
 # California State Highways
 CA CA2 HigAve VineSt
-CA CA134 4 7B
+CA CA134 1A 13B
+CA CA170 5 11B
 
 # US Historic Highways
 CA US66HisHol HigAve VineSt
