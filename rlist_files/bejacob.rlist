@@ -1,21 +1,11 @@
 #Amtrak
-BC AC USA/CAN VanPacCen
-CA CS UniSta CA/OR
-CA PS SanFeDep SanLuisObi
-DC FL WasUniSta DC/VA
-FL FL GA/FL Mia
-GA FL SC/GA GA/FL
-NC FL VA/NC NC/SC
-OR AC Eug OR/WA
-OR CS CA/OR OR/WA
-SC FL NC/SC SC/GA
-VA FL DC/VA VA/NC
-WA AC OR/WA USA/CAN
-WA CS OR/WA SeaKingSt
+CA CS UniSta WA CS SeaKingSt
+CA PS SanFeDep CA PS SanLuisObi
+DC FL WasUniSta FL FL Mia
+LA NO NewOrl IL NO UniSta
+OR AC Eug BC AC VanPacCen
 
-AK GlaDis Anc Por_N
-AK GlaDis Whi +DIV_Por_B
-AK GlaDis Por_S +DIV_Por_C
+AK GlaDis Anc AK GlaDis +DIV_Por_C
 
 CA OraCouLn UniSta Oce
 CA SanBerLn UniSta PomN
@@ -63,7 +53,6 @@ CA VTABlue SanTer Bay
 CA VTAGre Win OldIro
 CA VTAOra DtnMouView Bay
 
-
 AZ A 44thStWas GilRdMainSt
 CO DurSilNGR Dur Sil
 FL TriRail MetTra MiaAir
@@ -73,10 +62,17 @@ FL ResMon TraTicCen_1 TraTicCen_2
 FL TECO DowTam CenPark
 FL NBankLn JacRTC RosaPar
 FL SBankLn RosaPar KinAve
+
+#CTA
+IL BlueLn OHa Cli
+IL BroLn Chi Loop
+
+#NOLA RTA
 LA CanCem HarCas CemTraTer
 LA CanCityPark HarCas MusArt
-LA UPTRiv UPT FreMar
-LA StCha CanCar How
+LA Riv JulSt FreMar
+LA StCha CanCar SCla
+LA RamLoy UPT ElyFie
 
 #MBTA
 MA BluLn Won Bow
@@ -93,9 +89,8 @@ MO MLRedLn LamAirTer1 LacLan
 NV LVM MGMGra SLS
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
-NJ NECorLn NY/NJ NewLibAir
 NY BMR SpeEve Uni
-NY NJerCoaLn PennSta NY/NJ
+NY NECorLn PennSta NJ NECorLn NewLibAir
 
 #NY Subway
 NY 1 110StCatPkwy SouFry
@@ -127,17 +122,23 @@ NY W QuePlaza WhiStSFry
 NY SIR StGeo OldTown
 
 OH RedLn TowCity LitItaUniCir
+
+#MAX
 OR RedLn PioSq PorIntAir
 OR BLp 11thMar_S 11thCou
 OR BLp GraHoyt 11thMar_N
+
 PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq
 PA SilLn Gat StaSq
 PA Duq Low Upp
 PA Mon Low Upp
+
+#DART
 TX OraLn DFWAir CityPlaUpt
 TX RedLn Wes CityPlaUpt
+
 TX RedLnHou EnsHCC CenSta
 WA SeaCenMon SeaCen WesCen
 WA N Eve Sea
@@ -190,16 +191,14 @@ NY AirTrnJam Jam Loop
 TX IAHSub TerA TerD/E
 
 #Washington Metro
-DC BluLn VA/DC FedCenSW
-DC GreLn Wat GalPla
-DC OraLn VA/DC FedCenSW
-DC RedLn MD/DC UniSta
-DC SilLn VA/DC FedCenSW
-DC YelLn VA/DC GalPla
-MD RedLn Roc MD/DC
-VA BluLn KingStOldTown VA/DC
-VA YelLn KingStOldTown VA/DC
-VA SilLn DulIntAir Cla
+DC GreLn Wat DC GreLn GalPla
+MD RedLn Roc DC RedLn UniSta
+VA BluLn KingStOldTown DC BluLn FedCenSW
+VA OraLn EFallsChu VA OraLn Cla
+VA OraLn Ros DC OraLn FedCenSW
+VA SilLn DulIntAir VA SilLn Cla
+VA SilLn Ros DC SilLn FedCenSW
+VA YelLn KingStOldTown DC YelLn GalPla
 
 PR TrenUrb SagCor Bay
 
