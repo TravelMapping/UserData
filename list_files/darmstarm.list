@@ -222,6 +222,7 @@ NC I-77 51 50 #BRR 9-25
 NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-240 5B 9 #BRR 9-25
+NC I-295 34 21A #fort bragg trip 1-2026
 NC I-440 1 12
 NC I-440 13 16 #roadtrip 11-25
 NC I-485 30 32
@@ -253,6 +254,7 @@ NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
+NC NC24 21C(295) NC210_N #fort bragg trip 1-26
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
@@ -369,8 +371,10 @@ TN US129 I-40 CheTrl
 MI I-94 198 204B #oak park wedding, mid 2010s
 MI MI39 1 16 #oak park wedding, mid 2010s
 #new york
+NY GarStaPkwy NJ/NY I-87/287 #west point trip, antiq.
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
 NY PalIntPkwy NJ/NY 6 #college new york trip 2024
+NY PalIntPkwy 9 US6/9W #west point trip, antiq.
 NY I-86 10 PA/NY #niagara trip (rnrhf)
 NY I-90 59(NYST) 56(NYST) #niagara trip
 NY I-90 50(NYST) 55A(NYST) #niagara trip (duff's -> bills)
@@ -378,7 +382,9 @@ NY I-95 NJ/NY 1 #george washington bridge
 NY I-190 7 21 #niagara trip
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
+NY I-287 14A(87) 13(87) #west point trip, antiq.
 NY I-495 2ndAve 14 #medieval times trip
+NY US9W US6/202 NY218 #west point trip, antiq.
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
 NY US62 PA/NY NY60 #niagara trip (ride up)
@@ -395,7 +401,7 @@ NY NY495 34thSt NJ/NY #medieval times trip
 #new jersey
 NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
-NJ GarStaPkwy 129 172 #college new york trip 2024
+NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
 NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
 NJ I-95 PA/NJ 16E #medieval times trip
 NJ I-95 74 NJ/NY #george washington bridge

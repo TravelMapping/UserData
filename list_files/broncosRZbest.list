@@ -17,11 +17,13 @@
 #In general, if I didn't make it to the next waypoint, I'm not going to include that section.  It should be noted in my spreadsheet where my endpoint is.  
 
 
+
 #ARIZONA
 
 AZ I-10 147 153A
 AZ I-17 194 195B
 AZ US60 176 PerRd
+
 
 
 #CALIFORNIA
@@ -84,6 +86,7 @@ CO CO85 I-25 VenBlvd_N
 #I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
 
 
+
 #FLORIDA
 
 FL I-75 7 23
@@ -105,6 +108,7 @@ FL FLA1AFor I-395 US1_S
 FL FLA1AVer FL714 FL60
 
 
+
 #GEORGIA
 
 GA US78 TechPkwy PeaSt
@@ -117,6 +121,77 @@ GA I-985 I-85 24
 GA I-75 259 GA/TN
 GA I-85 72A 95
 GA I-85 109 113
+
+
+
+#IDAHO
+
+ID I-90 WA/ID 15
+#My US 95 mileage is so small it's hard to capture in TM
+ID I-184 0 US20/26
+ID I-84 49 52
+ID US20 I-184 BroAve
+
+
+
+#ILLINOIS
+
+IL I-70 30 IL/IN
+IL I-90 WI/IL IL/IN
+IL I-55 157 US41
+
+IL I-74 127 IL/IN
+IL I-94 43B IL/IN
+
+IL I-270 MO/IL 15
+IL I-290 28B I-90/94
+
+IL US40 MainSt_Tro I-70(30)
+IL US41 I-55 RanSt
+
+
+
+#INDIANA
+
+IN I-65 KY/IN 6
+IN I-65 64 68
+IN I-65 103 US12/20
+IN I-70 IL/IN 41
+IN I-70 59 73
+IN I-70 80 90
+IN I-80 IL/IN 12
+IN I-90 IL/IN 77
+
+IN I-69 114 116
+IN I-69 309 315
+IN I-74 IL/IN IN/OH
+
+IN I-275 KY/IN IN/OH
+IN I-465 I-65 53
+IN I-469 19 31
+IN I-865 I-65 I-465
+
+IN US20 US12/912 I-65
+IN US20 US20Bus/31 US33
+IN US30 US33_N IN/OH
+IN US31 US50 IN46
+IN US31 2(465) IN/MI
+IN US40 US231 IN240
+IN US41 I-90(5) IN/IL
+IN US50 IN37/450 IN/OH
+
+IN US27 US33_S I-69
+IN US33 OH/IN I-469(11)
+IN US33 I-69(309) US20
+IN US52 I-65(141) IN/OH
+
+IN US231 I-70 US40
+
+
+#NEXT UP
+#Kansas
+#also appear to be missing US 19 mileage in GA. 
+
 
 
 
@@ -133,6 +208,8 @@ KY I-71 1 KY/OH
 
 #Random KY state highways I'm including for the heck of it
 KY KY609 KY159 KY177
+
+
 
 
 
@@ -164,15 +241,7 @@ OH US422 PubSqu I-77
 OH US422 LeeRd OH8_S
 
 
-#ILLINOIS
 
-IL I-74 127 IL/IN
-IL I-55 157 US41
-IL I-94 43B IL/IN
-IL I-90 WI/IL IL/IN
-IL I-290 28B I-90/94
-IL US41 I-55 RanSt
-#haven't typed in St Louis area hwys yet (I-70, US 40, I-270)
 
 
 #WASHINGTON
@@ -185,13 +254,7 @@ WA US2 AirDr I-90(277)
 WA SteCynRd WA706 ParVlyRd_S
 
 
-#IDAHO
 
-ID I-90 WA/ID 15
-#My US 95 mileage is so small it's hard to capture in TM
-ID I-184 0 US20/26
-ID I-84 49 52
-ID US20 I-184 BroAve
 
 
 
