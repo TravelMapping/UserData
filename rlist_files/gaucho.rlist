@@ -7,6 +7,8 @@ WA AC +DIV_PDN Tuk
 
 NM RaiRun Bel SanFe
 
+CA SMART Lar Win
+
 CA BARTYel PowSt WalCrk
 CA SRTBlue CosRivCol Cap
 CA SRTGold SacValSta HisFol
@@ -18,6 +20,11 @@ MA GreLnD SciPk Lec
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
+
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+
+TX Sky A8 A21
 
 WA SeaCenMon SeaCen WesCen
 
