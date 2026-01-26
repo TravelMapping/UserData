@@ -1,5 +1,5 @@
 # ──────────
-# 2026-01-07
+# 2026-01-26
 # ──────────
 
 CZE D0 76 28
@@ -452,6 +452,7 @@ DEU-SN A4 76 77b
 DEU-BW A5 45 54
 DEU-BW A6 36 DEU-BY A6 58
 DEU-BY A6 60 DEU-BY A6 DEU/CZE
+DEU-SH A7 DNK/DEU DEU-HH A7 26
 DEU-BW A8 41 DEU-BW A8 49
 DEU-BY A8 91 116
 DEU-BY A9 52 DEU-BY A9 53
@@ -476,6 +477,7 @@ DEU-BY B2Wei B23_E DEU/AUT
 DEU-BY B2R A8 St2350
 DEU-BY B2R A9 A95_W
 DEU-BY B4Nur B4R A9
+DEU-HH B5 A7 DEU-HH B5 Ring2_S
 DEU-BY B8Nur B4R A73
 DEU-BW B10 A81 B27_N
 DEU-BY B11Reg CZE/DEU St2137
@@ -531,6 +533,8 @@ DEU-BY St2350 St2084 LudPraStr
 DEU-BY St2350 St2088 B2R
 DEU-BY St2622 St2126/2127 B12
 
+DEU-HH Ring1 NeuJunSti SteBru
+
 DEU-MV L29 B196_N B96b
 DEU-MV L30Bre B96 L303
 DEU-MV L292 B196 StrStr
@@ -545,6 +549,21 @@ DEU-SN S218 S262 S221
 DEU-SN S262 S218 S265_W
 DEU-SN S265 B95 S262_N
 DEU-SN S271 S271Fic B95
+
+# ─────────────────────────────────────────────
+#                      DNK                     
+# ─────────────────────────────────────────────
+
+DNK OstMot TauMot 59(E20)
+DNK SonJysMot E20_E DNK/DEU
+DNK TauMot OstMot SonMot
+
+DNK PR28 E20 MR_FedS
+DNK PR28 SR521 SR513
+
+DNK SR521 O2 PR28
+
+DNK MR MozVej O2_N
 
 # ─────────────────────────────────────────────
 #                      ENG                     
@@ -835,6 +854,16 @@ SVN H5 1 5
 SVN R406 H5(2) ToR409
 SVN R409 A1(35) TrzCes_E
 SVN R741 H5(2) H5(1)
+
+# ─────────────────────────────────────────────
+#                      SWE                     
+# ─────────────────────────────────────────────
+
+SWE NorVag 178 181
+
+SWE E10 BD874 BD875
+
+SWE L103 M892 L108_S
 
 
 
