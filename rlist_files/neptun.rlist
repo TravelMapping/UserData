@@ -1,5 +1,5 @@
 # ──────────
-# 2026-01-12
+# 2026-01-26
 # ──────────
 
 # ─────────
@@ -278,6 +278,11 @@ AUT S3Obe LinzHau Pre
 #│                    DEU                    │
 #└───────────────────────────────────────────┘
 
+# ──
+# IC
+# ──
+
+
 # ───────
 # Dresden
 # ───────
@@ -409,9 +414,11 @@ FRA-IDF FunMon Inf Sup
 
 FRA-GES TramA Cer EtoBou
 FRA-GES TramB HoeGare HomFer
-FRA-GES TramD MarRud DEU-BW TramD KehlRat
+FRA-GES TramB Els LinTie
+FRA-GES TramC GareCen NeuRodReu
+FRA-GES TramD Pot DEU-BW TramD KehlRat
 FRA-GES TramE RobEsc EtoPol
-FRA-GES TramF Com PlaIsl
+FRA-GES TramF WolHenRen PlaIsl
 
 # ────────
 # Mulhouse
@@ -508,4 +515,20 @@ SVK 6Kos Hav StaNam
 SVK 7Kos BotZah Vaz
 SVK R2Kos VstAreUSSte Vaz
 
+#┌───────────────────────────────────────────┐
+#│                    SWE                    │
+#└───────────────────────────────────────────┘
 
+# ─────────
+# Stockholm
+# ─────────
+
+SWE 7Sto TCen BelWal
+SWE 11Sto SolCen KunGar
+SWE 14Sto Slu DanSju
+SWE 17Sto RadGat TCen
+SWE 28Sto TabyCen Vig
+SWE 29Sto StoOst NasPark
+SWE 30Sto SolCen ArsBerg
+SWE 31Sto BroFly AlvStr
+SWE 40Sto StoOdenPlan ArsBerg
