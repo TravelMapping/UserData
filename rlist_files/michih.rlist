@@ -257,7 +257,7 @@ DEU-BY RB54 MunOst Gra                                          #2025
 CHE S1Gal SteRhe Rom                                            #2025
 CHE S2Gal Ror StMar                                             #2025, actually traveled as IR2212 something
 CHE S3Vor StMar AUT S3Vor Bre                                   #2025
-DEU-BY RB92Mem Mem DEU-BY RB92 DEU-BY RB92 LinIns               #2025
+DEU-BY RB92Mem Mem DEU-BY RB92 LinIns                           #2025
 DEU-BW ICE11 UlmHbf DEU-HE ICE11 Ful                            #2025, actually traveled as ICE692 + ICE1586/ICE2916 Ulm - Frankfurt - Fulda
 DEU-HE ICE25 Ful DEU-NI ICE25 HanHbf                            #2025, actually traveled as ICE1586/ICE2916 Fulda - Hannover
 DEU-NI IC56 HanHbf DEU-ST IC56 MagBurgHbf                       #2025, actually traveled as IC2039 Hannover - Magdeburg
