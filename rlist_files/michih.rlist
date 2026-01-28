@@ -1,4 +1,4 @@
-# Date: 2026-01-25
+# Date: 2026-01-27
 # ----------------
 # ----------------
 
@@ -49,26 +49,20 @@ DEU-BY RB78 Gun Min                                             #2022
 DEU-BY RE7 AugHbf Buc                                           #2022
 DEU-BY RB23 RegHbf Mar                                          #2022
 DEU-BY RE31 Mar HofHbf                                          #2022, actually traveled with RB24
-#DEU-BY  Hof Hbf                      DEU-SN  Chemnitz Hbf      #2022, RE3 via Zwickau, Glauchau
-DEU-SN C15 +DIV_Hbf +DIV_NieWie                                 #2022, actually traveled as RB30 to Dresden
-DEU-SN S3Dre FreiBerg DreHbf                                    #2022, actually traveled as RB30 from Chemnitz
-#DEU-SN  Chemnitz Hbf                 DEU-SN  Dresden Hbf       #2022, RB30
+DEU-BY RE3Hof HofHbf DEU-SN RE3 CheHbf                          #2022, RE3 Hof - Zwickau - Glauchau - Chemnitz
+DEU-SN RB30 CheHbf DreHbf                                       #2022
 DEU-BB RE13 +DIV_RE18 CotHbf                                    #2022, actually traveled as RE18 Dresden - Coswig - Ortrand - Cottbus
 DEU-SN S1Dre +DIV_CosN DreHbf                                   #2022, actually traveled as RE18 Dresden - Coswig - Ortrand - Cottbus
-#DEU-SN  Dresden Hbf                  DEU-BB  Cottbus Hbf       #2022, RE18 Dresden - Coswig - Ortrand - Cottbus
+DEU-BB RE18 CotHbf DEU-SN RE18 DreHbf                           #2022, RE18 Dresden - Coswig - Ortrand - Cottbus
 DEU-BB RE1 Fra CotHbf                                           #2022, actually traveled as RB11
 DEU-ST RE1 MagBurgHbf ST/BB                                     #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BB RE1Bra ST/BB BB/BE                                       #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BE RE1 BB/BE BE/BB                                          #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
 DEU-BB RE1 BE/BB Fra                                            #2022, Cottbus - Berlin Hbf - Potsdam - Magdeburg
-DEU-ST S1 +DIV_MagN +DIV_SchBeck                                #2022, actually traveled as RE30 to Halle
-DEU-ST S8Hal HalSaaHbf +DIV_Die                                 #2022, actually traveled as RE30 from Magdeburg
-#DEU-ST  Magdeburg Hbf                DEU-ST  Halle Hbf         #2022, RE30 via Köthen
-DEU-ST S11 HalSaaHbf +DIV_MerS                                  #2022, actually traveled as RE16 to Naumburg
-#DEU-ST  Halle Hbf                    DEU-ST  Naumburg Hbf      #2022, RE16
-DEU-TH RE14 BY/TH Saa                                           #2022, actually traveled as RE42 from Naumburg
-DEU-BY RE14 NurnBergHbf BY/TH                                   #2022, actually traveled as RE42 from Naumburg
-#DEU-ST  Naumburg Hbf                 DEU-BY  Nürnberg Hbf      #2022, RE42 via Jena, Kronach, Bamberg
+DEU-ST RE30 MagBurgHbf DEU-ST RE30 HalSaaHbf                    #2022, RE30 Magedeburg - Köthen - Halle
+DEU-ST RE16 HalSaaHbf DEU-ST RE16 Nau                           #2022
+DEU-ST RE15 Nau DEU-TH RE15 Saa                                 #2022, actually traveled as RE42 Naumburg - Jena - Kronach - Bamberg - Nürnberg
+DEU-BY RE14 NurnBergHbf DEU-TH RE14 Saa                         #2022, actually traveled as RE42 Naumburg - Jena - Kronach - Bamberg - Nürnberg
 DEU-BY RE16 NurnBergHbf Don                                     #2022
 DEU-BW ICE11 UlmHbf DEU-BY ICE11 MunHbf                         #2022
 DEU-BW RE55 DonEsc UlmHbf                                       #2022, RE55 via Munderkingen, Fridlingen
@@ -164,8 +158,7 @@ DEU-BY RE54 HE/BY Lohr                                          #2023 Frankfurt 
 DEU-BE S9 TrePark AdlHof                                        #2023
 DEU-BE S42 OstKre_N OstKre_S                                    #2023, full loop counter-clockwise
 DEU-BE S47 NeuKol SpiFeld                                       #2023
-DEU-SN S1 +DIV_Pla LeiPlagWitz                                  #2023, actually traveled as RB22
-#DEU-SN RB22 Leipzig Knauthain LeiPlagWitz                      #2023
+DEU-SN RB22 LeiPlagWitz LeiKna                                  #2023
 DEU-SN S1Dre DreMit Sch                                         #2023
 DEU-SN S2Dre DreFlugHaf DreFreiBerStr                           #2023
 DEU-SN S8Dre Kam DreMit                                         #2023
@@ -325,17 +318,12 @@ DEU-BY RB92 BW/BY LinIns                                        #2025
 DEU-BW ICE11 UlmHbf DEU-HE ICE11 Ful                            #2025, actually traveled as ICE692 + ICE1586/ICE2916 Ulm - Frankfurt - Fulda
 DEU-HE ICE25 Ful DEU-NI ICE25 HanHbf                            #2025, actually traveled as ICE1586/ICE2916 Fulda - Hannover
 DEU-NI IC56 HanHbf DEU-ST IC56 MagBurgHbf                       #2025, actually traveled as IC2039 Hannover - Magdeburg
-DEU-ST S1 +DIV_SchBeck SchBeckBadSal                            #2025, actually traveled as RB41
-#RB41 Magdeburg - Staßfurt - Aschersleben                       #2025
-DEU-ST S47 HalTro HalSaaHbf                                     #2025, actually traveled as RE4
-#RE4 Aschersleben - Könnern - Halle                             #2025
+DEU-ST RB41 MagBurgHbf Asc                                      #2025, Magdeburg - Staßfurt - Aschersleben
+DEU-ST RE4 Asc HalSaaHbf                                        #2025, Aschersleben - Könnern - Halle
 DEU-ST S8Hal HalSaaHbf ST/SN                                    #2025
 DEU-SN S8 ST/SN SN/ST                                           #2025
 DEU-ST S8 SN/ST BitFeld                                         #2025
-DEU-ST S2 DesHbf BitFeld                                        #2025, actually traveled as RE13
-DEU-ST RE7Des DesHbf +DIV_RE13                                  #2025, actually traveled as RE13
-DEU-ST RE1 MagBurgHbf Bie                                       #2025, actually traveled as RE13
-#RE13 Bitterfeld - Zerbst - Magdeburg                           #2025
+DEU-ST RE13 MagBurgHbf BitFeld                                  #2025, Bitterfeld - Zerbst - Magdeburg
 DEU-ST IC56 MagBurgHbf DEU-ST IC56 HalSaaHbf                    #2025, IC2443 Magdeburg - Köthen - Halle
 DEU-ST ICE18 HalSaaHbf DEU-BY ICE18 Don                         #2025, ICE705 Halle - Erfurt - Nürnberg - D'wörth
 
