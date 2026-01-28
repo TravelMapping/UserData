@@ -270,7 +270,7 @@ AR US67 I-40(155) MainSt
 AR US67 AR161 AR5/321
 
 
-AZ I-10 112 164 #west to 112 opened in May 2023 https://azdot.gov/projects/central-district-projects/i-10-sr85-verrado-way-improvements
+AZ I-10 112 164
 AZ I-10 185 263 #doesn't quite make it west to 185
 AZ I-17 194 200A
 AZ I-17 200A 244 #goes to a "Flex Road" system north of 244
@@ -332,12 +332,11 @@ CA US50 1A 35
 CA US101 1A 1D
 CA US101 1D 65
 CA US101 66A 70B
-CA US101 70B 87B #construction from 87B to 92
+CA US101 70B 92
 CA US101 94B 105
 CA US101 167 175
 CA US101 355 433B
-CA US101 437 463 #construction from 463 to 472A
-CA US101 472A 498
+CA US101 437 498
 
 CA CA1 404 409
 CA CA1 508 509B
@@ -360,8 +359,8 @@ CA CA52 3 13 #4 lanes between 7B and 6 in the "wrong" order
 CA CA54 1A 12(125)
 CA CA55 19thSt 18
 CA CA57 1A 25B
-CA WesPkwy AllRd MohSt
-CA CA58 CA99(24) 117
+CA CA58 AllRd 110
+CA CA58 110 117
 CA CA60 I-10(16B) 66
 CA CA67 1A 2
 CA CA71 4 12B #construction north of 12B
@@ -376,13 +375,11 @@ CA CA91 6 65B
 CA CA92 13 26
 CA CA94 1A 9B
 CA CA99 I-5(221) 57
-CA CA99 94 115 #construction south of 94 and from 115 to 118
-CA CA99 118 143
+CA CA99 88 143
 CA CA99 151 157
 CA CA99 164 166
 CA CA99 171 185 #begins about 1-2 mi north of 171
-CA CA99 198 201 #construction from 193 to 198 and 201 to 209
-CA CA99 209 264A
+CA CA99 196 264A
 CA CA99 286 6(50)
 CA CA110 21 31A
 CA CA118 22 46B
@@ -398,7 +395,7 @@ CA CA170 5 11B
 CA CA178 MSt 6
 CA CA180 56 57A
 CA CA180 57A 64 #4 lanes between 60B and 59 in the "wrong" order
-CA CA210 45 85 #construction is done https://www.aaroads.com/forum/index.php?topic=18416.msg2854584#msg2854584
+CA CA210 45 85 
 CA CA237 3B 9B
 CA CA241 22B 27
 CA CA241 32 39
@@ -665,7 +662,7 @@ KY I-264 19 22
 KY I-65 TN/KY 137
 KY I-65 137 KY/IN
 KY I-265 23 35
-KY I-71 9  14
+KY I-71 9 14
 KY I-471 1 KY/OH
 KY I-75 29 118
 KY I-75 118 KY/OH
@@ -736,6 +733,7 @@ MD I-270 I-495 2
 MD I-270 2 18
 MD I-270SprAsh I-495 2
 MD I-370 1 3
+MD I-81 WV/MD 1
 MD I-83 3 12
 MD I-83 14 20
 MD I-95 DC/MD 27
@@ -767,7 +765,7 @@ MD MD200 3 19
 MD MD201 DC/MD US50
 MD MD210 LivRd I-95/495 #specifically the ramps to I-295
 MD MD295 MD175 MD100
-MD MD295 I-195 I-95 #construction in Baltimore may end up removing lanes?
+MD MD295 I-195 I-95
 
 
 ME I-95 NH/ME 48 #to mile marker 49 NB
@@ -899,9 +897,11 @@ MT I-90 450 452
 
 
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
-NC I-26 31 33 #construction from 33 to 49
+NC I-26 31 33 #construction from 33 to 37
+NC I-26 37 49
 NC I-40 44 46
 NC I-40 66 72 #westbound doesn't quite make it to 66
+NC I-40 150 154
 NC I-40 180 188
 NC I-40 188 196
 NC I-40 206 259 #very brief 4 lane between the ramps at 219 and 220, but in the "wrong" order; ditto westbound with 222 and 223
@@ -916,9 +916,10 @@ NC NC540 36 1
 NC I-840 103(73) 14
 NC I-73 95 103
 NC I-73 103 107
-NC NC74 43 53 #westbound left lane temporarily ends at 43
+NC NC74 41 53
 NC I-74Hig 67 71B
 NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
+NC I-77 49B 51
 NC I-277 1B 2B
 NC I-277 2B 5
 NC I-85 10A 163
@@ -1188,7 +1189,7 @@ OH I-675 2 17
 OH I-76 13 18
 OH I-76 18 20
 OH I-76 20 23
-OH I-76 23 27 #construction east of 234
+OH I-76 23 27
 OH I-77 104 122
 OH I-77 122 125
 OH I-77 125 129
@@ -1213,7 +1214,7 @@ OH I-90 188 195
 OH I-490 1A I-77
 OH US22 242 244A
 OH US23 US35_E US35_W
-OH US30 OH297 I-77 #possible construction in Mansfield
+OH US30 OH297 I-77
 OH US33 107 108
 OH US35 JHMcGBlvd I-75
 OH US35 I-75 42
@@ -1240,7 +1241,7 @@ OK I-44 115 120
 OK I-44 120 123B
 OK I-44 123B 130
 OK I-44 130 138A(35)
-OK I-44 211 223 #and west about halfway from 211 to 196! construction at 221
+OK I-44 211 223 
 OK I-44 224 240
 OK I-235 1A 1E
 OK I-235 1E 4B
@@ -1306,7 +1307,7 @@ PA I-81 70 72
 PA I-81 185 187
 PA I-83 41A 44B
 PA I-83 47 51
-PA I-84 I-81/6 2 #construction to 4?
+PA I-84 I-81/6 2
 PA I-95 DE/PA 7
 PA I-95 7 39
 PA I-276 326 351
@@ -1316,11 +1317,11 @@ PA I-376 71A 72
 PA I-376 72 74
 PA I-376 79B 85
 PA I-476 9 20
-PA I-476 20 31B #about halfway to 44 - is it being widened?
+PA I-476 20 44
 PA I-676 I-76 PA611
 PA I-676 5thSt PA/NJ
-PA US1 I-76(340) RobAve #not sure if construction has cut this back permanently to FoxSt
-PA US1 PA132 I-276 #construction north to at least US1BusPen_S?
+PA US1 I-76(340) RobAve
+PA US1 PA132 US1BusPen_S
 PA US30 PA283 US222_N
 PA US202 US30 US422
 PA US222 US422_W PapMillRd 
@@ -1351,7 +1352,7 @@ PR PR52 15 32 #southbound goes down to 2 less than 1 km north of 32
 RI I-95 24B RI/MA
 RI I-195 1 RI/MA
 RI I-295 9A RI/MA
-RI US6 I-295(9) US6Alt_E #under construction east of this
+RI US6 I-295(9) RI10_S
 RI RI4 7B I-95
 
 
@@ -1414,7 +1415,7 @@ TN I-75 385(40) 3(640)
 TN I-75 3(640) 112
 TN I-275 I-40 3
 TN I-81 74 TN/VA
-TN SamCooBlvd 7 10 #construction west of 7
+TN SamCooBlvd TilSt 10 #2 lanes westbound at exit 7
 TN US27 I-24(178A) MorSprRd
 TN US129 CheTrl I-40 #southbound is 2 lanes from US11/70 to KinPk but in the "wrong" order
 TN TN14 I-40(8) OldAPeayHwy_N
@@ -1423,7 +1424,7 @@ TN TN155 6 15
 TN TN158 JamWhiPkwy_S I-40
 TN TN162 DutRd I-140(1C)
 TN TN319 AmnHwy_W AccRd
-TN TN385 I-240 WinRd
+TN TN385Col I-240 WinRd
 
 
 # TEXAS - counting MAIN THROUGH LANES, not frontage roads.
@@ -1449,7 +1450,7 @@ TX I-35 HidSt 12B
 TX I-35 148 370B #2 lanes southbound from 155C to 156 in the "wrong" order
 TX I-35E 370B 467
 TX I-35W 37 52B
-TX I-35W 52B 67 #north of 54A there are only 4 main lanes but also 4 toll lanes; extension to 67 opened in June 2023
+TX I-35W 52B 67 #north of 54A there are only 4 main lanes but also 4 toll lanes
 TX I-35Gai 467 469 # 6 lanes section continues into 35E
 TX I-37 1B 4A
 TX I-37 4A 17
@@ -1457,7 +1458,7 @@ TX I-37 135 142
 TX I-40 64 78
 TX I-44 1 3A
 TX I-45 1A 46
-TX I-45 46 113 #construction to 118?
+TX I-45 46 113 #construction to 118
 TX I-45 213 284A
 TX I-69 94 128B
 TX I-69 128B 167
@@ -1472,7 +1473,7 @@ TX I-610 17B 38
 TX I-635 1C 36 #tiny bit of 2 lanes eastbound at 27B
 TX I-820 1A 22B
 TX I-820 22B 24B
-TX I-820 26 30A
+TX I-820 25 30A
 TX I-820 33A 34
 TX US54ElP I-10 SunValDr
 TX US59 FM2919 I-69(128B) #construction south of FM2919
@@ -1482,7 +1483,7 @@ TX US67 I-20 I-35E(428A)
 TX US69 11thSt DowRd #construction may have widened it from I-10(853A) to 11thSt and from DowRd to ChiLn
 TX US69 ChiLn TramRd
 TX US75 I-30 RosPkwy
-TX US75 TX91_S US82 #construction from TX91_S south to FM1417
+TX US75 FM1417 US82 #construction in progress to widen US75 north of US82 to TXSpr503
 TX US82 TXLp289_W AveL
 TX US82 FaiBlvd US277/281
 TX US83 US83BusAbi_S 7thSt #northbound begins a bit beyond US83BusAbi_S
@@ -1507,14 +1508,14 @@ TX TX45 US183 AWGriBlvd
 TX TX71 BrodLn US183
 TX TX99 WesTlwy I-10(743)
 TX TX114 TX170 TX183
-TX TX121 I-35W/287 HanEdeRd #construction beyond
-TX TX121 I-820(22) DenTapRd #left lane from HarRd to FM157 is toll and not always open
+TX TX121 I-35W/287 I-820(24B)
+TX TX121 I-820(22) DenTapRd
 TX TX121 DenTapRd US75_S #this is (mostly) only the Sam Rayburn Tollway; SH 121 is on the frontage roads where they exist
 TX TX130 428B 449
 TX TX146 TX146BusLaP_N TX146BusBay_N
 TX TX151 HuntLn I-410/16
 TX TX183 I-820(22) I-35E
-TX TX183A US183_S RM2243 #construction north to TX29, but not sure how many lanes
+TX TX183A US183_S RM2243
 TX TX199 NorAve NineMileRd
 TX TX225 I-610 TX146
 TX TX249 TXLp8 HarStoRd #north of NorBlvd this is Tomball Parkway; SH 249 is the frontage roads
@@ -1671,7 +1672,7 @@ WV I-77 101 104
 WV I-77 173 176
 WV I-79 117 125
 WV I-79 132 137
-WV I-81 12 23
+WV I-81 8 WV/MD
 WV US50 OH/WV CR34/4
 WV US50 WV68_S WV68_N
 
@@ -2776,10 +2777,10 @@ AUS-NSW M8 M4 EusRd
 AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
 AUS-NSW M31 1 6
 
-AUS-QLD M1 87(PM) 87 #construction south of 87(PM)
+AUS-QLD M1 95(PM) 87
 AUS-QLD M1 87 110
 AUS-QLD M1 110 120
-AUS-QLD M1 127 152A #construction north of 152A to 163
+AUS-QLD M1 127 163 
 AUS-QLD M1 188 194
 AUS-QLD M2 9 11
 AUS-QLD M2 25 M15
@@ -2799,20 +2800,19 @@ AUS-SA M2Noa A2 A13_N
 AUS-SA M2Noa A14 PanRd
 
 AUS-VIC M1 C417 W4 #only westbound between E3 and W1; eastbound uses M1MBT
-AUS-VIC M1 W2 W7 #construction at W7
-AUS-VIC M1 W7 W10
+AUS-VIC M1 W2 W10
 AUS-VIC M1 W10 A10_E
 AUS-VIC M1MBT W1 E3 #eastbound only
 AUS-VIC M2 1 19
 AUS-VIC M3 MR29/83 A16
+AUS-VIC M4 1 5
 AUS-VIC M79 1 4
 AUS-VIC M79 4 6
 AUS-VIC M80 M1 A51
 
-AUS-WA WA2 WA82 WA65 #construction from SheAve? to WA82
+AUS-WA WA2 HodDr WA65
 AUS-WA WA2 WA8/60 RusRd
-AUS-WA WA4 WA3_N ColRd #railway construction in the median may have affected this from WA3_N to WA76; construction from ColRd south to N1/N94
-AUS-WA WA4 N1/N94 WA7
+AUS-WA WA4 WA3_N WA7
 AUS-WA WA4 WA7 WA3_S
 AUS-WA WA8 WA2/60 WA66
 AUS-WA WA8 WA66 N1/N94
