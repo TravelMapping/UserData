@@ -1,9 +1,12 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 NLD IC35 RotCen NLD/BEL
+NLD ICE77 AmsCen NLD/DEU
+NLD ICE78 AmsCen NLD/DEU
 
 NLD RE1 Lee Gro
 NLD RS1 Lee Gro
+NLD RS2 Lee HarHav
 NLD RS4 Gro Eem
 NLD RS5 Del Vee
 NLD RE6 Gro +DIV_RS5
@@ -139,12 +142,19 @@ LUX T1 RoutBrePaf StaPlazEto
 
 
 ##  BY - Bayern
+DEU-BY ICE11 BW/BY MunHbf
+DEU-BY ICE41 HE/BY WurHbf
+DEU-BY ICE62 MunHbf DEU/AUT
+DEU-BY ICE91 RegHbf DEU/AUT
+
 DEU-BY RE19 BamBerg +DIV_ICCobS
 DEU-BY RE20 BamBerg WurHbf
 DEU-BY RE54 HE/BY +DIV_ICEN
 
 
 ##  BE - Berlin
+DEU-BE ICE77 BB/BE BerHbf
+
 DEU-BE RE1 BB/BE OstKre
 DEU-BE RE2 Spa OstKre
 DEU-BE RE4 BB/BE +DIV_RE2
@@ -172,6 +182,8 @@ DEU-BE M10 SUHbf_2 UEbeWalStr
 
 
 ##  BB - Brandenburg
+DEU-BB ICE77 ST/BB BB/BE
+
 DEU-BB RE1Bra PotHbf BB/BE
 DEU-BB RE3Jut BE/BB BB/ST
 DEU-BB RE4Rat ST/BB BB/BE
@@ -192,6 +204,8 @@ DEU-HH RE8 HamBurgHbf HH/SH
 
 
 ##  HE - Hessen
+DEU-HE ICE78 RP/HE FraFurtHbf
+
 DEU-HE RE54 FraFurtHbf +DIV_RE55
 DEU-HE RE54 HanHbf HE/BY
 
@@ -200,6 +214,10 @@ DEU-HE RE54 HanHbf HE/BY
 
 
 ##  NI - Niedersachsen
+DEU-NI ICE77Bad NLD/DEU NI/NW
+DEU-NI ICE77Osn NW/NI NI/NW
+DEU-NI ICE77 NW/NI NI/ST
+
 DEU-NI RE1 HanHbf WunsTorf
 DEU-NI RE2Nat NW/NI NI/NW
 DEU-NI RE2Osn NW/NI OsnHbf
@@ -212,6 +230,11 @@ DEU-NI RB61Bad NW/NI DEU/NLD
 
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW ICE77 NI/NW NW/NI
+DEU-NW ICE77Bun NI/NW NW/NI
+DEU-NW ICE78 NLD/DEU NW/RP
+DEU-NW IC35 NI/NW MunHbf
+
 DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
@@ -263,6 +286,8 @@ DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
 ##  RP - Rheinland-Pfalz
+DEU-RP ICE78 NW/RP RP/HE
+
 DEU-RP RE2 +DIV_MaiE KobHbf
 DEU-RP RE5 NW/RP KobHbf
 DEU-RP RE9 NW/RP RP/NW
@@ -276,6 +301,8 @@ DEU-RP RE9Fur NW/RP RP/NW
 
 
 ##  ST - Sachsen-Anhalt
+DEU-ST ICE77 NI/ST ST/BB
+
 DEU-ST RE4 SteHbf ST/BB
 
 
@@ -285,6 +312,11 @@ DEU-SH RB85 LubHbf Neu
 
 
 ##  TH - Thuringia
+
+
+# Austria
+AUT ICE62 DEU/AUT GrazHau
+AUT ICE91 DEU/AUT WienHau
 
 
 # DENMARK
@@ -398,6 +430,7 @@ CZE S20 Kolin KutnaHoraHlavniNadrazi
 
 
 # POLAND
+POL S51Kat SucBes Zak
 
 
 
