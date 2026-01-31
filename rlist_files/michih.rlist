@@ -1,4 +1,4 @@
-# Date: 2026-01-28
+# Date: 2026-01-31
 # ----------------
 # ----------------
 
@@ -906,6 +906,10 @@ FRA-CVL TramB ClosHam GeoPom          #2025
 #Reims
 FRA-GES TramARei Neu HopDeb           #2025
 FRA-GES TramBRei Neu ChaTGV           #2025
+
+#Lille
+FRA-HDF M1 CHUEur GareLilFla          #2025
+FRA-HDF M2 PorPos GareLilFla          #2025
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025
