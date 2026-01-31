@@ -38,6 +38,8 @@ WA I-705 I-5 StaWay
 ########
 # I-10 #
 ########
+AZ I-10 147 149
+AZ I-10 248 260
 CA I-10 1 139
 
 CA I-110 20B 21
@@ -60,7 +62,13 @@ UT I-215 I-80 6
 ########
 # I-17 #
 ########
+AZ I-17 214C 223
 AZ I-17 337 340
+
+########
+# I-19 #
+########
+AZ I-19 63 101
 
 ########
 # I-25 #
@@ -592,9 +600,18 @@ AK AK9 RaiAve AK1
 ##########################
 # Arizona State Highways #
 ##########################
+AZ AZ51 I-10 15
+
 AZ AZ64 I-40 US89
 
+AZ AZ74 BulAve I-17
+
+AZ AZ77 InaRd 1stAve
+
 AZ AZ89ASed AZ179 I-17(340)
+
+AZ AZ101 23B 29
+AZ AZ101 32 36
 
 #############################
 # California State Highways #
