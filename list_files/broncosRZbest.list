@@ -115,7 +115,7 @@ GA US78 TechPkwy PeaSt
 GA US78 US278_E GA410(2)
 GA US23 GA154 US29/78_S
 GA US19 14thSt GA13
-GA US19 I-285(27) GA400(9)
+GA US19 I-285(27) GA60_S
 GA I-285 20 39
 GA I-985 I-85 24
 GA I-75 259 GA/TN
@@ -188,30 +188,91 @@ IN US52 I-65(141) IN/OH
 IN US231 I-70 US40
 
 
-#NEXT UP
-#Kansas
-#also appear to be missing US 19 mileage in GA. 
 
+#KANSAS
+
+KS I-70 CO/KS 421B
+KS I-670 I-70 KS/MO
+KS US40 23rdSt I-70(204KT)
+KS US59 23rdSt I-70
 
 
 
 #KENTUCKY 
 
-KY I-75 115 KY/OH
+KY I-75 TN/KY KY/OH
+KY I-65 TN/KY KY/IN
+
+KY I-71 1 KY/OH
+KY I-64 75 123
+
+KY I-275 OH/KY KY/IN
+KY I-471 1 KY/OH
+KY I-264 11 12
+
 KY US60 BlueGraPkwy US25/421
+KY US60 I-64(123) KY801
+KY US31W KY90 KY70
+
+KY US27 US460 KY/OH
+KY US25 ManOWarBlvd KY1973_E
+KY US25 KY36_W KY3025
+KY US25 US42/127 KY/OH
+KY US25E TN/KY I-75
+KY US42 I-75(180) KY/OH
+KY US62 US460 I-75
+KY US62 KY11 KY/OH
+
+KY US460 US62/460Byp KY213_S
+
 KY BluPkwy 1 72
 KY WesKYPkwy 107 137
-KY US31W KY90 KY70
-KY I-65 TN/KY KY/IN
-KY I-264 11 12
-KY I-71 1 KY/OH
 
 #Random KY state highways I'm including for the heck of it
-KY KY609 KY159 KY177
+KY KY609 KY159 KY177 #Clinched!
+KY KY9 I-275 KY1/7 #AA Highway! I've clinched the AA portion. 
 
 
 
+#MICHIGAN
+MI I-75 OH/MI 61
+MI I-75 115 344
 
+MI I-94 138 183
+#I'm able to leave off I-96, I-196, and I-496 because a different highway I was following covers it. 
+
+MI I-275 I-75 165(96)
+MI I-696 1A 18 
+#I'm conflicted b/c on my spreadsheet I feel good about saying I made it to the western terminus of I-696 but TM shows you have to continue onto I-96 to complete it. 
+
+MI US31 IN/MI 36(196)
+MI US31 41(196) 170
+MI US31 FouRd I-75
+MI US2 MI77 I-75
+MI US2Iro WI/MI MI28
+MI US41 MI28_E FroSt
+MI US41 WasSt MI38
+MI US10 MI116 US31_S
+MI US10 82 140
+
+MI US23 OH/MI I-75(188)
+MI US24 US24ConTay 13MiRd
+
+MI US131 WabAve US31
+MI US127 40 194
+MI US127 201 I-75
+
+
+#NEXT UP
+#Minnesota
+
+
+
+#MISSOURI
+MO I-70 2L 232
+MO I-270 20A MO/IL
+MO I-670 KS/MO 1B
+MO I-670 2Q 2N
 
 
 #OHIO

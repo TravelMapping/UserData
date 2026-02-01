@@ -58,7 +58,7 @@ AL US90 I-10(30) AL59_S
 AR I-30 143 46
 AR I-30 30 TX/AR
 AR I-40 153B 279B
-AR I-55 8 TN/AR
+AR I-55 AR/MO TN/AR
 AR AR5 US62/412 AR56
 AR AR7 WhiAve US70Bus/270Bus #less WhiAve to Fountain St
 AR AR17 I-40 AR302 #probably less a few blocks in Brinkley
@@ -268,6 +268,8 @@ CO CO72 CO7 CO93
 CO CO74 CR73 CO8
 CO CO75 BowAve CO470
 CO CO86 5thSt CR125
+CO CO88 FedBlvd_S I-25(199) #most likely in 1995
+CO CO88 I-25(199) I-25(197)
 CO CO90Mon OakGroRd_E US550 #plus 6250 Road to OakGroRd_E
 CO CO91 I-70 US24
 CO CO92 US50_W CO133
@@ -311,7 +313,7 @@ CO I-70 438 CO/KS #check timing
 CO I-70BLDen I-25 YorkSt
 CO I-70BLGra I-70_W US50_E
 CO I-76 6 CO/NE #not formally confirmed
-CO I-270 0 4 
+CO I-270 0 I-70 
 CO MesaVerRd US160 SprCyn
 CO ParkRd End CO150
 CO RimRockDr CO340_W SadCamp #need confirmation of continuation to CO340_E
@@ -337,6 +339,8 @@ CO US85 CO/WY NM/CO #routing before and after I-25
 CO US85BusGre US85_N US34Bus_W
 CO US85BusGre US34Bus_E US85_S #less US34Bus_E to 20th Street
 CO US87 I-25(269) NM/CO
+CO US138 US6 PioRd #less Broadway St to PioRd 1995 speculative
+CO US138 US385_N US385_S
 CO US160 CO41 CO239
 CO US285 CO15 US85
 CO US287 CO/WY OK/CO
@@ -736,10 +740,7 @@ ID US95 ID55_S OR/ID
 IL I-39 IL/WI 59
 IL I-55 292 286
 IL I-55 282 277B #1982 speculative
-IL I-55 167 164 #somewhat speculative in 1985
-IL I-55 164 157
-IL I-55 98 92
-IL I-55 3A MO/IL
+IL I-55 277A MO/IL
 IL I-55BLBlo I-55_N US51Bus
 IL I-57 346 315
 IL I-57 237 162
@@ -763,8 +764,7 @@ IL I-180 I-80 IL29
 IL I-290 I-90 7
 IL I-290 10 23B
 IL I-290 24A I-90/94
-IL I-294 39 38
-IL I-294 31A 30 #speculative
+IL I-294 52 23C
 IL I-294 23A 12 #perhaps a non-toll route more likely
 IL I-474 6 9 #best guess to explain 1994 "Pekin detour"
 IL IL1 IL83 VinRd_S
@@ -772,6 +772,8 @@ IL IL1 IL17_W I-74
 IL IL1 IL130 IL14_E
 IL IL2 US20 BelRd
 IL IL2 US52/26_E IL72_E
+IL IL3 RockRd CedSt_S #only Niedringhaus Ave to CedSt_S and very speculative
+IL IL3 I-55(2) I-55(1A)
 IL IL3 I-255(6) MarSt
 IL IL3 IL156 IL154/159 #less IL156 to Market Street
 IL IL6 9 5 #best guess
@@ -788,6 +790,7 @@ IL IL19 IL83 I-294 #less IL83 to N Church Rd
 IL IL23 US52_E US52_W
 IL IL26 IL/WI US6/34
 IL IL29 I-180 IL6
+#IL IL29 IL40 WasSt routed west of river then
 IL IL29 I-474 IL9_W #best guess to explain 1994 "Pekin detour"
 IL IL29 I-74(95A) US150/8
 IL IL29 IL104 US51/16
@@ -810,12 +813,14 @@ IL IL59 IL72 US20 #speculative
 IL IL64 IL26_N IL26_S
 IL IL64 I-90/94 LasDr_S #plus N Bosworth Ave to I-90/94 and less N Sedgewick St to LasDr_S
 IL IL64 LasDr_S US41
+IL IL68 IL83 I-94 #speculative	
 IL IL71 IL89 IL251/351
 IL IL72 IL26_N IL26_S
 IL IL72 IL2_S CR33 #plus CR33 to Kishwaukee Road	
 IL IL72 IL31 IL59 #speculative
 IL IL72 RivRd IL171
 IL IL78 US24_E US136/97 #collect Mason County
+IL IL83 IL53 LakeCookRd #speculative
 IL IL83 IL19 I-290 #less IL19 to Grove Ave
 IL IL83 US20 127thSt_W #speculative
 IL IL83 DixHwy IL1 #less almost all: DixHwy to Thornton Road; speculative
@@ -830,14 +835,19 @@ IL IL106 I-72 OldUS36 #actual start from old bridge
 IL IL110 I-88(1) IL26
 IL IL116 IL47 US45
 #IL IL116 US45 CR2600N, numbered to there in 1987?
+IL IL120 US12/59 IL60 #only US12/59 to Gilmer Road and that speculative	
 IL IL121 US36/105 IL32_S
 IL IL128 IL16_W IL33
 IL IL130 I-74 US150_E
 IL IL130 US36_E US36_W
 IL IL130 IL33_W IL1
+IL IL131 YorRd IL132 #speculative
+IL IL132 HuntClubRd I-94 #less W15/Lake County 29 to Tri State Parkway/Gurnee Mills Circle E and plus I-94 to W16/Lake County 15, both speculative
+IL IL132 US41 IL131 #speculative
 IL IL133  US150/1 IL32
 IL IL148 CR9 IL154_W
 IL IL154 IL3/159 IL148_N
+IL IL162 IL203 I-55 #very speculative
 IL IL171 IL72 I-90
 IL IL171 I-290 I-55 #1982 speculative
 IL IL171 IL83_N IL83_S
@@ -847,6 +857,7 @@ IL IL251 CR9 AubSt #speculative
 IL IL251 US20 I-39(8) #was US51 then
 IL US6 QuadCityAir US34/26
 IL US6 IL89_S I-39
+IL US12 WI/IL IL120 #probable
 IL US12 US41_N IL/IN
 IL US14 WI/IL IL47
 IL US20 IA/IL IL35
@@ -857,7 +868,7 @@ IL US20BusRoc RocAve I-39/90 #less RocAve to Fairview Blvd
 IL US24 I-172 US67
 IL US24 PeaSt US136/100 #plus Fulton County 13 to PeaSt
 IL US24 IL78/97 IL9_E
-#IL US24 I-474(6) to AdaSt #routed west of river then
+#IL US24 I-474(6) to IL40 routed west of river then
 IL US24 US150/8 US150/116
 IL US24 IL1_N IL1_S
 IL US24 US52_W IL/IN
@@ -1250,16 +1261,22 @@ KY US460 US60_E US60_W
 KY US460 ComMtnPkwy KY114_W
 KY US460 KY114_E KY1384_N #or perhaps stay on US23 / US460 / KY80
 KY US460 KY1384 KY/VA
-LA I-10 TX/LA 103
+LA I-10 TX/LA 159
+LA I-12 1A 38
 LA I-20 TX/LA 23
 LA I-20 44 141
+LA I-55 LA/MS 29
 LA LA1 LA8Spr US71/165
 LA LA8 TX/LA I-49(103)
 LA LA8 US165_S US84/127
+LA LA14 US167 LA82 #best guess
 LA LA15 LA34 I-20
 LA LA22 US51Bus_S US190
+LA LA27Cam CamFer LA82/1143
 LA LA34 I-20 US80/15
 LA LA72 LA3105 US79/80 #speculative
+LA LA82 CamFer LA14/82Trk
+LA LA82Hol TX/LA CamFer
 LA LA182 I-10(103) LA96 #north end was US167
 LA LA182 LA671_S US90_D
 LA LA183 US80 I-20
@@ -1285,6 +1302,7 @@ LA US90 US61 DowRd #very speculative
 LA US165 LA8_E US165Bus/1
 LA US165BusMon US80/15 I-20
 LA US167 I-49(1A) I-10(100) #only I-10 at the time
+LA US167 I-10(100) LA14Bus4
 LA US171 LA8/28 LA8
 LA US190 LA22 US90
 LA US371 US79/80 I-20(44) #or link to I-20 at Goodwill Road further west
@@ -1497,7 +1515,7 @@ MN MN23 MN15_N I-94 #speculative routing
 MN MN23 MN7 CR4_S
 MN MN23 CR4_S US212_E #perhaps not travelled but displaced to Renville CR23W (later CR37)
 MN MN23 US212_E I-90 #perhaps extended east from US212_E 1 mile to then Renville CR23W (later CR37) with county implications
-MN MN25 MN5_E US212_57
+MN MN25 MN5_E US212_W
 MN MN25 WasSt CR39/43 #speculative
 MN MN25 US10_W US10_E
 MN MN25 I-94 CR17 #speculative--could have extended to US10_E
@@ -1594,8 +1612,10 @@ MO I-29 43 2H(35)
 MO I-29BLStJ US36 I-29_S
 MO I-35 MO/IA 2Y
 MO I-44 OK/MO 129
+MO I-44 286 I-70 #speculative
 MO I-44BLJop I-44_W I-44_E
 MO I-44BLSpr I-44_W SceAve
+MO I-55 MO/IL AR/MO
 MO I-57 1 MO/IL #if completed by 1964
 MO I-70 KS/MO MO/IL
 MO I-70BLCol I-70_W MO163 #less Jackson St to MO163 (just off interstate to restaurant)
@@ -1637,7 +1657,7 @@ MO US24 KS/MO I-70(8)
 MO US24 MO107 US36_E
 MO US36 KS/MO MO/IL #first time over old link to old bridge
 MO US40 KS/MO MO/IL
-MO US50 MO150 OldUS50Bus_W
+MO US50 MO150 OldUS50Bus7_W
 MO US50 OldUS50Bus_E US50BusJef_E
 MO US50 MadSt MO/IL #less MadSt to Monroe Street
 MO US50BusJef MO179_S US50_E
@@ -1673,7 +1693,8 @@ MS I-20 19 34 #less 19 to South Farr Road, then was US80
 MS I-20 34 150(59)
 MS I-20 150(59) 154(59) #then perhaps was US80
 MS I-20 154(59) 169(59)
-MS I-55 MS/TN 291
+MS I-55 MS/TN 227
+MS I-55 220 LA/MS
 MS I-59 149 169
 MS MS4 MS371 MS25
 MS MS6 MS338_E NatTraPkwy
@@ -1682,9 +1703,11 @@ MS MS18Por PortGibSt MS27_N
 MS MS18Por NatTraPkwy SheRd #plus SheRd to Carpenter Road
 MS MS22 I-20 MS467
 MS MS25 MS172 MS4
+MS MS32 MS727 I-55 #getting Tallahatchie County
 MS MS145Tup NatTraPkwy MainStTup #plus Industrial Park Road to NatTraPkwy
 MS MS178 NatTraPkwy MS145
 MS MS178Tup MS6 MS371
+MS MS330 US51 I-55
 MS MS371 MS4 MS178
 #MS MS467 MS22 actually Old Highway 80 from I-20
 MS MS553 NatTraPkwy_N US61_N
@@ -1697,6 +1720,7 @@ MS StaSt EndMaint US80
 MS US51 I-55(92C) I-20(45) #appears to be a mismatch between route markers and basemap, actually continued from I-55(92C) to just beyond US80
 MS US51 RiceRd I-55FroRd
 #MS US51 I-55FroRd US80
+MS US51 MS32 MS330
 MS US61 NatTraPkwy_N MS553_N
 MS US61 MS930 NatTraPkwy_S
 MS US80 I-20(4) I-20(19) #plus 19 to South Farr Road; routed through Vicksburg then perhaps after crossing old Mississippi River bridge; conterminous with I-20 on this segment
@@ -3165,6 +3189,13 @@ TN US431 OldClaPike I-65(87)
 TN US431 US41AltNas_N US70_NasW
 TN US441 I-75 NC/TN #speculative from more than one trip
 TX DalNorTlwy US380 WycAve
+#TX Brazoria County 543 TX35 (almost) FM2004 best guess
+#TX FM616 TX35 FM1862
+#TX FM774 TX35 FM2040 best guess
+#TX FM1862 FM616 TX35
+#TX FM2004 Brazoria County 543 TX6 
+#TX FM2040 TX239 Aransas National Wildlife Refuge best guess
+TX I-2 141 146
 TX I-10 8 187 #specific coverage west of 34 not certain
 TX I-10 307 325 #actually US290 back in the day
 TX I-10 343 456 #actually US290 back in the day
@@ -3184,6 +3215,7 @@ TX I-35 235B 234B
 TX I-35E 433A 428A
 TX I-35W 52B I-35(370B)
 TX I-37 140B 139
+TX I-37 1B TanSt #I-35 not yet present in 1994	
 TX I-40 0A 35
 TX I-40 37 78
 TX I-40 85 110
@@ -3192,45 +3224,82 @@ TX I-40 143 161
 TX I-40 164 TX/OK
 TX I-40BLGle TX/NM I-40
 TX I-40BLVeg I-40_W I-40_E #then was US66
+TX I-45 142 116
+TX I-45 113 46
+TX I-45 7 1A
+#TX I-69C 17 1 not interstate standard in 1994
+TX I-610 11A 2
 TX I-820 16A 22B
 TX MainParkRd US385 TX118
+#TX PR22 TX358 END
 TX RGVlgRd MainParkRd RioGraVlg
 TX RossMaxDr MainParkRd End
+TX TX4 MEX/USA I-69E
+TX TX6 FM2004 I-45
 TX TX10 FM157 TX183
 TX TX18 TX/NM TX115_S
+TX TX19 TXLp286 TX154_E
+TX TX19 US67Bus I-30 #also TXLp301 in 1994
+TX TX19 I-30 TXLp256_N
+TX TX19 TXLp256_S I-45
 TX TX21 US190/6 TX6Bus
 TX TX29 US377_S TX95
 TX TX33 US83 TX/OK
+TX TX35 RockIslSt FM616 #plus Downing Rd to RockIslSt
+TX TX35 FM1862 TX239_E
+TX TX35 FM774 BeaAve
+#TX TX35 BeaAve I-37 old bridge and different route in 1994
+TX TX35BusWCo TX36 TX35_S
 TX TX36 US79_S FM166
+TX TX44 I-69E_S TX358
 TX TX63 FM252 US190_W #plus FM252 to South Main Street
 TX TX63 US190_E TX/LA #plus East Houston Street to US190_E
 TX TX6BusCol TX21 FM60
 TX TX71 US290_W US183
 TX TX71 I-10(695) I-10(696)
+TX TX73 TX124_S US69
+TX TX82 TX73 LA/TX
+TX TX87Por GalFry TX124
+TX TX87Gal I-45 PortBolFry
 TX TX95 TX29 4thSt
 TX TX95 I-10 US90_W
 TX TX114 MainSt TX183
 TX TX115 TX18_S TX302
 TX TX118 FM170 BigBendNP
 TX TX121 I-35W/287 TX183_E
+TX TX124 TX73_E TX87
 TX TX128 NM/TX SW9221 #less Andrews County SW9751 to SW9221
+TX TX141 US77Bus US77 #only easternmost 300 yards to motel 
+TX TX154 TX19_N US67Bus
 TX TX161 LowTarRd I-30
 TX TX161Irv TX114 TX183
 TX TX161SIr RockIslRd OakRd
 TX TX178 NM/TX I-10
 TX TX183 I-820(24A) I-35E
 TX TX217 US60 PR5
+TX TX239 TX35_N FM774
+TX TX286 I-37 TX358
+TX TX288 I-45 I-69 #speculative
 TX TX290 I-10(325) I-10(343)
 TX TX302 MCatRd TXLp338_N
 TX TX349 I-10 TX290_E
+TX TX358 TX44 PR22
 TX TXLp111 FM969 US183
+TX TXLp256 US287_N US287_S
+TX TXLp286 US82_W FM79_W
+TX TXLp286 FM79_E TX19
 TX TXLp343 ConAve I-35
 TX TXLp478 I-10 US62 #speculative
 TX TXLp481 I-10(456) US377_S
 TX TXSpr97 IntPkwy TX183
+TX TXSpr115 I-2/83 US281Spr
 TX TXSpr450 TXLp338 US385
 TX TXSpr557 US80 I-20
 TX US54ElP TX/NM 21B
+TX US59 I-30(223) I-30/369
+TX US59 I-69(129B) I-69(128A)
+TX US59 I-69(126A) US281
+TX US59 US281 I-69(127)
 TX US60 TXLp211 TX217
 TX US60 I-27(122B) I-40BL_E
 TX US60 NM/TX TX33
@@ -3242,10 +3311,14 @@ TX US66HisSha I-40(161) I-40(164)
 TX US66HisVeg I-40(35) I-40(37)
 TX US67 US67BusPre_N US90/17	
 TX US67 I-35E(428A) TX/AR
+TX US67BusSul TX11/19 TX154
 TX US69 TX/OK US82
+TX US69 JimJohBlvd TX73 #plus Turtle Creek Drive to JimJohBlvd
 TX US70 TX/OK US287_N
 TX US75 TX/OK US69_S
 TX US75 HallSt I-30 #then I-30 was I-20, then was also I-45
+TX US77 US59_S US59_N
+TX US77 TX44_E I-69E(1A)
 TX US79 4thSt TX36_S
 TX US80 I-30 TXSpr557 #then was I-20
 TX US81 FM174 US81BusAlv_N
@@ -3256,7 +3329,9 @@ TX US81BusRho US81_N US81_S #less US81_S to continuation of what was then simply
 TX US82 US277/281 US287_S
 TX US82 US69 I-30
 TX US82 US67_S TX/AR
+TX US83 I-2(141) I-2(146)
 TX US83 I-10(456) US377_N
+TX US83 I-69E(26B) I-69E(1A)
 TX US85 I-10(8) MEX/USA #probably conterminous with I-10 from I-10(8) to I-10(13A)
 TX US87 US377_S TX29_E
 TX US90 I-10(140A) US67/17
@@ -3265,7 +3340,14 @@ TX US90 I-10(579) I-10(603)
 TX US90 US183_S TX95_N
 TX US90 I-10(721) I-10(729)
 TX US90 I-10(741) TX/LA
+TX US90AltHal I-610(2) MainSt_E #less Westridge Street to MainSt_E
 TX US77 I-35E(433A) I-35E(428A)
+TX US77 I-35(370) I-35(334A)
+TX US77 US59_S US59_N
+TX US77 TX44_E I-69E(1A) #I-69E not yet established
+TX US77BusBro 8thSt TX4
+TX US181 TX35_N BeaAve
+#TX US181 BeaAve I-37 old bridge and different route in 1994
 TX US183 TX/OK US70_W
 TX US183 TXLp111 TX71
 TX US183 US90_E PR11
@@ -3274,16 +3356,25 @@ TX US180ElP I-10(19A) I-10(23B)
 TX US190 TX6_S I-45(116) #plus I-45(116) to Normal Park Road
 TX US190 TX75_S FM252 #plus FM252 to South Main Street
 TX US190 US96 TX63_E #less US96 to East Houston Street
+TX US271 TX/OK TXLp286
 TX US277 I-44(3A) US82/281
 TX US277 US90_W US90_E
 TX US281 I-44(3A) US82/287
-TX US287 US60/87 US70_W
-TX US287 US287BusVer_S FM174
+TX US281 US59 US281BusAli_N
+TX US281 US281BusAli_S I-69C(17)
+TX US281 US281Spr OldMilHwy
+TX USD281 I-69C(17) I-2/83 #subsequently also I-69C
+TX US281BusAli US281_N US281_S
+TX US281SprHid BriSt TX336
+TX US287 US60/87 FM174
 TX US287 US81_N US287BusAlv_N
 TX US287 US287BusAlv_S US287BusRho_N
 TX US287 US287BusRho_S I-35W(60) #less US287BusRho_S to former routing of US287 (/US81)
 TX US287 I-35W(52B) I-35W(52A)
+TX US287 TX19_N TXLp256_N
+TX US287 TXLp256_S TX7
 TX US287 I-10(853A) I-10(849)
+TX US287 JimJohBlvd TX73 #plus Turtle Creek Drive to JimJohBlvd
 TX US287BusRho US287_N US287_S #less US287_S to continuation of what was then simply US287 (/US81)
 TX US287BusAlv US287_N US287_S #then simply US287 (congruent with US81)
 TX US287BusVer US287_N US287_S #then was simply US287
