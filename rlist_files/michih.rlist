@@ -1,4 +1,4 @@
-# Date: 2026-01-31
+# Date: 2026-02-01
 # ----------------
 # ----------------
 
@@ -908,7 +908,7 @@ FRA-GES TramARei Neu HopDeb           #2025
 FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
-FRA-HDF M1 CHUEur GareLilFla          #2025
+FRA-HDF M1 CHUEur QuaCanStaPieMau     #2025
 FRA-HDF M2 PorPos GareLilFla          #2025
 
 #Paris
