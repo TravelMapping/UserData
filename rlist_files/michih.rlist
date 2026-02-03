@@ -1,4 +1,4 @@
-# Date: 2026-02-01
+# Date: 2026-02-03
 # ----------------
 # ----------------
 
@@ -267,6 +267,8 @@ DEU-ST S8Hal HalSaaHbf DEU-ST S8 BitFeld                        #2025
 DEU-ST RE13 MagBurgHbf BitFeld                                  #2025, Bitterfeld - Zerbst - Magdeburg
 DEU-ST IC56 MagBurgHbf DEU-ST IC56 HalSaaHbf                    #2025, IC2443 Magdeburg - Köthen - Halle
 DEU-ST ICE18 HalSaaHbf DEU-BY ICE18 Don                         #2025, ICE705 Halle - Erfurt - Nürnberg - D'wörth
+
+FRA-PDL 1PdL Nan Cro                                            #2026
 
 
 ######################
@@ -908,8 +910,8 @@ FRA-GES TramARei Neu HopDeb           #2025
 FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
-FRA-HDF M1 CHUEur QuaCanStaPieMau     #2025
-FRA-HDF M2 PorPos GareLilFla          #2025
+FRA-HDF M1 CHUEur QuaCanStaPieMau     #2026
+FRA-HDF M2 PorPos GareLilFla          #2026
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025
@@ -967,6 +969,12 @@ FRA-PAC M2 BouVil SaiMarDro           #2018, northern extension was only opened 
 FRA-PAC 1Nic HenSap HopPas            #2024
 FRA-PAC 2Nic CADAMCenAdm PortLym      #2024
 FRA-PAC 3Nic StIsi AerTer2            #2024
+
+#Nantes
+FRA-PDL 1Jam Com Bab                  #2026
+FRA-PDL 1Nan GareSNCFNord Bea         #2026
+FRA-PDL 2Nan OrvGraVal Com            #2026
+FRA-PDL 3Nan MarPaul Com              #2026
 
 #Zagreb
 #2019, All routes in service as-of 2019 except of short T1 at west end
