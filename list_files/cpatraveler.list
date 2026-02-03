@@ -1788,7 +1788,8 @@ AL AL22 AL139 US80/14 #10042024 Travel to visit Bea
 AL AL22 AL191 AL139 #03232025 Travel Home from Bea
 AL AL22 US31_S US231/21 #112125 Return from Beckman  
 AL AL24 AL157 AL67 #Joe Wheeler Electric
-AL AL24 AL243 US43 #11152024 Visit Bea 
+AL AL24 AL243 US43 #11152024 Visit Bea
+AL AL25 AL14_E US31_N #020226 Return from Bea 
 AL AL25 US78 US231_N #08262024 Trip from Bea to Home
 AL AL25 US231/280 US31_N #08262024 Trip from Bea to Home
 AL AL25 AL219_S CR58 #Tuscaloosa Trips
@@ -1828,6 +1829,7 @@ AL AL56 MS/AL AL17_N #12132024 Trip to Hattiesburg
 AL AL59 US31_S AL182 #Gulf Shore Trips
 AL AL59 US31_N AL287 #Gulf Shore Trips
 AL AL59 AL225 AL287 #12132024 Trip to Hattiesburg
+AL AL61 US80 AL14 #020226 Return from Bea
 AL AL62 MilWayRd AL227 #04062024 Jackson to Scott Co Trip
 AL AL63 AL14 AL22_E #Lake Martin Trips
 AL AL64 CR89 AL207 #111625 Home from Bea
@@ -1953,6 +1955,7 @@ AL AL207 US72 AL/TN #112425 Bea Thanksgiving
 AL AL207 AL99 AL64 #111625 Home from Bea
 AL AL212 MainSt AL14 #Wetumpka Bank Audit 
 AL AL219 AL14_E AL22 #Pine Belt Audit
+AL AL219 AL25_S AL5 #020226 Return from Bea
 AL AL221 AL41 AL28 #05092025 Travel to Bea
 AL AL225 US31 I-65 #Trip to AMTA Meeting at Grand
 AL AL225 I-65 AL59 #12132024 Trip to Hattiesburg      
