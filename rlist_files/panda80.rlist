@@ -28,6 +28,7 @@ DEU-BB S9 BE/BB FlughafenBERTerminal5
 DEU-BB S25Tet BE/BB TetlowStadt
 DEU-BB S46 BE/BB KonigsWusterhausen
 DEU-BE ICE28 BB/BE BE/BB
+DEU-BE ICE77 BerHbf BB/BE
 DEU-BE RE3 BB/BE BE/BB
 DEU-BE RB12 OstKre BE/BB
 DEU-BE S1 BornholmerStrasse Wannsee
@@ -178,6 +179,7 @@ DEU-TH RE1 ErfHbf Got
 DEU-TH RE3Fro SN/TH TH/SN
 DEU-TH RE16 ST/TH ErfHbf
 DEU-TH RB20 Got EisHbf
+DEU-TH RB41 EisHbf Imm
 ENG ThaLnkRai LonBri MazeHill
 FRA-IDF A Auber NoisyGrandMontEst
 FRA-IDF B AeroportCDG1 Luxembourg
@@ -191,7 +193,8 @@ FRA-IDF M13 Fourche SaintLazare
 ITA-LAZ FaRomGen UMB/LAZ RomaTer
 ITA-LAZ MA Ter Ott
 ITA-UMB FaRomGen UMB/LAZ TOS/UMB
-ITA-TOS FaRomGen TOS/UMB FirCam
+ITA-TOS FaRomGen TOS/UMB PisCen
+ITA-TOS FbRomGen PisCen Viareg
 ITA-VEN PMVen Tro PiaRoma
 ITA-TRE S3Tir AUT/ITA BrennerBrennero
 JPN HokurikuShin Takasaki Nagano
