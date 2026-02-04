@@ -1,6 +1,6 @@
 # Ireland
 ## Intercity lines
-IRL Ent DroMac DunCla
+IRL Ent DubCon IRL/GBR
 IRL CorkInt DubHeu CorkKent
 IRL SliInt DubCon Dru
 
@@ -16,6 +16,11 @@ IRL CorkComMid CorkKent Mid
 IRL RedLn ThePnt Sag
 IRL RedLnCon Con Tal
 IRL GrnLn Bro BriGlen
+
+# United Kingdom
+## Northern Ireland
+NIR Ent IRL/GBR BelGraCen
+NIR LarLn BelGraCen Whih
 
 # Spain
 ESP-AN C1Mal Aer Fue
