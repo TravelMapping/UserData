@@ -143,6 +143,7 @@ LUX T1 RoutBrePaf StaPlazEto
 
 ##  BY - Bayern
 DEU-BY ICE11 BW/BY MunHbf
+DEU-BY ICE18 TH/BY BamBerg
 DEU-BY ICE41 HE/BY WurHbf
 DEU-BY ICE62 MunHbf DEU/AUT
 DEU-BY ICE91 RegHbf DEU/AUT
@@ -298,9 +299,13 @@ DEU-RP RE9Fur NW/RP RP/NW
 
 
 ## SN - Sachsen
+DEU-SN ICE18 ST/SN SN/ST
+DEU-SN RJ27 DreHbf DEU/CZE
 
 
 ##  ST - Sachsen-Anhalt
+DEU-ST ICE18 SN/ST ST/TH
+DEU-ST ICE18Lut BB/ST ST/SN
 DEU-ST ICE77 NI/ST ST/BB
 
 DEU-ST RE4 SteHbf ST/BB
@@ -312,6 +317,8 @@ DEU-SH RB85 LubHbf Neu
 
 
 ##  TH - Thuringia
+DEU-TH ICE28 ST/TH TH/BY
+DEU-TH ICE18Ess ST/TH TH/ST
 
 
 # Austria
@@ -427,6 +434,8 @@ CZE 22Pra Poh Mals
 #Train
 CZE S1 PrahaMasarykovoNadrazi Kolin
 CZE S20 Kolin KutnaHoraHlavniNadrazi
+CZE RJ27 DEU/CZE +DIV_S49
+CZE RJ27 +DIV_S1 PraMasNas
 
 
 # POLAND
