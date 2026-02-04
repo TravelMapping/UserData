@@ -1,4 +1,4 @@
-# Date: 2026-02-01
+# Date: 2026-02-03
 # ----------------
 # ----------------
 
@@ -6,31 +6,160 @@
 ####   RAILWAYS   ####
 ######################
 
-#ESP-IB Soller                     ESP-IB Palma                 #1996
+FRA-PDL 1PdL Nan Cro                                            #2026
 
-DEU-BY RE10 NurnBergHbf WurHbf                                  #~2012? traveled with unknown service, Würzburg - Nürnberg - München
-DEU-BY RE1 MunHbf NurnBergHbf                                   #~2012? traveled with unknown service, Würzburg - Nürnberg - München
-DEU-BY RE80 MunHbf WurHbf                                       #~2012? traveled with unknown service, München - Treuchtlingen - Würzburg
+DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark                       #2025
+DEU-NW RB31 DuisBurgHbf Moe                                     #2025, Moers - Rheinhausen - Duisburg Hbf
+DEU-NW RE49 Din ObeSte                                          #2025
+DEU-BY S3 Pas HolzKir                                           #2025
+DEU-BY RB58 HolzKir KreStr                                      #2025
+DEU-BY S5 SanMarStr KreStr                                      #2025
+DEU-RP RE3 MaiHbf IdarObe                                       #2025
+DEU-RP RE4 MaiHbf LudHafHbf                                     #2025
+DEU-RP S1 LudHafHbf DEU-BW S1Man MannHeimHbf                    #2025
+DEU-BW S9 MannHeimHbf KarRuheHbf                                #2025
+DEU-BW MEX17a BieHeimBis +DIV_ICES                              #2025, actually traveled as rerouted RE1 from Karlsruhe-Durlach - Bietigheim-Bissingen - Stuttgart Hbf
+DEU-NW S5 DortMundHbf WitHbf                                    #2025
+DEU-NW RB40 WitHbf HagHbf                                       #2025
+DEU-NW S9 EssSte HagHbf                                         #2025
+DEU-NW RB28 Dur Eus                                             #2025, Düren - Euskirchen
+DEU-NW S23 BonnHbf EusKir                                       #2025
+DEU-NW RE5 KolnHbf BonnHbf                                      #2025
+DEU-NW S19 Dur KolnHbf                                          #2025
+DEU-NW RB51 DortMundHbf LunHbf                                  #2025
+DEU-NW S4 Unna DortMundLutDortMund                              #2025
+DEU-NW RE6 BocHbf DortMundHbf                                   #2025
+DEU-NW S1 DortMundHbf WatHon                                    #2025
+DEU-NW S1 BocHbf EssHbf                                         #2025
+DEU-NW S2Rec Her RecHauHbf                                      #2025
+DEU-BB S1Wit WitBer DEU-ST S1 MagBurgHbf                        #2025
+DEU-BY S1Vor LinReu AUT S1Vor Bre                               #2025
+DEU-NW RE16 EssHbf +DIV_Fri                                     #2025, RE16 Essen Hbf - Witten Hbf, rerouted via Steele instead of Wattenscheid, then not via Langendreer
+DEU-NW RE16 +DIV_Epp WitHbf                                     #2025, RE16 Essen Hbf - Witten Hbf, rerouted via Steele instead of Wattenscheid, then not via Langendreer
+DEU-NW S11 DusDorfFlugHafTer DusDorfUntRath                     #2025
+DEU-NW S11 NeuHbf KolnLon                                       #2025
+DEU-NW S28 DusDorfBilk KaaSee                                   #2025
+DEU-BE S75 WarStr WarBerg                                       #2025
+CHE S1Gal SteRhe Kre                                            #2025
+DEU-BW S14Gal Kon CHE S14Gal Kre                                #2025, actually traveled as IR75
+DEU-BW S6Bod Rad Kon                                            #2025
+DEU-HB RS1Blu BreFar DEU-HB RS1 BreAum                          #2025
+DEU-HB RS1 BreVegeSack DEU-NI RS1 Ver                           #2025
+DEU-HB RE9Bre BreHavLehe DEU-HB RE9 BreHbf                      #2025
+DEU-NI RS3 WilHavHbf DEU-HB RS3 BreHbf                          #2025
+DEU-NI RS4 NorHam Hude                                          #2025
+DEU-NI RS6 RotBurg Ver                                          #2025
+DEU-NI RS30 BadZwiAhn Hude                                      #2025
+DEU-BY RB17 IngNord Pla                                         #2025, actually traveled as RB15 Ulm - Ingolstadt - Regensburg - Plattling
+DEU-BY RE3 LanHbf Pla                                           #2025
+DEU-BY RE25 LanHbf RegHbf                                       #2025
+DEU-BY RB44 LanHbf Was                                          #2025
+DEU-BY RB48 Gra Was                                             #2025
+DEU-BY RB54 MunOst Gra                                          #2025
+CHE S1Gal SteRhe Rom                                            #2025
+CHE S2Gal Ror StMar                                             #2025, actually traveled as IR2212 something
+CHE S3Vor StMar AUT S3Vor Bre                                   #2025
+DEU-BY RB92Mem Mem DEU-BY RB92 LinIns                           #2025
+DEU-BW ICE11 UlmHbf DEU-HE ICE11 Ful                            #2025, actually traveled as ICE692 + ICE1586/ICE2916 Ulm - Frankfurt - Fulda
+DEU-HE ICE25 Ful DEU-NI ICE25 HanHbf                            #2025, actually traveled as ICE1586/ICE2916 Fulda - Hannover
+DEU-NI IC56 HanHbf DEU-ST IC56 MagBurgHbf                       #2025, actually traveled as IC2039 Hannover - Magdeburg
+DEU-ST RB41 MagBurgHbf Asc                                      #2025, Magdeburg - Staßfurt - Aschersleben
+DEU-ST RE4 Asc HalSaaHbf                                        #2025, Aschersleben - Könnern - Halle
+DEU-ST S8Hal HalSaaHbf DEU-ST S8 BitFeld                        #2025
+DEU-ST RE13 MagBurgHbf BitFeld                                  #2025, Bitterfeld - Zerbst - Magdeburg
+DEU-ST IC56 MagBurgHbf DEU-ST IC56 HalSaaHbf                    #2025, IC2443 Magdeburg - Köthen - Halle
+DEU-ST ICE18 HalSaaHbf DEU-BY ICE18 Don                         #2025, ICE705 Halle - Erfurt - Nürnberg - D'wörth
 
-DEU-NW ICE41 DusDorfHbf DEU-BY ICE41 AscHbf                     #2016
-#CHE Oberwald                     CHE Realp                     #2016, Furka
+DEU-BW MEX12 StuHbf HeilBroHbf                                  #2024, MEX12
+DEU-BW RS21Ulm UlmHbf Bib                                       #2024, RS21
+DEU-NW RE7 WupTalHbf HagHbf                                     #2024 Hagen Hbf - Wuppertal Hbf
+DEU-NW S7 WupTalHbf SolHbf                                      #2024
+DEU-NW S1 DusDorfHbf SolHbf                                     #2024
+DEU-NW S28 WupTalVohWin DusDorfGerHeim                          #2024
+DEU-BY RE1 MunHbf IngHbf                                        #2024
+DEU-BY S1Nur NurnBergHbf HartManHof                             #2024, actually traveled as S2 (renumbered Dec 2025)
+DEU-BY S2Nur NurnBergHbf AltDorf                                #2024, actually traveled as S3 (renumbered Dec 2025)
+DEU-BY S3Nur NurnBergHbf NeuMar                                 #2024, actually traveled as S1 (renumbered Dec 2025)
+DEU-BY RE1 AllBerg NurnBergHbf                                  #2024
+DEU-BY RE40 NurnBergHbf HartManHof                              #2024, route "rechts der Pegnitz"
+DEU-BW RE90 StuHbf DEU-BY RE90 NurnBergHbf                      #2024, Nürnberg - Crailsheim - Backnang - Stuttgart
+DEU-NI S3 Leh HilHeimHbf                                        #2024
+DEU-NI S4 HanHbf HilHeimHbf                                     #2024
+DEU-NI S7 HanHbf Cel                                            #2024
+DEU-BW IC55 StuHbf +DIV_Ubs                                     #2024, actually traveled as IC2162 but rerouted via Bruchsal
+DEU-BW ICE26 +DIV_Ubs KarRuheHbf                                #2024, actually traveled as IC2162 but rerouted via Bruchsal
+DEU-BW RE45 KarRuheHbf Epp                                      #2024
+DEU-BW S5Hei SinsHeimHbf Epp                                    #2024
+DEU-BW S1Man NecGem DEU-BW S1Mos MosBachNecElz                  #2024
+DEU-BW S41Hei MosBachNecElz Har                                 #2024
+DEU-BW RS71Ulm UlmHbf DEU-BY RS71Ulm WeiHorn                    #2024
+DEU-BY RE87 AscHbf DEU-BW RE87 Lauda                            #2024 Lauda - Aschaffenburg
+DEU-HE S2 MarPla DieBachBf                                      #2024
+DEU-HE S1 KonWac RodMarkOberRod                                 #2024
+DEU-HE S6 FriBerg HauWac                                        #2024
+DEU-HE RB16 FriDorf FriBerg                                     #2024
+DEU-HE S5 FriDorf FraFurtRodHeim                                #2024
+DEU-HE S4 KronBerg FraFurtRodHeim                               #2024
+DEU-HE S3 BadSod NieHochSta                                     #2024
+DEU-HE RB22 FraFurtHoc NieHau                                   #2024
+DEU-HE RB21 NieHau WiesBadHbf                                   #2024
+DEU-HE RB68 HahAls DEU-BW RB68Wei HeiBergHbf                    #2024, Hähnlein-Alsbach - Heidelberg Hbf
+DEU-BW RE73 HeiBergHbf Bru                                      #2024
+DEU-NW S6 LevMit KolnMulHeim                                    #2024
+DEU-NW S11 KolnMesDeu BerGladBach                               #2024
+DEU-NW S19 KolnMesDeu TroDorf                                   #2024
+DEU-NW RE42 EssHbf RecHauHbf                                    #2024, Essen Hbf - Gelsenkirchen - Recklinghausen Hbf
+DEU-NW S9Rec RecHauHbf GelKirBuerNord                           #2024
+DEU-NW S9 GelKirBuerNord EssWest                                #2024
+DEU-NW S3 OberHauHbf EssHbf                                     #2024
+AUT S40 StPolHau KloWei                                         #2024, KloWei-Tulln as REX41
+AUT S45 WienOtt WienHan                                         #2024
+AUT S50 Neu WienWes                                             #2024, actually traveled as REX51 from St. Pölten
+#AUT REX51 St. Pölten Hbf Wien WestBf                           #2024 via Neulengbach
+DEU-BY S1Fri Fre NeuFah                                         #2024
+DEU-BY S2 AltoMun Erd                                           #2024
+DEU-BY S7 WolHau Hbf                                            #2024
+DEU-BY S8 Her OstBf                                             #2024
+FRA-ARA ParEti +DIV_Per +DIV_Vie                                #2024, actually traveled as regional train
+FRA-ARA NanLyon +DIV_Eti LyonPer                                #2024, actually traveled as regional train
+#FRA-ARA Estressin Lyon-Vaise                                   #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
+FRA-PAC StrNice NiceVil FRA/MCO                                 #2024, actually traveled as Cannes - Menton regional train
+MCO ParNice FRA/MCO MonMonCar                                   #2024, actually traveled as Cannes - Menton regional train
+#FRA-COR Ajaccio Bastia                                         #2024
+#ITA-SAR Sassari Cagliari                                       #2024
+DEU-BB S1 OraBurg DEU-BE S1 BornHolStr                          #2024
+DEU-BE S1 PotPla WannSee                                        #2024
+DEU-BE S2 GesBru FriStr                                         #2024
+DEU-BB S2 Ber DEU-BE S2 BornHolStr                              #2024
+DEU-BE S2 PriWeg DEU-BB S2Bla BlaFel                            #2024
+DEU-BE S5 Hbf DEU-BB S5 StrBergNord                             #2024
+DEU-BE RE5 GesBru DEU-BB RE5 OraBurg                            #2024
+DEU-BE S9 Spa OlySta                                            #2024
+DEU-BE S26 PotPla DEU-BB S26 TetSta                             #2024
+DEU-NW S3 EssSte HatMit                                         #2024
+DEU-NW S9 HalSee EssSte                                         #2024
 
-ENG ChaTnl FolEurTer GBR/FRA                                    #2017
-FRA-HDF ChaTnl GBR/FRA CalEurTer                                #2017
+DEU-BW RE200 Wen UlmHbf                                         #2023, Ulm - Merklingen - Wendlingen
+DEU-BW RB11 KornWestHeim UnterTurkHeim                          #2023, actually traveled as rerouted MEX via Münster, Zazenhausen
+DEU-HE RE54 FraFurtHbf HE/BY                                    #2023 Frankfurt Hbf - Lohr
+DEU-BY RE54 HE/BY Lohr                                          #2023 Frankfurt Hbf - Lohr
+DEU-BE S9 TrePark AdlHof                                        #2023
+DEU-BE S42 OstKre_N OstKre_S                                    #2023, full loop counter-clockwise
+DEU-BE S47 NeuKol SpiFeld                                       #2023
+DEU-SN RB22 LeiPlagWitz LeiKna                                  #2023
+DEU-SN S1Dre DreMit Sch                                         #2023
+DEU-SN S2Dre DreFlugHaf DreFreiBerStr                           #2023
+DEU-SN S8Dre Kam DreMit                                         #2023
+DEU-BY RE7 AugHbf KemHbf                                        #2023
+DEU-BY RB67 AugHbf Wei                                          #2023
+DEU-BY RB6 MunHbf Wei                                           #2023
+DEU-BY RB54 MunHbf DEU/AUT                                      #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
+AUT RB54 DEU/AUT Kuf                                            #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
+AUT S4Tir InnHau Kuf                                            #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
+#Munich Hbf - Kufstein - Innsbruck Hbf                          #2023, actually traveled as EC85 via southern route in Munich
 
-ENG ChiML Sol BirMoorSt                                         #2018, Birmingham Moor Street - Solihull
-
-DEU-BW RE5 StuHbf UlmHbf                                        #2020
-DNK B KobHov HojeTaa                                            #2020, actually traveled from Roskilde with a different service
-#DNK     Roskilde                     DNK     Copenhagen        #2020
-
-DEU-HH RE4 HamBurgHbf DEU-NI RE4 RotBurg                        #2021, Rotenburg (Wümme) - Hamburg Hbf
-DEU-NI RE4 RotBurg DEU-HB RE4 BreHbf                            #2021 Bremen Hbf - Rotenburg (Wümme)
-DEU-HB ICE43 BreHbf DEU-NW ICE43 KolnHbf                        #2021, actually traveled ICE1164 via Göppingen, Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
-DEU-NW ICE42 KolnHbf DEU-BW ICE42 StuHbf                        #2021, actually traveled ICE1164 via Göppingen, Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
-
-DEU-BW RS7Ulm UlmHbf DEU-BY RS7Ulm Mem                          #2022
 DEU-BY RE75 BW/BY Obe                                           #2022, Ulm - Memmingen - Oberstorf
+DEU-BW RS7Ulm UlmHbf DEU-BY RS7Ulm Mem                          #2022
 DEU-BY RE72 MunHbf Mem                                          #2022
 DEU-BY RE70 Imm LinReu                                          #2022
 DEU-BY S1Vor LinIns LinReu                                      #2022
@@ -118,155 +247,28 @@ DEU-RP RE6 NeuStaHbf DEU-BW RE6Kar KarRuheHbf                   #2022, Neustadt 
 DEU-BW RE2 KarRuheHbf Sin                                       #2022, Karlsruhe - Offenburg - Hornberg - Engen - Singen
 DEU-BW RE3Sin Sin FriSta                                        #2022, actually traveled as IRE3 Singen - Friedrichshafen-Stadt
 
-DEU-BW RE200 Wen UlmHbf                                         #2023, Ulm - Merklingen - Wendlingen
-DEU-BW RB11 KornWestHeim UnterTurkHeim                          #2023, actually traveled as rerouted MEX via Münster, Zazenhausen
-DEU-HE RE54 FraFurtHbf HE/BY                                    #2023 Frankfurt Hbf - Lohr
-DEU-BY RE54 HE/BY Lohr                                          #2023 Frankfurt Hbf - Lohr
-DEU-BE S9 TrePark AdlHof                                        #2023
-DEU-BE S42 OstKre_N OstKre_S                                    #2023, full loop counter-clockwise
-DEU-BE S47 NeuKol SpiFeld                                       #2023
-DEU-SN RB22 LeiPlagWitz LeiKna                                  #2023
-DEU-SN S1Dre DreMit Sch                                         #2023
-DEU-SN S2Dre DreFlugHaf DreFreiBerStr                           #2023
-DEU-SN S8Dre Kam DreMit                                         #2023
-DEU-BY RE7 AugHbf KemHbf                                        #2023
-DEU-BY RB67 AugHbf Wei                                          #2023
-DEU-BY RB6 MunHbf Wei                                           #2023
-DEU-BY RB54 MunHbf DEU/AUT                                      #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
-AUT RB54 DEU/AUT Kuf                                            #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
-AUT S4Tir InnHau Kuf                                            #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
-#Munich Hbf - Kufstein - Innsbruck Hbf                          #2023, actually traveled as EC85 via southern route in Munich
+DEU-HH RE4 HamBurgHbf DEU-NI RE4 RotBurg                        #2021, Rotenburg (Wümme) - Hamburg Hbf
+DEU-NI RE4 RotBurg DEU-HB RE4 BreHbf                            #2021 Bremen Hbf - Rotenburg (Wümme)
+DEU-HB ICE43 BreHbf DEU-NW ICE43 KolnHbf                        #2021, actually traveled ICE1164 via Göppingen, Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
+DEU-NW ICE42 KolnHbf DEU-BW ICE42 StuHbf                        #2021, actually traveled ICE1164 via Göppingen, Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 
-DEU-BW MEX12 StuHbf HeilBroHbf                                  #2024, MEX12
-DEU-BW RS21Ulm UlmHbf Bib                                       #2024, RS21
-DEU-NW RE7 WupTalHbf HagHbf                                     #2024 Hagen Hbf - Wuppertal Hbf
-DEU-NW S7 WupTalHbf SolHbf                                      #2024
-DEU-NW S1 DusDorfHbf SolHbf                                     #2024
-DEU-NW S28 WupTalVohWin DusDorfGerHeim                          #2024
-DEU-BY RE1 MunHbf IngHbf                                        #2024
-DEU-BY S1Nur NurnBergHbf HartManHof                             #2024, actually traveled as S2 (renumbered Dec 2025)
-DEU-BY S2Nur NurnBergHbf AltDorf                                #2024, actually traveled as S3 (renumbered Dec 2025)
-DEU-BY S3Nur NurnBergHbf NeuMar                                 #2024, actually traveled as S1 (renumbered Dec 2025)
-DEU-BY RE1 AllBerg NurnBergHbf                                  #2024
-DEU-BY RE40 NurnBergHbf HartManHof                              #2024, route "rechts der Pegnitz"
-DEU-BW RE90 StuHbf DEU-BY RE90 NurnBergHbf                      #2024, Nürnberg - Crailsheim - Backnang - Stuttgart
-DEU-NI S3 Leh HilHeimHbf                                        #2024
-DEU-NI S4 HanHbf HilHeimHbf                                     #2024
-DEU-NI S7 HanHbf Cel                                            #2024
-DEU-BW IC55 StuHbf +DIV_Ubs                                     #2024, actually traveled as IC2162 but rerouted via Bruchsal
-DEU-BW ICE26 +DIV_Ubs KarRuheHbf                                #2024, actually traveled as IC2162 but rerouted via Bruchsal
-DEU-BW RE45 KarRuheHbf Epp                                      #2024
-DEU-BW S5Hei SinsHeimHbf Epp                                    #2024
-DEU-BW S1Man NecGem DEU-BW S1Mos MosBachNecElz                  #2024
-DEU-BW S41Hei MosBachNecElz Har                                 #2024
-DEU-BW RS71Ulm UlmHbf DEU-BY RS71Ulm WeiHorn                    #2024
-DEU-BY RE87 AscHbf DEU-BW RE87 Lauda                            #2024 Lauda - Aschaffenburg
-DEU-HE S2 MarPla DieBachBf                                      #2024
-DEU-HE S1 KonWac RodMarkOberRod                                 #2024
-DEU-HE S6 FriBerg HauWac                                        #2024
-DEU-HE RB16 FriDorf FriBerg                                     #2024
-DEU-HE S5 FriDorf FraFurtRodHeim                                #2024
-DEU-HE S4 KronBerg FraFurtRodHeim                               #2024
-DEU-HE S3 BadSod NieHochSta                                     #2024
-DEU-HE RB22 FraFurtHoc NieHau                                   #2024
-DEU-HE RB21 NieHau WiesBadHbf                                   #2024
-DEU-HE RB68 HahAls DEU-BW RB68Wei HeiBergHbf                    #2024, Hähnlein-Alsbach - Heidelberg Hbf
-DEU-BW RE73 HeiBergHbf Bru                                      #2024
-DEU-NW S6 LevMit KolnMulHeim                                    #2024
-DEU-NW S11 KolnMesDeu BerGladBach                               #2024
-DEU-NW S19 KolnMesDeu TroDorf                                   #2024
-DEU-NW RE42 EssHbf RecHauHbf                                    #2024, Essen Hbf - Gelsenkirchen - Recklinghausen Hbf
-DEU-NW S9Rec RecHauHbf GelKirBuerNord                           #2024
-DEU-NW S9 GelKirBuerNord EssWest                                #2024
-DEU-NW S3 OberHauHbf EssHbf                                     #2024
-AUT S40 StPolHau KloWei                                         #2024, KloWei-Tulln as REX41
-AUT S45 WienOtt WienHan                                         #2024
-AUT S50 Neu WienWes                                             #2024, actually traveled as REX51 from St. Pölten
-#AUT REX51 St. Pölten Hbf Wien WestBf                           #2024 via Neulengbach
-DEU-BY S1Fri Fre NeuFah                                         #2024
-DEU-BY S2 AltoMun Erd                                           #2024
-DEU-BY S7 WolHau Hbf                                            #2024
-DEU-BY S8 Her OstBf                                             #2024
-FRA-ARA ParEti +DIV_Per +DIV_Vie                                #2024, actually traveled as regional train
-FRA-ARA NanLyon +DIV_Eti LyonPer                                #2024, actually traveled as regional train
-#FRA-ARA Estressin Lyon-Vaise                                   #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
-FRA-PAC StrNice NiceVil FRA/MCO                                 #2024, actually traveled as Cannes - Menton regional train
-MCO ParNice FRA/MCO MonMonCar                                   #2024, actually traveled as Cannes - Menton regional train
-#FRA-COR Ajaccio Bastia                                         #2024
-#ITA-SAR Sassari Cagliari                                       #2024
-DEU-BB S1 OraBurg DEU-BE S1 BornHolStr                          #2024
-DEU-BE S1 PotPla WannSee                                        #2024
-DEU-BE S2 GesBru FriStr                                         #2024
-DEU-BB S2 Ber DEU-BE S2 BornHolStr                              #2024
-DEU-BE S2 PriWeg DEU-BB S2Bla BlaFel                            #2024
-DEU-BE S5 Hbf DEU-BB S5 StrBergNord                             #2024
-DEU-BE RE5 GesBru DEU-BB RE5 OraBurg                            #2024
-DEU-BE S9 Spa OlySta                                            #2024
-DEU-BE S26 PotPla DEU-BB S26 TetSta                             #2024
-DEU-NW S3 EssSte HatMit                                         #2024
-DEU-NW S9 HalSee EssSte                                         #2024
+DEU-BW RE5 StuHbf UlmHbf                                        #2020
+DNK B KobHov HojeTaa                                            #2020, actually traveled from Roskilde with a different service
+#DNK     Roskilde                     DNK     Copenhagen        #2020
 
-DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark                       #2025
-DEU-NW RB31 DuisBurgHbf Moe                                     #2025, Moers - Rheinhausen - Duisburg Hbf
-DEU-NW RE49 Din ObeSte                                          #2025
-DEU-BY S3 Pas HolzKir                                           #2025
-DEU-BY RB58 HolzKir KreStr                                      #2025
-DEU-BY S5 SanMarStr KreStr                                      #2025
-DEU-RP RE3 MaiHbf IdarObe                                       #2025
-DEU-RP RE4 MaiHbf LudHafHbf                                     #2025
-DEU-RP S1 LudHafHbf DEU-BW S1Man MannHeimHbf                    #2025
-DEU-BW S9 MannHeimHbf KarRuheHbf                                #2025
-DEU-BW MEX17a BieHeimBis +DIV_ICES                              #2025, actually traveled as rerouted RE1 from Karlsruhe-Durlach - Bietigheim-Bissingen - Stuttgart Hbf
-DEU-NW S5 DortMundHbf WitHbf                                    #2025
-DEU-NW RB40 WitHbf HagHbf                                       #2025
-DEU-NW S9 EssSte HagHbf                                         #2025
-DEU-NW RB28 Dur Eus                                             #2025, Düren - Euskirchen
-DEU-NW S23 BonnHbf EusKir                                       #2025
-DEU-NW RE5 KolnHbf BonnHbf                                      #2025
-DEU-NW S19 Dur KolnHbf                                          #2025
-DEU-NW RB51 DortMundHbf LunHbf                                  #2025
-DEU-NW S4 Unna DortMundLutDortMund                              #2025
-DEU-NW RE6 BocHbf DortMundHbf                                   #2025
-DEU-NW S1 DortMundHbf WatHon                                    #2025
-DEU-NW S1 BocHbf EssHbf                                         #2025
-DEU-NW S2Rec Her RecHauHbf                                      #2025
-DEU-BB S1Wit WitBer DEU-ST S1 MagBurgHbf                        #2025
-DEU-BY S1Vor LinReu AUT S1Vor Bre                               #2025
-DEU-NW RE16 EssHbf +DIV_Fri                                     #2025, RE16 Essen Hbf - Witten Hbf, rerouted via Steele instead of Wattenscheid, then not via Langendreer
-DEU-NW RE16 +DIV_Epp WitHbf                                     #2025, RE16 Essen Hbf - Witten Hbf, rerouted via Steele instead of Wattenscheid, then not via Langendreer
-DEU-NW S11 DusDorfFlugHafTer DusDorfUntRath                     #2025
-DEU-NW S11 NeuHbf KolnLon                                       #2025
-DEU-NW S28 DusDorfBilk KaaSee                                   #2025
-DEU-BE S75 WarStr WarBerg                                       #2025
-CHE S1Gal SteRhe Kre                                            #2025
-DEU-BW S14Gal Kon CHE S14Gal Kre                                #2025, actually traveled as IR75
-DEU-BW S6Bod Rad Kon                                            #2025
-DEU-HB RS1Blu BreFar DEU-HB RS1 BreAum                          #2025
-DEU-HB RS1 BreVegeSack DEU-NI RS1 Ver                           #2025
-DEU-HB RE9Bre BreHavLehe DEU-HB RE9 BreHbf                      #2025
-DEU-NI RS3 WilHavHbf DEU-HB RS3 BreHbf                          #2025
-DEU-NI RS4 NorHam Hude                                          #2025
-DEU-NI RS6 RotBurg Ver                                          #2025
-DEU-NI RS30 BadZwiAhn Hude                                      #2025
-DEU-BY RB17 IngNord Pla                                         #2025, actually traveled as RB15 Ulm - Ingolstadt - Regensburg - Plattling
-DEU-BY RE3 LanHbf Pla                                           #2025
-DEU-BY RE25 LanHbf RegHbf                                       #2025
-DEU-BY RB44 LanHbf Was                                          #2025
-DEU-BY RB48 Gra Was                                             #2025
-DEU-BY RB54 MunOst Gra                                          #2025
-CHE S1Gal SteRhe Rom                                            #2025
-CHE S2Gal Ror StMar                                             #2025, actually traveled as IR2212 something
-CHE S3Vor StMar AUT S3Vor Bre                                   #2025
-DEU-BY RB92Mem Mem DEU-BY RB92 LinIns                           #2025
-DEU-BW ICE11 UlmHbf DEU-HE ICE11 Ful                            #2025, actually traveled as ICE692 + ICE1586/ICE2916 Ulm - Frankfurt - Fulda
-DEU-HE ICE25 Ful DEU-NI ICE25 HanHbf                            #2025, actually traveled as ICE1586/ICE2916 Fulda - Hannover
-DEU-NI IC56 HanHbf DEU-ST IC56 MagBurgHbf                       #2025, actually traveled as IC2039 Hannover - Magdeburg
-DEU-ST RB41 MagBurgHbf Asc                                      #2025, Magdeburg - Staßfurt - Aschersleben
-DEU-ST RE4 Asc HalSaaHbf                                        #2025, Aschersleben - Könnern - Halle
-DEU-ST S8Hal HalSaaHbf DEU-ST S8 BitFeld                        #2025
-DEU-ST RE13 MagBurgHbf BitFeld                                  #2025, Bitterfeld - Zerbst - Magdeburg
-DEU-ST IC56 MagBurgHbf DEU-ST IC56 HalSaaHbf                    #2025, IC2443 Magdeburg - Köthen - Halle
-DEU-ST ICE18 HalSaaHbf DEU-BY ICE18 Don                         #2025, ICE705 Halle - Erfurt - Nürnberg - D'wörth
+ENG ChiML Sol BirMoorSt                                         #2018, Birmingham Moor Street - Solihull
+
+ENG ChaTnl FolEurTer GBR/FRA                                    #2017
+FRA-HDF ChaTnl GBR/FRA CalEurTer                                #2017
+
+DEU-NW ICE41 DusDorfHbf DEU-BY ICE41 AscHbf                     #2016
+#CHE Oberwald                     CHE Realp                     #2016, Furka
+
+DEU-BY RE10 NurnBergHbf WurHbf                                  #~2012? traveled with unknown service, Würzburg - Nürnberg - München
+DEU-BY RE1 MunHbf NurnBergHbf                                   #~2012? traveled with unknown service, Würzburg - Nürnberg - München
+DEU-BY RE80 MunHbf WurHbf                                       #~2012? traveled with unknown service, München - Treuchtlingen - Würzburg
+
+#ESP-IB Soller                     ESP-IB Palma                 #1996
 
 
 ######################
@@ -908,8 +910,8 @@ FRA-GES TramARei Neu HopDeb           #2025
 FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
-FRA-HDF M1 CHUEur QuaCanStaPieMau     #2025
-FRA-HDF M2 PorPos GareLilFla          #2025
+FRA-HDF M1 CHUEur QuaCanStaPieMau     #2026
+FRA-HDF M2 PorPos GareLilFla          #2026
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025
@@ -967,6 +969,12 @@ FRA-PAC M2 BouVil SaiMarDro           #2018, northern extension was only opened 
 FRA-PAC 1Nic HenSap HopPas            #2024
 FRA-PAC 2Nic CADAMCenAdm PortLym      #2024
 FRA-PAC 3Nic StIsi AerTer2            #2024
+
+#Nantes
+FRA-PDL 1Jam Com Bab                  #2026
+FRA-PDL 1Nan GareSNCFNord Bea         #2026
+FRA-PDL 2Nan OrvGraVal Com            #2026
+FRA-PDL 3Nan MarPaul Com              #2026
 
 #Zagreb
 #2019, All routes in service as-of 2019 except of short T1 at west end
