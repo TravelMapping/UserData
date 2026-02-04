@@ -1,4 +1,4 @@
-# Date: 2026-02-03
+# Date: 2026-02-04
 # ----------------
 # ----------------
 
@@ -971,8 +971,8 @@ FRA-PAC 2Nic CADAMCenAdm PortLym      #2024
 FRA-PAC 3Nic StIsi AerTer2            #2024
 
 #Nantes
-FRA-PDL 1Jam Com Bab                  #2026
-FRA-PDL 1Nan GareSNCFNord Bea         #2026
+FRA-PDL 1Nan FraMit Bea               #2026
+FRA-PDL 1Jam Jam Bab                  #2026
 FRA-PDL 2Nan OrvGraVal Com            #2026
 FRA-PDL 3Nan MarPaul Com              #2026
 
