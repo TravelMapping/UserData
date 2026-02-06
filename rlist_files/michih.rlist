@@ -1,4 +1,4 @@
-# Date: 2026-02-04
+# Date: 2026-02-06
 # ----------------
 # ----------------
 
@@ -7,6 +7,8 @@
 ######################
 
 FRA-PDL 1PdL Nan Cro                                            #2026
+FRA-PDL 10PdL +SKIP_RezePontRou Por                             #2026, RezePontRou is a regular stop of the service to Pornic
+FRA-PDL 11PdL Nan StGilCroVie                                   #2026
 
 DEU-BW S6Pfo PfoHeimHbf BadWildBadKurPark                       #2025
 DEU-NW RB31 DuisBurgHbf Moe                                     #2025, Moers - Rheinhausen - Duisburg Hbf
@@ -973,8 +975,8 @@ FRA-PAC 3Nic StIsi AerTer2            #2024
 #Nantes
 FRA-PDL 1Nan FraMit Bea               #2026
 FRA-PDL 1Jam Jam Bab                  #2026
-FRA-PDL 2Nan OrvGraVal Com            #2026
-FRA-PDL 3Nan MarPaul Com              #2026
+FRA-PDL 2Nan OrvGraVal GarPontRou     #2026
+FRA-PDL 3Nan MarPaul Neu              #2026
 
 #Zagreb
 #2019, All routes in service as-of 2019 except of short T1 at west end
