@@ -321,11 +321,6 @@ DEU-TH ICE28 ST/TH TH/BY
 DEU-TH ICE18Ess ST/TH TH/ST
 
 
-# Austria
-AUT ICE62 DEU/AUT GrazHau
-AUT ICE91 DEU/AUT WienHau
-
-
 # DENMARK
 DNK M1 VanLose VesMag
 DNK M2 VanLose LuftHav
@@ -471,7 +466,8 @@ ESP-VC 7Val Jes Ala
 # Austria
 AUT 49Wie Sch RingVol
 AUT S2Sal DEU/AUT SalHau
-
+AUT ICE62 DEU/AUT KlaHau
+AUT ICE91 DEU/AUT WienHau
 
 #ROMANIA
 
