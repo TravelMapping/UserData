@@ -2,7 +2,14 @@
 
 ## US Interstates and Interstate Business Routes ##
 
+#. I-5
+CA I-5 158 162
+# California I-X05
+CA I-405 44 53B
+CA I-405 71A I-5(158)
+
 #. I-10
+CA I-10 1 3
 LA I-10 103 LA/MS
 MS I-10 LA/MS MS/AL
 AL I-10 MS/AL AL/FL
@@ -705,6 +712,9 @@ FL US98BusPen US98_W US98_E
 # Truck
 AL US98TrkMob US98Bro_E US98_E
 
+#. US 101
+CA US101 43 60
+
 #. US 113
 MD US113 US13 MD/DE
 DE US113 MD/DE DE1
@@ -919,6 +929,12 @@ AR AR180 I-49/62 US71Bus
 
 # Arkansas Special State Routes
 AR AR16SFay AR16 AR112
+
+# California State Routes
+CA CA1 1A(10) 112
+CA CA14 I-5 35
+CA CA23 12 20
+CA CA118 18 42A
 
 # Connecticut State Routes
 CT CT2 I-91 18
@@ -1570,9 +1586,8 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
+# 2/7/2026
+# California day 1
 # 1/4/2026
 # MS, AL, NC
-# 12/29/2025
-# New Orleans area
-# 12/28/2025
-# VA, NC, SC, GA, AL
+
