@@ -1,4 +1,4 @@
-# Date: 2026-02-06
+# Date: 2026-02-08
 # ----------------
 # ----------------
 
@@ -906,6 +906,9 @@ FRA-BFC T2Dij Val CheCen              #2023
 #Orleans
 FRA-CVL TramA JulVer Zen              #2025
 FRA-CVL TramB ClosHam GeoPom          #2025
+
+#Tours
+FRA-CVL A Vau LycJeanMon              #2026
 
 #Reims
 FRA-GES TramARei Neu HopDeb           #2025
