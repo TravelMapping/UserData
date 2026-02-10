@@ -1,4 +1,4 @@
-# Date: 2026-02-08
+# Date: 2026-02-10
 # ----------------
 # ----------------
 
@@ -122,9 +122,7 @@ DEU-BY S1Fri Fre NeuFah                                         #2024
 DEU-BY S2 AltoMun Erd                                           #2024
 DEU-BY S7 WolHau Hbf                                            #2024
 DEU-BY S8 Her OstBf                                             #2024
-FRA-ARA ParEti +DIV_Per +DIV_Vie                                #2024, actually traveled as regional train
-FRA-ARA NanLyon +DIV_Eti LyonPer                                #2024, actually traveled as regional train
-#FRA-ARA Estressin Lyon-Vaise                                   #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
+FRA-ARA C24 VieEst LyonVai                                      #2024, Vienna - Villefranche regional train via Lyon-Jean Mace station (even entered the train there for return) and Lyon-Vaise
 FRA-PAC StrNice NiceVil FRA/MCO                                 #2024, actually traveled as Cannes - Menton regional train
 MCO ParNice FRA/MCO MonMonCar                                   #2024, actually traveled as Cannes - Menton regional train
 #FRA-COR Ajaccio Bastia                                         #2024
@@ -143,8 +141,7 @@ DEU-NW S9 HalSee EssSte                                         #2024
 
 DEU-BW RE200 Wen UlmHbf                                         #2023, Ulm - Merklingen - Wendlingen
 DEU-BW RB11 KornWestHeim UnterTurkHeim                          #2023, actually traveled as rerouted MEX via Münster, Zazenhausen
-DEU-HE RE54 FraFurtHbf HE/BY                                    #2023 Frankfurt Hbf - Lohr
-DEU-BY RE54 HE/BY Lohr                                          #2023 Frankfurt Hbf - Lohr
+DEU-HE RE54 FraFurtHbf DEU-BY RE54 Lohr                         #2023 Frankfurt Hbf - Lohr
 DEU-BE S9 TrePark AdlHof                                        #2023
 DEU-BE S42 OstKre_N OstKre_S                                    #2023, full loop counter-clockwise
 DEU-BE S47 NeuKol SpiFeld                                       #2023
@@ -160,7 +157,7 @@ AUT RB54 DEU/AUT Kuf                                            #2023, actually 
 AUT S4Tir InnHau Kuf                                            #2023, actually traveled as EC85 Munich - Kufstein - Innsbruck
 #Munich Hbf - Kufstein - Innsbruck Hbf                          #2023, actually traveled as EC85 via southern route in Munich
 
-DEU-BY RE75 BW/BY Obe                                           #2022, Ulm - Memmingen - Oberstorf
+DEU-BW RE75 UlmHbf DEU-BY RE75 Obe                              #2022, Ulm - Memmingen - Oberstorf
 DEU-BW RS7Ulm UlmHbf DEU-BY RS7Ulm Mem                          #2022
 DEU-BY RE72 MunHbf Mem                                          #2022
 DEU-BY RE70 Imm LinReu                                          #2022
@@ -216,8 +213,7 @@ DEU-NW S4 DortMundWic DortMundKorWest                           #2022
 DEU-NW S6 EssHbf DusDorfHbf                                     #2022 via Derendorf, Ratingen-Ost, Kettwig
 DEU-BY S1 FlugHafMun Hbf                                        #2022 via Moosach
 DEU-BY S8 FlugHafMun Pas                                        #2022 via Hbf, Leuchtenbergring
-DEU-HE RE70 FraFurtHbf HE/BW                                    #2022, ICE route Mannheim Hbf - Frankfurt Hbf
-DEU-BW RE70 HE/BW MannHeimHbf                                   #2022, ICE route Mannheim Hbf - Frankfurt Hbf
+DEU-HE RE70 FraFurtHbf DEU-BW RE70 MannHeimHbf                  #2022, ICE route Mannheim Hbf - Frankfurt Hbf
 DEU-HE S6 FraFurtHbf FraFurtSud                                 #2022, S6 Frankfurt Hbf - Ostend - Frankfurt Süd
 DEU-HE RE54 FraFurtSud HanHbf                                   #2022, rerouted RE30 Frankfurt South - Maintal - Hanau - Assenheim - Gießen due to construction
 DEU-HE RB49 FriBerg HanHbf                                      #2022, rerouted RE30 Frankfurt South - Maintal - Hanau - Assenheim - Gießen due to construction
@@ -238,8 +234,7 @@ DEU-NW RE7 KreFeldHbf WupTalHbf                                 #2022, Krefeld -
 DEU-NW RE4 AacHbf WupTalHbf                                     #2022, Wuppertal Hbf - Düsseldorf - Mönchengladbach - Aachen
 DEU-NW RE1 AacHbf KolnHbf                                       #2022, Aachen - Cologne Hbf
 DEU-NW RB48 KolnHbf BonnGodBerg                                 #2022, Cologne Hbf - Bonn-Bad Godesberg
-DEU-NW RE5 BonnHbf NW/RP                                        #2022, Bonn Hbf - Koblenz Hbf
-DEU-RP RE5 NW/RP KobHbf                                         #2022, Bonn Hbf - Koblenz Hbf
+DEU-NW RE5 BonnHbf DEU-RP RE5 KobHbf                            #2022, Bonn Hbf - Koblenz Hbf
 DEU-HE RB10 WiesBadHbf DEU-RP RB10 KobHbf                       #2022, Koblenz - Rüdesheim - Wiesbaden
 DEU-RP RE3 MaiHbf BadKre                                        #2022, RE3  Mainz Hbf - Ockenheim - Bad Kreuznach
 DEU-RP RB65 KaiLauHbf +DIV_Bet                                  #2022, RB65 Bad Kreuznach - Enkenbach - Kaiserslautern, NOT via Hochspeyer!
