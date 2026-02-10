@@ -1,6 +1,6 @@
-# 02/03/2025
-# v72
-# Add last section of I-295 Fayetteville NC  Not traveled
+# 02/09/2025
+# v73
+# Add new AZ Us 66 historic Parks to keep AZ at 100%	Traveled in 1959
 
 
 # Arizona Interstate Highways
@@ -146,6 +146,7 @@ AZ US66HisHol I-40(285) I-40(289)
 AZ US66HisJos I-40(274) I-40(277)
 AZ US66HisKin I-40(1) I-40(139)
 AZ US66HisLup I-40(359) AZ/NM
+AZ US66HisPar PonRd GarPraRd
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
@@ -900,7 +901,7 @@ IN I-265FutLou 7 IN/KY
 KY I-265FutLou 35 KY/IN
 LA I-49FutFra LA182_W LA318
 LA I-49FutMor LA308 LA182_B
-LA I-49FutNIb LA83_W LA675
+LA I-49FutNib LA83_W LA675
 NC I-26FutAsh 13 4A(240)
 NC I-73FutMad NC68 NC/VA
 NC I-74FutLau 181 194
