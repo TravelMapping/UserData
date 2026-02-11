@@ -3,17 +3,22 @@
 ## US Interstates and Interstate Business Routes ##
 
 #. I-5
-CA I-5 158 162
+CA I-5 130B 134A
+CA I-5 153B 162
 # California I-X05
-CA I-405 44 53B
-CA I-405 71A I-5(158)
+CA I-405 44 I-5(158)
 
 #. I-10
 CA I-10 1 3
+CA I-10 13 16B
 LA I-10 103 LA/MS
 MS I-10 LA/MS MS/AL
 AL I-10 MS/AL AL/FL
 FL I-10 AL/FL I-95
+# California I-X10
+CA I-110 1A 21
+CA I-210 1A 25
+CA I-710 1 18A
 # Louisiana I-X10
 LA I-110 I-10 1C
 LA I-510 1A LA47_S
@@ -369,6 +374,8 @@ CT US6 I-84(38) I-84(60)
 CT US6 I-384 CT/RI
 RI US6 CT/RI RI/MA
 MA US6 RI/MA MA114A_S
+# Historic
+CA US6HisSan US99His_N SolCanRd_W
 
 #. US 9
 DE US9 US13 US113
@@ -622,6 +629,7 @@ AR US65 LA/AR I-40(125)
 
 #. US 66
 # Historic
+CA US66HisHol SanMonBlvd_S AlvSt
 MO US66HisNJo US66His_W MO171_E
 MO US66HisStL I-44BL/43 MO43_N
 MO US66HisStL MO171_W MOsHH_W
@@ -712,7 +720,13 @@ FL US98BusPen US98_W US98_E
 # Truck
 AL US98TrkMob US98Bro_E US98_E
 
+#. US 99
+# Historic
+CA US99HisFer RoxSt US6His_N
+
 #. US 101
+CA US101 3B 4B
+CA US101 8B 13
 CA US101 43 60
 
 #. US 113
@@ -932,9 +946,17 @@ AR AR16SFay AR16 AR112
 
 # California State Routes
 CA CA1 1A(10) 112
-CA CA14 I-5 35
+CA CA2 CenAve US101(7)
+CA CA2 US101(4B) SunBlvd
+CA CA14 I-5 37
+CA CA14U SieHwy_S FriValPkwy
 CA CA23 12 20
+CA CA47 1A I-710
+CA CA60 I-10(16B) 1A
+CA CA110 21 GleSt
 CA CA118 18 42A
+CA CA138 CA14(37) CA14(35)
+CA CA170 5 11B
 
 # Connecticut State Routes
 CT CT2 I-91 18
@@ -1586,8 +1608,9 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
+# 2/8/2026
+# California day 2 + 3
 # 2/7/2026
 # California day 1
 # 1/4/2026
 # MS, AL, NC
-
