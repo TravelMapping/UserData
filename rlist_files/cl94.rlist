@@ -136,7 +136,7 @@ NY R ForHil71Ave BayRid95St
 NY SPro FraAve ProPk
 NY W AstDitBlvd WhiStSFry
 
-NY BMR SpeEve Uni
+NY BMR DLW Uni
 NY HarLn GraCen NWhiPla
 NY HudLn GraCen Pou
 NY PortJefBra PennSta Nor
@@ -192,16 +192,20 @@ WV CassSceRR CassDep BaldKnob
 
 AUT S2Vor Fel AUT/LIE
 
+DEU-BW RE6a Stu Mos
+DEU-BW RB63 HerBerg TubHbf
 DEU-BW S1 HerBerg FeuSee
 DEU-BW U3 Vai Pli
 DEU-BW U6 StaBib MohBf
 DEU-BW U14 ChaPla Vai
 
+DEU-BY ICE25 NurnBergHbf MunHbf
+DEU-BY RE9 MunHbf AugHbf
+DEU-BY RE16 NurnBergHbf AugHbf
 DEU-BY S1 FlugHafMun LeuBergRing
 DEU-BY S2 Dac LeuBergRing
 DEU-BY S2Pet PetHau Dac
-DEU-BY S3 MamDorf OstBf
-DEU-BY S4 Pas Tru
+DEU-BY S4 DonBerBru Tru
 DEU-BY S7 SieWer Hbf
 DEU-BY S8 DonBerBru FlugHafMun
 DEU-BY S2Nur Roth NurnBergHbf
