@@ -1,3 +1,4 @@
+# 2-16-26 Hawaii
 # 2/9/26 Picnic
 # 1-20-26 Laredo. Double Check!
 # Christmas Houma Houston
@@ -1095,6 +1096,27 @@ GA GA520 AL/GA US19_S
 GA GA520BusAlb GA520_W US19
 GA HarTruPkwy US80 EHenSt
 GA LafHwy US27_S US27_N
+
+HI I-H1 1A AinAve
+HI I-H2 1 9
+HI I-H3 1A KanSta
+HI I-H201 1A I-H1
+HI CraRimDr NamPaioTr HI11
+HI HI11 HI19 HI19/190
+HI HI19 HI11/190 End
+HI HI51 HI58 RiceSt
+#Walked from Nawiliwili Park to Kaana St
+#HI HI72 H1 to Laukahi St
+HI HI78 HI99 I-H1/201
+HI HI80 I-H2 HI99
+HI HI83 HI99/930 KamHwy_W
+# to pvt rd north of Ashley Rd
+HI HI93 I-H1 LaaSt
+# HI HI93 Waiomea St to H1
+HI HI99 HI83/930 I-H1(15)
+HI HI200 MKAccRd HI2000
+HI HI2000 RaiAve KauDr
+HI HI8930 KapPkwy I-H1
 
 ID I-84 OR/ID ID/UT
 ID I-90 WA/ID ID/MT
@@ -3981,6 +4003,7 @@ NE LinHwy US30_Bru 8thSt_W
 
 
 IN LMCT IN912(8) I-65
+
 
 
 
