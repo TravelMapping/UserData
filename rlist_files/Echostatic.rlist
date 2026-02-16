@@ -5,6 +5,9 @@ IL BO UniSta IL/WI
 MN BO WI/MN StPaulUniDep
 WI BO IL/WI WI/MN
 
+#Deutsche Bahn
+DEU-BE ICE29 BerHbf DEU-BY ICE29 MunHbf
+
 #Heavy Rail
 
 #Chicago L
@@ -105,6 +108,3 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
-
-
-
