@@ -232,6 +232,7 @@ ITA-CAM 2Nap NapPiaCav Pom
 ## SHINKANSEN & LTD EXPRESS
 JPN SanyoShin ShinOsaka Hakata
 JPN TokaidoShin Tokyo ShinOsaka
+JPN HokurikuShin Tokyo Nagano
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
 JPN SuperHakutoLtd Himeji Tottori
@@ -259,7 +260,7 @@ JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
 JPN SenzanLn Sendai Yamagata
-JPN ShonanShinjukuLn JS21 JS07
+JPN ShonanShinjukuLn JS22 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAbikoLn Abiko Narita
 JPN NaritaAptLn JO28 JO37
@@ -435,6 +436,7 @@ JPN YurikamomeLn U01 U16
 JPN MinatoMiraiLn MM01 MM06
 JPN ShoMon SMR1 SMR8
 JPN EnodenLn EN01 EN15
+JPN NaganoLn N1 N24
 JPN AichiLoopLn 10 12
 JPN ArashiyamaTm A5 A13
 JPN OsaMon 11 19
@@ -499,8 +501,10 @@ SWE 3Got KunPla CenSta
 THA ARL A1 A8
 THA DarkRed RN01 RN08
 THA BlueLn BL31 BL11
-THA SilomLn CEN S6
-THA SukLn N10 E5
+THA PinkLn PK14 PK16
+THA SilLn CEN S7
+THA SukLn N17 E5
+THA GoldLn G1 G2
 
 #### TWN
 TWN HSR TPE TAY
