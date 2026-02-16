@@ -1,0 +1,98 @@
+# Rapid transit
+CA BARTRed Mil SanFraAir
+DC BluLn VA/DC CapS
+DC RedLn MetCen UniSta
+DC YelLn VA/DC Arc
+IL BlueLn OHa Cli
+IL BroLn Pau Loop
+IL GreLn ConCenPkDr Gar
+IL PinkLn Polk Loop
+IL PurLn How Lin
+IL RedLn Gar How
+IL SkoSwi DemSko How
+MA RedLn JFK Har
+MI DetPeoMov Mic_S Mic_N
+NJ PATCO PA/NJ Wes
+NY 1 116StColUni SouFry
+NY 4 42StGraCen BowGre
+NY 6 GraCen 86thSt
+NY C 81StMusNH 23St
+NY F 23rdSt JacHeiRooAve
+NY Q 96St 14StUniSq
+NY R 34StHerSq 14StUniSq
+NY S42 TimSq GraCen
+NY SIR StGeo OldTown
+OH RedLn Bro LitItaUniCir
+PA PATCO 8thMar PA/NJ
+VA BluLn VanDornSt VA/DC
+VA YelLn KingStOldTown VA/DC
+ENG BakLn OxfCir Wat
+ENG CenLn StPau Bank
+ENG DisLn KewGar TowHill
+ENG JubLn StJohWood Wes
+ENG NorLn KXSP Bank
+ENG NorLnBat TotCouRd Emb
+ENG PicLn LeiSqu KXSP
+
+# Light rail
+AZ A 44thStWas DorApaBlvd
+CA A Pico 7thStMetCen
+CA A LitTokArtsDis Lake
+CA B 7thStMetCen UniSta
+CA GreLn GasQua Sta
+CO ELn EmpFieMileHigh UniSta
+MA GreLnD Lon NorSta
+MN BlueLine MallofAmerica MSPTerminal1
+MN GreenLine TargetFieldPlatform2 UnionDepot
+MO MLBlueLn ShrLanI44 LacLan
+MO MLRedLn LamAirTer2 8thPine
+OH BlueLn TowCity WarVanAken
+OH GreLn TowCity GreRd
+TX RedLnHou FanS Pre
+
+# Streetcars
+FL TECO DickGrePla CenPark
+LA CanCem Bou CemTraTer
+LA CanCityPark HarCas MusArt
+LA StCha CanCar SCla
+LA Riv JulSt FreMar
+MI QLn GraBlvd ConSt
+MO KCSC UniSta RivMar
+OH Con Ban_E Ban_W
+OK DowLoop SciPark_W SciPark_E
+WI HopLLn His3rdWard CityHall
+WI HopMLn Int BurCom
+WI KenStr 11thAve54thSt_S 11thAve54thSt_N
+
+# Commuter rail
+CA CalTra CalAve SanFraKing
+CO ALn UniSta 40thAirGatPark
+IL UPN OgiTraCen IndHill
+IL UPNW OgiTraCen Woo
+IL UPW OgiTraCen GlenEll
+MA NewLn BosNor Sal
+MA ProLn RI/MA BosSou
+NJ NECorLn NY/NJ NewPenn
+NY NECorLn PennSta NY/NJ
+NY RonBra PennSta Wya
+PA PaoThoLn Hav Phi30thSt
+RI ProLn Pro RI/MA
+
+# Passenger rail
+DC NENor VA/DC WasUniSta
+IL NO Ky/IL UniSta
+KY NO TN/KY KY/IL
+LA NO NewOrl LA/MS
+MS NO LA/MS MS/TN
+TN NO MS/TN TN/KY
+VA NENor Fre VA/DC
+
+# Airports/Miscellaneous
+AZ PHX T4 44thSt
+CA AirTrnRed Ter1 GarG/BART_F
+CO DENTrn JepTer BGat
+IL AirTraSys Ter1 MulModFac
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV MBT ManBay ExcNor
+NY RIT Man RooIsl

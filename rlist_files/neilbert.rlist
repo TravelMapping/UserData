@@ -1,0 +1,43 @@
+MA WorLn Wor BosSou
+MA GreLnD Riv NorSta
+MA RedLnBra QuiAda Har
+MA BluLn Sta GovCen
+MA OraLn BackBay Sta
+
+CT NewHavLn NY/CT NHStaSt
+CT NewHavLnDan SNor Dan
+NY HudLn GraCen Pou
+NY NewHavLn GraCen NY/CT
+
+NY 1 66StLinCen 34StPennSta
+NY 3 BorHall 34StPennSta
+NY 4 14StUniSq BowGre
+NY F 42StBryPk 14thSt
+
+NY AirTrnJam Jam +DIV_Loop
+NY AirTrnJam T8 Loop
+
+NY PortJefBra Jam Min
+NY HemBra Jam Hem
+
+CA MuniL Waw Emb
+
+CA PowMas Cal Bay
+
+CT EssSteTrn Ess DeepRivLan
+
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+FL TerLink TerA/B TerC
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+
+
+DC YelLn VA/DC Arc
+VA YelLn CryCity VA/DC
+
+CHE R40MGB Tas Zer
+CHE R48MGB Zer Gor

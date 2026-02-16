@@ -1,0 +1,15 @@
+#!/bin/csh
+#
+# Script to call the gh command to merge a range
+# of user list file pull requests
+#
+if ( $#argv < 2 ) then
+  echo "Usage: $0 first last"
+  exit 0
+endif
+
+# loop over the range of pull request numbers
+foreach pr ( `seq $1 $2` )
+  gh pr merge -m $pr
+  sleep 2
+end

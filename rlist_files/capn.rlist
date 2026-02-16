@@ -1,0 +1,54 @@
+DC SM VA/DC DC/MD
+DC GreLn LEnfPla DC/MD
+DC OraLn VA/DC DC/MD
+DC RedLn MD/DC DC/MD
+
+FL SM Kis FL/GA
+FL GateLink TerA Air2
+
+GA SM FL/GA GA/SC
+
+MA BluLn Aqu Bow
+MA OraLn DowXing SulSq
+MA RedLn Ale DowXing
+
+MD NENor DC/MD BWIAir
+MD GreLn DC/MD Gre
+MD OraLn DC/MD NewCar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Whe
+
+NC SM SC/NC NC/VA
+
+NJ NENor Tre NJ/NY
+NJ NJerCoaLn NY/NJ SAmb
+NJ PATCO PA/NJ Bro
+NJ PATHNWT NewPenn NJ/NY
+NJ RivLn EntCen Tre
+
+NY NENor NJ/NY PennSta
+NY PATHNWT NJ/NY WTC
+NY NewHavLn GraCen Pel
+NY 1 137StCityCol SouFry
+NY 2 E180St FulSt
+NY 5 EasDyreAve BowGre
+NY 7 42StTimSq 42StGraCen
+NY A 145St ChaSt 
+NY E SutBlvdArcAve Lexave53St
+NY J ChaSt SutBlvdArcAve
+NY N 5Ave59St TimSq42St
+NY N 34StHerSq CanSt
+
+PA PA PitUni Phi30thSt
+PA ManNorLn Phi30thSt MainSt
+PA WilNewLn PennMed Phi30thSt
+PA MarFraLn 30th 5th
+PA MedWawLn Wawa Phi30thSt
+PA PaoThoLn Tho Phi30thSt
+PA PATCO 15th16thLoc PA/NJ
+PA StrRR Str LeaPl
+
+SC SM GA/SC SC/NC
+
+VA SM NC/VA VA/DC
+VA BluLn ArlCem VA/DC

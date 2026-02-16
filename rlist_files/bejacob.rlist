@@ -1,0 +1,269 @@
+#Amtrak
+CA CS UniSta WA CS SeaKingSt
+CA PS SanFeDep CA PS SanLuisObi
+DC FL WasUniSta FL FL Mia
+LA NO NewOrl IL NO UniSta
+OR AC Eug BC AC VanPacCen
+
+AK GlaDis Anc AK GlaDis +DIV_Por_C
+
+CA OraCouLn UniSta Oce
+CA SanBerLn UniSta PomN
+
+#CA LA Metro
+CA A Loop PomN
+CA B NHol UniSta
+CA C LAXMTC Nor
+CA D WilWes UniSta
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
+
+#CA BART
+CA BARTBlue DalyCity DubPle
+CA BARTGre DalyCity Ber
+CA BARTOra Ber Ric
+CA BARTRed Mil Ric
+CA BARTYel Mil PitTra
+CA eBART PitTra Ant
+
+#CA Cable Cars
+CA CalSt VanNess Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+
+#CA SF Muni
+CA MuniF 17thCas Bea
+CA MuniK BalPark Emb
+CA MuniL Waw Emb
+CA MuniN +DIV_JN 4thKing
+CA MuniT Sun ChiRosePark
+
+#San Diego Trolley
+CA BlueLn SanYsiTC UTCTC
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
+CA CopLn ElCaj SanTownCen
+
+#Sacranento RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+
+#VTA Light Rail
+CA VTABlue SanTer Bay
+CA VTAGre Win OldIro
+CA VTAOra DtnMouView Bay
+
+AZ A 44thStWas GilRdMainSt
+CO DurSilNGR Dur Sil
+FL TriRail MetTra MiaAir
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+FL TECO DowTam CenPark
+FL NBankLn JacRTC RosaPar
+FL SBankLn RosaPar KinAve
+
+#CTA
+IL BlueLn OHa Cli
+IL BroLn Chi Loop
+
+#NOLA RTA
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA Riv JulSt FreMar
+LA StCha CanCar SCla
+LA RamLoy UPT ElyFie
+
+#MBTA
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA GreLnD Cop UniSq
+MA GreLnE HeathSt Lec
+MA RedLnM Ash Mat
+
+MI DetPeoMov Mic_S Mic_N
+MI QLn GraBlvd ConSt
+MO MLRedLn LamAirTer1 LacLan
+NV LVM MGMGra SLS
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
+NY BMR SpeEve Uni
+NY NECorLn PennSta NJ NECorLn NewLibAir
+
+#NY Subway
+NY 1 110StCatPkwy SouFry
+NY 2 CenPkN FlaAveBroCol
+NY 3 CenPkN NewLotsAve
+NY 4 161StYanSta BowGre
+NY 5 59St BowGre
+NY 6 125thSt BroBriCityHall
+NY 7 34StHudYar JacHeiRooAve
+NY A 145St FarRocMottAve
+NY AOzo 145St RocBlvd
+NY B 145St BriBea
+NY C 145St EucAve
+NY D 145St ConIslStiAve
+NY E JamCenParArc WTC
+NY F BriVanWyckBlvd ConIslStiAve
+NY G HoytSchSts ChuAve
+NY J BroSt JamCenParArc
+NY L 8Ave 1Ave
+NY L BroJct CanRocPkwy
+NY M MyrAve ForHil71Ave
+NY N QuePlaza ConIslStiAve
+NY Q LexAve63St ConIslStiAve
+NY R ForHil71Ave 59St
+NY S42 TimSq GraCen
+NY SRoc BroCha RocParkBea116St
+NY SPro FraAve ProPk
+NY W QuePlaza WhiStSFry
+NY SIR StGeo OldTown
+
+OH RedLn Air StoWin
+
+#MAX
+OR RedLn PioSq PorIntAir
+OR BLp 11thMar_S 11thCou
+OR BLp GraHoyt 11thMar_N
+
+PA AirLn PHLTerB Phi30thSt
+PA BlueLn Gat StaSq
+PA RedLn Gat StaSq
+PA SilLn Gat StaSq
+PA Duq Low Upp
+PA Mon Low Upp
+
+#DART
+TX OraLn DFWAir CityPlaUpt
+TX RedLn Wes CityPlaUpt
+
+TX RedLnHou EnsHCC CenSta
+WA SeaCenMon SeaCen WesCen
+WA N Eve Sea
+WA S Sea TacDome
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
+WA T TacDome 4thSt
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
+
+#US Airpoirts Airside
+CA AutPeoMov CenTerB ConB
+CO DENTrn JepTer CGat
+FL TPAShu MainTer AirA
+FL TPAShuAiC MainTer AirC
+FL TPAShuAiE MainTer AirE
+FL TPAShuAiF MainTer AirF
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL GateLinkTBW TerB Air3
+GA PlaTrn DomTer FGatIntTer
+KY CVGTram MainTer ConB
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+NV GreLn Ter1 CGat
+NV BlueLn Ter1 DGat
+NV RedLn Ter3 DGat
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+VA AerTrn ConB ConCD
+WA GreLn DGat_Sta DGat_Fin
+WA BlueLn AGat_Sta AGat_Fin
+WA YelLn AGat DGat
+
+#US Airports Landside
+AZ PHX RenCarCen 44thSt
+CA OAKAir OakIntAir Col
+CA AirTrnRed GarG/BART_S GarG/BART_F
+CA AirTrnBlue LongTermPar Loop
+FL MiaM IntCen MIA
+FL SkyCon MainTer RenCarCen
+FL TerLink TerA/B TerC
+GA SkyTrn Air RenCarCen
+IL AirTraSys Ter1 MulModFac
+MN HubTram Ter1 HubBui
+NJ AirTrn NewLibAir TerA
+NY AirTrnHow HowBea Loop
+NY AirTrnJam Jam Loop
+TX IAHSub TerA TerD/E
+
+#Washington Metro
+DC GreLn Wat DC GreLn GalPla
+MD RedLn Roc DC RedLn UniSta
+VA BluLn KingStOldTown DC BluLn FedCenSW
+VA OraLn EFallsChu VA OraLn Cla
+VA OraLn Ros DC OraLn FedCenSW
+VA SilLn DulIntAir VA SilLn Cla
+VA SilLn Ros DC SilLn FedCenSW
+VA YelLn KingStOldTown DC YelLn GalPla
+
+PR TrenUrb SagCor Bay
+
+BC ExpoLn Wat MainStSciWor
+
+AUS-NSW CCN Cen Gos
+AUS-NSW SCO Cen Sut
+AUS-NSW MelXPT Cen NSW/VIC
+AUS-NSW T1 Ber Hor
+AUS-NSW T1 Cha Str
+AUS-NSW T2 Mus Str
+AUS-NSW T3 Mus Red
+AUS-NSW T4 BonJct Cro
+AUS-NSW T4Wat BonJct Lof
+AUS-NSW T8 TownHall Cen
+AUS-NSW T8Syd TownHall Syd
+AUS-NSW T9 Cha Hor
+AUS-VIC MelXPT NSW/VIC SouCro
+
+ENG LonPar LonStPanInt GBR/FRA
+ENG HEx LonPad HeaTer5
+ENG GatEx LonVic Bri
+ENG EliLn HayHar BondSt
+ENG EliLnHea HeaTer23 BondSt
+ENG EliLnShe HeaTer5 BondSt
+ENG LioLn Eus KilHighRd
+
+#London Underground
+ENG BakLn KilPark EleCas
+ENG CenLn MarArch Bank
+ENG CirLn EdgRd_1 Vic
+ENG CirLn Pad_2 EdgRd_2
+ENG HaCLn RoyOak SteGre
+ENG JubLn BakSt CanWha
+ENG NorLnBat Eus Wat
+ENG NorLn Eus EleCas
+ENG NorLnEdg MorCre Wat
+ENG PicLnHT4 HeaTer23 KXSP
+ENG VicLn KXSP Vic
+
+#Docklands Light Railway
+ENG DLR Bank CutSark
+ENG DLRRoy Sha Pop
+ENG DLRStr CanWha BowChu
+ENG DLRWoo Bank Pop
+
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF C ChaMarsTourEif StMicNotDame
+
+#Paris Metro
+FRA-IDF M1 LouRiv Cha
+FRA-IDF M4 GareNord Cha
+FRA-IDF M6 CdGEto BirHak
+FRA-IDF M9 StPhiRou StrStDen
+
+GRC 1Ath Pir Kif
+GRC 2Ath Ell Ant
+GRC 3Ath DimThe Aer
+GRC T6 Syn Pik
+GRC T7 LOOP AskVou
+
+SCT HMLEdi EdiWav Sti
+TUR T1Ist BeyKapCar Toph
+
+#Europe Airpoirts Airside
+ENG HT5Tra GatA1A23 GatC52C66
+ESP-MD APM T4 T4S

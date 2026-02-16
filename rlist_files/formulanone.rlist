@@ -1,0 +1,33 @@
+# Railways
+
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+
+LA StCha CanCar Was
+
+CA AirTrnBlue RenCarCen Loop
+FL MiaM IntCen MIA
+FL SkyCon MainTer RenCarCen
+FL TerLink TerA/B TerC
+GA SkyTrn Air RenCarCen
+NJ AirTrn NewLibAir TerA
+NY AirTrnHow FedCir  T4
+
+CA AutPeoMov CenTerB ConB
+CO DENTrn JepTer CGat
+FL GateLink TerA Air2
+FL GateLinkTAW TerA Air1
+FL GateLinkTBE TerB Air4
+FL TPAShuAiE MainTer AirE
+FL TPAShuAiF MainTer AirF
+GA PlaTrn DomTer FGatIntTer
+KY CVGTram MainTer ConB
+MI ExpTram SouSta NorSta
+MN MSPTram ConDE ConAB
+PA PITTrn LanTer AirTer
+TX IAHSky TerA TerDE
+TX Sky A8 A21
+VA AerTrn ConB ConCD
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin

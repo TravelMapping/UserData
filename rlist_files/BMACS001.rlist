@@ -1,0 +1,74 @@
+NY S42 TimSq GraCen
+NY 1 VanCorPk SouFry
+NY 2 34StPennSta GraArmyPla
+NY 3 34StPennSta GraArmyPla
+NY 4 FulSt +SKIP_GraArmyPla
+NY 4 Woo 42StGraCen
+NY 5 EasDyreAve BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A DycSt BroJct
+NY C 50St RalAve
+NY E JamCenParArc W4thSt
+NY F Jam179St KinHwy
+NY G CouSq HoytSchSts
+NY J BroSt GatAve
+NY J HalSt BroJct
+NY L 8Ave BusAveAbeSt
+NY M FluAve 34StHerSq
+NY N 34StHerSq ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R 34StHerSq BayRid95St
+NY W Bro WhiStSFry
+NY SPro FraAve ProPk
+
+NJ PATHH33 Hob NY PATHH33 33St
+NJ PATHHWT Hob NY PATHHWT WTC
+NJ PATHNWT NewPenn NY PATHNWT WTC
+NJ PATHH33 Hob NY PATHH33 33St
+NJ NLRBSE PennSta NJ NLRBSE BroadStSta
+NJ HBLR8HT 8thSt HobTer
+NJ HBLRWST WestSideAve TonAve
+NJ NLRCS PennSta GroSt
+NJ RivLn EntCen Tre
+PA PATCO 15th16thLoc NJ PATCO Lin
+PA MarFraLn 34th 15th
+
+FL ExpMon TraTicCen_1 TraTicCen_2
+NY NewHavLn GraCen NY NewHavLn NewRoc
+PA AtlCityLn Phi30thSt NJ AtlCityLn AtlCity
+NJ BerCouLn Hob NY BerCouLn Suf
+NJ GlaBra Sum Gla
+NJ MainLn Hob NY MainLn Suf
+NJ MonBooLn NY/NJ SecJct
+NJ MonBooLn NewBroSt Hac
+NJ MorEssLn NY/NJ Hac
+NY NECorLn PennSta NJ NECorLn Tre
+NJ NECorLnPri PriJct Pri
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ PasVlyLn Hob NY PasVlyLn SprVly
+NJ RarVlyLn NewPenn HighBri
+
+DC GreLn Arc MD GreLn ColPk
+DC GreLn NavyYardBal LEnfPla
+DC BluLn Smi LEnfPla
+VA SilLn Cla DC SilLn McPSq
+MA GreLnE Pru NorSta
+
+DEU-BY S2 Dac MarPla
+DEU-BY S8 IsarTor FlugHafMun
+DEU-BY U3 OlyZen DEU-BY U3 OdePla
+DEU-BY U4 SchThaHohe DEU-BY U4 PriRegPla
+DEU-BY U5 HeiPla DEU-BY U5 MaxWebPla
+DEU-BY 16Mun MarPla HerPla
+DEU-BY 17Mun AmaBurgStr IsarTor
+DEU-BY 17Mun FriEngVilStu HerPla
+DEU-BY 19Mun NatThe MaxWebPla
+DEU-BY 21Mun NatThe MaxWebPla
+(north line to Rosenberg, then Salzburg)
+(ICE to Berlin Hbf)
+DEU-BE S2 FriStr AnhBf
+DEU-BE S3 ZooGar FriStr
+DEU-BE S5 AlePla WarStr
+DEU-BE U2 MenBatPark StaMit
+DEU-BE U5 UntLin AlePla
+(plus DB Hbh to Potsdamer, Obh to Dbh)

@@ -1,0 +1,100 @@
+	#leshii_Rail
+	
+	#Amtrak
+VA NENor +DIV_Ric VA/DC
+DC NENor VA/DC DC/MD
+MD NENor DC/MD MD/DE
+DE NENor MD/DE DE/PA
+PA NENor DE/PA PA/NJ
+NJ NENor PA/NJ NJ/NY
+NY NENor NJ/NY NY/CT
+CT NENor NY/CT NHUniSta
+
+	#Aiports
+CO DENTrn JepTer CGat
+FL TPAShuAiE MainTer AirE
+GA PlaTrn DomTer EGat
+MN MSPTram ConDE ConAB
+TX Sky A8 A21
+TX IAHSky TerA TerDE
+VA AerTrn ConB ConCD
+WA GreLn DGat_Sta DGat_Fin
+
+	#Charlotte
+NC BluLn I-485 9thSt
+
+	#Chicago
+IL BlueLn OHa Was
+IL PurLn How Noy
+IL RedLn Sox35th How
+
+	#DC_WMATA
+VA BluLn FraSpr MD BluLn DowLar
+VA YelLn +DIV_Blue_S DC YelLn GalPla
+VA OraLn +DIV_Sil DC OraLn StaArm
+VA SilLn TysCor MD BluLn DowLar
+DC RedLn MetCen GalPla
+DC GreLn +DIV_Yel GalPla
+
+	#Denver
+CO DLn ColAur Loop
+CO HLn ColAur Loop
+CO LLn 30thDow Loop
+
+	#LasVegas
+NV LVM MGMGra Har/Linq
+NV MBT ManBay ExcNor
+
+	#Minneapolis
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN GreenLine TargetFieldPlatform2 SnellingAve
+
+	#Montreal
+QC GreLn PlaDesArt PieIX
+QC OraLn PlaDArm BerUQAM
+
+	#NewOrleans
+LA CanCem HarCas +DIV_Loy
+LA UPTRiv UPT FreMar
+LA CanCityPark HarCas MusArt
+LA StCha CanCar SCla
+
+	#NewYork_MTA
+NY 7 34StHudYar FluMainSt
+NY A 14St +SKIP_WTC
+NY L 8Ave LorSt
+
+	#OKCity
+OK DowLoop SciPark_W SciPark_E
+OK BriLoop SciPark_N SciPark_S
+
+	#Pittsburgh
+PA BlueLn NorSide StePla
+PA SilLn NorSide StePla
+PA RedLn NorSide StePla
+
+
+
+	#Portland
+OR RedLn ProPark PorIntAir
+OR BlueLn ProPark Gat99thAve
+OR GreLn PSUSou Gat99thAve
+OR YelLn PSUSouCol PreSt
+OR NSLn 5thMon +DIV_Lov_N
+
+	#SaltLakeCity
+UT GreLn WestValCen Air
+UT BlueLn DraTownCen SaltLakeCen
+UT RedLn DayPkwy UniMedCen
+UT FroRun ProCen Ogd
+UT SLn CenPoi Fai
+
+	#SanJose
+CA VTAGre Race MetAir
+CA VTABlue +DIV_BLU/GRE MetAir
+
+
+
+
+
+

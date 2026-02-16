@@ -1,0 +1,944 @@
+# 02/09/2025
+# v73
+# Add new AZ Us 66 historic Parks to keep AZ at 100%	Traveled in 1959
+
+
+# Arizona Interstate Highways
+# 1169 miles
+AZ I-8 CA/AZ 178                         # 178
+AZ I-10 CA/AZ AZ/NM                      # 392
+AZ I-15 NV/AZ AZ/UT                      #  29 on T3 vs 30
+AZ I-17 194 341                          # 146
+AZ I-19 I-19BL 101                       #  45
+AZ I-40 CA/AZ AZ/NM                      # 359 vs 360
+
+# Arizona Business Interstate Highways
+AZ I-8BLYum CA/AZ I-8_E
+AZ I-8BLGil I-8_W I-8_E
+AZ I-10BLQua I-10_W I-10_E
+AZ I-10BLBen I-10_W I-10_E
+AZ I-10BLWil I-10_W I-10_E
+AZ I-10BLBow I-10_W I-10_E
+AZ I-10BLSan I-10_W I-10_E
+AZ I-19BLNog MEX/USA I-19_N
+AZ I-40BLSel I-40_W I-40_E
+AZ I-40BLAsh I-40_W I-40_E
+AZ I-40BLFla I-40_W I-40_E
+AZ I-40BLWin I-40_W I-40_E
+AZ I-40BSWin I-40BL WinIndSpr
+AZ I-40BLJos I-40_W I-40_E
+AZ I-40BLHol I-40_W I-40_E
+AZ I-40BLWil I-40_W I-40_E
+
+# Arizona US Highways
+AZ US60 I-10(31) AZ/NM
+AZ US64 US160 AZ/NM
+AZ US70 US60 AZ/NM
+AZ US89 I-40BL/180 AZ/UT
+AZ US93 US60 AZ/NV
+AZ US95 MEX/USA AZ/CA
+AZ US160 US89 AZ/NM
+AZ US163 US160 AZ/UT
+AZ US180 GraCynNP AZ/NM
+AZ US191 AZ80 AZ/UT
+
+# Arizona Future Interstate Highways
+AZ I-11FutKin 71(40) 48(40)
+AZ I-11FutHoo 2 AZ/NV
+
+# Arizona Select Named Freeways
+AZ NorPkwy AZ303 NorAve
+AZ SkyHarBlvd I-10 AZ202
+
+# Arizona Auxiliary Numbered Highways
+AZ US89AltFre US89 AZ/UT
+AZ US191BusDou MEX/USA AZ80
+
+# Arizona State Highways
+AZ AZ24 AZ202 IroRd
+AZ AZ51 I-10 15
+AZ AZ61 US60 AZ/NM
+AZ AZ64 I-40 US89
+AZ AZ66 I-40 Coc/Yav
+AZ AZ67 US89Alt BriAngPt
+AZ AZ68 AZ95 US93
+AZ AZ69 I-17 AZ89
+AZ AZ71 US60 AZ89
+AZ AZ72 AZ95 US60
+AZ AZ73 US60/77 AZ260
+AZ AZ74 US60 I-17
+AZ AZ75 US70 US191/78
+AZ AZ77 I-10 End
+AZ AZ78 US191/75 AZ/NM
+AZ AZ79 AZ77 US60
+AZ AZ79BusFlo AZ79_S AZ79_N
+AZ AZ80 I-10BL AZ/NM
+AZ AZ82 I-19BL AZ80
+AZ AZ83 ParCanRd I-10
+AZ AZ84 I-8 AZ287/387
+AZ AZ85 MEX/USA I-10
+AZ AZ86 AZ85 16thAve
+AZ AZ87 PhiRd AZ264
+AZ AZ88 US60 AZ188
+AZ AZ89 US93 I-40
+AZ AZ89A 317 I-40BL
+AZ AZ90 AZ80 I-10
+AZ AZ92 AZ90 AZ80
+AZ AZ95 I-10BL/95 I-40
+AZ AZ95Bul CA/AZ AZ/NV
+AZ AZ95SPaD AZ95 TakPoiRd
+AZ AZ95SPar CA/AZ AZ95
+AZ AZ96 BruMineRd End
+AZ AZ97 US93 AZ96
+AZ AZ98 US89 US160
+AZ AZ99 End BIA15
+AZ AZ101 1 61B
+AZ AZ143 BroRd McDRd
+AZ AZ169 AZ69 I-17
+AZ AZ177 AZ77 US60
+AZ AZ179 I-17 AZ89A
+AZ AZ180A AZ61 US180
+AZ AZ181 US191 PinCanRd
+AZ AZ186 I-10 AZ181
+AZ AZ187 AZ387 AZ87
+AZ AZ188 US60 AZ87
+AZ AZ189 MEX/USA I-19BL
+AZ AZ195 AveE I-8
+AZ AZ202 1A 78
+AZ AZ210 BroBlvd GolfLinRd
+AZ AZ238 End AZ347
+AZ AZ260 AZ89A US180/191
+AZ AZ261 AZ260 AZ273
+AZ AZ264 US160 AZ/NM
+AZ AZ266 FortGraRd_S US191
+AZ AZ266SprFtG AZ266 FtGra
+AZ AZ273 BigLakeRd AZ260
+AZ AZ277 AZ260 AZ77
+AZ AZ277S AZ277 End
+AZ AZ286 MEX/USA AZ86
+AZ AZ287 I-10 AZ79
+AZ AZ288 AZ88 ChaTr
+AZ AZ289 End I-19
+AZ AZ303 CanTraBlvd I-17
+AZ AZ347 AZ84 I-10
+AZ AZ366 BibCampRd US191
+AZ AZ373 AZ260 End
+AZ AZ377 AZ277 AZ77
+AZ AZ386 AZ86 KittPeakObs
+AZ AZ387 AZ84 AZ87
+AZ AZ389 UT/AZ US89Alt
+AZ AZ473 AZ260 HawLake
+AZ AZ564 US160 NavNatMon
+AZ AZ587 I-10 AZ87
+
+# Arizona Select National Park Highways
+AZ BonCanRd PinCanRd MasPt          # Chiricahua NM
+AZ LoopRd US89_S US89_N             # Sunset Crater & Wupatki NM - Loop Road 2020
+AZ MonCanRd AZ83 AZ92               # Coronado NMCA I-5 MEX/USA CA/OR
+AZ PetForRd US180 I-40              # Petrified Forest NM
+AZ WalCanRd I-40 VisCen             # Walnut Canyon NM
+
+# Arizona US Historic Highways
+AZ US60HisMes May SosRd
+AZ US66HisAsh I-40(144) I-40(146)
+AZ US66HisFla I-40(191) I-40(204)
+AZ US66HisHol I-40(285) I-40(289)
+AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisKin I-40(1) I-40(139)
+AZ US66HisLup I-40(359) AZ/NM
+AZ US66HisPar PonRd GarPraRd
+AZ US66HisWil I-40(161) I-40(165)
+AZ US66HisWin I-40(252) I-40(257)
+AZ US80HisDou I-10(303) AZ/NM
+AZ US80HisFlo US60 AZ77_S
+AZ US80HisPan I-10(281) I-10(291)
+AZ US80HisWel 21 54
+AZ US89AHisCla AZ89A_S AZ89A_N
+
+# Hawaii 
+# 55 miles
+HI I-H1 1A AinAve              # 27
+HI I-H2 1 9                    #  8     
+HI I-H3 1A KanSta              # 15 on T3 vs 16
+HI I-H201 1A I-H1              #  4 vs 3 
+
+# Alaska
+# 1082 miles: 880 on 202 not on
+AK I-A1 5thAve_W AK2           #316+
+#AK I-A1 AK2 AK/YT              # 92=408 Tok to Yukon line NOT ON
+AK I-A2 AK1 AK3                #202
+AK I-A3 KenSpurHwy 5thAve      #148
+AK I-A4 AK1 HeaSpurRd          #214+
+#AK I-A4 HeaSpurRd AK2          #110=324 Healy to Fairbanks NOT ON
+
+# Washington
+# 764 miles
+WA I-5 OR/WA WA/Can            #277
+WA I-82 I-90 WA/OR             #133
+WA I-90 WA519 WA/ID            #297
+WA I-182 I-82 14               # 15
+WA I-205 OR/WA I-5             # 11
+WA I-405 I-5(154) I-5(182)     # 30
+WA I-705 I-5 StaWay            #  1
+
+# Oregon
+# 727 miles
+OR I-5 CA/OR OR/WA             #308
+OR I-82 WA/OR 11               # 11
+OR I-84 I-5 OR/ID              #375
+OR I-105 OR99/126 4            #  3
+OR I-205 I-5 OR/WA             # 26
+OR I-405 I-5(299B) I-5(302B)   #  4
+
+# Idaho
+# 612 miles
+ID I-15 UT/ID ID/MT            #196
+ID I-84 OR/ID ID/UT            #276
+ID I-86 1 63                   # 63
+ID I-90 WA/ID ID/MT            # 73
+ID I-184 0 US20/26             #  4
+
+# Montana
+# 1191 miles
+MT I-15 ID/MT USA/CAN          #396
+MT I-90 ID/MT MT/WY            #544 overlap I-15
+MT I-94 0 MT/ND                #249
+MT I-115 I-15/90 ClaSt         #  1
+MT I-315 I-15 US87Byp          #  1
+
+# Wyoming
+# 914 miles                  
+WY I-25 CO/WY 300              #306 vs 301
+WY I-80 UT/WY WY/NE            #406 vs 403
+WY I-90 MT/WY WY/SD            #210 vs 209
+WY I-180 I-80 I-80BL/30        #  1
+
+# California
+# 2455 miles (Table 3 2456) diff -1: I-105 1, I-110 1, I-210 -4, I-680 1, I-710 2,
+#                                    overall -2
+CA I-5 MEX/USA CA/OR           #797
+CA I-5TrkNew I-5_S I-5_N       #  0
+CA I-8 SunCliBlvd CA/AZ        #170
+CA I-10 1 CA/AZ                #241 overlap I-5
+CA I-15 6B CA/NV               #287
+CA I-40 I-15 CA/AZ             #155
+CA I-80 1A CA/NV               #199
+CA I-105 1A StuRd              # 18 vs 17=1
+CA I-110 GafSt 21              # 21 vs 20=1
+CA I-205 I-580 I-5             # 13
+CA I-210 1A 45                 # 45 vs 49=-4 
+CA I-215 I-15 54B              # 55
+CA I-238 14 17                 #  2
+CA I-280 I-680/101 5thSt       # 57
+CA I-305 1A 6                  #  6
+CA I-380 5A 7                  #  3
+CA I-405 I-5(94A) I-5(158)     # 72
+CA I-505 1A I-5                # 33
+CA I-580 1A I-5                # 76
+CA I-605 CA22 HunDr            # 28
+CA I-680 I-280/101 71          # 71 vs 70=1
+CA I-710 1 ValBlvd             # 22 vs 20=2
+CA I-780 LemSt 7               #  7
+CA I-805 I-5(1A) I-5(31)       # 28
+CA I-880 I-280 46B             # 47
+CA I-980 I-880 2B              #  2
+
+# Nevada
+# 639 miles  (Table 3 624) diff 15: I-11 35, I-515 deactivated -20
+NV I-11 AZ/NV 96               # 58 vs 23=15
+NV I-15 CA/NV NV/AZ            #124
+NV I-80 CA/NV NV/UT            #411
+NV I-215 1 12                  # 11
+#NV I-515 deactivated          #  0 vs 20=-20
+NV I-580 US50/395 68           # 35
+
+# Utah
+# 938 miles
+UT I-15 AZ/UT UT/ID            #407 vs 401
+UT I-70 0 UT/CO                #232
+UT I-80 NV/UT UT/WY            #199 vs 193
+UT I-84 ID/UT 120              #120 vs 83 overlap I-15
+UT I-215 I-80 I-15             # 29
+
+# Colorado
+# 952 miles
+CO I-25 NM/CO CO/WY            #303 vs 299
+CO I-70 UT/CO CO/KS            #449 vs 450
+CO I-76 1A CO/NE               #187 vs 185
+CO I-225 1 12                  # 12
+CO I-270 0 I-70                #  6 vs 7
+
+# New Mexico
+# 1000 miles
+NM I-10 AZ/NM NM/TX            #167 vs 164
+NM I-25 I-10 NM/CO             #468 vs 462
+NM I-40 AZ/NM NM/TX            #378 vs 374
+
+# North Dakota
+# 571 miles
+ND I-29 SD/ND USA/CAN          #221 vs 218
+ND I-94 MT/ND ND/MN            #357 vs 352
+ND I-194 I-94 I-94BL           #  1
+
+# South Dakota
+# 678 miles
+SD I-29 IA/SD SD/ND            #256 vs 252
+SD I-90 WY/SD SD/MN            #418 vs 413
+SD I-190 SD44 1A               #  1 vs 2
+SD I-229 1A 10                 # 11
+
+# Minnesota
+# 913 miles
+MN I-35 127 259                #134+
+MN I-35Far IA/MN 88A           # 89=220
+MN I-35E 88A 127               # 40 vs 39
+MN I-35W I-35(88) I-35(127)    # 42
+MN I-90 SD/MN MN/WI            #279 vs 276
+MN I-94 ND/MN MN/WI            #263 vs 259
+MN I-394 1A WasAve             # 10
+MN I-494 58A 27                # 43
+MN I-535 WI/MN I-35            #  2
+MN I-694 27 58                 # 31 vs 22 overlap I-35, I-94
+
+# Nebraska
+# 482 miles
+NE I-76 CO/NE I-80             #  3
+NE I-80 WY/NE NE/IA            #462 vs 456
+NE I-129 1 NE/IA               #  3
+NE I-180 I-80 9thSt            #  3
+NE I-480 I-80 NE/IA            #  4
+NE I-680 I-80 NE/IA            # 13
+
+# Iowa
+# 781 miles
+IA I-29 MO/IA IA/SD            #154 vs 152 overlap I-80
+IA I-35 MO/IA IA/MN            #222 vs 218
+IA I-74 I-80 IA/IL             #  5
+IA I-80 NE/IA IA/IL            #311 vs 289 overlap I-35
+IA I-129 NE/IA 1               #  0
+IA I-235 I-80(123) I-80(137)   # 14
+IA I-280 I-80 IA/IL            # 10 vs 9
+IA I-380 0 MitAve              # 74 vs 73
+IA I-480 NE/IA I-29            #  1
+IA I-680 NE/IA 3               #  3
+IA I-880 0 16                  # 17
+
+# Kansas
+# 874 miles
+KS I-35 OK/KS KS/MO            #238 vs 235
+KS I-70 CO/KS KS/MO            #430 vs 424
+KS I-135 I-35 95               # 97 vs 96
+KS I-235 1A 16                 # 16
+KS I-335 127 177               # 51 vs 50
+KS I-435 MO/KS KS/MO           # 28
+KS I-470 1A 183(KT)            # 13 vs 14
+KS I-635 1A KS/MO              #  9
+KS I-670 I-70 KS/MO            #  2
+
+# Missouri
+# 1386 miles
+MO I-29 2H(35) MO/IA           #130 vs 125 overlap I-35
+MO I-35 KS/MO MO/IA            #116 vs 114 overlap I-70
+MO I-44 OK/MO I-70             #292 vs 293
+MO I-49 AR/MO I-435            #181 vs 179
+MO I-55 AR/MO MO/IL            #213 vs 209
+MO I-57 1 MO/IL                # 22
+MO I-64 1 MO/IL                # 41 vs 40
+MO I-70 KS/MO MO/IL            #252 vs 250
+MO I-72 US61 MO/IL             #  2
+MO I-155 1 MO/TN               # 11
+MO I-170 1A 10                 # 11
+MO I-229 1A 14                 # 15
+MO I-255 1A MO/IL              #  4
+MO I-270 1 MO/IL               # 36
+MO I-435 KS/MO MO/KS           # 55 vs 53
+MO I-470 I-435 16B             # 17
+MO I-635 KS/MO 12              #  4
+MO I-670 KS/MO 2N              #  2 vs 1
+
+# Oklahoma
+# 930 miles (Table 3 980) diff 50: I-335 19, I-344 31
+OK I-35 TX/OK OK/KS            #240 vs 236
+OK I-40 TX/OK OK/AR            #335 vs 330 overlap I-35
+OK I-44 TX/OK OK/MO            #335 vs 324 overlap I-35
+OK I-235 1A 4B                 #  5
+OK I-240 1A I-40               # 17 vs 16
+OK I-244 1A I-44               # 16
+OK I-335 130 149               # 19
+OK I-344 OK152 I-35/44         # 31
+OK I-444 I-244_W I-244_E       #  2 vs 3
+OK OK152 I-344 I-44            # may become I-240 at some point, 4 
+
+# Arkansas
+# 750 miles (Table 3 745) diff 5: I-49 5
+AR I-30 TX/AR 143              #145 vs 143
+AR I-40 OK/AR AR/TN            #287 vs 285
+AR I-49 20 AR/MO               # 72+    vs 73+
+AR I-49Tex LA/AR AR/TX         # 42=114 vs 42=115 5 new miles not on Table 3=110
+AR I-55 TN/AR AR/MO            # 74 vs 70 2 overlap I-40
+AR I-430 I-30 13               # 13
+AR I-440 I-30/530 11           # 10
+AR I-530 1 46                  # 47 vs 44
+AR I-540 1 14                  # 14
+AR I-555 1 49                  # 49 vs 45
+AR I-630 1 8                   #  8 vs 7
+
+# Texas
+# 3471 miles (Table 3 3504) diff -33: I-69 -33
+TX I-2 130 176                 # 47
+TX I-10 NM/TX TX/LA            #879 2 overlap I-35
+TX I-14 US190BusCop I-35       # 25
+TX I-20 I-10 TX/LA             #636
+TX I-27 1A 123B                #124
+TX I-30 I-20 TX/AR             #224
+TX I-35 HidSt 370B             #378+
+TX I-35Gai 467 TX/OK           # 37=415 vs 407
+TX I-35E 370B 467              # 98 vs 97
+TX I-35W I-35(370B) 85         # 87 vs 85
+TX I-37 US181 142              #146 vs 143
+TX I-40 NM/TX TX/OK            #179 vs 177
+TX I-44 1 TX/OK                # 15
+TX I-45 1A 284A                #285
+TX I-69 TXSpr10 167            # 77 (-33, Table 3 has 110)
+TX I-69C 1 FM490               # 18
+TX I-69E PolkSt 56             # 52 vs 54+
+TX I-69ERob FM2826 I-37        # 10 vs 7=61
+TX I-69W WorTraBri I-35        #  2 vs 1
+TX I-110 MEX/USA I-10          #  1
+TX I-169 I-69E FM1847          #  3 vs 1
+TX I-345 284A 286              #  2 vs 1 Unsigned
+TX I-369 TXLp151 I-30          #  4
+TX I-410 I-35(145A) 53         # 53 vs 50 think T3 is slightly short
+TX I-610 TX288 38              # 38
+TX I-635 1C 36                 # 37
+TX I-820 1A 34                 # 35 
+
+# Louisiana
+# 938 miles (Table 3 934) diff 4: I-49 4
+LA I-10 TX/LA LA/MS            #279 vs 274
+LA I-12 1A 85                  # 87 vs 86
+LA I-20 TX/LA LA/MS            #192 vs 190
+LA I-49 1A 206                 #210+    vs 206+
+LA I-49Bel 210 LA/AR           # 37=247 vs  37=243 Table 3 239 4 miles added 2019
+LA I-55 I-10 LA/MS             # 67 vs 66
+LA I-59 I-10/12 LA/MS          # 12 vs 11
+LA I-110 I-10 8A               #  9
+LA I-210 1 12                  # 12
+LA I-220 1B 17B                # 18
+LA I-310 1 US90                # 12 vs 11
+LA I-510 1A LA47_S             #  3
+LA I-610 1A I-10_E             #  4
+LA I-910 US90Bus_W I-10        # 10
+
+# Mississippi
+# 831 miles
+MS I-10 LA/MS MS/AL            # 78 vs 77
+MS I-20 LA/MS MS/AL            #156 vs 129 overlap I-55/59
+MS I-22 12 MS/AL               #107 vs 106
+MS I-55 LA/MS MS/TN            #296 vs 290
+MS I-59 LA/MS MS/AL            #174 vs 172
+MS I-69 MS713 MS/TN            # 24 vs 15 overlap I-55
+MS I-110 1A 4                  #  4
+MS I-220 1A I-55               # 12
+MS I-269 1 MS/TN               # 26
+
+# Wisconsin
+# 875 miles (Table 3 742)  diff 133: I-41 133
+WI I-39 IL/WI 187              #184 vs 183
+WI I-41 IL/WI 171              #177 vs 132 overlap I-94, I-894, I-43
+WI I-43 1 192                  #193 vs 192
+WI I-90 MN/WI WI/IL            #190 vs 109 overlap I-39
+WI I-94 MN/WI WI/IL            #352 vs 249 overlap I-90, I-39
+WI I-535 5thSt WI/MN           #  1
+WI I-794 1A 3                  #  4
+WI I-894 1A 10                 # 10 vs 5 overlap I-43
+
+# Michigan
+# 1241 miles
+MI I-69 IN/MI MI/Can           #204 vs 193 overlap I-96, I-94
+MI I-75 OH/MI MI/Can           #399 vs 396
+MI I-94 IN/MI MI/Can           #278 vs 276
+MI I-96 1A I-75                #194 vs 192
+MI I-194 1 HamAve              #  3
+MI I-196 I-94 I-96             # 81
+MI I-275 I-75 165(96)          # 36 vs 30 overlap I-96
+MI I-296 86 I-96               #  3
+MI I-375 I-75 BeaSt            #  1
+MI I-475 I-75(111) I-75(125)   # 17
+MI I-496 I-96(95) I-96(106)    # 12
+MI I-675 I-75(150) I-75(155)   #  8
+MI I-696 I-96 28               # 29
+
+# Illinois
+# 2203 miles
+IL I-24 I-57 IL/KY             # 39
+IL I-39 I-55 IL/WI             #142 vs 123 overlap 90
+IL I-41 WI/IL 1B               #  1 vs 0 all overlap
+IL I-55 MO/IL US41             #298 vs 294
+IL I-57 MO/IL 359              #363 vs 359
+IL I-64 MO/IL IL/IN            #132 vs 124 overlap
+IL I-70 MO/IL IL/IN            #161 vs 157
+IL I-72 MO/IL 182              #184 vs 177
+IL I-74 IA/IL IL/IN            #222 vs 214 overlap I-55
+IL I-80 IA/IL IL/IN            #165 vs 164
+IL I-88 1 I-290                #142 vs 141
+IL I-90 WI/IL IL/IN            #109
+IL I-94 WI/IL IL/IN            # 78 vs 59
+IL I-155 0 I-74                # 32
+IL I-172 0 19                  # 19 vs 20
+IL I-180 IL26_S I-80           # 13
+IL I-190 I-90 ChiOHAir         #  3
+IL I-255 MO/IL 31              # 27
+IL I-270 MO/IL 15              # 15
+IL I-280 IA/IL I-80            # 18 vs 8 overlap 74
+IL I-290 I-90 30               # 30
+IL I-294 I-94_E I-94_W         # 53 vs 48 overlap
+IL I-355 0 I-290               # 32
+IL I-474 0 15                  # 14 vs 15
+
+# Indiana
+# 1313 miles (Table 3 1307) diff 6, I-164 -21, I-69 27
+IN I-64 IL/IN IN/KY            #123
+IN I-65 KY/IN US12/20          #261
+IN I-69 KenAve IN/MI           #321 Table 3 294
+IN I-70 IL/IN IN/OH            #158 vs 155
+IN I-74 IL/IN IN/OH            #174 vs 151 overlap
+IN I-80 IL/IN IN/OH            #153 vs 152
+IN I-90 IL/IN IN/OH            #158 vs 21 overlap
+IN I-94 IL/IN IN/MI            # 46 vs 30 overlap
+#IN I-164 deleted              #  0 (Table 3 21)
+IN I-265 0 7                   #  7
+IN I-275 KY/IN IN/OH           #  3
+IN I-465 I-65 53               # 53
+IN I-469 0 31                  # 31
+IN I-865 I-65 I-465            #  4 vs 5
+
+# Ohio
+# 1572 miles
+OH I-70 IN/OH OH/WV            #228 vs 226
+OH I-71 KY/OH I-90             #251 vs 246 2 mi overlap
+OH I-74 IN/OH I-75             # 19
+OH I-75 KY/OH OH/MI            #213 vs 211
+OH I-76 1 OH/PA                # 82
+OH I-77 WV/OH I-90             #164 vs 160
+OH I-80 IN/OH OH/PA            #240 vs 237
+OH I-90 IN/OH OH/PA            #247 vs 102 overlap 80
+OH I-270 I-71 55               # 55
+OH I-271 1 I-90                # 40
+OH I-275 IN/OH OH/KY           # 56 vs 53 overlap 74
+OH I-277 1 4                   #  4
+OH I-280 1A I-75               # 13 vs 12
+OH I-470 I-70 OH/WV            #  6 vs 7
+OH I-471 KY/OH I-71            #  1
+OH I-475 I-75 20               # 20
+OH I-480 I-80_W I-80_E         # 42+ 
+OH I-480War I-480 I-271        #  1=43 vs 42
+OH I-490 1A 55thSt             #  2
+OH I-670 I-70 10               # 10 vs 9
+OH I-675 I-75 26               # 26 vs 27
+OH I-680 1 I-76                # 17 vs 16
+
+# Maine
+# 367 miles
+ME I-95 NH/ME USA/CAN          #307 vs 299
+ME I-195 I-95 ME5              #  2
+ME I-295 I-95(44) I-95(103)    # 53 vs 11 (think Table 3 wrong)
+ME I-395 US2 6                 #  5
+ME I-495 I-95 I-295            #  4 vs 50
+
+# New Hampshire
+# 225 miles
+NH I-89 I-93 NH/VT             # 61
+NH I-93 MA/NH NH/VT            #132
+NH I-95 MA/NH NH/ME            # 16
+NH I-293 I-93_S I-93_N         # 11
+NH I-393 I-93 NH9              #  4 vs 5
+
+# Vermont
+# 320 miles
+VT I-89 NH/VT VT/Can           #130
+VT I-91 MA/VT VT/Can           #177
+VT I-93 NH/VT I-91             # 11
+VT I-189 I-89 US7              #  1 vs 2
+
+# Massachusetts
+# 566 miles
+MA I-84 CT/MA I-90             #  8
+MA I-90 NY/MA MA1A             #139 vs 136
+MA I-91 CT/MA MA/VT            # 55
+MA I-93 1 MA/NH                # 46 vs 47
+MA I-95 RI/MA MA/NH            # 91 vs 92
+MA I-190 I-290 8               # 19
+MA I-195 RI/MA 40              # 40 vs 41
+MA I-290 12 32                 # 20
+MA I-291 1 I-90                #  5
+MA I-295 RI/MA 4               #  4
+MA I-391 1 6                   #  5
+MA I-395 CT/MA 12              # 12
+MA I-495 1 I-95                #121 vs 122
+
+# Rhode Island
+# 69 miles
+RI I-95 CT/RI RI/MA            # 42
+RI I-195 1 RI/MA               #  4
+RI I-295 I-95 RI/MA            # 23
+
+# Connecticut
+# 346 miles
+CT I-84 NY/CT CT/MA            # 98
+CT I-91 1 CT/MA                # 58
+CT I-95 NY/CT CT/RI            #112
+CT I-291 1 6                   #  6
+CT I-384 I-84 US6/44           #  8
+CT I-395 I-95 CT/MA            # 55
+CT I-684 NY/CT CT/NY           #  1
+CT I-691 1 11                  #  8
+
+# New York
+# 1761 miles vs 1730 Table 3: I-86Owe 31 miles
+NY I-78 NJ/NY HudSt            #  1
+NY I-81 PA/NY USA/CAN          #184
+NY I-84 PA/NY NY/CT            # 72
+NY I-86 PA/NY NY/PA            #206
+NY I-86Owe PA/NY 67            # 31
+NY I-86Bin 72A 79              #  9=215 vs 216 9 new since 02
+NY I-87 I-278 USA/CAN          #335 vs 334
+NY I-88 I-81 I-90              #118
+NY I-90 PA/NY NY/MA            #390 vs 386
+NY I-95 NJ/NY NY/CT            # 24
+NY I-99 PA/NY 13               # 12
+NY I-190 I-90 USA/CAN          # 28
+NY I-278 NJ/NY I-95            # 34
+NY I-287 NJ/NY I-95            # 30 vs 12 overlap I-87
+NY I-290 I-190 I-90            # 10
+NY I-295 NY25 12               #  8
+NY I-390 I-86 20               # 76
+NY I-478 I-278 NY9A            #  2
+NY I-481 I-81 9                # 15
+NY I-490 I-90(47) I-90(45)     # 38 vs 37
+NY I-495 2ndAve 73             # 71 vs 66
+NY I-587 I-87 NY32             #  1
+NY I-590 I-390 5               #  5
+NY I-678 JFKAir 19             # 15 vs 14
+NY I-684 CT/NY 10              # 22+
+NY I-684Pur I-287 NY/CT        #  5=27
+NY I-690 I-90 I-481            # 14
+NY I-695 I-295 I-95            #  1
+NY I-781 1 4                   #  4
+NY I-787 I-87 8thSt            # 10
+NY I-790 NY5A/5S GenSt         #  2 vs 4 T3 has 2
+NY I-878 I-678 JFKExpy         #  1
+NY I-890 I-90(26) I-90(25)     #  9
+#NY I-895                            decommissioned 10/12/2019
+NY I-990 I-290 5               #  6
+
+# New Jersey
+# 431 miles (same total as Table 3, 9 miles I-95->I-295)
+NJ I-76 PA/NJ 1A               #  3
+NJ I-78 PA/NJ NJ/NY            # 68
+NJ I-80 PA/NJ 68               # 68
+NJ I-95 PA/NJ NJ/NY            # 79+
+NJ I-95Sec I-95_S I-95_N       # 10=89 vs 98=-9
+NJ I-195 1A 35                 # 34
+NJ I-278 US1/9 NJ/NY           #  2
+NJ I-280 I-80 I-95             # 18     .31 ramp
+NJ I-287 I-95 NJ/NY            # 67
+NJ I-295 DE/NJ NJ/PA           # 77 vs 68=9
+NJ I-676 1 NJ/PA               #  5
+
+# Pennsylvania
+# 1863 miles (vs 1862 on Table 3; 3 roads renamed I-95, I-276, I-295=0 miles, 1 mi I-86SWa)
+PA I-70 WV/PA PA/MD            #169 vs 81 overlap I-76
+PA I-76 OH/PA PA/NJ            #352 vs 351
+PA I-78 1 PA/NJ                # 78
+PA I-79 WV/PA 183              #183 vs 179 overlap I-70
+PA I-80 OH/PA PA/NJ            #312 vs 311
+PA I-81 MD/PA PA/NY            #234 vs 233
+PA I-83 MD/PA 51               # 51
+PA I-84 I-81/6 PA/NY           # 54 vs 55
+PA I-86 1 PA/NY                #  7
+PA I-86SWa NY/PA PA/NY         #  1
+PA I-90 OH/PA PA/NY            # 47 vs 46
+PA I-95 DE/PA PA/NJ            # 44 vs 40 (Table 3 51) 7 switched to I-295, 4 overlap I-276
+PA I-99 1 MusLn                # 86
+PA I-176 I-76 11               # 12 vs 11
+PA I-180 I-80/147 29           # 29 
+PA I-276 326 I-95              # 30 vs 29 (Table 3 32) last 3 miles dropped ->95 adjust
+PA I-279 I-376 I-79            # 13
+PA I-283 I-76 3                #  3
+PA I-295 I-95/276 PA/NJ        # 11 (Table 3 0) formerly I-95 N of Tpk
+PA I-376 1A 85                 # 84 vs 86
+PA I-380 1 I-81/6              # 28 vs 25
+PA I-476 I-95 131B             #132 vs 130
+PA I-579 I-279 PA885           #  1  (Table 3 3)
+PA I-676 I-76 PA/NJ            #  3 vs 2 
+
+# Delaware
+# 41 miles 
+DE I-95 MD/DE DE/PA            # 23 vs 24
+DE I-295 I-95 DE/NJ            #  5 vs 6
+DE I-495 I-95 6                # 11
+
+# Maryland
+# 500 miles (Table 3 480) diff 20: I-695 20, overall -1 Total table off from detail
+MD I-68 WV/MD 82               # 80 vs 81            
+MD I-70 PA/MD 94               # 94
+MD I-81 WV/MD MD/PA            # 12
+MD I-83 1 MD/PA                # 34 vs 35
+MD I-95 DC/MD MD/DE            #109 vs 110
+MD I-97 1 17                   # 17 vs 18
+MD I-195 TerRd 4               #  4
+MD I-270 I-495 32              # 33+
+MD I-270SprAsh I-495 2         #  2=35 vs 34
+MD I-295 I-95/495 MD/DC        #  1
+MD I-370 1 3                   #  2 vs 3
+MD I-395 I-95 ConSt            #  1+
+MD I-395Was I-395 MD295        #  1=2
+MD I-495 DC/MD MD/VA           # 41 vs 16 overlap
+MD I-595 7 24                  # 20 (unsigned)
+MD I-695 BroHwy 44             # 52 vs 51 (Table 3 31)
+MD I-795 1 9                   #  9
+MD I-895 I-95 15               # 15+
+MD I-895SprFer I-895SprFur I-695 #1+
+MD I-895SprFur I-895 MD2       #  2=18 vs 11 Table 3 only has 11
+
+# DC
+# 12 miles
+DC I-66 VA/DC US29             #  1 vs 2
+DC I-95 VA/DC DC/MD            #  0 vs 0
+DC I-295 MD/DC 5               #  5
+DC I-395 VA/DC US50            #  4 vs 3
+DC I-495 VA/DC DC/MD           #  0
+DC I-695 I-395 2A              #  2
+
+# Virginia
+# 1117 miles
+VA I-64 WV/VA 299              #301 vs 299
+VA I-66 1 VA/DC                # 75
+VA I-77 NC/VA VA/WV            # 67 vs 60 overlap 81
+VA I-81 TN/VA VA/WV            #326 vs 325
+VA I-85 NC/VA 68               # 69
+VA I-95 NC/VA VA/DC            #179
+VA I-195 VA146 I-95            #  3
+VA I-264 I-64/664 ParAve       # 25
+VA I-295 53 1                  # 52
+VA I-381 ComAve 1              #  1
+VA I-395 1 VA/DC               # 10
+VA I-464 1 6B                  #  6 vs 5
+VA I-495 MD/VA VA/DC           # 22 vs 15 overlap 95
+VA I-564 4 VA337               #  3
+VA I-581 1 6                   #  6 vs 7
+VA I-664 1 15                  # 21 vs 20
+
+# West Virginia
+# 549 miles
+WV I-64 KY/WV WV/VA            #182 vs 125 overlap I-77
+WV I-68 I-79 WV/MD             # 31 vs 32
+WV I-70 OH/WV WV/PA            # 14
+WV I-77 VA/WV WV/OH            #184 vs 187
+WV I-79 I-77 WV/PA             #157 vs 161
+WV I-81 VA/WV WV/MD            # 26
+WV I-470 OH/WV 4               #  4
+
+# Kentucky
+# 1001 miles (Table 3 913 miles) diff 88: I-69 54, I-169 34
+KY I-24 IL/KY KY/TN            # 93
+KY I-64 IN/KY KY/WV            #185
+KY I-65 TN/KY KY/IN            #137
+KY I-69 TN/KY 152              #133 54 miles not on Table 3; overlap I-24
+KY I-71 1 KY/OH                # 78 overlap I-75
+KY I-75 TN/KY KY/OH            #192
+KY I-165 1 70                  # 70
+KY I-169 1 34                  # 34 not on table 3
+KY I-264 0 23                  # 23
+KY I-265 10 35                 # 24
+#KY I-265 34 ?                  # new bridge not yet designated I-265
+KY I-275 OH/KY KY/IN           # 25
+KY I-471 1 KY/OH               #  5
+
+KY CumPkwy 1 88                # non interstate, was I-66 Fut
+
+
+# Tennessee
+# 1200 miles
+TN I-24 KY/TN TN/GA            #169+
+TN I-24Cha GA/TN 185           # 14=183 vs 178 overlap I-40/65
+TN I-26 1 TN/NC                # 54
+TN I-40 AR/TN TN/NC            #458 vs 455
+TN I-55 MS/TN TN/AR            # 12
+TN I-65 AL/TN TN/KY            #123 vs 121 overlap I-40
+TN I-75 GA/TN TN/KY            #160 vs 142 overlap I-40
+TN I-81 1 TN/VA                # 76
+TN I-124 I-24 TenRiv           #  2
+TN I-140 1C 11                 # 11
+TN I-155 MO/TN 15              # 16
+TN I-240 12 I-40               # 19
+TN I-269 MS/TN 19              # 19
+TN I-275 I-40 3                #  3
+TN I-440 I-40 I-24             #  8
+TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
+TN I-840 1 76                  # 78 vs 77
+
+# North Carolina
+# 1473 miles (Table 3 1365) diff 108: I-42 28, I-73 6, I-74 27, I-140 14, I-295 21, I-587 -4, I-840 8, I-885 8
+# 1461 on, 12 not on
+NC I-26 4A(240) NC/SC          # 44+
+NC I-26Fau TN/NC 13            #  9 =53
+NC I-40 TN/NC US117_S          #420
+NC I-42 1 8                    #  8  
+NC I-42Gol 34 53               # 20  
+NC I-73 US74(306) 123          #105  	
+NC I-74 VA/NC 17               # 16+
+NC I-74Hig 55 321(US74)        # 46+
+NC I-74Pem 194 213             # 19=73 vs 56 - 27 diff
+NC I-77 SC/NC NC/VA            #105
+NC I-85 SC/NC NC/VA            #200
+NC I-87 16(440) 13             # 10
+NC I-95 SC/NC NC/VA            #181
+NC I-140 1 20                  # 21 vs 7 - 14 diff
+NC I-240 1A 9                  # 10
+NC I-277 1B 5                  #  4
+NC I-285 I-85 107(52)          # 24
+#NC I-295 0 12                  # 12 vs 0 - 12 diff NOT ON
+NC I-295 12 34                 # 23 vs 14 - 9 diff
+NC I-440 1 16                  # 17
+NC I-485 30 I-85(48)           # 67
+NC I-540 1 26                  # 26
+NC I-587 18 56                 # 33 vs 37 - -4 diff
+NC I-785 I-85 14(840)          #  7 
+NC I-795 38(264) 24            # 25	
+NC I-840 103(73) 14            # 11 vs 3 - 8 diff 
+NC I-840 14 I-85               #  7  Overlap with I-785, not in Table 3 count (& shouldn't be)
+NC I-885 5 13                  #  8 vs 0 - 8 diff
+ 
+
+# South Carolina
+# 851 miles
+SC I-20 GA/SC 141              #144 vs 142
+SC I-26 NC/SC US17_S           #224 vs 221
+SC I-77 I-26 SC/NC             # 92 vs 91
+SC I-85 GA/SC SC/NC            #108 vs 106
+SC I-95 GA/SC SC/NC            #202 vs 199
+SC I-126 I-26 GadSt            #  4
+SC I-185 I-385 HenAve          # 18 vs 17
+SC I-385 I-26 42               # 42
+SC I-520 GA/SC I-20            #  8 vs 7
+SC I-526 10 30                 # 20 vs 19
+SC I-585 I-85BL 25B            #  3
+
+# Georgia
+# 1250 miles (Table 3 1244) - diff 6: I-520 6.
+GA I-16 1 167                  #168 vs 167
+GA I-20 AL/GA GA/SC            #204 vs 203
+GA I-24 TN/GA GA/TN            #  4
+GA I-59 AL/GA I-24             # 20 vs 21
+GA I-75 FL/GA GA/TN            #361 vs 355
+GA I-85 AL/GA GA/SC            #182 vs 172 overlap I-75
+GA I-95 FL/GA GA/SC            #114 vs 112
+GA I-185 1 I-85                # 49
+GA I-285 GA279 62              # 63  overlap I-85
+GA I-475 I-75_S I-75_N         # 16
+GA I-516 MilSt 8               #  7 vs 6
+GA I-520 1 GA/SC               # 16 vs 16 (T3 only has 10)
+GA I-575 I-75 GA5              # 31
+GA I-675 I-75 I-285            # 10 vs 11
+GA I-985 I-85 24               # 24
+
+# Alabama
+# 1001 miles
+AL I-10 MS/AL AL/FL            # 67 vs 66
+AL I-20 MS/AL AL/GA            #217 vs 85 overlap I-59
+AL I-22 MS/AL I-65             # 97 vs 96
+AL I-59 MS/AL AL/GA            #244 vs 241
+AL I-65 0 AL/TN                #371 vs 367
+AL I-85 I-65 AL/GA             # 81 vs 80
+AL I-165 1 US90                #  5
+AL I-359 I-20/59 2             #  2
+AL I-459 I-20/59 33            # 34 vs 33
+AL I-565 1 21                  # 22 vs 21
+AL I-759 I-59 4                #  5
+
+# Florida
+# 1498 miles
+FL I-4 I-275 132               #134 vs 132
+FL I-10 AL/FL I-95             #367 vs 362=T3
+FL I-75 1 FL/GA                #479 vs 471=T3
+FL I-95 US1 FL/GA              #389 vs 382=T3
+FL I-110 1 6                   #  6 vs 7
+FL I-175 I-275 FL687           #  1 vs 2
+FL I-195 1 FL907A              #  4
+FL I-275 I-75_S I-75_N         # 60 vs 61
+FL I-295 I-95 61               # 62 vs 61
+FL I-375 I-275 US19Alt         #  1
+FL I-395 1 FLA1A               #  1
+FL I-595 I-75 12               # 14 vs 13
+
+# Puerto Rico
+# 250 miles: 0 on, 250 not on
+#PR I-PR1 PR22 PR2              # 69 vs 71 San Juan to Ponce E NOT ON
+#PR I-PR2 PR26 PR52             #140 vs 138 San Juan to Ponce W NOT ON
+#PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao NOT ON
+
+
+# North Carolina, Alaska & Puerto Rico Not on
+
+# 1  NC I-295 0 12                  # 12 vs 0 - 12 diff NOT ON
+#AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line NOT ON
+#AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks NOT ON
+#AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E NOT ON
+#AP4 PR I-PR2 PR26 PR52          #140 vs 138 San Juan to Ponce W NOT ON
+#AP5 PR I-PR3 PR1/25 33(53)      # 55 vs 41 San Juan to Humacao NOT ON
+
+
+# US Future Interstate Highways (outside Arizona)
+# means not been on - 0 sections
+AR I-49FutBar 187 193
+AZ I-11FutHoo 2 AZ/NV
+AZ I-11FutKin 71(40) 48(40)
+CA I-905FutOta 1A USA/MEX
+FL I-795FutJac I-295 4
+IN I-265FutLou 7 IN/KY
+KY I-265FutLou 35 KY/IN
+LA I-49FutFra LA182_W LA318
+LA I-49FutMor LA308 LA182_B
+LA I-49FutNib LA83_W LA675
+NC I-26FutAsh 13 4A(240)
+NC I-73FutMad NC68 NC/VA
+NC I-74FutLau 181 194
+NC I-74FutPil I-74_W US52
+NC I-74FutWhi 228 248             
+NC I-87FutRoc 13 464(64)
+NC I-785FutRei US29Bus_S NC/VA
+NY I-86FutBin PA/NY 72A
+NY I-86FutDep 79 EvaRd
+NY I-86FutMon BushHilRd I-87
+PA I-99FutLoc 107 OldUS220
+PA I-99FutMan 4thSt_W PA/NY
+SC I-73FutMyr US17 US701            
+SC I-526FutCha SC30_E 3
+TN I-69FutMem MS/TN US51
+TN I-69FutTri 15(155) TN183_End
+TN I-69FutUni US51_S TN/KY
+TN I-269FutMem 19 US51
+VA I-785FutDan NC/VA US58/360
+
+
+# ICELAND
+
+# Iceland Thjodvegir (Main highways)
+
+ISL TH1 TH49_N TH36
+ISL TH1 VikBra TH49_S
+ISL TH35 TH1 Gul
+ISL TH36 TH1 TH365
+ISL TH37 TH365 TH35_N
+ISL TH40 TH41_S LauVeg
+ISL TH41 KefFlu TH413
+ISL TH41 TH49 FaxaGat
+ISL TH43 TH426 TH41
+ISL TH49 AnaNau TH1
+ISL TH215 Rey TH1
+ISL TH365 TH36 TH37
+ISL TH413 TH41 TH1
+ISL TH426 BlaLon TH43
+
