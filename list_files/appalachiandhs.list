@@ -45,7 +45,8 @@ KY US119 US25E US23_S
 KY US119 US23/460 WV US119 I-64(58A)
 
 #Corridor H	Weston, WV – Strasburg, VA
-#WV US48 I-79 VA US48 I-81
+WV US48 I-79 WV US48 CliRunRd_E
+WV US48 WV32_S WV US48 OldRt55_War
 
 #Corridor I	Winchester, KY – Whitesburg, KY
 KY ComMtnPkwy I-64 43

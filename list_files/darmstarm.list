@@ -82,26 +82,29 @@ PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
 PA PA52 DE/PA PA926
 PA PA53 US322_W US322_E 
-PA PA69 PA/NY US62 #niagara trip
+PA PA69 PA/NY US62 #niagara trip (nice)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA113 US30 DevDr #downingtown east
 PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
-PA PA272 MD/PA KirMillRd #camp horseshoe
+PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
 PA PA283 I-283 US30
 PA PA340 PA772_E PA462
 PA PA345 PA82 WarRd_E #french creek
 PA PA401 US202 PhoPike
 PA PA420 I-95 US13
-PA PA462 PA999 PA340 #unfortunately didn't go on enough of 999 for it to count.
+PA PA441 LocSt PA999 #pa999 trip 12-25
+PA PA462 PA999 PA340 #through lancaster city
+PA PA462 PA741 2ndSt #pa999 trip 12-25
+PA PA472 US1 PA372
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 PA3 #go birds (alternatively, to the jimmel)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
-PA PA472 US1 PA372
-PA PA666 US6 PA948
+PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
+PA PA741 PA41 PA462 #pa999 trip 12-25
 PA PA743 PA283 US422
 PA PA743TrkHer PA743_S US322_W # various hershey trips
 PA PA772 US30 PA340_W
@@ -113,14 +116,15 @@ PA PA896 MD/PA US30
 PA PA926 PA841 US202/322 #pocopson to 202
 PA PA948 PA120 PA666
 PA PA957 PA69_N US62
-PA PA970 US322 I-80
+PA PA970 US322 I-80 #niagara falls trip
+PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
 #the star spangled banner trail??? most of md382, plus croom station rd
 MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
-MD I-83 14 MD/PA #hershey trip 2025
+MD I-83 7 MD/PA #hershey trip 2025 + up to 34th street parking
 MD I-95 DC/MD MD/DE
 MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
@@ -150,15 +154,18 @@ MD MD3 US50/301 I-97/32
 MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
-MD MD41 I-695 JopRd
+MD MD23 US1 SchRd #en route to grandparents
+MD MD41 I-695 JopRd #micro center
 MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
-MD MD146 MD45 BleRd #towson to grandparents
+MD MD146 MD45 SchRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD152 I-95 US1 #joppaaaa
+#MD MD152 MD146 Charles St #en route to grandparents
 MD MD155 US40/7 I-95
 MD MD161 MD155 MD623
+#MD MD165 MD23_E Furnace Rd #en route to grandparents
 MD MD188 McABlvd MD190 #hershey trip 2025
 MD MD190 MD188 I-495 #hershey trip 2025
 MD MD193 BalWasPkwy GoodLuckRd
@@ -215,8 +222,8 @@ NC I-77 51 50 #BRR 9-25
 NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-240 5B 9 #BRR 9-25
-NC I-440 1 12
-NC I-440 13 16 #roadtrip 11-25
+NC I-295 34 21A #fort bragg trip 1-2026
+NC I-440 1 16 #finished 2-26
 NC I-485 30 32
 NC I-540 4 26 #roadtrip 11-16-25
 NC I-885 5 13 #completed 9-25
@@ -246,6 +253,7 @@ NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
+NC NC24 21C(295) NC210_N #fort bragg trip 1-26
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
@@ -362,8 +370,10 @@ TN US129 I-40 CheTrl
 MI I-94 198 204B #oak park wedding, mid 2010s
 MI MI39 1 16 #oak park wedding, mid 2010s
 #new york
+NY GarStaPkwy NJ/NY I-87/287 #west point trip, antiq.
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
 NY PalIntPkwy NJ/NY 6 #college new york trip 2024
+NY PalIntPkwy 9 US6/9W #west point trip, antiq.
 NY I-86 10 PA/NY #niagara trip (rnrhf)
 NY I-90 59(NYST) 56(NYST) #niagara trip
 NY I-90 50(NYST) 55A(NYST) #niagara trip (duff's -> bills)
@@ -371,7 +381,9 @@ NY I-95 NJ/NY 1 #george washington bridge
 NY I-190 7 21 #niagara trip
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
+NY I-287 14A(87) 13(87) #west point trip, antiq.
 NY I-495 2ndAve 14 #medieval times trip
+NY US9W US6/202 NY218 #west point trip, antiq.
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
 NY US62 PA/NY NY60 #niagara trip (ride up)
@@ -388,15 +400,16 @@ NY NY495 34thSt NJ/NY #medieval times trip
 #new jersey
 NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
-NJ GarStaPkwy 129 172 #college new york trip 2024
+NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
 NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
 NJ I-95 PA/NJ 16E #medieval times trip
 NJ I-95 74 NJ/NY #george washington bridge
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
-NJ I-295 DE/NJ 34 #various trips
+NJ I-295 DE/NJ 40 #various trips
 NJ I-295 72 NJ/PA #college of new jersey
 NJ US9 CR623 Gar(25) #ocean city trip 2025
+NJ US9 CR530_E NJ166 #oceangate
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
 NJ US322 PA/NJ US130 #relatives trip, old house
@@ -405,12 +418,14 @@ NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
 NJ NJ31 I-295 EwiRd #college of new jersey
+NJ NJ38 I-295 HarRd #grandparents
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
-NJ NJ70 I-295 CR541
+NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
+NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S

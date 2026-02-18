@@ -417,7 +417,7 @@ CA US395HisSan US101His I-8
 CA US99HisTul CA99(83) CA99(91)
 CA US50HisFol FolBlvd RilSt
 CA US80HisWin I-8(166) CA/AZ
-CA US395HisVis US395His CRS14_N
+CA US395HisVis US395His CA76
 
 #CA_USNationalHistoricTrails
 
@@ -1047,6 +1047,7 @@ MA US1 I-93(19) BeaSt
 MA US6 PleSt_Fal FauCorRd
 MA US7 CT/MA MA7ALen_N
 MA US6 AldRd MA240
+MA US1 GilSta_S I-95(19)
 
 #MD_Interstates
 
