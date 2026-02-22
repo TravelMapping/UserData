@@ -421,10 +421,7 @@ CA US395HisVis US395His CA76
 
 #CA_USNationalHistoricTrails
 
-CA JBTrlCen I-8(143) CA78_W
-CA JBTrlCen CA79_War CA371_E
-CA JBTrlCen CA74_E CA79_SJN
-CA JBTrlCen 22(215) 29(215)
+CA JBTrlCen I-8(143) 29(215)
 CA LinHwyFol RilSt_S MatFieRd
 CA JBTrlPis 97(101) MarSt
 CA JBTrlLos 18A(10) 1D(101)

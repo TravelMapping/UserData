@@ -349,77 +349,108 @@ OR	I-205	I-5	OR/WA	#2005-06 Road Trip to Seattle
 OR	I-405	I-5(299B)	I-5(302B)	#2005-06 Road Trip to Seattle
 OR	I-5	302B	OR/WA	#2005-06 Road Trip to Seattle
 OR	I-5	CA/OR	299B	#2005-06 Road Trip to Seattle
+OR	I-5	303A	OR/WA	#2017-03 Oregon Washington
+OR	I-5	300A	302B	#2017-03 Oregon Washington
+OR	I-5	256	297	#2017-03 Oregon Washington
+OR	I-5	252	253	#2017-03 Oregon Washington
 OR	I-84	I-5	40	#2005-06 Road Trip to Seattle
-OR	I-84	I-5	31	#2017-03
-OR	LCTrl	US101	HemSt_N	#2017-03
-OR	OR104	US101	LakeDr	#2017-03
+OR	I-84	I-5	31	#2017-03 Oregon Washington
+OR	LCTrl	US101	HemSt_N	#2017-03 Oregon Washington
+OR	OR104	US101	LakeDr	#2017-03 Oregon Washington
 OR	OR138	CraLakeHwy	US97	#2005-06 Road Trip to Seattle
-OR	OR153	OR154	HopRd	#2017-03
-OR	OR154	OR153	OR233	#2017-03
-OR	OR18	OR18S	OR99W_N	#2017-03
-OR	OR18SMin	JohSt	OR18	#2017-03
-OR	OR217	US26	8	#2017-03
-OR	OR22	OR221	1	#2017-03
-OR	OR221	OR22	HopRd	#2017-03
-OR	OR233	OR154/155	OR18/99W	#2017-03
+OR	OR153	OR154	HopRd	#2017-03 Oregon Washington
+OR	OR154	OR153	OR233	#2017-03 Oregon Washington
+OR	OR18	OR18S	OR99W_N	#2017-03 Oregon Washington
+OR	OR18SMin	JohSt	OR18	#2017-03 Oregon Washington
+OR	OR217	US26	8	#2017-03 Oregon Washington
+OR	OR22	OR221	1	#2017-03 Oregon Washington
+OR	OR221	OR22	HopRd	#2017-03 Oregon Washington
+OR	OR233	OR154/155	OR18/99W	#2017-03 Oregon Washington
 OR	OR39	CA/OR	OR39Kla	#2005-06 Road Trip to Seattle
 OR	OR39Kla	US97Bus	OR39	#2005-06 Road Trip to Seattle
 OR	OR569	11	GatSt	#2005-06 Road Trip to Seattle
 OR	OR58	I-5	US97	#2005-06 Road Trip to Seattle
 OR	OR62	CraLakeNP	US97	#2005-06 Road Trip to Seattle
-OR	OR99W	OR18_E	TuaSheRd	#2017-03
-OR	US101	SunBlvd	OR/WA	#2017-03
-OR	US101BusAst	US101_S	US101_N	#2017-03
-OR	US26	US101	69	#2017-03
+OR	OR99E	US26	BelSt	#2017-03 Oregon Washington
+OR	OR99W	OR18_E	TuaSheRd	#2017-03 Oregon Washington
+OR	US101	SunBlvd	OR/WA	#2017-03 Oregon Washington
+OR	US101BusAst	US101_S	US101_N	#2017-03 Oregon Washington
+OR	US26	US101	69	#2017-03 Oregon Washington
 OR	US26	72	74	#2005-06 Road Trip to Seattle
-OR	US30	US101	ToWA433	#2017-03
+OR	US30	US101	ToWA433	#2017-03 Oregon Washington
 OR	US30HisCol	CorHillRd	I-84(35)	#2005-06 Road Trip to Seattle
-OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03
+OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03 Oregon Washington
 OR	US97	272	OR62	#2005-06 Road Trip to Seattle
 OR	US97	OR138	195	#2005-06 Road Trip to Seattle
 OR	US97BusKla	OR39Kla	US97_N	#2005-06 Road Trip to Seattle
-WA	AirExpy	WA518	Ter	#1996-05_1998-11_2000-10_2022-09
-WA	HurRidRd	ParkAve	MtAngRd	#2022-09
+WA	AirExpy	WA518	Ter	#1996-05 Seattle Vancouver
+WA	AirExpy	WA518	Ter	#1998-11 MRCC Surprise
+WA	AirExpy	WA518	Ter	#2000-10 Joe and Margaret
+WA	AirExpy	WA518	Ter	#2022-09 Washington State
+WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
 WA	I-205	OR/WA	I-5	#2005-06 Road Trip to Seattle
 WA	I-405	I-5(154)	14	#2005-06 Road Trip to Seattle
-WA	I-5	OR/WA	USA/CAN	#1996-05_2005-06_2022-09
+WA	I-405	I-5(154)	14	#1998-11 MRCC Surprise
+WA	I-405	I-5(154)	11	#1996-05 Seattle Vancouver
+WA	I-405	I-5(154)	10	#2022-09 Washington State
+WA	I-405	I-5(154)	14	#2000-10 Joe and Margaret
+WA	I-405	11	14	#2022-09 Washington State
 WA	I-5	OR/WA	154	#2005-06 Road Trip to Seattle
 WA	I-5	165	168B	#2005-06 Road Trip to Seattle
-WA	I-90	WA519	25	#1996-05_2022-09
-WA	I-90	31	85	#2022-09
-WA	SteCynRd	WA706	ParVlyRd_S	#1996-05
-WA	UppHohRd	US101	HohVisCen	#2022-09
-WA	US101	US12	WA20	#2022-09
-WA	US101	OR/WA	WA100	#2017-03
-WA	US101	WA8	BlaLakeBlvd	#2022-09
-WA	US12	US101	WA8	#2022-09
-WA	US97	WA970	US97Alt_S	#2022-09
-WA	US97	US97Alt_N	WA153	#2022-09
-WA	US97AltEnt	US97_S	US97_N	#2022-09
-WA	WA100	WA100Spur	WA100_S	#2017-03
-WA	WA100SprFor	WA100	FtCan	#2017-03
-WA	WA153	US97	WA20	#2022-09
-WA	WA16	I-5	WA3	#2022-09
-WA	WA169	154thPl	WA900	#2022-09
-WA	WA20	CouPorFry	EngRd	#2022-09
-WA	WA20	MainSt_Cou	WA153	#2022-09
+WA	I-5	127	USA/CAN	#1996-05 Seattle Vancouver
+WA	I-5	164	169	#1998-11 MRCC Surprise
+WA	I-5	164	166	#2022-09 Washington State
+WA	I-5	105	132	#2022-09 Washington State
+WA	I-5	OR/WA	36	#2017-03 Oregon Washington
+WA	I-90	2	25	#1996-05 Seattle Vancouver
+WA	I-90	WA519	25	#2022-09 Washington State
+WA	I-90	31	85	#2022-09 Washington State
+WA	SteCynRd	WA706	ParVlyRd_S	#1996-05 Seattle Vancouver
+WA	UppHohRd	US101	HohVisCen	#2022-09 Washington State
+WA	US101	US12	WA20	#2022-09 Washington State
+WA	US101	OR/WA	WA100	#2017-03 Oregon Washington
+WA	US101	WA8	BlaLakeBlvd	#2022-09 Washington State
+WA	US12	US101	WA8	#2022-09 Washington State
+WA	US97	WA970	US97Alt_S	#2022-09 Washington State
+WA	US97	US97Alt_N	WA153	#2022-09 Washington State
+WA	US97AltEnt	US97_S	US97_N	#2022-09 Washington State
+WA	WA100	US101	WA100_W	#2017-03 Oregon Washington
+WA	WA100	WA100Spur	WA100_S	#2017-03 Oregon Washington
+WA	WA100SprFor	WA100	FtCan	#2017-03 Oregon Washington
+WA	WA153	US97	WA20	#2022-09 Washington State
+WA	WA16	I-5	WA3	#2022-09 Washington State
+WA	WA169	154thPl	WA900	#2022-09 Washington State
+WA	WA20	CouPorFry	EngRd	#2022-09 Washington State
+WA	WA20	CorBayRd	I-5	#1996-05 Seattle Vancouver
+WA	WA20	MainSt_Cou	WA153	#2022-09 Washington State
 WA	WA202	RedWay	ToltHillRd	#2005-06 Road Trip to Seattle
-WA	WA202	WA203	I-90	#1996-05_2022-09
-WA	WA20Por	US101	PorCouFry	#2022-09
-WA	WA20SprAna	WA20	AnaFry	#2022-09
-WA	WA285	SteSt	US2/97	#2022-09
-WA	WA3	WA16	WA305	#2022-09
-WA	WA305	WinFry	WA3	#2022-09
-WA	WA432	WA433	I-5	#2017-03
-WA	WA512	I-5	WA7	#1996-05
-WA	WA518	AirExpy	I-5	#1996-05_1998-11_2000-10_2022-09
+WA	WA202	RedWay	ToltHillRd	#2000-10 Joe and Margaret
+WA	WA202	WA203	I-90	#2022-09 Washington State
+WA	WA202	WA203	SnoPkwy	#1996-05 Seattle Vancouver
+WA	WA202	RedWay	187thAve	#1998-11 MRCC Surprise
+WA	WA202	RedWay	187thAve	#2022-09 Washington State
+WA	WA20Por	US101	PorCouFry	#2022-09 Washington State
+WA	WA20SprAna	WA20	AnaFry	#2022-09 Washington State
+WA	WA285	SteSt	US2/97	#2022-09 Washington State
+WA	WA3	WA16	WA305	#2022-09 Washington State
+WA	WA305	WinFry	WA3	#2022-09 Washington State
+WA	WA432	WA433	I-5	#2017-03 Oregon Washington
+WA	WA512	I-5	WA7	#1996-05 Seattle Vancouver
+WA	WA518	AirExpy	I-5	#1996-05 Seattle Vancouver
+WA	WA518	AirExpy	I-5	#1998-11 MRCC Surprise
+WA	WA518	AirExpy	I-5	#2000-10 Joe and Margaret
+WA	WA518	AirExpy	I-5	#2022-09 Washington State
 WA	WA520	I-5	WA202	#2005-06 Road Trip to Seattle
-WA	WA542	I-5	NFD33	#1996-05
-WA	WA547	WA542	WA9	#1996-05
-WA	WA7	WA706	WA512	#1996-05
-WA	WA706	WA7	MouRaiNP	#1996-05
-WA	WA8	US12	US101	#2022-09
-WA	WA9	WA547	WA/BC	#1996-05
-WA	WA900	148thSt	I-90	#2022-09
-WA	WA970	I-90	US97	#2022-09
-WA	WA971	LakRd	US97Alt_N	#2022-09
+WA	WA520	I-5	WA202	#1998-11 MRCC Surprise
+WA	WA520	I-5	WA202	#2000-10 Joe and Margaret
+WA	WA520	I-405	LakSamPkwy	#2022-09 Washington State
+WA	WA542	I-5	NFD33	#1996-05 Seattle Vancouver
+WA	WA547	WA542	WA9	#1996-05 Seattle Vancouver
+WA	WA7	WA706	WA512	#1996-05 Seattle Vancouver
+WA	WA706	WA7	MouRaiNP	#1996-05 Seattle Vancouver
+WA	WA8	US12	US101	#2022-09 Washington State
+WA	WA9	WA547	WA/BC	#1996-05 Seattle Vancouver
+WA	WA900	148thSt	I-90	#2022-09 Washington State
+WA	WA970	I-90	US97	#2022-09 Washington State
+WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
+WA	WA99	QueAnneDr	38thSt	#1998-11 MRCC Surprise
