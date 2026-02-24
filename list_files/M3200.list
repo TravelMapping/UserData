@@ -417,14 +417,11 @@ CA US395HisSan US101His I-8
 CA US99HisTul CA99(83) CA99(91)
 CA US50HisFol FolBlvd RilSt
 CA US80HisWin I-8(166) CA/AZ
-CA US395HisVis US395His CRS14_N
+CA US395HisVis US395His CA76
 
 #CA_USNationalHistoricTrails
 
-CA JBTrlCen I-8(143) CA78_W
-CA JBTrlCen CA79_War CA371_E
-CA JBTrlCen CA74_E CA79_SJN
-CA JBTrlCen 22(215) 29(215)
+CA JBTrlCen I-8(143) 29(215)
 CA LinHwyFol RilSt_S MatFieRd
 CA JBTrlPis 97(101) MarSt
 CA JBTrlLos 18A(10) 1D(101)
@@ -1047,6 +1044,7 @@ MA US1 I-93(19) BeaSt
 MA US6 PleSt_Fal FauCorRd
 MA US7 CT/MA MA7ALen_N
 MA US6 AldRd MA240
+MA US1 GilSta_S I-95(19)
 
 #MD_Interstates
 
@@ -1227,6 +1225,7 @@ MD US1 MD161 MD591WOc
 #MD_USSelectTouristRoutes
 
 MD NatRd MD75 MD808
+MD NatRd ToI-68(72) ToI-68(77)
 
 #ME_Interstates
 

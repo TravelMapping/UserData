@@ -1,4 +1,44 @@
-#It worked! 
+#I'm so excited to have discovered this site. 
+#TravelMapping.net is the computer version of my atlas + stats spreadsheet. 
+#My atlas + spreadsheet is still my ultimate source of truth, but this allows me to visualize travels on a more malleable map and gives me stats I wouldn't have thought of.  It also provides a check for me. 
+
+#My focus is on interstates and US highways.  Those are what I track in my stats spreadsheet.
+#Yes, I highlight state routes on my atlas.  And yes, sometimes I'll enter those into the site. But those aren't my focus. 
+
+#Project started on Oct 21, 2022 as Mom and I began our drive to Cincy. 
+
+#Generally entering info by state, with the most major highways listed first. 
+
+#As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow. Save myself some data lines and let the site grab the concurrency. 
+#For example, in the I-70 mountain corridor, I have listed both I-70 and US 40. 
+#Even though I-70 leads the concurrency, I drove from WP to the Wooly Mammoth lot trying to follow US 40. 
+#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! 
+
+#In general, if I didn't make it to the next waypoint, I'm not going to include that section.  It should be noted in my spreadsheet where my endpoint is.  
+
+
+
+#ARIZONA
+
+AZ I-10 147 153A
+AZ I-17 194 195B
+AZ US60 176 PerRd
+
+
+
+#CALIFORNIA
+CA I-80 2 33
+CA I-80 39B 40B
+CA I-280 I-680/101 3A
+CA I-280 5B 24
+CA I-580 44B 55
+CA I-680 I-280/101 30
+CA I-680 53 71
+#Good golly there are a lot of 80s
+
+CA US101 94A 110
+CA US101 336 389A
+
 
 
 #Starting with I-70
@@ -7,9 +47,9 @@ CO I-70 269A 274
 CO I-70 276B CO/KS
 
 CO I-225 I-25 12
-#Love that I actually get to say I've clinched one
+#I got to say I've clinched one right from the get-go! 
 
-CO I-25 181 268
+CO I-25 98B 268
 
 CO I-270 0 I-70
 #Got another! 
@@ -27,31 +67,46 @@ CO US36 CO119_W I-270(0)
 CO US40 3rdSt CO9
 CO US40 CO125 I-70BLDen_W
 
-#As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow.  
-#For example, in the mountain corridor, I have listed both I-70 and US 40. 
-#Even though I-70 leads the concurrency, I drove from WP to Wooly Mammoth trying to follow US 40. 
-#If US 40 is rerouted in the future, I think I still want credit for it. I drove it as it existed at the time! 
+CO US50 McCulBlvd 101(25)
+
+CO US85 I-25(98B) BowAve
+#Lots of sources vary on where this road goes - I followed it from Pueblo to Littleton based on how TM marked it. 
 
 CO US285 CO291 I-25 
 #I've actually driven south to CR 140, but there's not a waypoint there and I don't want to overexaggerate. 
 
-CO US287 HarRd ProRd
+
+CO US287 NWPkwy SouBouRd
+CO US287 HarRd MulSt
+#Not including some portions of US 287 I've driven since they're shorter than the segment in TM. See my spreadsheet for full details. 
+
+#Random CO highways I'm including for the heck of it
+CO CO121 CO470 RalRd
+CO CO85 I-25 VenBlvd_N
+#I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
 
 
 
-#KENTUCKY 
+#FLORIDA
 
-KY I-75 115 KY/OH
-KY US60 BlueGraPkwy US25/421
-KY BluPkwy 1 72
-KY WesKYPkwy 107 137
-KY US31W KY90 KY70
-KY I-65 53 131
-KY I-65 135 137
-KY I-264 11 12
-KY I-71 1 KY/OH
+FL I-75 7 23
+FL I-75 116 128
+FL I-95 BriAve 2A
+FL I-95 16 101
+FL I-95 147 180
+FL I-195 2B FL907A
+FL I-395 1 FLA1A
+FL I-595 I-75 12
 
-#I also drove all 6 miles of KY 609
+FL US1 FL998 I-395
+FL US1 FL822 FL870
+FL US41 CR846 CR850
+FL US27 US1 FL948
+FL US192 CR15 I-95
+
+FL FLA1AFor I-395 US1_S
+FL FLA1AVer FL714 FL60
+
 
 
 #GEORGIA
@@ -60,10 +115,164 @@ GA US78 TechPkwy PeaSt
 GA US78 US278_E GA410(2)
 GA US23 GA154 US29/78_S
 GA US19 14thSt GA13
-GA US19 I-285(27) GA400(9)
+GA US19 I-285(27) GA60_S
 GA I-285 20 39
+GA I-985 I-85 24
 GA I-75 259 GA/TN
 GA I-85 72A 95
+GA I-85 109 113
+
+
+
+#IDAHO
+
+ID I-90 WA/ID 15
+#My US 95 mileage is so small it's hard to capture in TM
+ID I-184 0 US20/26
+ID I-84 49 52
+ID US20 I-184 BroAve
+
+
+
+#ILLINOIS
+
+IL I-70 30 IL/IN
+IL I-90 WI/IL IL/IN
+IL I-55 157 US41
+
+IL I-74 127 IL/IN
+IL I-94 43B IL/IN
+
+IL I-270 MO/IL 15
+IL I-290 28B I-90/94
+
+IL US40 MainSt_Tro I-70(30)
+IL US41 I-55 RanSt
+
+
+
+#INDIANA
+
+IN I-65 KY/IN 6
+IN I-65 64 68
+IN I-65 103 US12/20
+IN I-70 IL/IN 41
+IN I-70 59 73
+IN I-70 80 90
+IN I-80 IL/IN 12
+IN I-90 IL/IN 77
+
+IN I-69 114 116
+IN I-69 309 315
+IN I-74 IL/IN IN/OH
+
+IN I-275 KY/IN IN/OH
+IN I-465 I-65 53
+IN I-469 19 31
+IN I-865 I-65 I-465
+
+IN US20 US12/912 I-65
+IN US20 US20Bus/31 US33
+IN US30 US33_N IN/OH
+IN US31 US50 IN46
+IN US31 2(465) IN/MI
+IN US40 US231 IN240
+IN US41 I-90(5) IN/IL
+IN US50 IN37/450 IN/OH
+
+IN US27 US33_S I-69
+IN US33 OH/IN I-469(11)
+IN US33 I-69(309) US20
+IN US52 I-65(141) IN/OH
+
+IN US231 I-70 US40
+
+
+
+#KANSAS
+
+KS I-70 CO/KS 421B
+KS I-670 I-70 KS/MO
+KS US40 23rdSt I-70(204KT)
+KS US59 23rdSt I-70
+
+
+
+#KENTUCKY 
+
+KY I-75 TN/KY KY/OH
+KY I-65 TN/KY KY/IN
+
+KY I-71 1 KY/OH
+KY I-64 75 123
+
+KY I-275 OH/KY KY/IN
+KY I-471 1 KY/OH
+KY I-264 11 12
+
+KY US60 BlueGraPkwy US25/421
+KY US60 I-64(123) KY801
+KY US31W KY90 KY70
+
+KY US27 US460 KY/OH
+KY US25 ManOWarBlvd KY1973_E
+KY US25 KY36_W KY3025
+KY US25 US42/127 KY/OH
+KY US25E TN/KY I-75
+KY US42 I-75(180) KY/OH
+KY US62 US460 I-75
+KY US62 KY11 KY/OH
+
+KY US460 US62/460Byp KY213_S
+
+KY BluPkwy 1 72
+KY WesKYPkwy 107 137
+
+#Random KY state highways I'm including for the heck of it
+KY KY609 KY159 KY177 #Clinched!
+KY KY9 I-275 KY1/7 #AA Highway! I've clinched the AA portion. 
+
+
+
+#MICHIGAN
+MI I-75 OH/MI 61
+MI I-75 115 344
+
+MI I-94 138 183
+#I'm able to leave off I-96, I-196, and I-496 because a different highway I was following covers it. 
+
+MI I-275 I-75 165(96)
+MI I-696 1A 18 
+#I'm conflicted b/c on my spreadsheet I feel good about saying I made it to the western terminus of I-696 but TM shows you have to continue onto I-96 to complete it. 
+
+MI US31 IN/MI 36(196)
+MI US31 41(196) 170
+MI US31 FouRd I-75
+MI US2 MI77 I-75
+MI US2Iro WI/MI MI28
+MI US41 MI28_E FroSt
+MI US41 WasSt MI38
+MI US10 MI116 US31_S
+MI US10 82 140
+
+MI US23 OH/MI I-75(188)
+MI US24 US24ConTay 13MiRd
+
+MI US131 WabAve US31
+MI US127 40 194
+MI US127 201 I-75
+
+
+#NEXT UP
+#Minnesota
+
+
+
+#MISSOURI
+MO I-70 2L 232
+MO I-270 20A MO/IL
+MO I-670 KS/MO 1B
+MO I-670 2Q 2N
 
 
 #OHIO
@@ -83,21 +292,26 @@ OH I-271 18 26A
 
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
+OH US20 US322_W US6_W
 OH US42 KY/OH TarCemRd
 OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
+OH US322 PubSqu KenRd
+#Technically missing the block between 12th and 13th (Masthead Brewing)
 OH US422 PubSqu I-77
+OH US422 LeeRd OH8_S
 
 
-#ILLINOIS
 
-IL I-74 127 IL/IN
-IL I-55 157 US41
-IL I-94 43B IL/IN
-IL I-90 WI/IL IL/IN
-IL I-290 28B I-90/94
-IL US41 I-55 RanSt
-#haven't typed in St Louis area hwys yet (I-70, US 40, I-270)
+#OREGON
+
+OR I-5 300A 302B
+OR I-205 21B 24
+OR I-405 1C I-5(302B)
+OR I-84 I-5 8
+OR US30 VauSt I-84(8)
+OR US26 71B 26thAve
+
 
 
 #WASHINGTON
@@ -110,13 +324,7 @@ WA US2 AirDr I-90(277)
 WA SteCynRd WA706 ParVlyRd_S
 
 
-#IDAHO
 
-ID I-90 WA/ID 15
-#My US 95 mileage is so small it's hard to capture in TM
-ID I-184 0 US20/26
-ID I-84 49 52
-ID US20 I-184 BroAve
 
 
 

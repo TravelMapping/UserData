@@ -1,23 +1,34 @@
 #### United States ####
 # Delaware
-DE PL MD/DE DE/PA
+DE NENor MD/DE DE/PA
 
 # District of Columbia
+DC PennLn DC/MD WasUniSta
 DC GreLn DC/MD Arc
+DC SilLnNew DC/MD LEnfPla
+DC YelLn LEnfPla MtVerSq
 
 # Georgia
 GA GoldLn Air PeaCen
 
 # Maryland
+MD NENor NewCar MD/DE
+MD CamLn ColPk BalCam
+MD PennLn NewCar DC/MD
 MD GreLn ColPk DC/MD
-MD PL NewCar MD/DE
+MD SilLnNew NewCar DC/MD
 
 # New Jersey
-NJ NECorLn MetPark Tre
-NJ PL PA/NJ Met
+NJ NENor NJ/NY PA/NJ
+
+# New York
+NY NECorLn NY/NJ PennSta
+NY B 47-50StsRocCen DeKAv
+NY E CouSq23St 34StPennSta
+NY G HoytSchSts CouSq
 
 # Pennsylvania
-PA PL DE/PA PA/NJ
+PA NENor DE/PA PA/NJ
 
 #### India ####
 # Delhi

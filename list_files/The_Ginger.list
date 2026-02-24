@@ -1,0 +1,69 @@
+#Welcome to The_Ginger's Clinched Highways!
+#My personal defintion of a clinch is:
+#A road segment is marked traveled (clinched) if I, "The_Ginger," experience—by use of the eyes—said road segment in at least one posted cardinal direction.
+
+#All roads are organzed by type, then number in ascending order.
+
+#Interstates#
+WV I-64 55 WV I-64 59
+WV I-64 121 VA I-64 177
+VA I-64 200 VA I-64 282
+WV I-77 101 185
+WV I-79 I-77 119
+VA I-81 191 221
+VA I-295 53 28A
+
+#US Highways#
+WV US19 I-79(57) I-79(67)
+WV US33 WV32 I-79
+WV US33 CR5/18 WV/OH
+WV US35 WV2 OH US35 174
+WV US48 I-79 TroRunRd
+WV US50 WV68_S I-79
+WV US52Ken I-64(1) WV152
+WV US60 I-64(181) VA US60 I-64(10)
+VA US60 I-64(16) VA US60 I-64(50)
+VA US60 I-64(267) VA US60 I-64(273)
+WV US119 WV214/601 I-64(58B)
+WV US119 I-79(99) US33/48
+WV US219 US33_E US48_E
+VA US220 I-64(27) I-64(16)
+WV US250 US33/48 US33_E
+
+#W. Va. State Highways#
+#1-25
+WV WV2 US35 WV31_N
+WV WV14 I-77(170) WV95_W
+WV WV14 WV68/618 LakDr
+#26-50
+WV WV31 US50_E US50_W
+WV WV31 BurHillRd WV14
+WV WV32 US33/55 US219/48
+WV WV37 US52_S US52_N
+WV WV47 US50 I-77
+#51-75
+WV WV55 US33/219 WV32
+WV WV62 WV2_N WV2_S
+WV WV62 WV2/331 WV331
+WV WV68 US33 I-77/2
+WV WV72 US219/48_N US219/48_S
+WV WV75 I-64/52 US52_S
+#76-100
+WV WV92 US33_E US33/48
+WV WV93 WV32 US48
+WV WV95 WV68 WV14_S
+#3-digit
+WV WV152 US52 I-64 
+WV WV193 I-64 WV2
+WV WV259 US48/55_W TroRunRd
+WV WV331 CR87/3 WV62
+WV WV601 US119/214 KanTpke
+WV WV618 WV14/68_S WV14/68_N
+
+#Ohio State Highways#
+OH OH7 OH160 OH735
+
+#Virginia State Highways#
+VA VA33 I-64(205) I-64(220)
+VA VA134 I-64(263) I-64(262)
+

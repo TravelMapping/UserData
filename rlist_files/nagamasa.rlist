@@ -232,6 +232,7 @@ ITA-CAM 2Nap NapPiaCav Pom
 ## SHINKANSEN & LTD EXPRESS
 JPN SanyoShin ShinOsaka Hakata
 JPN TokaidoShin Tokyo ShinOsaka
+JPN HokurikuShin Tokyo Nagano
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
 JPN SuperHakutoLtd Himeji Tottori
@@ -247,6 +248,8 @@ JPN ChitoseAirLn H14 AP15
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY24_A JY24_B
+JPN KeihinTohokuLn JK32 JK20
+JPN KeihinTohokuLn JK12 JK09
 JPN SaikyoLn JA08 JA26
 JPN MusashinoLn JM28 JM13
 JPN MusashinoLn JM10 JE01
@@ -257,13 +260,14 @@ JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
 JPN SenzanLn Sendai Yamagata
-JPN ShonanShinjukuLn JS21 JS07
+JPN ShonanShinjukuLn JS22 JS07
 JPN JobanLn JJ02 Tsuchiura
 JPN NaritaAbikoLn Abiko Narita
 JPN NaritaAptLn JO28 JO37
 JPN NaritaLn JO33 JO35
 JPN ChuoSobuLn JB02 JB39
 JPN KeiyoLn JE01 JE14
+JPN YokohamaLn JH16 JK11
 
 ## JR CENTRAL
 JPN TokaidoLnCen CA00 CA66
@@ -318,7 +322,12 @@ JPN KeikyuMainLn A07 KK11
 JPN KeikyuAirportLn KK11 KK17
 
 ## MEITETSU
+JPN NagoyaMainLn NH33 NH34
+JPN NagoyaMainLn NH36 NH37
+JPN TokonameLn NH33 TA22
+JPN MeiAirportLn TA23 TA24
 JPN ToyotaLn MY07 TT07
+JPN SetoLn ST01 ST04
 
 ## KINTETSU
 JPN KinNaraLn A01 A28
@@ -360,8 +369,9 @@ JPN HibiyaLn H01 H22
 JPN TokTozaiLn T01 T23
 JPN ChiyodaLn C01 C19
 JPN YurakuchoLn Y09 Y22
-JPN HanzomonLn Z02 Z14
-JPN TokNambokuLn N01 N08
+JPN HanzomonLn Z01 Z14
+JPN NambokuLnTo N01 N03
+JPN NambokuLnTo N08 N10
 JPN FukutoshinLn F01 F16
 
 ## TOEI
@@ -373,7 +383,7 @@ JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
 
 ## NAGOYA SUBWAY
-JPN HigashiyamaLn H08 H10
+JPN HigashiyamaLn H07 H17
 JPN MeijoLn M01_A M05
 JPN MeijoLn M06 M08
 JPN TsurumaiLn T05 T07
@@ -426,6 +436,7 @@ JPN YurikamomeLn U01 U16
 JPN MinatoMiraiLn MM01 MM06
 JPN ShoMon SMR1 SMR8
 JPN EnodenLn EN01 EN15
+JPN NaganoLn N1 N24
 JPN AichiLoopLn 10 12
 JPN ArashiyamaTm A5 A13
 JPN OsaMon 11 19
@@ -436,9 +447,14 @@ JPN OkiMon 1 7
 #### KOR
 ### SEOUL
 KOR AREX A01 A11
+KOR Suin K210 K212
+KOR 1 128 133
+KOR 2 202 208
+KOR 3 328 329
+KOR 3 331 336
 KOR 4 420 426
-KOR 1 128 130
-KOR 3 329 328
+KOR 5 533 537
+KOR 6 632 634
 
 #### LUX
 LUX T1 LuxExpo Ham
@@ -485,8 +501,10 @@ SWE 3Got KunPla CenSta
 THA ARL A1 A8
 THA DarkRed RN01 RN08
 THA BlueLn BL31 BL11
-THA SilomLn CEN S6
-THA SukLn N10 E5
+THA PinkLn PK14 PK16
+THA SilLn CEN S7
+THA SukLn N17 E5
+THA GoldLn G1 G2
 
 #### TWN
 TWN HSR TPE TAY
@@ -507,8 +525,8 @@ CA CalTra SanJoseDir SanFraKing
 
 ## BART
 CA BARTOra Ber Ric
-CA BARTBlue BalPark BayFair
-CA BARTGre MonSt Ber
+CA BARTBlue BalPark DubPle
+CA BARTGre BalPark Ber
 CA BARTYel Mil 19thStOak
 CA BARTRed Mil 19thStOak
 CA OAKAir OakIntAir Col

@@ -7,11 +7,11 @@ GRC 1The NeosSidSta NeaElv
 
 GRC P1The The Lar
 GRC P2The The Pla
-GRC P3The The 
+GRC P3The The Str
 
 GRC 1Ath Pir Kif
 GRC 2Ath Ell Ant
-GRC 3Ath Ela Aer
+GRC 3Ath DimThe Aer
 
 GRC T6 Syn Mou
 
@@ -27,13 +27,40 @@ NLD RS18 MaaRan Lan
 
 NLD S43Lie BEL/NLD Maa
 
-
-
+BEL IC1 Oos LieGui
+BEL IC2 Oos GentStPie
+BEL IC2 AntBer AntCen
+BEL IC7 ChaCen +DIV_IC6
+BEL IC8 +DIV_IC8 AntBer
+BEL IC16 BruMidi BEL/LUX
+BEL IC18 BruMidi +DIV_L16
 BEL IC20 Bru LieGui
+BEL IC23 Oos Bru 
+BEL IC23 +DIV_IC3 BruAirZav
+BEL IC35 AntCen BruMidi
 
 BEL S43 LieGui BEL/NLD
 
+BEL LonAms FRA/BEL BruMidi
 BEL ParDor FRA/BEL LieGui
 
 
 DEU-NW RE18 NLD/DEU AacHbf
+
+DEU-BY S1 FlugHafMun FlugHafMun
+DEU-BY S8 Hbf FlugHafMun
+DEU-BY RE5 MunHbf DEU/AUT
+DEU-BY RE22 FlugHafMun FlugHafMun
+
+FRA-HDF LonAms GBR/FRA FRA/BEL
+FRA-HDF ParAms IDF/HDF FRA/BEL
+FRA-HDF ParDor IDF/HDF FRA/BEL
+
+ENG LonPar LonStPanInt GBR/FRA
+
+LUX IC16 BEL/LUX LuxGareCen
+
+AUT S2 DEU/AUT SalHau
+AUT S3 DEU/AUT SalHau
+AUT RE5 DEU/AUT SalHbf
+AUT RB45 DEU/AUT SalHbf

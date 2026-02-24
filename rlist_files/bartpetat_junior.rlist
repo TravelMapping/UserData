@@ -1,19 +1,23 @@
 # THE NETHERLANDS
+NLD ICE78 +SKIP_AmsBijAre NLD/DEU
+NLD AmsDis +DIV_Zuid +SKIP_Hoo
 
 NLD RS12 Roe MaaRan
-NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 
 
 NLD RS32 ArnCen Wehl
 NLD RS33 ArnCen +DIV_ICN
+NLD RE19 DEU/NLD ArnCen
 
 NLD S43Lie BEL/NLD Maa
 
 #Metro
+NLD 50Ams StaDui StaBijAre
 
 
 #Tram
+NLD 24Ams Vij VUmcHoo
 
 
 # BELGIUM
@@ -46,6 +50,14 @@ DEU-HB 10Bre MoorStr Hbf
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW RE1 KolnHbf DortMundHbf
+DEU-NW RE18 NLD/DEU AacHbf
+DEU-NW RE19 DusDorfHbf DEU/NLD
+DEU-NW RE49 Wes +DIV_Ste
+
+DEU-NW U43 WesTor KampStr
+DEU-NW U49 DortMundHbf Hac
+
 
 ##  RP - Rheinland-Pfalz
 
@@ -198,7 +210,7 @@ HKG TWLn Cen LaiKing
 #HK Others
 HKG OPOE Wat Sum
 HKG PT Peak CenTer
-HKG HKGAPM T1E T1Mid
+HKG HKGAPM T1E T1W
 
 # MACAU
 

@@ -1,28 +1,33 @@
 # THE NETHERLANDS
 NLD LonAms BEL/NLD AmsCen
 NLD IC35 RotCen NLD/BEL
+NLD ICE77 AmsCen NLD/DEU
+NLD ICE78 AmsCen NLD/DEU
 
 NLD RE1 Lee Gro
 NLD RS1 Lee Gro
+NLD RS2 Lee HarHav
 NLD RS4 Gro Eem
-NLD RS5 Gro Del
-NLD RS7 Gro Vee
+NLD RS5 Del Vee
+NLD RE6 Gro +DIV_RS5
+NLD RE8 Zwo Gro
 NLD RS11 Nij Roe
 NLD RS12 Roe MaaRan
+NLD RE13 DEU/NLD Ven
 NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 NLD RS18 MaaRan KerCen
+NLD RE19 DEU/NLD ArnCen
 NLD RE20 Zwo Emm
-NLD RS20 Zwo Emm
 NLD RS21 Alm Har
-NLD RS22 Zwo Kam
-NLD RS23 Zwo Ens
 NLD RS24 Zut Old
-NLD RE30 Ape Win
+NLD RS30 Ape Zut
 NLD RS31 Zut Win
 NLD RS32 ArnCen Win
 NLD RS33 ArnCen Tiel
 NLD RS34 AmeCen EdeWag
+NLD RB61 DEU/NLD Hen
+NLD RB64 DEU/NLD Ens
 
 NLD S32Ant Roo NLD/BEL
 NLD S43Lie BEL/NLD Maa
@@ -137,34 +142,52 @@ LUX T1 RoutBrePaf StaPlazEto
 
 
 ##  BY - Bayern
+DEU-BY ICE11 BW/BY MunHbf
+DEU-BY ICE18 TH/BY BamBerg
+DEU-BY ICE41 HE/BY WurHbf
+DEU-BY ICE62 MunHbf DEU/AUT
+DEU-BY ICE91 RegHbf DEU/AUT
+
+DEU-BY RE19 BamBerg +DIV_ICCobS
+DEU-BY RE20 BamBerg WurHbf
+DEU-BY RE54 HE/BY +DIV_ICEN
 
 
 ##  BE - Berlin
-DEU-BE S7 BB/BE Hbf
-DEU-BE S25 FriStr PotPla
-DEU-BE S25 SudKre BE/BB
-DEU-BE S41 WestKre_N WestHaf
-DEU-BE S41 OstKre SchBerg
+DEU-BE ICE77 BB/BE BerHbf
+DEU-BE ICE11 GesBru BE/BB
+
+DEU-BE RE1 BB/BE OstKre
+DEU-BE RE2 Spa OstKre
+DEU-BE RE4 BB/BE BE/BB
 
 DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
 DEU-BE S3 MesSud OstKre
 DEU-BE S5 WestKre LicBerg
+DEU-BE S7 ChaBurg LicBerg
+DEU-BE S25 FriStr PotPla
+DEU-BE S25 SudKre BE/BB
+DEU-BE S41 WestKre_N WestHaf
+DEU-BE S41 OstKre SchBerg
 
 DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf LicBerg
-DEU-BE U6 NatMus TemHof
+DEU-BE U6 SchKopStr TemHof
 
 DEU-BE M1 Milastrasse SHacMar
 DEU-BE M8 SUHbf_2 BruStrInvStr
 DEU-BE M10 SUHbf_2 UEbeWalStr
 
 
-
 ##  BB - Brandenburg
-DEU-BB S7 PotHbf BB/BE
+DEU-BB ICE77 ST/BB BB/BE
+
+DEU-BB RE1Bra PotHbf BB/BE
+DEU-BB RE3Jut BE/BB BB/ST
+DEU-BB RE4Rat ST/BB BB/BE
 
 DEU-BB 91Pot LuiPlaSudSan PotHbf
 DEU-BB 92Pot ReiWegAllStr PlaEinWest
@@ -172,29 +195,77 @@ DEU-BB 92Pot ReiWegAllStr PlaEinWest
 
 ##  HB - Bremen
 DEU-HB 3Bre UseAks DomsHei
+DEU-HB RE9 +DIV_HemS HB/NI
 DEU-HB 10Bre MoorStr Hbf
 
 
 ##  HH - Hamburg
+DEU-HH RE4 HamBurgHbf HH/NI
+DEU-HH RE8 HamBurgHbf HH/SH
 
 
 ##  HE - Hessen
+DEU-HE ICE78 RP/HE FraFurtHbf
+DEU-HE ICE3 NI/HE FraFluFer
+
+DEU-HE RE54 FraFurtHbf +DIV_RE55
+DEU-HE RE54 HanHbf HE/BY
 
 
 ##  MV - Mecklenburg-Vorpommern
 
 
 ##  NI - Niedersachsen
+DEU-NI ICE77Bad NLD/DEU NI/NW
+DEU-NI ICE77Osn NW/NI NI/NW
+DEU-NI ICE77 NW/NI NI/ST
+DEU-NI ICE12 ST/NI NI/HE
+
+DEU-NI RE1 HanHbf WunsTorf
+DEU-NI RE2Nat NW/NI NI/NW
+DEU-NI RE2Osn NW/NI OsnHbf
+DEU-NI RE4 HH/NI +SKIP_Sag
+DEU-NI RE9 HB/NI OsnHbf
+DEU-NI RE30 HanHbf WolHbf
+DEU-NI RE60 HanHbf NI/NW
+DEU-NI RB61 NW/NI NI/NW
+DEU-NI RB61Bad NW/NI DEU/NLD
 
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW ICE77 NI/NW NW/NI
+DEU-NW ICE77Bun NI/NW NW/NI
+DEU-NW ICE78 NLD/DEU NW/RP
+DEU-NW IC35 NI/NW MunHbf
+
 DEU-NW ParDor BEL/DEU DortMundHbf
 DEU-NW WupSch VohWinSchBahn OberBarBf
 DEU-NW SkyTrn FernBf TerC
 DEU-NW HB211 TecZen EicHof
 DEU-NW HB212 CamNord CamSud
 
+DEU-NW RE2 MunHbf NW/NI
+DEU-NW RE2Nat NI/NW NW/NI
+DEU-NW RE5 Wes NW/RP
+DEU-NW RE6 +DIV_Gre Min
+DEU-NW RE7 SolHbf WupTalVohWin
+DEU-NW RE8 MonGladBachHbf KolnHbf
+DEU-NW RE9 AacHbf NW/RP
+DEU-NW RE9Opp NW/RP RP/NW
+DEU-NW RE9Sie RP/NW SieHbf
+DEU-NW RE10 Kle DusDorfHbf
+DEU-NW RE13 NLD/DEU +SKIP_WupTalLanFeld
 DEU-NW RE18 NLD/DEU AacHbf
+DEU-NW RE19 DusDorfHbf DEU/NLD
+DEU-NW RE34 DortMundHbf SieHbf
+DEU-NW RE42 MonGladBachHbf +DIV_Hut
+DEU-NW RE49 Wes +DIV_Ste
+DEU-NW RE49 WupTalVohWin WupTalHbf
+DEU-NW RE60 NI/NW NW/NI
+DEU-NW RB61 BieHbf +SKIP_HidSch
+DEU-NW RB61 +DIV_RE60 NW/NI
+DEU-NW RB61Rhe NI/NW NW/NI
+DEU-NW RB64 MunHbf DEU/NLD
 
 DEU-NW S1 DortmundHbf DusseldorfOberbilk
 DEU-NW S5 DortMundHbf +DIV_HagN
@@ -208,6 +279,8 @@ DEU-NW S41Lie BEL/DEU AacHbf
 
 DEU-NW 903Dui KonigHeinrichPlatz TigerTurtle
 
+DEU-NW U43 WesTor KampStr
+DEU-NW U49 DortMundHbf Hac
 DEU-NW U79 Klemensplatz DusseldorfHbf
 DEU-NW U71 UhLandStr HeiHeiAll
 DEU-NW U72 GrafReckeStrasse HeinrichHeineAllee
@@ -216,27 +289,61 @@ DEU-NW U73 GerresheimS AufHardtLVRKlinikum
 
 
 ##  RP - Rheinland-Pfalz
+DEU-RP ICE78 NW/RP RP/HE
+
+DEU-RP RE2 +DIV_MaiE KobHbf
+DEU-RP RE5 NW/RP KobHbf
+DEU-RP RE9 NW/RP RP/NW
+DEU-RP RE9Fur NW/RP RP/NW
 
 
 ##  SL - Saarland
 
 
 ## SN - Sachsen
+DEU-SN ICE18 ST/SN SN/ST
+DEU-SN RJ27 DreHbf DEU/CZE
 
 
 ##  ST - Sachsen-Anhalt
+DEU-ST ICE18 SN/ST ST/TH
+DEU-ST ICE18Lut BB/ST ST/SN
+DEU-ST ICE77 NI/ST ST/BB
+
+DEU-ST RE4 SteHbf ST/BB
 
 
 ##  SH - Schleswig-Holstein
+DEU-SH RE8 HH/SH LubHbf
+DEU-SH RB85 LubHbf Neu
 
 
 ##  TH - Thuringia
+DEU-TH ICE28 ST/TH TH/BY
+DEU-TH ICE18Ess ST/TH TH/ST
 
 
 # DENMARK
 DNK M1 VanLose VesMag
 DNK M2 VanLose LuftHav
 DNK B Norp KobHov
+
+# SWEDEN
+SWE 40Sto ArlCen StoCity
+SWE 43Sto Bro +DIV_CenN
+
+SWE 7Sto StyGat BelWal
+SWE 11Sto Aka TCen
+SWE 17Sto GulPlan BjoHag
+SWE 25Sto Sic SalDuv
+SWE 30Sto SolSta Sic
+
+# NORWAY
+NOR FLY1 NatThe OsloLuf
+NOR L1 NatThe Nyl
+NOR 1Osl Frog Jer
+NOR 11Osl Jer NyBrua
+NOR 12Osl FroPla AkerBry
 
 
 # UNITED KINGDOM
@@ -273,14 +380,6 @@ ENG NorLnBar KXSP LonBri
 
 #Tram
 ENG MetLnkEDR DeaCas ExcSqu
-
-
-# NORWAY
-NOR FLY1 NatThe OsloLuf
-NOR L1 NatThe Nyl
-NOR 1Osl Frog Jer
-NOR 11Osl Jer NyBrua
-NOR 12Osl FroPla AkerBry
 
 
 # FRANCE
@@ -332,9 +431,12 @@ CZE 22Pra Poh Mals
 #Train
 CZE S1 PrahaMasarykovoNadrazi Kolin
 CZE S20 Kolin KutnaHoraHlavniNadrazi
+CZE RJ27 DEU/CZE +DIV_S49
+CZE RJ27 +DIV_S1 PraMasNas
 
 
 # POLAND
+POL S51Kat SucBes Zak
 
 
 
@@ -366,7 +468,8 @@ ESP-VC 7Val Jes Ala
 # Austria
 AUT 49Wie Sch RingVol
 AUT S2Sal DEU/AUT SalHau
-
+AUT ICE62 DEU/AUT KlaHau
+AUT ICE91 DEU/AUT WienHau
 
 #ROMANIA
 

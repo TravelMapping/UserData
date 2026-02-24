@@ -106,8 +106,9 @@ ENG PorDirLn Has Far
 #Riviera Line	Exeter Central – Paignton	https://dcrp.org.uk/
 ENG WoELn ExeCen ExeStDav
 ENG RivLn ExeStDav Pai
-#Rhee Valley Line	Cambridge – Royston	https://meldrethsheprethfoxtonrail.org.uk/
-ENG RheeVlyLn Roy Cam
+#Rhee Valley Line	Cambridge – 	https://camvalleycrp.org.uk/
+ENG RheeVlyLn Mel Cam
+ENG WAML WhiPkwy Cam
 #Purbeck Line	Wareham – Swanage	https://purbeckcrp.org.uk/
 ENG SWML DorSou HolHea
 #Sussex Downs Line	Brighton – Seaford	https://www.southeastcrp.org/
