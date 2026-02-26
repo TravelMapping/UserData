@@ -45,3 +45,25 @@ TX Sky A8 A21
 
 # Washington, DC
 DC RedLn DupCir NoMaGalU
+
+# England
+ENG EliLnHea HeaTer23 Pad
+
+ENG BakLn Pad ChaCro
+
+ENG CirLn EusSq Emb
+
+ENG DisLn SouKen Whi
+
+ENG NorLnBar Eus LonBri
+ENG NorLnBat Eus Emb
+
+ENG PicLn HeaTer23 SouKen
+
+ENG SidLn LonChaCro Lee
+
+ENG DLR +DIV_RoyW Lew
+ENG DLRRoy TowGat +DIV_WooW
+
+ENG WCMLECre LonEus +SKIP_MilKeyCen # I only took this to Bletchley, NOT Milton-Keynes central. Bletchley station isn't available yet as a split on TMRail, though.
+

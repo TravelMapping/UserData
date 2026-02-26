@@ -2333,6 +2333,7 @@ DE DE141 DE9/273 3 #09242017 NTCA Philly
 FL I-4 132 9 #02122017 DeSoto NM Trip    
 FL I-10 AL/FL 85 #081925 Trip to CO Mtg
 FL I-10 174 258 #091225 Cedar Key Trip
+FL I-10 356 I-95 #022526 Glades Board Mtg
 FL I-75 261 228
 FL I-75 164 128A #02122017 DeSoto NM Trip
 FL I-75 23 19
@@ -2340,8 +2341,10 @@ FL I-95 205 249 #02112017 Trip to Canveral National Seashore
 FL I-95 24 52 #03292017 Glades Board Meeting
 FL I-95 147 52 #11262017 Glades Interim - Everglades
 FL I-95 311 337 #07072017 Trip to St Augustine
-FL I-95 273 260 #03282018 Glades Board Meeting     
+FL I-95 273 260 #03282018 Glades Board Meeting
+FL I-95 129 362 #022526 Glades Board Mtg      
 FL I-110 1 6
+FL I-295 I-95 21 #022526 Glades Board Mtg
 FL I-295 61 48 #07072017 Trip to St Augustine
 FL I-295 35 48
 FL I-295 21 10 #07072017 Trip to St Augustine
@@ -2356,6 +2359,7 @@ FL US17 I-295(10) FL16_E #07072017 Trip to St Augustine
 FL US17 FL62 FL70 #11262017 Glades Interim - Everglades
 FL US17 FL70 FL636 #03272024 Glades Board Meeting
 FL US17 FL62 US98_S #02062025 Return from GEC FW
+FL US17 I-295(36) FL/GA #022526 Glades Board Mtg
 FL US19 FL349 FL26 #091225 Cedar Key Trip 
 FL US19 FL/GA I-10 #11092024 Trip to Thomasville
 FL US23 I-295(28) FL/GA #07152018 Hilton Head Trip NTCA      
@@ -2516,6 +2520,7 @@ FL FL812 FL715 US98/441 #03272025 Glades Board Meeting
 FL FL880 FL717 FL15/80 #03272025 Glades Board Meeting 
 FL FL886 US1 FloWay #Going on Crusies out of Miami
 FL FL887 FLA1A PortBlvd #Going on Crusies out of Miami
+GA I-16 1 164 #022526 Glades Board Mtg
 GA I-16 167 157 #03142017 NTCA Meeting Trip
 GA I-16 116 157 #07172018 Meeting in Hilton Head from Jacksonville
 GA I-20 AL/GA 57 #01142018 Atl Airport to Montgomery Mtg
@@ -2534,6 +2539,7 @@ GA I-285 GA279 62A #09202017 Trip to Bread Baker
 GA I-285 43 62 #09202017 Trip to Bread Baker
 GA I-575 9 GA5 #05182018 Atlanta to Lexington  
 GA US17 GA/SC I-16(164) #03142017 NTCA Meeting Trip
+GA US17 FL/GA I-16(164) #022526 Glades Board Mtg
 GA US19 GA122 US82/19Bus #091325 Cedar Key Trip 
 GA US19 GA/NC US76_W #10272017 Return from CVTMA Ashville
 GA US19 I-285(25) US76_W #05182018 Atlanta to Lexington 
