@@ -1,7 +1,7 @@
-#darmstarm's list of routes.
+#everywhere that darmstarm has been up to 2-27-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 11-07-25.
+#last updated 2-27-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -432,6 +432,7 @@ NJ NJ347 NJ47_N NJ47_S
 NJ NJ495 I-95 NJ/NY #medieval times trip as well as an earlier trip with business friends + family
 #virginia
 VA SkyDr US340 US33 #shanendoah trip 10-25 (central) 2020 (north and upper central)
+VA SieRd VA36 US301 #petersburg half 2024 (ran, not driven)
 VA I-64 299 282 #delmarva trip
 VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
@@ -446,6 +447,7 @@ VA I-395 1 8A #hershey trip 2025
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
 VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
+VA US1 I-85(63) VA142 #petersburg half 2024
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US15BusFar US15_S US460Bus_E #panorama farms
@@ -460,12 +462,15 @@ VA US220 US58_E SR609 #fall break trip 10-25
 VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
 VA US301 VA30 I-295 #thanksgiving return trip 2025
+VA US301 I-95(52) US1_S #petersburg half 2024 (ran, not driven)
+VA US301 SieRd US460Bus_W #petersburg half 2024 (ran, not driven)
 VA US340 VA55_W SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
 VA US460 WV/VA I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US460BusChr US460_E US460(2) #shanendoah trip 10-25
 VA US460BusChr US460_W RoaSt #shanendoah trip 10-25
+VA US460BusPet US301_N VA36Trk_W #petersburg half 2024 (ran, not driven) -> went all the way to battersea lane
 VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
 VA VA8 VA57 I-81 #fall break trip 10-25
@@ -474,6 +479,8 @@ VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA27 I-395 BouDr #hershey trip 2025
 VA VA30 SR652 US301/2 #thanksgiving return trip 2025
+VA VA36 BankSt SieRd #petersburg half 2024 (ran, not driven)
+VA VA36Bol BolSt_E US301_N #petersburg half 2024
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25
