@@ -1,4 +1,4 @@
-# Date: 2026-02-10
+# Date: 2026-03-01
 # ----------------
 # ----------------
 
@@ -6,6 +6,18 @@
 ####   RAILWAYS   ####
 ######################
 
+CHE IC3 ZurHau +DIV_S4                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+CHE S4Gal Buc +DIV_S12                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+AUT S2Vor Fel CHE S2Vor Buc                                     #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+AUT S1Vor Bre AUT S1Vor Fel                                     #2026, actually traveled as RJ 666 Feldkirch - Bregenz
+DEU-BW RB53b Aul Kis                                            #2026
+CHE S8 Wal Tha                                                  #2026
+CHE S9 ZurOer Sch                                               #2026
+CHE S10 Uet ZurHau                                              #2026
+CHE S11Sen Die ZurHau                                           #2026
+CHE S14 ZurOer Sch                                              #2026
+CHE S18 ZurSta Reh                                              #2026
+DEU-BW IC87 StuHbf CHE IC87 ZurHau                              #2026, IC185 Stuttgart - Zürich
 FRA-PDL 1PdL Nan Cro                                            #2026
 FRA-PDL 10PdL +SKIP_RezePontRou Por                             #2026, RezePontRou is a regular stop of the service to Pornic
 FRA-PDL 11PdL Nan StGilCroVie                                   #2026
@@ -327,6 +339,30 @@ CHE 9Ber BernBf Wab                #2021, northern route was not in service due 
 #Lausanne
 CHE 1Lau RenGare LauFion           #2025
 CHE 2Lau Cro OucOly                #2025
+
+#Zürich
+CHE 2Zur Far Sta                   #2026
+CHE 2Zur Bel Rom                   #2026
+CHE 3Zur Alb AlbPla                #2026
+CHE 3Zur BahPlaHB Klu              #2026
+CHE 4Zur Cen Reh                   #2026
+CHE 6Zur ETHUni Zoo                #2026
+CHE 7Zur Wol Set                   #2026
+CHE 8Zur Fis Tun                   #2026
+CHE 8Zur BahEngeBed Bel            #2026
+CHE 9Zur Sta Par                   #2026
+CHE 9Zur Bel Hir                   #2026
+CHE 10Zur Cen Fra                  #2026
+CHE 11Zur BahStrHB Tie             #2026
+CHE 12Zur BahSet Fra               #2026
+CHE 13Zur Tun Alb                  #2026
+CHE 14Zur BahPlaHB Tri             #2026
+CHE 17Zur Wer Fis                  #2026
+CHE 20Zur Alt DieZen               #2026
+CHE 24Zur Cen ETH                  #2026
+CHE 25Zur Rom BerDol               #2026
+CHE 50Zur Fra Gla                  #2026
+CHE 51Zur BahAltNord See           #2026
 
 #Praha
 CZE A NemMot DepoHos               #2019
