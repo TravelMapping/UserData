@@ -7,20 +7,34 @@
 #		- 2011 trip to PEI
 #		- 2020 trip to Winnipeg
 #	Mexico:
-#		- 2022 Teotihuacan
+#		- 2022/2026 Teotihuacan
 #		- 2024 road trip
 #	Costa Rica: 2020 trip
 #	US:
+#		- 2000s-2010s trips to Florida (incl, Nashville, NOLA, Savannah/HH, Milwaukee)
+#			- Two routes: through ATL, through AL
+# 		- 2000s trips to Texas
+#		- 2000s-2010s trips to MSP
+#		- 2008 trip to ND
+#		- 2011 trip to Boston
+#		- 2022-23 pre-SDP1967 SE US 
+#			- GA (Columbus, Cloudland, Amicalola)
+#			- AL (dealership, border)
+#			- NC (Charlotte, Blue ridge parkway/Asheville)
 #		- 2022 Alaska
 #		- 2023 Mt Rainier
+#		- 2023 Lassen/California
 #		- 2017 CO/WY/NE
 #		- 2024 Ohio
 #		- 2025 western road trip
+# 	Nicaragua: 2020 CR border to SJDS, Rivas, Granada, Masaya (volcano)
+# 	El Salvador: 2022 Airport to El Zonte, San Salvador
 #
 # South America:
 #	Brazil: 2019 Rio to Sao Paulo
 #	Argentina: 2019 Patagonia trip, Trelew to Puerto Madryn, Mendoza to Chilean border
 #	Chile: 2019 Argentina border to Santiago, Santiago to Valpo
+#	Peru: 2021 trip Lima to Cusco
 #
 # Oceania:
 #	New Zealand: 2023 road trip
@@ -51,33 +65,21 @@
 #	Japan: 2018 Osaka airport
 #	Taiwan: 2024 freeways
 
-# Last SDP1967 update: 2025-10-12
+# Last SDP1967 update: 2026-02-22
 
 
 # TODO
 # North America:
 #	US:
-#		- 2022-23 pre-SDP1967 SE US 
-#			- GA (Columbus, Cloudland, Amicalola)
-#			- NC (Charlotte, Blue ridge parkway/Asheville)
-#			- AL (dealership, border)
-#		- 2000s-2010s trips to Florida (incl, Nashville, NOLA, Savannah/HH, Milwaukee)
-#			- Two routes: through ATL, through AL
-# 		- 2000s trips to Texas
-#		- 2011 trip to Boston
-#		- 2008 trip to ND
-#		- 2000s-2010s trips to MSP
-#		- 2023 Lassen/California
-# 	Nicaragua: 2020 CR border to SJDS, Rivas, Granada, Masaya (volcano)
-# 	El Salvador: 2022 Airport to El Zonte, San Salvador
+#		- 2000s-2010s trips to MSP < I just don't remember enough of these
 #
 # Europe:
 # 	Ukraine: 2017 Kyiv to Chernobyl <- half done
 #	Malta: 2021 trip <- needs secondary roads if added
 #
 # South America:
-#	Peru: 2021 trip Lima to Cusco
-#	Colombia: 2022 Medellin to Guatape
+#	Peru: 2021 trip secondary highways to Colca Canyon dec 23rd, secondary highways atv trip dev 29th
+#	Colombia: 2022 Medellin to Guatape <- mostly complete
 #
 # Africa:
 #	Egypt: 2018 Aswan to Abu Simbel, Cairo/Giza to Saqqarah <- half done
@@ -145,10 +147,11 @@ ON SH589 ON102 SH591
 ON SH590 ON11/17 SH588
 ON SH591 IslLakeRd SH589
 ON SH593 SH588 ON61
-# ON SH631 full length
-# ON SH644 full length?
-# ON SH645 full length
-# ON SH655 full length
+ON SH645 SH529 TraAve
+ON SH529ABay SH529 BayInl
+ON SH667 ON129 MainSt
+ON SH655 ON11 ON101
+# ON SH631 full length?
 
 # Manitoba
 MB MB1 MB/ON 348
@@ -573,10 +576,80 @@ TWN F6 0 29
 CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
 LIE GTS Ege LettStr #from balzers to vaduz post
 
+# Nicaragua
+NIC NIC2 NIC/CRI NIC4A_S
+NIC NIC16 NIC2 PueSanJuan
+NIC NIC4A NIC2_S VolMas
+
+# El Salvador
+SLV RN5 AerSal CA2/PAZ5
+SLV CA2 RN5/PAZ5 LIB18
+SLV CA4S CA2 CA1
+SLV CA1W CA4 AvRev
+SLV RN21 CA1_E CA1_W
+SLV CA1W RN21_W RN10
+SLV RN10 CA1 CA8
+SLV CA8 RN10 CA1
+
+# Peru
+PER PE20I PE20B ViaCosVer
+PER ViaCosVer PE20I CL/LM
+PER CirPla CL/LM SubArm
+PER SubArm CirPla AvMigGrau
+PER ExpLuisRey AvBen AvGrau
+PER PE1S 18 PE1SPis_N
+PER PE1SPis PE1S_N PE1SB
+PER PE1SG AvAme_E PE1SF
+PER PE1SF PE1SG PE28
+PER PE28 PE1S PueSanMar
+PER PE1S PE28 PE34A
+PER PE34A PE1S PE3S
+PER PE34C PE34A_W AvPar
+PER PE34E PE34A Chi_S
+PER PE3S PE36B AvEje
+PER PE3S ProlJaq AvHumUnda
+PER PE28F PE3S PE28B
+PER PE28B PE28F Oll
+
+# Colombia
+COL AutNorMed Cl89 ToRN60_E
+COL RN60 AutNor Cra25
+COL ViaPal AvPob RN56AN12
+COL RN56AN12 ViaPal RN60AN03
+
 
 # US
+# Alabama
+AL I-59 AL/GA 231
+AL I-65 AL/TN 171
+AL I-565 1 9
+AL US80 I-85(6) US82/231
+AL US82 US80/231 US231_S
+AL US231 US82_E FL/AL
+AL I-10 AL/FL 20
+
 # Alaska
 AK AK1 LakeLouRd PorGlaRd
+
+# California
+CA US101 441 388B
+CA I-880 8B I-280
+CA I-280 54 3A
+CA CA87 9 1A
+CA CA85 2 24B
+CA I-680 I-280/101 71
+CA I-580 44A 65
+CA I-205 I-580 I-5
+CA I-5 458B 519B
+CA CA99 518(5) 241
+CA CA120 1A 6
+CA I-80 8B 56
+CA I-505 1A I-5
+CA I-5 553 678
+CA CA44 2 CA89_S
+CA LasPeakHwy CA44/89 CA89_S
+CA CA89LasVolNP CA36_W
+CA CA36 I-5CA89_N
 
 # Colorado
 CO I-25 216 WY I-25 111 #~denver to glendo
@@ -591,15 +664,81 @@ CO PenaBlvd I-70 Ter #airport
 CO I-70 266 284
 CO CO52FMo CO14 I-76
 
+# Connecticut
+CT I-395 CT/MA 47
+
+# Georgia
+GA GA183 GA53 GA52
+GA GA52 GA183 US19_S
+GA GA53 US19/400 GA183
+GA GA136 GA189 I-59
+GA I-59 11 AL/GA
+
+# Florida
+FL US231 FL/AL I-10
+FL I-4 75A I-275
+FL I-275 45B 28
+FL FL429 22 1
+FL US192 FL429 I-4
+FL I-10 292 AL/FL
+FL I-110 6 1
+
+# Illinois
+IL US51 I-74(135) I-64
+IL I-94 25B 74
+
+# Indiana
+IN I-80 11 IN/OH
+IN IN15 I-80/90 LinAve
+
+# Iowa
+IA I-35 IA/MN MO/IA
+IA I-235 I-80(137) I-80(123)
+
+# Kansas
+KS I-35 KS/MO OK/KS
+
+# Massachusetts
+MA I-90 NY/MA 123B
+MA I-395 12 CT/MA
+MA I-495 89 58
+MA MA2 113 46(91)
+MA I-91 46 11
+MA LowCon GorSt US3 
+MA US3 MA/NH 72
+MA I-95 50A 55
+MA I-93 28 24
+MI I-94 USA/CAN 216
+MI I-75 53B 20
+MI LECT I-75(47B) USA/CAN
+
 # Michigan
 MI I-94 198 194
 MI I-275 17 I-75
 MI I-75 20 OH/MI
 
+# Minnesota
+MN I-35 259 127
+MN MN210 I-35 US10_W
+MN US10 MN210_W ND/MN
+MN I-35E 127 88A
+MN I-35W I-35(127) I-35(88)
+MN I-35Far 88A IA/MN
+MN I-94 234A 241C
+
+# Mississippi
+MS I-110 4 1A
+
+# Missouri
+MO I-35 MO/IA KS/MO
+
 # Nebraska
 NE NE29 US20 US26 #to mitchell
 NE US26 NE29 NE71_S #to scottsbluff
 NE NE71 US26_E CO/NE
+
+# New Hampshire
+NH US3 MA/NH Eve(1)
 
 # New Jersey
 NJ NJ23 CR515 US46
@@ -616,12 +755,26 @@ NJ GarStaPkwy 142 131A
 NJ NJ27 GarStaPkwy ParRd
 NJ I-280 15 8
 
+# New York
+NY I-90 53(NYST) NY/MA
+
+# North Carolina
+NC US25 SC/NC 8
+NC I-26 54 31
+NC BlueRidPkwy US441 NC226
+NC US70 ColSt_W BlueRidPkwy
+NC US19 US74_E US441_S
+NC US29 I-485(32) BruSmiBlvd
+NC I-485 I-85(48) 32
+
+# North Dakota
+ND US10 ND/MN US81Bus
+
 # Ohio
 OH OH315 4 OH750
 OH OH750 OH315 US23
 OH US23 OH750 101
 OH I-270 23 20
-OH I-75 OH/MI 195B
 OH I-475 20 16
 OH I-280 I-75 6A
 OH OH51 I-280 OH579
@@ -630,6 +783,37 @@ OH OH2 OH579 138
 OH US6 CleRd_E CedPoiDr
 OH OH4 ColAve_S I-80/90
 OH I-80 110 64
+OH I-90 IN/OH OH/PA
+OH I-75 OH/MI KY/OH
+
+# Oklahoma
+OK I-35 OK/KS TX/OK
+
+# South Carolina
+SC I-185 HenAve 14
+SC US25 I-185(15) SC/NC
+SC I-385 36 42
+SC US29 SC183 HenAve
+
+# Tennessee
+TN I-65 59 AL/TN
+TN TN55 I-24 VisCtr
+
+# Texas
+TX I-35Gai TX/OK 467
+TX I-35E 467 370B
+TX I-35W 85 I-35(370B)
+TX I-35 370B 158
+TX I-37 142 TanSt
+TX US181 I-37(1C) BurSt
+TX I-69ERob I-37 FM2826
+TX US77 CR36 I-69E(1C)
+TX I-169 I-69E FM1847
+TX TX550 FM1847 TX48
+TX TX48 I-69E TX100
+TX TX4 TX48 End
+TX TX100 I-69E PR100
+TX I-2 176 160
 
 # Washington
 WA I-5 151 169
@@ -648,6 +832,12 @@ WA WA516 WA515 I-5 #military rd s
 WA WA513 45thSt WA520
 WA WA520 WA513 I-5
 WA I-405 I-5(154) 2
+
+# Wisconsin
+WI I-94 310C 305
+WI I-41 38 120
+WI US45 120(41) 273(10)
+WI US10 273 I-94
 
 # Wyoming
 WY WY319 ASt US18/20 #leaving glendo
@@ -738,17 +928,17 @@ FL US90 I-75 FL247
 FL FLTpk 307 47A
 FL FL429 22 30
 FL FL414 4B 8
-FL FL436 PieWekRd I-4
+FL FL436 US441 I-4
 FL I-4 92 75A
 FL FL408 4 FLTpk
 FL FL408 10B 14A
 FL FL436 FL408 FL528
 FL FL528 11 4
-FL FL435 OldWinGarRd MajBlvd
+FL FL435 OldWinGarRd FL482
 FL I-95 FL/GA 380
 FL US17 I-95(380) FL200/A1A
 FL US17 WilBurBlvd PecParkRd
-FL I-95 366 351B
+FL I-95 366 24
 FL FL111 I-95 FL115
 FL FL115Cal FL111 I-95
 FL I-10 I-95 292
@@ -757,13 +947,26 @@ FL FL50 FLTpk(267B) BluAve
 FL FLTpkMia 4X I-95/826
 FL I-95 12A 1A
 FL I-395 1 2A
-FL FL112 I-95/195 FL948
+FL FL112 I-95/195 MiaIntAir
 FL FL948 FL112 FL826
 FL FL826 I-75 FL874
 FL FL874 FL826 FLTpk
 FL FLTpk 17 1
 FL US1 FLTpk TruAve_W 
 FL FLA1AKey US1 BerSt
+FL I-595 10 8A
+FL FL972 BriAve 37thAve
+FL FL968 FL9 US441
+FL FL9 FL836 FL968
+FL FL933 FL968 US41
+FL US41 US441_End FL9
+FL MainParkRd RoyPalm FL9336
+FL FL9336 EveNP US1
+FL FL836 FL826 I-95/395
+FL FL482 FL528 FL527
+FL FL527 FL482 MicSt
+FL FL414 I-4 RoseAve
+FL US441 HiaRd FL436
 
 
 # GA I
@@ -946,6 +1149,8 @@ GA GA348 GA180 GA75Alt
 GA GA75AltCle GA348 US129Byp
 GA GA115 US129Byp GA52_W
 GA GA41 US280_E US27Alt_S
+GA GA75 US129 AsbRd
+GA GA75ConCle GA75 US129
 
 # ID 
 ID I-15 UT/ID 47
@@ -1181,6 +1386,16 @@ UT UT9 I-15 ZionCan
 #zion
 UT ZionCynDr UT9 End
 UT I-15 16 AZ/UT
+UT UT17 I-15 UT9
+UT UT20 I-15 US89
+UT US89 I-70(23) UT12
+UT UT12 US89 UT63
+UT UT63 UT12 BryCanNP
+UT BryCynSceDr UT63 End
+UT I-70 23 56
+UT US191 US6_W StoDr
+UT US6 US191_N I-15(257B)
+UT I-15 308 257B
 
 # VA
 VA I-77 NC/VA VA/WV
@@ -1234,7 +1449,8 @@ WY US287 I-80(215) US287Byp_S
 WY US287BypRaw US287_S US287_N
 WY US287 US287Byp_N YelNP
 WY SEntRd US89/191 GraLoopRd
-WY GraLoopRd SEntRd NEntRd_E
+WY GraLoopRd SEntRd WEntRd
+WY GraLoopRd NEntRd_E WEntRd
 WY WEntRd GraLoopRd MT/WY
 WY NorCanRd GraLoopRd_W GraLoopRd_E
 WY GraLoopRd DunRavPass MudVolGey

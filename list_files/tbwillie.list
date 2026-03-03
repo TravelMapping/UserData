@@ -475,7 +475,7 @@ ma us1 ri/ma ma/nh
 ma us3 ma/nh ma3
 ma us5 ct/ma ma/vt
 ma us6 ri/ma ma24
-ma us6 braave lecholrd
+ma us6 ma6a_e braave
 ma us7 ct/ma ma/vt
 ma us20 ny/ma ma2_e
 ma us44 ri/ma ma3a
@@ -497,9 +497,8 @@ ma ma3 us3 1
 ma ma3aply ma3_n ma3_s
 ma ma3alow ma/nh us3_s
 ma ma4 ma2 ma3a
-ma ma6ayar us6_w ma130
-ma ma6ayar ma134 ma124
-ma ma6ayar us6_e ma28
+ma ma6apro us6_w us6_e
+ma ma6ayar us6_w us6_e
 ma ma7aash ct/ma us7_n
 ma ma7alen us7_n us7_s
 ma ma8 ct/ma ma/vt
@@ -521,8 +520,7 @@ ma ma23 ny/ma us20
 ma ma24 ri/ma i-93
 ma ma25 i-495 ma28
 ma ma27 ma106 ma4
-ma ma28 ma6a ma132
-ma ma28 i-95 ma149 
+ma ma28 i-95 us6 
 ma ma28anor ma28_s ma28_n
 ma ma30 us20 ma122
 ma ma31 ma/nh ct/ma
@@ -597,7 +595,7 @@ ma ma127 ma1a/22 ma62
 ma ma128 ma127a 12(95)
 ma ma130 ma28 ma6a
 ma ma131 us20 ma/ct
-ma ma132 us6 ma28
+ma ma132 ma6a ma28
 ma ma134 ma6a ma28
 ma ma135 us20 i-95 
 ma ma137 ma6a ma28
@@ -612,7 +610,7 @@ ma ma146 ri/ma 21
 ma ma146auxb ma122 ri/ma
 ma ma147 sprst us5
 ma ma148 ma122 us20
-ma ma149 ma28 us6
+ma ma149 ma6a ma28
 ma ma150 i-495 ma110
 ma ma151 ma28a ma28_e
 ma ma152 ri/ma us1
