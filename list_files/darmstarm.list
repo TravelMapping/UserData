@@ -250,8 +250,11 @@ NC US64 404 KelRd # diavolo 10-25
 NC US64BusWen NC231 I-440 #roadtrip 8-13-25 finished november 2025
 NC US70 LomSt 292 #roadtrip 11-25
 NC US74 306 MainSt #wingate trip 10-25
+NC US74 US117/132 US76_E #wilmington 5k 2024
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US74BusRoc US74_W 1 #wingate trip 10-25
+NC US76 US17/74 StoSt #wilmington 5k 2024
+NC US117 I-40(420) US74 #wilmington 5k 2024
 NC US158 I-40 HanMallBlvd #JDL
 NC US158 US15 I-85(206) #multiple trips
 NC US221 OldUS421_W US321_N #BRR 9-25
@@ -338,7 +341,7 @@ GA GA39 GA91_S GA91_N
 GA GA45 GA91_S US27_S
 GA GA47 US1 I-20
 GA GA57 GA112 GA68
-GA GA68 GA57 GA15_N #incomplete
+GA GA68 GA57 GA15_N #panama city trip 2025
 GA GA91 FL/GA US19Bus/82Bus
 GA GA112 GA257_E GA57 #possibly took a divvy onto balls ferry road but i don't know for sure and there's no closer marker
 GA GA141 SpaDr I-285
