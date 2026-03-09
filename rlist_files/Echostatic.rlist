@@ -59,6 +59,10 @@ TX CapMetRail Lea Dow
 DEU-BB S9 BE/BB FlugHafBER
 DEU-BE S9 Bel BE/BB
 
+#Sydney Trains
+AUS-NSW T1Ric Cen Par
+AUS-NSW T8 Cen IntAir
+
 #Light Rail
 
 #DART Light Rail
@@ -108,3 +112,4 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+
