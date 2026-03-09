@@ -64,8 +64,7 @@ CO US24 CO91 CO9_N
 
 CO US36 CO119_W I-270(0)
 
-CO US40 3rdSt CO9
-CO US40 CO125 I-70BLDen_W
+CO US40 3rdSt I-70BLDen_W
 
 CO US50 McCulBlvd 101(25)
 
@@ -84,6 +83,7 @@ CO US287 HarRd MulSt
 CO CO121 CO470 RalRd
 CO CO85 I-25 VenBlvd_N
 #I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
+CO CO88 Bro I-25(199)
 
 
 
@@ -263,8 +263,12 @@ MI US127 40 194
 MI US127 201 I-75
 
 
-#NEXT UP
+
 #Minnesota
+MN I-35 253A 259
+MN I-535 WI/MN GarAve
+MN US2 I-35(253A) MN/WI
+MN MN61 I-35 Bro
 
 
 
@@ -275,27 +279,63 @@ MO I-670 KS/MO 1B
 MO I-670 2Q 2N
 
 
+
+#MONTANA
+MT I-90 446A 450
+
+
+
+#NEW HAMPSHIRE
+NH I-95 2 NH/ME
+NH I-93 7 I-89
+NH I-89 I-93 NH/VT
+
+
+
+#NEW YORK
+NY I-86 PA/NY 21
+NY US219 I-86(21) NY242_W
+
+
+
+#NORTH CAROLINA
+NC US129 NC28 NC/TN #We turned off for Magazine Branch parking at the top of the curve, prior to the next TM marker. 
+
+
+
+#NEXT UP - Finish OH(?!) I've done CLE, Toledo, and other Northern OH roads. Next up is Columbus and rest of Southern portion of map. 
+
+
 #OHIO
 #only entered Cleveland-area highways so far (but tried to enter all my travels on them throughout the state)
 
 OH I-71 KY/OH I-90
+OH I-75 KY/OH OH/MI
 OH I-77 147 156
 OH I-80 71 151
 OH I-80 152 173
 OH I-90 71 142
 OH I-90 OH2_W OH/PA
 
+OH I-475 1 20
 OH I-480 I-80_W 21(271)
 OH I-490 1A OH10_E
 OH I-270 I-71 55
 OH I-271 18 26A
+OH I-280 1A I-75
 
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
 OH US20 US322_W US6_W
+OH US23 I-75(193) OH/MI
+OH US30 IN/OH US127/224
+OH US33 38 OH/IN
+
 OH US42 KY/OH TarCemRd
 OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
+OH US127 US33/707 US30/224
+
 OH US322 PubSqu KenRd
 #Technically missing the block between 12th and 13th (Masthead Brewing)
 OH US422 PubSqu I-77

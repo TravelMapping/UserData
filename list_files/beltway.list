@@ -180,6 +180,9 @@ DNK O2Vej O1_W O1_N
 DNK OVib RodeVej_W RodeVej_E
 ##Vordinborg##
 DNK OVor ChrWinVej AlGade_W
+##Torshavn##
+FRO O1 HavGot Lv12
+FRO O2 O1 Lv10/11
 
 #FINLAND#
 ##Helsinki##
