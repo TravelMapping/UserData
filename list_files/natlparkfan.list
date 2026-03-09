@@ -24,10 +24,10 @@ AZ	AZ101	52B	61B	#2012-03_2016-03
 AZ	AZ179	I-17	AZ89A	#2013-12
 AZ	AZ181	AZ186	PinCanRd	#2014-03
 AZ	AZ186	I-10	AZ181	#2014-03
-AZ	AZ202	1A	13	#2012-03_2016-03
 AZ	AZ202	16	28	#2012-12
-AZ	AZ260	AZ89A	I-17	#2013-12
+AZ	AZ202	1A	13	#2012-03_2016-03
 AZ	AZ260	AZ87_S	US60_W	#2016-03
+AZ	AZ260	AZ89A	I-17	#2013-12
 AZ	AZ387	AZ187	AZ87	#2012-03_2016-03
 AZ	AZ389	UT/AZ	US89Alt	#2019-03
 AZ	AZ51	I-10	15	#2012-03_2016-03
@@ -37,8 +37,8 @@ AZ	AZ80	I-10BL	AZ92	#2014-03
 AZ	AZ82	PerAve	AZ90	#2014-03
 AZ	AZ85	AjoMtnDr	I-8	#2014-03
 AZ	AZ86	AZ85	16thAve	#2014-03
-AZ	AZ87	US60	AZ260_E	#2012-03_2012-12_2016-03
 AZ	AZ87	I-10	AZ202(47)	#2012-03_2016-03
+AZ	AZ87	US60	AZ260_E	#2012-03_2012-12_2016-03
 AZ	AZ89A	I-17(340)	I-40BL	#2008-12 Grand Canyon
 AZ	AZ89A	I-17(340)	I-40BL	#2010-04 Arizona Colorado
 AZ	AZ89A	MainSt	JunCir	#2013-12
@@ -55,12 +55,12 @@ AZ	I-17	214C	298	#2013-12
 AZ	I-19	34	95	#2014-03
 AZ	I-19	8	29	#2014-03
 AZ	I-19BLNog	AZ82	I-19_N	#2014-03
+AZ	I-40	311	333	#2010-04 Arizona Colorado
 AZ	I-40	CA/AZ	204	#2008-12 Grand Canyon
 AZ	I-40	CA/AZ	285	#2010-04 Arizona Colorado
-AZ	I-40	311	333	#2010-04 Arizona Colorado
 AZ	I-40	CA/AZ	AZ/NM	#2016-07_2019-03_2024-05
-AZ	I-40BLFla	US89	I-40_E	#2008-12 Grand Canyon
 AZ	I-40BLFla	AZ89A	US89	#2010-04 Arizona Colorado
+AZ	I-40BLFla	US89	I-40_E	#2008-12 Grand Canyon
 AZ	I-40BLHol	I-40_W	AirRd	#2010-04 Arizona Colorado
 AZ	I-40BLHol	US180/77	AirRd	#2024-05 Wagons Ho
 AZ	I-40BLSel	I-40_W	I-40_E	#2008-12 Grand Canyon
@@ -71,8 +71,8 @@ AZ	I-8	CA/AZ	115A	#2014-03
 AZ	LoopRd	US89_S	US89_N	#2008-12 Grand Canyon
 AZ	LoopRd	US89_S	US89_N	#2010-04 Arizona Colorado
 AZ	MonCanRd	CorMemOve	AZ92	#2014-03
-AZ	PetForRd	US180	I-40	#2010-04 Arizona Colorado
 AZ	PetForRd	PinRd	I-40	#2016-07 Help Me I'm Melting
+AZ	PetForRd	US180	I-40	#2010-04 Arizona Colorado
 AZ	PetForRd	US180	I-40	#2024-05 Wagons Ho
 AZ	US160	US89	AZ/NM	#2010-04 Arizona Colorado
 AZ	US180	I-40BL/77	PetForRd	#2010-04 Arizona Colorado
@@ -85,9 +85,9 @@ AZ	US66HisFla	AZ89A	US180_E	#2010-04 Arizona Colorado
 AZ	US66HisKin	AirAve	I-40(53)	#2010-04 Arizona Colorado
 AZ	US66HisKin	OatRd	I-40(44)	#2010-04 Arizona Colorado
 AZ	US89	I-40BL/180	LoopRd_N	#2008-12 Grand Canyon
-AZ	US89	LoopRd_N	US160	#2010-04 Arizona Colorado
 AZ	US89	I-40BL/180	LoopRd_S	#2010-04 Arizona Colorado
-AZ	US89	I-40BL/180	AZ/UT	#2019-03
+AZ	US89	I-40BL/180	AZ/UT	#2019-03 To Instagram and Beyon
+AZ	US89	LoopRd_N	US160	#2010-04 Arizona Colorado
 AZ	US89AHisCla	TuzRd	AZ89A_N	#2013-12
 AZ	US89AltFre	AZ389	AZ/UT	#2019-03
 AZ	US93	I-40(48)	AZ/NV	#2008-12 Grand Canyon
@@ -100,22 +100,22 @@ BC	BC99	GeoSt_E	DenSt	#1996-05 Seattle Vancouver
 BC	BC99	USA/CAN	PacSt	#1996-05 Seattle Vancouver
 BC	TCHMai	26	92	#1996-05 Seattle Vancouver
 CA	BigOakRd	CA120	ElPorRd	#1997-06 San Francisco Yosemite
-CA	CA1	399A	414B	#1997-06 San Francisco Yosemite
-CA	CA1	CA183	442	#2005-06 Road Trip to Seattle
-CA	CA1	509B	PanHwy_E	#2008-08 San Francisco
-CA	CA1	CryCoveSP	CA55	#2011-04 Newport Beach
 CA	CA1	191B(101)	408	
+CA	CA1	399A	414B	#1997-06 San Francisco Yosemite
+CA	CA1	509B	PanHwy_E	#2008-08 San Francisco
 CA	CA1	5thSt	62B(101)	
 CA	CA1	72(101)	PadJuanRd	
+CA	CA1	CA183	442	#2005-06 Road Trip to Seattle
+CA	CA1	CryCoveSP	CA55	#2011-04 Newport Beach
 CA	CA1	PalVerBlvd	OxnBlvd	
 CA	CA110	21	26	
 CA	CA113	I-80(70)	37	#2018-10 Gold Rush
-CA	CA118	CA126	TieRejRd	#2008-08 San Francisco
 CA	CA118	18	44A	#2008-12 Grand Canyon
 CA	CA118	18	46B	#2009-02 Joshua Tree
 CA	CA118	18	42A	#2009-04 Sequoia
 CA	CA118	18	42A	#2009-08 Mammoth
 CA	CA118	18	42A	#2010-04 Arizona Colorado
+CA	CA118	CA126	TieRejRd	#2008-08 San Francisco
 CA	CA118	CA126	46B	
 CA	CA120	1A	YosNP	#1997-06 San Francisco Yosemite
 CA	CA126	1A	5	#2008-08 San Francisco
@@ -186,17 +186,17 @@ CA	CA49	US50	MotLodeCen	#2018-10 Gold Rush
 CA	CA55	1	5A	#2011-04 Newport Beach
 CA	CA55	11A	14	
 CA	CA56	1A	9	
-CA	CA57	22C	25B	#2009-02 Joshua Tree
 CA	CA57	1A	25B	
+CA	CA57	22C	25B	#2009-02 Joshua Tree
 CA	CA58	CA223	165	#2022-12 Cesar Chavez
 CA	CA58BusMoj	CA58(165)	CA14_N	#2022-12 Cesar Chavez
 CA	CA58BusTeh	CA202_W	CA58(151)	#2013-01 Cesar Chavez
 CA	CA60	29A	I-10(93)	#2009-02 Joshua Tree
 CA	CA60	I-10(16B)	I-10(93)	
 CA	CA62	I-10	UtahTr	#2009-02 Joshua Tree
-CA	CA63	CA201_W	CA180	#2008-03 Hume Lake
 CA	CA63	CA137	CA198(105B)	#2009-04 Sequoia
-CA	CA67	MapSt	ScrPowPkwy	
+CA	CA63	CA201_W	CA180	#2008-03 Hume Lake
+CA	CA67	MapSt	ScrPowPkwy	#2014-03 Wild West
 CA	CA68	17MileDr_S	CA1(399A)	#1997-06 San Francisco Yosemite
 CA	CA68	CA1(401B)	US101	#2024-04 Amgen Offsite Monterey
 CA	CA71	12B	CA57	#2009-02 Joshua Tree
@@ -207,9 +207,9 @@ CA	CA78	1A	SanDieZoo
 CA	CA82	I-880	WolRd	
 CA	CA85	1C	5	
 CA	CA87	1A	6A	
-CA	CA88	CA89_N	CA/NV	
-CA	CA89	CA36_W	LasVolNP	
-CA	CA89	CA88_W	BliSP	
+CA	CA88	CA89_N	CA/NV	#2024-10 Eastern Sierras
+CA	CA89	CA36_W	LasVolNP	#2014-07 Last Hurrah
+CA	CA89	CA88_W	BliSP	#2024-10 Eastern Sierras
 CA	CA90	CA1	2	
 CA	CA91	24	51	#2008-12 Grand Canyon
 CA	CA91	45	65B	#2014-11 SCSBOA
@@ -219,45 +219,45 @@ CA	CA99	I-5(221)	131	#2012-08 Yosemite
 CA	CA99	I-5(221)	13	#2022-12 Cesar Chavez
 CA	ElPorRd	BigOakRd	SouDr	#1997-06 San Francisco Yosemite
 CA	GenHwy	CA198	KinCanRd	#2009-04 Sequoia
-CA	I-10	77B	168	#2009-02 Joshua Tree
-CA	I-10	3	4	#2022-12 Cesar Chavez
 CA	I-10	1	CA/AZ	
+CA	I-10	3	4	#2022-12 Cesar Chavez
+CA	I-10	77B	168	#2009-02 Joshua Tree
 CA	I-105	1A	StuRd	
 CA	I-110	9	21	
+CA	I-15	11	CA/NV	
+CA	I-15	150	184B	#2010-04 Arizona Colorado
 CA	I-15	194	CA/NV	#2008-12 Grand Canyon
 CA	I-15	96	191	#2008-12 Grand Canyon
-CA	I-15	150	184B	#2010-04 Arizona Colorado
-CA	I-15	11	CA/NV	
 CA	I-205	I-580	I-5	#1997-06 San Francisco Yosemite
 CA	I-210	1A	45	#2009-02 Joshua Tree
 CA	I-215	I-15	34	
-CA	I-280	54	57	#1997-06 San Francisco Yosemite
 CA	I-280	43B	49B	#2008-08 San Francisco
+CA	I-280	54	57	#1997-06 San Francisco Yosemite
 CA	I-305	1A	4A	#1997-06 San Francisco Yosemite
 CA	I-305	1A	6	#2018-10 Gold Rush
 CA	I-380	5A	6	#2008-08 San Francisco
 CA	I-40	144	CA/AZ	#2008-12 Grand Canyon
 CA	I-40	I-15	141	#2008-12 Grand Canyon
 CA	I-40	I-15	CA/AZ	#2010-04 Arizona Colorado
+CA	I-405	53B	I-5(158)	#2022-12 Cesar Chavez
 CA	I-405	71A	I-5(158)	#2008-12 Grand Canyon
 CA	I-405	71A	I-5(158)	#2009-04 Sequoia
 CA	I-405	71A	I-5(158)	#2009-08 Mammoth
 CA	I-405	71A	I-5(158)	#2010-04 Arizona Colorado
-CA	I-405	53B	I-5(158)	#2022-12 Cesar Chavez
 CA	I-405	I-5(94A)	I-5(158)	
 CA	I-40BLNee	I-40_W	I-40_E	#2008-12 Grand Canyon
-CA	I-5	458B	518	#1997-06 San Francisco Yosemite
-CA	I-5	158	CA/OR	#2005-06 Road Trip to Seattle
 CA	I-5	114B	156B	#2008-12 Grand Canyon
+CA	I-5	158	CA/OR	#2005-06 Road Trip to Seattle
 CA	I-5	158	162	#2008-12 Grand Canyon
 CA	I-5	158	221	#2009-04 Sequoia
 CA	I-5	158	162	#2009-08 Mammoth
 CA	I-5	158	162	#2010-04 Arizona Colorado
 CA	I-5	158	221	#2022-12 Cesar Chavez
 CA	I-5	16A	156B	
+CA	I-5	458B	518	#1997-06 San Francisco Yosemite
 CA	I-505	1A	I-5	#2005-06 Road Trip to Seattle
-CA	I-580	8B(80)	65	#1997-06 San Francisco Yosemite
 CA	I-580	1A	I-5	
+CA	I-580	8B(80)	65	#1997-06 San Francisco Yosemite
 CA	I-5TrkNew	I-5_S	CA14	
 CA	I-605	1A	27	
 CA	I-680	12	71	#1997-06 San Francisco Yosemite
@@ -266,10 +266,10 @@ CA	I-710	1B	ValBlvd
 CA	I-780	1A	7	
 CA	I-8	23	CA/AZ	
 CA	I-8	SunCliBlvd	4B	
+CA	I-80	1A	82	
 CA	I-80	2	8B	#1997-06 San Francisco Yosemite
 CA	I-80	40B	82	#1997-06 San Francisco Yosemite
 CA	I-80	8B	56	#2005-06 Road Trip to Seattle
-CA	I-80	1A	82	
 CA	I-805	25B	I-5(31)	
 CA	I-880	4C	12	#1997-06 San Francisco Yosemite
 CA	I-880	I-280	46B	#2005-06 Road Trip to Seattle
@@ -287,10 +287,10 @@ CA	PinBasRd	I-10	ParkBlvd	#2009-02 Joshua Tree
 CA	SouDr	ElPorRd	NorDr	#1997-06 San Francisco Yosemite
 CA	SouDr	ElPorRd	NorDr	#2012-08 Yosemite
 CA	TioPassRd	BigOakRd	OldBOFRd_E	#1997-06 San Francisco Yosemite
+CA	US101	1A	460	
 CA	US101	336	431	#1997-06 San Francisco Yosemite
 CA	US101	66B	328	#2005-06 Road Trip to Seattle
 CA	US101	66B	445B	#2008-08 San Francisco
-CA	US101	1A	460	
 CA	US101BusSal	HarrRd	CA183_S	
 CA	US101BusVen	US101_S	US101_N	
 CA	US395	CA14	MarSt	#2008-04 Manzanar Death Valley
@@ -304,17 +304,17 @@ CA	US66HisAzu	CA134	HillAve
 CA	US66HisAzu	GraAve	MonVisAve	
 CA	US66HisAzu	SanAniAve	BueVisSt	
 CA	US66HisBar	AmbRd	KelRd	#2024-05 Wagons Ho
-CA	US66HisBar	I-40(107)	US95_N	#2025-09 Great Basin
 CA	US66HisBar	I-15(150)	AirExpy	
 CA	US66HisBar	I-15(184)	I-40(1)	
+CA	US66HisBar	I-40(107)	US95_N	#2025-09 Great Basin
 CA	US66HisHol	I-10	WilBlvd	
 CA	US66HisSPa	MonRd	CA110	
 CA	US6HisSan	AngForHwy	PeaHwy	#2008-12 Grand Canyon
 CA	US95	GofRd	CA/NV	
 CA	US97	I-5	CA/OR	#2005-06 Road Trip to Seattle
 CA	VLSBTul	CaveLpRd	HillRd_N	#2005-06 Road Trip to Seattle
-CA	WawRd	ChiRd	SouDr	#1997-06 San Francisco Yosemite
 CA	WawRd	CA41	SouDr	#2012-08 Yosemite
+CA	WawRd	ChiRd	SouDr	#1997-06 San Francisco Yosemite
 CO	I-270	0	I-70	
 CO	I-70	279B	CO/KS	
 CO	I-70	37	232	
@@ -326,9 +326,10 @@ CT	I-95	NY/CT	CT/RI
 DC	I-295	MD/DC	5	
 DC	I-395	7	10	
 DC	I-495	VA/DC	DC/MD	
-DC	I-66	VA/DC	US50_E	
+DC	I-66	US50_E	EStExpy	#2022-10 NCI RAS Symposium
 DC	I-695	I-395	2A	
 DC	I-95	VA/DC	DC/MD	
+DC	US50	VA/DC	17thSt	#2022-10 NCI RAS Symposium
 FL	FL406	I-95	US1	#2023-04 Orlando AACR
 FL	FL407	FL528	I-95	#2023-04 Orlando AACR
 FL	FL442	I-95	US1	#2023-04 Orlando AACR
@@ -381,58 +382,68 @@ HI	I-H201	1A	I-H1	#2021-12 Kauai Oahu
 HI	I-H3	1B	14	#2021-12 Kauai Oahu
 IL	I-155	0	28	#2007-06 Illinois Missouri
 IL	I-155	0	28	#2008-07 Illinois Missouri
+IL	I-155	0	28	#2010-07 Illinois Missouri
 IL	I-155	0	I-74	
 IL	I-190	0	ChiOHAir	
 IL	I-270	3	15	#2015-06 Land of Lincoln
 IL	I-280	18	I-80	#2013-03 Spring Break
 IL	I-290	I-90	I-90/94	
-IL	I-294	22	40A	#2009-06 Great Train Trip
-IL	I-294	40B	42	#2017-07 Double the Fun
 IL	I-294	0	52	
+IL	I-294	22	40A	#2009-06 Great Train Trip
 IL	I-294	23C	40A	
+IL	I-294	40B	42	#2017-07 Double the Fun
 IL	I-355	7A	I-290	
 IL	I-39	14	48	#2009-06 Great Train Trip
-IL	I-39	59	99	#2017-07 Double the Fun
 IL	I-39	14	48	#2021-06 After the Blip
 IL	I-39	17(90)	IL/WI	#2025-04 Illinois Wisconsin
+IL	I-39	59	99	#2017-07 Double the Fun
 IL	I-474	0	15	
+IL	I-55	163	250	#1989-05 Chapter Camp
 IL	I-55	163	277A	#2007-06 Illinois Missouri
-IL	I-55	MO/IL	127	#2007-06 Illinois Missouri
 IL	I-55	163	277A	#2008-07 Illinois Missouri
-IL	I-55	MO/IL	127	#2008-07 Illinois Missouri
 IL	I-55	163	277B	#2009-06 Great Train Trip
+IL	I-55	3A	127	#2010-07 Illinois Missouri
+IL	I-55	MO/IL	127	#2007-06 Illinois Missouri
+IL	I-55	MO/IL	127	#2008-07 Illinois Missouri
 IL	I-55	MO/IL	US41	
 IL	I-55BLBlo	I-55_S	I-55_N	
 IL	I-55BLSpr	I-55_S	CookSt_W	#2008-07 Illinois Missouri
+IL	I-55BLSpr	I-55_S	IL97	#2010-07 Illinois Missouri
 IL	I-55BLSpr	I-55_S	I-55_N	
 IL	I-57	184	237	#2015-06 Land of Lincoln
 IL	I-57	237	358	
+IL	I-70	MO/IL	3	#2010-07 Illinois Missouri
+IL	I-72	141	182	
+IL	I-72	MO/IL	97	#2010-07 Illinois Missouri
 IL	I-72	MO/IL	97	#2011-06 Ultimate Road Trip
 IL	I-72	MO/IL	97	#2024-05 Wagons Ho
-IL	I-72	141	182	
+IL	I-74	102	127	#1989-05 Chapter Camp
 IL	I-74	112	127	#2007-06 Illinois Missouri
 IL	I-74	112	127	#2009-06 Great Train Trip
 IL	I-74	IA/IL	IL/IN	
+IL	I-80	126	IL/IN	#1989-05 Chapter Camp
+IL	I-80	33	IL/IN	
 IL	I-80	81	126	#2009-06 Great Train Trip
 IL	I-80	IA/IL	4	#2013-03 Spring Break
-IL	I-80	33	IL/IN	
 IL	I-88	1	I-290	#2013-03 Spring Break
 IL	I-90	43B(94)	IL/IN	#2012-06 Midwest Adventures
 IL	I-90	47	77	#2017-07 Double the Fun
-IL	I-90	WI/IL	77	#2025-04 Illinois Wisconsin
 IL	I-90	79C	82A	
 IL	I-90	79C	82B	
+IL	I-90	WI/IL	77	#2025-04 Illinois Wisconsin
 IL	I-90	WI/IL	IL/IN	
+IL	I-94	42	IL/IN	#1993-11 John and Liz
+IL	I-94	42	IL/IN	#1994-10 Saugatuck
 IL	I-94	42	IL/IN	#2008-07 Illinois Missouri
 IL	I-94	WI/IL	IL/IN	
 IL	IL116	CR13	N2100E	
 IL	IL116	CR78	MaxRd	
-IL	IL116	HarHwy	IL89	
+IL	IL116	HarHwy	IL117_S	
+IL	IL117	I-74	IL116_W	
 IL	IL117	I-74	US150	
-IL	IL117	I-74	US24	
-IL	IL120	US14	WheSt	#2025-04 Illinois Wisconsin
 IL	IL120	IL134	US41	
-IL	IL121	LinPkwy	I-55	
+IL	IL120	US14	WheSt	#2025-04 Illinois Wisconsin
+IL	IL121	LinPkwy	I-55	#2018-08 Here's to the Ones Who Dream
 IL	IL122	LocSt	CR9	
 IL	IL126	US30/59	I-55	#2025-04 Illinois Wisconsin
 IL	IL137	IL83	SheRd	
@@ -445,9 +456,9 @@ IL	IL18	IL26_S	I-39	#2017-07 Double the Fun
 IL	IL19	I-90/94	US41	
 IL	IL21	IL43	I-94	
 IL	IL22	US45/21	US41	
+IL	IL23	IL116	I-55	#2021-06 After the Blip
 IL	IL23	IL38	DekAve_E	#2017-07 Double the Fun
 IL	IL23	IL64_E	PlaRd	#2017-07 Double the Fun
-IL	IL23	IL116	I-55	
 IL	IL251	I-80	CR33	#2017-07 Double the Fun
 IL	IL251	I-80	CR33	#2021-06 After the Blip
 IL	IL26	IL17	IL18_E	#2017-07 Double the Fun
@@ -458,12 +469,12 @@ IL	IL351	IL71_E	I-80	#2017-07 Double the Fun
 IL	IL38	I-39	IL23	#2017-07 Double the Fun
 IL	IL40	I-74(94)	DetDr	
 IL	IL43	I-290	US41	
-IL	IL47	I-55	I-80	#2012-06 Midwest Adventures
 IL	IL47	CR32	I-90	#2017-07 Double the Fun
+IL	IL47	I-55	I-80	#2012-06 Midwest Adventures
 IL	IL47	US14	IL120	#2025-04 Illinois Wisconsin
+IL	IL50	I-290	US41	
 IL	IL50	IL19	US14	#2007-06 Illinois Missouri
 IL	IL50	IL19	US14	#2008-07 Illinois Missouri
-IL	IL50	I-290	US41	
 IL	IL53	I-55(267)	I-88	
 IL	IL53	I-90	KirRd	
 IL	IL58	IL72	US41	
@@ -475,10 +486,10 @@ IL	IL68	US45/21	I-94
 IL	IL72	RosRd	DevAve	
 IL	IL78	US150_E	IL17_W	
 IL	IL78	US34_W	I-80	
-IL	IL8	FarRd	IL116_W	
-IL	IL83	US45_S	I-55	#2009-06 Great Train Trip
-IL	IL83	LakeCookRd	IL53	#2025-04 Illinois Wisconsin
+IL	IL8	FarRd	US24	
 IL	IL83	I-55	IL56	
+IL	IL83	LakeCookRd	IL53	#2025-04 Illinois Wisconsin
+IL	IL83	US45_S	I-55	#2009-06 Great Train Trip
 IL	IL9	CouSt	US51Bus	
 IL	IL98	IL29	I-155	
 IL	LMCT	SouBlvd	US14_W	
@@ -487,25 +498,26 @@ IL	US12	OakSt	IL64
 IL	US136	1stSt	I-74	
 IL	US14	DevAve	IL50	#2007-06 Illinois Missouri
 IL	US14	US12/45	US41_E	
+IL	US150	IL78_S	BellSchRd	
+IL	US150	MorAve	IL117	#2009-06 Great Train Trip
+IL	US150	OraPraRd	US45_N	
 IL	US150	VetDr	IL117	#2007-06 Illinois Missouri
 IL	US150	VetDr	IL117	#2008-07 Illinois Missouri
-IL	US150	MorAve	IL117	#2009-06 Great Train Trip
-IL	US150	IL78_S	BellSchRd	
-IL	US150	OraPraRd	US45_N	
-IL	US24	US24BusWas_E	I-39	#2009-06 Great Train Trip
 IL	US24	US150/116	IL/IN	
+IL	US24	US24BusWas_E	I-39	#2009-06 Great Train Trip
+IL	US24BusWas	US24_W	US24_E	
 IL	US30	I-55	IL7	
 IL	US34	IL17_E	IL78_N	
 IL	US41	57thDr	IL132	
 IL	US45	CR18	I-74	
 IL	US51	I-72(141)	I-90(1)	
 IL	US51BusBlo	US51_S	I-55	
-IL	US6	IL47_S	IL47_N	#2012-06 Midwest Adventures
-IL	US6	IL351_S	I-39	#2017-07 Double the Fun
 IL	US6	IL23/71	SenRd	#2023-01 Welfare Check
+IL	US6	IL351_S	I-39	#2017-07 Double the Fun
+IL	US6	IL47_S	IL47_N	#2012-06 Midwest Adventures
 IL	US6	RidRd	I-55	#2024-02 Where There is a Will
-IL	US66His	IL7_N	I-55(268)	#2008-07 Illinois Missouri
 IL	US66His	I-55BL_LinW	I-55(133)	#2018-08 Here's to the Ones Who Dream
+IL	US66His	IL7_N	I-55(268)	#2008-07 Illinois Missouri
 IL	US66His	LinPkwy_N	SouSt	#2018-08 Here's to the Ones Who Dream
 IL	US66His	US24	IL23_N	#2021-06 After the Blip
 IN	I-465	20	35	
@@ -518,24 +530,62 @@ IN	I-70	75	IN/OH
 IN	I-74	IL/IN	IN/OH	
 IN	I-80	IL/IN	IN/OH	
 IN	I-90	IL/IN	IN/OH	
+IN	I-94	IL/IN	IN/MI	#1989-05 Chapter Camp
+IN	I-94	IL/IN	IN/MI	#1993-11 John and Liz
+IN	I-94	IL/IN	IN/MI	#1994-10 Saugatuck
 IN	I-94	IL/IN	26	#2008-07 Illinois Missouri
-IN	I-94	IL/IN	IN/MI	
 IN	IN49	I-94	US12	#2008-07 Illinois Missouri
+MD	ClaBarPkwy	MacBlvd_W	I-495	#2010-09 Washington DC
+MD	I-270	2	32	#2022-10 NCI RAS Symposium
+MD	I-495	19	MD/VA	#2010-09 Washington DC
+MD	I-495	38	MD/VA	#2022-10 NCI RAS Symposium
+MD	I-70	52	54	#2022-10 NCI RAS Symposium
+MD	MD193	I-495	MD320	#2010-09 Washington DC
+MD	MD26	US15	MonBlvd	#2022-10 NCI RAS Symposium
+MD	MD320	DC/MD	MD193	#2010-09 Washington DC
+MD	MD390	MD384	MD97	#2010-09 Washington DC
+MD	MD450	MD424	MD178	#2010-09 Washington DC
+MD	MD85	MD80	MonBlvd	#2022-10 NCI RAS Symposium
+MD	MD97	US29/384	I-495	#2010-09 Washington DC
+MD	US15	12	17	#2022-10 NCI RAS Symposium
+MD	US15	VA/MD	10	#2022-10 NCI RAS Symposium
+MD	US29	DC/MD	MD97/384	#2010-09 Washington DC
+MD	US50	7	16	#2010-09 Washington DC
+MI	I-196	I-94	36	#1994-10 Saugatuck
+MI	I-75	249	USA/CAN	#1989-05 Chapter Camp
+MI	I-75	56	72	
+MI	I-94	IN/MI	74	#1989-05 Chapter Camp
+MI	I-94	IN/MI	213B	#1993-11 John and Liz
+MI	I-96	190A	192B	#1993-11 John and Liz
+MI	I-96	I-275_S	186B	
+MI	LMCTLpSau	I-196(36)	CenSt	#1994-10 Saugatuck
+MI	MI134	I-75	PirBayRd	#1989-05 Chapter Camp
+MI	MI14	I-94	I-96	
+MI	MI40	31stSt	I-94	
+MI	MI55	US131_N	US127	#1989-05 Chapter Camp
+MI	MI8	I-96	I-75	
+MI	US127	194	I-75	#1989-05 Chapter Camp
+MI	US131	34	180	#1989-05 Chapter Camp
 MO	I-270	5	8	#2007-06 Illinois Missouri
 MO	I-44	230	292	#2007-06 Illinois Missouri
 MO	I-44	277B	291A	#2008-07 Illinois Missouri
-MO	I-55	291A(44)	MO/IL	#2007-06 Illinois Missouri
+MO	I-44	292A	I-70	#2010-07 Illinois Missouri
 MO	I-55	199	MO/IL	#2008-07 Illinois Missouri
+MO	I-55	291A(44)	MO/IL	#2007-06 Illinois Missouri
+MO	I-70	220	MO/IL	#2010-07 Illinois Missouri
+MO	I-72	157	MO/IL	#2010-07 Illinois Missouri
 MO	MO141	I-44	BigBendRd	#2007-06 Illinois Missouri
 MO	MO30	US50/61	KinBlvd	#2008-07 Illinois Missouri
+MO	MO79	I-70	I-72/36	#2010-07 Illinois Missouri
 MO	US50	I-44(277B)	MO30	#2008-07 Illinois Missouri
+MO	US66His	WasAve	TucBlvd_N	#2010-07 Illinois Missouri
 NM	US160	AZ/NM	NM/CO	#2010-04 Arizona Colorado
 NV	CATrl	NV206_N	US395_S	
 NV	CR215	12	28	
 NV	EntRd	NV488	VisCen	#2025-09
 NV	HRAirCon	I-215	RusRd	
-NV	I-11	15B	76	#2008-12 Grand Canyon
 NV	I-11	14	93	
+NV	I-11	15B	76	#2008-12 Grand Canyon
 NV	I-15	CA/NV	42	#2008-12 Grand Canyon
 NV	I-15	CA/NV	NV/AZ	
 NV	I-215	1	12	
@@ -559,8 +609,8 @@ NV	NV756	NV88	US395
 NV	NV88	CA/NV	US395	
 NV	US395	CA/NV	US50_W	
 NV	US395BusCar	US395_S	WilSt	
-NV	US50	US6BusEly_W	US93_N	#2025-09
 NV	US50	CA/NV	US395_S	
+NV	US50	US6BusEly_W	US93_N	#2025-09
 NV	US6	US93_S	NV487	#2025-09
 NV	US93	I-15(64)	17thSt	#2025-09
 NV	US93BusBou	US93_S	US93_N	#2008-12 Grand Canyon
@@ -571,16 +621,16 @@ ON	ON3Win	AmbBrg	ON401(5)	#1993-11 John and Liz
 ON	ON401	5	183	#1993-11 John and Liz
 OR	CraCrkRd	OR62	RimDr	#2005-06 Road Trip to Seattle
 OR	CraLakeHwy	RimDr	OR138	#2005-06 Road Trip to Seattle
-OR	CraLakeRimDr	CraLakeHwy_W	W RimVlg	#2005-06 Road Trip to Seattle
 OR	CraLakeRimDr	CraCrkRd	CraLakeHwy_E	#2005-06 Road Trip to Seattle
+OR	CraLakeRimDr	CraLakeHwy_W	RimVlg	#2005-06 Road Trip to Seattle
 OR	I-205	I-5	OR/WA	#2005-06 Road Trip to Seattle
 OR	I-405	I-5(299B)	I-5(302B)	#2005-06 Road Trip to Seattle
-OR	I-5	302B	OR/WA	#2005-06 Road Trip to Seattle
-OR	I-5	CA/OR	299B	#2005-06 Road Trip to Seattle
 OR	I-5	252	253	#2017-03 Oregon Washington
 OR	I-5	256	297	#2017-03 Oregon Washington
 OR	I-5	300A	302B	#2017-03 Oregon Washington
+OR	I-5	302B	OR/WA	#2005-06 Road Trip to Seattle
 OR	I-5	303A	OR/WA	#2017-03 Oregon Washington
+OR	I-5	CA/OR	299B	#2005-06 Road Trip to Seattle
 OR	I-84	I-5	40	#2005-06 Road Trip to Seattle
 OR	I-84	I-5	31	#2017-03 Oregon Washington
 OR	LCTrl	US101	HemSt_N	#2017-03 Oregon Washington
@@ -611,25 +661,36 @@ OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03 Oregon Washington
 OR	US97	272	OR62	#2005-06 Road Trip to Seattle
 OR	US97	OR138	195	#2005-06 Road Trip to Seattle
 OR	US97BusKla	OR39Kla	US97_N	#2005-06 Road Trip to Seattle
+VA	GWMemPkwy	I-66	I-495	#2022-10 NCI RAS Symposium
+VA	I-495	MD/VA	49	#2010-09 Washington DC
+VA	I-495	MD/VA	43	#2022-10 NCI RAS Symposium
+VA	I-66	47	64	#2010-09 Washington DC
+VA	I-66	67	VA/DC	#2022-10 NCI RAS Symposium
+VA	US15	VA7_E	VA/MD	#2022-10 NCI RAS Symposium
+VA	US29	UniBlvd	PleValRd	#2010-09 Washington DC
+VA	VA234	I-66(47)	SR659	#2010-09 Washington DC
+VA	VA267	9B	I-66	#2022-10 NCI RAS Symposium
+VA	VA28	DulAirRd	VA7	#2022-10 NCI RAS Symposium
+VA	VA7	US15/7Bus	VA28	#2022-10 NCI RAS Symposium
 WA	AirExpy	WA518	Ter	#1996-05 Seattle Vancouver
 WA	AirExpy	WA518	Ter	#1998-11 MRCC Surprise
 WA	AirExpy	WA518	Ter	#2000-10 Joe and Margaret
 WA	AirExpy	WA518	Ter	#2022-09 Washington State
 WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
 WA	I-205	OR/WA	I-5	#2005-06 Road Trip to Seattle
+WA	I-405	11	14	#2022-09 Washington State
 WA	I-405	I-5(154)	11	#1996-05 Seattle Vancouver
 WA	I-405	I-5(154)	14	#1998-11 MRCC Surprise
 WA	I-405	I-5(154)	14	#2000-10 Joe and Margaret
 WA	I-405	I-5(154)	14	#2005-06 Road Trip to Seattle
-WA	I-405	11	14	#2022-09 Washington State
 WA	I-405	I-5(154)	10	#2022-09 Washington State
 WA	I-5	127	USA/CAN	#1996-05 Seattle Vancouver
+WA	I-5	105	132	#2022-09 Washington State
 WA	I-5	164	169	#1998-11 MRCC Surprise
+WA	I-5	164	166	#2022-09 Washington State
 WA	I-5	165	168B	#2005-06 Road Trip to Seattle
 WA	I-5	OR/WA	154	#2005-06 Road Trip to Seattle
 WA	I-5	OR/WA	36	#2017-03 Oregon Washington
-WA	I-5	105	132	#2022-09 Washington State
-WA	I-5	164	166	#2022-09 Washington State
 WA	I-90	2	25	#1996-05 Seattle Vancouver
 WA	I-90	31	85	#2022-09 Washington State
 WA	I-90	WA519	25	#2022-09 Washington State
@@ -651,11 +712,11 @@ WA	WA169	154thPl	WA900	#2022-09 Washington State
 WA	WA20	CorBayRd	I-5	#1996-05 Seattle Vancouver
 WA	WA20	CouPorFry	EngRd	#2022-09 Washington State
 WA	WA20	MainSt_Cou	WA153	#2022-09 Washington State
-WA	WA202	WA203	SnoPkwy	#1996-05 Seattle Vancouver
 WA	WA202	RedWay	187thAve	#1998-11 MRCC Surprise
 WA	WA202	RedWay	ToltHillRd	#2000-10 Joe and Margaret
 WA	WA202	RedWay	ToltHillRd	#2005-06 Road Trip to Seattle
 WA	WA202	RedWay	187thAve	#2022-09 Washington State
+WA	WA202	WA203	SnoPkwy	#1996-05 Seattle Vancouver
 WA	WA202	WA203	I-90	#2022-09 Washington State
 WA	WA20Por	US101	PorCouFry	#2022-09 Washington State
 WA	WA20SprAna	WA20	AnaFry	#2022-09 Washington State
@@ -668,10 +729,10 @@ WA	WA518	AirExpy	I-5	#1996-05 Seattle Vancouver
 WA	WA518	AirExpy	I-5	#1998-11 MRCC Surprise
 WA	WA518	AirExpy	I-5	#2000-10 Joe and Margaret
 WA	WA518	AirExpy	I-5	#2022-09 Washington State
+WA	WA520	I-405	LakSamPkwy	#2022-09 Washington State
 WA	WA520	I-5	WA202	#1998-11 MRCC Surprise
 WA	WA520	I-5	WA202	#2000-10 Joe and Margaret
 WA	WA520	I-5	WA202	#2005-06 Road Trip to Seattle
-WA	WA520	I-405	LakSamPkwy	#2022-09 Washington State
 WA	WA542	I-5	NFD33	#1996-05 Seattle Vancouver
 WA	WA547	WA542	WA9	#1996-05 Seattle Vancouver
 WA	WA7	WA706	WA512	#1996-05 Seattle Vancouver
@@ -682,10 +743,3 @@ WA	WA900	148thSt	I-90	#2022-09 Washington State
 WA	WA970	I-90	US97	#2022-09 Washington State
 WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
 WA	WA99	QueAnneDr	38thSt	#1998-11 MRCC Surprise
-MI	I-94	IN/MI	213B	#1993-11 John and Liz
-MI	I-96	190A	192B	#1993-11 John and Liz
-MI	US131	34	180	#1989-05 Chapter Camp
-MI	MI55	US131_N	US127	#1989-05 Chapter Camp
-MI	US127	194	I-75	#1989-05 Chapter Camp
-MI	I-75	249	USA/CAN	#1989-05 Chapter Camp
-MI	MI134	I-75	PirBayRd	#1989-05 Chapter Camp
