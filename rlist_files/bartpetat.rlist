@@ -457,6 +457,21 @@ ESP-VC 7Val Jes Ala
 
 
 # PORTUGAL
+#Train
+PRT LnAzaSin Sin Ori
+PRT LnSinRos LisRos Sin
+PRT LnCas CaisSod Alg
+PRT LnAzaApo Ori Aza
+PRT LnAve PorSaoBen Ave
+PRT LnBra PorSaoBen Bra
+
+#Metro
+PRT E Aer Tri
+PRT D Tri JarMor
+
+#Tram
+PRT 28ELis Gra IgrSanMarMad
+PRT 15ELis PraCom MosJer
 
 
 # ITALY
@@ -476,6 +491,8 @@ AUT ICE91 DEU/AUT WienHau
 #TURKEY
 
 #UKRAINE
+UKR M1 Vok Dni
+UKR M2 KonPla MaiNez
 
 
 # AMERICA
