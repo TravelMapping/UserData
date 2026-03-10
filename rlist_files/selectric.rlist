@@ -1,4 +1,4 @@
-#### U N I T E D   S T A T E S
+#### N O R T H   A M  E R I C A
 
 ### Amtrak
 
@@ -31,6 +31,9 @@ NC AZ SC/NC NC/VA
 SC AZ GA/SC SC/NC
 VA AZ NC/VA LorAutoTra
 
+# Adirondack
+NY AD PennSta QC AD Mon
+
 # Coast Starlight
 OR CS CA/OR OR/WA
 WA CS OR/WA SeaKingSt
@@ -40,6 +43,10 @@ CA CS UniSta CA/OR
 MA DE BosNor MA/NH
 ME DE NH/ME Bru
 NH DE MA/NH NH/ME
+
+# Cascades
+BC AC USA/CAN VanPacCen
+WA AC SeaKingSt USA/CAN
 
 
 ### Misc
@@ -53,12 +60,13 @@ NJ AirTrn NewLibAir TerA
 NY AirTrnATL T8_E T8_W
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
+GA PlaTrn DomTer FGatIntTer
+VA AerTrn ConB ConCD
 
 ## Walt Disney World Monorail
 FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
-
 
 ### MBTA
 
@@ -70,8 +78,8 @@ MA RedLnBra Bra Ale
 
 ## Light Rail
 MA RedLnM Ash Mat
-MA GreLnE HeathSt Lec
-MA GreLnD Riv Lec
+MA GreLnE HeathSt MedTuf
+MA GreLnD Riv UniSq
 MA GreLnC CleCir GovCen
 MA GreLnB BosCol GovCen
 
@@ -80,7 +88,7 @@ MA FoxLn Fox BosSou
 MA ProLn RI/MA BosSou
 RI ProLn WicJct RI/MA
 
-### San Francisco
+### San Francisco Bay Area
 
 ## MUNI
 
@@ -100,6 +108,10 @@ CA MuniF 17thCas Bea
 # BART
 CA BARTYel SanFraAir Mac
 CA BARTBlue BalPark WestOak
+CA BARTRed SanFraAir Ash
+
+# Caltrain
+CA CalTra Mil SanFraKing
 
 ### San Diego
 CA BlueLn 12thImpTC OldTownTC
@@ -167,6 +179,7 @@ WA SouLakeUniLn FaiCamDr WesHub
 CT NewHavLn NY/CT NHStaSt
 NY NewHavLn GraCen NY/CT
 CT NewHavLnWat Bri Wat
+NY HudLn GraCen Pou
 
 ## LIRR
 NY BabBra PennSta Bab
@@ -176,6 +189,7 @@ NY OysBayBra Jam OysBay
 NY GreBra Ron Gre
 NY LongBeaBra PennSta LongBea
 NY RonBra PennSta Ron
+NY RonBraGCT GraCen Ron
 NY WHemBra AtlTer WHem
 
 ## NYCTA
@@ -200,7 +214,7 @@ NY E JamCenParArc WTC
 NY F KewGarUniTpke ConIslStiAve
 NY G CouSq 15StProPk
 NY SRoc BroCha RocParkBea116St
-NY J BroSt MyrAve
+NY J BroSt JamCenParArc
 NY L 8Ave CanRocPkwy
 NY M W4St ForHil71Ave
 NY N AstDitBlvd ConIslStiAve
@@ -233,6 +247,13 @@ NJ RivLn EntCen Tre
 NJ HBLR8HT LibSP HobTer
 NJ HBLRHTT HobTer PortImp
 
+## NJT Rail
+NJ NECorLn NY/NJ Tre
+# Dinky!
+NJ NECorLnPri PriJct Pri
+NJ NJerCoaLn NY/NJ BayHead
+NJ MonBooLn NY/NJ Dov
+NJ MainLn Hob SecJct
 
 ### Philadelphia
 
@@ -248,6 +269,8 @@ PA BroRidSpr Chi Gir
 PA Rte15 63rd Del
 PA Rte11 DarTC 13th
 PA Rte101 OraSt 69thStTC
+
+# SEPTA Regional Rail
 NJ TreLn PA/NJ Tre
 PA TreLn Phi30thSt PA/NJ
 PA AirLn PHLTerEF Phi30thSt
@@ -277,6 +300,54 @@ NOR 4Osl Stoo Toy
 NOR 5Osl Sog Jer_2
 
 
+### Ireland
+
+## Dublin
+
+IRL RedLnTal ThePnt Smi
+
+
+### United Kingdom
+
+## London
+
+# Heathrow Airport
+ENG HT5Tra GatA1A23 GatC52C66
+
+# National Rail
+ENG NorCityLn Moo AlePal
+ENG ThaLnk StPanInt LonBri
+ENG HEx HeaTer23 HeaTer5
+ENG EliLnHea HeaTer23 CusHou
+ENG BasLn LonWat Wey
+ENG LTSLn LonFenSt WestHam
+ENG StaEx LonLivSt StaAir
+
+# London Underground
+ENG WaCLn Wat Bank
+ENG CenLn BondSt Str
+ENG NorLn CamTown Bank
+ENG NorLnBat KenTown Wat
+ENG PicLn EarCou FinPark
+ENG VicLn FinPark Vic
+ENG CirLn EdgRd_1 EdgRd_2
+ENG DisLnEdg Wim EdgRd
+ENG DisLnEdg Wim EdgRd
+ENG BakLn Pad Emb
+ENG JubLn BondSt Str
+
+# London Overground
+ENG MilLn CamRd Str
+
+# Docklands Light Railway
+ENG DLRStI Str CanTown
+ENG DLRStr CanWha Str
+ENG DLRRoy TowGat PriReg
+ENG DLRBec CanTown PriReg
+ENG DLR Bank CutSark
+ENG DLRWoo Bank CanTown
+
+
 
 #### A S I A
 
@@ -297,3 +368,10 @@ HKG KTLn HoManTin PriEdw
 HKG SIslLn Adm SouHor
 HKG TMLn KaiTak Aus
 HKG TWLn Cen TsuWan
+
+
+### Mainland China
+
+## Shenzhen Metro
+CHN-GD SZMLn1 LuoHu WinOfTheWor
+CHN-GD SZMLn2 GraThe HouHai

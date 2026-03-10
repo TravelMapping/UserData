@@ -45,3 +45,6 @@ DC RedLn MD/DC DC/MD
 MD RedLnGle DC/MD Gle
 VA YelLN Hun VA/DC
 DC YelLn VA/DC MtVerSq
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+CA SRTGre 13thSt 7thRic

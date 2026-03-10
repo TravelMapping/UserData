@@ -1,16 +1,16 @@
 
-CA A Was 7thStMetCen
-CA A UniSta APUCitCol
+CA A WilRosaPar APUCitCol
 CA B NHol UniSta
-CA C AviLAX HarFwy
+CA C LAXMTC Nor
 CA D WilWes UniSta
-CA E ExpoPkUSC 7thStMetCen
-CA E *OldGoldLn Atl
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
 CA SanBerLn CalStaLA Cla
 
-CA BlueLn SanYsiTC SanFeDep
-CA GreLn 12thImpTC SanTownCen
-CA OraLn Cou ArnAve
+CA BlueLn SanYsiTC UTCTC
+CA CopLn ElCaj SanTownCen
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
 CA Spr Oce VisTC
 CA Coa SanFeDep Oce
 
@@ -29,6 +29,18 @@ CA SRTGre 13thSt 7thRic
 CA PS Oce +DIV_Uni1
 CA PS UniSta +DIV_Uni2
 
+CO ALn UniSta Peo
+CO DLn LitMin 18thCal
+CO DLn 18thSto Loop
+CO ELn RidPkwy UniSta
+CO HLn I-25Bro TheDisConCen
+CO LLn 30thDow +DIV_LLn_S
+CO LLn 16thCal Loop
+CO NLn UniSta Eas124th
+CO RLn Lin Peo
+CO WLn EmpFieMileHigh UniSta
+CO DENTrn AGat BGat
+
 DC DCSC UniSta OklAve
 VA BluLn FraSpr MD BluLn DowLar
 MD GreLnSui BraAve MD GreLn Gre
@@ -37,7 +49,14 @@ MD RedLn ShaGro MD RedLnGle Gle
 VA SilLn WieResE MD SilLn LarTownCen
 VA YelLn Hun DC YelLn DC/MD
 
-IL BlueLn OHa Ros
+DE WilNewLn DE/PA Wil
+
+IL BlueLn OHa ForPk
+IL BroLn +DIV_NW Loop
+IL GreLn Cli +DIV_SE
+IL MLBlueLn MO/IL EastRiv
+IL MLRedLn MO/IL EastRiv
+IL NCS UniSta OHaTra
 
 MA BluLn Won Bow
 MA OraLn ForHil OakGro
@@ -54,44 +73,97 @@ MA NewLn BosNor Che
 MI QLn GraBlvd ConSt
 MI DetPeoMov Mic_S Mic_N
 
-MO KCSC UniSta CityMar
-MO KCSC RivMarW RivMar
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN NorLn CoonRapRiv TarFie
+MN HubTram Ter1 HubBui
+
+MO KCSC UniSta RivMar
+MO MLBlueLn CenWestEnd MO/IL
+MO MLRedLn DelLp MO/IL
+
+NJ HBLRWST New TonAve
+NJ NLRCS PennSta GroSt
+NJ PATCO PA/NJ Bro
+NJ PATHH33 Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+NJ RivLn WalRandTC Tre
+NJ NECorLn NY/NJ Tre
+NJ KS PA/NJ NJ/NY
 
 NV LVM BalParLV Har/Linq
 NV AE ParkMGM Bel
 NV MBT ManBay ExcNor
 
 NY 1 59StColCir SouFry
-NY 4 161StYanSta AtlAveBarCen
+NY 2 14St NewAve
+NY 3 TimSq42St NewLotsAve
+NY 4 161StYanSta +SKIP_GraArmyPla
+NY 5 PreSt FlaAveBroCol
+NY 5 BroBriCityHall BorHall
+NY 6 GraCen AstPl
+NY 6 BleSt BroBriCityHall
 NY 7 34StHudYar FluMainSt
 NY A 14St BroJct
 NY B 59StColCir AtlAveBarCen
-NY G CouSq 4Ave
+NY C 81StMusNH 23St
+NY D 34StHerSq 36thSt
+NY E JacHeiRooAve WTC
+NY F JacHeiRooAve 14thSt
+NY F YorkSt KinHwy
+NY G CouSq ChuAve
 NY J BroSt SutBlvdArcAve
 NY L 8Ave CanRocPkwy
 NY M MyrWycAves BroLafSt
-NY Q 96St +DIV_R/W
+NY M 14St 42StBryPark
+NY N QuePlaza +SKIP_9thSt
+NY Q 96St ParAve
 NY R LexAve59St BayRid95St
+NY W 49St TimSq42St
+NY W 23St 8StNYU
 NY S42 TimSq GraCen
+NY SPro FraAve ProPk
 NY SIR StGeo Elt
-NJ PATHJ33 JouSq NY PATHJ33 14St
-NJ PATHNWT NewPenn JouSq
+
 NY BabBra PennSta Jam
+NY NECorLn PennSta NY/NJ
+NY KS NJ/NY PennSta
+NY PATHH33 NJ/NY 33St
+NY PATHJ33 NJ/NY 33St
+NY PATHHWT NJ/NY WTC
+NY PATHNWT NJ/NY WTC
+NY PortWasBra PennSta MetsWilPt
+NY RIT Man RooIsl
+NY AirTrnHow HowBea Loop
 
 OK BriLoop SciPark_N MyrGar
 OK BriLoop Bal SciPark_S
 OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
-OR BlueLn BeaTraCen Hol42ndAve
-OR GreLn PSUSou RoseQuaTraCen
+OR BlueLn HatGovCen CleAve
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
-OR RedLn BeaTraCen Hol42ndAve
-OR YelLn PSUSouCol ExpoCen
-OR NSLn BondLane +DIV_Wat
-OR NSLn 5thMon Joh_S
-OR NSLn +DIV_Lov_S +DIV_Nor
-OR NSLn +DIV_Lov_N Joh_N
+OR RedLn BeaTraCen PorIntAir
+OR YelLn PSUSou ExpoCen
+OR ALp 9thLov_N 9thLov_S
+OR BLp +DIV_Lov_S +SKIP_CenLib
+OR BLp GraHol +SKIP_11thMar
+OR BLp +DIV_Nor 11thMar_N
+OR NSLn LowBond Joh_N
+OR WesExpSer BeaTraCen Wil
+
+OR AC PorUniSta BC AC VanPacCen
+OR CS PorUniSta OR/WA
+
+PA BroStLn CityHall FernRock
+PA MarFraLn 15th Fra
+PA PATCO 15th16thLoc PA/NJ
+PA Rte15 Bro Front
+PA CHELn Phi30thSt Jef
+PA WilNewLn DE/PA Phi30thSt
+PA KS Phi30thSt PA/NJ
 
 TX CapMetRail How PlaSal
 TX BlueLn UniSta StPaul
@@ -99,21 +171,28 @@ TX RedLn Ham +DIV_Blue_N
 TX DalStr Gre Uni
 TX MLnTro CityPlaNob_W FedHar
 
+UT BlueLn Are SaltLakeCen
+UT BlueLn +DIV_RedLine_N Are
 UT GreLn CityCen Air
+UT RedLn CenPoi +DIV_BlueLine/GreLine
 
-WA 1 Nor AngLake
-WA 2 SBel RedTec
+WA 1 Lyn FedWayDow
+WA 2 SBel DowRed
 WA N Eve Sea
 WA S Sea Lak
 WA T TacDome StJos
 WA SeaCenMon SeaCen WesCen
 WA 1stHillLn BroDen OccMall
 WA SouLakeUniLn FaiCamDr WesHub
+WA BlueLn AGat_Sta AGat_Fin
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
 
-WA AC TacDome WA AC Eve
-WA AC +DIV_Emp BC AC VanPacCen
-WA CS OlyLac SeaKingSt
+WA AC OR/WA USA/CAN
+WA CS OR/WA SeaKingSt
 WA EBSea SeaKingSt MT EBSea Whi
+
+WI HopMLn Int CityHall
 
 AB BlueLn 69thSt Sad
 AB RedLn Sun VicParkSta
@@ -126,10 +205,11 @@ BC CanLnRic Wat RicBri
 BC ExpoLn Wat KingGeo
 BC ExpoLnPro Wat ProWayUni
 BC MilLn VCCCla LafLakeDou
-BC WestCoaExp CoqCen Wat
+BC WestCoaExp MisCity Wat
 
-ON TrilLine #Trillium Line (Ottawa)
+BC AC USA/CAN VanPacCen
 
+ON OT2 Bay Gre
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
@@ -193,3 +273,9 @@ DEU-BE S7 WestKre OstKre
 DEU-BE S41 WestKre_N WestKre_S
 DEU-BE S42 OstKre_N OstKre_S
 DEU-BE S46 HerStr SchWei
+
+
+
+
+
+

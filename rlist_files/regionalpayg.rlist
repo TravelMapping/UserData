@@ -1,0 +1,113 @@
+#Wales#
+WLS RhyLn Rhy BarIsl
+WLS ValeGlaLn Rhy Brid
+WLS PenLn Cae Pen
+WLS CorLn Cor Pen
+WLS ButBra Pon CarBay
+WLS MerLn MerTyd CarCen
+WLS RhoLn Treh CarCen
+WLS AbeLn Abed CarQueSt
+WLS MaeLn CarCen Mae
+WLS SwanLn CarCen Pyle
+WLS EbbwValeLn CarCen EbbwValeTown
+WLS EbbwValeLnNew New EbbwValeTown
+WLS MarLn CarCen Abe
+WLS SevShoLn Che CarCen
+
+#Bristol area#
+ENG SevBeaLn WesSupMare SevBea
+ENG SevVlyLn Ash BriTemMea
+ENG SWalML Swi BriPkwy
+ENG CarExeLn Pil BriTemMea
+ENG WesML BriTemMea Fre
+ENG GolVlyLn Swi Glo
+ENG GWML Swi BriTemMea
+
+#Cornwall#
+ENG CorML Par Pen
+ENG SIBLn StErth StIves
+ENG MrtLn Tru FalDoc
+
+#Southern England (keygo)#
+##Thameslink & Great Northern##
+ENG ThaLnk Bed Bri
+ENG ThaLnkPet Hun Hors
+ENG ThaLnkCam Roy Bri
+ENG ThaLnkRai Lut Dar
+ENG ThaLnkSut StAlbCity LOOP
+ENG ThaLnkSev LonBla Sev
+ENG BroSLn BroSou Orp
+ENG RheeVlyLn LonKinCro Fox
+ENG NorCityLn Moo Ste
+ENG NorCityLnWel Moo WelGarCity
+##Southern Mainline##
+ENG GatEx LonVic Bri
+ENG SusMLW LonVic Lit
+ENG SusMLE LonVic Bex
+ENG ArunVlyLn LonVic BogReg
+ENG ChiLn LonVic War
+##Southern Metro & Local##
+ENG SutLn LonVic Hor
+ENG GipHillLn LonVic WestCro
+ENG EGriLn LonVic EastGri
+ENG UckLn LonBri Uck
+ENG NbyLn LonBri WestCro
+ENG PecLn LonBri BecJct
+ENG SouLonLn LonVic LonBri
+ENG CatLn LonBri Cat
+ENG TatCorLn LonBri TatCor
+ENG WalLn LonVic EpsDow
+ENG NorDowLn DorDee GatAir
+ENG RedTonLn Red Lei
+ENG SusDowLn Bri Sea
+ENG SusCoaLn Bri Chi
+ENG WestLonLn HarWea EastCro
+
+#South West England (tap2go)#
+ENG SWML LonWat Wey
+ENG WoELn LonWat ExeStDav
+ENG PorDirLn LonWat PorHar
+ENG BasLn LonWat Bas
+ENG WokLn LonWat Wok
+ENG AltLn LonWat Alt
+ENG BlaVlyLn Asc Ald
+ENG WeyVlyLn Far Gui
+ENG TestVlyLn Rom_1 Rom_2
+ENG BotLn LonWat PorHar
+ENG NetLn PorHar SouCen
+ENG NewForLn Bro LymPier
+ENG IslLn RydePierHead Sha
+ENG MoleVlyLn LonWat Dor
+ENG CheLn LonWat CheSou
+ENG NewGuiLn LonWat Gui
+ENG BooLn LonWat Gui
+ENG HamCouLn LonWat HamCou
+ENG WokLn LonWat Wok
+ENG SheLn LonWat She
+ENG KinLp LonWat ClaJct_2
+ENG CheLp LonWat Wey
+ENG ReaLn LonWat Rea
+ENG WinLn LonWat WinEtonRiv
+
+#Glasgow Subway#
+SCT GlaSub Par_1 Par_2
+
+#Robin Hood#
+ENG NET1 Huc TotLn
+ENG NET2 PhoPark CliSou
+
+#Nexus#
+ENG TWMGre SouHyl Air
+ENG TWMYel StJam SouShi
+ENG NhbLn New Ash
+
+#Bee Network#
+ENG MetLnkAlB Alt Bury
+ENG MetLnkAlP Alt Pic
+ENG MetLnkPBy Pic Bury
+ENG MetLnkEDR EDid RocTownCen
+ENG MetLnkEDS EDid ShawCro
+ENG MetLnkEAL Ecc AshUndLyne
+ENG MetLnkMAV ManAir Vic
+ENG MetLnkMEC MedCityUK EtiCam
+ENG MetLnkTCC TraCen DeaCas

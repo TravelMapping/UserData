@@ -1,13 +1,26 @@
 ########-INTERCITY RAIL LINES-########
-DE AE Wil NY AE PennSta
+DC NENew WasUniSta MA NENew BosSou
+CT HL NHUniSta MA HL Spr
+FL FL Mia DC FL WasUniSta
+MA LSBos Spr BosSou
+PA PA PitUni NY PA PennSta
+CA CS UniSta OakJackLonSq
+OR EBPor PorUniSta IL EBPor UniSta
 
+FL BriLn MiaCen BriOrlSta
 
 ########-COMMUTER RAIL LINES-########
+NY BabBra PennSta Bab
+NY GreBra Ron Gre
+NY HemBra GraCen Hem
+NY LongBeaBra PennSta LongBea
+NY MonBra HunAve Mon
+NY OysBayBra Jam OysBay
+NY PortJefBra PennSta PortJef
 NY PortWasBra PennSta PortWas
-NY RonBra PennSta Jam
-NY MonBra HunAve Jam
-NY MonBra SKIP_Hic Bab
-NY RocBra GraCen Jam
+NY RocBra GraCen FarRoc
+NY RonBra PennSta Ron
+NY WHemBra AtlTer WHem
 
 NY NewHavLn GraCen CT NewHavLn Str
 CT NewHavLnCan Sta NewCan
@@ -17,12 +30,43 @@ NY HarLn GraCen Was
 NY HudLn GraCen DobFry
 
 NY NECorLn PennSta NJ NECorLn NewBru
-NY NJerCoaLn PennSta NJ NJerCoaLn Woo
-NJ GlaBra Hob NewBroSt
+NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
+NJ RarVlyLn NewPenn HighBri
+NY MonBooLn PennSta NJ MonBooLn Hac
+NY MorEssLn PennSta NJ MorEssLn Hac
+NJ GlaBra Hob Gla
+NJ MainLn Hob NY MainLn Suf
+NJ PortJerLn Hob NY PortJerLn PortJer
+NJ PasVlyLn Hob NY PasVlyLn SprVly
 
+FL TriRail MiaAir WestPalmBea
+FL TriRailDow MiaCen MetTra
+
+IN SouShoLn SouBendAir IL SouShoLn MilSta
+
+IL MDN UniSta FoxLake
+IL ME MilSta UniPk
+IL MESCh MilSta SChi93rdSt
+IL NCS UniSta Ant
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL UPNW OgiTraCen Har
+IL UPW Elb OgiTraCen
+
+OR WesExpSer BeaTraCen Wil
+
+CA CalTra Tam SanFraKing
+
+CA SanBerLn UniSta RedDow
+CA Arr SanBerDow RedUni
+CA AntVlyLn UniSta Lan
+CA RivLn UniSta RivDow
+CA PerVlyLn UniSta PerS
 
 ########-HERITAGE RAILROADS-########
 CT EssSteTrn Ess DeepRivLan
+DE WilWesRR Hoc Gre
 PA StrRR Str LeaPl
 
 
@@ -88,17 +132,21 @@ MD RedLn ShaGro DC RedLn UniSta
 VA YelLn Hun DC YelLn GalPla
 
 #--------MIDWEST CITIES--------
-PA BlueLn Gat SouHilJct
+PA RedLn SouHilVlg All
+PA SilLn Lib All
 
 OH RedLn Bro TriCCamDis
 
 MI DetPeoMov Mic_S Mic_N
 
-IL BroLn Bel Loop
-IL GreLn ClaLake 35thBro
+IL BlueLn OHa ForPk
+IL BroLn Kim Loop
+IL GreLn HarLake Ash63rd
+IL GreLnE63 HarLake CotGro
+IL OraLn Mid Loop
 IL PinkLn 54thCer Loop
 IL PurLn How Lin
-IL RedLn Sox35th How
+IL RedLn 95thDanRyan How
 IL SkoSwi DemSko How
 
 MN BlueLine MallofAmerica TargetFieldPlatform2
@@ -109,6 +157,7 @@ MO MLBlueLn Uni ConCen
 #--------SOUTH CITIES--------
 GA RedLn Air NorSpr
 GA SkyTrn Air RenCarCen
+GA PlaTrn DomTer DGat
 
 FL GreLn DadSou Pal
 FL OraLn DadSou MiaAir
@@ -118,6 +167,7 @@ FL InnLp GovCen_S GovCen_N
 FL MiaM MIA IntCen
 
 FL ResMon TraTicCen_1 TraTicCen_2
+FL TerLink TerA/B TerC
 
 TN MainStTro But Mad
 
@@ -126,26 +176,43 @@ TX GreLn NCarFra Buc
 TX OraLn DFWAir LBJCen
 TX RedLn Wes ParRd
 TX DalStr BisArts Uni
+TX Sky A8 A21
 
 TX PurLnHou TheDis PalmCenTC
 
 #--------WEST CITIES--------
-AZ VMR 3rdSt SycMainSt
+AZ A 3rdSt SycMainSt
 AZ PHX 44thSt T4
 
 CO LLn 25thWel 18thSto
+CO DENTrn JepTer AGat
 
 WA 1 SeaTacAir UniWas
 WA SeaCenMon SeaCen WesCen
 WA 1stHillLn 5thJac BroTer
 WA SouLakeUniLn FaiCamDr WesHub
 
-CA BARTRed Col CivCen
-CA MuniN 2nd PowSt
-CA AirTrnBlue RenCarCen Loop
+OR BlueLn BeaTraCen Gat99thAve
+OR GreLn PSUSou ClaTownCen
+OR OraLn UniStaGliSt Park
+OR RedLn BeaTraCen PorIntAir
+OR YelLn PSUSou ExpoCen
 
+CA BARTBlue PowSt DubPle
+CA BARTOra Ber Ric
+CA BARTYel Mil CivCen
+CA BARTYel PowSt PitTra
+CA MuniN 2nd PowSt
+CA MuniT King ChiRosePark
+CA AirTrnBlue LongTermPar Loop
+
+CA SRTGold SacValSta HisFol
+
+CA A WilRosaPar APUCitCol
 CA B NHol UniSta
+CA C AviLAX WilRosaPar
 CA D WilWes UniSta
+CA E DowSanMon LitTokArtsDis
 
 CA GreLn 12thImpTC FasVly
 CA BlueLn CivCen OldTownTC
