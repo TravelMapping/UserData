@@ -303,43 +303,71 @@ NC US129 NC28 NC/TN #We turned off for Magazine Branch parking at the top of the
 
 
 
-#NEXT UP - Finish OH(?!) I've done CLE, Toledo, and other Northern OH roads. Next up is Columbus and rest of Southern portion of map. 
-
+#NEXT UP - Finish OH(!) I've done most, but need to clean up Cincy area roads.  
 
 #OHIO
-#only entered Cleveland-area highways so far (but tried to enter all my travels on them throughout the state)
 
-OH I-71 KY/OH I-90
+OH I-70 44 96
 OH I-75 KY/OH OH/MI
-OH I-77 147 156
 OH I-80 71 151
 OH I-80 152 173
 OH I-90 71 142
 OH I-90 OH2_W OH/PA
 
+OH I-71 KY/OH I-90
+OH I-74 IN/OH I-75
+OH I-77 147 156
+
+OH I-270 I-71 55
+OH I-271 18 26A
+OH I-275 IN/OH OH/KY
+OH I-280 1A I-75
+OH I-471 KY/OH I-71
 OH I-475 1 20
 OH I-480 I-80_W 21(271)
 OH I-490 1A OH10_E
-OH I-270 I-71 55
-OH I-271 18 26A
-OH I-280 1A I-75
+OH I-670 I-70 5
+OH I-675 I-75 26
 
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
 OH US20 US322_W US6_W
-OH US23 I-75(193) OH/MI
 OH US30 IN/OH US127/224
-OH US33 38 OH/IN
+OH US50 IN/OH US23Bus_N
+OH US50 OH32_W 198(33)
 
+OH US22 US27/42 OH56_E
+OH US23 I-75(193) OH/MI
+OH US27 KY/OH OH/IN
+OH US33 170 131
+OH US33 38 OH/IN
+OH US35 110 72
+OH US35 55 42
 OH US42 KY/OH TarCemRd
 OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
-OH US127 US33/707 US30/224
+OH US52 IN/OH US62_W
+OH US62 OH32 OH138_E
+OH US68 I-71 7
 
+OH US127 KY/OH NilRd
+OH US127 US33/707 US30/224
+#OH US250 too short to register
 OH US322 PubSqu KenRd
 #Technically missing the block between 12th and 13th (Masthead Brewing)
 OH US422 PubSqu I-77
 OH US422 LeeRd OH8_S
+
+OH OH4 OH562 GleMilRd
+OH OH4 I-275 OH4Byp_S
+OH OH125 US50 OH133
+OH OH126 20 US22_E
+OH OH126 LovMiaRd US50
+OH OH32 US50 198(33)
+OH OH561 US50 US22_E
+OH OH562 I-75 I-71
+
+#Whew! Made it through OH
 
 
 
