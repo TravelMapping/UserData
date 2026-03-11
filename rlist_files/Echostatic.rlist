@@ -62,7 +62,9 @@ TX CapMetRail Lea Dow
 DEU-BB S9 BE/BB FlugHafBER
 DEU-BE S9 Bel BE/BB
 
-#Syndey Trains
+#Sydney Trains
+AUS-NSW BMT Cen War
+AUS-NSW SCO Cen Wol
 AUS-NSW T1 Cha Par
 AUS-NSW T2 CirQuay Cen
 AUS-NSW T8 Cen IntAir
@@ -119,4 +121,5 @@ NY AirTrnJam Jam T5
 CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
+
 WA SeaCenMon SeaCen WesCen
