@@ -19,26 +19,34 @@ AR	I-540	1	5	#2016-07 Help Me I'm Melting
 AR	US62	I-49(86)	PraRd	#2016-07 Help Me I'm Melting
 AR	US64	OK/AR	KelHwy	#2016-07 Help Me I'm Melting
 AR	US71	AR340	AR/MO	#2016-07 Help Me I'm Melting
-AZ	AZ101	1	51	#2012-03_2012-12_2013-12_2016-03
-AZ	AZ101	52B	61B	#2012-03_2016-03
+AZ	AZ101	1	29	#2012-03 Spring Training
+AZ	AZ101	1	51	#2016-03
+AZ	AZ101	52B	61B	#2016-03
+AZ	AZ101	55A	61B	#2012-03 Spring Training
+AZ	AZ143	1	3	#2012-03 Spring Training
 AZ	AZ179	I-17	AZ89A	#2013-12
 AZ	AZ181	AZ186	PinCanRd	#2014-03
 AZ	AZ186	I-10	AZ181	#2014-03
 AZ	AZ202	16	28	#2012-12
-AZ	AZ202	1A	13	#2012-03_2016-03
+AZ	AZ202	1A	13	#2012-03 Spring Training
+AZ	AZ202	1A	13	#2016-03
+AZ	AZ202	50	55	#2012-03 Spring Training
 AZ	AZ260	AZ87_S	US60_W	#2016-03
 AZ	AZ260	AZ89A	I-17	#2013-12
-AZ	AZ387	AZ187	AZ87	#2012-03_2016-03
+AZ	AZ387	I-10	AZ87	#2012-03 Spring Training
 AZ	AZ389	UT/AZ	US89Alt	#2019-03
-AZ	AZ51	I-10	15	#2012-03_2016-03
+AZ	AZ51	I-10	15	#2012-03 Spring Training
+AZ	AZ51	I-10	15	#2016-03
 AZ	AZ64	I-40	SouEntRd_N	#2008-12 Grand Canyon
 AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyon
 AZ	AZ80	I-10BL	AZ92	#2014-03
 AZ	AZ82	PerAve	AZ90	#2014-03
 AZ	AZ85	AjoMtnDr	I-8	#2014-03
 AZ	AZ86	AZ85	16thAve	#2014-03
-AZ	AZ87	I-10	AZ202(47)	#2012-03_2016-03
-AZ	AZ87	US60	AZ260_E	#2012-03_2012-12_2016-03
+AZ	AZ87	AZ287_W	AZ387	#2012-03 Spring Training
+AZ	AZ87	I-10	AZ202(47)	#2016-03
+AZ	AZ87	US60	AZ202(13)	#2012-03 Spring Training
+AZ	AZ87	US60	AZ260_E	#2012-12_2016-03
 AZ	AZ89A	I-17(340)	I-40BL	#2008-12 Grand Canyon
 AZ	AZ89A	I-17(340)	I-40BL	#2010-04 Arizona Colorado
 AZ	AZ89A	MainSt	JunCir	#2013-12
@@ -47,10 +55,14 @@ AZ	AZ92	AZ90	AZ80	#2014-03
 AZ	AZ95Bul	CA/AZ	BouConeRd	#2010-04 Arizona Colorado
 AZ	AZ98	US89	BIA222	#2019-03
 AZ	BonCanRd	PinCanRd	MasPt	#2014-03
-AZ	I-10	CA/AZ	AZ/NM	#2012-03_2012-12_ 2013-12_2014-03_2016-03
+AZ	I-10	150A	257	#2012-03 Spring Training
+AZ	I-10	CA/AZ	147	#2012-03 Spring Training
+AZ	I-10	CA/AZ	AZ/NM	#2012-12_ 2013-12_2014-03_2016-03
 AZ	I-10BLWil	AZ186_E	I-10_E	#2014-03
-AZ	I-15	NV/AZ	AZ/UT	#2010-12_2011-06_2019-03_2025-09
-AZ	I-17	194	200A	#2012-03
+AZ	I-15	NV/AZ	AZ/UT	#2010-12 Zion
+AZ	I-15	NV/AZ	AZ/UT	#2011-06 Ultimate Road Trip
+AZ	I-15	NV/AZ	AZ/UT	#2019-03_2025-09
+AZ	I-17	194	200A	#2012-03 Spring Training
 AZ	I-17	214C	298	#2013-12
 AZ	I-19	34	95	#2014-03
 AZ	I-19	8	29	#2014-03
@@ -74,19 +86,22 @@ AZ	MonCanRd	CorMemOve	AZ92	#2014-03
 AZ	PetForRd	PinRd	I-40	#2016-07 Help Me I'm Melting
 AZ	PetForRd	US180	I-40	#2010-04 Arizona Colorado
 AZ	PetForRd	US180	I-40	#2024-05 Wagons Ho
+AZ	SkyHarBlvd	AZ143	AZ202	#2012-03 Spring Training
 AZ	US160	US89	AZ/NM	#2010-04 Arizona Colorado
 AZ	US180	I-40BL/77	PetForRd	#2010-04 Arizona Colorado
 AZ	US180	I-40BL/77	PetForRd	#2024-05 Wagons Ho
 AZ	US191	I-40(333)	US160_W	#2010-04 Arizona Colorado
+AZ	US60	153B(10)	186	#2012-03 Spring Training
 AZ	US60	154(10)	AZ188	#2012-12
 AZ	US60	AZ260_W	AZ/NM	#2016-03
-AZ	US60HisMes	May	MesaDr	#2012-03_2012-12_2016-03
+AZ	US60HisMes	AZ87	MesaDr	#2012-03 Spring Training
+AZ	US60HisMes	May	MesaDr	#2012-12_2016-03
 AZ	US66HisFla	AZ89A	US180_E	#2010-04 Arizona Colorado
 AZ	US66HisKin	AirAve	I-40(53)	#2010-04 Arizona Colorado
 AZ	US66HisKin	OatRd	I-40(44)	#2010-04 Arizona Colorado
+AZ	US89	I-40BL/180	AZ/UT	#2019-03 To Instagram and Beyon
 AZ	US89	I-40BL/180	LoopRd_N	#2008-12 Grand Canyon
 AZ	US89	I-40BL/180	LoopRd_S	#2010-04 Arizona Colorado
-AZ	US89	I-40BL/180	AZ/UT	#2019-03 To Instagram and Beyon
 AZ	US89	LoopRd_N	US160	#2010-04 Arizona Colorado
 AZ	US89AHisCla	TuzRd	AZ89A_N	#2013-12
 AZ	US89AltFre	AZ389	AZ/UT	#2019-03
@@ -110,28 +125,36 @@ CA	CA1	CryCoveSP	CA55	#2011-04 Newport Beach
 CA	CA1	PalVerBlvd	OxnBlvd	
 CA	CA110	21	26	
 CA	CA113	I-80(70)	37	#2018-10 Gold Rush
-CA	CA118	18	44A	#2008-12 Grand Canyon
-CA	CA118	18	46B	#2009-02 Joshua Tree
 CA	CA118	18	42A	#2009-04 Sequoia
 CA	CA118	18	42A	#2009-08 Mammoth
 CA	CA118	18	42A	#2010-04 Arizona Colorado
-CA	CA118	CA126	TieRejRd	#2008-08 San Francisco
+CA	CA118	18	42A	#2010-12 Zion
+CA	CA118	18	42A	#2011-06 Ultimate Road Trip
+CA	CA118	18	44A	#2008-12 Grand Canyon
+CA	CA118	18	46B	#2009-02 Joshua Tree
+CA	CA118	18	46B	#2012-03 Spring Training
 CA	CA118	CA126	46B	
+CA	CA118	CA126	TieRejRd	#2008-08 San Francisco
 CA	CA120	1A	YosNP	#1997-06 San Francisco Yosemite
-CA	CA126	1A	5	#2008-08 San Francisco
 CA	CA126	1A	40	
+CA	CA126	1A	5	#2008-08 San Francisco
+CA	CA127	I-15	BakBlvd	#2011-06 Ultimate Road Trip
 CA	CA134	1A	13B	
 CA	CA136	US395	CA190	#2008-04 Manzanar Death Valley
 CA	CA137	CA99	CA63	#2009-04 Sequoia
+CA	CA138	PeaHwy_W	BeeRd	
 CA	CA138	PeaHwy_W	CA18_W	#2008-12 Grand Canyon
 CA	CA138	PeaHwy_W	CA18_W	#2010-04 Arizona Colorado
-CA	CA138	PeaHwy_W	BeeRd	
+CA	CA138	PeaHwy_W	CA18_W	#2010-12 Zion
+CA	CA138	PeaHwy_W	CA18_W	#2011-06 Ultimate Road Trip
 CA	CA139	EurSt	CA/OR	#2005-06 Road Trip to Seattle
-CA	CA14	I-5	US395	#2008-04 Manzanar Death Valley
 CA	CA14	I-5	30	#2008-12 Grand Canyon
-CA	CA14	I-5	US395	#2009-08 Mammoth
 CA	CA14	I-5	30	#2010-04 Arizona Colorado
+CA	CA14	I-5	30	#2010-12 Zion
+CA	CA14	I-5	30	#2011-06 Ultimate Road Trip
 CA	CA14	I-5	CA58Bus_W	#2022-12 Cesar Chavez
+CA	CA14	I-5	US395	#2008-04 Manzanar Death Valley
+CA	CA14	I-5	US395	#2009-08 Mammoth
 CA	CA146	US101	PinNP	#2015-02 Bay Area
 CA	CA146Pin	OldEntSta	CA25	#2008-08 San Francisco
 CA	CA150	SanAnaRd_S	CA126	
@@ -145,6 +168,8 @@ CA	CA173Lak	CA189	CA18	#2012-10 Amgen Offsite Lake Arrowhead
 CA	CA178	CA14_N	PinRd	#2008-04 Manzanar Death Valley
 CA	CA18	CA138_W	I-15(150)	#2008-12 Grand Canyon
 CA	CA18	CA138_W	I-15(150)	#2010-04 Arizona Colorado
+CA	CA18	CA138_W	I-15(150)	#2010-12 Zion
+CA	CA18	CA138_W	I-15(150)	#2011-06 Ultimate Road Trip
 CA	CA18	CA173	CA210	#2012-10 Amgen Offsite Lake Arrowhead
 CA	CA180	CA63	KinCanNP	#2008-03 Hume Lake
 CA	CA180Ced	KinCanNP_W	HumeLakeRd	#2008-03 Hume Lake
@@ -160,6 +185,7 @@ CA	CA2	CenAve	WilBlvd
 CA	CA201	Rd80	CA63_N	#2008-03 Hume Lake
 CA	CA203	Mad/Mon	US395	#2009-08 Mammoth
 CA	CA210	45	85	#2009-02 Joshua Tree
+CA	CA210	45	85	#2012-03 Spring Training
 CA	CA217	UCSB	3	
 CA	CA22	14C	17B	
 CA	CA22	I-405(21)	13	
@@ -188,9 +214,11 @@ CA	CA55	11A	14
 CA	CA56	1A	9	
 CA	CA57	1A	25B	
 CA	CA57	22C	25B	#2009-02 Joshua Tree
+CA	CA57	5	CA60(25)	#2010-12 Zion
 CA	CA58	CA223	165	#2022-12 Cesar Chavez
 CA	CA58BusMoj	CA58(165)	CA14_N	#2022-12 Cesar Chavez
 CA	CA58BusTeh	CA202_W	CA58(151)	#2013-01 Cesar Chavez
+CA	CA60	25	41	#2010-12 Zion
 CA	CA60	29A	I-10(93)	#2009-02 Joshua Tree
 CA	CA60	I-10(16B)	I-10(93)	
 CA	CA62	I-10	UtahTr	#2009-02 Joshua Tree
@@ -211,25 +239,31 @@ CA	CA88	CA89_N	CA/NV	#2024-10 Eastern Sierras
 CA	CA89	CA36_W	LasVolNP	#2014-07 Last Hurrah
 CA	CA89	CA88_W	BliSP	#2024-10 Eastern Sierras
 CA	CA90	CA1	2	
+CA	CA91	19B	30B	#2010-12 Zion
 CA	CA91	24	51	#2008-12 Grand Canyon
 CA	CA91	45	65B	#2014-11 SCSBOA
 CA	CA91	VerAve	24	
-CA	CA99	I-5(221)	87	#2009-04 Sequoia
-CA	CA99	I-5(221)	131	#2012-08 Yosemite
 CA	CA99	I-5(221)	13	#2022-12 Cesar Chavez
+CA	CA99	I-5(221)	131	#2012-08 Yosemite
+CA	CA99	I-5(221)	87	#2009-04 Sequoia
 CA	ElPorRd	BigOakRd	SouDr	#1997-06 San Francisco Yosemite
 CA	GenHwy	CA198	KinCanRd	#2009-04 Sequoia
 CA	I-10	1	CA/AZ	
 CA	I-10	3	4	#2022-12 Cesar Chavez
 CA	I-10	77B	168	#2009-02 Joshua Tree
-CA	I-105	1A	StuRd	
+CA	I-10	77B	CA/AZ	#2012-03 Spring Training
+CA	I-105	1A	18	
 CA	I-110	9	21	
+CA	I-15	106	CA/NV	#2010-12 Zion
 CA	I-15	11	CA/NV	
 CA	I-15	150	184B	#2010-04 Arizona Colorado
+CA	I-15	150	CA/NV	#2011-06 Ultimate Road Trip
 CA	I-15	194	CA/NV	#2008-12 Grand Canyon
 CA	I-15	96	191	#2008-12 Grand Canyon
 CA	I-205	I-580	I-5	#1997-06 San Francisco Yosemite
-CA	I-210	1A	45	#2009-02 Joshua Tree
+CA	I-210	6	45	#2009-02 Joshua Tree
+CA	I-210	6	45	#2012-03 Spring Training
+CA	I-210	1A	45	
 CA	I-215	I-15	34	
 CA	I-280	43B	49B	#2008-08 San Francisco
 CA	I-280	54	57	#1997-06 San Francisco Yosemite
@@ -238,21 +272,26 @@ CA	I-305	1A	6	#2018-10 Gold Rush
 CA	I-380	5A	6	#2008-08 San Francisco
 CA	I-40	144	CA/AZ	#2008-12 Grand Canyon
 CA	I-40	I-15	141	#2008-12 Grand Canyon
+CA	I-40	I-15	78	#2010-12 Zion
 CA	I-40	I-15	CA/AZ	#2010-04 Arizona Colorado
 CA	I-405	53B	I-5(158)	#2022-12 Cesar Chavez
 CA	I-405	71A	I-5(158)	#2008-12 Grand Canyon
 CA	I-405	71A	I-5(158)	#2009-04 Sequoia
 CA	I-405	71A	I-5(158)	#2009-08 Mammoth
 CA	I-405	71A	I-5(158)	#2010-04 Arizona Colorado
+CA	I-405	71A	I-5(158)	#2010-12 Zion
+CA	I-405	71A	I-5(158)	#2011-06 Ultimate Road Trip
 CA	I-405	I-5(94A)	I-5(158)	
 CA	I-40BLNee	I-40_W	I-40_E	#2008-12 Grand Canyon
 CA	I-5	114B	156B	#2008-12 Grand Canyon
-CA	I-5	158	CA/OR	#2005-06 Road Trip to Seattle
 CA	I-5	158	162	#2008-12 Grand Canyon
-CA	I-5	158	221	#2009-04 Sequoia
 CA	I-5	158	162	#2009-08 Mammoth
 CA	I-5	158	162	#2010-04 Arizona Colorado
+CA	I-5	158	162	#2010-12 Zion
+CA	I-5	158	162	#2011-06 Ultimate Road Trip
+CA	I-5	158	221	#2009-04 Sequoia
 CA	I-5	158	221	#2022-12 Cesar Chavez
+CA	I-5	158	CA/OR	#2005-06 Road Trip to Seattle
 CA	I-5	16A	156B	
 CA	I-5	458B	518	#1997-06 San Francisco Yosemite
 CA	I-505	1A	I-5	#2005-06 Road Trip to Seattle
@@ -283,6 +322,7 @@ CA	NorDr	SouDr	ElPorRd	#1997-06 San Francisco Yosemite
 CA	NorDr	SouDr	ElPorRd	#2012-08 Yosemite
 CA	ParkBlvd	CA62_W	CA62_E	#2009-02 Joshua Tree
 CA	ParkBlvd	CA62_W	CA62_E	#2024-05 Wagons Ho
+CA	PinBasRd	I-10	CotOasRd	#2012-03 Spring Training
 CA	PinBasRd	I-10	ParkBlvd	#2009-02 Joshua Tree
 CA	SouDr	ElPorRd	NorDr	#1997-06 San Francisco Yosemite
 CA	SouDr	ElPorRd	NorDr	#2012-08 Yosemite
@@ -293,9 +333,9 @@ CA	US101	66B	328	#2005-06 Road Trip to Seattle
 CA	US101	66B	445B	#2008-08 San Francisco
 CA	US101BusSal	HarrRd	CA183_S	
 CA	US101BusVen	US101_S	US101_N	
-CA	US395	CA14	MarSt	#2008-04 Manzanar Death Valley
-CA	US395	CA14	CA270	#2009-08 Mammoth
 CA	US395	CA14	CA/NV	
+CA	US395	CA14	CA270	#2009-08 Mammoth
+CA	US395	CA14	MarSt	#2008-04 Manzanar Death Valley
 CA	US395HisPow	I-15(14)	CamNor	
 CA	US50	1A	4A	#1997-06 San Francisco Yosemite
 CA	US50	1A	CA49	
@@ -310,17 +350,29 @@ CA	US66HisBar	I-40(107)	US95_N	#2025-09 Great Basin
 CA	US66HisHol	I-10	WilBlvd	
 CA	US66HisSPa	MonRd	CA110	
 CA	US6HisSan	AngForHwy	PeaHwy	#2008-12 Grand Canyon
+CA	US6HisSan	AngForHwy	PeaHwy	#2010-04 Arizona Colorado
+CA	US6HisSan	AngForHwy	PeaHwy	#2010-12 Zion
+CA	US6HisSan	AngForHwy	PeaHwy	#2011-06 Ultimate Road Trip
 CA	US95	GofRd	CA/NV	
 CA	US97	I-5	CA/OR	#2005-06 Road Trip to Seattle
 CA	VLSBTul	CaveLpRd	HillRd_N	#2005-06 Road Trip to Seattle
 CA	WawRd	CA41	SouDr	#2012-08 Yosemite
 CA	WawRd	ChiRd	SouDr	#1997-06 San Francisco Yosemite
-CO	I-270	0	I-70	
-CO	I-70	279B	CO/KS	
-CO	I-70	37	232	
-CO	I-70	UT/CO	19	
+CO	CO340	I-70	RimRockDr	#2011-06 Ultimate Road Trip
+CO	CO340	MonRd	US50	#2011-06 Ultimate Road Trip
+CO	CO9	MainSt_Fri	I-70(203)	#2011-06 Ultimate Road Trip
+CO	I-270	0	I-70	#2011-06 Ultimate Road Trip
+CO	I-70	279A	CO/KS	#2011-06 Ultimate Road Trip
+CO	I-70	37	232	#2011-06 Ultimate Road Trip
+CO	I-70	UT/CO	19	#2011-06 Ultimate Road Trip
+CO	I-70BLGra	CO340	I-70_E	#2011-06 Ultimate Road Trip
 CO	MesaVerRd	US160	SprCyn	#2010-04 Arizona Colorado
+CO	RimRockDr	CO340_W	CO340_E	#2011-06 Ultimate Road Trip
 CO	US160	NM/CO	MesaVerNP	#2010-04 Arizona Colorado
+CO	US34	US36	BigRanSta	#2011-06 Ultimate Road Trip
+CO	US34	US40	BigRanSta	#2011-06 Ultimate Road Trip
+CO	US36	US34_W	I-270(0)	#2011-06 Ultimate Road Trip
+CO	US40	US34	I-70(232)	#2011-06 Ultimate Road Trip
 CT	I-91	1	CT/MA	
 CT	I-95	NY/CT	CT/RI	
 DC	I-295	MD/DC	5	
@@ -356,12 +408,12 @@ HI	HI377	HI37_N	HI378	#1995-06 Honeymoon in Hawaii
 HI	HI378	HI377	HalNP	#1995-06 Honeymoon in Hawaii
 HI	HI380	HI36A	HI30	#1995-06 Honeymoon in Hawaii
 HI	HI3800	KahAir	HI311/380	#1995-06 Honeymoon in Hawaii
-HI	HI50	HI56	HI550	#1995-06 Honeymoon in Hawaii
 HI	HI50	HI56	CR552	#2021-12 Kauai Oahu
+HI	HI50	HI56	HI550	#1995-06 Honeymoon in Hawaii
 HI	HI51	HI570	HI56	#1995-06 Honeymoon in Hawaii
 HI	HI51	HI58	HI56	#2021-12 Kauai Oahu
-HI	HI550	HI50	WaiCanSpur	#1995-06 Honeymoon in Hawaii
 HI	HI550	HI50	KokSP	#2021-12 Kauai Oahu
+HI	HI550	HI50	WaiCanSpur	#1995-06 Honeymoon in Hawaii
 HI	HI56	HI50	CR581	#1995-06 Honeymoon in Hawaii
 HI	HI56	HI50	HI560	#2021-12 Kauai Oahu
 HI	HI560	HI56	MalRd	#2021-12 Kauai Oahu
@@ -380,9 +432,15 @@ HI	I-H1	8B	13A	#2021-12 Kauai Oahu
 HI	I-H2	1	9	#2021-12 Kauai Oahu
 HI	I-H201	1A	I-H1	#2021-12 Kauai Oahu
 HI	I-H3	1B	14	#2021-12 Kauai Oahu
+IA	IA76	US18_E	IA9_W	#2011-06 Ultimate Road Trip
+IA	IA9	US63	IA76_S	#2011-06 Ultimate Road Trip
+IA	US18	IA76	IA/WI	#2011-06 Ultimate Road Trip
+IA	US63	IA9	IA/MN	#2011-06 Ultimate Road Trip
+ID	US89	UT/ID	ID/WY	#2011-06 Ultimate Road Trip
 IL	I-155	0	28	#2007-06 Illinois Missouri
 IL	I-155	0	28	#2008-07 Illinois Missouri
 IL	I-155	0	28	#2010-07 Illinois Missouri
+IL	I-155	0	28	#2011-06 Ultimate Road Trip
 IL	I-155	0	I-74	
 IL	I-190	0	ChiOHAir	
 IL	I-270	3	15	#2015-06 Land of Lincoln
@@ -390,7 +448,7 @@ IL	I-280	18	I-80	#2013-03 Spring Break
 IL	I-290	I-90	I-90/94	
 IL	I-294	0	52	
 IL	I-294	22	40A	#2009-06 Great Train Trip
-IL	I-294	23C	40A	
+IL	I-294	23C	40A	#2011-06 Ultimate Road Trip
 IL	I-294	40B	42	#2017-07 Double the Fun
 IL	I-355	7A	I-290	
 IL	I-39	14	48	#2009-06 Great Train Trip
@@ -401,15 +459,17 @@ IL	I-474	0	15
 IL	I-55	163	250	#1989-05 Chapter Camp
 IL	I-55	163	277A	#2007-06 Illinois Missouri
 IL	I-55	163	277A	#2008-07 Illinois Missouri
+IL	I-55	163	277A	#2011-06 Ultimate Road Trip
 IL	I-55	163	277B	#2009-06 Great Train Trip
 IL	I-55	3A	127	#2010-07 Illinois Missouri
+IL	I-55	92	127	#2011-06 Ultimate Road Trip
 IL	I-55	MO/IL	127	#2007-06 Illinois Missouri
 IL	I-55	MO/IL	127	#2008-07 Illinois Missouri
 IL	I-55	MO/IL	US41	
 IL	I-55BLBlo	I-55_S	I-55_N	
 IL	I-55BLSpr	I-55_S	CookSt_W	#2008-07 Illinois Missouri
-IL	I-55BLSpr	I-55_S	IL97	#2010-07 Illinois Missouri
 IL	I-55BLSpr	I-55_S	I-55_N	
+IL	I-55BLSpr	I-55_S	IL97	#2010-07 Illinois Missouri
 IL	I-57	184	237	#2015-06 Land of Lincoln
 IL	I-57	237	358	
 IL	I-70	MO/IL	3	#2010-07 Illinois Missouri
@@ -418,6 +478,7 @@ IL	I-72	MO/IL	97	#2010-07 Illinois Missouri
 IL	I-72	MO/IL	97	#2011-06 Ultimate Road Trip
 IL	I-72	MO/IL	97	#2024-05 Wagons Ho
 IL	I-74	102	127	#1989-05 Chapter Camp
+IL	I-74	102	127	#2011-06 Ultimate Road Trip
 IL	I-74	112	127	#2007-06 Illinois Missouri
 IL	I-74	112	127	#2009-06 Great Train Trip
 IL	I-74	IA/IL	IL/IN	
@@ -431,6 +492,7 @@ IL	I-90	47	77	#2017-07 Double the Fun
 IL	I-90	79C	82A	
 IL	I-90	79C	82B	
 IL	I-90	WI/IL	77	#2025-04 Illinois Wisconsin
+IL	I-90	WI/IL	82B	#2011-06 Ultimate Road Trip
 IL	I-90	WI/IL	IL/IN	
 IL	I-94	42	IL/IN	#1993-11 John and Liz
 IL	I-94	42	IL/IN	#1994-10 Saugatuck
@@ -530,11 +592,17 @@ IN	I-70	75	IN/OH
 IN	I-74	IL/IN	IN/OH	
 IN	I-80	IL/IN	IN/OH	
 IN	I-90	IL/IN	IN/OH	
+IN	I-94	IL/IN	26	#2008-07 Illinois Missouri
 IN	I-94	IL/IN	IN/MI	#1989-05 Chapter Camp
 IN	I-94	IL/IN	IN/MI	#1993-11 John and Liz
 IN	I-94	IL/IN	IN/MI	#1994-10 Saugatuck
-IN	I-94	IL/IN	26	#2008-07 Illinois Missouri
 IN	IN49	I-94	US12	#2008-07 Illinois Missouri
+KS	I-470	1A	1B	#2011-06 Ultimate Road Trip
+KS	I-470	5	183(KT)	#2011-06 Ultimate Road Trip
+KS	I-670	I-70	KS/MO	#2011-06 Ultimate Road Trip
+KS	I-70	183(KT)	422C	#2011-06 Ultimate Road Trip
+KS	I-70	CO/KS	355	#2011-06 Ultimate Road Trip
+KS	KS15	1700Ave	I-70	#2011-06 Ultimate Road Trip
 MD	ClaBarPkwy	MacBlvd_W	I-495	#2010-09 Washington DC
 MD	I-270	2	32	#2022-10 NCI RAS Symposium
 MD	I-495	19	MD/VA	#2010-09 Washington DC
@@ -566,19 +634,34 @@ MI	MI55	US131_N	US127	#1989-05 Chapter Camp
 MI	MI8	I-96	I-75	
 MI	US127	194	I-75	#1989-05 Chapter Camp
 MI	US131	34	180	#1989-05 Chapter Camp
+MN	I-90	12	178A	#2011-06 Ultimate Road Trip
+MN	I-90	SD/MN	1	#2011-06 Ultimate Road Trip
+MN	MN23	I-90	US75/30	#2011-06 Ultimate Road Trip
+MN	MN30	CR15_W	US75_S	#2011-06 Ultimate Road Trip
+MN	MN56	US63	I-90	#2011-06 Ultimate Road Trip
+MN	US63	IA/MN	MN56	#2011-06 Ultimate Road Trip
+MN	US75	I-90	MN30_E	#2011-06 Ultimate Road Trip
 MO	I-270	5	8	#2007-06 Illinois Missouri
+MO	I-35	12	54	#2011-06 Ultimate Road Trip
+MO	I-435	52B	60	#2011-06 Ultimate Road Trip
 MO	I-44	230	292	#2007-06 Illinois Missouri
 MO	I-44	277B	291A	#2008-07 Illinois Missouri
 MO	I-44	292A	I-70	#2010-07 Illinois Missouri
 MO	I-55	199	MO/IL	#2008-07 Illinois Missouri
 MO	I-55	291A(44)	MO/IL	#2007-06 Illinois Missouri
+MO	I-670	KS/MO	2N	#2011-06 Ultimate Road Trip
 MO	I-70	220	MO/IL	#2010-07 Illinois Missouri
+MO	I-70	2L	4A	#2011-06 Ultimate Road Trip
 MO	I-72	157	MO/IL	#2010-07 Illinois Missouri
+MO	MO12	I-435	SprSt	#2011-06 Ultimate Road Trip
 MO	MO141	I-44	BigBendRd	#2007-06 Illinois Missouri
 MO	MO30	US50/61	KinBlvd	#2008-07 Illinois Missouri
 MO	MO79	I-70	I-72/36	#2010-07 Illinois Missouri
+MO	US36	I-35	MO/IL	#2011-06 Ultimate Road Trip
 MO	US50	I-44(277B)	MO30	#2008-07 Illinois Missouri
 MO	US66His	WasAve	TucBlvd_N	#2010-07 Illinois Missouri
+MT	OldGarRd	WY/MT	NEntRd	#2011-06 Ultimate Road Trip
+MT	US89	ParkSt	JarRd	#2011-06 Ultimate Road Trip
 NM	US160	AZ/NM	NM/CO	#2010-04 Arizona Colorado
 NV	CATrl	NV206_N	US395_S	
 NV	CR215	12	28	
@@ -587,7 +670,8 @@ NV	HRAirCon	I-215	RusRd
 NV	I-11	14	93	
 NV	I-11	15B	76	#2008-12 Grand Canyon
 NV	I-15	CA/NV	42	#2008-12 Grand Canyon
-NV	I-15	CA/NV	NV/AZ	
+NV	I-15	CA/NV	NV/AZ	#2010-12 Zion
+NV	I-15	CA/NV	NV/AZ	#2011-06 Ultimate Road Trip
 NV	I-215	1	12	
 NV	NV146	SouHigPkwy	I-215	
 NV	NV147	PecRd	LkMeadNRA	#2023-07
@@ -631,8 +715,8 @@ OR	I-5	300A	302B	#2017-03 Oregon Washington
 OR	I-5	302B	OR/WA	#2005-06 Road Trip to Seattle
 OR	I-5	303A	OR/WA	#2017-03 Oregon Washington
 OR	I-5	CA/OR	299B	#2005-06 Road Trip to Seattle
-OR	I-84	I-5	40	#2005-06 Road Trip to Seattle
 OR	I-84	I-5	31	#2017-03 Oregon Washington
+OR	I-84	I-5	40	#2005-06 Road Trip to Seattle
 OR	LCTrl	US101	HemSt_N	#2017-03 Oregon Washington
 OR	OR104	US101	LakeDr	#2017-03 Oregon Washington
 OR	OR138	CraLakeHwy	US97	#2005-06 Road Trip to Seattle
@@ -656,14 +740,54 @@ OR	US101BusAst	US101_S	US101_N	#2017-03 Oregon Washington
 OR	US26	72	74	#2005-06 Road Trip to Seattle
 OR	US26	US101	69	#2017-03 Oregon Washington
 OR	US30	US101	ToWA433	#2017-03 Oregon Washington
-OR	US30HisCol	CorHillRd	I-84(35)	#2005-06 Road Trip to Seattle
 OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03 Oregon Washington
+OR	US30HisCol	CorHillRd	I-84(35)	#2005-06 Road Trip to Seattle
 OR	US97	272	OR62	#2005-06 Road Trip to Seattle
 OR	US97	OR138	195	#2005-06 Road Trip to Seattle
 OR	US97BusKla	OR39Kla	US97_N	#2005-06 Road Trip to Seattle
+SD	BadLpRd	I-90(110)	I-90(131)	#2011-06 Ultimate Road Trip
+SD	I-90	61	SD/MN	#2011-06 Ultimate Road Trip
+SD	I-90BLMit	SD38	I-90_E	#2011-06 Ultimate Road Trip
+SD	I-90BLWal	AirRd	I-90_E	#2011-06 Ultimate Road Trip
+SD	SD244	US16/385	US16Alt	#2011-06 Ultimate Road Trip
+SD	US16	US16Alt_E	US16Trk	#2011-06 Ultimate Road Trip
+SD	US16	WY/SD	SD244	#2011-06 Ultimate Road Trip
+SD	US16AltCus	SD244	US16_E	#2011-06 Ultimate Road Trip
+SD	US16TrkRap	US16	I-90(61)	#2011-06 Ultimate Road Trip
+SD	US385	WindCave_D	US16_W	#2011-06 Ultimate Road Trip
+UT	BryCynSceDr	UT63	End	#2011-06 Ultimate Road Trip
+UT	CapReefSceDr	UT24	CapGorRd	#2011-06 Ultimate Road Trip
+UT	DelArchRd	MainParkRd	CacValRd	#2011-06 Ultimate Road Trip
+UT	I-15	112	365	#2011-06 Ultimate Road Trip
+UT	I-15	379	385	#2011-06 Ultimate Road Trip
+UT	I-15	AZ/UT	109	#2011-06 Ultimate Road Trip
+UT	I-15	AZ/UT	40	#2010-12 Zion
+UT	I-15BLBea	I-15_S	I-15_N	#2011-06 Ultimate Road Trip
+UT	I-15BLCed	UT14	UT56	#2011-06 Ultimate Road Trip
+UT	I-70	149	UT/CO	#2011-06 Ultimate Road Trip
+UT	I-84	40	41	#2011-06 Ultimate Road Trip
+UT	IslSkySceDr	UT313	End	#2011-06 Ultimate Road Trip
+UT	KolCynRd	I-15	End	#2010-12 Zion
+UT	MainParkRd	US191	ArchSaltWash	#2011-06 Ultimate Road Trip
+UT	US191	KaneCrkBlvd	I-70(182)	#2011-06 Ultimate Road Trip
+UT	US89	UT12	UT143	#2011-06 Ultimate Road Trip
+UT	US89	UT252	UT/ID	#2011-06 Ultimate Road Trip
+UT	UT102	UT83	I-84	#2011-06 Ultimate Road Trip
+UT	UT12	US89	UT24	#2011-06 Ultimate Road Trip
+UT	UT14	UT130	UT148	#2011-06 Ultimate Road Trip
+UT	UT143	UT148	US89	#2011-06 Ultimate Road Trip
+UT	UT148	UT143	UT14	#2011-06 Ultimate Road Trip
+UT	UT17	UT9	I-15	#2010-12 Zion
+UT	UT24	UT12	I-70	#2011-06 Ultimate Road Trip
+UT	UT30	I-15(385)	US89/91_S	#2011-06 Ultimate Road Trip
+UT	UT313	IslSkyRd	US191	#2011-06 Ultimate Road Trip
+UT	UT56	I-15	UT130	#2011-06 Ultimate Road Trip
+UT	UT83	UT13	Thi	#2011-06 Ultimate Road Trip
+UT	UT9	I-15	ZionEEntr	#2010-12 Zion
+UT	ZionCynDr	UT9	End	#2010-12 Zion
 VA	GWMemPkwy	I-66	I-495	#2022-10 NCI RAS Symposium
-VA	I-495	MD/VA	49	#2010-09 Washington DC
 VA	I-495	MD/VA	43	#2022-10 NCI RAS Symposium
+VA	I-495	MD/VA	49	#2010-09 Washington DC
 VA	I-66	47	64	#2010-09 Washington DC
 VA	I-66	67	VA/DC	#2022-10 NCI RAS Symposium
 VA	US15	VA7_E	VA/MD	#2022-10 NCI RAS Symposium
@@ -679,15 +803,15 @@ WA	AirExpy	WA518	Ter	#2022-09 Washington State
 WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
 WA	I-205	OR/WA	I-5	#2005-06 Road Trip to Seattle
 WA	I-405	11	14	#2022-09 Washington State
+WA	I-405	I-5(154)	10	#2022-09 Washington State
 WA	I-405	I-5(154)	11	#1996-05 Seattle Vancouver
 WA	I-405	I-5(154)	14	#1998-11 MRCC Surprise
 WA	I-405	I-5(154)	14	#2000-10 Joe and Margaret
 WA	I-405	I-5(154)	14	#2005-06 Road Trip to Seattle
-WA	I-405	I-5(154)	10	#2022-09 Washington State
 WA	I-5	127	USA/CAN	#1996-05 Seattle Vancouver
 WA	I-5	105	132	#2022-09 Washington State
-WA	I-5	164	169	#1998-11 MRCC Surprise
 WA	I-5	164	166	#2022-09 Washington State
+WA	I-5	164	169	#1998-11 MRCC Surprise
 WA	I-5	165	168B	#2005-06 Road Trip to Seattle
 WA	I-5	OR/WA	154	#2005-06 Road Trip to Seattle
 WA	I-5	OR/WA	36	#2017-03 Oregon Washington
@@ -713,11 +837,11 @@ WA	WA20	CorBayRd	I-5	#1996-05 Seattle Vancouver
 WA	WA20	CouPorFry	EngRd	#2022-09 Washington State
 WA	WA20	MainSt_Cou	WA153	#2022-09 Washington State
 WA	WA202	RedWay	187thAve	#1998-11 MRCC Surprise
+WA	WA202	RedWay	187thAve	#2022-09 Washington State
 WA	WA202	RedWay	ToltHillRd	#2000-10 Joe and Margaret
 WA	WA202	RedWay	ToltHillRd	#2005-06 Road Trip to Seattle
-WA	WA202	RedWay	187thAve	#2022-09 Washington State
-WA	WA202	WA203	SnoPkwy	#1996-05 Seattle Vancouver
 WA	WA202	WA203	I-90	#2022-09 Washington State
+WA	WA202	WA203	SnoPkwy	#1996-05 Seattle Vancouver
 WA	WA20Por	US101	PorCouFry	#2022-09 Washington State
 WA	WA20SprAna	WA20	AnaFry	#2022-09 Washington State
 WA	WA285	SteSt	US2/97	#2022-09 Washington State
@@ -743,3 +867,30 @@ WA	WA900	148thSt	I-90	#2022-09 Washington State
 WA	WA970	I-90	US97	#2022-09 Washington State
 WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
 WA	WA99	QueAnneDr	38thSt	#1998-11 MRCC Surprise
+WI	I-90	142	WI/IL	#2011-06 Ultimate Road Trip
+WI	US18	IA/WI	267(12)	#2011-06 Ultimate Road Trip
+WY	DevTowRd	WY110	VisCen	#2011-06 Ultimate Road Trip
+WY	EEntRd	GraLoopRd	US14/16	#2011-06 Ultimate Road Trip
+WY	GraLoopRd	EEntRd	NEntRd_E	#2011-06 Ultimate Road Trip
+WY	GraLoopRd	NEntRd_W	FisConeCir	#2011-06 Ultimate Road Trip
+WY	I-90	185	187	#2011-06 Ultimate Road Trip
+WY	I-90	58	154	#2011-06 Ultimate Road Trip
+WY	I-90BLMoo	US14_E	I-90_E	#2011-06 Ultimate Road Trip
+WY	NEEntRd	GraLoopRd	LamRivTra	#2011-06 Ultimate Road Trip
+WY	NEntRd	GraLoopRd	OldGarRd	#2011-06 Ultimate Road Trip
+WY	NorCanRd	GraLoopRd_W	GraLoopRd_E	#2011-06 Ultimate Road Trip
+WY	OldGarRd	NEntRd	WY/MT	#2011-06 Ultimate Road Trip
+WY	SEntRd	US89/191	GraLoopRd	#2011-06 Ultimate Road Trip
+WY	TetParkRd	US26/89	US89/191	#2011-06 Ultimate Road Trip
+WY	US14	I-90BL/16_E	I-90(185)	#2011-06 Ultimate Road Trip
+WY	US14	YelNP	WY30	#2011-06 Ultimate Road Trip
+WY	US16	US20/789_E	I-90(58)	#2011-06 Ultimate Road Trip
+WY	US16	US85	WY/SD	#2011-06 Ultimate Road Trip
+WY	US20	WY30_E	US16_E	#2011-06 Ultimate Road Trip
+WY	US85	US16	WY585	#2011-06 Ultimate Road Trip
+WY	US89	ID/WY	YelNP	#2011-06 Ultimate Road Trip
+WY	WEntRd	GneCreTr	GraLoopRd	#2011-06 Ultimate Road Trip
+WY	WY110	WY24	DevTowNM	#2011-06 Ultimate Road Trip
+WY	WY24	US14	WY110	#2011-06 Ultimate Road Trip
+WY	WY30	US16/20_W	US16/20_E	#2011-06 Ultimate Road Trip
+WY	WY585	US85	I-90	#2011-06 Ultimate Road Trip
