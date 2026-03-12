@@ -35,7 +35,7 @@ NY L 8Ave 14StUniSq
 NY R TimSq42St 34StHerSq
 
 #Sydney Metro
-AUS-NSW M1 NorRyde Cen
+AUS-NSW M1 Epp Cen
 
 #U-Bahn Berlin
 DEU-BE U1 HalTor WarStr
@@ -66,8 +66,9 @@ DEU-BE S9 Bel BE/BB
 AUS-NSW BMT Cen War
 AUS-NSW SCO Cen Wol
 AUS-NSW T1 Cha Par
-AUS-NSW T2 CirQuay Cen
+AUS-NSW T2 CirQuay TownHall
 AUS-NSW T8 Cen IntAir
+AUS-NSW T9 Cha Epp
 
 #Light Rail
 
@@ -85,7 +86,7 @@ MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
 
 #Sydney Light Rail
-AUS-NSW L2 CirQuay TownHall
+AUS-NSW L2 CirQuay CenChaSt
 AUS-NSW L4 ChuSt Car
 
 #Streetcars
@@ -122,4 +123,5 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+
 
