@@ -826,7 +826,13 @@ WI WI158 I-94 6thAve
 WY WY24 US14 WY110
 WY WY110 WY24 DevTowNM
 
+#Australia Motorways
+AUS-NSW M4 A28 A9
+
+#Australia A Roads
+AUS-NSW A9 NinAve M4
+AUS-NSW A28 A40_W M4
+AUS-NSW A32 EleyHawDr HawRd
+
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
-
-
