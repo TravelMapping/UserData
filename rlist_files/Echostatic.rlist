@@ -85,7 +85,7 @@ MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
 
 #Sydney Light Rail
-AUS-NSW L2 CirQuay CenChaSt
+AUS-NSW L2 CirQuay TownHall
 AUS-NSW L4 ChuSt Car
 
 #Streetcars
@@ -122,3 +122,4 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
+
