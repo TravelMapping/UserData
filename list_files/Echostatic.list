@@ -827,12 +827,13 @@ WY WY24 US14 WY110
 WY WY110 WY24 DevTowNM
 
 #Australia Motorways
-AUS-NSW M4 A28 A9
+AUS-NSW M4 A44_Par A9
 
 #Australia A Roads
 AUS-NSW A9 NinAve M4
-AUS-NSW A28 A40_W M4
+AUS-NSW A28 A40_W HorDr
 AUS-NSW A32 EleyHawDr HawRd
+AUS-NSW A44 M4_Par ParSt
 
 #Italy Autostrada
 ITA A91 ViaMag_E SS296
