@@ -426,7 +426,7 @@ CT I-84 3 7
 CT I-84 20 51 #only 2 lanes eastbound from 39A to 39 in the "wrong" order
 CT I-84 51 54
 CT I-84 54 CT/MA
-CT I-384 I-84 5
+CT I-384 1A 7
 CT I-684 NY/CT CT/NY
 CT I-91 1 17
 CT I-91 17 CT/MA #only 4 lanes from 32A to 29A/31 in the "wrong" order
