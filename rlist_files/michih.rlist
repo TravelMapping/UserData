@@ -1,4 +1,4 @@
-# Date: 2026-03-01
+# Date: 2026-03-14
 # ----------------
 # ----------------
 
@@ -6,6 +6,8 @@
 ####   RAILWAYS   ####
 ######################
 
+AUT S1Sal Bur SalHau                                            #2026
+AUT S11Sal Ost Bur                                              #2026
 CHE IC3 ZurHau +DIV_S4                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
 CHE S4Gal Buc +DIV_S12                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
 AUT S2Vor Fel CHE S2Vor Buc                                     #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
