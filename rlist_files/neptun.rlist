@@ -1,5 +1,5 @@
 # ──────────
-# 2026-01-26
+# 2026-03-17
 # ──────────
 
 # ─────────
@@ -412,9 +412,8 @@ FRA-IDF FunMon Inf Sup
 # Strasbourg
 # ──────────
 
-FRA-GES TramA Cer EtoBou
-FRA-GES TramB HoeGare HomFer
-FRA-GES TramB Els LinTie
+FRA-GES TramA ParcSpo Gra
+FRA-GES TramB HoeGare LinTie
 FRA-GES TramC GareCen NeuRodReu
 FRA-GES TramD Pot DEU-BW TramD KehlRat
 FRA-GES TramE RobEsc EtoPol
