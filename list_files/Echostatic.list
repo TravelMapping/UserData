@@ -4,6 +4,7 @@ AR I-30 TX/AR 143
 AR I-40 153B AR/TN
 AR I-55 TN/AR AR/MO
 AR I-440 I-30/530 11
+CA I-105 1A 3
 CO I-25 138 243
 CO I-70 232 284
 CO I-225 1 12
@@ -451,6 +452,9 @@ OR OrTrlRiv I-205(22) I-84(44)
 #Arkansas State Highways
 AR AR77 I-55(7) US64Spr
 AR AR440 11 13
+
+#California State Highways
+CA CA1 I-105 LAX
 
 #Colorado State Highways
 CO CO58 US6 5
