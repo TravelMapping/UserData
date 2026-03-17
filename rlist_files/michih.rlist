@@ -1,4 +1,4 @@
-# Date: 2026-03-14
+# Date: 2026-03-16
 # ----------------
 # ----------------
 
@@ -365,6 +365,28 @@ CHE 24Zur Cen ETH                  #2026
 CHE 25Zur Rom BerDol               #2026
 CHE 50Zur Fra Gla                  #2026
 CHE 51Zur BahAltNord See           #2026
+
+#Brno
+CZE 1Brn Rec Sem
+CZE 1Brn Sum Pis                   #2026
+#CZE 1Brn Bra Rak                  #2026, missing in RB
+CZE 11Brn Str Bra                  #2026, actually traveled as 1
+CZE 3Brn Rak +DIV_10               #2026, actually traveled as 1
+CZE 2Brn StaOsa HlaNad             #2026
+CZE 2Brn HlaNad ModSmy             #2026
+CZE 10Brn Ece +DIV_3               #2026, actually traveled as 3
+CZE 3Brn +DIV_10 VozKom            #2026, to Ecorova
+CZE 3Brn Jug StaOsa                #2026
+CZE 4Brn Ces ObrBab                #2026
+CZE 5Brn SteCtv MenNam             #2026
+CZE 6Brn KraPolNad Sum             #2026
+CZE 6Brn MenNam Por                #2026
+CZE 6Brn Cel StaLisSmy             #2026
+CZE 8Brn NemBoh Mif                #2026
+CZE 9Brn LesCerRok Ces             #2026
+CZE 9Brn Gei Jul                   #2026
+CZE 10Brn VozKom Kras              #2026
+CZE 12Brn TecPark Kom              #2026
 
 #Praha
 CZE A NemMot DepoHos               #2019
