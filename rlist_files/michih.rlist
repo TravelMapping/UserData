@@ -1,4 +1,4 @@
-# Date: 2026-03-16
+# Date: 2026-03-17
 # ----------------
 # ----------------
 
@@ -370,7 +370,7 @@ CHE 51Zur BahAltNord See           #2026
 CZE 1Brn Rec Sem
 CZE 1Brn Sum Pis                   #2026
 #CZE 1Brn Bra Rak                  #2026, missing in RB
-CZE 11Brn Str Bra                  #2026, actually traveled as 1
+CZE 11Brn +DIV_310E Bra            #2026, actually traveled as 1
 CZE 3Brn Rak +DIV_10               #2026, actually traveled as 1
 CZE 2Brn StaOsa HlaNad             #2026
 CZE 2Brn HlaNad ModSmy             #2026
