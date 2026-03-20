@@ -21,6 +21,8 @@ LA UPTRiv Tou HarCas
 
 MD GreLn DC/MD HyaCro
 
+MI ExpTram TerSta NorSta
+
 MO MLRedLn Sta LacLan
 
 NV LVM MGMGra Har/Linq
@@ -28,6 +30,8 @@ NV LVM MGMGra Har/Linq
 OK BriLoop MicMan SciPark_S
 
 OR BlueLn Qua SkiFou
+
+TX Sky A8 A21
 
 VA BluLn RRWasNatAir VA/DC
 VA OraLn BalMU VA/DC
@@ -42,6 +46,7 @@ DEU-BE U6 FriStr KochStr
 
 DEU-NW 05Kol FriPla DomHbf
 DEU-NW 1Bie Hbf LandGer
+DEU-NW 302Gel VELTINSAre GelKirHbf
 DEU-NW 705Dus UntRathS SchaStr
 DEU-NW 707Dus BilKir GrosMar
 DEU-NW 708Dus LandTagKnieBru BirStr
