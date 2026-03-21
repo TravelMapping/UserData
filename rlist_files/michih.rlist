@@ -1,4 +1,4 @@
-# Date: 2026-03-18
+# Date: 2026-03-20
 # ----------------
 # ----------------
 
@@ -1185,6 +1185,15 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
+
+#Bratislava
+SVK 1Bra HlaSta NamStu          #2026
+SVK 3Bra Kom JanDvor            #2026
+SVK 4Bra PriKri NamStu          #2026
+SVK 1Bra NamStu +DIV_Lp2        #2026, actually traveled as regular line 4
+SVK 4Bra +DIV_13 ZlaPie         #2026
+SVK 9Bra Lan Ast                #2026
+
 
 #Gothenborg
 SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar
