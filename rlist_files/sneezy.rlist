@@ -18,6 +18,7 @@ BEL 51Bru PorNin Lem
 BEL IC1 Bru BruCen
 BEL IC16 BruCen BEL/LUX
 BEL IC2 AntCen GentStPie
+BEL IC6 BruCen BruAirZav
 BEL L2 GentStPie Bru
 BEL ParAms BEL/NLD AntCen
 CA A SieMadVil WilSt
@@ -50,11 +51,13 @@ ESP-MD M8 AerT4 NueMin
 ESP-MD M9 PriVer Col
 FL EpcMon TraTicCen EPCOT
 FL GateLinkTBW TerB Air3
+FRA-CVL 1CVL Tou BloCha
 FRA-CVL 14CVL IDF/CVL Cha
 FRA-CVL 25PdL PDL/CVL Tou
 FRA-CVL BruBor CVL/NAQ IDF/CVL
 FRA-CVL K2 IDF/CVL CVL/NOR
 FRA-CVL ParTrs StPieCor Tou
+FRA-CVL P2 Tou Che
 FRA-IDF B AerCDG2TGV GareNord
 FRA-IDF BruBor IDF/CVL AerCDG2TGV
 FRA-IDF CVer StMicNotDame VerChaRiveGau
@@ -83,15 +86,21 @@ IL BlueLn OHa LaS
 IL OraLn Mid Loop
 IL RedLn Sox35th Add
 ISR 1Jer ShiISr MouHer
+ITA-LAX FaRomGen RomaTer UMB/LAZ
+ITA-LAZ LeoExp FinAer RomaTer
 ITA-LAZ MA Cip Ter
 ITA-LAZ MB Ter Col
+ITA-TOS FaRomGen TOS/UMB FirCam
+ITA-UMB UMB/LAZ TOS/UMB
+JPN NarExpO NarAirTer1 Tokyo
+JPN TokaidoShin Tokyo Kyoto
 LUX IC16 BEL/LUX LuxGareCen
 LUX T1 GareCen Ham
 MD BLRLBWI BWIAir CamYds
 MI DetPeoMov Mic_S Mic_N
 MN BlueLine MallofAmerica TargetFieldPlatform1
 MN HubTram Ter1 HubBui
-MO MLBlueLn UniCityBigBend Stadium
+MO MLBlueLn UniCityBigBend Sta
 MO MLRedLn 8thPine LamAirTer1
 NJ AirTrn NewLibAir TerB
 NJ NJerCoaLn NY/NJ NewLibAir
