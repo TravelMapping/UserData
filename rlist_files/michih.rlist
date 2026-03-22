@@ -1,4 +1,4 @@
-# Date: 2026-03-20
+# Date: 2026-03-22
 # ----------------
 # ----------------
 
@@ -368,14 +368,10 @@ CHE 51Zur BahAltNord See           #2026
 
 #Brno
 CZE 1Brn Rec Sem
-CZE 1Brn Sum Pis                   #2026
-#CZE 1Brn Bra Rak                  #2026, missing in RB
-CZE 11Brn +DIV_310E Bra            #2026, actually traveled as 1
-CZE 3Brn Rak +DIV_10               #2026, actually traveled as 1
+CZE 1Brn Sum Rak                   #2026
 CZE 2Brn StaOsa HlaNad             #2026
 CZE 2Brn HlaNad ModSmy             #2026
-CZE 10Brn Ece +DIV_3               #2026, actually traveled as 3
-CZE 3Brn +DIV_10 VozKom            #2026, to Ecorova
+CZE 3Brn Ece VozKom                #2026
 CZE 3Brn Jug StaOsa                #2026
 CZE 4Brn NamMiru ObrBab            #2026
 CZE 5Brn SteCtv UstHrbSmy          #2026
@@ -1167,7 +1163,7 @@ PRT LnLei LecaBal PorCam              #2025
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
 ROU M2 Ber Pip                        #2023, southern extension u/c
-ROU M3 Pre AngSal                     #2023
+ROU M3 Pre AngSal                     #202
 ROU M4 Str GaraNord2                  #2023
 ROU M5Ial ValIal Rom                  #2023
 ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
@@ -1189,9 +1185,8 @@ SRB 14Beo Ust Ban               #2023
 #Bratislava
 SVK 1Bra HlaSta NamStu          #2026
 SVK 3Bra Kom JanDvor            #2026
-SVK 4Bra PriKri NamStu          #2026
-SVK 1Bra NamStu +DIV_Lp2        #2026, actually traveled as regular line 4
-SVK 4Bra +DIV_13 ZlaPie         #2026
+SVK 4Bra NamStu StaNoveMes      #2026
+SVK 4Zla ZlaPie PriKri          #2026
 SVK 9Bra Lan Ast                #2026
 
 
