@@ -1,7 +1,7 @@
 #everywhere that darmstarm has been up to 2-27-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 2-27-26.
+#last updated 3-21-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -235,14 +235,16 @@ NC I-295 34 21A #fort bragg trip 1-2026
 NC I-440 1 16 #finished 2-26
 NC I-485 30 32
 NC I-540 4 26 #roadtrip 11-16-25
+NC I-840 6 21 #spring break road trip 2026 (blacksburg -> raleigh)
 NC I-885 5 13 #completed 9-25
 NC US1 NC2 US401_N #update 10-25 wingate trip
 NC US15 NC/VA I-85(202)
 NC US15 NC73 71(1) #wingate trip 10-25
+NC US15 I-40 FraSt #unc track meet(s)
 NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
 NC US19E CRSchRd NC197_S #BRR 9-25. east to jacks creek rd
 NC US29 I-485(32) MalCreRd
-NC US52 140 109 #tenessee trip, BRR
+NC US52 VA/NC 109 #tenessee trip, BRR, spring break road trip 2026 (raleigh -> breaks)
 NC US52 107 108B #winston salem
 NC US64 464 293(40)
 NC US64 BilCrkRd NC9 #BRR 9-25
@@ -257,6 +259,7 @@ NC US76 US17/74 StoSt #wilmington 5k 2024
 NC US117 I-40(420) US74 #wilmington 5k 2024
 NC US158 I-40 HanMallBlvd #JDL
 NC US158 US15 I-85(206) #multiple trips
+NC US220 NC/VA I-840 #spring break road trip 2026 (blacksburg -> raleigh)
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
@@ -277,6 +280,7 @@ NC NC55 US64 HighHouRd #ATT
 NC NC55 US1 NC55BypHol_N #road trip 12-9-25
 NC NC55 NC55BypHol_S US401_N #road trip 12-9-25
 NC NC55BypHol NC55_N NC55_S #road trip 12-9-25
+NC NC66 US421 NC74 #spring break road trip 2026 (raleigh -> breaks)
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
 NC NC86 US70 NC/VA #raleigh -> hershey
@@ -373,9 +377,15 @@ NM NM58 US64 I-25 #interstate to cimmaron
 OH I-77 156 I-90 #niagara trip (rnrhf)
 OH I-90 OH/PA 174B # or 188? niagara trip (rnrhf)
 OH I-271 I-90 27B #niagara trip (rnrhf)
+OH I-275 OH/KY 63 #spring break road trip 2026 (louisville -> shawnee)
 OH I-480 26 20 #niagara trip (rnrhf)
 OH I-480War I-271 I-480 #niagara trip (rnrhf)
+OH US52 OH125 OH852 #spring break road trip 2026 (shawnee -> blacksburg)
 OH OH2 207 195A #niagara trip (rnrhf)
+OH OH32 I-275 OH247 #spring break road trip 2026 (louisville -> shawnee)
+OH OH125 OH247_W US52 #spring break road trip 2026 (louisville -> shawnee -> blacksburg)
+OH OH247 OH32 OH41_N #spring break road trip 2026 (louisville -> shawnee)
+OH OH852 US52 KY/OH #spring break road trip 2026 (shawnee -> blacksburg)
 #tenessee
 TN I-40 421 386 #cross regionals 2024
 TN I-81 1 TN/VA #cross regionals 2024
@@ -451,9 +461,9 @@ VA I-64 299 282 #delmarva trip
 VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
 VA I-64 118 121 #fall break trip 10-25
+VA I-66 6 64 #shanendoah trip 2020 (return trip)
 VA I-77 NC/VA VA/WV #completed with BRR 9-25
-VA I-81 TN/VA 98 #from virginia tech to tenessee border
-VA I-81 114 VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2
+VA I-81 TN/VA VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2, shawnee -> blacksburg (clinched spring break trip 2026)
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
 VA I-295 43 1 #raleigh -> home thanksgiving 2025
@@ -462,32 +472,36 @@ VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experi
 VA I-664 13 15
 VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
 VA US1 I-85(63) VA142 #petersburg half 2024
+VA US11 I-81(73) VA80 #spring break road trip 2026 (raleigh -> breaks)
+VA US11 VA8 VA111_N #spring break road trip 2026 (shawnee -> blacksburg)
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US15BusFar US15_S US460Bus_E #panorama farms
 VA US29 VA86 VA6_W #raleigh -> hershey
 VA US29 US33 I-64 #shanendoah trip 10-25
 VA US33 VA280 US29 #shanendoah trip 10-25
+VA US52 VA/NC I-81(80) #spring break road trip 2026 (raleigh -> breaks)
 VA US58 I-95 I-664
 VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
 VA US58 VA86 US220_N #fall break trip 10-25
+VA US58 US58Bus/8 US220_S #spring break road trip 2026 (blacksburg -> raleigh)
 VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
 VA US220 US58_E SR609 #fall break trip 10-25
+VA US220 US58_W NC/VA #spring break road trip 2026 (blacksburg -> raleigh)
 VA US250 VA151 I-64(99) #raleigh -> hershey
 VA US301 VA207 VA/MD
 VA US301 VA30 I-295 #thanksgiving return trip 2025
 VA US301 I-95(52) US1_S #petersburg half 2024 (ran, not driven)
 VA US301 SieRd US460Bus_W #petersburg half 2024 (ran, not driven)
-VA US340 VA55_W SkyDr #shanendoah trip 2020
+VA US340 VA/WV SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
 VA US460 WV/VA I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
-VA US460BusChr US460_E US460(2) #shanendoah trip 10-25
-VA US460BusChr US460_W RoaSt #shanendoah trip 10-25
+VA US460BusChr US460_E US460_W #shanendoah trip 10-25, clinched spring break 2026
 VA US460BusPet US301_N VA36Trk_W #petersburg half 2024 (ran, not driven) -> went all the way to battersea lane
-VA US522 US340_S US17/50_S #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
+VA US522 US340_S US340_N #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
-VA VA8 VA57 I-81 #fall break trip 10-25
+VA VA8 US58_E US11 #fall break trip 10-25, spring break trip 2026
 VA VA10 I-95 RivBendBlvd #raleigh -> home thanksgiving 2025
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
@@ -498,8 +512,12 @@ VA VA36Bol BolSt_E US301_N #petersburg half 2024
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25
+VA VA61 US460 VA100 #spring break road trip 2026 (shawnee -> blacksburg)
+VA VA69 US52 I-77 #spring break road trip 2026 (raleigh -> breaks) grabbed for the lols
+VA VA80 US11 VA460_E #spring break road trip 2026 (raleigh -> breaks, breaks -> mammoth)
 VA VA86 NC/VA US29/58 #raleigh -> hershey 2024
-VA VA100 I-81(98) US460Bus_E #raleigh -> blacksburg
+VA VA100 I-81(98) VA61 #raleigh -> blacksburg, shawnee -> blacksburg
+VA VA111 US11/460Bus US460Bus #spring break road trip 2026 (shawnee -> blacksburg)
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
 VA VA144 I-95 US1/301_S #hershey trip 2025
 VA VA151 VA6_E US250 #raleigh -> hershey 2024
@@ -510,9 +528,13 @@ VA VA311 SR624 VA419 #shanendoah trip 10-25. north to dragon's tooth trailhead
 VA VA362 US58 GraHigSP #BRR 9-25
 VA VA419 VA311 I-81 #shanendoah trip 10-25
 #west virginia
+WV I-64 KY/WV 85(77) #spring break road trip 2026 (shawnee -> blacksburg)
+WV I-64 121 125 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-68 WV/MD 7 #WVU tour
 WV I-77 VA/WV 7 #BRR 9-25
 WV I-77 9 28 #shanendoah 10-25
+WV I-77 79 60 #spring break road trip 2026 (shawnee -> blacksburg)
+WV I-77 54 40 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-81 VA/WV WV/MD #college to hershey park
 #WV US19 US460_E GreenValleyRd #BRR 9-25
 WV US19 I-77 EBecByp #shanendoah 10-25
@@ -520,12 +542,80 @@ WV US19 US19Byp_N CR85/9 #shandneoah 10-25 (new river national park)
 WV US19BypBec JerAve US19_N #shanendoah 10-25
 WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
 WV US119 CR857_N ColAve #WVU tour
-WV US340 WV/VA SheSt #shanendoah trip
+WV US340 WV/VA VA/WV #shanendoah trip 2020
 WV US460 12MileRd US19_N #BRR 9-25
 WV US460 WV/VA I-77 #shanendoah 10-25
 WV WV16 US19_Fay KingAve #shanendoah 10-25
 WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
+WV WV61 QuiDockRd CR79/3 #spring break road trip 2026 (shawnee -> blacksburg)
+WV WV307 CR9/9 US19/3_N #spring break road trip 2026 (shawnee -> blacksburg)
+WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to paint creek rd)
 #alabama
 AL US80 AL/GA US280/431_S #panama city trip 2025
 AL US231 US431 FL/AL #panama city trip 2025
 AL US431 OpeRd US84_W #panama city trip 2025
+#kentucky - first visited 3-17-26
+KY ComMtnPkwy 16 US460_E #spring break road trip 2026 (breaks -> mammoth)
+KY CumPkwy 88 1 #spring break road trip 2026 (breaks -> mammoth)
+KY WesKYPkwy 137 136 #spring break road trip 2026 (mammoth -> louisville)
+KY ParkCityRd KY255 MamCavePkwy #spring break road trip 2026 (mammoth)
+KY MamCavePkwy KY70/255 End #spring break road trip 2026 (breaks -> mammoth)
+KY GreRivFerRd MamCavePkwy GreRivFry #spring break road trip 2026 (mammoth)
+KY BroRd MamCavePkwy KY70/2325 #spring break road trip 2026 (mammoth)
+KY CaveCityRd KY255 MamCavePkwy #spring break road trip 2026 (mammoth -> louisville)
+KY LCTrl I-64(4) US31W/60_W #spring break road trip 2026 (mammoth -> louisville)
+KY I-64 6 4 #spring break road trip 2026 (mammoth -> louisville -> shawnee)
+KY I-64 3 IN/KY #spring break road trip 2026 ("the quick indiana shimmy")
+KY I-64 179 KY/WV #spring break road trip 2026 (shawnee -> blacksburg)
+KY I-65 43 91 #spring break road trip 2026 (breaks -> mammoth)
+KY I-65 125 137 #spring break road trip 2026 (mammoth -> louisville)
+KY I-71 1 62 #spring break road trip 2026 (louisville -> shawnee)
+KY I-75 83 62 #spring break road trip 2026 (breaks -> mammoth)
+KY I-275 79 OH/KY #spring break road trip 2026 (louisville -> shawnee)
+KY US23 KY3174 KY114 #spring break road trip 2026 (breaks -> mammoth)
+KY US23 KY8 KY1/2541 #spring break road trip 2026 (shawnee -> blacksburg)
+KY US23TrkPor KY/OH US23_S #spring break road trip 2026 (shawnee -> blacksburg)
+KY US25 KY52 KY2872 #spring break road trip 2026 (breaks -> mammoth)
+KY US25 I-75(62) KY461 #spring break road trip 2026 (breaks -> mammoth)
+KY US25 KY2951 KY16_E #spring break road trip 2026 (louisville -> shawnee)
+KY US27 HalRogPkwy CumPkwy #spring break road trip 2026 (breaks -> mammoth)
+KY US127 I-71(62) KY338_E #spring break road trip 2026 (louisville -> shawnee)
+KY US31 KY/IN US31E/31W #spring break road trip 2026 (louisville -> shawnee)
+KY US31W KY361_N KY841/1934 #spring break road trip 2026 (mammoth -> louisville)
+KY US31W US31/31E I-64 #spring break road trip 2026 (louisville -> shawnee)
+KY US31WBypEli WesKYPkwy KY361 #spring break road trip 2026 (mammoth -> louisville)
+KY KY1 US23 KY207_N #spring break road trip 2026 (shawnee -> blacksburg)
+KY KY15 ComMtnPkwy(16) KY82 #spring break road trip 2026 (breaks -> mammoth)
+KY KY16 US25_N I-275 #spring break road trip 2026 (louisville -> shawnee)
+KY KY52 KY499_E US25 #spring break road trip 2026 (breaks -> mammoth)
+KY KY67 KY207 I-64 #spring break road trip 2026 (shawnee -> blacksburg)
+KY KY70Cam I-65 MamCaveNP #spring break road trip 2026 (mammoth)
+KY KY80 KY/VA KY3174 #spring break road trip 2026 (breaks -> mammoth)
+KY KY80 KY461 KY914_E #spring break road trip 2026 (breaks -> mammoth)
+KY KY80 KY80Bus US27 #spring break road trip 2026 (breaks -> mammoth)
+KY KY80BusSom KY192 KY80_E #spring break road trip 2026 (breaks -> mammoth)
+KY KY82 KY15 KY89 #spring break road trip 2026 (breaks -> mammoth)
+KY KY89 KY82 KY499 #spring break road trip 2026 (breaks -> mammoth)
+KY KY114 US23/460 US460 #spring break road trip 2026 (breaks -> mammoth)
+KY KY192 KY914 KY80Bus #spring break road trip 2026 (breaks -> mammoth)
+KY KY207 KY1_N KY67 #spring break road trip 2026 (shawnee -> blacksburg)
+KY KY255 KY1339 MamCaveNP #spring break road trip 2026 (breaks -> mammoth)
+KY KY255Mam MamCaveNP_N MamCaveNP_S #spring break road trip 2026 (mammoth)
+KY KY259 KY2325 KY1339 #spring break road trip 2026 (mammoth)
+KY KY338 US42_E KY2951 #spring break road trip 2026 (louisville -> shawnee)
+KY KY361 US31WBypEli US31W_N #spring break road trip 2026 (mammoth -> (fort knox) -> louisville)
+KY KY404 KY114 AllBraRd #spring break road trip 2026 (breaks -> mammoth) another "funny grab"
+KY KY461 US25 HalRogPkwy #spring break road trip 2026 (breaks -> mammoth)
+KY KY499 KY89 KY52_W #spring break road trip 2026 (breaks -> mammoth)
+KY KY841 1 10 #spring break road trip 2026 (mammoth -> louisville)
+KY KY914 HalRogPkwy_E KY192 #spring break road trip 2026 (breaks -> mammoth)
+KY KY1339 KY259 KY255 #spring break road trip 2026 (mammoth)
+KY KY2326 KY70/2325 KY259 #spring break road trip 2026 (mammoth)
+KY KY2872 US25/421 I-75 #spring break road trip 2026 (breaks -> (bucees) -> mammoth)
+KY KY2951 KY338 US25 #spring break road trip 2026 (louisville -> shawnee)
+KY KY3174 KY80 US23/119 #spring break road trip 2026 (breaks -> mammoth)
+#indiana
+In LCTrl StaSt BroStaWay_E #spring break road trip 2026 ("the quick indiana shimmy")
+IN I-64 IN/KY 123 #spring break road trip 2026 ("the quick indiana shimmy")
+IN I-65 1 1A #spring break road trip 2026 ("the quick indiana shimmy")
+IN US31 10thSt KY/IN #spring break road trip 2026 ("the quick indiana shimmy")
