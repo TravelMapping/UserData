@@ -1,3 +1,36 @@
+#1982-11 Fall Quiz-Off Wauseon				
+IL	US150	MainSt_Mor	WasRd	#1982-11 Fall Quiz-Off Wauseon
+IL	US24	MainSt_Was	IL/IN	#1982-11 Fall Quiz-Off Wauseon
+IL	I-55	187	250	#1982-11 Fall Quiz-Off Wauseon
+IL	I-80	126	IL/IN	#1982-11 Fall Quiz-Off Wauseon
+IN	I-80	IL/IN	IN/OH	#1982-11 Fall Quiz-Off Wauseon
+OH	I-80	IN/OH	34	#1982-11 Fall Quiz-Off Wauseon
+OH	OH108	US6/24	I-80/90	#1982-11 Fall Quiz-Off Wauseon
+OH	US24	IN/OH	40	#1982-11 Fall Quiz-Off Wauseon
+IN	US24	IL/IN	IN/OH	#1982-11 Fall Quiz-Off Wauseon
+#1983-1989 EMC Conference				
+IL	I-74	102	IL/IN	#1983-1989 EMC Conference
+IN	I-74	IL/IN	39	#1983-1989 EMC Conference
+IN	IN32	I-74	IN38_E	#1983-1989 EMC Conference
+IN	IN38	IN32_E	I-69(219)	#1983-1989 EMC Conference
+IN	I-69	219	255	#1983-1989 EMC Conference
+IN	IN26	I-69	IN22	#1983-1989 EMC Conference
+IN	IN22	1stSt	IN26	#1983-1989 EMC Conference
+#1983-11 Fall Quiz-Off Archbold				
+IL	US150	MainSt_Mor	WasRd	#1983-11 Fall Quiz-Off Archbold
+IL	US24	MainSt_Was	IL/IN	#1983-11 Fall Quiz-Off Archbold
+IL	I-55	187	250	#1983-11 Fall Quiz-Off Archbold
+IL	I-80	126	IL/IN	#1983-11 Fall Quiz-Off Archbold
+IN	I-80	IL/IN	IN/OH	#1983-11 Fall Quiz-Off Archbold
+OH	I-80	IN/OH	25	#1983-11 Fall Quiz-Off Archbold
+OH	OH66	OH34	I-80/90	#1983-11 Fall Quiz-Off Archbold
+OH	OH2	OH191_N	OH66_S	#1983-11 Fall Quiz-Off Archbold
+#1984-03 Spring Quiz-Off Grabill				
+IL	US150	MainSt_Mor	WasRd	#1984-03 Spring Quiz-Off Grabill
+IL	US24	MainSt_Was	IL/IN	#1984-03 Spring Quiz-Off Grabill
+IN	US24	IL/IN	I-69(315)	#1984-03 Spring Quiz-Off Grabill
+IN	I-69	302	316	#1984-03 Spring Quiz-Off Grabill
+IN	IN1	I-69(316)	GraRd	#1984-03 Spring Quiz-Off Grabill
 #1984-1989 Miracle Camp				
 IL	I-74	102	127	#1984-1989 Miracle Camp
 IL	I-55	163	250	#1984-1989 Miracle Camp
@@ -5,6 +38,26 @@ IL	I-80	126	IL/IN	#1984-1989 Miracle Camp
 IN	I-94	IL/IN	IN/MI	#1984-1989 Miracle Camp
 MI	I-94	IN/MI	60	#1984-1989 Miracle Camp
 MI	MI40	31stSt	I-94	#1984-1989 Miracle Camp
+#1986-07 Quiz Retreat Wisconsin Dells				
+IL	US150	MainSt_Mor	WasRd	#1986-07 Quiz Retreat Wisconsin Dells
+IL	US24	MainSt_Was	I-39	#1986-07 Quiz Retreat Wisconsin Dells
+IL	I-39	14	IL/WI	#1986-07 Quiz Retreat Wisconsin Dells
+WI	I-90	106	WI/IL	#1986-07 Quiz Retreat Wisconsin Dells
+WI	WI33	US12/136	I-90	#1986-07 Quiz Retreat Wisconsin Dells
+WI	US12BusBar	WI33_E	WI136	#1986-07 Quiz Retreat Wisconsin Dells
+WI	WI136	US12/33	ParkRd	#1986-07 Quiz Retreat Wisconsin Dells
+WI	US12	WI13/23	218	#1986-07 Quiz Retreat Wisconsin Dells
+WI	WI13	US12	WI16/23	#1986-07 Quiz Retreat Wisconsin Dells
+#1987-10 Road Trip with Amy				
+IL	US150	MainSt_Mor	WasRd	#1987-10 Road Trip with Amy
+IL	US24	MainSt_Was	IL/IN	#1987-10 Road Trip with Amy
+IN	US24	IL/IN	IN9_N	#1987-10 Road Trip with Amy
+IN	US224	US24	I-69	#1987-10 Road Trip with Amy
+IN	I-69	219	286	#1987-10 Road Trip with Amy
+IN	IN38	IN32_E	I-69(219)	#1987-10 Road Trip with Amy
+IN	IN32	I-74	IN38_E	#1987-10 Road Trip with Amy
+IN	I-74	IL/IN	39	#1987-10 Road Trip with Amy
+IL	I-74	102	IL/IN	#1987-10 Road Trip with Amy
 #1989-1992 Chapter Camp				
 IL	I-74	102	127	#1989-1992 Chapter Camp
 IL	I-55	163	250	#1989-1992 Chapter Camp
@@ -26,6 +79,41 @@ MI	MI14	I-94	I-96	#1989 Fetch the Sunbird
 MI	I-96	I-275_S	186B	#1989 Fetch the Sunbird
 MI	MI8	I-96	I-75	#1989 Fetch the Sunbird
 MI	I-75	56	72	#1989 Fetch the Sunbird
+#1992-02 UWisconsin				
+IL	I-74	127	183	#1992-02 UWisconsin
+IL	I-55	163	164	#1992-02 UWisconsin
+IL	US51	I-55(164)	I-90_E	#1992-02 UWisconsin
+IL	I-90	WI/IL	17	#1992-02 UWisconsin
+WI	I-90	142	WI/IL	#1992-02 UWisconsin
+WI	US18	261(12)	267(12)	#1992-02 UWisconsin
+WI	US151	261(12)	ParkSt_N	#1992-02 UWisconsin
+#1992-03 UC Berkeley				
+CA	I-880	35	42A	#1992-03 UC Berkeley
+CA	I-980	I-880	2B	#1992-03 UC Berkeley
+CA	CA24	2	15	#1992-03 UC Berkeley
+CA	I-680	41	46A	#1992-03 UC Berkeley
+CA	I-580	8B(80)	19C	#1992-03 UC Berkeley
+CA	I-80	1A	8B	#1992-03 UC Berkeley
+CA	CA13	5B	ClaAve	#1992-03 UC Berkeley
+#1992-08 Yale				
+IL	I-74	102	IL/IN	#1992-08 Yale
+IN	I-74	IL/IN	73	#1992-08 Yale
+IN	I-465	I-65	16B	#1992-08 Yale
+IN	I-465	44	53	#1992-08 Yale
+IN	I-70	90	IN/OH	#1992-08 Yale
+OH	I-70	IN/OH	OH/WV	#1992-08 Yale
+WV	I-70	OH/WV	WV/PA	#1992-08 Yale
+PA	I-70	WV/PA	75(76)	#1992-08 Yale
+PA	I-76	75	226	#1992-08 Yale
+PA	US11	I-76	I-81(52)	#1992-08 Yale
+PA	I-81	52	89	#1992-08 Yale
+PA	I-78	1	PA/NJ	#1992-08 Yale
+NJ	I-78	PA/NJ	29	#1992-08 Yale
+NJ	I-287	21	NJ/NY	#1992-08 Yale
+NY	I-287	NJ/NY	I-95	#1992-08 Yale
+NY	I-95	22	NY/CT	#1992-08 Yale
+CT	I-95	NY/CT	48	#1992-08 Yale
+CT	I-91	1	6	#1992-08 Yale
 #1993-11 John and Liz				
 IL	I-94	42	IL/IN	#1993-11 John and Liz
 IN	I-94	IL/IN	IN/MI	#1993-11 John and Liz
@@ -79,7 +167,7 @@ WA	WA20	CorBayRd	I-5	#1996-05 Seattle Vancouver
 #1997-06 San Francisco Yosemite				
 CA	US101	336	431	#1997-06 San Francisco Yosemite
 CA	I-280	54	57	#1997-06 San Francisco Yosemite
-CA	I-80	2	8B	#1997-06 San Francisco Yosemite
+CA	I-80	2C	8B	#1997-06 San Francisco Yosemite
 CA	I-580	8B(80)	65	#1997-06 San Francisco Yosemite
 CA	I-205	I-580	I-5	#1997-06 San Francisco Yosemite
 CA	CA120	1A	YosNP	#1997-06 San Francisco Yosemite
@@ -119,6 +207,21 @@ WA	WA518	AirExpy	I-5	#2000-10 Joe and Margaret
 WA	I-405	I-5(154)	14	#2000-10 Joe and Margaret
 WA	WA520	I-405	WA202	#2000-10 Joe and Margaret
 WA	WA202	RedWay	ToltHillRd	#2000-10 Joe and Margaret
+#2000-10 Wai Po Birthday				
+CA	CA118	18	42A	#2000-10 Wai Po Birthday
+CA	I-405	71A	I-5(158)	#2000-10 Wai Po Birthday
+CA	I-5	158	446	#2000-10 Wai Po Birthday
+CA	I-580	44B	I-5	#2000-10 Wai Po Birthday
+CA	I-680	12	46A	#2000-10 Wai Po Birthday
+CA	CA24	2	15	#2000-10 Wai Po Birthday
+CA	I-580	8B(80)	19C	#2000-10 Wai Po Birthday
+CA	I-80	2C	8B	#2000-10 Wai Po Birthday
+CA	CA262	I-880	I-680	#2000-10 Wai Po Birthday
+CA	I-880	8B	12	#2000-10 Wai Po Birthday
+CA	CA237	6	9B	#2000-10 Wai Po Birthday
+CA	US101	66A	393	#2000-10 Wai Po Birthday
+CA	CA126	1A	5	#2000-10 Wai Po Birthday
+CA	CA118	CA126	TieRejRd	#2000-10 Wai Po Birthday
 #2004-07 Solvang				
 CA	CA118	CA126	TieRejRd	#2004-07 Solvang
 CA	CA126	1A	5	#2004-07 Solvang
@@ -136,11 +239,10 @@ CA	I-80	8B	56	#2005-06 Road Trip to Seattle
 CA	I-505	1A	I-5	#2005-06 Road Trip to Seattle
 CA	I-5	158	CA/OR	#2005-06 Road Trip to Seattle
 OR	I-5	CA/OR	299B	#2005-06 Road Trip to Seattle
-OR	I-205	I-5	21B	#2005-06 Road Trip to Seattle
-OR	US30HisCol	CorHillRd	I-84(35)	#2005-06 Road Trip to Seattle
-OR	I-84	6	40	#2005-06 Road Trip to Seattle
+OR	I-205	I-5	OR/WA	#2005-06 Road Trip to Seattle
 OR	ORTrlRiv	I-205(22)	I-84(9A)	#2005-06 Road Trip to Seattle
-OR	I-205	22	OR/WA	#2005-06 Road Trip to Seattle
+OR	I-84	9A	40	#2005-06 Road Trip to Seattle
+OR	US30HisCol	CorHillRd	I-84(35)	#2005-06 Road Trip to Seattle
 WA	I-205	OR/WA	I-5	#2005-06 Road Trip to Seattle
 WA	I-5	OR/WA	154	#2005-06 Road Trip to Seattle
 WA	I-405	I-5(154)	14	#2005-06 Road Trip to Seattle
@@ -167,6 +269,7 @@ CA	CA139	EurSt	CA/OR	#2005-06 Road Trip to Seattle
 CA	VLSBTul	CaveLpRd	HillRd_N	#2005-06 Road Trip to Seattle
 CA	CA161	US97	CA139/39	#2005-06 Road Trip to Seattle
 CA	US97	I-5	CA/OR	#2005-06 Road Trip to Seattle
+CA	CA198	I-5	CA269	#2005-06 Road Trip to Seattle
 #2007-06 Illinois Missouri				
 IL	I-190	0	ChiOHAir	#2007-06 Illinois Missouri
 IL	I-90	79C	82A	#2007-06 Illinois Missouri
@@ -183,17 +286,34 @@ MO	I-44	230	292	#2007-06 Illinois Missouri
 MO	MO141	I-44	BigBendRd	#2007-06 Illinois Missouri
 MO	I-270	5	8	#2007-06 Illinois Missouri
 IL	US150	VetDr	IL117	#2007-06 Illinois Missouri
+IL	IL117	I-74	US150	#2007-06 Illinois Missouri
+#2007-08 Wai Po Funeral				
+CA	CA118	18	42A	#2007-08 Wai Po Funeral
+CA	I-405	71A	I-5(158)	#2007-08 Wai Po Funeral
+CA	I-5	158	446	#2007-08 Wai Po Funeral
+CA	I-580	44B	I-5	#2007-08 Wai Po Funeral
+CA	I-680	12	46A	#2007-08 Wai Po Funeral
+CA	CA24	4B	15	#2007-08 Wai Po Funeral
+CA	CA262	I-880	I-680	#2007-08 Wai Po Funeral
+CA	I-880	8B	12	#2007-08 Wai Po Funeral
+CA	CA237	6	9B	#2007-08 Wai Po Funeral
+CA	US101	336	393	#2007-08 Wai Po Funeral
+CA	CA156	CA1	US101(336)	#2007-08 Wai Po Funeral
+CA	CA1	203A(101)	414B	#2007-08 Wai Po Funeral
+CA	US101	66A	203A	#2007-08 Wai Po Funeral
+CA	CA126	1A	5	#2007-08 Wai Po Funeral
+CA	CA118	CA126	TieRejRd	#2007-08 Wai Po Funeral
 #2008-03 Hume Lake Retreat				
-CA	CA118	18	42A	#2008-03 Hume Lake
-CA	I-405	71A	I-5(158)	#2008-03 Hume Lake
-CA	I-5	158	221	#2008-03 Hume Lake
-CA	CA99	I-5(221)	98	#2008-03 Hume Lake
-CA	CA198	101	102	#2008-03 Hume Lake
-CA	CA201	Rd80	CA63_N	#2008-03 Hume Lake
-CA	CA63	CA201_W	CA180	#2008-03 Hume Lake
-CA	CA180	CA63	KinCanNP	#2008-03 Hume Lake
-CA	KinCanRd	CA180_W	CA180_E	#2008-03 Hume Lake
-CA	CA180Ced	KinCanNP_W	HumeLakeRd	#2008-03 Hume Lake
+CA	CA118	18	42A	#2008-03 Hume Lake Retreat
+CA	I-405	71A	I-5(158)	#2008-03 Hume Lake Retreat
+CA	I-5	158	221	#2008-03 Hume Lake Retreat
+CA	CA99	I-5(221)	98	#2008-03 Hume Lake Retreat
+CA	CA198	101	102	#2008-03 Hume Lake Retreat
+CA	CA201	Rd80	CA63_N	#2008-03 Hume Lake Retreat
+CA	CA63	CA201_W	CA180	#2008-03 Hume Lake Retreat
+CA	CA180	CA63	KinCanNP	#2008-03 Hume Lake Retreat
+CA	KinCanRd	CA180_W	CA180_E	#2008-03 Hume Lake Retreat
+CA	CA180Ced	KinCanNP_W	HumeLakeRd	#2008-03 Hume Lake Retreat
 #2008-04 Manzanar Death Valley				
 CA	CA118	18	42A	#2008-04 Manzanar Death Valley
 CA	I-405	71A	I-5(158)	#2008-04 Manzanar Death Valley
@@ -221,6 +341,7 @@ MO	US50	I-44(277B)	MO30	#2008-07 Illinois Missouri
 MO	I-44	277B	291A	#2008-07 Illinois Missouri
 IL	I-55BLSpr	I-55_S	CookSt_W	#2008-07 Illinois Missouri
 IL	US150	VetDr	IL117	#2008-07 Illinois Missouri
+IL	IL117	I-74	US150	#2008-07 Illinois Missouri
 IL	I-94	42	IL/IN	#2008-07 Illinois Missouri
 IN	I-94	IL/IN	26	#2008-07 Illinois Missouri
 IN	IN49	I-94	US12	#2008-07 Illinois Missouri
@@ -243,7 +364,7 @@ CA	CA91	24	51	#2008-12 Grand Canyon
 CA	I-15	96	191	#2008-12 Grand Canyon
 CA	I-40	I-15	141	#2008-12 Grand Canyon
 CA	I-40BLNee	PasSt	JSt	#2008-12 Grand Canyon
-CA	I-40	144	CA/AZ	#2008-12 Grand Canyon
+CA	I-40	142	CA/AZ	#2008-12 Grand Canyon
 AZ	I-40	CA/AZ	204	#2008-12 Grand Canyon
 AZ	I-40BLSel	I-40_W	I-40_E	#2008-12 Grand Canyon
 AZ	I-40BLWil	GraCanBlvd	I-40_E	#2008-12 Grand Canyon
@@ -302,6 +423,7 @@ IL	I-39	14	48	#2009-06 Great Train Trip
 IL	US24	US24BusWas_E	I-39	#2009-06 Great Train Trip
 IL	US24BusWas	MainSt	US24_E	#2009-06 Great Train Trip
 IL	US150	MorAve	IL117	#2009-06 Great Train Trip
+IL	IL117	I-74	US150	#2009-06 Great Train Trip
 IL	I-74	92B	127	#2009-06 Great Train Trip
 IL	IL83	US45_S	I-55	#2009-06 Great Train Trip
 #2009-08 Mammoth				
@@ -335,6 +457,7 @@ AZ	I-40	311	333	#2010-04 Arizona Colorado
 AZ	US191	I-40(333)	US160_W	#2010-04 Arizona Colorado
 AZ	US160	US89	AZ/NM	#2010-04 Arizona Colorado
 NM	US160	AZ/NM	NM/CO	#2010-04 Arizona Colorado
+NM	NM597	US160	FourCorMon	#2010-04 Arizona Colorado
 CO	US160	NM/CO	MesaVerNP	#2010-04 Arizona Colorado
 CO	MesaVerRd	US160	SprCyn	#2010-04 Arizona Colorado
 AZ	AZ564	US160	NavNatMon	#2010-04 Arizona Colorado
@@ -426,13 +549,15 @@ UT	I-15	AZ/UT	109	#2011-06 Ultimate Road Trip
 UT	I-15BLBea	I-15_S	I-15_N	#2011-06 Ultimate Road Trip
 UT	I-15	112	365	#2011-06 Ultimate Road Trip
 UT	UT13	I-15/84(365)	UT83	#2011-06 Ultimate Road Trip
-UT	UT83	UT13	Thi	#2011-06 Ultimate Road Trip
+UT	UT83	UT13	GolSpiDr	#2011-06 Ultimate Road Trip
 UT	UT102	UT83	I-84	#2011-06 Ultimate Road Trip
 UT	I-84	40	41	#2011-06 Ultimate Road Trip
 UT	I-15	379	385	#2011-06 Ultimate Road Trip
 UT	UT30	I-15(385)	US89/91_S	#2011-06 Ultimate Road Trip
+UT	US91	US89_N	1400N	#2011-06 Ultimate Road Trip
 UT	US89	UT252	UT/ID	#2011-06 Ultimate Road Trip
 ID	US89	UT/ID	ID/WY	#2011-06 Ultimate Road Trip
+ID	US30	DumpRd	US89_N	#2011-06 Ultimate Road Trip
 WY	US89	ID/WY	YelNP	#2011-06 Ultimate Road Trip
 WY	TetParkRd	US26/89	US89/191	#2011-06 Ultimate Road Trip
 WY	SEntRd	US89/191	GraLoopRd	#2011-06 Ultimate Road Trip
@@ -468,10 +593,12 @@ SD	US385	WindCave_D	US16_W	#2011-06 Ultimate Road Trip
 SD	US16AltCus	SD244	US16_E	#2011-06 Ultimate Road Trip
 SD	US16	US16Alt_E	US16Trk	#2011-06 Ultimate Road Trip
 SD	US16TrkRap	US16	I-90(61)	#2011-06 Ultimate Road Trip
-SD	I-90	61	SD/MN	#2011-06 Ultimate Road Trip
+SD	I-90	61	330	#2011-06 Ultimate Road Trip
 SD	BadLpRd	I-90(110)	I-90(131)	#2011-06 Ultimate Road Trip
 SD	I-90BLWal	AirRd	I-90_E	#2011-06 Ultimate Road Trip
+SD	I-90BLMit	I-90_W	SanBlvd	#2011-06 Ultimate Road Trip
 SD	I-90BLMit	SD38	I-90_E	#2011-06 Ultimate Road Trip
+SD	I-90	332	SD/MN	#2011-06 Ultimate Road Trip
 MN	I-90	SD/MN	1	#2011-06 Ultimate Road Trip
 MN	MN23	I-90	US75/30	#2011-06 Ultimate Road Trip
 MN	MN30	CR15_W	US75_S	#2011-06 Ultimate Road Trip
@@ -484,12 +611,13 @@ IA	US63	IA9	IA/MN	#2011-06 Ultimate Road Trip
 IA	IA9	US63	IA76_S	#2011-06 Ultimate Road Trip
 IA	IA76	US18_E	IA9_W	#2011-06 Ultimate Road Trip
 IA	US18	IA76	IA/WI	#2011-06 Ultimate Road Trip
-WI	US18	IA/WI	267(12)	#2011-06 Ultimate Road Trip
+WI	US18	IA/WI	258(12)	#2011-06 Ultimate Road Trip
+WI	US12	258	267	#2011-06 Ultimate Road Trip
 WI	I-90	142	WI/IL	#2011-06 Ultimate Road Trip
 IL	I-90	WI/IL	82B	#2011-06 Ultimate Road Trip
 IL	IL50	IL19	US14	#2011-06 Ultimate Road Trip
 IL	US14	DevAve	IL50	#2011-06 Ultimate Road Trip
-IL	I-190	0	ChiOHAir	#2011-06 Ultimate Road Trip
+IL	I-190	0	1C	#2011-06 Ultimate Road Trip
 IL	I-294	23C	40A	#2011-06 Ultimate Road Trip
 IL	US66His	I-55(276C)	I-294	#2011-06 Ultimate Road Trip
 IL	I-55	163	276C	#2011-06 Ultimate Road Trip
@@ -572,7 +700,7 @@ IL	IL50	IL19	US14	#2012-06 Midwest Adventures
 IL	I-94	29	41A	#2012-06 Midwest Adventures
 IL	US41	I-94_W	WasSt	#2012-06 Midwest Adventures
 IL	IL43	IL176	US41	#2012-06 Midwest Adventures
-IL	IL176	IL43	IL131	#2012-06 Midwest Adventures
+IL	IL176	IL43	US41	#2012-06 Midwest Adventures
 IL	I-294	23C	40A	#2012-06 Midwest Adventures
 IL	I-88	131	139	#2012-06 Midwest Adventures
 IL	I-355	13	20B	#2012-06 Midwest Adventures
@@ -583,6 +711,7 @@ IL	US12	ElkBlvd_E	US14	#2012-06 Midwest Adventures
 IL	I-94	42	59A	#2012-06 Midwest Adventures
 IL	I-90	59A(94)	IL/IN	#2012-06 Midwest Adventures
 IN	I-90	IL/IN	21	#2012-06 Midwest Adventures
+IN	I-80	16	21	#2012-06 Midwest Adventures
 IN	I-94	16	26	#2012-06 Midwest Adventures
 IN	IN49	I-80/90	US20	#2012-06 Midwest Adventures
 IN	I-90	31	IN/OH	#2012-06 Midwest Adventures
@@ -614,8 +743,8 @@ OH	I-270	20	26	#2012-06 Midwest Adventures
 OH	OH161	108(33)	SawRd	#2012-06 Midwest Adventures
 OH	I-270	8	17	#2012-06 Midwest Adventures
 OH	I-70	41	93	#2012-06 Midwest Adventures
-OH	OH4	OH444	I-70(41)	#2012-06 Midwest Adventures
-OH	OH4	I-75(54B)	HarRd	#2012-06 Midwest Adventures
+OH	OH4	I-75(53)	I-70(41)	#2012-06 Midwest Adventures
+OH	OH444	OH4	KauRd	#2012-06 Midwest Adventures
 OH	I-75	53	61	#2012-06 Midwest Adventures
 OH	I-70	IN/OH	33	#2012-06 Midwest Adventures
 IN	I-70	75	IN/OH	#2012-06 Midwest Adventures
@@ -627,6 +756,7 @@ IL	US150	LinAve	IL130_N	#2012-06 Midwest Adventures
 IL	US150	BloRd_E	IL10_W	#2012-06 Midwest Adventures
 IL	I-74	102	181	#2012-06 Midwest Adventures
 IL	US150	VetDr	IL117	#2012-06 Midwest Adventures
+IL	IL117	I-74	US150	#2012-06 Midwest Adventures
 IL	I-55	163	220	#2012-06 Midwest Adventures
 IL	IL47	I-55	I-80	#2012-06 Midwest Adventures
 IL	I-80	112	126	#2012-06 Midwest Adventures
@@ -670,16 +800,108 @@ CA	CA118	18	42A	#2013-01 Cesar Chavez
 CA	I-405	71A	I-5(158)	#2013-01 Cesar Chavez
 CA	I-5	158	162	#2013-01 Cesar Chavez
 CA	CA14	I-5	CA58Bus_W	#2013-01 Cesar Chavez
-CA	CA58BusMoj	CA58(165)	CA14_S	#2013-01 Cesar Chavez
+CA	CA58BusMoj	CA58(165)	CA14_N	#2013-01 Cesar Chavez
 CA	CA58	139	165	#2013-01 Cesar Chavez
 CA	CA202	WooTehRd	TehBlvd	#2013-01 Cesar Chavez
 CA	CA58BusTeh	CA202_W	CA58(151)	#2013-01 Cesar Chavez
 #2013-03 Spring Break				
-IL	I-280	18	I-80	#2013-03 Spring Break
-IL	I-80	IA/IL	4	#2013-03 Spring Break
+IL	I-190	0	ChiOHAir	#2013-03 Spring Break
+IL	I-90	79C	82A	#2013-03 Spring Break
+IL	US14	DevAve	US41_W	#2013-03 Spring Break
+IL	IL50	IL19	US14	#2013-03 Spring Break
+IL	I-94	29	41A	#2013-03 Spring Break
+IL	IL21	LakeAve	IL22	#2013-03 Spring Break
+IL	US41	I-94_W	CouLinRd	#2013-03 Spring Break
+IL	I-294	31A	52	#2013-03 Spring Break
 IL	I-88	1	I-290	#2013-03 Spring Break
-#CA routine driving routes				
-CA	US99HisFer	ValBlvd	I-5(171)	#CA routine driving routes
+IL	I-80	IA/IL	4	#2013-03 Spring Break
+IA	I-80	242	IA/IL	#2013-03 Spring Break
+IA	US67	I-80	CRF51	#2013-03 Spring Break
+IA	I-280	I-80	1	#2013-03 Spring Break
+IA	US6	I-280(1)	HicGroRd	#2013-03 Spring Break
+IA	US6HisDur	US6_Dav	DivSt	#2013-03 Spring Break
+IA	US67	IL/IA	US61Bus_S	#2013-03 Spring Break
+IL	US67	15thSt_S	IL/IA	#2013-03 Spring Break
+IL	I-74	2	127	#2013-03 Spring Break
+IL	I-55	163	257	#2013-03 Spring Break
+IL	US30	I-55	IL7	#2013-03 Spring Break
+IL	IL7	IL53_S	IL171	#2013-03 Spring Break
+IL	IL171	IL7	I-355	#2013-03 Spring Break
+IL	I-355	7A	20A	#2013-03 Spring Break
+IL	I-94	16	25B	#2013-03 Spring Break
+IL	IL176	I-94	IL43	#2013-03 Spring Break
+IL	IL43	IL60	IL137	#2013-03 Spring Break
+IL	IL60	US45	US41	#2013-03 Spring Break
+IL	US41	I-94_W	IL60	#2013-03 Spring Break
+IL	I-94	42	50A	#2013-03 Spring Break
+IL	I-90	79C	50A(94)	#2013-03 Spring Break
+#2013-10 Amgen Offsite Cambria				
+CA	CA118	CA126	TieRejRd	#2013-10 Amgen Offsite Cambria
+CA	CA126	1A	5	#2013-10 Amgen Offsite Cambria
+CA	US101	43	203A	#2013-10 Amgen Offsite Cambria
+CA	CA1BusCam	BriSt	CamDr	#2013-10 Amgen Offsite Cambria
+CA	CA1	203A(101)	PtPieBla	#2013-10 Amgen Offsite Cambria
+CA	CA23	12	19	#2013-10 Amgen Offsite Cambria
+#2013-06 Massachusetts				
+MA	I-90	134	137	#2013-06 Massachusetts
+MA	I-93	12	16	#2013-06 Massachusetts
+RI	I-195	1C	RI/MA	#2013-06 Massachusetts
+#2013-08 East Bay				
+CA	CA118	18	42A	#2013-08 East Bay
+CA	I-405	71A	I-5(158)	#2013-08 East Bay
+CA	I-5	158	446	#2013-08 East Bay
+CA	I-580	44B	I-5	#2013-08 East Bay
+CA	I-680	30	58A	#2013-08 East Bay
+CA	I-780	1A	7	#2013-08 East Bay
+CA	I-80	14B	43	#2013-08 East Bay
+CA	CA37	20	21	#2013-08 East Bay
+CA	I-580	9	11	#2013-08 East Bay
+CA	CA12	I-80(43)	56	#2013-08 East Bay
+CA	CA4	9	12B	#2013-08 East Bay
+#2013-12 Sedona				
+CA	CA118	18	46B	#2013-12 Sedona
+CA	I-210	6	45	#2013-12 Sedona
+CA	CA57	21	25B	#2013-12 Sedona
+CA	I-10	42A	CA/AZ	#2013-12 Sedona
+AZ	I-10	CA/AZ	124	#2013-12 Sedona
+AZ	AZ101	1	23B	#2013-12 Sedona
+AZ	I-17	214C	298	#2013-12 Sedona
+AZ	AZ260	AZ89A	I-17	#2013-12 Sedona
+AZ	US89AHisCla	TuzRd	AZ89A_N	#2013-12 Sedona
+AZ	AZ89A	CR30	JunCir	#2013-12 Sedona
+AZ	AZ179	I-17	AZ89A	#2013-12 Sedona
+CA	CA210	45	85	#2013-12 Sedona
+#IL non-trip driving routes				
+IL	I-55	MO/IL	US41	
+IL	I-80	33	IL/IN	
+IL	I-90	79C	82B	
+IL	I-94	WI/IL	IL/IN	
+IL	I-155	0	I-74	
+IL	I-190	0	ChiOHAir	
+IL	I-355	7A	I-290	
+IL	US14	US12/45	US41_E	
+IL	US24	I-474(9)	MainSt_Was	
+IL	US24BusWas	US24_W	US24_E	
+IL	US150	OraPraRd	US45_N	
+IL	IL50	IL19	US41	
+IL	IL117	I-74	IL116_W	
+#CA non-trip driving routes				
+CA	I-5	16A	156B	
+CA	I-5TrkNew	I-5_S	CA14	
+CA	I-15	11	115	
+CA	I-105	1A	18	
+CA	I-210	1A	45	
+CA	I-405	I-5(94A)	I-5(158)	
+CA	US101	1A	460	
+CA	CA1	72(101)	PadJuanRd	#Mondos
+CA	CA1	5thSt	62B(101)	
+CA	CA1	ElSegBlvd	OxnBlvd	
+CA	CA23	CA1	CA126	
+CA	CA91	VerAve	24	
+CA	CA118	CA126	46B	
+CA	CA126	1A	40	
+CA	CA138	PeaHwy_W	BeeRd	
+CA	US99HisFer	ValBlvd	I-5(171)	
 #Not curated yet				
 AK	AK9	RaiAve	AK1	#2025-09 Alaska Adventures
 AK	HicPkwy	AK1	TudRd	#2025-09 Alaska Adventures
@@ -699,30 +921,26 @@ AR	US64	OK/AR	KelHwy	#2016-07 Help Me I'm Melting
 AR	US71	AR340	AR/MO	#2016-07 Help Me I'm Melting
 AZ	AZ101	1	51	#2016-03
 AZ	AZ101	52B	61B	#2016-03
-AZ	AZ179	I-17	AZ89A	#2013-12
 AZ	AZ181	AZ186	PinCanRd	#2014-03
 AZ	AZ186	I-10	AZ181	#2014-03
 AZ	AZ202	1A	13	#2016-03
 AZ	AZ260	AZ87_S	US60_W	#2016-03
-AZ	AZ260	AZ89A	I-17	#2013-12
 AZ	AZ389	UT/AZ	US89Alt	#2019-03
 AZ	AZ51	I-10	15	#2016-03
-AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyon
+AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyond
 AZ	AZ80	I-10BL	AZ92	#2014-03
 AZ	AZ82	PerAve	AZ90	#2014-03
 AZ	AZ85	AjoMtnDr	I-8	#2014-03
 AZ	AZ86	AZ85	16thAve	#2014-03
 AZ	AZ87	I-10	AZ202(47)	#2016-03
 AZ	AZ87	US60	AZ260_E	#2016-03
-AZ	AZ89A	MainSt	JunCir	#2013-12
 AZ	AZ90	GarAve	AZ82	#2014-03
 AZ	AZ92	AZ90	AZ80	#2014-03
 AZ	AZ98	US89	BIA222	#2019-03
 AZ	BonCanRd	PinCanRd	MasPt	#2014-03
-AZ	I-10	CA/AZ	AZ/NM	#2013-12_2014-03_2016-03
+AZ	I-10	CA/AZ	AZ/NM	#2014-03_2016-03
 AZ	I-10BLWil	AZ186_E	I-10_E	#2014-03
 AZ	I-15	NV/AZ	AZ/UT	#2019-03_2025-09
-AZ	I-17	214C	298	#2013-12
 AZ	I-19	34	95	#2014-03
 AZ	I-19	8	29	#2014-03
 AZ	I-19BLNog	AZ82	I-19_N	#2014-03
@@ -738,20 +956,13 @@ AZ	US180	I-40BL/77	PetForRd	#2024-05 Wagons Ho
 AZ	US60	AZ260_W	AZ/NM	#2016-03
 AZ	US60HisMes	May	MesaDr	#2016-03
 AZ	US89	I-40BL/180	AZ/UT	#2019-03 To Instagram and Beyon
-AZ	US89AHisCla	TuzRd	AZ89A_N	#2013-12
 AZ	US89AltFre	AZ389	AZ/UT	#2019-03
 AZ	WalCanRd	I-40	VisCen	#2016-07 Help Me I'm Melting
 AZ	WalCanRd	I-40	VisCen	#2024-05 Wagons Ho
 CA	CA1	191B(101)	408	
-CA	CA1	5thSt	62B(101)	
-CA	CA1	72(101)	PadJuanRd	
-CA	CA1	PalVerBlvd	OxnBlvd	
+CA	CA1	PalVerBlvd	RosAve	#1998-04 Alex and Angela
 CA	CA110	21	26	
 CA	CA113	I-80(70)	37	#2018-10 Gold Rush
-CA	CA118	CA126	46B	
-CA	CA126	1A	40	
-CA	CA134	1A	13B	
-CA	CA138	PeaHwy_W	BeeRd	
 CA	CA14	I-5	CA58Bus_W	#2022-12 Cesar Chavez
 CA	CA146	US101	PinNP	#2015-02 Bay Area
 CA	CA150	SanAnaRd_S	CA126	
@@ -759,16 +970,13 @@ CA	CA154	US101(146)	US101(101B)
 CA	CA163	ASt	I-15	
 CA	CA170	5	11B	
 CA	CA19	I-10	I-210	
-CA	CA1BusCam	BriSt	CA1_N	#2013-10 Amgen Offsite Cambria
 CA	CA2	12	21	
 CA	CA2	CenAve	WilBlvd	
 CA	CA217	UCSB	3	
 CA	CA22	14C	17B	
 CA	CA22	I-405(21)	13	
 CA	CA223	CA99	CA58	#2022-12 Cesar Chavez
-CA	CA23	CA1	CA126	
 CA	CA232	EspDr	CA118	
-CA	CA24	2	15	
 CA	CA27	CA1	CA118	
 CA	CA299	CarrPowRd	I-5	#2014-07 Last Hurrah
 CA	CA33	US101	CA150_E	
@@ -777,6 +985,7 @@ CA	CA36	CA172_W	CA89_N	#2014-07 Last Hurrah
 CA	CA37	US101	21	
 CA	CA39	KatAve	I-5	
 CA	CA4	5	12B	
+CA	CA41	I-5	QuaAve	#2018-02 Encore
 CA	CA44	CA273/299	CA89_S	#2014-07 Last Hurrah
 CA	CA49	US50	MotLodeCen	#2018-10 Gold Rush
 CA	CA55	11A	14	
@@ -799,41 +1008,30 @@ CA	CA89	CA36_W	LasVolNP	#2014-07 Last Hurrah
 CA	CA89	CA88_W	BliSP	#2024-10 Eastern Sierras
 CA	CA90	CA1	2	
 CA	CA91	45	65B	#2014-11 SCSBOA
-CA	CA91	VerAve	24	
 CA	CA99	I-5(221)	13	#2022-12 Cesar Chavez
 CA	I-10	1	CA/AZ	
 CA	I-10	3	4	#2022-12 Cesar Chavez
-CA	I-105	1A	18	
 CA	I-110	9	21	
-CA	I-15	11	CA/NV	
-CA	I-210	1A	45	
 CA	I-215	I-15	34	
 CA	I-305	1A	6	#2018-10 Gold Rush
 CA	I-405	53B	I-5(158)	#2022-12 Cesar Chavez
-CA	I-405	I-5(94A)	I-5(158)	
 CA	I-5	158	221	#2022-12 Cesar Chavez
-CA	I-5	16A	156B	
 CA	I-580	1A	I-5	
-CA	I-5TrkNew	I-5_S	CA14	
 CA	I-605	1A	27	
-CA	I-680	I-280/101	71	
 CA	I-710	1B	ValBlvd	
-CA	I-780	1A	7	
 CA	I-8	23	CA/AZ	
 CA	I-8	SunCliBlvd	4B	
-CA	I-80	1A	82	
 CA	I-805	25B	I-5(31)	
 CA	JBTrlLos	18A(10)	1D(101)	
 CA	JBTrlPis	MarSt	US101(202B)	
 CA	LasPeakHwy	CA89_S	CA44/89	
 CA	ParkBlvd	CA62_W	CA62_E	#2024-05 Wagons Ho
-CA	US101	1A	460	
 CA	US101BusSal	HarrRd	CA183_S	
 CA	US101BusVen	US101_S	US101_N	
-CA	US395	CA14	CA/NV	
+CA	US395	CA14	CA/NV	#2024-10 Eastern Sierras
 CA	US395HisPow	I-15(14)	CamNor	
-CA	US50	1A	CA49	
-CA	US50	CA89_N	CA/NV	
+CA	US50	1A	CA49	#2018-10 Gold Rush
+CA	US50	CA89_N	CA/NV	#2024-10 Eastern Sierras
 CA	US66HisAzu	CA134	HillAve	
 CA	US66HisAzu	GraAve	MonVisAve	
 CA	US66HisAzu	SanAniAve	BueVisSt	
@@ -890,40 +1088,26 @@ HI	I-H1	8B	13A	#2021-12 Kauai Oahu
 HI	I-H2	1	9	#2021-12 Kauai Oahu
 HI	I-H201	1A	I-H1	#2021-12 Kauai Oahu
 HI	I-H3	1B	14	#2021-12 Kauai Oahu
-IL	I-155	0	I-74	
-IL	I-190	0	ChiOHAir	
 IL	I-270	3	15	#2015-06 Land of Lincoln
-IL	I-280	18	I-80	#2013-03 Spring Break
 IL	I-290	I-90	I-90/94	
-IL	I-294	0	52	
+IL	I-294	0	52	#1990-07 Great America
 IL	I-294	40B	42	#2017-07 Double the Fun
-IL	I-355	7A	I-290	
 IL	I-39	14	48	#2021-06 After the Blip
 IL	I-39	17(90)	IL/WI	#2025-04 Illinois Wisconsin
 IL	I-39	59	99	#2017-07 Double the Fun
 IL	I-474	0	15	
-IL	I-55	MO/IL	US41	
 IL	I-55BLBlo	I-55_S	I-55_N	
 IL	I-55BLSpr	I-55_S	I-55_N	
 IL	I-57	184	237	#2015-06 Land of Lincoln
 IL	I-57	237	358	
 IL	I-72	141	182	
 IL	I-72	MO/IL	97	#2024-05 Wagons Ho
-IL	I-74	IA/IL	IL/IN	
-IL	I-80	33	IL/IN	
-IL	I-80	IA/IL	4	#2013-03 Spring Break
-IL	I-88	1	I-290	#2013-03 Spring Break
 IL	I-90	47	77	#2017-07 Double the Fun
-IL	I-90	79C	82A	
-IL	I-90	79C	82B	
 IL	I-90	WI/IL	77	#2025-04 Illinois Wisconsin
 IL	I-90	WI/IL	IL/IN	
-IL	I-94	WI/IL	IL/IN	
 IL	IL116	CR13	N2100E	
 IL	IL116	CR78	MaxRd	
 IL	IL116	HarHwy	IL117_S	
-IL	IL117	I-74	IL116_W	
-IL	IL117	I-74	US150	
 IL	IL120	IL134	US41	
 IL	IL120	US14	WheSt	#2025-04 Illinois Wisconsin
 IL	IL121	LinPkwy	I-55	#2018-08 Here's to the Ones Who Dream
@@ -974,11 +1158,7 @@ IL	LMCT	SouBlvd	US14_W
 IL	US12	IL120	OldMcHRd	#2025-04 Illinois Wisconsin
 IL	US12	OakSt	IL64	
 IL	US136	1stSt	I-74	
-IL	US14	US12/45	US41_E	
-IL	US150	IL78_S	BellSchRd	
-IL	US150	OraPraRd	US45_N	
-IL	US24	US150/116	IL/IN	
-IL	US24BusWas	US24_W	US24_E	
+IL	US150	IL78_S	BellSchRd	#1990-01 Woodfield Shopping
 IL	US30	I-55	IL7	
 IL	US34	IL17_E	IL78_N	
 IL	US41	57thDr	WasSt	
@@ -995,12 +1175,8 @@ IN	I-465	20	35
 IN	I-64	25	57A	
 IN	I-65	112	US12/20	
 IN	I-65	KY/IN	110B	
-IN	I-69	219	255	
 IN	I-69	44(465)	200	
-IN	I-70	75	IN/OH	
-IN	I-74	IL/IN	IN/OH	
-IN	I-80	IL/IN	IN/OH	
-IN	I-90	IL/IN	IN/OH	
+IN	I-74	IL/IN	IN/OH	#2017-07 Double the Fun
 MD	I-270	2	32	#2022-10 NCI RAS Symposium
 MD	I-495	38	MD/VA	#2022-10 NCI RAS Symposium
 MD	I-70	52	54	#2022-10 NCI RAS Symposium
@@ -1108,3 +1284,8 @@ WA	WA8	US12	US101	#2022-09 Washington State
 WA	WA900	148thSt	I-90	#2022-09 Washington State
 WA	WA970	I-90	US97	#2022-09 Washington State
 WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
+NJ	I-287	36	41	#2023-06 New Jersey New York
+NY	NY25A	NY101	NY106	#2023-06 New Jersey New York
+KY	I-65	137	KY/IN	#2015-06 Land of Lincoln
+OK	I-40	325	330	#2016-07 Help Me I'm Melting
+TX	I-10	18B	19A	#2016-03 New Mexico
