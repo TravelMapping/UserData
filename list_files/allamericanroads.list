@@ -94,7 +94,7 @@ MD MD404BusDen MD404_W MD404_E
 MD MD619 MD404Bus MD313/404
 
 #Hells Canyon Scenic Byway
-OR OR86 I-84 BroOxbHwy
+OR OR86 I-84 Brooxbhwy
 ##missing section FS39
 OR OR350 WalMouRd OR82/351
 OR OR82 I-84 OR350/351
@@ -109,7 +109,6 @@ IL NatRd RivDr IL/IN
 IN NatRd IL/IN IN/OH
 OH NatRd IN/OH OH513
 OH NatRdStC End OH/WV
-WV NatRd OH/WV WV/PA
 WV NatRd OH/WV WV/PA
 MD NatRd PA/MD MD2
 IL NatRdSprGre IL127_S IL127_N
@@ -150,7 +149,7 @@ NY US9 NY22_S BakRd
 ##missing segement CR12
 NY NY9B MasRd US11
 NY US11 NY9B USA/CAN
-NY NY74 NY9N/22 NY/VT
+NY NY74 NY9N/22 TicFry
 NY NY185 NY9N/22 NY/VT
 NY NY373 US9 BurPKFry
 ##missing segement Commodore T MacDonough Highway
