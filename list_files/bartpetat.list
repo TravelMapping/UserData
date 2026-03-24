@@ -330,6 +330,7 @@ NLD RingApe N344_E N304
 NLD RingAlk A9_W N9/N245
 NLD RingAlk HelWeg A9_E
 NLD RingAss AbelTasPle HaarWeg_E
+NLD RingBre BacRuebWeg_E BacRuebWeg_W
 NLD RingDen N44_E A4/N211
 NLD RingDen MonWeg N44_W
 NLD RingEin TilWeg_W CedLaan

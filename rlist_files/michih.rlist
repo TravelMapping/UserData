@@ -1,4 +1,4 @@
-# Date: 2026-02-10
+# Date: 2026-03-22
 # ----------------
 # ----------------
 
@@ -6,6 +6,20 @@
 ####   RAILWAYS   ####
 ######################
 
+AUT S1Sal Bur SalHau                                            #2026
+AUT S11Sal Ost Bur                                              #2026
+CHE IC3 ZurHau +DIV_S4                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+CHE S4Gal Buc +DIV_S12                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+AUT S2Vor Fel CHE S2Vor Buc                                     #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
+AUT S1Vor Bre AUT S1Vor Fel                                     #2026, actually traveled as RJ 666 Feldkirch - Bregenz
+DEU-BW RB53b Aul Kis                                            #2026
+CHE S8 Wal Tha                                                  #2026
+CHE S9 ZurOer Sch                                               #2026
+CHE S10 Uet ZurHau                                              #2026
+CHE S11Sen Die ZurHau                                           #2026
+CHE S14 ZurOer Sch                                              #2026
+CHE S18 ZurSta Reh                                              #2026
+DEU-BW IC87 StuHbf CHE IC87 ZurHau                              #2026, IC185 Stuttgart - Zürich
 FRA-PDL 1PdL Nan Cro                                            #2026
 FRA-PDL 10PdL +SKIP_RezePontRou Por                             #2026, RezePontRou is a regular stop of the service to Pornic
 FRA-PDL 11PdL Nan StGilCroVie                                   #2026
@@ -327,6 +341,48 @@ CHE 9Ber BernBf Wab                #2021, northern route was not in service due 
 #Lausanne
 CHE 1Lau RenGare LauFion           #2025
 CHE 2Lau Cro OucOly                #2025
+
+#Zürich
+CHE 2Zur Far Sta                   #2026
+CHE 2Zur Bel Rom                   #2026
+CHE 3Zur Alb AlbPla                #2026
+CHE 3Zur BahPlaHB Klu              #2026
+CHE 4Zur Cen Reh                   #2026
+CHE 6Zur ETHUni Zoo                #2026
+CHE 7Zur Wol Set                   #2026
+CHE 8Zur Fis Tun                   #2026
+CHE 8Zur BahEngeBed Bel            #2026
+CHE 9Zur Sta Par                   #2026
+CHE 9Zur Bel Hir                   #2026
+CHE 10Zur Cen Fra                  #2026
+CHE 11Zur BahStrHB Tie             #2026
+CHE 12Zur BahSet Fra               #2026
+CHE 13Zur Tun Alb                  #2026
+CHE 14Zur BahPlaHB Tri             #2026
+CHE 17Zur Wer Fis                  #2026
+CHE 20Zur Alt DieZen               #2026
+CHE 24Zur Cen ETH                  #2026
+CHE 25Zur Rom BerDol               #2026
+CHE 50Zur Fra Gla                  #2026
+CHE 51Zur BahAltNord See           #2026
+
+#Brno
+CZE 1Brn Rec Sem
+CZE 1Brn Sum Rak                   #2026
+CZE 2Brn StaOsa HlaNad             #2026
+CZE 2Brn HlaNad ModSmy             #2026
+CZE 3Brn Ece VozKom                #2026
+CZE 3Brn Jug StaOsa                #2026
+CZE 4Brn NamMiru ObrBab            #2026
+CZE 5Brn SteCtv UstHrbSmy          #2026
+CZE 6Brn KraPolNad Sum             #2026
+CZE 6Brn MenNam Por                #2026
+CZE 6Brn Cel StaLisSmy             #2026
+CZE 8Brn NemBoh Mif                #2026
+CZE 9Brn LesCerRok Ces             #2026
+CZE 9Brn Gei Jul                   #2026
+CZE 10Brn VozKom Kras              #2026
+CZE 12Brn TecPark Kom              #2026
 
 #Praha
 CZE A NemMot DepoHos               #2019
@@ -1107,7 +1163,7 @@ PRT LnLei LecaBal PorCam              #2025
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
 ROU M2 Ber Pip                        #2023, southern extension u/c
-ROU M3 Pre AngSal                     #2023
+ROU M3 Pre AngSal                     #202
 ROU M4 Str GaraNord2                  #2023
 ROU M5Ial ValIal Rom                  #2023
 ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
@@ -1125,6 +1181,14 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
+
+#Bratislava
+SVK 1Bra HlaSta NamStu          #2026
+SVK 3Bra Kom JanDvor            #2026
+SVK 4Bra NamStu StaNoveMes      #2026
+SVK 4Zla ZlaPie PriKri          #2026
+SVK 9Bra Lan Ast                #2026
+
 
 #Gothenborg
 SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar

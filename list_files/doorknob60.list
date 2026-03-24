@@ -12,8 +12,7 @@ OR I-5 194 OR/WA        # I-105 OR/WA
 OR I-5 188A 192         # OR99 (Eugene) OR58
 CA I-5 553 747          # I-505 US97
 CA I-5 458B 528         # I-205 Sac Airport
-CA I-5 134A 173         # CA60 173
-CA I-5 17A 114B         # 17A CA91
+CA I-5 17A 173
 CA I-5 5A 13A           # CA75 CA15
 
 CA I-5TrkNew I-5_S I-5_N
@@ -279,6 +278,7 @@ NY I-390 I-86 7         # I-86 NY408
 
 # I-405 (CA)
 CA I-405 37A I-5(158)   # I-110 I-5
+CA I-405 8 21           # CA22 Macarthur Blvd
 
 # I-405 (OR) - Clinched
 OR I-405 I-5(299B) I-5(302B)
@@ -330,7 +330,7 @@ CA I-580 29B 65         # Oakland Zoo I-205
 NV I-580 US50/395 36
 
 # I-605 (CA)
-CA I-605 7A 9B          # CA91 I-105
+CA I-605 7A 11          # CA91 I-5
 
 # I-635 (KS/MO) - Clinched
 MO I-635 KS/MO 12
@@ -671,7 +671,7 @@ CA CA27 CA1 US101
 CA CA37 20 21           # SFDK I-80
 
 # CA39
-CA CA39 LinAve CA91
+CA CA39 LinAve I-5
 CA CA39 CA1 CA22
 
 # CA47
@@ -679,7 +679,7 @@ CA CA47 1A I-710
 
 # CA55
 CA CA55 17 18           # Lincoln Ave CA91
-CA CA55 9 11A           # Edinger Ave I-5
+CA CA55 6 11A           # I-405 I-5
 
 # CA60
 CA CA60 1A 8            # I-5 Paramount Blvd
@@ -730,6 +730,10 @@ CA CA126 13 40
 
 # CA133
 CA CA133 CA1 10A        # CA1 I-5
+
+# CA134
+CA CA134 1A 2
+CA CA134 3 5B
 
 # CA161 - Clinched
 CA CA161 US97 CA139/39
