@@ -211,6 +211,7 @@ DEU-HE ICE3 NI/HE FraFluFer
 DEU-HE RE54 FraFurtHbf +DIV_RE55
 DEU-HE RE54 HanHbf HE/BY
 
+DEU-HE 4Kas KonPalStaHal KonPla
 
 ##  MV - Mecklenburg-Vorpommern
 
@@ -321,6 +322,8 @@ DEU-SH RB85 LubHbf Neu
 ##  TH - Thuringia
 DEU-TH ICE28 ST/TH TH/BY
 DEU-TH ICE18Ess ST/TH TH/ST
+
+DEU-TH RB61 Lic Cur
 
 
 # DENMARK
