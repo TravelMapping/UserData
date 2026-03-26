@@ -9,7 +9,6 @@ NLD RS1 Lee Gro
 NLD RS2 Lee HarHav
 NLD RS4 Gro Eem
 NLD RS5 Del Vee
-NLD RE6 Gro +DIV_RS5
 NLD RE8 Zwo Gro
 NLD RS11 Nij Roe
 NLD RS12 Roe MaaRan
@@ -17,7 +16,7 @@ NLD RE13 DEU/NLD Ven
 NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 NLD RS18 MaaRan KerCen
-NLD RE19 DEU/NLD ArnCen
+NLD RE19 NLD/DEU ArnCen
 NLD RE20 Zwo Emm
 NLD RS21 Alm Har
 NLD RS24 Zut Old
@@ -85,7 +84,7 @@ NLD 52Ams Noo StaZuid
 NLD 53Ams CenSta Gaa
 NLD 54Ams CenSta StaBijAre
 
-NLD A VlaWest Ale
+NLD A SchCen Ale
 NLD B HoekHolHav Ale
 NLD C Akk Terp
 NLD D RotCen Akk
@@ -105,6 +104,7 @@ NLD 26Ams CenSta Ijb
 NLD 1Haa ZwaPad StaDel
 NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
+NLD 4Haa HMCWes LanZoe
 NLD 9Haa ZwaPad KalSta
 NLD 34Haa SavLoh LanZoe
 
@@ -305,13 +305,12 @@ DEU-RP RE9Fur NW/RP RP/NW
 DEU-SN ICE18 ST/SN SN/ST
 DEU-SN RJ27 DreHbf DEU/CZE
 
+DEU-SN Swb TalSta OberLosWitz
 
 ##  ST - Sachsen-Anhalt
 DEU-ST ICE18 SN/ST ST/TH
 DEU-ST ICE18Lut BB/ST ST/SN
 DEU-ST ICE77 NI/ST ST/BB
-
-DEU-ST RE4 SteHbf ST/BB
 
 
 ##  SH - Schleswig-Holstein

@@ -7,8 +7,8 @@ NLD RE18 Maa NLD/DEU
 
 
 NLD RS32 ArnCen Wehl
-NLD RS33 ArnCen +DIV_ICN
-NLD RE19 DEU/NLD ArnCen
+NLD RS33 ArnCen +DIV_Els
+NLD RE19 NLD/DEU ArnCen
 
 NLD S43Lie BEL/NLD Maa
 
@@ -65,6 +65,7 @@ DEU-NW U49 DortMundHbf Hac
 ##  SL - Saarland
 
 ## SN - Sachsen
+DEU-SN Swb TalSta OberLosWitz
 
 ##  ST - Sachsen-Anhalt
 
