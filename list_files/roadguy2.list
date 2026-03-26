@@ -2443,22 +2443,36 @@ MO US136 I-29 US275
 # only McDonalds below interstate to Sinclair on top of hill
 MO US159 I-29 MOsBB
 # - actually east from 29 to rte F (Holt 223?)
+MO US169 MO9 I-29(2)
 
 #MO I-44BLRol (US 63 concurrency)
 
 MO MO7 I-49(157) MO13/18
+MO MO9 I-70 US169
+MO MO9 MO45 NW72ndSt
 #MO MO13 (MO7 concurrency)
 MO MO13 MO7/18 I-44
 MO MO30 MO141 I-270
 MO MO43 AR/MO MOsO_McD
+#MO MO45 MO9 MexicanFood
+MO MO45 MO92 MOsH
 MO MO59 MO90_W MOsEE_E
 MO MO79 Bro I-72/36
 MO MO90 MO43 MO59_N
+MO MO92 MO45 MO92Spr
+MO MO92 MO92Spr 2ndStPlatteCity
 MO MO141 I-44 MO30
 MO MO142 US63_N RisnerAve
+MO MO273 I-29 MO92Spr
+#MO MO371 MO273 overlap
 MO MO340 I-64 ChePkwy_S
 
+MO MO92SprTra MO92 MO273
+
 MO US66HisMan ClaRd SkiBlvd_N
+
+MO LCTrlWes CheSt MO45/273
+
 
 #montana
 
