@@ -58,6 +58,17 @@ IN	IN38	IN32_E	I-69(219)	#1987-10 Road Trip with Amy
 IN	IN32	I-74	IN38_E	#1987-10 Road Trip with Amy
 IN	I-74	IL/IN	39	#1987-10 Road Trip with Amy
 IL	I-74	102	IL/IN	#1987-10 Road Trip with Amy
+#1988-1992 University of Illinois				
+IL	I-74	102	183	#1988-1992 University of Illinois
+IL	US45	CR18	I-74	#1988-1992 University of Illinois
+IL	IL10	IL47	US150	#1988-1992 University of Illinois
+IL	US150	MainSt_Mor	IL130_S	#1988-1992 University of Illinois
+IL	I-72	141	182	#1988-1992 University of Illinois
+#1989-1992 Camp Manitoumi				
+IL	I-74	112	183	#1989-1992 Camp Manitoumi
+IL	IL117	I-74	IL116_W	#1989-1992 Camp Manitoumi
+IL	IL116	IL89	IL117_S	#1989-1992 Camp Manitoumi
+IL	IL89	IL116	CR18	#1989-1992 Camp Manitoumi
 #1989-1992 Chapter Camp				
 IL	I-74	102	127	#1989-1992 Chapter Camp
 IL	I-55	163	250	#1989-1992 Chapter Camp
@@ -70,7 +81,6 @@ MI	US127	194	I-75	#1989-1992 Chapter Camp
 MI	I-75	249	USA/CAN	#1989-1992 Chapter Camp
 MI	MI134	I-75	PirBayRd	#1989-1992 Chapter Camp
 #1989 Fetch the Sunbird				
-IL	I-74	102	127	#1989 Fetch the Sunbird
 IL	I-55	163	250	#1989 Fetch the Sunbird
 IL	I-80	126	IL/IN	#1989 Fetch the Sunbird
 IN	I-94	IL/IN	IN/MI	#1989 Fetch the Sunbird
@@ -79,6 +89,32 @@ MI	MI14	I-94	I-96	#1989 Fetch the Sunbird
 MI	I-96	I-275_S	186B	#1989 Fetch the Sunbird
 MI	MI8	I-96	I-75	#1989 Fetch the Sunbird
 MI	I-75	56	72	#1989 Fetch the Sunbird
+#1989-12 Woodfield Shopping				
+IL	I-74	71	127	#1989-12 Woodfield Shopping
+IL	I-55	163	277A	#1989-12 Woodfield Shopping
+IL	I-294	23C	33	#1989-12 Woodfield Shopping
+IL	I-290	1B	13	#1989-12 Woodfield Shopping
+IL	I-80	33	126	#1989-12 Woodfield Shopping
+IL	IL78	US34_W	I-80	#1989-12 Woodfield Shopping
+IL	US34	IL17_E	IL78_N	#1989-12 Woodfield Shopping
+IL	IL17	US34_E	IL78_S	#1989-12 Woodfield Shopping
+IL	IL78	US150_E	IL17_W	#1989-12 Woodfield Shopping
+IL	US150	IL78_S	BellSchRd	#1989-12 Woodfield Shopping
+#1990-07 Chicago				
+IL	I-74	179	183	#1990-07 Chicago
+IL	I-57	237	358	#1990-07 Chicago
+IL	I-94	42	63	#1990-07 Chicago
+#1991-06 Lynn and Lauri				
+IL	I-74	183	IL/IN	#1991-06 Lynn and Lauri
+IN	I-74	IL/IN	39	#1991-06 Lynn and Lauri
+IN	IN32	I-74	IN38_E	#1991-06 Lynn and Lauri
+IN	IN38	IN32_E	I-69(219)	#1991-06 Lynn and Lauri
+IN	I-69	219	302	#1991-06 Lynn and Lauri
+IN	US24	I-69(302)	WebRd	#1991-06 Lynn and Lauri
+#1991-07 Great America				
+IL	I-80	151	155	#1990-07 Great America
+IL	I-294	5	52	#1990-07 Great America
+IL	I-94	8	25B	#1990-07 Great America
 #1992-02 UWisconsin				
 IL	I-74	127	183	#1992-02 UWisconsin
 IL	I-55	163	164	#1992-02 UWisconsin
@@ -114,6 +150,76 @@ NY	I-287	NJ/NY	I-95	#1992-08 Yale
 NY	I-95	22	NY/CT	#1992-08 Yale
 CT	I-95	NY/CT	48	#1992-08 Yale
 CT	I-91	1	6	#1992-08 Yale
+#1992-10 Woods Hole				
+CT	I-91	1	6	#1992-10 Woods Hole
+CT	I-95	48	CT/RI	#1992-10 Woods Hole
+RI	I-95	CT/RI	36A	#1992-10 Woods Hole
+RI	I-195	1	RI/MA	#1992-10 Woods Hole
+MA	I-195	RI/MA	40	#1992-10 Woods Hole
+MA	MA25	1	10	#1992-10 Woods Hole
+MA	MA28	LocSt	MA25	#1992-10 Woods Hole
+#1992-11 Thanksgiving with Vivian				
+CT	I-91	1	6	#1992-11 Thanksgiving with Vivian
+CT	I-95	38	48	#1992-11 Thanksgiving with Vivian
+CT	MilPkwy	2	3	#1992-11 Thanksgiving with Vivian
+CT	CT15	NY/CT	54	#1992-11 Thanksgiving with Vivian
+NY	HutRivPkwy	15	NY/CT	#1992-11 Thanksgiving with Vivian
+NY	I-287	14A(87)	9	#1992-11 Thanksgiving with Vivian
+NY	GarStaPkwy	NJ/NY	I-87/287	#1992-11 Thanksgiving with Vivian
+NJ	GarStaPkwy	129	NJ/NY	#1992-11 Thanksgiving with Vivian
+NJ	NJTpk	I-295(1)	11	#1992-11 Thanksgiving with Vivian
+NJ	I-295	DE/NJ	1C	#1992-11 Thanksgiving with Vivian
+DE	I-295	I-95	DE/NJ	#1992-11 Thanksgiving with Vivian
+DE	I-95	5B	5C	#1992-11 Thanksgiving with Vivian
+DE	DE141	3	DE48/100	#1992-11 Thanksgiving with Vivian
+DE	DE100	DE48_E	DE48/141	#1992-11 Thanksgiving with Vivian
+#1992-12 Yale Winter Break				
+CT	I-91	1	6	#1992-12 Yale Winter Break
+CT	I-95	38	48	#1992-12 Yale Winter Break
+CT	MilPkwy	2	3	#1992-12 Yale Winter Break
+CT	CT15	NY/CT	54	#1992-12 Yale Winter Break
+NY	HutRivPkwy	15	NY/CT	#1992-12 Yale Winter Break
+NY	I-287	NJ/NY	9	#1992-12 Yale Winter Break
+NJ	I-287	41	NJ/NY	#1992-12 Yale Winter Break
+NJ	I-80	PA/NJ	43	#1992-12 Yale Winter Break
+PA	I-80	OH/PA	PA/NJ	#1992-12 Yale Winter Break
+OH	I-80	IN/OH	OH/PA	#1992-12 Yale Winter Break
+OH	US20	OH246	I-80/90	#1992-12 Yale Winter Break
+OH	OH246	US20	SecRd	#1992-12 Yale Winter Break
+IN	I-80	IL/IN	IN/OH	#1992-12 Yale Winter Break
+IL	I-80	126	IL/IN	#1992-12 Yale Winter Break
+IL	I-55	163	250	#1992-12 Yale Winter Break
+IL	I-74	102	127	#1992-12 Yale Winter Break
+OH	US250	I-80/90	OH60_S	#1992-12 Yale Winter Break
+OH	US250	US42/96	I-71	#1992-12 Yale Winter Break
+OH	I-71	186	209	#1992-12 Yale Winter Break
+OH	I-76	1	219	#1992-12 Yale Winter Break
+#1992-1993 New Haven				
+CT	CT10	WhaAve_E	CT22Trk_E	
+CT	CT63	CT10	CT114	
+CT	CT15	54	61	
+CT	US1	I-95(39)	I-95(51)	
+CT	CT337	US1	SouEndRd_W	
+#1993-02 IV Grad Retreat				
+CT	I-91	6	CT/MA	
+MA	I-91	CT/MA	50	
+MA	MA10	I-91(50)	MA/NH	
+NH	NH10	MA/NH	NH119_E	
+NH	NH119	NH10_N	EMainSt_E	
+#1993-06 Connecticut to Illinois				
+CT	I-91	1	CT/MA	#1993-06 Connecticut to Illinois
+MA	I-91	CT/MA	5A	#1993-06 Connecticut to Illinois
+CT	I-95	38	48	#1993-06 Connecticut to Illinois
+CT	MilPkwy	2	3	#1993-06 Connecticut to Illinois
+CT	CT15	NY/CT	54	#1993-06 Connecticut to Illinois
+NY	HutRivPkwy	15	NY/CT	#1993-06 Connecticut to Illinois
+NY	I-287	NJ/NY	9	#1993-06 Connecticut to Illinois
+NJ	I-287	41	NJ/NY	#1993-06 Connecticut to Illinois
+NJ	I-80	PA/NJ	43	#1993-06 Connecticut to Illinois
+PA	I-80	OH/PA	PA/NJ	#1993-06 Connecticut to Illinois
+OH	I-80	IN/OH	OH/PA	#1993-06 Connecticut to Illinois
+IN	I-80	IL/IN	IN/OH	#1993-06 Connecticut to Illinois
+IL	I-94	29	IL/IN	#1993-06 Connecticut to Illinois
 #1993-11 John and Liz				
 IL	I-94	42	IL/IN	#1993-11 John and Liz
 IN	I-94	IL/IN	IN/MI	#1993-11 John and Liz
@@ -127,6 +233,12 @@ IN	I-94	IL/IN	IN/MI	#1994-10 Saugatuck
 MI	I-94	IN/MI	34	#1994-10 Saugatuck
 MI	I-196	I-94	36	#1994-10 Saugatuck
 MI	LMCTLpSau	I-196(36)	CenSt	#1994-10 Saugatuck
+#1994-11 San Diego				
+CA	I-5	ParkBlvd	94A	#1994-11 San Diego
+CA	I-405	I-5(94A)	24A	#1994-11 San Diego
+CA	I-605	1A	19	#1994-11 San Diego
+CA	CA60	I-10(16B)	12	#1994-11 San Diego
+CA	I-10	1	16B	#1994-11 San Diego
 #1995-06 Honeymoon in Hawaii				
 HI	HI3800	KahAir	HI311/380	#1995-06 Honeymoon in Hawaii
 HI	HI380	HI36A	HI30	#1995-06 Honeymoon in Hawaii
@@ -145,6 +257,7 @@ HI	I-H1	15	25A	#1995-06 Honeymoon in Hawaii
 HI	I-H201	1A	I-H1	#1995-06 Honeymoon in Hawaii
 HI	HI78	HI99	I-H1/201	#1995-06 Honeymoon in Hawaii
 HI	HI99	HI78	I-H1(15)	#1995-06 Honeymoon in Hawaii
+#1995-11 Gary and Stacy				
 #1996-05 Seattle Vancouver				
 WA	AirExpy	WA518	Ter	#1996-05 Seattle Vancouver
 WA	WA518	AirExpy	I-5	#1996-05 Seattle Vancouver
@@ -187,12 +300,17 @@ CA	I-880	4C	12	#1997-06 San Francisco Yosemite
 CA	CA156	CA1	US101(336)	#1997-06 San Francisco Yosemite
 CA	CA1	399A	414B	#1997-06 San Francisco Yosemite
 CA	CA68	17MileDr_S	CA1(399A)	#1997-06 San Francisco Yosemite
+#1998-05 Alex and Angela				
+CA	CA1	PalVerBlvd	RosAve	#1998-04 Alex and Angela
 #1998-11 MRCC Surprise				
 WA	AirExpy	WA518	Ter	#1998-11 MRCC Surprise
 WA	WA518	AirExpy	I-5	#1998-11 MRCC Surprise
 WA	I-405	I-5(154)	14	#1998-11 MRCC Surprise
 WA	WA520	I-5	WA202	#1998-11 MRCC Surprise
 WA	WA202	RedWay	187thAve	#1998-11 MRCC Surprise
+WA	I-5	127	154	#1998-11 MRCC Surprise
+WA	WA512	I-5	WA7	#1998-11 MRCC Surprise
+WA	WA7	WA704	WA512	#1998-11 MRCC Surprise
 WA	I-5	164	169	#1998-11 MRCC Surprise
 WA	WA99	QueAnneDr	38thSt	#1998-11 MRCC Surprise
 #1999-05 Canadian Rockies				
@@ -222,6 +340,8 @@ CA	CA237	6	9B	#2000-10 Wai Po Birthday
 CA	US101	66A	393	#2000-10 Wai Po Birthday
 CA	CA126	1A	5	#2000-10 Wai Po Birthday
 CA	CA118	CA126	TieRejRd	#2000-10 Wai Po Birthday
+#2000-11 Thanksgiving				
+#2001-03 Vegas Reunion				
 #2004-07 Solvang				
 CA	CA118	CA126	TieRejRd	#2004-07 Solvang
 CA	CA126	1A	5	#2004-07 Solvang
@@ -871,9 +991,90 @@ AZ	US89AHisCla	TuzRd	AZ89A_N	#2013-12 Sedona
 AZ	AZ89A	CR30	JunCir	#2013-12 Sedona
 AZ	AZ179	I-17	AZ89A	#2013-12 Sedona
 CA	CA210	45	85	#2013-12 Sedona
+#2017-12 NCI RAS Symposium				
+VA	VA267	1	9A	#2017-12 NCI RAS Symposium
+VA	US15	VA267	VA/MD	#2017-12 NCI RAS Symposium
+MD	US15	VA/MD	10	#2017-12 NCI RAS Symposium
+MD	I-70	52	53	#2017-12 NCI RAS Symposium
+MD	US40	US15/340	I-70(53)	#2017-12 NCI RAS Symposium
+MD	US15	12	17	#2017-12 NCI RAS Symposium
+MD	MD26	US15	MonBlvd	#2017-12 NCI RAS Symposium
+MD	MD355	MD80	FreLim	#2017-12 NCI RAS Symposium
+MD	MD80	I-270	MD355	#2017-12 NCI RAS Symposium
+MD	I-270	2	32	#2017-12 NCI RAS Symposium
+MD	I-270SprAsh	I-495	2	#2017-12 NCI RAS Symposium
+MD	I-495	38	MD/VA	#2017-12 NCI RAS Symposium
+VA	I-495	MD/VA	45	#2017-12 NCI RAS Symposium
+VA	VA267	9B	18	#2017-12 NCI RAS Symposium
+#2019-08 Big Island				
+HI	HI19	End	HI11/190	#2019-08 Big Island
+HI	HI270	HI19	End	#2019-08 Big Island
+HI	HI250	HI19	HI270	#2019-08 Big Island
+HI	HI11	HI19	HI19/190	#2019-08 Big Island
+HI	CraRimDr	KilMilCamp	ChaCraRd	#2019-08 Big Island
+HI	ChaCraRd	CraRimDr	HolSeaArch	#2019-08 Big Island
+HI	HI220	HI19	AkaFalSP	#2019-08 Big Island
+#2021-12 Kauai Oahu				
+HI	HI51	HI58	HI56	#2021-12 Kauai Oahu
+HI	HI570	HI56	End	#2021-12 Kauai Oahu
+HI	HI56	HI50	HI560	#2021-12 Kauai Oahu
+HI	HI50	HI56	CR552	#2021-12 Kauai Oahu
+HI	HI583	HI56	WaiRivSP	#2021-12 Kauai Oahu
+HI	HI580	HI56	KawiStr	#2021-12 Kauai Oahu
+HI	HI550	HI50	KokSP	#2021-12 Kauai Oahu
+HI	HI560	HI56	MalRd	#2021-12 Kauai Oahu
+HI	I-H1	15	AinAve	#2021-12 Kauai Oahu
+HI	I-H201	1A	I-H1	#2021-12 Kauai Oahu
+HI	I-H1	8B	13A	#2021-12 Kauai Oahu
+HI	I-H2	1	9	#2021-12 Kauai Oahu
+HI	HI99	WilDr	I-H2	#2021-12 Kauai Oahu
+HI	HI930	KauRd	WeedCir	#2021-12 Kauai Oahu
+HI	HI83	KamHwy_W	HI61	#2021-12 Kauai Oahu
+HI	HI61	I-H1	HI83	#2021-12 Kauai Oahu
+HI	HI99	WaiHomeRd	I-H1(15)	#2021-12 Kauai Oahu
+HI	I-H3	1B	14	#2021-12 Kauai Oahu
+HI	HI65	I-H3	KanBayDr_E	#2021-12 Kauai Oahu
+HI	HI72	KeoDr	AinAve	#2021-12 Kauai Oahu
+#2022-10 NCI RAS Symposium				
+VA	VA267	9B	I-66	#2022-10 NCI RAS Symposium
+VA	I-66	67	VA/DC	#2022-10 NCI RAS Symposium
+DC	US50	VA/DC	17thSt	#2022-10 NCI RAS Symposium
+DC	I-66	VA/DC	EStExpy	#2022-10 NCI RAS Symposium
+VA	GWMemPkwy	I-66	I-495	#2022-10 NCI RAS Symposium
+VA	I-495	MD/VA	43	#2022-10 NCI RAS Symposium
+MD	I-495	38	MD/VA	#2022-10 NCI RAS Symposium
+MD	I-270SprAsh	I-495	2	#2022-10 NCI RAS Symposium
+MD	I-270	2	32	#2022-10 NCI RAS Symposium
+MD	MD85	MD80	MonBlvd	#2022-10 NCI RAS Symposium
+MD	US40	US15/340	I-70(53)	#2022-10 NCI RAS Symposium
+MD	US15	12	17	#2022-10 NCI RAS Symposium
+MD	MD26	US15	MonBlvd	#2022-10 NCI RAS Symposium
+MD	MD355	NewTecWay	FreLim	#2022-10 NCI RAS Symposium
+MD	I-70	52	54	#2022-10 NCI RAS Symposium
+MD	US15	VA/MD	10	#2022-10 NCI RAS Symposium
+VA	US15	VA7_E	VA/MD	#2022-10 NCI RAS Symposium
+VA	VA7	US15/7Bus	VA28	#2022-10 NCI RAS Symposium
+VA	VA28	DulAirRd	VA7	#2022-10 NCI RAS Symposium
+#2023-04 AACR Orlando				
+FL	FL528	1	37	#2023-04 AACR Orlando
+FL	FL407	FL528	I-95	#2023-04 AACR Orlando
+FL	I-95	212	244	#2023-04 AACR Orlando
+FL	FL50	PlaDr	CatWay	#2023-04 AACR Orlando
+FL	FL406	I-95	US1	#2023-04 AACR Orlando
+FL	US1	KenPkwy	FL44/A1A	#2023-04 AACR Orlando
+FL	FLA1ANSB	CRA1A	FL44	#2023-04 AACR Orlando
+FL	FL44DeL	WalRd	FLA1A	#2023-04 AACR Orlando
+FL	FL442	I-95	US1	#2023-04 AACR Orlando
+FL	FL482	I-4	IntDr	#2023-04 AACR Orlando
+#2025-09 Alaska				
+AK	HicPkwy	AK1	TudRd	#2025-09 Alaska Adventures
+AK	I-A1	5thAve_W	AK3_N	#2025-09 Alaska Adventures
+AK	I-A4	AK1	HeaSpurRd	#2025-09 Alaska Adventures
+AK	ParkRd	AK3	EastForkBrg	#2025-09 Alaska Adventures
+AK	I-A3	AK9	DowRd	#2025-09 Alaska Adventures
+AK	AK9	RaiAve	AK1	#2025-09 Alaska Adventures
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
-IL	I-80	33	IL/IN	
 IL	I-90	79C	82B	
 IL	I-94	WI/IL	IL/IN	
 IL	I-155	0	I-74	
@@ -882,9 +1083,8 @@ IL	I-355	7A	I-290
 IL	US14	US12/45	US41_E	
 IL	US24	I-474(9)	MainSt_Was	
 IL	US24BusWas	US24_W	US24_E	
-IL	US150	OraPraRd	US45_N	
+IL	US150	OraPraRd	MainSt_Mor	
 IL	IL50	IL19	US41	
-IL	IL117	I-74	IL116_W	
 #CA non-trip driving routes				
 CA	I-5	16A	156B	
 CA	I-5TrkNew	I-5_S	CA14	
@@ -896,19 +1096,24 @@ CA	US101	1A	460
 CA	CA1	72(101)	PadJuanRd	#Mondos
 CA	CA1	5thSt	62B(101)	
 CA	CA1	ElSegBlvd	OxnBlvd	
+CA	CA19	I-10	I-210	
 CA	CA23	CA1	CA126	
 CA	CA91	VerAve	24	
 CA	CA118	CA126	46B	
 CA	CA126	1A	40	
 CA	CA138	PeaHwy_W	BeeRd	
 CA	US99HisFer	ValBlvd	I-5(171)	
+#San Diego				
+CA	I-8	SunCliBlvd	4B	
+CA	CA52	1A	6	
+CA	CA56	1A	9	
+CA	CA78	1A	SanDieZoo	
+CA	CA163	ASt	I-15	
+CA	US80HisSan	I-5	ZooDr	
+CA	US101HisSan	ConWay	RosSt	
+CA	US395HisPow	I-15(14)	CamNor	
+#Las Vegas				
 #Not curated yet				
-AK	AK9	RaiAve	AK1	#2025-09 Alaska Adventures
-AK	HicPkwy	AK1	TudRd	#2025-09 Alaska Adventures
-AK	I-A1	5thAve_W	AK3_N	#2025-09 Alaska Adventures
-AK	I-A3	AK9	DowRd	#2025-09 Alaska Adventures
-AK	I-A4	AK1	HeaSpurRd	#2025-09 Alaska Adventures
-AK	ParkRd	AK3	EastForkBrg	#2025-09 Alaska Adventures
 AR	AR22	US64/71Bus	I-540	#2016-07 Help Me I'm Melting
 AR	AR340	TraRd	AR94	#2016-07 Help Me I'm Melting
 AR	AR72Pea	AR94_W	US62	#2016-07 Help Me I'm Melting
@@ -960,16 +1165,13 @@ AZ	US89AltFre	AZ389	AZ/UT	#2019-03
 AZ	WalCanRd	I-40	VisCen	#2016-07 Help Me I'm Melting
 AZ	WalCanRd	I-40	VisCen	#2024-05 Wagons Ho
 CA	CA1	191B(101)	408	
-CA	CA1	PalVerBlvd	RosAve	#1998-04 Alex and Angela
 CA	CA110	21	26	
 CA	CA113	I-80(70)	37	#2018-10 Gold Rush
 CA	CA14	I-5	CA58Bus_W	#2022-12 Cesar Chavez
 CA	CA146	US101	PinNP	#2015-02 Bay Area
 CA	CA150	SanAnaRd_S	CA126	
 CA	CA154	US101(146)	US101(101B)	
-CA	CA163	ASt	I-15	
 CA	CA170	5	11B	
-CA	CA19	I-10	I-210	
 CA	CA2	12	21	
 CA	CA2	CenAve	WilBlvd	
 CA	CA217	UCSB	3	
@@ -989,7 +1191,6 @@ CA	CA41	I-5	QuaAve	#2018-02 Encore
 CA	CA44	CA273/299	CA89_S	#2014-07 Last Hurrah
 CA	CA49	US50	MotLodeCen	#2018-10 Gold Rush
 CA	CA55	11A	14	
-CA	CA56	1A	9	
 CA	CA57	1A	25B	
 CA	CA58	CA223	165	#2022-12 Cesar Chavez
 CA	CA58BusMoj	CA58(165)	CA14_N	#2022-12 Cesar Chavez
@@ -999,7 +1200,6 @@ CA	CA68	CA1(401B)	US101	#2024-04 Amgen Offsite Monterey
 CA	CA71	CA91	CA57	
 CA	CA73	I-5	18	
 CA	CA76	I-5	RanOroDr	
-CA	CA78	1A	SanDieZoo	
 CA	CA82	I-880	WolRd	
 CA	CA85	1C	5	
 CA	CA87	1A	6A	
@@ -1020,7 +1220,6 @@ CA	I-580	1A	I-5
 CA	I-605	1A	27	
 CA	I-710	1B	ValBlvd	
 CA	I-8	23	CA/AZ	
-CA	I-8	SunCliBlvd	4B	
 CA	I-805	25B	I-5(31)	
 CA	JBTrlLos	18A(10)	1D(101)	
 CA	JBTrlPis	MarSt	US101(202B)	
@@ -1029,7 +1228,6 @@ CA	ParkBlvd	CA62_W	CA62_E	#2024-05 Wagons Ho
 CA	US101BusSal	HarrRd	CA183_S	
 CA	US101BusVen	US101_S	US101_N	
 CA	US395	CA14	CA/NV	#2024-10 Eastern Sierras
-CA	US395HisPow	I-15(14)	CamNor	
 CA	US50	1A	CA49	#2018-10 Gold Rush
 CA	US50	CA89_N	CA/NV	#2024-10 Eastern Sierras
 CA	US66HisAzu	CA134	HillAve	
@@ -1042,55 +1240,13 @@ CA	US66HisBar	I-40(107)	US95_N	#2025-09 Great Basin
 CA	US66HisHol	I-10	WilBlvd	
 CA	US66HisSPa	MonRd	CA110	
 CA	US95	GofRd	CA/NV	
-CT	I-91	1	CT/MA	
-CT	I-95	NY/CT	CT/RI	
 DC	I-295	MD/DC	5	
 DC	I-395	7	10	
 DC	I-495	VA/DC	DC/MD	
-DC	I-66	US50_E	EStExpy	#2022-10 NCI RAS Symposium
 DC	I-695	I-395	2A	
 DC	I-95	VA/DC	DC/MD	
-DC	US50	VA/DC	17thSt	#2022-10 NCI RAS Symposium
-FL	FL406	I-95	US1	#2023-04 Orlando AACR
-FL	FL407	FL528	I-95	#2023-04 Orlando AACR
-FL	FL442	I-95	US1	#2023-04 Orlando AACR
-FL	FL44DeL	WalRd	FLA1A	#2023-04 Orlando AACR
-FL	FL482	I-4	IntDr	#2023-04 Orlando AACR
-FL	FL50	PlaDr	CatWay	#2023-04 Orlando AACR
-FL	FL528	1	37	#2023-04 Orlando AACR
-FL	FLA1ANSB	CRA1A	FL44	#2023-04 Orlando AACR
-FL	I-95	212	244	#2023-04 Orlando AACR
-FL	US1	KenPkwy	FL44/A1A	#2023-04 Orlando AACR
-HI	ChaCraRd	CraRimDr	HolSeaArch	#2019-08 Big Island
-HI	CraRimDr	KilMilCamp	ChaCraRd	#2019-08 Big Island
-HI	HI11	HI19	HI19/190	#2019-08 Big Island
-HI	HI19	End	HI11/190	#2019-08 Big Island
-HI	HI220	HI19	AkaFalSP	#2019-08 Big Island
-HI	HI250	HI19	HI270	#2019-08 Big Island
-HI	HI270	HI19	End	#2019-08 Big Island
-HI	HI50	HI56	CR552	#2021-12 Kauai Oahu
-HI	HI51	HI58	HI56	#2021-12 Kauai Oahu
-HI	HI550	HI50	KokSP	#2021-12 Kauai Oahu
-HI	HI56	HI50	HI560	#2021-12 Kauai Oahu
-HI	HI560	HI56	MalRd	#2021-12 Kauai Oahu
-HI	HI570	HI56	End	#2021-12 Kauai Oahu
-HI	HI580	HI56	KawiStr	#2021-12 Kauai Oahu
-HI	HI583	HI56	WaiRivSP	#2021-12 Kauai Oahu
-HI	HI61	I-H1	HI83	#2021-12 Kauai Oahu
-HI	HI65	I-H3	KanBayDr_E	#2021-12 Kauai Oahu
-HI	HI72	KeoDr	AinAve	#2021-12 Kauai Oahu
-HI	HI83	KamHwy_W	HI61	#2021-12 Kauai Oahu
-HI	HI930	KauRd	WeedCir	#2021-12 Kauai Oahu
-HI	HI99	WaiHomeRd	I-H1(15)	#2021-12 Kauai Oahu
-HI	HI99	WilDr	I-H2	#2021-12 Kauai Oahu
-HI	I-H1	15	AinAve	#2021-12 Kauai Oahu
-HI	I-H1	8B	13A	#2021-12 Kauai Oahu
-HI	I-H2	1	9	#2021-12 Kauai Oahu
-HI	I-H201	1A	I-H1	#2021-12 Kauai Oahu
-HI	I-H3	1B	14	#2021-12 Kauai Oahu
 IL	I-270	3	15	#2015-06 Land of Lincoln
 IL	I-290	I-90	I-90/94	
-IL	I-294	0	52	#1990-07 Great America
 IL	I-294	40B	42	#2017-07 Double the Fun
 IL	I-39	14	48	#2021-06 After the Blip
 IL	I-39	17(90)	IL/WI	#2025-04 Illinois Wisconsin
@@ -1099,8 +1255,6 @@ IL	I-474	0	15
 IL	I-55BLBlo	I-55_S	I-55_N	
 IL	I-55BLSpr	I-55_S	I-55_N	
 IL	I-57	184	237	#2015-06 Land of Lincoln
-IL	I-57	237	358	
-IL	I-72	141	182	
 IL	I-72	MO/IL	97	#2024-05 Wagons Ho
 IL	I-90	47	77	#2017-07 Double the Fun
 IL	I-90	WI/IL	77	#2025-04 Illinois Wisconsin
@@ -1115,7 +1269,6 @@ IL	IL122	LocSt	CR9
 IL	IL126	US30/59	I-55	#2025-04 Illinois Wisconsin
 IL	IL137	IL83	SheRd	
 IL	IL17	IL29_S	IL26	#2017-07 Double the Fun
-IL	IL17	US34_E	IL78_S	
 IL	IL171	LakeSt	IL72	#2025-04 Illinois Wisconsin
 IL	IL176	US45	IL131	
 IL	IL18	IL26_S	I-39	#2017-07 Double the Fun
@@ -1147,8 +1300,6 @@ IL	IL64	I-90/94	US41
 IL	IL64	IL83	US12/45	
 IL	IL68	US45/21	I-94	
 IL	IL72	RosRd	DevAve	
-IL	IL78	US150_E	IL17_W	
-IL	IL78	US34_W	I-80	
 IL	IL8	FarRd	US24	
 IL	IL83	I-55	IL56	
 IL	IL83	LakeCookRd	IL53	#2025-04 Illinois Wisconsin
@@ -1158,11 +1309,8 @@ IL	LMCT	SouBlvd	US14_W
 IL	US12	IL120	OldMcHRd	#2025-04 Illinois Wisconsin
 IL	US12	OakSt	IL64	
 IL	US136	1stSt	I-74	
-IL	US150	IL78_S	BellSchRd	#1990-01 Woodfield Shopping
 IL	US30	I-55	IL7	
-IL	US34	IL17_E	IL78_N	
 IL	US41	57thDr	WasSt	
-IL	US45	CR18	I-74	
 IL	US51	I-72(141)	I-90(1)	
 IL	US51BusBlo	US51_S	I-55	
 IL	US6	IL23/71	SenRd	#2023-01 Welfare Check
@@ -1177,13 +1325,6 @@ IN	I-65	112	US12/20
 IN	I-65	KY/IN	110B	
 IN	I-69	44(465)	200	
 IN	I-74	IL/IN	IN/OH	#2017-07 Double the Fun
-MD	I-270	2	32	#2022-10 NCI RAS Symposium
-MD	I-495	38	MD/VA	#2022-10 NCI RAS Symposium
-MD	I-70	52	54	#2022-10 NCI RAS Symposium
-MD	MD26	US15	MonBlvd	#2022-10 NCI RAS Symposium
-MD	MD85	MD80	MonBlvd	#2022-10 NCI RAS Symposium
-MD	US15	12	17	#2022-10 NCI RAS Symposium
-MD	US15	VA/MD	10	#2022-10 NCI RAS Symposium
 NV	CATrl	NV206_N	US395_S	
 NV	CR215	12	28	
 NV	EntRd	NV488	VisCen	#2025-09
@@ -1238,13 +1379,6 @@ OR	US101BusAst	US101_S	US101_N	#2017-03 Oregon Washington
 OR	US26	US101	69	#2017-03 Oregon Washington
 OR	US30	US101	ToWA433	#2017-03 Oregon Washington
 OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03 Oregon Washington
-VA	GWMemPkwy	I-66	I-495	#2022-10 NCI RAS Symposium
-VA	I-495	MD/VA	43	#2022-10 NCI RAS Symposium
-VA	I-66	67	VA/DC	#2022-10 NCI RAS Symposium
-VA	US15	VA7_E	VA/MD	#2022-10 NCI RAS Symposium
-VA	VA267	9B	I-66	#2022-10 NCI RAS Symposium
-VA	VA28	DulAirRd	VA7	#2022-10 NCI RAS Symposium
-VA	VA7	US15/7Bus	VA28	#2022-10 NCI RAS Symposium
 WA	AirExpy	WA518	Ter	#2022-09 Washington State
 WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
 WA	I-405	11	14	#2022-09 Washington State
