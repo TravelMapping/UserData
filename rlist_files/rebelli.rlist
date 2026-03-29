@@ -5,10 +5,11 @@ DE NENor MD/DE DE/PA
 # District of Columbia
 DC PennLn DC/MD WasUniSta
 DC BluLn LEnfPla VA/DC
-DC GreLn DC/MD Arc
-DC RedLn FortTot GalPla
+DC GreLn DC/MD NavyYardBal
+DC RedLn FortTot MetCen
 DC SilLnNew DC/MD LEnfPla
 DC YelLn VA/DC MtVerSq
+DC DCSC UniSta OklAve
 
 # Georgia
 GA GoldLn Air PeaCen
