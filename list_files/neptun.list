@@ -1,5 +1,5 @@
 # ──────────
-# 2026-03-25
+# 2026-03-29
 # ──────────
 
 CZE D0 76 28
@@ -32,7 +32,7 @@ CZE I4Zbr D0 D4(9)
 CZE I7 D7(18) D7_Pan
 CZE I7Pre D0 2
 CZE I6 D6(62) D6_Lub
-CZE I6Boc D6(83) I13
+CZE I6Boc D6(83) SokSka
 CZE I8 III25822 III25337
 CZE I8Bre Kos D8
 CZE I9 D8 II273
