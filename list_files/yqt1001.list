@@ -230,6 +230,10 @@ BRA-RJ BR116 BR101_N RJ/SP
 BRA-RJ BR101 LinAma CenRioJan
 BRA-SP BR116 RJ/SP PonBan
 BRA-PR BR469 Arg End
+BRA-RJ LinVer IslaGov ToBR101_S
+BRA-RJ EleRufPiz LinVer AvFraBic
+BRA-RJ EleEngFre AvFraBic RioCom
+BRA-RJ TunReb RioCom AvBorMed
 
 # Argentina
 ARG RN3 RN25_E RNA010/RP4
@@ -549,6 +553,7 @@ JOR M47 H5 H80
 # Israel
 ISR H60Jer SulSulSt PSE/ISR
 ISR F50 GolSt H16
+ISR H2 RokBlvd HagRd
 
 # Palestine
 PSE H60Heb PSE/ISR L3755
@@ -591,6 +596,9 @@ SLV RN21 CA1_E CA1_W
 SLV CA1W RN21_W RN10
 SLV RN10 CA1 CA8
 SLV CA8 RN10 CA1
+
+# Panama
+PAN C1 CorSur AveManEsp
 
 # Peru
 PER PE20I PE20B ViaCosVer
