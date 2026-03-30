@@ -8,8 +8,9 @@ NY NewHavLn GraCen CT NewHavLn NHStaSt
 NY HudLn GraCen Pou
 NY HarLn GraCen Was
 NY SIR StGeo Tot
-NY 4 59St NevSt
-NY D 161StYanSta 36thSt
+NY 4 125St NevSt
+NY B 145St BriBea
+NY D 161StYanSta ConIslStiAve
 NY N QuePlaza 59St
 NY 7 34StHudYar FluMainSt
 NY S42 TimSq GraCen
@@ -20,8 +21,10 @@ NJ PATHNWT JouSq NY PATHNWT WTC
 NY E +SKIP_WooBlvd WTC
 NY F LexAve63St 4Ave
 NY 2 96St FlaAveBroCol
-NY R QuePla +DIV_E/M
-NY R +DIV_N/W 59St
+NY R WooBlvd BayRid95St
+NY Q BriBea ConIslStiAve
+NY G CouSq 4Ave
+
 
 Connecticut
 CT HarLn NHUniSta MA HarLn Spr
@@ -41,4 +44,18 @@ Other
 CA BARTYel Roc CivCen
 ON 1 VauMetCen Uni
 ON 501 SpaAve YonSt
+AUS-VIC GeeLn SouCro SouGee
+AUS-VIC GWLn FliSt GlenWav
+AUS-VIC WerLn FliSt Wer
+AUS-VIC LavLn FliSt Lav
+AUS-VIC 70Mel DocPk AubRd
+AUS-VIC 16Mel MelUni LunaPk
+AUS-VIC BelLn LOOP +DIV_Lp
+AUS-VIC PakLn +DIV_Tar Cla
+AUS-VIC 96Mel MelMus ClaStJct
+AUS-VIC 11Mel ColSt SouCroSta
+HKG AirExp HongKong Air
+HKG IslLn SheWan NorPoi
+HKG ERailLnLok Adm LokMaChau
+HKG TMLn TaiWai HUH
 

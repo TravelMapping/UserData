@@ -106,6 +106,12 @@ SK SK11Cir SK16_E SK16_W
 MB MB100 42 1
 MB MB101 42 1
 
+#CZECHIA#
+##Prague##
+CZE MO ProRad Pru
+CZE D0EPr 58 63
+CZE D0 76 28
+
 #DENMARK#
 ##Aalborg##
 DNK O1Aal JFKPla_W JFKPla_E
@@ -174,6 +180,9 @@ DNK O2Vej O1_W O1_N
 DNK OVib RodeVej_W RodeVej_E
 ##Vordinborg##
 DNK OVor ChrWinVej AlGade_W
+##Torshavn##
+FRO O1 HavGot Lv12
+FRO O2 O1 Lv10/11
 
 #FINLAND#
 ##Helsinki##
@@ -231,6 +240,10 @@ DEU-HH Ring3Pop SH/HH SasCha
 DEU-BY B2R A95_E A95_W #Mittlerring
 ##Nürnberg##
 DEU-BY B4R B4_E B4_W
+
+#HUNGARY#
+##Budapest##
+HUN M0 0 78
 
 #IRELAND#
 ##Cork##
@@ -354,7 +367,7 @@ NOR Ring3 32(E6) E18
 #POLAND#
 ##Krakow##
 POL A4 51 52
-POL S7EKr R9 R11
+POL S7EKr R9 R12
 POL S52Kra R13 R17
 POL DK52Kra R17 R18
 POL S52WKr R18 R1
