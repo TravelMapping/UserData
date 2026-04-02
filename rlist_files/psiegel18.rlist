@@ -1,0 +1,60 @@
+#US Routes --------------------------------------------------------------
+#Amtrak:
+CA PS OldTownTC Ir                      #CA PA; Pacific Surfliner
+MO LI StLouGat IL LI UniSta             #IL LI; Lincoln Service
+
+
+#State Routes -----------------------------------------------------------
+#Atlanta MARTA:
+GA GoldLn Air PeaCen
+
+#Chicago L:
+IL SkoSwi DemSko How
+IL PurLn How Lin
+IL RedLn Gar IL RedLn How
+IL BlueLn ClaLake LaS
+IL BroLn +DIV_NW Loop
+
+#Chicago Metra:
+IL NCS UniSta Mun
+IL UPNW OgiTraCen MtPro
+
+#Minnesota Metro:
+MN BlueLine MallofAmerica TargetFieldPlatform2
+
+#New York Subway:
+NY S42 TimSq GraCen
+NY 7 42StGraCen MetsWilPoi
+NY 4 161StYanSta 42StGraCen
+
+
+#Airports -------------------------------------------------------------
+#Colorado:
+CO DENTrn JepTer CGat                   #DEN
+
+#Nevada:
+NV BlueLn Ter1 DGat                     #LAS
+NV GreLn Ter1 CGat                      #LAS
+
+#Virginia:
+VA AerTrn ConB ConA                     #IAD
+
+#Texas:
+TX Sky A8 A21                           #DFW
+TX IAHSky TerA TerDE                    #IAH
+
+#Michigan:
+MI ExpTram SouSta NorSta                #DTW
+
+#Minnesota
+MN MSPTram ConDE ConAB                  #MSP
+
+
+
+#Florida:
+FL SkyTrn 1 4                           #MIA
+FL ETrn E2 E20                          #MIA
+FL GateLinkTBW TerB Air3                #MCO
+
+#Georgia:
+GA PlaTrn DomTer FGatIntTer             #ATL

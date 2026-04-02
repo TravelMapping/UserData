@@ -110,7 +110,6 @@ IN NatRd IL/IN IN/OH
 OH NatRd IN/OH OH513
 OH NatRdStC End OH/WV
 WV NatRd OH/WV WV/PA
-WV NatRd OH/WV WV/PA
 MD NatRd PA/MD MD2
 IL NatRdSprGre IL127_S IL127_N
 IL NatRdSprLiv US40_W US40_E
@@ -150,7 +149,7 @@ NY US9 NY22_S BakRd
 ##missing segement CR12
 NY NY9B MasRd US11
 NY US11 NY9B USA/CAN
-NY NY74 NY9N/22 NY/VT
+NY NY74 NY9N/22 TicFry
 NY NY185 NY9N/22 NY/VT
 NY NY373 US9 BurPKFry
 ##missing segement Commodore T MacDonough Highway

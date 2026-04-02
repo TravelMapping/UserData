@@ -1,4 +1,4 @@
-# Date: 2026-03-01
+# Date: 2026-03-22
 # ----------------
 # ----------------
 
@@ -6,6 +6,8 @@
 ####   RAILWAYS   ####
 ######################
 
+AUT S1Sal Bur SalHau                                            #2026
+AUT S11Sal Ost Bur                                              #2026
 CHE IC3 ZurHau +DIV_S4                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
 CHE S4Gal Buc +DIV_S12                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
 AUT S2Vor Fel CHE S2Vor Buc                                     #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
@@ -363,6 +365,24 @@ CHE 24Zur Cen ETH                  #2026
 CHE 25Zur Rom BerDol               #2026
 CHE 50Zur Fra Gla                  #2026
 CHE 51Zur BahAltNord See           #2026
+
+#Brno
+CZE 1Brn Rec Sem
+CZE 1Brn Sum Rak                   #2026
+CZE 2Brn StaOsa HlaNad             #2026
+CZE 2Brn HlaNad ModSmy             #2026
+CZE 3Brn Ece VozKom                #2026
+CZE 3Brn Jug StaOsa                #2026
+CZE 4Brn NamMiru ObrBab            #2026
+CZE 5Brn SteCtv UstHrbSmy          #2026
+CZE 6Brn KraPolNad Sum             #2026
+CZE 6Brn MenNam Por                #2026
+CZE 6Brn Cel StaLisSmy             #2026
+CZE 8Brn NemBoh Mif                #2026
+CZE 9Brn LesCerRok Ces             #2026
+CZE 9Brn Gei Jul                   #2026
+CZE 10Brn VozKom Kras              #2026
+CZE 12Brn TecPark Kom              #2026
 
 #Praha
 CZE A NemMot DepoHos               #2019
@@ -1143,7 +1163,7 @@ PRT LnLei LecaBal PorCam              #2025
 #Whole M network as-at September 2023
 ROU M1 Pan Dri2                       #2023
 ROU M2 Ber Pip                        #2023, southern extension u/c
-ROU M3 Pre AngSal                     #2023
+ROU M3 Pre AngSal                     #202
 ROU M4 Str GaraNord2                  #2023
 ROU M5Ial ValIal Rom                  #2023
 ROU M5 RaulDoa Ero2                   #2023, eastern extension u/c
@@ -1161,6 +1181,14 @@ SRB 11Beo TadKos SavTrg         #2023
 SRB 12Beo SavTrg OmlSta         #2023
 SRB 13Beo BanBrdo Blok45        #2023
 SRB 14Beo Ust Ban               #2023
+
+#Bratislava
+SVK 1Bra HlaSta NamStu          #2026
+SVK 3Bra Kom JanDvor            #2026
+SVK 4Bra NamStu StaNoveMes      #2026
+SVK 4Zla ZlaPie PriKri          #2026
+SVK 9Bra Lan Ast                #2026
+
 
 #Gothenborg
 SWE 3Got MarGat +DIV_Par        #2024, rerouted via line 6 route to BruPar

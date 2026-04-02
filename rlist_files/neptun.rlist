@@ -1,5 +1,5 @@
 # ──────────
-# 2026-01-26
+# 2026-03-29
 # ──────────
 
 # ─────────
@@ -87,6 +87,7 @@ CZE S82 LedSaz SveNadSaz
 CZE S88 PraHlaNad Dob
 CZE S90 Olb Mez
 CZE S98 BenesovPra Sed
+CZE S99 BenPra Vla
 
 # ───
 # DÚK
@@ -101,7 +102,7 @@ CZE U4 UstiNadLabHlaNad Hne
 CZE U5 Most UstiNadLabHlaNad
 CZE U6 TepCec Rad
 CZE U7 DecHlaNad UstiNadLabZap
-CZE U8 DecHlaNad Mly
+CZE U8 DecHlaNad Jed
 CZE U10 Most Lov
 CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
@@ -117,7 +118,7 @@ CZE U57 Zlu BlaJes
 CZE T5 Lib RouNadLab
 CZE T6 Kas Pod
 CZE T8 MolKruHor LouLit_1
-CZE T10 Svor PraHlaNad
+CZE T10 Jed PraHlaNad
 CZE T11 Tel DecHlaNad
 
 # ────────────
@@ -128,7 +129,7 @@ CZE 3Lib LidSadyZoo Spa
 
 CZE L1 Lib Tan
 CZE L2 DecHlaNad Lib
-CZE L3 Libe ZelBrod
+CZE L3 Libe StaPaka
 CZE L4 Rum Ryb
 CZE L4 Svor MlaBolHlaNad
 CZE L5 LomNadPop StaPaka
@@ -412,9 +413,8 @@ FRA-IDF FunMon Inf Sup
 # Strasbourg
 # ──────────
 
-FRA-GES TramA Cer EtoBou
-FRA-GES TramB HoeGare HomFer
-FRA-GES TramB Els LinTie
+FRA-GES TramA ParcSpo Gra
+FRA-GES TramB HoeGare LinTie
 FRA-GES TramC GareCen NeuRodReu
 FRA-GES TramD Pot DEU-BW TramD KehlRat
 FRA-GES TramE RobEsc EtoPol
