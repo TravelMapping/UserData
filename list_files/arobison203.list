@@ -11,6 +11,7 @@ AZ I-8 CA/AZ 178
 AZ I-10 CA/AZ AZ/NM
 AZ I-17 194 214C
 AZ I-19 I-19BL 101
+AZ I-40 48 71
 
 # Arkansas
 AR I-40 OK/AR AR/TN
@@ -18,6 +19,7 @@ AR I-40 OK/AR AR/TN
 # California
 CA I-5 6 140B
 CA I-8 SunCliBlvd CA/AZ
+CA I-10 135C(5) 21
 CA I-10 72 CA/AZ
 CA I-15 12 27
 CA I-215 29 40
@@ -33,6 +35,7 @@ CA I-710 18A 21
 # Florida
 FL I-4 74A 132
 FL I-95 182 268
+FL I-95 2B 26
 
 # Georgia
 GA I-75 242 248C
@@ -43,6 +46,13 @@ GA I-85 72 248C(75)
 # Idaho
 
 # Illinois
+IL I-55 277A 285
+IL I-55 286 US-41
+IL I-88 132 I-294_N
+IL I-90 59 77
+IL I-290 15A I-90/94
+IL I-294 23C 40A
+IL I-355 20B 27
 
 # Indiana
 
@@ -84,19 +94,22 @@ MO I-435 KS/MO 14(29)
 # Nebraska
 
 # Nevada
+NV I-11 23 AZ/NV
+NV I-15 34 37
+NV I-215 12 1
 
 # New Hampshire
 
 # New Jersey
 
 # New Mexico
-NM I-10 AZ/NM 82A
+NM I-10 AZ/NM NM/TX
 NM I-25 41 242
 NM I-40 159B NM/TX
 
 # New York
 NY I-495 2ndAve 22C
-NY I-670 JFKAir 12
+NY I-678 JFKAir 12
 
 # North Carolina
 NC I-40 279 306
@@ -130,6 +143,7 @@ TN I-40 AR/TN 421
 TN I-81 1 TN/VA
 
 # Texas
+TX I-10 NM/TX 456
 TX I-35 158C 238
 TX I-37 141A 142
 TX I-40 NM/TX TX/OK
@@ -145,14 +159,14 @@ VA I-581 2 1
 # Washington
 
 # West Virginia
-WV I-81 VA/WV VW/MD
+WV I-81 VA/WV WV/MD
 
 # Wisconsin
 
 # Wyoming
 
 # --------------------
-# US Routes by state
+# US Numbered Routes by state
 # --------------------
 
 # Alabama
@@ -160,6 +174,10 @@ WV I-81 VA/WV VW/MD
 # Alaska
 
 # Arizona
+AZ US60 TegSt AZ303
+AZ US60 154(10) AZ260_E
+AZ US70 US60 AZ77_S
+AZ US93 TegSt AZ/NV
 
 # Arkansas
 
@@ -265,6 +283,33 @@ WV I-81 VA/WV VW/MD
 # Alaska
 
 # Arizona
+AZ AZ51 I-10 15
+AZ AZ73 US60/77 AZ260
+AZ AZ77 I-10 AZ260_E
+AZ AZ79 AZ77 US60
+AZ AZ79BusFlo AZ79_S AZ79_N
+AZ AZ80 US191Bus I-10BL
+AZ AZ82 I-19BL AZ90
+AZ AZ83 AZ82 I-10
+AZ AZ85 MEX/USA AZ86
+AZ AZ85 I-8 I-10
+AZ AZ86 AZ85 16thAve
+AZ AZ87 I-10 AZ202(47)
+AZ AZ90 AZ92 I-10
+AZ AZ101 1 8
+AZ AZ101 19 61B
+AZ AZ143 1 McDRd
+AZ AZ187 AZ387 AZ87
+AZ AZ202 1A 16
+AZ AZ202 41 78
+AZ AZ210 GolfLinRd BroBlvd
+AZ AZ260 US60_E MainSt_E
+AZ AZ273 FR112 AZ260
+AZ AZ286 RefEntRd AZ86 
+AZ AZ287 I-10 AZ79
+AZ AZ303 104 119
+AZ AZ373 End AZ260
+AZ AZ587 I-10 AZ87
 
 # Arkansas
 
@@ -359,3 +404,11 @@ WV I-81 VA/WV VW/MD
 # Wisconsin
 
 # Wyoming
+
+# --------------------
+# US Named Freeways by state
+# --------------------
+
+# Arizona
+AZ NorPkwy AZ303 NorAve
+AZ SkyHarBlvd I-10 AZ202
