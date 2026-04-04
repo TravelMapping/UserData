@@ -62,6 +62,7 @@ IL	I-74	102	IL/IN	#1987-10 Road Trip with Amy
 IL	I-74	102	183	#1988-1992 University of Illinois
 IL	US45	CR18	I-74	#1988-1992 University of Illinois
 IL	IL10	IL47	US150	#1988-1992 University of Illinois
+IL	US136	1stSt	I-74	#1988-1992 University of Illinois
 IL	US150	MainSt_Mor	IL130_S	#1988-1992 University of Illinois
 IL	I-72	141	182	#1988-1992 University of Illinois
 #1989-1992 Camp Manitoumi				
@@ -74,10 +75,9 @@ IL	I-74	102	127	#1989-1992 Chapter Camp
 IL	I-55	163	250	#1989-1992 Chapter Camp
 IL	I-80	126	IL/IN	#1989-1992 Chapter Camp
 IN	I-94	IL/IN	IN/MI	#1989-1992 Chapter Camp
-MI	I-94	IN/MI	74	#1989-1992 Chapter Camp
-MI	US131	34	180	#1989-1992 Chapter Camp
-MI	MI55	US131_N	US127	#1989-1992 Chapter Camp
-MI	US127	194	I-75	#1989-1992 Chapter Camp
+MI	I-94	IN/MI	108	#1989-1992 Chapter Camp
+MI	I-69	IN/MI	89	#1989-1992 Chapter Camp
+MI	US127	82	I-75	#1989-1992 Chapter Camp
 MI	I-75	249	USA/CAN	#1989-1992 Chapter Camp
 MI	MI134	I-75	PirBayRd	#1989-1992 Chapter Camp
 #1989 Fetch the Sunbird				
@@ -150,14 +150,14 @@ NY	I-287	NJ/NY	I-95	#1992-08 Yale
 NY	I-95	22	NY/CT	#1992-08 Yale
 CT	I-95	NY/CT	48	#1992-08 Yale
 CT	I-91	1	6	#1992-08 Yale
-#1992-10 Woods Hole				
-CT	I-91	1	6	#1992-10 Woods Hole
-CT	I-95	48	CT/RI	#1992-10 Woods Hole
-RI	I-95	CT/RI	36A	#1992-10 Woods Hole
-RI	I-195	1	RI/MA	#1992-10 Woods Hole
-MA	I-195	RI/MA	40	#1992-10 Woods Hole
-MA	MA25	1	10	#1992-10 Woods Hole
-MA	MA28	LocSt	MA25	#1992-10 Woods Hole
+#1992-10 MBB Woods Hole				
+CT	I-91	1	6	#1992-10 MBB Woods Hole
+CT	I-95	48	CT/RI	#1992-10 MBB Woods Hole
+RI	I-95	CT/RI	36A	#1992-10 MBB Woods Hole
+RI	I-195	1	RI/MA	#1992-10 MBB Woods Hole
+MA	I-195	RI/MA	40	#1992-10 MBB Woods Hole
+MA	MA25	1	10	#1992-10 MBB Woods Hole
+MA	MA28	LocSt	MA25	#1992-10 MBB Woods Hole
 #1992-11 Thanksgiving with Vivian				
 CT	I-91	1	6	#1992-11 Thanksgiving with Vivian
 CT	I-95	38	48	#1992-11 Thanksgiving with Vivian
@@ -196,10 +196,11 @@ OH	I-71	186	209	#1992-12 Yale Winter Break
 OH	I-76	1	219	#1992-12 Yale Winter Break
 #1992-1993 New Haven				
 CT	CT10	WhaAve_E	CT22Trk_E	#1992-1993 New Haven
-CT	CT63	CT10	CT114	#1992-1993 New Haven
 CT	CT15	54	61	#1992-1993 New Haven
-CT	US1	I-95(39)	I-95(51)	#1992-1993 New Haven
+CT	CT63	CT10	CT114	#1992-1993 New Haven
+CT	CT114	CT313	CT63	#1992-1993 New Haven
 CT	CT337	US1	SouEndRd_W	#1992-1993 New Haven
+CT	US1	I-95(39)	I-95(51)	#1992-1993 New Haven
 #1993-02 IV Grad Retreat Toah Nipi				
 CT	I-91	6	CT/MA	#1993-02 IV Grad Retreat Toah Nipi
 MA	I-91	CT/MA	50	#1993-02 IV Grad Retreat Toah Nipi
@@ -626,6 +627,13 @@ AZ	I-40BLFla	AZ89A	US89	#2010-04 Arizona Colorado
 AZ	AZ89A	I-17(340)	I-40BL	#2010-04 Arizona Colorado
 AZ	US66HisKin	OatRd	I-40(44)	#2010-04 Arizona Colorado
 AZ	AZ95Bul	CA/AZ	BouConeRd	#2010-04 Arizona Colorado
+#2010-05 Boston				
+MA	I-90	137	MA1A	#2010-05 Boston
+MA	MA1ASal	US1	I-90	#2010-05 Boston
+MA	MA3	18(93)	US3	#2010-05 Boston
+MA	US3	MA3	JFKSt	#2010-05 Boston
+MA	MA2	US3_S	US20_W	#2010-05 Boston
+MA	US20	MA2_W	MA2_E	#2010-05 Boston
 #2010-07 Illinois Missouri				
 IL	I-190	0	ChiOHAir	#2010-07 Illinois Missouri
 IL	I-90	79C	82A	#2010-07 Illinois Missouri
@@ -1045,8 +1053,9 @@ MA	StoDr	Fen	MA28	#2013-06 Massachusetts
 MA	MA9	HamPondPkwy	Riv	#2013-06 Massachusetts
 MA	US20	CamSt	MA2_W	#2013-06 Massachusetts
 MA	US3	RivSt	HawSt	#2013-06 Massachusetts
-MA	SolFieRd	WesAve	CamSt	#2013-06 Massachusetts
-MA	I-90	131	133	#2013-06 Massachusetts
+MA	MA2ACam	SomAve	MA2_E	#2013-06 Massachusetts
+MA	MA2	MA2ACam_E	MA28	#2013-06 Massachusetts
+MA	MA28	MA3_S	ChaAve	#2013-06 Massachusetts
 #2013-08 East Bay				
 CA	CA118	18	42A	#2013-08 East Bay
 CA	I-405	71A	I-5(158)	#2013-08 East Bay
@@ -1194,10 +1203,11 @@ KY	KY70Cam	KY255_N	KY90	#2015-06 Land of Lincoln
 KY	KY90	KY70	US31W	#2015-06 Land of Lincoln
 KY	I-65	53	81	#2015-06 Land of Lincoln
 KY	KY84	I-65	KY61	#2015-06 Land of Lincoln
-KY	KY61	US31E_S	I-65(91)	#2015-06 Land of Lincoln
+KY	KY61	US31E_S	US31W_S	#2015-06 Land of Lincoln
+KY	WesKYPkwy	137	US31W	#2015-06 Land of Lincoln
 KY	I-65	91	KY/IN	#2015-06 Land of Lincoln
 KY	I-64	4	5	#2015-06 Land of Lincoln
-KY	US31W	I-64	US31/31E	#2015-06 Land of Lincoln
+KY	LCTrl	I-64(4)	US31	#2015-06 Land of Lincoln
 KY	KY1631	I-264	I-65	#2015-06 Land of Lincoln
 IN	I-65	KY/IN	111	#2015-06 Land of Lincoln
 IN	NatRd	HarSt	I-65/70	#2015-06 Land of Lincoln
@@ -1218,58 +1228,59 @@ CA	CA91	24	33	#2015-12 Nixon Library
 CA	CA39	LaPalAve	CA91	#2015-12 Nixon Library
 CA	CA91	17	23B	#2015-12 Nixon Library
 CA	I-605	7A	11	#2015-12 Nixon Library
-#2016-03 Arizona New Mexico				
-CA	CA118	18	46B	#2016-03 Arizona New Mexico
-CA	I-210	6	45	#2016-03 Arizona New Mexico
-CA	CA210	45	85	#2016-03 Arizona New Mexico
-CA	I-10	77B	CA/AZ	#2016-03 Arizona New Mexico
-AZ	I-10	CA/AZ	147	#2016-03 Arizona New Mexico
-AZ	AZ202	1A	7	#2016-03 Arizona New Mexico
-AZ	US60HisMes	May	MesaDr	#2016-03 Arizona New Mexico
-AZ	I-10	150A	153B	#2016-03 Arizona New Mexico
-AZ	I-17	194	195B	#2016-03 Arizona New Mexico
-AZ	AZ101	53	61B	#2016-03 Arizona New Mexico
-AZ	AZ202	47	50	#2016-03 Arizona New Mexico
-AZ	AZ87	I-10	AZ202(47)	#2016-03 Arizona New Mexico
-AZ	I-10	211	AZ/NM	#2016-03 Arizona New Mexico
-AZ	AZ210	BroBlvd	GolfLinRd	#2016-03 Arizona New Mexico
-NM	I-10	AZ/NM	22	#2016-03 Arizona New Mexico
-NM	NM494	I-10	I-10BL	#2016-03 Arizona New Mexico
-NM	US70	NM90	NM494	#2016-03 Arizona New Mexico
-NM	NM90	US70	US180	#2016-03 Arizona New Mexico
-NM	US180	NM90	NM15	#2016-03 Arizona New Mexico
-NM	NM15	US180	CliDweNM	#2016-03 Arizona New Mexico
-NM	NM35	NM152	NM15	#2016-03 Arizona New Mexico
-NM	NM152	NM35	NM61	#2016-03 Arizona New Mexico
-NM	NM61	US180	NM152	#2016-03 Arizona New Mexico
-NM	US180	NM61	I-10(82A)	#2016-03 Arizona New Mexico
-NM	I-10	82A	NM/TX	#2016-03 Arizona New Mexico
-NM	NM28	NM101	NM478	#2016-03 Arizona New Mexico
-NM	NM478	NM28	US70	#2016-03 Arizona New Mexico
-TX	I-10	NM/TX	21	#2016-03 Arizona New Mexico
-TX	US62ElP	PieSt	RM652	#2016-03 Arizona New Mexico
-NM	US62	TX/NM	US285_N	#2016-03 Arizona New Mexico
-NM	NM7	End	US62/180	#2016-03 Arizona New Mexico
-NM	US285	US62/180_E	US70/380	#2016-03 Arizona New Mexico
-NM	US70	DunDr	US285/380	#2016-03 Arizona New Mexico
-NM	DunDr	US70	LoopDr	#2016-03 Arizona New Mexico
-NM	US54BusAla	US70_W	US54_E	#2016-03 Arizona New Mexico
-NM	US54	US70_E	NM55	#2016-03 Arizona New Mexico
-NM	NM55	US54	NM131	#2016-03 Arizona New Mexico
-NM	US60	NM116	NM55	#2016-03 Arizona New Mexico
-NM	I-25	139	190	#2016-03 Arizona New Mexico
-NM	I-25BLSoc	I-25_S	I-25_N	#2016-03 Arizona New Mexico
-NM	US380	I-25	NM525	#2016-03 Arizona New Mexico
-NM	NM525	WSMR5	US380	#2016-03 Arizona New Mexico
-NM	US60	AZ/NM	I-25BL_S	#2016-03 Arizona New Mexico
-NM	NM52	NM166	US60	#2016-03 Arizona New Mexico
-NM	NM166	End	NM52	#2016-03 Arizona New Mexico
-AZ	US60	AZ260_W	AZ/NM	#2016-03 Arizona New Mexico
-AZ	AZ260	AZ87_S	US60_W	#2016-03 Arizona New Mexico
-AZ	AZ87	SheaBlvd	AZ260_E	#2016-03 Arizona New Mexico
-AZ	AZ101	29	41	#2016-03 Arizona New Mexico
-AZ	AZ51	I-10	4	#2016-03 Arizona New Mexico
-AZ	AZ51	5	15	#2016-03 Arizona New Mexico
+#2016-03 Arizona New Mexico West Texas				
+CA	CA118	18	46B	#2016-03 Arizona New Mexico West Texas
+CA	I-210	6	45	#2016-03 Arizona New Mexico West Texas
+CA	CA210	45	85	#2016-03 Arizona New Mexico West Texas
+CA	I-10	77B	CA/AZ	#2016-03 Arizona New Mexico West Texas
+AZ	I-10	CA/AZ	147	#2016-03 Arizona New Mexico West Texas
+AZ	AZ202	1A	7	#2016-03 Arizona New Mexico West Texas
+AZ	US60HisMes	May	MesaDr	#2016-03 Arizona New Mexico West Texas
+AZ	I-10	150A	153B	#2016-03 Arizona New Mexico West Texas
+AZ	I-17	194	195B	#2016-03 Arizona New Mexico West Texas
+AZ	AZ101	53	61B	#2016-03 Arizona New Mexico West Texas
+AZ	AZ202	47	50	#2016-03 Arizona New Mexico West Texas
+AZ	AZ87	I-10	AZ202(47)	#2016-03 Arizona New Mexico West Texas
+AZ	I-10	211	AZ/NM	#2016-03 Arizona New Mexico West Texas
+AZ	AZ210	BroBlvd	GolfLinRd	#2016-03 Arizona New Mexico West Texas
+NM	I-10	AZ/NM	22	#2016-03 Arizona New Mexico West Texas
+NM	NM494	I-10	I-10BL	#2016-03 Arizona New Mexico West Texas
+NM	US70	NM90	NM494	#2016-03 Arizona New Mexico West Texas
+NM	NM90	US70	US180	#2016-03 Arizona New Mexico West Texas
+NM	US180	NM90	NM15	#2016-03 Arizona New Mexico West Texas
+NM	NM15	US180	CliDweNM	#2016-03 Arizona New Mexico West Texas
+NM	NM35	NM152	NM15	#2016-03 Arizona New Mexico West Texas
+NM	NM152	NM35	NM61	#2016-03 Arizona New Mexico West Texas
+NM	NM61	US180	NM152	#2016-03 Arizona New Mexico West Texas
+NM	US180	NM61	I-10(82A)	#2016-03 Arizona New Mexico West Texas
+NM	I-10	82A	NM/TX	#2016-03 Arizona New Mexico West Texas
+NM	NM28	NM101	NM478	#2016-03 Arizona New Mexico West Texas
+NM	NM478	NM28	US70	#2016-03 Arizona New Mexico West Texas
+TX	I-10	NM/TX	21	#2016-03 Arizona New Mexico West Texas
+TX	US62ElP	PieSt	RM652	#2016-03 Arizona New Mexico West Texas
+NM	US62	TX/NM	US285_N	#2016-03 Arizona New Mexico West Texas
+NM	NM7	End	US62/180	#2016-03 Arizona New Mexico West Texas
+NM	US285	US62/180_E	US70/380	#2016-03 Arizona New Mexico West Texas
+NM	US70	DunDr	US285/380	#2016-03 Arizona New Mexico West Texas
+NM	DunDr	US70	LoopDr	#2016-03 Arizona New Mexico West Texas
+NM	US54BusAla	US70_W	US54_E	#2016-03 Arizona New Mexico West Texas
+NM	US54	US70_E	NM55	#2016-03 Arizona New Mexico West Texas
+NM	NM55	US54	NM131	#2016-03 Arizona New Mexico West Texas
+NM	US60	NM116	NM55	#2016-03 Arizona New Mexico West Texas
+NM	NM513	US60	CRB005	#2016-03 Arizona New Mexico West Texas
+NM	I-25	139	175	#2016-03 Arizona New Mexico West Texas
+NM	I-25BLSoc	I-25_S	I-25_N	#2016-03 Arizona New Mexico West Texas
+NM	US380	I-25	NM525	#2016-03 Arizona New Mexico West Texas
+NM	NM525	WSMR5	US380	#2016-03 Arizona New Mexico West Texas
+NM	US60	AZ/NM	I-25BL_S	#2016-03 Arizona New Mexico West Texas
+NM	NM52	NM166	US60	#2016-03 Arizona New Mexico West Texas
+NM	NM166	End	NM52	#2016-03 Arizona New Mexico West Texas
+AZ	US60	AZ260_W	AZ/NM	#2016-03 Arizona New Mexico West Texas
+AZ	AZ260	AZ87_S	US60_W	#2016-03 Arizona New Mexico West Texas
+AZ	AZ87	SheaBlvd	AZ260_E	#2016-03 Arizona New Mexico West Texas
+AZ	AZ101	29	41	#2016-03 Arizona New Mexico West Texas
+AZ	AZ51	I-10	4	#2016-03 Arizona New Mexico West Texas
+AZ	AZ51	5	15	#2016-03 Arizona New Mexico West Texas
 #2016-07 Help Me I'm Melting				
 IL	US12	TouAve	CofRd	#2016-07 Help Me I'm Melting
 IL	IL72	ElmRd	TouAve_E	#2016-07 Help Me I'm Melting
@@ -1326,7 +1337,7 @@ TX	TXLp171	US60/152	TX70_N	#2016-07 Help Me I'm Melting
 TX	TX70	TX152_W	TXLp171_N	#2016-07 Help Me I'm Melting
 TX	TX152	TX136/207_S	TX70_N	#2016-07 Help Me I'm Melting
 TX	TX136	FM1912	TX152_E	#2016-07 Help Me I'm Melting
-TX	TXLp335	TX136	I-40BL	#2016-07 Help Me I'm Melting
+TX	TXLp335	FM1912	I-40BL	#2016-07 Help Me I'm Melting
 TX	I-40BLAma	I-40_W	TXLp335_W	#2016-07 Help Me I'm Melting
 TX	I-40	NM/TX	60	#2016-07 Help Me I'm Melting
 NM	I-40	335	NM/TX	#2016-07 Help Me I'm Melting
@@ -1367,6 +1378,13 @@ CA	I-5	158	162	#2016-07 Help Me I'm Melting
 CA	I-405	71A	I-5(158)	#2016-07 Help Me I'm Melting
 CA	CA118	18	42A	#2016-07 Help Me I'm Melting
 #2017-02 All-State Weekend				
+CA	CA118	CA126	TieRejRd	#2017-02 All-State Weekend
+CA	CA126	1A	5	#2017-02 All-State Weekend
+CA	US101	66A	388A	#2017-02 All-State Weekend
+CA	CA85	1A	5	#2017-02 All-State Weekend
+CA	CA87	1A	9	#2017-02 All-State Weekend
+CA	US101	390	392	#2017-02 All-State Weekend
+CA	CA82	DLCruzBlvd	CRG4	#2017-02 All-State Weekend
 #2017-03 Oregon Washington				
 OR	OR213	ColBlvd	AirWay	#2017-03 Oregon Washington
 OR	I-5	303A	OR/WA	#2017-03 Oregon Washington
@@ -1401,23 +1419,62 @@ OR	US30HisCol	CorHillRd	BriVeilRd	#2017-03 Oregon Washington
 OR	I-5	300A	302B	#2017-03 Oregon Washington
 OR	OR99E	US26	BelSt	#2017-03 Oregon Washington
 #2017-04 Bay Area				
+CA	CA118	18	42A	#2017-04 Bay Area
+CA	I-405	71A	I-5(158)	#2017-04 Bay Area
+CA	I-5	158	446	#2017-04 Bay Area
+CA	I-580	1A	I-5	#2017-04 Bay Area
+CA	US101	438	452	#2017-04 Bay Area
+CA	CA1	FraDraBlvd_E	BearValRd	#2017-04 Bay Area
+CA	CA1	509B	438(101)	#2017-04 Bay Area
+CA	I-280	43B	49B	#2017-04 Bay Area
+CA	I-380	5A	6	#2017-04 Bay Area
+CA	US101	356	423B	#2017-04 Bay Area
+CA	CA82	DLCruzBlvd	WolRd	#2017-04 Bay Area
+CA	CA152	US101(356)	I-5	#2017-04 Bay Area
+CA	CA41	I-5	QuaAve	#2017-04 Bay Area
+CA	CA126	CA23	40	#2017-04 Bay Area
+CA	CA23	CA118_W	CA126	#2017-04 Bay Area
+CA	CA118	TieRejRd	CA23_N	#2017-04 Bay Area
 #2017-07 Double the Fun				
-IL	IL26	IL17	IL18_E	#2017-07 Double the Fun
-IL	IL29	IL6	IL17_E	#2017-07 Double the Fun
-IL	IL351	IL71_E	I-80	#2017-07 Double the Fun
-IL	IL38	I-39	IL23	#2017-07 Double the Fun
-IL	US6	IL351_S	I-39	#2017-07 Double the Fun
+IL	US12	TouAve	CofRd	#2017-07 Double the Fun
 IL	I-294	40B	42	#2017-07 Double the Fun
 IL	I-90	47	77	#2017-07 Double the Fun
-IL	IL17	IL29_S	IL26	#2017-07 Double the Fun
-IL	I-39	59	99	#2017-07 Double the Fun
-IL	IL18	IL26_S	I-39	#2017-07 Double the Fun
-IL	IL23	IL38	DekAve_E	#2017-07 Double the Fun
-IL	IL23	IL64_E	PlaRd	#2017-07 Double the Fun
-IL	IL251	I-80	CR33	#2017-07 Double the Fun
 IL	IL47	CR32	I-90	#2017-07 Double the Fun
+IL	IL23	IL64_E	PlaRd	#2017-07 Double the Fun
+IL	IL23	IL38	DekAve_E	#2017-07 Double the Fun
+IL	IL38	I-39	IL23	#2017-07 Double the Fun
+IL	I-39	59	99	#2017-07 Double the Fun
+IL	I-80	75	79	#2017-07 Double the Fun
+IL	IL251	I-80	CR33	#2017-07 Double the Fun
+IL	IL351	IL71_E	I-80	#2017-07 Double the Fun
+IL	US6	IL351_S	I-39	#2017-07 Double the Fun
+IL	I-39	41	57	#2017-07 Double the Fun
+IL	IL18	IL26_S	I-39	#2017-07 Double the Fun
+IL	IL26	IL17	IL18_E	#2017-07 Double the Fun
+IL	IL17	IL29_S	IL26	#2017-07 Double the Fun
+IL	IL29	IL6	IL17_E	#2017-07 Double the Fun
 IL	IL6	0	9	#2017-07 Double the Fun
+IL	US150	IL91	GlenAve	#2017-07 Double the Fun
+IL	I-74	88	IL/IN	#2017-07 Double the Fun
 IN	I-74	IL/IN	IN/OH	#2017-07 Double the Fun
+OH	I-74	IN/OH	11	#2017-07 Double the Fun
+OH	I-71	3	65	#2017-07 Double the Fun
+OH	US35	72	55	#2017-07 Double the Fun
+OH	US42	ChuSt	BicRd	#2017-07 Double the Fun
+OH	US68	US42	OH235	#2017-07 Double the Fun
+OH	OH235	US68	I-675	#2017-07 Double the Fun
+OH	I-675	22	26	#2017-07 Double the Fun
+OH	I-70	IN/OH	44	#2017-07 Double the Fun
+IN	I-70	83	156	#2017-07 Double the Fun
+IN	I-65	112	259B	#2017-07 Double the Fun
+IN	I-80	IL/IN	11	#2017-07 Double the Fun
+IL	I-94	42	IL/IN	#2017-07 Double the Fun
+IL	IL50	IL19	US14	#2017-07 Double the Fun
+IL	US14	DevAve	US41_W	#2017-07 Double the Fun
+IL	US12	LawAve	IL64	#2017-07 Double the Fun
+IL	IL64	IL83	US12/45	#2017-07 Double the Fun
+IL	I-90	79C	82A	#2017-07 Double the Fun
+IL	I-190	0	ChiOHAir	#2017-07 Double the Fun
 #2017-12 NCI RAS Symposium				
 VA	VA267	1	9A	#2017-12 NCI RAS Symposium
 VA	US15	VA267	VA/MD	#2017-12 NCI RAS Symposium
@@ -1434,24 +1491,68 @@ MD	I-495	38	MD/VA	#2017-12 NCI RAS Symposium
 VA	I-495	MD/VA	45	#2017-12 NCI RAS Symposium
 VA	VA267	9B	18	#2017-12 NCI RAS Symposium
 #2018-02 Encore				
+CA	CA118	18	42A	#2018-02 Encore
+CA	I-405	71A	I-5(158)	#2018-02 Encore
+CA	I-5	158	403	#2018-02 Encore
 CA	CA41	I-5	QuaAve	#2018-02 Encore
+CA	CA152	US101(356)	I-5	#2018-02 Encore
+CA	US101	356	377B	#2018-02 Encore
+CA	CA85	1A	5	#2018-02 Encore
+CA	CA87	1A	9	#2018-02 Encore
+CA	US101	390	402	#2018-02 Encore
+CA	CA85	19A	23	#2018-02 Encore
+CA	I-280	6	12	#2018-02 Encore
 #2018-08 Here's to the Ones Who Dream				
-IL	US66His	I-55BL_LinW	I-55(133)	#2018-08 Here's to the Ones Who Dream
-IL	US66His	LinPkwy_N	SouSt	#2018-08 Here's to the Ones Who Dream
+IL	I-190	1C	ChiOHAir	#2018-08 Here's to the Ones Who Dream
+IL	I-294	23C	40A	#2018-08 Here's to the Ones Who Dream
+IL	US66His	I-55(276C)	I-294	#2018-08 Here's to the Ones Who Dream
+IL	I-55	163	276C	#2018-08 Here's to the Ones Who Dream
+IL	I-74	102	IL/IN	#2018-08 Here's to the Ones Who Dream
+IL	I-155	0	28	#2018-08 Here's to the Ones Who Dream
+IL	US136	I-155	OldUS66	#2018-08 Here's to the Ones Who Dream
+IL	US66His	I-55BL_LinW	2440St	#2018-08 Here's to the Ones Who Dream
 IL	IL121	LinPkwy	I-55	#2018-08 Here's to the Ones Who Dream
+IL	I-55	126	127	#2018-08 Here's to the Ones Who Dream
+IN	I-74	IL/IN	11(465)	#2018-08 Here's to the Ones Who Dream
+IN	SamJonExpy	I-74/465	I-70	#2018-08 Here's to the Ones Who Dream
+IN	I-70	75	90	#2018-08 Here's to the Ones Who Dream
+IN	I-65	80	110B	#2018-08 Here's to the Ones Who Dream
+IN	IN9	IN46	1100S	#2018-08 Here's to the Ones Who Dream
+IN	I-465	35	44	#2018-08 Here's to the Ones Who Dream
+IN	I-65	113	259B	#2018-08 Here's to the Ones Who Dream
+IN	I-80	IL/IN	11	#2018-08 Here's to the Ones Who Dream
+IL	I-94	42	IL/IN	#2018-08 Here's to the Ones Who Dream
 #2018-10 Gold Rush				
-CA	CA113	I-80(70)	37	#2018-10 Gold Rush
-CA	CA49	US50	MotLodeCen	#2018-10 Gold Rush
-CA	I-305	1A	6	#2018-10 Gold Rush
+CA	I-5	518	537	#2018-10 Gold Rush
 CA	US50	1A	CA49	#2018-10 Gold Rush
+CA	CA49	US50	MotLodeCen	#2018-10 Gold Rush
+CA	I-80	70	82	#2018-10 Gold Rush
+CA	CA113	I-80(70)	37	#2018-10 Gold Rush
+CA	I-5BLWoo	I-5_S	CA113	#2018-10 Gold Rush
 #2019-03 To Instagram and Beyond				
+CA	CA118	18	42A	#2019-03 To Instagram and Beyond
+CA	I-405	71A	I-5(158)	#2019-03 To Instagram and Beyond
+CA	I-5	158	162	#2019-03 To Instagram and Beyond
+CA	CA14	I-5	30	#2019-03 To Instagram and Beyond
+CA	US6HisSan	AngForHwy	PeaHwy	#2019-03 To Instagram and Beyond
+CA	CA138	PeaHwy_W	CA18_W	#2019-03 To Instagram and Beyond
+CA	CA18	CA138_W	I-15(150)	#2019-03 To Instagram and Beyond
+CA	I-15	150	CA/NV	#2019-03 To Instagram and Beyond
+NV	I-15	CA/NV	NV/AZ	#2019-03 To Instagram and Beyond
+NV	I-11	75B	93	#2019-03 To Instagram and Beyond
+AZ	I-15	NV/AZ	AZ/UT	#2019-03 To Instagram and Beyond
+UT	I-15	AZ/UT	16	#2019-03 To Instagram and Beyond
+UT	UT9	I-15	UT59	#2019-03 To Instagram and Beyond
+UT	UT59	UT9	AZ/UT	#2019-03 To Instagram and Beyond
 AZ	AZ389	UT/AZ	US89Alt	#2019-03 To Instagram and Beyond
-AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyond
+AZ	US89AltFre	AZ389	AZ/UT	#2019-03 To Instagram and Beyond
+UT	US89AltKan	AZ/UT	US89	#2019-03 To Instagram and Beyond
+UT	US89	AZ/UT	US89Alt	#2019-03 To Instagram and Beyond
+AZ	US89	AZ64	AZ/UT	#2019-03 To Instagram and Beyond
 AZ	AZ98	US89	BIA222	#2019-03 To Instagram and Beyond
-AZ	US89	I-40BL/180	AZ/UT	#2019-03 To Instagram and Beyond
-AZ	US89AltFre	AZ389	AZ/UT	#2019-03
-AZ	I-15	NV/AZ	AZ/UT	#2019-03_2025-09
-AZ	I-40	CA/AZ	AZ/NM	#2019-03_2024-05
+AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyond
+AZ	I-40	CA/AZ	165	#2019-03 To Instagram and Beyond
+CA	I-40	I-15	CA/AZ	#2019-03 To Instagram and Beyond
 #2019-08 Big Island				
 HI	HI19	End	HI11/190	#2019-08 Big Island
 HI	HI270	HI19	End	#2019-08 Big Island
@@ -1461,12 +1562,57 @@ HI	CraRimDr	KilMilCamp	ChaCraRd	#2019-08 Big Island
 HI	ChaCraRd	CraRimDr	HolSeaArch	#2019-08 Big Island
 HI	HI220	HI19	AkaFalSP	#2019-08 Big Island
 #2020-08 Coronacation				
+CA	CA118	CA126	TieRejRd	#2020-08 Coronacation
+CA	CA126	1A	5	#2020-08 Coronacation
+CA	US101	66A	231B	#2020-08 Coronacation
+CA	JBTrlPis	MarSt	US101(202B)	#2020-08 Coronacation
+CA	CA46	US101(231B)	JarRd	#2020-08 Coronacation
+CA	CA246	US101	CA154	#2020-08 Coronacation
+CA	CA154	CA246	US101(101B)	#2020-08 Coronacation
 #2021-06 After the Blip				
-IL	I-39	14	48	#2021-06 After the Blip
-IL	IL23	IL116	I-55	#2021-06 After the Blip
+IL	US12	TouAve	CofRd	#2021-06 After the Blip
+IL	I-294	23C	42	#2021-06 After the Blip
+IL	US66His	I-55(276C)	I-294	#2021-06 After the Blip
+IL	I-55	201	277A	#2021-06 After the Blip
+IL	I-80	75	126	#2021-06 After the Blip
 IL	IL251	I-80	CR33	#2021-06 After the Blip
+IL	IL178	CR14	I-80	#2021-06 After the Blip
+IL	IL251	IL18	20thRd	#2021-06 After the Blip
+IL	IL89	IL116	CR11	#2021-06 After the Blip
+IL	IL18	IL89	I-39	#2021-06 After the Blip
+IL	IL116	DouSt	IL89	#2021-06 After the Blip
+IL	US150	MainSt_Mor	IL117	#2021-06 After the Blip
+IL	I-155	0	28	#2021-06 After the Blip
+IL	I-55	105	127	#2021-06 After the Blip
+IL	IL29	SanAve_E	I-55BL_S	#2021-06 After the Blip
+IL	I-55BLSpr	CookSt_E	IL97	#2021-06 After the Blip
+IL	I-55	98	157	#2021-06 After the Blip
+IL	I-55BLBlo	I-55_S	US51Bus	#2021-06 After the Blip
+IL	US51BusBlo	I-55BL	I-55	#2021-06 After the Blip
+IL	I-55	163	165	#2021-06 After the Blip
+IL	I-74	102	127	#2021-06 After the Blip
+IL	IL117	US150	US24	#2021-06 After the Blip
+IL	US24	IL117	OldUS66	#2021-06 After the Blip
 IL	US66His	US24	IL23_N	#2021-06 After the Blip
+IL	IL116	IL23	N2100E	#2021-06 After the Blip
+IL	IL23	IL116	I-55	#2021-06 After the Blip
+IL	I-190	0	1C	#2021-06 After the Blip
+IL	I-90	79C	82A	#2021-06 After the Blip
+IL	US14	DevAve	US41_W	#2021-06 After the Blip
+IL	IL50	IL19	US14	#2021-06 After the Blip
 #2021-09 Chicago				
+IL	US12	TouAve	CofRd	#2021-09 Chicago
+IL	US14	GroPoiRd	IL50	#2021-09 Chicago
+IL	IL50	I-94	US41	#2021-09 Chicago
+IL	I-94	39	66A	#2021-09 Chicago
+IL	US41	IL50	OldOrcRd	#2021-09 Chicago
+IL	I-90	79C	82A	#2021-09 Chicago
+IL	I-190	0	1C	#2021-09 Chicago
+IL	I-294	31A	40A	#2021-09 Chicago
+IL	I-88	127	139	#2021-09 Chicago
+IL	IL53	US34	I-88	#2021-09 Chicago
+IL	I-290	13	15	#2021-09 Chicago
+IL	IL64	IL83	RaiAve	#2021-09 Chicago
 #2021-12 Kauai Oahu				
 HI	HI51	HI58	HI56	#2021-12 Kauai Oahu
 HI	HI570	HI56	End	#2021-12 Kauai Oahu
@@ -1489,41 +1635,59 @@ HI	I-H3	1B	14	#2021-12 Kauai Oahu
 HI	HI65	I-H3	KanBayDr_E	#2021-12 Kauai Oahu
 HI	HI72	KeoDr	AinAve	#2021-12 Kauai Oahu
 #2022-03 Pacific Southwest Symposium				
-#2022-04 Dad Turns 90				
+CA	CA23	12	19	#2022-03 Pacific Southwest Symposium
+CA	US101	33	43	#2022-03 Pacific Southwest Symposium
+CA	CA1	1(10)	CRN1	#2022-03 Pacific Southwest Symposium
+CA	I-10	1	3	#2022-03 Pacific Southwest Symposium
+CA	I-405	I-5(94A)	53B	#2022-03 Pacific Southwest Symposium
+CA	CA213	DelAmoBlvd	I-405	#2022-03 Pacific Southwest Symposium
+CA	I-5	29	94A	#2022-03 Pacific Southwest Symposium
+CA	US101HisSan	LaJolVlgDr	GenAve	#2022-03 Pacific Southwest Symposium
+CA	I-5	23	28B	#2022-03 Pacific Southwest Symposium
+CA	I-5	20	23A	#2022-03 Pacific Southwest Symposium
+CA	I-8	SunCliBlvd	4B	#2022-03 Pacific Southwest Symposium
+CA	CA163	3	I-15	#2022-03 Pacific Southwest Symposium
+CA	I-15	12	14	#2022-03 Pacific Southwest Symposium
+CA	US395HisPow	I-15(14)	ScrPowPkwy	#2022-03 Pacific Southwest Symposium
+CA	I-805	25B	I-5(31)	#2022-03 Pacific Southwest Symposium
 #2022-09 Washington State				
 WA	AirExpy	WA518	Ter	#2022-09 Washington State
-WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
-WA	I-405	11	14	#2022-09 Washington State
+WA	WA518	AirExpy	I-5	#2022-09 Washington State
 WA	I-405	I-5(154)	10	#2022-09 Washington State
-WA	I-5	105	132	#2022-09 Washington State
-WA	I-5	164	166	#2022-09 Washington State
-WA	I-90	31	85	#2022-09 Washington State
 WA	I-90	WA519	25	#2022-09 Washington State
-WA	UppHohRd	US101	HohVisCen	#2022-09 Washington State
-WA	US101	US12	WA20	#2022-09 Washington State
-WA	US101	WA8	BlaLakeBlvd	#2022-09 Washington State
-WA	US12	US101	WA8	#2022-09 Washington State
-WA	US97	US97Alt_N	WA153	#2022-09 Washington State
-WA	US97	WA970	US97Alt_S	#2022-09 Washington State
-WA	US97AltEnt	US97_S	US97_N	#2022-09 Washington State
-WA	WA153	US97	WA20	#2022-09 Washington State
-WA	WA16	I-5	WA3	#2022-09 Washington State
-WA	WA169	154thPl	WA900	#2022-09 Washington State
-WA	WA20	CouPorFry	EngRd	#2022-09 Washington State
-WA	WA20	MainSt_Cou	WA153	#2022-09 Washington State
-WA	WA202	RedWay	187thAve	#2022-09 Washington State
 WA	WA202	WA203	I-90	#2022-09 Washington State
-WA	WA20Por	US101	PorCouFry	#2022-09 Washington State
-WA	WA20SprAna	WA20	AnaFry	#2022-09 Washington State
+WA	I-90	31	85	#2022-09 Washington State
+WA	WA970	I-90	US97	#2022-09 Washington State
+WA	US97	WA970	US97Alt_S	#2022-09 Washington State
 WA	WA285	SteSt	US2/97	#2022-09 Washington State
+WA	US97AltEnt	US97_S	US97_N	#2022-09 Washington State
+WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
+WA	US97	US97Alt_N	WA153	#2022-09 Washington State
+WA	WA153	US97	WA20	#2022-09 Washington State
+WA	WA20	MainSt_Cou	WA153	#2022-09 Washington State
+WA	WA20SprAna	WA20	AnaFry	#2022-09 Washington State
+WA	I-5	227	230	#2022-09 Washington State
+WA	WA538	I-5	HorLn	#2022-09 Washington State
+WA	WA20	CouPorFry	EngRd	#2022-09 Washington State
+WA	WA20Por	US101	PorCouFry	#2022-09 Washington State
+WA	US101	US12	WA20	#2022-09 Washington State
+WA	HurRidRd	ParkAve	MtAngRd	#2022-09 Washington State
+WA	UppHohRd	US101	HohVisCen	#2022-09 Washington State
+WA	WA113	US101	WA112	#2022-09 Washington State
+WA	US12	US101	WA8	#2022-09 Washington State
+WA	WA8	US12	US101	#2022-09 Washington State
+WA	US101	WA8	BlaLakeBlvd	#2022-09 Washington State
+WA	I-5	105	132	#2022-09 Washington State
+WA	WA16	I-5	WA3	#2022-09 Washington State
 WA	WA3	WA16	WA305	#2022-09 Washington State
 WA	WA305	WinFry	WA3	#2022-09 Washington State
-WA	WA518	AirExpy	I-5	#2022-09 Washington State
+WA	WA519	WA99	YesWay	#2022-09 Washington State
+WA	I-5	164	166	#2022-09 Washington State
+WA	WA202	RedWay	187thAve	#2022-09 Washington State
 WA	WA520	I-405	LakSamPkwy	#2022-09 Washington State
-WA	WA8	US12	US101	#2022-09 Washington State
+WA	I-405	11	14	#2022-09 Washington State
 WA	WA900	148thSt	I-90	#2022-09 Washington State
-WA	WA970	I-90	US97	#2022-09 Washington State
-WA	WA971	LakRd	US97Alt_N	#2022-09 Washington State
+WA	WA169	154thPl	WA900	#2022-09 Washington State
 #2022-10 NCI RAS Symposium				
 VA	VA267	9B	I-66	#2022-10 NCI RAS Symposium
 VA	I-66	67	VA/DC	#2022-10 NCI RAS Symposium
@@ -1545,21 +1709,45 @@ VA	US15	VA7_E	VA/MD	#2022-10 NCI RAS Symposium
 VA	VA7	US15/7Bus	VA28	#2022-10 NCI RAS Symposium
 VA	VA28	DulAirRd	VA7	#2022-10 NCI RAS Symposium
 #2022-12 Cesar Chavez				
-CA	CA14	I-5	CA58Bus_W	#2022-12 Cesar Chavez
+CA	CA118	18	42A	#2022-12 Cesar Chavez
+CA	I-10	3	4	#2022-12 Cesar Chavez
 CA	I-405	53B	I-5(158)	#2022-12 Cesar Chavez
 CA	I-5	158	221	#2022-12 Cesar Chavez
-CA	CA58	CA223	165	#2022-12 Cesar Chavez
+CA	CA14	I-5	CA58Bus_W	#2022-12 Cesar Chavez
 CA	CA58BusMoj	CA58(165)	CA14_N	#2022-12 Cesar Chavez
-CA	CA99	I-5(221)	13	#2022-12 Cesar Chavez
+CA	CA58	CA223	165	#2022-12 Cesar Chavez
 CA	CA223	CA99	CA58	#2022-12 Cesar Chavez
-CA	I-10	3	4	#2022-12 Cesar Chavez
+CA	CA99	I-5(221)	13	#2022-12 Cesar Chavez
 #2023-01 Welfare Check				
+IL	US12	TouAve	CofRd	#2023-01 Welfare Check
+IL	US41	US14	IL50	#2023-01 Welfare Check
+IL	IL43	I-290	IL21	#2023-01 Welfare Check
+IL	I-290	15A	21B	#2023-01 Welfare Check
+IL	I-88	139	I-290	#2023-01 Welfare Check
+IL	I-294	23C	31A	#2023-01 Welfare Check
+IL	US66His	I-55(276C)	I-294	#2023-01 Welfare Check
+IL	I-55	165	292	#2023-01 Welfare Check
+IL	US30	I-55	IL7	#2023-01 Welfare Check
+IL	I-80	105	126	#2023-01 Welfare Check
 IL	US6	IL23/71	SenRd	#2023-01 Welfare Check
+IL	IL170	DupRd	US6	#2023-01 Welfare Check
+IL	IL23	IL71_W	US6/71	#2023-01 Welfare Check
+IL	IL178	CR14	US6	#2023-01 Welfare Check
+IL	I-39	14	48	#2023-01 Welfare Check
+IL	US24	US24BusWas_E	I-39	#2023-01 Welfare Check
+IL	US24BusWas	MainSt	US24_E	#2023-01 Welfare Check
+IL	US150	MainSt_Mor	IL117	#2023-01 Welfare Check
+IL	IL117	I-74	US150	#2023-01 Welfare Check
+IL	I-74	112	125	#2023-01 Welfare Check
+IL	US150	I-74(125)	CR18	#2023-01 Welfare Check
+IL	US51BusBlo	US150/9	I-55	#2023-01 Welfare Check
+IL	I-94	39	53B	#2023-01 Welfare Check
+IL	IL58	US14/43	I-94	#2023-01 Welfare Check
 #2023-04 AACR Orlando				
 FL	FL528	1	37	#2023-04 AACR Orlando
 FL	FL407	FL528	I-95	#2023-04 AACR Orlando
 FL	I-95	212	244	#2023-04 AACR Orlando
-FL	FL50	PlaDr	CatWay	#2023-04 AACR Orlando
+FL	FL50	PlaDr	US1	#2023-04 AACR Orlando
 FL	FL406	I-95	US1	#2023-04 AACR Orlando
 FL	US1	KenPkwy	FL44/A1A	#2023-04 AACR Orlando
 FL	FLA1ANSB	CRA1A	FL44	#2023-04 AACR Orlando
@@ -1567,9 +1755,60 @@ FL	FL44DeL	WalRd	FLA1A	#2023-04 AACR Orlando
 FL	FL442	I-95	US1	#2023-04 AACR Orlando
 FL	FL482	I-4	IntDr	#2023-04 AACR Orlando
 #2023-06 New Jersey New York				
-NJ	I-287	36	41	#2023-06 New Jersey New York
-NY	NY25A	NY101	NY106	#2023-06 New Jersey New York
+NJ	NJ81	I-95	NorAve	#2023-06 New Jersey New York
+NJ	I-95	8A	13A	#2023-06 New Jersey New York
+NJ	US1	AleRd	ScuMillRd	#2023-06 New Jersey New York
+NJ	I-295	68A	73	#2023-06 New Jersey New York
+NJ	US206	CR583	I-295	#2023-06 New Jersey New York
+NJ	US1BusTre	US1_S	US206	#2023-06 New Jersey New York
+NJ	US1	WarSt	US1Bus_S	#2023-06 New Jersey New York
+NJ	NJ29	CalSt	CR546	#2023-06 New Jersey New York
+PA	PA32	PA532	PA532AltTrk_S	#2023-06 New Jersey New York
+NJ	NJ27	US206	CR571	#2023-06 New Jersey New York
+NJ	US206	NJ27	US206Byp_S	#2023-06 New Jersey New York
+NJ	US206BypHil	US206_S	US206_N	#2023-06 New Jersey New York
+NJ	US206	US206Byp_N	I-287(17)	#2023-06 New Jersey New York
+NJ	I-287	17	33	#2023-06 New Jersey New York
+NJ	US202	GlenAlpRd	NJ124	#2023-06 New Jersey New York
+NJ	I-287	34	41	#2023-06 New Jersey New York
+NJ	I-80	43	57	#2023-06 New Jersey New York
+NJ	US46	SmiRd	NewRd	#2023-06 New Jersey New York
+NJ	NJ124	JamSt	I-287	#2023-06 New Jersey New York
+NJ	I-280	I-80	9	#2023-06 New Jersey New York
+NJ	NJ23	CR506/577	BraAve	#2023-06 New Jersey New York
+NJ	NJ24	I-287	I-78	#2023-06 New Jersey New York
+NJ	I-78	48	JerCityBlvd	#2023-06 New Jersey New York
+NJ	NJ185	NJ440	LinAve	#2023-06 New Jersey New York
+NJ	NJ440Jer	NY/NJ	NJ185	#2023-06 New Jersey New York
+NY	NY440	10	NY/NJ	#2023-06 New Jersey New York
+NY	I-278	8	16	#2023-06 New Jersey New York
+NY	BeltPkwy	3	11	#2023-06 New Jersey New York
+NY	BeltPkwy	17	25	#2023-06 New Jersey New York
+NY	CroIslPkwy	25A	33	#2023-06 New Jersey New York
+NY	I-495	31	68	#2023-06 New Jersey New York
+NY	NY25A	EShoRd	CoveRd	#2023-06 New Jersey New York
+NY	NY101	NY25A	BeaHillRd	#2023-06 New Jersey New York
+NY	NY27	41	58	#2023-06 New Jersey New York
+NY	RobMosCswy	RobMosSP	SouStaPkwy	#2023-06 New Jersey New York
+NY	NY27A	NY231	RobMosCswy	#2023-06 New Jersey New York
+NY	SouStaPkwy	CroIslPkwy	40	#2023-06 New Jersey New York
+NY	I-295	7	10	#2023-06 New Jersey New York
+NY	I-695	I-295	I-95	#2023-06 New Jersey New York
+NY	I-95	7	13	#2023-06 New Jersey New York
+NY	NY22	US1	SanBlvd	#2023-06 New Jersey New York
+NY	US1	NY22	HutRivPkwy	#2023-06 New Jersey New York
+NY	HutRivPkwy	1A	4B	#2023-06 New Jersey New York
+NY	I-278	47	I-95	#2023-06 New Jersey New York
+NY	I-87	I-278	1(MDE)	#2023-06 New Jersey New York
+NY	HenHudPkwy	8	11	#2023-06 New Jersey New York
+NY	NY495	NJ/NY	34thSt	#2023-06 New Jersey New York
+NJ	NJ495	I-95	NJ/NY	#2023-06 New Jersey New York
+NJ	I-95	14	16E	#2023-06 New Jersey New York
+NJ	I-78	58	59	#2023-06 New Jersey New York
+NJ	US1	NJ81	I-78(58)	#2023-06 New Jersey New York
+NJ	NJ27	HayAve	US22	#2023-06 New Jersey New York
 #2023-09 Illinois				
+				
 #2024-02 Where There is a Will				
 IL	US6	RidRd	I-55	#2024-02 Where There is a Will
 #2024-04 AACR San Diego				
@@ -1631,18 +1870,20 @@ IL	I-155	0	I-74
 IL	I-190	0	ChiOHAir	
 IL	I-355	7A	I-290	
 IL	I-474	0	15	
+IL	I-55BLBlo	I-55_S	I-55_N	
 IL	US12	OakSt	IL64	
 IL	US14	US12/45	US41_E	
 IL	US24	I-474(9)	MainSt_Was	
 IL	US24BusWas	US24_W	US24_E	
 IL	US41	57thDr	WasSt	
 IL	US150	OraPraRd	MainSt_Mor	
+IL	US51BusBlo	US51_S	I-55	
 IL	IL9	CouSt	US51Bus	
 IL	IL19	I-90/94	US41	
 IL	IL29	IL9_W	DetDr	
 IL	IL40	I-74(94)	DetDr	
+IL	IL43	I-290	US41	
 IL	IL50	IL19	US41	
-IL	IL64	IL83	US12/45	
 #CA non-trip driving routes				
 CA	I-5	16A	156B	
 CA	I-5TrkNew	I-5_S	CA14	
@@ -1657,6 +1898,7 @@ CA	CA1	5thSt	62B(101)
 CA	CA1	ElSegBlvd	OxnBlvd	
 CA	CA19	I-10	I-210	
 CA	CA23	CA1	CA126	
+CA	CA34	RiceAve	CA118	
 CA	CA39	KatAve	I-5	
 CA	CA57	1A	25B	
 CA	CA73	I-5	18	
@@ -1674,6 +1916,7 @@ CA	US80HisSan	I-5	ZooDr
 CA	US101HisSan	ConWay	RosSt	
 CA	US395HisPow	I-15(14)	CamNor	
 #Las Vegas				
+NV	I-11	14	93	
 NV	NV147	PecRd	LkMeadNRA	#2023-07
 NV	NV564	I-11/215	LkMeadNRA	#2019-08
 #Not curated yet				
@@ -1689,15 +1932,12 @@ CA	CA22	I-405(21)	13
 CA	CA232	EspDr	CA118	
 CA	CA27	CA1	CA118	
 CA	CA33	US101	CA150_E	
-CA	CA34	RiceAve	CA118	
 CA	CA37	US101	21	
 CA	CA4	5	12B	
 CA	CA55	11A	14	
 CA	CA60	I-10(16B)	I-10(93)	
 CA	CA76	I-5	RanOroDr	#Pacific Crest
-CA	CA82	I-880	WolRd	
 CA	CA85	1C	5	
-CA	CA87	1A	6A	
 CA	CA90	CA1	2	
 CA	CA91	45	65B	#2014-11 SCSBOA
 CA	I-10	1	CA/AZ	
@@ -1705,7 +1945,6 @@ CA	I-110	9	21
 CA	I-215	I-15	34	
 CA	I-710	1B	ValBlvd	
 CA	JBTrlLos	18A(10)	1D(101)	
-CA	JBTrlPis	MarSt	US101(202B)	
 CA	US101BusSal	HarrRd	CA183_S	
 CA	US101BusVen	US101_S	US101_N	
 CA	US66HisAzu	CA134	HillAve	
@@ -1717,8 +1956,6 @@ CA	US66HisHol	I-10	WilBlvd
 CA	US66HisSPa	MonRd	CA110	
 CA	US95	GofRd	CA/NV	
 IL	I-290	I-90	I-90/94	
-IL	I-55BLBlo	I-55_S	I-55_N	
-IL	I-90	WI/IL	IL/IN	
 IL	IL116	CR13	N2100E	
 IL	IL116	CR78	MaxRd	
 IL	IL116	HarHwy	IL117_S	
@@ -1728,29 +1965,24 @@ IL	IL137	IL83	SheRd
 IL	IL176	US45	IL131	
 IL	IL21	IL43	I-94	
 IL	IL22	US45/21	US41	
-IL	IL43	I-290	US41	
 IL	IL50	I-290	US41	
 IL	IL53	I-55(267)	I-88	
 IL	IL53	I-90	KirRd	
 IL	IL58	IL72	US41	
 IL	IL60	US45	US41	
 IL	IL64	I-90/94	US41	
-IL	IL64	IL83	US12/45	
 IL	IL68	US45/21	I-94	
 IL	IL72	RosRd	DevAve	
 IL	IL8	FarRd	US24	
 IL	IL83	I-55	IL56	
 IL	IL98	IL29	I-155	
 IL	LMCT	SouBlvd	US14_W	
-IL	US136	1stSt	I-74	
 IL	US30	I-55	IL7	
 IL	US41	57thDr	WasSt	
 IL	US51	I-72(141)	I-90(1)	
-IL	US51BusBlo	US51_S	I-55	
 NV	CATrl	NV206_N	US395_S	
 NV	CR215	12	28	
 NV	HRAirCon	I-215	RusRd	
-NV	I-11	14	93	
 NV	I-215	1	12	
 NV	NV146	SouHigPkwy	I-215	
 NV	NV159	RedRockRd	CR215	

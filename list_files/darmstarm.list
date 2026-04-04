@@ -14,7 +14,7 @@ DE US13 DE1(119) DE6_E #smyrna
 DE US13 MD/DE AdaRd
 DE US13BusWil DE52 DE202
 DE US113 DE1 DE20_E #holt's landing trip 2017
-DE US301 5 MD/DE
+DE US301 DE1 MD/DE #various trips to raleigh, clinched easter 2026
 DE DE1 DE4 DE26
 DE DE1A DE1_N DE1_S
 DE DE1B DE1A DE1
@@ -188,6 +188,7 @@ MD MD213 US40 MD290/313
 MD MD214 MD978_E MD424 #raleigh -> home thanksgiving 2025
 MD MD222 MD276 US1 #road trip 7-19-25
 MD MD231 MD5 MD381 #raleigh -> home thanksgiving 2025
+MD MD234 US301 PenHillRd #raleigh -> home easter 2026
 MD MD268 MainSt MD279
 MD MD272 MD/PA I-95 #two parts
 MD MD272 OldElkRd DarRd
@@ -241,7 +242,7 @@ NC I-485 30 32
 NC I-540 4 26 #roadtrip 11-16-25
 NC I-840 6 21 #spring break road trip 2026 (blacksburg -> raleigh)
 NC I-885 5 13 #completed 9-25
-NC US1 NC2 US401_N #update 10-25 wingate trip
+NC US1 NC2 NC/VA #update 10-25 wingate trip update 4-26 raleigh -> home easter 2026
 NC US15 NC/VA I-85(202)
 NC US15 NC73 71(1) #wingate trip 10-25
 NC US15 I-40 FraSt #unc track meet(s)
@@ -476,6 +477,7 @@ VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experi
 VA I-664 13 15
 VA US1 I-95(161) VA123 #baltimore -> raleigh 9-25
 VA US1 I-85(63) VA142 #petersburg half 2024
+VA US1 NC/VA US460Bus_E #raleigh -> home easter 2026
 VA US11 I-81(73) VA80 #spring break road trip 2026 (raleigh -> breaks)
 VA US11 VA8 VA111_N #spring break road trip 2026 (shawnee -> blacksburg)
 VA US13 I-64(282) VA/MD 
@@ -507,11 +509,13 @@ VA US522 US340_S US340_N #shanendoah trip 2020 (specifically, a detour to see di
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
 VA VA8 US58_E US11 #fall break trip 10-25, spring break trip 2026
 VA VA10 I-95 RivBendBlvd #raleigh -> home thanksgiving 2025
+VA VA10 VA156Bus_S I-95 #raleigh -> home easter 2026
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA27 I-395 BouDr #hershey trip 2025
 VA VA30 SR652 US301/2 #thanksgiving return trip 2025
 VA VA36 BankSt SieRd #petersburg half 2024 (ran, not driven)
+VA VA36 US1/460Bus VA156Bus_N #raleigh -> home easter 2026
 VA VA36Bol BolSt_E US301_N #petersburg half 2024
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
@@ -525,6 +529,7 @@ VA VA111 US11/460Bus US460Bus #spring break road trip 2026 (shawnee -> blacksbur
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
 VA VA144 I-95 US1/301_S #hershey trip 2025
 VA VA151 VA6_E US250 #raleigh -> hershey 2024
+VA VA156BusHop VA36_W VA10_W #raleigh -> home easter 2026
 VA VA207 US301 I-95
 #VA VA253 I-81 university blvd #shanendoah trip 10-25
 VA VA280 SR710 US33 #shanendoah trip 10-25
@@ -618,7 +623,7 @@ KY KY2325 KY70 KY259 #spring break road trip 2026 (mammoth)
 KY KY2872 US25/421 I-75 #spring break road trip 2026 (breaks -> (bucees) -> mammoth)
 KY KY2951 KY338 US25 #spring break road trip 2026 (louisville -> shawnee)
 KY KY3174 KY80 US23/119 #spring break road trip 2026 (breaks -> mammoth)
-#indiana
+#indiana - first visited 3-19-26
 In LCTrl StaSt BroStaWay_E #spring break road trip 2026 ("the quick indiana shimmy")
 IN I-64 IN/KY 123 #spring break road trip 2026 ("the quick indiana shimmy")
 IN I-65 1 1A #spring break road trip 2026 ("the quick indiana shimmy")
