@@ -1,12 +1,16 @@
 #US Routes --------------------------------------------------------------
 #Amtrak:
-CA PS OldTownTC Ir                      #CA PA; Pacific Surfliner
+CA PS OldTownTC Irv                     #CA PA; Pacific Surfliner
 MO LI StLouGat IL LI UniSta             #IL LI; Lincoln Service
 
 
 #State Routes -----------------------------------------------------------
 #Atlanta MARTA:
 GA GoldLn Air PeaCen
+
+#San Diego
+CA GreLn GasQua +DIV_Blue_N
+
 
 #Chicago L:
 IL SkoSwi DemSko How
