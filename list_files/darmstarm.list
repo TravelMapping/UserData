@@ -152,6 +152,7 @@ MD I-895SprFur I-895 I-895SprFer #thanksgiving return trip 2025
 MD I-895SprFer I-895SprFur I-695
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
+MD US1BusBel MD23 US1_N
 MD US13 VA/MD US13BusSal_S #two parts
 MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
@@ -160,6 +161,7 @@ MD US15 MD/PA 12 #hershey -> raleigh
 MD US29 25 I-495 #baltimore -> raleigh 9-25
 MD US40 MD7Elk MD7/155
 MD US40 US15_N I-70(53) #hershey -> raleigh
+MD US40 MD43 MD152 #this is as far as i know. we apparently had a "really bad traffic day where we needed to take 40 home" but got on i-95 at an unknown point
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
 MD US301 MD/DE VA/MD
 MD US340 10 VA/MD #harper's ferry trip
@@ -169,6 +171,7 @@ MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
 MD MD23 US1 SchRd #en route to grandparents
 MD MD41 I-695 JopRd #micro center
+MD MD43 I-695 US40
 MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD140 I-795 US15 #cunningham falls trip
