@@ -42,10 +42,15 @@ CO DENTrn JepTer CGat                   #DEN
 #Florida:
 FL SkyTrn 1 4                           #MIA
 FL ETrn E2 E20                          #MIA
+FL MiaM IntCen MIA                      #MIA
 FL GateLinkTBW TerB Air3                #MCO
 
 #Georgia:
 GA PlaTrn DomTer FGatIntTer             #ATL
+GA SkyTrn Air RenCarCen                 #ATL
+
+#Illinois
+IL AirTraSys Ter1 MulModFac             #ORD
 
 #Michigan:
 MI ExpTram SouSta NorSta                #DTW
@@ -57,9 +62,13 @@ MN MSPTram ConDE ConAB                  #MSP
 NV BlueLn Ter1 DGat                     #LAS
 NV GreLn Ter1 CGat                      #LAS
 
+#New Jersey
+NJ AirTrn TerC +SKIP_EmpOnly            #EWR
+
 #Texas:
 TX Sky A8 A21                           #DFW
 TX IAHSky TerA TerDE                    #IAH
+TX IAHSub TerA TerD/E                   #IAH
 
 #Virginia:
 VA AerTrn ConB ConA                     #IAD
