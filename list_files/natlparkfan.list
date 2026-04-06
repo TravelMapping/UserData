@@ -76,7 +76,7 @@ IL	I-55	163	250	#1989-1992 Chapter Camp
 IL	I-80	126	IL/IN	#1989-1992 Chapter Camp
 IN	I-94	IL/IN	IN/MI	#1989-1992 Chapter Camp
 MI	I-94	IN/MI	108	#1989-1992 Chapter Camp
-MI	I-69	IN/MI	89	#1989-1992 Chapter Camp
+MI	I-69	38	89	#1989-1992 Chapter Camp
 MI	US127	82	I-75	#1989-1992 Chapter Camp
 MI	I-75	249	USA/CAN	#1989-1992 Chapter Camp
 MI	MI134	I-75	PirBayRd	#1989-1992 Chapter Camp
@@ -1459,7 +1459,8 @@ IL	I-74	88	IL/IN	#2017-07 Double the Fun
 IN	I-74	IL/IN	IN/OH	#2017-07 Double the Fun
 OH	I-74	IN/OH	11	#2017-07 Double the Fun
 OH	I-71	3	65	#2017-07 Double the Fun
-OH	US35	72	55	#2017-07 Double the Fun
+OH	OH435	US35(70)	I-71	#2017-07 Double the Fun
+OH	US35	70	55	#2017-07 Double the Fun
 OH	US42	ChuSt	BicRd	#2017-07 Double the Fun
 OH	US68	US42	OH235	#2017-07 Double the Fun
 OH	OH235	US68	I-675	#2017-07 Double the Fun
@@ -1755,10 +1756,10 @@ FL	FL44DeL	WalRd	FLA1A	#2023-04 AACR Orlando
 FL	FL442	I-95	US1	#2023-04 AACR Orlando
 FL	FL482	I-4	IntDr	#2023-04 AACR Orlando
 #2023-06 New Jersey New York				
-NJ	NJ81	I-95	NorAve	#2023-06 New Jersey New York
+NJ	NJ81	I-95	US1/9	#2023-06 New Jersey New York
 NJ	I-95	8A	13A	#2023-06 New Jersey New York
 NJ	US1	AleRd	ScuMillRd	#2023-06 New Jersey New York
-NJ	I-295	68A	73	#2023-06 New Jersey New York
+NJ	I-295	68A	75A	#2023-06 New Jersey New York
 NJ	US206	CR583	I-295	#2023-06 New Jersey New York
 NJ	US1BusTre	US1_S	US206	#2023-06 New Jersey New York
 NJ	US1	WarSt	US1Bus_S	#2023-06 New Jersey New York
@@ -1808,29 +1809,262 @@ NJ	I-78	58	59	#2023-06 New Jersey New York
 NJ	US1	NJ81	I-78(58)	#2023-06 New Jersey New York
 NJ	NJ27	HayAve	US22	#2023-06 New Jersey New York
 #2023-09 Illinois				
-				
+IL	US12	TouAve	CofRd	#2023-09 Illinois
+IL	US14	GroPoiRd	US41_W	#2023-09 Illinois
+IL	IL50	I-94	TouAve	#2023-09 Illinois
+IL	I-94	34B	39	#2023-09 Illinois
+IL	IL58	US14/43	I-94	#2023-09 Illinois
+IL	IL43	US14/58	WilRd	#2023-09 Illinois
+IL	I-94	41C	IL/IN	#2023-09 Illinois
+IN	I-80	IL/IN	15	#2023-09 Illinois
+IN	I-65	259B	US12/20	#2023-09 Illinois
+IN	US12	I-65	US20_Gar	#2023-09 Illinois
+IN	IN51	I-80/94	US20	#2023-09 Illinois
+IL	I-80	126	IL/IN	#2023-09 Illinois
+IL	IL1	187thSt	I-80/294	#2023-09 Illinois
+IL	I-55	163	292	#2023-09 Illinois
+IL	I-74	88	127	#2023-09 Illinois
 #2024-02 Where There is a Will				
+IL	US12	TouAve	CofRd	#2024-02 Where There is a Will
+IL	IL58	I-294	IL43_N	#2024-02 Where There is a Will
+IL	I-94	29	37	#2024-02 Where There is a Will
+IL	US41	I-94_W	CouLinRd	#2024-02 Where There is a Will
+IL	IL58	US14/43	I-94	#2024-02 Where There is a Will
+IL	US41	IL50	IL58	#2024-02 Where There is a Will
+IL	IL50	I-94	US41	#2024-02 Where There is a Will
+IL	I-94	42	66A	#2024-02 Where There is a Will
+IL	I-290	15A	28A	#2024-02 Where There is a Will
+IL	IL43	I-290	IL64	#2024-02 Where There is a Will
+IL	I-88	131	I-290	#2024-02 Where There is a Will
+IL	I-355	12	20A	#2024-02 Where There is a Will
+IL	I-55	163	269	#2024-02 Where There is a Will
 IL	US6	RidRd	I-55	#2024-02 Where There is a Will
+IL	IL23	IL116	I-55	#2024-02 Where There is a Will
+IL	IL116	IL23	N2100E	#2024-02 Where There is a Will
+IL	US66His	US24	IL23/116	#2024-02 Where There is a Will
+IL	I-74	102	127	#2024-02 Where There is a Will
+IL	I-80	126	131	#2024-02 Where There is a Will
+IL	I-80	132	148	#2024-02 Where There is a Will
+IL	US30	CenSt_N	WesAve	#2024-02 Where There is a Will
+IL	US6	US52/53	US30/53	#2024-02 Where There is a Will
+IL	IL43	I-80	US6	#2024-02 Where There is a Will
+IL	I-57	346	358	#2024-02 Where There is a Will
 #2024-04 AACR San Diego				
+CA	US101HisSan	ConWay	RosSt	#2024-04 AACR San Diego
+CA	I-8	SunCliBlvd	4B	#2024-04 AACR San Diego
+CA	CA163	3	I-15	#2024-04 AACR San Diego
+CA	I-15	12	14	#2024-04 AACR San Diego
+CA	US395HisPow	I-15(14)	SprCynRd	#2024-04 AACR San Diego
+CA	I-15	16	96	#2024-04 AACR San Diego
+CA	CA91	45	51	#2024-04 AACR San Diego
+CA	CA71	CA91	CA57	#2024-04 AACR San Diego
+CA	CA57	22C	25B	#2024-04 AACR San Diego
+CA	I-210	6	45	#2024-04 AACR San Diego
+CA	CA118	18	46B	#2024-04 AACR San Diego
 #2024-04 Amgen Offsite Monterery				
-CA	CA68	CA1(401B)	US101	#2024-04 Amgen Offsite Monterey
+CA	CA23	12	19	#2024-04 Amgen Offsite Monterery
+CA	US101	43	323	#2024-04 Amgen Offsite Monterery
+CA	CA154	US101(146)	US101(101B)	#2024-04 Amgen Offsite Monterery
+CA	CA41	US101	SycRd	#2024-04 Amgen Offsite Monterery
+CA	US101BusSal	US101_S	BlaRd	#2024-04 Amgen Offsite Monterery
+CA	CA1	401A	408	#2024-04 Amgen Offsite Monterery
+CA	CA68	CA1(401B)	BlaRd	#2024-04 Amgen Offsite Monterey
 #2024-05 Wagons Ho				
-IL	I-72	MO/IL	97	#2024-05 Wagons Ho
-AZ	I-40BLHol	US180/77	AirRd	#2024-05 Wagons Ho
+IL	US12	IL72	CofRd	#2024-05 Wagons Ho
+IL	IL72	US12/45	DevAve	#2024-05 Wagons Ho
+IL	US14	DevAve	US41_W	#2024-05 Wagons Ho
+IL	IL64	IL43	IL50	#2024-05 Wagons Ho
+IL	IL50	I-290	US14	#2024-05 Wagons Ho
+IL	I-90	79C	82A	#2024-05 Wagons Ho
+IL	I-190	0	1C	#2024-05 Wagons Ho
+IL	I-294	31A	40A	#2024-05 Wagons Ho
+IL	I-88	132	139	#2024-05 Wagons Ho
+IL	I-355	15	20B	#2024-05 Wagons Ho
+IL	I-94	44B	74	#2024-05 Wagons Ho
+IL	I-80	126	160	#2024-05 Wagons Ho
+IL	I-55	163	250	#2024-05 Wagons Ho
+IL	IL116	I-55	OldUS66	#2024-05 Wagons Ho
+IL	I-74	93	127	#2024-05 Wagons Ho
+IL	IL8	I-74	US24Bus_E	#2024-05 Wagons Ho
+IL	I-155	0	28	#2024-05 Wagons Ho
+IL	I-55	98	127	#2024-05 Wagons Ho
+IL	IL97	I-55BL	WalSt_Spr	#2024-05 Wagons Ho
+IL	I-55BLSpr	I-55_S	CookSt_E	#2024-05 Wagons Ho
+IL	I-72	31	97	#2024-05 Wagons Ho
+IL	I-72	MO/IL	20	#2024-05 Wagons Ho
+MO	I-72	US61	MO/IL	#2024-05 Wagons Ho
+MO	US61	US61BusNLo/19	I-72	#2024-05 Wagons Ho
+MO	MO19	US54_E	US61/61Bus	#2024-05 Wagons Ho
+MO	US54	WMainSt	MO19_N	#2024-05 Wagons Ho
+MO	US63	US54/94	MOsAC	#2024-05 Wagons Ho
+MO	LCTrl	MOsAC	MO740	#2024-05 Wagons Ho
+MO	MO740	I-70	MO163	#2024-05 Wagons Ho
+MO	I-70	15	124	#2024-05 Wagons Ho
+MO	MO291	I-470(16B)	TruRd	#2024-05 Wagons Ho
+MO	CATrl	TruRd_E	MO12_W	#2024-05 Wagons Ho
+MO	MO12	I-435	SprSt	#2024-05 Wagons Ho
+MO	I-435	60	MO/KS	#2024-05 Wagons Ho
+KS	I-435	MO/KS	77B	#2024-05 Wagons Ho
+KS	US69	US54_E	BlueValPkwy	#2024-05 Wagons Ho
+KS	US54	US169	CraSt	#2024-05 Wagons Ho
+KS	US169	US54	KS58	#2024-05 Wagons Ho
+KS	KS58	MainSt_LeR	US169	#2024-05 Wagons Ho
+KS	US75	17thRd	I-35	#2024-05 Wagons Ho
+KS	I-35	127A	155	#2024-05 Wagons Ho
+KS	US50	KS150	I-35(127A)	#2024-05 Wagons Ho
+KS	KS177	US50	CRFF	#2024-05 Wagons Ho
+KS	KS150	US56/77	US50	#2024-05 Wagons Ho
+KS	US56	KS156_W	US77_S	#2024-05 Wagons Ho
+KS	KS156	OldKS242	US56_W	#2024-05 Wagons Ho
+KS	KS96	MainSt_Hei	PatRd	#2024-05 Wagons Ho
+KS	US281	KS4_W	I-70	#2024-05 Wagons Ho
+KS	I-70	184	193	#2024-05 Wagons Ho
+KS	US281	KS18_E	US24_E	#2024-05 Wagons Ho
+KS	US24	US281_N	LakeDr	#2024-05 Wagons Ho
+KS	KS181	US24/9	US36/281	#2024-05 Wagons Ho
+KS	US281	US36_E	KS191	#2024-05 Wagons Ho
+KS	KS191	CRAA	US281	#2024-05 Wagons Ho
+KS	US36	US183_S	US281_N	#2024-05 Wagons Ho
+KS	US183	US24	US36_E	#2024-05 Wagons Ho
+KS	US24	CouClubDr	US183	#2024-05 Wagons Ho
+KS	I-70	CO/KS	53	#2024-05 Wagons Ho
+KS	KS27	CR55	8thSt	#2024-05 Wagons Ho
+CO	I-70	437	CO/KS	#2024-05 Wagons Ho
+CO	US385	2ndSt_W	I-70	#2024-05 Wagons Ho
+CO	US40	US287_S	US385_N	#2024-05 Wagons Ho
+CO	US287	CO96_E	US40_E	#2024-05 Wagons Ho
+CO	CO96	US287_S	US385_S	#2024-05 Wagons Ho
+CO	US385	US50/400	CO96_W	#2024-05 Wagons Ho
+CO	US50	CO194	CR27	#2024-05 Wagons Ho
+CO	CO194	CO109	US50	#2024-05 Wagons Ho
+CO	CO109	CO109Trk	CO194	#2024-05 Wagons Ho
+CO	US50	US350	CO109Trk	#2024-05 Wagons Ho
+CO	US350	US160	US50	#2024-05 Wagons Ho
+CO	US160	I-25(15)	US350	#2024-05 Wagons Ho
+CO	I-25	NM/CO	13B	#2024-05 Wagons Ho
+CO	I-25	14	15	#2024-05 Wagons Ho
+CO	CO12	AniSt	I-25	#2024-05 Wagons Ho
+NM	I-25	307	NM/CO	#2024-05 Wagons Ho
+NM	I-25BLRat	I-25_S	SugAve	#2024-05 Wagons Ho
+NM	NM555	CR20A	I-25BL	#2024-05 Wagons Ho
+NM	US64	I-25BL_N	NM325_W	#2024-05 Wagons Ho
+NM	NM325	US64/87_W	NM456	#2024-05 Wagons Ho
+NM	NM161	I-25(366)	FtUniNM	#2024-05 Wagons Ho
+NM	NM63	I-25	NM50/223	#2024-05 Wagons Ho
+NM	NM50	I-25	NM63/223	#2024-05 Wagons Ho
+NM	I-25	227	299	#2024-05 Wagons Ho
+NM	US66HisAbq	I-40(159A)	OsuRd	#2024-05 Wagons Ho
+NM	I-40	155	157B	#2024-05 Wagons Ho
+NM	NM45	I-40	WesTr	#2024-05 Wagons Ho
+NM	I-40	22	154	#2024-05 Wagons Ho
+NM	NM609	HasValRd	I-40BL	#2024-05 Wagons Ho
+NM	I-40BLGal	NM610	NM609	#2024-05 Wagons Ho
+NM	NM609	US491	NM610	#2024-05 Wagons Ho
+NM	US491	I-40(20)	NM609	#2024-05 Wagons Ho
+NM	I-40	AZ/NM	20	#2024-05 Wagons Ho
+AZ	I-40	311	AZ/NM	#2024-05 Wagons Ho
 AZ	PetForRd	US180	I-40	#2024-05 Wagons Ho
 AZ	US180	I-40BL/77	PetForRd	#2024-05 Wagons Ho
+AZ	I-40BLHol	US180/77	AirRd	#2024-05 Wagons Ho
+AZ	I-40	255	286	#2024-05 Wagons Ho
+AZ	I-40BLWin	I-40_W	I-40_E	#2024-05 Wagons Ho
+AZ	I-40	CA/AZ	252	#2024-05 Wagons Ho
 AZ	WalCanRd	I-40	VisCen	#2024-05 Wagons Ho
-AZ	I-40BLWin	I-40_W	I-40_E	#2024-05
-AZ	I-40	CA/AZ	AZ/NM	#2024-05
+AZ	I-40BLWil	I-40_W	RodRd	#2024-05 Wagons Ho
+CA	I-40	78	CA/AZ	#2024-05 Wagons Ho
 CA	US66HisBar	AmbRd	KelRd	#2024-05 Wagons Ho
+CA	CA62	LearAve	UtahTr	#2024-05 Wagons Ho
 CA	ParkBlvd	CA62_W	CA62_E	#2024-05 Wagons Ho
+CA	CA62	I-10	ParkBlvd	#2024-05 Wagons Ho
+CA	I-10	77B	117	#2024-05 Wagons Ho
+CA	CA210	45	85	#2024-05 Wagons Ho
+CA	I-210	6	45	#2024-05 Wagons Ho
+CA	CA118	18	46B	#2024-05 Wagons Ho
 #2024-08 The Farewell				
+IL	US12	TouAve	CofRd	#2024-08 The Farewell
+IL	US14	GroPoiRd	US41_W	#2024-08 The Farewell
+IL	I-90	79C	82A	#2024-08 The Farewell
+IL	I-190	0	1C	#2024-08 The Farewell
+IL	I-294	23C	40A	#2024-08 The Farewell
+IL	IL64	IL83	I-290	#2024-08 The Farewell
+IL	I-290	13	17	#2024-08 The Farewell
+IL	US12	I-290	IL38	#2024-08 The Farewell
+IL	IL43	CerRd	I-290	#2024-08 The Farewell
+IL	I-290	23A	I-90/94	#2024-08 The Farewell
+IL	I-94	42	51H	#2024-08 The Farewell
+IL	US66His	I-55(276C)	I-294	#2024-08 The Farewell
+IL	I-55	163	277A	#2024-08 The Farewell
+IL	I-74	102	127	#2024-08 The Farewell
+IL	IL19	I-90/94	SheRd	#2024-08 The Farewell
 #2024-10 Going to the DMV				
-DC	I-295	MD/DC	5	
-DC	I-395	7	10	
-DC	I-495	VA/DC	DC/MD	
-DC	I-695	I-395	2A	
-DC	I-95	VA/DC	DC/MD	
+VA	VA28	SudRd	SR606	#2024-10 Going to the DMV
+VA	US50	VA28	I-66(57)	#2024-10 Going to the DMV
+VA	I-66	47	64	#2024-10 Going to the DMV
+VA	VA123	US29/50	I-66	#2024-10 Going to the DMV
+VA	US50	VA123	I-495	#2024-10 Going to the DMV
+VA	VA243	US29/237	VA123	#2024-10 Going to the DMV
+VA	VA123	VA243	VA7	#2024-10 Going to the DMV
+VA	VA267	15	18	#2024-10 Going to the DMV
+VA	I-495	MD/VA	49	#2024-10 Going to the DMV
+VA	GWMemPkwy	DC/VA	I-495	#2024-10 Going to the DMV
+DC	GWMemPkwy	VA/DC	DC/VA	#2024-10 Going to the DMV
+VA	GWMemPkwyCry	1stSt	VA/DC	#2024-10 Going to the DMV
+VA	VA400	GeoWasPkwy	1stSt	#2024-10 Going to the DMV
+VA	VA7	CalDr	VA400	#2024-10 Going to the DMV
+VA	GWMemPkwyMtV	VA235	VA400	#2024-10 Going to the DMV
+VA	VA235	US1_S	SR623_N	#2024-10 Going to the DMV
+VA	US1	VA286	VA235_S	#2024-10 Going to the DMV
+VA	VA286	US1	I-95	#2024-10 Going to the DMV
+VA	I-95	130	170	#2024-10 Going to the DMV
+VA	I-495	50	VA/DC	#2024-10 Going to the DMV
+VA	US29	US50_E	VA338	#2024-10 Going to the DMV
+VA	VA7	I-66	US29	#2024-10 Going to the DMV
+VA	VA237	US29_N	SycSt	#2024-10 Going to the DMV
+VA	I-66	69	72	#2024-10 Going to the DMV
+VA	US29	I-66(72)	VA124	#2024-10 Going to the DMV
+VA	VA124	US29	SpoRunPkwy	#2024-10 Going to the DMV
+VA	SpoRunPkwy	VA124	GeoWasPkwy	#2024-10 Going to the DMV
+VA	I-395	10A	10B	#2024-10 Going to the DMV
+VA	VA27	VA244_E	BouDr	#2024-10 Going to the DMV
+VA	US29	I-66(73A)	VA/DC	#2024-10 Going to the DMV
+DC	US29	VA/DC	I-66	#2024-10 Going to the DMV
+DC	RockCrkPkwy	VirAve	BeaDr	#2024-10 Going to the DMV
+DC	BeaDr	RockCrkPkwy	HarSt	#2024-10 Going to the DMV
+DC	US50	US1_N	I-395	#2024-10 Going to the DMV
+MD	MD614	MacBlvd	MD396	#2024-10 Going to the DMV
+MD	MD396	MD614	MD/DC	#2024-10 Going to the DMV
+DC	I-395	7	10	#2024-10 Going to the DMV
+DC	I-695	I-395	2A	#2024-10 Going to the DMV
+DC	I-295	MD/DC	5	#2024-10 Going to the DMV
+MD	I-295	I-95/495	MD/DC	#2024-10 Going to the DMV
+MD	I-95	2	3	#2024-10 Going to the DMV
+MD	MD210	MD373	MD/DC	#2024-10 Going to the DMV
+MD	MD210	MD227	MD228	#2024-10 Going to the DMV
+MD	MD227	MD210	MD224	#2024-10 Going to the DMV
+MD	MD6	RoseHillRd	US301	#2024-10 Going to the DMV
+MD	US301	VA/MD	MD6	#2024-10 Going to the DMV
+VA	US301	VA218	*OldUS301	#2024-10 Going to the DMV
+VA	VA218	US301	VA205	#2024-10 Going to the DMV
+VA	VA205	VA218	SR630	#2024-10 Going to the DMV
+VA	VA205	SR631	VA3_E	#2024-10 Going to the DMV
+VA	VA3	VA3BusFre_E	VA204	#2024-10 Going to the DMV
+VA	VA204	VA3	End	#2024-10 Going to the DMV
+VA	VA3BusFre	CoolSprRd	VA3_E	#2024-10 Going to the DMV
+VA	VA218	US1/17Bus	FerRd	#2024-10 Going to the DMV
+VA	US17BusFre	US1Bus_S	US17_N	#2024-10 Going to the DMV
+VA	US17	I-95(133)	CelVirPkwy	#2024-10 Going to the DMV
+VA	US1BusFre	HarRd	US1_N	#2024-10 Going to the DMV
+VA	VA3	OraPlaRd	US1Bus	#2024-10 Going to the DMV
+MD	I-495	23	MD/VA	#2024-10 Going to the DMV
+MD	MD201	MD193	I-95/495	#2024-10 Going to the DMV
+MD	MD193	MD201	BalWasPkwy_W	#2024-10 Going to the DMV
+MD	BalWasPkwy	US50/201	I-95/495	#2024-10 Going to the DMV
+MD	MD201	DC/MD	US50	#2024-10 Going to the DMV
+DC	DC295	1A	NashSt	#2024-10 Going to the DMV
+MD	MD414	MD210	JohnHanLn	#2024-10 Going to the DMV
+DC	I-95	VA/DC	DC/MD	#2024-10 Going to the DMV
+VA	VA234BusMan	SudRd_S	VA234_N	#2024-10 Going to the DMV
+VA	VA234	I-66(47)	US29	#2024-10 Going to the DMV
 #2024-10 Eastern Sierras				
 CA	CA88	CA89_N	CA/NV	#2024-10 Eastern Sierras
 CA	CA89	CA88_W	BliSP	#2024-10 Eastern Sierras
@@ -1883,7 +2117,6 @@ IL	IL19	I-90/94	US41
 IL	IL29	IL9_W	DetDr	
 IL	IL40	I-74(94)	DetDr	
 IL	IL43	I-290	US41	
-IL	IL50	IL19	US41	
 #CA non-trip driving routes				
 CA	I-5	16A	156B	
 CA	I-5TrkNew	I-5_S	CA14	
@@ -1913,7 +2146,6 @@ CA	CA56	1A	9
 CA	CA78	1A	SanDieZoo	
 CA	CA163	ASt	I-15	
 CA	US80HisSan	I-5	ZooDr	
-CA	US101HisSan	ConWay	RosSt	
 CA	US395HisPow	I-15(14)	CamNor	
 #Las Vegas				
 NV	I-11	14	93	
@@ -1965,7 +2197,6 @@ IL	IL137	IL83	SheRd
 IL	IL176	US45	IL131	
 IL	IL21	IL43	I-94	
 IL	IL22	US45/21	US41	
-IL	IL50	I-290	US41	
 IL	IL53	I-55(267)	I-88	
 IL	IL53	I-90	KirRd	
 IL	IL58	IL72	US41	
