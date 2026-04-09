@@ -69,6 +69,7 @@ AZ I-40BLAsh I-40_W I-40_E
 AZ I-40BLWil I-40_W I-40_E
 AZ I-40BLSel ChiSt_W I-40_E
 AZ I-10BLQua I-10_W I-10_E
+AZ I-10BLBen I-10_W I-10_E
 
 #AZ_Other
 
@@ -129,6 +130,7 @@ AZ US60HisMes May SosRd
 AZ US70HisMes May SosRd
 AZ US80HisMes May SosRd
 AZ US89HisMes SosRd May
+AZ US80HisPan I-10(281) I-10(291)
 
 #CA_Interstates
 
