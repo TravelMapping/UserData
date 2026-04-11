@@ -233,6 +233,13 @@ MI	I-94	IN/MI	213B	#1993-11 John and Liz
 MI	I-96	190A	192B	#1993-11 John and Liz
 ON	ON3Win	AmbBrg	ON401(5)	#1993-11 John and Liz
 ON	ON401	5	183	#1993-11 John and Liz
+#1994-08 Conference Point				
+IL	US41	IL50	IL176	#1994-08 Conference Point
+IL	IL43	I-94	IL137	#1994-08 Conference Point
+IL	IL22	I-94	IL43	#1994-08 Conference Point
+IL	I-94	WI/IL	21	#1994-08 Conference Point
+WI	I-94	344	WI/IL	#1994-08 Conference Point
+WI	WI50	GenSt	I-94	#1994-08 Conference Point
 #1994-10 Saugatuck				
 IL	I-94	42	IL/IN	#1994-10 Saugatuck
 IN	I-94	IL/IN	IN/MI	#1994-10 Saugatuck
@@ -1765,7 +1772,7 @@ NJ	NJ81	I-95	US1/9	#2023-06 New Jersey New York
 NJ	I-95	8A	13A	#2023-06 New Jersey New York
 NJ	US1	AleRd	ScuMillRd	#2023-06 New Jersey New York
 NJ	I-295	68A	76	#2023-06 New Jersey New York
-NJ	US206	CR583	I-295	#2023-06 New Jersey New York
+NJ	US206	US1Bus	I-295	#2023-06 New Jersey New York
 NJ	US1BusTre	US1_S	US206	#2023-06 New Jersey New York
 NJ	US1	WarSt	US1Bus_S	#2023-06 New Jersey New York
 NJ	NJ29	CalSt	CR546	#2023-06 New Jersey New York
@@ -2171,7 +2178,7 @@ UT	UT148	UT143	UT14	#2025-09 Great Basin
 UT	UT143	SugLoafRd	ASt	#2025-09 Great Basin
 UT	KolCynRd	I-15	End	#2025-09 Great Basin
 UT	I-15BLStG	700E	I-15_N	#2025-09 Great Basin
-AZ	I-15	NV/AZ	AZ/UT	#2025-09
+AZ	I-15	NV/AZ	AZ/UT	#2025-09 Great Basin
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	
@@ -2206,6 +2213,7 @@ IL	IL68	US45/21	I-94
 IL	IL72	RosRd	DevAve	
 IL	IL72	IL171	I-90(80)	
 IL	IL83	I-55	IL56	
+IL	IL83	IL137	IL120	
 IL	IL98	IL29	I-155	
 IL	IL116	CR78	MaxRd	
 IL	IL116	HarHwy	IL117_S	
@@ -2258,6 +2266,7 @@ CA	CA150	SanAnaRd_S	CA126
 CA	CA170	5	11B	
 CA	CA217	UCSB	3	
 CA	CA232	EspDr	CA118	
+CA	JBTrlLos	18A(10)	1D(101)	
 CA	US66HisAzu	CA134	HillAve	
 CA	US66HisAzu	SanAniAve	BueVisSt	
 CA	US66HisAzu	GraAve	MonVisAve	
