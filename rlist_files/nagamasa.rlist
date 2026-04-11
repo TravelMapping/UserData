@@ -58,7 +58,7 @@ QC OraLn LioGro MonRoy
 CHE 18Gen GareCor CHE 18Gen CERN
 
 ## TRAIN
-CHE L6 +DIV_Air GenCor
+CHE IC1 GenAer GenCor
 
 #### CHN
 ### CRH
@@ -81,7 +81,7 @@ CHN-GD GFLn LiJiao XiLang
 CHN-GD SZMLn1 LuoHu CheGongMiao
 CHN-GD SZMLn2 LianTangChe GangXiaBei
 CHN-GD SZMLn3 ShoPar LianHuaCun
-CHN-GD SZMLn4 ConExhCen HongShan
+CHN-GD SZMLn4 FuTianChe HongShan
 CHN-GD SZMLn6 SciMus HongShan
 CHN-GD SZMLn10 FuTianChe DongGuaLing
 CHN-GD SZMLn11 CheGongMiao Airport
@@ -410,9 +410,9 @@ JPN OkaHigaTm H01 H05
 
 ## HIROSHIMA TRAM
 JPN Hiroden1 M1 U1
-JPN Hiroden2 M1 M39
-JPN Hiroden3 M19 U1
-JPN Hiroden6 M5 M10
+JPN Hiroden2 M1 M38
+JPN Hiroden3 M18 U1
+JPN Hiroden6 M4 M9
 
 ## FUKUOKA SUBWAY
 JPN KukoLn K06 K13
