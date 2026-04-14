@@ -6,7 +6,7 @@
 
 #### ARE (UAE)
 ARE RedLn AirTer1 SobRea
-ARE GreenLn Bur AlRas
+ARE GreLn Bur AlRas
 ARE DXBTram DubMarMal DubMar_E
 
 #### AUS
@@ -27,7 +27,7 @@ BC MilLn VCCCla ComBro
 
 ### CAN-ON
 ## GO TRANSIT 
-ON KT Kit Uni
+ON KI Kit Uni
 ON LE Uni Osh
 ON LWNia Uni NiaFal
 ON RH Uni RicHill
@@ -243,7 +243,7 @@ JPN TobuKegon TS01 TN25
 ## JR HOKKAIDO
 JPN ChitoseLn H14 01
 JPN HakodateLn S15 01
-JPN ChitoseAirLn H14 AP15
+JPN ChitoseLnAir H14 AP15
 
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
@@ -355,18 +355,18 @@ JPN NnrDazaifuLn T13 D02
 
 ### SUBWAYS & TRAMS
 ## SAPPORO SUBWAY
-JPN SapNambokuLn N06 N09
-JPN SapTozaiLn T01 T10
+JPN NambokuLnSa N06 N09
+JPN TozaiLnSa T01 T10
 
 ## SENDAI SUBWAY
-JPN SenTozaiLn T05 T08
+JPN TozaiLnSen T05 T08
 
 ## TOKYO METRO
 JPN GinzaLn G01 G19
 JPN MarunouchiLn M08 M14
 JPN MarunouchiLn M15 M25
 JPN HibiyaLn H01 H22
-JPN TokTozaiLn T01 T23
+JPN TozaiLnTo T01 T23
 JPN ChiyodaLn C01 C19
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z01 Z14
@@ -392,14 +392,14 @@ JPN SakuradoriLn S02 S05
 
 ## KYOTO SUBWAY
 JPN KarasumaLn K09 K11
-JPN KyoTozaiLn T12 T17
+JPN TozaiLnKyo T12 T17
 
 ## OSAKA SUBWAY
 JPN KitakyuNambokuLn M06 M11
 JPN MidosujiLn M11 M26
 JPN TanimachiLn T20 T27
 JPN YotsubashiLn Y11 Y21
-JPN OskChuoLn C11 C19
+JPN ChuoLnO C11 C19
 JPN SennichiLn S12 S18
 JPN SakaisujiLn K11 K20
 JPN NagahoriLn N15 N27
@@ -429,7 +429,7 @@ JPN 3Mat 17 24
 ## OTHER JAPAN ONE-OFFS
 JPN InaLn NS01 NS02
 JPN TsukubaExpress TX01 TX10
-JPN AccExpHaneda KK17 KS42
+JPN AccExpHan KK17 KS42
 JPN TokMon MO01 MO11
 JPN RinkaiLn R03 R08
 JPN YurikamomeLn U01 U16
@@ -463,7 +463,7 @@ LUX T1 LuxExpo Ham
 MAC TaipaLn TerMar PaiKok
 
 #### NLD
-NLD IC35 AmsCen SchAir
+NLD AmsDis AmsCen SchAir
 NLD 52Ams Rok StaZuid
 
 #### NOR
@@ -499,7 +499,7 @@ SWE 3Got KunPla CenSta
 #### THAILAND
 ### BANGKOK
 THA ARL A1 A8
-THA DarkRed RN01 RN08
+THA DarkRedLn RN01 RN08
 THA BlueLn BL31 BL11
 THA PinkLn PK14 PK16
 THA SilLn CEN S7
@@ -632,7 +632,7 @@ WA YelLn AGat DGat
 WA BlueLn AGat_Sta AGat_Fin
 
 ## ASIA
-ARE DXBTer1APM Ter1 ConD
+ARE DXBAPMTer1 Ter1 ConD
 CHN-SH PVGWestLn T1 S1
 HKG HKGAPM T1E T1Mid
 JPN KIXNWing Main Edge
@@ -643,4 +643,3 @@ TWN TPESkyS Ter1 Ter2
 ## EUROPE
 CHE SkyMet AirCen DockE
 FRA-IDF LISA PorK PorM
-
