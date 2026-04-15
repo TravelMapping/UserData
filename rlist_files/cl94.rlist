@@ -1,5 +1,5 @@
 CZE S1 +DIV_S4 Kol
-CZE S2Jih Let BrnoHlaNad\
+CZE S2Jih Let BrnoHlaNad
 CZE S3Jih BrnoHlaNad +DIV_S51
 CZE S10 Kol Pre
 CZE S51Jih Sak Bre
@@ -210,7 +210,22 @@ WA YelLn AGat DGat
 
 WV CassSceRR CassDep BaldKnob
 
+AUT S1 +DIV_S2S7 +DIV_REX1
+AUT S3 WienFlo WienMie
+AUT S7 WienFlo WienStMarx
+AUT S45 WienHut Wien Han
+AUT S80 WienHau WienErzKarlStr
 AUT S2Vor Fel AUT/LIE
+AUT U1 Leo Obe
+AUT U2 Kar See
+AUT U3 Ott Sim
+AUT U4 WienHut WienHei
+AUT U6 Flo Sie
+AUT 1Wie Schr OperKar
+AUT 10Wie Maro Hie
+AUT 11Wie Reu Sim
+AUT 26Wie Flo Pri
+AUT 71Wie Bor StMarx
 
 DEU-BW RE6a StuHbf Mos
 DEU-BW RB63 HerBerg TubHbf
