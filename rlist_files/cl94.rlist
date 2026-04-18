@@ -214,7 +214,7 @@ AUT ICE62 SalHau GrazHau
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S3 WienFlo WieNeuHau
 AUT S7 WienFlo WienStMarx
-AUT S45 WienHut Wien Han
+AUT S45 WienHut WienHan
 AUT S80 WienHau WienErzKarlStr
 AUT S1Ste BruMur GrazHau
 AUT S9Ste BruMur Mur
