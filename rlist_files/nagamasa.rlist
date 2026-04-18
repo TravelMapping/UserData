@@ -70,28 +70,28 @@ CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
 CHN-GD GuangZhu ZhongShanN ZhuHai
 
 ## GUANGZHOU METRO
-CHN-GD GZMLn1 GuangZhouERaiSta HuangSha
-CHN-GD GZMLn3 HanXiChangLong CanTow
-CHN-GD GZMLn6 CulPar BeiJingLu
-CHN-GD GZMLn7 GuangZhouS HanXiChangLong
-CHN-GD GZMLn8 TongFuXi TongDe
-CHN-GD GFLn LiJiao XiLang
+CHN-GD 1GZ GuangZhouERaiSta HuangSha
+CHN-GD 3GZ HanXiChangLong CanTow
+CHN-GD 6GZ CulPar BeiJingLu
+CHN-GD 7GZ GuangZhouS HanXiChangLong
+CHN-GD 8GZ TongFuXi TongDe
+CHN-GD GF LiJiao XiLang
 
 ## SHENZHEN METRO
-CHN-GD SZMLn1 LuoHu CheGongMiao
-CHN-GD SZMLn2 LianTangChe GangXiaBei
-CHN-GD SZMLn3 ShoPar LianHuaCun
-CHN-GD SZMLn4 FuTianChe HongShan
-CHN-GD SZMLn6 SciMus HongShan
-CHN-GD SZMLn10 FuTianChe DongGuaLing
-CHN-GD SZMLn11 CheGongMiao Airport
+CHN-GD 1SZ LuoHu CheGongMiao
+CHN-GD 2SZ LianTangChe GangXiaBei
+CHN-GD 3SZ ShoPar LianHuaCun
+CHN-GD 4SZ FuTianChe HongShan
+CHN-GD 6SZ SciMus HongShan
+CHN-GD 10SZ FuTianChe DongGuaLing
+CHN-GD 11SZ CheGongMiao Airport
 
 ### SH
 ## SHANGHAI METRO
-CHN-SH SHMLn2 LiuJiaZui LongYangRd
-CHN-SH SHMLn7 WGaoKeRd YaoHuaRd
-CHN-SH SHMLn10 ENanJingRd YuYuanGar
-CHN-SH SHMLn13 MaDangRd ShiBoAve
+CHN-SH 2 LiuJiaZui LongYangRd
+CHN-SH 7 WGaoKeRd YaoHuaRd
+CHN-SH 10 ENanJingRd YuYuanGar
+CHN-SH 13 MaDangRd ShiBoAve
 CHN-SH Maglev LongYangRd PuDongAirTer12
 
 #### DEU
@@ -468,8 +468,8 @@ NLD 52Ams Rok StaZuid
 
 #### NOR
 NOR FLY2 NatThe OsloLuf
-NOR RE20 OsloS NOR RE20 NOR/SWE
-NOR F1 OsloS NOR/SWE
+NOR RE20 OsloS SWE RE20 Got
+NOR F1 OsloS StoCen
 
 NOR 12Osl AkerBry Jer
 
@@ -484,9 +484,7 @@ SGP TE TE17 TE22
 #### SWE
 ### STOCKHOLM
 ## RAIL
-SWE 43Sto Bal StoCity
-SWE 40Sto StoCity +DIV_Gro
-SWE 48Sto SodSyd Gne
+SWE StoOsl StoCen NOR StoOsl OsloS
 
 ##METRO
 SWE 17Sto RadGat Slu
@@ -508,12 +506,12 @@ THA GoldLn G1 G2
 
 #### TWN
 TWN HSR TPE TAY
-TWN TYAir A1 A13
-TWN RedLn R02 R28
-TWN GreLn G10 G19
-TWN OraLnHui O06 O11
-TWN BlueLn BL11 BL23
-TWN BroLn BR13 BR09
+TWN A A1 A13
+TWN R R02 R28
+TWN G G10 G19
+TWN OHui O06 O11
+TWN BL BL11 BL23
+TWN BR BR13 BR09
 
 #### USA
 ## AMTRAK
