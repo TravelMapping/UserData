@@ -1856,6 +1856,7 @@ MI I-75BSSau I-75 SugIslFer
 MI I-94 0 142
 MI I-94 180 248
 MI I-94BLJac US127Bus_N MI106
+#Removed from Louis Glick/Washington Ave pair and relocated onto Louis Glick and Michigan Ave between Wildwood Ave and Cooper St (MI 106)
 MI I-96 1A 183
 MI I-96 190A I-75
 MI I-196 0 77
@@ -1885,6 +1886,7 @@ MI US41 MI35Esc_S ManRd_N
 MI US45 MI28 MI26
 MI US127 OH/MI I-75
 MI US127BusJac US127_S US127_N
+#Removed from Louis Glick/Washington Ave pair and relocated onto Louis Glick and Michigan Ave between Wildwood Ave and Cooper St (MI 106)
 MI US131 IN/MI US31
 MI US131BusThr US131_S MI60/86
 MI US223 OH/MI US127
@@ -1923,6 +1925,7 @@ MI MI46 MI52 MI83
 MI MI46 MI15 MI53
 MI MI49 OH/MI US12_W
 MI MI50 US127_N US24
+#Removed from Louis Glick/Washington Ave pair and relocated onto Louis Glick and Michigan Ave between Wildwood Ave and Cooper St (MI 106)
 MI MI51 IN/MI I-94(56)
 MI MI52 OH/MI MI43_W
 MI MI52 I-69 MI46
@@ -4675,9 +4678,7 @@ PA SeaTrl OH/PA PA5Alt_Kel
 PA SeaTrl PA5Alt_EriW PA5Alt_EriE
 PA SeaTrl PA5Alt_Law PA/NY
 PA SeaTrlPre PA5Alt MarDr
-PA LinHwy BraAve US30_FayW
-PA LinHwy US30_FayE US30_OrtW
-PA LinHwy US30_McK MouRd
+PA LinHwy BraAve MouRd
 PA NatRd WV/PA US40_CenW
 PA NatRd PA481_N US40_CenE
 PA NatRd US40_MalW US40_MalE
@@ -5858,7 +5859,7 @@ DEU-HH Ring1 NeuJunSti B4_E
 DEU-NI A7 HH/NI 36
 DEU-NI A7 44 NI/HE
 DEU-NI A39Lun A7 6
-DEU-NI B209_N B216
+DEU-NI A39Lun B209_N B216
 DEU-NI B4 B216 B209_W
 DEU-NI B209 A7 NI/SH
 DEU-NI B216 B4/B209 L221
