@@ -1,4 +1,4 @@
-# Date: 2026-03-22
+# Date: 2026-04-19
 # ----------------
 # ----------------
 
@@ -6,6 +6,10 @@
 ####   RAILWAYS   ####
 ######################
 
+DEU-BY RB73 KemHbf PfrSte                                       #2026
+DEU-BY S7Pfr PfrSte DEU-BY S7Tir GarPar                         #2026
+DEU-BY RB6 MunPas Mit                                           #2026
+DEU-BY S6Tir GarPar AUT S6Tir InnHau                            #2026
 AUT S1Sal Bur SalHau                                            #2026
 AUT S11Sal Ost Bur                                              #2026
 CHE IC3 ZurHau +DIV_S4                                          #2026, actually traveled as RJX 161 Zürich HB - Sargans - Feldkirch
@@ -293,9 +297,12 @@ AUT 6Gra SmaCityPetTunGas StPet       #2023
 AUT 7Gra LKHMedUniKliNord Jak         #2023
 
 #Innsbruck
+AUT 1Inn MuhBru Ber                   #2026
 AUT 2Inn Per JosKerStr                #2023
 AUT 3Inn Sil_1 Amr                    #2023
 AUT 5Inn TecWest Rum                  #2023
+AUT 6Inn +DIV_A MuhBru                #2026
+AUT 6Inn +DIV_B BruStrBFI             #2026
 
 #Linz
 AUT 1Lin Hau Auw                      #2024
