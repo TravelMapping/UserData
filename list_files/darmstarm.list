@@ -252,6 +252,7 @@ NC US1 NC2 NC/VA #update 10-25 wingate trip update 4-26 raleigh -> home easter 2
 NC US15 NC/VA I-85(202)
 NC US15 NC73 71(1) #wingate trip 10-25
 NC US15 I-40 FraSt #unc track meet(s)
+NC US15 I-85(202) NC50/56 #uva track meet 4-26
 NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
 NC US19E CRSchRd NC197_S #BRR 9-25. east to jacks creek rd
 NC US29 I-485(32) MalCreRd
@@ -284,6 +285,7 @@ NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
 NC NC50 US70_W LynnRd #technically to SR 1822
+NC NC50 US15 LynnRd #uva track meet 4-26
 NC NC54 I-440(3) BluRidRd #campus
 NC NC54 I-40(290) AviPkwy #att
 NC NC54 I-40(273) US15/501_S #crapel hill
@@ -492,6 +494,7 @@ VA US15 NC/VA VA20
 VA US15BusFar US15_S US460Bus_E #panorama farms
 VA US29 VA86 VA6_W #raleigh -> hershey
 VA US29 US33 I-64 #shanendoah trip 10-25
+VA US29BusChr US250Bus US29_N #uva track meet 4-26
 VA US33 VA280 US29 #shanendoah trip 10-25
 VA US52 VA/NC I-81(80) #spring break road trip 2026 (raleigh -> breaks)
 VA US58 I-95 I-664
@@ -502,6 +505,7 @@ VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
 VA US220 US58_E SR609 #fall break trip 10-25
 VA US220 US58_W NC/VA #spring break road trip 2026 (blacksburg -> raleigh)
 VA US250 VA151 I-64(99) #raleigh -> hershey
+VA US250BusChr US250_W US29Bus #uva track meet 4-26
 VA US301 VA207 VA/MD
 VA US301 VA30 I-295 #thanksgiving return trip 2025
 VA US301 I-95(52) US1_S #petersburg half 2024 (ran, not driven)
