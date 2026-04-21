@@ -9,7 +9,6 @@ NLD RS1 Lee Gro
 NLD RS2 Lee HarHav
 NLD RS4 Gro Eem
 NLD RS5 Del Vee
-NLD RE6 Gro +DIV_RS5
 NLD RE8 Zwo Gro
 NLD RS11 Nij Roe
 NLD RS12 Roe MaaRan
@@ -17,7 +16,7 @@ NLD RE13 DEU/NLD Ven
 NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 NLD RS18 MaaRan KerCen
-NLD RE19 DEU/NLD ArnCen
+NLD RE19 NLD/DEU ArnCen
 NLD RE20 Zwo Emm
 NLD RS21 Alm Har
 NLD RS24 Zut Old
@@ -85,7 +84,7 @@ NLD 52Ams Noo StaZuid
 NLD 53Ams CenSta Gaa
 NLD 54Ams CenSta StaBijAre
 
-NLD A VlaWest Ale
+NLD A SchCen Ale
 NLD B HoekHolHav Ale
 NLD C Akk Terp
 NLD D RotCen Akk
@@ -105,6 +104,7 @@ NLD 26Ams CenSta Ijb
 NLD 1Haa ZwaPad StaDel
 NLD 2Haa GroMar DenHaagCen
 NLD 3Haa Hel CenWest_2
+NLD 4Haa HMCWes LanZoe
 NLD 9Haa ZwaPad KalSta
 NLD 34Haa SavLoh LanZoe
 
@@ -143,6 +143,7 @@ LUX T1 RoutBrePaf StaPlazEto
 
 ##  BY - Bayern
 DEU-BY ICE11 BW/BY MunHbf
+DEU-BY ICE18 TH/BY BamBerg
 DEU-BY ICE41 HE/BY WurHbf
 DEU-BY ICE62 MunHbf DEU/AUT
 DEU-BY ICE91 RegHbf DEU/AUT
@@ -154,11 +155,11 @@ DEU-BY RE54 HE/BY +DIV_ICEN
 
 ##  BE - Berlin
 DEU-BE ICE77 BB/BE BerHbf
+DEU-BE ICE11 GesBru BE/BB
 
 DEU-BE RE1 BB/BE OstKre
 DEU-BE RE2 Spa OstKre
-DEU-BE RE4 BB/BE +DIV_RE2
-DEU-BE RE4 +DIV_Per BE/BB
+DEU-BE RE4 BB/BE BE/BB
 
 DEU-BE S1 FriStr PotPla
 DEU-BE S1 YorStr RatHausSte
@@ -174,7 +175,7 @@ DEU-BE U1 UhlStr SchTor
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
 DEU-BE U5 Hbf LicBerg
-DEU-BE U6 NatMus TemHof
+DEU-BE U6 SchKopStr TemHof
 
 DEU-BE M1 Milastrasse SHacMar
 DEU-BE M8 SUHbf_2 BruStrInvStr
@@ -205,10 +206,12 @@ DEU-HH RE8 HamBurgHbf HH/SH
 
 ##  HE - Hessen
 DEU-HE ICE78 RP/HE FraFurtHbf
+DEU-HE ICE3 NI/HE FraFluFer
 
 DEU-HE RE54 FraFurtHbf +DIV_RE55
 DEU-HE RE54 HanHbf HE/BY
 
+DEU-HE 4Kas KonPalStaHal KonPla
 
 ##  MV - Mecklenburg-Vorpommern
 
@@ -217,6 +220,7 @@ DEU-HE RE54 HanHbf HE/BY
 DEU-NI ICE77Bad NLD/DEU NI/NW
 DEU-NI ICE77Osn NW/NI NI/NW
 DEU-NI ICE77 NW/NI NI/ST
+DEU-NI ICE12 ST/NI NI/HE
 
 DEU-NI RE1 HanHbf WunsTorf
 DEU-NI RE2Nat NW/NI NI/NW
@@ -298,12 +302,15 @@ DEU-RP RE9Fur NW/RP RP/NW
 
 
 ## SN - Sachsen
+DEU-SN ICE18 ST/SN SN/ST
+DEU-SN RJ27 DreHbf DEU/CZE
 
+DEU-SN Swb TalSta OberLosWitz
 
 ##  ST - Sachsen-Anhalt
+DEU-ST ICE18 SN/ST ST/TH
+DEU-ST ICE18Lut BB/ST ST/SN
 DEU-ST ICE77 NI/ST ST/BB
-
-DEU-ST RE4 SteHbf ST/BB
 
 
 ##  SH - Schleswig-Holstein
@@ -312,11 +319,10 @@ DEU-SH RB85 LubHbf Neu
 
 
 ##  TH - Thuringia
+DEU-TH ICE28 ST/TH TH/BY
+DEU-TH ICE18Ess ST/TH TH/ST
 
-
-# Austria
-AUT ICE62 DEU/AUT GrazHau
-AUT ICE91 DEU/AUT WienHau
+DEU-TH RB61 Lic Cur
 
 
 # DENMARK
@@ -427,6 +433,8 @@ CZE 22Pra Poh Mals
 #Train
 CZE S1 PrahaMasarykovoNadrazi Kolin
 CZE S20 Kolin KutnaHoraHlavniNadrazi
+CZE RJ27 DEU/CZE +DIV_S49
+CZE RJ27 +DIV_S1 PraMasNas
 
 
 # POLAND
@@ -451,6 +459,21 @@ ESP-VC 7Val Jes Ala
 
 
 # PORTUGAL
+#Train
+PRT LnAzaSin Sin Ori
+PRT LnSinRos LisRos Sin
+PRT LnCas CaisSod Alg
+PRT LnAzaApo Ori Aza
+PRT LnAve PorSaoBen Ave
+PRT LnBra PorSaoBen Bra
+
+#Metro
+PRT E Aer Tri
+PRT D Tri JarMor
+
+#Tram
+PRT 28ELis Gra IgrSanMarMad
+PRT 15ELis PraCom MosJer
 
 
 # ITALY
@@ -462,13 +485,16 @@ ESP-VC 7Val Jes Ala
 # Austria
 AUT 49Wie Sch RingVol
 AUT S2Sal DEU/AUT SalHau
-
+AUT ICE62 DEU/AUT KlaHau
+AUT ICE91 DEU/AUT WienHau
 
 #ROMANIA
 
 #TURKEY
 
 #UKRAINE
+UKR M1 Vok Dni
+UKR M2 KonPla MaiNez
 
 
 # AMERICA
@@ -514,7 +540,7 @@ JPN Hiroden2 M4 M39
 HKG 1 WesMar ShauKeiWan
 HKG 2 PatSt_A ShauKeiWan
 HKG 3 ShekTongTsui ForHill_B
-HKG 4 ShekTongTsui CauBayTer
+HKG 4 ShekTongTsui +DIV_123
 HKG 5 KenTownTer TonRd_B
 HKG 6 KenTownTer ShauKeiWan
 HKG 7 KenTownTer WesMar

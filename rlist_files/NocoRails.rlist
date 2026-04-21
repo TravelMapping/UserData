@@ -1,7 +1,14 @@
+# **Commuter Rail**
+# Denver, CO
 CO NLn UniSta Eas124th
 
+
+# **US Tourist/Heritage Railroads**
 CO FortColMunRai CityPark MouHow
 
+
+# **Rapid Transit**
+# Washington, D.C.
 DC BluLn VA/DC DC/MD
 DC GreLn LEnfPla MtVerSq
 DC OraLn VA/DC +DIV_Blue
@@ -13,18 +20,36 @@ VA OraLn +DIV_Blue VA/DC
 VA SilLn +DIV_Blue VA/DC
 VA YelLn Pen VA/DC
 
-OR RedLn BeaTraCen PorIntAir
+# Las Vegas, NV
+NV LVM MGMGra SLS
 
+
+# **Light Rail**
+# San Francisco, CA
 CA MuniF 5thCyr Bea
 
+# Denver, CO
 CO ELn EmpFieMileHigh UniSta
 CO WLn JefCouGovCenGol UniSta
 
+# Portland, OR
+OR RedLn BeaTraCen PorIntAir
+
+
+# **People Movers**
+# Airside
 CO DENTrn JepTer CGat
 FL TPAShuAiC MainTer AirC
 VA AerTrn ConB MainTer
 
+# Landside
 AZ PHX RenCarCen T3
 FL SkyCon MainTer RenCarCen
 
+# Other
+NV AE ParkMGM Bel
+
+
+# **Streetcars**
+# San Francisco
 CA PowHyde Mar Bea

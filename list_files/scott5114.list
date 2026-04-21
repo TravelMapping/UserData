@@ -1,8 +1,10 @@
 # Interstates
+CA I-5 8B 14B
 TX I-10 610 615
 NV I-11 AZ/NV 96
 TX I-14 US190BusCop I-35
-CA I-15 96 CA/NV
+CA I-15 6B CA/NV
+CA I-15BLEsc I-15_S CitPkwy
 NV I-15 CA/NV NV/AZ
 AZ I-15 NV/AZ AZ/UT
 UT I-15 AZ/UT 6
@@ -126,6 +128,7 @@ DC I-95 VA/DC DC/MD
 MD I-95 DC/MD 49
 KS I-135 1A 95
 IL I-190 0 ChiOHAir
+CA I-215 I-15 54B
 NV I-215 1 12
 LA I-220 1B 6
 KS I-235 1A 13
@@ -404,6 +407,7 @@ OK US412AltLoc US412_W US412_E
 # US historical routes
 OK US66HisSay GraAve N1770
 OK US66HisOkl I-44(124) I-44(128B)
+CA US101HisSan BeaSt HarDr_W #actually Cesar Chavez to G St
 
 # Arkansas Highways
 AR AR10 OK/AR AR45_N
@@ -421,10 +425,13 @@ AZ AZ95Bul BulPkwy AZ/NV
 
 # California State Routes
 # CA CA1 Balboa Blvd to CA55
+CA CA15 1A 6B
 # CA CA28 touched at SL
 CA CA39 EdiAve I-405
 CA CA55 1 18
+CA CA75 I-5(5A) I-5(14A)
 CA CA91 34 51
+CA CA163 ASt I-15
 # CA CA178 touched at SL
 
 # Iowa Highways
@@ -513,7 +520,7 @@ NV NV28  US50 CA/NV
 NV NV146 I-15 I-215
 NV NV147 PecRd LkMeadNRA
 NV NV156 End US95
-NV NV157 KyleCanCir I-11
+NV NV157 KyleCanCir SkyPoiRd
 NV NV158 NV156 NV157
 NV NV159 CR215 NV160
 NV NV159Dow MLKBlvd GraCenPkwy

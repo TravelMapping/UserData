@@ -1,0 +1,46 @@
+CA	CS	SimiVly	CA/OR	#2017-03 Oregon Washington
+CA	CZ	SacVlySta	CA/NV	#2009-06 Great Train Trip
+CA	GreLn	SeaVil	CouCenLitIta	
+CA	PowHyde	Bush	Bea	#1997-06 San Francisco Yosemite
+CA	PS	SanFeDep	Moo	
+CA	VenCouLn	UniSta	Moo	
+CO	CZ	UniSta	CO/NE	#2009-06 Great Train Trip
+CT	NewHavLn	NY/CT	NHStaSt	#1994-10
+DC	GreLn	LEnfPla	GalPla	#2010-09 Washington DC
+DC	RedLn	MetCen	Tak	#2010-09 Washington DC
+GA	BluLn	CNNCen	GeoSta	#2019-04 Atlanta AACR
+GA	RedLn	FivePoi	PeaCen	#2019-04 Atlanta AACR
+IA	CZ	NE/IA	IA/IL	#2009-06 Great Train Trip
+IL	AirTraSys	Ter1	MulModFac	
+IL	BlueLn	OHa	Monr	#2025-04 Illinois Wisconsin
+IL	BroLn	Kim	WasWab	
+IL	CZ	IA/IL	UniSta	#2009-06 Great Train Trip
+IL	GreLn	Mor	CerMcCPl	#2025-04 Illinois Wisconsin
+IL	LI	BloNor	UniSta	
+IL	MESCh	MilSta	McCPla	
+IL	PurLn	How	Dav	#2025-04 Illinois Wisconsin
+IL	RedLn	Roo	How	
+IL	SkoSwi	DemSko	How	
+MA	BluLn	Air	GovCen	#2013-06 Massachusetts
+MA	GreLnB	Ken	GovCen	#2013-06 Massachusetts
+MA	RedLn	ParkSt	Har	#2013-06 Massachusetts
+NE	CZ	CO/NE	NE/IA	#2009-06 Great Train Trip
+NV	AE	ParkMGM	Bel	
+NV	CZ	CA/NV	NV/UT	#2009-06 Great Train Trip
+NV	MBT	Lux	ExcNor	
+NY	1	137StCityCol	14St	#2023-06 New Jersey New York
+NY	4	+SKIP_96St	BowGre	#2023-06 New Jersey New York
+NY	6	GraCen	23rdSt	#2023-06 New Jersey New York
+NY	7	42StTimSq	42StGraCen	#2023-06 New Jersey New York
+NY	A	145St	42StPABT	#2023-06 New Jersey New York
+NY	NewHavLn	GraCen	NY/CT	#1994-10
+NY	PortWasBraGCT	GraCen	PortWas	#2023-06 New Jersey New York
+OR	BlueLn	Oak1stAve	RoseQuaTraCen	#2017-03 Oregon Washington
+OR	CS	CA/OR	PorUniSta	#2017-03 Oregon Washington
+UT	CZ	NV/UT	SaltLakeCity	#2009-06 Great Train Trip
+VA	AerTrn	ConB	ConCD	#2024-10 Going to the DMV
+VA	BluLn	PenCity	ArlCem	#2010-09 Washington DC
+VA	YelLn	RRWasNatAir	VA/DC	#2010-09 Washington DC
+WA	SeaCenMon	SeaCen	WesCen	#1996-05 Seattle Vancouver
+TX	Sky	A8	A21	#2010-10 Washington DC
+CA	AutPeoMov	CenTerB	ConB	#2018-10 Gold Rush
