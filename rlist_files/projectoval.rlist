@@ -1,70 +1,82 @@
-#Phase 2 (delayed until June 26)
-ENG WAML Bro StaMou
-ENG WAMLStr Bro BisSto
-ENG StaEx TotHale StaAir
-ENG FliLn She Wit
-ENG GEML She Wit
-ENG SunCoaLnCla She Wit
-ENG SunCoaLnCol She Wit
-ENG SouLn She SouVic
+#In preperation
+##TL
+ENG ThaLnkRai Dar Rai #Stone Crossing, Greenhithe, Swanscombe, Northfleet, Gravesend, Higham, Strood, Rochester, Chatham, Gillingham, Rainham
+##SE
+ENG HS1Can LonStPanInt EbbInt #Ebbsfleet International
+ENG HS1Dov LonStPanInt EbbInt #Ebbsfleet International
+ENG HS1Cha LonStPanInt Rai #Ebbsfleet International, Gravesend, Higham, Strood, Rochester, Chatham, Gillingham, Rainham
+ENG BexLn Dar Gra #Stone Crossing, Greenhithe, Swanscombe, Northfleet, Gravesend
+ENG SidLn Dar Gra #Stone Crossing, Greenhithe, Swanscombe, Northfleet, Gravesend
+ENG ChaML BroSou Rai #Longfield, Meopham, Rochester, Chatham, Gillingham, Rainham
+ENG ThaLn BroSou Rai #Longfield, Meopham, Rochester, Chatham, Gillingham, Rainham
+ENG SoleStLn Swa Gil #Farningham Road, Longfield, Meopham, Sole Street, Rochester, Chatham, Gillingham
+ENG KentDowLn Otf WestMal #Kemsing, Borough Green & Wrotham, West Malling
+ENG MaiELn Otf WestMal #Borough Green & Wrotham, West Malling
+ENG SEML Sev Ton #Tonbridge
+ENG PadWoodLn Sev Ton #Tonbridge
+ENG HasLn Sev TunWel #Hildenborough, Tonbridge, High Brooms, Tunbridge Wells
+##SW
+ENG BooLn Lea Gui #Bookham, Effingham Junction, Horsley, Clandon, London Road (Guildford), Guildford
+ENG NewGuiLn Sur Gui #Hinchley Wood, Claygate, Oxshott, Cobham & Stoke D'Abernon, Effingham Junction, Horsley, Clandon, London Road (Guildford), Guildford
+ENG PorDirLn ClaJct Gui #Woking, Worplesdon, Guildford
+ENG AltLn Sur Wok #West Byfleet, Woking
+ENG BasLn Sur Wok #Walton-on-Thames, Weybridge, Woking
+ENG WokLn Sur Wok #Esher, Hersham, Walton-on-Thames, Weybridge, Byfleet & New Haw, West Byfleet, Woking
+ENG BotLn LonWat Wok #Woking
+ENG SWML ClaJct Wok #Woking
+ENG WoELn ClaJct Wok #Woking
+ENG CheLp VirWat Wey #Chertsey, Addlestone, Weybridge
+ENG ReaLn VirWat Rea #Longcross, Sunningdale, Ascot, Martins Heron, Bracknell, Wokingham, Winnersh Triangle, Winnersh, Earley
+##GW
+ENG NorDowLn Rea Wok #Wokingham
 
-#In planning
-ENG SEML Sev Ton
-ENG PadWoodLn Sev Ton
-ENG HasLn Sev TunWel
-ENG BooLn Lea Gui
-ENG NewGuiLn Sur Gui
-ENG PorDirLn ClaJct Gui
-ENG AltLn Sur Wok
-ENG BasLn Sur Wok
-ENG BotLn LonWat Wok
-ENG SWML ClaJct Wok
-ENG WoELn ClaJct Wok
-ENG CheLp VirWat Wey
-ENG ReaLn VirWat Rea
-ENG NorDowLn Rea Wok
 
 #Proposed
-ENG BexLn Dar Gra
-ENG SidLn Dar Gra
-ENG ThaLnkRai Dar Rai
-ENG ChaML BroSou Rai
-ENG ThaLn BroSou Rai
-ENG SoleStLn Swa Gil
-ENG HS1Can LonStPanInt EbbInt
-ENG HS1Dov LonStPanInt EbbInt
-ENG HS1Cha LonStPanInt Rai
-ENG MedVlyLn Str MaiWest
-ENG KentDowLn Otf MaiEast
-ENG MaiELn Otf MaiEast
-ENG RedTonLn Red Ton
-ENG UckLn HurGre EdeTown
-ENG SusMLE GatAir Wiv
-ENG GatEx GatAir Bri
-ENG ThaLnk GatAir Bri
-ENG ThaLnkBed GatAir ThrBri
-ENG ThaLnkCam GatAir Bri
-ENG SusMLW GatAir PrePark
-ENG ArunVlyLn GatAir ThrBri
-ENG ChiLn GatAir ThrBri
-ENG ThaLnkPet GatAir ThrBri
-ENG NorDowLn Wok Rei
-ENG WeyVlyLn Far Gui
-ENG AltLn Wok Alt
-ENG BlaVlyLn Asc Ald
-ENG BasLn Wok Far
-ENG BotLn Wok Farn
-ENG TreVlyLn WatJct MilKeyCen
-ENG WCMLA WatJct MilKeyCen
-ENG WCMLB WatJct MilKeyCen
-ENG WCMLD LonEus MilKeyCen
-ENG WCMLE LonEus MilKeyCen
-ENG NhpLn Ble MilKeyCen
-ENG GUCLn Ble MilKeyCen
-ENG MarValeLn Ble Bed
-ENG LutAirExp Lut Bed
-ENG ThaLnk Bed Harl
-ENG ThaLnkBed Bed Harl
-ENG FenLn LonKinCro Cam
-ENG RheeVlyLn Bal Cam
-ENG ThaLnkCam Cam Bal
+##SE
+ENG MedVlyLn Str MaiWest #Strood, Cuxton, Halling, Snodland, New Hythe, Aylesford, Maidstone Barracks, Maidstone West
+ENG KentDowLn WestMal MaiEast #East Malling, Barming, Maidstone East
+ENG MaiELn WestMal MaiEast #Maidstone East
+##SN
+ENG RedTonLn Red Ton #Nutfield, Godstone, Edenbridge, Penshurst, Leigh, Tonbridge
+ENG UckLn HurGre EdeTown #Edenbridge Town
+ENG SusMLE GatAir Wiv #Haywards Heath, Wivelsfield
+ENG SusMLW GatAir PrePark #Haywards Heath, Burgess Hill, Hassocks, Preston Park
+ENG ArunVlyLn GatAir ThrBri #Three Bridges
+ENG ChiLn GatAir ThrBri #Three Bridges
+##GX
+ENG GatEx GatAir Bri #Haywards Heath, Brighton
+##TL
+ENG ThaLnkBed GatAir ThrBri #Three Bridges
+ENG ThaLnkPet GatAir ThrBri #Three Bridges
+ENG ThaLnk GatAir Bri #Three Bridges, Balcombe, Haywards Heath, Wivelsfield, Burgess Hill, Hassocks, Preston Park, Brighton
+ENG ThaLnkCam GatAir Bri #Three Bridges, Haywards Heath, Burgess Hill, Brighton
+ENG ThaLnk Bed Harl #Flitwick, Bedford
+ENG ThaLnkBed Bed Harl #Flitwick, Bedford
+ENG ThaLnkCam Cam Bal #Cambridge, Cambridge South, Royston, Ashwell and Morden
+##GW
+ENG NorDowLn Wok Rei #Crowthorne, Sandhurst, Blackwater, Farnborough North, North Camp, Ash, (Guildford), Shalford, Chilworth, Gomshall, Dorking West, Dorking Deepdene, Betchworth
+##SW
+ENG WeyVlyLn Far Gui #Farnham, Aldershot, Ash, Wanborough
+ENG AltLn Wok Alt #Brookwood, Ash Vale, Aldershot, Farnham, Bentley, Alton
+ENG BlaVlyLn Asc Ald #Bagshot, Camberley, Frimley, Ash Vale, Aldershot
+ENG BasLn Wok Far #Brookwood, Farnborough
+ENG BotLn Wok Farn #Farnborough
+##LN
+ENG NhpLn Ble MilKeyCen #Milton Keynes Central
+ENG GUCLn Ble MilKeyCen #Milton Keynes Central
+ENG TreVlyLn WatJct MilKeyCen #Milton Keynes Central
+ENG MarValeLn Ble Bed #Fenny Stratford, Bow Brickhill, Woburn Sands, Aspley Guise, Ridgmont, Lidlington, Millbrook, Stewartby, Kempston Hardwick, Bedford St Johns, Bedford
+##VT
+ENG WCMLB WatJct MilKeyCen #Milton Keynes Central
+ENG WCMLD LonEus MilKeyCen #Milton Keynes Central
+ENG WCMLE LonEus MilKeyCen #Milton Keynes Central
+##EM
+ENG LutAirExp Lut Bed #Bedford
+##GN
+ENG FenLn LonKinCro Cam #Cambridge South, Cambridge
+ENG RheeVlyLn Bal Cam #Ashwell and Morden, Royston, Meldreth, Shepreth, Foxton, Cambridge South, Cambridge
+##GA
+ENG WAML StaMou Cam #Elsenham, Newport, Audley End, Great Chesterford, Whittlesford Parkway, Sheldreth, Cambridge South, Cambridge
+ENG BreLn StaAir Cam #Audley End, Whittlesford Parkway, Cambridge South, Cambridge
+#XC
+ENG BIrPetLn Cam StaAir #Cambridge, Cambridge South, Audley End

@@ -30,7 +30,9 @@ NJ NECorLn NY/NJ Tre
 NJ RivLn WalRandTC Tre
 NJ PortJerLn SecJct NJ/NY
 NY PortJerLn NJ/NY PortJer
-NY A 42StPABT 34StPennSta
+NY A 42StPABT 14St
+NY C 42StPABT 34StPennSta
+NY E 42ndStPABT 34StPennSta
 CO ELn CouLine Sou
 IL BNSF Nap UniSta
 IL BlueLn Jac UICHal
@@ -38,8 +40,11 @@ IL RedLn Jac Add
 CO BroManPikPeakCR Man PikPeak
 PA StrRR Str LeaPl
 FL ExpMon TraTicCen_1 TraTicCen_2
+FL GreLn DadSou EarHei
+FL OraLn DadNor MiaAir
 CO DENTrn JepTer CGat
 FL GateLink TerA Air2
 FL GateLinkTBE TerB Air4
+FL MiaM IntCen MIA
 GA PlaTrn DomTer CGat
 GA SkyTrn Air RenCarCen

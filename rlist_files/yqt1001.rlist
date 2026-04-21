@@ -1,0 +1,229 @@
+# flights: https://my.flightradar24.com/yqt1001/
+
+# DONE
+# North America:
+#	Canada:
+#		- Toronto/GTA
+#		- VIA
+#	Mexico: CDMX
+#	Panama: Panama City
+#	US:
+#		- NYC area
+#		- Boston
+#		- PHL
+#		- Pittsburgh
+#		- DC
+#		- Atlanta
+#		- Bay Area
+#		- Seattle
+#
+# South America:
+#	Colombia: Medellin
+#	Chile: Santiago
+#	Argentina:
+#		- BA
+#		- To La Plata
+#	Brazil:
+#		- SP
+#		- Rio
+#
+# Oceania:
+#	NZ: Auckland
+#
+# TODO
+#
+# South America:
+#	Peru: Cusco-Machu Picchu
+#
+# Europe:
+# 	Ireland: Dublin
+#	UK:
+#		- London
+#		- Glasgow
+#		- British Rail
+#			- London to Glasgow
+#			- London to Canterbury
+#			- Manchester to Liverpool
+#			- Glasgow to Edinburgh
+#			- Airports (Manchester, Gatwick, Luton)
+#		- Eurostar
+#	Spain:
+#		- Barcelona
+#		- Barcelona to French border
+#	Portugal:
+#		- Lisbon
+#		- Porto
+#		- Rail trips from Porto
+#		- Sintra
+#	France:
+#		- Paris
+#		- Lyon
+#		- Avignon
+#		- Spanish border to Lyon
+#		- Italian border to Lyon
+# 		- Eurostar from London to Paris
+#		- Lyon to Paris
+#	Italy:
+#		- Turin
+#		- Milan
+#		- Rome
+#		- Naples
+#		- Venice
+#		- 2022 train trip
+#	Switzerland:
+#		- Zurich
+#		- Basel
+#		- 2025 train trip
+#	Germany:
+#		- Berlin
+#		- Berlin to Prague
+#	Czechia:
+#		- Prague
+#		- Berlin to Prague to that one town
+#	Denmark:
+#		- Copenhagen
+#		- Copenhagen to Malmo
+#	Sweden:
+#		- Stockholm
+#		- Copenhagen to Malmo
+#		- Oslo to Gothenburg
+#		- Gothenburg to Stockholm via Lidkoping
+#	Finland: Helsinki
+#	Norway: Oslo
+#	Greece: Athens
+#	Turkey: Istanbul
+#	Ukraine: Kyiv
+#
+# Asia:
+#	Israel:
+#		- Tel Aviv to Jerusalem
+#		- Tel Aviv to Haifa
+#		- Haifa
+#	Japan:
+#		- 2018 train trip
+#		- Tokyo
+#		- Osaka
+#	China: Beijing
+#	Taiwan:
+#		- Taipei
+#		- Taipei to Kaoshuing
+#	Hong Kong
+#
+#	Africa:
+#		- Train from Aswan to Cairo
+
+# Canada
+# Ontario
+ON Can Lon Was
+ON BT AllWat Uni
+ON LE Uni RouHill
+ON 1 VauMetCen BloYon
+ON 2 DunW She
+ON UP PeaAir Uni
+ON 504a DunW ChuSt
+ON 508 ColLodDr YonSt
+ON 511 BatStFleSt BatSta
+ON 510 SpaSta QueQuayLp
+ON 509 BilBisAir UniSta
+ON TerLnk Ter3 Ter1
+
+# Mexico
+# CDMX
+MEX-DF 3 IndVer Coy
+MEX-DF 2 Xola Rev
+MEX-DF 5 AutNor Raza
+MEX-DF 8 Coy BelArt
+MEX-DF 7 Tacya Aud
+MEX-DF 9 Tac Pan
+MEX-DF 1 Cha Bald
+MEX-DF 5 TerAer Pan
+
+# Panama
+PAN 1 Alb Ing
+
+# US
+# CA
+CA BARTBlue DalyCity WestDubPle
+CA BARTYel Col Mil
+CA BARTGre WestOak Ber
+CA CalTra Mil Tam
+CA VTAOra Mil Bay
+CA VTABlue Bay MetAir
+CA MuniN MonSt 43rd
+CA MuniM MonSt Cas
+CA MuniT ChiRosePak UniSqMar
+
+# DC
+DC GreLn MD/DC MtVerSq
+DC SilLnNew FarW CapSou
+
+# GA
+GA GreLn Ban InnParkRey
+GA RedLn Buc Air
+GA GoldLn Dor +DIV_Red
+GA PlaTrn DomTer FGatIntTer
+GA SkyTrn Air RenCarCen
+GA AtlStr PeaCen KingHisDis
+CA AirTrnRed IntTerA GarG/BART_F
+CA AirTrnBlue GarG/BART RenCarCen
+
+# MA
+MA OraLn MalCen Hay
+MA GreLnD Ken Hay
+
+# MD
+MD GreLnSui BraAve MD/DC
+
+# NJ
+NJ AirTrn TerA NewLibAir
+NJ NECorLn NewLibAir NY/NJ
+NJ PATHNWT NJ/NY NewPenn
+NJ PATHJ33 New NJ/NY
+NJ HBLRWST New LibSP
+
+# NY
+NY PATHHWT NJ/NY WTC
+NY PATHJ33 NJ/NY 33St
+NY J BroSt BroJct HighSt
+NY 3 ClaSt 34StPennSta
+NY 6 BroBriCityHall 86thSt
+NY M DelStEssSt 34StHerSq
+NY C 34StPennSta 72St
+NY C FulSt JayStMetTech
+NY 1 RecSt 34StPennSta
+NY 6 BroBriCityHall 59thSt
+
+# PA
+PA AirLn PHLTerEF Phi30thSt
+PA MarFraLn 30th 15th
+PA Duq Low Upp
+
+# WA
+WA 1 SeaTacAir UDis
+WA GreLn NGat DGat_Fin
+
+# Brazil
+BRA-SP 1 PorTie Luz
+BRA-SP 1 Se Par
+BRA-SP 2 Par Bri
+BRA-SP 4 PauPer Luz
+BRA-SP 3 Rep Se
+BRA-RJ 2Met GenOso CenBra
+BRA-RJ TremCor CriRed CosVel
+
+# Argentina
+ARG A SaePena PzaMayo
+ARG C Ret Con
+ARG ConPla PzaCon Pla
+
+# Chile
+CHL 1 SanLucUniSan
+CHL 5 QuiNor Mir
+CHL 3 PlaArm UniChi
+
+# Colombia
+COL B SanJav SanAnt
+COL A SanAnt Ace
+
+# New Zealand
+NZL SouLn Puh Wai

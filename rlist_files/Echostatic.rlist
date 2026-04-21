@@ -5,6 +5,9 @@ IL BO UniSta IL/WI
 MN BO WI/MN StPaulUniDep
 WI BO IL/WI WI/MN
 
+#Deutsche Bahn
+DEU-BE ICE29 BerHbf DEU-BY ICE29 MunHbf
+
 #Heavy Rail
 
 #Chicago L
@@ -31,6 +34,9 @@ NY J CanSt DelStEssSt
 NY L 8Ave 14StUniSq
 NY R TimSq42St 34StHerSq
 
+#Sydney Metro
+AUS-NSW M1 Epp Cen
+
 #U-Bahn Berlin
 DEU-BE U1 HalTor WarStr
 DEU-BE U2 PotPla EbeWalStr
@@ -56,6 +62,14 @@ TX CapMetRail Lea Dow
 DEU-BB S9 BE/BB FlugHafBER
 DEU-BE S9 Bel BE/BB
 
+#Sydney Trains
+AUS-NSW BMT Cen War
+AUS-NSW SCO Cen Wol
+AUS-NSW T1 Cha Par
+AUS-NSW T2 CirQuay TownHall
+AUS-NSW T8 Cen IntAir
+AUS-NSW T9 Cha Epp
+
 #Light Rail
 
 #DART Light Rail
@@ -70,6 +84,10 @@ OR YelLn PSUSou ExpoCen
 #METRO Transit Light Rail
 MN BlueLine MallofAmerica TargetFieldPlatform2
 MN GreenLine TargetFieldPlatform2 UnionDepot
+
+#Sydney Light Rail
+AUS-NSW L2 CirQuay CenChaSt
+AUS-NSW L4 ChuSt Car
 
 #Streetcars
 
@@ -105,6 +123,5 @@ CO RoyGorRou CanCity Par
 
 #Seattle Center Monorail
 WA SeaCenMon SeaCen WesCen
-
 
 

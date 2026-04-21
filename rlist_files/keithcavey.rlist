@@ -66,8 +66,10 @@ CO ALn UniSta DenAir
 NY 1 CorStWTC 72St
 NY 6 BleSt GraCen
 NY 7 42StTimSq JacHeiRooAve
+NY B 34StHerSq 47-50StsRocCen
 NY D GraSt BroLafSt
 NY E WTC 42ndStPABT
+NY L 8Ave 14StUniSq
 NY N 14StUniSq TimSq42St
 NY R CorSt CanSt
 NY R QuePla JacHeiRooAve
@@ -86,5 +88,6 @@ FL GateLinkTBE TerB Air4
 GA PlaTrn DomTer FGatIntTer
 MI ExpTram SouSta NorSta
 MN MSPTram ConAB ConDE
+NJ AirTrn NewLibAir TerA
 TX Sky A8 A21
 VA AerTrn MainTer ConB

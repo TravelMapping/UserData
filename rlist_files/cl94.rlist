@@ -1,3 +1,23 @@
+CZE S1 +DIV_S4 Kol
+CZE S2Jih Let BrnoHlaNad
+CZE S3Jih BrnoHlaNad +DIV_S51
+CZE S10 Kol Pre
+CZE S51Jih Sak Bre
+CZE S65 PraZli PraHlaNad
+CZE T10 +DIV_S7 PraHlaNad
+CZE A NemMot DepoHos
+CZE B Zli CerMost
+CZE C Let Haje
+CZE 2Pra Pet PalNam
+CZE 5Pra And Laz
+CZE 7Pra Rad Alb
+CZE 7Pra NamBraSyn DepoHos
+CZE 9Pra SidRepy Laz
+CZE 15Pra Kot Mal
+CZE 17Pra PraFak VelPal
+CZE 19Pra Pan Vin
+CZE 25Pra Mal +DIV_2
+
 ENG DLR BAN CUS
 ENG CirLn PAD_1 ERD_2
 ENG CenLn OXC BUH
@@ -136,7 +156,7 @@ NY R ForHil71Ave BayRid95St
 NY SPro FraAve ProPk
 NY W AstDitBlvd WhiStSFry
 
-NY BMR SpeEve Uni
+NY BMR DLW Uni
 NY HarLn GraCen NWhiPla
 NY HudLn GraCen Pou
 NY PortJefBra PennSta Nor
@@ -190,18 +210,43 @@ WA YelLn AGat DGat
 
 WV CassSceRR CassDep BaldKnob
 
+AUT ICE62 SalHau GrazHau
+AUT S1 +DIV_S2S7 +DIV_REX1
+AUT S3 WienFlo WieNeuHau
+AUT S7 WienFlo WienStMarx
+AUT S45 WienHut WienHan
+AUT S80 WienHau WienErzKarlStr
+AUT S1Ste BruMur GrazHau
+AUT S9Ste BruMur Mur
 AUT S2Vor Fel AUT/LIE
+AUT U1 Leo Obe
+AUT U2 Kar See
+AUT U3 Ott Sim
+AUT U4 WienHut WienHei
+AUT U6 Flo Sie
+AUT 3Gra And Kre
+AUT 6Gra SmaCityPetTunGas StPet
+AUT 1Wie Schr OperKar
+AUT 10Wie Maro Hie
+AUT 11Wie Reu Sim
+AUT 26Wie Flo Pri
+AUT 71Wie Bor StMarx
 
+DEU-BW RE6a StuHbf Mos
+DEU-BW RB63 HerBerg TubHbf
 DEU-BW S1 HerBerg FeuSee
 DEU-BW U3 Vai Pli
 DEU-BW U6 StaBib MohBf
 DEU-BW U14 ChaPla Vai
 
+DEU-BY ICE25 NurnBergHbf MunHbf
+DEU-BY RE9 MunHbf AugHbf
+DEU-BY RE16 NurnBergHbf AugHbf
+DEU-BY RB64 GarPar Gra
 DEU-BY S1 FlugHafMun LeuBergRing
 DEU-BY S2 Dac LeuBergRing
 DEU-BY S2Pet PetHau Dac
-DEU-BY S3 MamDorf OstBf
-DEU-BY S4 Pas Tru
+DEU-BY S4 DonBerBru Tru
 DEU-BY S7 SieWer Hbf
 DEU-BY S8 DonBerBru FlugHafMun
 DEU-BY S2Nur Roth NurnBergHbf

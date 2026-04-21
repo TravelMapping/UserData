@@ -264,3 +264,7 @@ SCT ShoLn Kir EdiWav
 SCT FifeLnLev EdiWav NorQue
 #Far North Line CRP
 SCT FarNorLn Fea Wick
+#Three Valleys CRP
+WLS AbeLn Abed CarQueSt
+WLS MerLn MerTyd CarCen
+WLS RhoLn Treh CarCen
