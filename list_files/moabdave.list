@@ -626,6 +626,8 @@ CA KinCanRdCed CA180 KanTr
 CA LasPeakHwy CA89_S CA44/89
 CA MinSumRd REdsMeaRes CA203
 CA MorEmiTr CRE16 CA88
+CA NorDr SouDr ElPorRd
+CA SouDr ElPorRd NorDr
 CA TioPassRd BigOakRd CA120
 CA WawRd CA41 SouDr
 
