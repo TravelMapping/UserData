@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 2-27-26
+#everywhere that darmstarm has been up to 4-19-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 3-21-26.
+#last updated 4-23-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -364,6 +364,7 @@ GA GA112 GA257_E GA57 #possibly took a divvy onto balls ferry road but i don't k
 GA GA141 SpaDr I-285
 GA GA257 I-75 US129Alt_N
 GA GA300 US19/82Bus I-75
+GA GA378 I-85 US23 #panama city trip 2025
 GA GA520BusAlb GA91 US19
 GA GA540 GA15 US221_N
 #florida
@@ -575,6 +576,7 @@ WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to 
 AL US80 AL/GA US280/431_S #panama city trip 2025
 AL US231 US431 FL/AL #panama city trip 2025
 AL US431 OpeRd US84_W #panama city trip 2025
+AL US431BusDot US84/431 US231/431 #panama city trip 2025
 #kentucky - first visited 3-17-26
 KY ComMtnPkwy 16 US460_E #spring break road trip 2026 (breaks -> mammoth)
 KY CumPkwy 88 1 #spring break road trip 2026 (breaks -> mammoth)
