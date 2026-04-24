@@ -567,10 +567,19 @@ WI WI119 I-94 WI38
 WI WI188 US12 WI60_W
 
 # ------------------------------Canada-----------------------------------
+#Canadian Highways
+NL TCHMai BluePonPP YDF
+
+#NewFoundland & Labrador Provincial Highways
+NL NL1 BluePonPP YDF
 
 # ------------------------------Ireland-----------------------------------
-#Motorways
+#International E Roads
+IRL E20 N18/N19 M7/N18
+IRL E20 19(M7) 1(M50)
 IRL E30 J24 R907_E
+
+#Motorways
 IRL M1 1 18
 IRL M3 4 6
 IRL M6 2 8
@@ -580,6 +589,8 @@ IRL M8 1 19
 IRL M18 9 12
 IRL M20 1 5
 IRL M50 1 9
+
+#National Roads
 IRL N1 18 IRL/GBR
 IRL N1Dub R104 R132
 IRL N2 N51 R169
@@ -606,6 +617,8 @@ IRL N72 N70 N71
 IRL N85 M18 R458
 IRL N85 R352 N67
 IRL N86 N70 R559/R560
+
+#Regional Roads
 IRL R108 J21 J30
 IRL R108 M50 L2015
 IRL R110 J19 R804
@@ -646,10 +659,18 @@ IRL R863 R336/R339 R866
 IRL R866 N6 R863
 IRL R907 R627 N25_E
 IRL R933 R154/R160 R154_N
+
+#Tourist Routes
 IRL BoyVlyDr N2_S M1(9)
 IRL CorIOACW R608_CorE J12
 IRL CorIOCW J1 N22/R608
 IRL DubIOCW J26 J27
+
+#Wild Atlantic Way
+IRL WAW DockSt R336/L5048
+IRL WAW N67_N L1014
+IRL WAW L1016 N67/R477
+IRL WAW WAWDlP R478/R479
 
 # ------------------------------Northern Ireland-----------------------------------
 #Motorways
