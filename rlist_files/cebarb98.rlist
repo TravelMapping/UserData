@@ -21,7 +21,7 @@ MD GreLn DC/MD Gre
 
 #. Washington DC Metro Yellow Line
 VA YelLn EisAve VA/DC
-DC GreLn VA/DC MtVerSq
+DC YelLn VA/DC MtVerSq
 
 #. Washington DC Metro Blue Line
 DC BluLn FogBotGWU DC/MD
@@ -38,3 +38,6 @@ MD SilLn DC/MD AddRdSeatPle
 #. New York City Subway
 NY 1 TimSq42St CorStWTC
 NY F 47-50StsRocCen YorkSt
+
+#. Los Angeles Metro Subway
+CA B HolHig HolVine

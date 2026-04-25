@@ -16,6 +16,7 @@ ENG LutAirExp LonStPanInt Wel
 
 ###GN###
 ENG NorCityLn Moo EnfCha
+ENG RheeVlyLn LonKinCro FinPark
 
 ###GW###
 ENG SevVlyLn BriPkwy BriTemMea #XC Bristol Parkway - Bristol Temple Meads
@@ -66,8 +67,7 @@ ENG WirLnWKi HamSq Mor
 
 ###NR###
 ENG DurCoaLn Tho Sto
-ENG DurCoaLn Sun +DIV_Gat
-ENG DurCoaLn New +DIV_DCL
+ENG DurCoaLn Sun New
 
 ###SE###
 ENG BexLn PecRye Wel

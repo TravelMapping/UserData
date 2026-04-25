@@ -1,6 +1,7 @@
-# 12/08/2025
-# v71
-# Add KY I-69 extension to mile 152      Traveled in 2025 and before
+# 02/09/2025
+# v73
+# Add new AZ Us 66 historic Parks to keep AZ at 100%	Traveled in 1959
+
 
 # Arizona Interstate Highways
 # 1169 miles
@@ -145,6 +146,7 @@ AZ US66HisHol I-40(285) I-40(289)
 AZ US66HisJos I-40(274) I-40(277)
 AZ US66HisKin I-40(1) I-40(139)
 AZ US66HisLup I-40(359) AZ/NM
+AZ US66HisPar PonRd GarPraRd
 AZ US66HisWil I-40(161) I-40(165)
 AZ US66HisWin I-40(252) I-40(257)
 AZ US80HisDou I-10(303) AZ/NM
@@ -778,7 +780,8 @@ TN I-640 I-40_W I-40_E         # 11 vs 7 overlap I-75
 TN I-840 1 76                  # 78 vs 77
 
 # North Carolina
-# 1461 miles (Table 3 1365) diff 96: I-42 28, I-73 6, I-74 27, I-140 14, I-295 9, I-587 -4, I-840 8, I-885 8
+# 1473 miles (Table 3 1365) diff 108: I-42 28, I-73 6, I-74 27, I-140 14, I-295 21, I-587 -4, I-840 8, I-885 8
+# 1461 on, 12 not on
 NC I-26 4A(240) NC/SC          # 44+
 NC I-26Fau TN/NC 13            #  9 =53
 NC I-40 TN/NC US117_S          #420
@@ -796,6 +799,7 @@ NC I-140 1 20                  # 21 vs 7 - 14 diff
 NC I-240 1A 9                  # 10
 NC I-277 1B 5                  #  4
 NC I-285 I-85 107(52)          # 24
+#NC I-295 0 12                  # 12 vs 0 - 12 diff NOT ON
 NC I-295 12 34                 # 23 vs 14 - 9 diff
 NC I-440 1 16                  # 17
 NC I-485 30 I-85(48)           # 67
@@ -876,7 +880,9 @@ FL I-595 I-75 12               # 14 vs 13
 #PR I-PR3 PR1/25 33(53)         # 55 vs 41 San Juan to Humacao NOT ON
 
 
-# Alaska & Puerto Rico Not on
+# North Carolina, Alaska & Puerto Rico Not on
+
+# 1  NC I-295 0 12                  # 12 vs 0 - 12 diff NOT ON
 #AP1 AK I-A1 AK2 AK/YT           # 92  AK2 to Yukon line NOT ON
 #AP2 AK I-A4 HeaSpurRd AK2       #110  Healy to Fairbanks NOT ON
 #AP3 PR I-PR1 PR22 PR2           # 69 vs 71 San Juan to Ponce E NOT ON
@@ -895,7 +901,7 @@ IN I-265FutLou 7 IN/KY
 KY I-265FutLou 35 KY/IN
 LA I-49FutFra LA182_W LA318
 LA I-49FutMor LA308 LA182_B
-LA I-49FutNIb LA83_W LA675
+LA I-49FutNib LA83_W LA675
 NC I-26FutAsh 13 4A(240)
 NC I-73FutMad NC68 NC/VA
 NC I-74FutLau 181 194

@@ -1,14 +1,14 @@
 # THE NETHERLANDS
+NLD ICE78 +SKIP_AmsBijAre NLD/DEU
 NLD AmsDis +DIV_Zuid +SKIP_Hoo
 
 NLD RS12 Roe MaaRan
-NLD RS15 Sit Hee
 NLD RE18 Maa NLD/DEU
 
 
 NLD RS32 ArnCen Wehl
-NLD RS33 ArnCen +DIV_ICN
-NLD RE19 DEU/NLD ArnCen
+NLD RS33 ArnCen +DIV_Els
+NLD RE19 NLD/DEU ArnCen
 
 NLD S43Lie BEL/NLD Maa
 
@@ -44,25 +44,35 @@ DEU-HB 10Bre MoorStr Hbf
 ##  HH - Hamburg
 
 ##  HE - Hessen
+DEU-HE 4Kas KonPalStaHal KonPla
 
 ##  MV - Mecklenburg-Vorpommern
 
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW RE1 KolnHbf DortMundHbf
+DEU-NW RE18 NLD/DEU AacHbf
 DEU-NW RE19 DusDorfHbf DEU/NLD
+DEU-NW RE49 Wes +DIV_Ste
+
+DEU-NW U43 WesTor KampStr
+DEU-NW U49 DortMundHbf Hac
+
 
 ##  RP - Rheinland-Pfalz
 
 ##  SL - Saarland
 
 ## SN - Sachsen
+DEU-SN Swb TalSta OberLosWitz
 
 ##  ST - Sachsen-Anhalt
 
 ##  SH - Schleswig-Holstein
 
 ##  TH - Thuringia
+DEU-TH RB61 Lic Cur
 
 
 # DENMARK
@@ -203,7 +213,7 @@ HKG TWLn Cen LaiKing
 #HK Others
 HKG OPOE Wat Sum
 HKG PT Peak CenTer
-HKG HKGAPM T1E T1Mid
+HKG HKGAPM T1E T1W
 
 # MACAU
 

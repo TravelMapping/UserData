@@ -34,34 +34,29 @@ PA NERoa DE/PA PA/NJ
 PA NESpr DE/PA PA/NJ
 VA NENew VA/DC Fre
 VA NENor VA/DC Fre
-VE NERoa VA/DC Ale
+VA NERoa VA/DC Ale
 
-#BART
+#Bay Area Rapid Transit (BART)
 CA BARTBlue Emb Col
 
-#Incline Railways
-PA Duq Low Upp
-PA Mon Low Upp
-TN LooMouIR StElmo PoiPark
-
-#Cincinnati Connector
-OH Con 6thMain Ban_W
-
-#CTA
+#Chicago Transit Authority (CTA)
 IL BlueLn OHa Jac
 IL OraLn Mid Roo
 IL RedLn Roo NorCly
 
-#MARC
+#Cincinnati Connector
+OH Con 6thMain Ban_W
+
+#Maryland Rail Commuter (MARC)
 DC CamLn WasUniSta DC/MD
 DC PennLn WasUniSta DC/MD
 MD CamLn DC/MD BalCam
 MD PennLn DC/MD BalPenn
 
-#MARTA
+#Metropolitan Atlanta Rapid Transit Authority (MARTA)
 GA RedLn FivePoi NorSpr
 
-#MBTA
+#Massachusetts Bay Transportation Authority (MBTA)
 MA GreLnE Pru Lec
 MA OraLn NorSta ComCol
 MA RedLn Ash Por
@@ -71,7 +66,7 @@ MA RedLnM Ash CenAve
 IL ME MilSta 51st53rdStHydePk
 IL UPNW Pal OgiTraCen
 
-#MTA
+#MTA New York City Subway
 NY S42 TimSq GraCen
 NY 1 TimSq42St SouFry
 NY 4 161StYanSta BowGre
@@ -85,17 +80,17 @@ NY L 14StUniSq BedAve
 NY R 34StHerSq WhiStSFry
 NY RIT Man RooIsl
 
-#SF Muni
+#San Francisco Municipal Railway (SF Muni)
 CA MuniF MaiDru Bea
 CA MuniN Emb LaPla
 
-#VRE
+#Virginia Railway Express (VRE)
 DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
 VA FreLn Fre VA/DC
 VA ManLn Ale VA/DC
 
-#WMATA
+#Washington Metropolitan Area Transit Authority (WMATA)
 DC BluLn VA/DC CapS
 DC GreLn NavyYardBal MtVerSq
 DC RedLn DupCir UniSta
@@ -104,17 +99,22 @@ VA BluLn FraSpr VA/DC
 VA OraLn VieFaiGMU VA/DC
 VA YelLn Hun VA/DC
 
-#Toronto TTC
-ON 1 Hwy407 Uni
-ON 501 NiaClaSts UniAve
-ON 508 TecSt JarSt
-
-#Dublin Luas
-IRL RedLn Jer Smi
-
 #Airside
 FL GateLinkTBE TerB Air4
 GA PlaTrn TGat EGat
+
+#Incline Railways
+PA Duq Low Upp
+PA Mon Low Upp
+TN LooMouIR StElmo PoiPark
+
+#Toronto TTC
+ON 1 Hwy407 Uni
+ON 501 NiaClaSts UniAve
+ON 504a TecSt JarSt
+
+#Dublin Luas
+IRL RedLn Jer Smi
 
 #London Underground
 ENG CirLn HighStKen KinCroStPan
@@ -134,4 +134,4 @@ FRA-IDF M1 Tui FraDRoo
 #Paris RER
 FRA-IDF APoi CdGEto ChaHal
 FRA-IDF BMit GareNord StMicNotDame
-FRA-IDF CMon ChaMarsTourEif StMicNotDame
+FRA-IDF CPon ChaMarsTourEif StMicNotDame
