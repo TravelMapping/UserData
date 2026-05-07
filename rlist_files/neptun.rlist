@@ -1,5 +1,5 @@
 # ──────────
-# 2026-03-29
+# 2026-04-29
 # ──────────
 
 # ─────────
@@ -154,14 +154,13 @@ CZE 4Plz Kos Uni
 # IDS JMK–Brno
 # ────────────
 
-CZE 1Brn Rec Pis
+CZE 1Brn Rec Rak
 CZE 4Brn NamMiru HlaNad
 CZE 5Brn SteCtv MenNam
 CZE 6Brn MenNam StaLisSmy
 CZE 7Brn LesCerRok HlaNad
 CZE 8Brn NemBoh Mif
 CZE 10Brn Ryb Ces
-CZE 10Brn Ece VozKom
 CZE 11Brn VozKom Bra
 CZE 12Brn TecPark Klu
 CZE 12Brn KonNam HlaNad
@@ -335,6 +334,30 @@ DEU-BW RS4Off Off FRA-GES RS4Off Str
 DEU-BW RE1 KarRuheHbf StuHbf
 DEU-BW RE2 KarRuheHbf Off
 
+# ──────
+# Berlin
+# ──────
+
+DEU-BE U3 HalTor WarStr
+DEU-BE U5 Hbf Honow
+DEU-BE U6 UntLin HalTor
+DEU-BE U8 GesBru KotTor
+
+DEU-BE 61Ber RahDorfWaldSch BahnHofStrLinStr
+DEU-BE 67Ber BahnHofStrLinStr SSchWeiSteDamm
+DEU-BE 87Wol SRahDorf DEU-BB 87Wol Sch
+DEU-BB 89Str SStrBerg LustGar
+
+DEU-BE S1 GesBru FriStr
+DEU-BE S3 WestKre Hbf
+DEU-BE S3 OstKre RahDorf
+DEU-BE S5 FriStr DEU-BB S5 StrBergNord
+DEU-BE S8 TrePark SchWei
+DEU-BE S42 OstKre_N GesBru
+DEU-BE S42 SudKre OstKre_S
+
+DEU-BE RB26 MahDorf DEU-BB RB26 StrBerg
+
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
 #└───────────────────────────────────────────┘
@@ -465,6 +488,20 @@ HUN 61Bud Var MorZsiKor
 #│                    POL                    │
 #└───────────────────────────────────────────┘
 
+# ──────
+# Krakow
+# ──────
+
+POL S1Kra KraLot KraGlo
+
+POL 10Kra RonMog Ple
+POL 11Kra CzeMakiPR MalyPlaPR
+POL 18Kra PlacWszSwi CzeMakiPR
+POL 20Kra RonGrz MalyPlaPR
+POL 21Kra Str Ple
+POL 44Kra DwoTow Str
+POL 50Kra GorNarPR RonGrz
+
 #┌───────────────────────────────────────────┐
 #│                    ROU                    │
 #└───────────────────────────────────────────┘
@@ -519,10 +556,18 @@ SVK R2Kos VstAreUSSte Vaz
 #│                    SWE                    │
 #└───────────────────────────────────────────┘
 
+# ──
+# SJ
+# ──
+
+SWE GotCop Got LundCen
+SWE StoGot StoCen Got
+
 # ─────────
 # Stockholm
 # ─────────
 
+SWE 6Got +DIV_Ber Hag
 SWE 7Sto TCen BelWal
 SWE 11Sto SolCen KunGar
 SWE 14Sto Slu DanSju
@@ -532,3 +577,17 @@ SWE 29Sto StoOst NasPark
 SWE 30Sto SolCen ArsBerg
 SWE 31Sto BroFly AlvStr
 SWE 40Sto StoOdenPlan ArsBerg
+
+# ────────
+# Göteborg
+# ────────
+
+SWE 1Got CenSta BotTradGar
+SWE 2Got AxelDahTorg MarGat
+SWE 2Got VasaVikGat KorsVag
+SWE 3Got MarGat VasaVikGat
+SWE 4Got AngCen MolInn
+SWE 5Got BruPar SanSigPlan
+SWE 8Got AngCen AxelDahTorg
+SWE 11Got JarnTor Maj
+SWE 12Got Lin MolInn

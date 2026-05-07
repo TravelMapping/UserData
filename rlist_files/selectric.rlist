@@ -51,9 +51,9 @@ WA AC SeaKingSt USA/CAN
 
 ### Misc
 
-## Airport Landside Rail Systems
-CA AirTrnBlue Ter2 GarG/BART
-CA AirTrnRed Ter2 GarG/BART_F
+## Airport Rail Systems
+CA AirTrnRed GarG/BART_S GarG/BART_F
+CA AirTrnBlue +DIV_RedLn Loop
 FL SkyCon MainTer RenCarCen
 MN HubTram Ter1 HubBui
 NJ AirTrn NewLibAir TerA
@@ -62,6 +62,11 @@ NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 GA PlaTrn DomTer FGatIntTer
 VA AerTrn ConB ConCD
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
+WA BlueLn AGat_Sta AGat_Fin
+ENG HT5Tra GatA1A23 GatC52C66
+
 
 ## Walt Disney World Monorail
 FL EpcMon TraTicCen EPCOT
@@ -93,25 +98,26 @@ RI ProLn WicJct RI/MA
 ## MUNI
 
 # Cable Cars
-CA CalSt Lea Dru
+CA CalSt VanNess Dru
 CA PowHyde Mar Bea
 CA PowMas Mar Bay
 
 # Metro
-CA MuniT King ChiRosePark
+CA MuniT 23rdSt ChiRosePak
 CA MuniN LaPla 4thKing
 CA MuniM BalPark Emb
 CA MuniK BalPark Emb
 CA MuniJ BalPark Emb
 CA MuniF 17thCas Bea
+CA MuniL Waw Emb
 
 # BART
-CA BARTYel SanFraAir Mac
+CA BARTYel SanFraAir Roc
 CA BARTBlue BalPark WestOak
-CA BARTRed SanFraAir Ash
+CA BARTRed Mil Ric
 
 # Caltrain
-CA CalTra Mil SanFraKing
+CA CalTra SanJoseDir SanFraKing
 
 ### San Diego
 CA BlueLn 12thImpTC OldTownTC
@@ -143,6 +149,7 @@ FL OraLn GovCen MiaAir
 ### LA Metro
 CA E DowSanMon LitTokArtsDis
 CA B HolHig UniSta
+CA A +DIV_E_W UniSta
 
 ### TECO Line
 FL TECO DowTam CenPark
@@ -165,7 +172,9 @@ VA YelLn KingStOldTown VA/DC
 ### Washington
 
 ## Sound Transit
-WA 1 Nor AngLake
+WA 1 Lyn FedWayDow
+WA 2 Lyn DowRed
+
 
 ## Seattle DOT
 WA SeaCenMon SeaCen WesCen
@@ -310,9 +319,6 @@ IRL RedLnTal ThePnt Smi
 ### United Kingdom
 
 ## London
-
-# Heathrow Airport
-ENG HT5Tra GatA1A23 GatC52C66
 
 # National Rail
 ENG NorCityLn Moo AlePal
