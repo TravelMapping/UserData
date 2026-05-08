@@ -1,4 +1,4 @@
-# Date: 2026-05-05
+# Date: 2026-05-08
 # ----------------
 # ----------------
 
@@ -1187,6 +1187,9 @@ ROU 21Buc BucObor PiaSfaGhe           #2023
 ROU 40Buc SosMorLucPat ComComTit      #2023
 ROU 41Buc BlvdMarAve PiaCra           #2023
 ROU 45Buc Mez BlvdMarAve              #2023
+
+#Edinburgh
+SCT EdiTram NewHav EdiAir       #2026
 
 #Belgrade
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(
