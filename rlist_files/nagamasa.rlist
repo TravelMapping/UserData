@@ -119,6 +119,9 @@ DEU-HH S3 HamBurgAlt JunSti
 DEU-HH U1 SteStr LohMuhStr
 DEU-HH U3 LanBru HbfSud
 
+#### DNK
+DNK GotCop CopAir CopCen
+
 ### ENG
 ## UNDERGROUND
 ENG DisLn SouKen MileEnd
@@ -475,6 +478,8 @@ NOR 12Osl AkerBry Jer
 
 #### PRT
 ### Porto
+PRT A SenMat Tri
+PRT D FarGui JarMor
 PRT E Aer Tri
 
 #### SGP
@@ -498,7 +503,7 @@ SWE 10Sto Rad TCen
 ## TRAM
 SWE 3Got KunPla CenSta
 
-#### THAILAND
+#### THA
 ### BANGKOK
 THA ARL A1 A8
 THA DarkRedLn RN01 RN08
@@ -537,9 +542,9 @@ CA OAKAir OakIntAir Col
 CA MuniF 9thLar 3rdKea
 CA MuniF FerBui Pier39Sto
 CA MuniJ 24th CivCen
-CA MuniK Cas MonSt
+CA MuniK 14th MonSt
 CA MuniL 19th MonSt
-CA MuniN 46th 4thKing
+CA MuniN LaPla 4thKing
 CA MuniT Mar ChiRosePark
 
 #SMART
@@ -576,11 +581,16 @@ NV AE ParkMGM Bel
 NY NECorLn PennSta NJ NECorLn Met
 
 ## MTA
-NY 6 59thSt 33rdSt
-NY 7 34StHudYar FluMainSt
+NY 3 BorHall BroMus
+NY 6 96thSt BleSt
+NY 7 34StHudYar 111St
 NY A 42StPABT HighSt
+NY C 96St 81StMusNH
+NY C 42StPABT JayStMetTech
+NY D 42StBryPark GraSt
 NY E SutBlvdArcAve CanSt
-NY F KewGarUniTpke 47-50StsRocCen
+NY F JacHeiRooAve 47-50StsRocCen
+NY F 42StBryPk 7Ave
 NY J BroSt CanSt
 NY L 8Ave 14StUniSq
 NY M 47-50StsRocCen LexAve53St
@@ -613,7 +623,7 @@ WA SouLakeUniLn LakeUniPark WesHub
 ### LANDSIDE
 ## AMERICAS
 ON TerLnk Ter1 Vis
-CA AirTrnBlue RenCarCen Loop
+CA AirTrnBlue LongTermPar Loop
 CA AirTrnRed GarG/BART_S GarG/BART_F
 GA SkyTrn Air RenCarCen
 IL AirTraSys Ter1 Ter5
@@ -623,7 +633,7 @@ NY AirTrnJam Jam Loop
 ### AIRSIDE
 ## AMERICAS
 CO DENTrn JepTer CGat
-FL TPAShu MainTer AirA
+FL GateLinkTBE TerB Air4
 GA PlaTrn DomTer FGatIntTer
 MI ExpTram SouSta NorSta
 NV BlueLn Ter1 DGat
