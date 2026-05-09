@@ -411,4 +411,13 @@ HRV Z6011 Z6273 Z6004
 HRV Z6004 Z6011 PutZdr
 HRV D54 D8 D27
 
+###########################
+## Rogla ski 15.02.2026. ##
+###########################
+HRV D207 D206 D1
+SVN G107 R219_N R432_S
+SVN R219 R688_W G107_E
+SVN R688 MizCes R219_N
+SVN R430 R701 R686
+SVN R701 R430 Rog
 

@@ -14,11 +14,12 @@ AK AurWin Anc Fai
 #AZ
 
 AZ PHX T3 44thSt
-AZ SL CA/AZ Yuma
+AZ SL CA/AZ Tus
 AZ SL Ben AZ/NM
 AZ SW CA/AZ Fla
 AZ A DowPhoHub GilRdMainSt
 AZ B DowPhoHub 19thAveDun
+AZ SunLink CusFro_W HelWar
 
 #CA
 
@@ -368,6 +369,7 @@ ITA-LIG FbRomGen GenPiaPri LIG/TOS
 ITA-TOS FbRomGen LIG/TOS PisCen
 ITA-LOM S8 Lec MilGrePir
 ITA-LOM MXP1 MalAerTer2 MilBovPol
+ITA-LOM S13 MilRog Pav
 
 #SCOTLAND
 

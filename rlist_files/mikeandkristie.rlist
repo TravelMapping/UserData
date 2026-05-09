@@ -14,7 +14,7 @@ CO RoyGorRou Par CanCity
 
 # District of Columbia
 DC BluLn VA/DC DC/MD
-DC GreLn +DIV_Yel MtVerSq
+DC GreLn MD/DC MtVerSq
 DC RedLn FriHei GalPla
 #DC SilLn DC/MD DC/MD
 DC YelLn VA/DC MtVerSq
@@ -27,6 +27,7 @@ GA PlaTrn BGat CGat
 
 # Maryland
 MD BluLn DC/MD DowLar
+MD GreLnSui MD/DC BraAve
 #MD SilLn DC/MD DowLar
 
 # Nevada
@@ -49,8 +50,9 @@ NC BluLn Woo Sto
 
 # Pennsylvania
 PA AirLn PHLTerA Phi30thSt
-PA MarFraLn 30th 8th
+#PA MarFraLn 30th 8th
 PA Mon Low Upp
+PA WarLn Phi30thSt Jef
 
 # South Dakota
 SD 1880Tra HillCity Key
