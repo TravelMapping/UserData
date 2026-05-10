@@ -138,9 +138,9 @@ MD MetSub OwiMil JohHopHos
 MD BLRL NLin HuntVly
 MD BLRLPen CamYds PennSta
 
-VA BluLn FraSpr MD BluLn LarTowCen
+VA BluLn FraSpr MD BluLn DowLar
 VA OraLn VieFaiGMU MD OraLn NewCar
-VA SilLn Ash MD SilLn LarTowCen
+VA SilLn Ash MD SilLn DowLar
 MD RedLn ShaGro MD RedLnGle Gle
 VA YelLn Hun DC YelLn MtVerSq
 MD GreLnSui BraAve MD GreLn Gre
@@ -169,6 +169,8 @@ MN HubTram Ter1 HubBui
 MO MLBlueLn Uni ConCen
 
 #--------SOUTH CITIES--------
+VA Tide EVMCForNor NewRd
+
 NC BluLn I-485 UNCChaMain
 NC GolLn FreSt SunAve 
 
@@ -189,7 +191,7 @@ FL TerLink TerA/B TerC
 TN MainStTro But Mad
 
 LA CanCem HarCas CemTraTer
-LA CanCityPark Park HarCas MusArt
+LA CanCityPark HarCas MusArt
 LA StCha CanCar SCla
 
 TX BlueLn UNTDal DowRow
