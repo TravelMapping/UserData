@@ -5,6 +5,7 @@ ENG CamLn BirInt TelCen
 
 ###CC###
 ENG LTSLn LonFenSt Upm
+ENG LTSLnStr LonLivSt Str
 
 ###CH###
 ENG AylLn LonMar Ayl
@@ -16,6 +17,7 @@ ENG LutAirExp LonStPanInt Wel
 
 ###GN###
 ENG NorCityLn Moo EnfCha
+ENG RheeVlyLn LonKinCro FinPark
 
 ###GW###
 ENG SevVlyLn BriPkwy BriTemMea #XC Bristol Parkway - Bristol Temple Meads
@@ -78,11 +80,12 @@ ENG HayLn LonBri Hay
 ENG HayLnLew LonBri Lad
 ENG HS1Can AshInt Mar
 ENG HS1Dov AshInt Ram
-ENG NKentLn AbbWoo Dar
+ENG NKentLn LonBri Bla
+ENG NKentLn Cha Dar
 ENG SEML ChaCro Ram
 ENG SidLnLew LonBri Mot
 ENG SidLn LonBri Dar
-ENG WooLn CanSt_1 AbbWood
+ENG WooLn LonBri SlaGre
 
 ###SN###
 ENG CatLn EastCro Cat
@@ -140,8 +143,8 @@ ENG XCMLSou Bou Wol
 ENG XCMLDon Rea BirNewSt
 
 ###XR###
-ENG EliLnShe HeaTer5 HeaTer23
-ENG EliLnHea HeaTer4 Pad
+ENG EliLnShe HeaTer5 She
+ENG EliLnHea HeaTer4 AbbWood
 ENG EliLn Rea AbbWood
 ENG EliLnShe Whi She
 #XR into Paddington and Liverpool Street Mainline stations

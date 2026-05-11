@@ -155,6 +155,7 @@ CA CA905 1A 3
 CA CA905 9 USA/MEX
 CA ElPorRd BigOakRd SenDr_S
 CA I-5 0 999
+CA I-5TrkNew I-5_S I-5_N
 CA I-5BLMou I-5_S LakeSt
 CA I-8 0 118
 CA I-8BLAlp I-8_W AlpBlvd_W
@@ -187,8 +188,10 @@ CA I-905FutOta USA/MEX 9
 CA I-905FutOta I-5 2B
 CA I-980 I-880 2
 CA LasPeakHwy CA89_S CA44/89
+CA NorDr SouDr ElPorRd
 CA ParkBlvd CA62_W CA62_E
 CA PinBasRd I-10 ParkBlvd
+CA SouDr ElPorRd NorDr #how else did I park?
 CA TioPassRd BigOakRd CA120
 CA US50 I-80BL(4A) 30
 CA US50 PyrCrkRd CA/NV #really Strawberry
@@ -315,6 +318,7 @@ ITA A50 A1_S A8
 ITA AGRA 10 2A
 ITA E45 SS3Bis_N A1_N
 ITA E55 SS3Bis_S A4/A57
+ITA ViaMarPolo A1 SP34 #per photo, maybe more
 MD I-270 0 32
 MD MD355 DC/MD I-270/495
 MD US15 US40_E MD/PA

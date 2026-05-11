@@ -1,0 +1,74 @@
+#US Routes --------------------------------------------------------------
+#Amtrak:
+CA PS OldTownTC Irv                     #CA PA; Pacific Surfliner
+MO LI StLouGat IL LI UniSta             #IL LI; Lincoln Service
+
+
+#State Routes -----------------------------------------------------------
+#Atlanta MARTA:
+GA GoldLn Air PeaCen
+
+#Chicago L:
+IL SkoSwi DemSko How
+IL PurLn How Lin
+IL RedLn Gar IL RedLn How
+IL BlueLn ClaLake LaS
+IL BroLn +DIV_NW Loop
+
+#Chicago Metra:
+IL NCS UniSta Mun
+IL UPNW OgiTraCen MtPro
+
+#Minnesota Metro:
+MN BlueLine MallofAmerica TargetFieldPlatform2
+
+#New York Subway:
+NY S42 TimSq GraCen
+NY 7 42StGraCen MetsWilPoi
+NY 4 161StYanSta 42StGraCen
+
+#San Diego Blue Line
+CA GreLn GasQua +DIV_Blue_N
+
+
+#Airports -------------------------------------------------------------
+#California
+CA AirTrnBlue RenCarCen Loop            #SFO
+CA AirTrnRed GarG/BART_S GarG/BART_F.   #SFO
+
+#Colorado:
+CO DENTrn JepTer CGat                   #DEN
+
+#Florida:
+FL SkyTrn 1 4                           #MIA
+FL ETrn E2 E20                          #MIA
+FL MiaM IntCen MIA                      #MIA
+FL GateLinkTBW TerB Air3                #MCO
+
+#Georgia:
+GA PlaTrn DomTer FGatIntTer             #ATL
+GA SkyTrn Air RenCarCen                 #ATL
+
+#Illinois
+IL AirTraSys Ter1 MulModFac             #ORD
+
+#Michigan:
+MI ExpTram SouSta NorSta                #DTW
+
+#Minnesota
+MN MSPTram ConDE ConAB                  #MSP
+
+#Nevada:
+NV BlueLn Ter1 DGat                     #LAS
+NV GreLn Ter1 CGat                      #LAS
+
+#New Jersey
+NJ AirTrn TerC +SKIP_EmpOnly            #EWR
+
+#Texas:
+TX Sky A8 A21                           #DFW
+TX IAHSky TerA TerDE                    #IAH
+TX IAHSub TerA TerD/E                   #IAH
+
+#Virginia:
+VA AerTrn ConB ConA                     #IAD

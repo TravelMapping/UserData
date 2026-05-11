@@ -8,8 +8,9 @@ NY NewHavLn GraCen CT NewHavLn NHStaSt
 NY HudLn GraCen Pou
 NY HarLn GraCen Was
 NY SIR StGeo Tot
-NY 4 59St NevSt
-NY D 161StYanSta 36thSt
+NY 4 125St NevSt
+NY B 145St BriBea
+NY D 161StYanSta ConIslStiAve
 NY N QuePlaza 59St
 NY 7 34StHudYar FluMainSt
 NY S42 TimSq GraCen
@@ -20,8 +21,10 @@ NJ PATHNWT JouSq NY PATHNWT WTC
 NY E +SKIP_WooBlvd WTC
 NY F LexAve63St 4Ave
 NY 2 96St FlaAveBroCol
-NY R QuePla +DIV_E/M
-NY R +DIV_N/W 59St
+NY R WooBlvd BayRid95St
+NY Q BriBea ConIslStiAve
+NY G CouSq 4Ave
+
 
 Connecticut
 CT HarLn NHUniSta MA HarLn Spr
@@ -36,6 +39,7 @@ MA RedLn CenSq SouSta
 MA BluLn Mav Bow
 MA GreLnE MedTuf Sym
 MA GreLnD Lec  Fen
+MA FallRivLn BosSou FallRiv
 
 Other
 CA BARTYel Roc CivCen
