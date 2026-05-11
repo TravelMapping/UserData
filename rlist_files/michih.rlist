@@ -931,7 +931,7 @@ ENG MetLnWat Wat MoorPark             #2026
 ENG LioLn Ken WatJct                  #2026
 ENG MetLnAme NorPark WemPark          #2026
 ENG JubLn Sta BakSt                   #2026
-ENG HaC BakSt KinCroStPan             #2026
+ENG HaCLn BakSt KinCroStPan           #2026
 ENG NorLnBar HighBar KinCroStPan      #2026
 ENG NorLnMHE MillHillEast WarSt       #2026
 ENG VicLn KinCroStPan WarSt           #2026
@@ -940,7 +940,7 @@ ENG EliLnShe LivSt Str                #2026
 
 
 #Manchester
- ENG MetLnkEDR StPetSq Vic            #2026
+ENG MetLnkEDR StPetSq Vic            #2026
  
 #Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
