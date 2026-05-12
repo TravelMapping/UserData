@@ -1,4 +1,4 @@
-# Date: 2026-05-08
+# Date: 2026-05-11
 # ----------------
 # ----------------
 
@@ -922,12 +922,30 @@ ENG VicLn FinPark Bri                 #2019, London Victoria Line:       Finsbur
 ENG DisLn AldEast WestHam             #2019, London District Line:       Aldgate East - West Ham
 ENG JubLn BakSt WestHam               #2019, London Jubilee Line:        West Ham - Baker Street
 ENG CenLn RuiGar OxfCir               #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG CenLnEal EalBro Str               #2026
+ENG CenLn WestRui NorAct              #2026
+ENG MetLnUxb Rui NorPark              #2026
+ENG MetLnAme Ame NorPark              #2026
+ENG MetLn ChaLat MoorPark             #2026
+ENG MetLnWat Wat MoorPark             #2026
+ENG LioLn Ken WatJct                  #2026
+ENG MetLnAme NorPark WemPark          #2026
+ENG JubLn Sta BakSt                   #2026
+ENG HaCLn BakSt KinCroStPan           #2026
+ENG NorLnBar HighBar KinCroStPan      #2026
+ENG NorLnMHE MillHillEast WarSt       #2026
+ENG VicLn KinCroStPan WarSt           #2026
+ENG MetLn KinCroStPan LivSt           #2026
+ENG EliLnShe LivSt Str                #2026
+
+
+#Manchester
+ENG MetLnkEDR StPetSq Vic            #2026
+ 
+#Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-#Manchester
- ENG MetLnkEDR StPetSq Vic            #2026
- 
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025
 
