@@ -306,7 +306,8 @@ MS US98 I-55(20) I-55(15)
 MS US98 I-59(65) US49
 MT US93 SR263 I-90(96)
 NE US6 I-680 NE/IA
-NE US385 KanSt US20_E
+NE US20 SmiCanDr MainSt_Cha
+NE US385 KanSt US20_W
 NJ US1 NewAir I-78(57)
 OH US6 39(24) 102(20)
 OH US20 98 OH4
@@ -584,6 +585,7 @@ MO MO249 I-44 I-49BL/171
 MT MT47 I-90 SugFacRd
 
 #Nebraska State Highways
+NE NE2 LoneTreeRd US20_W
 NE NE2 US385_N NE87
 NE NE2 KanSt US281_N
 NE NE2 HusHwy I-80
@@ -591,6 +593,7 @@ NE NE87 NE2 LogRd
 
 #Nebraska State Auxiliary Highways
 NE NE2BusGra NE2_W CapAve
+NE S23A US20 MisSt
 
 #New Jersey State Highways
 NJ NJ495 I-95 NJ/NY
