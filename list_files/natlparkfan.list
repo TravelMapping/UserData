@@ -2184,6 +2184,25 @@ UT	KolCynRd	I-15	End	#2025-09 Great Basin
 UT	I-15BLStG	700E	I-15_N	#2025-09 Great Basin
 AZ	I-15	NV/AZ	AZ/UT	#2025-09 Great Basin
 #2026-05 Going Bananas				
+GA	GA6	I-285	US29	#2026-05 Going Bananas
+GA	I-285	2	15	#2026-05 Going Bananas
+GA	GA280	I-285	WesDr	#2026-05 Going Bananas
+GA	GA360	SanRd	GA5/120	#2026-05 Going Bananas
+GA	GA5	GA360	ChuSt	#2026-05 Going Bananas
+GA	GA120	ErnBarPkwy	GA9_S	#2026-05 Going Bananas
+GA	GA9	NorRd	GA120_W	#2026-05 Going Bananas
+GA	US19	I-285(27)	GA400(6)	#2026-05 Going Bananas
+GA	I-285	20	27	#2026-05 Going Bananas
+GA	I-75	258	259	#2026-05 Going Bananas
+GA	US41	NortDr	CumBlvd	#2026-05 Going Bananas
+GA	US41	I-285(19)	WinRidPkwy	#2026-05 Going Bananas
+GA	I-285	19	20	#2026-05 Going Bananas
+GA	I-75	165	259	#2026-05 Going Bananas
+GA	I-16	1	167	#2026-05 Going Bananas
+GA	US80	OglSt	JefRd	#2026-05 Going Bananas
+GA	US23	US80_W	US129Alt_N	#2026-05 Going Bananas
+GA	GA22	US41Bus_N	US23/129Alt	#2026-05 Going Bananas
+GA	GA25ConSav	MLKingBlvd_S	BaySt_E	#2026-05 Going Bananas
 SC	US17	GA/SC	SC315	#2026-05 Going Bananas
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
@@ -2246,8 +2265,7 @@ CA	I-710	1B	ValBlvd
 CA	US101	1A	460	
 CA	US101BusVen	US101_S	US101_N	
 CA	CA1	72(101)	PadJuanRd	#Mondos
-CA	CA1	5thSt	62B(101)	
-CA	CA1	ElSegBlvd	OxnBlvd	
+CA	CA1	PalVerBlvd	62B(101)	
 CA	CA2	CenAve	WilBlvd	
 CA	CA2	12	21	
 CA	CA19	I-10	I-210	
