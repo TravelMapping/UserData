@@ -242,12 +242,14 @@ NC I-74 VA/NC 17 #tenessee trip
 NC I-74Hig 33(73) 16B(73) #wingate trip 10-25
 NC I-77 NC/VA 101 #tenessee trip
 NC I-77 51 50 #BRR 9-25
+NC I-77 1B 6B #florida trip 2026
 NC I-85 NC/VA SC/NC
 NC I-95 NC/VA SC/NC #whole route taken on trip to flagler beach
 NC I-240 5B 9 #BRR 9-25
 NC I-295 34 21A #fort bragg trip 1-2026
 NC I-440 1 16 #finished 2-26
 NC I-485 30 32
+NC I-485 57 67 #florida trip 2026
 NC I-540 4 26 #roadtrip 11-16-25
 NC I-840 6 21 #spring break road trip 2026 (blacksburg -> raleigh)
 NC I-885 5 13 #completed 9-25
@@ -266,7 +268,7 @@ NC US64 BilCrkRd NC9 #BRR 9-25
 NC US64 404 KelRd # diavolo 10-25
 NC US64BusWen NC231 I-440 #roadtrip 8-13-25 finished november 2025
 NC US70 LomSt 292 #roadtrip 11-25
-NC US74 306 MainSt #wingate trip 10-25
+NC US74 306 US601_S #wingate trip 10-25, florida trip 2026
 NC US74 US117/132 US76_E #wilmington 5k 2024
 NC US74AltAsh I-240(8) NC81_E #BRR 9-25. stopped at the brewing place
 NC US74BusRoc US74_W 1 #wingate trip 10-25
@@ -278,18 +280,21 @@ NC US220 NC/VA I-840 #spring break road trip 2026 (blacksburg -> raleigh)
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
+NC US301 SC/NC I-95(1) #florida trip 2026
 NC US401 US1_N NC27_W #road trip 4-27-25
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
 NC NC5 ElIvesDr NC211 #road trip 4-27-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
+NC NC16 NC84 I-485(57) #florida trip 2026
 NC NC24 21C(295) NC210_N #fort bragg trip 1-26
 NC NC27 US401_N US1 #road trip 4-27-25
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
 NC NC42San US1/15 US401_N #road trip 4-27-25
+NC NC49 I-77 SC/NC #florida trip 2026
 NC NC50 US70_W LynnRd #technically to SR 1822
 NC NC50 US15 LynnRd #uva track meet 4-26
 NC NC54 I-440(3) BluRidRd #campus
@@ -302,7 +307,9 @@ NC NC55BypHol NC55_N NC55_S #road trip 12-9-25
 NC NC66 US421 NC74 #spring break road trip 2026 (raleigh -> breaks)
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
+#NC NC75 franklin street to new town road, florida trip 2026
 NC NC78 US1 US421Bus #road trip 4-27-25
+NC NC84 PotRd NC16 #florida trip 2026
 NC NC86 US70 NC/VA #raleigh -> hershey
 NC NC86 I-40 US15/501 #various trips
 NC NC96 US64/264 US64Bus_W
@@ -324,8 +331,7 @@ NC NC540 64 1 #last update - BRR 9-25
 NC NC885 1 5
 #south carolina
 SC I-20 141 GA/SC #panama city trip 2025
-SC I-85 51B SC/NC #panama city trip 2025
-SC I-85 GA/SC 42 #panama city trip 2025
+SC I-85 GA/SC SC/NC #panama city trip 2026
 SC I-95 SC/NC GA/SC #flagler beach trip
 SC I-385 36 42 #panama city trip 2025
 SC US15 SC441 I-20(116) #congaree trip 8-31-25
@@ -333,9 +339,13 @@ SC US29 US123 I-85(42)  #panama city trip 2025
 #SC US76 Congress Rd to Reese Rd, too small for a waypoint. congaree trip 8-31-25
 SC US76 SC263 SC441 #congaree trip 8-31-25
 SC US123 NorSt US29 #panama city trip 2025
+SC US301 SC9/57_S SC/NC #florida trip 2026
 SC US601 I-20 SC262 #congaree trip 8-31-25
+SC SC5 SC49 I-85 #florida trip 2026
 SC SC9 I-95 SC57_N #congaree trip 8-31-25 - slightly shorter than waypoint here!
+SC SC34 I-95 US301/501
 SC SC48 MouViewRd SC769 #congaree trip 8-31-35 - stopped at sims rd, went as far as griffins creek rd
+SC SC49 SC/NC SC5/161 #florida trip 2026
 #SC SC262 US601 Congress Rd, which is nowhere close to the next waypoint
 SC SC263 SC764 US76/378 #congaree trip 8-31-25
 SC SC441 US76/378 US15 #congaree trip 8-31-25
@@ -345,15 +355,16 @@ SC SC769 ElmSavRd SC48 #congaree trip 8-31-25 - off old congaree road
 GA I-20 183 GA/SC
 GA I-75 99 102
 GA I-75 251 238 #dwarf house trip
-GA I-85 GA/SC 102 #three parts
+GA I-85 GA/SC 99 #three parts
 GA I-85 95 78 #dwarf house trip
-GA I-85 21 68
+GA I-85 AL/GA 68 #florida trip 2026
 GA I-95 GA/SC FL/GA #flagler beach trip
 GA I-185 10 I-85
-GA I-285 31 33 #to dwarf house
-GA I-285 GA279 62A #from drawrf house
-GA I-285 58 62 #from drawrf house
+GA I-285 GA279 62A #dwarf house, florida trips
+GA I-285 31 62 #dwarf house, florida trips
+GA US17 FL/GA GA25Spr #florida trip 2026
 GA US19 US19/82Bus US82_E
+GA GA25SprWoo US17 I-95 #florida trip 2026
 GA US27 GA45/91_S GA91Spr
 GA US41 I-75(239B) CenAve_N #dwarf house trip
 GA US80 AL/GA GA22Con
@@ -368,27 +379,39 @@ GA GA57 GA112 GA68
 GA GA68 GA57 GA15_N #panama city trip 2025
 GA GA91 FL/GA US19Bus/82Bus
 GA GA112 GA257_E GA57 #possibly took a divvy onto balls ferry road but i don't know for sure and there's no closer marker
-GA GA141 SpaDr I-285
+GA GA140 I-85 GA141 #florida trip 2026
+GA GA141 SpaDr I-285 #florida trip 2025 + 2026
 GA GA257 I-75 US129Alt_N
 GA GA300 US19/82Bus I-75
 GA GA378 I-85 US23 #panama city trip 2025
 GA GA520BusAlb GA91 US19
 GA GA540 GA15 US221_N
 #florida
+FL I-10 174 356 #florida trip 2026
 FL I-95 FL/GA 362 #flagler beach trip
 FL I-95 333 298 #flagler beach trip
 FL I-295 35 58 #flagler beach trip
+FL I-295 21 35 #florida trip 2026
 FL US1 I-95(298) PalmCoaPkwy #flagler beach trip
+FL US17 FL200/A1A FL/GA #florida trip 2026
 FL US90 FL77 FL277 #panama city trip 2025
-FL US98 FL79 WisLn #panama city trip 2025
+FL US98 FL30 WisLn #panama city trip 2025 + 2026
 FL US231 FL/AL FL273 #panama city trip 2025
+FL FLA1AFer I-95 US17 #florida trip 2026
 FL FL2 FL/GA US231 #panama city trip 2025
 FL FL9BJac I-295 4 #flagler beach trip
-FL FL30 DelPl FL79 #we never took 79 directly into 30, always us98
+FL FL12 FL20 I-10 #florida trip 2026
+FL FL20 FL81 FL79 #florida trip 2026
+FL FL20 FL77 FL12 #florida trip 2026
+FL FL30 DelPl RicJacBlvd #florida trip 2026
+FL FL30PCB FL392A_E US98_E #florida trip 2026
 FL FL77 US90 FL273 #panama city trip 2025
-FL FL79 FL277 US98 #panama city trip 2025
+FL FL77 FL388_W FL20 #florida trip 2026
+FL FL79 FL277 FL30 #panama city trip 2025, last south bit 2026
+FL FL81 FL/AL FL20 #florida trip 2026
 FL FL273 FL77 US231 #panama city trip 2025
 FL FL277 US90 FL79 #panama city trip 2025
+FL FL388 FL79 FL77 #florida trip 2026
 #new mexico
 NM I-25 419 222
 NM US64 NM58 NM21 #cimmaron
@@ -579,11 +602,16 @@ WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
 WV WV61 QuiDockRd CR79/3 #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV307 CR9/9 US19/3_N #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to paint creek rd)
-#alabama
+#alabama - first visited may 2025
+AL I-85 AL/GA 15 #florida trip 2026
 AL US80 AL/GA US280/431_S #panama city trip 2025
 AL US231 US431 FL/AL #panama city trip 2025
+AL US231 US82_E AL87/167 #florida trip 2026
 AL US431 OpeRd US84_W #panama city trip 2025
 AL US431BusDot US84/431 US231/431 #panama city trip 2025
+AL AL87 US231/10 FL/AL #florida trip 2026
+AL AL108 I-85 22 #florida trip 2026
+AL AL110 AL108 WalRd #florida trip 2026
 #kentucky - first visited 3-17-26
 KY ComMtnPkwy 16 US460_E #spring break road trip 2026 (breaks -> mammoth)
 KY CumPkwy 88 1 #spring break road trip 2026 (breaks -> mammoth)
