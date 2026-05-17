@@ -1,4 +1,4 @@
-# Date: 2026-05-15
+# Date: 2026-05-17
 # ----------------
 # ----------------
 
@@ -1020,7 +1020,9 @@ FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
 FRA-HDF M1 CHUEur QuaCanStaPieMau     #2026
-FRA-HDF M2 PorPos GareLilFla          #2026
+FRA-HDF M2 StPhi CHDron               #2026
+FRA-HDF R GareLilFla Eur              #2026
+FRA-HDF T GareLilFla TouCen           #2026
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025
