@@ -1,4 +1,4 @@
-# Date: 2026-05-08
+# Date: 2026-05-17
 # ----------------
 # ----------------
 
@@ -922,12 +922,50 @@ ENG VicLn FinPark Bri                 #2019, London Victoria Line:       Finsbur
 ENG DisLn AldEast WestHam             #2019, London District Line:       Aldgate East - West Ham
 ENG JubLn BakSt WestHam               #2019, London Jubilee Line:        West Ham - Baker Street
 ENG CenLn RuiGar OxfCir               #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG CenLnEal EalBro Str               #2026
+ENG CenLn WestRui NorAct              #2026
+ENG MetLnUxb Rui NorPark              #2026
+ENG MetLnAme Ame NorPark              #2026
+ENG MetLn Che MoorPark                #2026
+ENG MetLn ChaLat MoorPark             #2026
+ENG MetLnWat Wat MoorPark             #2026
+ENG LioLn Ken WatJct                  #2026
+ENG MetLnAme NorPark WemPark          #2026
+ENG JubLn Sta BakSt                   #2026
+ENG HaCLn BakSt KinCroStPan           #2026
+ENG NorLnBar HighBar KinCroStPan      #2026
+ENG NorLnMHE MillHillEast WarSt       #2026
+ENG VicLn KinCroStPan WarSt           #2026
+ENG MetLn KinCroStPan LivSt           #2026
+ENG EliLnShe LivSt Str                #2026
+ENG EliLnShe Str She                  #2026
+ENG LibLn Rom Upm                     #2026
+ENG DisLn WestHam Upm                 #2026
+ENG JubLn WestHam Str                 #2026
+ENG CenLnEal Str Woo                  #2026
+ENG CenLn Leys Epp                    #2026
+ENG SufLn GosOak LeyHighRd            #2026
+ENG MilLn GosOak HigIsl               #2026
+ENG VicLn WalCen HigIsl               #2026
+ENG WeaLnChi HacDow Chi               #2026
+ENG MilLn HacCen Str                  #2026
+ENG DLRStI StrInt Str                 #2026
+ENG SufLn SouTot BarRiv               #2026
+ENG WeaLnEnf SevSis EnfTown           #2026
+ENG WeaLn LivSt Che                   #2026
+ENG DLRWoo Bank WooArs                #2026
+ENG EliLn Whi AbbWood                 #2026
+ENG DLRStI Str CanTown                #2026
+ENG DLRRoy Pop Bec                    #2026
+ENG DLRStr Str Pop                    #2026
+
+#Manchester
+ENG MetLnkEDR StPetSq Vic             #2026
+ 
+#Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-#Manchester
- ENG MetLnkEDR StPetSq Vic            #2026
- 
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025
 
@@ -982,7 +1020,9 @@ FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
 FRA-HDF M1 CHUEur QuaCanStaPieMau     #2026
-FRA-HDF M2 PorPos GareLilFla          #2026
+FRA-HDF M2 StPhi CHDron               #2026
+FRA-HDF R GareLilFla Eur              #2026
+FRA-HDF T GareLilFla TouCen           #2026
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025

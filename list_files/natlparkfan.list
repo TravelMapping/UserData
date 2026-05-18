@@ -2184,7 +2184,44 @@ UT	KolCynRd	I-15	End	#2025-09 Great Basin
 UT	I-15BLStG	700E	I-15_N	#2025-09 Great Basin
 AZ	I-15	NV/AZ	AZ/UT	#2025-09 Great Basin
 #2026-05 Going Bananas				
+GA	GA6	I-285	US29	#2026-05 Going Bananas
+GA	I-285	2	15	#2026-05 Going Bananas
+GA	GA280	I-285	WesDr	#2026-05 Going Bananas
+GA	GA360	SanRd	GA5/120	#2026-05 Going Bananas
+GA	GA5	GA360	ChuSt	#2026-05 Going Bananas
+GA	GA120	ErnBarPkwy	GA9_S	#2026-05 Going Bananas
+GA	GA9	NorRd	GA120_W	#2026-05 Going Bananas
+GA	US19	I-285(27)	GA400(6)	#2026-05 Going Bananas
+GA	I-285	19	27	#2026-05 Going Bananas
+GA	I-75	165	259	#2026-05 Going Bananas
+GA	US41	NortDr	CumBlvd	#2026-05 Going Bananas
+GA	US41	I-285(19)	WinRidPkwy	#2026-05 Going Bananas
+GA	I-16	1	167	#2026-05 Going Bananas
+GA	US80	OglSt	JefRd	#2026-05 Going Bananas
+GA	US23	US80_W	US129Alt_N	#2026-05 Going Bananas
+GA	GA22	US41Bus_N	US23/129Alt	#2026-05 Going Bananas
+GA	GA25ConSav	MLKingBlvd_S	BaySt_E	#2026-05 Going Bananas
+GA	US80	MLKingBlvd	FortPulNMon	#2026-05 Going Bananas
+GA	HarTruPkwy	MonCroRd	PreSt	#2026-05 Going Bananas
+GA	GA25ConSav	US17	MLKingBlvd_S	#2026-05 Going Bananas
+GA	US17	GA25Con	GA/SC	#2026-05 Going Bananas
 SC	US17	GA/SC	SC315	#2026-05 Going Bananas
+SC	SC315	US17	SC170	#2026-05 Going Bananas
+SC	SC170	SC315	SC46_W	#2026-05 Going Bananas
+SC	SC46	FroRd	SC170_W	#2026-05 Going Bananas
+SC	US278	JohnSmiRd	SC170	#2026-05 Going Bananas
+SC	SC170	US278	SC128	#2026-05 Going Bananas
+SC	SC128	SC170	US21	#2026-05 Going Bananas
+SC	US21	S-7-45	SC128	#2026-05 Going Bananas
+SC	US21BusBea	US21_S	US21_N	#2026-05 Going Bananas
+SC	US21	US21BusBea_N	US17_N	#2026-05 Going Bananas
+SC	US17	US21_S	BeesFerRd	#2026-05 Going Bananas
+SC	SC700	RivRd	US17	#2026-05 Going Bananas
+SC	US17	SC700	I-26(End)	#2026-05 Going Bananas
+SC	I-26	220A	US17_S	#2026-05 Going Bananas
+SC	US52	CypSt	RomSt	#2026-05 Going Bananas
+SC	US52	US17	I-26(221)	#2026-05 Going Bananas
+SC	US17	US52	HouNorBlvd	#2026-05 Going Bananas
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	
@@ -2246,8 +2283,7 @@ CA	I-710	1B	ValBlvd
 CA	US101	1A	460	
 CA	US101BusVen	US101_S	US101_N	
 CA	CA1	72(101)	PadJuanRd	#Mondos
-CA	CA1	5thSt	62B(101)	
-CA	CA1	ElSegBlvd	OxnBlvd	
+CA	CA1	PalVerBlvd	62B(101)	
 CA	CA2	CenAve	WilBlvd	
 CA	CA2	12	21	
 CA	CA19	I-10	I-210	
