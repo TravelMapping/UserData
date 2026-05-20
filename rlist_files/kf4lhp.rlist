@@ -102,6 +102,7 @@ VA YelLn Hun VA/DC
 #Airside
 FL GateLinkTBE TerB Air4
 GA PlaTrn TGat EGat
+NV BlueLn Ter1 DGat
 
 #Incline Railways
 PA Duq Low Upp
