@@ -64,6 +64,7 @@ CHE IC1 GenAer GenCor
 ### CRH
 CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
+CHN-GD GuangShen GuangZhouE +DIV_JingGangN
 
 ### GD
 ## PRD ICR
