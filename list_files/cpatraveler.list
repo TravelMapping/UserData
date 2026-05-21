@@ -2117,7 +2117,10 @@ AZ AZ86 AZ85 16thAve
 AZ AZ90 AZ82 AZ92
 AZ AZ90 AZ80 AZ92 
 AZ AZ92 AZ90 MonCanRd
+AZ AZ95 AZ95SPar I-40 #052026 Complete I 40
 AZ AZ95Bul CA/AZ BulPkwy #07192024 Travel to Flagstaff to visit Parks
+AZ AZ95SPaD AZ95 TakPoiRd #052026 Complete I 40
+AZ AZ95SPar CA/AZ AZ95 #052026 Complete I 40
 AZ AZ101 55A 61B #09082024 Travel to Visit Navopache Electric 
 AZ AZ143 McDRd 1 #09082024 Travel to Visit Navopache Electric   
 AZ AZ181 PinCanRd US191 
@@ -2126,14 +2129,17 @@ AZ AZ188 US60 GraAirRd
 AZ AZ202 1A 78
 AZ AZ210 BroBlvd GolfLinRd
 AZ AZ260 US60_E WooLakeRd #09082024 Travel to Visit Navopache Electric     
-AZ AZ389 UT/AZ US89Alt  
+AZ AZ389 UT/AZ US89Alt
+AZ US66HisKin I-40(1) ToUS93 #052026 Complete I 40  
 CA I-5 MEX/USA 135C #MC Tijuana Trip
 CA I-10 CA/AZ 1 #Trip to 29Palms
 CA I-15 109 CA/NV #Las Vegas Wedding Trip
+CA I40 I-15 144 #052026 Complete I 40
 CA I-40 CA/AZ 133 #07192024 Travel to Flagstaff to visit Parks
 CA I-40BLNee I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
 CA US66HisNee I-40(144) I-40(139) #07192024 Travel to Flagstaff to visit Parks 
-CA US95 I-40(133) CA/NV #07192024 Travel to Flagstaff to visit Parks 
+CA US95 I-40(133) CA/NV #07192024 Travel to Flagstaff to visit Parks
+CA US95 I-40(133) CA62 #052026 Complete I 40 
 CA US395 CA89 CA168_E #2001
 CA ScoCasRd CA190 DayPassRd #11162018
 CA DayPassRd NorHwy CA/NV #11162018
@@ -2150,6 +2156,7 @@ CA CA28 CA/NV CA89 #2001
 CA CA62 AdoRd CA247 #11172016
 CA CA62 AdoRd CA/AZ #USMC
 CA CA62 CA247 I-10 #USMC
+CA CA62 US95 CA/AZ #052026 Complete I 40
 CA CA73 7 I-5 #020517 NTCA Meeting  
 CA CA75 I-5(14A) I-5(5A) #020517 NTCA Meeting    
 CA CA89 CA28 US395 #2001

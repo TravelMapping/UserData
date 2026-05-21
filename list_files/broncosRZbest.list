@@ -36,10 +36,21 @@ CA I-680 I-280/101 30
 CA I-680 53 71
 #Good golly there are a lot of 80s
 
+CA I-105 1D 2 #actually 1C
+CA I-405 45 57B
+
 CA US101 94A 110
 CA US101 336 389A
 
+CA CA1 RosAve LAX
+CA CA1 SkyWay VenBlvd
+CA CA1 ChaBlvd SunBlvd #don't technically have all of this, but Sunset Blvd is super close to where we were for Andrea & Will's wedding. 
+CA CA1 402B 441B
+#Grabbing some CA 1 (PCH?? Not sure where that designation technically lies) because it's iconic
 
+
+
+#COLORADO
 
 #Starting with I-70
 CO I-70 167 261
@@ -412,10 +423,31 @@ TN I-275 I-40 3
 TN I-640 I-40_W I-40_E
 
 TN US11 TN324 I-140
+TN US25E I-81 TN/KY
+TN US25W TN170 TN61
+TN US25W StiCrkRd I-75(160)
+# plus some US 25W concurrencies captured elsewhere. 
+TN US27 I-24(180B) ManRd
+TN US41 I-24(174) TN27
+TN US58 US25E TN/VA
+TN US70 US11_S I-140 #Plus some to the west, but not all the way to US 321. 
 TN US129 NC/TN I-40
+TN US321 US441_S US441_N #We drove a bit east of Gatlinburg too, but not enough to get the next waypoint. 
+TN US321 TN73Sce US411Trk_N
+TN US441 ChiPicArea US411_N
+#Skipped some that have zero standalone miles. 
 
 
-#Next up is rest of Tennessee (last voluminous one!)
+
+#VERMONT
+VT I-89 NH/VT 14
+VT I-189 I-89 US7
+VT US2 US7_S VT2A_Wil
+
+
+
+#VIRGINIA
+#I've driven US 58 in VA but not enough to reach a waypoint. 
 
 
 
@@ -430,6 +462,21 @@ WA SteCynRd WA706 ParVlyRd_S
 
 
 
+#WISCONSIN
+
+WI I-90 45 WI/IL
+WI I-94 70 240
+WI I-535 US53 WI/MN
+
+WI US2 MN/WI WI/MI
+WI US53 84 WI/MN
+
+
+
+#ENGLAND
+#Bus routes with Kirk!  Because why not?!
+
+ENG A3218 A4 A3219 #Both directions from his flat on the 430
 
 
 
