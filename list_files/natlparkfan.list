@@ -2222,6 +2222,38 @@ SC	I-26	220A	US17_S	#2026-05 Going Bananas
 SC	US52	CypSt	RomSt	#2026-05 Going Bananas
 SC	US52	US17	I-26(221)	#2026-05 Going Bananas
 SC	US17	US52	HouNorBlvd	#2026-05 Going Bananas
+SC	SC703	US17	SC517	#2026-05 Going Bananas
+SC	SC517	SC703	HunBlvd	#2026-05 Going Bananas
+SC	US17	I-26(220)	SC41	#2026-05 Going Bananas
+SC	I-26	113	220	#2026-05 Going Bananas
+SC	SC453	US178	I-26	#2026-05 Going Bananas
+SC	SC302	I-26	US21	#2026-05 Going Bananas
+SC	US21	SC302	BloSt_E	#2026-05 Going Bananas
+SC	SC48	US1/378	BloSt	#2026-05 Going Bananas
+SC	SC16	SC48	HarSt	#2026-05 Going Bananas
+SC	SC48	SC16	SC769	#2026-05 Going Bananas
+SC	I-77	I-26	16	#2026-05 Going Bananas
+SC	US76	SC760	SC441	#2026-05 Going Bananas
+SC	SC760	US76/378	I-77	#2026-05 Going Bananas
+SC	I-20	76	98	#2026-05 Going Bananas
+SC	US521	AliDr	SC97	#2026-05 Going Bananas
+SC	SC120	SC763_N	US76/378	#2026-05 Going Bananas
+SC	SC441	WiseDr	US76/378	#2026-05 Going Bananas
+SC	I-26	76	116	#2026-05 Going Bananas
+SC	SC219	US76/34	I-26	#2026-05 Going Bananas
+SC	US76	SC219	SC34_W	#2026-05 Going Bananas
+SC	SC34	SC246/248	US76_E	#2026-05 Going Bananas
+SC	SC248	PayRd	SC34/246	#2026-05 Going Bananas
+SC	SC225	US25/178	US221	#2026-05 Going Bananas
+SC	US221	US378_W	SC225	#2026-05 Going Bananas
+SC	US378	GA/SC	US221_N	#2026-05 Going Bananas
+GA	US378	US78	GA/SC	#2026-05 Going Bananas
+GA	US78BusWas	GA44	US78_E	#2026-05 Going Bananas
+GA	GA44	GA22	US78Bus	#2026-05 Going Bananas
+GA	GA22	I-20	GA44	#2026-05 Going Bananas
+GA	I-20	67	148	#2026-05 Going Bananas
+GA	I-285	46	57	#2026-05 Going Bananas
+GA	US19	I-285(57)	CenAve_N	#2026-05 Going Bananas
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	
