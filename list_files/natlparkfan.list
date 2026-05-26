@@ -1877,13 +1877,13 @@ CA	CA71	CA91	CA57	#2024-04 AACR San Diego
 CA	CA57	22C	25B	#2024-04 AACR San Diego
 CA	I-210	6	45	#2024-04 AACR San Diego
 CA	CA118	18	46B	#2024-04 AACR San Diego
-#2024-04 Amgen Offsite Monterery				
-CA	CA23	12	19	#2024-04 Amgen Offsite Monterery
-CA	US101	43	323	#2024-04 Amgen Offsite Monterery
-CA	CA154	US101(146)	US101(101B)	#2024-04 Amgen Offsite Monterery
-CA	CA41	US101	SycRd	#2024-04 Amgen Offsite Monterery
-CA	US101BusSal	US101_S	BlaRd	#2024-04 Amgen Offsite Monterery
-CA	CA1	401A	408	#2024-04 Amgen Offsite Monterery
+#2024-04 Amgen Offsite Monterey				
+CA	CA23	12	19	#2024-04 Amgen Offsite Monterey
+CA	US101	43	323	#2024-04 Amgen Offsite Monterey
+CA	CA154	US101(146)	US101(101B)	#2024-04 Amgen Offsite Monterey
+CA	CA41	US101	SycRd	#2024-04 Amgen Offsite Monterey
+CA	US101BusSal	US101_S	BlaRd	#2024-04 Amgen Offsite Monterey
+CA	CA1	401A	408	#2024-04 Amgen Offsite Monterey
 CA	CA68	CA1(401B)	BlaRd	#2024-04 Amgen Offsite Monterey
 #2024-05 Wagons Ho				
 IL	US12	IL72	CofRd	#2024-05 Wagons Ho
@@ -2241,8 +2241,7 @@ SC	SC120	SC763_N	US76/378	#2026-05 Going Bananas
 SC	SC441	WiseDr	US76/378	#2026-05 Going Bananas
 SC	I-26	76	116	#2026-05 Going Bananas
 SC	SC219	US76/34	I-26	#2026-05 Going Bananas
-SC	US76	SC219	SC34_W	#2026-05 Going Bananas
-SC	SC34	SC246/248	US76_E	#2026-05 Going Bananas
+SC	SC34	SC246/248	SC219	#2026-05 Going Bananas
 SC	SC248	PayRd	SC34/246	#2026-05 Going Bananas
 SC	SC225	US25/178	US221	#2026-05 Going Bananas
 SC	US221	US378_W	SC225	#2026-05 Going Bananas
@@ -2254,6 +2253,18 @@ GA	GA22	I-20	GA44	#2026-05 Going Bananas
 GA	I-20	67	148	#2026-05 Going Bananas
 GA	I-285	46	57	#2026-05 Going Bananas
 GA	US19	I-285(57)	CenAve_N	#2026-05 Going Bananas
+GA	GA166	I-75/85	LakAve	#2026-05 Going Bananas
+GA	GA54ConAtl	GA54	GA42Spr	#2026-05 Going Bananas
+GA	GA42SprAtl	GA54Con	Blvd	#2026-05 Going Bananas
+GA	US278	ColAve	ClaAve	#2026-05 Going Bananas
+GA	US23	AusAve	GA42Con	#2026-05 Going Bananas
+GA	GA42ConAtl	GA10	US23	#2026-05 Going Bananas
+GA	GA10	I-75/85	GA42Con	#2026-05 Going Bananas
+GA	I-85	61	248C(75)	#2026-05 Going Bananas
+GA	GA74	GA54	I-85	#2026-05 Going Bananas
+GA	GA54	GA34	PeaPkwy	#2026-05 Going Bananas
+GA	I-285	GA279	62A	#2026-05 Going Bananas
+GA	I-285	58	62	#2026-05 Going Bananas
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	
@@ -2369,13 +2380,13 @@ NV	I-215	1	12	#2019-08 Big Island
 NV	US95BusLsV	NV579	US95_N	
 NV	NV146	I-15	I-215	#2022-11 Illinois-UCLA Bball
 NV	NV147	PecRd	LkMeadNRA	#2023-07 Summer League
-NV	NV159	RedRockRd	CR215	#2018-07 Reunion _Summer League
+NV	NV159	RedRockRd	CR215	#2018-07 Reunion_Summer League
 NV	NV564	I-11/215	LkMeadNRA	#2019-08 Big Island
 NV	NV582	TulFalRd	NV159	
 NV	NV592	ParRd	I-11	
 NV	NV592Spr	NV596	I-15	
 NV	NV593	MarPkwy	I-11	
 NV	NV596	SahAve	I-11	
-NV	NV613	CR215	I-11	#2018-07 Reunion _Summer League
-NV	CR215	12	28	#2018-07 Reunion _Summer League
+NV	NV613	CR215	I-11	#2018-07 Reunion_Summer League
+NV	CR215	12	28	#2018-07 Reunion_Summer League
 NV	HRAirCon	I-215	RusRd	#2016-07 Summer League
