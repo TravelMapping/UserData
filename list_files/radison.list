@@ -982,7 +982,7 @@ TX I-820 22B 28A
 
 TX I-40BLAma I-40_W TXLp335_E
 TX I-40BLGle TX/NM I-40
-TX I-40BLGro I-40(110) FM295
+TX I-40BLGro I-40_W FM295
 TX I-40BLMcL I-40_W I-40_E
 TX I-40BLSha I-40_W I-40_E
 TX I-40BLVeg I-40_W I-40_E
@@ -1212,7 +1212,7 @@ ON HigAve PowSt ON401
 # #  MEXICO                                         #
 # ###################################################
 # MEX-QROO C1 CruiseTerminal MrSanchos
-MEX-QROO MEX307 AerIntCan AveKab
+MEX-QROO MEX307 AerIntCan AveCoba
 
 
 # ###################################################
