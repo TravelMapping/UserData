@@ -59,6 +59,7 @@
 #	Croatia: 2019 Montenegro border to Dubrovnik, BiH border near Neum, BiH border near Slavonski Brod, Zagreb, Rijeka, Slovenia border via Sapjane
 #	Bosnia: 2019 Croatia border to Mostar, [train to Sarajevo], Sarajevo to Derventa, Croatia border at Brod
 # 	Slovenia: 2019 Croatia border to Italian border via Kozina, Italian border at Sezana to Ljubljana, Bled, back to Italy at same border
+#	2026 road trip
 #
 # Asia:
 #	Israel/Palestine: 2019 Jerusalem to Bethlehem
@@ -77,6 +78,7 @@
 # Europe:
 # 	Ukraine: 2017 Kyiv to Chernobyl <- half done
 #	Malta: 2021 trip <- needs secondary roads if added
+#	Italy: 2026 road trip needs regional roads if added
 #
 # South America:
 #	Peru: 2021 trip secondary highways to Colca Canyon dec 23rd, secondary highways atv trip dev 29th
@@ -516,6 +518,13 @@ SVN A1 45 35
 SVN A2 14 3
 SVN G104 A2 LetJPLju 
 SVN R209 A2 PreCes
+SVN A2 AUT/SVN 3
+SVN R209 KidCes A2
+SVN R634 A2 R452
+SVN R452 R634 R201
+SVN R201 R452 R206
+SVN R206 R201 R203
+SVN R203 R206 SVN/ITA
 
 # Italy
 ITA SS14Tri ITA/SVN SS202Dir
@@ -528,6 +537,19 @@ ITA SS163 SR18 SR366
 ITA SS163 ViaCriCol SS145_N
 ITA SS145Sor SS163_W ViaMarPic
 ITA SS72 SS16 ITA/SMR
+ITA A23 SS13_D SS52
+ITA SS54Tar SVN/ITA ViaVitVen
+ITA SS13Udi ViaFor SS52
+ITA SS52 SS13 SS51Bis
+ITA SS51BisLoz SS52 SS51
+ITA SS51 SS51Bis SS49
+ITA SS49 SS51 ViaPus_E
+ITA SS244 SP37 SS243
+ITA SS243 SS244 SS242
+ITA SS242 SS243 SS242Dir
+ITA SS242DirLei SS242 SS12
+ITA SS12 SS242Dir A22_B
+ITA A22 SS12_B AUT/ITA
 
 # Malta
 MLT T1 T9/T28 T129
@@ -581,6 +603,63 @@ TWN F6 0 29
 # Switzerland/Liechtenstein
 CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
 LIE GTS Ege LettStr #from balzers to vaduz post
+
+# Germany Bavaria
+DEU-BY ZubFluMun DepArr A92
+DEU-BY A92 6 4
+DEU-BY A9 68 70
+DEU-BY A9 71 72
+DEU-BY A99 13 21
+DEU-BY A8 95 DEU/AUT
+DEU-BY B17 DEU/AUT A96
+DEU-BY St2008Hoh B17 St2016
+DEU-BY A96 24 26
+DEU-BY A96 27 39
+DEU-BY B2R A96 B304_Ber
+DEU-BY B2R B304_Ber A9
+DEU-BY A9 76 72
+
+# Austria
+AUT A1 AUT/DEU 297
+AUT A1 224 9
+AUT A10 0 28
+AUT A4 0 13
+AUT A22Wie B14 A22
+AUT A22 7 0
+AUT A23 13 10
+AUT S1 14 5
+AUT B1 A1(297) MaxHauStr
+AUT B159 A10(28) B162
+AUT B162 B159 B166
+AUT B166 B162 B145
+AUT L1291-4 B166 Gos
+AUT B145 B166 A1
+AUT B3a A1 B1
+AUT B1 B33 B3a
+AUT B1 A1(9) SchSchBru
+AUT B221 B17 B226/B227
+AUT B227 RosBru A4
+AUT B227 A22 B221/B226
+AUT B9 A4(13) B60
+AUT B60 B9 B10
+AUT B10 B60 B9
+AUT B9 B10 S1
+AUT B225 LaaBergStr B17_N
+AUT B17 B225_E B221
+AUT B221 JorStr B17
+AUT B17 B221 A23
+AUT A23Inz 1 2
+AUT A2 2 345
+AUT A11 0 AUT/SVN
+AUT A13 AUT/ITA 3
+AUT B182 A13(3) B174
+AUT B171 MarPla L11_Inn
+AUT L11-7 B171_Inn A12
+AUT A12 79 113
+AUT L236-7 A12 B189
+AUT B189 L236 B179
+AUT B179 B189 L396
+AUT L396-7 B179 AUT/DEU
 
 # Nicaragua
 NIC NIC2 NIC/CRI NIC4A_S
