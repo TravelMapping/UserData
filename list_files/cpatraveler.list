@@ -2871,6 +2871,7 @@ IL US45 I-64 US50_W #030917 Wabash Bd Mtg
 IL US45 I-70 US40_E #021818 Wabash Fieldwork
 IL US45 IL14 I-64 #030818 Wabash Bd Mtg
 IL US50 IL4_N WalSt #092518 Clinton CO FW
+IL US50 IL127_N IL250_A #052726 Rural Bd Mtg
 IL US50 WalSt IL127_S #092618 Clinton CO FW
 IL US50 US45_S IL130/250 #060319 Wabash Mtg     
 IL US50 IL130/250 IL/IN #021717 George Roger NM
@@ -2891,7 +2892,8 @@ IL US136 US67_N IL94_N #031118 W Illinois Elec FW
 IL US136 US67_S IL41 #121218 Mid Century Tel FW
 IL US150 IL97 I-74(54) #042419 Mid Century Bd Mtg
 IL US150 IL6 OraPraRd #022819 Mid Century FW 
-IL US150 BellSchRd IL78_N #081021 Forvis Mtg    
+IL US150 BellSchRd IL78_N #081021 Forvis Mtg
+IL IL1 WatSt IL130 #052726 Rural Bd Mtg    
 IL IL1 IL33 I-70 #022018 Wabash Fieldwork
 IL IL1 IL33 US50 #031819 Flat Rock Bd Mtg
 IL IL1 IL130 I-64 #060319 Wabash Mtg
@@ -2982,7 +2984,8 @@ IL IL125 IL123 CR10/21 #121218 Mid Century Tel FW
 IL IL127 US50_E IL161 #092618 Clinton CO FW
 IL IL127 IL185 IL16_W #050126 United Bd Mtg Return
 IL IL127 IL16_W I-55 #052626 Rural Bd Mtg
-IL IL128 IL16_W IL33 #021319 MJM to Wabash FW      
+IL IL127 US50_E IL16_W #052726 Rural Bd Mtg
+IL IL128 IL16_W IL33 #021319 MJM to Wabash FW     
 IL IL130 IL33_W US50/250 #021717 George Roger NM
 IL IL130 US50/250 IL1 #060319 Wabash Mtg
 IL IL133 IL32 I-57 #021818 Wabash Fieldwork
@@ -3018,7 +3021,8 @@ IL IL161 IL127 CR4 #092618 Clinton CO FW
 IL IL177 MainSt US51 #092618 Clinton CO FW
 IL IL185 IL127 US51_S #050126 United Bd Mtg Return 
 IL IL185 US40_E IL37 #112718 Wabash FW
-IL IL242 IL142 I-64 #041219 Hamilton Annual Mtg 
+IL IL242 IL142 I-64 #041219 Hamilton Annual Mtg
+IL IL250 US50 US50/130 #052726 Rural Bd Mtg 
 IL IL255 I-270 US67 #121018 Adam Tel FW
 IL IL267 IL111_N I-72BL #022519 Travel to Adam FW      
 IL US66His IL16 13thAve #031418 Rural FW
@@ -3198,7 +3202,8 @@ KY I-65 71 93 #113017 KY GM Xmas Mtg
 KY I-69 TN/KY 25 #062315 Hickman Annual Mtg 
 KY I-69 25 41 #010819 W KY Inventory
 KY I-69 41 52 #030818 Wabash Bd Mtg
-KY I-69 68 79 #041219 Hamilton Annual Mtg 
+KY I-69 68 79 #041219 Hamilton Annual Mtg
+KY I-69 79 106 #052726 Rural Bd Mtg 
 KY I-69 148 106 #031017 Wabash Bd Mtg
 KY I-71 9 185(75) #041019 Highland Bd Mtg
 KY I-75 TN/KY 11 #110317 Clinton TN Trip
@@ -3276,6 +3281,7 @@ KY US421 KY52 I-75(90) #092720 Travel to SCTC
 KY US421 US119_S VA/KY #051418 SCTC Bd Mtg
 KY US421 KY11_S I-75(90) #081021 Forvis Mtg 
 KY US431 US62_E US60 #031819 Flat Rock Bd Mtg
+KY US431 TN/KY US62_E #052726 Rural Bd Mtg
 KY US460 US23/119 ComMtnPkwy #06182020 Return from SCTC    
 KY US641 TN/KY US641Spr #030818 Wabash Bd Mtg
 KY US641 US60 US62/3305 #112018 Hamilton FW
@@ -3288,6 +3294,7 @@ KY CumPkwy 1 62 #011718 Highland Inventory
 KY HalRogPkwy 59 KY914_E #072517 EKN Visit    
 KY MamCavePkwy KY70/255 End #030917 Mammoth Cave NP 
 KY ParkCityRd KY255 MamCavePkwy #030917 Mammoth Cave NP
+KY WesKYPkwy 38 58 #052726 Rural Bd Mtg
 KY WesKYPkwy 75 77 #031819 Flat Rock Bd Mtg
 KY WooTra TN/KY US68 #050126 United Bd Mtg Return
 KY KY2 KY9 US23 #041019 Highland Bd Mtg  
@@ -3310,6 +3317,7 @@ KY KY80 US23/460 KY15_N #072517 EKN Visit
 KY KY80 KY97/121Bus I-24(65) #051219 Travel W KY
 KY KY90 US27/1247 KY100 #072517 EKN Visit
 KY KY91 US641_S I-69 #041219 Hamilton Annual Mtg
+KY KY91 I-69 CaveRockFry #052726 Rural Bd Mtg
 KY KY92 I-75 US27_S #110317 Clinton TN Trip
 KY KY93 US62/641_E KY293/1055 #112018 Hamilton FW
 KY KY94 KY1099_W KY94CFul #062315 Hickman Annual Mtg 
@@ -4617,8 +4625,8 @@ RI I-195 1 RI/MA #Trip with GJ Telergee
 RI I-295 I-95 9C #Trip with GJ Telergee
 RI US1 RI138_E RI403 #Trip with GJ Telergee
 RI US1 AirConRd US44_E #Trip with GJ Telergee 
-RI US6 I-295(9C) CT/RI #Trip with GJ Telergee
-RI US6 I-195(1) I-95(36A) #Trip with GJ Telergee
+RI US6 I-295(9) CT/RI #Trip with GJ Telergee
+RI US6 I-295(9) I-95(37B) #Trip with GJ Telergee
 RI US44 US1_S I-195(1C) #Trip with GJ Telergee
 RI RI1APro I-195(1C) EddySt_S #Trip with GJ Telergee    
 RI RI4 7B I-95 #Trip with GJ Telergee
@@ -4900,7 +4908,8 @@ TN US421 TN/VA NC/TN #09082018 Visit Jimmy in Boone
 TN US431 I-24(35) US31E/31W #05082018 Loretto Trip - Concerts
 TN US431 US70_NasW US31/31Bus #05082018 Loretto Trip - Nashville Work
 TN US431 US31/431Bus I-840 #Living in M'Boro
-TN US431 US31Alt/431Bus_S US64/231 #10042024 Travel to visit Bea     
+TN US431 US31Alt/431Bus_S US64/231 #10042024 Travel to visit Bea
+TN US431 I-24(35) TN/KY #052726 Rural Bd Mtg     
 TN US441 US411_N NC/TN #01022017 Visit Gatlinburg
 TN US441 TN62 I-640 #04062024 Jackson to Scott Co Trip
 TN US441 TN131 I-640 #08152024 Travel from SCTC to Bea's House
@@ -5118,6 +5127,7 @@ TN TN247 BucLn US431 #11172024 Driving around visiting Bea
 TN TN247 TN50 TN7_S #03222025 Kids to Safari
 TN TN247 TN246_N TN7_S #05102025 Kids to Chickasaw Park 
 TN TN248 I-65 US31 #Visiting Franklin to M'Boro
+TN TN249 I-40 I-24 #052726 Rural Bd Mtg
 TN TN249 I-40 TN49_E #052526 Rural Bd Mtg 
 TN TN251 US70S I-40 #030726 Saturday Drive
 TN TN252 TN96 US31 #Living in Nashville Area
