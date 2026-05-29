@@ -32,6 +32,7 @@ DE DE36 WooRd DE16_W #WooRd should be adams rd, but not in the waypoints
 DE DE41 DE/PA DE2/62
 DE DE48 DE41 DE2
 DE DE52 US13Bus DE/PA
+DE DE58 DE4 DE273 #various trips, old toy store, hospital
 DE DE62 DE2/41 DE4 #farmer's market alternate route
 DE DE71 DE896_S US301
 DE DE72 DE7_N US40 #rock gym
