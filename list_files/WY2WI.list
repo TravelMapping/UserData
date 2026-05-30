@@ -1823,7 +1823,7 @@ MI MI156 WMainSt OH/MI
 MI MI60 US12 I-94BL_E
 MI MI61 MI18_N US23 
 MI MI63 I-94BL_E I-94BL_W
-MI MI65 MI65_S FruRanRd #less MI65_S to Carney Rd and plus FruRanRd to McCollum	Lake Rd
+MI MI65 MI32_W FruRanRd #less MI32_W to Carney Rd and plus FruRanRd to McCollum	Lake Rd
 MI MI65 MI55 US23_S
 MI MI66 MI72_W MI55_E
 MI MI66 MI60_E MI60_W
@@ -3073,10 +3073,21 @@ NV US95 NV140 I-80(83)
 NV US395 68 31(580)
 NV US395 30(580) CA/NV
 NV US395AltWas PatBlvd US395_S
+NY BerCon I-87 B1 #speculative in 2003
+NY BerCon B1 NY/MA 
+NY I-81 4 2 #speculative in 2003
 NY I-81 27 ColSt
+NY I-84 19 52 #speculative in 2003
+NY I-86Bin 4(81) 79 #speculative in 2003
+NY I-86Owe PA/NY 67 #speculative in 2003, US17 then?
+NY I-87 27 24 #speculative in 2003
+NY I-87 22 15 #speculative in 2003
 NY I-87 7 1
+NY I-87 B1 23(NYST) #speculative in 2003 
 NY I-87 23(NYST) 19(NYST)
 NY I-87 6(NYST) 7(MDE)
+NY I-88 24 I-90 #speculative in 2003
+NY I-90 PA/NY 57(NYST) #speculative in 2003
 NY I-90 57(NYST) 42(NYST)
 NY I-90 42(NYST) NY/MA
 NY I-190 USA/CAN 16
@@ -3090,20 +3101,35 @@ NY I-690 13 I-481
 NY I-787 9 I-87
 NY NY3 NY104 NY49
 NY NY5 NY324 NY63_E
+NY NY5 TeaAve NY598 #speculative in 2003
 NY NY5 I-481 NY92_E
 NY NY5S NY80_S I-90
+NY NY7 US11 I-81 #speculative in 2003
 NY NY7 I-87(7) BenByp
+NY NY8 RivStaRd US9_N
+NY NY9H US9_N US9_Kin #speculative in 2003
+NY NY9H NY66 US9_S #speculative in 2003, may have included CR22 to NY66
+NY NY9N CR11 I-87(22)
+NY NY9N VanDamSt US9_S #plus McGee Lane to VanDamSt and less Clinton St to US9_S, speculative in 2003
 NY NY12 NY28_N NY365
 NY NY13 NY49_W NY49_E
 NY NY13 US20_W LinSt
 NY NY13 TriRd NY366_W
 NY NY14 I-90/318 NY414/409
-NY NY17 36 NY/PA
+NY NY17 36 NY/PA #speculative in 2003
+NY NY17Bin PA/NY 70
+NY NY17Bin 4(81) 121 #speculative in 2003
 NY NY22 NY149_W WalSt #less Johnson Hill Road to WalSt
 NY NY22 NY55_E I-287
+NY NY23 US9_S NY9H/23B #speculative in 2003
 NY NY28 US209 I-87 #speculative
 NY NY28 US9 NY365
 NY NY28 I-90 NY80_E #probably less Main Street to NY28_S
+NY NY28N NY28_S CR37 #speculative in 2003
+NY NY29 NY147 US9_Ss
+NY NY30 NY28N_E NY28_IndN #plus Lake Eaton to NY28N_E, speculative in 2003
+NY NY30 NY28_IndN NY28_IndS
+NY NY30 CR107 NY7 #speculative in 2003
 NY NY33 GooSt NY63_E
 NY NY36 NY63 McWRd
 NY NY38 NY13_N NY13/392
@@ -3112,9 +3138,13 @@ NY NY39 NY19_S US20AltGen_E
 NY NY40 NY67_E NY7
 NY NY46 NY26/49 NY49_W
 NY NY49 NY3 NY365_E
+NY NY50 I-87 NY29_W
+NY NY52 I-84(37) I-84(44) #speculative in 2003
 NY NY55 US209_S US44/209
 NY NY55 NY22_S NY/CT
 NY NY63 NY5_W MaryJemDr
+NY NY66 KinSt NY9H #speculative in 2003, may have not included CR9 to NY9H
+NY NY67 NY5/30 NY30_N #speculative in 2003
 NY NY67 NY40_S NY/VT
 NY NY69 NY46/49 NY49/233
 NY NY75 US20 I-90
@@ -3122,30 +3152,48 @@ NY NY79 NY414 NY366 #plus NY414 to NY366 to Pine Tree Road
 NY NY80 NY13_N NY13_S
 NY NY80 NY28_N NY28_S #probably less Main Street to NY28_S
 NY NY80 NY28_S NY5S_E
+NY NY82 US9/23 TacStaPkwy_N #speculative in 2003
+#NY NY92 TeaAve to Westcott #1 block speculative in 2003
 NY NY92 I-481 US20
+NY NY97 NY17 WFroSt #speculative in 2003
 NY NY104 NY182 NY3
+NY NY147 NY29 AleRd #plus AleRd to Perth Rd, spe
 NY NY198 LinPkwy NY33
+NY NY201 NY17 NY17C #speculative in 2003
+NY NY201 NY17C NY201 US11 #speculative in 2003
 NY NY228 NY79_W NY79_E
 NY NY263 MapRd I-290
 NY NY265 NY384_N NY266_N #1988 speculative
 NY NY294 NY26 NY46
+NY NY298 NY598 NY635 #speculative in 2003
 #NY NY298 1988 fragment at Carrier Circle
 NY NY324 NY78 NY5 #plus Youngs Road to NY78; 1988 speculative
+NY NY365 I-90 NY26/49 #speculative in 2003
 NY NY365 NY12/28 NY26/49 #what trip?
 NY NY366 NY13_W NY13_E
 NY NY384 RaiBri NY265_S #plus NY265_S to Young Street
 NY NY414 NY79 NY14/409
 NY NY425 StaSt I-290 #1988 speculative
 NY NY495 NJ/NY 34thSt
-NY SprBroPkwy I-287 TucRd	
+NY NY598 I-690 NY5 #speculative in 2003
+NY NY635 NY298 I-690 #speculative in 2003
+NY SprBroPkwy I-287 TucRd
+NY TacStaPkwy 80 37 #speculative in 2003	
 NY US1 I-95(1C) NJ/NY
 NY US2 US11 NY/VT
+NY US9 I-87(26A) NY8_S #speculative in 2003
+NY US9 NY50_N NY29_W #speculative in 2003
+NY US9 I-90(12) NY9H_N #speculative in 2003
+NY US9 I-95(1) NJ/NY
 NY US11 USA/CAN US2
 NY US11 NY481 I-81(26) #less NY481 to Lynhurst Avenue
 NY US11 NY175 CalAve #plus Martin Luther King to NY175 minus Brighton Avenue to CalAve
+NY US11 NY17C NY7 #speculative in 2003
 NY US20 NY39_W NY75
 NY US20 NY14 ParkRd #speculative, to claim county, but also entered county later on IS-99
 NY US20 NY92 NY13_S
+NY US20 NY28_N NY28_S
+NY US20 NY30 I-88
 NY US20AltGen NY39_W GroRd #plus GroRd to Reservoir Road
 NY US62 I-290 MapRd
 NY US62 NY324_E NY33
@@ -3164,6 +3212,7 @@ OH I-76 218 OH/PA
 OH I-77 144 104
 OH I-80 IN/OH OH/PA
 OH I-90 IN/OH 193
+OH I-90 193 OH/PA #likely in 2003
 OH I-270 17 43
 OH I-271 I-90 10
 OH I-275 IN/OH 54
@@ -3172,7 +3221,7 @@ OH I-470 6 OH/WV
 OH I-475 14 6
 OH I-480 26(271) 21(271)
 OH I-680 3A 14
-OH OH2 196B 223
+OH OH2 196B 227
 OH OH3 US27/42 US27/52
 OH OH3 ElsPl MLKingDr #speculative in 2002
 OH OH3 OH73_N US35
@@ -3183,10 +3232,12 @@ OH OH4 I-70(47) I-70(41)
 OH OH4 I-70(41) I-75(54C) #1987 speculative
 OH OH4 I-75(54C) I-75(52)
 OH OH4 OH73_E OH73_W
+OH OH7 US6_E US6_W #less Hall Rd to US6_W, speculative 2003
 OH OH7 UniBlvd I-470
 OH OH7 SisFry OH807
 OH OH7 I-77 OH339 #less I-77 ramps
 OH OH9 US30_E OH39/43_N
+OH OH11 97 84 #speculative in 2003
 OH OH13 US36_W OH229_S
 OH OH13 OH16/79 I-70 #speculative in 2000
 OH OH13 OH78_E OH78_W
@@ -3237,6 +3288,7 @@ OH OH273 OH117_N OH117_S
 OH OH274 OH117_N OH117_S
 OH OH283 OH306 US20
 OH OH306 OH283 OH43
+OH OH307 OH11 OH193 #less Tower Rd to OH193, speculative in 2003	
 OH OH308 WigSt_E OH229
 OH OH309 US30_W OH81_W #may have been continuous to CenAve then
 OH OH309 CenAve OH117_E
@@ -3257,9 +3309,12 @@ OH OH711 I-80 I-680
 OH OH800 US36 US250_E
 OH OH807 OH7 OH/WV
 OH OH835 US35_W ShaRd
+OH OH6 OH44_S OH44_N
+OH US6 OH7_N OH/PA #plus Hall Rd to OH7_N, speculative in 2003
 OH US20 OH108_N OH108_S
 OH US20 I-475 I-80/90
 OH US20 OH640 OH615 #and probably considerably more
+OH US20 OH535 OH11
 OH US22 US27/42 US50Trk/264
 OH US22 ElsPl MLKingDr #speculative in 2002
 OH US22 WayRd US33
@@ -3497,7 +3552,10 @@ PA I-80 161 277
 PA I-83 39B 22
 PA I-83 19 MD/PA
 PA I-83BLYor I-83_N PA74/462
+PA I-86SWa 60 PA/NY #speculative in 2003, recognized as US17 then?
+PA I-90 OH/PA PA/NY #speculative, well likely, in 2003
 PA I-95 7 8 #1987 speculative
+PA I-180 29 15
 PA I-276 326 I-476
 PA I-279 I-79 2A
 PA I-376 1A 2 #PA60 at the time
@@ -3512,11 +3570,20 @@ PA PA18 PA351 PA551_S
 PA PA18 US40_W US40_E
 PA PA24 US30 PA124
 PA PA26 US322 US322Bus
+PA PA27 ParkAve EntRd_W #speculative in 2003, gap from collecting Warren County
+PA PA27 PA36 EntRd_E #speculative in 2003, gap from collecting Warren County
 PA PA28 1A 1B #less 16th Avenue Bridge to 1B, 1987 without exchange controls?, speculative
 PA PA29 US6 PA309
 PA PA29Pho PA100_S PA100_N
+PA PA36 PA27/227 PA66 #speculative in 2003
+PA PA42 US220_N US220_S #speculative in 2003
+PA PA44 US6_W US6_E #speculative in 2003
+PA PA44 US220_S US220_N
+PA PA46 US6_W US6_E #speculative in 2003
+PA PA59 US219 US6_E #speculative in 2003
 PA PA61 I-78 US222Bus
 PA PA65 PA488 PA288_E
+PA PA66 US6 PA36 #speculative in 2003
 PA PA68 OH/PA I-376 #I-376 was PA60 in 1987
 PA PA72 US30 PA462 #speculative in 2000
 PA PA73 PA562 PA100
@@ -3524,10 +3591,14 @@ PA PA94 BerRd PA116 #plus Green Ridge Road to BerRd
 PA PA97Lit BolRd MD/PA
 PA PA100 I-78 MonAve
 PA PA100 PA73 US202
+PA PA102 HarRd MerSt #less Mead Ave to MerSt, speculative in 2003
 PA PA115 I-81/309 I-476
 PA PA130 PA8 AllRivBlvd_E #1987 speculative
-PA PA145 PA248 MainSt
+PA PA145 PA248 MainS
+PA PA150 McEDr WooAve_E #speculative in 2003
+PA PA155 US6_W US6_E
 PA PA156 PA981 HicHillRd #speculative
+PA PA191 PA/NY WinRd #only enough to enter the county from the north, speculative in 2003
 PA PA194 PA234 US30
 PA PA194 PA94 PineGroRd #plus PineGroRd to Bollinger Road
 PA PA234 PeeRd PA194
@@ -3537,6 +3608,7 @@ PA PA272 US222/568 WilSt
 PA PA272 PA897 PA772
 PA PA272 PA501 PA462 #speculative in 2000
 PA PA286 PA981_S NowRd #speculative
+PA PA287 SandRunRd PA414_E #less SandRunRd to Rattler Mine Rd
 PA PA288 PA488 US19/68
 PA PA291 US13_S US13_N
 PA PA291 SteAve PA420 #1987 speculative
@@ -3544,9 +3616,11 @@ PA PA309 PA29 I-81(170)
 PA PA309 PA873 US22
 PA PA320 I-76 US13/291
 PA PA351 PA18 PA65/288
+PA PA362 US6 AirRd #speculative in 2003
 PA PA366 PA56Trk_W DutRunRd #DutRunRd was intersection with PA780 in 1987, still speculative
 PA PA380 PA780 PA819 #speculative
 PA PA409 US6 PA706
+PA PA414 PA287_N US15 #speculative in 2003
 PA PA420 US13 PA291 #1987 speculative
 PA PA462 I-83BL I-83
 PA PA462 PA24 KreCreRd #less PA24 to Stonewood Rd
@@ -3568,9 +3642,13 @@ PA PA981 PA819_N PA156 #speculative
 PA PA981 PA286_E LinAve #speculative
 PA PA982 LigSt BetChuRd #speculative
 PA US1 PA3 MD/PA
+PA US6 OH/PA HarRd #speculative in 2003
+PA US6 PA66 US219 #speculative in 2003
+PA US6 PA59_E PA362 #speculative in 2003
 PA US6 US220 PA409
 PA US6 PA267 PA29
 PA US13 DE/PA I-76/30
+PA US15 PA414 I-180(27A) #speculative in 2003
 PA US15 US30 MD/PA
 PA US19 PA288 I-79(85)
 PA US19 I-79(76) US19Trk_N
@@ -3584,8 +3662,11 @@ PA US202 PA926 DE/PA
 PA US206 US209 NJ/PA
 PA US209 PA/NY US206
 PA US209 BroSt PA248
+PA US219 PA59 US6 #speculative in 2003
 PA US220 I-86 US6
+PA US220 US6 PA150_N #speculative 2003
 PA US220 I-80(178) I-99(73)
+PA US220 PA150_N 
 PA US220 I-99(69) I-99(62)
 PA US222 I-78 SprRidDr
 PA US222 US422Bus I-76

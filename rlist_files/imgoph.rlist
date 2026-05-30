@@ -9,6 +9,7 @@ NS Oce NB/NS Hal
 ON Can TorUni ON/MB
 ON 1 StGeo Uni
 ON 510 NasSt BreBlvd
+ON UP PeaAir Uni
 QC Oce Mon QC/NB
 QC BluLn Sno JeaTal
 QC GreLn LioGro Viau
@@ -60,6 +61,7 @@ CA MuniN Noe 4thKing
 CA VTABlue ChiDisMus +DIV_TAS
 CA VTAGre Cam OldIro
 CA VTAOra DtnMouView +DIV_TAS
+CA AngFli OliSt HillSt
 CO CZ UT/CO CO/NE
 CO SW NM/CO CO/KS
 DE NENor MD/DE DE/PA
@@ -93,6 +95,7 @@ IL UPNW OgiTraCen Pal
 IN BW IL/IN IN/MI
 IA CZ NE/IA IA/IL
 IA SW MO/IA IA/IL
+IA FenPlEle FenPl 4thSt
 KS SW CO/KS KS/MO
 KY NO TN/KY KY/IL
 LA NO NewOrl LA/MS
@@ -143,6 +146,7 @@ OR BlueLn PioSq GreCityHall
 PA NENor DE/PA PA/NJ
 PA RedLn SouHilVlg Gat
 PA MarFraLn 30th 11th
+PA Mon Low Upp
 SC SM GA/SC SC/NC
 TN NO MS/TN TN/KY
 TX SL SanAnt TX/LA
