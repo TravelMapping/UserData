@@ -54,6 +54,13 @@ DEU-NI S3 Leh HanHbf
 DEU-NW S1 EssHbf DortMundHBf
 DEU-NW S6 EssHbf KolnHbf
 DEU-NW S19 KolnHbf SiegBurgBonn
+DNK M1 Nor DRByen
+DNK M2 Nor Fre
+DNK M3 KobHov_1 KonNyt
+DNK M3 Fre KobHov_2
+DNK M4 Hav KonNyt
+DNK C KobHov Norp
+DNK GotCop CopCen SWE/DNK
 ENG DisLn TowHill SouKen
 ENG JubLn NorGre GrePark
 ENG LonPar LonStPanInt GBR/FRA
@@ -73,6 +80,7 @@ LUX CFL60 LuxGareCen Bet
 LUX StrMon FRA/LUX LuxGareCen
 NLD 7Ams HooKad Fra
 NLD 54Ams StaBijAre Nie
+SWE GotCop SWE/DNK MalCen
 
 BC ExpoLn MainStSciWor Gra
 BC WPY USA/CAN BC/YT
