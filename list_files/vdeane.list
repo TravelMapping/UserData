@@ -1,6 +1,6 @@
 #vdeane.list
 #Travels of Valerie Deane
-#Last updated 2026-05-23
+#Last updated 2026-05-31
 
 #United States
 #Alabama
@@ -339,7 +339,7 @@ MD I-83 1 MD/PA
 MD I-95 DC/MD MD/DE
 MD I-195 TerRd 4
 MD I-295 I-95/495 MD/DC
-MD I-395 I-95 ConSt
+MD I-395 I-95 CamSt
 MD I-395Was I-395 MD295
 MD I-495 DC/MD MD/VA
 MD I-595 7 24
@@ -771,7 +771,7 @@ NY BroRivPkwy 1(S) TacStaPkwy
 NY CroBayPkwy ShoFroPkwy CroBayBri
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
-NY FDRooDr I-478 17
+NY FDRDr NY9A 17
 NY GarStaPkwy NJ/NY I-87/287
 NY GraCenPkwy 45(278) Que/Nas
 NY HarRivDr 17 10thAve
@@ -820,7 +820,7 @@ NY NY7 PA/NY NY/VT
 NY NY7A PA/NY NY7
 NY NY7B NY369 NY7
 NY NY8 NY17 NY9N
-NY NY9A I-478 US9_Buc
+NY NY9A FDRDr US9_Pee
 NY NY9B US9 US11
 NY NY9D US6/202 US9
 NY NY9G US9_S US9_N
