@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 5-28-26
+#everywhere that darmstarm has been up to 5-30-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 5-28-26.
+#last updated 5-30-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -58,6 +58,7 @@ PA I-95 DE/PA PA/NJ #various trips
 PA I-283 1 3
 PA I-295 PA/NJ I-95/276 #college of new jersey
 PA I-176 2 11 #various trips
+PA I-276 I-95 I-476 #wall -> home 5/26
 PA I-476 105 5 #various trips, as far as rickett's glen
 PA I-676 PA/NJ 22ndSt #various trips
 PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
@@ -77,9 +78,11 @@ PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
+PA US322BusWes PA3 PA842 #wall -> home 5/26
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
 PA US422Rea PA743 US322 #various trips involving hershey park
+PA PA3 US202/322 US322Bus #wall -> home 5/26
 PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
 PA PA26 UniDr US322
@@ -128,7 +131,7 @@ PA PA772 US30 PA340_W
 PA PA796 PA896 PA41
 PA PA841 MD/PA PA82
 PA PA841AltTrkWes PA841_N PA841_S
-PA PA842 NewRd PA162
+PA PA842 US322Bus NewRd #common, extended to west chester 5/26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
 PA PA926 PA841 US202/322 #pocopson to 202
@@ -494,20 +497,25 @@ NJ US9 CR530_E NJ166 #oceangate
 NJ US30 US130/38 PA/NJ #grandparents -> temple
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
+NJ US206 NJ70 CR537 #medford -> wall 5/26
 NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
 NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
 NJ NJ31 I-295 EwiRd #college of new jersey
+NJ NJ33 NJ34/547 NJ133 #wall -> home 5/26
+NJ NJ34 I-195 NJ33_W #wall -> home 5/26
 NJ NJ38 US30/130 HarRd #grandparents, as well as grandparents -> temple
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
+NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
+NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
