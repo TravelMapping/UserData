@@ -32,6 +32,9 @@ CA GreLn GasQua +DIV_Blue_N
 
 
 #Airports -------------------------------------------------------------
+#Arizona
+AZ PHX RenCarCen T4                     #PHX
+
 #California
 CA AirTrnBlue RenCarCen Loop            #SFO
 CA AirTrnRed GarG/BART_S GarG/BART_F.   #SFO
@@ -61,9 +64,10 @@ MN MSPTram ConDE ConAB                  #MSP
 #Nevada:
 NV BlueLn Ter1 DGat                     #LAS
 NV GreLn Ter1 CGat                      #LAS
+NV RedLn Ter3 DGat                      #LAS
 
 #New Jersey
-NJ AirTrn TerC +SKIP_EmpOnly            #EWR
+NJ AirTrn TerC TerA                     #EWR
 
 #Texas:
 TX Sky A8 A21                           #DFW
