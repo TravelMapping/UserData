@@ -79,7 +79,7 @@ PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
-PA US322BusWes PA3 PA842 #wall -> home 5/26
+PA US322BusWes PA3 PA52 #wall -> home 5/26, friend trips
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
 PA US422Rea PA743 US322 #various trips involving hershey park
@@ -91,7 +91,7 @@ PA PA33 I-80 US22 #tobyhana trip
 PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
 PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
-PA PA52 DE/PA PA926
+PA PA52 DE/PA US322Bus
 PA PA53 US322_W US322_E 
 PA PA69 PA/NY US62 #niagara trip (nice)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
