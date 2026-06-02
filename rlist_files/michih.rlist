@@ -1,4 +1,4 @@
-# Date: 2026-05-17
+# Date: 2026-05-30
 # ----------------
 # ----------------
 
@@ -6,6 +6,9 @@
 ####   RAILWAYS   ####
 ######################
 
+DEU-BY RE89 Don DEU-BW RE89 AalHbf                              #2026
+DEU-BY RB14 EicBf EicSta                                        #2026
+DEU-BY RB16 Tre IngHbf                                          #2026
 ENG HalLn Lee She                                               #2026, via Castleford, Barnsley
 ENG TPSRte LivLimeSt She                                        #2026, via Manchester, Widnes
 ENG CityLn LivLimeSt WigNorWes                                  #2026, via Prescot
