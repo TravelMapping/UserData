@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 5-30-26
+#everywhere that darmstarm has been up to 6-2-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 5-30-26.
+#last updated 6-2-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -65,6 +65,7 @@ PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
 PA US15 US11/581 MD/PA #hershey -> raleigh
+PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
 PA US30 PA41 US15 #gap to gettysburg
@@ -78,19 +79,20 @@ PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
-PA US322BusWes PA3 PA842 #wall -> home 5/26
+PA US322BusWes PA3 PA52 #wall -> home 5/26, friend trips
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
 PA US422Rea PA743 US322 #various trips involving hershey park
 PA PA3 US202/322 US322Bus #wall -> home 5/26
 PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
+PA PA14 US15 LibSt #canada trip 6-26 (br stop)
 PA PA26 UniDr US322
 PA PA33 I-80 US22 #tobyhana trip
 PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
 PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
-PA PA52 DE/PA PA926
+PA PA52 DE/PA US322Bus
 PA PA53 US322_W US322_E 
 PA PA69 PA/NY US62 #niagara trip (nice)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
@@ -98,6 +100,7 @@ PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA113 US30 DevDr #downingtown east
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
 PA PA118 OldPA115 PA487_N #ricketts glen trip 2018
+PA PA147 US22/322 US15_N #canada trip 6-26
 PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA183 US222 PA895 #hawk mountain trip (to campsite)
@@ -117,6 +120,7 @@ PA PA441 LocSt PA999 #pa999 trip 12-25
 PA PA452 US1 PA352 #pennDOT media
 PA PA462 PA999 PA340 #through lancaster city
 PA PA462 PA741 2ndSt #pa999 trip 12-25
+PA PA462 US30_E GreRd #awesome video game store
 PA PA472 PA841 PA372 #oxford, clinched 5-28-26
 PA PA487 PA118_E MainParkRd #ricketts glen trip 2018
 PA PA581 1 6 #raleigh -> hershey
@@ -458,26 +462,44 @@ NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
 NY PalIntPkwy NJ/NY 6 #college new york trip 2024
 NY PalIntPkwy 9 US6/9W #west point trip, antiq.
 NY I-86 10 PA/NY #niagara trip (rnrhf)
+NY I-86 44 36 #canada trip 6-26
+NY I-86 27 44 #canada trip 6-26 (return)
 NY I-90 59(NYST) 56(NYST) #niagara trip
 NY I-90 50(NYST) 55A(NYST) #niagara trip (duff's -> bills)
 NY I-95 NJ/NY 1 #george washington bridge
 NY I-190 7 21 #niagara trip
+NY I-190 I-90 7 #canada trip 6-26
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
 NY I-287 14A(87) 13(87) #west point trip, antiq.
+NY I-390 I-86 6 #canada trip 6-26
 NY I-495 2ndAve 14 #medieval times trip
 NY US9W US6/202 NY218 #west point trip, antiq.
+NY US15 PA/NY I-99(13) #canada trip 6-26
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
+NY US20AltGen NY36_S NY400 #canada trip 6-26
 NY US20AltGen US219 US20_W #niagara trip (duff's -> bills)
 NY US62 PA/NY NY60 #niagara trip (ride up)
 NY US219 I-90_N US20Alt #niagara trip (duff's -> bills)
+NY US219 I-90_N BreCroRd #canada trip 6-26 (return)
 NY NY5 NY179 I-190 #niagara trip (niagara)
 NY NY9A HenHudPkwy(14) HenHudPkwy(11) #to central park by car
+NY NY16 SenStCon NY240 #canada trip 6-26
+NY NY16 PieHillRd I-86(27) #canada trip 6-26 (return), as far north as cr18
+NY NY36 I-390(6) US20AltGen_W #canada trip 6-26
+NY NY53 I-86 NY415 #canada trip 6-26 (return)
+NY NY54 NY415_N I-86 #canada trip 6-26 (return)
 NY NY60 US62 FluAve #niagara trip (ride up)
 NY NY60 SylRd I-90 #niagara trip (niagara)
 NY NY75 US20 I-90 #niagara trip (bills -> bemus)
+NY NY98 HoweHillRd FishHillRd #canada trip 6-26 (return), as far west as sugartown rd
 NY NY179 I-90 NY5 #niagara trip (niagara)
+NY NY240 NY16 SlaAve #canada trip 6-26
 NY NY263 I-290 NY324 #niagara trip (duff's)
+NY NY277 NY400 SenSt #canada trip 6-26 (getting food)
+#NY NY354 NY277 not far enough, canada trip 6-26 (getting food)
+NY NY400 US20Alt/78 SenStCon #canada trip 6-26
+NY NY415 NY53 NY54_S #canada trip 6-26 (return)
 NY NY430 StrRd NY60/394 #niagara trip (niagara)
 NY NY495 34thSt NJ/NY #medieval times trip
 #new jersey
@@ -698,3 +720,12 @@ In LCTrl StaSt BroStaWay_E #spring break road trip 2026 ("the quick indiana shim
 IN I-64 IN/KY 123 #spring break road trip 2026 ("the quick indiana shimmy")
 IN I-65 1 1A #spring break road trip 2026 ("the quick indiana shimmy")
 IN US31 10thSt KY/IN #spring break road trip 2026 ("the quick indiana shimmy")
+
+#CANADA (first visited 6-2-26)
+#ontario (first visited 6-2-26)
+ON RedHillPkwy QEW LinAlePkwy #canada trip 6-26
+ON LinAlePkwy RedHillPkwy ON403 #canada trip 6-26
+ON ONQEW PeaBrg 89 #canada trip 6-26
+ON ON3 RR20 RR14 #canada trip 6-26 (return)
+ON ON58AWel CanBankSt RR525 #canada trip 6-26 (return)
+ON ON403 64 6 #canada trip 6-26
