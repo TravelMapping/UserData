@@ -3159,7 +3159,6 @@ KS KS32TrkBon KS32_W KS32_E #120725 KL Meeting
 KS KS39 US169 US400 #04202021 SW Bd Mtg
 KS KS53 US81 KS15 #120625 NMCO Inv Return
 KS KS55 US81 KS15 #120625 NMCO Inv Return
-KS KS64 US281 US54/400 #11302020 Ninnescah Audit
 KS KS66 US69Alt/400 KS/MO #112925 CONM Inventory
 KS KS68 US69 US169/7 #04202021 SW Bd Mtg
 KS KS68 I-35 US169/7 #02232025 Working in KC Office
@@ -4426,7 +4425,7 @@ NY NY293 US6 US9W/218 #Visit Wes Point
 NY NY384 I-190 RaiBri #Nigara Falls Trip 
 NY NY440 10 NY/NJ #Living in NJ
 NY BeltPkwy I-278 20 #Living in NY
-NY FDRooDr I-478 12 #Living in NY
+NY FDRDr 12 17 #Living in NY
 OH I-70 IN/OH 155 #08032021 Trip to Spruce
 OH I-71 220 KY/OH #Nigara Falls Trip  
 OH I-77 WV/OH 65 #08142020 Millersburg Trip
@@ -4636,7 +4635,7 @@ RI RI114 RI138_W EastShoExpy #Trip with GJ Telergee
 RI RI138 RI138A_E US1_N #Trip with GJ Telergee
 RI RI138A RI138_W RI138_E #Trip with GJ Telergee
 RI RI214 RI114 RI138A #Trip wit GJ Telergee 
-RI RI238 RI138 GoatIslRd #Trip with GJ Telergee
+RI WRTrl ThaSt_New RI138_N #Trip with GJ Telergee
 RI RI246 I-95 US1/44 #Trip with GJ Telergee
 RI RI403 ComParkRd RI4 #Trip with GJ Telergee
 SC I-20 GA/SC 64  
