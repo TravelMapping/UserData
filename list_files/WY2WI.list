@@ -1664,14 +1664,41 @@ LA US425 US80 I-20 #extremely speculative; was LA137 and not US425 in 2002
 LA US425 I-20 LA15_N #was LA137 and not US425 in 2002
 LA US425 LA15_N LA4_W #was LA15 and not US425 in 2002
 MA I-90 NY/MA 90
+MA I-90 90 MA1A #likely in 2003
+MA I-91 50 11 #speculative in 2003
+MA I-93 19 4 #speculative in 2003
 MA I-95 MA/NH 89
+MA I-195 14A 40 #speculative in 2003
 MA I-290 32 16 #1988 speculative
-MA I-495 I-95 65 #1988 speculative
+MA I-495 I-95 65 #1988 and 2003 speculative
+MA I-495 65 58 #speculative in 2003
+MA I-495 46 1 #speculative in 2003
+MA MA1ANor I-495 US1_S #only 1/4m south of I-495 for gas
+MA MA2ACam MA110/111 I-495 #plus Groton School Road to MA110/111, speculative in 2003
+MA MA6APro US6_E US6_W #speculative in 2003
+MA MA6AYar US6_E MA28 #speculative in 2003
 MA MA9 MA56 MA70 #1988 I-290 access speculative
+MA MA9 MA126 SpeSt #less MA126 to Caldor Road, speculative in 2003
+MA MA10 MA/NH I-91(50) #speculative in 2003
 MA MA12 I-90 US20_W #1988 speculative
+MA MA16 MA126_N MA126_S
+MA MA24 41 RI/MA
+#MA MA25 MA24 TO 1, signed in 2003? (speculative route then anyway)
+MA MA25 1 10
+MA MA27 MA126_S MA30 #quite speculative in 2003
+MA MA28 MA25 StaHarRd #speculative in 2003
+MA MA28 ShoRd US6 #speculative in 2003
+MA MA30 MA126 MA27 #speculative in 2003
 MA MA56 MA9 US20
+MA MA63 MA10_S MA10_N #speculative in 2003
+MA MA110 MA2A/111 I-495(79) #speculative in 2003
+MA MA111 ParkSt  #less ParkSt to Groton School Road #speculative in 2003
+MA MA126 MA27_S I-495 #speculative in 2003
 MA MA131 US20 MA198
+MA MA132 US6 MA28 #less US6 to Old Route 132 #speculative in 2003
 MA MA198 MA131 CT/MA
+MA US1 EveAve I-93(4) #speculative in 2003
+MA US6 MA28_S MA6A_W #speculative 2003
 MA US7 MA/VT US20_E
 MA US20 US7_N MA131
 MA US20 MA56 MA12_N #1988 speculative
@@ -1744,24 +1771,36 @@ MD US301 MD234 VA/MD
 MD US340 VA/MD 10
 MD US522 MD/PA MD144
 ME I-95 USA/CAN 217
-ME I-95 44 NH/ME #1988 speculative
+ME I-95 182 44 #speculative in 2003
+ME I-95 44 NH/ME #1988 and 2003 speculative
 ME I-295 11 I-95(44) #1988 speculative
 ME I-295 28 11 #1988 speculative; designated I-95 at the time?
-ME ME3 US1_S MainSt #1988 speculative
+ME I-395 1 6 #speculative in 2003
+ME ME3 US1_S MainSt #1988 and 2003 speculative
+ME ME3 MainSt SieMonRd #speculative in 2003
 ME ME5 US2_W US2_E
 ME ME6 ME150_S I-95
+ME ME9 NorSt_Ken ME35/9A #less NorSt_Ken to Ocean Ave
+ME ME9AKen ME35_N ME9_E
 ME ME11 ME6/16_W ME6/16_E
 ME ME15 ME150_S ME6/16
 ME ME16 ME150_S ME155
 ME ME26 US2_E US2_W
-ME ME125 I-295(22) US1 #1988 speculative
-ME ME136 I-295 US1 #1988 speculative
+ME ME35 I-95_N ME9
+ME ME90 US1_W US1_E
+ME ME125 I-295(22) US1 #1988 and 2003 speculative
+ME ME136 I-295 US1 #1988 and 2003 speculative
 ME ME150 ME16_E JewSt
 ME ME155 I-95 ME16
+ME CadSumRd ParkLpRd End
+ME ParHillRd WestStExt ParkLpRd
+ME ParkLpRd SieMonRd_N ParHillRd 
 ME US1 I-95(302) US2_W #less North Court to US2_W
-ME US1 ME3_E US201
-ME US1 PleSt_E I-295(28)
+ME US1 SmiRd I-295(28) #less SmiRd to just short of Washington County line
 ME US1 ME125/136 BowSt #1988 speculative; could have continued on to I-295(28)
+ME US1 I-295(9) I-295(4)
+ME US1 ME35_S ME35_N
+ME US1AltBan I-395(6) US1_E #speculative in 2003
 ME US2 NH/ME US201_N
 ME US201 JewSt US2_W
 MI I-69 38 61
@@ -2876,13 +2915,29 @@ NE US281 US30 I-80
 NE US385 US20_W US20_E
 NE US385 NE2_E L62A
 NE US385 US30_W CO/NE
+NH I-89 12A I-93 #speculative in 2003
+NH I-93 18 I-89 #speculative in 2003
 NH I-95 NH/ME MA/NH
+NH I-393 I-93 NH9 #speculative in 2003
+NH NH9 NH101 I-89(5) #speculative in 2003
+NH NH9 NH106 US4_E #speculative in 2003, signing maybe erratic
+NH NH10 MA/NH NH9_E #speculative in 2003
+NH NH12 NH9_E NH10_S #speculative in 2003
+NH NH16 6 I-95 #speculative in 2003
 NH NH25 NH118_N NH25A
 NH NH25A VT/NH NH25
+NH NH31 NH9_E NH9_W #speculative in 2003
+NH NH101 NH9 NH10_S #speculative in 2003
+NH NH106 ShaRd I-393 #speculative in 2003
+NH NH107 US4_E US4_W #speculative in 2003
 NH NH112 NH118 US3
 NH NH118 NH112 NH25A
+NH NH123 NH9_E NH9_W #speculative in 2003
 NH US2 ValRd NH/ME #1988 ValRd speculative
 NH US3 US302 NH112
+NH US4 I-93(17) I-95 #speculative in 2003, signing maybe erratic
+NH US202 NH9_Hil I-89(5) #speculative in 2003
+NH US202 I-93 US4_E #speculative in 2003
 NH US302 US3 BaseStaRd #1988 speculative
 NJ GarStaPkwy 129 30
 NJ I-76 PA/NJ 1A
@@ -3080,10 +3135,10 @@ NY I-81 27 ColSt
 NY I-84 19 52 #speculative in 2003
 NY I-86Bin 4(81) 79 #speculative in 2003
 NY I-86Owe PA/NY 67 #speculative in 2003, US17 then?
-NY I-87 27 24 #speculative in 2003
+NY I-87 26 24 #speculative in 2003
 NY I-87 22 15 #speculative in 2003
 NY I-87 7 1
-NY I-87 B1 23(NYST) #speculative in 2003 
+NY I-87 1 23(NYST) #speculative in 2003 
 NY I-87 23(NYST) 19(NYST)
 NY I-87 6(NYST) 7(MDE)
 NY I-88 24 I-90 #speculative in 2003
@@ -3097,7 +3152,7 @@ NY I-290 I-190 I-90
 NY I-390 5 I-86
 NY I-481 4 3
 NY I-495 2ndAve 55 #less Washington Ave to 55
-NY I-690 13 I-481
+NY I-690 15B I-481
 NY I-787 9 I-87
 NY NY3 NY104 NY49
 NY NY5 NY324 NY63_E
@@ -3119,6 +3174,7 @@ NY NY14 I-90/318 NY414/409
 NY NY17 36 NY/PA #speculative in 2003
 NY NY17Bin PA/NY 70
 NY NY17Bin 4(81) 121 #speculative in 2003
+NY NY17C NY201 US11 #speculative in 2003
 NY NY22 NY149_W WalSt #less Johnson Hill Road to WalSt
 NY NY22 NY55_E I-287
 NY NY23 US9_S NY9H/23B #speculative in 2003
@@ -3126,10 +3182,10 @@ NY NY28 US209 I-87 #speculative
 NY NY28 US9 NY365
 NY NY28 I-90 NY80_E #probably less Main Street to NY28_S
 NY NY28N NY28_S CR37 #speculative in 2003
-NY NY29 NY147 US9_Ss
+NY NY29 NY30 US9_N
 NY NY30 NY28N_E NY28_IndN #plus Lake Eaton to NY28N_E, speculative in 2003
 NY NY30 NY28_IndN NY28_IndS
-NY NY30 CR107 NY7 #speculative in 2003
+NY NY30 NY29 NY7 #speculative in 2003
 NY NY33 GooSt NY63_E
 NY NY36 NY63 McWRd
 NY NY38 NY13_N NY13/392
@@ -3157,10 +3213,8 @@ NY NY82 US9/23 TacStaPkwy_N #speculative in 2003
 NY NY92 I-481 US20
 NY NY97 NY17 WFroSt #speculative in 2003
 NY NY104 NY182 NY3
-NY NY147 NY29 AleRd #plus AleRd to Perth Rd, spe
 NY NY198 LinPkwy NY33
 NY NY201 NY17 NY17C #speculative in 2003
-NY NY201 NY17C NY201 US11 #speculative in 2003
 NY NY228 NY79_W NY79_E
 NY NY263 MapRd I-290
 NY NY265 NY384_N NY266_N #1988 speculative
@@ -3309,7 +3363,7 @@ OH OH711 I-80 I-680
 OH OH800 US36 US250_E
 OH OH807 OH7 OH/WV
 OH OH835 US35_W ShaRd
-OH OH6 OH44_S OH44_N
+OH US6 OH44_S OH44_N
 OH US6 OH7_N OH/PA #plus Hall Rd to OH7_N, speculative in 2003
 OH US20 OH108_N OH108_S
 OH US20 I-475 I-80/90
@@ -3594,7 +3648,7 @@ PA PA100 PA73 US202
 PA PA102 HarRd MerSt #less Mead Ave to MerSt, speculative in 2003
 PA PA115 I-81/309 I-476
 PA PA130 PA8 AllRivBlvd_E #1987 speculative
-PA PA145 PA248 MainS
+PA PA145 PA248 MainSt
 PA PA150 McEDr WooAve_E #speculative in 2003
 PA PA155 US6_W US6_E
 PA PA156 PA981 HicHillRd #speculative
@@ -3666,7 +3720,6 @@ PA US219 PA59 US6 #speculative in 2003
 PA US220 I-86 US6
 PA US220 US6 PA150_N #speculative 2003
 PA US220 I-80(178) I-99(73)
-PA US220 PA150_N 
 PA US220 I-99(69) I-99(62)
 PA US222 I-78 SprRidDr
 PA US222 US422Bus I-76
@@ -3693,6 +3746,11 @@ QC QC133 A-35(15) USA/CAN
 QC QC134 A-10 QC104
 QC QC136Mon 1 6 #then route 720
 QC QC217 QC104 MteeGuay
+RI RI24 RI/MA 2
+RI RI114 ThaSt AdmKalRd #plus Poppasquash Rd to ThaSt
+RI RI138 RI24(2) RI24(4)
+RI RI138 EShoRd RI114_S #routing through Newport on Admiral Kalbfus Rd in 2003, speculative then as well
+RI RI138A ThaSt RI138_W
 SC I-20 98 116
 SC I-26 1 18
 SC I-385 40 36
