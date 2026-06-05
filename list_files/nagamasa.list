@@ -520,6 +520,7 @@ CA NorDr SouDr ElPorRd
 CA SouDr ElPorRd NorDr
 CA BigOakRd CA120 ElPorRd
 CA WawRd SouDr CA41
+CA TioPassRd BigOakRd LoopARd
 CA BadRd CA190 Bad
 CA DanViewRd CA190 DanView
 UT ZionCynDr UT9 End
