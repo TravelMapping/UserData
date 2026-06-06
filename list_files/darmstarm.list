@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 6-2-26
+#everywhere that darmstarm has been up to 6-5-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-2-26.
+#last updated 6-5-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -29,6 +29,7 @@ DE DE23 DE5/24 PotRd #at least out to here
 DE DE24 DE1 DE5/23
 DE DE26 DE20_W BeaRd #holt's landing trip 2017 (to holt's landing road)
 DE DE36 WooRd DE16_W #WooRd should be adams rd, but not in the waypoints
+DE DE37 US202/141 DE273 #clinched 6-5-26
 DE DE41 DE/PA DE2/62
 DE DE48 DE41 DE2
 DE DE52 US13Bus DE/PA
