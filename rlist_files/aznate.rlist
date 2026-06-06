@@ -93,9 +93,13 @@ FRA-ARA MB GarePartDieuVivMer SaxeGam
 FRA-ARA MD SaxeGam VieLyonCatStJean
 
 #Japan
+JPN ArakuraLn SA23 SA27
 JPN ArashiyamaLn HK81 HK98
 JPN ChuoRapidLn JC03 JC15
 JPN ChuoSobuLn JB26 JB11
+JPN DenentoshiLn DT01 DT12
+JPN DisMon DisneySea Gateway_B
+JPN FukutoshinLn F06 F16
 JPN GinzaLn G01 G16
 JPN HankyuKyotoLn HK01 HK81
 JPN HanNambaLn HS41 HS45
@@ -104,7 +108,11 @@ JPN HanzomonLn Z09 Z11
 JPN HanzomonLn Z12 Z14
 JPN HibiyaLn H13 H16
 JPN HibiyaLn H18 H22
+JPN IkebukuroLn SI01 SI23
+JPN InaLn NS01 NS02
 JPN KeihinTohokuLn JK28 JK12
+JPN KeioMainLn KO01 KO07
+JPN KeiyoLn JE05 JE07
 JPN MarunouchiLn M13 M17
 JPN MidosujiLn M13 M22
 JPN NagahoriLn N15 N20
@@ -112,9 +120,13 @@ JPN NegishiLn JK12 JK01
 JPN OedoLn E12 E21
 JPN OsakaLoopLn O11 O14
 JPN OskChuoLn C17 C19
+JPN RinkaiLn R01 R08
+JPN SaikyoLn JA26 JA08
 JPN SakaisujiLn K15 K19
 JPN SakurajimaLn P14 P16
 JPN SaninLn E01 E08
+JPN SeibuYurakuchoLn SI06 SI37
+JPN SetagayaLn SG01 SG10
 JPN ShinjukuLn S13 S19
 JPN ShoMon SMR1 SMR8
 JPN Skyliner KS02 KS42
@@ -130,7 +142,9 @@ JPN TozaiLnTo T07 T09
 JPN TozaiLnTo T10 T11
 JPN UchiboLn Chiba Soga
 JPN UenoTokyoLn JU01/JT01 JT07
+JPN UtsunomiyaLn JU07 JU01
 JPN YamanoteLn JY24_A JY24_B
 JPN YotsubashiLn Y11 Y15
+JPN YurakuchoLn Y14 Y16
 JPN YurakuchoLn Y21 Y22
 JPN YurikamomeLn U01 U16
