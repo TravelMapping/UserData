@@ -56,7 +56,7 @@ PA I-83 MD/PA 51 #niagara trip, various hershey trips
 PA I-86 PA/NY 1 #niagara trip (rnrhf)
 PA I-90 37 OH/PA #niagara trip (rnrhf)
 PA I-95 DE/PA PA/NJ #various trips
-PA I-283 1 3
+PA I-283 I-76 3 #clinched some time around 2024
 PA I-295 PA/NJ I-95/276 #college of new jersey
 PA I-176 2 11 #various trips
 PA I-276 I-95 I-476 #wall -> home 5/26
@@ -65,6 +65,7 @@ PA I-676 PA/NJ 22ndSt #various trips
 PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
+PA US11 I-76 PA641_W #xc meet at carlisle high school, 2021
 PA US15 US11/581 MD/PA #hershey -> raleigh
 PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
@@ -94,7 +95,8 @@ PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
 PA PA41 DE/PA US30
 PA PA41AltTrkAvo PA41_S PA41_N
 PA PA52 DE/PA US322Bus
-PA PA53 US322_W US322_E 
+PA PA53 US322_W US322_E
+PA PA63 I-476 WamRd #xc meet at souderton hs, 2021
 PA PA69 PA/NY US62 #niagara trip (nice)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA82 DE/PA PA345 #coatesville, up to french creek
