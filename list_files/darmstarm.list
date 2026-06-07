@@ -1,7 +1,7 @@
 #everywhere that darmstarm has been up to 6-5-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-5-26.
+#last updated 6-7-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -129,6 +129,7 @@ PA PA487 PA118_E MainParkRd #ricketts glen trip 2018
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 GirAve #go birds (various trips)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
+PA PA641 US11/34 OraSt_N #xc meet at carlisle high school 2021
 PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
 PA PA741 PA41 PA462 #pa999 trip 12-25
