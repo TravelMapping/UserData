@@ -1,0 +1,158 @@
+# Amtrak
+MA DE BosNor ME DE Por
+
+
+# MBTA Rapid Transit 
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA RedLnM Ash Mat
+MA GreLnB BosCol GovCen
+MA GreLnC CleCir GovCen
+MA GreLnD Riv UniSq
+MA GreLnE HeathSt MedTuf
+
+
+# MBTA Commuter Rail
+MA NeeLn NeeHei BosSou
+MA ProLn BosSou RI ProLn Pro
+MA KinLn JFK BosSou
+
+
+# New York City Subway
+NY E JacHeiRooAve LexAve53St
+NY 7 34StHudYar FluMainSt
+NY A FulSt HowBeaJFK
+
+
+# JFK AirTrain
+NY AirTrnHow HowBea T4
+
+
+# Washington Metro
+VA SilLn DulIntAir DC SilLn FogBotGWU
+DC BluLn MetCen VA BluLn RRWasNatAir
+
+
+# IAD AeroTrin
+VA AerTrn ConA MainTer
+
+
+# MARTA 
+GA GoldLn Air ArtsCen
+GA BluLn FivePoi KingMem
+
+
+# ATL Plane Train
+GA PlaTrn DomTer FGatIntTer
+
+
+# TPA Shuttle
+FL TPAShuAiE MainTer AirE
+
+
+# Toronto Subways
+ON 2 Kip Spa
+ON 1 Spa Uni
+
+
+#DFW Skylink
+TX A8 A22
+TX A22 A8
+
+
+# DART
+TX OraLn Bur InnLovFie
+
+
+# Minnesota METRO
+MN BlueLine MallofAmerica TargetFieldPlatform2
+
+
+# SEA Blue Line
+WA BlueLn BGat SGat
+
+
+# MAX
+OR RedLn PorIntAir WasPark
+
+
+# SFO AirTrain
+CA AirTrnBlue Grg/BART Ter1
+
+
+# BART
+CA BARTRed SanFraAir PowSt
+
+
+# Intercity
+NLD IC35 RotCen BEL IC25 BruAirZav
+
+
+# Eurostar
+NLD AmsDis AmsCen RotCen
+
+
+# Prague Metro
+CZE C Vys NadHol
+
+
+# Budapest Metro
+HUN M3 HalTer KobKis
+
+
+# Helsinki Metro
+
+
+# Copenhagen Metro
+DNK M2 Luf KonNyt
+
+
+# Oslo T-Bane
+NOR 5Osl Ris Jer_2
+
+
+# Norway Flytog
+NOR FLY1 OsloLuf OsloS
+
+
+# S-Bahn Rhein-Main
+DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
+
+
+# Krakow 
+POL S1Kra KraLot WieRynKop
+# Stockholm Spårväg
+SWE 7Sto TCen BelWal
+SWE 31Sto BroFly Alv
+SWE 21Sto Rop GasBry
+
+
+# Stockholm Lokalbana
+SWE 27Sto StoOst Mor
+
+
+# Stockholm Tunnelbana
+SWE 10Sto Hju KunGar
+SWE 11Sto Aka KunGar
+SWE 13Sto Rop Nor
+SWE 14Sto Fru MorCen
+SWE 17Sto Ake SkaNack
+SWE 18Sto Alv FarStr
+SWE 19Sto HasStr Hag
+
+
+# Yerevan Metro
+
+
+# Shanghai Metro
+CHN-SH 2 PuDongAirTer12 ENanJingRd
+
+
+# Fuzhou Metro
+CHN-FJ 1FZ XiangFeng SanJiangKou
+CHN-FJ 2FZ SuYang YangLiSta
+CHN-FJ 4FZ DiFengJiang FengHuangChi
+CHN-FJ 5FZ JingXiHouYu FuZhouSRaiSta
+CHN-FJ 6FZ PanDun WanShou
