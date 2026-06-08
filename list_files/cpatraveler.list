@@ -3159,7 +3159,6 @@ KS KS32TrkBon KS32_W KS32_E #120725 KL Meeting
 KS KS39 US169 US400 #04202021 SW Bd Mtg
 KS KS53 US81 KS15 #120625 NMCO Inv Return
 KS KS55 US81 KS15 #120625 NMCO Inv Return
-KS KS64 US281 US54/400 #11302020 Ninnescah Audit
 KS KS66 US69Alt/400 KS/MO #112925 CONM Inventory
 KS KS68 US69 US169/7 #04202021 SW Bd Mtg
 KS KS68 I-35 US169/7 #02232025 Working in KC Office
@@ -4426,7 +4425,7 @@ NY NY293 US6 US9W/218 #Visit Wes Point
 NY NY384 I-190 RaiBri #Nigara Falls Trip 
 NY NY440 10 NY/NJ #Living in NJ
 NY BeltPkwy I-278 20 #Living in NY
-NY FDRooDr I-478 12 #Living in NY
+NY FDRDr 12 17 #Living in NY
 OH I-70 IN/OH 155 #08032021 Trip to Spruce
 OH I-71 220 KY/OH #Nigara Falls Trip  
 OH I-77 WV/OH 65 #08142020 Millersburg Trip
@@ -4636,7 +4635,7 @@ RI RI114 RI138_W EastShoExpy #Trip with GJ Telergee
 RI RI138 RI138A_E US1_N #Trip with GJ Telergee
 RI RI138A RI138_W RI138_E #Trip with GJ Telergee
 RI RI214 RI114 RI138A #Trip wit GJ Telergee 
-RI RI238 RI138 GoatIslRd #Trip with GJ Telergee
+RI WRTrl ThaSt_New RI138_N #Trip with GJ Telergee
 RI RI246 I-95 US1/44 #Trip with GJ Telergee
 RI RI403 ComParkRd RI4 #Trip with GJ Telergee
 SC I-20 GA/SC 64  
@@ -4983,9 +4982,11 @@ TN TN50 I-65 US431 #10042024 Travel to visit Bea
 TN TN50 TN245 US43/412 #11152024 Visit Bea
 TN TN50 TN48/100_W TN247 #03222025 Kids to Safari
 TN TN50 TN247 US43/412 #111525 Davy Crockett SP
+TN TN50Win US64_W TN55 #060626 Savage Gulf Hike
 TN TN50Win TN55 US64Bus/16 #100425 Trip to Bea
 TN TN50Win US64_E US41  #112125 Return from Beckman
-TN TN50Win US41Alt_N US41 #122625 Visit Mike Alvis   
+TN TN50Win US41Alt_N US41 #122625 Visit Mike Alvis
+TN TN50Win US41 TN56 #060626 Savage Gulf Hike   
 TN TN51 TN/KY TN52 #07252017 Return from Scott County
 TN TN52 TN51 TN10 #07252017 Return from Scott County
 TN TN52 US27 TN111 #11032017 Visit to Clinton 
@@ -4993,16 +4994,19 @@ TN TN53 TN96_W US70/25 #09162017 DTC Annual Meeting
 TN TN53 TN262 TN56_S #03182019 Wabash to Twin Lakes
 TN TN53 US70S_W US41 #08152024 Travel from SCTC to Bea's House 
 TN TN54 US45W_N US641 #09042017 GibsonEMC Visit
+TN TN55 TN50 US41Alt/130 #060626 Savage Gulf Hike
 TN TN55 TN50 VisCtr #100425 Trip to Bea
 TN TN55 TN130_N US41 #112025 Old Stone Fort SP  
 TN TN55 I-24 US70S/380 #05232017 Bledsoe BdMtg
 TN TN55 US41Alt/130 I-24 #08292017 Sir Fabric F'ville Trip 
 TN TN55BusMcM TN55 TN380 #05232017 Bledsoe BdMtg
-TN TN55 TN82 VisCtr #JT Team Meeting - Jack Daniel 
+TN TN55 TN82 VisCtr #JT Team Meeting - Jack Daniel
+TN TN56 TN108/50 US70S #060626 Savage Gulf Hike   
 TN TN56 US70S TN8 #05232017 Bledsoe BdMtg
 TN TN56 US70 I-40(273) #10302017 Trip to Cookeville - Twin Lakes
 TN TN56 I-40(280) TN53/85 #10302017 Trip to Cookeville - Twin Lakes
-TN TN56Sew US41Alt AL/TN #Travel to Russell Cave    
+TN TN56Sew US41Alt AL/TN #Travel to Russell Cave
+TN TN57 US64/70 US72_W #Visit Zoo with Bea    
 TN TN58 TN153 I-40(352) #04062024 Jackson to Scott Co Trip
 TN TN58 TN95 I-40(356) #09082018 Visit Jimmy in Boone 
 TN TN59 I-40 US51_S #07022017 Memphis IKEA 
@@ -5017,7 +5021,8 @@ TN TN64 TN269_W US41Alt #08262024 Trip from Bea to Clanton
 TN TN64 TN269_W I-24 #112025 Old Stone Fort SP 
 TN TN64 TN82_N US231/231Bus #051125 Visit Lucky Ladd Farm with kids
 TN TN64 US231_S US31Alt #051125 Visit Lucky Ladd Farm with kids
-TN TN64 US231/231Bus US41Alt #122625 Visit Mike Alvis  
+TN TN64 US231/231Bus US41Alt #122625 Visit Mike Alvis
+TN TN64 TN82 US41 #060626 Savage Gulf Hike  
 TN TN66Sev I-40 US411/441 #01022017 Visit Gatlinburg
 TN TN68 TN123 TN39 #122725 Visit Mike Alvis 
 TN TN70 TN/VA TN33_S #08152024 Travel from SCTC to Bea's House 
@@ -5026,6 +5031,7 @@ TN TN77Mil US45W/104 US45E #112825 CONM Inventory
 TN TN78 TN/KY I-155 #09042017 GibsonEMC Visit
 TN TN78 US51 TN104 #09042017 GibsonEMC Visit
 TN TN82 US231Bus_S TN55 #JT Team Meeting - Jack Daniel
+TN TN82 US231_N TN64 #060626 Savage Gulf Hike
 TN TN83 US70 TN56 #10302017 Trip to Cookeville - Twin Lakes
 TN TN84 US70 I-40 #010226 Visit Roger Bristol
 TN TN88 End TN210 #032926 OBEC Bd Mtg 
@@ -5051,7 +5057,8 @@ TN TN100 I-840 OldHicBlvd #030726 Saturday Drive
 TN TN102 TN96 TN266 #Living in Nashville Area 
 TN TN104 US45E I-40 #112825 CONM Inventory
 TN TN104Dye ChicRd US45W/77 #112825 CONM Inventory 
-TN TN104TrkDye TN104_W US51Bus #08292017 Sir Fabric F'ville Trip  
+TN TN104TrkDye TN104_W US51Bus #08292017 Sir Fabric F'ville Trip
+TN TN108 TN287 TN55Bus_S #060626 Savage Gulf Hike  
 TN TN109 I-840 TN174 #07012017 Trip to Mt Juliet
 TN TN110 US231/431 AL/TN #10042024 Travel to visit Bea      
 TN TN111 US27 US70S_W #05232017 Bledsoe BdMtg
@@ -5063,9 +5070,11 @@ TN TN121 AL/TN TN122 #112125 Return from Beckman
 TN TN122 TN121 TN97 #112125 Return from Beckman
 TN TN122 TN97 US64 #111925 Annual Physical
 TN TN123 TN68 TN/NC #122725 Visit Mike Alvis
+TN TN127 US41Alt US41 #060626 Savage Gulf Hike
 TN TN127 US41 TN30 #122725 Visit Mike Alvis
 TN TN129 US31 US31Alt_N #01012025 Return from Bea House 
 TN TN129 US31Alt_S TN55 #100425 Trip to Bea
+TN TN130 US431 TN276 #060426 Dr Hicks Visit
 TN TN130 US41Alt/55 TN64_W #112025 Old Stone Fort SP 
 TN TN130 US41Alt/55 US64Bus #08262024 Trip from Bea to Clanton      
 TN TN131 US11/70 TN162 #01012017 Visit Manhatten Project VC
@@ -5147,6 +5156,7 @@ TN TN268 US41/70S US231 #01012019 Waco Trip with Bea
 TN TN268 US41/70S TN96 #Nearly Everyday while in M'Boro
 TN TN269 US231_S TN64_W #08262024 Trip from Bea to Clanton
 TN TN269 US231_N TN99 #11182024 Doctor Visit in M'Boro
+TN TN269 NorRd US41Alt #060426 Dr Hicks Visit
 TN TN269Eag US41Alt US31Alt #M'Boro to United Tel
 TN TN270 US41Alt US31Alt #11182024 Doctor Visit in M'Boro
 TN TN271 US431 US31Alt #111925 Annual Physical
@@ -5154,10 +5164,16 @@ TN TN272 TN129 US31Alt_S #122925 Space Rocket Museum
 TN TN272 TN99 US31Alt_N #11182024 Doctor Visit in M'Boro
 TN TN273 TN166 I-65 #111225 Trip to Bea
 TN TN273 TN274 US64 #122925 Space Rocket Museum
-TN TN274 AL/TN TN273 #122925 Space Rocket Museum 
-TN TN277 US64/70 US78 #01192021 Visiting Bea    
+TN TN273 I-65 US64 #060626 Savage Gulf Hike
+TN TN274 AL/TN TN273 #122925 Space Rocket Museum
+TN TN276 TN130 US41Alt #060426 Dr Hicks Visit 
+TN TN277 US64/70 US78 #01192021 Visiting Bea
+TN TN280 US41 TN53 #060626 Savage Gulf Hike 
+TN TN281 TN53 US70S #060626 Savage Gulf Hike   
 TN TN281 US70S TN146 #07222017 Short Mtn Distillery
 TN TN284 TN111 TN30 #05232017 Bledsoe BdMtg
+TN TN286 TN55Bus TN380 #060626 Savage Gulf Hike 
+TN TN287 TN108/127 US70S_W #060626 Savage Gulf Hike 
 TN TN290 TN56_N TN135 #10302017 Trip to Cookeville - Twin Lakes
 TN TN297 US27_S TN154 #11032017 Visit to Clinton
 TN TN298 I-40 TN62 #010126 Visit Roger Bristol
@@ -5177,6 +5193,7 @@ TN TN374 US79_S TN237 #03102017 Return from Wabash BdMtg
 TN TN377 AL/TN TN156 #100425 Trip to Bea
 TN TN378 US27/60 US27_N #05232017 Bledsoe BdMtg 
 TN TN380 US70S/55 MainSt_E #05232017 Bledsoe BdMtg
+TN TN380 TN286 US70S_E #060626 Savage Gulf Hike
 TN TN382 US70 US27 #010226 Visit Roger Bristol
 TN TN385Col I-240 I-269 #01192021 Visiting Bea
 TN TN386 I-65 TN174 #09102017 Target-Sam Trip 
@@ -5184,6 +5201,7 @@ TN TN396 I-65 US31 #07022017 Memphis IKEA
 TN TN396 US31 TN247 #11172024 Driving around visiting Bea
 TN TN417 US431 TN373 #10042024 Travel to visit Bea
 TN TN434 TN46 TN149 #050126 United Bd Mtg Return
+TN TN437 US231 US41Alt #060426 Dr Hicks Visit
 TN TN437 TN64 US41Alt #112025 Old Stone Fort SP
 TN TN438 US412 TN50 #051626 Mousetail Landing SP 
 TN TN441 US31 TN252 #Living in Nashville Area
@@ -5193,11 +5211,13 @@ TN TN449 US321/441 US411 #050826 Home School Conference
 TN TN452 US231 I-840 #Living in M'Boro
 TN TN455 TN12_S TN12_N #052526 Rural Bd Mtg
 TN TN461 US79 LandBLakNRA #050126 United Bd Mtg Return
-TN TN462 US70N US70 #08152024 Travel from SCTC to Bea's House   
+TN TN462 US70N US70 #08152024 Travel from SCTC to Bea's House
+TN TN476 TN50 TN130  #060626 Savage Gulf Hike  
 TN CadCoveLpRd LauCreRd_B SpaLn_N #01022017 Visit Gatlinburg
 TN GatByp US321/441 US441_S #01022017 Visit Gatlinburg
 TN LitRivGorRd US441 TowEndRd #01022017 Visit Gatlinburg
-TN OVTrl US421_N US11E/19_N #010126 Visit Roger Bristol    
+TN OVTrl US421_N US11E/19_N #010126 Visit Roger Bristol
+TN TTTrlMur SR102 MedCenPkwy #Living in Mboro    
 TX I-10 TX/LA 853A #051118 Telergee Mtg 
 TX I-10 853A 564 #Kids Trip
 TX I-10 540 564 #110517 LBJ NHP

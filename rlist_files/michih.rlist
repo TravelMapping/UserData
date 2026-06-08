@@ -1,4 +1,4 @@
-# Date: 2026-05-30
+# Date: 2026-06-07
 # ----------------
 # ----------------
 
@@ -329,6 +329,23 @@ AUT DWie FraJosBah Bot                #2024
 AUT 1Wie Schw Bor                     #2024, traveled as temporarily extended line 71
 AUT 71Wie Bor Sim                     #2024
 
+#Bruxelles
+BEL 1Bru GareCen Sto        #2026
+BEL 4Bru StaP PorHal        #2026
+BEL 4Bru Lem Rog            #2026
+BEL 5Bru Era HerDeb         #2026
+BEL 6Bru RoiBau Rog         #2026
+BEL 7Bru Van PriEli         #2026
+BEL 8Bru HerDeb Roo         #2026
+BEL 9Bru RoiBau GroBij      #2026
+BEL 25Bru Rog Mon           #2026
+BEL 39Bru Mon BanEik        #2026
+BEL 44Bru Mad TerSta        #2026
+BEL 51Bru MarDur Lem        #2026
+BEL 81Bru Tri Mon           #2026
+BEL 82Bru GareBer Nee       #2026
+BEL 92Bru Sch Bot           #2026
+BEL 92Bru Jan Van           #2026
 
 #Sofia
 BGR M1 MlaI BusPark         #2023
