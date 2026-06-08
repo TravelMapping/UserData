@@ -123,11 +123,11 @@ DEU-HE S8 FraFurtFlugHafRegBf FraFurtHbf
 
 # Krakow 
 POL S1Kra KraLot WieRynKop
-# Stockholm Spårväg
+
+# Stockholm Sparvag
 SWE 7Sto TCen BelWal
 SWE 31Sto BroFly Alv
 SWE 21Sto Rop GasBry
-
 
 # Stockholm Lokalbana
 SWE 27Sto StoOst Mor
@@ -141,6 +141,10 @@ SWE 14Sto Fru MorCen
 SWE 17Sto Ake SkaNack
 SWE 18Sto Alv FarStr
 SWE 19Sto HasStr Hag
+
+# Stockholm Pendeltag
+SWE 41Sto Mar StoCity
+SWE 43Sto StoCity NynHamn 
 
 
 # Yerevan Metro
