@@ -1,11 +1,16 @@
-# Date: 2026-06-08
-# ----------------
+# Date: 2026-06-09
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+BEL IC6 Tou BruNord                                             #2026
+BEL IC26 Kor Tou                                                #2026
+BEL IC4 AntCen Kor                                              #2026 via Waregem, Gent, Beveren
+BEL IC7 BruNord +DIV_S2                                         #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
+BEL IC31 +DIV_IC35 +DIV_IC1                                     #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
+BEL IC7 +DIV_S5 AntCen                                          #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
 DEU-BY RE89 Don DEU-BW RE89 AalHbf                              #2026
 DEU-BY RB14 EicBf EicSta                                        #2026
 DEU-BY RB16 Tre IngHbf                                          #2026
@@ -328,6 +333,10 @@ AUT U6 Flo Wes                        #2024
 AUT DWie FraJosBah Bot                #2024
 AUT 1Wie Schw Bor                     #2024, traveled as temporarily extended line 71
 AUT 71Wie Bor Sim                     #2024
+
+#Antwerpen
+BEL 4Ant Groenplaats Groenenhoek      #2026
+BEL 11Ant Groenenhoek Melkmarkt       #2026
 
 #Bruxelles
 BEL 1Bru GareCen Sto        #2026
