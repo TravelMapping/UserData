@@ -87,7 +87,7 @@ CA BARTRed SanFraAir PowSt
 
 
 # Intercity
-NLD IC35 RotCen BEL IC25 BruAirZav
+NLD IC35 RotCen BEL IC35 BruAirZav
 
 
 # Eurostar
@@ -99,7 +99,7 @@ CZE C Vys NadHol
 
 
 # Budapest Metro
-HUN M3 HalTer KobKis
+HUN M3 KalTer KobKis
 
 
 # Helsinki Metro
