@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 6-5-26
+#everywhere that darmstarm has been up to 6-8-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-7-26.
+#last updated 6-8-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -206,7 +206,7 @@ MD MD188 McABlvd MD190 #hershey trip 2025
 MD MD190 MD188 I-495 #hershey trip 2025
 MD MD193 BalWasPkwy_W GoodLuckRd #greenbelt park + weird way to raleigh 2025
 MD MD201 MD295 DC/MD #end of baltwash to dc
-MD MD213 MD/PA MD273 #two parts
+MD MD213 MD/PA MainSt #two parts
 MD MD213 US40 MD290/313
 MD MD214 MD978_E MD424 #raleigh -> home thanksgiving 2025
 MD MD222 MD276 US1 #road trip 7-19-25
@@ -236,6 +236,7 @@ MD MD381 MD231 MD382 #raleigh -> home thanksgiving 2025
 MD MD382 MD381 MtCalRd #raleigh -> home thanksgiving 2025. up to croom station rd
 MD MD424 MD214 US50/301 #raleigh -> home thanksgiving 2025
 MD MD544 MD313 US301
+MD MD545 MD213 KirkRd #clinched 6-8-26
 MD MD591 US1 End #raleigh -> home 5-26 (side quest)
 MD MD591WOc US1 End #raleigh -> home 5-26 (side quest)
 MD MD623 MD161 US1
