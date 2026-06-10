@@ -73,7 +73,7 @@ SCT EdiTram PriSt EdiAir
 
 # Manchester to Wales
 ENG HolManLn Che ManAir # Bus Substitution (some not on rail)
-WLS HolManLn LlaJct ENG HolManLn Che
+WLS HolManLn Llap ENG HolManLn Che
 # WLS WCMLC LlaJct +SKIP_Lfp 
 
 # Wales to York
