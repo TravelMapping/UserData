@@ -40,7 +40,8 @@ AK WPY Ska BC WPY WhiPass
 
 # Old Eurostar (Waterloo) to Paris
 ENG WinLn LonWat +SKIP_QueRd
-ENG ThaLn +DIV_WinW +DIV_SEML
+# ENG ThaLn +DIV_WinW +DIV_SEML #Deprecated - missing Vauxhall to Brixton Connection
+ENG ThaLn +DIV_Bex +DIV_SEML
 ENG SEML +DIV_CML AshInt
 
 # Eurostar (St Pancras) to Paris
@@ -71,9 +72,9 @@ ENG ECMLEdi LonKinCro SCT ECMLEdi EdiWav
 SCT EdiTram PriSt EdiAir
 
 # Manchester to Wales
-ENG LlaManLn Che ManAir # Bus Substitution (some not on rail)
-WLS LlaManLn LlaJct ENG LlaManLn Che
-WLS WCMLC LlaJct +SKIP_Lfp
+ENG HolManLn Che ManAir # Bus Substitution (some not on rail)
+WLS HolManLn LlaJct ENG HolManLn Che
+# WLS WCMLC LlaJct +SKIP_Lfp 
 
 # Wales to York
 ENG WCMLC Cre Che
