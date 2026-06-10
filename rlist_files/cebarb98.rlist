@@ -7,7 +7,8 @@ DC PennLn WasUniSta DC/MD
 MD PennLn DC/MD Hal
 
 #. Baltimore Light Rail
-MD BLRL Pap Fai
+MD BLRL Lin Fai
+MD BLRLBWI BWIAir Fai
 
 #. Washington DC Metro Red Line
 DC RedLn MetCen DC/MD
@@ -20,16 +21,23 @@ MD GreLn DC/MD Gre
 
 #. Washington DC Metro Yellow Line
 VA YelLn EisAve VA/DC
-DC GreLn VA/DC MtVerSq
+DC YelLn VA/DC MtVerSq
 
 #. Washington DC Metro Blue Line
-DC BluLn LEnfPla DC/MD
+DC BluLn FogBotGWU DC/MD
 MD BluLn DC/MD AddRdSeatPle
 
 #. Washington DC Metro Orange Line
-DC OraLn LEnfPla DC/MD
+DC OraLn FogBotGWU DC/MD
 MD OraLn DC/MD NewCar
+
+#. Washington DC Metro Silver Line
+DC SilLn FogBotGWU DC/MD
+MD SilLn DC/MD AddRdSeatPle
 
 #. New York City Subway
 NY 1 TimSq42St CorStWTC
 NY F 47-50StsRocCen YorkSt
+
+#. Los Angeles Metro Subway
+CA B HolHig HolVine

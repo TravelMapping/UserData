@@ -1,0 +1,47 @@
+#### United States ####
+# Delaware
+DE NENor MD/DE DE/PA
+
+# District of Columbia
+DC PennLn DC/MD WasUniSta
+DC BluLn LEnfPla VA/DC
+DC BluLn StaArm LEnfPla
+DC BluLn FogBotGWU LEnfPla
+DC GreLn DC/MD NavyYardBal
+DC RedLn FortTot VanNessUDC
+DC SilLnNew DC/MD LEnfPla
+DC YelLn VA/DC MtVerSq
+
+# Georgia
+GA GoldLn Air PeaCen
+
+# Maryland
+MD NENor NewCar MD/DE
+MD CamLn ColPk BalCam
+MD PennLn BalPenn DC/MD
+MD GreLn Gre DC/MD
+MD SilLnNew NewCar DC/MD
+
+# New Jersey
+NJ NENor NJ/NY PA/NJ
+
+# New York
+NY NECorLn NY/NJ PennSta
+NY B 47-50StsRocCen DeKAv
+NY E CouSq23St 34StPennSta
+NY G HoytSchSts CouSq
+
+# Pennsylvania
+PA NENor DE/PA PA/NJ
+
+# Virginia
+VA BluLn VA/DC PenCity
+VA YelLn PenCity VA/DC
+VA YelLn RRWasNatAir KingStOldTown
+
+#### India ####
+# Delhi
+IND-DL VioLn DL/HR Jan
+
+# Haryana
+IND-HR VioLn OldFar DL/HR
