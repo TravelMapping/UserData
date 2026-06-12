@@ -1,4 +1,4 @@
-# Date: 2026-06-09
+# Date: 2026-06-11
 # ----------------
 
 ######################
@@ -1192,6 +1192,20 @@ ITA-SIC MetCat MonPo Ste              #2024
 
 #Luxembourg
 LUX T1 LuxExpo LycBouWeg              #2023
+
+#Amsterdam
+NLD 50Ams StaZuid Gein                #2026
+NLD 51Ams StaZuid Isl                 #2026
+NLD 52Ams Noo StaZuid                 #2026
+NLD 53Ams CenSta Gaa                  #2026
+NLD 3Ams RoeHar Wib                   #2026, actually traveled as line 25
+NLD 3Ams Mol Fle                      #2026, actually traveled as line 14 and line 25
+NLD 5Ams RoeHar Sta                   #2026
+NLD 14Ams CenSta Mol                  #2026, actually started at Flevopark, mapped as line 3
+NLD 14Ams +DIV_1419 Mui               #2026, actually traveled as rerouted line 19
+NLD 19Ams StaSlo +DIV_14              #2026, traveled to (east of) Muinderpoortstation
+NLD 25Ams StaZuid UitCen              #2026
+
 
 #Bergen
 NOR 1Ber Byp BerLuf                   #2024
