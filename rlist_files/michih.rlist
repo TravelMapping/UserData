@@ -1,10 +1,14 @@
-# Date: 2026-06-11
+# Date: 2026-06-12
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
+#NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
+NLD AmsDis AmsCen +DIV_Slo                                      #2026, actually traveled as intercity connection Den Haag - Amsterdam
+#NLD Intercity Den Haag Centraal Amsterdam Centraal             #2026 via Haarlem
 BEL IC6 Tou BruNord                                             #2026
 BEL IC26 Kor Tou                                                #2026
 BEL IC4 AntCen Kor                                              #2026 via Waregem, Gent, Beveren
@@ -1198,14 +1202,33 @@ NLD 50Ams StaZuid Gein                #2026
 NLD 51Ams StaZuid Isl                 #2026
 NLD 52Ams Noo StaZuid                 #2026
 NLD 53Ams CenSta Gaa                  #2026
+NLD 1Ams +DIV_719 +DIV_3              #2026, actually traveled as line 25
+NLD 2Ams CenSta +DIV_512              #2026, actually traveled as line 24
+NLD 3Ams Cle Kin                      #2026, actually traveled as rerouted line 19
+NLD 3Ams Wib +DIV_1                   #2026, actually traveled as line 25
+NLD 3Ams VanHal Nas                   #2026, actually traveled as line 5 from Marnixplein
+NLD 3Ams FreHen +DIV_512              #2026, actually traveled as line 12
 NLD 3Ams RoeHar Wib                   #2026, actually traveled as line 25
 NLD 3Ams Mol Fle                      #2026, actually traveled as line 14 and line 25
 NLD 5Ams RoeHar Sta                   #2026
+NLD 5Ams Zou Ela                      #2026, actually traveled as line 13
+NLD 7Ams Wes Slo                      #2026, actually traveled to Roetersstraat but the last tiny segment is currently not in RB
+NLD 12Ams +DIV_23 RoeHar              #2026, actually traveled as line 24
+NLD 12Ams +DIV_23 Amss                #2026
+NLD 13Ams Bil LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
 NLD 14Ams CenSta Mol                  #2026, actually started at Flevopark, mapped as line 3
 NLD 14Ams +DIV_1419 Mui               #2026, actually traveled as rerouted line 19
-NLD 19Ams StaSlo +DIV_14              #2026, traveled to (east of) Muinderpoortstation
+NLD 17Ams RozMar Bil                  #2026, actually traveled as rerouted line 13
+NLD 17Ams Ela Bil                     #2026, actually traveled as rerouted line 19
+NLD 19Ams StaSlo Bil                  #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
+NLD 19Ams Ela +DIV_14                 #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
 NLD 25Ams StaZuid UitCen              #2026
 
+#Rotterdam
+NLD D RotCen Akk                      #2026
+NLD C Akk Bla                         #2026
+NLD E DenHaagCen RotCen               #2026
+NLD 3Rot RotCen Beu                   #2026
 
 #Bergen
 NOR 1Ber Byp BerLuf                   #2024
