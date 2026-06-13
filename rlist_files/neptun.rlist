@@ -1,5 +1,5 @@
 # ──────────
-# 2026-05-25
+# 2026-06-13
 # ──────────
 
 # ─────────
@@ -491,6 +491,24 @@ HUN 56Bud Huv RudGyo
 HUN 59ABud SzeKalTer MarAronTer
 HUN 60Bud Var SzeHegyGye
 HUN 61Bud Var MorZsiKor
+
+#┌───────────────────────────────────────────┐
+#│                    ITA                    │
+#└───────────────────────────────────────────┘
+
+ITA-FRI 2Tri PiaObe Opi
+
+ITA-LAZ 2Rom Man Fla
+ITA-LAZ 5Rom Ter PiaVitEma
+
+ITA-LAZ MA ValAur VitEma
+ITA-LAZ MB Tib Ter
+
+ITA-LAZ LeoExp RomaTer FiuAer
+ITA-LAZ FC3 Gro PiaFla
+ITA-LAZ FL3 ValAur RomaTib
+
+ITA-PUG FM3 BariCen Bit
 
 #┌───────────────────────────────────────────┐
 #│                    POL                    │
