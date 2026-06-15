@@ -18,6 +18,7 @@ MA GreLnE HeathSt MedTuf
 MA NeeLn NeeHei BosSou
 MA ProLn BosSou RI ProLn Pro
 MA KinLn JFK BosSou
+MA FraLn BosSou Nor
 
 
 # New York City Subway
@@ -58,8 +59,8 @@ ON 1 Spa Uni
 
 
 #DFW Skylink
-TX A8 A22
-TX A22 A8
+TX Sky A8 A22
+TX Sky A22 A21
 
 
 # DART
@@ -87,7 +88,7 @@ CA BARTRed SanFraAir PowSt
 
 
 # Intercity
-NLD IC35 RotCen BEL IC25 BruAirZav
+NLD IC35 RotCen BEL IC35 BruAirZav
 
 
 # Eurostar
@@ -99,7 +100,7 @@ CZE C Vys NadHol
 
 
 # Budapest Metro
-HUN M3 HalTer KobKis
+HUN M3 KalTer KobKis
 
 
 # Helsinki Metro
