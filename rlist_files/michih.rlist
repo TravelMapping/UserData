@@ -1,4 +1,4 @@
-# Date: 2026-06-12
+# Date: 2026-06-14
 # ----------------
 
 ######################
@@ -1202,7 +1202,10 @@ NLD 50Ams StaZuid Gein                #2026
 NLD 51Ams StaZuid Isl                 #2026
 NLD 52Ams Noo StaZuid                 #2026
 NLD 53Ams CenSta Gaa                  #2026
+NLD 1Ams Mat MeerVaa                  #2026
+NLD 1Ams 1CHuy +DIV_2512              #2026, actually traveled as rerouted line 17 
 NLD 1Ams +DIV_719 +DIV_3              #2026, actually traveled as line 25
+NLD 2Ams Mus Oud                      #2026
 NLD 2Ams CenSta +DIV_512              #2026, actually traveled as line 24
 NLD 3Ams Cle Kin                      #2026, actually traveled as rerouted line 19
 NLD 3Ams Wib +DIV_1                   #2026, actually traveled as line 25
@@ -1217,6 +1220,7 @@ NLD 12Ams +DIV_23 RoeHar              #2026, actually traveled as line 24
 NLD 12Ams +DIV_23 Amss                #2026
 NLD 13Ams Bil LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
 NLD 14Ams CenSta Mol                  #2026, actually started at Flevopark, mapped as line 3
+NLD 17Ams Bil Dij                     #2026
 NLD 14Ams +DIV_1419 Mui               #2026, actually traveled as rerouted line 19
 NLD 17Ams RozMar Bil                  #2026, actually traveled as rerouted line 13
 NLD 17Ams Ela Bil                     #2026, actually traveled as rerouted line 19
