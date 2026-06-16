@@ -52,8 +52,8 @@ CA PerVlyLn UniSta PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
 CA SanBerLn UniSta SanBerDow
-CA SJOak Bak OakJackLonSq
-CA SJSac Bak SacVlySta
+CA GROak Bak OakJackLonSq
+CA GRSac Bak SacVlySta
 CA SL UniSta CA/AZ
 CA SMART SanRafDT SonCtyApt
 CA Spr Oce EscTC
@@ -101,7 +101,6 @@ DC BluLn VA/DC DC/MD
 DC CamLn WasUniSta DC/MD
 DC FL MD/DC WasUniSta
 DC CR VA/DC DC/MD
-DC DCSC UniSta OklAve
 DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
 DC OraLn VA/DC DC/MD

@@ -527,7 +527,6 @@ DEU-BW S4 Bac LudBurg                                                           
 DEU-BW S4 LudBurg StuHbf                                                                       #2022
 DEU-BW S5 BieHeimBis StuHbf                                                                    #2023
 DEU-BW S6 WeilSta StuHbf                                                                       #2020/24
-DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
 DEU-BW S60 Bob Ren                                                                             #2024
 
 #Ulm
@@ -640,7 +639,7 @@ DEU-HH S3 SH/HH NeuGra                                                          
 DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
 DEU-NI S5Hor HH/NI Sta                                                                         #2023
 DEU-HH S1 Bla Ohl                                                                              #2020/23
-DEU-HH S2 HolStr BerDorf                                                                       #2023
+DEU-HH S2 HolStr BerDorf                                                                       #2023, actually traveled as S2
 DEU-HH S7 BerDorf HH/SH                                                                        #2023, actually traveled as S2 (renumbered Dec 2025)
 DEU-SH S7 HH/SH AuMuh                                                                          #2023, actually traveled as S2 (renumbered Dec 2025)
 DEU-HH RE5 HarBurg HH/NI                                                                       #2023, RE5, different routing in Harburg than S3
@@ -1204,29 +1203,19 @@ NLD 52Ams Noo StaZuid                 #2026
 NLD 53Ams CenSta Gaa                  #2026
 NLD 1Ams Mat MeerVaa                  #2026
 NLD 1Ams 1CHuy +DIV_2512              #2026, actually traveled as rerouted line 17 
-NLD 1Ams +DIV_719 +DIV_3              #2026, actually traveled as line 25
 NLD 2Ams Mus Oud                      #2026
 NLD 2Ams CenSta +DIV_512              #2026, actually traveled as line 24
 NLD 3Ams Cle Kin                      #2026, actually traveled as rerouted line 19
-NLD 3Ams Wib +DIV_1                   #2026, actually traveled as line 25
-NLD 3Ams VanHal Nas                   #2026, actually traveled as line 5 from Marnixplein
-NLD 3Ams FreHen +DIV_512              #2026, actually traveled as line 12
-NLD 3Ams RoeHar Wib                   #2026, actually traveled as line 25
-NLD 3Ams Mol Fle                      #2026, actually traveled as line 14 and line 25
+NLD 5Ams VanHal +SKIP_Mar             #2026, Marnixplein was not skipped!
 NLD 5Ams RoeHar Sta                   #2026
-NLD 5Ams Zou Ela                      #2026, actually traveled as line 13
 NLD 7Ams Wes Slo                      #2026, actually traveled to Roetersstraat but the last tiny segment is currently not in RB
-NLD 12Ams +DIV_23 RoeHar              #2026, actually traveled as line 24
-NLD 12Ams +DIV_23 Amss                #2026
-NLD 13Ams Bil LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
-NLD 14Ams CenSta Mol                  #2026, actually started at Flevopark, mapped as line 3
+NLD 12Ams FreHen Amss                 #2026
+NLD 13Ams Zou LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
+NLD 14Ams CenSta Fle                  #2026
 NLD 17Ams Bil Dij                     #2026
-NLD 14Ams +DIV_1419 Mui               #2026, actually traveled as rerouted line 19
-NLD 17Ams RozMar Bil                  #2026, actually traveled as rerouted line 13
-NLD 17Ams Ela Bil                     #2026, actually traveled as rerouted line 19
-NLD 19Ams StaSlo Bil                  #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
-NLD 19Ams Ela +DIV_14                 #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
-NLD 25Ams StaZuid UitCen              #2026
+NLD 19Ams StaSlo Mui                  #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
+NLD 24Ams CenSta +DIV_117             #2026
+NLD 25Ams Fle UitCen                  #2026
 
 #Rotterdam
 NLD D RotCen Akk                      #2026
