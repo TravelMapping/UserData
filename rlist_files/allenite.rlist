@@ -92,8 +92,16 @@ ENG CityLn LivLimeSt WigNorWes
 # Netherlands #
 ###############
 
-# Airport to Amsterdam Centraal
-NLD AmsDis AmsCen SchAir
+# Airport to Amsterdam Centraal  -- and towards Antwerp
+#NLD AmsDis AmsCen SchAir
+NLD AmsDis AmsCen NLD/BEL
+
+# Not mapped yet
+# NS Sprinter SchAir Delft
+
+# AMS Trams
+NLD 24Ams CenSta Mus
+NLD 4Ams CenSta Dam
 
 
 ###########
@@ -107,4 +115,15 @@ IRL DART DubPea BrayDaly
 ###############
 IMN IMR Dou Cas
 IMN MER DerCas Lax
+
+###########
+# Belgium #
+###########
+# From Amsterdam to Bruge IC Direct / City Lines
+BEL IC35 NLD/BEL AntCen
+# 
+# BEL IC3 GentStPie Bru - Overlapped
+BEL IC2 Bru AntCen
+
+
 
