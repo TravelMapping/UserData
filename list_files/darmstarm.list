@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 6-11-26
+#everywhere that darmstarm has been up to 6-20-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-11-26.
+#last updated 6-20-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -150,6 +150,7 @@ PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
 #the star spangled banner trail??? most of md382, plus croom station rd
 MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
+MD ClaBarPkwy MacBlvd_W I-495 #guatemala trip 6-26 (baltimore -> dulles)
 MD I-68 WV/MD 82 #various trips
 MD I-70 1A 91
 MD I-81 MD/PA WV/MD
@@ -157,6 +158,7 @@ MD I-83 7 MD/PA #hershey trip 2025 + up to 34th street parking
 MD I-95 DC/MD MD/DE
 MD I-97 7 17
 MD I-270 32 2 #hershey -> raleigh
+MD I-370 1 3 #guatemala trip 6-26 (baltimore -> dulles)
 MD I-270SprAsh 2 I-495 #hershey -> raleigh
 MD I-295 MD/DC I-95/495
 MD I-495 DC/MD MD/VA #hershey -> raleigh, bethesda. completed 9-25
@@ -169,6 +171,7 @@ MD I-895SprFer I-895SprFur I-695
 MD US1 MD/PA I-695(32)
 MD US1 I-95/495 MD193 #umd college park
 MD US1BusBel MD23 US1_N
+MD US1BusBel US1_S MD924_S #guatemala trip 6-26 (baltimore -> home)
 MD US13 VA/MD US13BusSal_S #two parts
 MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
@@ -188,14 +191,17 @@ MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD5 MD488 I-95/495 #raleigh -> home 5-26, as far as olivers' shop rd
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
+MD MD22 US1Bus MD136 #guatemala trip 6-26 (baltimore -> home)
 MD MD23 US1 SchRd #en route to grandparents
 MD MD41 I-695 JopRd #micro center
 MD MD43 I-695 US40
 MD MD45 MD145 TimRd #to christmas tree farm
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
+MD MD136 MD22 MD440 #guatemala trip 6-26 (baltimore -> home)
 MD MD140 I-795 US15 #cunningham falls trip
 MD MD146 MD45 SchRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
+MD MD147 I-695 US1/1Bus #guatemala trip 6-26 (baltimore -> home)
 MD MD152 I-95 US1 #joppaaaa
 #MD MD152 MD146 Charles St #en route to grandparents
 MD MD155 US40/7 I-95
@@ -203,8 +209,10 @@ MD MD155 I-95 MD161 #raleigh -> home 5-2026, and probably others as well
 MD MD161 MD155 US1 #clinched 5-26
 #MD MD165 MD23_E Furnace Rd #en route to grandparents
 MD MD188 McABlvd MD190 #hershey trip 2025
+MD MD189 I-270 MD190 #guatemala trip 6-26 (baltimore -> dulles)
 MD MD190 MD188 I-495 #hershey trip 2025
 MD MD193 BalWasPkwy_W GoodLuckRd #greenbelt park + weird way to raleigh 2025
+MD MD200 16 3 #guatemala trip 6-26 (baltimore -> dulles)
 MD MD201 MD295 DC/MD #end of baltwash to dc
 MD MD213 MD/PA MainSt #two parts
 MD MD213 US40 MD290/313
@@ -236,6 +244,7 @@ MD MD355 NewTecWay FreLim #hershey trip 2025
 MD MD381 MD231 MD382 #raleigh -> home thanksgiving 2025
 MD MD382 MD381 MtCalRd #raleigh -> home thanksgiving 2025. up to croom station rd
 MD MD424 MD214 US50/301 #raleigh -> home thanksgiving 2025
+MD MD440 MD136 US1 #guatemala trip 6-26 (baltimore -> home)
 MD MD544 MD313 US301
 MD MD545 MD213 KirkRd #clinched 6-8-26
 MD MD591 US1 End #raleigh -> home 5-26 (side quest)
@@ -540,7 +549,7 @@ NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
-NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
+NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)GTM RN14A
 NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
@@ -623,6 +632,7 @@ VA VA151 VA6_E US250 #raleigh -> hershey 2024
 VA VA156BusHop VA36_W VA10_W #raleigh -> home easter 2026
 VA VA207 US301 I-95
 #VA VA253 I-81 university blvd #shanendoah trip 10-25
+VA VA267 18 9B #guatemala trip 6-26 (baltimore -> dulles)
 VA VA280 SR710 US33 #shanendoah trip 10-25
 VA VA294 US1 I-95 #home -> raleigh 4/26
 VA VA311 SR624 VA419 #shanendoah trip 10-25. north to dragon's tooth trailhead
@@ -735,3 +745,11 @@ ON ONQEW PeaBrg 89 #canada trip 6-26
 ON ON3 RR20 RR14 #canada trip 6-26 (return)
 ON ON58AWel CanBankSt RR525 #canada trip 6-26 (return)
 ON ON403 64 6 #canada trip 6-26
+
+#GUATEMALA (first visited 6-13-26)
+GTM CA1 Hin RN10 #guatemala trip 6-26 (guatemala city -> antigua)
+GTM CA1 RN14 RDSOL7 #guatemala trip 6-26 (antigua -> lake atitlan)
+GTM RN1 RDSOL6_E CA1/RN15 #guatemala trip 6-26 (panajachel -> antigua)
+GTM RN10 CA1 AlaSanLuc_N #guatemala trip 6-26 (guatemala city -> antigua -> lake atitlan)
+GTM RN14 RN10_E RDCHM26 #guatemala trip 6-26 (antigua -> lake atitlan) + (panajachel -> antigua)
+GTM RN14A RN14_Pas RDSAC9 #guatemala trip 6-26 (antigua -> lake atitlan)
