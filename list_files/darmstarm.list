@@ -549,7 +549,7 @@ NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
-NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)GTM RN14A
+NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
