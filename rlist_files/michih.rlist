@@ -1,10 +1,11 @@
-# Date: 2026-06-17
+# Date: 2026-06-20
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+CHE S7Gal Rom Ror                                               #2026, actually traveled S7 from Lindau Insel to Rorschach, but we don't have that in RB
 NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
 #NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
 NLD AmsDis AmsCen +DIV_Slo                                      #2026, actually traveled as intercity connection Den Haag - Amsterdam
