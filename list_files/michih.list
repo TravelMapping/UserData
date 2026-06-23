@@ -1,4 +1,4 @@
-# Date: 2026-06-15
+# Date: 2026-06-22
 # ----------------
 
 
@@ -12199,7 +12199,8 @@ TUR D550 D200/D210 Has
 TUR D550 Yes O33
 TUR D567 D020 D100_E
 TUR D569 O3 D100
-TUR D595 D130 BilCad
+TUR D595 D130 I16-07
+TUR D595 AtaCd BilCd
 TUR AvcHarBag O3 D100
 TUR MetEseBag O2 O3
 TUR O1 3 14           #actually traveled from exit 1 to 15
