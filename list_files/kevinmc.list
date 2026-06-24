@@ -3962,6 +3962,10 @@ PA PA31 PA601 PlaRd
 # 2026-06-20
 PA PA910 TurRd FreRd
 
+# 2026-06-23
+PA PA8 McCRd PA228_W
+PA PA228 I-79 PA8_S
+
 # undated / unknown
 PA PA885 HotMetSt I-579
 
