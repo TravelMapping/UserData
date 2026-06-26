@@ -123,7 +123,7 @@ IL	IL132	I-94	IL21	#1990-07 Great America
 #1992-02 UWisconsin				
 IL	I-74	127	183	#1992-02 UWisconsin
 IL	I-55	163	164	#1992-02 UWisconsin
-IL	US51	I-55(164)	I-90_E	#1992-02 UWisconsin
+IL	US51	I-55(164)	I-90(17)	#1992-02 UWisconsin
 IL	I-90	WI/IL	17	#1992-02 UWisconsin
 WI	I-90	142	WI/IL	#1992-02 UWisconsin
 WI	US18	261(12)	267(12)	#1992-02 UWisconsin
@@ -1610,7 +1610,7 @@ IL	I-55	163	165	#2021-06 After the Blip
 IL	I-74	102	127	#2021-06 After the Blip
 IL	IL117	US150	US24	#2021-06 After the Blip
 IL	US24	IL117	OldUS66	#2021-06 After the Blip
-IL	US66His	US24	IL23_N	#2021-06 After the Blip
+IL	US66His	US24	IL116_W	#2021-06 After the Blip
 IL	IL116	IL23	N2100E	#2021-06 After the Blip
 IL	IL23	IL116	I-55	#2021-06 After the Blip
 IL	I-190	0	1C	#2021-06 After the Blip
@@ -1856,12 +1856,12 @@ IL	I-355	12	20A	#2024-02 Where There is a Will
 IL	I-55	163	269	#2024-02 Where There is a Will
 IL	US6	RidRd	I-55	#2024-02 Where There is a Will
 IL	IL23	IL116	I-55	#2024-02 Where There is a Will
-IL	IL116	IL23	N2100E	#2024-02 Where There is a Will
-IL	US66His	US24	IL23/116	#2024-02 Where There is a Will
+IL	IL116	OldUS66	N2100E	#2024-02 Where There is a Will
+IL	US66His	US24	IL116_W	#2024-02 Where There is a Will
 IL	I-74	102	127	#2024-02 Where There is a Will
 IL	I-80	126	131	#2024-02 Where There is a Will
 IL	I-80	132	148	#2024-02 Where There is a Will
-IL	US30	CenSt_N	WesAve	#2024-02 Where There is a Will
+IL	US66His	I-80	IL7_S	#2024-02 Where There is a Will
 IL	US6	US52/53	US30/53	#2024-02 Where There is a Will
 IL	IL43	I-80	US6	#2024-02 Where There is a Will
 IL	I-57	346	358	#2024-02 Where There is a Will
@@ -2265,6 +2265,33 @@ GA	GA74	GA54	I-85	#2026-05 Going Bananas
 GA	GA54	GA34	PeaPkwy	#2026-05 Going Bananas
 GA	I-285	GA279	62A	#2026-05 Going Bananas
 GA	I-285	58	62	#2026-05 Going Bananas
+#2026-06 Illinois				
+IL	US12	IL72	CofRd	#2026-06 Illinois
+IL	IL72	I-90	IL43	#2026-06 Illinois
+IL	IL50	IL19	US41	#2026-06 Illinois
+IL	US14	GroPoiRd	IL50	#2026-06 Illinois
+IL	I-94	30	53B	#2026-06 Illinois
+IL	IL68	IL83	I-94	#2026-06 Illinois
+IL	IL83	US14	IL68	#2026-06 Illinois
+IL	US14	IL83	US12/45	#2026-06 Illinois
+IL	US12	US14	OakSt	#2026-06 Illinois
+IL	US41	IL50	IL58	#2026-06 Illinois
+IL	IL19	IL43	WesAve	#2026-06 Illinois
+IL	I-55	163	US41	#2026-06 Illinois
+IL	US41	MacAve	I-55	#2026-06 Illinois
+IL	US12	StoIslAve	US41_N	#2026-06 Illinois
+IL	I-94	65A	74	#2026-06 Illinois
+IL	I-80	137	160	#2026-06 Illinois
+IL	US30	WesAve	I-80	#2026-06 Illinois
+IL	US6	I-55	US52/53	#2026-06 Illinois
+IL	IL116	CR13	OldUS66	#2026-06 Illinois
+IL	I-74	48	127	#2026-06 Illinois
+IL	US150	VetRd	WasRd	#2026-06 Illinois
+IL	IL6	0	2	#2026-06 Illinois
+IL	IL91	US150	AltaLn	#2026-06 Illinois
+IL	US150	KicEdwRd	I-74(89)	#2026-06 Illinois
+IL	US150	MainSt_W	MainSt_E	#2026-06 Illinois
+IL	I-474	0	15	#2026-06 Illinois
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	
