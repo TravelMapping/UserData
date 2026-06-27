@@ -41,10 +41,20 @@ MA GreLnE MedTuf Sym
 MA GreLnD Lec  Fen
 MA FallRivLn BosSou FallRiv
 
-Other
-CA BARTYel Roc CivCen
-ON 1 VauMetCen Uni
+Toronto Metro
+ON 1 VauMetCen BloYon
+ON 1 StCla Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+ON 5 Ced Ken
+ON 6 HumCol FinW
 ON 501 SpaAve YonSt
+ON 505 SpaAve ChuSt
+ON 506 SpaAve BaySt
+ON 510 SpaSta QueQuayLp
+
+
+Melbourne Metro
 AUS-VIC GeeLn SouCro SouGee
 AUS-VIC GWLn FliSt GlenWav
 AUS-VIC WerLn FliSt Wer
@@ -55,6 +65,9 @@ AUS-VIC BelLn LOOP +DIV_Lp
 AUS-VIC PakLn +DIV_Tar Cla
 AUS-VIC 96Mel MelMus ClaStJct
 AUS-VIC 11Mel ColSt SouCroSta
+
+Other
+CA BARTYel Roc CivCen
 HKG AirExp HongKong Air
 HKG IslLn SheWan NorPoi
 HKG ERailLnLok Adm LokMaChau
