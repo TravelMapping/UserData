@@ -1050,7 +1050,8 @@ PA US322 StaRd_B PA US322 PA18_N
 PA US322 US19/98 PA US322 US6_E
 NJ US322 CR623 NJ US322 NJ55
 AL US331 AL52_Opp AL US331 US29_N
-VA US340 I-66 MD US340 MD67
+VA US340 I-66 WV US340 *OldUS340_S
+WV US340 OldUS340_N MD US340 MD67
 VA US360 US58Bus_W VA US360 US29/58
 LA US371 I-49 LA US371 US84_E
 AR US371 AR200_N AR US371 I-30
@@ -5779,7 +5780,29 @@ NLD A4 2 3
 NLD N196 N201 FokWeg
 NLD N201 N196 A4
 
+NLD CenRingAms OosKade S116
+
+
 #==================================
 #	Belgium
 #==================================
 BEL R30 N32 N397
+
+
+#==================================
+# Denmark
+#==================================
+
+DNK PR40 ButVej_S AkaVej
+
+
+#==================================
+# Sweden
+#==================================
+
+SWE E4 160 152
+
+SWE L222 CenBron L260
+SWE L260 L222 R75
+
+SWE R75 E4/E20 6
