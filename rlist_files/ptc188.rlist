@@ -19,6 +19,8 @@ MA NeeLn NeeHei BosSou
 MA ProLn BosSou RI ProLn Pro
 MA KinLn JFK BosSou
 MA FraLn BosSou Nor
+MA FitLn BosNor Wal
+MA HavLn BosNor Hav
 
 
 # New York City Subway
@@ -161,3 +163,6 @@ CHN-FJ 2FZ SuYang YangLiSta
 CHN-FJ 4FZ DiFengJiang FengHuangChi
 CHN-FJ 5FZ JingXiHouYu FuZhouSRaiSta
 CHN-FJ 6FZ PanDun WanShou
+
+# Fujian Rail
+CHN-FJ HangShen FuZhouS XiaMenN
