@@ -242,7 +242,7 @@ FL FL542 FL549 US27
 FL FL544 US92 FL17
 FL FL546 I-4 US92
 FL FL549 FL542 FL544
-FL FL551 OldGolRd FL426
+FL FL551 FL15 FL426 #and Old Goldenrod
 FL FL552 FL15 FL551
 FL FL553 US92 I-4
 FL FL559 FL559A FL33
@@ -311,10 +311,34 @@ FL FL973 FL836 12thSt
 FL FL997 FL998 US27
 FL FL998 FL997 US1
 FL NocPkwy CR210_W PalmValRd #presumably the rest too, but I should drive it all just to be sure
-#Florida Scenic Highways:
-#Florida Black Bear Scenic Byway: everything
-#Green Mountain Scenic Byway: everything except Dillard/Surprise
-#River of Lakes Heritage Corridor: CR 3, CR 4053, CR 4139
+#Florida Scenic Highways (non-state road portions):
+#A1A Ocean Islands Trail: all state
+#A1A Scenic & Historic Coastal Byway: need CR A1A at St. Augustine Beach and potential spur at Vilano Beach
+#Bartram Scenic & Historic Highway: all state
+#Big Bend Scenic Byway
+#Bradenton Beach: all state
+#Broward County A1A Scenic Highway: need El Mar Drive at Lauderdale-by-the-Sea and spur at Dania Beach
+#Courtney Campbell Causeway: all state
+#Florida Black Bear Scenic Byway: drove everything
+#Florida Keys Scenic Highway: all state
+#Green Mountain Scenic Byway: drove everything except Dillard/Surprise
+#Halifax Heritage Byway
+#Heritage Crossroads: drove CR 13/Brick Road
+#Indian River Lagoon
+#Indian River Lagoon - Treasure Coast Scenic Highway
+#J.C. Penney Memorial Scenic Highway
+#Lemon Bay Myakka Trail
+#Martin Grade Scenic Highway
+#Old Florida Heritage Highway
+#Ormond Scenic Loop & Trail
+#Palma Sola: all state
+#Pensacola Scenic Bluffs: all state
+#The Ridge: all state
+#River of Lakes Heritage Corridor: drove CR 3, CR 4053, CR 4139; need CR 4110/4125, CR 4162/4164, Seminole Boulevard, CR 415
+#Scenic Highway 30A
+#Scenic Sumter Heritage Byway
+#Suncoast Scenic Parkway: all state
+#Tamiami Trail: all state
 
 CA CA1 MisSt_E SwaRd_S
 CA CA1 SwaRd_N BeanHolRd
