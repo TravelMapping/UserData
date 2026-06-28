@@ -87,10 +87,6 @@ NY NESpr PennSta NY/CT
 NY A +SKIP_81StMusNH +SKIP_WTC
 NY C 34StPennSta HighSt
 
-#Pennsylvania
-
-PA Duq Low Upp
-
 #Virginia
 
 VA BluLn FraSpr VA/DC
@@ -98,3 +94,11 @@ VA OraLn VieFaiGMU VA/DC
 
 #Wisconsin
 WI UPN IL/WI Ken
+
+
+#Canada
+
+#Alberta
+
+AB CapLn HeaSciJub Cla
+AB ValLn Chu 102St
