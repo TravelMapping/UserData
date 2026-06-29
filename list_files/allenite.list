@@ -1,3 +1,7 @@
+# North America Int'l Crossings
+ON AmbBri ON3 MI AmbBri I-75/96
+
+
 # US-0x Routes
 SC US1 SC191 SC US1 I-20(22)
 SC US1 US378_W SC US1 SC12
@@ -1797,10 +1801,9 @@ OH LECT OH579 MI LECT WestRd
 MI LECT SouRd MI LECT USA/CAN
 #
 # - Huron
-MI LHCT CAN/USA MI LHCT US23_S
-MI LHCT BeaRd MI LHCT I-94(275)
-MI LHCTSprCed I-75(392) SweRd
-MI LHCTSprCed PirBayRd I-75(359)
+MI LHCT CAN/USA SweRd
+MI LHCT PirBayRd US23_S
+MI LHCT BeaRd I-94(275)
 #
 # - Michigan
 IN LMCT IN49 MI LMCT I-94(23)
@@ -5806,3 +5809,11 @@ SWE L222 CenBron L260
 SWE L260 L222 R75
 
 SWE R75 E4/E20 6
+
+#==================================
+# Finland
+#==================================
+
+FIN E12 HelKatu EroKatu
+FIN E75 KanKatu HelFry
+
