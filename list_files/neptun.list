@@ -1,5 +1,5 @@
 # ──────────
-# 2026-06-13
+# 2026-06-30
 # ──────────
 
 CZE D0 76 28
@@ -792,6 +792,41 @@ ITA SS728 RA6 S33Bis
 ITA SGCFirLiv A1 A12
 
 # ─────────────────────────────────────────────
+#                      LTU                     
+# ─────────────────────────────────────────────
+
+LTU A11 K168/K218 R2336
+LTU A13 R2336 LTU/LVA
+
+LTU K133 K134 K180
+LTU K134 K135 K133
+LTU K135 K134 LTU/POL
+LTU K180 K133 R5006
+
+# ─────────────────────────────────────────────
+#                      LVA                     
+# ─────────────────────────────────────────────
+
+LVA A9 P110 CukIela
+LVA A10 A6 BabIela
+LVA A10 V1406 V1314_E
+LVA A10 V1314_W E22_W
+LVA A11 CukIela ZemIela_S
+LVA A11 KunIela LVA/LTU
+
+LVA P1 LugIela DunIela
+LVA P108 P111 LiePro
+LVA P110 A11 P111
+LVA P111 P110 P108
+LVA P125 V1406 P126
+LVA P126 P125 V1363
+LVA P126 V1414 P131
+LVA P128 AsaPro P131
+LVA P131 P128 P126
+
+LVA E22 BriIela_S DurIela
+
+# ─────────────────────────────────────────────
 #                      NLD                     
 # ─────────────────────────────────────────────
 
@@ -815,9 +850,13 @@ POL A6 DEU/POL S3_S
 
 POL S3 18 47
 POL S3 48 54
+POL S16Elk 25 S61
 POL S52 Jab 10
+POL S61 14 18
 
 POL DK5 S3(54) ToDW327
+POL DK16Aug DW662 DW663
+POL DK16Aug DW653 POL/LTU
 POL DK22 UliGor Brz
 POL DK22 UliWojPol DW123
 POL DK24 S3_S DW160_N
@@ -834,6 +873,10 @@ POL DW176 Mar DW133
 POL DW320 DK5_E POL/CZE
 POL DW333 S3(47) S3(48)
 POL DW367 UliLeg UliJel
+POL DW625 DW621 S16(25)
+POL DW653 DW663 DK16
+POL DW653 S61 DW655/662
+POL DW663 DK16 DW653
 POL DW933 UliStaLes DW949
 POL DW949 UIiBie DW933
 
