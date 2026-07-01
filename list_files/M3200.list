@@ -1273,6 +1273,7 @@ ME I-495 I-95 I-295
 ME MTAppRd MEMallRd I-295
 ME CadSumRd ParkLpRd CadMtn
 ME ParkLpRd SieMonRd_S SieMonRd_N
+ME FryPoiBr ME9 USA/CAN
 
 #ME_StateHighways
 
@@ -1601,6 +1602,7 @@ NY I-88 I-81 I-90
 #NY_Other
 
 NY GarStaPkwy I-87/287 NJ/NY
+NY LewQueBri CAN/USA I-190
 
 #NY_StateHighways
 
@@ -2562,6 +2564,7 @@ NB NB550 NB103 NB2
 NB NB130 NB2(172) NB105_S
 NB NB105 HarCovBri NB130_S
 NB NB95 USA/CAN NB2
+NB FryPoiBri USA/CAN NB170
 
 #NS
 
@@ -2595,6 +2598,7 @@ NS NS103 1 10
 #ON
 
 ON ON405 *PorRd ON/USA
+ON LewQueBri ON405 CAN/USA
 
 #PE
 
