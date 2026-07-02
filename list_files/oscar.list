@@ -7986,7 +7986,7 @@ QC QC136Mon 1 AvePap
 QC QC136 A-73 RueNotDame
 QC QC137 QC112 QC133
 QC QC138Mon USA/CAN A-25
-QC QC138Mon QC167 RivSagFry
+QC QC138Mon QC153 RivSagFry
 QC QC138 RivSagFry ChJacCar
 QC QC138Bla End QC/NL 
 QC QC143 USA/CAN QC247
@@ -7997,6 +7997,7 @@ QC QC148 QC315 RueGal
 QC QC148 RueGal QC344_W
 QC QC148 QC344_W A-50(254)
 # check for more segments taken while A-50 was unfinished
+QC QC153 A-40 QC138
 QC QC155 A-55 QC169
 QC QC158 A-15 StLauFry
 QC QC169 QC175 ChTacDel
@@ -8046,12 +8047,17 @@ QC QC327 QC117 RueStJov_W
 # QC QC329 ?
 QC QC342 A-40(12) ChAnse
 QC QC344 A-50 RueMap_S
+QC QC358 QC138_W RteAer
+QC QC358 BoulCha_W QC138_E
 QC QC360 QC138_Que QC138_Che
 QC QC362 QC138_W QC138_E
 QC QC366 A-5(28) ChWakHei
 QC QC367 QC138 RteFos_E
 QC QC368 A-40 QC368_W
 QC QC369 QC367 BoulOrm_S
+QC QC369 BoulOrm_S BoulCyrRen
+# need to add point to route file, also check possible reroute over Rue Varret
+# (you traveled both Rue Varret and parallel segment of Rue Racine)
 QC QC369 BoulEtu QC360
 QC QC372 A-70 QC170_W
 QC QC372 BoulSag_W QC170_E
