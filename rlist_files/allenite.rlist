@@ -131,6 +131,16 @@ BEL IC2 Bru AntCen
 # Sweden  #
 ###########
 SWE 7NSto NorSto DjuBron
+SWE GotCop MalCen SWE/DNK
+
+###########
+# Denmark #
+###########
+DNK GotCop SWE/DNK CopCen
+
+DNK C Norp KobHov
+DNK M4 Ori KobHov
+
 
 
 
