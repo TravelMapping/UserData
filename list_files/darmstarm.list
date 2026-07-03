@@ -196,6 +196,7 @@ MD MD5 MD6 MD231 #raleigh -> home thanksgiving 2025
 MD MD5 MD488 I-95/495 #raleigh -> home 5-26, as far as olivers' shop rd
 MD MD6 US301 MD5 #raleigh -> home thanksgiving 2025
 MD MD7Elk SouSt US40
+MD MD7Nor US40/279 MD272 #elkton -> fireworks place 7/26
 MD MD22 US1Bus MD136 #guatemala trip 6-26 (baltimore -> home)
 MD MD23 US1 SchRd #en route to grandparents
 MD MD41 I-695 JopRd #micro center
@@ -226,14 +227,14 @@ MD MD222 MD275 I-95
 MD MD231 MD5 MD381 #raleigh -> home thanksgiving 2025
 MD MD234 US301 PenHillRd #raleigh -> home easter 2026
 MD MD268 MainSt MD279
-MD MD272 MD/PA I-95 #two parts
+MD MD272 MD/PA MD7 #two parts
 MD MD272 OldElkRd DarRd
 MD MD273 MD/DE US1 #cecil county fair, clinched 11-27-25
 MD MD274 MD273 MD272 #clinched 6-11-26
 MD MD275 MD276 MD222/824
 MD MD276 MD222 US1 #road trip 7-19-25
 MD MD277 MD279 End #clinched 6-29-26
-MD MD279 MD/DE MD213
+MD MD279 MD/DE US40/7 #clinched 7-2-26
 MD MD281 MD7 MD/DE #elkton -> home 6-29-26
 MD MD284 MD285_S MD285_N
 MD MD285 MD213 MD284_E
