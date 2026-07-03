@@ -5797,6 +5797,14 @@ BEL R30 N32 N397
 #==================================
 
 DNK PR40 ButVej_S AkaVej
+DNK O2Kob 1A(19) MR_N
+DNK HelMot 1A 5
+DNK LynMot HelMot MotRing3
+DNK MotRing3 18A PR16
+DNK HilMot 1 5
+DNK PR16Cop O2_Cop 5
+DNK O2Kob MR_E SR151
+
 
 
 #==================================
