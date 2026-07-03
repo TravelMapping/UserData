@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 6-29-26
+#everywhere that darmstarm has been up to 7-2-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 6-29-26.
+#last updated 7-2-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -93,6 +93,7 @@ PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
 PA PA14 US15 LibSt #canada trip 6-26 (br stop)
 PA PA26 UniDr US322
+PA PA29Pho PhoPike BriSt_W #senior prom, 2022
 PA PA33 I-80 US22 #tobyhana trip
 PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
 PA PA41 DE/PA US30
