@@ -7997,9 +7997,10 @@ QC QC148 QC315 RueGal
 QC QC148 RueGal QC344_W
 QC QC148 QC344_W A-50(254)
 # check for more segments taken while A-50 was unfinished
-QC QC153 A-40 QC138
+QC QC153 A-40 QC363
 QC QC155 A-55 QC169
 QC QC158 A-15 StLauFry
+QC QC159 QC138 QC155
 QC QC169 QC175 ChTacDel
 QC QC169 AvPontNord QC169_S
 QC QC170 QC169 QC138
@@ -8059,6 +8060,7 @@ QC QC369 BoulOrm_S BoulCyrRen
 # need to add point to route file, also check possible reroute over Rue Varret
 # (you traveled both Rue Varret and parallel segment of Rue Racine)
 QC QC369 BoulEtu QC360
+QC QC371 A-573 BoulVal_S
 QC QC372 A-70 QC170_W
 QC QC372 BoulSag_W QC170_E
 QC QC381 QC138 QC170
