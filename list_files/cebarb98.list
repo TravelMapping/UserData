@@ -80,7 +80,7 @@ KS I-35 220 234
 MO I-35 1A 8B
 MN I-35Far 40 88A
 MN I-35W I-35(88) 16B
-MN I-35E 88A 99
+MN I-35E 88A 107A
 # Business
 MN I-35BLFar I-35_S I-35_N
 
@@ -297,8 +297,11 @@ CT I-291 1 6
 MA I-93 17A 28
 
 #. I-94
+MN I-94 241C MN/WI
+WI I-94 MN/WI 1
 # Minnesota I-X94
-MN I-494 70 11B
+MN I-494 58A 11B
+MN I-694 52 58
 
 #. I-95
 FL I-95 351B FL/GA
@@ -433,6 +436,10 @@ VA US11AltRoa US11_S US11
 VA US11AltRoa I-581 US11_N
 # Truck
 VA US11TrkSta US11_S US250
+
+#. US 12
+MN US12 I-94(249) MN/WI
+WI US12 MN/WI 1(94)
 
 #. US 13
 VA US13 I-64(282) VA/MD
@@ -1423,8 +1430,10 @@ MA MA145 RevBeaBlvd MA1A_N
 # Minnesota State Routes
 MN MN13 CR101 I-35W
 MN MN21 MN60 I-35
+MN MN36 I-694 MN/WI
 MN MN68 CR120 US169/60
 MN MN77 138thSt MN62
+MN MN95 I-94(258) I-94(253)
 
 # Missouri State Routes
 MO MO43 I-44BL/66 MO171
@@ -1644,6 +1653,10 @@ VA VA234BusMan VA234_S VA234_N
 # West Virginia State Routes
 WV WV527 US60 WV/OH
 
+# Wisconsin State Routes
+WI WI35 I-94(1) WI64/CRE
+WI WI64 MN/WI WI35/CRE
+
 # # # # # # # # # # # # # # # #
 
 ## US NPS and Tourist Routes ##
@@ -1678,14 +1691,6 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
-# 6/7/2026
-# added drives in Florida, Alabama, Georgia, South Carolina, and Virginia
-# fixed naming convention of US 66 Historic in Joplin, MO
-
-# 6/6/2026
-# added drives in Alabama (US 84, US 31, AL 55, AL 106)
-# added drives in Florida (US 98)
-# added drives in North Carolina (I-26, US 25, US 74, US 64 Truck)
-# added drives in South Carolina (US 25)
-# added drives in Minnesota (I-35, I-35W, I-35E, I-35 BL, I-494, US 169, US 14, MN 77, MN 13, MN 21, MN 68, incomplete)
-# adjusted I-395 in Maryland to include newly-added stretch from Camden Street to Conway Street
+# 7/2/2026
+# added routes I-94, I-694, WI 35, WI 64, MN 95, and MN 36
+# updated routes I-494 and I-35E 
