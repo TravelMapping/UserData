@@ -828,6 +828,38 @@ NY NY400 OleRd US20/78
 NY US20 NY354 NY78/130
 NY NY78 NY354 US20/130
 NY US20 NY78/130 ExcSt
+# Trip Thu 07/02/2026
+NY I-87 16(NYST) 18(NYST)
+NY I-87 21(NYST) 21A(NYST)
+NY SprBroPkwy BroRivPkwy I-287
+NY BroRivPkwy 4(S) SprBroPkwy
+NY I-95 4B 6A
+NY I-678 16 19
+NY CroIslPkwy 30 32
+NY CroIslPkwy 33 36
+NY I-495 31 70
+NY NY27 62 65
+NY NY27 66 CR38
+NY NY27 HamRd End
+NY NY114 NY27 SouFry
+NY NY114She SouFry NorFry
+NY NY114Gre NorFry NY25
+NY NY25 NY114 CroSouFry
+NY NY25 PecAve SouAve
+# Trip Fri 07/03/2026
+NY I-495 70 73
+NY NY27 46B 58
+NY SouStaPkwy 27 44
+NY WanStaPkwy OcePkwy W4
+NY OcePkwy WanStaPkwy RobMosCswy
+NY RobMosCswy RobMosSP OcePkwy
+NY RobMosCswy OcePkwy SouStaPkwy
+NY WanStaPkwy W4 NorStaPkwy
+NY NorStaPkwy Que/Nas 33
+NY GraCenPkwy 21 Que/Nas
+NY I-295 1 12
+NY I-95 1C 4B
+NY I-95 6A 6B
 
 
 # California
@@ -1368,6 +1400,8 @@ NJ NJ109 TexAve GarStaPkwy
 NJ US9 CapeMayFry SeaRd
 # Trip Sun 11/23/2025
 NJ US206 CR523 PfiWay
+# Trip Fri 07/03/2026
+NJ US46 I-80(47B) NJ23
 
 
 # North Dakota
