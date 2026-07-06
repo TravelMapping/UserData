@@ -8,10 +8,13 @@ DE I-95 MD/DE DE/PA
 DE I-295 I-95 DE/NJ #grandparents old house
 DE I-495 I-95 6
 DE US9 CapeMayFry DaiFarmRd
+DE US9 CapeHenDr_E DE5 #henlopen -> home 7-5-26
 DE US9BusLew US9_W US9_E
 DE US13 US202/141 DE273
 DE US13 DE1(119) DE6_E #smyrna
 DE US13 MD/DE AdaRd
+DE US13 DE7/72 DE299 #home -> henlopen 7-5-26
+DE US13 DE16/36 DE42 #henlopen -> home 7-5-26
 DE US13BusWil DE52 DE202
 DE US40 MD/DE DE7 #elkton -> home 6-29-26
 DE US113 DE1 DE20_E #holt's landing trip 2017
@@ -23,9 +26,15 @@ DE DE1B DE1A DE1
 DE DE2 DE273 DE141
 DE DE3 I-495 DE92 #from when i was a baby, trusting dad on this one (and a small bit recently)
 DE DE4 DE48 DE279 #from when i was a baby, trusting dad on this one (and a small bit recently)
+DE DE5 US9/404 DE5Alt_S #henlopen -> home 7-5-26
+DE DE5AltMil DE5_S DE16/30 #henlopen -> home 7-5-26
 DE DE7 DE/PA DE1(166)
 DE DE7 US40 BraRd #elkton -> home 6-29-26
+DE DE7 US40 US13/72 #home -> henlopen 7-5-26
+DE DE9 DE299 DE1 #home -> henlopen 7-5-26
+DE DE15 DE42_E DE299_E #henlopen -> home 7-5-26
 DE DE16 DE36_W AdaRd #to burrsville rd (rd 112)
+DE DE16 DE30/5Alt US13 #henlopen -> home 7-5-26
 DE DE20 US113_S DE26_E #holt's landing trip 2017
 DE DE23 DE5/24 PotRd #at least out to here
 DE DE24 DE1 DE5/23
@@ -33,6 +42,7 @@ DE DE26 DE20_W BeaRd #holt's landing trip 2017 (to holt's landing road)
 DE DE36 WooRd DE16_W #WooRd should be adams rd, but not in the waypoints
 DE DE37 US202/141 DE273 #clinched 6-5-26
 DE DE41 DE/PA DE2/62
+DE DE42 US13 DE15_N #henlopen -> home 7-5-26
 DE DE48 DE41 DE2
 DE DE52 US13Bus DE/PA
 DE DE58 DE4 DE273 #various trips, old toy store, hospital
@@ -46,8 +56,10 @@ DE DE202 I-95/202 US13Bus
 DE DE261 US202/141 DE/PA #wilmington -> home 6/26
 DE DE273 US13/40 MD/DE #antiquity
 DE DE279 DE4/896 MD/DE
+DE DE299 DE15_S DE9 #henlopen -> home 7-5-26
 DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
-DE DE896 DE/MD DE71_S
+DE DE896 DE/MD DE71_S #antiq.
+DE DE896 US13 DE71_S #henlopen -> home 7-5-26
 #pennsylvania
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
@@ -145,7 +157,7 @@ PA PA772 US30 PA340_W
 PA PA796 PA896 PA41
 PA PA841 MD/PA PA82
 PA PA841AltTrkWes PA841_N PA841_S
-PA PA842 US322Bus NewRd #common, extended to west chester 5/26
+PA PA842 US322Bus PA841 #common, extended to west chester 5/26, clinched 7-3-26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
 PA PA926 PA841 US202/322 #pocopson to 202
