@@ -3759,6 +3759,12 @@ KY HalRogPkwy US27 KY461
 KY HalRogPkwy KY638 44
 KY WesKYPkwy 38 US31W
 
+#North America Select International Bridges
+MI BluWatBri I-69/94 ON BluWatBri ON402
+ON AmbBri ON3 MI AmbBri I-75/96
+ON LewQueBri ON405 NY LewQueBri I-190
+ON PeaBri QEW NY PeaBri I-190
+
 #US Select Named Freeways usasf
 AK HicPkwy AK1 TudRd
 AZ SkyHarBlvd I-10 AZ202
