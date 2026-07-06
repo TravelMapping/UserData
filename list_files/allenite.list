@@ -5778,12 +5778,16 @@ IRL M1 1 2
 #==================================
 #	Netherlands
 #==================================
-NLD A4 2 3
+NLD A4 A10 3
+NLD A10 A4 14
 
 NLD N196 N201 FokWeg
 NLD N201 N196 A4
 
-NLD CenRingAms OosKade S116
+NLD S114Ams S100 A10
+
+NLD CenRingAms OosKade S114
+
 
 
 #==================================
