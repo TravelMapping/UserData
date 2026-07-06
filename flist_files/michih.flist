@@ -1,4 +1,4 @@
-# Date: 2025-07-12
+# Date: 2026-07-06
 # ----------------
 
 #####################################
@@ -50,6 +50,9 @@ DEU-ST  Breitenhagen                 DEU-ST  Badetz
 DEU-ST  Aken                         DEU-ST  Steutz
 DEU-ST  Prettin                      DEU-SN  Dommitzsch
 
+#Kiel Canal
+DEU-SH Kanalfähre Breiholz
+
 #Moselle
 LUX     Wasserbillig                 DEU-RP  Oberbillig
 
@@ -76,6 +79,9 @@ FRA-GES Rhinau                       DEU-BW  Kappel
 
 #Rhône
 FRA-PAC Salin-de-Giraud (Rhone)
+
+#Schlei
+DEU-SH Schleifähre Missunde
 
 #Swina
 POL Karsibor
