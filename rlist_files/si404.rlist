@@ -82,10 +82,10 @@ ENG HS1Can AshInt Mar
 ENG HS1Dov AshInt Ram
 ENG NKentLn LonBri Bla
 ENG NKentLn Cha Dar
-ENG SEML ChaCro Ram
+ENG SEML LonChaCro Ram
 ENG SidLnLew LonBri Mot
 ENG SidLn LonBri Dar
-ENG WooLn LonBri SlaGre
+ENG WooLn LonCanSt SlaGre
 
 ###SN###
 ENG CatLn EastCro Cat
@@ -129,7 +129,8 @@ ENG ThaLnkSut LonBla MitJct
 ENG ThaLnkSut Sut LOOP
 
 ###VT###
-ENG WCMLA WatJct Wol
+ENG WCMLA BirNewSt Wol
+ENG WCMLB WatJct BirNewSt
 ENG WCMLC LonEus Che
 ENG WCMLE LonEus Mac
 ENG WCMLECre LonEus Sto
