@@ -7979,11 +7979,8 @@ QC QC112 QC235 QC137
 QC QC112 A-10(123) A-10(128)
 QC QC112 A-610 A-73
 QC QC116 QC255_N RueHotVil
-QC QC117 A-15/40 QC158
-QC QC117 QC158 RueStFau
-QC QC117 RueStJos RueMar
-# add above new points RueStFau and RueStJos after check for duplicate labels
-QC QC117 RueMar QC/ON
+QC QC117 A-15/40 RueStFau
+QC QC117 RueStJos QC/ON
 QC QC122 QC259 A-955
 QC 125 RangCoteSL PNMontTre
 QC QC125Mon QC138 ChSteMar_E
@@ -7998,7 +7995,7 @@ QC QC136Mon 1 AvePap
 QC QC137 QC112 QC133
 QC QC138Mon USA/CAN BoulBri
 QC QC138Mon BoulBri RueDen
-QC QC138Mon RueLef RueValChStHen_N 
+QC QC138Mon RueLef RueVal 
 # add above new points RueDen and RueLef after check for duplicate labels
 QC QC138Mon RueVal RivSagFry
 QC QC138 RivSagFry ChJacCar
