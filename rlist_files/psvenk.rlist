@@ -128,3 +128,31 @@ FRA-IDF L LaDef VirRiveDro
 
 # Europe Funiculars
 FRA-IDF FunMon Inf Sup
+
+# London Underground
+ENG BakLn BakSt LamNor
+ENG CirLn BakSt KinCroStPan
+ENG CirLn Emb Wes
+ENG CenLn OxfCir StPau
+ENG DisLn Wes Emb
+ENG DisLn Mon TowHill
+ENG JubLn BondSt Str
+ENG NorLnBat TotCouRd Emb
+ENG PicLn PicCir LeiSqu
+ENG VicLn KinCroStPan OxfCir
+
+# London Overground
+ENG LioLn Eus WatJct
+
+# Elizabeth line
+ENG EliLnHea HeaTer23 LivSt
+
+# London Northwestern Railway
+ENG GUCLn LonEus WatJct
+
+# Greater Anglia
+ENG BreLn Cam Nor
+ENG GEML LonLivSt Nor
+
+# East Midlands Railway
+ENG LivNorLn Ely Nor
