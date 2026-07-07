@@ -1,10 +1,16 @@
-# Date: 2026-06-20
+# Date: 2026-07-07
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+DEU-HH RB61 HamBurgHbf DEU-SH RB61 Itz                          #2026
+DEU-SH RE6 Itz Hus                                              #2026
+DEU-SH RE74 KielHbf Hus                                         #2026
+DEU-SH RB84 KielHbf LubHbf                                      #2026
+DEU-SH RE83 LubHbf KielHbf                                      #2026
+DEU-HH RE70 HamBurgHbf DEU-SH RE70 KielHbf                      #2026
 CHE S7Gal Rom Ror                                               #2026, actually traveled S7 from Lindau Insel to Rorschach, but we don't have that in RB
 NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
 #NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
