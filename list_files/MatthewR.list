@@ -14,20 +14,26 @@ AR I-55 AR/MO TN/AR
 #Arizona I-8
 AZ I-8 CA/AZ 7
 
+#Arizona I-40
+AZ I-40 CA/AZ 9
+
 #California I-5
 CA I-5 734 553
 CA I-5 525B MEX/USA
 
 #California I-8
-CA I-8 SunCliBlvd 17A
+CA I-8 SunCliBlvd 89
 CA I-8 170 CA/AZ
 
 #California I-10
-CA I-10 1 168
+CA I-10 1 192
 
 #California I-15
-CA I-15 19 115
-CA I-15 179 246
+CA I-15 6B 11
+CA I-15 19 CA/NV
+
+#California I-40
+CA I-40 I-15 CA/AZ
 
 #California I-80
 CA I-80 1A CA/NV
@@ -36,8 +42,7 @@ CA I-80 1A CA/NV
 CA I-105 1A 18
 
 #California I-110
-CA I-110 GafSt 3A
-CA I-110 4 21
+CA I-110 GafSt 21
 
 #California I-205
 CA I-205 I-580 I-5
@@ -81,6 +86,9 @@ CA I-805 I-5(31) I-5(1A)
 
 #California I-880
 CA I-880 I-280 46B
+
+#CA I-905 Future (Otay Mesa)
+CA I-905FutOta 1A USA/MEX
 
 #DC I-395
 DC I-395 VA/DC 4
@@ -168,10 +176,11 @@ NJ I-78 NJ/NY 59
 NJ I-95 14 13A
 
 #Nevada I-11
+NV I-11 96 75A
 NV I-11 61 AZ/NV
 
 #Nevada I-15
-NV I-15 48 34
+NV I-15 CA/NV 48
 
 #Nevada I-80
 NV I-80 CA/NV 21
@@ -235,7 +244,7 @@ VA I-395 1 VA/DC
 VA I-495 MD/VA 170(95)
 
 #Washington I-5
-WA I-5 154 182
+WA I-5 132 182
 
 #Washington I-405
 WA I-405 I-5(182) 23
@@ -281,10 +290,13 @@ AZ US95 I-8BL ForRd
 #California US-50
 CA US50 I-80 CA/NV
 
+#California US-66 Historic Azusa Section:
+CA US66HisAzu CA110 YorkBlvd
+CA US66HisAzu SanRafAve SieMadBlvd
+CA US66HisAzu HunDr_W MonVisAve
+
 #California US-66 Hollywood Historic Section
-CA US66HisHol WilBlvd SanVinBlvd
-CA US66HisHol SunBlvd_W FigSt
-CA US66HisHol SprSt DalySt
+CA US66HisHol WesBlvd MisRd
 
 #California US-101:
 CA US101 WilCrkRd CA60
@@ -367,7 +379,7 @@ MO US60 I-57(1) MO/IL
 MO US62 MO/IL US61/60Bus
 
 #Nevada US-50
-NV US50 CA/NV LakDr
+NV US50 CA/NV NV28
 
 #Tennessee US-51
 TN US51 I-155 TN/KY
@@ -375,15 +387,24 @@ TN US51 I-155 TN/KY
 #Tennessee US-79
 TN US79 TN374_E I-24
 
+#Washington US-101
+WA US101 WA104 WA110
+
+
+#(Arizona State Highways)
+
+#AZ-95:
+AZ AZ95 I-40 AZ95SPar
+
+#AZ-95S Parker:
+AZ AZ95SPar AZ95 CA/AZ
 
 #(California State Highways)
 
 #CA-1:
 CA CA1 AirRd CA128
-CA CA1 OldStaHwy ValRd
-CA CA1 226 62B(101)
-CA CA1 112 ManBeaBlvd
-CA CA1 CreBlvd I-110
+CA CA1 OldStaHwy 62B(101)
+CA CA1 112 I-110
 CA CA1 CA19 DohParkRd
 
 #CA-1 Bus Cayucos:
@@ -399,9 +420,7 @@ CA CA1BusMon CA1(401A) CA1(399B)
 CA CA1BusSea CA1(401B) CA1(404)
 
 #CA-2:
-CA CA2 WilBlvd SanVinBlvd
-CA CA2 US101(7) US101(4B)
-CA CA2 US101(4B) PacCreTr
+CA CA2 WesBlvd CA138
 
 #CA-3:
 CA CA3 CA299_E CA299_W
@@ -465,6 +484,9 @@ CA CA25 US101 TresPinRd
 #CA-27:
 CA CA27 US101 CA1
 
+#CA-28:
+CA CA28 CA89 CA/NV
+
 #CA-29:
 CA CA29 I-80 CA175_S
 CA CA29 CA175 CA20
@@ -472,8 +494,7 @@ CA CA29 CA175 CA20
 #CA-33:
 CA CA33 CA152_W CA152_E
 CA CA33 CA198_W JayAve_E
-CA CA33 CadRd CA58_W
-CA CA33 LocValRd CA166_W
+CA CA33 CA46 LocValRd
 
 #CA-35:
 CA CA35 CA17 CA1
@@ -519,6 +540,9 @@ CA CA49 OldCA49_S CenSt
 CA CA49 CA108Bus_E CA120_E
 CA CA49 CA140_W CA140_E
 
+#CA-52:
+CA CA52 1A 7B
+
 #CA-55:
 CA CA55 1 11A
 
@@ -548,6 +572,7 @@ CA CA61Pos AtlAve 7thSt
 
 #CA-62:
 CA CA62 I-10 UtahTr
+CA CA62 CA177 CA/AZ
 
 #CA-65:
 CA CA65 CA137 43
@@ -567,6 +592,9 @@ CA CA70BusOro CA70(46) CA162_E
 #CA-71:
 CA CA71 CA91 12B
 
+#CA-72:
+CA CA72 I-605 ColRd
+
 #CA-73:
 CA CA73 18B 11
 
@@ -576,8 +604,12 @@ CA CA75 TarRd 13B
 #CA-77:
 CA CA77 I-880 CA185
 
+#CA-78:
+CA CA78 1A CA79_S
+CA CA78 CA86_N CA111_S
+
 #CA-79:
-CA CA79 I-15(61) I-15(58)
+CA CA79 I-15(58) CRS1
 
 #CA-82:
 CA CA82 I-280 WolRd
@@ -601,7 +633,7 @@ CA CA84Rye RyerIslFry WestSacLim
 CA CA85 1A 24B
 
 #CA-86:
-CA CA86 I-10 CA111_N
+CA CA86 I-10 CA78_E
 
 #CA-87:
 CA CA87 1A 9
@@ -620,11 +652,10 @@ CA CA89MtS CA44_W McArtSP
 CA CA90 CA1 2
 
 #CA-90 Yorba Linda Section:
-CA CA90Yor KraBlvd CA39
+CA CA90Yor KraBlvd CA91
 
 #CA-91:
-CA CA91 6 24
-CA CA91 45 51
+CA CA91 6 51
 
 #CA-92:
 CA CA92 CA1 End
@@ -649,6 +680,7 @@ CA CA110 21 GleSt
 
 #CA-111 Calexico Section:
 CA CA111 CA86_N MainSt
+CA CA111 CA78_W 2ndSt
 
 #CA-111 Palm Springs Section:
 CA CA111pal PalmSprLim CA111Bus_N
@@ -703,17 +735,23 @@ CA CA131 ParDr US101
 #CA-132:
 CA CA132 CRJ3 GatRd
 
+#CA-133:
+CA CA133 CA1 8
+
 #CA-134:
 CA CA134 1A 9A
 
 #CA-135:
-CA CA135 UniValPkwy CA1_S
+CA CA135 UniValPkwy US101(154)
 
 #CA-137:
 CA CA137 CA99 CA65
 
 #CA-138:
-CA CA138 245thSt GorPostRd
+CA CA138 GorPostRd 245thSt
+CA CA138 CA14(49) CA14(35)
+CA CA138 PeaHwy_W 165thSt
+CA CA138 CA2 I-15
 
 #CA-139: 
 CA CA139 AdaRd CA299_W
@@ -756,6 +794,9 @@ CA CA160Rio CA4 CRJ11
 #CA-162 Central Valley Section:
 CA CA162Oro LoaCreRd CA70
 
+#CA-163:
+CA CA163 1A 3
+
 #CA-166:
 CA CA166 US101(171) CA33_S
 CA CA166 I-5 CA99
@@ -774,6 +815,9 @@ CA CA170 6A 11B
 
 #CA-175:
 CA CA175 CA29/29Bus CA29_S
+
+#CA-177:
+CA CA177 I-10 CA62
 
 #CA-178 Lake Isabella Section:
 CA CA178 CA58/99 SieWay
@@ -983,6 +1027,12 @@ MO MO77 US60/62_E MOsD_Sco
 
 #(Nevada State Highways)
 
+#NV-28:
+NV NV28 CA/NV US50
+
+#NV-157:
+NV NV157 KyleCanCir SkyPoiRd
+
 #NV-374:
 NV NV374 DeaValNP US95
 
@@ -991,6 +1041,31 @@ NV NV374 DeaValNP US95
 #VA-267:
 VA VA267 I-66 DulAirRd
 
+# (Washington State Highways)
+
+#WA-3:
+WA WA3 WA104 WA16
+
+#WA-16:
+WA WWA16 WA3 I-5
+
+#WA-99:
+WA WA99 QueAnneDr 46thSt
+
+#WA-104:
+WA WA104 US101 WA3
+
+#WA-110:
+WA WA110 US101 MoraRd
+
+#WA-110 Mora Spur:
+WA WA110SprMor WA110 OlyNP
+
+#WA-518:
+WA WA518 I-5 AirExpy
+
+#WA Airport Expressway
+WA AirExpy WA518 Ter
 
 #(California Federal Roads)
 

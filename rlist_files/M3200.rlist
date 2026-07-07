@@ -37,7 +37,7 @@ CA CopLn ElCaj SanTownCen
 CA Coa SanFeDep Oce
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
-CA D WilWes UniSta
+CA D WilLaCie UniSta
 CA E DowSanMon Atl
 CA GreLn 12thImpTC Gro
 CA InlEmpLn SanAna SanBerDep
@@ -52,8 +52,8 @@ CA PerVlyLn UniSta PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
 CA SanBerLn UniSta SanBerDow
-CA SJOak Bak OakJackLonSq
-CA SJSac Bak SacVlySta
+CA GROak Bak OakJackLonSq
+CA GRSac Bak SacVlySta
 CA SL UniSta CA/AZ
 CA SMART SanRafDT SonCtyApt
 CA Spr Oce EscTC
@@ -101,7 +101,6 @@ DC BluLn VA/DC DC/MD
 DC CamLn WasUniSta DC/MD
 DC FL MD/DC WasUniSta
 DC CR VA/DC DC/MD
-DC DCSC UniSta OklAve
 DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
 DC OraLn VA/DC DC/MD
@@ -370,6 +369,8 @@ ITA-TOS FbRomGen LIG/TOS PisCen
 ITA-LOM S8 Lec MilGrePir
 ITA-LOM MXP1 MalAerTer2 MilBovPol
 ITA-LOM S13 MilRog Pav
+ITA-LIG FU3 PIE/LIG GenBri
+ITA-PIE FU3 ArqScr PIE/LIG
 
 #SCOTLAND
 
@@ -404,3 +405,7 @@ CHE S6Zen Lan Luz
 CHE IC2 ZurHau Zug
 CHE S1Zen Luz Baar
 CHE S1Chu Chur ReiTam
+CHE S2Zen ArtGol Ers
+CHE R61BOB IntOst Gri
+CHE R62BOB Zwe Lau
+CHE R70Zen IntOst Mer

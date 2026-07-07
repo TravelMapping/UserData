@@ -1,11 +1,24 @@
-# Date: 2026-05-05
-# ----------------
+# Date: 2026-06-20
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+CHE S7Gal Rom Ror                                               #2026, actually traveled S7 from Lindau Insel to Rorschach, but we don't have that in RB
+NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
+#NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
+NLD AmsDis AmsCen +DIV_Slo                                      #2026, actually traveled as intercity connection Den Haag - Amsterdam
+#NLD Intercity Den Haag Centraal Amsterdam Centraal             #2026 via Haarlem
+BEL IC6 Tou BruNord                                             #2026
+BEL IC26 Kor Tou                                                #2026
+BEL IC4 AntCen Kor                                              #2026 via Waregem, Gent, Beveren
+BEL IC7 BruNord +DIV_S2                                         #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
+BEL IC31 +DIV_IC35 +DIV_IC1                                     #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
+BEL IC7 +DIV_S5 AntCen                                          #2026 Antwerpen - Mortsel - Mechelen - Buda - Bruxelles (IC4536 to Charleroi)
+DEU-BY RE89 Don DEU-BW RE89 AalHbf                              #2026
+DEU-BY RB14 EicBf EicSta                                        #2026
+DEU-BY RB16 Tre IngHbf                                          #2026
 ENG HalLn Lee She                                               #2026, via Castleford, Barnsley
 ENG TPSRte LivLimeSt She                                        #2026, via Manchester, Widnes
 ENG CityLn LivLimeSt WigNorWes                                  #2026, via Prescot
@@ -326,6 +339,35 @@ AUT DWie FraJosBah Bot                #2024
 AUT 1Wie Schw Bor                     #2024, traveled as temporarily extended line 71
 AUT 71Wie Bor Sim                     #2024
 
+#Antwerpen
+BEL 4Ant Groenplaats Groenenhoek      #2026
+BEL 11Ant Groenenhoek Melkmarkt       #2026
+
+#Bruxelles
+BEL 1Bru GareCen Sto        #2026
+BEL 4Bru StaP PorHal        #2026
+BEL 4Bru Lem Rog            #2026
+BEL 5Bru Era HerDeb         #2026
+BEL 6Bru RoiBau SimEli      #2026
+BEL 7Bru Van PriEli         #2026
+BEL 7Bru DeWand Hey         #2026
+BEL 8Bru HerDeb Roo         #2026
+BEL 9Bru RoiBau GroBij      #2026
+BEL 10Bru Tho HopMil        #2026
+BEL 18Bru Alb VanHae        #2026
+BEL 19Bru StLam Sim         #2026
+BEL 25Bru Rog Mon           #2026
+BEL 35Bru Hee Esp           #2026
+BEL 39Bru Mon BanEik        #2026
+BEL 44Bru Mad TerSta        #2026
+BEL 51Bru Sta Bel           #2026
+BEL 51Bru MarDur Lem        #2026
+BEL 62Bru StLam Bou         #2026
+BEL 81Bru Tri Mon           #2026
+BEL 82Bru GareBer Nee       #2026
+BEL 92Bru Sch Bot           #2026
+BEL 92Bru Lou FortJaco      #2026
+BEL 93Bru Mas Lou           #2026
 
 #Sofia
 BGR M1 MlaI BusPark         #2023
@@ -486,7 +528,6 @@ DEU-BW S4 Bac LudBurg                                                           
 DEU-BW S4 LudBurg StuHbf                                                                       #2022
 DEU-BW S5 BieHeimBis StuHbf                                                                    #2023
 DEU-BW S6 WeilSta StuHbf                                                                       #2020/24
-DEU-BW S11 DIV_BadCanE NecPark                                                                 #2023, not traveled S11 but regional and long-distance traffic is routed along here
 DEU-BW S60 Bob Ren                                                                             #2024
 
 #Ulm
@@ -599,8 +640,7 @@ DEU-HH S3 SH/HH NeuGra                                                          
 DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
 DEU-NI S5Hor HH/NI Sta                                                                         #2023
 DEU-HH S1 Bla Ohl                                                                              #2020/23
-DEU-HH S2 HolStr BerDorf                                                                       #2023
-DEU-HH S7 BerDorf HH/SH                                                                        #2023, actually traveled as S2 (renumbered Dec 2025)
+DEU-HH S7 +DIV_Lp HH/SH                                                                        #2023, actually traveled as S2
 DEU-SH S7 HH/SH AuMuh                                                                          #2023, actually traveled as S2 (renumbered Dec 2025)
 DEU-HH RE5 HarBurg HH/NI                                                                       #2023, RE5, different routing in Harburg than S3
 DEU-NI RE5 HH/NI Sta                                                                           #2023, RE5, different routing in Harburg than S3
@@ -922,12 +962,50 @@ ENG VicLn FinPark Bri                 #2019, London Victoria Line:       Finsbur
 ENG DisLn AldEast WestHam             #2019, London District Line:       Aldgate East - West Ham
 ENG JubLn BakSt WestHam               #2019, London Jubilee Line:        West Ham - Baker Street
 ENG CenLn RuiGar OxfCir               #2019, London Central Line:        West Ruislip - Oxford Circle
+ENG CenLnEal EalBro Str               #2026
+ENG CenLn WestRui NorAct              #2026
+ENG MetLnUxb Rui NorPark              #2026
+ENG MetLnAme Ame NorPark              #2026
+ENG MetLn Che MoorPark                #2026
+ENG MetLn ChaLat MoorPark             #2026
+ENG MetLnWat Wat MoorPark             #2026
+ENG LioLn Ken WatJct                  #2026
+ENG MetLnAme NorPark WemPark          #2026
+ENG JubLn Sta BakSt                   #2026
+ENG HaCLn BakSt KinCroStPan           #2026
+ENG NorLnBar HighBar KinCroStPan      #2026
+ENG NorLnMHE MillHillEast WarSt       #2026
+ENG VicLn KinCroStPan WarSt           #2026
+ENG MetLn KinCroStPan LivSt           #2026
+ENG EliLnShe LivSt Str                #2026
+ENG EliLnShe Str She                  #2026
+ENG LibLn Rom Upm                     #2026
+ENG DisLn WestHam Upm                 #2026
+ENG JubLn WestHam Str                 #2026
+ENG CenLnEal Str Woo                  #2026
+ENG CenLn Leys Epp                    #2026
+ENG SufLn GosOak LeyHighRd            #2026
+ENG MilLn GosOak HigIsl               #2026
+ENG VicLn WalCen HigIsl               #2026
+ENG WeaLnChi HacDow Chi               #2026
+ENG MilLn HacCen Str                  #2026
+ENG DLRStI StrInt Str                 #2026
+ENG SufLn SouTot BarRiv               #2026
+ENG WeaLnEnf SevSis EnfTown           #2026
+ENG WeaLn LivSt Che                   #2026
+ENG DLRWoo Bank WooArs                #2026
+ENG EliLn Whi AbbWood                 #2026
+ENG DLRStI Str CanTown                #2026
+ENG DLRRoy Pop Bec                    #2026
+ENG DLRStr Str Pop                    #2026
+
+#Manchester
+ENG MetLnkEDR StPetSq Vic             #2026
+ 
+#Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
-#Manchester
- ENG MetLnkEDR StPetSq Vic            #2026
- 
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025
 
@@ -982,7 +1060,9 @@ FRA-GES TramBRei Neu ChaTGV           #2025
 
 #Lille
 FRA-HDF M1 CHUEur QuaCanStaPieMau     #2026
-FRA-HDF M2 PorPos GareLilFla          #2026
+FRA-HDF M2 StPhi CHDron               #2026
+FRA-HDF R GareLilFla Eur              #2026
+FRA-HDF T GareLilFla TouCen           #2026
 
 #Paris
 FRA-IDF A StGerLaye CdGEto            #2025
@@ -1116,6 +1196,30 @@ ITA-SIC MetCat MonPo Ste              #2024
 #Luxembourg
 LUX T1 LuxExpo LycBouWeg              #2023
 
+#Amsterdam
+NLD 50Ams StaZuid Gein                #2026
+NLD 51Ams StaZuid Isl                 #2026
+NLD 52Ams Noo StaZuid                 #2026
+NLD 53Ams CenSta Gaa                  #2026
+NLD 1Ams Mat MeerVaa                  #2026
+NLD 2Ams Mus Oud                      #2026
+NLD 5Ams VanHal +SKIP_Mar             #2026, Marnixplein was not skipped!
+NLD 5Ams RoeHar Sta                   #2026
+NLD 7Ams Wes Slo                      #2026, actually traveled to Roetersstraat but the last tiny segment is currently not in RB
+NLD 12Ams FreHen Amss                 #2026
+NLD 13Ams Zou LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
+NLD 14Ams CenSta Fle                  #2026
+NLD 17Ams CenSta Dij                  #2026
+NLD 19Ams StaSlo Mui                  #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
+NLD 24Ams CenSta Sta                  #2026
+NLD 25Ams Fle UitCen                  #2026
+
+#Rotterdam
+NLD D RotCen Akk                      #2026
+NLD C Akk Bla                         #2026
+NLD E DenHaagCen RotCen               #2026
+NLD 3Rot RotCen Beu                   #2026
+
 #Bergen
 NOR 1Ber Byp BerLuf                   #2024
 NOR 2Ber Kai FylTer                   #2024
@@ -1187,6 +1291,9 @@ ROU 21Buc BucObor PiaSfaGhe           #2023
 ROU 40Buc SosMorLucPat ComComTit      #2023
 ROU 41Buc BlvdMarAve PiaCra           #2023
 ROU 45Buc Mez BlvdMarAve              #2023
+
+#Edinburgh
+SCT EdiTram NewHav EdiAir       #2026
 
 #Belgrade
 #Lines 11/12 were closed b/n SavTrg and +DIV_AdaW, and rerouted via Novo Beograd; line 10 was rereouted unexpectedly :(

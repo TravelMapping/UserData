@@ -6,6 +6,7 @@ LA NO NewOrl IL NO UniSta
 OR AC Eug BC AC VanPacCen
 
 AK GlaDis Anc AK GlaDis +DIV_Por_C
+AK WPY Ska BC WPY WhiPass
 
 CA OraCouLn UniSta Oce
 CA SanBerLn UniSta PomN
@@ -202,7 +203,11 @@ VA YelLn KingStOldTown DC YelLn GalPla
 
 PR TrenUrb SagCor Bay
 
-BC ExpoLn Wat MainStSciWor
+BC CanLn Wat YVRAir
+BC CanLnRic Wat RicBri
+BC ExpoLn Wat KingGeo
+BC ExpoLnPro Wat ProWayUni
+BC MilLn VCCCla LafLakeDou
 
 AUS-NSW CCN Cen Gos
 AUS-NSW SCO Cen Sut

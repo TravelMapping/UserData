@@ -27,6 +27,12 @@
 #		- SP
 #		- Rio
 #
+# Europe:
+#	Austria:
+#		- Vienna
+#	Germany:
+#		- Munich
+#
 # Oceania:
 #	NZ: Auckland
 #
@@ -93,6 +99,7 @@
 #	Greece: Athens
 #	Turkey: Istanbul
 #	Ukraine: Kyiv
+# 	Bosnia: Mostar to Sarajevo
 #
 # Asia:
 #	Israel:
@@ -227,3 +234,17 @@ COL A SanAnt Ace
 
 # New Zealand
 NZL SouLn Puh Wai
+
+# Austria
+AUT U6 Spi Lan
+AUT U4 Sch Kar
+AUT U4 Sta Spi
+AUT U3 Wes Ste
+AUT 42Wie MicAKH Scho
+AUT U2 Scht Kar
+AUT 1Wie Bur Scht
+AUT 18Wie BurSta QuaBel
+
+# Germany Bavaria
+DEU-BY S8 OstBf MarPla
+DEU-BY U3 OlyZen OdePla

@@ -1,6 +1,6 @@
 
 # KingRidgeback76 
-# Last Updated: April 18, 2026
+# Last Updated: June 21, 2026
 
 
 # ---------------------------------- #
@@ -57,12 +57,13 @@ GA I-575 I-75 3
 IL I-24 I-57 IL/KY
 IL I-39 I-55 IL/WI
 IL I-55 MO/IL 98
+IL I-55 126 145
 IL I-55 154 US41
 IL I-57 MO/IL 358
 IL I-70 3 IL/IN
 IL I-72 MO/IL 182
 IL I-74 IA/IL IL/IN
-IL I-80 79 IL/IN
+IL I-80 IA/IL IL/IN
 IL I-88 78 DowDr
 IL I-90 52 68
 IL I-94 53B 63
@@ -73,8 +74,7 @@ IL I-270 MO/IL 15
 IL I-474 0 15
 IL I-280 IA/IL I-80
 IL I-190 1C ChiOHAir
-IL I-290 5 15
-IL I-290 1B I-90
+IL I-290 I-90 15
 IL I-294 5 40A
 
 # ----- Indiana ----- #
@@ -90,9 +90,11 @@ IN I-865 I-65 I-465
 
 # ----- Iowa ----- #
 
+IA I-35 190 IA/MN
 IA I-74 I-80 IA/IL
 IA I-80 284 298
 IA I-280 I-80 IA/IL
+IA I-380 65 MitAve 
 
 # ----- Kansas ----- #
 
@@ -120,6 +122,14 @@ MD I-195 2 TerRd
 # ----- Massachusetts ----- #
 # ----- Michigan ----- #
 # ----- Minnesota ----- #
+
+MN I-35Far IA/MN 88A
+MN I-35E 88A 106C
+MN I-35W 14 16A 
+MN I-94 233B 239B
+MN I-94 243A MN/WI
+MN I-494 1A 2B 
+
 # ----- Mississippi ----- #
 
 MS I-55 289 MS/TN
@@ -238,7 +248,7 @@ WV I-470 OH/WV 4
 WI I-39 IL/WI 165
 WI I-41 1A(894) 120
 WI I-43 1 72A
-WI I-94 92(90) 108(90)
+WI I-94 MN/WI 108(90)
 WI I-94 305 316
 
 # ----- Wyoming ----- #
@@ -296,9 +306,8 @@ FL US98 I-95 FLA1A
 
 IL US12 I-190 CofRd
 IL US20 I-294(17) IL50
-IL US20 I-355 IL31
-IL US24 IL117 US150/8
-IL US24 I-39 IL251
+IL US20 I-355 RanRd
+IL US24 IL251 US150/8
 IL US24 IL1_N 1stSt
 IL US30 I-39 IL47/56
 IL US30 I-57 US45
@@ -315,7 +324,7 @@ IL US45 I-70 US40_W
 IL US45 I-24(37) IL145
 IL US51 IL48 I-74(135)
 IL US52 GroRd IL59
-IL US136 US51 MainSt_Gif
+IL US136 MainSt_McL MainSt_Gif
 IL US150 IL9_W IL/IN
 IL US150 WasRd CouLineRd
 IL US150 US24/8 IL8_E
@@ -333,7 +342,11 @@ IN US231 IN162_S IN62/68
 
 # ----- Iowa ----- #
 
+IA US18 178 209 
+IA US20 238 314
+IA US52 314(20) US61/151_S
 IA US61 123 IA/WI
+IA US218 MitAve 209(18)
 
 # ----- Kansas ----- #
 
@@ -346,6 +359,9 @@ KS US40 KS10_W I-70(366)
 # ----- Massachusetts ----- #
 # ----- Michigan ----- #
 # ----- Minnesota ----- #
+
+MN US61 MN5_W I-94(243A)
+
 # ----- Mississippi ----- #
 # ----- Missouri ----- #
 
@@ -419,7 +435,7 @@ WI US151 IA/WI 21
 # ----- US AUXILIARY HIGHWAYS ----- #
 # --------------------------------- #
 
-IL US24BusWas IL8_W CR800N
+IL US24BusWas IL8_W US24_E
 IL US51BusBlo US51_N US51_S
 IL US51BusCli US51_S US51_N
 KY US41AltNas KY1453 KY117
@@ -491,16 +507,15 @@ IL IL1 IL17_W IL114
 IL IL4 I-72 IL97
 IL IL6 2 5
 IL IL9 CR6 US45_S
-IL IL10 US150 US51Bus
+IL IL10 US150 I-55
 IL IL13 I-57 CR26
 IL IL16 IL128_N IL49_S
-IL IL17 IL47 IL114
+IL IL17 US66His IL114
 IL IL23 US30 IL64_W
-IL IL25 US20 IL56
+IL IL25 IL56 IL58
 IL IL25 I-90 IL68
 IL IL29 I-74(93) TruAve
-IL IL31 I-88 US20
-IL IL31 IL72 BigTimRd
+IL IL31 I-88 IL72
 IL IL32 I-57 OutBelt
 IL IL38 I-39 I-294
 IL IL47 CR56 IL10
@@ -509,10 +524,10 @@ IL IL48 IL127_S US51
 IL IL49 IL16_W I-70
 IL IL50 I-55 I-294
 IL IL50 I-57 US45/52
-IL IL54 US150 IL9/47
-IL IL54 US51 US51Bus
+IL IL54 3rdSt CR8
+IL IL54 US51 IL9/47
 IL IL56 US30/47 IL38
-IL IL58 IL59 IL72
+IL IL58 IL25 IL72
 IL IL59 IL58 US30_E
 IL IL59 US52 I-55
 IL IL64 I-39 I-355
@@ -524,7 +539,7 @@ IL IL105 I-72 WasSt
 IL IL105 MainSt_S MainSt_N
 IL IL108 IL4_N I-55
 IL IL113 I-55 IL17
-IL IL115 IL9 E1300N
+IL IL115 IL9 IL54_W
 IL IL116 IL89 IL117_S
 IL IL117 I-74 IL116_W
 IL IL121 US45_N StaSt
@@ -564,6 +579,14 @@ MD MD295 MD175 I-195
 # ----- Massachusetts ----- #
 # ----- Michigan ----- #
 # ----- Minnesota ----- #
+
+MN MN5 I-494(1A) MN55/62
+MN MN5 WacSt US61_S
+MN MN55 54thSt MN62_W
+MN MN62 MN55_W I-35E
+MN MN65Min 10thSt I-35W 
+MN MN77 MN62 LinLn 
+
 # ----- Mississippi ----- #
 
 MS MS302 US51 I-55
@@ -670,5 +693,11 @@ VA GWMemPkwyCry ReaNatAir_N I-395
 # ----------------------- #
 
 IL US66HisCar US66His_N WabAve_W
-IL US66His IL23_N I-55(92)
+IL US66His IL17 I-55(92)
 IL US66HisWil US66His_W US66His_E
+
+# ----------------------------- #
+# ----- US SELECT TOURIST ----- #
+# ----------------------------- #
+
+MN GRR CR46_E 46thAve

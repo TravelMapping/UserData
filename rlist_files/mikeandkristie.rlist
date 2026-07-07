@@ -12,6 +12,9 @@ CO DENTrn JepTer CGat
 CO FortColMunRai CityPark MouHow
 CO RoyGorRou Par CanCity
 
+# Delaware
+DE WilWesRR Gre Yor
+
 # District of Columbia
 DC BluLn VA/DC DC/MD
 DC GreLn MD/DC MtVerSq
@@ -35,9 +38,10 @@ NV LVM MGMGra SLS
 NV MBT ManBay Lux
 
 # New Jersey
-NJ RarVlyLn Rar NewPenn
 NJ NECorLn NewPenn NY/NJ
+NJ PATCO PA/NJ Col
 NJ PortJerLn NJ/NY SecJct
+NJ RarVlyLn Rar NewPenn
 
 # New York
 NY R 23St 57St7Av
@@ -52,6 +56,7 @@ NC BluLn Woo Sto
 PA AirLn PHLTerA Phi30thSt
 #PA MarFraLn 30th 8th
 PA Mon Low Upp
+PA PATCO 8thMar PA/NJ
 PA WarLn Phi30thSt Jef
 
 # South Dakota

@@ -40,7 +40,8 @@ AK WPY Ska BC WPY WhiPass
 
 # Old Eurostar (Waterloo) to Paris
 ENG WinLn LonWat +SKIP_QueRd
-ENG ThaLn +DIV_WinW +DIV_SEML
+# ENG ThaLn +DIV_WinW +DIV_SEML #Deprecated - missing Vauxhall to Brixton Connection
+ENG ThaLn +DIV_Bex +DIV_SEML
 ENG SEML +DIV_CML AshInt
 
 # Eurostar (St Pancras) to Paris
@@ -71,9 +72,9 @@ ENG ECMLEdi LonKinCro SCT ECMLEdi EdiWav
 SCT EdiTram PriSt EdiAir
 
 # Manchester to Wales
-ENG LlaManLn Che ManAir # Bus Substitution (some not on rail)
-WLS LlaManLn LlaJct ENG LlaManLn Che
-WLS WCMLC LlaJct +SKIP_Lfp
+ENG HolManLn Che ManAir # Bus Substitution (some not on rail)
+WLS HolManLn Llap ENG HolManLn Che
+# WLS WCMLC LlaJct +SKIP_Lfp 
 
 # Wales to York
 ENG WCMLC Cre Che
@@ -91,8 +92,18 @@ ENG CityLn LivLimeSt WigNorWes
 # Netherlands #
 ###############
 
-# Airport to Amsterdam Centraal
-NLD AmsDis AmsCen SchAir
+# Airport to Amsterdam Centraal  -- and towards Antwerp
+#NLD AmsDis AmsCen SchAir
+NLD AmsDis AmsCen NLD/BEL
+
+# Not mapped yet
+# NS Sprinter SchAir Delft
+
+# AMS Trams
+NLD 24Ams CenSta Mus
+NLD 4Ams CenSta Dam
+
+NLD 1Haa NiePla StaDel
 
 
 ###########
@@ -106,4 +117,30 @@ IRL DART DubPea BrayDaly
 ###############
 IMN IMR Dou Cas
 IMN MER DerCas Lax
+
+###########
+# Belgium #
+###########
+# From Amsterdam to Bruge IC Direct / City Lines
+BEL IC35 NLD/BEL AntCen
+# 
+# BEL IC3 GentStPie Bru - Overlapped
+BEL IC2 Bru AntCen
+
+###########
+# Sweden  #
+###########
+SWE 7NSto NorSto DjuBron
+SWE GotCop MalCen SWE/DNK
+
+###########
+# Denmark #
+###########
+DNK GotCop SWE/DNK CopCen
+
+DNK C Norp KobHov
+DNK M4 Ori KobHov
+
+
+
 

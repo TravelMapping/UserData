@@ -27,6 +27,7 @@ FL US1 IndSt FL714
 FL US1 FL732 FL520
 FL US1 FL405_S FL/GA
 FL US1AltJac US1_S US1_N
+FL US1HisInd US1_S US1_N
 FL US17 US41 FL/GA
 FL US17TrkKis US17_S US17_N
 FL US19 FL682 US19Alt_N #north to CR 595
@@ -92,7 +93,7 @@ FL FL10 FL5 US90AltJac_E
 FL FL10 ArlExpy I-295
 FL FL10AJac FL115 FL10
 FL FL11 US17 US1
-FL FL13 ToFL16 RivAve
+FL FL13 FL16_E RivAve
 FL FL15Orl FL528 US17/92
 FL FL15A US17_S US17_N
 FL FL16 US17_S CR16A
@@ -100,6 +101,7 @@ FL FL16 CR208 US1
 FL FL17Seb US27/98_S US27/98_N
 FL FL17 US27/98 US17/92
 FL FL19 FL33/50 US17
+FL FL21 CR315 BraFieRd
 FL FL21 FL224 US17
 FL FL20Gai FL24/331 US17
 FL FL24 2ndSt US19/98
@@ -142,6 +144,8 @@ FL FL80 I-75 FL31
 FL FL80 US27_S US98/441
 FL FL80 I-95 US1
 FL FL94 FL985 FL826
+FL FL100 CR309D CR309C
+FL FL100 US17_N US1_S
 FL FL101 FLA1A NavStaMay
 FL FL102 FL243 I-95
 FL FL103 FL208 FL128
@@ -168,7 +172,7 @@ FL FL200 US41 CR39
 FL FL200 I-75 US27/301 #and west to 44th Court
 FL FL202 US1 FLA1A
 FL FL206 I-95 US1
-FL FL207 CR13_S US1
+FL FL207 US17 US1
 FL FL208 I-295 FL103
 FL FL211 FL128 PenPl
 FL FL224 FL21 US17
@@ -238,7 +242,7 @@ FL FL542 FL549 US27
 FL FL544 US92 FL17
 FL FL546 I-4 US92
 FL FL549 FL542 FL544
-FL FL551 OldGolRd FL426
+FL FL551 FL15 FL426 #and Old Goldenrod
 FL FL552 FL15 FL551
 FL FL553 US92 I-4
 FL FL559 FL559A FL33
@@ -306,6 +310,35 @@ FL FL973 FL836 12thSt
 #FL FL985 FL94 76th Street
 FL FL997 FL998 US27
 FL FL998 FL997 US1
+FL NocPkwy CR210_W PalmValRd #presumably the rest too, but I should drive it all just to be sure
+#Florida Scenic Highways (non-state road portions):
+#A1A Ocean Islands Trail: all state
+#A1A Scenic & Historic Coastal Byway: need CR A1A at St. Augustine Beach and potential spur at Vilano Beach
+#Bartram Scenic & Historic Highway: all state
+#Big Bend Scenic Byway
+#Bradenton Beach: all state
+#Broward County A1A Scenic Highway: need El Mar Drive at Lauderdale-by-the-Sea and spur at Dania Beach
+#Courtney Campbell Causeway: all state
+#Florida Black Bear Scenic Byway: drove everything
+#Florida Keys Scenic Highway: all state
+#Green Mountain Scenic Byway: drove everything except Dillard/Surprise
+#Halifax Heritage Byway
+#Heritage Crossroads: drove CR 13/Brick Road
+#Indian River Lagoon
+#Indian River Lagoon - Treasure Coast Scenic Highway
+#J.C. Penney Memorial Scenic Highway
+#Lemon Bay Myakka Trail
+#Martin Grade Scenic Highway
+#Old Florida Heritage Highway
+#Ormond Scenic Loop & Trail
+#Palma Sola: all state
+#Pensacola Scenic Bluffs: all state
+#The Ridge: all state
+#River of Lakes Heritage Corridor: drove CR 3, CR 4053, CR 4139; need CR 4110/4125, CR 4162/4164, Seminole Boulevard, CR 415
+#Scenic Highway 30A
+#Scenic Sumter Heritage Byway
+#Suncoast Scenic Parkway: all state
+#Tamiami Trail: all state
 
 CA CA1 MisSt_E SwaRd_S
 CA CA1 SwaRd_N BeanHolRd
@@ -1429,6 +1462,7 @@ MI MI102 MI3 I-94
 MI MI153 MI14 US12
 MI LECT I-75(47B) USA/CAN
 
+MI AmbBri I-75/96 ON AmbBri ON3
 ON ON3Win AmbBrg RR19
 ON ON401 1 14
 ON DouPkwy HowAve ON401
@@ -1528,7 +1562,8 @@ KY KY8BusBel US27/8 KY6335
 KY KY9 KY8 KY915
 KY KY10 KY915 KY1121_W #east to the curve west of Redstone Road, where it was closed for construction
 KY KY10 KY1121_E KY3056
-KY KY17 US27 KY/OH
+KY KY17 US27 20thSt
+KY KY17 KY1120_E KY/OH
 KY KY18 KY338_W KY20
 KY KY20 KY18 KY8
 KY KY35 US127 I-71

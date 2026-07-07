@@ -1,7 +1,8 @@
 CA	AutPeoMov	CenTerB	ConB	#2018-10 Gold Rush
 CA	CS	SimiVly	CA/OR	#2017-03 Oregon Washington
 CA	CZ	SacVlySta	CA/NV	#2009-06 Great Train Trip
-CA	GreLn	SeaVil	CouCenLitIta	#2024-04 San Diego AACR
+CA	GreLn	GasQua	CouCenLitIta	#2026-04 AACR San Diego
+CA	GreLn	SeaVil	CouCenLitIta	#2024-04 AACR San Diego
 CA	PowHyde	Bush	Bea	#1997-06 San Francisco Yosemite
 CA	PS	SanFeDep	Moo	
 CA	VenCouLn	UniSta	Moo	
@@ -9,8 +10,8 @@ CO	CZ	UniSta	CO/NE	#2009-06 Great Train Trip
 CT	NewHavLn	NY/CT	NHStaSt	#1994-10
 DC	GreLn	LEnfPla	GalPla	#2010-09 Washington DC
 DC	RedLn	MetCen	Tak	#2010-09 Washington DC
-GA	BluLn	CNNCen	GeoSta	#2019-04 Atlanta AACR
-GA	RedLn	FivePoi	PeaCen	#2019-04 Atlanta AACR
+GA	BluLn	CNNCen	GeoSta	#2019-04 AACR Atlanta
+GA	RedLn	FivePoi	PeaCen	#2019-04 AACR Atlanta
 IA	CZ	NE/IA	IA/IL	#2009-06 Great Train Trip
 IL	AirTraSys	Ter1	MulModFac	
 IL	BlueLn	OHa	Monr	#2025-04 Illinois Wisconsin
@@ -46,6 +47,8 @@ UT	CZ	NV/UT	SaltLakeCity	#2009-06 Great Train Trip
 VA	AerTrn	ConB	ConCD	#2024-10 Going to the DMV
 VA	BluLn	PenCity	ArlCem	#2010-09 Washington DC
 VA	YelLn	RRWasNatAir	VA/DC	#2010-09 Washington DC
-WA	SeaCenMon	SeaCen	WesCen	#1996-05 Seattle Vancouver
 WA	BlueLn	AGat_Sta	AGat_Fin	#2022-09 Washington State
 WA	GreLn	DGat_Sta	DGat_Fin	#2025-08 Alaska Adventures
+WA	SeaCenMon	SeaCen	WesCen	#1996-05 Seattle Vancouver
+GA	SkyTrn	Air	RenCarCen	#2026-05 Going Bananas
+GA	PlaTrn	DomTer	FGatIntTer	#2026-05 Going Bananas
