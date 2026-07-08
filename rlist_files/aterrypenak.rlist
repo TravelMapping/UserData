@@ -12,7 +12,7 @@ IL RedLn Gar How
 IL SkoSwi DemSko How
 MA RedLn JFK Har
 MI DetPeoMov Mic_S Mic_N
-NJ PATCO PA/NJ Wes
+NJ PATCO PA/NJ Woo
 NY 1 116StColUni SouFry
 NY 4 42StGraCen BowGre
 NY 6 GraCen 86thSt
@@ -23,6 +23,8 @@ NY R 34StHerSq 14StUniSq
 NY S42 TimSq GraCen
 NY SIR StGeo OldTown
 OH RedLn Bro LitItaUniCir
+PA B1 LomSou CityHall
+PA L1 15th 5th
 PA PATCO 8thMar PA/NJ
 VA BluLn VanDornSt VA/DC
 VA YelLn KingStOldTown VA/DC
@@ -48,6 +50,7 @@ MO MLBlueLn ShrLanI44 LacLan
 MO MLRedLn LamAirTer2 8thPine
 OH BlueLn TowCity WarVanAken
 OH GreLn TowCity GreRd
+PA T1 30th 13th
 TX RedLnHou FanS Pre
 
 # Streetcars
@@ -75,6 +78,7 @@ MA ProLn RI/MA BosSou
 NJ NECorLn NY/NJ NewPenn
 NY NECorLn PennSta NY/NJ
 NY RonBra PennSta Wya
+PA CHELn Phi30thSt MarEast
 PA PaoThoLn Hav Phi30thSt
 RI ProLn Pro RI/MA
 
