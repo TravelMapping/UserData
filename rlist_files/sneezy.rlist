@@ -36,10 +36,13 @@ CA PS Gle SanFeDep
 CA RivLn UniSta Ind
 CO DENTrn JepTer CGat
 DC BluLn VA/DC EasMar
+DC GreLn MtVerSq NavyYardBal
 DC RedLn ClePk FortTot
-DC YelLn VA/DC MtVerSq
+DC YelLn VA/DC GalPla
 DEU-HE SkyLn Ter1FluAZ Ter1FluC
 DNK A Dyb Hil
+DNK C Kla Hel
+DNK GotCop CopCen SWE/DNK
 ENG CirLn KXSP ManHou
 ENG HT5Tra GatA1A23 GatC52C66
 ENG PicLnHT4 HeaTer23 KXSP
@@ -86,6 +89,8 @@ IL BlueLn OHa LaS
 IL OraLn Mid Loop
 IL RedLn Sox35th Add
 ISR 1Jer ShiISr MouHer
+ITA-EMI S1B SanBerSamCasPep BolCen
+ITA-EMI S4A BolCen Fer
 ITA-LAZ FaRomGen RomaTer UMB/LAZ
 ITA-LAZ LeoExp FiuAer RomaTer
 ITA-LAZ MA Cip Ter
@@ -126,6 +131,7 @@ OR YelLn MadSt DelParkVan
 PA BlueLn NorSide StaSq
 PA BroStLn RaceVine NRG
 PA Mon Low Upp
+SWE GotCop SWE/DNK LundCen
 TX Sky A8 A21
 TUR M1A Zey AtaHav
 TUR T1Ist Sul Zey
