@@ -887,6 +887,7 @@ QC A-610 A-10 QC112
 QC A-640 QC344_W QC344_E
 QC A-730 1 QC132
 QC A-740 BoulHoc BoulLeb
+QC A-915 45(AL) 46(117)
 QC A-930 A-15 A-30
 QC A-955 QC122 15
 QC A-973 RueCroRou A-73
@@ -7978,23 +7979,23 @@ QC QC112 QC235 QC137
 QC QC112 A-10(123) A-10(128)
 QC QC112 A-610 A-73
 QC QC116 QC255_N RueHotVil
-QC QC117 A-15/40 QC158
-QC QC117 QC158 RueStFau
-QC QC117 RueStJos RueMar
-# add above new points RueStFau and RueStJos after check for duplicate labels
-QC QC117 RueMar QC/ON
+QC QC117 A-15/40 RueStFau
+QC QC117 RueStJos QC/ON
 QC QC122 QC259 A-955
-QC 125 QC335 PNMontTre
-QC QC125Mon QC138 A-40
+QC 125 RangCoteSL PNMontTre
+QC QC125Mon QC138 ChSteMar_E
+QC QC125Mon ChSteMar_E AvLau
+QC QC125Mon AvLou ChStHen_N
+# AvLau and AvLou to be added later
+QC QC125Mon ChStHen_N ChRuiSJ 
 QC QC132 USA/CAN QC132_W
 QC QC133 USA/CAN StLauFry
 QC QC134 A-15 QC112/116
 QC QC136Mon 1 AvePap
-QC QC136 A-73 RueNotDame
 QC QC137 QC112 QC133
 QC QC138Mon USA/CAN BoulBri
 QC QC138Mon BoulBri RueDen
-QC QC138Mon RueLef RueVal
+QC QC138Mon RueLef RueVal 
 # add above new points RueDen and RueLef after check for duplicate labels
 QC QC138Mon RueVal RivSagFry
 QC QC138 RivSagFry ChJacCar
@@ -8062,6 +8063,7 @@ QC QC327 QC117 RueStJov_W
 # QC QC329 ?
 QC QC335 QC138 QC125
 # add recentered new label 13 in place of RueStSae
+QC QC337 QC125/346 QC341/348_W
 QC QC342 A-40(12) ChAnse
 QC QC344 A-50 RueMap_S
 QC QC358 QC138_W RteAer
