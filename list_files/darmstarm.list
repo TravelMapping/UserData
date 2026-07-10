@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-8-26
+#everywhere that darmstarm has been up to 7-10-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-8-26.
+#last updated 7-10-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -86,6 +86,7 @@ PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
 PA US30 PA41 US15 #gap to gettysburg
+PA US30 PA41 PA10 #"the shed adventure" 7-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
 PA US209 I-476 PA309 #relatives trip
