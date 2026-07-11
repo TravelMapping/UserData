@@ -1,4 +1,4 @@
-# Date: 2026-07-10
+# Date: 2026-07-11
 # ----------------
 
 ######################
@@ -624,7 +624,8 @@ DEU-BE M8 URosaLuxPla OttoBraStr       #2025, actually traveled as rerouted M5
 DEU-BE M10 TurmStr BerPla              #2025
 DEU-BE M13 JesStr SWarStr              #2025
 DEU-BE M17 RhinStrGarStr SAdlHof       #2026
-DEU-BE 12Ber GeoStrKupGra SNordBf      #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
+DEU-BE 12Ber +DIV_Cha2 KupGra          #2026
+DEU-BE 12Ber +DIV_Cha1 SNordBf         #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
 DEU-BE 12Ber PreAllOstSeeStr PasPla    #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
 DEU-BE 27Kop PasPla RhinStrGarStr      #2026
 DEU-BE 50Ber BornHolStr SchHauAllBornHolStr #2026
