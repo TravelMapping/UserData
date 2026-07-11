@@ -2718,7 +2718,7 @@ BC YT1 YT/BC BC/YT
 BC YT2 AK/BC BC/YT
 BC YT3 AK/BC BC/YT 
 DC DC295 I-295/695 DC/MD
-MI MI3 I-696 I-94(243)
+MI MI3 RanSt I-94(243)
 MI MI5 I-96(164) I-96(165)
 MI MI6 I-196 I-96
 MI MI8 MI10 GalSt 
@@ -3794,8 +3794,12 @@ ON ON7Wat VicRdS CasDr
 # gap due to construction closure
 ON ON7 *OldON7 ON12_S
 ON ON7 ON12_N ON417
+ON ON8 ON21 RR31
 ON ON8 RR31 ON4
-# actual west end of detoured segment is Nor
+# actual west end of detoured segment is NorSt in Clinton
+ON ON8 ON4 RR15
+ON ON8 RR15 RR12_Sea
+# actual west end of detoured segment is RoxLine in Seaforth
 ON ON8Cam WesRd ON5_E
 ON ON9 ON21 ON23/89
 ON ON10 ValBlvd ON6/21
