@@ -80,7 +80,8 @@ KS I-35 220 234
 MO I-35 1A 8B
 MN I-35Far 40 88A
 MN I-35W I-35(88) 16B
-MN I-35E 88A 107A
+MN I-35E 88A 127
+MN I-35 127 132
 # Business
 MN I-35BLFar I-35_S I-35_N
 
@@ -392,6 +393,10 @@ RI US6 CT/RI RI/MA
 MA US6 RI/MA MA114A_S
 # Historic
 CA US6HisSan US99His_N SolCanRd_W
+
+#. US 8
+MN US8 I-35 MN/WI
+WI US8 MN/WI WI35_S
 
 #. US 9
 DE US9 US13 US113
@@ -1698,6 +1703,6 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
-# 7/2/2026
-# added routes I-94, I-694, WI 35, WI 64, MN 95, and MN 36
-# updated routes I-494 and I-35E 
+# 7/8/2026
+# new: I-35 north of St Paul, US 8
+# updated: I-35E
