@@ -3797,8 +3797,8 @@ ON ON7 ON12_N ON417
 ON ON8 ON21 RR31
 ON ON8 RR31 NorSt
 # actual west end of detoured segment is NorSt in Clinton
-ON ON8 ON4 ON23_N
-ON ON8 ON4 RoxLine 
+ON ON8 ON4 RR15
+ON ON8 RR15 RoxLine 
 # actual west end of detoured segment is RoxLine in Seaforth
 ON ON8 ON23_S ON7_W
 ON ON8Cam WesRd ON5_E
