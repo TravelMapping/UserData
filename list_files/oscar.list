@@ -7998,22 +7998,16 @@ QC QC116 QC255_N RueHotVil
 QC QC117 A-15/40 RueStFau
 QC QC117 RueStJos QC/ON
 QC QC122 QC259 A-955
-QC 125 RangCoteSL PNMontTre
-QC QC125Mon QC138 ChSteMar_E
-QC QC125Mon ChSteMar_E AvLau
-QC QC125Mon AvLou ChStHen_N
-# AvLau and AvLou to be added later
-QC QC125Mon ChStHen_N ChRuiSJ 
+QC 125 PNMontTre QC158_E
+QC QC125Mon QC138 AvLau
+QC QC125Mon AvLou ChRuiSJ 
 QC QC132 USA/CAN QC132_W
 QC QC133 USA/CAN StLauFry
 QC QC134 A-15 QC112/116
 QC QC136Mon 1 AvePap
 QC QC137 QC112 QC133
-QC QC138Mon USA/CAN BoulBri
-QC QC138Mon BoulBri RueDen
-QC QC138Mon RueLef RueVal 
-# add above new points RueDen and RueLef after check for duplicate labels
-QC QC138Mon RueVal RivSagFry
+QC QC138Mon USA/CAN RueDen
+QC QC138Mon RueLef RivSagFry
 QC QC138 RivSagFry ChJacCar
 QC QC138Bla End QC/NL 
 QC QC143 USA/CAN QC247
@@ -8078,8 +8072,7 @@ QC QC327 QC117 RueStJov_W
 # QC QC327 ?
 # QC QC329 ?
 QC QC335 QC138 QC125
-# add recentered new label 13 in place of RueStSae
-QC QC337 QC125/346 QC341/348_W
+QC QC337 QC125_N QC341/348_W
 QC QC342 A-40(12) ChAnse
 QC QC344 A-50 RueMap_S
 QC QC358 QC138_W RteAer
@@ -8092,8 +8085,6 @@ QC QC367 QC138 RteFos_E
 QC QC368 A-40 QC368_W
 QC QC369 QC367 BoulOrm_S
 QC QC369 BoulOrm_S BoulCyrRen
-# need to add point to route file, also check possible reroute over Rue Varret
-# (you traveled both Rue Varret and parallel segment of Rue Racine)
 QC QC369 BoulEtu QC360
 QC QC370 QC117 ChMas
 QC QC371 A-573 BoulVal_S
