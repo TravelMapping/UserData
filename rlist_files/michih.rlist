@@ -1,4 +1,4 @@
-# Date: 2026-07-11
+# Date: 2026-07-13
 # ----------------
 
 ######################
@@ -614,21 +614,24 @@ DEU-BE M1 +DIV_Cha1 KupGra             #2026
 DEU-BE M1 +DIV_Cha2 SUFriStr_2         #2026
 DEU-BE M1 +DIV_Sch SHacMar             #2025, actually traveled as rerouted M5
 #DEU-BE rer. M5 +DIV_Sch URosaLuxPla   #2025, actually traveled as rerouted M5 via Weinmeisterstraße
-DEU-BE M2 PreAllOstSeeStr PreAllDanStr #2026, actually traveled as rerouted 12
+DEU-BE M2 HeiDorf AlePla               #2026
+DEU-BE M4 SUAlePla AntPla              #2026
 DEU-BE M5 +DIV_Hbf1 LuneBurStr         #2025
 DEU-BE M5 +DIV_Hbf2 SHacMar            #2025
 DEU-BE M5 MollStrOttoBraStr ZinStr     #2025
 DEU-BE M6 SHacMar UAlePla              #2026
 DEU-BE M6 OderBruStr RieStr            #2024
-DEU-BE M8 URosaLuxPla OttoBraStr       #2025, actually traveled as rerouted M5
+DEU-BE M8 ClaJasStr BerBasStr          #2026
 DEU-BE M10 TurmStr BerPla              #2025
-DEU-BE M13 JesStr SWarStr              #2025
+DEU-BE M10 UFraFurTor SUWarStr         #2026
+DEU-BE M13 PreAllOstSeeStr SWarStr     #2025/26
 DEU-BE M17 RhinStrGarStr SAdlHof       #2026
 DEU-BE 12Ber +DIV_Cha2 KupGra          #2026
 DEU-BE 12Ber +DIV_Cha1 SNordBf         #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
 DEU-BE 12Ber PreAllOstSeeStr PasPla    #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
+DEU-BE 21Ber FrePla HolStr             #2026
 DEU-BE 27Kop PasPla RhinStrGarStr      #2026
-DEU-BE 50Ber BornHolStr SchHauAllBornHolStr #2026
+DEU-BE 50Ber VirKli GuyStr             #2026
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
 DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
