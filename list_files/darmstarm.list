@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-11-26
+#everywhere that darmstarm has been up to 7-14-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-11-26.
+#last updated 7-14-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -32,6 +32,7 @@ DE DE7 DE/PA DE1(166)
 DE DE7 US40 BraRd #elkton -> home 6-29-26
 DE DE7 US40 US13/72 #home -> henlopen 7-5-26
 DE DE9 DE299 DE1 #home -> henlopen 7-5-26
+DE DE9 I-95 DE72 #wilmington -> home 7-14-26
 DE DE15 DE42_E DE299_E #henlopen -> home 7-5-26
 DE DE16 DE36_W AdaRd #to burrsville rd (rd 112)
 DE DE16 DE30/5Alt US13 #henlopen -> home 7-5-26
@@ -49,6 +50,7 @@ DE DE58 DE4 DE273 #various trips, old toy store, hospital
 DE DE62 DE2/41 DE4 #farmer's market alternate route
 DE DE71 DE896_S US301
 DE DE72 DE7_N US40 #rock gym
+DE DE72 DE9 US13/1 #wilmington -> home 7-14-26
 DE DE82 DE52 DE/PA
 DE DE92 DE100 US13 #from when i was a baby, trusting dad on this one
 DE DE141 DE9/273 US202/261 #antiq. clinched 7-8-26
