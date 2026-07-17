@@ -3796,11 +3796,8 @@ ON ON7Wat VicRdS CasDr
 ON ON7 *OldON7 ON12_S
 ON ON7 ON12_N ON417
 ON ON8 ON21 RR31
-ON ON8 RR31 NorSt
-# actual west end of detoured segment is NorSt in Clinton
 ON ON8 ON4 RR15
-ON ON8 RR15 RoxLine 
-# actual west end of detoured segment is RoxLine in Seaforth
+ON ON8 RR12_Sea RR14/180
 ON ON8 ON23_S ON7_W
 ON ON8Cam WesRd ON5_E
 ON ON9 ON21 ON23/89
@@ -8618,7 +8615,8 @@ LA LA75 PlaFry LA74
 LA LA76 LA3000 LA77_W
 LA LA77 LA76_N US190
 LA LA82Hol TX/LA CamFer 
-LA LA82 CamFer Ver/Laf
+LA LA82 CamFer AbbLim 
+LA LA82-1 LA14/82Trk Ver/Laf
 LA LA94 US90/167 LouAve_N
 LA LA96 LA182 LA31_N
 LA LA113 US190 LA463
