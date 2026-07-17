@@ -95,6 +95,7 @@ PA US209 I-476 PA309 #relatives trip
 PA US219 PA153 PA948_N
 PA US222 US422/12 PA183 #hawk mountain trip
 PA US222 PA372_W PA462
+PA US222 MD/PA PA372_E #conowingo -> home 7-26
 PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
@@ -208,6 +209,7 @@ MD US40 MD43 MD152 #this is as far as i know. we apparently had a "really bad tr
 MD US40 MD295 MorRd #raleigh -> home 5-26
 MD US50 7 13 #raleigh -> home 5-26
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
+MD US222 US1 MD/PA #conowingo -> home 7/26
 MD US301 MD/DE VA/MD
 MD US340 10 VA/MD #harper's ferry trip
 MD MD3 US50/301 I-97/32
