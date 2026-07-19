@@ -173,7 +173,7 @@ PA PA948 PA120 PA666 #niagara falls trip
 PA PA970 US322 I-80 #niagara falls trip
 PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
-#the star spangled banner trail??? most of md382, plus croom station rd
+MD SBTrlUMa MD231/381 MD725_E #various return trips from raleigh
 MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD ClaBarPkwy MacBlvd_W I-495 #guatemala trip 6-26 (baltimore -> dulles)
 MD I-68 WV/MD 82 #various trips
@@ -507,7 +507,6 @@ MI MI39 1 16 #oak park wedding, mid 2010s
 NY PeaBri I-190 CAN/USA #canada trip 6-26
 NY GarStaPkwy NJ/NY I-87/287 #west point trip, antiq.
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
-NY PalIntPkwy NJ/NY 6 #college new york trip 2024
 NY PalIntPkwy 9 US6/9W #west point trip, antiq.
 NY I-86 10 PA/NY #niagara trip (rnrhf)
 NY I-86 44 36 #canada trip 6-26
@@ -556,9 +555,7 @@ NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
 NJ NJtpk I-295(1) 4 #grandparents
 NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
-NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
-NJ I-95 PA/NJ 16E #medieval times trip
-NJ I-95 74 NJ/NY #george washington bridge
+NJ I-95 PA/NJ NJ/NY #george washington bridge, medieval times trip
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
 NJ I-295 DE/NJ 40 #various trips
