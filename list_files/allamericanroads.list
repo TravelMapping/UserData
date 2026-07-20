@@ -1,0 +1,224 @@
+#A1A Scenic & Historic Coastal Byway
+FL FLA1A HigRd FL202
+
+#Acadia All American Road
+ME ME3 MyrSt SieMonRd
+ME ParkLpRd SieMonRd_S SieMonRd_N
+ME ParHillRd ParkLpRd VisCenRd
+
+#Alaska's Marine Highway
+##missing bit: everything as it is all ferries
+
+#Beartooth Highway
+MT US212Coo YelNP MT US212 MT78
+
+#Blue Ridge Parkway
+NC BlueRidPkwy US441 VA BlueRidPkwy US250
+
+#Chesapeake Country Scenic Byway
+MD MD18 MD8 MD213
+MD MD213 MD18 BasAve
+MD MD445 End MD20
+MD MD20 MD445 MD291
+MD MD291 MD20 MD213
+
+#Chinook Scenic Byway (Stephen Mather Memorial Parkway)
+WA WA164 WA169 WA410
+WA WA410 WA164 US12
+
+#Colonial Parkway
+VA ColPkwy BalSt IslDr
+
+#Creole Nature Trail
+LA LA27 US90 CamFer
+LA LA27Cam CamFer LA397
+LA LA397 LA27 I-10
+LA LA82Hol TX/LA CamFer
+LA LA82 CamFer PR147
+##missing section along PR357
+LA LA384 LA385_S LA27_S
+LA LA385 LA384_S End
+LA LA14 LA397_N LA3186
+LA LA3186 LA385 LA14
+
+#Flaming Gorge - Green River Basin Scenic Byway
+WY WY530 I-80BL WY/UT
+WY US191 UT/WY I-80(99)
+
+#Florida Keys Scenic Highway
+FL US1 FleSt MorAve
+
+#George Washington Memorial Parkway
+VA GWMemPkwyMtV VA235 VA400
+VA VA400 GeoWasPkwy 1stSt
+VA GWMemPkwyCry 1stSt VA GWMemPkwy I-495
+
+#Great River Road
+##West Bank and north end##
+LA GRR JumpBasRd LA/AR
+AR GRR LA/AR AR/MO
+###MO not AAR###
+IA GRR MO/IA IA/MN
+MN GRRWin IA/MN US61_HasN
+MN GRR US61_S EEntRd
+##East Bank##
+LA GRRBat MonAve LA/MS
+###MS not ARR###
+TN GRR MS/TN TN/KY
+KY GRR TN/KY KY/IL
+IL GRRCai KY/IL IL150_N
+IL GRRESL IL150_S I-172
+IL GRRQui I-172(2) IL9/96
+IL GRROqu IL9_N IL92
+IL GRR NewBosRd IL35
+IL IL35 US20 IL/WI
+WI GRR IL/WI WI/MN
+MN GRR WI/MN US61_S
+
+#Harriet Tubman Underground Railroad Byway
+##missing section in Cambridge
+MD MD341 MD16 MD343
+MD MD16 SmiRd MD341
+MD MD335 MD16 WilDr
+##missing section along Key Wallace Drive, Greenbrier Road and Bucktown Road
+MD MD16 MD750_W GroRd
+##missing sections - spurs around Preston
+##missing section - Grove Road, MD578
+MD MD16 MD578 MD313/404
+MD MD313 MD16_W MD311
+MD MD311 MD313 MD287
+MD MD287 MD313 MD/DE
+MD MD404 MD16_W MD404AltHil
+MD MD404AltHil MD303_N MD404
+MD MD404BusDen MD404_W MD404_E
+MD MD619 MD404Bus MD313/404
+
+#Hells Canyon Scenic Byway
+OR OR86 I-84 BroOxbHwy
+##missing section FS39
+OR OR350 WalMouRd OR82/351
+OR OR82 I-84 OR350/351
+OR OR351 OR82/350 End
+
+#Historic Columbia River Highway
+OR US30HisCol I-84(18) I-84(37)
+OR US30 I-84(69) CheLoop
+
+#Historic National Road
+IL NatRd RivDr IL/IN
+IN NatRd IL/IN IN/OH
+OH NatRd IN/OH OH513
+OH NatRdStC End OH/WV
+WV NatRd OH/WV WV/PA
+MD NatRd PA/MD MD2
+IL NatRdSprGre IL127_S IL127_N
+IL NatRdSprLiv US40_W US40_E
+
+#Historic Route 66 - Arizona
+AZ US66HisKin I-40(1) I-40(139)
+AZ US66HisAsh I-40(144) I-40(146)
+AZ US66HisWil I-40(161) I-40(165)
+AZ US66HisFla I-40(191) I-40(204)
+AZ US66HisWin I-40(252) I-40(257)
+AZ US66HisJos I-40(274) I-40(277)
+AZ US66HisHol I-40(285) I-40(289)
+AZ US66HisLup I-40(359) AZ/NM
+
+#Historic Route 66 - Missouri
+MO US66His KS/MO MO/IL
+MO US66HisNJo US66His_W US66His_E
+MO US66HisEJo US66His_W US66His_E
+MO US66HisCar US66His_W US66His_E
+MO US66HisNSp US66His_W US66His_E
+MO US66HisESp US66His_W US66His_E
+MO US66HisLaq US66His_W US66His_E
+MO US66HisMan US66His_W US66His_E
+MO US66HisFlo US66His_W US66His_E
+
+#International Selkirk Loop
+WA WA31 WA20 WA/BC
+WA WA20 WA31 US2
+WA US2 WA20 ID US2 US95_N
+ID US95 US2/200 ID1
+ID ID1 US95 USA/CAN
+
+#Lakes to Locks Passage
+NY US4 NY32_Wat NY/VT
+NY NY22 US4_S US9_N
+NY US9 NY22_S BakRd
+##missing segement CR12
+NY NY9B MasRd US11
+NY US11 NY9B USA/CAN
+NY NY74 NY9N/22 TicFry
+NY NY185 NY9N/22 NY/VT
+NY NY373 US9 BurPKFry
+##missing segement Commodore T MacDonough Highway
+NY US2 US11 NY/VT
+
+#Las Vegas Strip
+##NV LasVegBlvd RusRd SahAve
+
+#Natchez Trace Parkway
+MS NatTraPkwy LibRd TN NatTraPkwy TN100
+
+#Newfound Gap Road Byway
+NC US441 BlueRidPkwy TN US441 AirRd
+
+#North Shore Scenic Drive
+##missing section Canal Park Drive-Superior Street-London Road
+MN MN61 I-35 USA/CAN
+
+#Northwest Passage Scenic Byway
+ID US12 WA/ID ID/MT
+ID ID13 US95 US12
+
+#Pacific Coast Scenic Byway
+OR US101 CA/OR OR/WA
+
+#Red Rock Scenic Byway
+AZ AZ179 I-17 MalDr
+
+#Route 1, Big Sur Coast Highway
+#Route 1, San Luis Obispo North Coast Byway
+CA CA1 203A(101) CRG16
+
+#San Juan Skyway
+CO US160 CO145 US550_N
+CO US550 US160_W CO62
+CO CO62 CO145 US550
+CO CO145 US160 CO62
+
+#Utah's Scenic Byway 12 - A Journey Through Time
+UT UT12 US89 UT24
+
+#Selma to Montgomery March Byway
+AL SMTrl BroCha BanSt
+
+#Seward Highway
+AK AK9 RaiAve AK1
+AK AK1 AK9 5thAve_W
+
+#The Battle Road Scenic Byway
+##missing section in Concord
+MA MA2ACam LexRd I-95
+##missing section in Lexington
+MA MA4 MasAve_W MasAve_E
+##missing section in Arlington
+MA MA2ACam BatRd MA60_W
+
+#Trail Ridge Road/Beaver Meadow Road
+CO US34 PorRd US34Bus
+CO US34BusEst US34_W US36_W
+CO US36 US34_W US34Bus_W
+
+#Volcanic Legacy Scenic Byway
+CA VLSB CA89 CA36_CheE
+CA VLSBChe CA89 CA147
+CA VLSB CA36_CheW CA/OR
+OR VLSB CA/OR US97_Che
+CA VLSBTul CaveLpRd US97
+OR VLSBCra CraCrkRd CraLakeHwy
+
+#Woodward Avenue (M-1) - Automotive Heritage Trail
+MI MI1 AdaAve I-75BL
+MI US24BusPon I-75BL_S MI59

@@ -1,0 +1,371 @@
+#major interstates from AZ
+AZ I-8 115 CA I-8 SunCliBlvd #gila bend to san diego
+CA I-10 3 TX I-10 42 #~ucla to ~clint
+AZ I-17 194 341
+AZ I-19 8 101
+AZ I-40 195 OK I-40 151B
+AZ I-19BLNog AZ82 I-19_N
+AZ I-40BLFla AZ89A I-40_E
+#other major interstate sections
+UT I-15 27 MT I-15 USA/CAN #UT17? to canada
+NV I-15 42 UT I-15 16 #las vegas to UT9
+#MT
+MT I-15BLGre I-15_S I-15_N #i-15 business route through great falls 100% completed 2021
+MT US87BypGre US87_N GiaSprRd
+MT US89 SheCreRd US2_W #~whitebark pine thing to browning
+MT US87 US89/3 MorDamRd
+MT US12 I-15 BroSt #helena to missoula
+MT MT200 I-90(99) US89_N #missoula to vaughn
+MT SR431 I-15 7thRd_W #at least
+MT US287 MT200 MT21 #to augusta
+MT US287 I-15(192) MT87 #helena to west yellowstone (2018) i think
+MT MT87 US287 ID/MT
+ID ID87 ID/MT US20
+#glacier
+MT US2 US89_N MT49
+MT MT49 US2 TwoMedRd
+MT TwoMedRd MT49 TwoMedLk
+#AZ
+AZ US89AltFre US89 UT US89AltKan US89 #idk if this will work
+AZ AZ89A I-40BL RedRockRd
+AZ AZ89A AZ260 FainRd #maybe more?
+AZ AZ179 I-17 AZ89A
+AZ US60 AZ260_E TegSt #show low to wickenburg
+#phx metro
+AZ AZ101 1 44 #maybe further
+AZ SkyHarBlvd I-10 42ndSt #at least
+AZ AZ51 15 I-10
+AZ AZ202 78 55
+AZ AZ202 34 30 #kiwa
+AZ AZ202 1A 12
+AZ AZ101 55A 61B
+AZ AZ202 50 43
+AZ AZ24 1 AZ202
+#grand canyon
+AZ US180 I-40BL_W GraCynNP
+AZ AZ64 GraCynNP SouEntRd_N
+#payson
+AZ AZ87 SheaBlvd AZ260_E #at least from shea blvd
+AZ AZ260 AZ87_S WooLakeRd #payson to ~pinetop
+#jerome
+AZ AZ260 I-17 AZ89A
+#prescott
+AZ AZ69 I-17 AZ89
+#tombstone & kartchner caverns
+AZ AZ90 I-10 AZ82
+AZ AZ82 AZ90 AZ80
+AZ AZ80 AZ82 12thSt
+#biosphere 2 (incomplete)
+AZ AZ79 AZ79Bus AZ77 #which way to florence?
+AZ AZ77 WilSprRd InaRd #actually biosphere rd
+#i-8 "bypass" to san diego
+AZ AZ85 I-10 I-8BL_W #I-10 to I-8
+#maricopa
+AZ AZ347 I-10 MarCasHwy
+#sunset wupatki
+AZ LoopRd US89_S US89_N
+#walnut canyon
+AZ WalCanRd I-40 VisCen
+#patagonia
+AZ AZ83 I-10 AZ82 #I-10 to sonoita
+AZ AZ82 AZ83 I-19BL #sonoita to nogales
+#mt graham & morenci
+AZ US70 US60 US191_N
+AZ US191 US70_W AZ366 #safford to az366
+AZ US191 US70_E FR12 #us70 to north of morenci
+AZ AZ366 US191 FR352 #us191 to shannon campground
+#fredonia (mohave)
+AZ AZ389 US89Alt SixMileRd
+#2021-12 casa grande ruins nm & tonto nm
+AZ AZ387 I-10 AZ87
+AZ AZ87 AZ387 AZ287_E
+AZ AZ287 AZ87_N AdaRd #to attaway road
+AZ AZ79 HuntHwy US60
+AZ AZ188 US60 AZ87
+#page (antelope canyon)
+AZ AZ98 US89 BIA222
+#denver
+NM I-25 226 CO I-25 214A #abq to ~denver
+#glendo
+CO I-25 216 WY I-25 111 #~denver to glendo
+WY WY319 ASt US18/20 #leaving glendo
+WY US20 WY319 NE US20 NE29 #to harrison
+NE NE29 US20 US26 #to mitchell
+NE US26 NE29 NE71_S #to scottsbluff
+NE NE71 US26_E CO/NE
+CO CO71 CO/NE CO14_W
+CO CO14 CO71_N CO52
+CO CO52FMo CO14 I-76
+CO I-76 80 1B #fort morgan to ~arvada
+#other denver
+CO I-70 274 284
+CO PenaBlvd I-70 Ter #airport
+#golden gate state park
+CO CO58 I-70 US6
+CO US6 CO58/93 CO119
+CO CO119 US6 SmiHillRd
+#yellowstone supplement
+AZ US89 I-40BL/180 UT US89 US6_W #flagstaff to ~spanish fork (2010)
+UT UT20 US89 I-15
+ID US20 I-15(118) MT US20 YelNP
+WY US89 YelNP US189/191_S #leaving yellowstone (2010) i think we took the 191 here
+WY US189 US26/89 UT/WY
+WY I-80 18 UT I-80 123 #I-80 to ~SLC
+#big sky & lewis and clark caverns
+MT US191WYe YelNP_S MT/WY
+WY US191Yel MT/WY WY/MT
+MT US191 WY/MT MT84/85
+MT MT85 US191 I-90
+MT I-90 298A 274
+MT US287 I-90 MT2_W
+MT MT2 US287_S LCCavRd
+#in yellowstone
+WY SEntRd US89/191 GraLoopRd
+WY GraLoopRd NEntRd_W NEntRd_E
+WY WEntRd MT/WY GraLoopRd
+MT WEntRd MT/WY US20/191
+WY NorCanRd GraLoopRd_W GraLoopRd_E
+#bryce canyon
+UT UT12 US89 UT63
+UT UT63 UT12 BryCanNP
+UT BryCynSceDr UT63 End
+#moab
+UT US6 I-15(257B) I-70(182)
+UT US191 I-70(182) AZ US191 US160_E
+AZ US160 US191_N US89
+UT MainParkRd US191 DevGarCam
+UT DelArchRd MainParkRd CacValRd
+#OK
+OK OK9 US62_E US77
+OK US77 MainSt_Nor MagRd
+OK US77 I-35(113) TecRd
+OK I-240 4A 1A
+OK I-44 115 116B
+OK US62 OK9_E I-44(115) #newcastle
+OK OK152 I-44 MerAve
+#dallas
+OK I-35 126 TX/OK
+TX I-35Gai TX/OK 467
+TX I-35E 467 428A
+TX I-635 27B 8
+TX I-30 56B 39
+#CA (incomplete)
+CA US101 VanNessAve_N CA255_S #SF to eureka
+CA CA37 US101 CA121 #sonoma
+CA I-15 115 141
+CA US395 I-15 CA120_W #I-15 to lee vining
+CA CA120Lee TestStaRd YosNP #mono lake to yosemite
+CA CA41 YosNP 126A #yosemite to fresno
+CA CA99 131 97 #fresno to visalia
+CA CA65 SprAve CA99 #visalia to bakersfield
+CA CA99 30 I-5(221)
+CA I-5 221 144
+#yosemite
+CA TioPassRd CA120 BigOakRd
+CA BigOakRd TioPassRd ElPorRd
+CA ElPorRd BigOakRd WawRd
+CA WawRd BriFalTr CA41
+#sequoia
+CA CA198 101 SeqNP
+CA GenHwy CA198 CreMeaRd #to sentinel tree
+#big bear
+CA CA38 GarAve PolCanRd #at least (at base), to cougar creek trail
+CA CA18 CA38_S CA330
+CA CA330 CA18 CA210
+CA CA210 81 45
+CA I-210 45 25
+CA CA134 13B 1A
+CA US101 13 19A
+CA I-405 63C 53B
+#menifee
+CA CA79Bea I-10 RamExpy_W
+#kolkon 2022
+CA US101 390 431 #ca87 to i280
+CA I-280 49B 12 #ca1 to ca85
+CA CA85 19A 2 #i280 to cottle
+CA CA17 26 20 #i880 to ca9
+CA CA9 CA17 CA35
+CA I-380 5A 6 #aaaa
+CA I-280 54 5thSt #us101 to downtown sf
+CA CA1 438(101) 49B(280) #us101 to i280
+CA CA87 1A 9
+CA I-880 3 I-280 #airport (is 3 right?) to i280
+#NM91 santa rosa lake
+NM US66HisSan I-40(275) NM91
+#NM91?
+#thunder bay (incomplete)
+ON ON17 SH590 SupShoRd #extend to ouimet canyon road
+#ON587 (sleeping giant)
+ON SH587 ON11/17 SH587_S
+#mount mckay?
+#transit through canada
+AB AB4 USA/CAN AB512 
+AB AB3 AB512_W AB23
+AB AB23 AB3 AB519
+AB AB519 AB23 AB2
+AB AB2 AB519 AB216(78) 
+AB AB216 AB2 25
+AB AB16 378 340
+AB AB43 AB16 BC/AB
+BC BC2 BC/AB BC97
+BC BC97 BC2 BC/YT
+YT BC97Con BC/YT YT/BC
+BC BC97Con YT/BC BC/YT
+YT BC97Lia BC/YT YT/BC
+BC BC97Lia YT/BC BC/YT
+YT BC97Yuk BC/YT YT/BC
+BC BC97Low YT/BC BC/YT
+YT YT1Wat BC/YT YT/BC
+BC YT1 YT/BC BC/YT
+YT YT1 BC/YT YT/AK
+#AK
+AK AK2 YT/AK AK11
+AK AK1 AK2 End
+AK HicPkwy AK1 TudRd
+AK AK3 AK1 AK2
+AK ParkRd AK3 StoHillOve #denali
+AK AK9 AK1 RaiAve #seward
+AK AK4 AK8 MeaAve #paxson to valdez
+AK AK10 AK4 McCarRd
+AK McCarRd AK10 KenRiv
+AK AK11 AK2 PipRd286 #south bonanza creek
+AK AK6 AK2 RivSt
+AK AK8 AK4 AK3
+#dempster
+AK AK5 AK2 AK/YT
+YT YT9 YT/AK GeoBlaFry
+YT YT2 GeoBlaFry YT5
+YT YT5 YT2 YT/NT
+NT NT8 YT/NT TetGwiRd
+#MO
+MO I-29 13 8
+#HI
+HI HI19 KeaAirRd HI11/190
+HI HI190 KuaHwy HI19
+HI HI19 HI190 HI270
+HI HI270 HI19 PuuHeiNHS
+HI HI200 HI190 HI2000
+HI HI2000 HI200 KomSt
+HI HI19 HI11 HI220 
+HI HI220 HI19 AkaFalSP
+HI HI11 HI19 HI19/190
+HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
+HI HI139 HI11 HI130
+HI HI130 HI139 CR132 #to leilani estates
+HI ChaCraRd CraRimDr HolSeaArch
+#HI HI160 HI11 PuuHonNHP #HI160 removed
+#WA
+WA AirExpy Ter WA518
+WA WA518 AirExpy I-5
+WA I-405 I-5(154) 13B
+WA I-90 10 WA519
+WA I-5 132 169
+WA WSeaBri 4thAve I-5(163A)
+WA WA167 I-405 WA161/512
+WA WA161 WA512/167 WasAve #center street/alder cutoff road
+WA WA7 AldCut WA706
+WA WA706 WA7 MouRaiNP
+WA SteCynRd WA706 ParVlyRd_N
+WA SteCynRd ParVlyRd_S WA123
+WA WA123 US12 WA410
+WA WA410 WA123 WA164
+WA SunParkRd WA410 Sun
+WA WA164 WA410 WA18
+WA WA516 WA515 I-5 #military rd s
+WA WA520 WA513 84thAve
+WA WA16 I-5 WA3
+WA WA3 WA16 WA104
+WA WA104 WA3 US101
+WA US101 WA104 US12
+WA HurRidRd ParkAve End
+WA UppHohRd US101 HohVisCen
+WA WA110 US101 OlyNP
+WA WA110SprMor WA110 OlyNP
+WA US12 US101 WA8
+WA WA8 US12 US101
+WA US101 WA8 I-5
+WA I-5 104 63
+WA WA505 I-5 WA504
+WA WA504 WA505 HumBouTrl #coldwater lake rd
+WA US12 TucRd WA123
+WA WA18 WA164 WA167
+#atlanta/gsm
+GA I-85 72 113
+GA I-75 165 GA/TN
+TN I-75 GA/TN 84
+TN I-40 368 386
+TN I-40 389 407
+TN TN66Sev I-40 US411/441
+TN US441 US411_N US321_E #to river rd
+TN US441 AirRd NC/TN
+NC US441 NC/TN GA/NC
+TN TN449 US321/441 ColDr
+#TN GatByp US321/441 (CampbellLeadRd)
+#TN US321 (RoaringForkRd) US441_S
+GA US23 GA/NC I-985(24)
+GA I-985 24 I-85
+GA US19 14thSt GA13
+GA GA13 US19 LenRd
+GA GA141 GA141Con GA237
+GA GA141ConAtl GA237 GA141
+GA GA400 2 1A
+GA I-16 1 2
+GA US129 I-16 US129Alt_N #to hall st
+GA US80 JefRd I-16
+GA I-20 57 55A
+GA GA237 GA141 GA141Con
+GA GA237 SidMarBlvd GA13
+GA GA166 LakAve I-285
+GA I-285 5 62A
+GA I-85 68 71
+#eclipse
+MEX-JAL MEX200 BlvdMedAsc_S NAY/JAL
+MEX-NAY MEX200 NAY/JAL MEX200D_Buc
+MEX-NAY MEX200D MEX200_Buc MEX200_Mon
+MEX-NAY MEX200 Say NAY16
+#need to add MEX-NAY NAY16 ?
+MEX-NAY MEX76Ixt IxtCon_S MEX76
+MEX-NAY MEX76 Var MEX12
+MEX-NAY MEX12 MEX76 MEX74
+MEX-NAY MEX74 MEX12 SanBlas
+MEX-NAY MEX76D MEX12 MEX15D
+MEX-NAY MEX15DEsc MEX15_S NAY/SIN #need new breakpoint at MEX76D
+MEX-SIN MEX15D NAY/SIN MEX15DMaz
+MEX-SIN MEX15Maz AveRafBue AveEjeMex_S #first breakpoint should be at avenida del delfin
+MEX-NAY MEX200Mit Say MEX200
+#iceland
+ISL TH41 KefFlu TH49
+ISL TH43 TH41 TH426
+ISL TH426 TH43 BlaLon
+ISL TH411 LinVeg TH41
+ISL TH42 TH41 TH427
+ISL TH427 TH42 ThorSta #not this far, only to P1 where the road closure is
+ISL TH40 TH41_S LauVeg
+ISL TH49 TH40 TH1
+ISL TH1 TH49_N TH36
+ISL TH36 TH1 TH365
+ISL TH365 TH36 TH37
+ISL TH37 TH365 TH35_N
+ISL TH35 TH1 Gey
+ISL TH1 TH35 TH413
+ISL TH413 TH1 TH41
+#switzerland/liechtenstein
+CHE H13 H3_W H433.2 #from sargans banhof to 433.2 (turn off to balzers, li), technically detoured from rheinstrasse to vilderweg
+LIE GTS Ege LettStr #from balzers to vaduz post
+#new utah 2025
+UT I-80 4 120
+UT UT154 TerDr I-80
+UT UT145 I-15 US89
+UT US89 UT73 UT145 #really some exit of the shopping center
+UT UT279 US191 End
+UT IslSkySceDr UT313 End #canyonlands
+UT UT313 IslSkyRd LitCanRd
+UT I-70BLGre I-70_W BroSt
+UT I-70 157 56
+UT UT9 I-15 ZionCan
+UT ZionCynDr UT9 End #zion
+NV I-11 76 75A
+
+#CA
+#thunder bay
+#prescott?
