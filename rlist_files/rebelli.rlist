@@ -24,11 +24,13 @@ MD SilLnNew NewCar DC/MD
 
 # New Jersey
 NJ NENor NJ/NY PA/NJ
+NJ NJerCoaLn Woo Rah
 
 # New York
 NY NECorLn NY/NJ PennSta
+NY 1 66StLinCen SouFry
 NY B 47-50StsRocCen DeKAv
-NY E CouSq23St 34StPennSta
+NY E CanSt 34StPennSta
 NY G HoytSchSts CouSq
 
 # Pennsylvania
@@ -36,8 +38,7 @@ PA NENor DE/PA PA/NJ
 
 # Virginia
 VA BluLn VA/DC PenCity
-VA YelLn PenCity VA/DC
-VA YelLn RRWasNatAir KingStOldTown
+VA YelLn VA/DC KingStOldTown
 
 #### India ####
 # Delhi
