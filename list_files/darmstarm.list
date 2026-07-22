@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-14-26
+#everywhere that darmstarm has been up to 7-21-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-14-26.
+#last updated 7-21-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -538,8 +538,8 @@ NY I-287 NJ/NY 9 #home -> poughkeepsie 7-19-26
 NY I-390 I-86 6 #canada trip 6-26
 NY I-495 2ndAve 14 #medieval times trip
 NY I-684 6 9 #home -> poughkeepsie 7-19-26
-NY US9W US6/202 NY218 I-84 #west point trip, late 2010's
-NY US9W US44_E #poughkeepsie -> home 7-19-26
+NY US9W US6/202 NY218 #west point trip, late 2010's
+NY US9W US44_E I-84 #poughkeepsie -> home 7-19-26
 NY US15 PA/NY I-99(13) #canada trip 6-26
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen NY36_S NY400 #canada trip 6-26
@@ -601,16 +601,18 @@ NJ NJ31 I-295 EwiRd #college of new jersey
 NJ NJ33 NJ34/547 NJ133 #wall -> home 5/26
 NJ NJ34 I-195 NJ33_W #wall -> home 5/26
 NJ NJ38 US30/130 HarRd #grandparents, as well as grandparents -> temple
+NJ NJ41 NJ70 ChaAve #medford -> home 7-21-26 (wrong way smh)
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
-NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
+NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
+NJ NJ154 NJ70 CR561 #medford -> home 7-21-26
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
 NJ NJ495 I-95 NJ/NY #medieval times trip as well as an earlier trip with business friends + family
