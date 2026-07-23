@@ -63,8 +63,7 @@ MN I-35Far IA/MN 55     # IA/MN I-35BLFar
 IA I-35 MO/IA IA/MN     # IA Clinched
 MO I-35 16 MO/IA        # MO152 MO/IA
 KS I-35 225B 231        # US69 I-635
-TX I-35E 437 440        # TX12 I-635
-TX I-35E 445 448        # GeoBushTpk Hebron Pkwy
+TX I-35E 429B 465B      # Continental Ave US377
 TX I-35E 428B 428C      # I-30 Commerce St
 TX I-35 158 173         # I-37 Olympia Pkwy
 TX I-35 151 155B        # Nueva St Southcross Blvd
@@ -353,7 +352,8 @@ MO I-635 KS/MO 12
 KS I-635 1A KS/MO
 
 # I-635 (TX)
-TX I-635 19B 27B        # Microcenter I-35E
+TX I-635 19A 27B
+TX I-635 33 36
 
 # I-664 (VA) - Clinched
 VA I-664 1 15
@@ -523,7 +523,7 @@ NC US74 I-40(27) I-85(10B)
 NC US74 HarBlvd 253
 
 # US75
-TX US75 I-635 GeoBushTpk
+TX US75 I-635 AllDr
 
 # US76
 GA US76 GA5/515 GA60
@@ -1458,7 +1458,7 @@ TN FooPkwyCos US321 I-40
 ## Texas ##
 
 # TX Loop 12
-TX TXLp12 TXSpr348 UniBowRd
+TX TXLp12 TXSpr348 I-30(38)
 
 # TX Loop 13
 TX TXLp13 I-35 PleRd
@@ -1469,9 +1469,14 @@ TX TX16 I-410(13A) TX173_C
 # TX27
 TX TX27 RM783 TXLp534
 
+# TX114
+TX TX114 TX121_S TX121_N
+TX TX114 BeltLineRd TX183
+
+
 # TX121
-TX TX121BusLew TX121_S CorDr
 TX TX121 I-820(22) TX121BusLew_S
+TX TX121 OhioDr AlmaDr
 
 # TX151
 TX TX151 TXLp1604 I-410/16
@@ -1481,7 +1486,7 @@ TX TX173 TX16_C TXLp534
 
 # TX183
 TX TX183 I-820(22) TX121_N
-TX TX183 TX360 CarlRd
+TX TX183 TX360 I-35E
 
 # TX218 - Not actually clinched but have parts of each segment
 TX TX218 I-35 FM78
@@ -1490,7 +1495,7 @@ TX TX218 I-35 FM78
 TX TXSpr348 TXLp12 I-35E
 
 # TX360
-TX TX360 I-20 TX183
+TX TX360 I-20 TX121
 
 # TX Loop 368
 TX TXLp368 WalRd I-410
@@ -1502,10 +1507,17 @@ TX TXSpr471 LostLn TX16
 TX TXLp534 TX173 TX27
 
 # TX Loop 1604
-TX TXLp1604 TX151 TX218
+TX TXLp1604 TX151
+
+# Dallas North Tollway
+TX DalNorTlwy I-635 CotGinRd
 
 # George Bush Turnpike
 TX GeoBushTpk I-35E US75
+TX GeoBushTpk I-30(32) TX183
+
+# Business Loops
+TX TX121BusLew TX121_S CorDr
 
 
 ## Utah ##

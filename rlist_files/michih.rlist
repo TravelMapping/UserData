@@ -1,10 +1,23 @@
-# Date: 2026-06-14
+# Date: 2026-07-13
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+DEU-BE S7 NikSee AlePla                                         #2026
+DEU-BE S15 GesBru Hbf                                           #2026
+DEU-BE S25 BornHolStr GesBru                                    #2026
+DEU-BE S25 FriStr PotPla                                        #2026
+DEU-BE S85 AdlHof DEU-BB S85 FlugHafBER                         #2026
+DEU-BE FEX BerHbf DEU-BB FEX FlugHafBER                         #2026
+DEU-HH RB61 HamBurgHbf DEU-SH RB61 Itz                          #2026
+DEU-SH RE6 Itz Hus                                              #2026
+DEU-SH RE74 KielHbf Hus                                         #2026
+DEU-SH RB84 KielHbf LubHbf                                      #2026
+DEU-SH RE83 LubHbf KielHbf                                      #2026
+DEU-HH RE70 HamBurgHbf DEU-SH RE70 KielHbf                      #2026
+CHE S7Gal Rom Ror                                               #2026, actually traveled S7 from Lindau Insel to Rorschach, but we don't have that in RB
 NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
 #NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
 NLD AmsDis AmsCen +DIV_Slo                                      #2026, actually traveled as intercity connection Den Haag - Amsterdam
@@ -589,21 +602,36 @@ DEU-BY 5Wur BerPla_1 RotBau            #2025
 DEU-BE U1 WitBergPla MocBru            #2018
 DEU-BE U1 UhlStr WarStr                #2024
 DEU-BE U2 RuhLeb Pan                   #2024
+DEU-BE U3 KruLan GleDre                #2026
 DEU-BE U4 NolDorfPla InnsBruPla        #2024
 DEU-BE U5 Hbf Honow                    #2024
 DEU-BE U6 LeoPla AltMarDorf            #2024
 DEU-BE U7 RatHausSpa Rud               #2018-24
 DEU-BE U8 Wit HerStr                   #2024
 DEU-BE U9 OslStr RatHausSte            #2024
+DEU-BE M1 SchHauAllBornHolStr SHacMar  #2026
+DEU-BE M1 +DIV_Cha1 KupGra             #2026
+DEU-BE M1 +DIV_Cha2 SUFriStr_2         #2026
 DEU-BE M1 +DIV_Sch SHacMar             #2025, actually traveled as rerouted M5
 #DEU-BE rer. M5 +DIV_Sch URosaLuxPla   #2025, actually traveled as rerouted M5 via Weinmeisterstraße
+DEU-BE M2 HeiDorf AlePla               #2026
+DEU-BE M4 SUAlePla AntPla              #2026
 DEU-BE M5 +DIV_Hbf1 LuneBurStr         #2025
 DEU-BE M5 +DIV_Hbf2 SHacMar            #2025
 DEU-BE M5 MollStrOttoBraStr ZinStr     #2025
+DEU-BE M6 SHacMar UAlePla              #2026
 DEU-BE M6 OderBruStr RieStr            #2024
-DEU-BE M8 URosaLuxPla OttoBraStr       #2025, actually traveled as rerouted M5
+DEU-BE M8 ClaJasStr BerBasStr          #2026
 DEU-BE M10 TurmStr BerPla              #2025
-DEU-BE M13 JesStr SWarStr              #2025
+DEU-BE M10 UFraFurTor SUWarStr         #2026
+DEU-BE M13 PreAllOstSeeStr SWarStr     #2025/26
+DEU-BE M17 RhinStrGarStr SAdlHof       #2026
+DEU-BE 12Ber +DIV_Cha2 KupGra          #2026
+DEU-BE 12Ber +DIV_Cha1 SNordBf         #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
+DEU-BE 12Ber PreAllOstSeeStr PasPla    #2026, 12 was rerouted between SNordBf to PreAllOstSeeStr
+DEU-BE 21Ber FrePla HolStr             #2026
+DEU-BE 27Kop PasPla RhinStrGarStr      #2026
+DEU-BE 50Ber VirKli GuyStr             #2026
 DEU-BE 61Rah SAdlHof SchPlaKop         #2023, started at Adlershof's loop west of the S Bahn station though
 DEU-BE 62Kop RatHausKop WenSch         #2023
 DEU-BE 63Adl BahnHofStrLinStr KolPla   #2023, via Rathaus Köpenick
@@ -639,8 +667,7 @@ DEU-HH S3 SH/HH NeuGra                                                          
 DEU-HH S5 ElbGauStr HH/NI                                                                      #2023
 DEU-NI S5Hor HH/NI Sta                                                                         #2023
 DEU-HH S1 Bla Ohl                                                                              #2020/23
-DEU-HH S2 HolStr BerDorf                                                                       #2023, actually traveled as S2
-DEU-HH S7 BerDorf HH/SH                                                                        #2023, actually traveled as S2 (renumbered Dec 2025)
+DEU-HH S7 +DIV_Lp HH/SH                                                                        #2023, actually traveled as S2
 DEU-SH S7 HH/SH AuMuh                                                                          #2023, actually traveled as S2 (renumbered Dec 2025)
 DEU-HH RE5 HarBurg HH/NI                                                                       #2023, RE5, different routing in Harburg than S3
 DEU-NI RE5 HH/NI Sta                                                                           #2023, RE5, different routing in Harburg than S3
@@ -1202,19 +1229,16 @@ NLD 51Ams StaZuid Isl                 #2026
 NLD 52Ams Noo StaZuid                 #2026
 NLD 53Ams CenSta Gaa                  #2026
 NLD 1Ams Mat MeerVaa                  #2026
-NLD 1Ams 1CHuy +DIV_2512              #2026, actually traveled as rerouted line 17 
 NLD 2Ams Mus Oud                      #2026
-NLD 2Ams CenSta +DIV_512              #2026, actually traveled as line 24
-NLD 3Ams Cle Kin                      #2026, actually traveled as rerouted line 19
 NLD 5Ams VanHal +SKIP_Mar             #2026, Marnixplein was not skipped!
 NLD 5Ams RoeHar Sta                   #2026
 NLD 7Ams Wes Slo                      #2026, actually traveled to Roetersstraat but the last tiny segment is currently not in RB
 NLD 12Ams FreHen Amss                 #2026
 NLD 13Ams Zou LamZij                  #2026 from Zoetkeetsgracht to Lambertus Zijplein
 NLD 14Ams CenSta Fle                  #2026
-NLD 17Ams Bil Dij                     #2026
+NLD 17Ams CenSta Dij                  #2026
 NLD 19Ams StaSlo Mui                  #2026, traveled to (east of) Muinderpoortstation, diverted bn Bild and Ela
-NLD 24Ams CenSta +DIV_117             #2026
+NLD 24Ams CenSta Sta                  #2026
 NLD 25Ams Fle UitCen                  #2026
 
 #Rotterdam

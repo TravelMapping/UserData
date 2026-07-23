@@ -1,0 +1,44 @@
+#Stambanor
+SWE StoGot StoCen Got   	#1  Västrastambana
+SWE F1 Arv StoCen       	#12 Värmlandsbanan
+
+
+
+#Pendeltåget
+SWE 40Sto ArlCen Tul		#Linje 40 Gnesta - Uppsala
+SWE 41Sto SolTuna Tul		#Linje 41 Södertälje - Märsta
+SWE 42Sto SolTuna Alv		#Linje 42 Nynäshamn - Märsta
+
+#Tunebanan
+SWE 10Sto Duv KunGar    	#Blå linje 10
+SWE 11Sto Kis KunGar    	#Blå linje 11
+SWE 13Sto Gar OrnsBerg  	#Röd linje 12
+SWE 14Sto Lil MorCen		#Röd linje 13
+SWE 17Sto ThoPlan GulPlan       #Grön linje 17
+SWE 18Sto ThoPlan SkoGar        #Grön linje 18
+SWE 19Sto ThoPlan Glo		#Grön linje 19
+
+#Spårväg city
+SWE 7Sto TCen BelWal		#Spårväg City
+
+#Tvärbanan
+SWE 30Sto NorUlv Sic		#Linje 30 Sickla-Solna
+SWE 31Sto BroFly AlvStr		#Linje 31 Alvik-Bromma flygplats
+
+#Saltsjöbana
+SWE 25Sto SalJar Sto		#Linje 25 Slussen - Saltsjöbaden
+
+#Roslagsbana
+SWE 27Sto StoOst Val		#Linje 27 Stockholm Östra - Kårsta
+
+
+
+
+
+
+
+
+
+
+
+
