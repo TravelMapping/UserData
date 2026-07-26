@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-21-26
+#everywhere that darmstarm has been up to 7-26-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-21-26.
+#last updated 7-26-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -65,6 +65,7 @@ DE DE896 US13 DE71_S #henlopen -> home 7-5-26
 #pennsylvania
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
+PA I-76 342 347 #dell concert 7-26
 PA I-78 71 55 #poughkeepsie -> home 7-19-26
 PA I-80 123 111 #niagara trip
 PA I-80 298 302 #tobyhana trip
@@ -85,6 +86,7 @@ PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
 PA US11 I-76 PA641_W #xc meet at carlisle high school, 2021
+PA US13 RidAve_S I-76/30 #dell concert 7-26
 PA US15 US11/581 MD/PA #hershey -> raleigh
 PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
@@ -144,6 +146,7 @@ PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
 PA PA261 DE/PA PA491 #wilmington -> home 6/26
 PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
 PA PA283 I-283 US30
+PA PA291 26thSt I-95(13A) #dell concert 7-26
 PA PA309 I-81(170) HilRd #ricketts glen trip 2018
 PA PA340 PA772_E PA462
 PA PA345 PA82 ParkRd #french creek
