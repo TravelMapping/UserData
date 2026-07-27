@@ -897,7 +897,6 @@ DE DE404BusBri FedRd US13Bus_N
 DE DE491 DE92 DE/PA
 DE DE896 DE1 DE/MD
 DE PunRunCon US13 DE1
-PA BetRossBri I-95 PA/NJ
 PA HarTayBri US11/15_S FroSt
 PA PreBidExpy I-81 US11/307
 NJ AtlCityExpy BalAve 44
@@ -923,7 +922,18 @@ NY SawMillPkwy 22 I-684
 NY NiaScePkwyNia I-190 JohnDalyBlvd
 FL FLTpk 244 259
 CO PenaBlvd I-70 Ter
+PA PorColBri PA611 PA/NJ
+NJ PorColBri PA/NJ US46
+PA UhlFreBri PA32 PA/NJ
+NJ UhlFreBri PA/NJ NJ29
+PA CBSBri PA32 PA/NJ
+NJ CBSBri PA/NJ NJ29
+PA WasCroBri PA32/532 PA/NJ
+NJ WasCroBri PA/NJ NJ29
+PA BetRossBri I-95 PA/NJ
+NJ BetRosBri US130 NJ/PA
 MD NatRd MD808 I-70(68)
+MD SBTrlBal MD2_N PreSt_N
 NY SeaTrl NY179 TifSt
 NY SeaTrl FuhBlvd I-190(7)
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd
@@ -935,6 +945,8 @@ PA LinHwy US30_McCE PA75
 PA LinHwy US30_ForE US30_FayW
 PA LinHwy US30_FayE US30_OrtW
 PA LinHwy PA116_E MouRd
+PA LinHwyMor PA32 PA/NJ
+NJ LinHwy PA/NJ US1
 IL LinHwy WesAve US6_E 
 VA VA2 US1 I-95(82)
 VA VA2 ParRd I-295
