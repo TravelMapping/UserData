@@ -548,7 +548,7 @@ JPN KagoshimaLnN JA31 00
 #Hiroshima
 JPN SanyoLn W14/X14 X20/G16
 JPN SanyoLn G01/R01 R10
-JPN Hiroden2 M4 M39
+JPN Hiroden2 M1 M38
 
 # HONG KONG
 #HK Tramways
@@ -606,8 +606,16 @@ TWN GreLn G12 G18
 
 
 #CHINA
+#HSL
 CHN-GX LanGuang +DIV_GuiLinN GX/GD
 CHN-GD LanGuang GX/GD GuangZhouS
-
+CHN-BJ JingJin BeiJingS CHN-TJ JingJin TianJin
 CHN-GD GuangShenGang GuangZhouS ShenZhenN
 
+#Metro
+CHN-BJ 1 PingGuoYuan TianAnMenE
+CHN-BJ 2 QianMen DongZhiMen
+CHN-BJ 4 BeiGongMen XiDan
+CHN-BJ XijiaoLn BaGou FraHil
+CHN-BJ S1 PingGuoYuan ShiChang
+CHN-BJ CapAirExp DongZhiMen +DIV_23

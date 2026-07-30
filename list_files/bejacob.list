@@ -3765,6 +3765,16 @@ ON AmbBri ON3 MI AmbBri I-75/96
 ON LewQueBri ON405 NY LewQueBri I-190
 ON PeaBri QEW NY PeaBri I-190
 
+#USA Select Inter-State Bridges
+KY ColBri US23 OH ColBri US52Bus
+OR HooRivBri I-84 WA HooRivBri WA14
+OR LewClaBri US30 WA LewClaBri WA432
+PA LCHBri WinRd NY LCHBri NY97
+VT GuiBri VT102 NH GuiBri US3
+WA BriGod WA14 OR BriGod US30
+WV EHunBri US60 OH EHunBri OH7
+WV WilBri WV14 OH WilBri OH7
+
 #US Select Named Freeways usasf
 AK HicPkwy AK1 TudRd
 AZ SkyHarBlvd I-10 AZ202
