@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-26-26
+#everywhere that darmstarm has been up to 7-31-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-26-26.
+#last updated 7-31-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -62,6 +62,7 @@ DE DE299 DE15_S DE9 #henlopen -> home 7-5-26
 DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
 DE DE896 DE/MD DE71_S #antiq.
 DE DE896 US13 DE71_S #henlopen -> home 7-5-26
+DE DE896BusGla DE896_N US40 #glasgow movie theater
 #pennsylvania
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
