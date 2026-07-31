@@ -1,3 +1,10 @@
+# **Intercity Rail**
+# Amtrak
+CO CZ UniSta CO/NE
+IA CZ NE/IA IA/IL
+IL CZ IA/IL UniSta
+NE CZ CO/NE NE/IA
+
 # **Commuter Rail**
 # Denver, CO
 CO ALn UniSta DenAir
@@ -22,6 +29,9 @@ VA BluLn Pen VA/DC
 VA OraLn +DIV_Blue VA/DC
 VA SilLn +DIV_Blue VA/DC
 VA YelLn Pen VA/DC
+
+# Chicago, IL
+IL BlueLn Cli UICHal
 
 # Las Vegas, NV
 NV LVM MGMGra SLS
