@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-31-26
+#everywhere that darmstarm has been up to 8-1-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-31-26.
+#last updated 8-1-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -108,6 +108,7 @@ PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
+PA US322 PA897_N PA82 #road trip 8-1-26
 PA US322BusWes PA3 PA52 #wall -> home 5/26, friend trips
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
@@ -117,6 +118,7 @@ PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
 PA PA14 US15 LibSt #canada trip 6-26 (br stop)
 PA PA23 PA100 PA345 #poughkeepsie -> home 7-19-26
+PA PA23 PA625 PA897_S #road trip 8-1-26
 PA PA26 UniDr US322
 PA PA29Pho PhoPike BriSt_W #senior prom, 2022
 PA PA29Pho I-78 PA100_S #poughkeepsie -> home 7-19-26
@@ -133,6 +135,7 @@ PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA74 MD/PA PA425_S #lock 12 trip 7-26
 PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA82AltTrkCoa PA82_N PA82_S #poughkeepsie -> home 7-19-26
+PA PA82AltTrkEas PA82_N SprRd #road trip 8-1-26
 PA PA100 PA29_S PA23 #poughkeepsie -> home 7-19-26
 PA PA113 US30 DevDr #downingtown east
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
@@ -146,6 +149,7 @@ PA PA248 PA33 US22 #poughkeepsie -> home 7-19-26
 PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
 PA PA261 DE/PA PA491 #wilmington -> home 6/26
 PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
+PA PA272 PA897 US222/568 #road trip 8-1-26
 PA PA283 I-283 US30
 PA PA291 26thSt I-95(13A) #dell concert 7-26
 PA PA309 I-81(170) HilRd #ricketts glen trip 2018
@@ -166,9 +170,11 @@ PA PA462 US30_E GreRd #awesome video game store
 PA PA472 PA841 PA372 #oxford, clinched 5-28-26
 PA PA487 PA118_E MainParkRd #ricketts glen trip 2018
 PA PA491 PA261 US202 #wilmington -> home 6/26
+PA PA568 US222/272 PA625 #road trip 8-1-26
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 GirAve #go birds (various trips)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
+PA PA625 PA568 PA23 #road trip 8-1-26
 PA PA641 US11/34 OraSt_N #xc meet at carlisle high school 2021
 PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
@@ -183,6 +189,7 @@ PA PA842 US322Bus PA841 #common, extended to west chester 5/26, clinched 7-3-26
 PA PA851 PA425 ConRd #lock 12 trip 7-26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
+PA PA897 US30 PA272 #road trip 8-1-26
 PA PA926 PA841 US202/322 #pocopson to 202
 PA PA948 PA120 PA666 #niagara falls trip
 PA PA970 US322 I-80 #niagara falls trip
