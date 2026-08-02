@@ -1,3 +1,14 @@
-CA I-15 6B CA/NV
-CA CA56 1A 9
-CA I-5 5A 446
+#Update 1
+CA I-15 6B CA/NV #ElyTrip
+CA CA56 1A 9 #Home
+CA I-5 5A 446 #BayAreaTrip
+
+#Update 2
+CA CA163 1A I-15 #Home
+CA I-805 20B I-5(31) #Home
+CA I-8 SunCliBlvd AZ I-8 115 #Home to Phoenix
+AZ AZ85 I-8BL_W I-10 #Phoenix
+AZ AZ202 1A 13 #PeoriaTrip
+AZ AZ202 71 78 #PhxTrip
+CA I-10 106 AZ I-10 147 #PhxTrip and PeoriaTrip and MallAirportTrip
+CA I-10 21 104
