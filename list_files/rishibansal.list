@@ -1,14 +1,63 @@
-#Update 1
-CA I-15 6B CA/NV #ElyTrip
+#Update 1 Testing
+CA I-15 6B CA/NV #Ely
 CA CA56 1A 9 #Home
-CA I-5 5A 446 #BayAreaTrip
+CA I-5 5A 446 #BayArea
 
-#Update 2
+#Update 2 San Diego
 CA CA163 1A I-15 #Home
 CA I-805 20B I-5(31) #Home
-CA I-8 SunCliBlvd AZ I-8 115 #Home to Phoenix
-AZ AZ85 I-8BL_W I-10 #Phoenix
-AZ AZ202 1A 13 #PeoriaTrip
-AZ AZ202 71 78 #PhxTrip
-CA I-10 106 AZ I-10 147 #PhxTrip and PeoriaTrip and MallAirportTrip
-CA I-10 21 104
+CA I-8 SunCliBlvd AZ I-8 115 #HomePhx
+AZ AZ85 I-8BL_W I-10 #Phx
+AZ AZ202 1A 13 #Peoria
+AZ AZ202 71 78 #Phx
+CA I-10 106 AZ I-10 147 #PhxPeoria
+CA I-10 16A 104 #MallLAXBstw
+
+#Update 3 SoCal
+CA CA1 I-5 CA19
+CA CA1 1A(10) 70A(101)
+CA CA52 1A 18B #Home
+CA CA73 I-5 18 #UCLA
+CA CA74 CA243 PalmDesLim
+CA CA75 I-5(5A) I-5(14A) #Home
+CA CA76 OldGroRd CA79 #PLMR
+CA CA78 1A Bro_N #Home
+CA CA78 CRS6 CA79_S #HomeJuln
+CA CA79 I-8 I-15(61) #JlnEly
+CA CA94 9B ForGateRd
+CA CA94 ShoTruTr OldHwy80_W
+
+#Historic
+CA US66HisBar I-15(150) AmbRd #TchpiBstw
+CA US101HisSan BeaSt PacHwy_N
+CA US101HisSan I-8 IngSt
+CA US101HisSan GraAve LeuBlvd
+CA US395HisPow CRS4 I-15(26)
+CA US395HisTem I-15(28) GraAve_Esc
+CA US395HisTem CRS14 CA78
+CA US395HisTem GopCynRd I-15(43)
+CA US395HisTem LilRd CA76
+CA US395HisTem RaiVlyBlvd I-15(58)
+
+CA I-105 1A 18 #LAXLBC
+CA I-215 I-15 54B #Tchpi
+CA I-405 I-5(94A) 57A #UCLA
+CA I-710 8 22 #LAXLBC
+
+CA CA243 CA74 LinSt_E
+
+#LBC Bstw
+CA CA60 66 I-10(93)
+CA CA62 I-10 ParkBlvd
+CA CA91 36 50
+CA CA91 53 65B
+CA CA210 67 74
+CA CA371 CA79 CA74
+CA I-40 I-15 50
+CA I-110 1A 9
+CA I-605 9B 11
+CA I-710 1 3
+
+#National Parks
+CA ParkBlvd CA62_W BasRd #JoshuaTree
+
