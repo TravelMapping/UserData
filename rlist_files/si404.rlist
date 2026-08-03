@@ -282,6 +282,7 @@ MI ExpTram SouSta NorSta
 ##DEU: Frankfurt Airport, Bensheim, Heidelberg Hbf
 ##ITA: Bergamo, Lecco, Cairoli
 ##CA Del Mar, Union Station
+##CAN: Waterfront, VCC-Clark, Main Street-Science World
 ##Changed trains only##
 ##ENG
 ###London Area: Moor Park, Rayners Lane, Stanmore, Bermondsey, Canada Water, Acton Town, Barons Court, Finsbury Park, Greenford, Ealing Broadway, Mile End, Leyton, Epping, Harrow & Wealdstone, Willesden Junction, West Brompton, Whitechapel, Barking, Upney, West Ealing, Shenfield, Hampstead, Mill Hill East, Kentish Town, Kennington, Stockwell, Morden, Brixton, Walthamstow Central, Gospel Oak, Hackney Downs, Hackney Central, Dalston Junction, New Cross, Clapham Junction, Crystal Palace, Shadwell, Limehouse, Greenwich, King George V, Beckton, Hayes, Dartford
@@ -289,5 +290,6 @@ MI ExpTram SouSta NorSta
 ##SCT: Glenfinnan, Arisag
 ##DEU: Frankfurt Hbf
 ##ITA: Duomo, Milano Centrale, Centrale
+##CAN: YVR-Airport, Bridgeport, Richmond-Brighouse, King George, Columbia, Lougheed Town Centre, Lafarge Lake-Douglas
 
 
