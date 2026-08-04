@@ -2793,9 +2793,11 @@ PA HarTayBri US11/15_S FroSt
 PA PreBidExpy I-81 US11/307
 PA LinHwy BraAve MouRd
 PA NatRd WV/PA PA/MD
+PA PorColBri PA611 PA/NJ
 PA RivRd BroSt US209
 PA SeaTrl OH/PA PA/NY
 PA SeaTrlPre PA5Alt MarDr
+PA UhlFreBri PA32 PA/NJ
 #New Jersey
 #Interstates
 NJ I-76 PA/NJ 1A
@@ -2929,6 +2931,7 @@ NJ NJ495 I-95 NJ/NY
 #Other
 NJ AtlCityExpy BalAve 44
 NJ AtlBriCon AtlCityExpy NJ87
+NJ CBSBri PA/NJ NJ29
 NJ GarStaPkwy 0 NJ/NY
 NJ NJTpk I-295(1) 72(95)
 NJ PalIntPkwy I-95 NJ/NY
@@ -3322,6 +3325,7 @@ NY BearMtnPkwyYor US202 TacStaPkwy
 NY BeltPkwy I-278 25
 NY BerCon I-87 B2
 NY BroRivPkwy 1(S) TacStaPkwy
+NY CocDamBri PA/NY NY97
 NY CroCouPkwy 1 HutRivPkwy
 NY CroIslPkwy 25A 36
 NY GarStaPkwy NJ/NY I-87/287
@@ -3600,6 +3604,7 @@ WV WV892 WV68_S US50/68
 WV WV901 WV9 US11
 WV WV956 MD/WV WV28
 #Other
+WV MouBri OH/WV WV2
 WV NatRd OH/WV WV/PA
 #Kentucky
 #Interstates
