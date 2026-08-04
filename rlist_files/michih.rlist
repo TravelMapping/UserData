@@ -1,4 +1,4 @@
-# Date: 2026-08-02
+# Date: 2026-08-03
 # ----------------
 
 ######################
@@ -1075,6 +1075,7 @@ FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
 
 #Rennes
+FRA-BRE ma Pot JFKen                  #2026
 FRA-BRE mb StJacGai CesVia            #2026
 
 #Orleans
