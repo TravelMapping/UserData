@@ -851,8 +851,9 @@ ON ONQEW 0 139
 ON GarExpy 139 LakeShoBlvdE
 ON DonValPkwy GarExpy ON401/404
 ON LinAlePkwy ON403 RedHillPkwy
+ON NikTesBlvd BurSt QEW
 ON RedHillPkwy LinAlePkwy QEW
-ON AllRd ON401 TraRd
+ON AllRd EglAve TraRd
 ON ECRowExpy OjiPkwy BanRd
 ON RR174 ON417 RR57
 # also traveled non-freeway segment, and continuing on CR17 to end
