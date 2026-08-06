@@ -1,10 +1,13 @@
-# Date: 2026-07-13
+# Date: 2026-08-05
 # ----------------
 
 ######################
 ####   RAILWAYS   ####
 ######################
 
+FRA-BRE ParQuiRen Ren FRA-BRE ParQui Qui                        #2026
+#FRA-BRE TER Qui Bre                                            #2026
+FRA-BRE ParBre Ren Bre                                          #2026
 DEU-BE S7 NikSee AlePla                                         #2026
 DEU-BE S15 GesBru Hbf                                           #2026
 DEU-BE S25 BornHolStr GesBru                                    #2026
@@ -616,8 +619,7 @@ DEU-BE M1 +DIV_Sch SHacMar             #2025, actually traveled as rerouted M5
 #DEU-BE rer. M5 +DIV_Sch URosaLuxPla   #2025, actually traveled as rerouted M5 via Weinmeisterstraße
 DEU-BE M2 HeiDorf AlePla               #2026
 DEU-BE M4 SUAlePla AntPla              #2026
-DEU-BE M5 +DIV_Hbf1 LuneBurStr         #2025
-DEU-BE M5 +DIV_Hbf2 SHacMar            #2025
+DEU-BE M5 LuneBurStr SHacMar           #2025
 DEU-BE M5 MollStrOttoBraStr ZinStr     #2025
 DEU-BE M6 SHacMar UAlePla              #2026
 DEU-BE M6 OderBruStr RieStr            #2024
@@ -1073,6 +1075,10 @@ FRA-ARA T6 Deb HopEstPin              #2025
 #Dijon
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
+
+#Rennes
+FRA-BRE ma Pot JFKen                  #2026
+FRA-BRE mb StJacGai CesVia            #2026
 
 #Orleans
 FRA-CVL TramA JulVer Zen              #2025

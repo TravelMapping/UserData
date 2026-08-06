@@ -691,10 +691,11 @@ WY WY161 WY92 US85
 # British Columbia
 BC TCHMai 44 3
 BC BC7 BC1_W BarHwy
-BC BC91 23 11
+BC BC91 23 8
 BC BC91A BC91 MarWay
-BC BC99 39A 37
+BC BC99 OakSt_N 37
 BC BC99 3(BC1) MeaLn
+BC BC99 StaParkDr_N 57Ave
 BC YT2 AK/BC CanCus
 
 # Ontario
@@ -733,3 +734,8 @@ FRO Lv70 Lv10 Lv97_N
 FRO Lv73 Lv70 ForGota
 FRO Lv76 KlaSydFry Tro
 FRO Lv97 Lv70_S Lv70_N
+
+
+
+#### Switzerland ####
+CHE H17 QuaiBru HosGas
