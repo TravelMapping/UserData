@@ -93,6 +93,9 @@ CA AirTrnBlue Grg/BART Ter1
 # BART
 CA BARTRed SanFraAir PowSt
 
+# Montreal Metro
+QC GreLn Peel Viau
+QC OraLn BerUQAM PlaDArm
 
 # Intercity
 NLD IC35 RotCen BEL IC35 BruAirZav
