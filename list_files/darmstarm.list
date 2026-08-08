@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 8-2-26
+#everywhere that darmstarm has been up to 8-8-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-2-26.
+#last updated 8-8-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -72,6 +72,7 @@ PA I-80 123 111 #niagara trip
 PA I-80 298 302 #tobyhana trip
 PA I-81 59 MD/PA #raleigh -> hershey
 PA I-81 70 67 #niagara trip
+PA I-81 85 116 #centralia trip 8-26 (home -> centralia)
 PA I-83 MD/PA 51 #niagara trip, various hershey trips
 PA I-84 PA/NY 53 #poughkeepsie -> home 7-19-26
 PA I-86 PA/NY 1 #niagara trip (rnrhf)
@@ -109,13 +110,16 @@ PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
 PA US322 PA897_N PA82 #road trip 8-1-26
+PA US322 PA72_S PA934 #centralia trip 8-26 (home -> centralia)
 PA US322BusWes PA3 PA52 #wall -> home 5/26, friend trips
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
 PA US422Rea PA743 US322 #various trips involving hershey park
+PA US422BusRea US222Bus US422 #centralia trip 8-26 (reading -> home)
 PA PA3 US202/322 US322Bus #wall -> home 5/26
 PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
+PA PA12 PA73 SprValRd #centralia trip 8-26 (centralia -> reading)
 PA PA14 US15 LibSt #canada trip 6-26 (br stop)
 PA PA23 PA100 PA345 #poughkeepsie -> home 7-19-26
 PA PA23 PA625 PA897_S #road trip 8-1-26
@@ -125,12 +129,17 @@ PA PA29Pho I-78 PA100_S #poughkeepsie -> home 7-19-26
 PA PA33 I-80 US22 #tobyhana trip
 PA PA33 US22 I-78 #poughkeepsie -> home 7-19-26
 PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
-PA PA41 DE/PA US30
+PA PA41 DE/PA US30 #antiq.
+PA PA42 PA61 RinRd #centralia trip 8-26 (centralia area)
 PA PA41AltTrkAvo PA41_S PA41_N
-PA PA52 DE/PA US322Bus
+PA PA52 DE/PA US322Bus #antiq.
 PA PA53 US322_W US322_E
+PA PA54 PA901_E BMRunRd #centralia trip 8-26 (home -> centralia)
+PA PA61 MarSt_S PA73 #centralia trip 8-26 (home -> centralia -> reading)
 PA PA63 I-476 WamRd #xc meet at souderton hs, 2021
 PA PA69 PA/NY US62 #niagara trip (nice)
+PA PA72 PA283 US322_W #centralia trip 8-26 (home -> centralia)
+PA PA73 PA61 PA12 #centralia trip 8-26 (centralia -> reading)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA74 MD/PA PA425_S #lock 12 trip 7-26
 PA PA82 DE/PA PA345 #coatesville, up to french creek
@@ -190,7 +199,9 @@ PA PA851 PA425 ConRd #lock 12 trip 7-26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
 PA PA897 US30 PA272 #road trip 8-1-26
+PA PA901 I-81 PA54_E #centralia trip 8-26 (home -> centralia)
 PA PA926 PA841 US202/322 #pocopson to 202
+PA PA934 US322/241 I-81 #centralia trip 8-26 (home -> centralia)
 PA PA948 PA120 PA666 #niagara falls trip
 PA PA970 US322 I-80 #niagara falls trip
 PA PA999 PA441 PA462 #pa999 trip 12-25
