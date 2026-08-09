@@ -45,6 +45,7 @@ VA YelLn VA/DC KingStOldTown
 
 
 
+
 #### Canada ####
 # British Columbia
 BC CanLn BroCityHall Wat
@@ -52,10 +53,14 @@ BC WPY USA/CAN Fra
 
 
 
+
 #### Germany ####
 # Baden-Württemburg
 DEU-BW ICE12 DEU/CHE FreHbf
 DEU-BW S1Fre Hbf SchSee
+DEU-BW 1Fre BerBru EmilGottStr
+DEU-BW 4Fre Hbf OkenStr
+
 
 
 
@@ -68,7 +73,11 @@ IND-HR VioLn OldFar DL/HR
 
 
 
+
 #### Switzerland ####
 CHE IC1 ZurFlu ZurHau
 CHE IC3 ZurHau BasSBB
 CHE ICE12 BasSBB DEU/CHE
+CHE IC61 BasSSB IntWest
+CHE R70Zen IntOst Mer
+CHE R71Zen Mer AarOst

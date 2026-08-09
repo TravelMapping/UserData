@@ -687,6 +687,7 @@ WY WY161 WY92 US85
 
 
 
+
 #### Canada ####
 # British Columbia
 BC TCHMai 44 3
@@ -737,5 +738,13 @@ FRO Lv97 Lv70_S Lv70_N
 
 
 
+
+#### Germany ####
+DEU-BW B31 SchTorStr L124
+
+
+
+
 #### Switzerland ####
 CHE H17 QuaiBru HosGas
+CHE GTS H6/H11 HauStr
