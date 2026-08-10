@@ -1,4 +1,4 @@
-# Date: 2026-08-07
+# Date: 2026-08-10
 # ----------------
 
 ######################
@@ -1116,15 +1116,20 @@ FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M2 PorDau PlaCli              #2025
 FRA-IDF M2 Cha Nat                    #2025
 FRA-IDF M3 PontLevBec Gam             #2025
+FRA-IDF M3 ReaSeb Gal                 #2026
 FRA-IDF M3Bis Gam PorLil              #2025
 FRA-IDF M4 PorCli LesHal              #2025
 FRA-IDF M4 Cha BagLucAub              #2025
 FRA-IDF M5 Sta PlaIta                 #2025
 FRA-IDF M6 CdGEto Nat                 #2025
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019
+FRA-IDF M7 PorCho MaiIvry             #2026
+FRA-IDF M7Vil MaiBla VilLouAra        #2026 
 FRA-IDF M7Bis LouBla Bot_1            #2025
 FRA-IDF M7Bis PreStGer Bot_2          #2025
 FRA-IDF M8 Bal Rep                    #2025
+FRA-IDF M8 StrStDen CrePoiLac         #2026
+FRA-IDF M9 PontSev MaiMon             #2026
 FRA-IDF M9 HavCau Rep                 #2025
 FRA-IDF M10 BouPontStClo SevBab       #2025
 FRA-IDF M10Bou GareAus BouPontStClo   #2025
@@ -1134,14 +1139,19 @@ FRA-IDF M12 StLaz MaiAub              #2025
 FRA-IDF M13 PlaCli MonBie             #2025
 FRA-IDF M14 StDenPle StLaz            #2025
 FRA-IDF M14 SaiLaz Oly                #2019
+FRA-IDF M14 GareLyon AerOrly          #2026
 FRA-IDF T1 MarStDen NoiSec            #2025
 FRA-IDF T2 PontBez SusLen             #2025
+FRA-IDF T2 MusSev PorVer              #2026
 FRA-IDF T3a PontGar PorVin            #2025
 FRA-IDF T3b AveFoc PorVin             #2025
 FRA-IDF T5 MarStDen GarSar            #2025
 FRA-IDF T6 VirRiveDro HopBec          #2025
+FRA-IDF T7 VilLouAra PorEss           #2026
+FRA-IDF T9 PorCho OrlyGasVie          #2026
 FRA-IDF T10 JarPar CroBer             #2025
 FRA-IDF T13 StGerLaye StCyr           #2025
+FRA-IDF OrlyVAL Orly123 Orly4         #2026
 
 #Bordeaux
 FRA-NAQ C VilPyr Qui                  #2025
