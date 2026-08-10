@@ -75,9 +75,10 @@ IND-HR VioLn OldFar DL/HR
 
 
 #### Switzerland ####
-CHE IC1 ZurFlu ZurHau
+CHE IC1 ZurFlu GenCor
 CHE IC3 ZurHau BasSBB
-CHE ICE12 BasSBB DEU/CHE
 CHE IC61 BasSSB IntWest
+CHE ICE12 BasSBB DEU/CHE
+CHE R62BOB Wil Lau
 CHE R70Zen IntOst Mer
 CHE R71Zen Mer AarOst
