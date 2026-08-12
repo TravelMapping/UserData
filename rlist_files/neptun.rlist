@@ -1,5 +1,5 @@
 # ──────────
-# 2026-06-13
+# 2026-08-12
 # ──────────
 
 # ─────────
@@ -283,9 +283,10 @@ AUT S3Obe LinzHau Pre
 # ──
 
 DEU-BW IC61 KarRuheHbf DEU-BY IC61 NurnBergHbf
+DEU-BW IC87 StuHbf Sin
 
 DEU-BW ICE11 StuHbf DEU-BY ICE11 MunHbf
-DEU-BW ICE12 FreHbf CHE ICE12 BasSBB
+DEU-BW ICE12 Off CHE ICE12 BasSBB
 
 # ───────
 # Dresden
@@ -331,16 +332,21 @@ DEU-BY RE50 NurnBergHbf Pla
 # ─────────────────
 # Baden-Württemberg
 # ─────────────────
+DEU-BW RE1 KarRuheHbf StuHbf
+DEU-BW RE2 KarRuheHbf Kon
+DEU-BW RE5 UlmHbf FriSta
+DEU-BW RE45 KarRuheHbf HeilBroHbf
+DEU-BW RE55 Imm UlmHbf
+DEU-BW RE90 Bac DEU-BY RE90 NurnBergHbf
+
+DEU-BW RB31 Rad FriSta
+DEU-BW RB41 KarRuheHbf Ras # diverted ICE
+
+DEU-BW MEX16 StuHbf UlmHbf
 
 DEU-BW RS4Off Off FRA-GES RS4Off Str
 
 DEU-BW S4 Bac StuHbf # diverted RE 90
-
-DEU-BW RE1 KarRuheHbf StuHbf
-DEU-BW RE2 KarRuheHbf Off
-DEU-BW RE90 Bac DEU-BY RE90 NurnBergHbf
-
-DEU-BW RB41 KarRuheHbf Ras # diverted ICE
 
 # ──────
 # Berlin
