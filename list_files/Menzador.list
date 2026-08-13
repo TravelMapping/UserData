@@ -3,8 +3,6 @@
 #
 # This file is currently a work in progress. I will update this notice when the entire data set is complete to the best of my ability.
 #
-# THIS IS A ROUGH DRAFT WITH A FEW EXAMPLES OF ROADS ON WHICH I'VE TRAVELLED.
-#
 # I've included a tutorial copied from https://travelmapping.net/participate.php below.
 #
 # TUTORIAL
@@ -22,7 +20,13 @@
 # *** ROUTE LISTING ***
 # (listed alphabetically by postal abbreviation)
 
-# Interstate Highways
+# Guatemala Highways
+GTM CA1 RN9N_N Zoo
+GTM RN7W RN9N CRHUE12
+GTM RN9N CA1_W RN7W
+GTM RN10 CA1 AlaSanLuc_N
+
+# U.S. Interstate Highways
 
 TX I-20 428 437
 TX I-30 15A AR I-30 138
@@ -105,6 +109,7 @@ PA US6 DenHillSP PA296
 VT US7 VT9 VT11
 NY US9 NY8_S I-87(26A)
 NY US9 WorRd NY197
+NY US9 I-87(27) NY74
 PA US11 OldLacTrl NY US11 NY392
 NY US11 I-81(16) NY290
 PA US15BusMan US6 US15_N
@@ -138,7 +143,7 @@ TX US377 TXLp288 OK US377 I-40
 PA US422Rea PA897 PA501
 VA US460 US29_N VA US460 VA24_E
 
-# State Highways
+# U.S. State Highways
 
 ## Massachusetts
 MA MA23 NY/MA MA57/183    # Route 23
@@ -154,6 +159,7 @@ NJ NJ495 I-95 NJ/NY
 NJ GarStaPkwy 159 NY GarStaPkwy I-87/287
 
 ## New York
+NY BerCon I-87 NY/MA
 NY NY5 NY89 NY695
 NY NY5 NY30/67 NY890
 NY NY5 FaySt US11
