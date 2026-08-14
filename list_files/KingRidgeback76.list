@@ -28,7 +28,7 @@ CO I-70 E470 CO/KS
 
 # ----- Connecticut ----- #
 # ----- Deleware ----- #
-# District of Columbia ----- #
+# ----- District of Columbia ----- #
 
 DC I-395 VA/DC 7
 DC I-695 I-395 2A
@@ -308,7 +308,7 @@ IL US12 I-190 CofRd
 IL US20 I-294(17) IL50
 IL US20 I-355 RanRd
 IL US24 IL251 US150/8
-IL US24 IL1_N 1stSt
+IL US24 IL/IN 1stSt
 IL US30 I-39 IL47/56
 IL US30 I-57 US45
 IL US30 IL59_S I-55
@@ -332,10 +332,12 @@ IL US150 IL91 IL6
 
 # ----- Indiana ----- #
 
+IN US24 IL/IN IN25/29
 IN US31 123 156
 IN US36 IN63 US41
 IN US41 I-74 US36
 IN US41 US50/150 IN63_N
+IN US52 US231/25 SagPkwy_E
 IN US150 IL/IN US41_N
 IN US231 I-74 IN28
 IN US231 IN162_S IN62/68
@@ -438,6 +440,7 @@ WI US151 IA/WI 21
 IL US24BusWas IL8_W US24_E
 IL US51BusBlo US51_N US51_S
 IL US51BusCli US51_S US51_N
+IN US24BusPer US24_W 24thSt
 KY US41AltNas KY1453 KY117
 SC US17BusMyr 38thAve US17_N
 SC US501BusMar SC41Alt_S SC576
@@ -557,6 +560,8 @@ IL IL390 6 12
 
 # ----- Indiana ----- #
 
+IN IN25 I-65 US24/35_W
+IN IN25Wes I-74 US52/231
 IN IN28 US231 US31(148)
 IN IN32 I-74 I-65
 IN IN61 IN64 MarRd
@@ -700,8 +705,8 @@ IL US66HisCar US66His_N WabAve_W
 IL US66His IL17 I-55(92)
 IL US66HisWil US66His_W US66His_E
 
-# ----------------------------- #
-# ----- US SELECT TOURIST ----- #
-# ----------------------------- #
+# ------------------------------------ #
+# ----- US SELECT TOURIST ROUTES ----- #
+# ------------------------------------ #
 
 MN GRR CR46_E 46thAve
