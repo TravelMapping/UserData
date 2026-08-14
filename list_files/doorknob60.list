@@ -6,8 +6,7 @@
 FL I-4 I-275 101B
 
 # I-5
-WA I-5 104 USA/CAN      # US101 Canada
-WA I-5 OR/WA 68         # OR/WA US12
+WA I-5 OR/WA USA/CAN    # Clinched
 OR I-5 194 OR/WA        # I-105 OR/WA
 OR I-5 188A 192         # OR99 (Eugene) OR58
 CA I-5 553 747          # I-505 US97
@@ -1397,6 +1396,9 @@ OR OR429 LavaOdeRd OR58
 # OR569 (Beltline)
 OR OR569 9B 12      # Delta Hwy I-5
 
+# Other
+OR BriGod WA/OR US30
+
 # Business Loops
 OR US30BypPor StJohBri LomSt_W
 OR US30BypPor ColPkwy I-205
@@ -1714,6 +1716,10 @@ WA WA8 US12 US101
 # WA14 - Clinched
 WA WA14 I-5 I-82
 
+# WA18
+WA WA18 WA161 I-5
+WA WA18 WValHwy WA164
+
 # WA22
 WA WA22 WA221 I-82(82)
 
@@ -1758,6 +1764,12 @@ WA WA141AltUnd WA14 WA141
 # WA142
 WA WA142 SunLn US97
 
+# WA161
+WA WA161 20thAve WA18
+
+# WA164 - Clinched
+WA WA164 WA18 WA410
+
 # WA202
 WA WA202 WA203 I-90
 
@@ -1785,6 +1797,9 @@ WA WA290 WA27 WA/ID
 
 # WA401 - Clinched
 WA WA401 US101 WA4
+
+# WA410
+WA WA410 WA164 US12
 
 # WA432
 WA WA432 WA433 I-5
@@ -1821,6 +1836,10 @@ WA WA530 I-5 211thPL
 
 # WA599
 WA WA599 I-5 WA99
+
+# Other
+WA BriGod WA14 WA/OR
+WA HooRivBri OR/WA WA14
 
 # Business Loops
 WA I-90BLSpo I-90_W WA27
