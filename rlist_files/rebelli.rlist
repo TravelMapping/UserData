@@ -54,6 +54,12 @@ BC WPY USA/CAN Fra
 
 
 
+#### France ####
+FRA-OCC Tram2 Sab GareStRoch
+
+
+
+
 #### Germany ####
 # Baden-Württemburg
 DEU-BW ICE12 DEU/CHE FreHbf
@@ -70,6 +76,16 @@ IND-DL VioLn DL/HR Jan
 
 # Haryana
 IND-HR VioLn OldFar DL/HR
+
+
+
+
+#### Spain ####
+# Aragon
+ESP-AR MadBarFig AR/CT ZarDel
+
+# Catalonia
+ESP-CT MadBarFig San AR/CT
 
 
 
