@@ -55,13 +55,14 @@ BC WPY USA/CAN Fra
 
 
 #### France ####
+# Occitanie
 FRA-OCC Tram2 Sab GareStRoch
 
 
 
 
 #### Germany ####
-# Baden-Württemburg
+# Baden-Wurttemburg
 DEU-BW ICE12 DEU/CHE FreHbf
 DEU-BW S1Fre Hbf SchSee
 DEU-BW 1Fre BerBru EmilGottStr
@@ -86,6 +87,10 @@ ESP-AR MadBarFig AR/CT ZarDel
 
 # Catalonia
 ESP-CT MadBarFig San AR/CT
+
+# Community of Madrid
+ESP-MD M4 AveAme AloMar
+ESP-MD M5 AloMar Cal
 
 
 
