@@ -5,8 +5,6 @@ DC FL WasUniSta FL FL Mia
 LA NO NewOrl IL NO UniSta
 OR AC Eug BC AC VanPacCen
 
-
-
 #LA Metrorail
 CA OraCouLn UniSta Oce
 CA SanBerLn UniSta PomN
@@ -147,6 +145,16 @@ WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 WA YelLn AGat DGat
 
+#Washington Metro
+DC GreLn Wat DC GreLn GalPla
+MD RedLn Roc DC RedLn UniSta
+VA BluLn KingStOldTown DC BluLn FedCenSW
+VA OraLn EFallsChu VA OraLn Cla
+VA OraLn Ros DC OraLn FedCenSW
+VA SilLn DulIntAir VA SilLn Cla
+VA SilLn Ros DC SilLn FedCenSW
+VA YelLn KingStOldTown DC YelLn GalPla
+
 #US Airports Landside
 AZ PHX RenCarCen 44thSt
 CA OAKAir OakIntAir Col
@@ -162,16 +170,6 @@ NJ AirTrn NewLibAir TerA
 NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 TX IAHSub TerA TerD/E
-
-#Washington Metro
-DC GreLn Wat DC GreLn GalPla
-MD RedLn Roc DC RedLn UniSta
-VA BluLn KingStOldTown DC BluLn FedCenSW
-VA OraLn EFallsChu VA OraLn Cla
-VA OraLn Ros DC OraLn FedCenSW
-VA SilLn DulIntAir VA SilLn Cla
-VA SilLn Ros DC SilLn FedCenSW
-VA YelLn KingStOldTown DC YelLn GalPla
 
 AK GlaDis Anc AK GlaDis +DIV_Por_C
 AK WPY Ska BC WPY WhiPass
