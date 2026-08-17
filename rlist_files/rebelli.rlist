@@ -82,13 +82,21 @@ IND-HR VioLn OldFar DL/HR
 
 
 #### Spain ####
+# Andalusia
+ESP-AN MadMal CM/AN MarZam
+
 # Aragon
 ESP-AR MadBarFig AR/CT ZarDel
 
 # Catalonia
 ESP-CT MadBarFig San AR/CT
 
+# Castilla-La Mancha
+ESP-CM MadMal MD/CM CM/AN
+
 # Community of Madrid
+ESP-MD MadMal Ato MD/CM
+ESP-MD M1 Sol Ato
 ESP-MD M4 AveAme AloMar
 ESP-MD M5 AloMar Cal
 
