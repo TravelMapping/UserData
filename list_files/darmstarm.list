@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 8-8-26
+#everywhere that darmstarm has been up to 8-17-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-8-26.
+#last updated 8-17-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -53,6 +53,8 @@ DE DE72 DE7_N US40 #rock gym
 DE DE72 DE9 US13/1 #wilmington -> home 7-14-26
 DE DE82 DE52 DE/PA
 DE DE92 DE100 US13 #from when i was a baby, trusting dad on this one
+DE DE100 DE92 AdaDamRd #medford -> home 8-15-26
+DE DE100 DE52 DE/PA #road trip 8-18-26
 DE DE141 DE9/273 US202/261 #antiq. clinched 7-8-26
 DE DE202 I-95/202 US13Bus
 DE DE261 US202/141 DE/PA #wilmington -> home 6/26
