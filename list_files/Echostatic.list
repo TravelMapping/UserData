@@ -148,6 +148,7 @@ TX I-635 1C 8
 VA I-64 243 256
 VA I-64 262 284
 VA I-64 291 299
+VA I-66 GeoWasPkwy VA/DC
 VA I-264 8 9
 VA I-264 14 ParAve
 VA I-464 1 6B
@@ -451,7 +452,7 @@ WI US151BusSun US151_S BirdSt
 #United States Select National Park Highways
 MS NatTraPkwy FisFryRd MS43
 VA ColPkwy ParDr VA199
-VA GWMemPkwy DC/VA I-495
+VA GWMemPkwy I-66 I-495
 WA SteCynRd WA706 WA123
 WY DevTowRd WY110 VisCen
 
