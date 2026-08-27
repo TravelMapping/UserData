@@ -1,10 +1,10 @@
-# Date: 2026-08-03
-# ----------------
-
 ######################
 ####   RAILWAYS   ####
 ######################
 
+FRA-BRE ParQuiRen Ren FRA-BRE ParQui Qui                        #2026
+#FRA-BRE TER Qui Bre                                            #2026
+FRA-BRE ParBre Ren Bre                                          #2026
 DEU-BE S7 NikSee AlePla                                         #2026
 DEU-BE S15 GesBru Hbf                                           #2026
 DEU-BE S25 BornHolStr GesBru                                    #2026
@@ -18,10 +18,8 @@ DEU-SH RB84 KielHbf LubHbf                                      #2026
 DEU-SH RE83 LubHbf KielHbf                                      #2026
 DEU-HH RE70 HamBurgHbf DEU-SH RE70 KielHbf                      #2026
 CHE S7Gal Rom Ror                                               #2026, actually traveled S7 from Lindau Insel to Rorschach, but we don't have that in RB
-NLD ICE78 AmsCen +SKIP_Bre                                      #2026, actually traveled as "sprinter" Amsterdam - Rotterdam
-#NLD "Sprinter" Amsterdam Centraal - Rotterdam Centraal         #2026, Utrecht bypassed - Gouda; "Sprinter" = commuter rail
-NLD AmsDis AmsCen +DIV_Slo                                      #2026, actually traveled as intercity connection Den Haag - Amsterdam
-#NLD Intercity Den Haag Centraal Amsterdam Centraal             #2026 via Haarlem
+NLD S75 AmsCen RotCen                                           #2026
+NLD IC20 AmsCen DenHaagCen                                      #2026
 BEL IC6 Tou BruNord                                             #2026
 BEL IC26 Kor Tou                                                #2026
 BEL IC4 AntCen Kor                                              #2026 via Waregem, Gent, Beveren
@@ -298,8 +296,7 @@ DEU-HB ICE43 BreHbf DEU-NW ICE43 KolnHbf                        #2021, actually 
 DEU-NW ICE42 KolnHbf DEU-BW ICE42 StuHbf                        #2021, actually traveled ICE1164 via Göppingen, Stuttgart, Mannheim, Frankfurt Flughafen, Köln Hbf, Düsseldorf, Duisburg, Dortmund, Münster, Osnabrück
 
 DEU-BW RE5 StuHbf UlmHbf                                        #2020
-DNK B KobHov HojeTaa                                            #2020, actually traveled from Roskilde with a different service
-#DNK     Roskilde                     DNK     Copenhagen        #2020
+DNK KobFre KobHov Ros                                           #2020, not sure what kind of service it was
 
 ENG ChiML Sol BirMoorSt                                         #2018, Birmingham Moor Street - Solihull
 
@@ -616,8 +613,7 @@ DEU-BE M1 +DIV_Sch SHacMar             #2025, actually traveled as rerouted M5
 #DEU-BE rer. M5 +DIV_Sch URosaLuxPla   #2025, actually traveled as rerouted M5 via Weinmeisterstraße
 DEU-BE M2 HeiDorf AlePla               #2026
 DEU-BE M4 SUAlePla AntPla              #2026
-DEU-BE M5 +DIV_Hbf1 LuneBurStr         #2025
-DEU-BE M5 +DIV_Hbf2 SHacMar            #2025
+DEU-BE M5 LuneBurStr SHacMar           #2025
 DEU-BE M5 MollStrOttoBraStr ZinStr     #2025
 DEU-BE M6 SHacMar UAlePla              #2026
 DEU-BE M6 OderBruStr RieStr            #2024
@@ -1074,6 +1070,11 @@ FRA-ARA T6 Deb HopEstPin              #2025
 FRA-BFC T1Dij DijGare QueCen          #2023
 FRA-BFC T2Dij Val CheCen              #2023
 
+#Brest
+FRA-BRE TA Lib PorGou                 #2026
+FRA-BRE TAGul PorPlo PorGui           #2026
+FRA-BRE TB Gar CHUCav                 #2026
+
 #Rennes
 FRA-BRE ma Pot JFKen                  #2026
 FRA-BRE mb StJacGai CesVia            #2026
@@ -1109,15 +1110,20 @@ FRA-IDF M1 DefGraArc ChaVin           #2019
 FRA-IDF M2 PorDau PlaCli              #2025
 FRA-IDF M2 Cha Nat                    #2025
 FRA-IDF M3 PontLevBec Gam             #2025
+FRA-IDF M3 ReaSeb Gal                 #2026
 FRA-IDF M3Bis Gam PorLil              #2025
 FRA-IDF M4 PorCli LesHal              #2025
 FRA-IDF M4 Cha BagLucAub              #2025
 FRA-IDF M5 Sta PlaIta                 #2025
 FRA-IDF M6 CdGEto Nat                 #2025
 FRA-IDF M7 Cou8Mai1945 PorCho         #2019
+FRA-IDF M7 PorCho MaiIvry             #2026
+FRA-IDF M7Vil MaiBla VilLouAra        #2026 
 FRA-IDF M7Bis LouBla Bot_1            #2025
 FRA-IDF M7Bis PreStGer Bot_2          #2025
 FRA-IDF M8 Bal Rep                    #2025
+FRA-IDF M8 StrStDen CrePoiLac         #2026
+FRA-IDF M9 PontSev MaiMon             #2026
 FRA-IDF M9 HavCau Rep                 #2025
 FRA-IDF M10 BouPontStClo SevBab       #2025
 FRA-IDF M10Bou GareAus BouPontStClo   #2025
@@ -1127,14 +1133,19 @@ FRA-IDF M12 StLaz MaiAub              #2025
 FRA-IDF M13 PlaCli MonBie             #2025
 FRA-IDF M14 StDenPle StLaz            #2025
 FRA-IDF M14 SaiLaz Oly                #2019
+FRA-IDF M14 GareLyon AerOrly          #2026
 FRA-IDF T1 MarStDen NoiSec            #2025
 FRA-IDF T2 PontBez SusLen             #2025
+FRA-IDF T2 MusSev PorVer              #2026
 FRA-IDF T3a PontGar PorVin            #2025
 FRA-IDF T3b AveFoc PorVin             #2025
 FRA-IDF T5 MarStDen GarSar            #2025
 FRA-IDF T6 VirRiveDro HopBec          #2025
+FRA-IDF T7 VilLouAra PorEss           #2026
+FRA-IDF T9 PorCho OrlyGasVie          #2026
 FRA-IDF T10 JarPar CroBer             #2025
 FRA-IDF T13 StGerLaye StCyr           #2025
+FRA-IDF OrlyVAL Orly123 Orly4         #2026
 
 #Bordeaux
 FRA-NAQ C VilPyr Qui                  #2025

@@ -6,8 +6,7 @@
 FL I-4 I-275 101B
 
 # I-5
-WA I-5 104 USA/CAN      # US101 Canada
-WA I-5 OR/WA 68         # OR/WA US12
+WA I-5 OR/WA USA/CAN    # Clinched
 OR I-5 194 OR/WA        # I-105 OR/WA
 OR I-5 188A 192         # OR99 (Eugene) OR58
 CA I-5 553 747          # I-505 US97
@@ -42,8 +41,7 @@ TX I-20 433 453         # 433 TX360
 GA I-20 44 67           # GA6 I-285 (E)
 
 # I-25
-CO I-25 200 210A        # I-225 Colfax
-CO I-25 150 197         # Academy Blvd CO88
+CO I-25 150 214A        # Academy Blvd I-70
 CO I-25 100A 139        # US50 US24
 
 # I-26
@@ -94,6 +92,7 @@ VA I-64 200 299         # I-295 I-264
 UT I-70 157 UT/CO       # US6 UT/CO
 CO I-70 UT/CO 114       # UT/CO West Glenwood
 CO I-70 116 262         # CO82 Colfax Ave
+CO I-70 274 284         # I-25 Pena Blvd
 MO I-70 2H 11           # I-29 US40
 
 # I-71
@@ -230,8 +229,8 @@ NV I-215 1 12
 # I-215 (UT)
 UT I-215 2 I-15         # I-80 East I-15
 
-# I-225 (CO)
-CO I-225 I-25 5         # I-25 Illif Ave
+# I-225 (CO) - Clinched
+CO I-225 I-25 12
 
 # I-238 (CA) - Clinched
 CA I-238 14 17
@@ -396,6 +395,7 @@ MT US2 I-15 I-15BL_N
 # US6
 UT US6 I-15(244) UT/CO
 CO US6 I-70(205) DilDamRd
+CO US6 CO121 I-25(209A)
 OH US6 OH4 142(2)
 
 # US11
@@ -793,6 +793,9 @@ CA CA262 I-880 I-680
 
 ## Colorado ##
 
+# CO30
+CO CO30 I-225 ChaRd
+
 # CO82
 CO CO82 I-70 6thSt
 
@@ -802,14 +805,24 @@ CO CO83 CO88 I-225
 # CO88
 CO CO88 I-25(197) CO83
 
+# CO95
+CO CO95 26thAve 64thAve
+
 # CO121
-CO CO121 BowAve US285
+CO CO121 US6 72ndAve
+CO CO121 CO470 US285
 
 # CO470
 CO CO470 1 7            # I-70 Bowles Ave
+CO CO470 14 26
+CO E470 1A 28
+
+# Pena Blvd
+CO PenaBlvd I-70 JacGapSt
 
 # Business Loops
 CO I-70BLDen I-70(262) DenWBlvd
+CO I-70BLDen CO121 CO95
 
 
 ## Connecticut ##
@@ -1397,6 +1410,9 @@ OR OR429 LavaOdeRd OR58
 # OR569 (Beltline)
 OR OR569 9B 12      # Delta Hwy I-5
 
+# Other
+OR BriGod WA/OR US30
+
 # Business Loops
 OR US30BypPor StJohBri LomSt_W
 OR US30BypPor ColPkwy I-205
@@ -1714,6 +1730,10 @@ WA WA8 US12 US101
 # WA14 - Clinched
 WA WA14 I-5 I-82
 
+# WA18
+WA WA18 WA161 I-5
+WA WA18 WValHwy WA164
+
 # WA22
 WA WA22 WA221 I-82(82)
 
@@ -1758,6 +1778,12 @@ WA WA141AltUnd WA14 WA141
 # WA142
 WA WA142 SunLn US97
 
+# WA161
+WA WA161 20thAve WA18
+
+# WA164 - Clinched
+WA WA164 WA18 WA410
+
 # WA202
 WA WA202 WA203 I-90
 
@@ -1785,6 +1811,9 @@ WA WA290 WA27 WA/ID
 
 # WA401 - Clinched
 WA WA401 US101 WA4
+
+# WA410
+WA WA410 WA164 US12
 
 # WA432
 WA WA432 WA433 I-5
@@ -1821,6 +1850,10 @@ WA WA530 I-5 211thPL
 
 # WA599
 WA WA599 I-5 WA99
+
+# Other
+WA BriGod WA14 WA/OR
+WA HooRivBri OR/WA WA14
 
 # Business Loops
 WA I-90BLSpo I-90_W WA27

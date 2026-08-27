@@ -26,6 +26,9 @@ MA WorLn BosSou Wor
 MA FallRivLn BosSou FallRiv
 MA NewBedLn NewBed EastTau
 MA RocLn BosNor Roc
+MA NewLn BosNor New
+MA GreLn BosSou Gre
+MA KinLn BosSou KinRte3
 
 
 # New York City Subway
@@ -93,6 +96,9 @@ CA AirTrnBlue Grg/BART Ter1
 # BART
 CA BARTRed SanFraAir PowSt
 
+# Montreal Metro
+QC GreLn Peel Viau
+QC OraLn BerUQAM PlaDArm
 
 # Intercity
 NLD IC35 RotCen BEL IC35 BruAirZav
