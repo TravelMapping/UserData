@@ -5651,11 +5651,13 @@ UT US189 UT92 US40_E #08052017 TFACC Meeting Trip
 UT US189 I-15 US89 #05232025 Holy Cross FW 
 UT US191 US40_E UT44 #08062017 TFACC Meeting Trip
 UT US191 I-70(182) US491 #11302021 Inventory Trip
-UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction  
+UT US191 AZ/UT US491 #09092024 Navopache to Grand Junction
+UT US191 US40_E UT/WY #082626 Yellowstone  
 UT US491 US191 CO/UT #11302021 Inventory Trip
 UT BriViewDr UT275 BriViewDr_N #051625 Mohave to San Isabel
 UT BryCynSceDr UT63 End #05152025 Mohave to San Isabel
 UT CapReefSceDr UT24 CapGorRd #051625 Mohave to San Isabel
+UT CubCreRd UT149 End #082626 Yellowstone
 UT DelArchRd MainParkRd CacValRd #12012024 Moab Trip
 UT IslSkySceDr UT313 End #12012024 Moab Trip
 UT MainParkRd US191 DevGarCam #12012024 Moab Trip
@@ -6141,6 +6143,7 @@ WY I-80BLChe I-80_W US30_E #102325 White River FW
 WY I-80BLLar I-80_W I-80_E #101825 White River FW
 WY I-80BLLym I-80_W WY414 #080317 NSAC Annual Mtg Fossil Butte NM
 WY I-80BLRaw I-80_W I-80_E #102325 White River FW
+WY I-80BLRoc I-80_W I-80_E #082626 Yellowstone
 WY US18 US85_S US20_E #011423 CO Inventory Fort Laramie NHS
 WY US20 US85_S WY/NE #011423 CO Inventory Fort Laramie NHS
 WY US26 I-25(92) US85_N #011423 CO Inventory Fort Laramie NHS
@@ -6155,6 +6158,7 @@ WY US87 CO/WY I-25(80) #011323 CO Inventory Fort Laramie NHS
 WY US87 I-25(80) I-25(92) #011423 CO Inventory Fort Laramie NHS
 WY US189 UT/WY I-80(18) #080317 NSAC Annual Mtg Fossil Butte NM   
 WY US189 WY412 US30_W #080317 NSAC Annual Mtg Fossil Butte NM
+WY US191 UT/WY I-80(104) #082626 Yellowstone
 WY US287 CO/WY I-80BL_Lar #101825 White River FW
 WY US287 I-80(235) US287Byp_N #102325 White River FW
 WY US30BusRaw US30_W US30_E #102325 White River FW
