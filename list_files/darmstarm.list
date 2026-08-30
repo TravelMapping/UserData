@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 8-17-26
+#everywhere that darmstarm has been up to 8-30-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-17-26.
+#last updated 8-30-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -696,6 +696,7 @@ VA US460BusChr US460_E US460_W #shanendoah trip 10-25, clinched spring break 202
 VA US460BusPet US301_N VA36Trk_W #petersburg half 2024 (ran, not driven) -> went all the way to battersea lane
 VA US522 US340_S US340_N #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
+VA VA7 I-495 VA267(16)
 VA VA8 US58_E US11 #fall break trip 10-25, spring break trip 2026
 VA VA10 I-95 RivBendBlvd #raleigh -> home thanksgiving 2025
 VA VA10 VA156Bus_S I-95 #raleigh -> home easter 2026
