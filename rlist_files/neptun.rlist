@@ -1,5 +1,5 @@
 # ──────────
-# 2026-08-12
+# 2026-08-30
 # ──────────
 
 # ─────────
@@ -336,6 +336,7 @@ DEU-BW RE1 KarRuheHbf StuHbf
 DEU-BW RE2 KarRuheHbf Kon
 DEU-BW RE5 UlmHbf FriSta
 DEU-BW RE45 KarRuheHbf HeilBroHbf
+DEU-RP RB51 Wor DEU-BW RB51Kar KarRuheWest
 DEU-BW RE55 Imm UlmHbf
 DEU-BW RE90 Bac DEU-BY RE90 NurnBergHbf
 
@@ -347,6 +348,7 @@ DEU-BW MEX16 StuHbf UlmHbf
 DEU-BW RS4Off Off FRA-GES RS4Off Str
 
 DEU-BW S4 Bac StuHbf # diverted RE 90
+DEU-BW S4Kar AlbTalBf HeilBroHbfWilBraPla
 
 # ──────
 # Berlin
@@ -420,6 +422,15 @@ ESP-CT L4 Bar Ver
 #└───────────────────────────────────────────┘
 
 FRA-IDF ParCol ParGareEst FRA-GES ParCol Str
+FRA-CVL ParTrs StPieCor Tou
+
+# ───
+# TER
+# ───
+
+FRA-IDF 1CVL GareAus FRA-CVL 1CVL OnzChaLoi
+FRA-IDF 4CVL GareAus FRA-CVL 4CVL Orl
+FRA-CVL 5CVL OnzChaLoi Orl
 
 # ─────
 # Paris
@@ -427,6 +438,7 @@ FRA-IDF ParCol ParGareEst FRA-GES ParCol Str
 
 FRA-IDF A LaDef ChaHal
 FRA-IDF C ChaMarsTourEif BibFraMit
+FRA-IDF D GareLyon VilStGeo
 FRA-IDF E NeuPorMai Mag
 
 FRA-IDF L ParStLaz LaDef
@@ -435,16 +447,27 @@ FRA-IDF M1 PorMai Con
 FRA-IDF M2 PereLac Nat
 FRA-IDF M3 PereLac Gam
 FRA-IDF M3Bis Gam PorLil
+FRA-IDF M4 GareEst LesHal
+FRA-IDF M5 GareEst GareAus
 FRA-IDF M6 Pass Nat
 FRA-IDF M7 Pel PalRoyMusLou
 FRA-IDF M7 LouBla GareEst
 FRA-IDF M7 Cha MaiBla
 FRA-IDF M7Bis LouBla Bot_2
+FRA-IDF M8 Bas CrePoiLac
 FRA-IDF M11 PlaFet PorLil
 FRA-IDF M12 StLaz Abb
 FRA-IDF M14 BibFraMit VilGusRou
+FRA-IDF M14 Cha GareLyon
 
 FRA-IDF FunMon Inf Sup
+
+# ────────
+# Mulhouse
+# ────────
+
+FRA-GES Tram1Mul GareCen Cha
+FRA-GES TramTrn PorJeu ThaStJac
 
 # ──────────
 # Strasbourg
@@ -457,12 +480,11 @@ FRA-GES TramD Pot DEU-BW TramD KehlRat
 FRA-GES TramE RobEsc EtoPol
 FRA-GES TramF WolHenRen PlaIsl
 
-# ────────
-# Mulhouse
-# ────────
+# ─────
+# Tours
+# ─────
 
-FRA-GES Tram1Mul GareCen Cha
-FRA-GES TramTrn PorJeu ThaStJac
+FRA-CVL A Vau LycJeanMon
 
 #┌───────────────────────────────────────────┐
 #│                    HUN                    │
