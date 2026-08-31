@@ -6159,6 +6159,8 @@ WY US87 I-25(80) I-25(92) #011423 CO Inventory Fort Laramie NHS
 WY US189 UT/WY I-80(18) #080317 NSAC Annual Mtg Fossil Butte NM   
 WY US189 WY412 US30_W #080317 NSAC Annual Mtg Fossil Butte NM
 WY US191 UT/WY I-80(104) #082626 Yellowstone
+WY US191 I-80(104) TetParkRd_S #082726 Yellowstone 
+WY US191 TetParkRd_N YelNP #082726 Yellowstone
 WY US287 CO/WY I-80BL_Lar #101825 White River FW
 WY US287 I-80(235) US287Byp_N #102325 White River FW
 WY US30BusRaw US30_W US30_E #102325 White River FW
@@ -6168,6 +6170,11 @@ WY US87BusWhe US87_S US87_N #011323 CO Inventory Fort Laramie NHS
 WY US287BypRaw US287_S US287_N #102325 White River FW  
 WY FosButRd US30 ChiCreRdSD #080317 NSAC Annual Mtg Fossil Butte NM
 WY ChiCreRdSD FosButRd VisCen #080317 NSAC Annual Mtg Fossil Butte NM
+WY GraLoopRd NorCanRd_W OldFaiRd #082726 Yellowstone
+WY GraLoopRd SEntRd NorCanRd_E #082726 Yellowstone
+WY NorCanRd GraLoopRd_W GraLoopRd_E #082726 Yellowstone
+WY SEntRd US89/191 GraLoopRd #082726 Yellowstone
+WY TetParkRd US26/89 US89/191 #082726 Yellowstone
 WY WY10 WY230 WY/CO #101925 White River FW
 WY WY70 CO/WY WY230 #101925 White River FW
 WY WY70Bag WY789 WY/CO #101925 White River FW
@@ -6182,6 +6189,7 @@ WY WY230 I-80(311) I-80BL #101825 White River FW
 WY WY230 CO/WY I-80(311) #101925 White River FW 
 WY WY230Riv WY70 WY/CO #101925 White River FW 
 WY WY312 I-25BL 24thSt #01132013 CO Inventory see Wheatland EC
+WY WY391 US26/89 EvaRd_W #082726 Yellowstone
 WY WY412 I-80 US189 #080317 NSAC Annual Mtg Fossil Butte NM
 WY WY414 I-80 I-80BL #080317 NSAC Annual Mtg Fossil Butte NM
 WY WY414 I-80BL WY/UT #080617 NSAC Annual Mtg Dinosaur NM
