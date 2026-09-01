@@ -6,6 +6,7 @@
 #Update 6 Home Utah Wyoming South Dakota
 #Update 7 Colorado Home Midwest
 #Update 8 Midwest
+#Update 9 Midwest and Home
 
 #Interstate
 CA I-5 5A 446 #HomeBayArea
@@ -21,17 +22,21 @@ AZ I-17 214C 217 #Sdna
 AZ I-17 218 320 #Sdna
 AZ I-17 337 341 #Sdna
 WY I-25 8 12 #Cheyenne
+WY I-25BLChe YelRd I-25_N #Cheyenne
 WY I-25 140 160 #AcrossWY
 WY I-25 182 185 #AcrossWY
 WY I-25 186 189 #AcrossWY
+IA I-29 48 51 #ChicagoToHome
 IA I-29 144 SD I-29 83 #DownSD
 CA I-40 I-15 50 #LBC Bstw
 AZ I-40 195 201 #Page
 AZ I-40 286 AZ/NM #PeoriaToHome
 MO I-44 290C I-70 #STL
 IL I-55 2 4 #STL
+IL I-55 269 277B #ChicagoTrains
 IL I-57 157 283 #EffinghamToIndy
 IL I-57 302 312 #EffinghamToIndy
+IL I-57 345 350 #ChicagoTrains
 UT I-70 0 86 #DinoInnToHome
 CO I-70 37 269B #GeorgetownRR
 CO I-70 359 CO/KS #KSToLimon
@@ -51,17 +56,21 @@ WY I-80 3 18 #EvanstonToKemmerer
 WY I-80 311 359 #CheyenneToLaramie
 WY I-80 370 IA I-80 1A #Nebraska
 IA I-80 4 298 #ToRockIsland
+IL I-80 10 116 #ChicagoToHome
+IL I-80 122 151 #ChicagoToHome
 IL I-88 123 I-294_S #ChicagoTrains
 WY I-90 126 153 #DevilsTower
 SD I-90 57 59 #RapidCity
 SD I-90BLRap CamSt EglSt #RapidCity
 CA I-105 1A 18 #LAXLBC
 CA I-110 1A 9 #LBC Bstw
+NE I-180 2 9thSt #Lincoln
 CA I-215 I-15 54B #Tchpi
 MO I-270 20B 33 #STL
 IL I-270 4B 15 #STLToEffingham
 IA I-280 I-80 IL I-280 I-80 #DavenportRockIsland
-IL I-294 12 29 #ChicagoTrains
+IL I-294 8 29 #ChicagoTrains
+IL I-355 12 19 #ChicagoTrains
 CA I-405 I-5(94A) 57A #UCLA
 IL I-474 0 6 #Peoria
 CA I-580 2A 11 #BayArea
@@ -74,11 +83,13 @@ CA I-805 20B I-5(31) #Home
 #CASR
 CA CA1 I-5 CA19
 CA CA1 1A(10) 70A(101)
+CA CA15 1A 6B #Home
 CA CA18 I-15(150) AppValRd #MallBstw
 CA CA33 MainSt CA150_W #Tchpi
 CA CA33 MatRd 10thSt #Tchpi
 CA CA47 1A I-710 #LBC
 CA CA52 1A 18B #Home
+CA CA54 1A 12(125) #Home
 CA CA56 1A 9 #Home
 CA CA58 110 165 #Tchpi
 CA CA58BusMoj CA58(165) CA58(172)
@@ -98,13 +109,15 @@ CA CA79 I-8 I-15(61) #JlnEly
 CA CA79 ScoRd DomPkwy #Idyllwild
 CA CA91 36 50 #LBC Bstw
 CA CA91 53 65B #LBC Bstw
-CA CA94 9B ForGateRd
+CA CA94 2A ForGateRd #Home
 CA CA94 ShoTruTr OldHwy80_W
 CA CA99 24 26 #Tchpi
 CA CA119 HarSt CA43 #Tchpi
+CA CA125 12A 15 #Home
+CA CA125 18B 22 #Home
 CA CA127 I-15 CA/NV #Ely
 CA CA138 I-15 SumValRd #CajonPass
-CA CA163 1A I-15 #Home
+CA CA163 ASt I-15 #Home
 CA CA152 US101(357) I-5 #BayArea
 CA CA170 5 11B #SixFlags
 CA CA177 I-10 CA62 #RiceRoadEly
@@ -214,6 +227,8 @@ IN IN130 US6 IN51_S #BigBoyIndy
 
 #US Highways
 NV US6 RadRd NV487 #ElyBigBoy
+NE US6 NE103 L55K #Lincoln
+IL US6 BriRd RidRd #ChicagoToHome
 WY US14 I-90(128) WestSt #DevilsTower
 WY US16 I-90(128) US14_Moo
 WY US16 WY116_N WY116_S
@@ -234,7 +249,8 @@ WY US26 WY134 I-25(186) #AcrossWY
 WY US26 WY253/256 I-25(140) #AcrossWY
 WY US30 FosButRd US30Byp #FossilButte
 WY US30 US189_N 57 #FossilButte
-IL US34 RayDr NapBlvd
+WY US30 DellRanBlvd 401(80) #Cheyenne
+IL US34 RayDr I-355
 UT US40 US191_S US191_N #DinoInnToHome
 UT US40 UT45 UT/CO #WyomingToDinoInn
 CO US40 UT/CO CO13_N
@@ -283,7 +299,7 @@ CO US550 SawDr US50 #MillionDollarHighway
 #Historic
 CA US66HisAzu PalmAve I-15(129) #CajonPass
 CA US66HisBar I-15(150) AmbRd #TchpiBstw
-CA US101HisSan BeaSt LeuBlvd
+CA US101HisSan I-5(11A) LeuBlvd
 CA US395HisPow I-15(14) I-15(26)
 CA US395HisTem I-15(28) I-15(58)
 
