@@ -14,11 +14,12 @@ AK AurWin Anc Fai
 #AZ
 
 AZ PHX T3 44thSt
-AZ SL CA/AZ Yuma
+AZ SL CA/AZ Tus
 AZ SL Ben AZ/NM
 AZ SW CA/AZ Fla
 AZ A DowPhoHub GilRdMainSt
 AZ B DowPhoHub 19thAveDun
+AZ SunLink CusFro_W HelWar
 
 #CA
 
@@ -36,7 +37,7 @@ CA CopLn ElCaj SanTownCen
 CA Coa SanFeDep Oce
 CA CS UniSta SacVlySta
 CA CZ Eme CA/NV
-CA D WilWes UniSta
+CA D WilLaCie UniSta
 CA E DowSanMon Atl
 CA GreLn 12thImpTC Gro
 CA InlEmpLn SanAna SanBerDep
@@ -51,8 +52,8 @@ CA PerVlyLn UniSta PerS
 CA PS SanFeDep SanLuisObi
 CA RivLn UniSta RivDow
 CA SanBerLn UniSta SanBerDow
-CA SJOak Bak OakJackLonSq
-CA SJSac Bak SacVlySta
+CA GROak Bak OakJackLonSq
+CA GRSac Bak SacVlySta
 CA SL UniSta CA/AZ
 CA SMART SanRafDT SonCtyApt
 CA Spr Oce EscTC
@@ -100,7 +101,6 @@ DC BluLn VA/DC DC/MD
 DC CamLn WasUniSta DC/MD
 DC FL MD/DC WasUniSta
 DC CR VA/DC DC/MD
-DC DCSC UniSta OklAve
 DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
 DC OraLn VA/DC DC/MD
@@ -257,8 +257,8 @@ PA CHWLn Phi30thSt CheHillW
 PA CR DE/PA PA/NJ
 PA KS Har Phi30thSt
 PA ManNorLn Phi30thSt ElmSt
-PA MarFraLn 69th 15th
-PA NorLn 69th Nor
+PA L1 69th 15th
+PA M1 69th Nor
 PA PA PitUni Har
 PA PaoThoLn Pao Phi30thSt
 PA PATCO 15th16thLoc PA/NJ
@@ -349,6 +349,24 @@ ENG HarLn Har York
 ENG PicLnHT4 HeaTer23 CovGar
 ENG SEML ChaCro Sta
 ENG TPNRtePic ManPic Gre
+ENG WCMLA Cre ENG/SCT
+ENG WreCreLn WLS/ENG Cre
+ENG HolManLn WLS/ENG Che
+ENG NWSW WLS/ENG ENG/WLS
+ENG NWSWLLa WLS/ENG ENG/WLS
+ENG NWSWWal WLS/ENG ENG/WLS
+ENG BARL BirInt BirAir
+ENG CamLn Shr ENG/WLS
+ENG MarLn WLS/ENG Cre
+ENG MarLnLla WLS/ENG ENG/WLS
+ENG MarLnWal WLS/ENG ENG/WLS
+ENG MidCheLn ManPic Che
+ENG XCMLMan StoTre ManPic
+ENG LakLn OxeLakeDis Win
+ENG FurLn ManPic Pre
+ENG XCMLSou BirInt StoTre
+ENG CarNotLn Glo BirNewSt
+ENG XCML BirNewSt ENG/SCT
 
 #GERMANY
 
@@ -369,6 +387,8 @@ ITA-TOS FbRomGen LIG/TOS PisCen
 ITA-LOM S8 Lec MilGrePir
 ITA-LOM MXP1 MalAerTer2 MilBovPol
 ITA-LOM S13 MilRog Pav
+ITA-LIG FU3 PIE/LIG GenBri
+ITA-PIE FU3 ArqScr PIE/LIG
 
 #SCOTLAND
 
@@ -378,6 +398,10 @@ SCT KyleLn Din KyleLoc
 SCT StrRwy Avi Bro
 SCT WestHigLnFor FortWil Mal
 SCT NorClyLnHel GlaQueSt EdiWav
+SCT EdiTram Hay EdiAir
+SCT WCMLA ENG/SCT EdiWav
+SCT FifeLnDun EdiWav Dun
+SCT BorLn EdiWav Twe
 
 #SWITZERLAND
 
@@ -403,3 +427,29 @@ CHE S6Zen Lan Luz
 CHE IC2 ZurHau Zug
 CHE S1Zen Luz Baar
 CHE S1Chu Chur ReiTam
+CHE S2Zen ArtGol Ers
+CHE R61BOB IntOst Gri
+CHE R62BOB Zwe Lau
+CHE R70Zen IntOst Mer
+
+#WALES
+
+WLS ConVlyLn Llad BlaFfe
+WLS NWSWWre ENG/WLS WLS/ENG
+WLS BirLLaLnWre ENG/WLS WreGen
+WLS NWSWMon ENG/WLS WLS/ENG
+WLS NWSWLla ENG/WLS WLS/ENG
+WLS NWSWCar ENG/WLS CarCen
+WLS WWalLnPem CarCen Ten
+WLS BreMouRwy Pant Tor
+WLS GtOrmeTwy VicSta Sum
+WLS CamLn ENG/WLS Mac
+WLS CamCoaLn Mac Por
+WLS FfeRwy PorHar BlaFfe
+WLS SnoMouRwy Lla Copa
+WLS WelHigHR Por PenYMou
+WLS WelHigRwy PorHar Cae
+WLS MarLnMon WLS/ENG ENG/WLS
+WLS MarLnLla WLS/ENG ENG/WLS
+WLS MarLn CarCen WLS/ENG
+WLS WCMLC ENG/WLS Hol

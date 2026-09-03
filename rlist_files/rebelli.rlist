@@ -1,11 +1,17 @@
 #### United States ####
+# Alaska
+AK WPY Ska USA/CAN
+
 # Delaware
 DE NENor MD/DE DE/PA
 
 # District of Columbia
 DC PennLn DC/MD WasUniSta
 DC BluLn LEnfPla VA/DC
-DC GreLn DC/MD Arc
+DC BluLn StaArm LEnfPla
+DC BluLn FogBotGWU LEnfPla
+DC GreLn DC/MD NavyYardBal
+DC RedLn FortTot VanNessUDC
 DC SilLnNew DC/MD LEnfPla
 DC YelLn VA/DC MtVerSq
 
@@ -16,16 +22,18 @@ GA GoldLn Air PeaCen
 MD NENor NewCar MD/DE
 MD CamLn ColPk BalCam
 MD PennLn BalPenn DC/MD
-MD GreLn ColPk DC/MD
+MD GreLn Gre DC/MD
 MD SilLnNew NewCar DC/MD
 
 # New Jersey
 NJ NENor NJ/NY PA/NJ
+NJ NJerCoaLn Woo Rah
 
 # New York
 NY NECorLn NY/NJ PennSta
+NY 1 66StLinCen SouFry
 NY B 47-50StsRocCen DeKAv
-NY E CouSq23St 34StPennSta
+NY E CanSt 34StPennSta
 NY G HoytSchSts CouSq
 
 # Pennsylvania
@@ -33,8 +41,35 @@ PA NENor DE/PA PA/NJ
 
 # Virginia
 VA BluLn VA/DC PenCity
-VA YelLn PenCity VA/DC
-VA YelLn RRWasNatAir KingStOldTown
+VA YelLn VA/DC KingStOldTown
+
+
+
+
+#### Canada ####
+# British Columbia
+BC CanLn BroCityHall Wat
+BC WPY USA/CAN Fra
+
+
+
+
+#### France ####
+# Occitanie
+FRA-OCC Tram2 Sab GareStRoch
+
+
+
+
+#### Germany ####
+# Baden-Wurttemburg
+DEU-BW ICE12 DEU/CHE FreHbf
+DEU-BW S1Fre Hbf SchSee
+DEU-BW 1Fre BerBru EmilGottStr
+DEU-BW 4Fre Hbf OkenStr
+
+
+
 
 #### India ####
 # Delhi
@@ -42,3 +77,37 @@ IND-DL VioLn DL/HR Jan
 
 # Haryana
 IND-HR VioLn OldFar DL/HR
+
+
+
+
+#### Spain ####
+# Andalusia
+ESP-AN MadMal CM/AN MarZam
+
+# Aragon
+ESP-AR MadBarFig AR/CT ZarDel
+
+# Catalonia
+ESP-CT MadBarFig San AR/CT
+
+# Castilla-La Mancha
+ESP-CM MadMal MD/CM CM/AN
+
+# Community of Madrid
+ESP-MD MadMal Ato MD/CM
+ESP-MD M1 Sol Ato
+ESP-MD M4 AveAme AloMar
+ESP-MD M5 AloMar Cal
+
+
+
+
+#### Switzerland ####
+CHE IC1 ZurFlu GenCor
+CHE IC3 ZurHau BasSBB
+CHE IC61 BasSSB IntWest
+CHE ICE12 BasSBB DEU/CHE
+CHE R62BOB Wil Lau
+CHE R70Zen IntOst Mer
+CHE R71Zen Mer AarOst

@@ -5,8 +5,7 @@ DC FL WasUniSta FL FL Mia
 LA NO NewOrl IL NO UniSta
 OR AC Eug BC AC VanPacCen
 
-AK GlaDis Anc AK GlaDis +DIV_Por_C
-
+#LA Metrorail
 CA OraCouLn UniSta Oce
 CA SanBerLn UniSta PomN
 
@@ -53,15 +52,15 @@ CA VTABlue SanTer Bay
 CA VTAGre Win OldIro
 CA VTAOra DtnMouView Bay
 
-AZ A 44thStWas GilRdMainSt
-CO DurSilNGR Dur Sil
-FL TriRail MetTra MiaAir
-FL EpcMon TraTicCen EPCOT
-FL ExpMon TraTicCen_1 TraTicCen_2
-FL ResMon TraTicCen_1 TraTicCen_2
-FL TECO DowTam CenPark
-FL NBankLn JacRTC RosaPar
-FL SBankLn RosaPar KinAve
+#Denver RTD
+CO ALn UniSta DenAir
+CO BLn UniSta Wes
+CO GLn UniSta WheRidWardRd
+CO NLn UniSta Eas124th
+CO DLn LitMin 10thOsa
+CO ELn RidPkwy UniSta
+CO RLn Lin Peo
+CO WLn JefCouGovCenGol UniSta
 
 #CTA
 IL BlueLn OHa Cli
@@ -82,15 +81,6 @@ MA RedLnBra Bra Ale
 MA GreLnD Cop UniSq
 MA GreLnE HeathSt Lec
 MA RedLnM Ash Mat
-
-MI DetPeoMov Mic_S Mic_N
-MI QLn GraBlvd ConSt
-MO MLRedLn LamAirTer1 LacLan
-NV LVM MGMGra SLS
-NV AE ParkMGM Bel
-NV MBT ManBay ExcNor
-NY BMR SpeEve Uni
-NY NECorLn PennSta NJ NECorLn NewLibAir
 
 #NY Subway
 NY 1 110StCatPkwy SouFry
@@ -121,33 +111,14 @@ NY SPro FraAve ProPk
 NY W QuePlaza WhiStSFry
 NY SIR StGeo OldTown
 
-OH RedLn Air StoWin
-
 #MAX
 OR RedLn PioSq PorIntAir
 OR BLp 11thMar_S 11thCou
 OR BLp GraHoyt 11thMar_N
 
-PA AirLn PHLTerB Phi30thSt
-PA BlueLn Gat StaSq
-PA RedLn Gat StaSq
-PA SilLn Gat StaSq
-PA Duq Low Upp
-PA Mon Low Upp
-
 #DART
 TX OraLn DFWAir CityPlaUpt
 TX RedLn Wes CityPlaUpt
-
-TX RedLnHou EnsHCC CenSta
-WA SeaCenMon SeaCen WesCen
-WA N Eve Sea
-WA S Sea TacDome
-WA 1 Lyn AngLake
-WA 2 SBel RedTec
-WA T TacDome 4thSt
-WA 1stHillLn BroDen OccMall
-WA SouLakeUniLn FaiCamDr WesHub
 
 #US Airpoirts Airside
 CA AutPeoMov CenTerB ConB
@@ -174,6 +145,16 @@ WA GreLn DGat_Sta DGat_Fin
 WA BlueLn AGat_Sta AGat_Fin
 WA YelLn AGat DGat
 
+#Washington Metro
+DC GreLn Wat DC GreLn GalPla
+MD RedLn Roc DC RedLn UniSta
+VA BluLn KingStOldTown DC BluLn FedCenSW
+VA OraLn EFallsChu VA OraLn Cla
+VA OraLn Ros DC OraLn FedCenSW
+VA SilLn DulIntAir VA SilLn Cla
+VA SilLn Ros DC SilLn FedCenSW
+VA YelLn KingStOldTown DC YelLn GalPla
+
 #US Airports Landside
 AZ PHX RenCarCen 44thSt
 CA OAKAir OakIntAir Col
@@ -190,19 +171,50 @@ NY AirTrnHow HowBea Loop
 NY AirTrnJam Jam Loop
 TX IAHSub TerA TerD/E
 
-#Washington Metro
-DC GreLn Wat DC GreLn GalPla
-MD RedLn Roc DC RedLn UniSta
-VA BluLn KingStOldTown DC BluLn FedCenSW
-VA OraLn EFallsChu VA OraLn Cla
-VA OraLn Ros DC OraLn FedCenSW
-VA SilLn DulIntAir VA SilLn Cla
-VA SilLn Ros DC SilLn FedCenSW
-VA YelLn KingStOldTown DC YelLn GalPla
+AK GlaDis Anc AK GlaDis +DIV_Por_C
+AK WPY Ska BC WPY WhiPass
+AZ A 44thStWas GilRdMainSt
+CO DurSilNGR Dur Sil
+FL TriRail MetTra MiaAir
+FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
+FL ResMon TraTicCen_1 TraTicCen_2
+FL TECO DowTam CenPark
+FL NBankLn JacRTC RosaPar
+FL SBankLn RosaPar KinAve
+MI DetPeoMov Mic_S Mic_N
+MI QLn GraBlvd ConSt
+MO MLRedLn LamAirTer1 LacLan
+NV LVM MGMGra SLS
+NV AE ParkMGM Bel
+NV MBT ManBay ExcNor
+NY BMR SpeEve Uni
+NY NECorLn PennSta NJ NECorLn NewLibAir
+OH RedLn Air StoWin
+PA AirLn PHLTerB Phi30thSt
+PA BlueLn Gat StaSq
+PA RedLn Gat StaSq
+PA SilLn Gat StaSq
+PA Duq Low Upp
+PA Mon Low Upp
+TX RedLnHou EnsHCC CenSta
+WA SeaCenMon SeaCen WesCen
+WA N Eve Sea
+WA S Sea TacDome
+WA 1 Lyn AngLake
+WA 2 SBel RedTec
+WA T TacDome 4thSt
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
 
 PR TrenUrb SagCor Bay
 
-BC ExpoLn Wat MainStSciWor
+#BC Skytrain
+BC CanLn Wat YVRAir
+BC CanLnRic Wat RicBri
+BC ExpoLn Wat KingGeo
+BC ExpoLnPro Wat ProWayUni
+BC MilLn VCCCla LafLakeDou
 
 AUS-NSW CCN Cen Gos
 AUS-NSW SCO Cen Sut
@@ -217,14 +229,6 @@ AUS-NSW T8 TownHall Cen
 AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
 AUS-VIC MelXPT NSW/VIC SouCro
-
-ENG LonPar LonStPanInt GBR/FRA
-ENG HEx LonPad HeaTer5
-ENG GatEx LonVic Bri
-ENG EliLn HayHar BondSt
-ENG EliLnHea HeaTer23 BondSt
-ENG EliLnShe HeaTer5 BondSt
-ENG LioLn Eus KilHighRd
 
 #London Underground
 ENG BakLn KilPark EleCas
@@ -245,22 +249,27 @@ ENG DLRRoy Sha Pop
 ENG DLRStr CanWha BowChu
 ENG DLRWoo Bank Pop
 
-FRA-HDF LonPar GBR/FRA HDF/IDF
-FRA-IDF LonPar HDF/IDF ParGareNord
-FRA-IDF C ChaMarsTourEif StMicNotDame
-
 #Paris Metro
 FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
 
+ENG LonPar LonStPanInt GBR/FRA
+ENG HEx LonPad HeaTer5
+ENG GatEx LonVic Bri
+ENG EliLn HayHar BondSt
+ENG EliLnHea HeaTer23 BondSt
+ENG EliLnShe HeaTer5 BondSt
+ENG LioLn Eus KilHighRd
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF C ChaMarsTourEif StMicNotDame
 GRC 1Ath Pir Kif
 GRC 2Ath Ell Ant
 GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
 GRC T7 LOOP AskVou
-
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 

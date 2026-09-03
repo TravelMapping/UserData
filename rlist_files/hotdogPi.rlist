@@ -7,6 +7,7 @@ CA CS UniSta OR CS PorUniSta
 OR EBPor PorUniSta IL EBPor UniSta
 IL CA UniSta DC CA WasUniSta
 CA PS Irv OldTownTC
+PA KS Har Phi30thSt
 
 MA RocLn BosNor Roc
 MA NewLn BosNor New
@@ -59,9 +60,9 @@ ON 4 SheYon DonMil
 ON 5 MouDen Ken
 ON 504a QueStW MillStDisLp
 ON 508 SpaAve BaySt
-ON 509 ExhLp UniSt
-ON 510 UniSt SpaSta
-ON 511 BatSta FortYorkBlvdE
+ON 509 ExhLp UniSta
+ON 510 UniSta SpaSta
+ON 511 BatSta FortYorkBlvd_E
 
 FRA-IDF LonPar ParGareNord ENG LonPar LonStPanInt
 
@@ -75,10 +76,3 @@ ENG NorLnEdg Emb TotCouRd
 
 FRA-IDF C ChaMarsTourEif Jav
 FRA-IDF D ChaHal GareNord
-
-TEMP
-Clinched 1, 2, 4, and 509
-508 from Spadina to Bay
-510 from 509 to 501
-511 north of Fort York
-GO from Exhibition, Kipling, and Kennedy to Union

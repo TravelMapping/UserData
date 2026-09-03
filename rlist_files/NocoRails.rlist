@@ -1,7 +1,24 @@
+# **Intercity Rail**
+# Amtrak
+CO CZ UniSta CO/NE
+IA CZ NE/IA IA/IL
+IL CZ IA/IL UniSta
+NE CZ CO/NE NE/IA
+
+# **Commuter Rail**
+# Denver, CO
+CO ALn UniSta DenAir
+CO BLn UniSta Wes
+CO GLn UniSta WheRidWardRd
 CO NLn UniSta Eas124th
 
+
+# **US Tourist/Heritage Railroads**
 CO FortColMunRai CityPark MouHow
 
+
+# **Rapid Transit**
+# Washington, D.C.
 DC BluLn VA/DC DC/MD
 DC GreLn LEnfPla MtVerSq
 DC OraLn VA/DC +DIV_Blue
@@ -13,18 +30,48 @@ VA OraLn +DIV_Blue VA/DC
 VA SilLn +DIV_Blue VA/DC
 VA YelLn Pen VA/DC
 
-OR RedLn BeaTraCen PorIntAir
+# Chicago, IL
+IL BlueLn Gra Rac
+IL BroLn WasWel WasWab
+IL OraLn Mid Loop
+IL RedLn Jac Add
 
+# Las Vegas, NV
+NV LVM MGMGra SLS
+
+
+# **Light Rail**
+# San Francisco, CA
 CA MuniF 5thCyr Bea
 
-CO ELn EmpFieMileHigh UniSta
+# Denver, CO
+CO DLn LitMin 16thSto
+CO ELn RidPkwy +DIV_DLn/HLn
+CO ELn +DIV_WLn UniSta
+CO HLn Flo 16thSto
+CO LLn 30thDow 16thSto
+CO LLn +DIV_LLn_S Loop
+CO RLn Lin Peo
 CO WLn JefCouGovCenGol UniSta
 
+# Portland, OR
+OR RedLn BeaTraCen PorIntAir
+
+
+# **People Movers**
+# Airside
 CO DENTrn JepTer CGat
 FL TPAShuAiC MainTer AirC
 VA AerTrn ConB MainTer
 
+# Landside
 AZ PHX RenCarCen T3
 FL SkyCon MainTer RenCarCen
 
+# Other
+NV AE ParkMGM Bel
+
+
+# **Streetcars**
+# San Francisco
 CA PowHyde Mar Bea

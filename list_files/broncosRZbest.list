@@ -36,13 +36,24 @@ CA I-680 I-280/101 30
 CA I-680 53 71
 #Good golly there are a lot of 80s
 
+CA I-105 1D 2 #actually 1C
+CA I-405 45 57B
+
 CA US101 94A 110
 CA US101 336 389A
 
+CA CA1 RosAve LAX
+CA CA1 SkyWay VenBlvd
+CA CA1 ChaBlvd SunBlvd #don't technically have all of this, but Sunset Blvd is super close to where we were for Andrea & Will's wedding. 
+CA CA1 402B 441B
+#Grabbing some CA 1 (PCH?? Not sure where that designation technically lies) because it's iconic
 
+
+
+#COLORADO
 
 #Starting with I-70
-CO I-70 167 261
+CO I-70 28 261
 CO I-70 269A 274
 CO I-70 276B CO/KS
 
@@ -64,8 +75,7 @@ CO US24 CO91 CO9_N
 
 CO US36 CO119_W I-270(0)
 
-CO US40 3rdSt CO9
-CO US40 CO125 I-70BLDen_W
+CO US40 3rdSt I-70BLDen_W
 
 CO US50 McCulBlvd 101(25)
 
@@ -84,7 +94,9 @@ CO US287 HarRd MulSt
 CO CO121 CO470 RalRd
 CO CO85 I-25 VenBlvd_N
 #I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
-
+CO CO88 Bro I-25(199)
+CO CO340 IndValDr RedPkwy
+CO PenaBlvd I-70 Ter
 
 
 #FLORIDA
@@ -234,6 +246,13 @@ KY KY9 I-275 KY1/7 #AA Highway! I've clinched the AA portion.
 
 
 
+#MARYLAND
+MD I-97 1 15
+MD I-195 TerRd 1
+MD US50 21 41
+
+
+
 #MICHIGAN
 MI I-75 OH/MI 61
 MI I-75 115 344
@@ -263,8 +282,17 @@ MI US127 40 194
 MI US127 201 I-75
 
 
-#NEXT UP
+
 #Minnesota
+MN I-35 253A 259
+MN I-35W 11B 30
+MN I-535 WI/MN GarAve
+MN I-94 127 216
+MN I-494 1A 27
+MN US2 I-35(253A) MN/WI
+MN US10 US71 I-35W(30)
+MN US71 I-94 MN34
+MN MN61 I-35 Bro
 
 
 
@@ -275,31 +303,108 @@ MO I-670 KS/MO 1B
 MO I-670 2Q 2N
 
 
-#OHIO
-#only entered Cleveland-area highways so far (but tried to enter all my travels on them throughout the state)
 
-OH I-71 KY/OH I-90
-OH I-77 147 156
+#MONTANA
+MT I-90 446A 450
+
+
+
+#NEW HAMPSHIRE
+NH I-95 2 NH/ME
+NH I-93 7 I-89
+NH I-89 I-93 NH/VT
+
+
+
+#NEW YORK
+NY I-90 PA/NY 36(NYST)
+NY I-90 25A(NYST) 1
+
+NY I-81 PA/NY 5A
+NY I-81 25A 48A
+NY I-86 PA/NY 21
+NY I-87 24(NYST) 21
+NY I-88 I-81 I-90
+
+NY I-781 1 4
+
+NY US2 US11 NY/VT
+NY US4 NY149_W NY/VT
+NY US11 I-781 NY9B
+NY US11 NY276_E US2
+NY US219 I-86(21) NY242_W
+
+
+
+#NORTH CAROLINA
+NC US129 NC28 NC/TN #We turned off for Magazine Branch parking at the top of the curve, prior to the next TM marker. 
+
+
+
+#OHIO
+
+OH I-70 44 96
+OH I-70 108 OH/WV
+OH I-75 KY/OH OH/MI
 OH I-80 71 151
 OH I-80 152 173
 OH I-90 71 142
 OH I-90 OH2_W OH/PA
 
-OH I-480 I-80_W 21(271)
-OH I-490 1A OH10_E
+OH I-71 KY/OH I-90
+OH I-74 IN/OH I-75
+OH I-77 147 156
+
 OH I-270 I-71 55
 OH I-271 18 26A
+OH I-275 IN/OH OH/KY
+OH I-280 1A I-75
+OH I-471 KY/OH I-71
+OH I-475 1 20
+OH I-480 I-80_W 21(271)
+OH I-490 1A OH10_E
+OH I-670 I-70 5
+OH I-675 I-75 26
 
 OH US6 OH60 US322_E #I know this is concurrent with US 6, but I'm not recording that since US 6 was my focus.  I'll let the website grab the concurrency. 
 OH US20 CroRd PubSqu
 OH US20 US322_W US6_W
+OH US30 IN/OH US127/224
+OH US50 IN/OH US23Bus_N
+OH US50 OH32_W 198(33)
+
+OH US22 US27/42 OH56_E
+OH US23 I-75(193) OH/MI
+OH US27 KY/OH OH/IN
+OH US33 170 129
+OH US33 38 OH/IN
+OH US35 110 72
+OH US35 55 42
 OH US42 KY/OH TarCemRd
 OH US42 I-71(234) OH17
 OH US42 I-90 PubSqu
+OH US52 IN/OH US62_W
+OH US62 OH32 OH138_E
+OH US68 I-71 7
+
+OH US127 KY/OH NilRd
+OH US127 US33/707 US30/224
+#OH US250 too short to register
 OH US322 PubSqu KenRd
 #Technically missing the block between 12th and 13th (Masthead Brewing)
 OH US422 PubSqu I-77
 OH US422 LeeRd OH8_S
+
+OH OH4 OH562 GleMilRd
+OH OH4 I-275 OH4Byp_S
+OH OH125 US50 OH133
+OH OH126 20 US22_E
+OH OH126 LovMiaRd US50
+OH OH32 US50 198(33)
+OH OH561 US50 VineSt
+OH OH562 I-75 I-71
+
+#Whew! Made it through OH
 
 
 
@@ -314,6 +419,67 @@ OR US26 71B 26thAve
 
 
 
+#PENNSYLVANIA
+
+PA I-70 WV/PA 146(76)
+PA I-80 161 260
+PA I-90 OH/PA PA/NY
+PA I-81 151 PA/NY
+PA I-86 1 PA/NY
+PA I-99 1 MusLn
+
+PA US220 MusLn I-80(161)
+
+
+
+#TENNESSEE
+
+TN I-40 211 213
+TN I-40 368 387A
+TN I-40 393 421
+TN I-65 86 TN/KY
+TN I-75 GA/TN TN/KY
+
+TN I-24 44 158
+TN I-24Cha 174 185
+TN I-81 1 8
+
+TN I-124 I-24 TenRiv
+TN I-140 1C 1A
+TN I-275 I-40 3
+TN I-640 I-40_W I-40_E
+
+TN US11 TN324 I-140
+TN US25E I-81 TN/KY
+TN US25W TN170 TN61
+TN US25W StiCrkRd I-75(160)
+# plus some US 25W concurrencies captured elsewhere. 
+TN US27 I-24(180B) ManRd
+TN US41 I-24(174) TN27
+TN US58 US25E TN/VA
+TN US70 US11_S I-140 #Plus some to the west, but not all the way to US 321. 
+TN US129 NC/TN I-40
+TN US321 US441_S US441_N #We drove a bit east of Gatlinburg too, but not enough to get the next waypoint. 
+TN US321 TN73Sce US411Trk_N
+TN US441 ChiPicArea US411_N
+#Skipped some that have zero standalone miles. 
+
+
+
+#VERMONT
+VT I-89 NH/VT 15
+VT I-189 I-89 US7
+VT US2 NY/VT VT2A_Wil
+VT US4 NY/VT VT22A
+VT US7 VT30 US2_W
+
+
+
+#VIRGINIA
+#I've driven US 58 in VA but not enough to reach a waypoint. 
+
+
+
 #WASHINGTON
 
 WA I-90 2 25
@@ -325,6 +491,27 @@ WA SteCynRd WA706 ParVlyRd_S
 
 
 
+#WEST VIRGINIA
+
+WV I-70 OH/WV WV/PA
+
+
+
+#WISCONSIN
+
+WI I-90 45 WI/IL
+WI I-94 70 240
+WI I-535 US53 WI/MN
+
+WI US2 MN/WI WI/MI
+WI US53 84 WI/MN
+
+
+
+#ENGLAND
+#Bus routes with Kirk!  Because why not?!
+
+ENG A3218 A4 A3219 #Both directions from his flat on the 430
 
 
 

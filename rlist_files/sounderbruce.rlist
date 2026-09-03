@@ -177,7 +177,7 @@ UT GreLn CityCen Air
 UT RedLn CenPoi +DIV_BlueLine/GreLine
 
 WA 1 Lyn FedWayDow
-WA 2 SBel DowRed
+WA 2 Lyn DowRed
 WA N Eve Sea
 WA S Sea Lak
 WA T TacDome StJos

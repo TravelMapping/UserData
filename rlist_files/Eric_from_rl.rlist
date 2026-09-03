@@ -7,13 +7,15 @@ DC RedLn MD/DC DC/MD
 DC SilLn VA/DC DC/MD
 DC YelLn VA/DC MtVerSq
 DE CN MD/DE DE/PA
+GA GoldLn Air NorAve
+GA PlaTrn DomTer EGat
 MD BLRL CamYds HuntVly
 MD OraLn DC/MD LarTownCen
 MD CamLn DC/MD BalCam
 MD CN DC/MD MD/DE
 MD GreLn DC/MD Gre
 MD GreLnSui BraAve MD/DC
-MD MetSub ChaCen OwiMil
+MD MetSub JohHopHos OwiMil
 MD OraLn DC/MD NewCar
 MD RedLn ShaGro MD/DC
 MD RedLnGle DC/MD Gle
@@ -22,7 +24,7 @@ NC CN Cary NC/VA
 NJ CN PA/NJ NJ/NY
 NY 3 TimSq42St WallSt
 NY 6 51stSt 77thSt
-NY 7 34StHudYar
+NY 7 34StHudYar FluMainSt
 NY C FulSt 42StPABT
 NY E JacHeiRooAve CouSq23St
 NY CN NJ/NY PennSta
@@ -31,6 +33,7 @@ NY L 8Ave LorSt
 NY M 5Ave 53St
 NY R WhiStSFry 57St7Ave
 PA CN DE/PA PA/NJ
+VA AerTrn ConB ConCD
 VA BluLn FraSpr VA/DC
 VA CN NC/VA VA/DC
 VA OraLn VieFaiGMU VA/DC
@@ -45,6 +48,7 @@ QU OraLn JeaTal BerUQAM
 QC YelLn BerUQAM LonUniDeShe
 
 
+AUT RB54 Kuf DEU/AUT
 AUT S1Vor Blu DEU/AUT
 AUT S2Vor AUT/LIE Fel
 AUT S3Tir AUT/ITA InnHau
@@ -64,11 +68,15 @@ CHE IC21 Lug Olt
 CHE IC51 Biel/Bie Del
 CHE IC81 IntOst ZurFlu
 CHE L1 GenCor PontCea
+CHE R1Jur Glo Del
 CHE R3 TourPei Lau
 CHE R20Neu Loc ChaFon
 CHE R23Neu CorPes Neu
 CHE R36Jur ChaFon Glo
 CHE R41MGB Zer Tas
+CHE R61BOB IntOst Gri
+CHE R62BOB IntOSt Lau
+CHE R70Zen IntOst Mer
 CHE S1Zen Luz Zug
 CHE S2Gal Ror StMar
 CHE S2Vor Buc LIE/CHE
@@ -82,12 +90,16 @@ CHE S5Zen Gis Luz
 CHE S20Tic Loc Bel
 CHE S24 Zug ZurFlu
 CHE S50Tic Lug Air
+CHE SkyMet AirCen DockE
+DEU-BY RE5 MunOst Fre
+DEU-BY RB54 DEU/AUT MunHbf
 DEU-BY S1Vor DEU/AUT LinIns
 DEU-BY S3Sal Fre DEU/AUT
 DEU-BY S4 Hbf Gra
 DEU-BY S8 OstBf FlugHafMun
 DEU-BY U2 InnsBruRing MesStaWest
 DEU-BY U5 Hbf InnsBruRing
+ENG HT5Tra GatA1A23 GatC52C66
 ESP-AN L1 CiuExpo OliQui
 ESP-AN T1 PlaNue SanBer
 ESP-AR C1 Cas Mir
@@ -127,7 +139,11 @@ ESP-MD M11 For PlaEli
 ESP-MD M12 PueSur_1 PueSur_2
 ESP-MR PriPio Ope
 FRA-PAC ParNice Can FRA/MCO
+ITA-LOM M2 SantAmb Cen
+ITA-LOM M4 SanCri LinAeroPor
 ITA-TRE S3Tir Bre AUT/ITA
+ITA-VEN T1 PiaRoma MesCen
+ITA-VEN T2 SanAntMun MesCen
 LIE S2Vor LIE/CHE AUT/LIE
 MCO ParNice FRA/MCO MonMonCar
 NLD 1Haa NiePla Cen
@@ -138,3 +154,8 @@ NLD IC35 NLD/BEL RotCen
 SCT EdiTram PriSt EdiGat
 SCT FarNorLn Invg DunCas
 SCT FifeLnCow EdiWav GleTho
+
+
+PAN 1 5Mayo SanMig
+PAN 2 SanMig CorSur
+PAN 2Aer CorSur Aer

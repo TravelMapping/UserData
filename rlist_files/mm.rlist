@@ -76,6 +76,11 @@ MI WV IN/MI Det
 
 MI DetPeoMov Mic_S Mic_N
 
+#Missouri
+
+MO KCSC UniSta CityMar
+MO KCSC RivMarW RivMar
+
 #Nebraska
 
 NE CZ Lin NE/IA
@@ -98,3 +103,11 @@ VA OraLn VieFaiGMU VA/DC
 
 #Wisconsin
 WI UPN IL/WI Ken
+
+
+#Canada
+
+#Alberta
+
+AB CapLn HeaSciJub Cla
+AB ValLn Chu 102St
