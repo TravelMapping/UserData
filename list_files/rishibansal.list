@@ -7,6 +7,7 @@
 #Update 7 Colorado Home Midwest
 #Update 8 Midwest
 #Update 9 Midwest and Home
+#Update 10 SoCal
 
 #Interstate
 CA I-5 5A 446 #HomeBayArea
@@ -63,7 +64,7 @@ WY I-90 126 153 #DevilsTower
 SD I-90 57 59 #RapidCity
 SD I-90BLRap CamSt EglSt #RapidCity
 CA I-105 1A 18 #LAXLBC
-CA I-110 1A 9 #LBC Bstw
+CA I-110 1A 21 #LBC Bstw Violet1
 NE I-180 2 9thSt #Lincoln
 CA I-215 I-15 54B #Tchpi
 MO I-270 20B 33 #STL
@@ -103,19 +104,22 @@ CA CA73 I-5 18 #UCLA
 CA CA74 FaiAve PalmDesLim
 CA CA75 I-5(5A) I-5(14A) #Home
 CA CA76 OldGroRd CA79 #PLMR
-CA CA78 1A Bro_N #Home
-CA CA78 CRS6 CA79_S #HomeJuln
+CA CA78 1A CA79_S #HomeJuln
 CA CA79 I-8 I-15(61) #JlnEly
 CA CA79 ScoRd DomPkwy #Idyllwild
+CA CA90Yor KraBlvd CA91 #Violet1
+CA CA91 VerAve 35 #Violet1
 CA CA91 36 50 #LBC Bstw
 CA CA91 53 65B #LBC Bstw
 CA CA94 2A ForGateRd #Home
 CA CA94 ShoTruTr OldHwy80_W
 CA CA99 24 26 #Tchpi
+CA CA110 21 GleSt #BD Violet1
 CA CA119 HarSt CA43 #Tchpi
 CA CA125 12A 15 #Home
 CA CA125 18B 22 #Home
 CA CA127 I-15 CA/NV #Ely
+CA CA133 CRS18 8 #Violet1
 CA CA138 I-15 SumValRd #CajonPass
 CA CA163 ASt I-15 #Home
 CA CA152 US101(357) I-5 #BayArea
@@ -301,6 +305,7 @@ CA US66HisAzu PalmAve I-15(129) #CajonPass
 CA US66HisBar I-15(150) AmbRd #TchpiBstw
 CA US101HisSan I-5(11A) LeuBlvd
 CA US395HisPow I-15(14) I-15(26)
+CA US395HisVis US395His AutoParkWay
 CA US395HisTem I-15(28) I-15(58)
 
 #National Parks
@@ -313,4 +318,5 @@ MO MLKBri I-44 IL MLKBri I-55
 #Patchable Locations
 #Panguitch
 #Kemmerer
+#110thru405
 
