@@ -113,6 +113,7 @@ LA I-49 1A 206
 LA I-49Bel 210 LA/AR
 AR I-49Tex LA/AR 29B
 AR I-49Tex 37 AR/TX
+TX I-49 AR/TX US59/71
 AR I-49 20 AR/MO
 MO I-49 AR/MO 39B
 MO I-49 53 I-435
@@ -980,6 +981,7 @@ AL AL126 AL126 I-85(16)
 AL AL126 AL110 AtlHwy
 AL AL137 FL/AL US29
 AL AL154 AL69 US43
+AL AL161 AL161Gul_N I-10
 AL AL180 AL59 StaParkRd
 AL AL182 AL59 StaParkRd2
 AL AL185 AL245 I-65(130)
@@ -987,6 +989,7 @@ AL AL210 AL52_E US231_S
 AL AL219 AL22 US80
 AL AL271 US82/231 TayRd
 AL AL291 AL759 US278/431
+AL AL308 AL59 AL161
 AL AL759 I-759 AL291
 
 # Alabama Special State Routes
@@ -1021,7 +1024,8 @@ CA CA138 CA14(37) CA14(35)
 CA CA170 5 11B
 
 # Connecticut State Routes
-CT CT2 I-91 18
+CT CT2 ColBlvd 23
+CT CT2 25 36
 CT CT2 20 28
 CT CT3 I-91 CT2
 CT CT9 29 31
@@ -1119,6 +1123,8 @@ GA GA3 US280_W US280_E
 GA GA3 GA5Con GA92_N
 GA GA3 GA136_W GA136_E
 GA GA3 US76_E I-75(336)
+GA GA5 I-75(267) I-75(268)
+GA GA5 GA382 US76_E
 GA GA7 GA127/224 I-75(135)
 GA GA9 I-285 GA141_N
 GA GA13 I-985 GA369
@@ -1153,12 +1159,10 @@ GA GA224 GA26 I-75
 GA GA236 US29_N MouIndBlvd
 GA GA279 I-85/285 US29
 GA GA369 PeaNixPkwy GA13
-GA GA382 GA136 OldGA5_N
-## note: GA 382 seems to have been re-aligned; we traveled it to GA 515
 GA GA378 IndTraLRd I-85
+GA GA382 GA136 GA5/515
 GA GA400 1A 13
-GA GA515 HowSimRd GA60
-## note: we traveled GA 515 to the newer GA 382 terminus
+GA GA515 GA382 GA60
 GA GA520 I-185 US27_S
 GA GA540 I-75(149) I-520
 
@@ -1261,7 +1265,7 @@ MD MD27 MD144 MD26
 MD MD30 MD128 MD/PA
 MD MD32 I-97 BenAve
 MD MD41 MD147 WalWooRd
-MD MD43 US1 MD150
+MD MD43 I-695 MD150
 MD MD45 US1 PadRd
 MD MD51 UhlHwy_N I-68
 MD MD54 MD313 MD/DE
@@ -1703,6 +1707,10 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
-# 7/8/2026
-# new: I-35 north of St Paul, US 8
-# updated: I-35E
+# 8/30/2026
+# Includes various changes in TX, AL, GA, MD, and CT
+# TX: TM added I-49 waypoint segment in TX (traveled in 2020)
+# AL: added AL 161 and 308 as these were recent additions to the Alabama state highway system (traveled in February 2022)
+# GA: GA 382 was adjusted to a new terminus; GA 5/515 adjusted in tandem (traveled in September 2025)
+# MD: added final segment of MD 43 as have driven multiple times recently
+# CT: added section of CT 2 from I-91 into downtown Hartford; also changed numbers of CT 2 from sequential to mileage exiting (traveled in October 2023)

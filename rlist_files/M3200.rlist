@@ -257,8 +257,8 @@ PA CHWLn Phi30thSt CheHillW
 PA CR DE/PA PA/NJ
 PA KS Har Phi30thSt
 PA ManNorLn Phi30thSt ElmSt
-PA MarFraLn 69th 15th
-PA NorLn 69th Nor
+PA L1 69th 15th
+PA M1 69th Nor
 PA PA PitUni Har
 PA PaoThoLn Pao Phi30thSt
 PA PATCO 15th16thLoc PA/NJ
@@ -349,6 +349,24 @@ ENG HarLn Har York
 ENG PicLnHT4 HeaTer23 CovGar
 ENG SEML ChaCro Sta
 ENG TPNRtePic ManPic Gre
+ENG WCMLA Cre ENG/SCT
+ENG WreCreLn WLS/ENG Cre
+ENG HolManLn WLS/ENG Che
+ENG NWSW WLS/ENG ENG/WLS
+ENG NWSWLLa WLS/ENG ENG/WLS
+ENG NWSWWal WLS/ENG ENG/WLS
+ENG BARL BirInt BirAir
+ENG CamLn Shr ENG/WLS
+ENG MarLn WLS/ENG Cre
+ENG MarLnLla WLS/ENG ENG/WLS
+ENG MarLnWal WLS/ENG ENG/WLS
+ENG MidCheLn ManPic Che
+ENG XCMLMan StoTre ManPic
+ENG LakLn OxeLakeDis Win
+ENG FurLn ManPic Pre
+ENG XCMLSou BirInt StoTre
+ENG CarNotLn Glo BirNewSt
+ENG XCML BirNewSt ENG/SCT
 
 #GERMANY
 
@@ -380,6 +398,10 @@ SCT KyleLn Din KyleLoc
 SCT StrRwy Avi Bro
 SCT WestHigLnFor FortWil Mal
 SCT NorClyLnHel GlaQueSt EdiWav
+SCT EdiTram Hay EdiAir
+SCT WCMLA ENG/SCT EdiWav
+SCT FifeLnDun EdiWav Dun
+SCT BorLn EdiWav Twe
 
 #SWITZERLAND
 
@@ -409,3 +431,25 @@ CHE S2Zen ArtGol Ers
 CHE R61BOB IntOst Gri
 CHE R62BOB Zwe Lau
 CHE R70Zen IntOst Mer
+
+#WALES
+
+WLS ConVlyLn Llad BlaFfe
+WLS NWSWWre ENG/WLS WLS/ENG
+WLS BirLLaLnWre ENG/WLS WreGen
+WLS NWSWMon ENG/WLS WLS/ENG
+WLS NWSWLla ENG/WLS WLS/ENG
+WLS NWSWCar ENG/WLS CarCen
+WLS WWalLnPem CarCen Ten
+WLS BreMouRwy Pant Tor
+WLS GtOrmeTwy VicSta Sum
+WLS CamLn ENG/WLS Mac
+WLS CamCoaLn Mac Por
+WLS FfeRwy PorHar BlaFfe
+WLS SnoMouRwy Lla Copa
+WLS WelHigHR Por PenYMou
+WLS WelHigRwy PorHar Cae
+WLS MarLnMon WLS/ENG ENG/WLS
+WLS MarLnLla WLS/ENG ENG/WLS
+WLS MarLn CarCen WLS/ENG
+WLS WCMLC ENG/WLS Hol

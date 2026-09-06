@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 7-11-26
+#everywhere that darmstarm has been up to 8-17-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 7-11-26.
+#last updated 8-17-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -32,6 +32,7 @@ DE DE7 DE/PA DE1(166)
 DE DE7 US40 BraRd #elkton -> home 6-29-26
 DE DE7 US40 US13/72 #home -> henlopen 7-5-26
 DE DE9 DE299 DE1 #home -> henlopen 7-5-26
+DE DE9 I-95 DE72 #wilmington -> home 7-14-26
 DE DE15 DE42_E DE299_E #henlopen -> home 7-5-26
 DE DE16 DE36_W AdaRd #to burrsville rd (rd 112)
 DE DE16 DE30/5Alt US13 #henlopen -> home 7-5-26
@@ -49,8 +50,11 @@ DE DE58 DE4 DE273 #various trips, old toy store, hospital
 DE DE62 DE2/41 DE4 #farmer's market alternate route
 DE DE71 DE896_S US301
 DE DE72 DE7_N US40 #rock gym
+DE DE72 DE9 US13/1 #wilmington -> home 7-14-26
 DE DE82 DE52 DE/PA
 DE DE92 DE100 US13 #from when i was a baby, trusting dad on this one
+DE DE100 DE92 AdaDamRd #medford -> home 8-15-26
+DE DE100 DE52 DE/PA #road trip 8-18-26
 DE DE141 DE9/273 US202/261 #antiq. clinched 7-8-26
 DE DE202 I-95/202 US13Bus
 DE DE261 US202/141 DE/PA #wilmington -> home 6/26
@@ -60,14 +64,19 @@ DE DE299 DE15_S DE9 #henlopen -> home 7-5-26
 DE DE300 DE11 DE42 #if i recall i was on some insane quest to see route 11 but didn't actually drive on it
 DE DE896 DE/MD DE71_S #antiq.
 DE DE896 US13 DE71_S #henlopen -> home 7-5-26
+DE DE896BusGla DE896_N US40 #glasgow movie theater
 #pennsylvania
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
+PA I-76 342 347 #dell concert 7-26
+PA I-78 71 55 #poughkeepsie -> home 7-19-26
 PA I-80 123 111 #niagara trip
 PA I-80 298 302 #tobyhana trip
 PA I-81 59 MD/PA #raleigh -> hershey
 PA I-81 70 67 #niagara trip
+PA I-81 85 116 #centralia trip 8-26 (home -> centralia)
 PA I-83 MD/PA 51 #niagara trip, various hershey trips
+PA I-84 PA/NY 53 #poughkeepsie -> home 7-19-26
 PA I-86 PA/NY 1 #niagara trip (rnrhf)
 PA I-90 37 OH/PA #niagara trip (rnrhf)
 PA I-95 DE/PA PA/NJ #various trips
@@ -81,43 +90,64 @@ PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
 PA US11 I-76 PA641_W #xc meet at carlisle high school, 2021
+PA US13 RidAve_S I-76/30 #dell concert 7-26
 PA US15 US11/581 MD/PA #hershey -> raleigh
 PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
+PA US22 PA248 PA33 #poughkeepsie -> home 7-19-26
 PA US30 PA41 US15 #gap to gettysburg
 PA US30 PA41 PA10 #"the shed adventure" 7-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
+PA US202 US1/322 PA/NJ #home -> poughkeepsie 7-19-26
 PA US209 I-476 PA309 #relatives trip
+PA US209 I-84 PA33_S #poughkeepsie -> home 7-19-26
 PA US219 PA153 PA948_N
 PA US222 US422/12 PA183 #hawk mountain trip
 PA US222 PA372_W PA462
+PA US222 MD/PA PA372_E #conowingo -> home 7-26
 PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
 PA US322 I-95(4) PA/NJ #relatives, old house
+PA US322 PA897_N PA82 #road trip 8-1-26
+PA US322 PA72_S PA934 #centralia trip 8-26 (home -> centralia)
 PA US322BusWes PA3 PA52 #wall -> home 5/26, friend trips
 PA US422Rea EgyRd US202 #tmg
 PA US422Rea US222/12 I-176 #reading part
 PA US422Rea PA743 US322 #various trips involving hershey park
+PA US422BusRea US222Bus US422 #centralia trip 8-26 (reading -> home)
 PA PA3 US202/322 US322Bus #wall -> home 5/26
 PA PA8 I-90 WagRd #rnrhf
 PA PA10 PA472_S I-176(2)
+PA PA12 PA73 SprValRd #centralia trip 8-26 (centralia -> reading)
 PA PA14 US15 LibSt #canada trip 6-26 (br stop)
+PA PA23 PA100 PA345 #poughkeepsie -> home 7-19-26
+PA PA23 PA625 PA897_S #road trip 8-1-26
 PA PA26 UniDr US322
 PA PA29Pho PhoPike BriSt_W #senior prom, 2022
+PA PA29Pho I-78 PA100_S #poughkeepsie -> home 7-19-26
 PA PA33 I-80 US22 #tobyhana trip
+PA PA33 US22 I-78 #poughkeepsie -> home 7-19-26
 PA PA39 RedTopRd US322/422 #last update, hershey trip 2025 (to the turkey hill)
-PA PA41 DE/PA US30
-PA PA41AltTrkAvo PA41_S PA41_N
-PA PA52 DE/PA US322Bus
+PA PA41 DE/PA US30 #antiq.
+PA PA41AltTrkAvo PA41_S PA41_N #antiq.
+PA PA42 PA61 RinRd #centralia trip 8-26 (centralia area)
+PA PA52 DE/PA US322Bus #antiq.
 PA PA53 US322_W US322_E
+PA PA54 PA901_E BMRunRd #centralia trip 8-26 (home -> centralia)
+PA PA61 MarSt_S PA73 #centralia trip 8-26 (home -> centralia -> reading)
 PA PA63 I-476 WamRd #xc meet at souderton hs, 2021
 PA PA69 PA/NY US62 #niagara trip (nice)
+PA PA72 PA283 US322_W #centralia trip 8-26 (home -> centralia)
+PA PA73 PA61 PA12 #centralia trip 8-26 (centralia -> reading)
 PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA74 MD/PA PA425_S #lock 12 trip 7-26
 PA PA82 DE/PA PA345 #coatesville, up to french creek
+PA PA82AltTrkCoa PA82_N PA82_S #poughkeepsie -> home 7-19-26
+PA PA82AltTrkEas PA82_N SprRd #road trip 8-1-26
+PA PA100 PA29_S PA23 #poughkeepsie -> home 7-19-26
 PA PA113 US30 DevDr #downingtown east
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
 PA PA118 OldPA115 PA487_N #ricketts glen trip 2018
@@ -126,10 +156,13 @@ PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA183 US222 PA895 #hawk mountain trip (to campsite)
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
+PA PA248 PA33 US22 #poughkeepsie -> home 7-19-26
 PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
 PA PA261 DE/PA PA491 #wilmington -> home 6/26
 PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
+PA PA272 PA897 US222/568 #road trip 8-1-26
 PA PA283 I-283 US30
+PA PA291 26thSt I-95(13A) #dell concert 7-26
 PA PA309 I-81(170) HilRd #ricketts glen trip 2018
 PA PA340 PA772_E PA462
 PA PA345 PA82 ParkRd #french creek
@@ -148,9 +181,11 @@ PA PA462 US30_E GreRd #awesome video game store
 PA PA472 PA841 PA372 #oxford, clinched 5-28-26
 PA PA487 PA118_E MainParkRd #ricketts glen trip 2018
 PA PA491 PA261 US202 #wilmington -> home 6/26
+PA PA568 US222/272 PA625 #road trip 8-1-26
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 GirAve #go birds (various trips)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
+PA PA625 PA568 PA23 #road trip 8-1-26
 PA PA641 US11/34 OraSt_N #xc meet at carlisle high school 2021
 PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
@@ -165,12 +200,15 @@ PA PA842 US322Bus PA841 #common, extended to west chester 5/26, clinched 7-3-26
 PA PA851 PA425 ConRd #lock 12 trip 7-26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
+PA PA897 US30 PA272 #road trip 8-1-26
+PA PA901 I-81 PA54_E #centralia trip 8-26 (home -> centralia)
 PA PA926 PA841 US202/322 #pocopson to 202
+PA PA934 US322/241 I-81 #centralia trip 8-26 (home -> centralia)
 PA PA948 PA120 PA666 #niagara falls trip
 PA PA970 US322 I-80 #niagara falls trip
 PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
-#the star spangled banner trail??? most of md382, plus croom station rd
+MD SBTrlUMa MD231/381 MD725_E #various return trips from raleigh
 MD ClaBarPkwy MD/DC MacBlvd_E #hershey trip 2025
 MD ClaBarPkwy MacBlvd_W I-495 #guatemala trip 6-26 (baltimore -> dulles)
 MD I-68 WV/MD 82 #various trips
@@ -204,8 +242,10 @@ MD US40 MD/DE MD7/155
 MD US40 US15_N I-70(53) #hershey -> raleigh
 MD US40 MD43 MD152 #this is as far as i know. we apparently had a "really bad traffic day where we needed to take 40 home" but got on i-95 at an unknown point
 MD US40 MD295 MorRd #raleigh -> home 5-26
+MD US40 MD222 MD152 #newark -> baltimore 8-26
 MD US50 7 13 #raleigh -> home 5-26
 MD US219 MosRd I-68(14) #wisp resort (and accident lol)
+MD US222 US1 MD/PA #conowingo -> home 7/26
 MD US301 MD/DE VA/MD
 MD US340 10 VA/MD #harper's ferry trip
 MD MD3 US50/301 I-97/32
@@ -224,16 +264,20 @@ MD MD45 MD145 TimRd #to christmas tree farm
 MD MD136 MD22 MD440 #guatemala trip 6-26 (baltimore -> home)
 MD MD136 MD624 MD24 #lock 12 trip 7-26
 MD MD140 I-795 US15 #cunningham falls trip
+MD MD145 MD45 MD165 #baltimore -> home 8-26
 MD MD146 MD45 SchRd #towson to grandparents
 MD MD147 GlenArmRd US1/1Bus #loch raven
 MD MD147 I-695 US1/1Bus #guatemala trip 6-26 (baltimore -> home)
 MD MD152 I-95 US1 #joppaaaa
+MD MD152 MD165 US1 #baltimore -> home 8-26
 #MD MD152 MD146 Charles St #en route to grandparents
+MD MD152 I-95 US40 #newark -> baltimore 8-26
 MD MD155 US40/7 I-95
 MD MD155 I-95 MD161 #raleigh -> home 5-2026, and probably others as well
 MD MD161 MD155 US1 #clinched 5-26
 #MD MD165 MD23_E Furnace Rd #en route to grandparents
 MD MD165 MD24 MD/PA #lock 12 trip 7-26
+MD MD165 MD145 MD152 #baltimore -> home 8-26
 MD MD188 McABlvd MD190 #hershey trip 2025
 MD MD189 I-270 MD190 #guatemala trip 6-26 (baltimore -> dulles)
 MD MD190 MD188 I-495 #hershey trip 2025
@@ -244,6 +288,7 @@ MD MD213 MD/PA MD290/313 #two points combined 6-29-26
 MD MD214 MD978_E MD424 #raleigh -> home thanksgiving 2025
 MD MD222 MD276 US1 #road trip 7-19-25
 MD MD222 MD275 I-95
+MD MD222 I-95 US40 #newark -> baltimore 8-26
 MD MD231 MD5 MD381 #raleigh -> home thanksgiving 2025
 MD MD234 US301 PenHillRd #raleigh -> home easter 2026
 MD MD268 MainSt MD279
@@ -501,10 +546,13 @@ MI I-94 198 204B #oak park wedding, mid 2010s
 MI MI39 1 16 #oak park wedding, mid 2010s
 #new york
 NY PeaBri I-190 CAN/USA #canada trip 6-26
-NY GarStaPkwy NJ/NY I-87/287 #west point trip, antiq.
+NY GarStaPkwy NJ/NY I-87/287 #west point trip, late 2010's
 NY SeaTrl NiaScePkwy_Gra JohnDalyBlvd #niagara trip (niagara)
-NY PalIntPkwy NJ/NY 6 #college new york trip 2024
-NY PalIntPkwy 9 US6/9W #west point trip, antiq.
+NY PalIntPkwy 9 US6/9W #west point trip, late 2010's
+NY HutRivPkwy 15 NY/CT #home -> poughkeepsie 7-19-26
+NY TacStaPkwy 37 43 #home -> poughkeepsie 7-19-26
+NY I-84 68 52 #home -> poughkeepsie 7-19-26
+NY I-84 39 PA/NY #poughkeepsie -> home 7-19-26
 NY I-86 10 PA/NY #niagara trip (rnrhf)
 NY I-86 44 36 #canada trip 6-26
 NY I-86 27 44 #canada trip 6-26 (return)
@@ -515,10 +563,13 @@ NY I-190 7 21 #niagara trip
 NY I-190 I-90 7 #canada trip 6-26
 NY I-290 I-190 I-90 #niagara trip (duff's -> bills)
 NY I-278 NJ/NY 13A # staten island ferry
-NY I-287 14A(87) 13(87) #west point trip, antiq.
+NY I-287 14A(87) 13(87) #west point trip, late 2010's
+NY I-287 NJ/NY 9 #home -> poughkeepsie 7-19-26
 NY I-390 I-86 6 #canada trip 6-26
 NY I-495 2ndAve 14 #medieval times trip
-NY US9W US6/202 NY218 #west point trip, antiq.
+NY I-684 6 9 #home -> poughkeepsie 7-19-26
+NY US9W US6/202 NY218 #west point trip, late 2010's
+NY US9W US44_E I-84 #poughkeepsie -> home 7-19-26
 NY US15 PA/NY I-99(13) #canada trip 6-26
 NY US20 US20Alt_W NY75 #niagara trip (bills -> bemus)
 NY US20AltGen NY36_S NY400 #canada trip 6-26
@@ -530,13 +581,19 @@ NY NY5 NY179 I-190 #niagara trip (niagara)
 NY NY9A HenHudPkwy(14) HenHudPkwy(11) #to central park by car
 NY NY16 SenStCon NY240 #canada trip 6-26
 NY NY16 PieHillRd I-86(27) #canada trip 6-26 (return), as far north as cr18
+NY NY22 GirRidRd NY35 #home -> poughkeepsie 7-19-26
+NY NY35 NY22 I-684 #home -> poughkeepsie 7-19-26
 NY NY36 I-390(6) US20AltGen_W #canada trip 6-26
 NY NY53 I-86 NY415 #canada trip 6-26 (return)
 NY NY54 NY415_N I-86 #canada trip 6-26 (return)
+NY NY55 NY82 US9W_S #poughkeepsie -> home 7-19-26
 NY NY60 US62 FluAve #niagara trip (ride up)
 NY NY60 SylRd I-90 #niagara trip (niagara)
 NY NY75 US20 I-90 #niagara trip (bills -> bemus)
+NY NY82 TacStaPkwy_S SkiRd #home -> poughkeepsie 7-19-26
 NY NY98 HoweHillRd FishHillRd #canada trip 6-26 (return), as far west as sugartown rd
+#NY NY121 NY137 PeaPondRd #home -> poughkeepsie 7-19-26 (not enough)
+NY NY137 CT/NY NY121 #home -> poughkeepsie 7-19-26
 NY NY179 I-90 NY5 #niagara trip (niagara)
 NY NY240 NY16 SlaAve #canada trip 6-26
 NY NY263 I-290 NY324 #niagara trip (duff's)
@@ -552,11 +609,10 @@ NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
 NJ NJtpk I-295(1) 4 #grandparents
 NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
-NJ PalIntPkwy NJ/NY I-95 #college new york trip 2024
-NJ I-95 PA/NJ 16E #medieval times trip
-NJ I-95 74 NJ/NY #george washington bridge
+NJ I-95 PA/NJ NJ/NY #george washington bridge, medieval times trip
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
+NJ I-287 17 NJ/NY #home -> poughkeepsie 7-19-26
 NJ I-295 DE/NJ 40 #various trips
 NJ I-295 72 NJ/PA #college of new jersey
 NJ US9 CR623 Gar(25) #ocean city trip 2025
@@ -564,6 +620,7 @@ NJ US9 CR530_E NJ166 #oceangate
 NJ US30 US130/38 PA/NJ #grandparents -> temple
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
+NJ US202 PA/NJ I-287(17) #home -> poughkeepsie 7-19-26
 NJ US206 NJ70 CR537 #medford -> wall 5/26
 NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
@@ -574,16 +631,18 @@ NJ NJ31 I-295 EwiRd #college of new jersey
 NJ NJ33 NJ34/547 NJ133 #wall -> home 5/26
 NJ NJ34 I-195 NJ33_W #wall -> home 5/26
 NJ NJ38 US30/130 HarRd #grandparents, as well as grandparents -> temple
+NJ NJ41 NJ70 ChaAve #medford -> home 7-21-26 (wrong way smh)
 NJ NJ47 NJ55_S NJ347_N #two parts
 NJ NJ47 NJ347_S IndTraRd
 NJ NJ49 NJ55 NJ50 #ocean city trip 2025
 NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
-NJ NJ70 I-295 CR539 #grandparents + aunt's house in ocean gate
+NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
+NJ NJ154 NJ70 CR561 #medford -> home 7-21-26
 NJ NJ168 I-295 NJTpk
 NJ NJ347 NJ47_N NJ47_S
 NJ NJ495 I-95 NJ/NY #medieval times trip as well as an earlier trip with business friends + family
@@ -766,6 +825,9 @@ In LCTrl StaSt BroStaWay_E #spring break road trip 2026 ("the quick indiana shim
 IN I-64 IN/KY 123 #spring break road trip 2026 ("the quick indiana shimmy")
 IN I-65 1 1A #spring break road trip 2026 ("the quick indiana shimmy")
 IN US31 10thSt KY/IN #spring break road trip 2026 ("the quick indiana shimmy")
+#connecticut - first visited 7-19-26
+CT CT15 NY/CT 10 #home -> poughkeepsie 7-19-26
+CT CT137 CT15 CT/NY #home -> poughkeepsie 7-19-26
 
 #CANADA (first visited 6-2-26)
 #ontario (first visited 6-2-26)
