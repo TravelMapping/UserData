@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 8-30-26
+#everywhere that darmstarm has been up to 9-7-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 8-30-26.
+#last updated 9-7-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -609,12 +609,14 @@ NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
 NJ NJtpk I-295(1) 4 #grandparents
 NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
+NJ I-76 1A 2 #philly -> medford 9-26
 NJ I-95 PA/NJ NJ/NY #george washington bridge, medieval times trip
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
 NJ I-287 17 NJ/NY #home -> poughkeepsie 7-19-26
 NJ I-295 DE/NJ 40 #various trips
 NJ I-295 72 NJ/PA #college of new jersey
+NJ I-676 NJ/PA 1 #philly -> medford 9-26
 NJ US9 CR623 Gar(25) #ocean city trip 2025
 NJ US9 CR530_E NJ166 #oceangate
 NJ US30 US130/38 PA/NJ #grandparents -> temple
