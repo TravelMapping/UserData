@@ -1,18 +1,46 @@
-#Europe
+# -- Europe --
 AUT S1Vor DEU/AUT Bre
 AUT S3Vor CHE/AUT Bre
 
+BEL ICE79 BruMidi BEL/DEU
+BEL BruNan BruMidi BEL/FRA
+
+CHE IC1 ZurHau StGal
 CHE IC3 Sar Chur
-CHE IC5 ZurFlu Ror
+CHE IC5 ZurHau Ror
+#CHE IR36 Basel SBB < ZurHau
 CHE S1Gal Rom StGal
 CHE S2Gal Ror StMar
 CHE S3Vor StMar CHE/AUT
 # Note: S4Gal substitutes for IR13
 CHE S4Gal StGal Sar
+CHE S5Gal StGal Ror
+CHE S7Gal RorHaf Ror
 CHE S21Gal StGal App
 # Bernina Express, Chur (CHE) > Tirano (ITA)
 
+DEU-BW ICE12 DEU/CHE FreHbf
+DEU-BW ICE12 Off MannHeimHbf
+DEU-BW RB26 FreHbf Off
 DEU-BY S1Vor LinIns DEU/AUT
+DEU-BW ICE42 MannHeimHbf HE/BW
+DEU-HE ICE42 HE/BW RP/HE
+DEU-RP ICE42 RP/HE NW/RP
+DEU-NW ICE42 NW/RP KolnHbf
+DEU-NW RE5 Bru KolnHbf
+DEU-NW RB26 Bru KolnHbf
+DEU-NW ICE79 BEL/DEU KolnHbf
+
+#France Long-Distance Trains
+FRA-HDF BruNan BEL/FRA HDF/IDF
+FRA-IDF BruNan HDF/IDF MarValChe
+
+#Paris RER & Metro
+FRA-IDF A GareLyon MarValChe
+FRA-IDF B ChaHal AerCDG1
+FRA-IDF M1 Con GareLyon
+FRA-IDF M7 Pel SulMor
+FRA-IDF M8 MotPicGre ConCor
 
 #ITA RE8 MilCen Lec
 #ITA FrMilBatt Mil Fir (train 9555 from Milano Centrale to Battipaglia)
@@ -28,6 +56,9 @@ ENG NorLnEdg WarSt Emb
 ENG PicLn GrePark KXSP
 ENG VicLn Vau KXSP
 ENG WaCLn Wat Bank
+
+# -- Europe Airport Trains --
+FRA-IDF CDGVAL Ter1 Ter3Roi
 
 # -- United States & Canada --
 #Acela / NE Corridor
