@@ -228,7 +228,7 @@ TX US82 TXLp289_W I-27
 TX US84 TXLp289_W TX US84 BroSt
 TX US84 TXLp289_E TX US84 I-20(279)
 TX US87 I-27(3) TX US87 I-27(8)
-WY US89 FR31051 WY US89 YelNP   #AZ->WY Version of US89
+WY US89 FR31051 WY US89 YelNP        #AZ->WY Version of US89
 TX US90AltHal TX6 MainSt_E
 FL US92 I-4(104) FL US92 FLA1A
 CA US101 385B CA US101 481B
@@ -263,6 +263,20 @@ IL GRRESL US54 IL GRRESL I-72
 WI LMCT US18_W WI LMCT US18_E
 IL LMCT IL173 IL LMCT 47thSt
 MI LMCT I-94(4) MI LMCT I-94(23)
+
+#United States National Historic Trails
+WY NPTrl GraLoopRd_W WY NPTrl LamRivTra
+
+#United States National Park Highways
+WY GraLoopRd NEntRd_W WY GraLoopRd NEntRd_E
+WY MooWilRd WY390 WY MooWilRd TetParkRd
+WY NEEntRd GraLoopRd WY NEEntRd LamRivTra
+MT NEntRd OldGarRd MT NEntRd US89
+WY NEntRd GraLoopRd WY NEntRd OldGarRd
+MT OldGarRd NEntRd WY OldGarRd NEntRd
+WY RocMemPkwy GraTetNP WY RocMemPkwy YelNP
+WY SEntRd US89/191 WY SEntRd GraLoopRd
+WY TetParkRd US26/89 WY TetParkRd US89/191
 
 #Alabama Highways
 AL AL75 I-59 US11
@@ -427,8 +441,6 @@ MN MN72 MN1_E CR23
 MO MO13 WeaRd US60/160
 MO MO79 I-70 US54/54Bus
 MO MO360 I-44 US60/413
-
-#Montanna Highways
 
 #Nevada Highways
 NV CR215 12 28
@@ -627,11 +639,6 @@ WI WI188 US12 WI60_W
 #Wyoming Highways
 WY WY22 WY390 US26/89
 WY WY390 WY22 GraTetNP
-WY MooWilRd WY390 WY MooWilRd TetParkRd
-WY RocMemPkwy GraTetNP WY RocMemPkwy YelNP
-WY SEntRd US89/191 WY SEntRd GraLoopRd
-WY TetParkRd US26/89 WY TetParkRd US89/191
-
 
 # ------------------------------Canada-----------------------------------
 #Canadian Highways
