@@ -20,18 +20,20 @@ ITA-EMI MEX Aer BolCen
 ITA-LAZ MA Ter Lep
 ITA-LAZ MB Ter Col
 
+CA AirTrnRed Ter2 GarG/BART_F
 CA AntVlyLn UniSta ViaPri
 CA B PerSq HolVine
 CA BARTBlue Emb Fru
 CA BARTRed Emb NorBer
 CA BARTYel SanFraAir Emb
+
 CT NENew NY/CT CT/RI
 CT NESpr CT/MA NY/CT
 CT NewHavLn NY/CT NHUniSta
 DE NESpr DE/PA MD/DE
-DC CL WasUniSta MD/DC
+
 DC BluLn VA/DC StaArm
-DC DCSC UniSta 13thSt
+DC CL WasUniSta MD/DC
 DC GreLn Ana DC/MD
 DC NERoa WasUniSta VA/DC
 DC NESpr DC/MD WasUniSta
@@ -39,6 +41,7 @@ DC OraLn VA/DC DC/MD
 DC PennLn WasUniSta DC/MD
 DC RedLn MD/DC DC/MD
 DC YelLn MtVerSq VA/DC
+
 FL GreLn EarHei Bri
 FL MiaM MIA IntCen
 FL OraLn MiaAir EarHei
@@ -64,6 +67,8 @@ MA NENew RI/MA BosSou
 MA NESpr Spr CT/MA
 MA OraLn NorSta GreSt
 MA RedLnBra ParkSt NorQui
+
+NH DE MA/NH NH/ME
 
 NJ NESpr NJ/NY PA/NJ
 NY A 34StPennSta JayStMetTech
