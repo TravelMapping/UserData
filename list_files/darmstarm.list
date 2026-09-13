@@ -1,7 +1,7 @@
 #everywhere that darmstarm has been up to 9-7-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 9-7-26.
+#last updated 9-11-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -615,6 +615,7 @@ NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
 NJ I-287 17 NJ/NY #home -> poughkeepsie 7-19-26
 NJ I-295 DE/NJ 40 #various trips
+NJ I-295 68A 72 #princeton -> home june 2025
 NJ I-295 72 NJ/PA #college of new jersey
 NJ I-676 NJ/PA 1 #philly -> medford 9-26
 NJ US9 CR623 Gar(25) #ocean city trip 2025
@@ -629,7 +630,9 @@ NJ US322 NJ55 NJTpk #ocean city trip 2025
 NJ NJ3 NJ495 NJ17 #medieval times trip
 NJ NJ17 NJ3 SerRd #medieval times trip
 NJ NJ18 6 7 #infoage
+NJ NJ27 CR583 CR571 #ringoes -> princeton june 2025
 NJ NJ31 I-295 EwiRd #college of new jersey
+NJ NJ31 I-295 US202_S #home -> ringoes june 2025
 NJ NJ33 NJ34/547 NJ133 #wall -> home 5/26
 NJ NJ34 I-195 NJ33_W #wall -> home 5/26
 NJ NJ38 US30/130 HarRd #grandparents, as well as grandparents -> temple
