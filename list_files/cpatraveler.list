@@ -2105,7 +2105,8 @@ AZ I-19BLNog Mex/USA AZ82
 AZ I-40BLAsh I-40_W I-40_E #07192024 Travel to Flagstaff to visit Parks
 AZ I-40BLFla I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
 AZ I-40BLSel I-40_W I-40_E #07192024 Travel to Flagstaff to visit Parks
-AZ I-40BLWil I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks 
+AZ I-40BLWil I-40_E I-40_W #07192024 Travel to Flagstaff to visit Parks
+AZ US60 US93 200A(17) #091626 Mohave Annual Mtg 
 AZ US60 200A(17) 150A(10)
 AZ US60 154(10) AZ188
 AZ US60 AZ188 AZ77_N #09082024 Travel to Visit Navopache Electric
@@ -2113,6 +2114,7 @@ AZ US64 AZ/NM US160 #11302024 Moab Trip
 AZ US89 AZ64 I-40BL/180 
 AZ US89AltFre AZ/UT AZ67
 AZ US89 US160 AZ64 #09122024 Grand Junction to Phoenix
+AZ US93 US60 67 #091626 Mohave Annual Mtg 
 AZ US93 67 I-40(48) #07192024 Travel to Flagstaff to visit Parks  
 AZ US160 AZ/NM US191_S  #06292024
 AZ US160 US163 US89 #09122024 Grand Junction to Phoenix
@@ -2137,6 +2139,7 @@ AZ AZ80 US191 AZ90
 AZ AZ82 I-19BL AZ90
 AZ AZ85 I-8 Mex/USA
 AZ AZ86 AZ85 16thAve
+AZ AZ87 MainSt AZ202(13) #091626 Mohave Annual Mtg  
 AZ AZ90 AZ82 AZ92
 AZ AZ90 AZ80 AZ92 
 AZ AZ92 AZ90 MonCanRd
@@ -2144,6 +2147,9 @@ AZ AZ95 AZ95SPar I-40 #052026 Complete I 40
 AZ AZ95Bul CA/AZ BulPkwy #07192024 Travel to Flagstaff to visit Parks
 AZ AZ95SPaD AZ95 TakPoiRd #052026 Complete I 40
 AZ AZ95SPar CA/AZ AZ95 #052026 Complete I 40
+AZ AZ96 BruMineRd AZ97 #091626 Mohave Annual Mtg
+AZ AZ97 US93 AZ96 #091626 Mohave Annual Mtg
+AZ AZ101 51 55A #091626 Mohave Annual Mtg
 AZ AZ101 55A 61B #09082024 Travel to Visit Navopache Electric 
 AZ AZ143 McDRd 1 #09082024 Travel to Visit Navopache Electric   
 AZ AZ181 PinCanRd US191 
@@ -2153,7 +2159,8 @@ AZ AZ202 1A 78
 AZ AZ210 BroBlvd GolfLinRd
 AZ AZ260 US60_E WooLakeRd #09082024 Travel to Visit Navopache Electric     
 AZ AZ389 UT/AZ US89Alt
-AZ US66HisKin I-40(1) ToUS93 #052026 Complete I 40  
+AZ US66HisKin I-40(1) ToUS93 #052026 Complete I 40
+AZ US80HisMes May SosRd #091626 Mohave Annual Mtg  
 CA I-5 MEX/USA 135C #MC Tijuana Trip
 CA I-10 CA/AZ 1 #Trip to 29Palms
 CA I-15 109 CA/NV #Las Vegas Wedding Trip
