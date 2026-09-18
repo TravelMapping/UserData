@@ -2769,6 +2769,7 @@ AUS-NSW A4 CroCityTun M4
 AUS-NSW M4 M8 MulRd
 AUS-NSW M5 M8 M7/M31
 AUS-NSW A6 HenLawDr BruDr #begins just north of HenLawDr at Clancy Street
+AUS-NSW M7 RicRd M5/M31 #brief 4 lane segment at the M4 interchange
 AUS-NSW M8 M4 EusRd
 AUS-NSW M8 EusRd M6 #future split, then only 4 lanes to M5
 AUS-NSW M31 1 6

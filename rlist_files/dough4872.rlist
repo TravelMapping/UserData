@@ -15,10 +15,10 @@ DE WilNewLn DE/PA New
 PA WilNewLn DE/PA Phi30thSt
 PA WTreLn Phi30thSt PA/NJ
 NJ WTreLn PA/NJ WestTre
-PA Rte101 SprMall 69thStTC
-PA BroStLn NRG CityHall
-PA MarFraLn 69th 5th
-PA NorLn 69th Nor
+PA D1 SprMall 69thStTC
+PA B1 Pat FernRock
+PA L1 69th 5th
+PA M1 69th Nor
 PA PATCO 15th16thLoc PA/NJ
 NJ PATCO PA/NJ Lin
 PA AtlCityLn Phi30thSt PA/NJ
@@ -30,6 +30,8 @@ NJ NECorLn NY/NJ Tre
 NJ RivLn WalRandTC Tre
 NJ PortJerLn SecJct NJ/NY
 NY PortJerLn NJ/NY PortJer
+NY PortWasBra MetsWilPt PortWas
+NY 1 59StColCir SouFry
 NY A 42StPABT 14St
 NY C 42StPABT 34StPennSta
 NY E 42ndStPABT 34StPennSta

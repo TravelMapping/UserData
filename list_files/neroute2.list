@@ -3,9 +3,9 @@ FL I-10 136 225
 FL I-10 296 303
 FL I-10 361 I-95
 FL I-75 1 23
-FL I-75 111 141
-FL I-75 246 254
-FL I-75 257 FL/GA
+FL I-75 111 191
+FL I-75 200 224
+FL I-75 229 FL/GA
 FL I-95 BriAve FL/GA
 FL I-195 1 FL907A
 FL I-275 23A I-75_N
@@ -40,13 +40,17 @@ FL US23 US1/17 I-95
 FL US27 FL826 US41_S
 FL US27AltPer US27_S US27_N
 FL US41 FL29 CR92
+FL US41 FL739 AliRd
 FL US41 US17 CR769
+FL US41 RivRd US41BusVen_S
+FL US41 US41BusVen_N FL681
 FL US41 FL758 FL789
 FL US41 FL70 US41BusBra_S
 FL US41 US301_S FL674
 FL US41 FL60 US92_W
 FL US41 FL54 FL52
 FL US41 FL50 FL/GA
+FL US41BusVen US41_S US41_N
 FL US41BusBra US41_S 10thSt
 FL US41BusTam US41_S BirdSt #north to Waters Avenue
 FL US90 US301_N PicRd
@@ -126,7 +130,7 @@ FL FL46MtD US441 CR46A
 FL FL46 CR46A US1
 FL FL47 I-75 US41
 FL FL48 I-75 US301
-FL FL50 US41 US301
+FL FL50 US41 CR575
 FL FL50 CR478A US1
    #west to Boggey Road
 FL FL52 US41 US301/98
@@ -140,9 +144,11 @@ FL FL70 US41 US1
 FL FL72 FL758 FL70
 FL FL73 FL276 US231
 FL FL76 I-95 FL714
-FL FL80 I-75 FL31
+FL FL78 US27_N CR721_N
+FL FL80 US41Bus FL31
 FL FL80 US27_S US98/441
 FL FL80 I-95 US1
+FL FL82 CR850 FL29
 FL FL94 FL985 FL826
 FL FL100 CR309D CR309C
 FL FL100 US17_N US1_S
@@ -242,7 +248,7 @@ FL FL542 FL549 US27
 FL FL544 US92 FL17
 FL FL546 I-4 US92
 FL FL549 FL542 FL544
-FL FL551 OldGolRd FL426
+FL FL551 FL15 FL426 #and Old Goldenrod
 FL FL552 FL15 FL551
 FL FL553 US92 I-4
 FL FL559 FL559A FL33
@@ -268,6 +274,7 @@ FL FL655 FL620 US92
 FL FL659 US98 FL33
 FL FL674 US41 FL37
 FL FL676 US41/41Bus US301
+FL FL681 US41 I-75
 FL FL685 US92 FL60
 FL FL686 US19Alt US92
 FL FL686A CR611 FL690
@@ -286,7 +293,9 @@ FL FL718 FL714 US1 #not yet signed when I drove it
 FL FL732 US1 CR707A/723
 FL FL732Jen CR707 FLA1A
 FL FL736 US441 I-95
+FL FL739 US41 FL80
 FL FL758 FL72 US41
+FL FL777 US41 I-75
 FL FL780 US301 FruRd_E
 FL FL789 US41 FL64
 FL FL804 ConAve I-95
@@ -311,10 +320,34 @@ FL FL973 FL836 12thSt
 FL FL997 FL998 US27
 FL FL998 FL997 US1
 FL NocPkwy CR210_W PalmValRd #presumably the rest too, but I should drive it all just to be sure
-#Florida Scenic Highways:
-#Florida Black Bear Scenic Byway: everything
-#Green Mountain Scenic Byway: everything except Dillard/Surprise
-#River of Lakes Heritage Corridor: CR 3, CR 4053, CR 4139
+#Florida Scenic Highways (non-state road portions):
+#A1A Ocean Islands Trail: all state
+#A1A Scenic & Historic Coastal Byway: need CR A1A at St. Augustine Beach and potential spur at Vilano Beach
+#Bartram Scenic & Historic Highway: all state
+#Big Bend Scenic Byway
+#Bradenton Beach: all state
+#Broward County A1A Scenic Highway: need El Mar Drive at Lauderdale-by-the-Sea and spur at Dania Beach
+#Courtney Campbell Causeway: all state
+#Florida Black Bear Scenic Byway: drove everything
+#Florida Keys Scenic Highway: all state
+#Green Mountain Scenic Byway: drove everything except Dillard/Surprise
+#Halifax Heritage Byway
+#Heritage Crossroads: drove CR 13/Brick Road
+#Indian River Lagoon
+#Indian River Lagoon - Treasure Coast Scenic Highway
+#J.C. Penney Memorial Scenic Highway
+#Lemon Bay Myakka Trail
+#Martin Grade Scenic Highway
+#Old Florida Heritage Highway
+#Ormond Scenic Loop & Trail
+#Palma Sola: all state
+#Pensacola Scenic Bluffs: all state
+#The Ridge: all state
+#River of Lakes Heritage Corridor: drove CR 3, CR 4053, CR 4139; need CR 4110/4125, CR 4162/4164, Seminole Boulevard, CR 415
+#Scenic Highway 30A
+#Scenic Sumter Heritage Byway
+#Suncoast Scenic Parkway: all state
+#Tamiami Trail: all state
 
 CA CA1 MisSt_E SwaRd_S
 CA CA1 SwaRd_N BeanHolRd
@@ -1839,7 +1872,9 @@ MS I-22 12 86
 MS US45 US82_E I-22/78
 MS MS69 5thSt US45/82 #east to 15th Street
 MS US82 MS69 MS/AL
-AL US82 MS/AL US31
+AL US82 MS/AL AL482_W
+AL AL482 US82_W US82_E
+AL US82 AL482_E US31
 AL US31 BirHwy US82/14
 AL I-85 0 15
 AL AL108 22 I-85
