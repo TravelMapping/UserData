@@ -1,15 +1,31 @@
-########-INTERCITY RAIL LINES-########
-DC NENew WasUniSta MA NENew BosSou
+########-USA INTERCITY RAIL LINES-########
+VA NENor Nor CT NENor Sta
+VA NENew NewNews MA NENew BosSou
 CT HL NHUniSta MA HL Spr
+MA DE BosNor ME DE Bru
 FL FL Mia DC FL WasUniSta
+LA CR NewOrl DC CR WasUniSta
+LA MG NewOrl AL MG Mob
+NC PI Cha Ral
 MA LSBos Spr BosSou
 PA PA PitUni NY PA PennSta
 CA CS UniSta OakJackLonSq
+CA SW UniSta IL SW UniSta
 OR EBPor PorUniSta IL EBPor UniSta
 
 FL BriLn MiaCen BriOrlSta
 
-########-COMMUTER RAIL LINES-########
+########-CANADA INTERCITY RAIL LINES-########
+MB Can Winnip SK Can Mel
+SK WinChu Can MB WinChu Chu
+
+########-USA COMMUTER RAIL LINES-########
+MA FalRivLn FallRiv BosSou
+MA GreLn Gre BosSou
+MA HavLn BosNor Hav
+MA KinLn KinRte3 BosSou
+MA NewBedLn NewBed BosSou
+
 NY BabBra PennSta Bab
 NY GreBra Ron Gre
 NY HemBra GraCen Hem
@@ -39,6 +55,8 @@ NJ MainLn Hob NY MainLn Suf
 NJ PortJerLn Hob NY PortJerLn PortJer
 NJ PasVlyLn Hob NY PasVlyLn SprVly
 
+DC CamLn WasUniSta MD CamLn BalCam
+
 FL TriRail MiaAir WestPalmBea
 FL TriRailDow MiaCen MetTra
 
@@ -63,20 +81,33 @@ CA Arr SanBerDow RedUni
 CA AntVlyLn UniSta Lan
 CA RivLn UniSta RivDow
 CA PerVlyLn UniSta PerS
+CA VenCouLn UniSta VenE
+CA OraCouLn UniSta Ora
+CA InlEmpLn Ora SanBerDow
+
+########-CANADA COMMUTER RAIL LINES-########
+ON BT AllWat Uni
+ON UP PeaAir Uni
 
 ########-HERITAGE RAILROADS-########
-CT EssSteTrn Ess DeepRivLan
+CT EssSteTrn Ess Che
+CT NauRR FasCho Tor
 DE WilWesRR Hoc Gre
 PA StrRR Str LeaPl
-
+MA BerSceRW Ada NAda
+NY DelUlsRR WEnd EEnd
 
 ########-USA RAPID TRANSIT LINES-########
 #--------NORTHEAST CITIES--------
-MA BluLn Sta Bow
-MA OraLn Sta ComCol
-MA RedLn ParkSt Har
-MA GreLnD Riv Fen
-MA GreLnD Ken GovCen
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA RedLnM Ash Mat
+MA GreLnB BosCol GovCen
+MA GreLnC CleCir GovCen
+MA GreLnD Riv UniSq
+MA GreLnE HeathSt MedTuf
 
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
@@ -125,11 +156,14 @@ PA BroStLn EllFed CityHall
 
 MD MetSub OwiMil JohHopHos
 MD BLRL NLin HuntVly
+MD BLRLPen CamYds PennSta
 
-VA BluLn KingStOldTown MD BluLn MorBlvd
-VA OraLn VieFaiGMU DC OraLn StaArm 
-MD RedLn ShaGro DC RedLn UniSta
-VA YelLn Hun DC YelLn GalPla
+VA BluLn FraSpr MD BluLn DowLar
+VA OraLn VieFaiGMU MD OraLn NewCar
+VA SilLn Ash MD SilLn DowLar
+MD RedLn ShaGro MD RedLnGle Gle
+VA YelLn Hun DC YelLn MtVerSq
+MD GreLnSui BraAve MD GreLn Gre
 
 #--------MIDWEST CITIES--------
 PA RedLn SouHilVlg All
@@ -155,6 +189,11 @@ MN HubTram Ter1 HubBui
 MO MLBlueLn Uni ConCen
 
 #--------SOUTH CITIES--------
+VA Tide EVMCForNor NewRd
+
+NC BluLn I-485 UNCChaMain
+NC GolLn FreSt SunAve 
+
 GA RedLn Air NorSpr
 GA SkyTrn Air RenCarCen
 GA PlaTrn DomTer DGat
@@ -170,6 +209,10 @@ FL ResMon TraTicCen_1 TraTicCen_2
 FL TerLink TerA/B TerC
 
 TN MainStTro But Mad
+
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA StCha CanCar SCla
 
 TX BlueLn UNTDal DowRow
 TX GreLn NCarFra Buc
@@ -208,17 +251,21 @@ CA AirTrnBlue LongTermPar Loop
 
 CA SRTGold SacValSta HisFol
 
-CA A WilRosaPar APUCitCol
+CA A Loop PomN
 CA B NHol UniSta
-CA C AviLAX WilRosaPar
+CA C LAXMTC Nor
 CA D WilWes UniSta
-CA E DowSanMon LitTokArtsDis
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
 
 CA GreLn 12thImpTC FasVly
 CA BlueLn CivCen OldTownTC
 
 
 ########-CANADA RAPID TRANSIT LINES-########
+AB BlueLn 69thSt Sad
+AB RedLn Tus SomBri
+
 ON 1 SheW Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
