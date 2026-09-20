@@ -2131,15 +2131,20 @@ AZ BonCanRd PinCanRd MasPt
 AZ LoopRd US89_N US89_S #07192024 Travel to Flagstaff to visit Parks    
 AZ SkyHarBlvd I-10 AZ202
 AZ WalCanRd I-40 VisCen #07192024 Travel to Flagstaff to visit Parks
-AZ AZ24 AZ202 IroRd #09082024 Travel to Visit Navopache Electric   
+AZ AZ24 AZ202 IroRd #09082024 Travel to Visit Navopache Electric
+AZ AZ51 I-10 15 #091926 Mohave Annual Mtg   
 AZ AZ64 I-40 US89
 AZ AZ67 US89Alt BriAngPt
+AZ AZ69 AZ169 AZ89 #091826 Mohave Annual Mtg
+AZ AZ74 US60 I-17 #091826 Mohave Annual Mtg 
 AZ AZ77 US60_E I-40(286) #09092024 Navopache to Grand Junction 
 AZ AZ80 US191 AZ90
 AZ AZ82 I-19BL AZ90
 AZ AZ85 I-8 Mex/USA
 AZ AZ86 AZ85 16thAve
-AZ AZ87 MainSt AZ202(13) #091626 Mohave Annual Mtg  
+AZ AZ87 MainSt AZ202(13) #091626 Mohave Annual Mtg 
+AZ AZ89 US93 I-40 #091826 Mohave Annual Mtg 
+AZ AZ89A 317 AZ179 #091826 Mohave Annual Mtg 
 AZ AZ90 AZ82 AZ92
 AZ AZ90 AZ80 AZ92 
 AZ AZ92 AZ90 MonCanRd
@@ -2149,9 +2154,12 @@ AZ AZ95SPaD AZ95 TakPoiRd #052026 Complete I 40
 AZ AZ95SPar CA/AZ AZ95 #052026 Complete I 40
 AZ AZ96 BruMineRd AZ97 #091626 Mohave Annual Mtg
 AZ AZ97 US93 AZ96 #091626 Mohave Annual Mtg
+AZ AZ101 23B 29 #091926 Mohave Annual Mtg 
 AZ AZ101 51 55A #091626 Mohave Annual Mtg
 AZ AZ101 55A 61B #09082024 Travel to Visit Navopache Electric 
-AZ AZ143 McDRd 1 #09082024 Travel to Visit Navopache Electric   
+AZ AZ143 McDRd 1 #09082024 Travel to Visit Navopache Electric
+AZ AZ169 AZ69 I-17 #091826 Mohave Annual Mtg
+AZ AZ179 I-17 AZ89A #091826 Mohave Annual Mtg   
 AZ AZ181 PinCanRd US191 
 AZ AZ186 I-10 AZ181  
 AZ AZ188 US60 GraAirRd
@@ -2160,7 +2168,8 @@ AZ AZ210 BroBlvd GolfLinRd
 AZ AZ260 US60_E WooLakeRd #09082024 Travel to Visit Navopache Electric     
 AZ AZ389 UT/AZ US89Alt
 AZ US66HisKin I-40(1) ToUS93 #052026 Complete I 40
-AZ US80HisMes May SosRd #091626 Mohave Annual Mtg  
+AZ US80HisMes May SosRd #091626 Mohave Annual Mtg
+AZ US89AHisCla AZ89A_S AZ89A_N #091826 Mohave Annual Mtg  
 CA I-5 MEX/USA 135C #MC Tijuana Trip
 CA I-10 CA/AZ 1 #Trip to 29Palms
 CA I-15 109 CA/NV #Las Vegas Wedding Trip
