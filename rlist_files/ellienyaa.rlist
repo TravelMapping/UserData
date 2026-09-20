@@ -68,3 +68,12 @@ ENG DLRRoy TowGat +DIV_WooW
 
 ENG WCMLECre LonEus +SKIP_MilKeyCen # I only took this to Bletchley, NOT Milton-Keynes central. Bletchley station isn't available yet as a split on TMRail, though.
 
+# France
+FRA-IDF M4 GareEst StrStDen
+FRA-IDF M5 Hoc GareEst
+FRA-IDF M7 PorVil Ope
+FRA-IDF M8 Inv Ope
+FRA-IDF M9 BonNou StrStDen
+
+FRA-IDF LISA PorK PorM
+

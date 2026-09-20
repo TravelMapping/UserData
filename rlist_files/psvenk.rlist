@@ -77,6 +77,11 @@ NY NewHavLn GraCen Pel
 NY AE PennSta MA AE BosSou
 NY NENew PennSta MA NENew BosSou
 
+# IAD AeroTrain
+VA AerTrn ConB ConCD
+# DFW Skylink
+TX Sky E17 C2
+
 # }}}
 # Canada {{{
 

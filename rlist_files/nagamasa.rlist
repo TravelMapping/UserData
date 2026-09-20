@@ -38,6 +38,7 @@ ON UP PeaAir Uni
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
+ON 5 MouDen Egl
 
 ## TTC STREETCARS
 ON 501 DufSt ChuSt
@@ -252,14 +253,14 @@ JPN ChitoseLnAir H14 AP15
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY24_A JY24_B
-JPN KeihinTohokuLn JK32 JK20
+JPN KeihinTohokuLn JK38 JK20
 JPN KeihinTohokuLn JK12 JK09
 JPN SaikyoLn JA08 JA26
 JPN MusashinoLn JM28 JM13
 JPN MusashinoLn JM10 JE01
 JPN YokosukaSobuLn JO07 JO28
 JPN ChuoRapidLn JC01 JC11
-JPN UtsunomiyaLn JU01 JU07
+JPN UtsunomiyaLn Koga JU01
 JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
@@ -279,8 +280,7 @@ JPN TokaidoLnCen CA68 CA83
 
 ## JR WEST
 JPN TokaidoLnW A12 A63
-JPN OsakaLoopLn O01_A O06
-JPN OsakaLoopLn O07 O01_B
+JPN OsakaLoopLn O01_A O01_B
 JPN SakurajimaLn P14 P16
 JPN SanyoLn A63 R10
 JPN KishinLn Himeji Tsuyama
@@ -322,8 +322,9 @@ JPN DenentoshiLn DT01 DT03
 JPN SetagayaLn SG01 SG10
 
 ## KEIKYU
-JPN KeikyuMainLn A07 KK11
+JPN KeikyuMainLn A07 KK50
 JPN KeikyuAirportLn KK11 KK17
+JPN ZushiLn KK50 KK53
 
 ## MEITETSU
 JPN NagoyaMainLn NH33 NH34
@@ -342,7 +343,7 @@ JPN NankaiMainLn NK01 NK30
 JPN AiportLn NK30 NK32
 
 ## KEIHAN
-JPN KeihanLn KH04 KH39
+JPN KeihanLn KH01 KH40
 JPN UjiLn KH28 KH77
 
 ## HANKYU
@@ -367,22 +368,20 @@ JPN TozaiLnSen T05 T08
 
 ## TOKYO METRO
 JPN GinzaLn G01 G19
-JPN MarunouchiLn M08 M14
-JPN MarunouchiLn M15 M25
+JPN MarunouchiLn M08 M25
 JPN HibiyaLn H01 H22
 JPN TozaiLnTo T01 T23
 JPN ChiyodaLn C01 C19
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z01 Z14
-JPN NambokuLnTo N01 N03
-JPN NambokuLnTo N08 N10
+JPN NambokuLnTo N01 N19
 JPN FukutoshinLn F01 F16
 
 ## TOEI
 JPN AsakusaLn A08 A20
 JPN MitaLn I01 I17
 JPN ShinjukuLn S01 S21
-JPN OedoLn E28_A E09
+JPN OedoLn E28_A E12
 JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
 
