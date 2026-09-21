@@ -263,7 +263,7 @@ HI HI78 I-H1/201 HI99
 #definitely taken some small section of HI98 or possibly HI61?
 #HI99 from I-H1(15) to radford dr (segment too short to count)
 HI HI99 HI78 KaUkaBlvd
-HI I-H2 1 7
+HI I-H2 1 9
 HI HI7101 HI99 HI76/7110
 HI HI7110 HI76/7101 OldFWRd
 HI HI8930 I-H1 KapPkwy
@@ -273,6 +273,9 @@ HI I-H3 1A 11
 HI HI83 I-H3 HI61
 HI HI61 HI83 End
 HI HI72 KeoDr HI61
+HI HI99 I-H2 WilDr
+HI HI930 WeedCir KaePtSP
+HI HI750 HI99 I-H1/76
 #WA
 WA AirExpy Ter WA518
 WA WA518 AirExpy I-5
@@ -424,7 +427,7 @@ DEU-BY St2008Hoh B17 St2016
 DEU-BY B17 St2016 A96 #from schwangau (gipsmuhlweg i think) to A96
 DEU-BY A96 24 26
 DEU-BY A96 27 39
-DEU-BY B2R A96 B304_Ber
+DEU-BY B2R B304_Ber A96
 #circle of discovery
 CA US199 US101 CA/OR
 OR US199 CA/OR OR46
@@ -435,7 +438,7 @@ OR OR99 I-5(40) OR234_E #i think
 OR OR234 OR99_E OR62
 OR OR62 OR234 US97
 OR CraCrkRd OR62 RimDr
-OR CraLakeRimDr CraCrkRd PinDr
+OR CraLakeRimDr CraCrkRd PinRd
 OR US97 OR62 272
 OR US97BusKla US97_N OR39 #to spring st?
 OR OR39Kla SprSt WasWay
@@ -450,7 +453,7 @@ CA CA44 CA89_S WilHillRd
 CA LasPeakHwy CA44/89 CA89_S
 CA CA89 LasVolNP CA36_E
 CA CA36 I-5BL_S 1stAve
-CA I-5BLRB1 CA36_E I-5_S
+CA I-5BLRBl CA36_E I-5_S
 CA I-5 647B 553
 CA I-505 I-5 1A
 CA I-80 56 20

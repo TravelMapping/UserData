@@ -180,6 +180,7 @@ DEU-TH RE3Fro SN/TH TH/SN
 DEU-TH RE16 ST/TH ErfHbf
 DEU-TH RB20 Got EisHbf
 DEU-TH RB41 EisHbf Imm
+DNK M1 Ore KonNyt
 ENG ThaLnkRai LonBri MazeHill
 FRA-IDF A Auber NoisyGrandMontEst
 FRA-IDF B AeroportCDG1 Luxembourg
@@ -221,6 +222,10 @@ JPN KeiseiMainLn KS01 KS42
 JPN YamanoteLn JY25_A JY25_B
 NOR F4 Ber OsloS
 NOR FLY1 OsloS OsloLuf
+NOR RE30 OsloS Kje
+NOR 5Osl Jer_2 Maj_2
+NOR 12Osl VigPar Jer
+NOR 17Osl Jer SinTer
 PRT LnSinOri SeteRios Sin
 PRT LnGui PorSaoBen Gui
 PRT LnBra PorSaoBen Bra
