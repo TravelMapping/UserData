@@ -25,6 +25,7 @@ FRA-IDF LonPar HDF/IDF ParGareNord
 FRA-IDF ParDor ParGareNord +DIV_Lil1
 FRA-NOR JVer IDF/NOR Ver
 
+GA GoldLn Air Dor
 GA RedLn Air FivePoi
 GA SkyTrn Air RenCarCen
 
@@ -45,8 +46,9 @@ IL PinkLn 54thCer Loop
 IL RedLn 95thDanRyan Jar
 IL RI LaSSt +DIV_Sub
 IL RI BlueIsl Jol
-IL UPNW OglTraCen Har
-IL UPW Gen OglTraCen
+IL UPN OgiTraCen IL/WI
+IL UPNW OgiTraCen Har
+IL UPW Elb OgiTraCen
 IL RISub LaSSt BlueIsl
 IL SouShoLn IN/IL MilSta
 IL MLRedLn MO/IL ShiSco
@@ -71,5 +73,11 @@ OH CL IN/OH OH/PA
 
 PA CL OH/PA PitUni
 PA PA PitUni Alt
+
+WA 1 Wes FedWayDow
+WA 2 Wes DowRed
+WA SeaCenMon SeaCen WesCen
+
+WI UPN IL/WI Ken
 
 SVK S70 BraHlaSta SVK S70 Kve
