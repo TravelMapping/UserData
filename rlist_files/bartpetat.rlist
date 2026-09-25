@@ -163,10 +163,10 @@ DEU-BE S9 MesSud TrePark
 DEU-BE S25 FriStr PotPla
 DEU-BE S25 SudKre BE/BB
 DEU-BE S41 WestKre_N WestHaf
-DEU-BE S41 OstKre SchBerg
+DEU-BE S41 SchHauAll WestKre_S
 DEU-BE S85 WaiLust BE/BB
 
-DEU-BE U1 UhlStr SchTor
+DEU-BE U1 UhlStr WarStr
 DEU-BE U2 TheHeuPla ZooGar
 DEU-BE U3 BreBachPla SchTor
 DEU-BE U4 NolDorfPla InnsBruPla
@@ -174,7 +174,7 @@ DEU-BE U5 Hbf LicBerg
 DEU-BE U6 SchKopStr TemHof
 DEU-BE U7 RatHausSpa NeuKol
 DEU-BE U8 Wit HerStr
-DEU-BE U9 ZooGar RatHausSte
+DEU-BE U9 OslStr RatHausSte
 
 DEU-BE M1 Milastrasse SHacMar
 DEU-BE M8 SUHbf_2 BruStrInvStr
