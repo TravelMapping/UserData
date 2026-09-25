@@ -14,13 +14,24 @@ CA OraLn Cou ElCaj
 CA Spr Oce VisTC
 CA Coa SanFeDep Oce
 
-CA BARTBlue Emb SanLea
-CA BARTGre Col WarmSpr
-CA BARTOra WarmSpr Mac
-CA BARTYel Emb Roc
-CA MuniF MaiDru GreSt
-CA MuniM VanNess Emb
-CA MuniN Emb Fol
+CA BARTBlue CivCen DubPle
+CA BARTGre PowSt Ber
+CA BARTOra Ber Ric
+CA BARTRed CivCen Ric
+CA BARTYel CivCen PitTra
+CA eBART PitTra Ant
+CA CalTra Mil SanFraKing
+CA MuniF 17thCas Bea
+CA MuniJ BalPark Emb
+CA MuniK BalPark Emb
+CA MuniL WestPor Emb
+CA MuniN LaPla 4thKing
+CA MuniT Sun ChiRosePak
+CA CalSt VanNess Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+CA AirTrnBlue LongTermPar Loop
+CA AirTrnRed GarG/BART_S GarG/BART_F
 
 CA SRTBlue 13thSt Arc
 CA SRTGold SacValSta 13thSt
