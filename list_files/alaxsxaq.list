@@ -247,7 +247,7 @@ HI HI19 HI190 HI270
 HI HI270 HI19 PuuHeiNHS
 HI HI200 HI190 HI2000
 HI HI2000 HI200 KomSt
-HI HI19 HI11 HI220 
+HI HI19 HI11 OldMamHwy_G
 HI HI220 HI19 AkaFalSP
 HI HI11 HI19 HI19/190
 HI CraRimDr KilMilCamp ChaCraRd #from steam vents to devastation trailhead
@@ -269,13 +269,15 @@ HI HI7110 HI76/7101 OldFWRd
 HI HI8930 I-H1 KapPkwy
 HI HI76 I-H1/750 PohRd #actually only to kamalie st
 HI HI93 I-H1 KauRd
-HI I-H3 1A 11
+HI I-H3 1A 14
 HI HI83 I-H3 HI61
 HI HI61 HI83 End
 HI HI72 KeoDr HI61
 HI HI99 I-H2 WilDr
 HI HI930 WeedCir KaePtSP
 HI HI750 HI99 I-H1/76
+HI HI99 SaltLakeBlvd AriMemDr #from moanalua rd
+#a section of HI65 from I-H3 to Oneawa St (not sufficient for a segment)
 #WA
 WA AirExpy Ter WA518
 WA WA518 AirExpy I-5

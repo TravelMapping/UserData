@@ -2,6 +2,8 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-AN C2 Car SevSanJus                                         #2026
+ESP-AN C4 SanBer_1 SanBer_2                                     #2026
 CHE S4Gal StMar Buc                                             #2026
 AUT S4Vor Blu Sch                                               #2026
 DEU-BY S1Vor LinIns AUT S1Vor Blu                               #2026
@@ -1031,6 +1033,10 @@ ENG MetLnkEDR StPetSq Vic             #2026
 #Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
+
+#Sevilla
+ESP-AN L1 CiuExpo OliQui              #2026
+ESP-AN T1 ArcInd LuisMor              #2026
 
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025

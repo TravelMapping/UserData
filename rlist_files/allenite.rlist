@@ -96,8 +96,10 @@ ENG CityLn LivLimeSt WigNorWes
 #NLD AmsDis AmsCen SchAir
 NLD AmsDis AmsCen NLD/BEL
 
+# Airport to Delft
+NLD IC31 Del SchAir
+
 # Not mapped yet
-# NS Sprinter SchAir Delft
 
 # AMS Trams
 NLD 24Ams CenSta Mus
