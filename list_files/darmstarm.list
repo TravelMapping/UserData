@@ -23,12 +23,12 @@ DE US301 DE1 MD/DE #various trips to raleigh, clinched easter 2026
 DE DE1 DE4 DE26
 DE DE1A DE1_N DE1_S
 DE DE1B DE1A DE1
-DE DE2 DE273 DE141
-DE DE3 I-495 DE92 #from when i was a baby, trusting dad on this one (and a small bit recently)
-DE DE4 DE48 DE279 #from when i was a baby, trusting dad on this one (and a small bit recently)
+DE DE2 DE273 DE141 
+DE DE3 I-495 DE92
+DE DE4 DE48 DE279
 DE DE5 US9/404 DE5Alt_S #henlopen -> home 7-5-26
 DE DE5AltMil DE5_S DE16/30 #henlopen -> home 7-5-26
-DE DE7 DE/PA DE1(166)
+DE DE7 DE/PA DE1(166) #antiq.
 DE DE7 US40 BraRd #elkton -> home 6-29-26
 DE DE7 US40 US13/72 #home -> henlopen 7-5-26
 DE DE8 MD/DE DE44 #stevensville -> home 9-26
@@ -55,7 +55,7 @@ DE DE71 DE896_S US301
 DE DE72 DE7_N US40 #rock gym
 DE DE72 DE9 US13/1 #wilmington -> home 7-14-26
 DE DE82 DE52 DE/PA
-DE DE92 DE100 US13 #from when i was a baby, trusting dad on this one
+DE DE92 DE100 US13 #from very little
 DE DE100 DE92 AdaDamRd #medford -> home 8-15-26
 DE DE100 DE52 DE/PA #road trip 8-18-26
 DE DE141 DE9/273 US202/261 #antiq. clinched 7-8-26
