@@ -258,10 +258,11 @@ MI I-75 OH/MI 61
 MI I-75 115 344
 
 MI I-94 138 183
+MI I-94 199 240
 #I'm able to leave off I-96, I-196, and I-496 because a different highway I was following covers it. 
 
 MI I-275 I-75 165(96)
-MI I-696 1A 18 
+MI I-696 1A 28 
 #I'm conflicted b/c on my spreadsheet I feel good about saying I made it to the western terminus of I-696 but TM shows you have to continue onto I-96 to complete it. 
 
 MI US31 IN/MI 36(196)
@@ -467,11 +468,12 @@ TN US441 ChiPicArea US411_N
 
 
 #VERMONT
-VT I-89 NH/VT 15
+VT I-89 NH/VT 17
 VT I-189 I-89 US7
 VT US2 NY/VT VT2A_Wil
-VT US4 NY/VT VT22A
-VT US7 VT30 US2_W
+VT US2 I-89(11) BolValAccRd
+VT US4 NY/VT US7_N
+VT US7 US4_W WMilRd
 
 
 

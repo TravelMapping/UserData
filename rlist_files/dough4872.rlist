@@ -15,10 +15,10 @@ DE WilNewLn DE/PA New
 PA WilNewLn DE/PA Phi30thSt
 PA WTreLn Phi30thSt PA/NJ
 NJ WTreLn PA/NJ WestTre
-PA Rte101 SprMall 69thStTC
-PA BroStLn NRG CityHall
-PA MarFraLn 69th 5th
-PA NorLn 69th Nor
+PA D1 SprMall 69thStTC
+PA B1 Pat FernRock
+PA L1 69th 5th
+PA M1 69th Nor
 PA PATCO 15th16thLoc PA/NJ
 NJ PATCO PA/NJ Lin
 PA AtlCityLn Phi30thSt PA/NJ

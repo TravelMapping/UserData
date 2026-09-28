@@ -4,11 +4,14 @@ AUT S3Vor CHE/AUT Bre
 
 BEL ICE79 BruMidi BEL/DEU
 BEL BruNan BruMidi BEL/FRA
+BEL 4Bru GareMidi Bou
+BEL 10Bru GareMidi Bou
 
 CHE IC1 ZurHau StGal
 CHE IC3 Sar Chur
 CHE IC5 ZurHau Ror
-#CHE IR36 Basel SBB < ZurHau
+CHE ICE12 BasSBB DEU/CHE
+#CHE IR36 BasSBB ZurHau
 CHE S1Gal Rom StGal
 CHE S2Gal Ror StMar
 CHE S3Vor StMar CHE/AUT
@@ -18,6 +21,7 @@ CHE S5Gal StGal Ror
 CHE S7Gal RorHaf Ror
 CHE S21Gal StGal App
 # Bernina Express, Chur (CHE) > Tirano (ITA)
+CHE SkyMet AirCen DockE
 
 DEU-BW ICE12 DEU/CHE FreHbf
 DEU-BW ICE12 Off MannHeimHbf

@@ -1,8 +1,8 @@
-########-INTERCITY RAIL LINES-########
+########-USA INTERCITY RAIL LINES-########
 VA NENor Nor CT NENor Sta
-VA NENew NewNews CT NENew Sta
-DC NENew WasUniSta MA NENew BosSou
+VA NENew NewNews MA NENew BosSou
 CT HL NHUniSta MA HL Spr
+MA DE BosNor ME DE Bru
 FL FL Mia DC FL WasUniSta
 LA CR NewOrl DC CR WasUniSta
 LA MG NewOrl AL MG Mob
@@ -15,7 +15,17 @@ OR EBPor PorUniSta IL EBPor UniSta
 
 FL BriLn MiaCen BriOrlSta
 
-########-COMMUTER RAIL LINES-########
+########-CANADA INTERCITY RAIL LINES-########
+MB Can Winnip SK Can Mel
+SK WinChu Can MB WinChu Chu
+
+########-USA COMMUTER RAIL LINES-########
+MA FalRivLn FallRiv BosSou
+MA GreLn Gre BosSou
+MA HavLn BosNor Hav
+MA KinLn KinRte3 BosSou
+MA NewBedLn NewBed BosSou
+
 NY BabBra PennSta Bab
 NY GreBra Ron Gre
 NY HemBra GraCen Hem
@@ -75,19 +85,29 @@ CA VenCouLn UniSta VenE
 CA OraCouLn UniSta Ora
 CA InlEmpLn Ora SanBerDow
 
+########-CANADA COMMUTER RAIL LINES-########
+ON BT AllWat Uni
+ON UP PeaAir Uni
+
 ########-HERITAGE RAILROADS-########
-CT EssSteTrn Ess DeepRivLan
+CT EssSteTrn Ess Che
+CT NauRR FasCho Tor
 DE WilWesRR Hoc Gre
 PA StrRR Str LeaPl
-
+MA BerSceRW Ada NAda
+NY DelUlsRR WEnd EEnd
 
 ########-USA RAPID TRANSIT LINES-########
 #--------NORTHEAST CITIES--------
-MA BluLn Sta Bow
-MA OraLn Sta ComCol
-MA RedLn ParkSt Har
-MA GreLnD Riv Fen
-MA GreLnD Ken GovCen
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA RedLnM Ash Mat
+MA GreLnB BosCol GovCen
+MA GreLnC CleCir GovCen
+MA GreLnD Riv UniSq
+MA GreLnE HeathSt MedTuf
 
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
@@ -243,6 +263,9 @@ CA BlueLn CivCen OldTownTC
 
 
 ########-CANADA RAPID TRANSIT LINES-########
+AB BlueLn 69thSt Sad
+AB RedLn Tus SomBri
+
 ON 1 SheW Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil

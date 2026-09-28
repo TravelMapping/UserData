@@ -386,6 +386,8 @@ ESP-CT B20 18(M) 16
 ENG AndRR A303_E A303_W
 ##Avon##
 ENG AvonRR A38 A4
+##Aylesbury##
+ENG AylRR A4157_W A41
 ##Ayr##
 SCT AyrRR A713_W A713_E
 ##Bangor##
@@ -405,10 +407,12 @@ ENG BolRR A676_W A579
 ##Bournemouth##
 ENG BouRR A347_W A347_E
 ##Bradford##
-ENG BraCRR A650_N A6181_N
+ENG BraCRR A647/A650 A650/A658
 ENG BraRR M606_E M606_W
 ##Cambridge##
 ENG CamRR A603_S A603_N
+##Cheltenham##
+ENG CheIR A435_E A435_W
 ##Chichester##
 ENG ChiRR B2178_N B2178_S
 ##Coleraine##
@@ -417,7 +421,7 @@ NIR ColRR B185 B201
 ENG CovRR 1 B4113
 ##Derby##
 ENG DerIRR 2 A52_E
-ENG DerRR A6_S A6_E
+ENG DerRR A52/A5111 A38/A52
 ##Dewsbury##
 ENG DewRR B6409_E B6409_W
 ##Dundee##
@@ -437,7 +441,7 @@ ENG HunRR PatLinkRd_E PatLinkRd_W
 ##Kidderminster##
 ENG KidRR A442/A451 A442/A4535
 ##Leeds##
-ENG LeeCCL J1_W J1_E
+ENG LeeCCL WestGate HighCou
 ENG LeeIRR A65 A653
 ENG LeeRR A653 M1
 ##Leicester##
@@ -455,8 +459,10 @@ ENG LouRR A6_S A60
 ##Manchester##
 ENG ManRRInn A5103_E A5103_W
 ENG ManRROut 18 M62_E
+##Newcastle-under-Lyne##
+ENG NewRR A53_N A53_S
 ##Northampton##
-ENG NhtRR A4500 A428
+ENG NhtRR A43/A5076 A4500_W
 ##Norwich##
 ENG NorRR A1074_S A1074_N
 ##Nottingham##
@@ -467,6 +473,8 @@ ENG NunRR B4102_S B4102_N
 ENG OxfRR A420_W A420_E
 ##Perth##
 SCT PerRR A912_N A85_W
+##Reading##
+ENG ReaRR A33_W A33_E
 ##St Helier##
 JEY SHRR A1 A17
 ##Salisbury##
