@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 9-27-26
+#everywhere that darmstarm has been up to 9-28-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 9-27-26.
+#last updated 9-28-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -263,6 +263,7 @@ MD MD7Nor US40/279 MD272 #elkton -> fireworks place 7/26
 MD MD8 MD18 End #stevensville 9-26
 MD MD18 End US301 #stevensville -> home 9-26
 MD MD22 US1Bus MD136 #guatemala trip 6-26 (baltimore -> home)
+MD MD22 MD136 I-95 #home -> harford 9-26
 MD MD23 US1 SchRd #en route to grandparents
 MD MD24 MD136 MD165 #lock 12 trip 7-26
 MD MD41 I-695 JopRd #micro center
@@ -280,8 +281,7 @@ MD MD152 I-95 US1 #joppaaaa
 MD MD152 MD165 US1 #baltimore -> home 8-26
 #MD MD152 MD146 Charles St #en route to grandparents
 MD MD152 I-95 US40 #newark -> baltimore 8-26
-MD MD155 US40/7 I-95
-MD MD155 I-95 MD161 #raleigh -> home 5-2026, and probably others as well
+MD MD155 MD22 US40/7 #clinched 9-26
 MD MD161 MD155 US1 #clinched 5-26
 #MD MD165 MD23_E Furnace Rd #en route to grandparents
 MD MD165 MD24 MD/PA #lock 12 trip 7-26
