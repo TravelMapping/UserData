@@ -1,6 +1,31 @@
-#England
+#TRAIN LINES
+#https://tmrail.teresco.org/user/mapview.php?units=miles&u=alhooks13&sys=
+
+
+#ENGLAND
 ENG SusDowLn Fal Lew
 ENG NorLnEdg MorCre Emb
-ENG OxfLn LonPad +DIV_CotN
-ENG OxfBriLn +DIV_GWML BriTemMea
+ENG GWML LonPad BriTemMea
+ENG LivNorLn +SKIP_Hat +DIV_MML
+ENG LivNorLn She +DIV_HVLE
+
+
+#FRANCE
+FRA-NOR K2 CVL/NOR Bay
+FRA-CVL K2 IDF/CVL CVL/NOR
+FRA-IDF K2 ParStLaz IDF/CVL
+FRA-IDF ParLyon ParGareLyon IDF/BFC
+FRA-BFC ParLyon IDF/BFC BFC/ARA
+FRA-ARA ParLyon BFC/ARA LyonPartDieu
+FRA-ARA K16 LyonPartDieu ChaChaEaux
+
+
+
+#SPAIN
+
+
+
+
+
+#UNITED STATES
 
