@@ -2,6 +2,10 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-AN C1Cad AerJer Cad                                         #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+ESP-AN C1 SanJus Utr                                            #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+#ESP-AN Highspeedtrain SanJus Cad                               #2026, traveled as high speed train Madrid-Cadiz (southbound)
+#ESP-AN Regional train SanJus Cad                               #2026, traveled as regional train Cadiz-Sevilla  (northbound)
 ESP-AN C2 Car SevSanJus                                         #2026
 ESP-AN C4 SanBer_1 SanBer_2                                     #2026
 CHE S4Gal StMar Buc                                             #2026
