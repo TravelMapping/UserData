@@ -1,24 +1,26 @@
 NY S42 TimSq GraCen
 NY 1 VanCorPk SouFry
-NY 2 34StPennSta GraArmyPla
-NY 3 34StPennSta GraArmyPla
+NY 2 34StPennSta FlaAveBroCol
+NY 3 72St JunSt
 NY 4 FulSt +SKIP_GraArmyPla
 NY 4 Woo 42StGraCen
 NY 5 EasDyreAve BroBriCityHall
+NY 6 PelBayPk BroBriCityHall
 NY 7 34StHudYar FluMainSt
-NY A DycSt BroJct
-NY C 50St RalAve
+NY A DycSt HowBeaJFK
+NY C 50St EucAve
+NY D Nor205St 125St
 NY E JamCenParArc W4thSt
 NY F Jam179St KinHwy
 NY G CouSq HoytSchSts
-NY J BroSt GatAve
-NY J HalSt BroJct
-NY L 8Ave BusAveAbeSt
-NY M FluAve 34StHerSq
+NY J BroSt JamCenParArc
+NY L 8Ave CanRocPkwy
+NY M FrePondRd ForHil71Ave
 NY N 34StHerSq ConIslStiAve
 NY Q 96St ConIslStiAve
-NY R 34StHerSq BayRid95St
+NY R ForHil71Ave BayRid95St
 NY W Bro WhiStSFry
+#NY Z FulSt JamCenParArc
 NY SPro FraAve ProPk
 
 NJ PATHH33 Hob NY PATHH33 33St
@@ -38,6 +40,8 @@ NY NewHavLn GraCen NY NewHavLn NewRoc
 PA AtlCityLn Phi30thSt NJ AtlCityLn AtlCity
 NJ BerCouLn Hob NY BerCouLn Suf
 NJ GlaBra Sum Gla
+NJ GlaBra +DIV_Sec +DIV_Penn/Nwk #not clinched by the Gladstone train tho
+NJ MeaRailLn SecJct Mea
 NJ MainLn Hob NY MainLn Suf
 NJ MonBooLn NY/NJ SecJct
 NJ MonBooLn NewBroSt Hac
@@ -48,9 +52,8 @@ NY NJerCoaLn PennSta NJ NJerCoaLn BayHead
 NJ PasVlyLn Hob NY PasVlyLn SprVly
 NJ RarVlyLn NewPenn HighBri
 
-DC GreLn Arc MD GreLn ColPk
-DC GreLn NavyYardBal LEnfPla
-DC BluLn Smi LEnfPla
+DC GreLn NavyYardBal MD GreLn ColPk
+DC BluLn FedTri CapS
 VA SilLn Cla DC SilLn McPSq
 MA GreLnE Pru NorSta
 
@@ -64,11 +67,11 @@ DEU-BY 17Mun AmaBurgStr IsarTor
 DEU-BY 17Mun FriEngVilStu HerPla
 DEU-BY 19Mun NatThe MaxWebPla
 DEU-BY 21Mun NatThe MaxWebPla
-(north line to Rosenberg, then Salzburg)
-(ICE to Berlin Hbf)
+#(north line to Rosenberg, then Salzburg)
+#(ICE to Berlin Hbf)
 DEU-BE S2 FriStr AnhBf
 DEU-BE S3 ZooGar FriStr
 DEU-BE S5 AlePla WarStr
 DEU-BE U2 MenBatPark StaMit
 DEU-BE U5 UntLin AlePla
-(plus DB Hbh to Potsdamer, Obh to Dbh)
+#(plus DB Hbh to Potsdamer, Obh to Dbh)
