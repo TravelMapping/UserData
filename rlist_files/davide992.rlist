@@ -61,6 +61,7 @@ JPN ChuoSobuLn JB19 JB21
 JPN DisMon Gateway_A Gateway_B
 JPN GinzaLn G09 G14
 JPN HarukaLtd KansaiAir Tennoji
+JPN Hiroden1 M1 U1
 JPN JRKyotoLn A31 A47
 JPN KeikyuAirportLn KK11 KK17
 JPN KeikyuMainLn A07 KK11
@@ -70,6 +71,7 @@ JPN NankaiMainLn NK01 NK30
 JPN OsakaLoopLn O01_A O11
 JPN SakaisujiLn K15 K18
 JPN SakurajimaLn P14 P16
+JPN SanyoLn G01/R01 G03
 JPN SanyoShin ShinOsaka Hiroshima
 JPN YamanoteLn JY24_A JY24_B
 JPN YurikamomeLn U04 U15
