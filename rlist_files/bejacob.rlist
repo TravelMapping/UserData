@@ -1,6 +1,7 @@
 #Amtrak
 CA CS UniSta WA CS SeaKingSt
 CA PS SanFeDep CA PS SanLuisObi
+DC AE WasUniSta PA AE Phi30thSt
 DC FL WasUniSta FL FL Mia
 LA NO NewOrl IL NO UniSta
 OR AC Eug BC AC VanPacCen
@@ -122,6 +123,12 @@ OR RedLn PioSq PorIntAir
 OR BLp 11thMar_S 11thCou
 OR BLp GraHoyt 11thMar_N
 
+#PA SEPTA
+PA AirLn PHLTerB Phi30thSt
+PA L1 30th 13th
+PA T3 DarTC 13th
+PA T4 DarTC 13th
+
 #TX DART
 TX OraLn DFWAir CityPlaUpt
 TX RedLn Wes CityPlaUpt
@@ -203,7 +210,6 @@ NV MBT ManBay ExcNor
 NY BMR SpeEve Uni
 NY NECorLn PennSta NJ NECorLn NewLibAir
 OH RedLn Air StoWin
-PA AirLn PHLTerB Phi30thSt
 PA BlueLn Gat StaSq
 PA RedLn Gat StaSq
 PA SilLn Gat StaSq
