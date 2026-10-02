@@ -44,7 +44,7 @@ ON 5 MouDen Egl
 ON 501 DufSt ChuSt
 ON 503 ChuSt_1 JarSt
 ON 504a DowAve JarSt
-ON 505 BatSt BroAveDunSt
+ON 505 BatSt BroAve
 ON 506 GraSt ChuSt
 ON 509 ExhLp UniSta
 ON 510 SpaSta UniSta
@@ -593,7 +593,7 @@ NY 7 34StHudYar 111St
 NY A 42StPABT HighSt
 NY C 96St 81StMusNH
 NY C 42StPABT JayStMetTech
-NY D 42StBryPark GraSt
+NY D 42StBryPk GraSt
 NY E SutBlvdArcAve CanSt
 NY F JacHeiRooAve 47-50StsRocCen
 NY F 42StBryPk 7Ave
