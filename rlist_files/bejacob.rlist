@@ -3,6 +3,7 @@ CA CS UniSta WA CS SeaKingSt
 CA PS SanFeDep CA PS SanLuisObi
 DC AE WasUniSta PA AE Phi30thSt
 DC FL WasUniSta FL FL Mia
+DC NESpr WasUniSta NY NESpr PennSta
 LA NO NewOrl IL NO UniSta
 OR AC Eug BC AC VanPacCen
 
@@ -128,11 +129,14 @@ PA AirLn PHLTerB Phi30thSt
 PA B1 Pat FernRock
 PA B2 WalLoc Oln
 PA B3 8thMar FernRock
-PA L1 69th 2nd
+PA L1 69th Fra
 PA T1 Mal 13th
 PA T2 61st 13th
 PA T3 DarTC 13th
 PA T4 DarTC 13th
+PA T5 Suf 13th
+
+PA PATCO 15th16thLoc NJ PATCO Lin
 
 #TX DART
 TX OraLn DFWAir CityPlaUpt
