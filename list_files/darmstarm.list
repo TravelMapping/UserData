@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 9-28-26
+#everywhere that darmstarm has been up to 10-3-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 9-28-26.
+#last updated 10-3-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -103,6 +103,7 @@ PA US22 PA33 I-476 #tobyhana trip
 PA US22 PA248 PA33 #poughkeepsie -> home 7-19-26
 PA US30 PA41 US15 #gap to gettysburg
 PA US30 PA41 PA10 #"the shed adventure" 7-26
+PA US30BusDow PA82_S PA340 #road trip 10-2-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
 PA US202 US1/322 PA/NJ #home -> poughkeepsie 7-19-26
@@ -170,10 +171,12 @@ PA PA283 I-283 US30
 PA PA291 26thSt I-95(13A) #dell concert 7-26
 PA PA309 I-81(170) HilRd #ricketts glen trip 2018
 PA PA340 PA772_E PA462
+PA PA340 PA896 US30Bus #road trip 10-2-26
 PA PA345 PA82 ParkRd #french creek
 PA PA352 PA452 US1 #pennDOT media
 PA PA372 PA472 US222_N #home to lancaster
 PA PA372 PA41 PA74 #lock 12 trip 7-26 (both ways)
+PA PA372 PA82 PA41 #road trip 10-2-26
 PA PA401 US202 PhoPike
 PA PA413 I-295 BelAve_N #ebay purchase
 PA PA420 I-95 US13
@@ -205,6 +208,7 @@ PA PA842 US322Bus PA841 #common, extended to west chester 5/26, clinched 7-3-26
 PA PA851 PA425 ConRd #lock 12 trip 7-26
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
+PA PA896 US30 PA340 #road trip 10-2-26
 PA PA897 US30 PA272 #road trip 8-1-26
 PA PA901 I-81 PA54_E #centralia trip 8-26 (home -> centralia)
 PA PA926 PA841 US202/322 #pocopson to 202
