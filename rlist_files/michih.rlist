@@ -1046,6 +1046,10 @@ ESP-VC L4 Lucr PlaCor                 #2026
 ESP-VC L5 PorMar +DIV_Lp1             #2026
 ESP-VC L5 PlaCor AveNac_2             #2026
 
+#Murcia
+ESP-MC L1 RecTerNat_1 EstNueCon       #2026
+ESP-MC L1B ACAMJer RecTerNat          #2026
+
 #Sevilla
 ESP-AN L1 CiuExpo OliQui              #2026
 ESP-AN T1 ArcInd LuisMor              #2026
