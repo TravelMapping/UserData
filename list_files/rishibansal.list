@@ -9,6 +9,7 @@
 #Update 9 Midwest and Home
 #Update 10 SoCal
 #Update 11 New Mexico Colorado Kansas Missouri
+#Update 12 Tehachapi
 
 #Interstate
 CA I-5 5A 446 #HomeBayArea
@@ -93,6 +94,9 @@ CA I-805 8 I-5(31) #Home
 #CASR
 CA CA1 I-5 CA19
 CA CA1 1A(10) 70A(101)
+CA CA2 CRN4 SheCrkDr #SGabMtns
+CA CA14 30 35 #Tchpi
+CA CA14 CA58Bus_E CA58Bus_W #Tchpi
 CA CA15 1A 6B #Home
 CA CA18 I-15(150) AppValRd #MallBstw
 CA CA33 MainSt CA150_W #Tchpi
@@ -102,9 +106,10 @@ CA CA52 1A 18B #Home
 CA CA54 1A 12(125) #Home
 CA CA56 1A 9 #Home
 CA CA58 110 165 #Tchpi
-CA CA58BusMoj CA58(165) CA58(172)
+CA CA58BusTeh CA58(148) CA58(151) #Tchpi
+CA CA58BusMoj CA58(165) CA58(172) #Tchpi
 CA CA58 172 CalCityBlvd #Tchpi
-CA CA58 186 227 #Tchpi
+CA CA58 186 I-15 #Tchpi
 CA CA60 66 I-10(93) #LBC Bstw
 CA CA62 I-10 ParkBlvd #LBC Bstw
 CA CA62 CA177 US95
@@ -128,12 +133,16 @@ CA CA119 HarSt CA43 #Tchpi
 CA CA125 12A 22 #Home
 CA CA127 I-15 CA/NV #Ely
 CA CA133 CRS18 8 #Violet1
+CA CA138 CA14(35) SieHwy #Tchpi
+CA CA138 PeaHwy_W 165thSt #Tchpi
 CA CA138 I-15 SumValRd #CajonPass
 CA CA163 ASt I-15 #Home
 CA CA152 US101(357) I-5 #BayArea
 CA CA170 5 11B #SixFlags
 CA CA177 I-10 CA62 #RiceRoadEly
+CA CA178 BorRd US395Bus_S #Keysville
 CA CA182 US395 CA/NV #BigBoy
+CA CA202 OldTownRd CA58 #Tchpi
 CA CA210 67 74 #LBC Bstw
 CA CA243 CA74 LinSt_E #Idlwld
 CA CA371 CA79 CA74 #ElyPhx
@@ -312,11 +321,14 @@ UT US191 UT10 US40_E #DinoInnToHome
 WY US191 CR154 US26/287_E #WindRiverTeton
 WY US287 US26_E US26/89_S #AcrossWY
 CA US395 BearValRd US395Bus/178 #BigBoy
+CA US395BusRid US395_S US395_N #RivnBreakdown
 CA US395 BroRd CA168_W #BigBoy
 CA US395 EdPowRd CA182 #BigBoy Ticket
 CO US550 SawDr US50 #MillionDollarHighway
 
 #Historic
+CA US6HisSan AngForHwy PeaHwy #Tchpi
+CA US6HisSan CA138 AveA #Tchpi
 CA US66HisAzu PalmAve I-15(129) #CajonPass
 CA US66HisBar I-15(150) AmbRd #TchpiBstw
 CA US101HisSan I-5(11A) LeuBlvd

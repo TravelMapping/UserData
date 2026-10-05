@@ -2,6 +2,13 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-VC C3Ali SanVicCen AlaTer                                   #2026, actually traveled as regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
+#ESP-VC Regional train AlaTer ESP-MC Regional train MurCar      #2026 regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
+ESP-VC C1Ali AlaTer ESP-MC C1 MurCar                            #2026
+ESP-AN C1Cad AerJer Cad                                         #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+ESP-AN C1 SanJus Leb                                            #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+#ESP-AN Highspeedtrain SanJus Cad                               #2026, traveled as high speed train Madrid-Cadiz (southbound)
+#ESP-AN Regional train SanJus Cad                               #2026, traveled as regional train Cadiz-Sevilla  (northbound)
 ESP-AN C2 Car SevSanJus                                         #2026
 ESP-AN C4 SanBer_1 SanBer_2                                     #2026
 CHE S4Gal StMar Buc                                             #2026
@@ -1033,6 +1040,15 @@ ENG MetLnkEDR StPetSq Vic             #2026
 #Newcastle
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
+
+#Alicante
+ESP-VC L4 Lucr PlaCor                 #2026
+ESP-VC L5 PorMar +DIV_Lp1             #2026
+ESP-VC L5 PlaCor AveNac_2             #2026
+
+#Murcia
+ESP-MC L1 RecTerNat_1 EstNueCon       #2026
+ESP-MC L1B ACAMJer RecTerNat          #2026
 
 #Sevilla
 ESP-AN L1 CiuExpo OliQui              #2026
