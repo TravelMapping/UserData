@@ -1175,6 +1175,13 @@ FRA-IDF OrlyVAL Orly123 Orly4         #2026
 #Bordeaux
 FRA-NAQ C VilPyr Qui                  #2025
 
+#Montpellier
+FRA-OCC Tram1 Mos GareSudFra          #2026
+FRA-OCC Tram2 StJeanVedCen Jac        #2026
+FRA-OCC Tram3 Juv GamStDen            #2026
+FRA-OCC Tram4 NouStRoch RivLez        #2026
+FRA-OCC Tram5 Cla Bou                 #2026
+
 #Toulouse
 FRA-OCC A BasCam BalGra               #2024
 FRA-OCC B Bor JeanJau                 #2024
