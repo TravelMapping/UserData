@@ -3760,7 +3760,9 @@ MT SR453 I-15 HauDamRd
 MT US87BypGre US87_S US87_N
 
 # - Named Highways
+MT CamRd GoiSunRd ApgLoopRd
 MT GoiSunRd US2 US89
+MT ManyGlaRd US89 SwiMI
 MT TwoMedRd MT49 TwoMedLk
 
 
