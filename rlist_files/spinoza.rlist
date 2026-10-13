@@ -82,8 +82,11 @@ JPN SetoOhashiLnW M12 M01
 JPN TokaidoLnW A63 A31
 JPN SanyoLn A63 S01/W01
 
-NLD 52Ams Vij Eur
 NLD 7Ams Lei Vij
+NLD 25Ams Kro StaZuid
+NLD 50Ams StaZuid StaRAI
+NLD 52Ams Vij StaZuid
+
 
 NOR FLY1 OsloLuf OsloS
 NOR FLY2 OsloLuf Lys
