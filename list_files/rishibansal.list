@@ -9,6 +9,8 @@
 #Update 9 Midwest and Home
 #Update 10 SoCal
 #Update 11 New Mexico Colorado Kansas Missouri
+#Update 12 Tehachapi
+#Update 13 Bakersfield LA
 
 #Interstate
 CA I-5 5A 446 #HomeBayArea
@@ -71,7 +73,7 @@ WY I-90 126 153 #DevilsTower
 SD I-90 57 59 #RapidCity
 SD I-90BLRap CamSt EglSt #RapidCity
 CA I-105 1A 18 #LAXLBC
-CA I-110 1A 21 #LBC Bstw Violet1
+CA I-110 GafSt 21 #LBC Bstw Violet1
 NE I-180 2 9thSt #Lincoln
 CA I-215 I-15 54B #Tchpi
 MO I-270 20B 33 #STL
@@ -93,18 +95,22 @@ CA I-805 8 I-5(31) #Home
 #CASR
 CA CA1 I-5 CA19
 CA CA1 1A(10) 70A(101)
+CA CA2 CRN4 SheCrkDr #SGabMtns
+CA CA14 30 35 #Tchpi
+CA CA14 CA58Bus_E CA58Bus_W #Tchpi
 CA CA15 1A 6B #Home
 CA CA18 I-15(150) AppValRd #MallBstw
-CA CA33 MainSt CA150_W #Tchpi
-CA CA33 MatRd 10thSt #Tchpi
-CA CA47 1A I-710 #LBC
+CA CA22 1 I-405(21)
+CA CA33 MainSt 10thSt #Tchpi #Violet3
+CA CA47 1A 5 #LBC
 CA CA52 1A 18B #Home
 CA CA54 1A 12(125) #Home
 CA CA56 1A 9 #Home
 CA CA58 110 165 #Tchpi
-CA CA58BusMoj CA58(165) CA58(172)
+CA CA58BusTeh CA58(148) CA58(151) #Tchpi
+CA CA58BusMoj CA58(165) CA58(172) #Tchpi
 CA CA58 172 CalCityBlvd #Tchpi
-CA CA58 186 227 #Tchpi
+CA CA58 186 I-15 #Tchpi
 CA CA60 66 I-10(93) #LBC Bstw
 CA CA62 I-10 ParkBlvd #LBC Bstw
 CA CA62 CA177 US95
@@ -122,18 +128,27 @@ CA CA91 36 50 #LBC Bstw
 CA CA91 53 65B #LBC Bstw
 CA CA94 2A ForGateRd #Home
 CA CA94 ShoTruTr OldHwy80_W
-CA CA99 24 26 #Tchpi
+CA CA99 3 26
+CA CA103 5(47) CA1 #LBC
 CA CA110 21 GleSt #BD Violet1
 CA CA119 HarSt CA43 #Tchpi
 CA CA125 12A 22 #Home
 CA CA127 I-15 CA/NV #Ely
-CA CA133 CRS18 8 #Violet1
+CA CA133 CA1 8
+CA CA134 1A 13B #Violet3
+CA CA138 CA14(35) SieHwy #Tchpi
+CA CA138 PeaHwy_W 165thSt #Tchpi
 CA CA138 I-15 SumValRd #CajonPass
-CA CA163 ASt I-15 #Home
+CA CA150 US101/1 CA33_N
 CA CA152 US101(357) I-5 #BayArea
+CA CA155 WofBlvd_N CA178
+CA CA163 ASt I-15 #Home
+CA CA166 CA33_S CA99
 CA CA170 5 11B #SixFlags
 CA CA177 I-10 CA62 #RiceRoadEly
+CA CA178 CA58/99 US395Bus_S
 CA CA182 US395 CA/NV #BigBoy
+CA CA202 OldTownRd CA58 #Tchpi
 CA CA210 67 74 #LBC Bstw
 CA CA243 CA74 LinSt_E #Idlwld
 CA CA371 CA79 CA74 #ElyPhx
@@ -296,8 +311,7 @@ NV US95 15B(11) 76(11) #Ely
 NV US95 NV373 RadRd #Ely
 NV US95 US50_W I-80(83) #BigBoy
 NV US95AltYer NV339 US50 #BigBoy
-CA US101 1A 13 #SixFlags
-CA US101 62B 70A #Tchpi
+CA US101 1A 84 #SixFlags Tchpi #Violet3
 CA US101 356 388B #BayArea
 CA US101 437 450B #BayArea
 MO US136 US61_S IA US136 US61_N #KeokukToHannibal
@@ -312,11 +326,14 @@ UT US191 UT10 US40_E #DinoInnToHome
 WY US191 CR154 US26/287_E #WindRiverTeton
 WY US287 US26_E US26/89_S #AcrossWY
 CA US395 BearValRd US395Bus/178 #BigBoy
+CA US395BusRid US395_S US395_N #RivnBreakdown
 CA US395 BroRd CA168_W #BigBoy
 CA US395 EdPowRd CA182 #BigBoy Ticket
 CO US550 SawDr US50 #MillionDollarHighway
 
 #Historic
+CA US6HisSan AngForHwy PeaHwy #Tchpi
+CA US6HisSan CA138 AveA #Tchpi
 CA US66HisAzu PalmAve I-15(129) #CajonPass
 CA US66HisBar I-15(150) AmbRd #TchpiBstw
 CA US101HisSan I-5(11A) LeuBlvd
@@ -334,5 +351,5 @@ MO MLKBri I-44 IL MLKBri I-55
 #Patchable Locations
 #Panguitch
 #Kemmerer
-#110thru405
-
+#CA 134 through 210
+#101 curve through 134

@@ -2,7 +2,7 @@ ITA-LAZ MB Pie BasSanPao
 ITA-LAZ FL1 RomaOst FiuAer
 ITA-LAZ MA ValAur SanGio
 ITA-LOM M1 Bon Lam
-ITA-TOS T2 Uni PerAer
+ITA-TOS T2 ValStaSMN PerAer
 ITA-TOS T1 VilCos ValStaSMN
 ITA-TOS FaRomGen FirCam TOS/UMB
 ITA-UMB FaRomGen TOS/UMB UMB/LAZ
@@ -19,6 +19,7 @@ CZE 4Pra Andel IPPavlova
 CZE 12Pra Andel MalostranskeNamesti 
 CZE 2Pra NarodniDivadlo KarlovyLazne
 POL S1Kra KrakowLotnisko KrakowGlowny
+POL S2Kra KraGlo Sed
 POL 3Kra Dworcowa DworzecGlownyTunel
 POL 4Kra Batorego TeatrSlowackiego
 POL 8Kra Batorego BorekFalecki
@@ -43,3 +44,4 @@ MI ExpTram SouSta NorSta
 MN MSPTram ConDE ConAB
 CO DENTrn CGat JepTer
 UT HebValRai HebValRaiDep DecBaySid
+AK CoaCla Anc Sew

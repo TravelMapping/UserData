@@ -1,6 +1,6 @@
 CA PS Ful HolBurAir
-CA SJSac Bak SacVlySta
-CA SJOak Bak OakJackLonSq
+CA GRSac Bak SacVlySta
+CA GROak Bak OakJackLonSq
 CA SW UniSta MO SW KanCityUni
 OR AC PorUniSta WA AC +DIV_PDS
 WA AC +DIV_PDN Tuk
@@ -29,3 +29,5 @@ TX Sky A8 A21
 WA SeaCenMon SeaCen WesCen
 
 CA SkuTra FortBra GlenBlaJct
+
+CHN-SH Maglev LongYangRd PuDongAirTer12
