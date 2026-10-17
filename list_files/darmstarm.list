@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 10-10-26
+#everywhere that darmstarm has been up to 10-16-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 10-10-26.
+#last updated 10-16-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -112,6 +112,7 @@ PA US22 PA33 I-476 #tobyhana trip
 PA US22 PA248 PA33 #poughkeepsie -> home 7-19-26
 PA US30 PA41 US15 #gap to gettysburg
 PA US30 PA41 PA10 #"the shed adventure" 7-26
+PA US30 PA82 US202 #KOP -> Home 10-26
 PA US30BusDow PA82_S PA340 #road trip 10-2-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
@@ -161,7 +162,7 @@ PA PA74 I-81 PA641_E #raleigh -> hershey. went only up to giant lane
 PA PA74 MD/PA PA425_S #lock 12 trip 7-26
 PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA82AltTrkCoa PA82_N PA82_S #poughkeepsie -> home 7-19-26
-PA PA82AltTrkEas PA82_N SprRd #road trip 8-1-26
+PA PA82AltTrkEas PA82_N FriChuRd #various trips
 PA PA100 PA29_S PA23 #poughkeepsie -> home 7-19-26
 PA PA113 US30 DevDr #downingtown east
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
