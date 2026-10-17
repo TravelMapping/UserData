@@ -15,6 +15,7 @@ futureinterstates;Freeways designated as future interstates;0
 highprioritycorridors;US High Priority Corridors;0
 HSPP_Optimal;Highway Shield Photo Project Most Optimal Routes;0
 HV2022;Vaiss after 2022;0
+Ib3kiiBicycle;Ib3kii's list for bicycle travels;0
 jstill_all_roadtrips;All Jack's roadtrips;0
 jstill_newest_roadtrip;Jack's newest roadtrip;0
 jt2015a3;Jim's 2015 A3 (2018-24);0
@@ -26,14 +27,13 @@ jt2023;Jim in 2023;0
 jt2024;Jim in 2024;0
 jt2025;Jim in 2025;0
 jt2026;Jim in 2026;0
-terescoj;Jim's lifetime travels;1
 michihpanda80;panda80's travels together with michih;0
 michihsi404;si404's travels together with michih;0
 MidnightEquinox24;Hoss6884's 2024 travel in personal car;0
 MidnightEquinox25;Hoss6884's 2025 travel in personal car;0
 nationalscenicbyways;Roads designated as National Scenic Byways;0
 Noire;Ib3kii's list for 3D Driving Simulator on Google Maps;0
-Ib3kiiBicycle;Ib3kii's list for bicycle travels;0
+subwaybuilder;Roads viewable in the game Subway Builder;0
 tem_built;Trans-European Motorways (Built);0
 tem_corridors;Trans-European Motorways (Corridors);0
 tent_atlcor;Trans-European Transport Network (Atlantic Corridor);0
@@ -46,6 +46,7 @@ tent_medcor;Trans-European Transport Network (Mediterranean Corridor);0
 tent_norbalcor;Trans-European Transport Network (North Sea – Baltic Corridor);0
 tent_normedcor;Trans-European Transport Network (North Sea - Rhine-Mediterranean Corridor);0
 tent_rhidancor;Trans-European Transport Network (Rhine – Danube Corridor);0
+terescoj;Jim's lifetime travels;1
 tent_scamedcor;Trans-European Transport Network (Scandinavian – Mediterranean Corridor);0
 toll_roads;Marks all tolled segments;0
 ukprimary;UK Primary Route Network;0
