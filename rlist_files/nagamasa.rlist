@@ -63,10 +63,12 @@ CHE IC1 GenAer GenCor
 
 #### CHN
 ### CRH
-CHN-BJ JingZhangYan BeiJingBei YanQing
+CHN-BJ JingZhangYan BeiJingBei BaDaLingGreWal
+CHN-BJ JingJin BeiJingS CHN-TJ JingJin BinHai
 CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
 CHN-GD GuangShen GuangZhouE +DIV_JingGangN
+CHN-GD GuangZhu ZhongShanN ZhuHai
 
 ### BJ
 ## BEIJING SUBWAY
@@ -88,12 +90,9 @@ CHN-BJ 14 JingTai ShiLiHe
 CHN-BJ 15 QingHuaDongLuXiKou WangJingXi
 CHN-BJ 16 DaGuanYing XiYuan
 CHN-BJ 17 WangJingXi ShiLiHe
-CHN-BJ CapAirExp DongZhiMen 3HaoHangZhanLou
+CHN-BJ CapAirExp BeiXinQiao 3HaoHangZhanLou
 
 ### GD
-## PRD ICR
-CHN-GD GuangZhu ZhongShanN ZhuHai
-
 ## GUANGZHOU METRO
 CHN-GD 1GZ GuangZhouERaiSta HuangSha
 CHN-GD 3GZ HanXiChangLong CanTow
@@ -121,10 +120,7 @@ CHN-SH Maglev LongYangRd PuDongAirTer12
 
 ### TJ
 ## TIANJIN METRO
-CHN-TJ 2TJ BinHaiGuoJiJiChang TianJinZhan
-
-## CR BEIJING INTERCITY
-CHN-TJ JingJin TianJin BJ/TJ CHN-BJ JingJin BJ/TJ BeiJingS
+CHN-TJ 2 BinHaiGuoJiJiChang TianJinZhan
 
 #### DEU
 ### MUNICH
@@ -268,6 +264,13 @@ ITA-CAM 2Nap NapPiaCav Pom
 JPN SanyoShin ShinOsaka Hakata
 JPN TokaidoShin Tokyo ShinOsaka
 JPN HokurikuShin Tokyo Nagano
+JPN TohokuShin Tokyo Omiya
+JPN JoetsuShin Omiya Takasaki
+JPN HokurikuShin Takasaki Nagano
+JPN AsamaShin Tokyo Nagano
+JPN KagayakiShin Nagano Omiya
+JPN NozomiShin Tokyo Hakata
+JPN HikariShin Nagoya ShinYoko
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
 JPN SuperHakutoLtd Himeji Tottori
@@ -685,6 +688,7 @@ WA BlueLn AGat_Sta AGat_Fin
 
 ## ASIA
 ARE DXBAPMTer1 Ter1 ConD
+CHN-BJ PEKAPMTer3 T3C T3E
 CHN-SH PVGWestLn T1 S1
 HKG HKGAPM T1E T1Mid
 JPN KIXNWing Main Edge
