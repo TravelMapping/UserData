@@ -260,13 +260,7 @@ ITA-CAM 2Nap NapPiaCav Pom
 
 #### JPN
 ### JR
-## SHINKANSEN & LTD EXPRESS
-JPN SanyoShin ShinOsaka Hakata
-JPN TokaidoShin Tokyo ShinOsaka
-JPN HokurikuShin Tokyo Nagano
-JPN TohokuShin Tokyo Omiya
-JPN JoetsuShin Omiya Takasaki
-JPN HokurikuShin Takasaki Nagano
+## SHINKANSEN & LTD EXPRESS TRAINS
 JPN AsamaShin Tokyo Nagano
 JPN KagayakiShin Nagano Omiya
 JPN NozomiShin Tokyo Hakata
@@ -277,6 +271,14 @@ JPN SuperHakutoLtd Himeji Tottori
 JPN NarExpShn Tokyo NarAirTer23
 JPN Skyliner KS02 KS41
 JPN TobuKegon TS01 TN25
+
+## SHINKANSEN LINES
+JPN SanyoShin ShinOsaka Hakata
+JPN TokaidoShin Tokyo ShinOsaka
+JPN HokurikuShin Tokyo Nagano
+JPN TohokuShin Tokyo Omiya
+JPN JoetsuShin Omiya Takasaki
+JPN HokurikuShin Takasaki Nagano
 
 ## JR HOKKAIDO
 JPN ChitoseLn H14 01
