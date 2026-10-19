@@ -1,11 +1,4 @@
-Notes:
-# uhhh idk i'll prob think
-
-
-
-
-
-# Great Britain
+# United Kingdom
 # England
 # Birmingham
 # Motorways
@@ -1627,6 +1620,70 @@ CA LinHwyAub TayRd_S CA49_S
 CA LinHwyDix PorRd LinSt
 CA LinHwyFol MatFieRd US50(32)
 CA LinHwyCla OldWhiRocRd End
+
+
+# Los Angeles
+# Interstate Highways
+CA I-5 62 162
+CA I-10 1 51
+CA I-105 1A StuRd
+CA I-110 GafSt 21
+CA I-210 1A 45
+CA I-405 I-5(94A) I-5(158)
+CA I-605 CA22 HunDr
+CA I-710 1 ValBlvd
+
+# Numbered Highways
+CA US101 1A 32
+
+# Select Named Freeways
+CA ColFwy I-5 ColSt
+CA LosPatPkwy CowCampRd OsoPkwy
+
+# State Highways
+CA CA1 I-5 CRN1
+CA CA2 CenAve SCDivRd
+CA CA19 GalRd End
+CA CA22 CA1 17B
+CA CA27 CA1 CA118
+CA CA39 CA1 HarBlvd
+CA CA39Azu I-10 CryLakeRd
+CA CA47 1A 5
+CA CA55 1 18
+CA CA57 1A 25B
+CA CA60 I-10(16B) 35
+CA CA66 CA210 CamAve
+CA CA71 CA91 CA57
+CA CA72 I-605 CA39
+CA CA73 I-5 18
+CA CA74 I-5 ElCarRd
+CA CA83 CA71 I-10
+CA CA90 CA1 SlaAve
+CA CA90Yor CA39 CA91
+CA CA91 VerAve 45
+CA CA103 5(47) CA1
+CA CA107 CA1 RedBeaBlvd
+CA CA110 21 GleSt
+CA CA118 30 46B
+CA CA133 CA1 14
+CA CA134 1A 13B
+CA CA142 CA90 CA71
+CA CA170 5 11B
+CA CA210 45 56
+CA CA213 25thSt I-405
+CA CA241 14 39
+CA CA261 1 6B
+
+# Historic Highways
+CA US66HisHol I-10 MisRd
+CA US66HisAzu CA110 CamAve
+CA US66HisSPa MonRd CA110
+CA US99HisLos PasAve TybSt
+CA US99HisBur OliAve MagBlvd
+CA US99HisFer TerBelSt US6His_N
+
+# National Historic Trails
+CA JBTrlLos 18A(10) 1D(101)
 
 
 # San Diego
