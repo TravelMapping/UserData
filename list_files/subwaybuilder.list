@@ -2078,6 +2078,55 @@ MD MD896 DE/MD MD/PA
 
 
 
+# Michigan
+# Detroit
+# Interstate Highways
+MI I-75 28 81
+MI I-94 167 241
+MI I-96 151 I-75
+MI I-275 8 165(96)
+MI I-375 I-75 BeaSt
+MI I-696 I-96 28
+
+# Business Interstate Highways
+MI I-75BLPon I-75_S OpdRd_N
+MI I-94BLAnn I-94_W I-94_E
+
+# Numbered Highways
+MI US12 CassRd CassAve
+MI US23 31 58
+MI US24 CarRocRd MI15
+MI US12BusYps US12_W US12_E
+MI US23BusAnn US23_S US23_N
+MI US24BusPon US24_S US24_N
+
+# State Highways
+MI MI1 AdaAve I-75BL
+MI MI3 RanSt CassAve
+MI MI5 PonTrl CassAve
+MI MI8 I-96 GalSt
+MI MI10 RanSt OrcLakeRd
+MI MI14 I-94 I-96
+MI MI17 US23 US12
+MI MI36 IslShoDr US23
+MI MI39 LafBlvd 16
+MI MI53 MI3 20
+MI MI59 HillRd I-94
+MI MI85 I-75 GriSt
+MI MI97 MI3 MI59
+MI MI102 MI5 I-94
+MI MI150 MI59 UniDr
+MI MI153 MI14 US12
+
+# Select International Bridges
+MI AmbBri CAN/USA I-75/96
+MI GorHowBri CAN/USA I-75
+
+# Select Tourist Routes
+MI LECT I-75(28) USA/CAN
+
+
+
 # Minnesota
 # Minneapolis
 # Interstate Highways
