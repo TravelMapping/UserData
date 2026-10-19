@@ -1629,6 +1629,51 @@ CA LinHwyFol MatFieRd US50(32)
 CA LinHwyCla OldWhiRocRd End
 
 
+# San Diego
+# Interstate Highways
+CA I-5 MEX/USA 71
+CA I-8 SunCliBlvd 40
+CA I-15 6B 58
+CA I-805 I-5(1A) I-5(31)
+
+# Business Interstate Highways
+CA I-8BLElC I-8_W I-8_E
+CA I-8BLAlp I-8_W I-8_E
+CA I-15BLEsc I-15_S I-15_N
+
+# Future Interstate Highways
+CA I-905FutOta 1A USA/MEX
+
+# State Highways
+CA CA11 1A 2
+CA CA15 1A 6B
+CA CA52 1A 18B
+CA CA54 1A 12(125)
+CA CA54Ran CA94 ElCajLim
+CA CA56 1A 9
+CA CA67 1A CA78
+CA CA75 I-5(5A) I-5(14A)
+CA CA76 I-5 CRS7
+CA CA76BusOce I-5 FraRd
+CA CA78 1A CA79_N
+CA CA94 1A ForGateRd
+CA CA125 CA11/905 MisGorRd
+CA CA163 ASt I-15
+CA CA188 MEX/USA CA94
+CA CA282 CA75 AlaBlvd
+CA CA905 1A USA/MEX
+
+# Historic Highways
+CA US80HisSan US101His I-8
+CA US80HisCaj I-8(15) I-8(36)
+CA US101HisSan I-5(11A) I-5(54C)
+CA US395HisSan US101His I-8
+CA US395HisPow I-15(14) I-15(26)
+CA US395HisTem I-15(28) CRS16_E
+CA US395HisVis US395His CA76
+CA US395HisFal CA76 US395His
+
+
 
 # Connecticut
 # New York
