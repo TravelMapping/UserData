@@ -1574,6 +1574,42 @@ WLS B5444 A541_S A541_N
 
 
 # United States
+# Arizona
+# Phoenix
+# Interstate Highways
+AZ I-10 109 175
+AZ I-17 194 229
+
+# Numbered Highways
+AZ US60 CenSt PerRd
+
+# Select Named Freeways
+AZ NorPkwy AZ303 NorAve
+AZ SkyHarBlvd I-10 AZ202
+
+# State Highways
+AZ AZ24 AZ202 IroRd
+AZ AZ51 I-10 15
+AZ AZ74 BulAve I-17
+AZ AZ85 RobButRd I-10
+AZ AZ87 RivRd SerRd402
+AZ AZ88 US60 CanLakeRd
+AZ AZ101 1 61B
+AZ AZ143 1 McDRd
+AZ AZ202 1A 78
+AZ AZ303 CanTraBlvd I-17
+AZ AZ347 CasaBlaRd I-10
+AZ AZ587 SesRd AZ87
+
+# Historic Highways
+AZ US60HisMes May SosRd
+AZ US70HisMes May SosRd
+AZ US80HisBuc AZ85_S AZ85_N
+AZ US80HisMes May SosRd
+AZ US89HisMes SosRd May
+
+
+
 # California
 # Sacramento
 # Interstate Highways
@@ -1836,6 +1872,7 @@ CT NY120AGre NY/CT CT/NY
 
 
 # Delaware
+# Philadelphia
 # Interstate Highways
 DE I-95 MD/DE DE/PA
 DE I-295 I-95 DE/NJ
