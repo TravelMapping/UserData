@@ -3029,6 +3029,55 @@ TN TN455 TN12_S TN12_N
 TN TTTrlMur SR102 MedCenPkwy
 TN TTTrlCoo FreyFordRd TN49
 
+
+
+# Texas
+# Interstate Highways
+TX I-10 732 787
+TX I-45 23 79
+TX I-69 104 151
+TX I-610 TX288 38
+
+# Numbered Highways
+TX US59 I-69(104) I-69(151)
+TX US90 FM359_S CouRd
+TX US290 US290BusHem_E I-610
+
+# Select Named Freeways
+TX FBPTollRd SieRanRd TXLp8
+TX FBTollRd TXLp8 US90Alt
+TX HarTollRd I-610 I-45
+TX WesTlwy FM359/1463 RicAve
+
+# Auxiliary Numbered Highways
+TX US90AltHal FM3155 I-610(24A)
+TX US90BusShe I-610 FM2100
+TX US290BusCyp US290_W US290_E
+
+# State Highways
+TX NASA1 I-45 TX146
+TX TX3 FM518 I-45
+TX TX6 TX288 US290Bus
+TX TX35 CR129 I-45
+TX TX99 I-69(104) ImpProDr
+TX TX146 BayBlvd TX146BusBay_S
+TX TX146BusLaP TX146_S TX146_N
+TX TX225 LawSt TX146
+TX TX249 I-45 HarStoRd
+TX TX249BusTom TX249_S TX249_N
+TX TX288 DelBelBlvd I-45
+
+# State Highway Loops
+TX TXLp8 TX225_S TX225_N
+
+# State Highway Spurs
+TX TXSpr5 US90Alt I-45
+TX TXSpr261 I-610 I-45
+TX TXSpr501 TX146Bus ShaLn
+TX TXSpr527 I-69/59 WesRd
+
+
+
 # Utah
 # Salt Lake City
 # Interstate Highways
