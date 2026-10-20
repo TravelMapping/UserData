@@ -1,3 +1,5 @@
+# Cities that need to be worked; Paris
+
 # Ireland
 # Dublin
 # Motorways
@@ -150,6 +152,24 @@ IRL LakeDr N81_N BogRd
 IRL LakeDr R758/L4635 N81_S
 IRL BoyVlyDr L2205 M3(7)
 IRL BraDr L4635 R115/R755
+
+
+
+
+# Switzerland
+# Autobahnen / Autoroutes
+CHE A1 49 75
+CHE A1r WynStr H288.1
+CHE A3 18 43
+CHE A4 10 36
+CHE A7 1 3
+CHE A14 4 5
+CHE A14Zug 1 H4
+CHE A15 H1 7
+CHE A15Rap 9 17
+CHE A50 H7_E H7_W
+CHE A51 1 10
+CHE A52 KusStr 9
 
 
 
