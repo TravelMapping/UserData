@@ -504,7 +504,10 @@ LUX T1 LuxExpo Ham
 MAC TaipaLn TerMar PaiKok
 
 #### NLD
-NLD AmsDis AmsCen SchAir
+NLD S81 AmsCen SchAir
+NLD S75 Zaa AmsCen
+NLD S43 SchAir AmsZuid
+
 NLD 52Ams Rok StaZuid
 
 #### NOR
