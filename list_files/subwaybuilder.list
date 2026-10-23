@@ -2749,6 +2749,46 @@ IN NatRd IN39 250W
 
 
 
+# Kansas
+# Kansas City
+# Interstate Highways
+KS I-35 198 KS/MO
+KS I-70 TopSA KS/MO
+KS I-435 MO/KS KS/MO
+KS I-635 1A KS/MO
+KS I-670 I-70 KS/MO
+
+# Numbered Highways
+KS US24 KS237 KS/MO
+KS US40 CR1023_S KS/MO
+KS US50 I-35(198) KS/MO
+KS US56 150thRd KS/MO
+KS US59 StaRd KS16/192
+KS US69 247thSt KS/MO
+KS US73 I-70 SheRd
+KS US169 255thSt KS/MO
+
+# State Highways
+KS KS5 US73/7 US69
+KS KS7 255thSt SheRd
+KS KS10 I-70 I-435
+KS KS16 US59_N US24/40
+KS KS32 US24/40 US69
+KS KS32TrkBon KS32_W KS32_E
+KS KS33 I-35 US56
+KS KS92 KanDr KS/MO
+KS KS192 US59/16 US73/7
+
+# National Historic Trails
+KS CATrl CR1023_S KS10
+KS CATrlOla CenSt KS/MO
+KS LCTrl SheRd KS/MO
+KS ORTrl CR1023_S KS10
+KS ORTrlOla CenSt KS/MO
+KS SFTrl 150thRd KS/MO
+
+
+
 # Kentucky
 # Cincinnati
 # Interstate Highways
@@ -3275,13 +3315,71 @@ MN MN282 US169 MN13
 MN MN316 SpiBlvd US61_N
 MN MN610 I-94 US10_E
 
-# Select TOurist Routes
+# Select Tourist Routes
 MN GRR WI/MN CR13
 MN GRRWin SpiBlvd US61_HasN
 
 
 
 # Missouri
+# Kansas City
+# Interstate Highways
+MO I-29 3(35) 30
+MO I-35 KS/MO 33
+MO I-49 160 I-435
+MO I-70 KS/MO 31
+MO I-435 KS/MO MO/KS
+MO I-470 I-435 16B
+MO I-635 KS/MO 12
+MO I-670 KS/MO 2N
+
+# Numbered Highways
+MO US24 KS/MO MOsD
+MO US40 KS/MO I-70(31)
+MO US50 KS/MO MOsW/Z
+MO US56 KS/MO US71
+MO US69 KS/MO MOsPP_Cli
+MO US71 I-49(160) I-29(30)
+MO US169 KS/MO MOsF_Tri
+
+# Auxiliary Numbered Highways
+MO US169SprSmi US169 ChuSt
+
+# State Highways
+MO MO1 MO210 MO152
+MO MO7 MOsEE_Cas US24
+MO MO9 I-70 I-29
+MO MO10 US69 MOsC
+MO MO12 I-435 SprSt
+MO MO33 US69 MOsPP_Cli
+MO MO45 I-29 IatRd
+MO MO45SprLea MO45 MO92
+MO MO58 MOsD MOsW
+MO MO78 I-435 MO7
+MO MO92 KS/MO US69
+MO MO110Han I-35(12) I-35(33)
+MO MO150 KS/MO CanDr
+MO MO152 I-435(24) I-35
+MO MO210 I-35 MOsEE_Ray
+MO MO224 US24_W MOsD
+MO MO269 FrontSt I-35
+MO MO273 I-29 IatRd
+MO MO283 MO9 32ndAve
+MO MO291 I-49 I-435
+MO MO350 I-435 I-470
+MO MO371 I-29 OldPikeRd
+
+# National Historic Trails
+MO CATrl KS/MO WayCityLand
+MO LCTrl WalSt LatRd
+MO LCTrlSou KS/MO MOsD
+MO LCTrlWes CheSt MO45/273
+MO ORTrl KS/MO WayCityLand
+MO SFTrl KS/MO MOsD
+MO SFTrlSug US24 WayCityLand
+MO SFTrlBlu TywRd WooRd
+
+
 # St. Louis
 # Interstate Highways
 MO I-44 247 I-70
@@ -3329,7 +3427,7 @@ MO US66His US50 MO/IL
 MO US66HisMan US66His_W US66His_E
 MO US66HisFlo US66His_W US66His_E
 
-# SelectInter-State Bridges
+# Select Inter-State Bridges
 MO EadBri I-44 MO/IL
 MO MLKBri I-44 MO/IL
 MO McKBri I-70 MO/IL
