@@ -1,4 +1,4 @@
-# Cities that need to be worked; Paris
+# Cities that need to be worked; Paris, Geneva, Lyon, Marseille
 
 # Ireland
 # Dublin
@@ -156,7 +156,35 @@ IRL BraDr L4635 R115/R755
 
 
 
+# Japan
+# Sapporo
+# Kōsoku Jidōsha Kokudō
+JPN E5 22 38
+JPN E5A E5_S 13
+JPN E5AOta 9 11
+JPN E38 E5 3
+
+# Ippan Kokudō
+JPN N5 P956 N12
+JPN N12 N36/N230 P33
+JPN N36 N12/N230 P129
+JPN N229 ChuDor P956
+JPN N230 N12/N36 KurTogSen
+JPN N231 N5/N274 P11
+JPN N234 N12 P576
+JPN N274 N5/N231 P602
+JPN N275 N12 P11
+JPN N337 N36 N5
+JPN N337Doo N36 N274/N337
+JPN N337Nak N337_S N337_N
+JPN N393 N5 P36
+JPN N453 N36 P78_N
+
+
+
+
 # Switzerland
+# Zurich
 # Autobahnen / Autoroutes
 CHE A1 49 75
 CHE A1r WynStr H288.1
@@ -171,6 +199,32 @@ CHE A50 H7_E H7_W
 CHE A51 1 10
 CHE A52 KusStr 9
 
+# Select Named Freeways
+CHE UebHin A15/A52 H345
+CHE ZubHar 1 3
+CHE ZubHau UntWerkStr A3
+CHE ZubLet 1 5
+CHE ZubWie 1 32
+
+# International 'E' Roads
+CHE E41 10(A4) 36(A4)
+CHE E60 18(A3) 75(A1)
+
+# Hauptstrassen
+CHE H1 WynStr KefStr
+CHE H3 Neu HauStr_BilN
+CHE H4 RudStr H296
+CHE H5 WynStr HauStr_Dot
+CHE H7 WeiWeg H466.1
+CHE H8 H371 T16
+CHE H15 A4(10) H17
+CHE H17 H295.1 H427.1
+CHE H25 A1 DorfStr_Wal
+CHE H26 H5 H296_W
+
+# Grand Tour of Switzerland
+CHE GTSZur H371 H15_E
+CHE GTS H23/H290 H296_W
 
 
 
