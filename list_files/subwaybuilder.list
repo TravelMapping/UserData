@@ -182,6 +182,25 @@ JPN N453 N36 P78_N
 
 
 
+# New Zealand
+# Wellington
+# Motorways
+NZL JohPorMot NewRd ParSt
+NZL TraGulMot SH59_S SH59_N
+NZL WelUrbMot HuttRd WilSt
+
+# State Highways
+NZL SH1 MuhRd Bdwy
+NZL SH2 KaiRd_S SH1_S
+NZL SH53 SH2 BidCutRd
+NZL SH58 SH59 SH2
+NZL SH59 SH1_N SH1_S
+
+# Tourist Routes
+NZL CNZWT KaiRd_S WelPicFry
+
+
+
 
 # Switzerland
 # Zurich
