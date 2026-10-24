@@ -453,3 +453,26 @@ ITA SS54Tar ViaVitVen ITA/SVN
 SVN R201 A2 R202
 SVN R202 R201 SVN/ITA
 
+########################
+## Place: Vinkovci    ##
+## Time:  17.10.2026. ##
+########################
+HRV Z4111 D2 D55
+HRV D2 SVN/HRV D3_N
+HRV D2 D314 Z4111
+HRV D2 D55 EcoJak
+HRV D417 VukSka D2/D213
+HRV Z4257 D7 Bil/Osi
+HRV Z4042 D212 Z4257
+
+
+##########################
+## Place: Various fixes ##
+## Date: 23.10.2026.    ##
+##########################
+HRV D55 D2 HRV/BIH
+HRV D517 D7_N D34_E
+HRV D550 D517 D7
+HRV Z4170 Vin/Rok Z4221
+HRV Z4218 Z4202 Z4221
+HRV Z4221 Z4218 Z4170
