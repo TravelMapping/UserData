@@ -1,0 +1,16 @@
+# United States
+# California
+# Sacramento
+# Amtrak
+CA CZ +SKIP_FaiVac Col
+CA CC FaiVac Aub
+CA CS +SKIP_FaiVac +DIV_Mar
+CA GRSac Lodi SacVlySta
+
+#Sacramento RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+CA SRTGre 13thSt 7thRic
+
+# Airside Airport Rail Systems
+CA AutPeoMov CenTerB ConB
