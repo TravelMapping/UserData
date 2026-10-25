@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 10-16-26
+#everywhere that darmstarm has been up to 10-25-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 10-16-26.
+#last updated 10-25-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -80,11 +80,14 @@ DE DE896 DE/MD DE71_S #antiq.
 DE DE896 US13 DE71_S #henlopen -> home 7-5-26
 DE DE896BusGla DE896_N US40 #glasgow movie theater
 #pennsylvania
+PA PorColBri PA611 PA/NJ #oxford -> AT 10-26
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
 PA I-76 342 347 #dell concert 7-26
+PA I-76 312 331 #oxford -> AT 10-26
 PA I-78 71 55 #poughkeepsie -> home 7-19-26
 PA I-80 123 111 #niagara trip
+PA I-80 PA/NJ 304 #AT 10-26
 PA I-80 298 302 #tobyhana trip
 PA I-81 59 MD/PA #raleigh -> hershey
 PA I-81 70 67 #niagara trip
@@ -110,9 +113,11 @@ PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
 PA US22 PA248 PA33 #poughkeepsie -> home 7-19-26
+PA US22 PA987 PA737 #AT -> oxford 10-26
 PA US30 PA41 US15 #gap to gettysburg
 PA US30 PA41 PA10 #"the shed adventure" 7-26
 PA US30 PA82 US202 #KOP -> Home 10-26
+PA US30 PA113 #oxford -> AT 10-26
 PA US30BusDow PA82_S PA340 #road trip 10-2-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
@@ -123,6 +128,7 @@ PA US219 PA153 PA948_N
 PA US222 US422/12 PA183 #hawk mountain trip
 PA US222 PA372_W PA462
 PA US222 MD/PA PA372_E #conowingo -> home 7-26
+PA US222 PA737 US422/12 #AT 10-26
 PA US322 PA452 US1_N #sun valley
 PA US322 US22_W PA970 #niagara trip
 PA US322 I-83(46A) PA743Trk #hershey -> raleigh, various trips
@@ -164,7 +170,9 @@ PA PA82 DE/PA PA345 #coatesville, up to french creek
 PA PA82AltTrkCoa PA82_N PA82_S #poughkeepsie -> home 7-19-26
 PA PA82AltTrkEas PA82_N FriChuRd #various trips
 PA PA100 PA29_S PA23 #poughkeepsie -> home 7-19-26
+PA PA100 PA113 I-76 #oxford -> AT 10-26
 PA PA113 US30 DevDr #downingtown east
+PA PA113 US30 PA100 #oxford -> AT 10-26
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
 PA PA118 OldPA115 PA487_N #ricketts glen trip 2018
 PA PA147 US22/322 US15_N #canada trip 6-26
@@ -173,6 +181,7 @@ PA PA162 PA82/842 StrRd
 PA PA183 US222 PA895 #hawk mountain trip (to campsite)
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
 PA PA248 PA33 US22 #poughkeepsie -> home 7-19-26
+PA PA248 PA512 PA329/987 #AT -> oxford 10-26
 PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
 PA PA261 DE/PA PA491 #wilmington -> home 6/26
 PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
@@ -199,14 +208,17 @@ PA PA462 US30_E GreRd #awesome video game store
 PA PA472 PA841 PA372 #oxford, clinched 5-28-26
 PA PA487 PA118_E MainParkRd #ricketts glen trip 2018
 PA PA491 PA261 US202 #wilmington -> home 6/26
+PA PA512 PA33 PA248 #AT -> oxford 10-26
 PA PA568 US222/272 PA625 #road trip 8-1-26
 PA PA581 1 6 #raleigh -> hershey
 PA PA611 I-95 GirAve #go birds (various trips)
 PA PA611 I-80(298) PA196/940 # camping trip in tobyhana
+PA PA611 FroSt PorTollBri #oxford -> AT 10-26
 PA PA625 PA568 PA23 #road trip 8-1-26
 PA PA641 US11/34 OraSt_N #xc meet at carlisle high school 2021
 PA PA666 US6 PA948 #niagara trip
 PA PA715TrkNTa PA611_N I-80(298) # camping trip in tobyhana
+PA PA737 I-78 US222 #AT -> oxford 10-26
 PA PA741 PA41 PA462 #pa999 trip 12-25
 PA PA743 PA283 US422
 PA PA743TrkHer PA743_S US322_W # various hershey trips
@@ -225,6 +237,7 @@ PA PA926 PA841 US202/322 #pocopson to 202
 PA PA934 US322/241 I-81 #centralia trip 8-26 (home -> centralia)
 PA PA948 PA120 PA666 #niagara falls trip
 PA PA970 US322 I-80 #niagara falls trip
+PA PA987 PA248_E US22 #AT -> oxford 10-26
 PA PA999 PA441 PA462 #pa999 trip 12-25
 #maryland
 MD SBTrlUMa MD231/381 MD725_E #various return trips from raleigh
@@ -655,7 +668,9 @@ NJ NJtpk 3 13 #college new york trip 2024
 NJ NJtpk I-295(1) 2 #ocean city trip 2025
 NJ NJtpk I-295(1) 4 #grandparents
 NJ GarStaPkwy 129 NJ/NY #college new york trip 2024 + antiq. west point trip
+NJ NP602 CR602 OldMineRd #AT -> oxford 10-26
 NJ I-76 1A 2 #philly -> medford 9-26
+NJ I-80 4B PA/NJ #AT -> oxford 10-26
 NJ I-95 PA/NJ NJ/NY #george washington bridge, medieval times trip
 NJ I-195 1A 35 #infoage
 NJ I-278 3 NJ/NY
@@ -671,6 +686,7 @@ NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
 NJ US202 PA/NJ I-287(17) #home -> poughkeepsie 7-19-26
 NJ US206 NJ70 CR537 #medford -> wall 5/26
+NJ US206 CR521_S UppNSRd #oxford -> AT 10-26
 NJ US322 PA/NJ US130 #relatives trip, old house
 NJ US322 NJ55 NJTpk #ocean city trip 2025
 NJ NJ3 NJ495 NJ17 #medieval times trip
@@ -691,6 +707,7 @@ NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 NJ70 #grandparents
+NJ NJ94 PA/NJ CR521_N #oxford -> AT 10-26
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
 NJ NJ154 NJ70 CR561 #medford -> home 7-21-26
