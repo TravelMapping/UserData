@@ -1,0 +1,2901 @@
+# Vanilla maps are taken directly from subwaybuilder.rlist
+
+# Modded
+# Canada
+# Alberta
+# Calgary
+# Transit
+AB BlueLn 69thSt Sad
+AB RedLn Tus SomBri
+
+
+# Edmonton
+# VIA Rail
+AB Can Vik Eva
+
+# Transit Service
+AB CapLn CenPark Cla
+AB MetLn HeaSciJub NAITBlaMar
+AB ValLn MillWoo 102St
+
+# Streetcars
+AB HighLevBriLn Why Jas
+
+
+
+# British Columbia
+# Vancouver
+# VIA Rail
+BC Can MisHar Van
+
+# Amtrak
+BC AC USA/CAN VanPacCen
+
+# West Coast Express
+BC WestCoaExp MisCity Wat
+
+# Metro Vancouver Regional District
+BC CanLn Wat YVRAir
+BC CanLnRic Wat RicBri
+BC ExpoLn Wat KingGeo
+BC ExpoLnPro Wat ProWayUni
+BC MilLn VCCCla LafLakeDou
+
+
+
+# Manitoba
+# Winnipeg
+# VIA Rail
+MB Can Elma PorPra
+MB WinChuWin Win PorPra
+
+
+
+# Ontario
+# Ottawa
+# VIA Rail
+ON OttQue Ott Cas
+ON TorOtt SmiFal Ott
+
+# O-Train
+ON OT1 TunPas Bla
+ON OT2 Bay Lim
+ON OT4 SouKeys Air
+
+
+# Toronto
+# VIA Rail
+ON Can TorUni Was
+ON SarTor +SKIP_Act TorUni
+ON TorMon TorUni +SKIP_PortHope
+ON TorOtt TorUni PortHope
+ON WinTor +DIV_Ham TorUni
+
+# Amtrak
+ON ML TorUni +DIV_Via
+
+# GO Transit
+ON BT BarS Uni
+ON KI Act Uni
+ON LE Uni Osh
+ON LW Uni +DIV_Via
+ON LWNia Uni +DIV_Via
+ON MI Mil Uni
+ON RH Uni Blo
+ON ST TorUni OldElm
+ON UP PeaAir Uni
+
+# Subway
+ON 1 VauMetCen Fin
+ON 2 Kip Ken
+ON 4 SheYon DonMil
+
+# Light Rail
+ON 5 MouDen Ken
+ON 6 HumCol FinW
+
+# Landside Airport Rail Systems
+ON TerLnk Ter1 Vis
+
+# Streetcars
+ON 501 LongBraLp NevPkBlvd
+ON 503 ChuSt_1 BinLp
+ON 504a DunW MillStDisLp
+ON 504b DufGateLp BroSta
+ON 505 DunW BroSta
+ON 506 HighPkLp MainStSta
+ON 507 LongBraLp HumLp
+ON 508 LongBraLp ChuSt
+ON 509 ExhLp UniSta
+ON 510 SpaSta UniSta
+ON 511 BatSta ExhLp
+ON 512 GunLp StClaSta
+
+
+
+# Quebec
+# Montreal
+# VIA Rail
+QC Oce Mon +SKIP_MontStHil
+QC MonJon MonCen Jol
+QC MonSen MonCen Jol
+QC OttQue ON/QC +SKIP_MontStHil
+QC TorMon ON/QC Mon
+
+# Amtrak
+QC AD Mon *Can
+
+# Exo
+QC 11 Hud LucLAll
+QC 12 StJer LucLAll
+QC 13 Cen MontStHil
+QC 14 Can LucLAll
+QC 15 Mas CoteDeLie
+
+# Metro
+QC GreLn Ang HonBea
+QC OraLn CoteVer Mon
+QC YelLn BerUQAM LonUniDeShe
+QC BluLn Sno SaiMic
+
+# Réseau Express Métropolitain
+QC MainLn DeuxMon Bro
+
+
+# Quebec City
+# VIA Rail
+QC Oce Dru Mont
+QC OttQue Dru QueCity
+
+
+
+
+# Israel
+# Tel Aviv
+# Israel Railways
+ISR KarBee HadWest +SKIP_KirMalYoav
+ISR NahBee +SKIP_HadWest KirMalYoav
+ISR NahMod +SKIP_HadWest ModCem
+ISR HerJer Her ISR/PSE
+ISR HerJerKfi PSE/ISR ISR/PSE
+
+
+
+
+# Palestine
+# Tel Aviv
+# Israel Railways
+PSE HerJer ISR/PSE PSE/ISR
+
+
+
+
+# United States
+# Virginia
+# Richmond
+# Amtrak
+VA AZ NC/VA +SKIP_Spo
+VA CN NC/VA +SKIP_Spo
+VA FL +SKIP_Spo VA/NC
+VA NENew *WilPotFac +SKIP_Spo
+VA NENor *Suf +SKIP_Spo
+VA PL NC/VA +SKIP_Spo
+VA SM NC/VA +SKIP_Spo
+
+
+
+
+
+# Vanilla
+# France
+# Auvergne-Rhone-Alpes
+# Geneva
+# TGV InOui
+FRA-ARA ParAnn +SKIP_Rum Ann
+
+# TGV Lyria
+FRA-ARA ParGen +SKIP_CizeBol FRA/CHE
+
+# Léman Express
+FRA-ARA L1 CHE/FRA Per
+FRA-ARA L2 CHE/FRA Annc
+FRA-ARA L3 CHE/FRA SalComMeg
+FRA-ARA L4 CHE/FRA Ann
+FRA-ARA L6 Bel FRA/CHE
+
+# TER Auvergne-Rhône-Alpes
+FRA-ARA K1 Cul FRA/CHE
+FRA-ARA K11 Cul FRA/CHE
+FRA-ARA K21 +SKIP_Rum Ann
+FRA-ARA K43 Cul SalComMeg
+FRA-ARA C13 Ann SalComMeg
+FRA-ARA C21 Ann Rum
+FRA-ARA C33 Bel Per
+FRA-ARA C43 Bel SalComMeg
+FRA-ARA P55 CizeBol Oyo
+
+# Tramway de Genève
+FRA-ARA 17Gen CHE/FRA AnnPerAub
+
+
+# Lyon
+# TGV InOui
+FRA-ARA BruMar +DIV_MacE +DIV_Val
+FRA-ARA BruMon +DIV_MacE +DIV_Val
+FRA-ARA HavMar +DIV_MacE +DIV_Val
+FRA-ARA LyonTou LyonPartDieu +DIV_Val
+FRA-ARA NanLyon +DIV_MacE LyonPer
+FRA-ARA NanMar +DIV_MacE +DIV_Val
+FRA-ARA ParAnn +DIV_MacE +SKIP_Ces
+FRA-ARA ParBar +DIV_MacE +DIV_Val
+FRA-ARA ParGre +DIV_MacE +SKIP_Ces
+FRA-ARA ParLyon +DIV_MacE LyonPer
+FRA-ARA ParMil +DIV_MacE +SKIP_Ces
+FRA-ARA ParMir +DIV_MacE +DIV_Med
+FRA-ARA ParMon +DIV_MacE +DIV_Val
+FRA-ARA ParNice +DIV_MacE +DIV_Val
+FRA-ARA ParEti +DIV_MacE +SKIP_StCha
+FRA-ARA RenMon +DIV_MacE +DIV_Val
+FRA-ARA StrMon +DIV_MacE +DIV_Val
+FRA-ARA StrNice +DIV_MacE +DIV_Val
+
+# TER Auvergne-Rhône-Alpes
+FRA-ARA K1 LyonPartDieu +SKIP_StRamBug
+FRA-ARA K2 LyonPer +SKIP_Amp
+FRA-ARA K3 LyonPartDieu +SKIP_StRamBug
+FRA-ARA K6 LyonPartDieu +SKIP_Ces
+FRA-ARA K14 LyonPartDieu PeaRou
+FRA-ARA K16 LyonPartDieu +SKIP_Ces
+FRA-ARA K24 PeaRou ARA/BFC
+FRA-ARA K31 LyonPartDieu +SKIP_Ces
+FRA-ARA K41 LyonPartDieu +SKIP_Ces
+FRA-ARA K43 LyonPartDieu +SKIP_StRamBug
+FRA-ARA C9 LyonStPaul Bri
+FRA-ARA C12 LyonPer Amp
+FRA-ARA C15 LyonPer ARA/BFC
+FRA-ARA C18 AmbBug StCha
+FRA-ARA C19 LyonStPaul SainBel
+FRA-ARA C22 LyonPer Amp
+FRA-ARA C23 LyonPer SerLent
+FRA-ARA C24 Vie VilSao
+FRA-ARA C25 LyonPer ARA/BFC
+FRA-ARA C26 LyonPer Ces
+FRA-ARA C28 LyonPer StCha
+FRA-ARA C29 Loz Tas
+FRA-ARA P2 LyonPer LamAze
+FRA-ARA P3 AmbBug StRamBug
+FRA-ARA P13 AmbBug PontAin
+FRA-ARA P26 BouJal +SKIP_Ces
+
+# TER Zou !
+FRA-ARA K4 PeaRou LyonPartDieu
+
+# Métro
+FRA-ARA MA Per VauVelSoie
+FRA-ARA MB ChaChaHer GenLavHop
+FRA-ARA MC HotVilLouPra Cui
+FRA-ARA MD GareVen GareVai
+
+# Tramway
+FRA-ARA T1 Deb IYTFey
+FRA-ARA T2 HotRegMon StPriBelAir
+FRA-ARA T3 GarePartDieuVil MeyPan
+FRA-ARA T4 IYTFes HopFeyVen
+FRA-ARA T5 GraBla Eur
+FRA-ARA T6 Deb DouaGasBer
+FRA-ARA T7 VauVelSoi DecOLVal
+FRA-ARA RE GarePartDieuVil AerLyonStExu
+
+# Funiculars
+FRA-ARA F1 StJean StJust
+FRA-ARA F2 StJean Fou
+
+
+
+# Centre-Val de Loire
+# Paris
+# TER Centre-Val de Loire
+FRA-CVL 14CVL IDF/CVL Mai
+
+# Nomad Train
+FRA-CVL K2 IDF/CVL CVL/NOR
+FRA-CVL K3 IDF/CVL CVL/NOR
+FRA-CVL K4 IDF/CVL +SKIP_MarBro
+FRA-CVL C2 IDF/CVL CVL/NOR
+
+# TER Pays-de-la-Loire
+FRA-CVL 23PdL IDF/CVL +SKIP_Mai
+
+# Transillien
+FRA-CVL N IDF/CVL MarBro
+
+
+
+# Hauts-de-France
+# Paris
+# Eurostar
+FRA-HDF LonPar +SKIP_TGVHauPic HDF/IDF
+FRA-HDF ParAms IDF/HDF +SKIP_TGVHauPic
+FRA-HDF ParDor IDF/HDF +SKIP_TGVHauPic
+
+# TGV InOui
+FRA-HDF BruBor TGVHauPic HDF/IDF
+FRA-HDF BruMar +SKIP_TGVHauPic HDF/IDF
+FRA-HDF BruMon +SKIP_TGVHauPic HDF/IDF
+FRA-HDF BruNan TGVHauPic HDF/IDF
+FRA-HDF BruStr +SKIP_TGVHauPic HDF/IDF
+FRA-HDF ParCal IDF/HDF +SKIP_TGVHauPic
+FRA-HDF ParDun IDF/HDF +SKIP_TGVHauPic
+FRA-HDF ParLil IDF/HDF +SKIP_TGVHauPic
+FRA-HDF ParVal IDF/HDF +SKIP_TGVHauPic
+
+# TER Hauts-de-France (Krono)
+FRA-HDF K10 +SKIP_Avr HDF/IDF
+FRA-HDF K11 +SKIP_Avr HDF/IDF
+FRA-HDF K12 +SKIP_Avr HDF/IDF
+FRA-HDF K13 +SKIP_LonStMar HDF/IDF
+FRA-HDF K13Mau +SKIP_LonStMar HDF/IDF
+FRA-HDF K14 +SKIP_LonStMar HDF/IDF
+FRA-HDF K15 IDF/HDF CreVal
+FRA-HDF K16 +SKIP_Avr HDF/IDF
+
+# TER Hauts-de-France (Citi)
+FRA-HDF C10 +SKIP_Avr HDF/IDF
+FRA-HDF C13 +SKIP_LonStMar HDF/IDF
+FRA-HDF C14 LonStMar HDF/IDF
+FRA-HDF C17 +DIV_P23 HDF/IDF
+
+# TER Hauts-de-France (Proxi)
+FRA-HDF P10 Avr Cre
+FRA-HDF P32 +DIV_C17 Cre
+
+# Réseau Express Régional
+FRA-HDF D Cre HDF/IDF
+
+# Transillien
+FRA-HDF H IDF/HDF Cre
+FRA-HDF J IDF/HDF TrieCha
+FRA-HDF K IDF/HDF CreVal
+
+
+
+# Ile-de-France
+# Paris
+# DB InterCity
+FRA-IDF ICE82 ParGareEst IDF/HDF
+FRA-IDF ICE83 ParGareEst IDF/HDF
+
+# Eurostar
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF ParAms ParGareNord IDF/HDF
+FRA-IDF ParDor ParGareNord IDF/HDF
+FRA-IDF AmsDis HDF/IDF MarValChe
+
+# TGV InOui
+FRA-IDF BruBor HDF/IDF IDF/CVL
+FRA-IDF BruMar HDF/IDF IDF/BFC
+FRA-IDF BruMon HDF/IDF IDF/BFC
+FRA-IDF BruNan HDF/IDF IDF/CVL
+FRA-IDF BruStr HDF/IDF IDF/HDF
+FRA-IDF HavMar NOR/IDF IDF/BFC
+FRA-IDF NanLyon CVL/IDF IDF/BFC
+FRA-IDF NanMar CVL/IDF IDF/BFC
+FRA-IDF ParAnn ParGareLyon IDF/BFC
+FRA-IDF ParBlD ParGareEst IDF/HDF
+FRA-IDF ParBar ParGareLyon IDF/BFC
+FRA-IDF ParBes ParGareLyon IDF/BFC
+FRA-IDF ParBor ParMon IDF/CVL
+FRA-IDF ParBre ParMon IDF/CVL
+FRA-IDF ParCal ParGareNord IDF/HDF
+FRA-IDF ParCol ParGareEst IDF/HDF
+FRA-IDF ParDun ParGareNord IDF/HDF
+FRA-IDF ParGre ParGareLyon IDF/BFC
+FRA-IDF ParHen ParMon IDF/CVL
+FRA-IDF ParRoc ParMon IDF/CVL
+FRA-IDF ParCro ParMon IDF/CVL
+FRA-IDF ParSab ParMon IDF/CVL
+FRA-IDF ParLil ParGareNord IDF/HDF
+FRA-IDF ParLux ParGareEst IDF/HDF
+FRA-IDF ParLyon ParGareLyon IDF/BFC
+FRA-IDF ParMil ParGareLyon IDF/BFC
+FRA-IDF ParMir ParGareLyon IDF/BFC
+FRA-IDF ParMon ParGareLyon IDF/BFC
+FRA-IDF ParMul ParGareLyon IDF/BFC
+FRA-IDF ParNice ParGareLyon IDF/BFC
+FRA-IDF ParPoi ParMon IDF/CVL
+FRA-IDF ParQui ParMon IDF/CVL
+FRA-IDF ParRem ParGareEst IDF/HDF
+FRA-IDF ParSDV ParGareEst IDF/HDF
+FRA-IDF ParEti ParGareLyon IDF/BFC
+FRA-IDF ParStM ParMon IDF/CVL
+FRA-IDF ParSed ParGareEst IDF/HDF
+FRA-IDF ParStr ParGareEst IDF/HDF
+FRA-IDF ParTou ParMon IDF/CVL
+FRA-IDF ParTrs ParMon IDF/CVL
+FRA-IDF ParVal ParGareNord IDF/HDF
+FRA-IDF RenMon CVL/IDF IDF/BFC
+FRA-IDF RenStr CVL/IDF IDF/HDF
+FRA-IDF StrBor HDF/IDF IDF/CVL
+
+# TGV Lyria
+FRA-IDF ParGen ParGareLyon IDF/BFC
+FRA-IDF ParLau ParGareLyon IDF/BFC
+FRA-IDF ParZur ParGareLyon IDF/BFC
+
+# TER Centre-Val de Loire
+FRA-IDF 1CVL GareAus +SKIP_Eta
+FRA-IDF 2CVL GareAus +SKIP_Eta
+FRA-IDF 3CVL ParBer +SKIP_FonAvon
+FRA-IDF 4CVL GareAus Eta
+FRA-IDF 13CVL GareAus IDF/CVL
+FRA-IDF 14CVL ParMon IDF/CVL
+
+# TER Hauts-de-France (Krono)
+FRA-IDF K10 HDF/IDF ParGareNord
+FRA-IDF K11 HDF/IDF ParGareNord
+FRA-IDF K12 HDF/IDF ParGareNord
+FRA-IDF K13 HDF/IDF ParGareNord
+FRA-IDF K13Mau HDF/IDF ParGareNord
+FRA-IDF K14 HDF/IDF ParGareNord
+FRA-IDF K15 ParGareNord IDF/HDF
+FRA-IDF K16 HDF/IDF ParGareNord
+
+# TER Hauts-de-France (Citi)
+FRA-IDF C10 HDF/IDF ParGareNord
+FRA-IDF C13 HDF/IDF ParGareNord
+FRA-IDF C14 HDF/IDF ParGareNord
+FRA-IDF C17 HDF/IDF ParGareNord
+
+# Nomad Train
+FRA-IDF K1 ParStLaz IDF/NOR
+FRA-IDF K2 ParStLaz IDF/CVL
+FRA-IDF K3 ParStLaz IDF/CVL
+FRA-IDF K4 ParMon IDF/CVL
+FRA-IDF C1 ParStLaz IDF/NOR
+FRA-IDF C2 ParStLaz IDF/CVL
+
+# TER Pays-de-la-Loire
+FRA-IDF 23PdL ParMon IDF/CVL
+
+# Réseau Express Régional
+FRA-IDF A StGerLaye MarValChe
+FRA-IDF ABoi CerHaut BoiStLeg
+FRA-IDF APoi Poi Tor
+FRA-IDF B AerCDG2TGV StRemyChe
+FRA-IDF BMit MitCla Rob
+FRA-IDF C StQueYve Eta
+FRA-IDF CDou Inv DouFor
+FRA-IDF CVer VerChaRiveGau Juv
+FRA-IDF CPon Pon MasPal
+FRA-IDF D HDF/IDF CorEss
+FRA-IDF DMel Gou Mel
+FRA-IDF DMal Juv Bou
+FRA-IDF DPon Juv Mel
+FRA-IDF E NanFol Tou
+FRA-IDF EChe NanFol CheGou
+
+# Transillien
+FRA-IDF H ParGareNord Pon
+FRA-IDF HVal ParGareNord Val
+FRA-IDF HPer ParGareNord PerBea
+FRA-IDF HLuz ParGareNord Luz
+FRA-IDF HTra Pon IDF/HDF
+FRA-IDF J ParStLaz IDF/HDF
+FRA-IDF JErm ParStLaz ErmEau
+FRA-IDF JJuz ParStLaz ManJol
+FRA-IDF JVer ParStLaz IDF/NOR
+FRA-IDF K ParGareNord IDF/HDF
+FRA-IDF L ParStLaz VerRiveDro
+FRA-IDF LCer ParStLaz CerHaut
+FRA-IDF LMar ParStLaz StNomBreForMar
+FRA-IDF N ParMon ManJol
+FRA-IDF NRam ParMon Ram
+FRA-IDF NDre ParMon IDF/CVL
+FRA-IDF P ParGareEst ChaStJean
+FRA-IDF PFer Mea IslArmCon
+FRA-IDF PCou ParGareEst FarPom
+FRA-IDF PPro ParGareEst Mor
+FRA-IDF R ParGareLyon FonAvon
+FRA-IDF RMon ParGareLyon FonAvon
+FRA-IDF RCha Mel Her
+FRA-IDF U LaDef Ver
+FRA-IDF V MasPal VerCha
+
+# Métro
+FRA-IDF M1 LaDefGraArc ChaVin
+FRA-IDF M2 PorDau Nat
+FRA-IDF M3 PontLevBec Gal
+FRA-IDF M3Bis Gam PorLil
+FRA-IDF M4 PorCli BagLucAub
+FRA-IDF M5 BobPabPic PlaIta
+FRA-IDF M6 CdGEto Nat
+FRA-IDF M7 Cou8Mai1945 MaiIvry
+FRA-IDF M7Vil Cou8Mai1945 VilLouAra
+FRA-IDF M7Bis LouBla Bot_2
+FRA-IDF M8 Bal CrePoiLac
+FRA-IDF M9 PontSev MaiMon
+FRA-IDF M10 BouPontStClo GareAus
+FRA-IDF M10 BouPontStClo GareAus
+FRA-IDF M11 Cha RosBoisPer
+FRA-IDF M12 MaiIssy MaiAub
+FRA-IDF M13 AsiGenCou ChaMontRou
+FRA-IDF M13StO StDenUni ChaMontRou
+FRA-IDF M14 StDenPle AerOrly
+
+# Ile de France Tramway
+FRA-IDF T1 AsnQuaRou NoiSec
+FRA-IDF T2 PontBez PorVer
+FRA-IDF T3a PontGar PorVin
+FRA-IDF T3b AveFoc PorVin
+FRA-IDF T4 Bon HopMon
+FRA-IDF T4Aul AulSouBois Bon
+FRA-IDF T5 MarStDen GarSar
+FRA-IDF T6 VirRiveDro ChaMon
+FRA-IDF T7 VilLouAra PorEss
+FRA-IDF T8 EpiOrg StDenPorPar
+FRA-IDF T8Vil VilUni StDenPorPar
+FRA-IDF T9 PorCho OrlyGasVie
+FRA-IDF T10 JarPar CroBer
+FRA-IDF T11 EpiSei Bou
+FRA-IDF T11 EpiSei Bou
+FRA-IDF T13 StGerLaye StCyr
+FRA-IDF T14 Esb CreCha
+
+# Airport People Movers (airside)
+FRA-IDF LISA PorK PorM
+
+# # Airport People Movers (landside)
+FRA-IDF CDGVAL Ter2Gare Ter1
+FRA-IDF OrlyVAL Ant Orly4
+
+# Funiculars
+FRA-IDF FunMon Inf Sup
+
+
+
+# Provence-Alpes-Cite d'Azur
+# Marseille
+# TGV InOui
+FRA-PAC BruMar +DIV_Cav MarSaiCha
+FRA-PAC HavMar +DIV_Cav MarSaiCha
+FRA-PAC NanMar +DIV_Cav MarSaiCha
+FRA-PAC ParMir +SKIP_StMarCrau Mir
+FRA-PAC ParNice +DIV_Cav +SKIP_Gon
+FRA-PAC StrNice +DIV_Cav +SKIP_Gon
+
+# TER Zou !
+FRA-PAC K1 MarSaiCha +SKIP_Gon
+FRA-PAC K2 MarSaiCha ManGre
+FRA-PAC K4 MarSaiCha +SKIP_StMarCrau
+FRA-PAC K6 MarSaiCha Tou
+FRA-PAC K7 MarSaiCha StMarCrau
+FRA-PAC C2 MarSaiCha Per
+FRA-PAC C4 MarSaiCha Mir
+FRA-PAC C5 MarSaiCha Aub
+FRA-PAC C6 MarSaiCha Hye
+FRA-PAC C7 MarSaiCha Org
+FRA-PAC C9 Tou Gon
+
+# Métro
+FRA-PAC M1 LaRose Fou
+FRA-PAC M2 CapGeze SaiMarDro
+
+# Tramway d'Aubagne
+FRA-PAC TraAub GareAub Cha
+
+# Tramway
+FRA-PAC T1 Noa Cai
+FRA-PAC T2 AreEur Bla
+FRA-PAC T3 CapGeze Gaye
+
+
+
+
+# Ireland
+# Dublin
+# Enterprise
+IRL Ent DubCon +SKIP_Lay
+
+# Iarnród Éireann
+IRL CorkInt DubHeu +SKIP_New
+IRL GalInt DubHeu +SKIP_New
+IRL LimInt DubHeu +SKIP_New
+IRL MayoInt DubHeu +SKIP_New
+IRL SliInt DubCon Enf
+IRL TraInt DubHeu +SKIP_New
+IRL WatInt DubHeu +SKIP_New
+IRL WexInt DubCon Wic
+IRL NorCom DubCon Lay
+IRL SouComGCD GraCanDock HazCel
+IRL SouCom DubHeu New
+IRL WesCom DubCon May
+IRL WesComM3P Doc M3Pkwy
+IRL DART Mal Gre
+IRL DARTHow How Gre
+
+# Luas
+IRL GrnLn Bro BriGlen
+IRL RedLnSag Con Sag
+IRL RedLnCon Con Tal
+IRL RedLn ThePnt Sag
+IRL RedLnTal ThePnt Tal
+
+
+
+
+# Japan
+# Hiroshima
+# JR SHinkansen Lines
+JPN SanyoShin Mihara Tokuyama
+
+# JR Shinkansen Services
+JPN HikariShin Mihara Tokuyama
+JPN KodamaShin Mihara Tokuyama
+JPN MizuhoShin +SKIP_Mihara +SKIP_Tokuyama
+JPN NozomiShin +SKIP_Mihara Tokuyama
+JPN SakuraShin +SKIP_Mihara Tokuyama
+
+# JR West
+JPN GantokuLn Iwakuni Kinmeiji
+JPN GeibiLn Yoshida P01
+JPN KabeLn B01 B16
+JPN SanyoLn G15 Tsuzu
+
+# West Honshu Single Line Private Railways
+JPN SeiryuLn Kawanishi MinaGochi
+
+# Japan Monorails
+JPN SkyMon MidGuchi MidChuo
+
+# Automated Guideway Transit
+JPN AstramLn Hondori KoikiKoen
+
+# Hiroshima Electric Railway (Hiroden)
+JPN Hiroden1 M1 U18
+JPN Hiroden2 M1 M38
+JPN Hiroden3 M18 U7
+JPN Hiroden5 M1 U18
+JPN Hiroden6 M1 E6
+JPN Hiroden7 Y4 U18
+JPN Hiroden8 Y4 E6
+JPN Hiroden9 M5 W4
+JPN HirodenL M2 M2_E
+
+
+# Nagoya
+# JR Shinkansen Lines
+JPN TokaidoShin Hamamatsu Maibara
+
+# JR Shinkansen Services
+JPN HikariShin Hamamatsu Maibara
+JPN KodamaShin Hamamatsu Maibara
+JPN NozomiShin +SKIP_Hamamatsu +SKIP_Maibara
+
+# JR Central
+JPN ChuoLnWest CF15 CF00
+JPN IidaLn CD00 MikaOno
+JPN JohokuLn Kachigawa Biwajima
+JPN KansaiLnE CJ00 CJ17
+JPN KiseiLnE Kameyama Takihara
+JPN MeishoLn Matsusaka IseKama
+JPN MinoAkasakaLn CA77 MinoAka
+JPN SanguLn Taki Toba
+JPN TaitaLn CI07 CI00
+JPN TakayamaLnSouth CG00 Shirakawa
+JPN TaketoyoLn CE00 CE09
+JPN TaruiLn CA77 CA79
+JPN TokaidoLnCen CA40 CA80
+
+# JR West
+JPN KansaiLnW Kameyama Tsuge
+
+# JR Central Limited Express
+JPN ShinanoLtd Nagoya +SKIP_CF15
+
+# JR West Limited Express
+JPN ShirasagiLtd Nagoya +SKIP_CA80
+JPN SunriseIzumoLtd +SKIP_CA40 +SKIP_CA80
+JPN SunriseSetoLtd +SKIP_CA40 +SKIP_CA80
+
+# Keitetsu Railway
+JPN NagoyaLn E01 E61
+JPN OsakaLn D55 D61
+JPN ShimaLn M78 M93
+JPN SuzukaLn L29 L33
+JPN TobaLn M74 M78
+JPN KinYamadaLn M61 M74
+JPN YunoyamaLn K21 K30
+
+# Meitetsu Railway
+JPN MeiAirportLn TA22 TA24
+JPN BisaiLn TB11 BS24
+JPN ChikkoLn TA03 CH01
+JPN ChitaNewLn KC17 KC24
+JPN GamagoriLn GN13 GN22
+JPN HashimaLn TH08 TH09
+JPN HiromiLn IY15 HM10
+JPN InuyamaLn +DIV_Biwajima IY17
+JPN KakamigaharaLn IY17 NH60
+JPN KomakiLn IY15 KM13
+JPN KowaLn TA09 KC19
+JPN MikawaLn MY11 MU11
+JPN NagoyaMainLn NH01 NH60
+JPN NishioLn NH17 GN13
+JPN SetoLn ST01 ST20
+JPN TakehanaLn NH56 TH08
+JPN TokonameLn NH33 TA22
+JPN ToyokawaLn NH04 TK04
+JPN ToyotaLn MY07 TT07
+JPN TsushimaLn NH42 TB07
+
+# Central Honshu Single Line Private Railways
+JPN AichiLoopLn 01 23
+JPN AtsumiLn 1 16
+JPN EtsumiNanLn 0 15
+JPN IseLn CJ11 12
+JPN TarumiLn TR01 TR19
+JPN YoroLn Kuwana Ibi
+
+# Sangi Railway
+JPN SngHokuseiLn NishiKuwa Ageki
+JPN SngSangiLn KinTomida NishiFuji
+
+# Municipal Subway
+JPN HigashiyamaLn H01 H22
+JPN KamiidaLn K01 K02
+JPN MeijoLn M01_A M01_B
+JPN MeikoLn E01 E07
+JPN SakuradoriLn S01 S21
+JPN TsurumaiLn T01 T20
+
+# Automated Guideway Transit
+JPN LinimoLn L01 L09
+
+
+# Osaka
+# JR Shinkansen Lines
+JPN SanyoShin ShinOsaka Himeji
+JPN TokaidoShin Maibara ShinOsaka
+
+# JR Shinkansen Services
+JPN HikariShin Maibara Himeji
+JPN KodamaShin Maibara Himeji
+JPN MizuhoShin ShinOsaka Himeji
+JPN NozomiShin +SKIP_Maibara Himeji
+JPN SakuraShin ShinOsaka Himeji
+
+# JR West
+JPN BiwakoLn A29 A31
+JPN FukuchiyamaLn G49 Kaibara
+JPN HagoromoLn Otori HigaHago
+JPN HanwaLn R20 R54
+JPN JRKobeLn A47 A83
+JPN JRKyotoLn A31 A47
+JPN JRNaraLn D01 D21
+JPN JRTakarazukaLn G47 G69
+JPN JRTozaiLn H41 H49
+JPN KakogawaLn Kakogawa Tanikawa
+JPN KansaiAirportLn S45 S47
+JPN KansaiLnW Kasagi Q17
+JPN KatamachiLn H18 H41
+JPN KiseiLnW Minoshima WakaShi
+JPN KoseiLn B31 B29
+JPN OsakaHigashiLn F01 F15
+JPN OsakaLoopLn O01_A O01_B
+JPN SaganoLn E01 E16
+JPN SakuraiLn Nara Takada
+JPN SakurajimaLn P14 P17
+JPN SaninLn E01 E18
+JPN SanyoLn A63 A83
+JPN TokaidoLnW A29 A63
+JPN WadamisakiLn Hyogo Wadamisaki
+JPN WakayamaLn Oji Wakayama
+JPN YamatojiLn Q39 Q17
+
+# JR West Limited Express
+JPN BiwakoExp Osaka Otsu
+JPN HamakazeLtd Osaka +SKIP_A83
+JPN HarukaLtd Otsu KansaiAir
+JPN HashidateLtd Kyoto +SKIP_E18
+JPN KinosakiLtd Kyoto Hiyoshi
+JPN KounotoriLtd ShinOsaka Kaibara
+JPN KuroshioLtd Kyoto Minoshima
+JPN MaizuruLtd Kyoto Hiyoshi
+JPN RakuHarimaLtd Osaka +SKIP_A80
+JPN SunriseIzumoLtd +SKIP_A29 +SKIP_A83
+JPN SunriseSetoLtd +SKIP_A29 +SKIP_A83
+JPN SuperHakutoLtd Kyoto +SKIP_A83
+JPN ThunderbirdLtd Osaka +SKIP_B29
+
+# Hankyu Railway
+JPN ArashiyamaLn HK81 HK98
+JPN ImazuLn HK21 HK56
+JPN ItamiLn HK06 HK20
+JPN KobeLn HK01 HK16
+JPN KobeKosokuLn HK16 HK36
+JPN KoyoLn HK09 HK30
+JPN HankyuKyotoLn HK01 HK86
+JPN MinohLn HK48 HK59
+JPN MyokenLn NS01 NS14
+JPN NisseiLn NS10 NS21
+JPN SenriLn K11 HK95
+JPN TakarazukaLn HK01 HK56
+
+# Hansin Railway
+JPN HanshinLn HS01 HS33
+JPN HanKosokuLn HS33 HS39
+JPN MukogawaLn HS12 HS51
+JPN HanNambaLn HS41 HS09
+
+# Keihan Railway
+JPN KatanoLn KH21 KH67
+JPN KeihanLn KH01 KH40
+JPN KeishinLn T08 OT35
+JPN NakanoshimaLn KH54 KH03
+JPN OtoLn KH40 KH42
+JPN UjiLn KH28 KH77
+
+# Keitetsu Railway
+JPN DomyojiLn N15 N17
+JPN GoseLn P23 P26
+JPN IkomaLn G17 G28
+JPN KashiharaLn B26 B42
+JPN KeihannaLn C23 C30
+JPN KinKyotoLn B01 B26
+JPN MinamiOsakaLn F01 F28
+JPN KinNaganoLn F16 O23
+JPN KinNambaLn A01 A03
+JPN KinNaraLn A01 A28
+JPN OsakaLn D03 D44
+JPN ShigiLn J12 J14
+JPN TawaramotoLn I36 I43
+JPN TenriLn H32 H35
+JPN YoshinoLn F42 F57
+
+# Nankai Railway
+JPN AiportLn NK30 NK32
+JPN KadaLn NK45 NK44-7
+JPN KoyaLn NK01 NK86
+JPN NankaiMainLn NK01 NK45
+JPN SembokuLn SB01 SB06
+JPN ShiomibashiLn NK06 NK06-5
+JPN TakashinohamaLn NK16 NK16-2
+JPN TanagawaLn NK41 NK41-3
+JPN WakayamakoLn NK45 NK45-1
+
+# Shinden (Kobe Electric) Railway
+JPN AoLn KB06 KB59
+JPN ArimaLn KB02 KB16
+JPN KoenToshiLn KB27 KB33
+JPN SandaLn KB15 KB29
+JPN ShinKobeKosokuLn KB01 KB02
+
+# West Honshu Single Line Private Railways
+JPN HojoLn Ao Hojomachi
+JPN KishigawaLn 01 14
+JPN KitakyuNambokuLn M06 M11
+JPN KitakyuNambokuLn M06 M11
+
+# Eizan Railway
+JPN EizanLn E01 E08
+JPN KuramaLn E06 E17
+
+# Sanyo Railway
+JPN SanyoMainLn SY01 SY37
+
+# Kobe Municipal Subway
+JPN HokushinLn S01 S02
+JPN KaiganLn K01 K10
+JPN SeishinLn S02 S17
+
+# Kyoto Municipal Subway
+JPN KarasumaLn K01 K15
+JPN TozaiLnKyo T01 T17
+
+# Metro
+JPN MidosujiLn M11 M30
+JPN TanimachiLn T11 T36
+JPN YotsubashiLn Y11 Y21
+JPN ChuoLnO C09 C23
+JPN SennichiLn S11 S24
+JPN SakaisujiLn K11 K20
+JPN NagahoriLn N11 N27
+JPN ImazatosujiLn I11 I21
+
+# Japan Monorails
+JPN OsaMon 11 24
+JPN OsaSaiMon 17 54
+
+# Automated Guideway Transit
+JPN NankoLn P09 P18
+
+# Kobe New Transit (AGT)
+JPN KobePortLn P01 P09
+JPN KobeFutoLn P01 P04_B
+JPN KobeRokkoLn R01 R06
+
+# Keifuku Electric Railroad (Randen)
+JPN ArashiyamaTm A1 A13
+JPN KitanoTm B9 A8
+
+# Trams
+JPN HankaiLn HN51 HN15
+JPN UemachiLn HN01 HN31
+
+# Asia Airport People Movers (airside)
+JPN KIXNWing Main Edge
+JPN KIXSWing Main Edge
+
+# Funiculars
+JPN EizanFn Yase Hiei
+JPN IkomaFn Y17 Y21
+JPN IwashiFn KH80 KH81
+JPN KoyaFn NK86 NK87
+JPN KuraFn Sanmon Tahoto
+JPN MayaFn Maya Niji
+JPN NishiFn Z14 Z15
+JPN RokkoFn Shita Sanjo
+
+# Tourist/Heritage Railroads
+JPN SaganoScenicLn TorSaga TorKameoka
+
+
+# Sapporo
+# JR Hokkaido
+JPN HakodateLnOsh S17 S15
+JPN HakodateLn S15 01
+JPN HakodateLnAsa 01 A14
+JPN MuroranLnIwa Abira A13
+JPN ChitoseLn H16 01
+JPN ChitoseLnAir H14 AP15
+JPN SekishoLn H14 K17
+JPN SasshoLn 01 G14
+
+# JR Hokkaido Limited Express
+JPN HokutoLtd Sapporo +SKIP_H16
+JPN KamuiLtd Sapporo +SKIP_A14
+JPN LilacLtd Sapporo +SKIP_A14
+JPN OkhotskLtd Sapporo +SKIP_A14
+JPN OzoraLtd Sapporo +SKIP_K17
+JPN SoyaLtd Sapporo +SKIP_A14
+JPN SuzuranLtd Sapporo +SKIP_H16
+JPN TokachiLtd Sapporo +SKIP_K17
+
+# Municipal Subway
+JPN NambokuLnSa N01 N16
+JPN TohoLn H01 H14
+JPN TozaiLnSa T01 T19
+
+# Streetcar
+JPN SapporoTm SC01_A SC01_B
+
+
+# Sendai
+# JR Shinkansen Lines
+JPN TohokuShin Fukushima Furukawa
+
+# JR Shinkansen Services
+JPN HayabusaShin +SKIP_Fukushima Furukawa
+JPN KomachiShin +SKIP_Fukushima Furukawa
+JPN YamabikoShin Fukushima Furukawa
+
+# JR East
+JPN JobanLn Shinchi Iwanuma
+JPN SensekiLn Aobadori Kazuma
+JPN SensekiTohokuLn Sendai Kazuma
+JPN SenzanLn Sendai OmoKogen
+JPN TohokuLn Kaida Kashima
+JPN TohokuRifuLn Sendai Rifu
+
+# JR East Limited Express
+JPN HitachiLtd +SKIP_Shinchi Sendai
+
+# East Honshu Single Line Private Railways
+JPN AbukumaExp Abukuma Tsukinoki
+JPN SendaiAirLn Natori SendaiAir
+
+# Subway
+JPN NambokuLnSen N17 N01
+JPN TozaiLnSen T01 T13
+
+
+# Tokyo
+# JR Shinkansen Lines
+JPN TokaidoShin Tokyo Odawara
+JPN TohokuShin Tokyo Omiya
+
+# JR Shinkansen Services
+JPN AsamaShin Tokyo Omiya
+JPN HakutakaShin Tokyo Omiya
+JPN HayabusaShin Tokyo Omiya
+JPN HikariShin Tokyo Odawara
+JPN KagayakiShin Tokyo Omiya
+JPN KodamaShin Tokyo Odawara
+JPN KomachiShin Tokyo Omiya
+JPN NasunoShin Tokyo Omiya
+JPN NozomiShin Tokyo +SKIP_Odawara
+JPN TanigawaShin Tokyo Omiya
+JPN TokiShin Tokyo Omiya
+JPN TsubasaShin Tokyo Omiya
+JPN YamabikoShin Tokyo Omiya
+
+# JR East
+JPN ChuoLnE JC24 JC25
+JPN ChuoRapidLn JC01 JC24
+JPN ChuoSobuLn JB01 JB39
+JPN HachikoKawagoe Komagawa Hachioji
+JPN ItsukaichiLn JC55 JC86
+JPN JobanLn JT03 JJ10
+JPN JobanLnLoc JL19 JL32
+JPN JobanLnRap JT03 JJ10
+JPN KeihinTohokuLn JK46 JK01
+JPN KeiyoLn JE01 Soga
+JPN MusashinoLn JM35 JE01
+JPN MusashinoLnMa JM35 JE14
+JPN MusashinoLnMus JS24 JC24
+JPN MusashinoLnShi +SKIP_JU06 JE14
+JPN NambuLn JN01 JN26
+JPN NambuHamaLn JN02 JN54
+JPN NaritaLn JO28 JO34
+JPN NaritaAbikoLn Abiko Kobayashi
+JPN NaritaAptLn JO28 JO34
+JPN OmeLn JC19 JC67
+JPN SagamiLn Chigasaki Hashimoto
+JPN SaikyoLn JA25 JA08
+JPN ShonanShinjukuLn +SKIP_JU06 JS06
+JPN SobuMainLn JO28 Enokido
+JPN SotoboLn Chiba Toke
+JPN SotetsuJRLn JA08 SO51
+JPN TokaidoLnE JT01 JT11
+JPN TsurumiLn JI01 JI10
+JPN TsurumiLnShi JI01 JI52
+JPN TsurumiLnOka JI01 JI61
+JPN UchiboLn Chiba Yawata
+JPN UenoTokyoLn JU06 JT07
+JPN UtsunomiyaLn JU06 JU01
+JPN YamanoteLn JY24_A JY24_B
+JPN YokohamaLn JH32 JK11
+JPN YokosukaSobuLn JO28 JO01
+
+# JR East Limited Express
+JPN AkagiLtdShn Shinjuku +SKIP_JU06
+JPN AkagiLtdUen +SKIP_JU06 Ueno
+JPN AzusaLtdChi JO28 +SKIP_JC25
+JPN AzusaLtdTok Tokyo +SKIP_JC25
+JPN HitachiLtd Shinagawa JJ10
+JPN KamakuraLtd JM19 JO07
+JPN KinugawaLtd Shinjuku +SKIP_JU06
+JPN KusatsuLtd +SKIP_JU06 Ueno
+JPN NarExpO +SKIP_JO34 Ofuna
+JPN NarExpShn +SKIP_JO34 Shinjuku
+JPN ShonanLtd JS20 JT11
+JPN SpaciaNikkoLtd Shinjuku +SKIP_JU06
+
+# JR West Limited Express
+JPN SunriseIzumoLtd Tokyo +SKIP_JT11
+JPN SunriseSetoLtd Tokyo +SKIP_JT11
+
+# Keio Railway
+JPN DobutsuenLn KO29 KO47
+JPN InokashiraLn IN01 IN17
+JPN KeibajoLn KO23 KO46
+JPN KeioMainLn KO01 KO34
+JPN KeioNewLn KO01 KO04
+JPN SagamiharaLn KO18 KO45
+JPN TakaoLn KO33 KO53
+
+# Keikyu Railway
+JPN KeikyuAirportLn KK11 KK17
+JPN KeikyuDaishiLn KK20 KK26
+JPN KurihamaLn KK61 KK72
+JPN KeikyuMainLn A07 KK64
+JPN ZushiLn KK50 KK53
+
+# Keisei Railway
+JPN Skyliner KS01 +SKIP_KS43
+JPN AccExpHan KK17 KS43
+JPN AccExpUe KS01 KS43
+JPN Morningliner KS01 +SKIP_KS37
+JPN ChibaLn KS26 KS60
+JPN ChiharaLn KS60 KS65
+JPN HokusoLn KS10 HS14
+JPN KanamachiLn KS10 KS51
+JPN KeiNarAptLn KS10 KS43
+JPN KeiseiMainLn KS01 KS37
+JPN OshiageLn KS45 KS09
+JPN ShinKeiseiLn SL01 SL24
+
+# Odakyu Railway
+JPN OdkEnoshimaLn OH28 OE16
+JPN OdkOdawaraLn OH01 OH34
+JPN OdkTamaLn OH23 OT07
+
+# Seibu Railway
+JPN HaijimaLn SS19 SS36
+JPN IkebukuroLn SI01 SI29
+JPN KokubunjiLn SK01 SK05
+JPN SayamaLn SI18 SI41
+JPN SeibuenLn SK05 SK06
+JPN SeibuShinjukuLn SS01 SS28
+JPN TamagawaLn SW01 SW06
+JPN TamakoLn ST01 ST07
+JPN ToshimaLn SI06 SI39
+JPN SeibuYurakuchoLn SI06 SI37
+
+# Sotetsu Railway
+JPN IzuminoLn SO10 SO37
+JPN SotetsuMainLn SO01 SO18
+JPN ShinYokoLn SO08 SO52
+
+# Tobu Railway
+JPN TobuDaishiLn TS13 TS51
+JPN KameidoLn TS04 TS44
+JPN SkytreeLn TS01 TS25
+JPN SkytreeLnO TS03 TS25
+JPN TojoLn TJ01 TJ20
+JPN UrbanParkLn TD13 TD35
+JPN TobuKegon TS01 +SKIP_TS25
+
+# Tokyu Railway
+JPN DenentoshiLn DT01 DT27
+JPN IkegamiLn IK01 IK15
+JPN KodomonokuniLn KD01 KD03
+JPN MeguroLn MG01 TY13
+JPN OimachiLn OM01 OM16
+JPN TokyuShinYokoLn SH01 SH03
+JPN TokyuTamagawaLn TM01 TM07
+JPN ToyokoLn TY01 TY21
+
+# East Honshu Single Line Private Railways
+JPN NagareyamaLn RN1 RN6
+JPN ToyoRapidLn TR01 TR09
+JPN TsukubaExpress TX01 TX15
+JPN RinkaiLn R01 R08
+JPN SaitamaRapidLn SR19 SR26
+
+# Metro & Toei Subway
+JPN GinzaLn G01 G19
+JPN MarunouchiLn M01 M25
+JPN MarunouchiLnHo Mb03 M06
+JPN HibiyaLn H01 H22
+JPN TozaiLnTo T01 T23
+JPN ChiyodaLn C01 C20
+JPN YurakuchoLn Y01 Y24
+JPN HanzomonLn Z01 Z14
+JPN NambokuLnTo N01 N19
+JPN FukutoshinLn F01 F16
+JPN AsakusaLn A01 A20
+JPN MitaLn I01 I27
+JPN ShinjukuLn S01 S21
+JPN OedoLn E28_A E38
+
+# Municipal Subway
+JPN YokoBlueLn B01 B32
+JPN YokoGreenLn G01 G10
+JPN MinatoMiraiLn MM01 MM06
+
+# Monorails
+JPN ChiMon1 CM01 CM18
+JPN ChiMon2 CM01 CM15
+JPN DisMon Gateway_A Gateway_B
+JPN ShoMon SMR1 SMR8
+JPN TamaMon TT19 TT01
+JPN TokMon MO01 MO11
+
+# Automated Guideway Transit
+JPN NipporiLn NT01 NT13
+JPN SeasideLn 1 14
+JPN SeibuYamaguchiLn SY01 SY03
+JPN YukarigaokaLn Yukari_A Yukari_B
+JPN YurikamomeLn U01 U16
+
+# Enoshima Electric Railway (Enoden)
+JPN EnodenLn EN01 EN15
+
+# Trams
+JPN ArakuraLn SA01 SA30
+JPN SetagayaLn SG01 SG10
+
+# Funiculars
+JPN TakaoFn Kiyotaki Takao
+
+
+
+
+# New Zealand
+# Auckland
+# Auckland Transport Metro
+NZL EWLn Man Swa
+NZL OCLn One Hen
+NZL SCLn New_1 Puk
+
+# Kiwi Rail
+NZL TeHuia +SKIP_Puk Str
+
+
+# Wellington
+# Kiwi Rail
+NZL CapCon Lev Wel
+
+# Wellington MetroLink
+NZL KapLn Wel Wai
+NZL JohLn Wel Joh
+NZL HVLn Wel UppHutt
+NZL MelLn Wel Mel
+NZL WaiLn Wel Mas
+
+
+
+
+# Switzerland
+# Geneva
+# Inter City
+CHE IC1 GenAer +SKIP_Glan
+
+# TGV Lyria
+CHE ParGen FRA/CHE +SKIP_Gla
+
+# Léman Express
+CHE L1 Cop CHE/FRA
+CHE L2 Cop CHE/FRA
+CHE L3 Cop CHE/FRA
+CHE L4 Cop CHE/FRA
+CHE L5 Pla GenCor
+CHE L6 FRA/CHE GenCor
+
+# Train régional / Regionalzug
+CHE R55Vau Nyon Giv
+
+# TER Auvergne-Rhône-Alpes
+CHE K1 FRA/CHE GenCor
+CHE K11 FRA/CHE GenCor
+
+# Tramway de Genève
+CHE 12Gen LanBacGare Moi
+CHE 14Gen BerVai MeyGra
+CHE 15Gen ZIPLO Nat
+CHE 17Gen LanPontRouGare CHE/FRA
+CHE 18Gen Pale CERN
+
+
+
+# Zurich
+# Inter City
+CHE IC1 +DIV_S14 +SKIP_Eigg
+CHE IC2 ZurHau +SKIP_Wal
+CHE IC3 +DIV_S14Aar +SKIP_Bil
+CHE IC4 ZurHau +SKIP_Rafz
+CHE IC5 +DIV_S14 +SKIP_Eigg
+CHE IC8 +DIV_S14Aar +SKIP_Isl
+CHE IC21 +SKIP_GisRoot +DIV_S3
+CHE IC81 +DIV_S14 +SKIP_Isl
+CHE IC87 +SKIP_Rafz ZurHau
+
+# TGV Lyria
+CHE ParZur +DIV_S14 ZurHau
+
+# S-Bahn Aargau
+CHE S23Arg +DIV_S14 Bad
+CHE S25Arg Bru Muri
+CHE S26Arg +DIV_S14 Rot
+CHE S27Arg Dot Bad
+CHE S27Bad Dot Bad
+CHE S28Arg +DIV_S14N Len
+CHE S29Arg Tur +DIV_S14
+
+# S-Bahn St. Gallen
+CHE S4Gal Rap +DIV_S2W
+CHE S6Gal Rap Scha
+CHE S17Gal Schn Rap
+
+# Südostbahn
+CHE S27Sud SibWan Bil
+
+# S-Bahn Zürich
+CHE S2 ZurFlu +SKIP_Bil
+CHE S3 ZurHar Wet
+CHE S4 ZurHau Sih
+CHE S5 Zug Pfa
+CHE S6 Bad Uet
+CHE S7 Win Rap
+CHE S8 Win Pfa
+CHE S9 Rafz Ust
+CHE S10 Uet ZurHau
+CHE S11 +DIV_S14 Seu
+CHE S11Sen +DIV_S14 SenKyb
+CHE S12 Bru Eigg
+CHE S12Sch Bru Mar
+CHE S13 Wad Ein
+CHE S14 AffAlb Hin
+CHE S15 Niew Rap
+CHE S16 ZurFlu HerFel
+CHE S17 Woh Die
+CHE S18 ZurSta Ess
+CHE S19 Diet Eff
+CHE S24 +SKIP_Mar Zug
+CHE S24Wei Isl Zug
+CHE S25 ZurHau +SKIP_Bil
+CHE S26 Win Ruti
+CHE S29 Oss Win
+CHE S30 Win Isl
+CHE S33 Mar Win
+CHE S35 Win Eigg
+CHE S36 Rek Bul
+CHE S40 Rap Ein
+CHE S41 Bul Win
+
+# S-Bahn Zentralschweiz
+CHE S1Zen GisRoot Baar
+CHE S2Zen BaarLin Wal
+CHE S9Zen Len Esc
+CHE S31Zen SatAeg Bie
+
+# Strassenbahn Zürich
+CHE 2Zur Gei Klu
+CHE 3Zur Alb Klu
+CHE 4Zur BahStrHB Reh
+CHE 5Zur Stad Lau
+CHE 6Zur BahPlaHB Zoo
+CHE 7Zur Wol Set
+CHE 8Zur Hart KirFlu
+CHE 9Zur Tri Hir
+CHE 10Zur LOOP Fra
+CHE 11Zur BahStrHB Tie
+CHE 12Zur BahSet Fra
+CHE 13Zur BahStrHB Alb
+CHE 14Zur BahPlaHB Tri
+CHE 15Zur BahStrHB Tie
+CHE 17Zur Wer Buc
+CHE 20Zur Alt KilBah
+CHE 50Zur Fra Auz
+CHE 51Zur BahAltNord See
+
+# Airport People Movers (airside)
+CHE SkyMet AirCen DockE
+
+# Funiculars
+CHE 25Zur Rom BerDol
+CHE 24Zur Cen ETH
+CHE 23Zur Sei Rig
+CHE ZugBahn Sch Zug
+
+
+
+
+# United Kingdom
+# England
+# Birmingham
+# CrossCountry
+ENG XCML +DIV_Mal +DIV_Alr
+ENG XCMLSou +SKIP_Ber +DIV_TVLS
+ENG XCMLMan +DIV_Mal +DIV_TVLS
+ENG XCMLDon +SKIP_Lap +DIV_Alr
+ENG BirPetLn BirNewSt Nun
+ENG CarNotLn +DIV_Mal +DIV_Alr
+
+# Avanti West Coast
+ENG WCMLA +SKIP_Berw +DIV_TVL
+ENG WCMLAGla +SKIP_Berw +DIV_TVL
+ENG WCMLB +SKIP_Berw BirNewSt
+ENG WCMLC +SKIP_Ath +DIV_WCML
+ENG WCMLD +SKIP_Ath +DIV_WCML
+ENG WCMLE +SKIP_Ath +DIV_WCML
+ENG WCMLECre +SKIP_Ath +DIV_WCML
+ENG WCMLF +SKIP_Ath +DIV_WCML
+
+# Caledonian Sleeper
+ENG HigSleAbe +SKIP_Ber +DIV_TVLN
+ENG HigSle +SKIP_Ber +DIV_TVLN
+ENG HigSleInv +SKIP_Ber +DIV_TVLN
+ENG LowSleEdi +SKIP_Ath +DIV_WCML
+ENG LowSle +SKIP_Ath +DIV_WCML
+
+# Lumo
+ENG WCMLLum +SKIP_Ath +DIV_WCML
+
+# Chiltern Railways
+ENG ChiML Lap BirSnowHill
+
+# London Northwestern Railway
+ENG BirLivLn BirNewSt +DIV_TVL
+ENG NhpLn Ber BirNewSt
+ENG TreVlyLn Ath +DIV_WCML
+
+# West Midlands Railway
+ENG MalLn BirNewSt +DIV_XCML
+ENG SalLn BirNewSt +SKIP_Alb
+ENG SalLnBes BirNewSt Alb
+ENG CampHillLn BirNewSt KinNor
+ENG ChaLn BirInt RugTreVal
+ENG ShaLn +SKIP_Bla WoodEnd
+ENG StoShu StoJct StoTown
+ENG WyreVlyLn Bla Lap
+ENG XCLn FourOaks Red
+ENG XCLnBro LicTreVal Bro
+
+# Transport for Wales Metro
+ENG BirLlaLn BirInt +SKIP_Alb
+ENG CamLn BirInt +SKIP_Alb
+
+# West Midlands Metro
+ENG WMMWol WolSta EdgVil
+ENG WMMStG WolStGeo EdgVil
+
+# Airport People Movers
+ENG BARL BirInt BirAir
+
+# Heritage & Tourist Railways
+ENG ChaRwy Cha BroWest
+ENG EchWoodRwy FarLeys Har
+
+
+# Liverpool
+# Avanti West Coast
+ENG WCMLA +SKIP_ActBri +DIV_CitN
+ENG WCMLAGla +SKIP_ActBri +DIV_CitN
+ENG WCMLC +DIV_WCML ENG/WLS
+ENG WCMLD +SKIP_ActBri LivLimeSt
+ENG WCMLF +SKIP_ActBri +DIV_CitN
+
+# Caledonian Sleeper
+ENG HigSleAbe +SKIP_ActBri +DIV_CitN
+ENG HigSle +SKIP_ActBri +DIV_CitN
+ENG HigSleInv +SKIP_ActBri +DIV_CitN
+ENG LowSleEdi +SKIP_ActBri +DIV_CitN
+ENG LowSle +SKIP_ActBri +DIV_CitN
+
+# Lumo
+ENG WCMLLum +SKIP_ActBri +DIV_CitN
+
+# London Northwestern Railway
+ENG BirLivLn ActBri LivLimeSt
+
+# Eat Midlands Railway
+ENG LivNorLn LivLimeSt +SKIP_Gla
+
+# Northern
+ENG CalLn Che +SKIP_Pat
+ENG AthLn WigWal +DIV_SptStaE
+ENG CalVlyLn HeaLn +DIV_SptStaE
+ENG ChatMossLn LivLimeSt Pat
+ENG CityLn LivLimeSt +DIV_WCMLN
+ENG CLCLn LivLimeSt Gla
+ENG MidCheLn Cud Che
+ENG NorCheLn EllPort Hel
+ENG SptLn AppBri +DIV_AthCVLW
+ENG WestLanLn Orm BurJct
+
+# TransPennine Express
+ENG TPNRte LivLimeSt +SKIP_Pat
+ENG TPNRteHul LivLimeSt +SKIP_Pat
+ENG TPSRte LivLimeSt +SKIP_Gla
+
+# Transport for Wales Rail
+ENG NWSWChe WLS/ENG ENG/WLS
+ENG HolManLn WLS/ENG +SKIP_Pat
+ENG  WLS/ENG LivLimeSt
+ENG BirLlaLnChe WLS/ENG ENG/WLS
+ENG WreCreLn WLS/ENG +DIV_WCML
+ENG BorLn Bid ENG/WLS
+
+# Merseyrail
+ENG NrnLn LivCen Hil
+ENG NrnLnOrm HunCro Orm
+ENG NrnLnKir LivCen HeaLn
+ENG WirLn LivJamSt_1 Che
+ENG WirLnWKi LivJamSt_1 WestKir
+ENG WirLnNew LivJamSt_1 NewBri
+ENG WirLnEll LivJamSt_1 EllPort
+
+# Heritage & Tourist Railways
+ENG WirTwy WooFry WirTraMus
+
+
+# London
+# Eurostar
+ENG LonPar LonStPanInt +DIV_AshN
+ENG LonAms LonStPanInt +DIV_AshN
+
+# Stansted Express
+ENG StaEx LonLivSt +SKIP_Saw
+
+# Gatwick Express
+ENG GatEx LonVic +SKIP_Bal
+
+# North Eastern Railway
+ENG ECMLEdi LonKinCro +SKIP_Kne
+ENG ECMLBra LonKinCro +SKIP_Kne
+ENG ECMLHar LonKinCro +SKIP_Kne
+ENG ECMLLin LonKinCro +SKIP_Kne
+
+# Avanti West Coast
+ENG WCMLA LonEus +DIV_NhpS
+ENG WCMLAGla LonEus +DIV_NhpS
+ENG WCMLB LonEus +DIV_NhpS
+ENG WCMLC LonEus +DIV_NhpS
+ENG WCMLD LonEus +DIV_NhpS
+ENG WCMLE LonEus +DIV_NhpS
+ENG WCMLECre LonEus +DIV_NhpS
+ENG WCMLF LonEus +DIV_NhpS
+
+# Caledonian Sleeper
+ENG HigSleAbe LonEus +DIV_NhpS
+ENG HigSle LonEus +DIV_NhpS
+ENG HigSleInv LonEus +DIV_NhpS
+ENG LowSleEdi LonEus +DIV_NhpS
+ENG LowSle LonEus +DIV_NhpS
+
+# Great Central
+ENG ECMLNEn LonKinCro +SKIP_Kne
+ENG ECMLWRd LonKinCro +SKIP_Kne
+
+# Hull Trains
+ENG ECMLHul LonKinCro +SKIP_Kne
+
+# Heathrow Express
+ENG HEx LonPad HeaTer5
+
+# Lumo
+ENG ECMLLum LonKinCro +SKIP_Kne
+ENG WCMLLum LonEus +DIV_NhpS
+
+# c2c
+ENG LTSLn LonFenSt Lai
+ENG LTSLnOck LonFenSt StaHope
+ENG LTSLnRai LonFenSt Gra
+ENG LTSLnStr LonLivSt Lai
+
+# Chiltern Railways
+ENG ChiML LonMar +SKIP_Sau
+ENG ChiMLOxf LonMar Sau
+ENG AylLn LonMar Wen
+
+# Greater Anglia
+ENG GEML LonLivSt +SKIP_Ing
+ENG SunCoaLnCla LonLivSt Ing
+ENG SunCoaLnCol LonLivSt +SKIP_Ing
+ENG FliLn LonLivSt Ing
+ENG SouLn LonLivSt Bil
+ENG WAML LonLivSt Saw
+ENG WAMLStr Str Saw
+ENG NewRvrLn LonLivSt HerEast
+
+# Great Northern
+ENG FenLn LonKinCro +SKIP_Kne
+ENG RheeVlyLn LonKinCro Kne
+ENG NorCityLn Moo WatSto
+ENG NorCityLnWel Moo WelGarCity
+
+# Northwestern Railway
+ENG NhpLn LonEus +DIV_TVL
+ENG TreVlyLn LonEus +DIV_NhpS
+ENG GUCLn LonEus Tri
+ENG AbbLn WatJct StAlbAbb
+
+# Southeastern
+ENG HS1Can LonStPanInt +DIV_AshN
+ENG HS1Dov LonStPanInt +DIV_AshN
+ENG HS1Cha LonStPanInt +SKIP_Hig
+ENG SEML LonChaCro Ton
+ENG PadWoodLn LonChaCro Ton
+ENG HasLn LonChaCro Ton
+ENG ChaML LonVic +DIV_ThaE
+ENG ThaLn LonVic +DIV_ThaE
+ENG SoleStLn LonVic +DIV_ThaE
+ENG KentDowLn LonVic WestMal
+ENG MaiELn LonChaCro WestMal
+ENG NKentLn LonCanSt Dar
+ENG WooLn LonCanSt LOOP
+ENG BexLn LonVic Gra
+ENG SidLn LonChaCro Gra
+ENG SidLnLew LonChaCro Dar
+ENG GroPkLn LonCanSt Orp
+ENG GroPkLnLew LonChaCro Sev
+ENG HayLn LonChaCro Hay
+ENG HayLnLew LonChaCro Hay
+ENG BroSLn LonVic Orp
+ENG BroNLn GroPark BroNor
+
+# Southern
+ENG SusMLE LonVic +SKIP_Bal
+ENG SusMLW LonVic +SKIP_Bal
+ENG ChiLn LonVic +SKIP_Lit
+ENG ArunVlyLn LonVic +SKIP_Lit
+ENG CatLn LonBri Cat
+ENG EGriLn LonVic EastGri
+ENG RdhLn LonVic Rei
+ENG TatCorLn LonBri TatCor
+ENG UckLn LonBri Ash
+ENG GipHillLn LonVic WestCro
+ENG NbyLn LonBri WestCro
+ENG PecLn LonBri BecJct
+ENG SouLonLn LonVic LonBri
+ENG SutLn LonVic War
+ENG WalLn LonVic EpsDow
+ENG WestLonLn WatJct EastCro
+ENG RedTonLn Red Ton
+
+# South Western Railway
+ENG SWML LonWat +SKIP_Far
+ENG PorDirLn LonWat Has
+ENG BotLn LonWat Farn
+ENG WoELn LonWat +SKIP_Far
+ENG ReaLn LonWat MarHer
+ENG AltLn LonWat +DIV_BVL
+ENG BasLn LonWat Far
+ENG WinLn LonWat WinEtonRiv
+ENG CheLp LonWat Wey
+ENG KinLp LonWat_1 LonWat_2
+ENG SheLn LonWat She
+ENG HamCouLn LonWat HamCou
+ENG WokLn LonWat Wok
+ENG NewGuiLn LonWat Gui
+ENG CheLn LonWat CheSou
+ENG BooLn LonWat Gui
+ENG MoleVlyLn LonWat Dor
+ENG BlaVlyLn Asc Cam
+ENG WeyVlyLn Wan Gui
+
+# Thameslink
+ENG ThaLnkCam +SKIP_Kne +SKIP_Bal
+ENG ThaLnk Harp Bal
+ENG ThaLnkBed Harp ThrBri
+ENG ThaLnkPet +SKIP_Kne Lit
+ENG ThaLnkSut StAlbCity LOOP
+ENG ThaLnkSev LonBla Sev
+ENG ThaLnkRai Har Hig
+
+# East Midlands Railway
+ENG MMLShe LonStPanInt +SKIP_Harp
+ENG MMLNot LonStPanInt +SKIP_Harp
+ENG LutAirExp LonStPanInt +SKIP_Harp
+
+# Great Western Railway
+ENG GWML LonPad Rea
+ENG SWalML LonPad Rea
+ENG CorML LonPad Rea
+ENG CotLn LonPad Rea
+ENG OxfLn LonPad Rea
+ENG BerHanLn LonPad Rea
+ENG GolVlyLn LonPad Rea
+ENG ThaVlyLn LonPad Twy
+ENG GreBra WestEal Gre
+ENG WinBra Slo WinEtonCen
+ENG MarBra Mai Mar
+ENG NorDowLn +SKIP_Wan GatAir
+
+# Overground
+ENG LibLn Rom Upm
+ENG LioLn Eus WatJct
+ENG MilLn ClaJct Str
+ENG MilLnRic Ric Str
+ENG SufLn GosOak BarRiv
+ENG WinLnCla DalJct ClaJct
+ENG WinLnCry HigIsl CryPal
+ENG WinLnNew DalJct NewCro
+ENG WinLnCro HigIsl WestCro
+ENG WeaLn LivSt Che
+ENG WeaLnChi LivSt Chi
+ENG WeaLnEnf LivSt EnfTown
+
+# TfL Elizabeth Line
+ENG EliLn Twy AbbWood
+ENG EliLnHea HeaTer4 AbbWood
+ENG EliLnShe HeaTer5 She
+
+# Docklands Light Railway
+ENG DLR Bank Lew
+ENG DLRWoo Bank WooArs
+ENG DLRRoy TowGat Bec
+ENG DLRStr Str Lew
+ENG DLRStI StrInt WooArs
+ENG DLRBec StrInt Bec
+
+# Underground
+ENG BakLn HarWea EleCas
+ENG CenLn WestRui Epp
+ENG CenLnEal EalBro Woo
+ENG CirLn Ham EdgRd_2
+ENG DisLn Ric Upm
+ENG DisLnEal EalBdwy Upm
+ENG DisLnWim Wim Bar
+ENG DisLnEdg Wim EdgRd
+ENG DisLnOly KenOly HighStKen
+ENG HaCLn Ham Bark
+ENG JubLn Sta Str
+ENG JubLn Sta Str
+ENG MetLn Che Ald
+ENG MetLnUxb Uxb Ald
+ENG MetLnWat Wat BakSt
+ENG NorLnBar HighBar Mor
+ENG NorLnBat HighBar BatPowSta
+ENG NorLn Edg Mor
+ENG NorLnEdg Edg BatPowSta
+ENG NorLnMor MillHillEast Mor
+ENG NorLnMHE MillHillEast BatPowSta
+ENG PicLnHT4 LOOP Coc
+ENG PicLn HeaTer5 Coc
+ENG PicLnUxb Uxb Coc
+ENG VicLn WalCen Bri
+ENG WaCLn Wat Bank
+
+# Trams
+ENG TLnkCNA EastCro_1 NewAdd
+ENG TLnkWEE Wim ElmEnd
+ENG TLnkEEW ElmEnd Wim
+ENG TLnkWBJ Wim BecJct
+ENG TLnkBJW BecJct Wim
+
+# Airport People Movers (airside)
+ENG HT5Tra GatA1A23 GatC52C66
+
+# Airprot People movers (landside)
+ENG GAST STer NTer
+ENG HPRT5A Ter5 ParA
+ENG HPRT5B Ter5 ParB
+ENG HPRTAB ParA ParB
+
+# Funiculars
+ENG LegHillTrn Bot Top
+
+# Heritage & Tourist Railways
+ENG BluRwy EastGri HorKey
+ENG EppOngRwy Epp Ong
+ENG GunRwy Nor Sou
+ENG LTMR EalEnd DepApp
+ENG RuiLidoRwy WilLawn WooBay
+ENG WokMR BonLn_1 BonLn_2
+
+
+# Manchester
+# CrossCountry
+ENG XCMLSou +SKIP_Adl ManPic
+ENG XCMLMan +SKIP_Adl ManPic
+
+# Avanti West Coast
+ENG WCMLE +SKIP_Adl ManPic
+ENG WCMLECre +SKIP_Che ManPic
+
+# East Midlands Railway
+ENG LivNorLn +SKIP_Gla +DIV_HVLW
+
+# Northern
+ENG FurLn ManAir +DIV_SptSta
+ENG CalLn +DIV_Gol +SKIP_Wal
+ENG AirLn ManPic +SKIP_Che
+ENG AthLn DaiHill Wals
+ENG BlaLn ManAir +DIV_SptSta
+ENG BuxLn ManPic Dis
+ENG CalVlyLn DaiHill Wals
+ENG ChatMossLn +DIV_Gol ManAir
+ENG CLCLn Gla ManOxfRd
+ENG CreLn ManPic Che
+ENG GloLn ManPic Din
+ENG HopeVlyLn ManPic Str
+ENG MplLn ManPic RoseHillMar
+ENG MidCheLn ManPic Knu
+ENG RibVlyLn Roc Ent
+ENG SptLn +DIV_BlaFurN ManOxfRd
+ENG StaLn +DIV_BlaFurN Sta
+ENG StoLn ManPic Pre
+ENG StoStaLn Sto Sta
+
+# TransPennine Express
+ENG TPASRte ManAir +DIV_SptSta
+ENG TPASRteGla ManAir +DIV_SptSta
+ENG TPNRte +DIV_Gol +SKIP_Mar
+ENG TPNRteHul +DIV_Gol +SKIP_Mar
+ENG TPNRteTee ManAir +SKIP_Mar
+ENG TPNRtePic ManPic Mar
+ENG TPNRteSca ManVic +SKIP_Mar
+ENG TPSRte +SKIP_Gla +DIV_HVL
+
+# Transport for Wales Rail
+ENG MarLn +SKIP_Che ManPic
+ENG HolManLn +DIV_Gol ManAir
+
+# Metrolink
+ENG MetLnkMAV ManAir Vic
+ENG MetLnkAlB Alt Bury
+ENG MetLnkAlP Alt EtiCam
+ENG MetLnkEDR EDid RocTownCen
+ENG MetLnkEDS EDid ShawCro
+ENG MetLnkEAL Ecc AshUndLyne
+ENG MetLnkPBy Pic Bury
+ENG MetLnkTCC TraCen Cru
+
+# Heritage & Tourist Railways
+ENG ELanRwy Hey IrwVale
+ENG HeaPkTwy MidRd Lak
+
+
+# Newcastle
+# London North Eastern Railway
+ENG ECMLEdi Dur +SKIP_Wid
+
+# CrossCountry
+ENG XCML Dur +SKIP_Wid
+ENG XCMLDon Dur New
+
+# Great Central
+ENG ECMLNEn +SKIP_Hord Sun
+
+# Lumo
+ENG ECMLLum +SKIP_Dur +SKIP_Wid
+
+# Northern
+ENG NESF +SKIP_Hor Pru
+ENG ECMLMor New Wid
+ENG NhbLn New Ash
+ENG TyneVlyLn Pru New
+ENG DurCoaLn Hor New
+
+# TransPennine Express
+ENG TPBRte New +SKIP_Wid
+ENG TPNRte Dur New
+
+# Tyne & Wear Metro
+ENG TWMGre SouHyl Air
+ENG TWMYel StJam SouShi
+
+# Heritage & Tourist Railways
+ENG BeaTwy Ent_1 Ent_2
+ENG NTSR SteRaiMus PerMain
+ENG TanRwy Sun CauArch
+ENG WNGR MusHalt LakHalt
+
+
+
+# Wales
+# Liverpool
+# Avanti West Coast
+WLS WCMLC ENG/WLS Pre
+
+# Transport for Wales Rail
+WLS NWSW Pre WLS/ENG
+WLS HolManLn Pre WLS/ENG
+WLS  Pre WLS/ENG
+WLS BirLlaLn ENG/WLS Pre
+WLS BorLn ENG/WLS Hope
+
+
+
+
+# United States
+# Arizona
+# Phoenix
+# Valley Metro Rail
+AZ A DowPhoHub GilRdMainSt
+AZ B BasRd MetPkwy
+
+# Landside Airport Rail Systems
+AZ PHX RenCarCen 44thSt
+
+# Tempe Streetcar
+AZ TSCMarMar DorApaBlvd MarHeiRioSalPkwy
+AZ TSCDorDor MarHeiRioSalPkwy DorApaBlvd
+
+
+
+# California
+# Los Angeles
+# Amtrak
+CA CS UniSta SimiVly
+CA PS Oce Moo
+CA SW UniSta +SKIP_CorW
+CA SL UniSta Ont
+CA TX UniSta Ont
+
+# Metrolink
+CA AntVlyLn UniSta New
+CA InlEmpLn Oce CorW
+CA OraCouLn UniSta Oce
+CA PerVlyLn UniSta CorW
+CA RivLn UniSta OntE
+CA SanBerLn UniSta Upl
+CA VenCouLn UniSta SimiVly
+
+# Metro Subway
+CA B NHol UniSta
+CA D WilLaCie UniSta
+
+# Metro Light Rail
+CA A Loop PomN
+CA C LAXMTC Nor
+CA E DowSanMon Atl
+CA K RedBea ExpoCre
+
+# Inclide Railways
+CA AngFli OliSt HillSt
+
+
+# Sacramento
+# Amtrak
+CA CZ +SKIP_FaiVac Col
+CA CC FaiVac Aub
+CA CS +SKIP_FaiVac +DIV_Mar
+CA GRSac Lodi SacVlySta
+
+# RT Light Rail
+CA SRTBlue CosRivCol Watt80
+CA SRTGold SacValSta HisFol
+CA SRTGre 13thSt 7thRic
+
+# Airside Airport Rail Systems
+CA AutPeoMov CenTerB ConB
+
+
+
+# San Diego
+# California
+# Amtrak
+CA PS SanFeDep SanClePier
+
+# NCTD Commuter Rail
+CA Coa SanFeDep Oce
+CA Spr Oce EscTC
+
+# L.A. Metrolink
+CA InlEmpLn Oce SanClePie
+CA OraCouLn SanClePie Oce
+
+# Trolley
+CA BlueLn SanYsiTC UTCTC
+CA GreLn 12thImpTC ElCaj
+CA OraLn Cou ElCaj
+CA SilLn 12thImpTC_A 12thImpTC_B
+CA CopLn ElCaj SanTownCen
+
+
+# San Francisco
+# Amtrak
+CA CZ Eme +SKIP_SuiFai
+CA CC SanJoseDir SuiFai
+CA CS Sal +SKIP_SuiFai
+CA GROak SanJoaSt OakJackLonSq
+
+# Altamont Corridor Express
+CA ACE SanJoseDir Tra
+
+# Caltrain
+CA CalTra Tam SanFraKing
+CA CalTraSCC Gil SanJoseDir
+
+# Sonoma-Marin Area Rail Transit
+CA SMART Lar PenDT
+
+# Bay Area Rapid Transit
+CA BARTBlue DalyCity DubPle
+CA BARTGre DalyCity Ber
+CA BARTOra Ber Ric
+CA BARTRed Mil Ric
+CA BARTYel Mil PitTra
+
+# MUNI Light Rail
+CA MuniF 17thCas Bea
+CA MuniJ BalPark Emb
+CA MuniK BalPark Emb
+CA MuniL Waw Emb
+CA MuniM BalPark Emb
+CA MuniN LaPla 4thKing
+CA MuniT Sun ChiRosePak
+
+# VTA Light Rail
+CA VTABlue SanTer Bay
+CA VTAGre Win OldIro
+CA VTAOra DtnMouView AlumRock
+
+# East Contra Costa County BART Extension
+CA eBART PitTra Ant
+
+# Landside Airport Rail Systems
+CA OAKAir OakIntAir Col
+CA AirTrnRed GarG/BART_S GarG/BART_F
+CA AirTrnBlue LongTermPar Loop
+
+# Cable Cars
+CA CalSt VanNess Dru
+CA PowHyde Mar Bea
+CA PowMas Mar Bay
+
+
+
+# Colorado
+# Denver
+# Amtrak
+CO CZ +SKIP_WinParkRes FortMor
+CO WP WinParkRes UniSta
+
+# RTD Commuter Rail
+CO ALn UniSta DenAir
+CO BLn UniSta Wes
+CO GLn UniSta WheRidWardRd
+CO NLn UniSta Eas124th
+
+# Tourist/Heritage Railroads
+CO PlaValTro ConParkREI EmpFieMileHigh
+
+# RTD Light Rail
+CO CLn LitMin UniSta
+CO ELn RidPkwy UniSta
+CO HLn Flo Loop
+CO LLn 30thDow Loop
+CO RLn Lin Peo
+CO WLn JefCouGovCenGol UniSta
+
+# Airside Airport Rail Systems
+CO DENTrn JepTer CGat
+
+
+
+# Connecticut
+# New York
+# Amtrak
+CT AE NY/CT +DIV_Wat
+CT NENew NY/CT +DIV_Wat
+CT NENor NY/CT +DIV_Wat
+CT NERoa NY/CT +DIV_Wat
+CT NESpr NY/CT +DIV_Wat
+CT VT NY/CT +DIV_Wat
+
+# Metro-North
+CT NewHavLn NY/CT +DIV_Wat
+CT NewHavLnCan Sta NewCan
+CT NewHavLnDan SNor Bet
+CT NewHavLnWat Bri +DIV_NH
+
+
+
+# Delaware
+# Philadelphia
+# Amtrak
+DE AE MD/DE DE/PA
+DE CA MD/DE DE/PA
+DE CN MD/DE DE/PA
+DE CR MD/DE DE/PA
+DE NENew MD/DE DE/PA
+DE NENor MD/DE DE/PA
+DE NERoa MD/DE DE/PA
+DE NESpr MD/DE DE/PA
+DE PL MD/DE DE/PA
+DE SM MD/DE DE/PA
+DE VT MD/DE DE/PA
+
+# SEPTA Regional Rail
+DE WilNewLn DE/PA New
+
+# Tourist/Heritage Railroads
+DE WilWesRR Hoc Gre
+
+
+
+
+# District of Columbia
+# Washington DC
+# Amtrak
+DC AE WasUniSta DC/MD
+DC CA VA/DC DC/MD
+DC CN VA/DC DC/MD
+DC CR VA/DC DC/MD
+DC FL MD/DC DC/VA
+DC NENew VA/DC DC/MD
+DC NENor VA/DC DC/MD
+DC NERoa VA/DC DC/MD
+DC NESpr WasUniSta DC/MD
+DC PL VA/DC DC/MD
+DC SM VA/DC DC/MD
+DC VT WasUniSta DC/MD
+
+# MARC Train
+DC BruLn WasUniSta DC/MD
+DC FreBra WasUniSta DC/MD
+DC CamLn WasUniSta DC/MD
+DC PennLn WasUniSta DC/MD
+
+# Virginia Railway Express
+DC FreLn VA/DC WasUniSta
+DC ManLn VA/DC WasUniSta
+
+# Metro
+DC BluLn VA/DC DC/MD
+DC GreLn MD/DC DC/MD
+DC OraLn VA/DC DC/MD
+DC RedLn MD/DC DC/MD
+DC SilLn VA/DC DC/MD
+DC SilLnNew VA/DC DC/MD
+DC YelLn VA/DC MtVerSq
+
+
+
+# FLorida
+# Miami
+# Amtrak
+FL FL Oke Mia
+FL SM Mia +SKIP_Oke
+
+# Brightline
+FL BriLn +DIV_ECR MiaCen
+
+# Tri-Rail
+FL TriRail ManPark MiaAir
+FL TriRailDow MetTra MiaCen
+
+# Metrorail
+FL GreLn DadSou Pal
+FL OraLn DadSou MiaAir
+
+# Landside Airport Rail Systems
+FL MiaM IntCen MIA
+
+# Airside Airport Rail Systems
+FL SkyTrn 1 4
+FL ETrn E2 E20
+
+# Metromover
+FL BriLp FinDis Loop
+FL OmniLp SchBoa Loop
+FL InnLp GovCen_N GovCen_S
+
+
+
+# Georgia
+# Atlanta
+# Amtrak
+GA CR AL/GA Gai
+
+# MARTA Rail
+GA BluLn HamEHol IndCrk
+GA GoldLn Air Dor
+GA GreLn Ban EdgCanPk
+GA RedLn Air NorSpr
+
+# Landside Airport Rail Systems
+GA SkyTrn Air RenCarCen
+
+# Airside Airport Rail Systems
+GA PlaTrn DomTer FGatIntTer
+
+# Streetcar
+GA AtlStr DobPla_N DobPla_S
+
+
+
+# Hawaii
+# Honolulu
+# Authority for Rapid Transportation
+HI Sky Kua Kah
+
+
+
+# Kentucky
+# Cincinnati
+# Amtrak
+KY CA OH/KY May
+
+# Airside Airport Rail Systems
+KY CVGTram MainTer ConB
+
+
+
+# Illinois
+# Chicago
+# Amtrak
+IL BO UniSta IL/WI
+IL BW UniSta IL/IN
+IL CZ +SKIP_Men UniSta
+IL CA UniSta IL/IN
+IL SB Men UniSta
+IL NO Kan UniSta
+IL EBPor WI/IL UniSta
+IL EBSea WI/IL UniSta
+IL FL UniSta IL/IN
+IL HI UniSta IL/WI
+IL IL Kan UniSta
+IL IZ Men UniSta
+IL LSBos UniSta IL/IN
+IL LSNew UniSta IL/IN
+IL LI Dwi UniSta
+IL PM UniSta IL/IN
+IL SK Kan UniSta
+IL SW Men UniSta
+IL TX +SKIP_Dwi UniSta
+IL WV UniSta IL/IN
+
+# Metra
+IL ME MilSta UniPk
+IL MEBlu MilSta BlueIsl
+IL MESCh MilSta SChi93rdSt
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+IL SWS UniSta Man
+IL HC UniSta Jol
+IL BNSF Aur UniSta
+IL MDW BigTimRd UniSta
+IL UPW Elb OgiTraCen
+IL MDN UniSta FoxLake
+IL NCS UniSta Ant
+IL UPNW OgiTraCen Har
+IL UPNWMcH OglTraCen McH
+IL UPN OgiTraCen IL/WI
+
+# Northern Indiana Commuter Transportation District
+IL SouShoLn IN/IL MilSta
+
+# L
+IL BlueLn OHa ForPk
+IL BroLn Kim Loop
+IL GreLn HarLake Ash63rd
+IL GreLnE63 HarLake CotGro
+IL OraLn Mid Loop
+IL PinkLn 54thCer Loop
+IL PurLn How Lin
+IL RedLn 95thDanRyan How
+IL SkoSwi DemSko How
+
+# Landside Airport Rail Systems
+IL AirTraSys Ter1 MulModFac
+
+
+# St. Louis
+# Amtrak
+IL LI MO/IL Car
+IL TX MO/IL Car
+
+# Bi-State Development Agency
+IL MLBlueLn MO/IL FaiHei
+IL MLRedLn MO/IL ShiSco
+
+
+
+# Indiana
+# Indianapolis
+# Amtrak
+IN CA +DIV_Cra Con
+
+
+
+# Kansas
+# Kansas City
+# Amtrak
+KS SW Top KS/MO
+
+
+
+# Louisiana
+# New Orleans
+# Amtrak
+LA NO NewOrl Ham
+LA CR NewOrl LA/MS
+LA MG NewOrl LA/MS
+LA SL Sch NewOrl
+
+# Regional Transit Authority
+LA CanCem HarCas CemTraTer
+LA CanCityPark HarCas MusArt
+LA Riv JulSt FreMar
+LA StCha CanCar SCla
+LA RamLoy UPT ElyFie
+
+
+
+# Maryland
+# Baltimore
+# Amtrak
+MD AE +SKIP_BowSta +SKIP_Edg
+MD CA +SKIP_BowSta +SKIP_Edg
+MD CN +SKIP_BowSta +SKIP_Edg
+MD CR +SKIP_BowSta +SKIP_Edg
+MD NENew +SKIP_BowSta +SKIP_Edg
+MD NENor +SKIP_BowSta +SKIP_Edg
+MD NERoa +SKIP_BowSta +SKIP_Edg
+MD NESpr +SKIP_BowSta +SKIP_Edg
+MD PL +SKIP_BowSta +SKIP_Edg
+MD SM +SKIP_BowSta +SKIP_Edg
+MD VT +SKIP_BowSta +SKIP_Edg
+
+# MARC Train
+MD CamLn LauRaceTra BalCam
+MD PennLn BowSta Edg
+
+# Metro SubwayLink
+MD MetSub OwiMil JohHopHos
+
+# Light RailLink
+MD BLRL GlenBur HuntVly
+MD BLRLBWI BWIAir HuntVly
+MD BLRLPen CamYds PennSta
+
+
+# Washington DC
+# Amtrak
+MD AE DC/MD +SKIP_Ode
+MD CA DC/MD +SKIP_Ode
+MD CN DC/MD +SKIP_Ode
+MD CR DC/MD +SKIP_Ode
+MD FL +DIV_Fre MD/DC
+MD NENew DC/MD +SKIP_Ode
+MD NENor DC/MD +SKIP_Ode
+MD NERoa DC/MD +SKIP_Ode
+MD NESpr DC/MD +SKIP_Ode
+MD PL DC/MD +SKIP_Ode
+MD SM DC/MD +SKIP_Ode
+MD VT DC/MD +SKIP_Ode
+
+# MARC Train
+MD BruLn DC/MD +DIV_Fre
+MD FreBra DC/MD +DIV_Bru
+MD CamLn DC/MD Sav
+MD PennLn DC/MD Ode
+
+# Metro
+MD BluLn DC/MD DowLar
+MD GreLnSui BraAve MD/DC
+MD GreLn DC/MD Gre
+MD OraLn DC/MD NewCar
+MD RedLn ShaGro MD/DC
+MD RedLnGle DC/MD Gle
+MD RedLnGle DC/MD Gle
+MD SilLnNew DC/MD NewCar
+
+
+
+# Massachusetts
+# Boston
+# Amtrak
+MA AE +SKIP_Att BosSou
+MA DE BosNor MA/NH
+MA LSBos Spr BosSou
+MA NENew +SKIP_Att BosSou
+MA NENor +SKIP_Att BosSou
+MA NERoa +SKIP_Att BosSou
+
+# MBTA Commuter Rail
+MA FaiLn Rea BosSou
+MA FallRivLn BosSou +DIV_CapeFly
+MA FitLn BosNor Wac
+MA FoxLn Fox BosSou
+MA FraLn ForPk495 BosSou
+MA GreLn BosSou Gre
+MA HavLn BosNor Hav
+MA HavLnWil BosNor Hav
+MA KinLn BosSou *OldPly
+MA LowLn BosNor Low
+MA NeeLn NeeHei BosSou
+MA NewBedLn BosSou +DIV_CapeFly
+MA NewLn BosNor New
+MA ProLn Att BosSou
+MA RocLn BosNor Roc
+MA StoLn Sto BosSou
+MA WorLn Wor BosSou
+MA CapeFly BosSou +DIV_FRNB
+
+# MBTA Subway
+MA BluLn Won Bow
+MA OraLn ForHil OakGro
+MA RedLn Ash Ale
+MA RedLnBra Bra Ale
+MA GreLnB BosCol GovCen
+MA GreLnC CleCir GovCen
+MA GreLnD Riv UniSq
+MA GreLnE HeathSt MedTuf
+MA RedLnM Ash Mat
+
+
+# Michigan
+# Detroit
+# Amtrak
+MI WV *Che Pon
+
+# Airside Airport Rail Systems
+MI ExpTram SouSta NorSta
+
+# People Mover
+MI DetPeoMov Mic_S Mic_N
+
+# QLine
+MI QLn GraBlvd ConSt
+
+
+
+# Minnesota
+# Minneapolis
+# Amtrak
+MN BO RedWing StPaulUniDep
+MN EBPor +SKIP_Ram RedWing
+MN EBSea +SKIP_Ram RedWing
+
+# Metro Transit (Light Rail)
+MN BlueLine MallofAmerica TargetFieldPlatform2
+MN GreenLine TargetFieldPlatform2 UnionDepot
+
+# Lanside Airport Rail Systems
+MN HubTram Ter1 HubBui
+
+# Airside Airport Rail Systems
+MN MSPTram ConDE ConAB
+
+
+# Missouri
+# Kansas City
+# Amtrak
+MO MR KanCityUni War
+MO SW KS/MO *Mar
+
+# RideKC Streetcar
+MO KCSC UMKC Riv
+
+
+# St. Louis
+# Amtrak
+MO LI StLouGat MO/IL
+MO MR Was StLouGat
+MO TX ArcVly MO/IL
+
+# Bi-State Development Agency
+MO MLBlueLn ShrLanI44 MO/IL
+MO MLRedLn LamAirTer1 MO/IL
+MO LoopTro UniCityLib MisHisMus
+
+
+
+# New Jersey
+# New York
+# Amtrak
+NJ AE +SKIP_PriJct NJ/NY
+NJ CA +SKIP_PriJct NJ/NY
+NJ CN +SKIP_PriJct NJ/NY
+NJ CR +SKIP_PriJct NJ/NY
+NJ KS PriJct NJ/NY
+NJ NENew PriJct NJ/NY
+NJ NENor PriJct NJ/NY
+NJ NERoa +SKIP_PriJct NJ/NY
+NJ NESpr +SKIP_PriJct NJ/NY
+NJ PL +SKIP_PriJct NJ/NY
+NJ PA +SKIP_PriJct NJ/NY
+NJ SM +SKIP_PriJct NJ/NY
+NJ VT +SKIP_PriJct NJ/NY
+
+# Metro-North
+NJ PortJerLn Hob NJ/NY
+
+# NJ Transit Rail
+NJ BerCouLn Hob NJ/NY
+NJ GlaBra Hob Gla
+NJ MainLn Hob NJ/NY
+NJ MeaRailLn Hob Mea
+NJ MonBooLn NY/NJ LakeHop
+NJ MorEssLn NY/NJ LakeHop
+NJ NECorLn NY/NJ PriJct
+NJ NJerCoaLn NY/NJ AbeMat
+NJ PasVlyLn Hob NJ/NY
+NJ RarVlyLn NewPenn NorBra
+
+# Port Authority Trans-Hudson Railroad
+NJ PATHH33 Hob NJ/NY
+NJ PATHHWT Hob NJ/NY
+NJ PATHJ33 JouSq NJ/NY
+NJ PATHNWT NewPenn NJ/NY
+
+# NJ Transit Light Rail
+NJ HBLRHTT HobTer TonAve
+NJ HBLRWST WestSideAve TonAve
+NJ HBLR8HT 8thSt HobTer
+NJ NLRCS PennSta GroSt
+NJ NLRBSE PennSta BroadStSta
+
+# Landside Airport Rail Systems
+NJ AirTrn NewLibAir TerA
+
+
+# Philadelphia
+# NJ Transit Rail
+NJ AtlCityLn PA/NJ Ham
+
+# PATCO Speedline
+NJ PATCO PA/NJ Lin
+
+# NJ Transit Light Rail
+NJ RivLn EntCen Bor
+
+
+
+# New York
+# New York
+# Amtrak
+NY AE NJ/NY NY/CT
+NY AD +SKIP_Gar PennSta
+NY BF PennSta +SKIP_Gar
+NY CA NJ/NY PennSta
+NY CN NJ/NY PennSta
+NY CR NJ/NY PennSta
+NY ES +SKIP_Gar PennSta
+NY EA +SKIP_Gar PennSta
+NY KS NJ/NY PennSta
+NY LSNew +SKIP_Gar PennSta
+NY ML +SKIP_Gar PennSta
+NY NENew NJ/NY NY/CT
+NY NENor NJ/NY NY/CT
+NY NERoa NJ/NY NY/CT
+NY NESpr NJ/NY NY/CT
+NY PL NJ/NY PennSta
+NY PA NJ/NY PennSta
+NY SM NJ/NY PennSta
+NY VT NJ/NY NY/CT
+
+# Long Island Rail Road
+NY BabBraGCT GraCen Bab
+NY BabBra PennSta Bab
+NY GreBra Ron Riv
+NY HemBra GraCen Hem
+NY LongBeaBra PennSta LongBea
+NY MonBra LongIslCity Spe
+NY OysBayBra Jam OysBay
+NY PortJefBra PennSta PortJef
+NY PortWasBraGCT GraCen PortWas
+NY PortWasBra PennSta PortWas
+NY RocBra GraCen FarRoc
+NY RonBraGCT GraCen Ron
+NY RonBra PennSta Ron
+NY WHemBra AtlTer WHem
+
+# Metro-North
+NY HarLn GraCen Bre
+NY HudLn GraCen Gar
+NY NewHavLn GraCen NY/CT
+NY PortJerLn Suf Tux
+
+# NJ Transit Rail
+NY BerCouLn NJ/NY Suf
+NY MainLn NJ/NY Suf
+NY MonBooLn PennSta NY/NJ
+NY MorEssLn PennSta NY/NJ
+NY NECorLn PennSta NY/NJ
+NY NJerCoaLn PennSta NY/NJ
+NY PasVlyLn NJ/NY SprVly
+
+# Subway
+NY 1 VanCorPk SouFry
+NY 2 Wak241St FlaAveBroCol
+NY 3 Har148St NewLotsAve
+NY 4 Woo CroHeiUtiAve
+NY 5 EasDyreAve FlaAveBroCol
+NY 6 PelBayPk BroBriCityHall
+NY 7 34StHudYar FluMainSt
+NY A 207StInw FarRocMottAve
+NY AOzo 207StInw OzoPkLefBlvd
+NY B 145St BriBea
+NY C 168St EucAve
+NY D Nor205St ConIslStiAve
+NY D Nor205St ConIslStiAve
+NY F Jam179St ConIslStiAve
+NY G CouSq ChuAve
+NY J BroSt JamCenParArc
+NY L 8Ave CanRocPkwy
+NY M MidVilMetAve ForHil71Ave
+NY N AstDitBlvd ConIslStiAve
+NY Q 96St ConIslStiAve
+NY R ForHil71Ave BayRid95St
+NY S42 TimSq GraCen
+NY SRoc BroCha RocParkBea116St
+NY SPro FraAve ProPk
+NY W AstDitBlvd WhiStSFry
+
+# Port Authority Trans-Hudson Railroad
+NY PATHH33 NJ/NY 33St
+NY PATHHWT NJ/NY WTC
+NY PATHJ33 NJ/NY 33St
+NY PATHNWT NJ/NY WTC
+
+# Staten Island Railway
+NY SIR StGeo Tot
+
+# Landside Airport Rail Systems
+NY AirTrnATL T8_E T8_W
+NY AirTrnHow HowBea Loop
+NY AirTrnJam Jam Loop
+
+# Roosevelt Island Tramway
+NY RIT Man RooIsl
+
+
+
+# North Carolina
+# Charlotte
+# Amtrak
+NC CN Cha Sal
+NC CR SC/NC Sal
+NC PI Cha Sal
+
+# LYNX
+NC BluLn I-485 UNCChaMain
+NC GolLn FreSt SunAve
+
+
+# Raleigh
+# Amtrak
+NC CN Bur SelSmi
+NC FL +SKIP_SelSmi SouPin
+NC PI Bur Ral
+
+
+
+# Ohio
+# Cincinnati
+# Amtrak
+OH CA IN/OH OH/KY
+
+# Connector
+OH Con Ban_E Ban_W
+
+
+
+# Cleveland
+# Amtrak
+OH FL San All
+OH LSBos San OH/PA
+OH LSNew San OH/PA
+
+# RTA Heavy Rail
+OH RedLn Air StoWin
+
+# RTA Light Rail
+OH BlueLn SHar WarVanAken
+OH GreLn SHar GreRd
+
+
+
+# Oregon
+# Portland
+# Amtrak
+OR AC *Woo OR/WA
+OR CS +SKIP_Woo OR/WA
+OR EBPor PorUniSta OR/WA
+
+# MAX Light Rail
+OR BlueLn HatGovCen CleAve
+OR GreLn PSUSou ClaTownCen
+OR OraLn UniStaGliSt Park
+OR RedLn HilAirFai PorIntAir
+OR YelLn PSUSou ExpoCen
+
+# Streetcar
+OR ALp 9thLov_N 9thLov_S
+OR BLp 11thMar_S 11thMar_N
+OR NSLn LowBond Joh_N
+
+# Willamette Shore Trolley
+OR WilShoTro LakeOsw End
+
+
+
+# Pennsylvania
+# Philadelphia
+# Amtrak
+PA AE DE/PA PA/NJ
+PA CA DE/PA PA/NJ
+PA CN DE/PA PA/NJ
+PA CR DE/PA PA/NJ
+PA KS +SKIP_Tho PA/NJ
+PA NENew DE/PA PA/NJ
+PA NENor DE/PA PA/NJ
+PA NERoa DE/PA PA/NJ
+PA NESpr DE/PA PA/NJ
+PA PL DE/PA PA/NJ
+PA PA +SKIP_Tho PA/NJ
+PA SM DE/PA PA/NJ
+PA VT DE/PA PA/NJ
+
+# NJ Transit Rail
+PA AtlCityLn Phi30thSt PA/NJ
+
+# SEPTA Regional Rail
+PA AirLn PHLTerEF Phi30thSt
+PA CHELn Phi30thSt CheHillE
+PA CHWLn Phi30thSt CheHillW
+PA CynLn Cyn Phi30thSt
+PA FoxChaLn Phi30thSt FoxCha
+PA LanDoyLn Phi30thSt Doy
+PA ManNorLn Phi30thSt ElmSt
+PA MedWawLn Wawa Phi30thSt
+PA PaoThoLn Tho Phi30thSt
+PA TreLn Phi30thSt PA/NJ
+PA WarLn Phi30thSt War
+PA WilNewLn DE/PA Phi30thSt
+PA WTreLn Phi30thSt PA/NJ
+
+# PATCO Speedline
+PA PATCO 15th16thLoc PA/NJ
+
+# SEPTA rapid transit
+PA B1 Pat FernRock
+PA B2 WalLoc Oln
+PA B3 8thMar FernRock
+PA L1 69th Fra
+PA M1 69th Nor
+
+# SEPTA Trolleys
+PA D1 OraSt 69thStTC
+PA D2 ShaHill 69thStTC
+PA G1 63rd Del
+PA G1Wes 63rd Wes
+PA T1 Mal 13th
+PA T2 61st 13th
+PA T3 DarTC 13th
+PA T4 DarTC 13th
+PA T5 Suf 13th
+
+
+# Pittsburgh
+# Amtrak
+PA FL OH/PA Con
+PA PA PitUni Gre
+
+# Light Rail (The T)
+PA BlueLn All SouHilVlg
+PA RedLn All SouHilVlg
+PA SilLn All Lib
+
+# Incline Railways
+PA Duq Low Upp
+PA Mon Low Upp
+
+
+
+# Tennessee
+# Nashville
+# WeGo Star
+TN Star Riv Leb
+
+
+
+# Texas
+# Austin
+# Amtrak
+TX TX +DIV_Sun +DIV_Tem
+
+# CapMetro Rail
+TX CapMetRail Lea Dow
+
+
+# Dallas
+# Amtrak
+TX HF FortWorCen Gai
+TX TX Cle Min
+
+# Denton County Transportation Authority
+TX ATra TriMil DowDen
+
+# Dallas/Fort Worth Commuter Railroads
+TX TEXRail FortWorTP DFWAirTerB
+TX TriRaiExp FortWorTP DalUni
+TX SilLn ShiRd DFWAirTerB
+
+# DART Light Rail
+TX BlueLn UNTDal DowRow
+TX GreLn NCarFra Buc
+TX OraLn DFWAir LBJCen
+TX RedLn Wes ParRd
+
+# Airside Airport Rail Systems
+TX Sky A8 A21
+
+# Streetcar
+TX DalStr BisArts Uni
+
+# McKinney Avenue Transit Authority
+TX MLnTro Upt_W Upt_E
+
+
+# Houston
+# Amtrak
+TX SL *Ros Bea
+
+# METRORail
+TX GreLnHou TheDis MagPkTC
+TX PurLnHou TheDis PalmCenTC
+TX RedLnHou FanS NorTC
+
+# Landside Airport Rail Systems
+TX IAHSub TerA TerD/E
+
+# Airside Airport Rail Systems
+TX IAHSky TerA TerDE
+
+
+
+# Utah
+# Salt Lake City
+# Amtrak
+UT CZ NV/UT Hel
+
+# UTA FrontRunner
+UT FroRun ProCen Lay
+
+# UTA TRAX
+UT RedLn DayPkwy UniMedCen
+UT BlueLn DraTownCen SaltLakeCen
+UT GreLn WestValCen Air
+
+# UTA S-Line
+UT SLn CenPoi Fai
+
+
+
+# Virginia
+# Washington DC
+# Amtrak
+VA AZ +SKIP_Bro LorAutoTra
+VA CA Cul VA/DC
+VA CN +SKIP_Bro VA/DC
+VA CR Cul VA/DC
+VA FL DC/VA +SKIP_Bro
+VA NENew +SKIP_Bro VA/DC
+VA NENor +SKIP_Bro VA/DC
+VA NERoa Cul VA/DC
+VA PL +SKIP_Bro VA/DC
+VA SM +SKIP_Bro VA/DC
+
+# Virginia Railway Express
+VA FreLn Bro VA/DC
+VA ManLn BroRun VA/DC
+
+# Metro
+VA BluLn FraSpr VA/DC
+VA OraLn VieFaiGMU VA/DC
+VA SilLn Ash VA/DC
+VA SilLnNew Ash VA/DC
+VA YelLn Hun VA/DC
+
+# Airside Airport Rail Systems
+VA AerTrn ConB ConCD
+
+
+
+# Washington
+# Portland
+# Amtrak
+WA AC OR/WA KelLon
+WA CS OR/WA KelLon
+WA EBPor OR/WA BinWhiSal
+
+
+# Seattle
+# Amtrak
+WA AC +DIV_PDS Sta
+WA CS +DIV_PDS SeaKingSt
+WA EBSea SeaKingSt Lea
+
+# Sounder
+WA N Eve Sea
+WA S Sea Lak
+
+# Sound Transit Light Rail
+WA 1 Lyn FedWayDow
+WA 2 Lyn DowRed
+WA T TacDome StJos
+
+# Airside Airport Rail Systems
+WA GreLn DGat_Sta DGat_Fin
+WA YelLn AGat DGat
+WA BlueLn AGat_Sta AGat_Fin
+
+# Center Monorail
+WA SeaCenMon SeaCen WesCen
+
+# Streetcars
+WA 1stHillLn BroDen OccMall
+WA SouLakeUniLn FaiCamDr WesHub
+
+
+
+# Wisconsin
+# Milwaukee
+# Amtrak
+WI BO IL/WI Col
+WI EBPor Col WI/IL
+WI EBSea Col WI/IL
+WI HI IL/WI Mil
+
+# Hop
+WI HopLLn His3rdWard CityHall
+WI HopMLn Int BurCom
