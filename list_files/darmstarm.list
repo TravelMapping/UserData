@@ -113,11 +113,11 @@ PA US15 PA61/147 PA/NY #canada trip 6-26
 PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
 PA US22 PA248 PA33 #poughkeepsie -> home 7-19-26
-PA US22 PA987 PA737 #AT -> oxford 10-26
+PA US22 PA987 I-78(40) #AT -> oxford 10-26
 PA US30 PA41 US15 #gap to gettysburg
 PA US30 PA41 PA10 #"the shed adventure" 7-26
 PA US30 PA82 US202 #KOP -> Home 10-26
-PA US30 PA113 #oxford -> AT 10-26
+PA US30 PA10 PA113 #oxford -> AT 10-26
 PA US30BusDow PA82_S PA340 #road trip 10-2-26
 PA US62 US6Bus_E PA/NY
 PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
