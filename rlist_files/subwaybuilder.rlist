@@ -810,6 +810,208 @@ JPN NambokuLnSen N17 N01
 JPN TozaiLnSen T01 T13
 
 
+# Tokyo
+# JR Shinkansen Lines
+JPN TokaidoShin Tokyo Odawara
+JPN TohokuShin Tokyo Omiya
+
+# JR Shinkansen Services
+JPN AsamaShin Tokyo Omiya
+JPN HakutakaShin Tokyo Omiya
+JPN HayabusaShin Tokyo Omiya
+JPN HikariShin Tokyo Odawara
+JPN KagayakiShin Tokyo Omiya
+JPN KodamaShin Tokyo Odawara
+JPN KomachiShin Tokyo Omiya
+JPN NasunoShin Tokyo Omiya
+JPN NozomiShin Tokyo +SKIP_Odawara
+JPN TanigawaShin Tokyo Omiya
+JPN TokiShin Tokyo Omiya
+JPN TsubasaShin Tokyo Omiya
+JPN YamabikoShin Tokyo Omiya
+
+# JR East
+JPN ChuoLnE JC24 JC25
+JPN ChuoRapidLn JC01 JC24
+JPN ChuoSobuLn JB01 JB39
+JPN HachikoKawagoe Komagawa Hachioji
+JPN ItsukaichiLn JC55 JC86
+JPN JobanLn JT03 JJ10
+JPN JobanLnLoc JL19 JL32
+JPN JobanLnRap JT03 JJ10
+JPN KeihinTohokuLn JK46 JK01
+JPN KeiyoLn JE01 Soga
+JPN MusashinoLn JM35 JE01
+JPN MusashinoLnMa JM35 JE14
+JPN MusashinoLnMus JS24 JC24
+JPN MusashinoLnShi +SKIP_JU06 JE14
+JPN NambuLn JN01 JN26
+JPN NambuHamaLn JN02 JN54
+JPN NaritaLn JO28 JO34
+JPN NaritaAbikoLn Abiko Kobayashi
+JPN NaritaAptLn JO28 JO34
+JPN OmeLn JC19 JC67
+JPN SagamiLn Chigasaki Hashimoto
+JPN SaikyoLn JA25 JA08
+JPN ShonanShinjukuLn +SKIP_JU06 JS06
+JPN SobuMainLn JO28 Enokido
+JPN SotoboLn Chiba Toke
+JPN SotetsuJRLn JA08 SO51
+JPN TokaidoLnE JT01 JT11
+JPN TsurumiLn JI01 JI10
+JPN TsurumiLnShi JI01 JI52
+JPN TsurumiLnOka JI01 JI61
+JPN UchiboLn Chiba Yawata
+JPN UenoTokyoLn JU06 JT07
+JPN UtsunomiyaLn JU06 JU01
+JPN YamanoteLn JY24_A JY24_B
+JPN YokohamaLn JH32 JK11
+JPN YokosukaSobuLn JO28 JO01
+
+# JR East Limited Express
+JPN AkagiLtdShn Shinjuku +SKIP_JU06
+JPN AkagiLtdUen +SKIP_JU06 Ueno
+JPN AzusaLtdChi JO28 +SKIP_JC25
+JPN AzusaLtdTok Tokyo +SKIP_JC25
+JPN HitachiLtd Shinagawa JJ10
+JPN KamakuraLtd JM19 JO07
+JPN KinugawaLtd Shinjuku +SKIP_JU06
+JPN KusatsuLtd +SKIP_JU06 Ueno
+JPN NarExpO +SKIP_JO34 Ofuna
+JPN NarExpShn +SKIP_JO34 Shinjuku
+JPN ShonanLtd JS20 JT11
+JPN SpaciaNikkoLtd Shinjuku +SKIP_JU06
+
+# JR West Limited Express
+JPN SunriseIzumoLtd Tokyo +SKIP_JT11
+JPN SunriseSetoLtd Tokyo +SKIP_JT11
+
+# Keio Railway
+JPN DobutsuenLn KO29 KO47
+JPN InokashiraLn IN01 IN17
+JPN KeibajoLn KO23 KO46
+JPN KeioMainLn KO01 KO34
+JPN KeioNewLn KO01 KO04
+JPN SagamiharaLn KO18 KO45
+JPN TakaoLn KO33 KO53
+
+# Keikyu Railway
+JPN KeikyuAirportLn KK11 KK17
+JPN KeikyuDaishiLn KK20 KK26
+JPN KurihamaLn KK61 KK72
+JPN KeikyuMainLn A07 KK64
+JPN ZushiLn KK50 KK53
+
+# Keisei Railway
+JPN Skyliner KS01 +SKIP_KS43
+JPN AccExpHan KK17 KS43
+JPN AccExpUe KS01 KS43
+JPN Morningliner KS01 +SKIP_KS37
+JPN ChibaLn KS26 KS60
+JPN ChiharaLn KS60 KS65
+JPN HokusoLn KS10 HS14
+JPN KanamachiLn KS10 KS51
+JPN KeiNarAptLn KS10 KS43
+JPN KeiseiMainLn KS01 KS37
+JPN OshiageLn KS45 KS09
+JPN ShinKeiseiLn SL01 SL24
+
+# Odakyu Railway
+JPN OdkEnoshimaLn OH28 OE16
+JPN OdkOdawaraLn OH01 OH34
+JPN OdkTamaLn OH23 OT07
+
+# Seibu Railway
+JPN HaijimaLn SS19 SS36
+JPN IkebukuroLn SI01 SI29
+JPN KokubunjiLn SK01 SK05
+JPN SayamaLn SI18 SI41
+JPN SeibuenLn SK05 SK06
+JPN SeibuShinjukuLn SS01 SS28
+JPN TamagawaLn SW01 SW06
+JPN TamakoLn ST01 ST07
+JPN ToshimaLn SI06 SI39
+JPN SeibuYurakuchoLn SI06 SI37
+
+# Sotetsu Railway
+JPN IzuminoLn SO10 SO37
+JPN SotetsuMainLn SO01 SO18
+JPN ShinYokoLn SO08 SO52
+
+# Tobu Railway
+JPN TobuDaishiLn TS13 TS51
+JPN KameidoLn TS04 TS44
+JPN SkytreeLn TS01 TS25
+JPN SkytreeLnO TS03 TS25
+JPN TojoLn TJ01 TJ20
+JPN UrbanParkLn TD13 TD35
+JPN TobuKegon TS01 +SKIP_TS25
+
+# Tokyu Railway
+JPN DenentoshiLn DT01 DT27
+JPN IkegamiLn IK01 IK15
+JPN KodomonokuniLn KD01 KD03
+JPN MeguroLn MG01 TY13
+JPN OimachiLn OM01 OM16
+JPN TokyuShinYokoLn SH01 SH03
+JPN TokyuTamagawaLn TM01 TM07
+JPN ToyokoLn TY01 TY21
+
+# East Honshu Single Line Private Railways
+JPN NagareyamaLn RN1 RN6
+JPN ToyoRapidLn TR01 TR09
+JPN TsukubaExpress TX01 TX15
+JPN RinkaiLn R01 R08
+JPN SaitamaRapidLn SR19 SR26
+
+# Metro & Toei Subway
+JPN GinzaLn G01 G19
+JPN MarunouchiLn M01 M25
+JPN MarunouchiLnHo Mb03 M06
+JPN HibiyaLn H01 H22
+JPN TozaiLnTo T01 T23
+JPN ChiyodaLn C01 C20
+JPN YurakuchoLn Y01 Y24
+JPN HanzomonLn Z01 Z14
+JPN NambokuLnTo N01 N19
+JPN FukutoshinLn F01 F16
+JPN AsakusaLn A01 A20
+JPN MitaLn I01 I27
+JPN ShinjukuLn S01 S21
+JPN OedoLn E28_A E38
+
+# Municipal Subway
+JPN YokoBlueLn B01 B32
+JPN YokoGreenLn G01 G10
+JPN MinatoMiraiLn MM01 MM06
+
+# Monorails
+JPN ChiMon1 CM01 CM18
+JPN ChiMon2 CM01 CM15
+JPN DisMon Gateway_A Gateway_B
+JPN ShoMon SMR1 SMR8
+JPN TamaMon TT19 TT01
+JPN TokMon MO01 MO11
+
+# Automated Guideway Transit
+JPN NipporiLn NT01 NT13
+JPN SeasideLn 1 14
+JPN SeibuYamaguchiLn SY01 SY03
+JPN YukarigaokaLn Yukari_A Yukari_B
+JPN YurikamomeLn U01 U16
+
+# Enoshima Electric Railway (Enoden)
+JPN EnodenLn EN01 EN15
+
+# Trams
+JPN ArakuraLn SA01 SA30
+JPN SetagayaLn SG01 SG10
+
+# Funiculars
+JPN TakaoFn Kiyotaki Takao
+
+
+
 
 # New Zealand
 # Auckland
