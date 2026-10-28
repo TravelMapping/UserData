@@ -262,12 +262,12 @@ AR I-40 153B 155
 AR I-40 277 279B
 AR I-40 280 AR/TN
 AR I-440 I-30/530 11
-AR AR440 11 12
+AR I-440 11 12
 AR I-49Tex 26 29B
 AR I-49Tex 29B 31
 AR I-49 62 88
-AR US67 I-40(155) MainSt
-AR US67 AR161 AR5/321
+AR I-57 I-40 9
+AR I-57 11 16
 
 
 AZ I-10 112 164
@@ -562,6 +562,7 @@ IA US218 180 IA57/58
 
 
 ID I-84 29 57
+ID I-84 168 173
 ID I-184 0 US20/26
 ID US20 I-184 13thSt
 
@@ -583,7 +584,7 @@ IL I-74 IA/IL 3
 IL I-74 89 93
 IL I-74 94 95B #even though it's short, the west end at 94 is clearly 6 thru lanes, not exit/entrance lanes
 IL I-74 99 102
-IL I-80 137 155
+IL I-80 133 155
 IL I-80 155 IL/IN
 IL I-88 113 139
 IL I-90 WI/IL 17
@@ -896,13 +897,13 @@ MT I-90 450 452
 
 
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
-NC I-26 31 33 #construction from 33 to 37
-NC I-26 37 49
+NC I-26 31 49
 NC I-40 44 46
 NC I-40 66 72 #westbound doesn't quite make it to 66
 NC I-40 150 154
 NC I-40 180 188
 NC I-40 188 196
+NC I-40 198 201
 NC I-40 206 259 #very brief 4 lane between the ramps at 219 and 220, but in the "wrong" order; ditto westbound with 222 and 223
 NC I-40 270 301
 NC I-40 301 312A
@@ -915,7 +916,7 @@ NC NC540 36 1
 NC I-840 103(73) 14
 NC I-73 95 103
 NC I-73 103 107
-NC NC74 41 53
+NC I-74Hig 41 56
 NC I-74Hig 67 71B
 NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
 NC I-77 49B 51
@@ -924,7 +925,7 @@ NC I-277 2B 5
 NC I-85 10A 163
 NC I-85 172 178
 NC I-485 30 41
-NC I-485 59 I-85(48) #construction from 51 to 59
+NC I-485 51 I-85(48) #there are 2 free local and 1 toll express lane in each direction from 51 to 57
 NC NC885 1 5
 NC I-885 9 10
 NC I-885 10 13
@@ -1390,7 +1391,7 @@ TN I-40 AR/TN 1
 TN I-40 1 1E
 TN I-40 1E 12B
 TN I-40 12B 18
-TN I-40 80 87 #construction from 79 to 80
+TN I-40 79 87
 TN I-40 196 208
 TN I-40 208 210
 TN I-40 210 211
