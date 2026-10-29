@@ -13,6 +13,7 @@ MA FitLn Con BosNor
 NY HarLn Was GraCen
 NY F JayStMetTech 57St
 
+NV RedLn Ter3 DGat
 
 OR AC OR/WA Alb
 
@@ -22,6 +23,12 @@ VA YelLn RRWasNatAir VA/DC
 
 WA AC OR/WA SeaKingSt
 
+DEU-BY S8 FlugHafMun OstBf
+DEU-BY S2 OstBf HbF
+DEU-BY 16Mun ParStr RomPla
+DEU-BY 17Mun AmaBurgStr ReiBachStr
+DEU-BY RB6 +SKIP_StaBerg GarPar
+DEU-BY RB64 GarPar Gra
 
 IRL CorkInt DubHeu CorkKent
 IRL TraInt Kil DubHeu
