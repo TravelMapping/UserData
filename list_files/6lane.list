@@ -2360,7 +2360,7 @@ POL S2 R9 R17 #may not be 6 lanes all the way between R12 and R14
 POL S3 44 45
 POL S6 56 57 #some of this west of 53 may be 6 lanes
 POL S7 65 67 #according to https://www.gov.pl/web/gddkia-warszawa/kolejny-odcinek-s7-na-poludnie-od-stolicy-oddany-do-ruchu
-POL S7EKr R9 R11
+POL S7 R9 R11
 POL S8 55 57
 POL S8 57 R10b
 POL S8 R9 R5d
