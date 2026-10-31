@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 10-25-26
+#everywhere that darmstarm has been up to 10-31-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 10-25-26.
+#last updated 10-31-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -706,7 +706,7 @@ NJ NJ50 NJ49 TucRd #ocean city trip 2025
 NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
-NJ NJ73 I-295 NJ70 #grandparents
+NJ NJ73 I-295 KreRd #grandparents
 NJ NJ94 PA/NJ CR521_N #oxford -> AT 10-26
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
