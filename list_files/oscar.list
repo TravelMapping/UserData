@@ -8055,6 +8055,7 @@ QC QC199 HavAub QuaiGraEnt
 QC QC201 QC202 A-20(17)
 QC QC202 QC201 QC133_S
 QC QC204 QC161 QC132
+# recheck for possible reaignment, somewhere between A-73 and St-Pamphile, that needs to be added to HB
 QC QC212 QC108 QC257
 QC QC216 QC255_N QC173_N
 QC QC217 MteeGuay QC104
