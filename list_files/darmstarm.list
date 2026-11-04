@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 11-03-26
+#everywhere that darmstarm has been up to 11-04-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 11-03-26.
+#last updated 11-04-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -744,6 +744,7 @@ VA US29 VA86 VA6_W #raleigh -> hershey
 VA US29 US33 I-64 #shanendoah trip 10-25
 VA US29BusChr US250Bus US29_N #uva track meet 4-26
 VA US33 VA280 US29 #shanendoah trip 10-25
+VA US50 I-66(57) VA286
 VA US52 VA/NC I-81(80) #spring break road trip 2026 (raleigh -> breaks)
 VA US58 I-95 I-664
 VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
@@ -773,6 +774,7 @@ VA VA10 VA156Bus_S I-95 #raleigh -> home easter 2026
 VA VA16 SR622 US58_W #BRR 9-25
 VA VA20 US15 I-64 #panorama farms
 VA VA27 I-395 BouDr #hershey trip 2025
+VA VA28 SR668 I-66
 VA VA30 SR652 US301/2 #thanksgiving return trip 2025
 VA VA36 BankSt SieRd #petersburg half 2024 (ran, not driven)
 VA VA36 US1/460Bus VA156Bus_N #raleigh -> home easter 2026
@@ -794,6 +796,7 @@ VA VA207 US301 I-95
 #VA VA253 I-81 university blvd #shanendoah trip 10-25
 VA VA267 18 9B #guatemala trip 6-26 (baltimore -> dulles)
 VA VA280 SR710 US33 #shanendoah trip 10-25
+VA VA286 US50 SR608
 VA VA294 US1 I-95 #home -> raleigh 4/26
 VA VA311 SR624 VA419 #shanendoah trip 10-25. north to dragon's tooth trailhead
 VA VA362 US58 GraHigSP #BRR 9-25
