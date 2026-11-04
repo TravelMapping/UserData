@@ -3341,6 +3341,7 @@ KY I-69 41 52 #030818 Wabash Bd Mtg
 KY I-69 68 79 #041219 Hamilton Annual Mtg
 KY I-69 79 106 #052726 Rural Bd Mtg 
 KY I-69 148 106 #031017 Wabash Bd Mtg
+KY I-71 1 KY/OH #110326 Findlay Trip
 KY I-71 9 185(75) #041019 Highland Bd Mtg
 KY I-75 TN/KY 11 #110317 Clinton TN Trip
 KY I-75 11 29 #051418 SCTC Bd Mtg
@@ -3349,6 +3350,7 @@ KY I-75 115 185 #081021 Forvis Mtg
 KY I-165 70 1 #021717 George Roger NM
 KY I-169 34 6 #031017 Ft. Donaldson NM
 KY I-169 1 6 #050417 Pennyrile Coop Visit
+KY I-264 0 23 #110326 Findlay Trip
 KY I-275 OH/KY 84 #041219 Highland to Hamilton
 KY I-275 84 KY/IN #081021 Forvis Mtg
 KY US23 VA/KY US460_W #06182020 Return from SCTC  
@@ -4655,7 +4657,9 @@ NY NY440 10 NY/NJ #Living in NJ
 NY BeltPkwy I-278 20 #Living in NY
 NY FDRDr 12 17 #Living in NY
 OH I-70 IN/OH 155 #08032021 Trip to Spruce
-OH I-71 220 KY/OH #Nigara Falls Trip  
+OH I-71 220 KY/OH #Nigara Falls Trip
+OH I-75 KY/OH 159 #110326 Findlay Trip
+OH I-75BLFin I-75_S I-75_N #110326 Findlay Trip  
 OH I-77 WV/OH 65 #08142020 Millersburg Trip
 OH I-90 OH/PA 188 #Nigara Falls Trip
 OH I-271 I-90 1 #Nigara Falls Trip  
@@ -4668,7 +4672,9 @@ OH US36 I-77 OH83_N #08142020 Millersburg Trip
 OH US50 OH/WV OH32_W #04112019 Return from Spruce
 OH US52 US23 OH/WV #04102019 Trip to Spruce
 OH OH7 I-470 US22(244A) #04132018 Return to Pitt Airport
+OH OH12 I-75 I-75BL_N #110326 Findlay Trip 
 OH OH32 US50_W I-275 #04112019 Return from Spruce
+OH OH37 US224 BlaSt_S #110326 Findlay Trip
 OH OH39 OH241 OH3/60 #08142020 Millersburg Trip
 OH OH60 OH3/39 US30 #08142020 Millersburg Trip
 OH OH60 I-70 OH339_S #08032021 Spruce Trip 
