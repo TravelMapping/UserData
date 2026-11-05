@@ -1,7 +1,6 @@
-#everywhere that darmstarm has been up to 11-04-26
+#everywhere that darmstarm has been up to 11-05-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 11-04-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -793,6 +792,7 @@ VA VA144 I-95 US1/301_S #hershey trip 2025
 VA VA151 VA6_E US250 #raleigh -> hershey 2024
 VA VA156BusHop VA36_W VA10_W #raleigh -> home easter 2026
 VA VA207 US301 I-95
+VA VA236 VA401 I-495
 #VA VA253 I-81 university blvd #shanendoah trip 10-25
 VA VA267 18 9B #guatemala trip 6-26 (baltimore -> dulles)
 VA VA280 SR710 US33 #shanendoah trip 10-25
@@ -800,6 +800,7 @@ VA VA286 US50 SR608
 VA VA294 US1 I-95 #home -> raleigh 4/26
 VA VA311 SR624 VA419 #shanendoah trip 10-25. north to dragon's tooth trailhead
 VA VA362 US58 GraHigSP #BRR 9-25
+VA VA401 EdsRd VA236
 VA VA419 VA311 I-81 #shanendoah trip 10-25
 #west virginia
 WV I-64 KY/WV 85(77) #spring break road trip 2026 (shawnee -> blacksburg)
