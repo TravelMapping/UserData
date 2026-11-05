@@ -12,7 +12,7 @@
 #As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow. Save myself some data lines and let the site grab the concurrency. 
 #For example, in the I-70 mountain corridor, I have listed both I-70 and US 40. 
 #Even though I-70 leads the concurrency, I drove from WP to the Wooly Mammoth lot trying to follow US 40. 
-#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! 
+#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! There may be occasional instances where I don't grandfather myself in, such as when I-81 was rerouted around Syracuse. 
 
 #In general, if I didn't make it to the next waypoint, I'm not going to include that section.  It should be noted in my spreadsheet where my endpoint is.  
 
@@ -322,7 +322,7 @@ NY I-90 PA/NY 36(NYST)
 NY I-90 25A(NYST) 1
 
 NY I-81 PA/NY 5A
-NY I-81 25A 48A
+NY I-81 96 162
 NY I-86 PA/NY 21
 NY I-87 24(NYST) 21
 NY I-88 I-81 I-90
@@ -473,7 +473,8 @@ VT I-189 I-89 US7
 VT US2 NY/VT VT2A_Wil
 VT US2 I-89(11) VT100_S
 VT US4 NY/VT US7_N
-VT US7 US4_W WMilRd
+VT US7 US4_W I-89(18)
+VT US7AltBur PeaSt US7_N
 
 #State routes too, why not. 
 
@@ -481,10 +482,10 @@ VT VT2A VT116 US2
 VT VT2A SusWilByp VT289
 VT VT12 ElmPondRd VT15A #technically turned off at the state park entrance, but this waypoint maps our route more closely. 
 VT VT15 US2_W VT100_N
+VT VT17 NY/VT VT22A
 VT VT22A US4 US7
 VT VT30 HorRd US7_N
-VT VT100 LinGapRd US2_W
-VT VT100 I-89 VT15A
+VT VT100 LinGapRd VT15A
 VT VT104 VT15 VT104A
 VT VT104A US7 VT104
 VT VT108 VT100 VT15
@@ -524,6 +525,15 @@ WI I-535 US53 WI/MN
 
 WI US2 MN/WI WI/MI
 WI US53 84 WI/MN
+
+
+
+#CANADA
+#Highway systems in Canada appear to vary by province. 
+
+#QUEBEC
+
+#Provincial routes cover a wide variety of roads, like state routes, and don't seem to be part of a historical system the way US highways are. I'm inclined to highlight these in green on my spreadsheet to reflect the green shield colors, but would not exhaustively track these the way I do US Interstates and US Highways. 
 
 
 

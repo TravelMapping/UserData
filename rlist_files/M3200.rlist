@@ -72,7 +72,6 @@ CO BLn UniSta Wes
 CO BroManPikPeakCR Man PikPeak
 CO CumTolSR NM/CO Osi
 CO CZ UT/CO UniSta
-CO DLn LitMin Loop
 CO DurSilNGR Dur Sil
 CO Eln Lin UniSta
 CO GeoLoopRai DevGat SilPlu
@@ -83,7 +82,8 @@ CO RLn Lin Peo
 CO RoyGorRou CanCity Par
 CO WLn JefCouGovCenGol UniSta
 CO DENTrn JepTer CGat
-CO CLn LitDow UniSta
+CO CLn LitMin UniSta
+CO HLn Flo 16thSto
 
 #CT
 
@@ -106,8 +106,11 @@ DC FreLn VA/DC WasUniSta
 DC ManLn VA/DC WasUniSta
 DC OraLn VA/DC DC/MD
 DC PennLn WasUniSta DC/MD
-DC RedLn MetCen DC/MD
+DC RedLn MD/DC DC/MD
 DC YelLn VA/DC Arc
+DC GreLn LEnfPla DC/MD
+DC SilLnNew LEnfPla DC/MD
+DC FreBra WasUniSta DC/MD
 
 #FL
 
@@ -158,6 +161,10 @@ MD CR DC/MD MD/DE
 MD OraLn DC/MD NewCar
 MD PennLn DC/MD BWIAir
 MD RedLn ShaGro MD/DC
+MD FreBra DC/MD Fre
+MD RedLnGle DC/MD Gle
+MD GreLn DC/MD Gre
+MD SilLnNew DC/MD NewCar
 
 #MA
 
@@ -251,7 +258,7 @@ OR WilShoTro LakeOsw End
 #PA
 
 PA AE DE/PA PA/NJ
-PA AirLn PHLTerB Phi30thSt
+PA AirLn PHLTerEF Phi30thSt
 PA AtlCityLn Phi30thSt PA/NJ
 PA BlueLn All WasJct
 PA CHELn Phi30thSt CheHillE
