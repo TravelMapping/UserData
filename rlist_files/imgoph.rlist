@@ -7,8 +7,12 @@ MB Can ON/MB MB/SK
 NB Oce QC/NB NB/NS
 NS Oce NB/NS Hal
 ON Can TorUni ON/MB
-ON 1 StGeo Uni
+ON 1 StGeo Dun
+ON 501 AugAve YorkSt
+ON 505 SpaAve YonSt
+ON 506 BatSt BaySt
 ON 510 NasSt BreBlvd
+ON 510 ReesSt UniSta
 ON UP PeaAir Uni
 QC Oce Mon QC/NB
 QC BluLn Sno JeaTal
