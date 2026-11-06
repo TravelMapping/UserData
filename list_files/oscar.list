@@ -8011,7 +8011,7 @@ QC QC112 A-610 A-73
 QC QC116 1 9
 QC QC116 QC224 RueStEph
 QC QC116 RueStEph RueBon
-# add RueBon point in Axton Vale for construction detour
+# add new RueBon point in Acton Vale for construction detour
 QC QC116 QC255_N RueHotVil
 QC QC117 A-15/40 RueStFau
 QC QC117 RueStJos QC/ON
@@ -8027,7 +8027,7 @@ QC QC137 QC112 QC133
 QC QC138Mon USA/CAN RivSagFry
 QC QC138 RivSagFry ChJacCar
 QC QC138Bla End QC/NL
-QC QC139 QC202 7eRang
+QC QC139 QC202 QC116_W
 QC QC141 A-55 QC147_N
 QC QC143 USA/CAN QC247
 QC QC143 QC122_E A-20(175)
