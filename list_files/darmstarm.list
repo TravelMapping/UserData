@@ -723,6 +723,7 @@ VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
 VA I-64 118 121 #fall break trip 10-25
 VA I-66 6 64 #shanendoah trip 2020 (return trip)
+VA I-66 1 6 #dc -> charleston 11-26
 VA I-77 NC/VA VA/WV #completed with BRR 9-25
 VA I-81 TN/VA VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2, shawnee -> blacksburg (clinched spring break trip 2026)
 VA I-85 NC/VA 68
@@ -743,6 +744,7 @@ VA US29 VA86 VA6_W #raleigh -> hershey
 VA US29 US33 I-64 #shanendoah trip 10-25
 VA US29BusChr US250Bus US29_N #uva track meet 4-26
 VA US33 VA280 US29 #shanendoah trip 10-25
+VA US48 I-81 WV/VA #dc -> charleston 11-26
 VA US50 I-66(57) VA286
 VA US52 VA/NC I-81(80) #spring break road trip 2026 (raleigh -> breaks)
 VA US58 I-95 I-664
@@ -810,19 +812,26 @@ WV I-77 VA/WV 7 #BRR 9-25
 WV I-77 9 28 #shanendoah 10-25
 WV I-77 79 60 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-77 54 40 #spring break road trip 2026 (shawnee -> blacksburg)
+WV I-77 104 101 #dc -> charleston 11-26
+WV I-79 99 I-77 #dc -> charleston 11-26
 WV I-81 VA/WV WV/MD #college to hershey park
 #WV US19 US460_E GreenValleyRd #BRR 9-25
 WV US19 I-77 EBecByp #shanendoah 10-25
 WV US19 US19Byp_N CR85/9 #shandneoah 10-25 (new river national park)
 WV US19BypBec JerAve US19_N #shanendoah 10-25
+WV US48 WV/VA I-79 #dc -> charleston 11-26
 WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
+WV US60 US119 BroSt #dc -> charleston 11-26
 WV US119 CR857_N ColAve #WVU tour
+WV US119 US60 ToWV61
 WV US340 WV/VA VA/WV #shanendoah trip 2020
 WV US460 12MileRd US19_N #BRR 9-25
 WV US460 WV/VA I-77 #shanendoah 10-25
 WV WV16 US19_Fay KingAve #shanendoah 10-25
 WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
+WV WV55 US48_W US220/28 #dc -> charleston 11-26
 WV WV61 QuiDockRd CR79/3 #spring break road trip 2026 (shawnee -> blacksburg)
+WV WV61 US119 ThaSt #dc -> charleston 11-26
 WV WV307 CR9/9 US19/3_N #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to paint creek rd)
 #alabama - first visited may 2025
