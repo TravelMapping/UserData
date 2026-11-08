@@ -1,4 +1,4 @@
-#everywhere that darmstarm has been up to 11-05-26
+#everywhere that darmstarm has been up to 11-08-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
 #USA
@@ -821,17 +821,19 @@ WV US19 US19Byp_N CR85/9 #shandneoah 10-25 (new river national park)
 WV US19BypBec JerAve US19_N #shanendoah 10-25
 WV US48 WV/VA I-79 #dc -> charleston 11-26
 WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
-WV US60 US119 BroSt #dc -> charleston 11-26
+WV US60 US119 WV16_S #dc -> charleston 11-26
 WV US119 CR857_N ColAve #WVU tour
 WV US119 US60 ToWV61
 WV US340 WV/VA VA/WV #shanendoah trip 2020
 WV US460 12MileRd US19_N #BRR 9-25
 WV US460 WV/VA I-77 #shanendoah 10-25
 WV WV16 US19_Fay KingAve #shanendoah 10-25
+WV WV16 US60_W US19_Fay #charleston -> new river forge 11-26
 WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
 WV WV55 US48_W US220/28 #dc -> charleston 11-26
 WV WV61 QuiDockRd CR79/3 #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV61 US119 ThaSt #dc -> charleston 11-26
+WV WV114 I-64/77 US60
 WV WV307 CR9/9 US19/3_N #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to paint creek rd)
 #alabama - first visited may 2025
