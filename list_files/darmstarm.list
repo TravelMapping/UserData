@@ -1,4 +1,4 @@
-#everywhere that darmstarm has been up to 11-08-26
+#everywhere that darmstarm has been up to 11-09-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
 #USA
@@ -297,6 +297,7 @@ MD MD24 MD136 MD165 #lock 12 trip 7-26
 MD MD41 I-695 JopRd #micro center
 MD MD43 I-695 US40
 MD MD45 MD145 TimRd #to christmas tree farm
+MD MD51 I-68 WV/MD #charleston -> home 11-26
 #MD MD85 I-270 Spectrum Drive #hershey trip 2025
 MD MD90 MD528 MD589 #rehoboth -> home 10-26 
 MD MD136 MD22 MD440 #guatemala trip 6-26 (baltimore -> home)
@@ -737,6 +738,7 @@ VA US1 I-85(63) VA142 #petersburg half 2024
 VA US1 NC/VA US460Bus_E #raleigh -> home easter 2026
 VA US11 I-81(73) VA80 #spring break road trip 2026 (raleigh -> breaks)
 VA US11 VA8 VA111_N #spring break road trip 2026 (shawnee -> blacksburg)
+VA US11 VA37_N I-81(317) #charleston -> dc 11-26
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US15BusFar US15_S US460Bus_E #panorama farms
@@ -767,8 +769,10 @@ VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US460BusChr US460_E US460_W #shanendoah trip 10-25, clinched spring break 2026
 VA US460BusPet US301_N VA36Trk_W #petersburg half 2024 (ran, not driven) -> went all the way to battersea lane
 VA US522 US340_S US340_N #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
+WV US522 VA127 VA37 #charleston -> dc 11-26
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
 VA VA7 I-495 VA267(16)
+VA VA7 I-81 IntDr #charleston -> home 11-26
 VA VA8 US58_E US11 #fall break trip 10-25, spring break trip 2026
 VA VA10 I-95 RivBendBlvd #raleigh -> home thanksgiving 2025
 VA VA10 VA156Bus_S I-95 #raleigh -> home easter 2026
@@ -780,6 +784,7 @@ VA VA30 SR652 US301/2 #thanksgiving return trip 2025
 VA VA36 BankSt SieRd #petersburg half 2024 (ran, not driven)
 VA VA36 US1/460Bus VA156Bus_N #raleigh -> home easter 2026
 VA VA36Bol BolSt_E US301_N #petersburg half 2024
+VA VA37 US522 US11_N #charleston -> dc 11-26
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25
@@ -790,6 +795,7 @@ VA VA86 NC/VA US29/58 #raleigh -> hershey 2024
 VA VA100 I-81(98) VA61 #raleigh -> blacksburg, shawnee -> blacksburg
 VA VA111 US11/460Bus US460Bus #spring break road trip 2026 (shawnee -> blacksburg)
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
+VA VA127 WV/VA US522 #charleston -> dc 11-26
 VA VA144 I-95 US1/301_S #hershey trip 2025
 VA VA151 VA6_E US250 #raleigh -> hershey 2024
 VA VA156BusHop VA36_W VA10_W #raleigh -> home easter 2026
@@ -808,12 +814,14 @@ VA VA419 VA311 I-81 #shanendoah trip 10-25
 WV I-64 KY/WV 85(77) #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-64 121 125 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-68 WV/MD 7 #WVU tour
+WV I-68 I-79 WV/MD #charleston -> dc 11-26
 WV I-77 VA/WV 7 #BRR 9-25
 WV I-77 9 28 #shanendoah 10-25
 WV I-77 79 60 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-77 54 40 #spring break road trip 2026 (shawnee -> blacksburg)
 WV I-77 104 101 #dc -> charleston 11-26
 WV I-79 99 I-77 #dc -> charleston 11-26
+WV I-79 99 148 #charleston -> dc 11-26
 WV I-81 VA/WV WV/MD #college to hershey park
 #WV US19 US460_E GreenValleyRd #BRR 9-25
 WV US19 I-77 EBecByp #shanendoah 10-25
@@ -821,19 +829,23 @@ WV US19 US19Byp_N CR85/9 #shandneoah 10-25 (new river national park)
 WV US19BypBec JerAve US19_N #shanendoah 10-25
 WV US48 WV/VA I-79 #dc -> charleston 11-26
 WV US52 WV/VA CR120 #BRR 9-25, went as far north as windmill gap rd
-WV US60 US119 WV16_S #dc -> charleston 11-26
+WV US60 US119 WV16_S #charleston 11-26
 WV US119 CR857_N ColAve #WVU tour
-WV US119 US60 ToWV61
+WV US119 US60 ToWV61 #charleston trip 11-26
 WV US340 WV/VA VA/WV #shanendoah trip 2020
 WV US460 12MileRd US19_N #BRR 9-25
 WV US460 WV/VA I-77 #shanendoah 10-25
+WV WV4 I-79(51) I-79(62) #charleston -> dc 11-26
+WV WV9 MD/WV WV29 #charleston -> dc 11-26
 WV WV16 US19_Fay KingAve #shanendoah 10-25
-WV WV16 US60_W US19_Fay #charleston -> new river forge 11-26
+WV WV16 US60_W US19_Fay #charleston -> new river gorge 11-26
+WV WV29 WV9 WV127 #charleston -> dc 11-26
 WV WV20 HarSchRd US52 #started south on maple acres rd. BRR 9-25
 WV WV55 US48_W US220/28 #dc -> charleston 11-26
 WV WV61 QuiDockRd CR79/3 #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV61 US119 ThaSt #dc -> charleston 11-26
-WV WV114 I-64/77 US60
+WV WV114 I-64/77 US60 #charleston 11-26
+WV WV127 WV29 WV/VA #charleston -> dc 11-26
 WV WV307 CR9/9 US19/3_N #spring break road trip 2026 (shawnee -> blacksburg)
 WV WV612 I-64/77 MilRd #spring break road trip 2026 (shawnee -> blacksburg) (to paint creek rd)
 #alabama - first visited may 2025
