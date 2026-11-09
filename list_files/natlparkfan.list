@@ -276,8 +276,7 @@ CA	US80HisSan	I-5	ZooDr
 CA	US91HisCor	CA91	SmiAve	#1994-11 San Diego
 CA	US95	GofRd	CA/NV	#2025-09 Great Basin
 CA	US97	I-5	CA/OR	#2005-06 Road Trip to Seattle
-CA	US99HisFer	ValBlvd	I-5(171)	
-CA	US99HisFer	VanNuysBlvd	TruSt_S	#2026-07 Vegas Reunion
+CA	US99HisFer	VanNuysBlvd	I-5(171)	
 CA	VLSBTul	CaveLpRd	HillRd_N	#2005-06 Road Trip to Seattle
 CA	WawRd	CA41	SouDr	#1997-06 San Francisco Yosemite_2012-08 Yosemite
 CO	CO109	CO109Trk	CO194	#2024-05 Wagons Ho
@@ -1143,7 +1142,7 @@ UT	UT13	I-15/84(365)	UT83	#2011-06 Ultimate Road Trip
 UT	UT130	I-15(62)	UT21	#2025-09 Great Basin
 UT	UT14	UT130	UT148	#2011-06 Ultimate Road Trip_2025-09 Great Basin
 UT	UT143	SugLoafRd	US89	#2011-06 Ultimate Road Trip_2025-09 Great Basin
-UT	UT148	UT143	UT14	#2011-06 Ultimate Road Trip_2025-09 Great Basin
+UT	UT148	UT14	CedBreNM	#2011-06 Ultimate Road Trip_2025-09 Great Basin
 UT	UT17	UT9	I-15	#2010-12 Zion
 UT	UT21	UT130	UT/NV	#2025-09 Great Basin
 UT	UT24	UT12	I-70	#2011-06 Ultimate Road Trip
@@ -1154,6 +1153,7 @@ UT	UT59	UT9	AZ/UT	#2019-03 To Instagram and Beyond
 UT	UT63	UT12	BryCanNP	#2011-06 Ultimate Road Trip
 UT	UT83	UT13	GolSpiDr	#2011-06 Ultimate Road Trip
 UT	UT9	I-15	ZionEEntr	#2010-12 Zion_2019-03 To Instagram and Beyond
+UT	WinRecRte	UT148	UT143	#2011-06 Ultimate Road Trip_2025-09 Great Basin
 UT	ZionCynDr	UT9	End	#2010-12 Zion
 VA	GWMemPkwy	DC/VA	I-495	#2022-10 NCI RAS Symposium_2024-10 Going to the DMV
 VA	GWMemPkwyCry	1stSt	VA/DC	#2024-10 Going to the DMV
