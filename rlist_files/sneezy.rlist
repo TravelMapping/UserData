@@ -83,6 +83,11 @@ FRA-PDL K12 NOR/PDL LeMans
 FRA-PDL 25PdL LeMans PDL/CVL
 GA GoldLn Air Mid
 GA PlaTrn DomTer DGat
+HKG AirExp Air HongKong
+HKG IslLn Cen SheWan
+HKG KTLn HoManTin LokFu
+HKG TMLn Aus KaiTak
+HKG TwLn Cen ShamShuiPo
 HUN M2 SzeKalTer DeakFerTer
 IL AirTraSys Ter1 MulModFac
 IL BlueLn OHa LaS
@@ -101,6 +106,7 @@ JPN NarExpO NarAirTer1 Tokyo
 JPN TokaidoShin Tokyo Kyoto
 LUX IC16 BEL/LUX LuxGareCen
 LUX T1 GareCen Ham
+MAC TaipaLn TerMar JocClu
 MD BLRLBWI BWIAir CamYds
 MI DetPeoMov Mic_S Mic_N
 MN BlueLine MallofAmerica TargetFieldPlatform1
@@ -135,6 +141,7 @@ SWE GotCop SWE/DNK LundCen
 TX Sky A8 A21
 TUR M1A Zey AtaHav
 TUR T1Ist Sul Zey
+TWN A A13 A8
 VA AerTrn ConB ConCD
 VA BluLn VA/DC KingStOldTown
 VA NERoa Lyn Ale

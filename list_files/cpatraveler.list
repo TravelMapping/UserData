@@ -3131,9 +3131,12 @@ IN I-65 KY/IN 114 #04272014 NRA Meeting
 IN I-65 114 123 #Return from Michigan Trip
 IN I-65 201 259B #Return from Michigan Trip 
 IN I-69 21 KenAve #03092017 Wabash Bd Mtg
+IN I-69 18A 53(465) #110726 Findlay Home
+IN I-69 44(465) 234 #110726 Findlay Home 
 IN I-69 296 200 #8152020 Return from Millersburg
 IN I-69 356 IN/MI #Trip to Michigan
 IN I-70 IL/IN 73 #02202018 Wabash to Indy Airport
+IN I-70 80 90 #110726 Findlay Home
 IN I-70 90 IN/OH #08032021 Trip to Spruce Knob
 IN I-70 73 80 #Trip to Airport
 IN I-74 39 IL/IN #8152020 Return from Millersburg
@@ -3161,13 +3164,16 @@ IN US231 IN64 I-64 #03082018 Wabash Bd Mtg
 IN US41BusVin US41/50 US41_S #02172017 Trip to Lincoln NM Finish Wabash
 IN IN1 US50 I-74 #08032021 BKD Seminar
 IN IN32 I-65 I-74 #8152020 Return from Millersburg 
-IN IN37 IN145 IN237_S #03082018 Wabash Bd Mtg 
+IN IN37 IN145 IN237_S #03082018 Wabash Bd Mtg
+IN IN57 US41 I-69(22) #110726 Findlay Home
+IN IN62 FulAve US41_N #110726 Findlay Home   
 IN IN64 IL/IN US231 #03082018 Wabash Bd Mtg
 IN IN64 IN337 IN66_E #03172019 Flat Rock Bd Mtg 
 IN IN65 I-64 IN66 #11272018 Return from Wabash Interim
 IN IN66 IN161_N I-69 #03092017 Wabash Bd Mtg
 IN IN66 IN65 US41_N #11272018 Return from Wabash Interim
 IN IN66 IN64_E US150 #03172019 Flat Rock Bd Mtg
+IN IN67 I-69(222) IN/OH #110726 Findlay Home
 IN IN68 US41 I-69 #03172019 Flat Rock Bd Mtg
 IN IN135 KY/IN IN337 #03172019 Flat Rock Bd Mtg
 IN IN145 I-64 IN37 #03082018 Wabash Bd Mtg
@@ -3176,6 +3182,8 @@ IN IN161 KY/IN IN66_W #03092017 Wabash Bd Mtg
 IN IN237 IN37 KY/IN #03082018 Wabash Bd Mtg
 IN IN265 IN/KY 7 #04112019 Highland to Wabash Mtg
 IN IN337 IN135 IN64 #03172019 Flat Rock Bd Mtg
+IN ORSB IN62_Eva I-69(0) #110726 Findlay Home
+IN VetMemPkwy US41 RivDr #110726 Findlay Home
 KS I-135 3A 95 #120625 NMCO Inv Return 
 KS I-235 7 16 #03042021 Return from SW to Butler
 KS I-335 127 177 #120725 KL Meeting
@@ -3739,10 +3747,13 @@ ME ME22 ME9_W ME77 #Telergee Trip
 ME ME77 ME22 US1Alt #Telergee Trip    
 ME ME100 I-295/1 ParkAve #Telergee Trip
 MI I-69 IN/MI 133 #Brian Wedding Trip
+MI I-75 OH/MI 2A #110526 River Raisin 
 MI I-75 117A USA/CAN #Brian Wedding Trip
 MI I-94 33 IN/MI #Brian Wedding Trip
+MI US24 OH/MI MI50 #110526 River Raisin 
 MI US31 I-75 27 #Brian Wedding Trip
 MI MI22 US31 MI72_W #Brian Wedding Trip
+MI MI125 US24Con_E LapRd #110526 River Raisin
 MI MI72 MI22_W MI22_E #Brian Wedding Trip   
 MN I-35Far 88A 13 #07222019 NTCA Regional Meeting
 MN I-35E 107A 99 #07222019 NTCA Regional Meeting
@@ -4659,36 +4670,60 @@ NY FDRDr 12 17 #Living in NY
 OH I-70 IN/OH 155 #08032021 Trip to Spruce
 OH I-71 220 KY/OH #Nigara Falls Trip
 OH I-75 KY/OH 159 #110326 Findlay Trip
+OH I-75 159 OH/MI #110526 River Raisin 
 OH I-75BLFin I-75_S I-75_N #110326 Findlay Trip  
 OH I-77 WV/OH 65 #08142020 Millersburg Trip
+OH I-80 59 81 #110526 River Raisin
+OH I-90 59 81 #110526 River Raisin 
 OH I-90 OH/PA 188 #Nigara Falls Trip
 OH I-271 I-90 1 #Nigara Falls Trip  
 OH I-275 63 OH/KY #04112019 Return from Spruce
 OH I-470 OH/WV 6 #04132018 Return to Pitt Airport
+OH I-475 4 20 #110526 River Raisin
+OH US6 OH2(131) US250 #110526 River Raisin 
+OH US20 US24 I-80/90 #110526 River Raisin
 OH US22 244A OH/WV #04132018 Return to Pitt Airport
 OH US23 KY/OH US52 #04102019 Trip to Spruce
 OH US23 OH53/67 OH15 #110426 Findlay Trip
+OH US24 68 US20 #110526 River Raisin
+OH US24 PhiAve OH/MI #110526 River Raisin
 OH US30 OH60 IN/OH #08142020 Millersburg Trip
 OH US36 I-77 OH83_N #08142020 Millersburg Trip
 OH US50 OH/WV OH32_W #04112019 Return from Spruce
 OH US52 US23 OH/WV #04102019 Trip to Spruce
 OH US68 OH103 I-75 #110426 Findlay Trip
+OH US127 OH29_W US224_E #110726 Findlay Home  
+OH US224 US30_E I-75 #110726 Findlay Home
+OH US224 I-75BL_S OH18 #110526 River Raisin
+OH US250 US6 OH2 #110526 River Raisin
+OH OH2 OH579 131 #110526 River Raisin
+OH OH2 133 138 #110526 River Raisin
 OH OH7 I-470 US22(244A) #04132018 Return to Pitt Airport
 OH OH12 OH235_S I-75 #110426 Findlay Trip
 OH OH12 I-75 I-75BL_N #110326 Findlay Trip
-OH OH15 US23 I-75(157) #110426 Findlay Trip   
+OH OH12 I-75BL_N OH12Trk_E #110626 Findlay Trip
+OH OH12TrkFin OH12_W OH12_E #110626 Findlay Trip
+OH OH15 US23 I-75(157) #110426 Findlay Trip
+OH OH18 US224 OH101_E #110526 River Raisin
+OH OH29 IN/OH US127_N #110726 Findlay Home   
 OH OH32 US50_W I-275 #04112019 Return from Spruce
 OH OH37 US224 BlaSt_S #110326 Findlay Trip
+OH OH37 BlaSt_S OH103_W #110626 Findlay Trip
 OH OH39 OH241 OH3/60 #08142020 Millersburg Trip
+OH OH51 I-80/90 OH579 #110526 River Raisin
 OH OH53 CraSt US23/30 #110426 Findlay Trip 
 OH OH60 OH3/39 US30 #08142020 Millersburg Trip
 OH OH60 I-70 OH339_S #08032021 Spruce Trip 
 OH OH83 US36_E US62_E #08142020 Millersburg Trip
+OH OH101 OH53 OH4 #110526 River Raisin
 OH OH103 OH235 US68 #110426 Findlay Trip
+OH OH103 US68 OH37_W #110626 Findlay Trip
 OH OH199 CraSt US23/103 #110426 Findlay Trip  
 OH OH235 OH103 OH12_E #110426 Findlay Trip 
 OH OH339 OH60_W US50 #08032021 Spruce Trip
 OH OH568 OH12 US23 #110426 Findlay Trip
+OH OH579 OH51 OH2 #110526 River Raisin
+OH OH698 OH103 CR313 #110626 Findlay Trip
 OH LinHwyAda OH53/67_N OH53/67 #110426 Findlay Trip
 OK I-35 TX/OK 31 #082325 Travel from CO Mtg
 OK I-35 31 126 #082225 Travel from CO Mtg
