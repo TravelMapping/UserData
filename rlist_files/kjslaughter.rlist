@@ -31,6 +31,7 @@ CA MuniF MaiDru Pier39Sto
 CA MuniN Irv8th9th PowSt
 CA MuniT King UniSqMar
 CA PowMas Mar Bay
+CA GreLn GasQua OldTownTC
 
 #District of Columbia
 DC BluLn FarW StaArm
@@ -78,7 +79,8 @@ NY R RecSt 34StHerSq
 
 #Pennsylvania
 PA AirLn Eas Phi30thSt
-PA MarFraLn 30th 5th
+PA B1 Pat CityHall
+PA L1 30th 2nd
 PA PITTrn LanTer AirTer
 
 #Tennessee

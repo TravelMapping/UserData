@@ -7,7 +7,10 @@ MI Wv IN/MI Pon
 IL OraLn Qui Roo
 
 #DART
+TX GreLn TriMil WEnd
 TX OraLn DFWAir MarCen
+TX RedLn AraCen WEnd
+TX SilLn Car Add
 
 #Detroit People Mover
 MI DetPeoMov Mic_S Mic_N
@@ -18,12 +21,17 @@ GA GreLn FivePoi KingMem
 GA OraLn PeaCen Air
 GA RedLn PeaCen Air
 
+#Metra
+IL BNSF Aur UniSta
+IL RI LaSSt Jol
+IL RISub LaSSt BlueIsl
+
 #Minnesota METRO
 MN BlueLine USBankStadium MSPTerminal1
 MN GreenLine GovernmentPlaza ProspectPark
 
 #United States Airport Rail Systems
-GA PlaTrn DomTer DGat
+GA PlaTrn DomTer EGat
 MI ExpTram NorSta SouSta
 MN MSPTram ConC ConAB
 TX Sky A8 A21
