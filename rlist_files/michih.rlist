@@ -2,6 +2,7 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-CT R4 Ter SabNord                                           #2026
 ESP-VC C3Ali SanVicCen AlaTer                                   #2026, actually traveled as regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
 #ESP-VC Regional train AlaTer ESP-MC Regional train MurCar      #2026 regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
 ESP-VC C1Ali AlaTer ESP-MC C1 MurCar                            #2026
@@ -1056,6 +1057,19 @@ ESP-AN T1 ArcInd LuisMor              #2026
 
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025
+
+#Barcelona
+ESP-CT S1 TerNacUni PlaCat            #2026
+ESP-CT S2 SabParcNord Sar             #2026
+ESP-CT L1 Glo HosBel                  #2026
+ESP-CT L3 Lic ZonaUni                 #2026
+ESP-CT L4 CiuVilaOli PasGra           #2026
+ESP-CT L5 HosCli CorCen               #2026
+ESP-CT L7 AviTib PlaCat               #2026
+ESP-CT L9S ZonaUni Tor                #2026
+ESP-CT L12 ReiEli Sar                 #2026
+ESP-CT T2 FraMac LlePla               #2026
+ESP-CT T5 Glo CiuVilaOli              #2026
 
 #Madrid
 ESP-MD C1 AerT4 Cha                   #2025
