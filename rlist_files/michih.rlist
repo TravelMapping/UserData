@@ -1062,13 +1062,16 @@ ESP-AR T1 AveAca MagoOz               #2025
 ESP-CT S1 TerNacUni PlaCat            #2026
 ESP-CT S2 SabParcNord Sar             #2026
 ESP-CT L1 Glo HosBel                  #2026
-ESP-CT L3 Lic ZonaUni                 #2026
-ESP-CT L4 CiuVilaOli PasGra           #2026
+ ESP-CT L2 Pau PasGra                 #2026
+ESP-CT L3 TriNova ZonaUni             #2026
+ESP-CT L4 Pau TriNova                 #2026
 ESP-CT L5 HosCli CorCen               #2026
 ESP-CT L7 AviTib PlaCat               #2026
 ESP-CT L9S ZonaUni Tor                #2026
+ESP-CT L11 CanCui TriNova             #2026
 ESP-CT L12 ReiEli Sar                 #2026
 ESP-CT T2 FraMac LlePla               #2026
+ESP-CT T3 Mon HosStJoanDesTV3         #2026
 ESP-CT T5 Glo CiuVilaOli              #2026
 
 #Madrid
