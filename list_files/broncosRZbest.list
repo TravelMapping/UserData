@@ -468,12 +468,12 @@ TN US441 ChiPicArea US411_N
 
 
 #VERMONT
-VT I-89 NH/VT 18
+VT I-89 NH/VT USA/CAN
 VT I-189 I-89 US7
 VT US2 NY/VT VT2A_Wil
 VT US2 I-89(11) VT100_S
 VT US4 NY/VT US7_N
-VT US7 US4_W I-89(18)
+VT US7 US4_W I-89(22)
 VT US7AltBur PeaSt US7_N
 
 #State routes too, why not. 
@@ -533,7 +533,17 @@ WI US53 84 WI/MN
 
 #QUEBEC
 
-#Provincial routes cover a wide variety of roads, like state routes, and don't seem to be part of a historical system the way US highways are. I'm inclined to highlight these in green on my spreadsheet to reflect the green shield colors, but would not exhaustively track these the way I do US Interstates and US Highways. 
+QC A-10 1 22
+QC A-20 75 78
+QC A-35 5 55
+
+#Provincial routes cover a wide variety of roads, like state routes, and don't seem to be part of a historical system the way US highways are. They have green shields, so I considered using green highlighting, but ended up going with pink to be consistent with my US pages and because there was so much traffic on them a pink/red color felt appropriate. Will not exhaustively track these the way I do US Interstates and US Highways. 
+
+QC QC112 RueStAnt A-20
+QC QC133 USA/CAN A-35(5)
+QC QC138Mon QC112 QC125 #technically didn't make it all the way to Blvd Pie-IX, turned off three blocks early to make parking for OnSite bouldering easier.
+
+#Have also driven a little bit of 335 (St Denis b/n Sherbrooke and Hôtel ITHQ) and 125 (Blvd Pie-IX b/n Sherbrooke and St Joseph) but not enough for a segment. 
 
 
 
