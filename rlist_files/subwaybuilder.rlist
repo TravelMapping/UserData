@@ -326,7 +326,7 @@ FRA-IDF M7Bis LouBla Bot_2
 FRA-IDF M8 Bal CrePoiLac
 FRA-IDF M9 PontSev MaiMon
 FRA-IDF M10 BouPontStClo GareAus
-FRA-IDF M10 BouPontStClo GareAus
+FRA-IDF M10Bou GareAus BouPontStClo
 FRA-IDF M11 Cha RosBoisPer
 FRA-IDF M12 MaiIssy MaiAub
 FRA-IDF M13 AsiGenCou ChaMontRou
@@ -348,7 +348,7 @@ FRA-IDF T8Vil VilUni StDenPorPar
 FRA-IDF T9 PorCho OrlyGasVie
 FRA-IDF T10 JarPar CroBer
 FRA-IDF T11 EpiSei Bou
-FRA-IDF T11 EpiSei Bou
+FRA-IDF T12 EvryCou MasPal
 FRA-IDF T13 StGerLaye StCyr
 FRA-IDF T14 Esb CreCha
 
@@ -562,6 +562,10 @@ JPN TsurumaiLn T01 T20
 # Automated Guideway Transit
 JPN LinimoLn L01 L09
 
+# Toyohashi Trams
+JPN AzumadaLn1 1 13
+JPN AzumadaLn2 1 14
+
 
 # Osaka
 # JR Shinkansen Lines
@@ -686,6 +690,7 @@ JPN HojoLn Ao Hojomachi
 JPN KishigawaLn 01 14
 JPN KitakyuNambokuLn M06 M11
 JPN KitakyuNambokuLn M06 M11
+JPN MizumaLn Kaizuka MizumaKan
 
 # Eizan Railway
 JPN EizanLn E01 E08
@@ -2059,6 +2064,20 @@ IL MLRedLn MO/IL ShiSco
 
 
 # Indiana
+# Chicago
+# Amtrak
+IN BW IL/IN +DIV_SB
+IN FL IL/IN +DIV_Mic
+IN LSBos IL/IN +DIV_Mic
+IN LSNew IL/IN +DIV_Mic
+IN PM IL/IN +DIV_SB
+IN WV IL/IN +DIV_SB
+
+# Northern Indiana Commuter Transportation District
+IN MonCor MunDye HamGat
+IN SouShoLn DunePark IN/IL
+
+
 # Indianapolis
 # Amtrak
 IN CA +DIV_Cra Con
@@ -2377,7 +2396,7 @@ NY AOzo 207StInw OzoPkLefBlvd
 NY B 145St BriBea
 NY C 168St EucAve
 NY D Nor205St ConIslStiAve
-NY D Nor205St ConIslStiAve
+NY E JamCenParArc WTC
 NY F Jam179St ConIslStiAve
 NY G CouSq ChuAve
 NY J BroSt JamCenParArc
@@ -2461,6 +2480,9 @@ OH GreLn SHar GreRd
 OR AC *Woo OR/WA
 OR CS +SKIP_Woo OR/WA
 OR EBPor PorUniSta OR/WA
+
+# Westside Express Service
+OR WesExpSer BeaTraCen Wil
 
 # MAX Light Rail
 OR BlueLn HatGovCen CleAve
