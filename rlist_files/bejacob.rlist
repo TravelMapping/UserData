@@ -125,7 +125,7 @@ OR BLp 11thMar_S 11thCou
 OR BLp GraHoyt 11thMar_N
 
 #PA SEPTA
-PA AirLn PHLTerB Phi30thSt
+PA AirLn PHLTerEF Phi30thSt
 PA B1 Pat FernRock
 PA B2 WalLoc Oln
 PA B3 8thMar FernRock
@@ -208,8 +208,8 @@ FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
 FL TECO DowTam CenPark
-FL NBankLn JacRTC RosaPar
-FL SBankLn RosaPar KinAve
+#FL NBankLn JacRTC RosaPar
+#FL SBankLn RosaPar KinAve
 MI DetPeoMov Mic_S Mic_N
 MI QLn GraBlvd ConSt
 MO MLRedLn LamAirTer1 LacLan
