@@ -290,6 +290,9 @@ PRT LnVrd Tel CaisSod
 PRT LnVrm Aer SaoSeb
 
 #Lisbon Electricos
+PRT 12ELis MarMon LarPorSol
+PRT 15ELis PraCom Alg
+PRT 18ELis CaisSod CemAju
 PRT 24ELis PraLuisCar Cam
 PRT 25ELis PraCom CamOur
 PRT 28ELis MarMon CamOur
@@ -309,6 +312,7 @@ GRC 2Ath Ell Ant
 GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
 GRC T7 LOOP AskVou
+PRT LnCas CaisSod Alg
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 
