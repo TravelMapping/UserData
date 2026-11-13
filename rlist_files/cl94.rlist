@@ -210,7 +210,8 @@ WA YelLn AGat DGat
 
 WV CassSceRR CassDep BaldKnob
 
-AUT ICE62 SalHau GrazHau
+AUT ICE62 DEU/AUT GrazHau
+AUT RB54 DEU/AUT Kuf
 AUT S1 +DIV_S2S7 +DIV_REX1
 AUT S3 WienFlo WieNeuHau
 AUT S7 WienFlo WienStMarx
@@ -218,7 +219,11 @@ AUT S45 WienHut WienHan
 AUT S80 WienHau WienErzKarlStr
 AUT S1Ste BruMur GrazHau
 AUT S9Ste BruMur Mur
+AUT S4Tir +DIV_RJE Kuf
+AUT S5Tir Otz +DIV_RJW
+AUT S1Vor +DIV_S2 Blu
 AUT S2Vor Fel AUT/LIE
+AUT S4Vor Blu +DIV_RJ
 AUT U1 Leo Obe
 AUT U2 Kar See
 AUT U3 Ott Sim
@@ -226,6 +231,10 @@ AUT U4 WienHut WienHei
 AUT U6 Flo Sie
 AUT 3Gra And Kre
 AUT 6Gra SmaCityPetTunGas StPet
+AUT 2Inn Per JosKerStr
+AUT 3Inn Sil_1 Amr
+AUT 5Inn TecWest Rum
+AUT 6Inn Bun_1 IgisBah
 AUT 1Wie Schr OperKar
 AUT 10Wie Maro Hie
 AUT 11Wie Reu Sim
@@ -240,8 +249,10 @@ DEU-BW U6 StaBib MohBf
 DEU-BW U14 ChaPla Vai
 
 DEU-BY ICE25 NurnBergHbf MunHbf
+DEU-BY ICE62 +DIV_RB54 DEU/AUT
 DEU-BY RE9 MunHbf AugHbf
 DEU-BY RE16 NurnBergHbf AugHbf
+DEU-BY RB54 +DIV_RE5 DEU/AUT
 DEU-BY RB64 GarPar Gra
 DEU-BY S1 FlugHafMun LeuBergRing
 DEU-BY S2 Dac LeuBergRing
@@ -263,6 +274,17 @@ DEU-BY 16Mun RomPla StEmm
 DEU-BY 17Mun AmaBurgStr StEmm
 DEU-BY 27Mun Pin SenTor
 
+CHE IC3 ZurHau Sar
+CHE IC5 ZurHau ZurFlu
+CHE S10 Uet ZurHau
 CHE S2Vor LIE/CHE Buc
+CHE S4Gal Buc Sar
+CHE 2Zur Kan Rom
+CHE 3Zur Kal Rom
+CHE 8Zur EscWyssPla Bel
+CHE 24Zur Cen ETH
+CHE 25Zur Rom BerDol
+CHE 51Zur BahAltNord Stam
+CHE SkyMet AirCen DockE
 
 LIE S2Vor AUT/LIE LIE/CHE

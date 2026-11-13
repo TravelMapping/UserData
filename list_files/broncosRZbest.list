@@ -12,7 +12,7 @@
 #As far as concurrencies go, I'm going to enter routes based on the main road I was intending to follow. Save myself some data lines and let the site grab the concurrency. 
 #For example, in the I-70 mountain corridor, I have listed both I-70 and US 40. 
 #Even though I-70 leads the concurrency, I drove from WP to the Wooly Mammoth lot trying to follow US 40. 
-#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! 
+#If US 40 is rerouted in the future, I still want credit for it. I drove it as it existed at the time! There may be occasional instances where I don't grandfather myself in, such as when I-81 was rerouted around Syracuse. 
 
 #In general, if I didn't make it to the next waypoint, I'm not going to include that section.  It should be noted in my spreadsheet where my endpoint is.  
 
@@ -36,13 +36,24 @@ CA I-680 I-280/101 30
 CA I-680 53 71
 #Good golly there are a lot of 80s
 
+CA I-105 1D 2 #actually 1C
+CA I-405 45 57B
+
 CA US101 94A 110
 CA US101 336 389A
 
+CA CA1 RosAve LAX
+CA CA1 SkyWay VenBlvd
+CA CA1 ChaBlvd SunBlvd #don't technically have all of this, but Sunset Blvd is super close to where we were for Andrea & Will's wedding. 
+CA CA1 402B 441B
+#Grabbing some CA 1 (PCH?? Not sure where that designation technically lies) because it's iconic
 
+
+
+#COLORADO
 
 #Starting with I-70
-CO I-70 167 261
+CO I-70 28 261
 CO I-70 269A 274
 CO I-70 276B CO/KS
 
@@ -84,7 +95,8 @@ CO CO121 CO470 RalRd
 CO CO85 I-25 VenBlvd_N
 #I drove CO 85 thinking it maybe was US 85 (it was labeled that way on some street signs but not all). 
 CO CO88 Bro I-25(199)
-
+CO CO340 IndValDr RedPkwy
+CO PenaBlvd I-70 Ter
 
 
 #FLORIDA
@@ -234,15 +246,23 @@ KY KY9 I-275 KY1/7 #AA Highway! I've clinched the AA portion.
 
 
 
+#MARYLAND
+MD I-97 1 15
+MD I-195 TerRd 1
+MD US50 21 41
+
+
+
 #MICHIGAN
 MI I-75 OH/MI 61
 MI I-75 115 344
 
 MI I-94 138 183
+MI I-94 199 240
 #I'm able to leave off I-96, I-196, and I-496 because a different highway I was following covers it. 
 
 MI I-275 I-75 165(96)
-MI I-696 1A 18 
+MI I-696 1A 28 
 #I'm conflicted b/c on my spreadsheet I feel good about saying I made it to the western terminus of I-696 but TM shows you have to continue onto I-96 to complete it. 
 
 MI US31 IN/MI 36(196)
@@ -266,8 +286,13 @@ MI US127 201 I-75
 
 #Minnesota
 MN I-35 253A 259
+MN I-35W 11B 30
 MN I-535 WI/MN GarAve
+MN I-94 127 216
+MN I-494 1A 27
 MN US2 I-35(253A) MN/WI
+MN US10 US71 I-35W(30)
+MN US71 I-94 MN34
 MN MN61 I-35 Bro
 
 
@@ -293,7 +318,21 @@ NH I-89 I-93 NH/VT
 
 
 #NEW YORK
+NY I-90 PA/NY 36(NYST)
+NY I-90 25A(NYST) 1
+
+NY I-81 PA/NY 5A
+NY I-81 96 162
 NY I-86 PA/NY 21
+NY I-87 24(NYST) 21
+NY I-88 I-81 I-90
+
+NY I-781 1 4
+
+NY US2 US11 NY/VT
+NY US4 NY149_W NY/VT
+NY US11 I-781 NY9B
+NY US11 NY276_E US2
 NY US219 I-86(21) NY242_W
 
 
@@ -303,11 +342,10 @@ NC US129 NC28 NC/TN #We turned off for Magazine Branch parking at the top of the
 
 
 
-#NEXT UP - Finish OH(!) I've done most, but need to clean up Cincy area roads.  
-
 #OHIO
 
 OH I-70 44 96
+OH I-70 108 OH/WV
 OH I-75 KY/OH OH/MI
 OH I-80 71 151
 OH I-80 152 173
@@ -339,7 +377,7 @@ OH US50 OH32_W 198(33)
 OH US22 US27/42 OH56_E
 OH US23 I-75(193) OH/MI
 OH US27 KY/OH OH/IN
-OH US33 170 131
+OH US33 170 129
 OH US33 38 OH/IN
 OH US35 110 72
 OH US35 55 42
@@ -364,7 +402,7 @@ OH OH125 US50 OH133
 OH OH126 20 US22_E
 OH OH126 LovMiaRd US50
 OH OH32 US50 198(33)
-OH OH561 US50 US22_E
+OH OH561 US50 VineSt
 OH OH562 I-75 I-71
 
 #Whew! Made it through OH
@@ -382,6 +420,86 @@ OR US26 71B 26thAve
 
 
 
+#PENNSYLVANIA
+
+PA I-70 WV/PA 146(76)
+PA I-80 161 260
+PA I-90 OH/PA PA/NY
+PA I-81 151 PA/NY
+PA I-86 1 PA/NY
+PA I-99 1 MusLn
+
+PA US220 MusLn I-80(161)
+
+
+
+#TENNESSEE
+
+TN I-40 211 213
+TN I-40 368 387A
+TN I-40 393 421
+TN I-65 86 TN/KY
+TN I-75 GA/TN TN/KY
+
+TN I-24 44 158
+TN I-24Cha 174 185
+TN I-81 1 8
+
+TN I-124 I-24 TenRiv
+TN I-140 1C 1A
+TN I-275 I-40 3
+TN I-640 I-40_W I-40_E
+
+TN US11 TN324 I-140
+TN US25E I-81 TN/KY
+TN US25W TN170 TN61
+TN US25W StiCrkRd I-75(160)
+# plus some US 25W concurrencies captured elsewhere. 
+TN US27 I-24(180B) ManRd
+TN US41 I-24(174) TN27
+TN US58 US25E TN/VA
+TN US70 US11_S I-140 #Plus some to the west, but not all the way to US 321. 
+TN US129 NC/TN I-40
+TN US321 US441_S US441_N #We drove a bit east of Gatlinburg too, but not enough to get the next waypoint. 
+TN US321 TN73Sce US411Trk_N
+TN US441 ChiPicArea US411_N
+#Skipped some that have zero standalone miles. 
+
+
+
+#VERMONT
+VT I-89 NH/VT USA/CAN
+VT I-189 I-89 US7
+VT US2 NY/VT VT2A_Wil
+VT US2 I-89(11) VT100_S
+VT US4 NY/VT US7_N
+VT US7 US4_W I-89(22)
+VT US7AltBur PeaSt US7_N
+
+#State routes too, why not. 
+
+VT VT2A VT116 US2
+VT VT2A SusWilByp VT289
+VT VT12 ElmPondRd VT15A #technically turned off at the state park entrance, but this waypoint maps our route more closely. 
+VT VT15 US2_W VT100_N
+VT VT17 NY/VT VT22A
+VT VT22A US4 US7
+VT VT30 HorRd US7_N
+VT VT100 LinGapRd VT15A
+VT VT104 VT15 VT104A
+VT VT104A US7 VT104
+VT VT108 VT100 VT15
+VT VT116 LinRd US2
+VT VT117 VT2A/15 US2
+VT VT289 VT2A VT15
+
+
+
+#VIRGINIA
+#I've driven US 58 in VA but not enough to reach a waypoint. 
+
+
+
 #WASHINGTON
 
 WA I-90 2 25
@@ -393,6 +511,46 @@ WA SteCynRd WA706 ParVlyRd_S
 
 
 
+#WEST VIRGINIA
+
+WV I-70 OH/WV WV/PA
+
+
+
+#WISCONSIN
+
+WI I-90 45 WI/IL
+WI I-94 70 240
+WI I-535 US53 WI/MN
+
+WI US2 MN/WI WI/MI
+WI US53 84 WI/MN
+
+
+
+#CANADA
+#Highway systems in Canada appear to vary by province. 
+
+#QUEBEC
+
+QC A-10 1 22
+QC A-20 75 78
+QC A-35 5 55
+
+#Provincial routes cover a wide variety of roads, like state routes, and don't seem to be part of a historical system the way US highways are. They have green shields, so I considered using green highlighting, but ended up going with pink to be consistent with my US pages and because there was so much traffic on them a pink/red color felt appropriate. Will not exhaustively track these the way I do US Interstates and US Highways. 
+
+QC QC112 RueStAnt A-20
+QC QC133 USA/CAN A-35(5)
+QC QC138Mon QC112 QC125 #technically didn't make it all the way to Blvd Pie-IX, turned off three blocks early to make parking for OnSite bouldering easier.
+
+#Have also driven a little bit of 335 (St Denis b/n Sherbrooke and Hôtel ITHQ) and 125 (Blvd Pie-IX b/n Sherbrooke and St Joseph) but not enough for a segment. 
+
+
+
+#ENGLAND
+#Bus routes with Kirk!  Because why not?!
+
+ENG A3218 A4 A3219 #Both directions from his flat on the 430
 
 
 

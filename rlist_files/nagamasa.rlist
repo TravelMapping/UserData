@@ -38,12 +38,13 @@ ON UP PeaAir Uni
 ON 1 VauMetCen Fin
 ON 2 Kip Ken
 ON 4 SheYon DonMil
+ON 5 MouDen Egl
 
 ## TTC STREETCARS
 ON 501 DufSt ChuSt
 ON 503 ChuSt_1 JarSt
 ON 504a DowAve JarSt
-ON 505 BatSt BroAveDunSt
+ON 505 BatSt BroAve
 ON 506 GraSt ChuSt
 ON 509 ExhLp UniSta
 ON 510 SpaSta UniSta
@@ -62,13 +63,36 @@ CHE IC1 GenAer GenCor
 
 #### CHN
 ### CRH
+CHN-BJ JingZhangYan BeiJingBei BaDaLingGreWal
+CHN-BJ JingJin BeiJingS CHN-TJ JingJin TianJin
 CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
-
-### GD
-## PRD ICR
+CHN-GD GuangShen GuangZhouE +DIV_JingGangN
 CHN-GD GuangZhu ZhongShanN ZhuHai
 
+### BJ
+## BEIJING SUBWAY
+CHN-BJ 1 SiHui GongZhuFen
+CHN-BJ 2 DongZhiMen XiZhiMen_E
+CHN-BJ 2 XiZhiMen QianMen
+CHN-BJ 4 BeiGongMen CaiShiKou
+CHN-BJ 5 CiQiKou TemOfHeaEGat
+CHN-BJ 5 DengShiKou BeiXinQiao
+CHN-BJ 6 DongDaQiao HuaYuanQiao
+CHN-BJ 7 DaGuanYing CiQiKou
+CHN-BJ 8 HuoYing QianMen
+CHN-BJ 10 GongZhuFen XiDiaoYuTai
+CHN-BJ 10 HaiDianHuangZhuang TuanJieHu
+CHN-BJ 10 ChangChunQiao XiDiaoYuTai
+CHN-BJ 12 AnHuaQiao ChangChunQiao
+CHN-BJ 13 QingHeRaiSta HuoYing
+CHN-BJ 14 JingTai ShiLiHe
+CHN-BJ 15 QingHuaDongLuXiKou WangJingXi
+CHN-BJ 16 DaGuanYing XiYuan
+CHN-BJ 17 WangJingXi ShiLiHe
+CHN-BJ CapAirExp BeiXinQiao 3HaoHangZhanLou
+
+### GD
 ## GUANGZHOU METRO
 CHN-GD 1GZ GuangZhouERaiSta HuangSha
 CHN-GD 3GZ HanXiChangLong CanTow
@@ -94,6 +118,10 @@ CHN-SH 10 ENanJingRd YuYuanGar
 CHN-SH 13 MaDangRd ShiBoAve
 CHN-SH Maglev LongYangRd PuDongAirTer12
 
+### TJ
+## TIANJIN METRO
+CHN-TJ 2 BinHaiGuoJiJiChang TianJinZhan
+
 #### DEU
 ### MUNICH
 DEU-BY S2 Dac BergLaim
@@ -118,6 +146,9 @@ DEU-HH S3 HamBurgAlt JunSti
 
 DEU-HH U1 SteStr LohMuhStr
 DEU-HH U3 LanBru HbfSud
+
+#### DNK
+DNK GotCop CopAir CopCen
 
 ### ENG
 ## UNDERGROUND
@@ -229,16 +260,25 @@ ITA-CAM 2Nap NapPiaCav Pom
 
 #### JPN
 ### JR
-## SHINKANSEN & LTD EXPRESS
-JPN SanyoShin ShinOsaka Hakata
-JPN TokaidoShin Tokyo ShinOsaka
-JPN HokurikuShin Tokyo Nagano
+## SHINKANSEN & LTD EXPRESS TRAINS
+JPN AsamaShin Tokyo Nagano
+JPN KagayakiShin Nagano Omiya
+JPN NozomiShin Tokyo Hakata
+JPN HikariShin Nagoya ShinYoko
 JPN HarukaLtd ShinOsaka KansaiAir
 JPN SuperInabaLtd Okayama Tottori
 JPN SuperHakutoLtd Himeji Tottori
 JPN NarExpShn Tokyo NarAirTer23
 JPN Skyliner KS02 KS41
 JPN TobuKegon TS01 TN25
+
+## SHINKANSEN LINES
+JPN SanyoShin ShinOsaka Hakata
+JPN TokaidoShin Tokyo ShinOsaka
+JPN HokurikuShin Tokyo Nagano
+JPN TohokuShin Tokyo Omiya
+JPN JoetsuShin Omiya Takasaki
+JPN HokurikuShin Takasaki Nagano
 
 ## JR HOKKAIDO
 JPN ChitoseLn H14 01
@@ -248,14 +288,14 @@ JPN ChitoseLnAir H14 AP15
 ## JR EAST
 JPN TokaidoLnE JT01 JT21
 JPN YamanoteLn JY24_A JY24_B
-JPN KeihinTohokuLn JK32 JK20
+JPN KeihinTohokuLn JK38 JK20
 JPN KeihinTohokuLn JK12 JK09
 JPN SaikyoLn JA08 JA26
 JPN MusashinoLn JM28 JM13
 JPN MusashinoLn JM10 JE01
 JPN YokosukaSobuLn JO07 JO28
 JPN ChuoRapidLn JC01 JC11
-JPN UtsunomiyaLn JU01 JU07
+JPN UtsunomiyaLn Koga JU01
 JPN TohokuLn Natori Sendai
 JPN KawagoeLn Omiya Kawagoe
 JPN SensekiLn Aobadori MatsuKai
@@ -275,8 +315,7 @@ JPN TokaidoLnCen CA68 CA83
 
 ## JR WEST
 JPN TokaidoLnW A12 A63
-JPN OsakaLoopLn O01_A O06
-JPN OsakaLoopLn O07 O01_B
+JPN OsakaLoopLn O01_A O01_B
 JPN SakurajimaLn P14 P16
 JPN SanyoLn A63 R10
 JPN KishinLn Himeji Tsuyama
@@ -318,8 +357,9 @@ JPN DenentoshiLn DT01 DT03
 JPN SetagayaLn SG01 SG10
 
 ## KEIKYU
-JPN KeikyuMainLn A07 KK11
+JPN KeikyuMainLn A07 KK50
 JPN KeikyuAirportLn KK11 KK17
+JPN ZushiLn KK50 KK53
 
 ## MEITETSU
 JPN NagoyaMainLn NH33 NH34
@@ -338,7 +378,7 @@ JPN NankaiMainLn NK01 NK30
 JPN AiportLn NK30 NK32
 
 ## KEIHAN
-JPN KeihanLn KH04 KH39
+JPN KeihanLn KH01 KH40
 JPN UjiLn KH28 KH77
 
 ## HANKYU
@@ -363,22 +403,20 @@ JPN TozaiLnSen T05 T08
 
 ## TOKYO METRO
 JPN GinzaLn G01 G19
-JPN MarunouchiLn M08 M14
-JPN MarunouchiLn M15 M25
+JPN MarunouchiLn M08 M25
 JPN HibiyaLn H01 H22
 JPN TozaiLnTo T01 T23
 JPN ChiyodaLn C01 C19
 JPN YurakuchoLn Y09 Y22
 JPN HanzomonLn Z01 Z14
-JPN NambokuLnTo N01 N03
-JPN NambokuLnTo N08 N10
+JPN NambokuLnTo N01 N19
 JPN FukutoshinLn F01 F16
 
 ## TOEI
 JPN AsakusaLn A08 A20
 JPN MitaLn I01 I17
 JPN ShinjukuLn S01 S21
-JPN OedoLn E28_A E09
+JPN OedoLn E28_A E12
 JPN OedoLn E17 E20
 JPN OedoLn E21 E28_B
 
@@ -447,14 +485,17 @@ JPN OkiMon 1 7
 #### KOR
 ### SEOUL
 KOR AREX A01 A11
-KOR Suin K210 K212
+KOR Suin K210 K215
 KOR 1 128 133
-KOR 2 202 208
+KOR 2 202 211
+KOR 2 220 222
 KOR 3 328 329
-KOR 3 331 336
+KOR 3 331 339
 KOR 4 420 426
 KOR 5 533 537
 KOR 6 632 634
+KOR 7 734 727
+KOR 9 929 927
 
 #### LUX
 LUX T1 LuxExpo Ham
@@ -463,7 +504,10 @@ LUX T1 LuxExpo Ham
 MAC TaipaLn TerMar PaiKok
 
 #### NLD
-NLD AmsDis AmsCen SchAir
+NLD S81 AmsCen SchAir
+NLD S75 Zaa AmsCen
+NLD S43 SchAir AmsZuid
+
 NLD 52Ams Rok StaZuid
 
 #### NOR
@@ -472,6 +516,12 @@ NOR RE20 OsloS SWE RE20 Got
 NOR F1 OsloS SWE F1 StoCen
 
 NOR 12Osl AkerBry Jer
+
+#### PRT
+### Porto
+PRT A SenMat Tri
+PRT D FarGui JarMor
+PRT E Aer Tri
 
 #### SGP
 SGP EW EW4 EW24
@@ -494,7 +544,7 @@ SWE 10Sto Rad TCen
 ## TRAM
 SWE 3Got KunPla CenSta
 
-#### THAILAND
+#### THA
 ### BANGKOK
 THA ARL A1 A8
 THA DarkRedLn RN01 RN08
@@ -530,21 +580,27 @@ CA BARTRed Mil 19thStOak
 CA OAKAir OakIntAir Col
 
 ## MUNI
-CA MuniF 9thLar 3rdKea
-CA MuniF FerBui Pier39Sto
+CA MuniF 9thLar Pier39Sto
 CA MuniJ 24th CivCen
-CA MuniK Cas MonSt
-CA MuniL 19th MonSt
-CA MuniN 46th 4thKing
+CA MuniK 14th MonSt
+CA MuniL 26th Emb
+CA MuniN LaPla 4thKing
 CA MuniT Mar ChiRosePark
+CA CalSt VanNess Dru
 
-#SMART
+## SMART
 CA SMART SanRafDT NovSanMar
 
 ## VTA
 CA VTAGre SanJoseDir SanAnt
 CA VTAGre SanCla JapAyer
 CA VTAOra GreMall Mil
+
+## SD Trolley
+CA CopLn ElCaj SanTownCen
+CA GreLn GasQua CouCenLitIta
+CA GreLn OldTownTC ElCaj
+CA BlueLn 5thAve OldTownTC
 
 ### CO
 ## RTD
@@ -572,11 +628,16 @@ NV AE ParkMGM Bel
 NY NECorLn PennSta NJ NECorLn Met
 
 ## MTA
-NY 6 59thSt 33rdSt
-NY 7 34StHudYar FluMainSt
+NY 3 BorHall BroMus
+NY 6 96thSt BleSt
+NY 7 34StHudYar 111St
 NY A 42StPABT HighSt
+NY C 96St 81StMusNH
+NY C 42StPABT JayStMetTech
+NY D 42StBryPk GraSt
 NY E SutBlvdArcAve CanSt
-NY F KewGarUniTpke 47-50StsRocCen
+NY F JacHeiRooAve 47-50StsRocCen
+NY F 42StBryPk 7Ave
 NY J BroSt CanSt
 NY L 8Ave 14StUniSq
 NY M 47-50StsRocCen LexAve53St
@@ -609,7 +670,7 @@ WA SouLakeUniLn LakeUniPark WesHub
 ### LANDSIDE
 ## AMERICAS
 ON TerLnk Ter1 Vis
-CA AirTrnBlue RenCarCen Loop
+CA AirTrnBlue LongTermPar Loop
 CA AirTrnRed GarG/BART_S GarG/BART_F
 GA SkyTrn Air RenCarCen
 IL AirTraSys Ter1 Ter5
@@ -619,7 +680,7 @@ NY AirTrnJam Jam Loop
 ### AIRSIDE
 ## AMERICAS
 CO DENTrn JepTer CGat
-FL TPAShu MainTer AirA
+FL GateLinkTBE TerB Air4
 GA PlaTrn DomTer FGatIntTer
 MI ExpTram SouSta NorSta
 NV BlueLn Ter1 DGat
@@ -632,6 +693,7 @@ WA BlueLn AGat_Sta AGat_Fin
 
 ## ASIA
 ARE DXBAPMTer1 Ter1 ConD
+CHN-BJ PEKAPMTer3 T3C T3E
 CHN-SH PVGWestLn T1 S1
 HKG HKGAPM T1E T1Mid
 JPN KIXNWing Main Edge

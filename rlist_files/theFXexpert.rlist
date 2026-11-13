@@ -2,6 +2,7 @@
 FL AZ San VA AZ LorAutoTra
 
 # NYC Sub???
+# At least through here; don't remember additional rides exactly
 NY 1 ChaSt RecSt
 
 # DC Metro
@@ -12,6 +13,9 @@ PA ManNorLn Jef Nor
 
 # Chicago L
 IL RedLn Mon Add
+
+# St. Louis MetroLink
+MO MLRedLn ForParkDeBal IL MLRedLn ShiSco
 
 # Miami Metrorail
 FL OraLn DadSou Cul
@@ -28,3 +32,11 @@ FL SBankLn RosaPar KinAve
 
 # Lookout Mtn Incline
 TN LooMouIR StElmo PoiPark
+
+# Tampa Airport
+FL SkyCon MainTer EcoPar
+FL TPAShuAiC MainTer AirC
+
+# Denver Airport
+# At least this section; don't remember exactly
+CO DENTrn JepTer AGat

@@ -1,5 +1,15 @@
+# **Intercity Rail**
+# Amtrak
+CO CZ UniSta CO/NE
+IA CZ NE/IA IA/IL
+IL CZ IA/IL UniSta
+NE CZ CO/NE NE/IA
+
 # **Commuter Rail**
 # Denver, CO
+CO ALn UniSta DenAir
+CO BLn UniSta Wes
+CO GLn UniSta WheRidWardRd
 CO NLn UniSta Eas124th
 
 
@@ -20,6 +30,12 @@ VA OraLn +DIV_Blue VA/DC
 VA SilLn +DIV_Blue VA/DC
 VA YelLn Pen VA/DC
 
+# Chicago, IL
+IL BlueLn Gra Rac
+IL BroLn WasWel WasWab
+IL OraLn Mid Loop
+IL RedLn Jac Add
+
 # Las Vegas, NV
 NV LVM MGMGra SLS
 
@@ -29,7 +45,13 @@ NV LVM MGMGra SLS
 CA MuniF 5thCyr Bea
 
 # Denver, CO
-CO ELn EmpFieMileHigh UniSta
+CO DLn LitMin 16thSto
+CO ELn RidPkwy +DIV_DLn/HLn
+CO ELn +DIV_WLn UniSta
+CO HLn Flo 16thSto
+CO LLn 30thDow 16thSto
+CO LLn +DIV_LLn_S Loop
+CO RLn Lin Peo
 CO WLn JefCouGovCenGol UniSta
 
 # Portland, OR
