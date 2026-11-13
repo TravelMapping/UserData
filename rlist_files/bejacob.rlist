@@ -285,12 +285,14 @@ FRA-IDF M9 StPhiRou StrStDen
 
 #Lisbon Metro
 PRT LnAma Odi Rato
-PRT LnAzu Reb TerPaco
-PRT LnVrd Tel Ros
+PRT LnAzu Reb SanApo
+PRT LnVrd Tel CaisSod
 PRT LnVrm Aer SaoSeb
 
 #Lisbon Electricos
 PRT 24ELis PraLuisCar Cam
+PRT 25ELis PraCom CamOur
+PRT 28ELis MarMon CamOur
 
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
