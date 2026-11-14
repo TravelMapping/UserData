@@ -2,6 +2,8 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-CT R1 ClotAre San                                           #2036 via Catalunya
+ESP-CT R11 ClotAre San                                          #2026 via Passeig Gracia
 ESP-CT R2N San Aer                                              #2026
 ESP-CT R4 San MarCen                                            #2026
 ESP-CT R4 Ter SabNord                                           #2026
@@ -1080,7 +1082,9 @@ ESP-CT L11 CanCui TriNova             #2026
 ESP-CT L12 ReiEli Sar                 #2026
 ESP-CT T2 FraMac LlePla               #2026
 ESP-CT T3 Mon HosStJoanDesTV3         #2026
+ESP-CT T4 StAdrBes Ver                #2026
 ESP-CT T5 Glo CiuVilaOli              #2026
+ESP-CT T6 StAdrBes CanJau             #2026
 
 #Madrid
 ESP-MD C1 AerT4 Cha                   #2025
