@@ -283,6 +283,20 @@ FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
 FRA-IDF M9 StPhiRou StrStDen
 
+#Lisbon Metro
+PRT LnAma Odi Rato
+PRT LnAzu Reb SanApo
+PRT LnVrd Tel CaisSod
+PRT LnVrm Aer SaoSeb
+
+#Lisbon Electricos
+PRT 12ELis MarMon LarPorSol
+PRT 15ELis PraCom Alg
+PRT 18ELis CaisSod CemAju
+PRT 24ELis PraLuisCar Cam
+PRT 25ELis PraCom CamOur
+PRT 28ELis MarMon CamOur
+
 ENG LonPar LonStPanInt GBR/FRA
 ENG HEx LonPad HeaTer5
 ENG GatEx LonVic Bri
@@ -298,6 +312,7 @@ GRC 2Ath Ell Ant
 GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
 GRC T7 LOOP AskVou
+PRT LnCas CaisSod Alg
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 
