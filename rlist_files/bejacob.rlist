@@ -258,6 +258,15 @@ AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
 AUS-VIC MelXPT NSW/VIC SouCro
 
+#England
+ENG LonPar LonStPanInt GBR/FRA
+ENG HEx LonPad HeaTer5
+ENG GatEx LonVic Bri
+ENG EliLn HayHar BondSt
+ENG EliLnHea HeaTer23 BondSt
+ENG EliLnShe HeaTer5 BondSt
+ENG LioLn Eus KilHighRd
+
 #London Underground
 ENG BakLn KilPark EleCas
 ENG CenLn MarArch Bank
@@ -277,11 +286,25 @@ ENG DLRRoy Sha Pop
 ENG DLRStr CanWha BowChu
 ENG DLRWoo Bank Pop
 
+#France
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF C ChaMarsTourEif StMicNotDame
+
 #Paris Metro
 FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
-FRA-IDF M9 StPhiRou StrStDen
+
+#Greece
+GRC 1Ath Pir Kif
+GRC 2Ath Ell Ant
+GRC 3Ath DimThe Aer
+GRC T6 Syn Pik
+GRC T7 LOOP AskVou
+
+#Portugal
+PRT LnCas CaisSod Alg
 
 #Lisbon Metro
 PRT LnAma Odi Rato
@@ -291,28 +314,13 @@ PRT LnVrm Aer SaoSeb
 
 #Lisbon Electricos
 PRT 12ELis MarMon LarPorSol
-PRT 15ELis PraCom Alg
+PRT 15ELis PraFig Alg
 PRT 18ELis CaisSod CemAju
 PRT 24ELis PraLuisCar Cam
-PRT 25ELis PraCom CamOur
+PRT 25ELis CorSan CamOur
 PRT 28ELis MarMon CamOur
 
-ENG LonPar LonStPanInt GBR/FRA
-ENG HEx LonPad HeaTer5
-ENG GatEx LonVic Bri
-ENG EliLn HayHar BondSt
-ENG EliLnHea HeaTer23 BondSt
-ENG EliLnShe HeaTer5 BondSt
-ENG LioLn Eus KilHighRd
-FRA-HDF LonPar GBR/FRA HDF/IDF
-FRA-IDF LonPar HDF/IDF ParGareNord
-FRA-IDF C ChaMarsTourEif StMicNotDame
-GRC 1Ath Pir Kif
-GRC 2Ath Ell Ant
-GRC 3Ath DimThe Aer
-GRC T6 Syn Pik
-GRC T7 LOOP AskVou
-PRT LnCas CaisSod Alg
+#Europe Misc.
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 
