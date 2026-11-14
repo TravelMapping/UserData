@@ -1100,11 +1100,13 @@ MD I-370 1 2
 MD I-68 72 82
 MD I-83 37 MD/PA
 MD I-97 1 17
+MD I-395 ConSt CamSt
 
 #MD_Other
 
 MD BalWasPkwy US50/201 MD175
 MD ClaBarPkwy MacBlvd_E MD/DC
+MD NatRd MD295 HowSt
 
 #MD_StateHighways
 
@@ -1862,6 +1864,10 @@ OR I-84 I-5 87
 OR I-205 I-5 OR/WA
 OR I-5 253 258
 
+#OR_Other
+
+OR LewClaBri US30 OR/WA
+
 #OR_StateHighways
 
 OR OR6 US101/131 US26
@@ -2450,6 +2456,10 @@ WA I-182 I-82 5
 WA I-82 I-90 102
 WA I-90BLEll I-90_W I-90_E
 WA I-5 OR/WA 42
+
+#WA_Other
+
+WA LewClaBri OR/WA WA432
 
 #WA_StateHighways
 
