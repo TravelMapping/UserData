@@ -304,7 +304,10 @@ GRC T6 Syn Pik
 GRC T7 LOOP AskVou
 
 #Portugal
+PRT LnAzaSin Sin Ent
 PRT LnCas CaisSod Alg
+PRT LnSinRos LisRos Sin
+PRT LnSinOri Ent Sin
 
 #Lisbon Metro
 PRT LnAma Odi Rato
@@ -319,6 +322,11 @@ PRT 18ELis CaisSod CemAju
 PRT 24ELis PraLuisCar Cam
 PRT 25ELis CorSan CamOur
 PRT 28ELis MarMon CamOur
+
+#Metro Sul do Tejo
+PRT 1Alm Cac Cor
+PRT 2Alm Pra Cor
+PRT 3Alm Uni Cac
 
 #Europe Misc.
 SCT HMLEdi EdiWav Sti
