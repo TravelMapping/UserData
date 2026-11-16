@@ -7,9 +7,7 @@ DE NENor MD/DE DE/PA
 
 # District of Columbia
 DC PennLn DC/MD WasUniSta
-DC BluLn LEnfPla VA/DC
-DC BluLn StaArm LEnfPla
-DC BluLn FogBotGWU LEnfPla
+DC BluLn StaArm VA/DC
 DC GreLn DC/MD NavyYardBal
 DC RedLn FortTot VanNessUDC
 DC SilLnNew DC/MD LEnfPla
@@ -41,6 +39,7 @@ PA NENor DE/PA PA/NJ
 
 # Virginia
 VA BluLn VA/DC PenCity
+VA SilLn VA/DC TysCor
 VA YelLn VA/DC KingStOldTown
 
 

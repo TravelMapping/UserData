@@ -2,6 +2,20 @@
 ####   RAILWAYS   ####
 ######################
 
+ESP-CT R1 ClotAre San                                           #2036 via Catalunya
+ESP-CT R11 ClotAre San                                          #2026 via Passeig Gracia
+ESP-CT R2N San Aer                                              #2026
+ESP-CT R4 San MarCen                                            #2026
+ESP-CT R4 Ter SabNord                                           #2026
+ESP-VC C3Ali SanVicCen AlaTer                                   #2026, actually traveled as regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
+#ESP-VC Regional train AlaTer ESP-MC Regional train MurCar      #2026 regional train Alicante-Murcia via San Vicente - (Aspe -) Callosa (bypass)
+ESP-VC C1Ali AlaTer ESP-MC C1 MurCar                            #2026
+ESP-AN C1Cad AerJer Cad                                         #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+ESP-AN C1 SanJus Leb                                            #2026, actually traveled as high speed train Madrid-Cadiz (southbound) and regional train Cadiz-Sevilla (northbound)
+#ESP-AN Highspeedtrain SanJus Cad                               #2026, traveled as high speed train Madrid-Cadiz (southbound)
+#ESP-AN Regional train SanJus Cad                               #2026, traveled as regional train Cadiz-Sevilla  (northbound)
+ESP-AN C2 Car SevSanJus                                         #2026
+ESP-AN C4 SanBer_1 SanBer_2                                     #2026
 CHE S4Gal StMar Buc                                             #2026
 AUT S4Vor Blu Sch                                               #2026
 DEU-BY S1Vor LinIns AUT S1Vor Blu                               #2026
@@ -1032,8 +1046,45 @@ ENG MetLnkEDR StPetSq Vic             #2026
 ENG TWMGre SouHyl Air                 #2019, Newcastle Green Line:       Airport - South Hylton
 ENG TWMYel StJam SouShi               #2019, Newcastle Yellow Line:      St James - South Shields (whole loop)
 
+#Alicante
+ESP-VC L4 Lucr PlaCor                 #2026
+ESP-VC L5 PorMar +DIV_Lp1             #2026
+ESP-VC L5 PlaCor AveNac_2             #2026
+
+#Murcia
+ESP-MC L1 RecTerNat_1 EstNueCon       #2026
+ESP-MC L1B ACAMJer RecTerNat          #2026
+
+#Sevilla
+ESP-AN L1 CiuExpo OliQui              #2026
+ESP-AN T1 ArcInd LuisMor              #2026
+
 #Saragossa
 ESP-AR T1 AveAca MagoOz               #2025
+
+#Barcelona
+ESP-CT S1 TerNacUni PlaCat            #2026
+ESP-CT S2 SabParcNord Sar             #2026
+ESP-CT S8 Esp MarCen                  #2026
+ESP-CT L1 Fon HosBel                  #2026
+ESP-CT L2 BadPomFab Gorg              #2026
+ESP-CT L2 Pau Par                     #2026
+ESP-CT L3 TriNova ZonaUni             #2026
+ESP-CT L4 Pau TriNova                 #2026
+ESP-CT L5 VallHeb CorCen              #2026
+ESP-CT L7 AviTib PlaCat               #2026
+ESP-CT L9S ZonaUni Tor                #2026
+ESP-CT L9S CanTriGor AerT1            #2026
+ESP-CT L9N CanZam BonPas              #2026
+ESP-CT L10S Col ZALRuiVell            #2026
+ESP-CT L10N Gorg Sag                  #2026
+ESP-CT L11 CanCui TriNova             #2026
+ESP-CT L12 ReiEli Sar                 #2026
+ESP-CT T2 FraMac LlePla               #2026
+ESP-CT T3 Mon HosStJoanDesTV3         #2026
+ESP-CT T4 StAdrBes Ver                #2026
+ESP-CT T5 Glo CiuVilaOli              #2026
+ESP-CT T6 StAdrBes CanJau             #2026
 
 #Madrid
 ESP-MD C1 AerT4 Cha                   #2025
@@ -1152,6 +1203,13 @@ FRA-IDF OrlyVAL Orly123 Orly4         #2026
 
 #Bordeaux
 FRA-NAQ C VilPyr Qui                  #2025
+
+#Montpellier
+FRA-OCC Tram1 Mos GareSudFra          #2026
+FRA-OCC Tram2 StJeanVedCen Jac        #2026
+FRA-OCC Tram3 Juv GamStDen            #2026
+FRA-OCC Tram4 NouStRoch RivLez        #2026
+FRA-OCC Tram5 Cla Bou                 #2026
 
 #Toulouse
 FRA-OCC A BasCam BalGra               #2024

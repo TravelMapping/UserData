@@ -34,10 +34,14 @@ BC CanLnRic Wat RicBri
 BC MilLn VCCCla ComBro
 BC ExpoLn Wat ComBro
 
+CA CS Eme CA/OR
+OR CS CA/OR OR/WA
+WA CS OR/WA SeaKingSt
+
 CA CalTra SanFraKing SanJoseDir
 CA BARTBlue DalyCity DubPle
 CA BARTGre DalyCity Ber
-CA BARTOra Ber NorBer
+CA BARTOra Ber ElCerDelNor
 CA BARTRed NorBer Mil
 CA BARTYel Mil PitTra
 CA eBART PitTra Ant
@@ -47,23 +51,27 @@ CA MuniK BalPark Emb
 CA MuniL Waw Emb
 CA MuniM BalPark Emb
 CA MuniN LaPla 4thKing
-CA MuniT Sun ChiRosePark
+CA MuniT Sun ChiRosePak
 CA CalSt VanNess Dru
 CA PowHyde Mar Bea
 CA PowMas Mar Bay
 CA VTABlue SanTer Bay
 CA VTAGre Win OldIro
-CA VTAOra DtnMouView Mil
+CA VTAOra DtnMouView AlumRock
 CA AirTrnBlue GarG/BART IntTerA
 CA AirTrnRed GarG/BART_S GarG/BART_F
 # CA NapaValRR Napa KruWin
+CA SMART Lar Win
 
-CA A WilRosaPar 7thStMetCen
-CA A UniSta DuaCityOfHope
+CA PS SanBar Oce
+CA A WilRosaPar DuaCityOfHope
 CA B UniSta UniCityStuCity
 CA C AviLax WilRosaPar
-CA D UniSta WilWes
-CA E DowSanMon 7thStMetCen
+CA D UniSta WilLaCie
+CA E DowSanMon PicAli
+CA K LAXMTC ExpoCre
+CA AngFli OliSt HillSt
+CA Coa Oce Enc
 
 CA BlueLn SanYsiTC UTCTC
 CA GreLn OldTownTC 12thImpTC
@@ -98,9 +106,11 @@ NY AirTrnJam Jam T5
 
 TX RedLnHou DowTC Pre
 
-WA 1 UDis SeaTacAir
+WA 1 Lyn SeaTacAir
+WA 2 Lyn DowRed
 WA SeaCenMon SeaCen WesCen
 WA SouLakeUniLn WesHub LakeUniPark
+WA 1stHillLn OccMall BroDen
 
 NV LVM SLS MGMGra
 NV AE ParkMGM Bel
@@ -196,16 +206,19 @@ DEU-RP RE2 HE/RP KobHbf
 DEU-RP RE5 KobHbf NW/RP
 DEU-NW RE5 BonnHbf Wes
 DEU-NW RE19 DusDorfHbf DEU/NLD
-NLD RE19 ArnCen DEU/NLD
-NLD RS33 ArnCen +DIV_ICA
-NLD RS34 AmeCen +DIV_ICA
-NLD RS34 +DIV_ICE EdeWag
+NLD ICE78 DEU/NLD AmsCen
 
 NLD LonAms AmsCen RotCen
-NLD IC35 RotCen +SKIP_Bar
+NLD IC5 DHCen UtrCen
+NLD IC8 SchAir Lee
+NLD IC21 KapBie DHLaanNoi
+NLD IC27 UtrCen SHer
+NLD IC30 AmsZuid DenHaagCen
+NLD IC35 RotCen Bre
+NLD IC36 SHer Bre
+NLD S44 AmsZuid UtrCen
 
-NLD B MasWest Oosp
+NLD B MasWest Oos
 NLD D RotCen Zui
 NLD 2Haa Spui LaanNOI
 NLD 17Haa StaHolSpo DenHaagCen
-# TODO: R'dam - Den Haag - Gouda
