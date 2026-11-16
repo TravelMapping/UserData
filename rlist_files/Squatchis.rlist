@@ -1,5 +1,6 @@
 ﻿AZ SunLink BroGra UniTyn
 
+CA AirTrnRed IntTerG Ter2
 
 DC YelLn VA/DC LEnfPla
 DC RedLn MetCen TenAU
@@ -25,14 +26,14 @@ WA AC OR/WA SeaKingSt
 
 AUT RB54 DEU/AUT Kuf
 
-ESP-PV SantUrt Ind
+ESP-PV L2 SantUrt Ind
 
 DEU-BY S1 OstBf FlugHafMun
 DEU-BY S2 OstBf Dac
 DEU-BY S4 OstBf FurFeldBru
 DEU-BY S8 FlugHafMun OstBf
 DEU-BY 16Mun ParStr RomPla
-DEU-BY 17Mun AmaBurgStr ReiBachStr
+DEU-BY 17Mun AmaBurgStr IsarTor
 DEU-BY RB6 +SKIP_StaBerg GarPar
 DEU-BY RB54 MunOst DEU/AUT
 DEU-BY RB64 GarPar Gra
