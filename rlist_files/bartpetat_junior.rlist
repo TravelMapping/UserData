@@ -48,6 +48,8 @@ DEU-HB 10Bre MoorStr Hbf
 ##  HH - Hamburg
 
 ##  HE - Hessen
+DEU-HE ICE78 RP/HE FraFurtHbf
+
 DEU-HE 4Kas KonPalStaHal KonPla
 
 ##  MV - Mecklenburg-Vorpommern
@@ -55,6 +57,8 @@ DEU-HE 4Kas KonPalStaHal KonPla
 ##  NI - Niedersachsen
 
 ##  NW - Nordrhein-Westfalen
+DEU-NW ICE78 NLD/DEU NW/RP
+
 DEU-NW RE1 KolnHbf DortMundHbf
 DEU-NW RE18 NLD/DEU AacHbf
 DEU-NW RE19 DusDorfHbf DEU/NLD
@@ -65,6 +69,7 @@ DEU-NW U49 DortMundHbf Hac
 
 
 ##  RP - Rheinland-Pfalz
+DEU-RP ICE78 NW/RP RP/HE
 
 ##  SL - Saarland
 
