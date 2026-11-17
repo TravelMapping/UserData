@@ -304,10 +304,13 @@ GRC T6 Syn Pik
 GRC T7 LOOP AskVou
 
 #Portugal
-PRT LnAzaSin Sin Ent
+PRT LnAzaApo LisSanApo Ori
+PRT LnAzaAlc AlcTer Ori
+PRT LnAzaSin Sin Ori
 PRT LnCas CaisSod Alg
 PRT LnSinRos LisRos Sin
-PRT LnSinOri Ent Sin
+PRT LnSinOri Ori Sin
+PRT LnSul RomaAre Cor
 
 #Lisbon Metro
 PRT LnAma Odi Rato
