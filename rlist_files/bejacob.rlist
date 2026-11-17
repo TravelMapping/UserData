@@ -125,7 +125,7 @@ OR BLp 11thMar_S 11thCou
 OR BLp GraHoyt 11thMar_N
 
 #PA SEPTA
-PA AirLn PHLTerB Phi30thSt
+PA AirLn PHLTerEF Phi30thSt
 PA B1 Pat FernRock
 PA B2 WalLoc Oln
 PA B3 8thMar FernRock
@@ -208,8 +208,8 @@ FL EpcMon TraTicCen EPCOT
 FL ExpMon TraTicCen_1 TraTicCen_2
 FL ResMon TraTicCen_1 TraTicCen_2
 FL TECO DowTam CenPark
-FL NBankLn JacRTC RosaPar
-FL SBankLn RosaPar KinAve
+#FL NBankLn JacRTC RosaPar
+#FL SBankLn RosaPar KinAve
 MI DetPeoMov Mic_S Mic_N
 MI QLn GraBlvd ConSt
 MO MLRedLn LamAirTer1 LacLan
@@ -258,6 +258,15 @@ AUS-NSW T8Syd TownHall Syd
 AUS-NSW T9 Cha Hor
 AUS-VIC MelXPT NSW/VIC SouCro
 
+#England
+ENG LonPar LonStPanInt GBR/FRA
+ENG HEx LonPad HeaTer5
+ENG GatEx LonVic Bri
+ENG EliLn HayHar BondSt
+ENG EliLnHea HeaTer23 BondSt
+ENG EliLnShe HeaTer5 BondSt
+ENG LioLn Eus KilHighRd
+
 #London Underground
 ENG BakLn KilPark EleCas
 ENG CenLn MarArch Bank
@@ -277,27 +286,52 @@ ENG DLRRoy Sha Pop
 ENG DLRStr CanWha BowChu
 ENG DLRWoo Bank Pop
 
+#France
+FRA-HDF LonPar GBR/FRA HDF/IDF
+FRA-IDF LonPar HDF/IDF ParGareNord
+FRA-IDF C ChaMarsTourEif StMicNotDame
+
 #Paris Metro
 FRA-IDF M1 LouRiv Cha
 FRA-IDF M4 GareNord Cha
 FRA-IDF M6 CdGEto BirHak
-FRA-IDF M9 StPhiRou StrStDen
 
-ENG LonPar LonStPanInt GBR/FRA
-ENG HEx LonPad HeaTer5
-ENG GatEx LonVic Bri
-ENG EliLn HayHar BondSt
-ENG EliLnHea HeaTer23 BondSt
-ENG EliLnShe HeaTer5 BondSt
-ENG LioLn Eus KilHighRd
-FRA-HDF LonPar GBR/FRA HDF/IDF
-FRA-IDF LonPar HDF/IDF ParGareNord
-FRA-IDF C ChaMarsTourEif StMicNotDame
+#Greece
 GRC 1Ath Pir Kif
 GRC 2Ath Ell Ant
 GRC 3Ath DimThe Aer
 GRC T6 Syn Pik
 GRC T7 LOOP AskVou
+
+#Portugal
+PRT LnAzaApo LisSanApo Ori
+PRT LnAzaAlc AlcTer Ori
+PRT LnAzaSin Sin Ori
+PRT LnCas CaisSod Alg
+PRT LnSinRos LisRos Sin
+PRT LnSinOri Ori Sin
+PRT LnSul RomaAre Cor
+
+#Lisbon Metro
+PRT LnAma Odi Rato
+PRT LnAzu Reb SanApo
+PRT LnVrd Tel CaisSod
+PRT LnVrm Aer SaoSeb
+
+#Lisbon Electricos
+PRT 12ELis MarMon LarPorSol
+PRT 15ELis PraFig Alg
+PRT 18ELis CaisSod CemAju
+PRT 24ELis PraLuisCar Cam
+PRT 25ELis CorSan CamOur
+PRT 28ELis MarMon CamOur
+
+#Metro Sul do Tejo
+PRT 1Alm Cac Cor
+PRT 2Alm Pra Cor
+PRT 3Alm Uni Cac
+
+#Europe Misc.
 SCT HMLEdi EdiWav Sti
 TUR T1Ist BeyKapCar Toph
 

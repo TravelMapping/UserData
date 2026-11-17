@@ -37,7 +37,7 @@ AZ PHX RenCarCen T4                     #PHX
 
 #California
 CA AirTrnBlue RenCarCen Loop            #SFO
-CA AirTrnRed GarG/BART_S GarG/BART_F.   #SFO
+CA AirTrnRed GarG/BART_S GarG/BART_F   #SFO
 
 #Colorado:
 CO DENTrn JepTer CGat                   #DEN
@@ -75,4 +75,4 @@ TX IAHSky TerA TerDE                    #IAH
 TX IAHSub TerA TerD/E                   #IAH
 
 #Virginia:
-VA AerTrn ConB ConA                     #IAD
+VA AerTrn ConB ConCD                     #IAD
