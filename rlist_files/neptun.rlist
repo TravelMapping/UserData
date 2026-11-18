@@ -68,6 +68,7 @@ CZE S40 Tel KraNadVlt
 CZE S43 KraNadVlt Ner
 CZE S44 Vel KraNadVlt
 CZE S45 Kla KraNadVlt
+CZE S46 Zlo Str #AZD
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -108,6 +109,7 @@ CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
 CZE U13 Most ZatZap
 CZE U14 ChoMes Rak
+CZE U16 Kad Cho
 CZE U21 RouNadLab BriObec
 CZE U22 BriObec Vra
 CZE U28 Rum CZE U28Dec DecHlaNad
@@ -117,6 +119,8 @@ CZE U57 Zlu BlaJes
 
 CZE T5 Lib RouNadLab
 CZE T6 Kas Pod
+CZE T6 KadPru KraDvur
+CZE T6Kad KadPru KadRoh
 CZE T8 MolKruHor LouLit_1
 CZE T10 Jed PraHlaNad
 CZE T11 Tel DecHlaNad
@@ -194,6 +198,7 @@ CZE V3 TepNadMet Vac
 CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V22 Cas RycNadKne
+CZE V23 TynNadOrl RokOrlHor
 CZE V24 Vac Cho
 CZE V31 Sta Vac
 CZE V34 TruHlaNad TepNadMet
