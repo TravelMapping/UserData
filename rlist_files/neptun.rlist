@@ -1,5 +1,5 @@
 # ──────────
-# 2026-08-30
+# 2026-11-18
 # ──────────
 
 # ─────────
@@ -314,11 +314,16 @@ DEU-BY 17Mun RomPla HbfNord
 DEU-BY 18Mun Gie SenTor
 DEU-BY 28Mun SenTor SchPla
 
+DEU-BY S4Sal Fre BerHau
 DEU-BY S5 NeuPerSud Gie
 
 DEU-BY RB32 Neu Bog
 DEU-BY RB35 Got BayEis
 DEU-BY RB38 Got Vie
+DEU-BY RB41 Muh Sim
+DEU-BY RB44 Muh Was
+DEU-BY RB48 Gra Was
+DEU-BY RB58 MunHbf HolzKir
 CZE RB95 Cheb DEU-BY RB95Mar Mar
 
 DEU-BY RE1 MunHbf NurnBergHbf
@@ -374,6 +379,12 @@ DEU-BE S42 SudKre OstKre_S
 
 DEU-BE RB26 MahDorf DEU-BB RB26 StrBerg
 
+# ─────
+# Mitte
+# ─────
+
+DEU-SL RE18 SaaHbf FRA-GES RE18 Metz
+
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
 #└───────────────────────────────────────────┘
@@ -421,6 +432,11 @@ ESP-CT L4 Bar Ver
 #│                    FRA                    │
 #└───────────────────────────────────────────┘
 
+# ───
+# TGV
+# ───
+
+FRA-GES StrMon Metz Str #Ouigo
 FRA-IDF ParCol ParGareEst FRA-GES ParCol Str
 FRA-CVL ParTrs StPieCor Tou
 
@@ -428,6 +444,10 @@ FRA-CVL ParTrs StPieCor Tou
 # TER
 # ───
 
+# Fluo
+FRA-GES REME1 Sav Sel
+
+#Rémi
 FRA-IDF 1CVL GareAus FRA-CVL 1CVL OnzChaLoi
 FRA-IDF 4CVL GareAus FRA-CVL 4CVL Orl
 FRA-CVL 5CVL OnzChaLoi Orl
