@@ -5739,6 +5739,11 @@ FRA-BRE D137-35 QuaiDugTro_W N176
 #==================================
 
 ### -- 2002 -- ##
+# Airport to City Center Tour
+IRL R132 BleSt M1(2)
+IRL DubIOACW J36 R803_E
+
+
 # Hotel (Harcourt Hotel) to Ferry
 IRL R111 R118 J58
 IRL R118 J55 N31_E
@@ -5780,6 +5785,7 @@ IRL R114 J16 R117/R811
 # Bray/Greystones Excursion
 # IRLR117 / Already Highlighted
 IRL R118 J55 R831
+IRL R831 R118 R119
 IRL R118 R828 N11
 IRL N11 R118_S M11
 IRL R837 M11 R119
