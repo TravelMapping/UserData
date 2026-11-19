@@ -1,5 +1,5 @@
 # ──────────
-# 2026-08-30
+# 2026-11-18
 # ──────────
 
 # ─────────
@@ -68,6 +68,7 @@ CZE S40 Tel KraNadVlt
 CZE S43 KraNadVlt Ner
 CZE S44 Vel KraNadVlt
 CZE S45 Kla KraNadVlt
+CZE S46 Zlo Str #AZD
 CZE S49 RosPra PraHos
 CZE S50 Rak Kla
 CZE S54 Sla PraMasNad
@@ -108,6 +109,7 @@ CZE U11 Pos CesLipaHlaNad
 CZE U12 LouLit Rak
 CZE U13 Most ZatZap
 CZE U14 ChoMes Rak
+CZE U16 Kad Cho
 CZE U21 RouNadLab BriObec
 CZE U22 BriObec Vra
 CZE U28 Rum CZE U28Dec DecHlaNad
@@ -117,6 +119,8 @@ CZE U57 Zlu BlaJes
 
 CZE T5 Lib RouNadLab
 CZE T6 Kas Pod
+CZE T6 KadPru KraDvur
+CZE T6Kad KadPru KadRoh
 CZE T8 MolKruHor LouLit_1
 CZE T10 Jed PraHlaNad
 CZE T11 Tel DecHlaNad
@@ -194,6 +198,7 @@ CZE V3 TepNadMet Vac
 CZE V4 TruHlaNad ParHlaNad
 CZE V5 Tur HraKraHlaNad
 CZE V22 Cas RycNadKne
+CZE V23 TynNadOrl RokOrlHor
 CZE V24 Vac Cho
 CZE V31 Sta Vac
 CZE V34 TruHlaNad TepNadMet
@@ -314,11 +319,16 @@ DEU-BY 17Mun RomPla HbfNord
 DEU-BY 18Mun Gie SenTor
 DEU-BY 28Mun SenTor SchPla
 
+DEU-BY S4Sal Fre BerHau
 DEU-BY S5 NeuPerSud Gie
 
 DEU-BY RB32 Neu Bog
 DEU-BY RB35 Got BayEis
 DEU-BY RB38 Got Vie
+DEU-BY RB41 Muh Sim
+DEU-BY RB44 Muh Was
+DEU-BY RB48 Gra Was
+DEU-BY RB58 MunHbf HolzKir
 CZE RB95 Cheb DEU-BY RB95Mar Mar
 
 DEU-BY RE1 MunHbf NurnBergHbf
@@ -374,6 +384,12 @@ DEU-BE S42 SudKre OstKre_S
 
 DEU-BE RB26 MahDorf DEU-BB RB26 StrBerg
 
+# ─────
+# Mitte
+# ─────
+
+DEU-SL RE18 SaaHbf FRA-GES RE18 Metz
+
 #┌───────────────────────────────────────────┐
 #│                    ENG                    │
 #└───────────────────────────────────────────┘
@@ -421,6 +437,11 @@ ESP-CT L4 Bar Ver
 #│                    FRA                    │
 #└───────────────────────────────────────────┘
 
+# ───
+# TGV
+# ───
+
+FRA-GES StrMon Metz Str #Ouigo
 FRA-IDF ParCol ParGareEst FRA-GES ParCol Str
 FRA-CVL ParTrs StPieCor Tou
 
@@ -428,6 +449,10 @@ FRA-CVL ParTrs StPieCor Tou
 # TER
 # ───
 
+# Fluo
+FRA-GES REME1 Sav Sel
+
+#Rémi
 FRA-IDF 1CVL GareAus FRA-CVL 1CVL OnzChaLoi
 FRA-IDF 4CVL GareAus FRA-CVL 4CVL Orl
 FRA-CVL 5CVL OnzChaLoi Orl
