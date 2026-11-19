@@ -1,4 +1,4 @@
-#everywhere that darmstarm has been up to 11-09-26
+#everywhere that darmstarm has been up to 11-15-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
 #USA
@@ -723,25 +723,28 @@ VA I-64 299 282 #delmarva trip
 VA I-64 200 234 #williamsburg trip
 VA I-64 99 87 #raleigh -> hershey
 VA I-64 118 121 #fall break trip 10-25
+VA I-64 174 177 #raleigh -> home 11-26
 VA I-66 6 64 #shanendoah trip 2020 (return trip)
 VA I-66 1 6 #dc -> charleston 11-26
 VA I-77 NC/VA VA/WV #completed with BRR 9-25
 VA I-81 TN/VA VA/WV #various trips, raleigh-> hershey, shanendoah, virginia tech, shanendoah part 2, shawnee -> blacksburg (clinched spring break trip 2026)
 VA I-85 NC/VA 68
 VA I-95 VA/DC NC/VA
-VA I-295 43 1 #raleigh -> home thanksgiving 2025
+VA I-295 1 53 #clinched raleigh -> home 11-26
 VA I-395 1 VA/DC #hershey trip 2025
 VA I-495 MD/VA VA/DC #west side raleigh -> hershey, otherwise regular i95 experience
 VA I-664 13 15
 VA US1 I-95(161) VA294 #baltimore -> raleigh 4-26
 VA US1 I-85(63) VA142 #petersburg half 2024
 VA US1 NC/VA US460Bus_E #raleigh -> home easter 2026
+VA US1 I-95(126) VA3 #raleigh -> home 11-26
 VA US11 I-81(73) VA80 #spring break road trip 2026 (raleigh -> breaks)
 VA US11 VA8 VA111_N #spring break road trip 2026 (shawnee -> blacksburg)
 VA US11 VA37_N I-81(317) #charleston -> dc 11-26
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
 VA US15BusFar US15_S US460Bus_E #panorama farms
+VA US15BusKey VA40_W US15_N #raleigh -> home 11-26
 VA US29 VA86 VA6_W #raleigh -> hershey
 VA US29 US33 I-64 #shanendoah trip 10-25
 VA US29BusChr US250Bus US29_N #uva track meet 4-26
@@ -753,6 +756,7 @@ VA US58 I-95 I-664
 VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
 VA US58 VA86 US220_N #fall break trip 10-25
 VA US58 US58Bus/8 US220_S #spring break road trip 2026 (blacksburg -> raleigh)
+VA US58 VA4 VA92 #raleigh -> home 11-26
 VA US211 SkyDr US340_N #shanendoah -> luray caverns 2020
 VA US220 US58_E SR609 #fall break trip 10-25
 VA US220 US58_W NC/VA #spring break road trip 2026 (blacksburg -> raleigh)
@@ -764,12 +768,15 @@ VA US301 I-95(52) US1_S #petersburg half 2024 (ran, not driven)
 VA US301 SieRd US460Bus_W #petersburg half 2024 (ran, not driven)
 VA US340 VA/WV SkyDr #shanendoah trip 2020
 VA US340Lou VA/MD WV/VA #harper's ferry trip
+VA US360 US15_N VA288 #raleigh -> home 11-26
 VA US460 WV/VA I-81(118C) #VTech tour, mountain lake hotel, shanendoah trip 10-25
 VA US460BusPea VA100_S US460_E #raleigh -> blacksburg
 VA US460BusChr US460_E US460_W #shanendoah trip 10-25, clinched spring break 2026
 VA US460BusPet US301_N VA36Trk_W #petersburg half 2024 (ran, not driven) -> went all the way to battersea lane
 VA US522 US340_S US340_N #shanendoah trip 2020 (specifically, a detour to see dinosaur land)
 VA US522 VA127 VA37 #charleston -> dc 11-26
+VA VA3 US1 I-95 #raleigh -> home 11-26
+VA VA4 NC/VA US58 #raleigh -> home 11-26
 VA VA6 US29_S VA151_N #raleigh -> hershey 2024
 VA VA7 I-495 VA267(16)
 VA VA7 I-81 IntDr #charleston -> home 11-26
@@ -785,13 +792,17 @@ VA VA36 BankSt SieRd #petersburg half 2024 (ran, not driven)
 VA VA36 US1/460Bus VA156Bus_N #raleigh -> home easter 2026
 VA VA36Bol BolSt_E US301_N #petersburg half 2024
 VA VA37 US522 US11_N #charleston -> dc 11-26
+VA VA40 VA59 US15/360Bus_N #raleigh -> home 11-26
 VA VA45 US15Bus/460Bus PlaRd #panorama farms
+VA VA47 VA49/92 VA59 #raleigh -> home 11-26
 VA VA49 US15_N US15 # fall break trip 10-25
 VA VA57 SR687 VA8 # fall break trip 10-25
+VA VA59 VA47 VA40 #raleigh -> home 11-26
 VA VA61 US460 VA100 #spring break road trip 2026 (shawnee -> blacksburg)
 VA VA69 US52 I-77 #spring break road trip 2026 (raleigh -> breaks) grabbed for the lols
 VA VA80 US11 VA460_E #spring break road trip 2026 (raleigh -> breaks, breaks -> mammoth)
 VA VA86 NC/VA US29/58 #raleigh -> hershey 2024
+VA VA92 US58 VA47/49 #raleigh -> home 11-26
 VA VA100 I-81(98) VA61 #raleigh -> blacksburg, shawnee -> blacksburg
 VA VA111 US11/460Bus US460Bus #spring break road trip 2026 (shawnee -> blacksburg)
 VA VA123 US1 I-95 #baltimore -> raleigh 9-25
@@ -805,6 +816,7 @@ VA VA236 VA401 I-495
 VA VA267 18 9B #guatemala trip 6-26 (baltimore -> dulles)
 VA VA280 SR710 US33 #shanendoah trip 10-25
 VA VA286 US50 SR608
+VA VA288 US360 I-64 #raleigh -> home 11-26
 VA VA294 US1 I-95 #home -> raleigh 4/26
 VA VA311 SR624 VA419 #shanendoah trip 10-25. north to dragon's tooth trailhead
 VA VA362 US58 GraHigSP #BRR 9-25
