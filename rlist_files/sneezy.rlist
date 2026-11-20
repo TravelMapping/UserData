@@ -43,6 +43,8 @@ DEU-HE SkyLn Ter1FluAZ Ter1FluC
 DNK A Dyb Hil
 DNK C Kla Hel
 DNK GotCop CopCen SWE/DNK
+DNK KobFre Nor Ros
+DNK LilNor Hil Hel
 ENG CirLn KXSP ManHou
 ENG HT5Tra GatA1A23 GatC52C66
 ENG PicLnHT4 HeaTer23 KXSP
@@ -53,6 +55,7 @@ ESP-MD M6 PriPio Arg_2
 ESP-MD M8 AerT4 NueMin
 ESP-MD M9 PriVer Col
 FL EpcMon TraTicCen EPCOT
+FL ExpMon TraTicCen_1 TraTicCen_2
 FL GateLinkTBW TerB Air3
 FRA-CVL 1CVL Tou BloCha
 FRA-CVL 14CVL IDF/CVL Cha
@@ -93,7 +96,7 @@ IL AirTraSys Ter1 MulModFac
 IL BlueLn OHa LaS
 IL OraLn Mid Loop
 IL RedLn Sox35th Add
-ISR 1Jer ShiISr MouHer
+ISR L1 ShiISr MouHer
 ITA-EMI S1B SanBerSamCasPep BolCen
 ITA-EMI S4A BolCen Fer
 ITA-LAZ FaRomGen RomaTer UMB/LAZ
@@ -115,8 +118,13 @@ MO MLBlueLn UniCityBigBend Sta
 MO MLRedLn 8thPine LamAirTer1
 NJ AirTrn NewLibAir TerB
 NJ NJerCoaLn NY/NJ NewLibAir
+NLD 1Rot Wee Mate
 NLD 51Ams CenSta StaZuid
 NLD 52Ams StaZuid CenSta
+NLD IC21 AmsCen Haa
+NLD IC25 RotCen Gou
+NLD IC29 AmsCen Enk
+NLD ICD7 AmsZuid RotCen
 NLD ParAms RotCen BEL/NLD
 NY AirTrnJam Jam Loop
 NY C HighSt 125St
@@ -135,7 +143,7 @@ OR RedLn BeaTraCen PorIntAir
 OR WesExpSer BeaTraCen Wil
 OR YelLn MadSt DelParkVan
 PA BlueLn NorSide StaSq
-PA BroStLn RaceVine NRG
+PA B1 RaceVine Pat
 PA Mon Low Upp
 SWE GotCop SWE/DNK LundCen
 TX Sky A8 A21
@@ -146,8 +154,8 @@ TWN BL BL19 BL17
 TWN BR BR09 BR01
 TWN G G13 G07
 TWN HSR TPE TAC
-TWN ITC 104 119
 TWN R R07 R05
+TWN 1TC 104 119
 VA AerTrn ConB ConCD
 VA BluLn VA/DC KingStOldTown
 VA NERoa Lyn Ale
