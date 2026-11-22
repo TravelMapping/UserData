@@ -23,6 +23,12 @@ CHE S21Gal StGal App
 # Bernina Express, Chur (CHE) > Tirano (ITA)
 CHE SkyMet AirCen DockE
 
+DEU-BB RB24Flu FlugHafBER BE/BB
+DEU-BE RB24 BE/BB OstKre
+DEU-BE S42 OstKre_S WestHaf
+DEU-BE U5 UntLin MusIns
+DEU-BE U6 LeoPla UntLin
+DEU-BE U9 BirStr LeoPla
 DEU-BW ICE12 DEU/CHE FreHbf
 DEU-BW ICE12 Off MannHeimHbf
 DEU-BW RB26 FreHbf Off
