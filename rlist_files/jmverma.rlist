@@ -9,7 +9,7 @@ DE NENor MD/DE DE/PA
 DC PennLn DC/MD WasUniSta
 DC BluLn StaArm VA/DC
 DC GreLn DC/MD NavyYardBal
-DC RedLn FortTot VanNessUDC
+DC RedLn DC/MD VanNessUDC
 DC SilLnNew DC/MD LEnfPla
 DC YelLn VA/DC MtVerSq
 
@@ -21,6 +21,7 @@ MD NENor NewCar MD/DE
 MD CamLn ColPk BalCam
 MD PennLn BalPenn DC/MD
 MD GreLn Gre DC/MD
+MD RedLnGle DC/MD Gle
 MD SilLnNew NewCar DC/MD
 
 # New Jersey
