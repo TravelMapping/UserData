@@ -1,0 +1,3610 @@
+# A Drive to West Virginia
+# United States
+# Multiarea
+# Interstate Highways
+WV I-64 156 VA I-64 87
+WV I-68 I-79 MD I-68 82
+VA I-81 317 MD I-81 4
+
+# Numbered Highways
+OH US50 CR65 WV US50 LodRd
+WV US60 I-64(181) VA US60 I-64(10)
+
+# Select Inter-State Bridges
+OH MemBri OH32/618 WV MemBri WV14/68
+
+
+# Maryland
+# Interstate Highways
+MD I-70 1A 26
+
+# Numbered Highways
+MD US40 I-68(14) I-70(9)
+MD US219 I-68(14) I-68(22)
+MD US220 I-68(42) I-68(46A)
+MD US522 I-70(1B) I-70(1A)
+
+# Auxiliary Numbered Highways
+MD US40ScePin I-68(72) I-68(74)
+
+# Select Tourist Routes
+MD NatRd I-70(3) I-70(9)
+
+
+# Ohio
+# State Highways
+OH OH7 US50_W OH32_E
+OH OH32 CR65 OH618
+
+
+# Virginia
+# Interstate Highways
+VA I-66 1 53
+VA I-81 191 300
+
+# Numbered Highways
+VA US11 VA37_S SR622_Win
+VA US17 I-66(28) I-66(23)
+VA US17 US50_E JubEarDr
+VA US50 JubEarDr SR657
+VA US60 I-64(16) I-64(50)
+VA US220 I-64(27) I-64(16)
+VA US522 US17/50_S JubEarDr
+
+# State Highways
+VA VA28 I-66 SR608
+VA VA37 I-81 US11_S
+VA VA55 I-66(23) I-66(27)
+VA VA234 I-66(44) I-66(47)
+
+
+# West Virginia
+# Interstate Highways
+WV I-64 59 100(77)
+WV I-64 96(77) 95(77)
+WV I-77 95 96
+WV I-77 98 104
+WV I-77 146 176
+WV I-79 I-77 19
+WV I-79 119 148
+
+# Numbered Highways
+WV US19 WV16_Fay US60
+WV US33 CR22 US119_S
+WV US33 WV14 I-77(138)
+WV US60 KanTer WV61
+WV US60 CR21 BroSt
+WV US60 I-77(96) I-64(156)
+WV US119 CR53 CR22
+WV US219 US60 I-64
+
+# State Highways
+WV WV2 I-77(146) I-77(176)
+WV WV5 WV14 WV53
+WV WV14 US33 PikeSt
+WV WV14 WV68/618 19thSt
+WV WV16 US60_E US60_W
+WV WV20 US60_W US60_E
+WV WV25 CenSt 10thSt_N
+WV WV25 10thSt_S US60
+WV WV31 US50_E US50_W
+WV WV41 US60_E US60_W
+WV WV47 WV618 NewRd
+WV WV53 WV5 CR6
+WV WV61 KanRivBri LowDr
+WV WV61 I-64/77 US60
+WV WV68 US50_W US50_E
+WV WV68 WV14/618 WV14_N
+WV WV618 WV14/68_S US50
+
+
+
+
+# Trip to Virginia Beach Time-Lapse
+# United States
+# Virginia
+# Interstate Highways
+VA I-95 84 170
+VA I-64 200 284
+VA I-295 43 28A
+VA I-264 14 ParAve
+VA I-495 45 170(95)
+VA I-564 3 2
+
+# Numbered Highways
+VA US13 US60 WisePoiLn
+VA US17 I-95(126) I-95(133)
+VA US50 SR608 US29_S
+VA US60 I-64(267) I-64(273)
+VA US60 US13 HarPoiRd
+
+# State Highways
+VA VA33 I-64(205) I-64(220)
+VA VA123 I-95 VA236
+VA VA134 I-64(263) I-64(262)
+VA VA165 I-64(276C) VA337
+VA VA236 US29/50 VA123
+VA VA267 13 18
+VA VA406 VA337 I-564
+
+
+
+
+# A Drive through Skyline Drive in Shenandoah National Park
+# United States
+# Virginia
+# Select National Park Highways
+VA SkyDr US33 US340
+
+
+
+
+# Virginia to Nebraska, A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+WV I-68 I-79 MD I-68 43B
+IN I-70 83 OH I-70 213
+WV I-70 5A PA I-70 21
+IL I-74 182 IN I-74 73
+WV I-79 148 PA I-79 38
+NE I-80 452 IL I-80 10
+OH I-470 I-70 WV I-470 4
+
+# Numbered Highways
+OH US35 I-70 IN US35 I-70(149)
+
+
+# Illinois
+# Interstate Highways
+IL I-55 157 163
+IL I-74 14 181
+
+# Numbered Highways
+IL US51 I-74(135) I-55(163)
+
+# State Highways
+IL IL29 I-74(95A) I-74(93)
+IL IL110 I-74(46) I-88(1)
+
+
+# Indiana
+# Interstate Highways
+IN I-65 112 119
+IN I-465 16B 17
+
+
+# Iowa
+# Interstate Highways
+IA I-35 72A 137(80)
+
+# Numbered Highways
+IA US6 I-29(51) I-80(8)
+IA US6 I-80(60) I-80(110)
+IA US6 I-80(142) I-80(164)
+IA US6 I-80(271) I-80(290)
+IA US61 290(80) 123
+
+
+# Maryland
+# Interstate Highways
+MD I-68 4 43B
+
+# Numbered Highways
+MD US40 I-68(14) I-68(43B)
+MD US219 I-68(14) I-68(22)
+MD US220 I-68(42) I-68(43B)
+
+# State Highways
+MD MD51 WV/MD I-68
+
+
+# Nebraska
+# Numbered Highways
+NE US75 NE370 I-80
+
+# National Historic Trails
+NE LCTrl I-80 NE370
+
+# State Highways
+NE NE370 72ndSt US75
+
+
+# Ohio
+# Interstate Highways
+OH I-70 208 213
+OH I-70 213A 219
+OH I-71 106 107
+
+# Numbered Highways
+OH US22 AirRd BriDr_W
+OH US40 AirRd BriDr_W
+OH US40 I-70(186) I-70(204)
+OH US40 I-70(213) OH331
+
+# State Highways
+OH OH331 I-70 US40
+
+# Select Tourist Routes
+OH NatRd AirRd US22/40_BriW
+OH NatRdStC I-70(202) I-70(204)
+OH NatRdStC I-70(213) OH331
+
+# State Highways
+OH OH4 I-70(41) I-70(47)
+OH OH49 I-70(26) I-70(24)
+
+
+# Virginia
+# Interstate Highways
+VA I-66 1 28
+VA I-81 300 310
+
+# Numbered Highways
+VA US15 US17_S US17_N
+VA US17 I-95(133) I-66(23)
+VA US29 US17_S US17_N
+VA US522 VA37 VA127
+
+# Auxiliary Numbered Highways
+VA US17BusFre US1_N US17_N
+
+# State Highways
+VA VA37 I-81 US522
+VA VA55 I-66(23) I-66(27)
+VA VA127 WV/VA US522
+VA VA218 US1/17Bus FerRd
+
+
+# West Virginia
+# State Highways
+WV WV9 MD/WV WV29
+WV WV29 CR45/7 WV9
+WV WV127 CR45/7 WV/VA
+
+
+
+
+# California to New York: A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+WV I-68 I-79 MD I-68 82
+IN I-70 83 OH I-70 93
+WV I-70 5A PA I-70 21
+IL I-74 5 IN I-74 73
+CO I-76 66B NE I-76 3
+WV I-79 148 PA I-79 38
+NE I-80 102 IA I-80 290
+MD I-81 4 PA I-81 187
+PA I-84 I-81/6 NY I-84 4
+IA I-280 I-80 IL I-280 I-80
+OH I-470 I-70 WV I-470 4
+
+# Numbered Highways
+OH US35 I-70 IN US35 I-70(149)
+AZ US160 US89 CO US160 CO112
+
+
+# Arizona
+# Interstate Highways
+AZ I-40 1 165
+
+# Future Interstate Highways
+AZ I-11FutKin 71(40) 48(40)
+
+# Numbered Highways
+AZ US89 AZ64 US160
+AZ US93 I-40(71) I-40(48)
+AZ US160 US89 AZ/NM
+AZ US180 GraCynNP AZ64_S
+AZ US191 US160_W US160_E
+
+# State Highways
+AZ AZ64 I-40 US89
+AZ AZ95Bul CA/AZ CouRd
+
+# Historic Highways
+AZ US66HisKin I-40(1) CasaGraDr
+
+
+# California
+# Interstate Highways
+CA I-10 1 16B
+CA I-10 93 117
+CA I-40 142 148
+CA I-215 29 34
+
+# Numbered Highways
+CA US95 CA62 FiveMileRd
+
+# State Highways
+CA CA1 1A(10) ChaBlvd
+CA CA57 16 CA60(25)
+CA CA60 I-10(16B) I-10(93)
+
+# Historic Highways
+CA US66HisNee US95_S I-40(148)
+
+
+# Colorado
+# Interstate Highways
+CO I-25 216 259
+CO I-70 203 269B
+CO I-76 1A 5
+
+# Numbered Highways
+CO US6 I-70(203) I-70(205)
+CO US6 I-70(216) I-70(244)
+CO US6 I-76(66B) I-76(92)
+CO US24 US285_S US285_N
+CO US34 I-25 I-76(75)
+CO US40 I-70(232) I-70(244)
+CO US40 I-70(252) I-70(254)
+CO US50 US285_N US285_S
+CO US85 US34_W US34_E
+CO US87 I-25(216) I-25(259)
+CO US285 CO112 CO9_N
+CO US491 US160_W US160_E
+CO US550 US160_E US160_W
+
+# State Highways
+CO CO9 US285_S I-70(205)
+CO CO71 US34_W I-76
+CO CO112 US160 US285
+
+
+# Illinois
+# Interstate Highways
+IL I-55 157 163
+
+# Numbered Highways
+IL US51 I-74(135) I-55(163)
+
+# State Highways
+IL IL17 US150_E I-74
+IL IL29 I-74(95A) I-74(93)
+IL IL110 I-74(46) I-74(14)
+
+
+# Indiana
+# Interstate Highways
+IN I-65 112 119
+IN I-465 16B 17
+
+
+# Iowa
+# Interstate Highways
+IA I-29 48 51
+IA I-35 72A 137(80)
+
+# Numbered Highways
+IA US6 I-29(51) I-80(8)
+IA US6 I-80(60) I-80(110)
+IA US6 I-80(142) I-80(164)
+IA US6 I-80(271) I-280(1)
+IA US61 6(280) 290(80)
+IA US65 84 142(80)
+
+# State Highways
+IA IA38 I-80(271) I-80(267)
+
+# National Historic Trails
+IA LCTrl I-29(48) I-29(51)
+IA MPTrl I-29(51) I-29(48)
+
+
+# Maryland
+# Interstate Highways
+MD I-70 1A 28
+
+# Numbered Highways
+MD US40 I-68(14) I-70(9)
+MD US219 I-68(14) I-68(22)
+MD US220 I-68(42) I-68(46A)
+MD US522 I-70(1B) I-70(1A)
+
+# Auxiliary Numbered Highways
+MD US40ScePin I-68(72) I-68(74)
+
+# Select Tourist Routes
+MD NatRd I-70(3) I-70(9)
+
+
+# Nebraska
+# Numbered Highways
+NE US77 I-80(397) I-80(405)
+
+# State Highways
+NE NE10 I-80(279) I-80(275)
+NE NE31 PlaRd I-80
+
+
+# New Mexico
+# State Highways
+NM NM597 US160 FourCorMon
+
+
+# New York
+# Interstate Highways
+NY I-87 I-278 16(NYST)
+NY I-278 46 47
+NY I-287 15(87) 8(87)
+
+# Numbered Highways
+NY US6 NY17(123) NY17(124)
+NY US6 NY17(127) NY17(130A)
+
+# New York Parkways
+NY FDRDr 3 17
+
+# Future Interstate Highways
+NY I-86FutMon 120 124
+NY I-86FutMon 127 I-87
+
+# State Highways
+NY NY17Bin 120 124
+NY NY17Bin 127 131
+NY NY17Bin I-87(15A) I-87(15)
+NY NY17M NY211_E NY211_W
+NY NY17M NY17(124) NY17(127)
+
+
+# Ohio
+# Interstate Highways
+OH I-70 108 154
+OH I-70 155 219
+OH I-270 8 43
+
+# Numbered Highways
+OH US22 MarSt OH60_N
+OH US40 US22/93 OH60_N
+OH US40 I-70(186) I-70(204)
+
+# State Highways
+OH OH4 I-70(41) I-70(47)
+OH OH49 I-70(26) I-70(24)
+OH OH60 US22/40_W I-70
+OH OH93 MarSt OH60_N
+OH OH146 I-70 US22/40_W
+OH OH710 CleAve_N I-270
+
+# Select Tourist Routes
+OH NatRd US22/93 OH60_N
+OH NatRdStC I-70(202) I-70(204)
+
+
+# Pennsylvania
+# Interstate Highways
+PA I-380 24 I-81/6
+
+# Numbered Highways
+PA US322 I-81(67) I-81/83
+
+# State Highways
+PA PA309 I-81(165) I-81(170)
+
+
+
+
+# Nebraska to California: A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+CA I-15 248 NV I-15 30
+NV I-15 52 UT I-15 16
+UT I-15 188 ID I-15 116
+NE I-80 452 IA I-80 1A
+SD I-90 23 MN I-90 12
+
+# Numbered Highways
+ID US26 I-15(93) WY US26 US189/191_S
+IA US75 CRC12 MN US75 I-90
+
+
+# California
+# Interstate Highways
+CA I-10 1 16B
+CA I-15 115 245
+CA I-210 36 45
+CA I-605 19 27
+
+# State Highways
+CA CA1 1A(10) ChaBlvd
+CA CA18 I-15(150) I-15(153A)
+CA CA60 I-10(16B) 12
+CA CA210 45 64A
+
+
+# Idaho
+# Numbered Highways
+ID US30 I-15(67) I-15(47)
+ID US91 I-15(36) I-15(67)
+
+# Business Interstate Highways
+ID I-15BLPoc JefAve I-15_N
+ID I-15BLIda I-15_S US26_E
+
+# Auxiliary Numbered Highways
+ID US20BusIda US26_W US26_E
+
+# National Historic Trails
+ID CATrl I-15(72) I-15(47)
+ID ORTrl I-15(72) I-15(47)
+
+
+# Iowa
+# Interstate Highways
+IA I-29 51 143
+
+# Numbered Highways
+IA US6 I-29(53B) I-29(51)
+IA US18 US75_N US75_S
+IA US20 1 4
+IA US75 1(20) 120
+
+# Auxiliary Numbered Highways
+IA US75BusSio I-29(143) OldUS75
+
+# State Highways
+IA IA9 US75_N US75_S
+IA IA60 US75 CRC12
+
+# National Historic Trails
+IA LCTrl I-29(51) I-29(143)
+IA MPTrl I-29(61) I-29(51)
+
+
+# Nebraska
+# Numbered Highways
+NE US75 CorRd I-80
+
+# National Historic Trails
+NE LCTrl I-80 CorRd
+
+
+# Nevada
+# Numbered Highways
+NV US93 I-15(42) I-15(64)
+
+# National Historic Trails
+NV OSTrlMoa 80(15) 93(15)
+
+
+# South Dakota
+# Numbered Highways
+SD US14 I-90(23) I-90(112)
+SD US16 SD87 SD244
+SD US16 US16Alt_E US16Trk
+SD US18 US385_N SD79_N
+SD US83 I-90(192) I-90(212)
+SD US385 SD79_N WindCave_B
+SD US385 WindCave_D SD87_S
+SD US385 SD87_N SD244
+
+# Select National Park Highways
+SD BadLpRd BigFooRd I-90(131)
+
+# Auxiliary Numbered Highways
+SD US16AltCus SD87_S SD87_N
+SD US16AltCus SD244 US16_E
+SD US16TrkRap US16 I-90(57)
+
+# State Highways
+SD SD34 WY/SD I-90(30)
+SD SD37 I-90(332) I-90(330)
+SD SD40 SD79_S SD79_N
+SD SD44 US16Trk/79 SD377
+SD SD45 I-90(289) I-90(284)
+SD SD50 I-90(265) I-90(272)
+SD SD63 I-90(163) I-90(170)
+SD SD73 I-90(150) I-90(143)
+SD SD79 US18/385 I-90(30)
+SD SD87 US385 US16/385
+SD SD240 BigFooRd I-90(131)
+SD SD244 US16/385 US16Alt
+
+# National Historic Trails
+SD LCTrl I-90(272) I-90(265)
+
+
+# Utah
+# Interstate Highways
+UT I-70 23 48
+UT I-80 120 123
+UT I-84 41 340(15)
+
+# Numbered Highways
+UT US6 I-15(244) I-15(257B)
+UT US50 I-15(188) UT260
+UT US89 UT9 I-70(48)
+UT US89 I-15(282) I-15(291)
+UT US89 I-15(317A) 394
+
+# Select National Park Highways
+UT BryCynSceDr UT63 BryPoiRd
+
+# State Highways
+UT UT9 I-15 US89
+UT UT12 US89 UT63
+UT UT24 UT260 UT259
+UT UT30 I-15/84 I-15(385)
+UT UT63 UT12 BryCanNP
+UT UT258 I-70 CenBlvd
+UT UT259 I-70 UT24
+UT UT260 UT24 US50
+
+
+# Wyoming
+# Interstate Highways
+WY I-90 58 153
+
+# Numbered Highways
+WY US14 YelNP US16/20
+WY US14 I-90(128) WY24
+WY US16 YelNP WY31
+WY US16 CR47 I-90(58)
+WY US16 I-90(128) US14_Moo
+WY US20 YelNP WY31
+WY US89 US26_W YelNP
+WY US189 US26/89_S US26/89
+WY US191 US26/89_S YelNP
+WY US287 US26/89_S YelNP
+
+# Business Interstate Highways
+WY I-25BLBuf US16_W I-90BL_E
+WY I-90BLBuf US16_W I-90_E
+WY I-90BLMoo I-90_W US14_E
+
+# Auxiliary Numbered Highways
+WY US87BusBuf US16_W US16_E
+
+# Select National Park Highways
+WY DevTowRd WY110 VisCen
+WY RocMemPkwy GraTetNP YelNP
+WY EEntRd GraLoopRd US14/16
+WY GraLoopRd SEntRd EEntRd
+WY SEntRd US89/191 GraLoopRd
+
+# State Highways
+WY WY24 US14 WY/SD
+WY WY31 US16 CRR49
+WY WY110 WY24 DevTowNM
+WY WY120 US14/16_E US14/14Alt
+WY WY789 WY31 US14/16_W
+
+# National Historic Trails
+WY NPTrl FisConeCir EEntRd
+
+
+
+
+# Shenandoah's Skyline Drive: A Complete Autumn Roadtrip
+# United States
+# Virginia
+# Select National Park Highways
+VA SkyDr US250 US340
+
+
+
+
+# New York to Virginia: A Complete Roadtrip
+# United States
+# Multiarea
+NJ I-78 NJ139 NY I-78 HudSt
+MD I-95 27 DE I-95 5C
+DE I-295 I-95 NJ I-295 1
+
+# Numbered Highways
+DE US40 I-295_S NJ US40 NJTpk_N
+
+
+# Delaware
+# Numbered Highways
+DE US202 I-95(5B) I-95(5C)
+
+
+# Maryland
+# Interstate Highways
+MD I-495 27 MD/VA
+
+
+# New Jersey
+# Interstate Highways
+NJ I-78 40 58
+NJ I-95 6 10
+NJ I-287 I-95 5
+
+# Numbered Highways
+NJ US1 I-78(58) NJ139
+NJ US9 I-78(58) NJ139
+NJ US22 CR529 CR531
+
+# Select Named Freeways
+NJ NJTpk I-295(1) 10
+
+# State Highways
+NJ NJ139 US1/9 NJ/NY
+
+
+# Virginia
+# Interstate Highways
+VA I-495 MD/VA 45
+
+# State Highways
+VA VA267 13 18
+
+
+
+
+# Northern Virginia to Ocean City, Maryland
+# United States
+# Delaware
+# Numbered Highways
+DE US9 DE18/404 DE1_S
+
+# Auxiliary Numbered Highways
+DE US13BusBri US13_S DE404Bus_W
+
+# State Highways
+DE DE1 MD/DE US9_W
+DE DE1A RehAve_E DE1_N
+DE DE18 DE404_W US9
+DE DE404 MD/DE DE404BusBri_W
+DE DE404 US13_S DE1
+DE DE404BusBri DE404_W DE404_E
+
+
+# Maryland
+# Interstate Highways
+MD I-95 19 27
+MD I-495 19 MD/VA
+MD I-595 7 24
+
+# Numbered Highways
+MD US50 7 MD404
+MD US50 US113 MD528
+MD US113 MD376 US50
+MD US301 US50(13) US50_E
+
+# State Highways
+MD MD2 US50(23A) US50(27)
+MD MD16 MD313/404 MD404_E
+MD MD313 MD16/404 MD404/619
+MD MD376 US113 MD611
+MD MD378 DivSt 9thSt
+MD MD404 US50 MD/DE
+MD MD528 US50 MD/DE
+MD MD611 MD376 US50
+
+
+# Virginia
+# Interstate Highways
+VA I-495 MD/VA 45
+
+# State Highways
+VA VA267 11 18
+VA VA286 SR665 VA267
+
+
+
+
+# Mid Ohio Valley to Virginia through the Appalachian Mountains
+# United States
+# Multiarea
+# Interstate Highways
+WV I-68 I-79 MD I-68 82
+
+# Numbered Highwayus
+VA US15 VA267 MD US15 12
+WV US50 WV14 VA US50 VA37
+
+
+# Maryland
+# Interstate Highways
+MD I-70 1A 53
+
+# Numbered Highways
+MD US40 I-68(14) I-70(9)
+MD US220 I-68(42) I-68(46A)
+MD US219 I-68(14) I-68(22)
+MD US340 US15_S 12
+MD US522 I-70(1B) I-70(1A)
+
+# Auxiliary Numbered Highways
+MD US40ScePin I-68(72) I-68(74)
+
+# Select Tourist Routes
+MD NatRd I-70(3) I-70(9)
+
+
+# Virginia
+# Interstate Highways
+VA I-66 1 53
+VA I-81 300 310
+
+# Numbered Highways
+VA US17 I-66(28) I-66(23)
+
+# State Highways
+VA VA7 VA267(1) US15/7Bus
+VA VA28 I-66 AirSpaPkwy
+VA VA37 I-81 US50
+VA VA55 I-66(23) I-66(27)
+VA VA267 1 10
+
+
+# West Virginia
+# Interstate Highways
+WV I-79 119 148
+
+# Numbered Highways
+WV US250 US50_W US50_E
+WV US220 US50_E US50_W
+
+# State Highways
+WV WV14 US50 WV68_N
+WV WV28 US50/220 US50_E
+WV WV29 US50_E US50_W
+WV WV31 US50_E US50_W
+WV WV42 US50_W US50_E
+WV WV47 WV618 US50
+WV WV68 WV14/618 RosRd
+WV WV72 US50_W US50_E
+WV WV92 US50_E US50_W
+WV WV93 US50_W US50_E
+WV WV618 WV14/68_S WV14/68_N
+
+
+
+
+# Washington, DC to Seattle, WA: A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+MO I-55 291A(44) IL I-55 3A
+MO I-64 19B WV I-64 18
+WV I-64 34 VA I-64 87
+VA I-66 1 DC I-66 US50_E
+CO I-70 90 KS I-70 421B
+WA I-82 I-90 OR I-82 11
+OR I-84 179 UT I-84 340(15)
+KS I-670 I-70 MO I-670 2N
+
+# Numbered Highways
+CO US24 438(70) KS US24 I-70(45)
+UT US40 1 CO US40 CO64
+MO US40 I-64(19B) IL US40 I-55(3A)
+WV US60 I-64(181) VA US60 I-64(10)
+IN US150 I-64(119) KY US150 I-64(3)
+OR US395 I-82 WA US395 I-82(113)
+
+
+# Colorado
+# Business Interstate Highways
+CO I-70BLLim I-70(359) US24_W
+
+# Numbered Highways
+CO US24 363(70) 405(70)
+CO US36 I-70(279A) I-70(316)
+CO US40 I-70(232) I-70(244)
+CO US40 I-70(288) US24_W
+CO US85 I-25/I-70 I-70(276A)
+CO US287 US24_W I-70(288)
+
+# State Highways
+CO CO9 I-70(203) I-70(205)
+CO CO13 I-70 US6_E
+CO CO13 RaiAve_S CO64
+CO CO64 US40 CO13
+
+
+# District of Columbia
+# Numbered Highways
+DC US50 I-66_W 17thSt
+
+
+# Idaho
+# Numbered Highways
+ID US20 26(84) 29(84)
+ID US20 54(84) 95(84)
+ID US26 I-84(26) I-84(29)
+ID US26 I-84(54) I-84(141)
+ID US30 I-84(9) I-84(137)
+ID US30 I-84(211) I-84(222)
+
+# State Highways
+ID ID25 I-84(194) I-84(201)
+ID ID55 I-84(33) I-84(46)
+
+# National Historic Trails
+ID CATrl I-84(216) I-84(222)
+ID ORTrl I-84(26) I-84(29)
+ID ORTrl I-84(54) I-84(120)
+ID ORTrl I-84(121) I-84(137)
+ID ORTrl I-84(216) I-84(222)
+
+
+# Illinois
+# Interstate Highways
+IL I-57 92 96
+
+# Numbered Highways
+IL US50 I-64(7) I-64(19)
+
+# State Highways
+IL IL3 I-55(1A) StCAve_S
+
+# Select Tourist Routes
+IL GRRESL I-55(1A) I-55(3A)
+
+
+# Indiana
+# State Highways
+IN IN62 I-64(118) I-64/265
+IN IN162 I-64 IN264
+
+
+# Kansas
+# Numbered Highways
+KS US24 I-70(224KT) I-70(421B)
+KS US40 I-70(76) I-70(366)
+KS US40 I-70(224KT) I-70(421B)
+KS US69 I-70(420) I-70(421B)
+KS US75 I-70(355) I-70(358A)
+KS US83 OldUS83_Oak I-70
+
+# Auxiliary Numbered Highways
+KS US40BusJun JHillRd US40_E
+
+# State Highways
+KS KS4 I-70(353) I-70(366)
+KS KS14 I-70(219) I-70(221)
+KS KS18 I-70(295) I-70(303)
+KS KS57 I-70 JHillRd
+KS KS143 I-70 OldHwy81_N
+
+# National Historic Trails
+KS CATrl I-70(346) I-70(366)
+KS ORTrl I-70(346) I-70(366)
+
+
+# Kentucky
+# Interstate Highways
+KY I-75 111 118
+
+# Numbered Highways
+KY US62 US421_N KY341
+KY US421 KY341 US62_S
+
+# State Highways
+KY KY341 US62 I-64
+KY KY627TrkWin I-64(94) KY627_N
+
+# National Historic Trails
+KY LCTrl I-64(1) I-64(4)
+
+
+# Missouri
+# Interstate Highways
+MO I-64 1 14
+MO I-70 2L 210
+
+# Numbered Highways
+MO US24 I-70(2L) I-70(8)
+MO US40 I-70(2L) I-70(7A)
+MO US40 I-70(24) I-70(101)
+MO US40 I-70(121) I-64(14)
+MO US61 I-64(28A) I-64(19B)
+MO US61 I-64(14) I-70
+
+# State Highways
+MO MO100 MO109 MO340
+MO MO109 MO100 MOsCC
+MO MO340 MO100 I-64
+
+# Historic Highways
+MO US66HisMan MO100_Ell MO340
+
+# National Historic Trails
+MO LCTrlSou MO109 MO340
+MO LCTrlSou I-64(28A) MO/IL
+
+
+# Oregon
+# Numbered Highways
+OR US30 I-84(179) I-84(207)
+OR US30 I-84(213) I-84(259)
+OR US30 I-84(265) I-84(285)
+OR US30 I-84(306) I-84(376)
+OR US395 I-84(209) I-84(188)
+
+# State Routes
+OR OR331 I-84 CayRd
+
+# National Historic Trails
+OR ORTrl I-84(207) I-84(193)
+OR ORTrlBak I-84(265) I-84(374)
+
+
+# Utah
+# Interstate Highways
+UT I-15 305B 379
+UT I-80 120 146
+
+# Numbered Highways
+UT US89 I-15(317A) 394
+UT US189 US40_E I-80(146)
+UT US191 US40_W US40_E
+
+
+# Virginia
+# Interstate Highways
+VA I-81 191 300
+
+# Numbered Highways
+VA US17 I-66(28) I-66(23)
+VA US60 I-64(16) I-64(50)
+VA US220 US60Bus_W I-64(16)
+
+# Auxiliary Numbered Highways
+VA US60BusCli US220_S US60_E
+
+# State Highways
+VA VA55 I-66(23) I-66(27)
+
+
+# Washington
+# Interstate Highways
+WA I-5 154 164
+WA I-90 2 10B
+WA I-90 11 110
+
+# Numbered Highways
+WA US12 I-82(31) I-82(102)
+WA US97 I-82(37) I-90(106)
+
+# State Highways
+WA WA99Fed 170thSt WA518
+WA WA518 WA99 I-5
+
+# National Historic Trails
+WA LCTrl I-82(113) I-82(131)
+
+
+# West Virginia
+# Interstate Highways
+WV I-77 40 101
+
+# Numbered Highways
+WV US52Ken I-64(6) I-64(1)
+WV US60 WV193 WV34_N
+WV US60 I-77(97) I-77(96A)
+WV US119 I-64(58A) I-64(58B)
+
+# State Highways
+WV WV34 US60_W HurCreRd
+WV WV193 US60 I-64
+
+
+
+
+# A Beautiful West Coast Road Trip (San Diego, CA to Vancouver, BC)
+# Canada
+# British Columbia
+# Provincial Highways
+BC BC99 USA/CAN OakSt_N
+BC BC99 GraSt_S GeoSt_E
+
+
+
+# United States
+# Multiarea
+# Numbered Highways
+CA US101 CA1_N WA US101 US101Alt_S
+
+
+# California
+# Interstate Highways
+CA I-5 2 79
+CA I-10 1 1A
+CA I-280 47B 49B
+
+# Numbered Highways
+CA US101 60 72
+CA US101 78 132
+CA US101 191B 203A
+CA US101 228 252
+CA US101 438 445B
+
+# State Highways
+CA CA1 I-5 CA1BusCam_S
+CA CA1 CA1BusCam_N PtPieBla
+CA CA1 NacFerRd CA271
+CA CA1BusCam CA1_S CA1_N
+CA CA46 CA1 US101(231B)
+CA CA135 CA1_S CA1(226)
+CA CA68 CA1(399A) CA1(401B)
+
+# National Historic Trails
+CA JBTrlPis 97(101) HinAve
+CA JBTrl CA1_S 401B(1)
+CA JBTrl I-280 US101(438)
+
+
+# Oregon
+# National Historic Trails
+OR LCTrl US101_S US101_N
+
+
+# Washington
+# Interstate Highways
+WA I-5 104 158
+WA I-5 182 195
+WA I-5 198 USA/CAN
+WA I-90 3 10
+WA I-405 11 I-5(182)
+
+# Numbered Highways
+WA US12 WA107 WA8
+WA US101 US101Alt_N WA107
+WA US101 WA8 I-5
+
+# Auxiliary Numbered Highways
+WA US101AltIlw US101_S US101_N
+
+# State Highways
+WA WA8 US12 US101
+WA WA107 US101 US12
+WA WA529 Bro I-5(198)
+
+# National Historic Trails
+WA LCTrl US101_S US101Alt_S
+
+
+
+
+# Vancouver, BC to Sea-Tac Airport in SeaTac, WA
+# Canada
+# British Columbia
+# Provincial Highways
+BC BC99 USA/CAN DenSt
+
+
+
+# United States
+# Interstate Highways
+WA I-5 154 USA/CAN
+
+# Washington State Highways
+WA WA99Fed 170thSt WA518
+WA WA518 WA99 I-5
+WA WA548 CedSt I-5(276)
+
+
+
+
+# The Ultimate East Coast Road Trip: St. John's to Key West
+# Canada
+# Multiarea
+# Trans-Canada Highway
+NB TCHMai 188 NS TCHMai Fry
+
+
+# New Brunswick
+# Arterial Highways
+NB NB2 188 NB/NS
+NB NB7 294(2) 306(2)
+NB NB95 USA/CAN NB2
+NB NB103 NB2 NB165
+
+
+# Newfoundland and Labrador
+# Trans-Canada Highway
+NL TCHMai PortBas 47
+
+# Provincial Highways
+NL NL1 PortBas 47
+NL NL40 OldBroRd NL1
+
+
+# Nova Scotia
+# Arterial Highways
+NS NS104 NB/NS NS105/19
+NS NS105 1 Fry
+
+# Trunk Highways
+NS NS19 NS104/105 MouDr
+
+# Collector Highways
+NS NS348 NS104 NS4_E
+
+
+
+# United States
+# Multiarea
+# Interstate Highways
+FL I-95 BriAve DE I-95 5C
+NJ I-95 6 ME I-95 102
+DE I-295 I-95 NJ I-295 1
+VA I-495 45 MD I-495 27
+
+# Numbered Highways
+NJ US1 I-95(72) NY US1 I-95(2B)
+NJ US9 I-95(72) NY US9 Bro_S
+DE US40 I-295_S NJ US40 NJTpk_N
+
+
+# Connecticut
+# Numbered Highways
+CT US1 I-95(68) I-95(70)
+CT US1 CT77 GooLn
+CT US1 I-95(68) I-95(70)
+
+
+# Delaware
+# Numbered Highways
+DE US202 I-95(5B) I-95(5C)
+
+
+# Florida
+# Numbered Highways
+FL US1 FleSt I-95(2A)
+FL US1 I-95(348) I-95(350A)
+FL US17 I-10/95 I-95(353C)
+FL US90 I-95(350A) I-95(349)
+FL US192 I-95 CR511
+
+# State Highways
+FL FL228 I-10/95 I-95(353C)
+
+
+# Maine
+# Interstate Highways
+ME I-95 103 USA/CAN
+ME I-295 51 I-95(103)
+
+# State Highways
+ME ME9 I-95(102) I-295(51)
+ME ME15 I-95/395 I-95(185)
+ME ME126 I-95 I-295
+ME ME159 BelRd I-95
+
+
+# Massachusetts
+# Numbered Highways
+MA US1 I-95(29) I-93/95
+MA US3 51(95) 72
+
+# State Highways
+MA MA128 26(95) 37
+
+
+# New Jersey
+# Numbered Highways
+NJ US46 I-95(72) NJ/NY
+
+# Select Named Freeways
+NJ NJTpk I-295(1) 72(95)
+
+
+# North Carolina
+# Numbered Highways
+NC US158 I-95(173) I-95(176)
+NC US301 I-95(10) I-95(22)
+
+
+# Rhode Island
+# Numbered Highways
+RI US1 I-95(41A) I-95(42)
+RI US6 I-95(37B) I-195(1)
+
+
+# South Carolina
+# Numbered Highways
+SC US15 I-95(97) I-95(102)
+SC US17 I-95(22) I-95(33)
+SC US301 I-95(97) I-95(102)
+
+
+# Virginia
+# Interstate Highways
+VA I-64 187 190
+VA I-66 57 64
+
+# Numbered Highways
+VA US17 I-95(126) I-95(133)
+VA US50 VA286 I-66(57)
+VA US460 I-95(51) I-95(48)
+
+# State Highways
+VA VA267 DulAirRd 18
+VA VA286 US50 SR608
+
+
+
+
+# A German Road Trip: Stuttgart to Neuschwanstein Castle
+# Multiarea
+# Autobahnen
+DEU-BY A7Neu 122 DEU-BY A7Kem 139
+
+# International 'E' Roads
+DEU-BY E43Neu 122(A7) DEU-BY E43Mem A7/A96
+
+# Bundesstraßen
+DEU-BW B10 A8(62) DEU-BY B10 B28_S
+DEU-BW B28 B10_N DEU-BY B28 A7
+
+
+# Baden-Wurttemberg
+# Autobahnen
+DEU-BW A8 52a 62a
+
+# International 'E' Roads
+DEU-BW E52 52a(A8) 62a(A8)
+
+# Bundesstraßen
+DEU-BW B297 56(A8) 57(A8)
+
+
+# Bavaria
+# International 'E' Roads
+DEU-BY E532 128(A7) 139(A7)
+
+# Bundesstraßen
+DEU-BY B16 B17 PriPla
+DEU-BY B17 St2008 B16
+
+# Staatsstraßen 
+DEU-BY St2008Hoh B17 St2016
+
+# Select Tourist and Scenic Routes
+DEU-BY DtAlpStr PriPla St2008_E
+DEU-BY RomStr St2008 PriPla
+
+
+
+
+# Key West to St Petersburg, FL - A Complete Road Trip
+# United States
+# Florida
+# Interstate Highways
+FL I-75 80 228
+FL I-275 I-75_S 22
+FL I-375 I-275 US19Alt
+
+# Numbered Highways
+FL US1 FLA1A_Key 288thSt
+FL US19 I-275(5) I-275(17)
+FL US41 FL997 FL29
+
+# Florida State Highways
+FL FLA1AKey BerSt US1
+FL FL29 US41 I-75
+FL FL994 FL997 137thAve
+FL FL997 FL994 US41
+
+
+
+
+# St Petersburg, FL to Maryville, TN - A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+FL I-75 274 GA I-75 293
+
+# Numbered Highways
+GA US411 I-75 TN US411 US129_N
+
+
+# Florida
+# Interstate Highways
+FL I-275 23A I-75_N
+FL I-375 I-275 US19Alt
+
+# Numbered Highways
+FL US19 22ndAveN CR184
+
+# Auxiliary Numbered Highways
+FL US19AltStP US92 I-375
+
+# State Highways
+FL FL595 US92 I-375
+
+
+# Georgia
+# Interstate Highways
+GA I-85 242(75) 85
+
+# Numbered Highways
+GA US41 I-75(22) I-75(29)
+GA US41 I-75(135) GA224/7Spr
+GA US76 US411_N US411_S
+
+# State Highways
+GA GA2 US411_N US76/411
+GA GA5 I-75(267) I-75(268)
+GA GA7 I-75(22) I-75(29)
+GA GA7 I-75(135) GA224/7Spr
+GA GA52 US411_N US76/411
+GA GA53 US411_FaiS US411_FaiN
+GA GA61 I-75 GA/TN
+GA GA127 I-75 GA224/7Spr
+GA GA224 I-75 US41/127
+GA GA540 I-75(149) I-75(165)
+
+
+# Tennessee
+# Numbered Highways
+TN US129 US411_S US411_N
+
+# State Highways
+TN TN30 US411_N US411_S
+TN TN72 US411_S US411_N
+
+
+
+
+# Knoxville, TN to Dulles, VA - A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+TN I-81 1 VA I-81 150
+
+
+# Tennessee
+# Interstate Highways
+TN I-40 387A 421
+TN I-75 3(640) 108
+TN I-275 I-40 3
+
+# State Highways
+TN TN357 TN75 I-81
+
+
+# Virginia
+# Interstate Highways
+VA I-66 43 53
+VA I-77 32 40
+
+# Numbered Highways
+VA US11 I-81(73) I-81(89)
+VA US15 US29_S US29_N
+VA US17 US15/29_S US15/29_N
+VA US29 US460_W US501_N
+VA US29 VA130 VA151
+VA US29 VA56_W I-66(43)
+VA US52 I-81(70) I-81(80)
+VA US58 I-81(1) I-81(19)
+VA US220 I-81(143) I-81(150)
+VA US221 US220Alt_N US460_E
+VA US221 EntDr US501
+VA US250 US29_S US29_N
+VA US460 US220Alt_N US501_N
+VA US501 US29/460_S US221
+
+# Auxiliary Numbered Highways
+VA US29BusLyn US501_N CedGateRd
+VA US220AltRoa US221/460_E US220_N
+VA US460BusBed VA43_S US460_E
+
+# State Highways
+VA VA6 US29_S US29_N
+VA VA28 I-66 SR606
+VA VA56 VA151_S US29_N
+VA VA100 I-81(89) I-81(98)
+VA VA122 US460_W US460Bus_W
+VA VA130 US29Bus US29
+VA VA151 US29 VA56_E
+VA VA230 US29_S US29/231
+VA VA231 US29/230 US29_N
+VA VA234 I-66(44) I-66(47)
+VA VA267 9B 10
+
+
+
+
+# Herndon, VA to St. John's, NL: A Complete Road Trip
+# Canada
+# Multiarea
+# Trans-Canada Highway
+ON TCHOtt ON417(9) QC TCHMai 6(25)
+QC TCHMai 85(85) NB TCHMai 58
+NB TCHMai 467 NS TCHMai Fry
+
+
+# New Brunswick
+# Arterial Highways
+NB NB2 QC/NB 58
+NB NB2 467 NB/NS
+NB NB8 119(11) 231
+NB NB11 NB15 179(8)
+NB NB11 304 308
+NB NB15 19 NB11
+NB NB17 NB2 NB180
+
+# Collector Highways
+NB NB134Mon NB11(36) PerRd
+NB NB134 NB8 KingAve
+NB NB160 NB8 NB134
+NB NB180 NB17 NB11
+
+# Local Highways
+NB NB430 PabFalRd KingAve_N
+
+
+# Newfoundland and Labrador
+# Trans-Canada Highway
+NL TCHMai NL470 50
+
+# Provincial Highways
+NL NL1 NL470 50
+NL NL20 NL30 MacDr
+NL NL30 GowSt NL20
+NL NL40 WorPkwy EliAve
+
+# Nova Scotia
+# Arterial Highways
+NS NS104 NB/NS NS105/19
+NS NS105 1 Fry
+
+
+# Ontario
+# King's Highways 400-series
+ON ON417 QC/ON 9
+ON ON417 27 51
+
+# Trans-Canda Highway
+ON TCHOtt ON417(51) ON417(27)
+
+# King's Highways
+ON ON34 ON417 RR17
+ON ON138 ON401 ON417
+
+
+# Quebec
+# Autoroutes
+QC A-15 70 1(AL)
+QC A-20 90 499
+QC A-25 A-20 5
+QC A-25 6 8
+QC A-55 128 145
+QC A-40 ON/QC 80
+QC A-85Not NB/QC *ChSav
+QC A-85 56 85
+QC A-85 90 A-20
+
+# Trans-Canda Highway
+QC TCHMai 5(25) 90(85)
+
+# Provincial Routes
+QC QC116 A-20(141) A-20(147)
+QC QC143 A-20(177) A-20(175)
+QC QC232 A-85(37) A-85(40)
+
+
+
+# United States
+# Multiarea
+# Interstate Highways
+MD I-81 4 NY I-81 172
+
+# Numbered Highways
+VA US15 VA7_E MD US15 12
+
+
+# Maryland
+# Interstate Highways
+MD I-70 26 52
+
+# Numbered Highways
+MD US340 US15_S 12
+
+
+# New York
+# Interstate Highways
+NY I-86Bin 72A 75
+
+# State Highways
+NY NY17Bin 72A 75
+NY NY26 NY37/411 NY37_N
+NY NY49 I-81 HeiRd
+NY NY411 I-81 NY26/37
+NY NY420 GlaRd NY37
+NY NY812 NY37_S NY37_N
+
+# Select Tourist Routes
+NY SeaTrl NY37_S NY37_OgdW
+NY SeaTrl NY37_OgdE NY37_MasW
+NY SeaTrl NY37_MasE SeaIntBri
+
+
+# Pennsylvania
+# Numbered Highways
+PA US6 I-81(194) I-81(187)
+PA US11 I-81(3) WilPike
+
+# State Highways
+PA PA309 I-81(165) I-81(170)
+
+
+# Virginia
+# State Highways
+VA VA7 US15/7Bus VA28
+VA VA28 VA267 VA7
+VA VA267 9B 10
+
+
+
+
+# Las Vegas, NV to Fresno, CA - A Complete Road Trip
+# United States
+# Multiarea
+# Select National Park Highways
+CA DayPassRd NorHwy NV DayPassRd NV374
+
+
+# California
+# Numbered Highways
+CA US395 CA14 US395Bus/190
+
+# Auxiliary Numbered Highways
+CA US395BusOla US395_S CA190_E
+
+# Select National Park Highways
+CA ScoCasRd CA190 DayPassRd
+CA GenHwy CA198 KinCanRd
+CA KinCanRd CA180_W GenHwy
+
+# State Highways
+CA CA14 CA178_W US395
+CA CA41 128 134
+CA CA65 CA99 FirAve
+CA CA99 27 30
+CA CA99BusBak CA178 CA99(27B)
+CA CA178 2A CA14_N
+CA CA180 59 KinCanNP
+CA CA190Dea US395 NorHwy
+CA CA198 CA245 SeqNP
+CA CA204 CA178 CA99
+
+
+# Nevada
+# Interstate Highways
+NV I-11 85 96
+
+# Numbered Highways
+NV US95 85(11) NV374
+
+# State Highways
+NV NV374 DeaValNP US95
+
+
+
+
+# Fresno, CA to Ely, NV - A Complete Road Trip
+# United States
+# Multiarea
+# Numbered Highways
+CA US395 CA120_W NV US395 RivViewDr
+
+
+# California
+# Select National Park Highways
+CA BigOakRd TioPassRd ElPorRd
+CA ElPorRd BigOakRd SouDr
+CA TioPassRd BigOakRd CA120
+CA WawRd CA41 SouDr
+CA SouDr ElPorRd WawRd
+
+# State Highways
+CA CA41 135 YosNP
+CA CA120Lee YosNP US395_N
+
+
+# Nevada
+# Interstate Highways
+NV I-80 16 48
+NV I-580 US50/395 3
+NV I-580 8 35
+
+# Numbered Highways
+NV US50 NV207 I-580(3)
+NV US50 US50Alt US93_N
+NV US93 US50_W 17thSt
+NV US95 US50_W US50_E
+NV US395 US50_W 3(580)
+NV US395 8(580) 35(580)
+
+# Auxiliary Numbered Highways
+NV US50AltFer I-80BL/95Alt US50_E
+NV US95AltYer US50Alt_E I-80(48)
+NV US395BusCar FaiDr US395_N
+
+# State Highways
+NV NV206 GreAcreDr NV207
+NV NV207 US50 NV206
+NV NV648 I-580 RockBlvd
+NV NV756 NV88 DreRd
+
+# National Historic Trails
+NV CATrl GreAcreDr NV207
+NV CATrl US50_W 3(580)
+NV CATrl US50Alt US50_E
+NV CATrlSta US50_E NV206
+NV PETrl US50_E NV206/207
+NV PETrl US50_W 5(580)
+NV PETrl US50Alt 17thSt
+NV PETrlShe GreAcreDr NV207
+
+
+
+
+# Ely, NV to Las Vegas, NV (via UT) - A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+NV I-15 31 UT I-15 27
+
+# Numbered Highways
+NV US6 US50/93 UT US6 US50_E
+NV US50 US93_N UT US50 UT260
+
+
+# Nevada
+# Numbered Highways
+NV US93 I-15(42) I-15(64)
+NV US93 US6/50_E 17thSt
+
+# National Historic Trails
+NV OSTrlMoa 80(15) 93(15)
+NV PETrl US50/93 17thSt
+
+
+# Utah
+# Interstate Highways
+UT I-15 178 188
+
+# Numbered Highways
+UT US89 UT9 UT12
+
+# State Highways
+UT UT9 UT17 US89
+UT UT12 US89 TeaRd
+UT UT17 UT9 I-15
+UT UT24 UT260 StaSt
+
+
+
+
+# My 3rd West Virginia Road Trip, in Real Time: Day 1
+# United States
+# Multiarea
+# Numbered Highways
+WV US50 I-79 MD US50Red US219
+MD US50Red MD560 VA US50 VA28
+
+
+# Maryland
+# Numbered Highways
+MD US219 US50 MD135/219
+
+# State Highways
+MD MD135 US219 MD560
+MD MD560 US50 MD135
+
+
+# Virginia
+# Numbered Highways
+VA US11 US50/522 US50_W
+VA US17 US50_E US50_W
+WV US19 I-79(57) I-79(67)
+VA US522 US17/50_S US50_W
+
+# State Highways
+VA VA28 US50 AirSpaPkwy
+
+
+# West Virginia
+# Interstate Highways
+WV I-64 53 59
+WV I-77 101 132
+WV I-79 57 119
+
+# Numbered Highways
+WV US19 WV16_Oak I-79(67)
+WV US33 US119_S ChuSt
+WV US60 RoxAve DunBrg
+WV US119 WV214_Rut ToWV61
+WV US119 I-64(58A) I-64(58B)
+WV US220 US50_E US50_W
+WV US250 US50_W US50_E
+
+# State Highways
+WV WV5 WV14 WV53
+WV WV14 US33 WV5
+WV WV16 WV61_N US19_Oak
+WV WV25 I-64(53) 10thSt_S
+WV WV28 US50/220 US50_E
+WV WV29 US50_E US50_W
+WV WV42 US50_W US50_E
+WV WV47 WV618 NewRd
+WV WV53 WV5 CR6
+WV WV61 WV16_N US119
+WV WV68 WV618_E WV14_N
+WV WV72 US50_W US50_E
+WV WV92 US50_E US50_W
+WV WV93 US50_W US50_E
+WV WV601 US119/214 KanTpke
+WV WV618 WV14/68_N WV47
+
+
+
+# My 3rd West Virginia Road Trip, in Real Time: Day 2
+# United States
+# Multiarea
+# Numbered Highways
+WV US48 US219_ParS VA US48 I-81
+
+
+# Virginia
+# Numbered Highways
+VA US11 VA55_W VA7
+VA US15 VA7_W VA7_E
+VA US17 US11_S US50_W
+VA US50 US11/522_N US11_S
+VA US522 US11_S VA7
+
+# State Highways
+VA VA7 US11/522 VA28
+VA VA28 DulAirRd VA7
+VA VA55 WV/VA US11_N
+
+
+# West Virginia
+# Numbered Highways
+WV US19 US33/119_W US33/119_E
+WV US33 US48/219 WV14
+WV US48 I-79 US219_ElkN
+WV US119 US33_W US33/48
+WV US219 US33/48 US48_ElkE
+WV US250 US33/48 US48/219
+
+# State Highways
+WV WV5 WV14 WV53
+WV WV5 US33/119_W US33/119_E
+WV WV14 US33 WV5
+WV WV14 WV618_E 13thSt
+WV WV32 US48_E US219/48
+WV WV47 WV618 NewRd
+WV WV53 WV5 CR6
+WV WV55 US48_W WV/VA
+WV WV68 WV618_E 13thSt
+WV WV72 US219/48_N US219_S
+WV WV92 US33/250 US33/48
+WV WV93 WV32 US48_E
+WV WV259 US48/55_W US48/55_E
+WV WV618 WV14/68_N WV47
+
+
+
+
+# Alexandria, VA to Miami, FL—A Complete Winter Road Trip
+# United States
+# Multistate
+# Interstate Highways
+VA I-95 173 MD I-95 19
+VA I-495 173(95) MD I-495 19
+
+# Numbered Highways
+VA US13 VA168 MD US13 US50_W
+FL US17 BroSt SC US17 SC707
+NC US17 US17BypWin_N VA US17 I-64(291)
+
+
+# Florida
+# Interstate Highways
+FL I-95 349 350A
+FL I-395 1 FLA1A
+
+# Numbered Highways
+FL US1 FL9 BriAve_S
+FL US1 US41_W US27
+FL US1 FLA1A_S FLA1A_N
+FL US1 FLA1A_For FL708/A1A
+FL US1 FL786/A1A OceDr
+FL US1 OceBlvd CRA1A
+FL US1 FLA1A_VerS FLA1A_VerN
+FL US1 I-95(349) BaySt
+FL US1 FL228_E US17/1Alt
+FL US23 US1/17 BroSt
+FL US41 FL907 I-395
+FL US41 I-395(2B) US1/970
+FL US41 FL933 FL9
+FL US90 US1_N FL228_E
+FL US90 BaySt FLA1A
+FL US192 RivDr FLA1A
+
+# Auxiliary Numbered Highways
+FL US1BusStA FLA1A_S FLA1A_N
+
+# State Highways
+FL FLA1AFor I-395 US1
+FL FLA1ANor US1_S US1_N
+FL FLA1AVer FL714 FL528(46)
+FL FLA1ANSB CRA1A FL44
+FL FLA1A US1 US90
+FL FL9 US1 FL968
+FL FL10 US90_W US90_E
+FL FL228 BroSt LibSt
+FL FL528 46 54B
+FL FL836 FL933 I-95/395
+FL FL933 US41 FL836
+
+
+# Georgia
+# Interstate Highways
+GA I-16 164 167
+GA I-516 3 5
+
+# Business Interstate Highways
+GA I-95BLDar US17_S US17_N
+
+# Numbered Highways
+GA US80 I-516(5) I-516(3)
+GA US82 US17_S I-95
+
+# State Highways
+GA GA21 I-516(3) I-516(5)
+GA GA25 FL/GA I-516(5)
+GA GA26 I-516(5) I-516(3)
+GA GA99 US17_S US17_N
+GA GA110 US17_S US17_N
+GA GA404SprSav I-16 GA/SC
+GA GA520 US17_S US17_N
+
+
+# Maryland
+# Interstate Highways
+MD I-595 7 24
+
+# Numbered Highways
+MD US50 7 US13/50Bus
+MD US301 US50(13) US50_E
+
+# State Highways
+MD MD2 US50(23A) US50(27)
+MD MD16 US50_W US50_E
+
+
+# North Carolina
+# Numbered Highways
+NC US13 US64(514) US17Byp_N
+NC US17 HicRd 16thSt
+NC US17 US17BusWlm_N US13/17BypWin
+NC US64 514 515
+NC US70 410 417
+NC US74 US17_S US76/421
+NC US76 US17_S 16thSt
+NC US158 US17_N US17_S
+NC US421 US17/76 US17/74
+
+# Auxiliary Numbered Highways
+NC US17BusWlm 16thSt US17_N
+NC US17BusTrkEli US17_S US17BusEli_N
+NC US17BypWin US17_S US17_N
+
+# State Highways
+NC NC24 US17_S US17_N
+NC NC37 US17_S US17_N
+NC NC43 US17_S US17_N
+NC NC53 US17_S US17_N
+NC NC55 US70(416) US17_N
+NC NC58 US17_S US17_N
+NC NC133 US17/74 US17/76
+NC NC308TrkWin NC308_W US13/17
+
+
+# South Carolina
+# Interstate Highways
+SC I-26 220 US17_S
+SC I-95 22 33
+
+# Numbered Highways
+SC US21 US17_N US17/17Alt
+SC US278 US17_N US17_S
+
+# State Highways
+SC SC9 SC31 SC905
+SC SC31 SC707 SC9
+SC SC707 US17_S SC31
+
+
+# Virginia
+# Interstate Highways
+VA I-64 290 291
+
+# State Highways
+VA VA165 US13_E US13/166
+VA VA166 US13/165 US13_N
+VA VA168 15B US13
+VA VA180 US13_S US13_N
+VA VA401 SR613 VA236
+
+
+
+
+# Miami, FL to Herndon, VA: A Complete Winter Road Trip
+# United States
+# Multistate
+# Interstate Highways
+FL I-95 38 VA I-95 152
+
+
+# Florida
+# Numbered Highways
+FL US1 FL9 BriAve_S
+FL US1 US41_W 62ndSt
+FL US1 I-95(348) I-95(350A)
+FL US17 I-10/95 I-95(353C)
+FL US41 I-395(2B) US1/970
+FL US90 I-95(350A) I-95(349)
+FL US192 I-95 CR511
+FL US441 62ndSt CocCrePkwy
+
+# State Highways
+FL FL9 US441_S I-95
+FL FL228 I-10/95 I-95(353C)
+FL FL845 MLKingBlvd CopRd
+
+
+# Georgia
+# Numbered Highways
+GA US17 I-95(67) GA119
+
+# State Highways
+GA GA25 I-95(67) GA119
+
+
+# North Carolina
+# Numbered Highways
+NC US158 I-95(173) I-95(176)
+NC US301 I-95(10) I-95(22)
+
+# State Highways
+NC NC48 NC186 I-95(180)
+
+
+# South Carolina
+# Numbered Highways
+SC US15 I-95(97) I-95(102)
+SC US17 I-95(22) I-95(33)
+SC US52 US52Bus_E I-95
+SC US301 I-95(97) I-95(102)
+
+
+# Virginia
+# Interstate Highways
+VA I-64 187 190
+
+# Numbered Highways
+VA US17 I-95(126) I-95(133)
+VA US460 I-95(51) I-95(48)
+
+# State Highways
+VA VA28 LibAve SR668
+VA VA234 I-95 VA234Bus/294
+VA VA294 VA234 LibAve
+
+
+
+
+# Seattle, WA to Washington, DC: A Complete Winter Road Trip
+# United States
+# Multistate
+# Interstate Highways
+IL I-39 17(90) WI I-39 84
+PA I-70 75(76) MD I-70 53
+OH I-76 218 PA I-76 161
+IL I-80 155 IN I-80 16
+IN I-80 49 OH I-80 151
+WA I-90 2 MT I-90 446
+WI I-90 45 IL I-90 77
+IN I-90 49 OH I-90 142
+MT I-94 0 ND I-94 182
+ND I-94 190 MN I-94 34(694)
+MN I-94 249 WI I-94 240
+IL I-94 74 MI I-94 1
+
+# Numbered Highways
+IL US6 I-80(161) IN US6 I-80(15)
+MN US12 I-94(249) WI US12 4(94)
+ND US52 I-94(258) MN US52 I-694(34)
+MD US522 I-70(1B) PA US522 I-70(168)
+
+
+# Illinois
+# Interstate Highways
+IL I-294 0 40B
+
+# Numbered Highways
+IL US51 I-90(17) I-90(1)
+
+
+# Indiana
+# Numbered Highways
+IN US20 IN249 IN149
+IN US41 I-80(2) I-80(1)
+
+# State Highways
+IN IN39 I-80/90 IN/MI
+IN IN249 US20 I-94
+
+
+# Maryland
+# Interstate Highways
+MD I-270 I-495 32
+MD I-495 33 34
+
+# Numbered Highways
+MD US40 I-70(1A) I-70(9)
+
+# Numbered Highways
+MD MD185 DC/MD I-495
+
+# Select Tourist Routes
+MD NatRd I-70(3) I-70(9)
+
+
+# Michigan
+# State Highways
+MI MI239 IN/MI I-94(1)
+
+
+# Minnesota
+# Interstate Highways
+MN I-35E 113 114
+MN I-694 27 48
+MN I-694 50 58
+
+# Numbered Highways
+MN US10 I-694(42A) I-694(46)
+MN US59 I-94(61) I-94(50)
+MN US61 CRC I-694
+
+# State Highways
+MN MN27 I-94(100) I-94(114)
+MN MN95 I-94(258) I-94(253)
+MN MN210 I-94(54) I-94(57)
+
+
+# Montana
+# Interstate Highways
+MT I-15 121 129
+MT I-90 446A 456
+
+# Numbered Highways
+MT US12 I-90(105) I-90(174)
+MT US12 I-94(93) I-94(141)
+MT US87 I-90(456) I-90(452)
+MT US89 I-90(333) I-90(340)
+MT US93 I-90(101) I-90(96)
+MT US191 I-90(309) I-90(367)
+MT US212 I-90(434) I-90(443)
+MT US212 I-90(446A) I-90(456)
+
+# Primary State Highways
+MT MT59 CemRd I-94
+MT MT200 I-90(96) I-90(109)
+
+# National Historic Trails
+MT LCTrl I-90(274) I-90(256)
+MT LCTrlBla I-90(105) I-90(109)
+MT LCTrlYel I-90(274) I-90(443)
+MT LCTrlYel I-94(23) I-94(213)
+
+
+# North Dakota
+# Numbered Highways
+ND US83 CR10 I-94(159)
+
+# Auxilairy Numbered Highways
+ND US52BypJam I-94(256) US52_E
+ND US281BypJam US281_S I-94(256)
+
+# State Highways
+ND ND1 ND200_E ND200_W
+ND ND3 I-94(208) I-94(200)
+
+# National Historic Trails
+ND LCTrlWes I-94(147) I-94(153)
+ND LCTrlBis I-94(153) I-94(159)
+
+
+# Ohio
+# Interstate Highways
+OH I-71 237 238
+OH I-80 187 218
+OH I-271 21 26A
+OH I-480 I-80_W 11
+
+# State Highways
+OH OH10 1(480) 2(480)
+OH OH14 I-271(23) I-480(42)
+
+
+# Washington
+# Interstate Highways
+WA I-5 164 166
+
+# Numbered Highways
+WA US2 I-90(277) I-90(281)
+WA US97 I-90(110) I-90(106)
+WA US395 I-90(220A) I-90(281)
+
+# State Highways
+WA WA261 HarRd I-90/395
+
+# Historic Highways
+WA US10HisMos I-90(151) I-90(176)
+WA US10HisMos I-90(179) I-90(184)
+
+
+# Wisconsin
+# Numbered Highways
+WI US51 160(90) 156(90)
+
+# State Highways
+WI WI35 I-94(3) I-94(1)
+WI WI65 I-94 US12_W
+
+
+
+
+# Herndon, VA to San Antonio, TX: A Complete Road Trip
+# United States
+# Multistate
+# Interstate Highways
+TX I-10 720 LA I-10 162B
+MS I-20 130 AL I-20 1
+LA I-59 1 MS I-59 96A
+MS I-59 99 AL I-59 1
+AL I-85 0 NC I-85 120
+
+# Numbered Highways
+LA US11 I-59(3) MS US11 I-59(1)
+NC US29 I-85(118) VA US29 VA28_N
+TX US90 I-10(851) LA US90 4(10)
+
+# Future Interstate Highways
+NC I-785FutRei US29Bus_S VA I-785FutDan US58/360
+
+
+# Alabama
+# Interstate Highways
+AL I-65 167 171
+
+# Numbered Highways
+AL US29 I-85(51) I-85(64)
+AL US43 US80_E US80_W
+AL US80 US11_N I-65(168)
+AL US80 I-85(6) I-85(16)
+AL US82 I-65(171) I-65(168)
+AL US280 I-85(58) I-85(62)
+
+# State Highways
+AL AL21 US80_W US31/80
+AL AL22TrkSel US80/219 AL22_E
+AL AL28 US80_W US80_E
+AL AL41 US80_E AL14
+AL AL69 US80_W US80_E
+
+# National Historic Highways
+AL SMTrl US80_W US80_E
+
+
+# Georgia
+# Interstate Highways
+GA I-75 242 251
+
+
+# Louisiana
+# Interstate Highways
+LA I-10 163 267
+
+# Numbered Highways
+LA US90 26(10) 31B(10)
+LA US167 I-10(100) I-49(1A)
+
+# State Highways
+LA LA42 I-10 US61/948
+LA LA182 I-10(101) I-10(103)
+LA LA3184 I-10 End
+LA LA3246 I-10 US61/73
+
+
+# Mississippi
+# Numbered Highways
+MS US11 JefSt I-59(99)
+MS US11 I-59(150) I-59(154)
+MS US80 I-20(130) I-59(154)
+MS US84 I-59(95A) I-59(96A)
+MS US98 I-59(65) I-59(59)
+
+# State Highways
+MS MS15 I-59(96A) I-59(95A)
+MS MS19 I-59(154) I-59(150)
+MS MS42 I-59(67) I-59(69)
+
+
+# North Carolina
+# Interstate Highways
+NC I-40 219 223
+NC I-85 118 120
+
+# Numbered Highways
+NC US29 I-85(4) I-85(10B)
+NC US29 I-85(84) I-85(87)
+NC US52 87(85) 76(85)
+NC US70 I-85(84) I-85(87)
+NC US158 149(29) 153(29)
+NC US220 I-40(219) US29/70
+NC US601 I-85(58) I-85(75)
+
+
+# South Carolina
+# Numbered Highways
+SC US29 I-85(34) I-85(42)
+
+
+# Texas
+# Interstate Highways
+TX I-10 579 718
+
+# Numbered Highways
+TX US69 I-10(849) I-10(853A)
+TX US90 I-10(579) I-10(603)
+TX US90 I-10(698) I-10(718)
+TX US90 I-10(721) I-10(729)
+TX US90 I-10(741) I-10(775)
+TX US96 I-10(849) I-10(853A)
+TX US287 I-10(849) I-10(853A)
+
+# Auxiliary Numbered Highways
+TX US90AltHal I-10(773A) I-10(773B)
+
+# State Highways
+TX TX36 I-10 TXLp350_S
+TX TX71 I-10(695) I-10(696)
+TX TX130 581(10) 614(10)
+
+
+# Virginia
+# Numbered Highways
+VA US17 US15/29_S US15/29BusWar_N
+VA US15 US29_S US29_N
+VA US58 US29_S US29_N
+VA US250 US29_S US29_N
+VA US460 US29_S US29_N
+VA US501 US29/460_N US29/460_S
+
+# State Highways
+VA VA6 US29_S US29_N
+VA VA28 US29 SR668
+VA VA56 US29_S US29_N
+VA VA130 US29Bus US29
+VA VA230 US29_S US29/231
+VA VA231 US29/230 US29_N
+
+
+
+
+# San Antonio, TX to Herndon, VA: A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+TX I-30 199 AR I-30 138
+AR I-40 159 TN I-40 208
+KY I-64 115(75) WV I-64 15
+TN I-65 84 KY I-65 93
+
+# Numbered Highways
+WV US48 US219_ParS VA US48 I-81
+TX US259 US82 OK US259 US70Byp_W
+TX US271 US82_W OK US271 US70_E
+
+
+# Arkansas
+# Interstate Highways
+AR I-55 279B(40) 8
+AR I-440 I-30/530 11
+
+# Numbered Highways
+AR US61 I-40(279B) I-40(277)
+AR US63 I-40(193) I-40(216)
+AR US64 I-55(8) I-40(279B)
+AR US67 I-30(114) I-30(138)
+AR US70 I-30(111) I-30(129)
+AR US78 I-55(8) I-40(279B)
+AR US79 I-40(265) I-40(279B)
+AR US270 I-30(98) I-30(99)
+
+# State Highways
+AR AR261 I-40 End
+
+
+# Kentucky
+# Interstate Highways
+KY I-75 111 115
+
+# Numbered Highways
+KY US60 BlueGraPkwy KY4(5)
+
+# Parkways
+KY BluPkwy 1 72
+
+# Auxiliary Numbered Highways
+KY US31ETrkBar US31E_S US150_E
+KY US62TrkEli I-65(91) I-65(93)
+
+# State Highways
+KY KY4 5 9
+KY KY446 US31W/68 I-65
+KY KY627TrkWin I-64(94) KY627_N
+KY KY922 KY4 I-75
+
+
+# Oklahoma
+# Numbered Highwys
+OK US70 US271_S KirkAve
+
+# Auxiliary Numbered Highways
+OK US70BypIda OK37 US259_S
+
+# State Highways
+OK OK37Ida N4450 US70Byp
+
+
+# Tennessee
+# Interstate Highways
+TN I-24 44 46
+
+# Numbered Highways
+TN US70S I-40(196) TN251
+TN US412 I-40(79) I-40(87)
+
+# Future Interstate Highways
+TN I-69FutMem 1E(40) 2A(40)
+
+
+# Texas
+# Interstate Highways
+TX I-20 467 501
+TX I-30 93 101
+TX I-35 166 240B
+TX I-35 247 370B
+TX I-35E 370B 418
+TX I-410 10 27
+
+# Numbered Highways
+TX US59 I-30/369 I-30(223)
+TX US67 I-30(93) I-30(101)
+TX US77 I-35(334) I-35(370)
+TX US77 I-35E(408) I-35E(418)
+TX US82 US259 I-30
+TX US183 I-35 FM1325
+TX US190 I-35(293) I-35(299)
+TX US290 I-35(230) I-35(238)
+
+# Auxiliary Numbered Highways
+TX US271BusPar US82Bus_W US271_N
+
+# State Highways
+TX TX11 TX11Bus_W TX24_S
+TX TX16 I-410(10) I-410(13A)
+TX TX19 TX24_S US82Bus
+TX TX24 I-30 US82Bus
+TX TX34 I-20 I-30
+TX TX276BusQui TX34_N TX276_E
+
+# State Highway Loops
+TX TXLp1 FM1325_S ScoRidPkwy
+
+
+# Virginia
+# Interstate Highways
+VA I-66 1 55
+VA I-81 296 300
+
+# Numbered Highways
+VA US17 I-66(28) I-66(23)
+
+# State Highways
+VA VA55 WV/VA I-81
+VA VA55 I-66(23) I-66(27)
+VA VA234 I-66(44) I-66(47)
+VA VA286 I-66 SR665
+
+
+# West Virginia
+# Interstate Highways
+WV I-64 20B 59
+WV I-77 101 104
+WV I-79 I-77 99
+
+# State Highways
+WV US19 I-79(57) I-79(67)
+WV US33 CR219/86 I-79
+WV US48 I-79 US33/219
+WV US52Ken I-64(6) I-64(1)
+WV US60 I-64(15) EMallRd
+WV US119 I-64(58A) I-64(58B)
+WV US119 I-79(99) US33/48
+WV US250 US33/48 CR219/86
+WV US219 CR219/86 US33/48
+WV US219 CR219/86_Ker US48_E
+
+# State Highways
+WV WV32 US48_E US219/48
+WV WV55 US48_W WV/VA
+WV WV72 US219/48_N US219_S
+WV WV92 US33/250 US33/48
+WV WV93 WV32 US48_E
+WV WV259 US48/55_W US48/55_E
+
+
+
+
+# New York, NY to Santa Monica, CA: A Complete Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+CA I-40 78 AZ I-40 165
+WV I-68 I-79 MD I-68 82
+NJ I-78 3 NY I-78 HudSt
+MD I-81 4 PA I-81 66
+MO I-255 1A IL I-255 20
+
+# Numbered Highways
+PA US22 I-78(8) NJ US22 I-78(18)
+KS US50 CRX OH US50 OH124_E
+OH US50 115(35) WV US50 I-79
+AZ US163 US160 UT US163 US191
+
+# Select Tourist Routes
+OH LCTrl I-75 IN LCTrl US50_Aur
+IN ORSB US50_Aur OH ORSB I-75
+
+
+# Arizona
+# Business Interstate Highways
+AZ I-40BLWil I-40_W GraCanBlvd
+
+# Numbered Highways
+AZ US89 AZ64 US160
+AZ US93 I-40(71) I-40(48)
+AZ US160 US89 BIA59
+AZ US180 GraCynNP AZ64_S
+
+# Future Interstate Highways
+AZ I-11FutKin 71(40) 48(40)
+
+# State Highways
+AZ AZ64 I-40 US89
+
+# Historic Highways
+AZ US66HisWil I-40(161) GraCanBlvd
+
+
+# California
+# Interstate Highways
+CA I-10 1 16B
+CA I-10 93 117
+CA I-215 29 34
+
+# Numbered Highways
+CA US95 I-40(144) I-40(133)
+
+# State Highways
+CA CA1 1A(10) ChaBlvd
+CA CA57 16 CA60(25)
+CA CA60 I-10(16B) 29B
+CA CA60 33 I-10(93)
+CA CA62 I-10 AdoRd
+
+# Historic Highways
+CA US66HisBar AmbRd KelRd
+
+
+# Colorado
+# Numbered Highways
+CO US24 US285_S 21stSt
+CO US24 141(21) CO94
+CO US40 CO94 US287_S
+CO US50 US285_N HolAve
+CO US160 CR-G CO112
+CO US285 CO112 US24_E
+CO US285 US50_E US24_E
+CO US287 CO96_E CO94
+CO US385 CO96_W CO96_E
+CO US491 CR-G US160_E
+CO US550 US160_E US160_W
+
+# State Highways
+CO CO9 US24_E US24_W
+CO CO67 US24_W US24_E
+CO CO94 US24 US40/287
+CO CO96 US287_N CO/KS
+CO CO112 US160 US285
+CO CO145 US160 CR-P
+
+
+# Illinois
+# Interstate Highways
+IL I-64 7 19
+
+# Numbered Highways
+IL US45 US50_E US50_W
+IL US51 US50_W US50_E
+
+# State Highways
+IL IL3 I-255(6) I-255(10)
+IL IL4 US50_W US50_E
+IL IL127 US50_E US50_W
+IL IL158 I-64 US50
+IL IL250 US50/130 US50_E
+
+# Select Tourist Routes
+IL GRRESL I-255(6) I-255(10)
+
+
+# Indiana
+# Numbered Highways
+IN US41 US50/150 US50/67
+IN US150 US50/67 US50_E
+IN US231 US150_W US150_E
+IN US421 US50/129 US50_W
+
+# State Highways
+IN IN3 US50/7 US50_E
+IN IN11Sey US50_W US50_E
+IN IN37 US50_W US50_E
+IN IN129 US50/421 US50_E
+IN IN135 US50_E US50_W
+
+
+# Kansas
+# Interstate Highways
+KS I-35 133 222
+KS I-135 30 33
+KS I-435 MO/KS 83
+
+# Numbered Highways
+KS US56 US50_W US50_E
+KS US56 I-35(210) I-35(222)
+KS US59 I-35(183) I-35(188)
+KS US81 I-135(30) I-135(33)
+KS US83 US50_E US50_W
+KS US169 I-35(215) I-35(222)
+KS US283 US50_W US50/56
+KS US400 US83_N US50_E
+
+# State Highways
+KS KS14 US50_E US50_W
+KS KS15 I-135(30) US50_W
+KS KS25 Rd250 KS96
+KS KS61 US50_W US50_E
+KS KS96 CO/KS KS25
+KS KS96 US50_W US50_E
+
+# National Historic Trails
+KS SFTrl US50/400_W US50_E
+KS SFTrlGar US83 KS23
+
+
+# Maryland
+# Interstate Highways
+MD I-70 24 26
+
+# Numbered Highways
+MD US11 MD63/68 MD63_N
+MD US40 I-68(14) I-70(9)
+MD US219 I-68(14) I-68(22)
+MD US220 I-68(42) I-68(46A)
+MD US522 I-70(1B) I-70(1A)
+
+# Auxiliary Numbered Highways
+MD US40ScePin I-68(72) I-68(74)
+
+# State Highways
+MD MD63 US11/68 I-70
+
+# Select Tourist Routes
+MD NatRd I-70(3) I-70(9)
+
+
+# Missouri
+# Interstate Highways
+MO I-44 247 277B
+MO I-435 71 MO/KS
+MO I-470 I-435 7
+
+# Numbered Highways
+MO US61 US50_E I-44
+MO US63 US50_E US50/54
+MO US67 US50_E I-44
+
+# State Highways
+MO MO5 US50_E US50_W
+MO MO19 US50_E US50_W
+MO MO47 US50_E US50_W
+MO MO89 US50_W US50_E
+MO MO135 US50_E US50_W
+MO MO291 US50_W ColRd
+
+# Historic Highways
+MO US66His I-44(261) I-44(277A)
+
+# National Historic Trails
+MO LCTrlSou US50_W US50_E
+
+
+# New Jersey
+# Numbered Highways
+NJ US22 I-78(3) I-78(18)
+
+# State Highways
+NJ NJ139 I-78 NJ/NY
+NJ NJ173 I-78(13) I-78(15)
+
+
+# New York
+# Interstate Highways
+NY I-278 22 26
+NY I-478 I-278 NY9A
+
+# Parkways
+NY BeltPkwy I-278 6
+
+# State Highways
+NY NY9A I-478 CanSt
+
+
+# Ohio
+# Interstate Highways
+OH I-71 US50_W 1B
+
+# Numbered Highways
+OH US23 43B 46
+OH US33 199 197A
+OH US35 117 112
+OH US50 OH753_S US23Bus_N
+
+# Auxiliary Numbered Highways
+OH US23BusChi US35 HopRd
+
+# State Highways
+OH OH7 US50_W US50_E
+OH OH32 US50_W US50_E
+OH OH41 US50_W US50_E
+OH OH73 US50/124 US50/62
+OH OH124 US50_W OH506
+OH OH104 US23Bus_N US50_W
+OH OH132 US50_E US50_W
+OH OH159 US35 HopRd
+OH OH264 US50_E US50
+OH OH327 US50_E US50_W
+OH OH506 OH124 OH753
+OH OH753 OH506 US50_E
+
+# National Historic Trails
+OH LCTrl US50_E US50_W
+OH ORSB US50_W US50_E
+
+
+# Pennsylvania
+# Interstate Highways
+PA I-78 1 51
+PA I-81 80 89
+
+# Numbered Highways
+PA US22 PA443 PA743
+PA US322 PA443 I-81(67)
+
+# State Highways
+PA PA329TrkNor US22/145 US22/987
+PA PA443 FroSt US22/322
+
+
+# Utah
+# Numbered Highways
+UT US191 US163 UT162
+
+# State Highways
+UT UT162 US191 IsmTPRd
+
+
+# West Virginia
+# Interstate Highways
+WV I-79 119 148
+
+# State Highways
+WV WV31 US50_E US50_W
+WV WV68 US50_W US50_E
+
+
+
+
+# Santa Monica, CA to Enterprise, NV: A Complete Real Time Road Trip
+# United States
+# Multistate
+# Interstate Highways
+CA I-15 150 NV I-15 34
+
+
+# California
+# Interstate Highways
+CA I-5 158 161C
+CA I-5TrkNew I-5_S CA14
+CA I-10 1 3
+CA I-405 53B I-5(158)
+
+# State Highways
+CA CA1 1A(10) ChaBlvd
+CA CA14 I-5Trk 30
+CA CA18 CA138_W I-15(153A)
+CA CA138 PeaHwy_W CA18_W
+
+# Historic Highways
+CA US6HisSan AngForHwy PeaHwy
+
+
+# Nevada
+# State Highways
+NV NV161 SanValRd I-15
+
+# National Historic Trails
+NV OSTrlGoo I-15 SanValRd
+
+
+
+
+# Washington, DC to Mt. Washington, NH: A Complete Road Trip
+# United States
+# Multiarea
+# Numbered Highways
+DC US1 US50_W NJ US1 WarSt
+
+# Select Inter-State Bridges
+VT BarRdBri US5 NH BarRdBri NH135
+
+
+# District of Columbia
+# Numbered Highways
+DC US50 17thSt US1_N
+
+
+# Maryland
+# Auxiliary Numbered Highways
+MD US40TrkBal US1_S US1_N
+
+# State Highways
+MD MD136 US1 MD440
+
+
+# New Hampshire
+# Interstate Highways
+NH I-93 42 44
+
+# Numbered Highways
+NH US2 NH115 NH16_S
+NH US3 NH116_S NH116_N
+NH US302 I-93(42) NH116_N
+
+# State Highways
+NH NH10 I-93 NH18
+NH NH16 MtWasRd US2_W
+NH NH18 I-93(44) NH135_S
+NH NH18 NH116_N US302_W
+NH NH115 HazRd US2
+NH NH116 NH18_N HazRd
+NH NH135 BarRd I-93(44)
+NH NH142 NH116_S US3_N
+
+
+# New Jersey
+# Interstate Highways
+NJ I-80 25 27
+
+# Numbered Highways
+NJ US202 US206/28 US206_N
+NJ US206 CR583 WooAve
+
+# Auxiliary Numbered Highways
+NJ US1BusTre US1_S US206
+
+# State Highways
+NJ NJ15 MorFarmRd US206
+NJ NJ23 CR519_S NJ/NY
+NJ NJ94 WarJctRd NJ15_N
+
+
+# New York
+# Interstate highways
+NY I-84 32 41
+NY I-90 8 11
+
+# Numbered Highways
+NY US6 I-84(1) NY284
+NY US9 NY9D NY9H/23
+NY US9 NY9H_N I-90(11)
+NY US20 I-90(11) US9_S
+
+# State Highways
+NY NY2 NY278 NY351
+NY NY7 CR129 NY/VT
+NY NY9D I-84 US9
+NY NY9H US9_S US9_N
+NY NY17K NY211 NY747
+NY NY17M SteSt US6_W
+NY NY22 NY7_W NY7_E
+NY NY23 US9_S NY9H/23B
+NY NY43 I-90 NY351
+NY NY52 I-84(37) I-84(41)
+NY NY211 NY17M_N NY17K
+NY NY351 NY43 NY2
+NY NY747 I-84 NY17K
+
+
+# Pennsylvania
+# Interstate Highways
+PA I-76 339 340
+
+# Numbered Highways
+PA US13 US1_S US1_N
+PA US322 US1/202 US1_N
+
+# State Highways
+PA PA41AltTrkAvo US1_N PA41_N
+PA PA32AltTrkMor PA32_S US1_N
+PA PA52 US1_N US1_S
+PA PA52AltTrkTho US1_S US202/322_S
+PA PA63 US1_S US1_N
+PA PA82AltTrkEas PA82_S US1/41
+
+
+# Vermont
+# Interstate Highways
+VT I-91 6 18
+
+# Numbered Highways
+VT US5 NorMonRd BimDr
+VT US7 VT7A_B VT11
+
+# State Highways
+VT VT7A NorDr US7(2)
+VT VT9 NY/VT US7
+VT VT11 US7 VT100_S
+VT VT30 VT35 VT100_N
+VT VT30 VT11_E US7_S
+VT VT35 VT30 VT121_E
+VT VT100 VT30_S VT11_W
+VT VT103 I-91 PleValRd
+VT VT121 VT35_S HallBriRd
+
+
+
+
+# Mt. Washington, NH to Ashburn, VA: A Complete Real Time Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+PA I-84 I-81/6 CT I-84 51
+CT I-91 32A VT I-91 19
+NH I-93 40 VT I-93 I-91
+
+# Numbered Highways
+VA US15 VA7_E PA US15 US11/581
+
+
+# Connecitcut
+# Numbered Highways
+CT US6 I-84(4) I-84(7)
+CT US6 I-84(10) I-84(15)
+CT US6 I-84(38) I-84(51)
+CT US7 I-84(3) I-84(7)
+CT US202 I-84(4) I-84(7)
+
+# State Highways
+CT CT72 3 4A
+
+
+# Maryland
+# Numbered Highways
+MD US40 US15_N US15/340
+MD US340 US15_S 12
+
+
+# Massachusetts
+# State Highways
+MA MA2 SumDr 46(91)
+
+
+# New Hampshire
+# Numbered Highways
+NH US2 NH115 NH16_S
+NH US3 US302 NH115
+
+# Auxiliary Numbered Highways
+NH US302TrkLit US302_W US302_E
+
+# State Highways
+NH NH16 MtWasRd US2_W
+NH NH18 US302_E I-93(40)
+NH NH115 US3 US2
+NH NH116 US302_E I-93(40)
+NH NH142 US302_W US302_E
+
+
+# New York
+# State Highways
+NY NY52 I-84(37) I-84(44)
+
+
+# Pennsylvania
+# Interstate Highways
+PA I-81 59 187
+PA I-380 24 I-81/6
+
+# Numbered Highways
+PA US11 PA581(3) PA581(5)
+PA US322 I-81(67) I-81/83
+
+# State Highways
+PA PA309 I-81(165) I-81(170)
+PA PA315 MainSt I-81(178)
+PA PA390TrkHaw PA390 I-84(30)
+PA PA402TrkHaw I-84(34) PA402_N
+PA PA581 1 5
+
+
+# Vermont
+# Auxiliary Numbered Highways
+VT US2TrkSSJ I-91(19) I-93(1)
+
+# State Highways
+VT VT9TrkBra VT9_W I-91(3)
+
+
+# Virginia
+# State Highways
+VA VA7 US15/7Bus VA28
+VA VA28 *DulCenBlvd VA7
+
+
+
+
+# Nairobi to Hell's Gate NP: A Complete Real Time Road Trip
+# Kenya
+# EAC Road Network
+KEN EA1 Wes A8S_W
+
+# A Roads
+KEN A8 A8S_W Wes
+KEN A8S C707 A8_W
+
+
+
+
+# Driving up Pikes Peak in a Thunderstorm
+# United States
+# Colorado
+# Numbered Highways
+CO US24 FouAve 297
+
+
+
+
+# The Complete US Route 6 Road Trip
+# United States
+# Multiarea
+# Interstate Highways
+UT I-70 157 CO I-70 11
+IL I-74 IA/IL 5
+IL I-80 161 IN I-80 15
+IL I-94 161(80) IN I-94 15
+NE I-480 4 IA I-480 0
+
+# Numbered Highways
+CA US6 US395 CO US6 JulDr
+CO US6 CooMesaRd NE US6 NE15_N
+NE US6 L80H IN US6 IN49
+IN US6 IN39 PA US6 I-99
+PA US6 BaiCorRd MA US6 MA6A_E
+NV US50 US6_W UT US50 US6_E
+UT US50 I-70(157) CO US50 US6_E
+NY US202 US6_Bre CT US202 I-84(7)
+PA US209 US6_W NY US209 US6_E
+
+
+# California
+# Interstate Highways
+CA I-5 137 162
+CA I-110 3B 21
+
+# Numbered Highways
+CA US395 CA14 US6
+
+# State Highways
+CA CA14 64 US395
+CA CA14U SieHwy_S FriValPkwy
+CA CA58BusMoj CA14_N CA14_S
+CA CA110 21 26
+CA CA168Bis US395_N US395_S
+CA CA178 CA14_S CA14_N
+
+# Historic Highways
+CA US6HisSan I-5Trk SilQueRd
+
+
+# Colorado
+# Interstate Highways
+CO I-25 209A 214A
+CO I-70 44 62
+CO I-70 109 140
+CO I-70 171 205
+CO I-70 216 244
+CO I-70 274 276A
+CO I-76 9 92
+
+# Business Interstate Highways
+CO I-70BLGra I-70_W US6_GraW
+CO I-70BLGra US6_GraE US6_E
+CO I-76BLFMo I-76(92) 6thAve
+
+# Numbered Highways
+CO US34 I-76(66B) I-76(75)
+CO US40 I-70(232) I-70(244)
+CO US85 I-25(209A) I-76(12)
+CO US87 I-25(209A) I-25(214A)
+
+# State Highways
+CO CO9 I-70(203) I-70(205)
+CO CO13 US6_E US6_W
+CO CO14 US6_W I-76
+CO CO52 CR12.5_E I-76(31)
+CO CO82 I-70 6thSt
+CO CO131 US6_E US6_W
+
+
+# Connecticut
+# Interstate Highways
+CT I-84 4 8
+CT I-84 10 15
+CT I-84 38 60
+
+# Numbered Highways
+CT US7 I-84(4) I-84(7)
+CT US44 I-84(50) I-84(53)
+CT US44 I-84(60) US6_E
+
+# State Highways
+CT CT8 38 39
+CT CT12 US6_E US6_W
+CT CT25 US6_E US6_W
+CT CT67 US6_E I-84
+CT CT69 US6_W US6_E
+
+
+# Illinois
+# Numbered Highways
+IL US30 US6/53 US6_E
+IL US34 US6_W US6/26
+IL US52 US6_W US6/53
+
+# State Highways
+IL IL26 US6_E US6/34
+IL IL47 US6_W US6_E
+IL IL53 US6/52 US6/30
+IL IL71 US6/23 US6_E
+IL IL82 US6_E US6_W
+IL IL83 I-80 US6_W
+IL IL89 US6_E US6_W
+IL IL351 US6_W US6_E
+
+# Historic Highways
+IL US66His US6/52 US6/30
+
+# Select Tourist Routes
+IL LinHwy US6/53 US6_E
+
+
+# Indiana
+# Numbered Highways
+IN US30 IN2/49 IN39
+IN US33 US6_E US6/13
+IN US35 US6_E US6_W
+IN US41 I-80(2) I-80(1)
+IN US421 US6_E US6_W
+
+# State Highways
+IN IN2 US30_E IN49_N
+IN IN3Ken US6_W US6_E
+IN IN9 US6_W US6_E
+IN IN13 US6_W US6/33
+IN IN23 US6_E US6_W
+IN IN39 US30 US6
+IN IN49 US30 US6
+IN IN51 US6_E I-80/94
+IN IN327 US6_E US6_W
+
+# Select Tourist Routes
+IN LinHwyPly US30_ValE US30_HanW
+IN LinHwyPly US30_HanE IN39
+
+
+# Iowa
+# Interstate Highways
+IA I-29 51 53B
+IA I-80 1A 8
+IA I-80 60 110
+IA I-80 142 164
+IA I-80 271 290
+IA I-280 I-80 1
+
+# Numbered Highways
+IA US61 1(280) 290(80)
+IA US71 US6_W I-80
+IA US59 US6_W US6_E
+IA US151 US6_W US6_E
+IA US169 I-80 US6_E
+
+# State Highways
+IA IA1 US6_E US6_W
+IA IA14 I-80 US6_E
+IA IA21 US6_W US6_E
+IA IA28 US6_W US6_E
+IA IA38 US6_W I-80(271)
+IA IA83 US6_W US6_E
+
+# Historic Highways
+IA US6HisAtl CRL66 US6/71
+IA US6HisBro CRT38_N US6/63
+IA US6HisBro US6_E CRV52
+IA US6HisIow 1stAve_S US6/1
+IA US6HisDur I-280 US6_Dav
+
+# National Historic Trails
+IA LCTrl I-29(51) I-29(53B)
+IA MPTrl I-29(53B) I-29(51)
+
+# Select Tourist Routes
+IA LinHwy NE/IA IA LinHwy I-480(0)
+
+
+# Massachusetts
+# State Highways
+MA MA6APro ConSt US6_E
+MA MA28 US6_E US6_W
+MA MA79 US6_E US6_W
+MA MA138 US6_E US6/103
+
+# Historic Highways
+MA US6HisPro MayAve MA6A
+
+
+# Nebraska
+# Numbered Highways
+NE US34 US6_W US6_E
+NE US83 US6/34_E US6/34_W
+NE US281 US6/34 US6_E
+
+# State Highways
+NE NE14 US6_W US6_E
+NE NE15 US6_W I-80
+NE NE31 US6_W US6_E
+NE NE44 US6/34_W US6/34_E
+NE NE61 US6_E US6_W
+
+# State Links and Spurs
+NE L80H US6 I-80
+
+
+# Nevada
+# Numbered Highways
+NV US93 US6/50_E US6_W
+NV US95 US6_E US6_W
+
+
+# New York
+# Numbered Highways
+NY US9 US6/202_E US6/202_W
+NY US202 US6_W US6_E
+
+# Parkways
+NY SevLakDr PalIntPkwy(18) PalIntPkwy(19)
+
+# Future Interstate Highways
+NY I-86FutMon 123 130A
+
+# Select Named Freeways
+NY PalIntPkwy 18 US6/9W
+
+# State Highways
+NY NY17Bin 123 130A
+NY NY17M US6_W NY17(124)
+NY NY17M NY94 CR13
+NY NY22 US6_W I-684(10)
+NY NY35 US9 US6_E
+NY NY94 US6 JohRd
+
+
+# Ohio
+# Numbered Highways
+OH US20 98 102
+OH US20 US6/237 PubSqu
+OH US20 US6_W US6_E
+OH US24 39 43
+OH US42 US6/20 PubSqu
+OH US322 PubSqu US6_E
+
+# State Highways
+OH OH2 US6_W US6/127
+OH OH2 142 143
+OH OH2 US6_E 194A
+OH OH3 US6/20 PubSqu
+OH OH7 US6_W US6_E
+OH OH19 US20(102) US20(100)
+OH OH44 US6_W US6_E
+OH OH49 US6_W US6_E
+OH OH53 US6_W US20(101)
+OH OH66 US6_W US6_E
+OH OH101 US6_W OH4
+OH OH199 US6_E US6_W
+OH OH269 US6_W US6_E
+
+# Historic Highways
+OH US6HisCha KirChaRd GraSt
+
+# Select Tourist Routes
+OH LECT OH2(194A) OH2(131)
+
+
+# Pennsylvania
+# Interstate Highways
+PA I-81 187 194
+PA I-99Man 179 182
+PA I-476 131A 131B
+
+# Numbered Highways
+PA US6 US15Bus PA14_N
+PA US11 I-476/6 US6_W
+PA US15 I-99(179) I-99(182)
+PA US19 US6/322 US6/6N
+PA US62 US6_W US6_E
+PA US322 US6_W US6_E
+
+# Auxiliary Numbered Highways
+PA US15BusMan US15_S US6
+
+# State Highways
+PA PA8 US6_W US6_E
+PA PA14 US6_W HavRd
+PA PA27 US6_W US6_E
+PA PA44 US6_E US6_W
+PA PA46 US6_E US6_W
+PA PA89 US6_E US6_W
+PA PA92 US6_W US6_E
+PA PA92TrkNic PA92_S US6/11
+PA PA155 US6_E US6_W
+PA PA191 US6_E US6_W
+PA PA198 US6/19_N US6/19_S
+PA PA285 US6_W US6/322
+PA PA287 US6/660 US6_W
+PA PA321 US6_E US6_W
+PA PA390TrkHaw US6_E US6/507
+PA PA590 US6_E US6_W
+PA PA660 US6/287 US6_E
+
+
+# Rhode Island
+# Interstate Highways
+RI I-95 36A 37B
+RI I-195 1 2C
+RI I-295 9A 9C
+
+# Numbered Highways
+RI US44 I-195(1C) I-195(1B)
+
+# State Highways
+RI RI1APro I-195(1C) I-195(2B)
+RI RI10 3B I-95
+
+# National Historic Trails
+RI WRTrl I-195(1B) I-195(1C)
+
+
+# Utah
+# Interstate Highways
+UT I-15 244 257B
+
+# Numbered Highways
+UT US89 US6_E US6_W
+UT US191 I-70(182) US6_W
+
+
+
+
+# Bishop, CA to Los Angeles, CA: A Complete Real Time Road Trip on Historic US-6
+# United States
+# California
+# Interstate Highways
+CA I-5 139 162
+CA I-15 150 184A
+CA I-40 I-15 2
+
+# State Highways
+CA CA2 GleBlvd_S 13A
+CA CA14 I-5 30
+CA CA18 CA138_W I-15(153A)
+CA CA138 70thSt CA18_W
+
+# Historic Highways
+CA US6HisSan AngForHwy PeaHwy
+
+
+
+
+# The Complete I-40 Road Trip: Barstow, CA to Wilmington, NC
+# United States
+# Multiarea
+# Interstate Highways
+CA I-40 I-15 TX I-40 64
+TX I-40 65 NC I-40 46
+
+
+# Arizona
+# Numbered Highways
+AZ US93 I-40(71) I-40(48)
+AZ US180 I-40(201) I-40(285)
+AZ US191 I-40(339) I-40(333)
+
+# Future Interstate Highways
+AZ I-11FutKin 71(40) 48(40)
+
+# State Highways
+AZ AZ77 I-40(286) I-40(292)
+AZ AZ99 I-40(252) I-40(245)
+
+# Historic Highways
+AZ US66HisKin AirAve I-40(53)
+
+
+# Arkansas
+# Interstate Highways
+AR I-55 279B(40) 8
+
+# Numbered Highways
+AR US61 I-40(279B) I-40(277)
+AR US63 US70_W I-40(216)
+AR US64 I-55(8) I-40(279B)
+AR US65 I-40(153B) I-40(125)
+AR US67 I-40(153B) I-40(155)
+AR US71 I-40(7) I-40(13)
+AR US78 I-55(8) I-40(279B)
+AR US79 I-40(265) I-40(279B)
+AR US167 I-40(153B) I-40(155)
+
+# State Highways
+AR AR59 MainSt_W I-40
+
+# National Historic Trails
+AR BOTrlFay MainSt_W I-40
+
+
+# California
+# Numbered Highways
+CA US95 I-40(144) I-40(133)
+
+# Historic Highways
+CA US66HisBar I-40(2) I-40(5)
+
+
+# New Mexico
+# Numbered Highways
+NM US54 I-40(275) I-40(333)
+NM US84 I-40(256) I-40(277)
+
+# State Highways
+NM NM41 I-40 CR4B
+NM NM118 DefDrawRd I-40(16)
+
+
+# North Carolina
+# Interstate Highways
+NC I-26 4A(240) 31
+NC I-85 131B 163
+NC I-40 53 US117_S
+NC I-240 31(26) 9
+
+# Numbered Highways
+NC US19 I-240(3A) I-240(4A)
+NC US23 I-240(3A) I-240(4A)
+NC US29 I-85BL(36A) I-40(223)
+NC US64 293(40) 14(440)
+NC US70 I-240(4A) I-240(5B)
+NC US70 I-40(65) I-40(72)
+NC US74 I-40(27) I-40(46)
+NC US117 NC132_S I-40(420)
+NC US220 81 I-40(223)
+NC US421 I-40(212) I-40(206)
+
+# Auxiliary Numbered Highways
+NC US19BusAsh I-240(2) US19_N
+NC US23BusAsh I-240(2) US23_N
+NC US64TrkHen I-40(27) I-40(46)
+NC US74AltAsh I-240(3A) I-240(5B)
+
+# State Highways
+NC NC24 I-40(364) I-40(373)
+NC NC66 I-40 US421
+NC NC86TrkHil I-85(163) I-85(161)
+NC NC132 US421 I-40(420)
+
+
+# Oklahoma
+# Interstate Highways
+OK I-35 126 128
+
+# Numbered Highways
+OK US62 I-35(126) I-35(128)
+OK US62 I-40(221) I-40(240)
+OK US75 I-40(231) I-40(240)
+OK US270 I-40(115) I-40(181)
+OK US281 OK37 I-40
+
+# Auxiliary Numbered Highways
+OK US69BusChe US69_S I-40(265)
+
+# State Highways
+OK OK3 I-40(165) I-40(181)
+OK OK3E OK3_W I-40(186)
+OK OK8 OK37 I-40
+OK OK34 I-40(32) I-40(41)
+OK OK102 I-40(178) I-40(176)
+
+# Historic Highways
+OK US66HisElk I-40(25) I-40(32)
+OK US66HisElk I-40(41) I-40(53)
+OK US66HisWCl I-40(62) I-40(65)
+OK US66His I-40(69) I-40(80)
+
+
+# Tennessee
+# Interstate Highways
+TN I-24 50 52B
+TN I-65 82 84
+TN I-75 84 385(40)
+
+# Numbered Highways
+TN US25W I-40(394) I-40(393)
+TN US412 I-40(79) I-40(87)
+TN US641 OldTN69 I-40
+
+# Future Interstate Highways
+TN I-69FutMem 1E(40) 2A(40)
+
+# State Highways
+TN TN56 I-40(273) I-40(280)
+TN TN58 I-40(352) I-40(356)
+TN TN298 TN462 I-40
+TN TN299 I-40(338) I-40(340)
+
+
+# Texas
+# Numbered Highways
+TX US287 I-40(78) I-40(70)
+
+# State Highways
+TX TX70 I-40(124) I-40(121)
