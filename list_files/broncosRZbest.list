@@ -331,8 +331,7 @@ NY I-781 1 4
 
 NY US2 US11 NY/VT
 NY US4 NY149_W NY/VT
-NY US11 I-781 NY9B
-NY US11 NY276_E US2
+NY US11 I-781 USA/CAN
 NY US219 I-86(21) NY242_W
 
 
@@ -467,7 +466,17 @@ TN US441 ChiPicArea US411_N
 
 
 
+#TEXAS
+
+TX I-10 768B 770
+TX I-45 47A 51
+TX I-69 132 144
+TX I-610 9A 19 #Really 8D, but that exit is mislabeled on TM and when they update, I don’t want to overstate where I’ve driven.
+
+
+
 #VERMONT
+
 VT I-89 NH/VT USA/CAN
 VT I-189 I-89 US7
 VT US2 NY/VT VT2A_Wil
@@ -485,6 +494,7 @@ VT VT15 US2_W VT100_N
 VT VT17 NY/VT VT22A
 VT VT22A US4 US7
 VT VT30 HorRd US7_N
+VT VT78 US2 I-89
 VT VT100 LinGapRd VT15A
 VT VT104 VT15 VT104A
 VT VT104A US7 VT104
@@ -534,14 +544,23 @@ WI US53 84 WI/MN
 #QUEBEC
 
 QC A-10 1 22
+QC A-15 21 40
 QC A-20 75 78
+QC A-30 47 55
 QC A-35 5 55
+QC A-730 1 QC132
 
 #Provincial routes cover a wide variety of roads, like state routes, and don't seem to be part of a historical system the way US highways are. They have green shields, so I considered using green highlighting, but ended up going with pink to be consistent with my US pages and because there was so much traffic on them a pink/red color felt appropriate. Will not exhaustively track these the way I do US Interstates and US Highways. 
 
 QC QC112 RueStAnt A-20
+QC QC132 QC138_E A-730
 QC QC133 USA/CAN A-35(5)
-QC QC138Mon QC112 QC125 #technically didn't make it all the way to Blvd Pie-IX, turned off three blocks early to make parking for OnSite bouldering easier.
+QC QC136Mon 5 6
+QC QC138Mon QC132_E QC125 #technically didn't make it all the way to Blvd Pie-IX/QC 125, turned off three blocks early to make parking for OnSite bouldering easier.
+QC QC202 QC221_N QC223
+QC QC221 QC202_E A-15 #Includes a wrong-way concurrency with QC 219, see my pic from 11/22/26! 
+QC QC223 USA/CAN QC202
+
 
 #Have also driven a little bit of 335 (St Denis b/n Sherbrooke and Hôtel ITHQ) and 125 (Blvd Pie-IX b/n Sherbrooke and St Joseph) but not enough for a segment. 
 
