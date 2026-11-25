@@ -160,9 +160,7 @@ OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSou ExpoCen
 OR ALp 9thLov_N 9thLov_S
-OR BLp +DIV_Lov_S +SKIP_CenLib
-OR BLp GraHol +SKIP_11thMar
-OR BLp +DIV_Nor 11thMar_N
+OR BLp 11thMar_S 11thMar_N
 OR NSLn LowBond Joh_N
 OR WesExpSer BeaTraCen Wil
 
