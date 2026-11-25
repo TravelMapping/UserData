@@ -9,7 +9,7 @@ CA GreLn ConCen OldTownTC
 
 CO ALn UniSta DenAir
 CO DENTrn JepTer CGat
-CO DLn 10thOsa 18thCal
+CO HLn 10thOsa 18thCal
 CO ELn 10thOsa UniSta
 
 CT NewHavLn NY/CT NHUniSta
@@ -55,7 +55,7 @@ ME DE NH/ME Por
 
 MN HubTram Ter1 HubBui
 
-MO KCSC UniSta RivMar
+MO KCSC UMKC Riv
 MO MLBlueLn ForParkDeBal MO/IL
 MO MLRedLn LamAirTer1 MO/IL
 MO MR KanCityUni StLouGat
@@ -102,8 +102,7 @@ OR RedLn PioSq PorIntAir
 
 PA AE DE/PA PA/NJ
 PA CA DE/PA PA/NJ
-PA MarFraLn 15th 5th
-PA PITTrn LanTer AirTer
+PA L1 15th 5th
 
 TX IAHSky TerA TerDE
 TX Sky A8 A21
@@ -114,8 +113,9 @@ VA OraLn EFallsChu VA/DC
 VA SilLn DulIntAir VA/DC
 VA YelLn RRWasNatAir VA/DC
 
-WA GreLn DGat-Sta DGat_Fin
 WA 1 Wes SeaTacAir
+WA GreLn DGat_Sta DGat_Fin
+WA SeaCenMon SeaCen WesCen
 
 BC CanLn Wat BroCityHall
 BC ExpoLn Wat MainStSciWor
@@ -145,6 +145,9 @@ BEL LonAms FRA/BEL BruMidi
 BRA-RJ TremCor CosVel CriRed
 BRA-RJ 1Met SiqCam Cin
 
+CHE R61BOB IntOst Gri
+CHE R62BOB IntOst Lau
+
 CHL 1 UniChi Tob
 CHL 3 PlaArm UniChi
 
@@ -164,13 +167,21 @@ DEU-BY U1 OlyEinZen SenTor
 DEU-BY U2 SenTor SchPla
 DEU-BY U3 SenTor OlyEinZen
 DEU-BY U4 TheWie OdePla
+DEU-HE RB10 +DIV_WieE HE/RP
 DEU-HE S3 LokBf FraFurtHbf
+DEU-HE S9 +DIV_WieOstN FraFurtHbf
 DEU-HE U1 FraFurtSud WilBraPla
 DEU-HE U4 Hbf KonWac
+DEU-HE ICE91 RP/HE FraFluFer
+DEU-HE RE2 FraFurtHbf FraFurtFlugRegBf
 DEU-HH S1 ReeBahn JunSti
 DEU-MV S1 War RosHbf
 DEU-MV 5Ros Hbf LanStr
-DEU-NW 16Rhe BonnHbf BadGodBergBf
+DEU-NW ICE91 BonnHbf NE/RP
+DEU-NW RB27 BonnBeu NW/RP
+DEU-RP ICE91 NW/RP RP/HE
+DEU-RP RB10 HE/RP +DIVRB27S
+DEU-RP RB27 NW/RP +DIVRB10
 
 DNK H OST KobHov
 DNK M2 Nor Luf
@@ -178,6 +189,7 @@ DNK M2 Nor Luf
 ENG BakLn WarAve Wat
 ENG CenLn NotHillGate Lou
 ENG ChaML LonVic DovPri
+ENG ChaTnl FolEurTer GBR/FRA
 ENG CirLn EdgRd_1 EdgRd_2
 ENG DisLnEal EalCom MileEnd
 ENG DisLnEdg FulBdwy EarCou
@@ -188,14 +200,15 @@ ENG HaCLn EdgRd LivSt
 ENG HaCLn Whi MileEnd
 ENG HamCouLn LonWat HamCou
 ENG HEx LonPad HeaTer23
+ENG HS1Dov +DIV_SEMLN +DIV_DM
 ENG JubLn GrePark Str
-ENG LonAms AshInt GBR/FRA
+ENG LonPar +DIV_AshN GBR/FRA
 ENG MetLnUxb Uxb Ald
 ENG MMLShe LonStPanInt Der
 ENG NKentLn LonBri AbbWoo
 ENG NorLn Bank Ang
 ENG NorLnBat Wat CamTown
-END OxfLn LonPad Oxf
+ENG OxfLn LonPad Oxf
 ENG PicLnHT4 HeaTer23 Coc
 ENG PicLnUxb Uxb Coc
 ENG SEML LonChaCro AshInt
@@ -211,6 +224,7 @@ ESP-MD M1 EstArte Sol
 ESP-MD M8 FerMad AerT123
 
 FRA-GES StrNice Str MulVil
+FRA-HDF ChaTnl GBR/FRA CalEurTnl
 FRA-HDF K16 BouVil HDF/IDF
 FRA-HDF LonAms GBR/FRA FRA/BEL
 FRA-HDF LonPar GBR/FRA HDF/IDF
@@ -236,6 +250,8 @@ HKG PT Peak CenTer
 HKG TWLn Cen TsimShaTsui
 
 HUN M1 DeakFerTer HosTere
+
+IMN SMR Lax Sum
 
 IRL CorkCom Cobh CorkKent
 
