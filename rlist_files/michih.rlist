@@ -846,14 +846,14 @@ DEU-NW SkyTrn FernBf TerC             #2025
 DEU-NW U11 BueStr MesWestSudGru      #2022, GE-Buerer Straße - Essen Messe-West/Süd
 DEU-NW U17 KarPla MarHohe            #2022, Essen Karlsplatz - Essen Margarethenhöhe
 DEU-NW U18 MulHeimHbf BerPla         #2022, Mülheim Hbf - Essen Berliner Platz
-DEU-NW 101Ess EssHbf HelStr_2        #2025
+DEU-NW 106Ess EssHbf HelStr          #2025, actually traveled as 101 back then
 DEU-NW 103Ess WertStr +DIV_Var       #2024
-DEU-NW 103Ess RatHausEss Ste         #2025
-DEU-NW 105Ess UntStr EssHbf          #2024
-DEU-NW 105Ess EssHbf FinStr          #2025
+DEU-NW 105Ess RatHausEss Ste         #2025, actually traveled as 103 back then
+DEU-NW 105Ess UntStr +DIV_Var        #2024, actually traveled up to EssHbf
+DEU-NW 101Ess +DIV_Var FinStr        #2025, actually traveled as 105 back then
 DEU-NW 107Ess HeiKonPla RatHausEss   #2024
 DEU-NW 107Ess EssHbf Bre             #2025
-DEU-NW 108Ess AltEssBf RatHausEss    #2024
+DEU-NW 106Ess AltEssBf RatHausEss    #2024, actually traveled as 108 back then
 DEU-NW 109Ess FroHauBreOrt +DIV_Ber  #2025, actually traveled from Kronenberg since 109 was rerouted
 
 #Krefeld
