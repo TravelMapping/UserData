@@ -84,11 +84,15 @@ MN I-35E 88A 127
 MN I-35 127 132
 # Business
 MN I-35BLFar I-35_S I-35_N
-
 # Kansas I-X35
 KS I-435 MO/KS 83
 # Missouri I-X35
 MO I-435 71 MO/KS
+
+#. I-39
+IL I-39 17(90) IL/WI
+WI I-39 IL/WI 142(90)
+WI I-39 132(90) 84
 
 #. I-40
 AR I-40 7 154
@@ -172,7 +176,7 @@ TX I-369 TXLp151 I-30
 
 #. I-70
 MO I-70 2B 2L
-PA I-70 US30_E PA/MD
+PA I-70 75(76) PA/MD
 MD I-70 PA/MD 94
 # Missouri I-X70
 MO I-470 I-435 1A
@@ -194,11 +198,17 @@ GA I-75 238 277
 GA I-75 320 GA/TN
 TN I-75 GA/TN 385(40)
 KY I-75 29 118
+OH I-75 195B 204
+# Ohio I-X75
+OH I-475 6 20
 
 #. I-76
+OH I-76 218 OH/PA
+PA I-76 OH/PA 161
 PA I-76 351 PA/NJ
 NJ I-76 PA/NJ 1A
 # Pennsylvania I-X76
+PA I-376 53 85
 PA I-476 I-95 131B
 
 #. I-77
@@ -219,6 +229,10 @@ NY I-78 NJ/NY HudSt
 
 #. I-79
 WV I-79 I-77 148
+
+#. I-80
+OH I-80 IN/OH 59
+OH I-80 64 218
 
 #. I-81
 TN I-81 1 TN/VA
@@ -288,6 +302,12 @@ NC I-87FutRoc 13 464(64)
 NY I-88 I-81 2
 
 #. I-90
+WI I-90 45 132
+WI I-90 142 WI/IL
+IL I-90 WI/IL IL/IN
+IN I-90 IL/IN IN/OH
+OH I-90 IN/OH 59
+OH I-90 64 142
 MA I-90 78 MA1A
 
 #. I-91
@@ -301,7 +321,9 @@ MA I-93 17A 28
 #. I-94
 MN I-94 229 233B
 MN I-94 241C MN/WI
-WI I-94 MN/WI 1
+WI I-94 MN/WI 59
+WI I-94 70 132(90)
+IL I-94 43B 59A
 # Minnesota I-X94
 MN I-394 5A WasAve
 MN I-494 58A 11C
@@ -448,6 +470,7 @@ VA US11TrkSta US11_S US250
 #. US 12
 MN US12 I-94(249) MN/WI
 WI US12 MN/WI 1(94)
+WI US12 263 266
 
 #. US 13
 VA US13 I-64(282) VA/MD
@@ -485,6 +508,9 @@ VA US17 I-95(126) I-95(133)
 VA US17 US15/29_S US15/29_N
 VA US17 I-66(28) I-66(23)
 
+#. US 18
+WI US18 263(12) 267(12)
+
 #. US 19
 GA US19 US280_W US280_E
 GA US19 I-285(25) GA400(13)
@@ -518,6 +544,8 @@ GA US23 US441BusCla_N GA/NC
 NC US23 GA/NC US74(106)
 NC US23 I-240(3A) NC/TN
 KY US23 KY80/302 I-64
+OH US23 232 OH/MI
+MI US23 OH/MI 5
 
 #. US 25
 SC US25 SC20 SC/NC
@@ -617,6 +645,7 @@ MD US50BusSal US50_W US50_E
 
 #. US 51
 LA US51 I-55(23) I-55(28)
+WI US51 US151 132(90)
 # Business
 LA US51BusHam US51_S US51_N
 
@@ -625,6 +654,11 @@ SC US52 I-95(164) US76
 NC US52 120 I-85(76)
 WV US52Ken OH/WV I-64(1)
 OH US52 OH7 OH/WV
+
+#. US 53
+WI US53 84 86A
+# Business
+WI US53BusEau US53_S WI312
 
 #. US 56
 KS US56 I-35(220) I-35(222)
@@ -791,6 +825,9 @@ TN US129 KinPk I-40
 
 #. US 130
 NJ US130 I-295(1) NJ140
+
+#. US 151
+WI US151 WasAve_E US51
 
 #. US 158
 NC US158 US421(234A) US421(232C)
@@ -1446,6 +1483,7 @@ MN MN13 CR101 I-35W
 MN MN21 MN60 I-35
 MN MN36 I-694 MN/WI
 MN MN62 US212_W MN100
+MN MN62 I-35W_N MN77
 MN MN68 CR120 US169/60
 MN MN77 138thSt MN62
 MN MN95 I-94(258) I-94(253)
@@ -1672,6 +1710,7 @@ WV WV527 US60 WV/OH
 # Wisconsin State Routes
 WI WI35 I-94(1) WI64/CRE
 WI WI64 MN/WI WI35/CRE
+WI WI312 I-94 US53Bus
 
 # # # # # # # # # # # # # # # #
 
@@ -1707,10 +1746,5 @@ PA LinHwy US15 MouRd
 
 #### Changelog ####
 
-# 8/30/2026
-# Includes various changes in TX, AL, GA, MD, and CT
-# TX: TM added I-49 waypoint segment in TX (traveled in 2020)
-# AL: added AL 161 and 308 as these were recent additions to the Alabama state highway system (traveled in February 2022)
-# GA: GA 382 was adjusted to a new terminus; GA 5/515 adjusted in tandem (traveled in September 2025)
-# MD: added final segment of MD 43 as have driven multiple times recently
-# CT: added section of CT 2 from I-91 into downtown Hartford; also changed numbers of CT 2 from sequential to mileage exiting (traveled in October 2023)
+# 11/25/2026
+# added new routes traveled in MN, WI, IL, IN, OH, MI, and PA
