@@ -6,6 +6,7 @@ AK WPY Ska USA/CAN
 DE NENor MD/DE DE/PA
 
 # District of Columbia
+DC Nenor DC/MD WasUniSta
 DC PennLn DC/MD WasUniSta
 DC BluLn StaArm VA/DC
 DC GreLn DC/MD NavyYardBal
@@ -17,7 +18,7 @@ DC YelLn VA/DC MtVerSq
 GA GoldLn Air PeaCen
 
 # Maryland
-MD NENor NewCar MD/DE
+MD NENor DC/MD MD/DE
 MD CamLn ColPk BalCam
 MD PennLn BalPenn DC/MD
 MD GreLn Gre DC/MD
@@ -39,9 +40,9 @@ NY G HoytSchSts CouSq
 PA NENor DE/PA PA/NJ
 
 # Virginia
-VA BluLn VA/DC PenCity
+VA BluLn VA/DC FraSpr
 VA SilLn VA/DC TysCor
-VA YelLn VA/DC KingStOldTown
+VA YelLn VA/DC Hun
 
 
 
