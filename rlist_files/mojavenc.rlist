@@ -152,3 +152,9 @@ NLD 4Ams CenSta Fre
 NLD 14Ams CenSta Pon
 
 ON 1 Que Uni
+
+# 2026-11-15 Train Trip on Nov 15, 2026
+JPN WestKyushuShin TakeoOn ShinOmura
+JPN OmuraLn Matsubara Omura
+JPN WestKyushuShin ShinOmura Isahaya
+JPN WestKyushuShin Isahaya Nagasaki
