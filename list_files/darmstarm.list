@@ -1,4 +1,4 @@
-#everywhere that darmstarm has been up to 11-19-26
+#everywhere that darmstarm has been up to 11-26-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
 #USA
@@ -80,6 +80,7 @@ DE DE896 US13 DE71_S #henlopen -> home 7-5-26
 DE DE896BusGla DE896_N US40 #glasgow movie theater
 #pennsylvania
 PA PorColBri PA611 PA/NJ #oxford -> AT 10-26
+PA BetRossBri I-95 PA/NJ
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
 PA I-76 342 347 #dell concert 7-26
@@ -146,6 +147,7 @@ PA PA12 PA73 SprValRd #centralia trip 8-26 (centralia -> reading)
 PA PA14 US15 LibSt #canada trip 6-26 (br stop)
 PA PA23 PA100 PA345 #poughkeepsie -> home 7-19-26
 PA PA23 PA625 PA897_S #road trip 8-1-26
+PA PA24 PA216 PA851_E
 PA PA26 UniDr US322
 PA PA29Pho PhoPike BriSt_W #senior prom, 2022
 PA PA29Pho I-78 PA100_S #poughkeepsie -> home 7-19-26
@@ -173,12 +175,15 @@ PA PA100 PA113 I-76 #oxford -> AT 10-26
 PA PA113 US30 DevDr #downingtown east
 PA PA113 US30 PA100 #oxford -> AT 10-26
 PA PA115 I-476 I-81/309 #ricketts glen trip 2018
+PA PA116 PA194_S PA216
 PA PA118 OldPA115 PA487_N #ricketts glen trip 2018
 PA PA147 US22/322 US15_N #canada trip 6-26
 PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA183 US222 PA895 #hawk mountain trip (to campsite)
+PA PA194 MD/PA PA116_W
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
+PA PA216 PA116 PA24
 PA PA248 PA33 US22 #poughkeepsie -> home 7-19-26
 PA PA248 PA512 PA329/987 #AT -> oxford 10-26
 PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
@@ -227,6 +232,7 @@ PA PA841 MD/PA PA82
 PA PA841AltTrkWes PA841_N PA841_S
 PA PA842 US322Bus PA841 #common, extended to west chester 5/26, clinched 7-3-26
 PA PA851 PA425 ConRd #lock 12 trip 7-26
+PA PA851 PA24_N PA74
 PA PA895 PA183 HawkMouRd #hawk mountain trip
 PA PA896 MD/PA US30
 PA PA896 US30 PA340 #road trip 10-2-26
@@ -268,6 +274,7 @@ MD US13BusSal US13_S US13_N
 MD US13 US50_W MD/DE
 MD US15 10 US340_W #harper's ferry trip
 MD US15 MD/PA 12 #hershey -> raleigh
+MD US15 VA/MD 17
 MD US29 25 I-495 #baltimore -> raleigh 9-25
 MD US29 DC/MD I-495 #11-26
 MD US40 MD/DE MD7/155
@@ -295,6 +302,7 @@ MD MD22 US1Bus MD136 #guatemala trip 6-26 (baltimore -> home)
 MD MD22 MD136 I-95 #home -> harford 9-26
 MD MD23 US1 SchRd #en route to grandparents
 MD MD24 MD136 MD165 #lock 12 trip 7-26
+MD MD26 US15 MD194
 MD MD41 I-695 JopRd #micro center
 MD MD43 I-695 US40
 MD MD45 MD145 TimRd #to christmas tree farm
@@ -303,6 +311,7 @@ MD MD51 I-68 WV/MD #charleston -> home 11-26
 MD MD90 MD528 MD589 #rehoboth -> home 10-26 
 MD MD136 MD22 MD440 #guatemala trip 6-26 (baltimore -> home)
 MD MD136 MD624 MD24 #lock 12 trip 7-26
+MD MD136 MD165 MD440
 MD MD140 I-795 US15 #cunningham falls trip
 MD MD145 MD45 MD165 #baltimore -> home 8-26
 MD MD146 MD45 SchRd #towson to grandparents
@@ -323,6 +332,7 @@ MD MD189 I-270 MD190 #guatemala trip 6-26 (baltimore -> dulles)
 MD MD190 MD188 I-495 #hershey trip 2025
 MD MD190 MD189 I-495
 MD MD193 BalWasPkwy_W GoodLuckRd #greenbelt park + weird way to raleigh 2025
+MD MD194 MD26 MD/PA
 MD MD200 19 3 #getting around various accidents on 495
 MD MD201 MD295 DC/MD #end of baltwash to dc
 MD MD213 MD/PA MD290/313 #two points combined 6-29-26
@@ -690,6 +700,7 @@ NJ US9 CR530_E NJ166 #oceangate
 NJ US30 US130/38 PA/NJ #grandparents -> temple
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
+NJ US130 US30/38 I-76
 NJ US202 PA/NJ I-287(17) #home -> poughkeepsie 7-19-26
 NJ US206 NJ70 CR537 #medford -> wall 5/26
 NJ US206 CR521_S UppNSRd #oxford -> AT 10-26
@@ -713,6 +724,8 @@ NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 KreRd #grandparents
+NJ NJ73 NJ90 NJ70
+NJ NJ90 PA/NJ NJ73
 NJ NJ94 PA/NJ CR521_N #oxford -> AT 10-26
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
@@ -748,6 +761,7 @@ VA US11 VA8 VA111_N #spring break road trip 2026 (shawnee -> blacksburg)
 VA US11 VA37_N I-81(317) #charleston -> dc 11-26
 VA US13 I-64(282) VA/MD 
 VA US15 NC/VA VA20
+VA US15 US50 VA/MD
 VA US15BusFar US15_S US460Bus_E #panorama farms
 VA US15BusKey VA40_W US15_N #raleigh -> home 11-26
 VA US29 VA86 VA6_W #raleigh -> hershey
@@ -755,7 +769,7 @@ VA US29 US33 I-64 #shanendoah trip 10-25
 VA US29BusChr US250Bus US29_N #uva track meet 4-26
 VA US33 VA280 US29 #shanendoah trip 10-25
 VA US48 I-81 WV/VA #dc -> charleston 11-26
-VA US50 I-66(57) VA286
+VA US50 I-66(57) US15
 VA US52 VA/NC I-81(80) #spring break road trip 2026 (raleigh -> breaks)
 VA US58 I-95 I-664
 VA US58 VA16_N VA362 #BRR 9-25, up to SR797 (county route)
