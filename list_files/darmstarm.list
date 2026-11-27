@@ -1,4 +1,4 @@
-#everywhere that darmstarm has been up to 11-25-26
+#everywhere that darmstarm has been up to 11-26-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
 #USA
@@ -80,6 +80,7 @@ DE DE896 US13 DE71_S #henlopen -> home 7-5-26
 DE DE896BusGla DE896_N US40 #glasgow movie theater
 #pennsylvania
 PA PorColBri PA611 PA/NJ #oxford -> AT 10-26
+PA BetRossBri I-95 PA/NJ
 PA I-76 226 247 #niagara trip
 PA I-76 341 328 #briarwood invitational
 PA I-76 342 347 #dell concert 7-26
@@ -699,6 +700,7 @@ NJ US9 CR530_E NJ166 #oceangate
 NJ US30 US130/38 PA/NJ #grandparents -> temple
 NJ US40 DE/NJ NJ55
 NJ US130 US322 I-295(23) #relatives trip
+NJ US130 US30/38 I-76
 NJ US202 PA/NJ I-287(17) #home -> poughkeepsie 7-19-26
 NJ US206 NJ70 CR537 #medford -> wall 5/26
 NJ US206 CR521_S UppNSRd #oxford -> AT 10-26
@@ -722,6 +724,8 @@ NJ NJ55 50 NJ47
 NJ NJ68 CR537 CR543 #medford -> wall 5/26 (wrong way whoops)
 NJ NJ70 NJ41/154 CR539 #grandparents + aunt's house in ocean gate
 NJ NJ73 I-295 KreRd #grandparents
+NJ NJ73 NJ90 NJ70
+NJ NJ90 PA/NJ NJ73
 NJ NJ94 PA/NJ CR521_N #oxford -> AT 10-26
 NJ NJ133 NJ33 I-95 #wall -> home 5/26
 NJ NJ138 I-195 NJ18 #infoage
