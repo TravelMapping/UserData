@@ -192,7 +192,7 @@ CA I-580 1A 19C
 CA I-680 43 46A
 CA I-880 3 4A
 CA I-880 5 42A
-CA I-980 1A 2B
+CA I-980 I-880 2B
 NV I-80 CA/NV 19
 NV I-80BLVer I-80_W I-80_E
 # I-580 traversed when it was a future interstate / US580
